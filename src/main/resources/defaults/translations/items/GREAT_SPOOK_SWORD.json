@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "GREAT_SPOOK_SWORD",
+  "_original_name": "Great Spook Sword",
+  "_original_lore": [
+    "Damage: +6",
+    "Strength: +6",
+    "",
+    "Gains +1 Damage and +1 Strength",
+    "for every Fear you have.",
+    "",
+    "Obtained during the Alchemist",
+    "experiments!",
+    "",
+    "This item can be reforged!",
+    "LEGENDARY SWORD"
+  ],
+  "name": "大万圣节剑",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Gains {{N0}} Damage and {{N1}} Strength",
+        "for every Fear you have."
+      ],
+      "translation": "每拥有一点恐惧, 获得 {{N0}} 伤害和 {{N1}} 力量.",
+      "styleMappings": {
+        " Strength": " 力量",
+        " Damage": " 伤害",
+        "Gains": "获得",
+        "Fear": "恐惧",
+        "Strength": "力量",
+        "for": "获得",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Obtained during the Alchemist",
+        "experiments!"
+      ],
+      "translation": "在 Alchemist 实验期间获得!",
+      "styleMappings": {
+        "Alchemist": "Alchemist"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY SWORD"
+      ],
+      "translation": "传说剑",
+      "styleMappings": {
+        "LEGENDARY": "传说",
+        "LEGENDARY SWORD": "传说剑"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sword": "剑",
+    "Great Spook": "大万圣节"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

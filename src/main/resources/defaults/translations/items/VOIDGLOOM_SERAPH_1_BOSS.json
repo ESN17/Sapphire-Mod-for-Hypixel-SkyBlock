@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "id": "VOIDGLOOM_SERAPH_1_BOSS",
+  "_original_name": "Voidgloom Seraph I (Boss)",
+  "_original_lore": [
+    "Beginner",
+    "",
+    "Health: 300,000❤",
+    "Damage: 800 per second",
+    "",
+    "Malevolent Hitshield",
+    "At 100%/66%/33% HP",
+    "Immunity shield dropped by hits",
+    "regardless of damage.",
+    "Receives -75%  Ferocity while NOT",
+    "active."
+  ],
+  "name": "虚空幽暗炽天使 I (首领)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Beginner"
+      ],
+      "translation": "新手",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Health: {{N0}}❤"
+      ],
+      "translation": "生命值: {{N0}}❤",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Damage: {{N0}} per second"
+      ],
+      "translation": "伤害: 每秒 {{N0}}",
+      "styleMappings": {
+        "per second": "每秒",
+        "Damage": "伤害",
+        "second": "秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Malevolent Hitshield",
+        "At {{N0}}/{{N1}}/{{N2}} HP",
+        "Immunity shield dropped by hits",
+        "regardless of damage."
+      ],
+      "translation": "恶意打击护盾 在 {{N0}}/{{N1}}/{{N2}} 生命值时 免疫护盾因受击而减少,无视伤害.",
+      "styleMappings": {
+        "Immunity shield dropped by hits": "免疫护盾因受击而减少",
+        "Malevolent Hitshield": "恶意打击护盾",
+        "regardless of damage": "无视伤害",
+        "damage": "伤害",
+        "HP": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Receives {{N0}}  Ferocity while NOT",
+        "active."
+      ],
+      "translation": "未激活时获得 {{N0}}   残暴值.",
+      "styleMappings": {
+        "Ferocity": "残暴值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Voidgloom Seraph": "虚空幽暗炽天使",
+    "Boss": "首领",
+    "I": "I"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

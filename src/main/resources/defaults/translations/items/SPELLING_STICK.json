@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "id": "SPELLING_STICK",
+  "_original_name": "Spelling Stick",
+  "_original_lore": [
+    "Damage: +1",
+    "",
+    "Ability: Typo ",
+    "Mobs hit by this stick will gain +1 Typo.",
+    "Cooldown: 5s",
+    "",
+    "This item can be reforged!",
+    "LEGENDARY SWORD"
+  ],
+  "name": "拼写棒",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Ability: Typo "
+      ],
+      "translation": "能力:错别字 ",
+      "styleMappings": {
+        "Ability": "能力",
+        "Typo": "错别字"
+      }
+    },
+    {
+      "source": [
+        "Mobs hit by this stick will gain {{N0}} Typo."
+      ],
+      "translation": "被这根木棍击中的怪物将获得 {{N0}} 错别字.",
+      "styleMappings": {
+        "Typo": "错别字",
+        "hit": "击中",
+        "Mobs": "怪物",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY SWORD"
+      ],
+      "translation": "传说剑",
+      "styleMappings": {
+        "LEGENDARY": "传说",
+        "LEGENDARY SWORD": "传说剑"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

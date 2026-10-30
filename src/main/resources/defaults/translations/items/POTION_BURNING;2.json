@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_BURNING;2",
+  "_original_name": "Burning II Potion",
+  "_original_lore": [
+    "",
+    "Burning II (3:00)",
+    "Increases the duration of fire",
+    "damage that you inflict on enemies by",
+    "10%.",
+    "",
+    "COMMON"
+  ],
+  "name": "燃烧 II 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Burning II ({{N0}}:{{N1}})"
+      ],
+      "translation": "燃烧 II ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Burning II": "燃烧 II",
+        "II": "II"
+      }
+    },
+    {
+      "source": [
+        "Increases the duration of fire",
+        "damage that you inflict on enemies by",
+        "{{N0}}."
+      ],
+      "translation": "使你施加于敌人的火焰伤害持续时间延长 {{N0}}.",
+      "styleMappings": {
+        "damage": "伤害",
+        "fire": "火",
+        "enemies": "敌人"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Burning II": "燃烧 II",
+    "II": "II"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

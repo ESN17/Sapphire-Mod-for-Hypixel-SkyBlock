@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "EMPTY_ODONATA_BOTTLE",
+  "_original_name": "Empty Odonata Bottle",
+  "_original_lore": [
+    "Hold this and look at an Odonata for",
+    "3s while very close to bottle it.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "空蜻蜓瓶",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Hold this and look at an Odonata for",
+        "{{N0}}s while very close to bottle it."
+      ],
+      "translation": "手持此物并看向一只奥多纳塔 {{N0}} 秒,同时非常靠近它即可将其装入瓶中.",
+      "styleMappings": {
+        "Odonata": "奥多纳塔",
+        "s": "一",
+        "{{N0}}s": "{{N0}} 秒"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Odonata": "蜻蜓"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

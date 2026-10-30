@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "id": "FAKE_NEUROSCIENCE_DEGREE",
+  "_original_name": "Fake Neuroscience Degree",
+  "_original_lore": [
+    "Use at (the real) Kat to upgrade a",
+    "Spider or Tarantula pet to Mythic",
+    "rarity.",
+    "",
+    "With this fake diploma you can",
+    "somehow talk spiders into uh...",
+    "upgrading their rarity.",
+    "",
+    "* Soulbound *",
+    "X Rift-Transferable X",
+    "RARE"
+  ],
+  "name": "假神经科学学位",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Use at (the real) Kat to upgrade a",
+        "Spider or Tarantula pet to Mythic",
+        "rarity."
+      ],
+      "translation": "在 (真正的) Kat 处使用,可将蜘蛛或狼蛛宠物升级至神话稀有度.",
+      "styleMappings": {
+        "Kat": "Kat",
+        "Spider": "蜘蛛",
+        "Tarantula": "狼蛛",
+        "Mythic": "神话",
+        "rarity": "稀有度",
+        "upgrade": "升级",
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "With this fake diploma you can",
+        "somehow talk spiders into uh..."
+      ],
+      "translation": "拿着这张假文凭,你居然能说服蜘蛛呃...",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "upgrading their rarity."
+      ],
+      "translation": "提升它们的稀有度.",
+      "styleMappings": {
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "X Rift-Transferable X"
+      ],
+      "translation": "X 可跨裂隙转移 X",
+      "styleMappings": {
+        "Rift-Transferable": "可跨裂隙转移",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

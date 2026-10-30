@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "id": "KUUDRA_RELIC",
+  "_original_name": "Kuudra Relic",
+  "_original_lore": [
+    "Quest Item",
+    "",
+    "* Soulbound *",
+    "SPECIAL"
+  ],
+  "name": "库德拉 圣物",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Quest Item"
+      ],
+      "translation": "任务物品",
+      "styleMappings": {
+        "Item": "物品"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Relic": "圣物",
+    "Kuudra": "库德拉"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "id": "KARMA;2",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Karma II",
+    "Grants a 2% chance for Tree Gifts",
+    "to contain double loot.",
+    "",
+    "Sources:",
+    " - Tree Gifts (I)",
+    " - Bazaar (I-V)",
+    " - Forest's Favor (VI)",
+    "",
+    "Applied To:",
+    " - Axe",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Karma II"
+      ],
+      "translation": "善缘 II",
+      "styleMappings": {
+        "Karma": "善缘",
+        "II": "II"
+      }
+    },
+    {
+      "source": [
+        "Grants a {{N0}} chance for Tree Gifts",
+        "to contain double loot."
+      ],
+      "translation": "使树礼有 {{N0}} 概率包含双倍战利品.",
+      "styleMappings": {
+        "Tree Gifts": "树礼",
+        "double": "双倍",
+        "chance": "概率",
+        "Tree": "树"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Tree Gifts (I)",
+        " - Bazaar (I-V)",
+        " - Forest's Favor (VI)"
+      ],
+      "translation": " - 树礼 (I)  - 集市 (I-V)  - 森林恩惠 (VI)",
+      "styleMappings": {
+        "Forest's Favor": "森林恩惠",
+        "Tree Gifts": "树礼",
+        "Bazaar": "集市",
+        "I-V": "I-V",
+        "Forest": "森林",
+        "Tree": "树"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Axe"
+      ],
+      "translation": " - 斧",
+      "styleMappings": {
+        "Axe": "斧"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

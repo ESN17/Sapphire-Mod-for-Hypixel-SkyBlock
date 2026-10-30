@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "DYE_BINGO_BLUE",
+  "_original_name": "Bingo Blue Dye",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Changes the color of an armor piece",
+    "to #002FA7!",
+    "",
+    "LEGENDARY DYE"
+  ],
+  "name": "宾果蓝色染料",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Changes the color of an armor piece",
+        "to #{{N0}}FA{{N1}}!"
+      ],
+      "translation": "将一件盔甲的颜色改为 #{{N0}}FA{{N1}}!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "LEGENDARY DYE"
+      ],
+      "translation": "传说染料",
+      "styleMappings": {
+        "LEGENDARY DYE": "传说染料",
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Blue": "蓝色",
+    "Bingo": "宾果"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

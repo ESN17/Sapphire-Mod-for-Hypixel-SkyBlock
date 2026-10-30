@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_MUSHED_GLOWY_TONIC;1",
+  "_original_name": "Mushed Glowy Tonic I Potion",
+  "_original_lore": [
+    "",
+    "Mushed Glowy Tonic I (1:00:00)",
+    "Grants +30 Fishing Speed.",
+    "",
+    "COMMON"
+  ],
+  "name": "糊状发光补剂 I 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mushed Glowy Tonic I ({{N0}}:{{N1}}:{{N2}})"
+      ],
+      "translation": "糊状发光补剂 I ({{N0}}:{{N1}}:{{N2}})",
+      "styleMappings": {
+        "Mushed Glowy Tonic I": "糊状发光补剂 I",
+        "Mushed Glowy Tonic": "糊状发光补剂"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Fishing Speed."
+      ],
+      "translation": "提供 {{N0}} 钓鱼速度.",
+      "styleMappings": {
+        "Fishing Speed": "钓鱼速度",
+        "Grants": "提供",
+        "Fishing": "钓鱼",
+        "Speed": "速度",
+        " Fishing Speed": " 钓鱼速度"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mushed Glowy Tonic I": "糊状发光补剂 I",
+    "Mushed Glowy Tonic": "糊状发光补剂"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "id": "RESPIRATION_RING",
+  "_original_name": "Respiration Ring",
+  "_original_lore": [
+    "Respiration: +10",
+    "Accessory Power: +5",
+    "",
+    "You hold your breath as you enter",
+    "the Rift, allowing you to delay loss of",
+    "Rift Time by 20 seconds.",
+    "",
+    "X Rift-Transferable X",
+    "Works while in Accessory Bag!",
+    "UNCOMMON ACCESSORY"
+  ],
+  "name": "水下呼吸戒指",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Respiration: {{N0}}"
+      ],
+      "translation": "水下呼吸: {{N0}}",
+      "styleMappings": {
+        "Respiration": "水下呼吸"
+      }
+    },
+    {
+      "source": [
+        "Accessory Power: {{N0}}"
+      ],
+      "translation": "饰品能量: {{N0}}",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "You hold your breath as you enter",
+        "the Rift, allowing you to delay loss of",
+        "Rift Time by {{N0}} seconds."
+      ],
+      "translation": "进入裂隙时屏住呼吸,使裂隙时间的流失延迟 {{N0}} 秒.",
+      "styleMappings": {
+        "Rift Time": "裂隙时间",
+        "the Rift": "裂隙",
+        "seconds": "秒",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "X Rift-Transferable X",
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "X 可裂隙转移 X 在饰品袋中时生效!",
+      "styleMappings": {
+        "Works while in Accessory Bag!": "在饰品袋中时生效!",
+        "Rift-Transferable": "可裂隙转移",
+        "Accessory Bag": "饰品袋",
+        "Rift": "裂隙",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON ACCESSORY"
+      ],
+      "translation": "罕见 饰品",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Respiration": "水下呼吸",
+    "Ring": "戒指"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

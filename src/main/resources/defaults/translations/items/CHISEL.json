@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "CHISEL",
+  "_original_name": "Chisel",
+  "_original_lore": [
+    "Can be placed in the Fossil",
+    "Excavator alongside a Suspicious",
+    "Scrap to begin the excavation",
+    "process!",
+    "",
+    "Charges: 16",
+    "",
+    "COMMON CHISEL"
+  ],
+  "name": "凿子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Can be placed in the Fossil",
+        "Excavator alongside a Suspicious",
+        "Scrap to begin the excavation",
+        "process!"
+      ],
+      "translation": "可与可疑的碎片一起放入化石挖掘机,开始挖掘过程!",
+      "styleMappings": {
+        "Fossil Excavator": "化石挖掘机",
+        "Suspicious Scrap": "可疑的碎片",
+        "in the": "的",
+        "Suspicious": "可疑"
+      }
+    },
+    {
+      "source": [
+        "Charges: {{N0}}"
+      ],
+      "translation": "充能: {{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "COMMON CHISEL"
+      ],
+      "translation": "普通凿子",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Chisel": "凿子"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

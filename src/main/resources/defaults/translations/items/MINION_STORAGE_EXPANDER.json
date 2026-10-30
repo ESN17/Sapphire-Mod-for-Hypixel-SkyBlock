@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "MINION_STORAGE_EXPANDER",
+  "_original_name": "Minion Storage X-pender",
+  "_original_lore": [
+    "Craft with minion Large Storage",
+    "chests to upgrade their size to 21",
+    "and 27 slots.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "SPECIAL"
+  ],
+  "name": "仆从存储扩展器",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Craft with minion Large Storage",
+        "chests to upgrade their size to {{N0}}",
+        "and {{N1}} slots."
+      ],
+      "translation": "与仆从大型储存箱一起合成,可将其容量升级至 {{N0}} 和 {{N1}} 个槽位.",
+      "styleMappings": {
+        "Large Storage": "大型储存",
+        "minion": "仆从",
+        "upgrade": "升级"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Minion": "仆从"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

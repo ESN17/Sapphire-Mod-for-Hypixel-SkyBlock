@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "id": "RIFTSTALKER_BLOODFIEND_5_BOSS",
+  "_original_name": "Riftstalker Bloodfiend V (Boss)",
+  "_original_lore": [
+    "Excruciating",
+    "",
+    "Health: 3,000❤",
+    "Damage: 1.5 per second",
+    "",
+    "Has 8 abilities over 7",
+    "phases!",
+    "",
+    "WARNING: We are not",
+    "responsible for any damage to",
+    "your monitor or computer",
+    "peripherals."
+  ],
+  "name": "裂隙潜行者 血魔 V (首领)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Excruciating"
+      ],
+      "translation": "极度痛苦",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Health: {{N0}}❤"
+      ],
+      "translation": "生命值: {{N0}}❤",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Damage: {{N0}} per second"
+      ],
+      "translation": "伤害: 每秒 {{N0}}",
+      "styleMappings": {
+        "per second": "每秒",
+        "Damage": "伤害",
+        "second": "秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Has {{N0}} abilities over {{N1}}",
+        "phases!"
+      ],
+      "translation": "在 {{N1}} 个阶段中拥有 {{N0}} 个技能!",
+      "styleMappings": {
+        "abilities": "技能",
+        "phases": "阶段",
+        "Has": "拥有"
+      }
+    },
+    {
+      "source": [
+        "WARNING: We are not"
+      ],
+      "translation": "警告:我们不对",
+      "styleMappings": {
+        "WARNING: We are not": "警告:我们不对"
+      }
+    },
+    {
+      "source": [
+        "responsible for any damage to",
+        "your monitor or computer",
+        "peripherals."
+      ],
+      "translation": "对您的显示器或电脑外设造成的任何损坏负责.",
+      "styleMappings": {}
+    }
+  ],
+  "styleMappings": {
+    "Boss": "首领"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "FALLEN_STAR_HAT",
+  "_original_name": "Fallen Star Helmet",
+  "_original_lore": [
+    "Health: +50",
+    "Defense: +30",
+    "Intelligence: +2",
+    "",
+    "Wear this hat to a Cult of the Fallen",
+    "Star meeting.",
+    "",
+    "This item can be reforged!",
+    "* Co-op Soulbound *",
+    "RARE HELMET"
+  ],
+  "name": "陨星头盔",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Wear this hat to a Cult of the Fallen",
+        "Star meeting."
+      ],
+      "translation": "戴上这顶帽子参加陨星教团聚会.",
+      "styleMappings": {
+        "Cult of the Fallen Star": "陨星教团",
+        "Fallen Star": "陨星"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "RARE HELMET"
+      ],
+      "translation": "稀有头盔",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Helmet": "头盔",
+    "Fallen Star": "陨星"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

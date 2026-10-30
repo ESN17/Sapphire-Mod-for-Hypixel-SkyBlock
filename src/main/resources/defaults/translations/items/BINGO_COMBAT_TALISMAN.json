@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "BINGO_COMBAT_TALISMAN",
+  "_original_name": "Bingo Combat Talisman",
+  "_original_lore": [
+    "Combat Wisdom: +50",
+    "",
+    "* Soulbound *",
+    "COMMON ACCESSORY"
+  ],
+  "name": "宾果战斗护符",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combat Wisdom: {{N0}}"
+      ],
+      "translation": "战斗智慧: {{N0}}",
+      "styleMappings": {
+        "Combat Wisdom": "战斗智慧",
+        "Combat": "战斗",
+        "Wisdom": "智慧"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "COMMON ACCESSORY"
+      ],
+      "translation": "普通饰品",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Combat": "战斗",
+    "Bingo": "宾果",
+    "Talisman": "护符"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

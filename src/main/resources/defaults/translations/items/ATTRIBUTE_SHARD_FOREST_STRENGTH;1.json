@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "ATTRIBUTE_SHARD_FOREST_STRENGTH;1",
+  "_original_name": "Azure Shard",
+  "_original_lore": [
+    "Forest Strength I",
+    "Grants +5  Strength while on",
+    "Foraging Islands.",
+    "",
+    "You can Syphon this shard from",
+    "your Hunting Box.",
+    "",
+    "Right-click to send to Hunting Box!",
+    "Shift Right-click to move all!",
+    "",
+    "COMMON WATER SHARD (ID C29)"
+  ],
+  "name": "蔚蓝碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Forest Strength I"
+      ],
+      "translation": "森林力量 I",
+      "styleMappings": {
+        "Strength I": "力量 I",
+        "Forest": "森林",
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}  Strength while on",
+        "Foraging Islands."
+      ],
+      "translation": "在采伐岛屿上提供 {{N0}}  力量.",
+      "styleMappings": {
+        "Foraging Islands": "采伐岛屿",
+        " Strength": " 力量",
+        "Grants": "提供",
+        "Strength": "力量",
+        "Foraging": "采伐"
+      }
+    },
+    {
+      "source": [
+        "You can Syphon this shard from",
+        "your Hunting Box."
+      ],
+      "translation": "你可以从狩猎箱中吸取此碎片.",
+      "styleMappings": {
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to send to Hunting Box!"
+      ],
+      "translation": "右键点击发送至狩猎箱!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Shift Right-click to move all!"
+      ],
+      "translation": "潜行键 右键点击全部移动!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "all": "全部"
+      }
+    },
+    {
+      "source": [
+        "COMMON WATER SHARD (ID C{{N0}})"
+      ],
+      "translation": "普通水生碎片 (ID C{{N0}})",
+      "styleMappings": {
+        "COMMON WATER SHARD": "普通水生碎片",
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shard": "碎片"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

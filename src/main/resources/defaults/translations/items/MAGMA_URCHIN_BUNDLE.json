@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "id": "MAGMA_URCHIN_BUNDLE",
+  "_original_name": "Magma Urchin Bundle",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Consume to unwrap the bundle",
+    "containing 9x Magma Urchin.",
+    "",
+    "A bundle of tightly wrapped objects,",
+    "spiky and hot - probably best not to",
+    "touch them.",
+    "",
+    "Right-click to consume!",
+    "",
+    "* Soulbound *",
+    "LEGENDARY"
+  ],
+  "name": "岩浆海胆包裹",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Consume to unwrap the bundle",
+        "containing {{N0}}x Magma Urchin."
+      ],
+      "translation": "消耗以拆开包含 {{N0}} 个岩浆海胆的包裹.",
+      "styleMappings": {
+        "Magma Urchin": "岩浆海胆",
+        "{{N0}}x": "{{N0}} 个"
+      }
+    },
+    {
+      "source": [
+        "A bundle of tightly wrapped objects,",
+        "spiky and hot - probably best not to",
+        "touch them."
+      ],
+      "translation": "一包紧紧包裹的物品,尖锐又滚烫——最好还是别碰它们.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Magma Urchin": "岩浆海胆"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": "REFRACTIVE_PAINT_PALETTE",
+  "_original_name": "Refractive Paint Palette",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Tracks the number of Dyes that you",
+    "obtain throughout the game.",
+    "",
+    "If you obtain 7 unique dyes you can",
+    "consume this item to permanently gain:",
+    "+1% chance to find Dyes",
+    "+1☯ Carpentry Wisdom",
+    "+1 Intelligence",
+    "",
+    "Dyes obtained: 0/7",
+    "Only counts unique dyes!",
+    "",
+    "You may only gain this bonus once!",
+    "",
+    "Like a wise man once said, you can",
+    "never have enough... dyes?",
+    "",
+    "RARE"
+  ],
+  "name": "折射颜料盘",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Tracks the number of Dyes that you",
+        "obtain throughout the game."
+      ],
+      "translation": "记录你在游戏中获得的染料数量.",
+      "styleMappings": {
+        "Dyes": "染料"
+      }
+    },
+    {
+      "source": [
+        "If you obtain {{N0}} unique dyes you can"
+      ],
+      "translation": "如果你获得 {{N0}} 种独特染料,你可以",
+      "styleMappings": {
+        "unique": "独特"
+      }
+    },
+    {
+      "source": [
+        "consume this item to permanently gain:"
+      ],
+      "translation": "消耗此物品以永久获得:",
+      "styleMappings": {
+        "permanently": "永久",
+        "item": "物品",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "{{N0}} chance to find Dyes",
+        "{{N1}}☯ Carpentry Wisdom",
+        "{{N2}} Intelligence"
+      ],
+      "translation": "{{N0}} 概率找到染料 {{N1}}☯ 木工智慧 {{N2}} 智力",
+      "styleMappings": {
+        "Carpentry Wisdom": "木工智慧",
+        "chance to find": "概率找到",
+        "Intelligence": "智力",
+        "Dyes": "染料",
+        "": "",
+        "chance": "概率",
+        "chance to": "概率",
+        "Wisdom": "智慧",
+        " Intelligence": " 智力"
+      }
+    },
+    {
+      "source": [
+        "Dyes obtained: {{N0}}/{{N1}}"
+      ],
+      "translation": "已获得染料:{{N0}}/{{N1}}",
+      "styleMappings": {
+        "Dyes": "染料"
+      }
+    },
+    {
+      "source": [
+        "Only counts unique dyes!"
+      ],
+      "translation": "仅统计独特染料!",
+      "styleMappings": {
+        "unique": "独特"
+      }
+    },
+    {
+      "source": [
+        "You may only gain this bonus once!"
+      ],
+      "translation": "此加成只能获得一次!",
+      "styleMappings": {
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "Like a wise man once said, you can",
+        "never have enough... dyes?"
+      ],
+      "translation": "正如一位智者所说,你永远不会有足够的……染料?",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

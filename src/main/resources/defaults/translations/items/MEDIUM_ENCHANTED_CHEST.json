@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "MEDIUM_ENCHANTED_CHEST",
+  "_original_name": "Medium Storage",
+  "_original_lore": [
+    "Minion Storage",
+    "",
+    "Place this chest next to a minion and",
+    "the minion will store items inside once",
+    "its storage is full!",
+    "",
+    "Storage space: 9 items",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "中型存储",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Minion Storage"
+      ],
+      "translation": "仆从储存",
+      "styleMappings": {
+        "Minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "Place this chest next to a minion and",
+        "the minion will store items inside once",
+        "its storage is full!"
+      ],
+      "translation": "将此箱子放在仆从旁边,当仆从的储存空间满时,它会将物品存放在里面!",
+      "styleMappings": {
+        "minion": "仆从",
+        "items": "物品"
+      }
+    },
+    {
+      "source": [
+        "Storage space: {{N0}} items"
+      ],
+      "translation": "储存空间: {{N0}} 个物品",
+      "styleMappings": {
+        "items": "物品"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

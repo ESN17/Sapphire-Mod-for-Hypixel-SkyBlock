@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "BAT_PINATA_MONSTER",
+  "_original_name": "Bat Piñata (Monster)",
+  "_original_lore": [
+    "The Bat Piñata is a bat that only appears during",
+    "the Spooky Festival.",
+    "",
+    "❤ Health: 5"
+  ],
+  "name": "蝙蝠皮纳塔 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Bat Piñata is a bat that only appears during",
+        "the Spooky Festival."
+      ],
+      "translation": "蝙蝠皮纳塔是一种仅在幽灵节期间出现的蝙蝠.",
+      "styleMappings": {
+        "Spooky Festival": "幽灵节",
+        "Bat": "蝙蝠",
+        "Spooky": "幽灵"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Bat": "蝙蝠",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

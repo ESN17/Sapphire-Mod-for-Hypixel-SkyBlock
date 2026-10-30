@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "id": "EMBER_ROD",
+  "_original_name": "Ember Rod",
+  "_original_lore": [
+    "Damage: +80",
+    "Strength: +35",
+    "Intelligence: +50",
+    "",
+    "Ability: Fire Blast  RIGHT CLICK",
+    "Shoot 3 Fireballs which deal 30 damage in",
+    "rapid succession in front of you!",
+    "Mana Cost: 150",
+    "Cooldown: 30s",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Combat Skill 8.",
+    "EPIC SWORD"
+  ],
+  "name": "余烬之杖",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Ability: Fire Blast  RIGHT CLICK"
+      ],
+      "translation": "技能: 火焰冲击  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Fire Blast": "火焰冲击",
+        "Ability": "技能",
+        "CLICK": "点击",
+        "Fire": "火焰"
+      }
+    },
+    {
+      "source": [
+        "Shoot {{N0}} Fireballs which deal {{N1}} damage in",
+        "rapid succession in front of you!"
+      ],
+      "translation": "在你面前快速连续发射 {{N0}} 颗火球, 每颗造成 {{N1}} 伤害!",
+      "styleMappings": {
+        "Fireballs": "火球",
+        "deal": "造成",
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC SWORD"
+      ],
+      "translation": "史诗 剑",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

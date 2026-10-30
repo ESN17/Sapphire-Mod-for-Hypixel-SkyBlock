@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "FIREPLACE",
+  "_original_name": "Fireplace",
+  "_original_lore": [
+    "Furniture",
+    "",
+    "This cosmetic fireplace looks great",
+    "in any build.",
+    "",
+    "COMMON"
+  ],
+  "name": "壁炉",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Furniture"
+      ],
+      "translation": "家具",
+      "styleMappings": {
+        "Furniture": "家具"
+      }
+    },
+    {
+      "source": [
+        "This cosmetic fireplace looks great",
+        "in any build."
+      ],
+      "translation": "这款装饰性壁炉在任何建筑中都很美观.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

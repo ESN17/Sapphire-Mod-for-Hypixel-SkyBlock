@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "BARKING_WOLF_MONSTER",
+  "_original_name": "Barking Wolf (Monster)",
+  "_original_lore": [
+    "❤ Health: 150"
+  ],
+  "name": "吠叫之狼 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Wolf (Monster)": "狼 (怪物)",
+    "Monster": "怪物",
+    "Wolf": "狼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

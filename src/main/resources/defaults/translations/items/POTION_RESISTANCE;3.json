@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_RESISTANCE;3",
+  "_original_name": "Resistance III Potion",
+  "_original_lore": [
+    "",
+    "Resistance III (3:00)",
+    "Increases  Defense by +15.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "抗性 III 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Resistance III ({{N0}}:{{N1}})"
+      ],
+      "translation": "抗性 III ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Resistance III": "抗性 III",
+        "III": "III",
+        "Resistance": "抗性"
+      }
+    },
+    {
+      "source": [
+        "Increases  Defense by {{N0}}."
+      ],
+      "translation": "增加  防御力 {{N0}}.",
+      "styleMappings": {
+        "Increases": "增加",
+        " Defense": " 防御",
+        "Defense": "防御力"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Resistance III": "抗性 III",
+    "III": "III",
+    "Resistance": "抗性"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_HEALING;2",
+  "_original_name": "Healing II Potion",
+  "_original_lore": [
+    "",
+    "Healing II (0:05)",
+    "Heals for +10 every second.",
+    "",
+    "COMMON"
+  ],
+  "name": "治疗 II 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Healing II ({{N0}}:{{N1}})"
+      ],
+      "translation": "治疗 II ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Healing II": "治疗 II",
+        "II": "II"
+      }
+    },
+    {
+      "source": [
+        "Heals for {{N0}} every second."
+      ],
+      "translation": "每秒恢复 {{N0}} 生命.",
+      "styleMappings": {
+        "second": "秒"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Healing II": "治疗 II",
+    "II": "II"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

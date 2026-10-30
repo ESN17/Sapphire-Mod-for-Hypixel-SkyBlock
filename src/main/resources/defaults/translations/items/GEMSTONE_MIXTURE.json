@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "GEMSTONE_MIXTURE",
+  "_original_name": "Gemstone Mixture",
+  "_original_lore": [
+    "A collection of finely treated",
+    "Gemstones held together by the",
+    "sturdiest of sticky substances.",
+    "",
+    "RARE"
+  ],
+  "name": "宝石混合物",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A collection of finely treated",
+        "Gemstones held together by the",
+        "sturdiest of sticky substances."
+      ],
+      "translation": "由最坚固的粘性物质粘合在一起的精细处理宝石收藏.",
+      "styleMappings": {
+        "Gemstones": "宝石",
+        "sticky": "粘性"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Gemstone": "宝石"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

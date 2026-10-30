@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "id": "SWORD_OF_REVELATIONS",
+  "_original_name": "Sword of Revelations",
+  "_original_lore": [
+    "Damage: +180",
+    "Strength: +50",
+    "Gemstones: [⚔]",
+    "",
+    "Deals 1.5x damage to  Mythological",
+    "mobs and grants +5 Magic Find on",
+    "them.",
+    "",
+    "This item can be reforged!",
+    "EPIC SWORD"
+  ],
+  "name": "启示之剑",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [⚔]"
+      ],
+      "translation": "宝石: [⚔]",
+      "styleMappings": {
+        "Gemstones": "宝石",
+        "[": "[",
+        "Gemstones:": "宝石:"
+      }
+    },
+    {
+      "source": [
+        "Deals {{N0}}x damage to  Mythological",
+        "mobs and grants {{N1}} Magic Find on",
+        "them."
+      ],
+      "translation": "对 神话生物造成 {{N0}}倍伤害,并对其提供 {{N1}} 稀有物品概率加成.",
+      "styleMappings": {
+        " Mythological": " 神话生物",
+        " Magic Find": " 稀有物品概率加成",
+        "damage": "伤害",
+        "Deals": "造成",
+        "Mythological": "神话生物",
+        "Magic Find": "稀有物品概率加成",
+        "{{N0}}x": "{{N0}}倍",
+        "mobs": "生物"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "EPIC SWORD"
+      ],
+      "translation": "史诗 剑",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sword": "剑"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

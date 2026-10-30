@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "BOOKCASE",
+  "_original_name": "Bookcase",
+  "_original_lore": [
+    "Furniture",
+    "",
+    "This cosmetic bookcase will make you",
+    "appear smarter to your friends.",
+    "",
+    "COMMON"
+  ],
+  "name": "书柜",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Furniture"
+      ],
+      "translation": "家具",
+      "styleMappings": {
+        "Furniture": "家具"
+      }
+    },
+    {
+      "source": [
+        "This cosmetic bookcase will make you",
+        "appear smarter to your friends."
+      ],
+      "translation": "这个装饰性书柜会让你在朋友面前显得更聪明.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

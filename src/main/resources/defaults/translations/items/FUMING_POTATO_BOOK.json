@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "id": "FUMING_POTATO_BOOK",
+  "_original_name": "Fuming Potato Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "When applied to armor, grants +2",
+    "Defense and +4 Health.",
+    "",
+    "When applied to weapons, grants",
+    "+2 Strength and +2 Damage.",
+    "",
+    "This book bypasses the Hot Potato",
+    "Book limit of 10, allowing you to",
+    "upgrade an item up to 15 times!",
+    "",
+    "EPIC DUNGEON ITEM"
+  ],
+  "name": "发烟的马铃薯书",
+  "lore": {
+    "Combinable in Anvil": "可在铁砧中合成",
+    "EPIC DUNGEON ITEM": "史诗 地牢物品"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "When applied to armor, grants {defense}",
+        "Defense and {health} Health."
+      ],
+      "translation": "用于护甲时,提供 {defense} 防御和 {health} 生命值.",
+      "styleMappings": {
+        "Defense": "防御",
+        "Health": "生命值",
+        " Defense": " 防御",
+        " Health": " 生命",
+        "health": "生命值",
+        "defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "When applied to weapons, grants",
+        "{strength} Strength and {damage} Damage."
+      ],
+      "translation": "用于武器时,提供 {strength} 力量和 {damage} 伤害.",
+      "styleMappings": {
+        "Strength": "力量",
+        "Damage": "伤害",
+        " Strength": " 力量",
+        " Damage": " 伤害",
+        "damage": "伤害",
+        "strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "This book bypasses the Hot Potato",
+        "Book limit of {normal}, allowing you to",
+        "upgrade an item up to {maximum} times!"
+      ],
+      "translation": "此书可突破热马铃薯书的 {normal} 次上限,将单件物品的升级次数提高至 {maximum} 次!",
+      "styleMappings": {
+        "Hot Potato Book": "热马铃薯书",
+        "upgrade": "升级",
+        "item": "物品",
+        "Potato": "马铃薯"
+      }
+    },
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "When applied to armor, grants {{N0}}",
+        "Defense and {{N1}} Health."
+      ],
+      "translation": "用于护甲时,提供 {{N0}} 防御和 {{N1}} 生命值.",
+      "styleMappings": {
+        " Defense": " 防御",
+        "Health": "生命值",
+        " Health": " 生命",
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "When applied to weapons, grants",
+        "{{N0}} Strength and {{N1}} Damage."
+      ],
+      "translation": "用于武器时,提供 {{N0}} 力量和 {{N1}} 伤害.",
+      "styleMappings": {
+        " Strength": " 力量",
+        " Damage": " 伤害",
+        "Strength": "力量",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "This book bypasses the Hot Potato",
+        "Book limit of {{N0}}, allowing you to",
+        "upgrade an item up to {{N1}} times!"
+      ],
+      "translation": "此书可突破热马铃薯书的 {{N0}} 次上限,将单件物品的升级次数提高至 {{N1}} 次!",
+      "styleMappings": {
+        "Hot Potato Book": "热马铃薯书",
+        "upgrade": "升级",
+        "item": "物品",
+        "Potato": "马铃薯"
+      }
+    },
+    {
+      "source": [
+        "EPIC DUNGEON ITEM"
+      ],
+      "translation": "史诗 地牢物品",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Defense": "防御",
+    "Health": "生命值",
+    "Strength": "力量",
+    "Damage": "伤害",
+    "Hot Potato Book": "热马铃薯书",
+    "Potato": "马铃薯"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

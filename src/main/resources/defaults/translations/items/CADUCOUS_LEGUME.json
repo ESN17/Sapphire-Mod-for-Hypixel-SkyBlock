@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "CADUCOUS_LEGUME",
+  "_original_name": "Caducous Legume",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Consume to gain +90 Rift Time.",
+    "May only be used once per visit in the Rift.",
+    "Consumed automatically when joining!",
+    "",
+    "Right-click to consume!",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "早落豆荚",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Consume to gain {{N0}} Rift Time."
+      ],
+      "translation": "食用以获得 {{N0}} 裂隙时间.",
+      "styleMappings": {
+        "Rift Time": "裂隙时间",
+        "Rift": "裂隙",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "May only be used once per visit in the Rift."
+      ],
+      "translation": "每次进入裂隙只能使用一次.",
+      "styleMappings": {
+        "Rift": "裂隙",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Consumed automatically when joining!"
+      ],
+      "translation": "加入时自动消耗!",
+      "styleMappings": {
+        "automatically": "自动",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

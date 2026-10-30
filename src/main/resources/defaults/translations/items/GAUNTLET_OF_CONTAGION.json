@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "id": "GAUNTLET_OF_CONTAGION",
+  "_original_name": "Gauntlet of Contagion",
+  "_original_lore": [
+    "Health: +20",
+    "Defense: +10",
+    "Strength: +15",
+    "",
+    "Ability: Contaminate",
+    "Killing an enemy causes an explosion",
+    "dealing 10% of their total  Health",
+    "as damage to all enemies within 2",
+    "blocks. Enemies in the blast radius",
+    "will also be contaminated causing",
+    "them to explode on death.",
+    "",
+    "Right-click to equip!",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Combat Skill 22.",
+    "EPIC GLOVES"
+  ],
+  "name": "传染之拳套",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Ability: Contaminate"
+      ],
+      "translation": "能力:污染",
+      "styleMappings": {
+        "Ability": "能力"
+      }
+    },
+    {
+      "source": [
+        "Killing an enemy causes an explosion",
+        "dealing {{N0}} of their total  Health",
+        "as damage to all enemies within {{N1}}",
+        "blocks. Enemies in the blast radius",
+        "will also be contaminated causing",
+        "them to explode on death."
+      ],
+      "translation": "击杀敌人会引发爆炸,对其总  生命值的 {{N0}} 作为伤害,作用于 {{N1}} 格范围内的所有敌人.爆炸范围内的敌人也会被污染,使其死亡时爆炸.",
+      "styleMappings": {
+        "contaminated": "污染",
+        " Health": " 生命",
+        "blocks": "格",
+        "damage": "伤害",
+        "death": "死亡",
+        "enemies": "敌人",
+        "in the": "的",
+        "Enemies": "敌人"
+      }
+    },
+    {
+      "source": [
+        "Right-click to equip!"
+      ],
+      "translation": "右键点击装备!",
+      "styleMappings": {
+        "Right-click to equip!": "右键点击装备!",
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC GLOVES"
+      ],
+      "translation": "史诗 手套",
+      "styleMappings": {
+        "GLOVES": "手套",
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

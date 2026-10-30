@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "BASIC_MUSHROOM_COW_AXE",
+  "_original_name": "Basic Mooshroom Axe",
+  "_original_lore": [
+    "Damage: +10",
+    "",
+    "Mooshrooms killed with this drop 1",
+    "additional Red Mushroom and Leather.",
+    "",
+    "This item can be reforged!",
+    "COMMON SWORD"
+  ],
+  "name": "基础哞菇斧",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Mooshrooms killed with this drop {{N0}}",
+        "additional Red Mushroom and Leather."
+      ],
+      "translation": "用此斧击杀哞菇时额外掉落 {{N0}} 个红色蘑菇和皮革.",
+      "styleMappings": {
+        "Red Mushroom": "红色蘑菇",
+        "Mooshrooms": "哞菇",
+        "additional": "额外",
+        "Leather": "皮革",
+        "Mushroom": "蘑菇"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "COMMON SWORD"
+      ],
+      "translation": "普通剑",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Axe": "斧",
+    "Basic": "基础"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

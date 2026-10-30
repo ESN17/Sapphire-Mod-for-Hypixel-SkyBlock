@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "SKYBLOCK_KERNEL",
+  "_original_name": "Kernel",
+  "_original_lore": [
+    "Used for NEU NPC-Shops",
+    "",
+    "a SPECIAL a"
+  ],
+  "name": "果仁",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Used for NEU NPC-Shops"
+      ],
+      "translation": "用于物品百科人物商店",
+      "styleMappings": {
+        "Shops": "商店"
+      }
+    },
+    {
+      "source": [
+        "a SPECIAL a"
+      ],
+      "translation": "一个 特殊 一个",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

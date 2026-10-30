@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "FRIED_FROZEN_CHICKEN",
+  "_original_name": "Fried Frozen Chicken",
+  "_original_lore": [
+    "Speed: +1",
+    "Heat Resistance: +1",
+    "Cold Resistance: +1",
+    "Accessory Power: +12",
+    "",
+    "Fried Frozen?! There is no such",
+    "thing!",
+    "",
+    "* Soulbound *",
+    "Works while in Accessory Bag!",
+    "EPIC ACCESSORY"
+  ],
+  "name": "炸冷冻鸡",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Heat Resistance: {{N0}}"
+      ],
+      "translation": "抗热性: {{N0}}",
+      "styleMappings": {
+        "Heat Resistance": "抗热性"
+      }
+    },
+    {
+      "source": [
+        "Cold Resistance: {{N0}}"
+      ],
+      "translation": "抗寒: {{N0}}",
+      "styleMappings": {
+        "Cold Resistance": "抗寒"
+      }
+    },
+    {
+      "source": [
+        "Accessory Power: {{N0}}"
+      ],
+      "translation": "饰品能量: {{N0}}",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "Fried Frozen?! There is no such",
+        "thing!"
+      ],
+      "translation": "炸冷冻?!哪有这种东西!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "放在饰品袋中即可生效!",
+      "styleMappings": {
+        "Accessory Bag": "饰品袋",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "EPIC ACCESSORY"
+      ],
+      "translation": "史诗饰品",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Chicken": "鸡"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

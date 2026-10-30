@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 1,
+  "id": "RAT;5",
+  "_original_name": "[Lvl {LVL}] Rat",
+  "_original_lore": [
+    "Combat Morph",
+    "",
+    "Health: +{HEALTH}",
+    "Strength: +{STRENGTH}",
+    "Crit Damage: +{CRIT_DAMAGE}",
+    "",
+    "Morph",
+    "Right-click your summoned pet to",
+    "morph into it!",
+    "",
+    "CHEESE!",
+    "As a Rat, you smell CHEESE nearby!",
+    "Yummy!",
+    "",
+    "Rat's Blessing",
+    "Has a chance to grant a random",
+    "player +{0} Magic Find for {1}",
+    "seconds after finding a yummy piece",
+    "of Cheese! If the player gets a drop",
+    "during this buff, you have a 20%",
+    "chance to get it too.",
+    "",
+    "Extreme Speed",
+    "The Rat is TWO times faster AND can",
+    "fly!",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "MYTHIC PET"
+  ],
+  "name": "[等级 {LVL}] 老鼠",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combat Morph"
+      ],
+      "translation": "战斗变形",
+      "styleMappings": {
+        "Combat": "战斗"
+      }
+    },
+    {
+      "source": [
+        "Health: +{{N0}}"
+      ],
+      "translation": "生命值: +{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Strength: +{{N0}}"
+      ],
+      "translation": "力量: +{{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: +{{N0}}"
+      ],
+      "translation": "暴击伤害:+{{N0}}",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Morph"
+      ],
+      "translation": "变形",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click your summoned pet to"
+      ],
+      "translation": "右键点击你召唤的宠物来",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "morph into it!"
+      ],
+      "translation": "变形为它!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "CHEESE!"
+      ],
+      "translation": "奶酪!",
+      "styleMappings": {
+        "CHEESE": "奶酪"
+      }
+    },
+    {
+      "source": [
+        "As a Rat, you smell CHEESE nearby!"
+      ],
+      "translation": "作为一只老鼠,你闻到了附近的奶酪!",
+      "styleMappings": {
+        "CHEESE": "奶酪",
+        "Rat": "老鼠"
+      }
+    },
+    {
+      "source": [
+        "Yummy!"
+      ],
+      "translation": "真好吃!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Rat's Blessing"
+      ],
+      "translation": "老鼠的祝福",
+      "styleMappings": {
+        "Blessing": "祝福",
+        "Rat": "老鼠"
+      }
+    },
+    {
+      "source": [
+        "Has a chance to grant a random",
+        "player +{{N0}} Magic Find for {{N1}}",
+        "seconds after finding a yummy piece",
+        "of Cheese! If the player gets a drop",
+        "during this buff, you have a {{N2}}",
+        "chance to get it too."
+      ],
+      "translation": "找到一块美味的奶酪后,有几率给予随机玩家 +{{N0}} 稀有物品概率加成,持续 {{N1}} 秒!如果该玩家在此增益期间获得掉落物,你也有 {{N2}} 的几率获得它.",
+      "styleMappings": {
+        " Magic Find": " 稀有物品概率加成",
+        "seconds": "秒",
+        "chance": "几率",
+        "player": "玩家",
+        "for": "持续",
+        "Magic Find": "稀有物品概率加成"
+      }
+    },
+    {
+      "source": [
+        "Extreme Speed"
+      ],
+      "translation": "极速",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "The Rat is TWO times faster AND can",
+        "fly!"
+      ],
+      "translation": "老鼠的速度是两倍,而且还能飞!",
+      "styleMappings": {
+        "Rat": "老鼠"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "MYTHIC PET"
+      ],
+      "translation": "神话 宠物",
+      "styleMappings": {
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Lvl": "等级",
+    "Rat": "老鼠"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

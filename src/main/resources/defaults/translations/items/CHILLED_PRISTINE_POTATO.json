@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "id": "CHILLED_PRISTINE_POTATO",
+  "_original_name": "Chilled Pristine Potato",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Grants +0.1 Pristine while in Glacite",
+    "Mineshafts.",
+    "Duration: 60m",
+    "",
+    "Right-click to consume!",
+    "",
+    "❣ Requires Heart of the Mountain Tier 7.",
+    "EPIC"
+  ],
+  "name": "冰镇提纯马铃薯",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants {{N0}} Pristine while in Glacite",
+        "Mineshafts."
+      ],
+      "translation": "在冰晶矿井中时提供 {{N0}} 提纯.",
+      "styleMappings": {
+        "Glacite Mineshafts": "冰晶矿井",
+        "Pristine": "提纯",
+        "Grants": "提供",
+        "Mineshafts": "矿井"
+      }
+    },
+    {
+      "source": [
+        "Duration: {{N0}}m"
+      ],
+      "translation": "持续时间: {{N0}}分钟",
+      "styleMappings": {
+        "Duration": "持续时间",
+        "{{N0}}m": "{{N0}}分钟"
+      }
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "❣ Requires Heart of the Mountain Tier {{N0}}."
+      ],
+      "translation": "❣ 需要山峰之心等级 {{N0}}.",
+      "styleMappings": {
+        "Heart of the Mountain Tier": "山峰之心等级",
+        "Requires": "需要",
+        "Heart of the Mountain": "山峰之心"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Pristine": "提纯"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

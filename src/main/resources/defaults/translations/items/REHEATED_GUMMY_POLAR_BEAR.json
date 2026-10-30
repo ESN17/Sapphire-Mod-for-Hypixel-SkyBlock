@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "id": "REHEATED_GUMMY_POLAR_BEAR",
+  "_original_name": "Re-heated Gummy Polar Bear",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Grants the Smoldering Polarization",
+    "effect. Consuming multiple stacks the",
+    "duration.",
+    "",
+    "Smoldering Polarization I (1:00:00)",
+    "Grants +10☯ Combat Wisdom against",
+    "Blazes and pacifies nearby Blazes",
+    "while fighting Inferno Demonlord.",
+    "",
+    "Right-click to consume!",
+    "",
+    "X Rift-Transferable X",
+    "UNCOMMON"
+  ],
+  "name": "重新加热的北极熊软糖",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants the Smoldering Polarization",
+        "effect. Consuming multiple stacks the",
+        "duration."
+      ],
+      "translation": "给予闷烧极化效果.多次食用可叠加持续时间.",
+      "styleMappings": {
+        "Smoldering Polarization": "闷烧极化",
+        "Consuming multiple stacks the duration.": "多次食用可叠加持续时间.",
+        "Grants": "给予"
+      }
+    },
+    {
+      "source": [
+        "Smoldering Polarization I ({{N0}}:{{N1}}:{{N2}})"
+      ],
+      "translation": "闷烧极化 I ({{N0}}:{{N1}}:{{N2}})",
+      "styleMappings": {
+        "Smoldering Polarization I": "闷烧极化 I",
+        "Smoldering Polarization": "闷烧极化"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}☯ Combat Wisdom against",
+        "Blazes and pacifies nearby Blazes",
+        "while fighting Inferno Demonlord."
+      ],
+      "translation": "对抗烈焰人时给予 {{N0}}☯ 战斗智慧,并在与炼狱魔王战斗时安抚附近的烈焰人.",
+      "styleMappings": {
+        "Inferno Demonlord": "炼狱魔王",
+        "Combat Wisdom": "战斗智慧",
+        "Blazes": "烈焰人",
+        "Grants": "给予",
+        "Combat": "战斗",
+        "Wisdom": "智慧",
+        "Inferno": "炼狱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "X Rift-Transferable X"
+      ],
+      "translation": "X 可转移至裂隙 X",
+      "styleMappings": {
+        "Rift-Transferable": "可转移至裂隙",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Polar Bear": "北极熊"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

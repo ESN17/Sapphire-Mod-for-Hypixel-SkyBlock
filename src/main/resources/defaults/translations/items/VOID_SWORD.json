@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "id": "VOID_SWORD",
+  "_original_name": "Void Sword",
+  "_original_lore": [
+    "Damage: +125",
+    "",
+    "Gain +20 Strength per piece of",
+    "Ender Armor worn.",
+    "",
+    "Current Bonus: 0",
+    "",
+    "This item can be reforged!",
+    "* Co-op Soulbound *",
+    "EPIC SWORD"
+  ],
+  "name": "虚空之剑",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}} Strength per piece of",
+        "Ender Armor worn."
+      ],
+      "translation": "每穿戴一件末影盔甲,获得 {{N0}} 力量.",
+      "styleMappings": {
+        "Ender Armor": "末影盔甲",
+        " Strength": " 力量",
+        "Gain": "获得",
+        "Strength": "力量",
+        "Armor": "盔甲",
+        "Ender": "末影",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Current Bonus: {{N0}}"
+      ],
+      "translation": "当前加成:{{N0}}",
+      "styleMappings": {
+        "Current Bonus:": "当前加成:",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "EPIC SWORD"
+      ],
+      "translation": "史诗 剑",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sword": "剑"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

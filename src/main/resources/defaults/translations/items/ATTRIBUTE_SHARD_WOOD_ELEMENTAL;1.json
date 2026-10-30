@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "id": "ATTRIBUTE_SHARD_WOOD_ELEMENTAL;1",
+  "_original_name": "Bramble Shard",
+  "_original_lore": [
+    "Wood Elemental I",
+    "Grants +2  Health.",
+    "",
+    "You can Syphon this shard from",
+    "your Hunting Box.",
+    "",
+    "Right-click to send to Hunting Box!",
+    "Shift Right-click to move all!",
+    "",
+    "❣ Requires Hunting Skill 5.",
+    "UNCOMMON FOREST SHARD (ID U1)"
+  ],
+  "name": "荆棘碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Wood Elemental I"
+      ],
+      "translation": "木元素 I",
+      "styleMappings": {
+        "Elemental": "元素",
+        "I": "I"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}  Health."
+      ],
+      "translation": "提供 {{N0}}  生命值.",
+      "styleMappings": {
+        " Health": " 生命",
+        "Grants": "提供"
+      }
+    },
+    {
+      "source": [
+        "You can Syphon this shard from",
+        "your Hunting Box."
+      ],
+      "translation": "你可以从狩猎箱中吸取此碎片.",
+      "styleMappings": {
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to send to Hunting Box!"
+      ],
+      "translation": "右键点击发送至狩猎箱!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Shift Right-click to move all!"
+      ],
+      "translation": "潜行键 右键点击全部移动!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "all": "全部"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Hunting Skill {{N0}}."
+      ],
+      "translation": "❣ 需要狩猎技能 {{N0}}.",
+      "styleMappings": {
+        "Hunting Skill": "狩猎技能",
+        "Requires": "需要",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON FOREST SHARD (ID U{{N0}})"
+      ],
+      "translation": "罕见森林碎片 (ID 优{{N0}})",
+      "styleMappings": {
+        "UNCOMMON FOREST SHARD": "罕见森林碎片",
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shard": "碎片"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

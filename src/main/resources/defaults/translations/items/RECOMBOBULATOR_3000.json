@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "RECOMBOBULATOR_3000",
+  "_original_name": "Recombobulator 3000",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Permanently increases the rarity of",
+    "an item. Can only be applied to an",
+    "item once.",
+    "",
+    "LEGENDARY DUNGEON ITEM"
+  ],
+  "name": "重组器 3000",
+  "lore": {
+    "Combinable in Anvil": "可在铁砧中合成",
+    "LEGENDARY DUNGEON ITEM": "传说 地牢物品"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "Permanently increases the rarity of",
+        "an item. Can only be applied to an",
+        "item once."
+      ],
+      "translation": "永久提升物品的稀有度.每件物品只能使用一次.",
+      "styleMappings": {
+        "item": "物品",
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY DUNGEON ITEM"
+      ],
+      "translation": "传说地牢物品",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

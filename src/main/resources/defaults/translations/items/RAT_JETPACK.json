@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "RAT_JETPACK",
+  "_original_name": "Rat Jetpack",
+  "_original_lore": [
+    "Use at Kat to upgrade Rat Pets to",
+    "Mythic rarity.",
+    "",
+    "MYTHIC"
+  ],
+  "name": "老鼠喷气背包",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Use at Kat to upgrade Rat Pets to",
+        "Mythic rarity."
+      ],
+      "translation": "在 Kat 处使用,可将老鼠宠物升级至神话稀有度.",
+      "styleMappings": {
+        "Rat Pets": "老鼠宠物",
+        "upgrade": "升级",
+        "Mythic": "神话",
+        "rarity": "稀有度",
+        "Kat": "Kat",
+        "Pets": "宠物"
+      }
+    },
+    {
+      "source": [
+        "MYTHIC"
+      ],
+      "translation": "神话",
+      "styleMappings": {
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Rat": "老鼠"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

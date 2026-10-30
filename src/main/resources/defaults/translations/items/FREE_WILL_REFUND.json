@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "FREE_WILL_REFUND",
+  "_original_name": "Free Will (Refund)",
+  "_original_lore": [
+    "Giving this to a minion will give them",
+    "the illusion of Free Will. They will be",
+    "met with the most important choice of",
+    "their minion life.",
+    "",
+    "Loyalty Chance: 100%",
+    "",
+    "* Co-op Soulbound *",
+    "LEGENDARY"
+  ],
+  "name": "自由意志 (退款)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Giving this to a minion will give them",
+        "the illusion of Free Will. They will be",
+        "met with the most important choice of",
+        "their minion life."
+      ],
+      "translation": "将此物交给仆从,会让它们产生自由意志的错觉.它们将面临仆从一生中最重要的抉择.",
+      "styleMappings": {
+        "Free Will": "自由意志",
+        "minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "Loyalty Chance: {{N0}}"
+      ],
+      "translation": "忠诚几率: {{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Free Will": "自由意志",
+    "Refund": "退款"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_BURNING;4",
+  "_original_name": "Burning IV Potion",
+  "_original_lore": [
+    "",
+    "Burning IV (3:00)",
+    "Increases the duration of fire",
+    "damage that you inflict on enemies by",
+    "20%.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "燃烧 IV 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Burning IV ({{N0}}:{{N1}})"
+      ],
+      "translation": "燃烧 IV ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Burning IV": "燃烧 IV"
+      }
+    },
+    {
+      "source": [
+        "Increases the duration of fire",
+        "damage that you inflict on enemies by",
+        "{{N0}}."
+      ],
+      "translation": "使你施加于敌人的火焰伤害持续时间延长 {{N0}}.",
+      "styleMappings": {
+        "damage": "伤害",
+        "fire": "火",
+        "enemies": "敌人"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Burning IV": "燃烧 IV"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

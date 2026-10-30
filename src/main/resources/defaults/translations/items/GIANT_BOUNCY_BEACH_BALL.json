@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "id": "GIANT_BOUNCY_BEACH_BALL",
+  "_original_name": "Giant Bouncy Beach Ball",
+  "_original_lore": [
+    "Can be fished up during the Year of",
+    "the Seal.",
+    "",
+    "Ability: Bounce Bonanza EX  RIGHT CLICK",
+    "Toss this ball and try bouncing it on",
+    "your head as many times as you can",
+    "in 60s to earn Fishy Treats. The",
+    "more players that participate, the",
+    "bigger the rewards!",
+    "",
+    "This item is consumed on use.",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "巨型弹力沙滩球",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Can be fished up during the Year of",
+        "the Seal."
+      ],
+      "translation": "可在海豹之年期间钓到.",
+      "styleMappings": {
+        "Year of the Seal": "海豹之年",
+        "Seal": "海豹",
+        "Year": "年"
+      }
+    },
+    {
+      "source": [
+        "Ability: Bounce Bonanza EX  RIGHT CLICK"
+      ],
+      "translation": "技能: 弹跳盛宴 强化版  右键点击",
+      "styleMappings": {
+        "Bounce Bonanza EX": "弹跳盛宴 强化版",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Toss this ball and try bouncing it on",
+        "your head as many times as you can",
+        "in {{N0}}s to earn Fishy Treats. The",
+        "more players that participate, the",
+        "bigger the rewards!"
+      ],
+      "translation": "抛出这个球,试着用头尽可能多地颠球,在 {{N0}} 秒内赚取鱼味零食.参与的玩家越多,奖励越丰厚!",
+      "styleMappings": {
+        "Fishy Treats": "鱼味零食",
+        "{{N0}}s": "{{N0}} 秒"
+      }
+    },
+    {
+      "source": [
+        "This item is consumed on use."
+      ],
+      "translation": "此物品使用后会被消耗.",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Giant Bouncy Beach Ball": "巨型弹力沙滩球",
+    "Giant": "巨型",
+    "Beach Ball": "沙滩球"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

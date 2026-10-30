@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "FOREST_PLEDGE;6",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Forest Pledge VI",
+    "Grants +12 Foraging Fortune.",
+    "",
+    "Sources:",
+    " - Agatha's Shop (Level 3+) (III)",
+    " - Bazaar (III-V)",
+    " - Water Hyacinth (VI)",
+    "",
+    "Applied To:",
+    " - Armor",
+    "",
+    "Requirements:",
+    " - Enchanting Level 12",
+    "",
+    "RARE"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Forest Pledge VI"
+      ],
+      "translation": "森林誓约 VI",
+      "styleMappings": {
+        "Forest Pledge": "森林誓约",
+        "Forest": "森林"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Foraging Fortune."
+      ],
+      "translation": "提供 {{N0}} 采伐幸运.",
+      "styleMappings": {
+        "Foraging Fortune": "采伐幸运",
+        "Grants": "提供",
+        "Fortune": "幸运",
+        "Foraging": "采伐"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Agatha's Shop (Level {{N0}}+) (III)",
+        " - Bazaar (III-V)",
+        " - Water Hyacinth (VI)"
+      ],
+      "translation": " - Agatha 的商店 (等级 {{N0}}+) (III)  - 集市 (III-V)  - 水葫芦 (VI)",
+      "styleMappings": {
+        "Water Hyacinth": "水葫芦",
+        "Agatha's Shop": "Agatha 的商店",
+        "Bazaar": "集市",
+        "Level": "等级",
+        "III": "III"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Armor"
+      ],
+      "translation": " - 盔甲",
+      "styleMappings": {
+        "Armor": "盔甲"
+      }
+    },
+    {
+      "source": [
+        "Requirements:"
+      ],
+      "translation": "需求:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchanting Level {{N0}}"
+      ],
+      "translation": " - 附魔等级 {{N0}}",
+      "styleMappings": {
+        "Enchanting Level": "附魔等级"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

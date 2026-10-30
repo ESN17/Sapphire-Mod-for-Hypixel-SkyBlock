@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "YELLOW_ROCK",
+  "_original_name": "Yellow Rock",
+  "_original_lore": [
+    "Quest Item",
+    " ",
+    "Bring it to Romero in The Park.",
+    " ",
+    "A little rough around the edges, but",
+    "beauty can be found within.",
+    "",
+    "COMMON"
+  ],
+  "name": "黄色岩石",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Quest Item"
+      ],
+      "translation": "任务物品",
+      "styleMappings": {
+        "Item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Bring it to Romero in The Park."
+      ],
+      "translation": "把它带给公园的Romero.",
+      "styleMappings": {
+        "Romero": "Romero",
+        "The Park": "公园"
+      }
+    },
+    {
+      "source": [
+        "A little rough around the edges, but",
+        "beauty can be found within."
+      ],
+      "translation": "外表有些粗糙,但内在自有其美.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Yellow": "黄色",
+    "Rock": "岩石"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

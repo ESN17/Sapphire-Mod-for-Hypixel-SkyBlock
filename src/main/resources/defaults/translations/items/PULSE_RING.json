@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "id": "PULSE_RING",
+  "_original_name": "Pulse Ring",
+  "_original_lore": [
+    "Magic Find: +0.25",
+    "Accessory Power: +5",
+    "",
+    "Grants an additional 1% charge when",
+    "filling empty thunder bottles.",
+    "",
+    "Charge up by combining a Thunder in",
+    "a Bottle (Full) with this item in an",
+    "anvil.",
+    "",
+    "Charge: 0 Thunder",
+    "",
+    "Reach 150k Charge for +1 Rarity!",
+    "",
+    "Works while in Accessory Bag!",
+    "UNCOMMON ACCESSORY"
+  ],
+  "name": "脉冲戒指",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Magic Find: {{N0}}"
+      ],
+      "translation": "稀有物品概率加成: {{N0}}",
+      "styleMappings": {
+        "Magic Find": "稀有物品概率加成"
+      }
+    },
+    {
+      "source": [
+        "Accessory Power: {{N0}}"
+      ],
+      "translation": "饰品能量: {{N0}}",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "Grants an additional {{N0}} charge when",
+        "filling empty thunder bottles."
+      ],
+      "translation": "在填充空雷瓶时额外获得 {{N0}} 层充能.",
+      "styleMappings": {
+        "additional": "额外",
+        "Grants": "获得",
+        "charge": "充能",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Charge up by combining a Thunder in",
+        "a Bottle (Full) with this item in an",
+        "anvil."
+      ],
+      "translation": "在铁砧中将瓶中雷霆(满)与此物品结合以充能.",
+      "styleMappings": {
+        "Thunder in a Bottle": "瓶中雷霆",
+        "anvil": "铁砧",
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Charge: {{N0}} Thunder"
+      ],
+      "translation": "充能: {{N0}} 雷",
+      "styleMappings": {
+        "Thunder": "雷"
+      }
+    },
+    {
+      "source": [
+        "Reach {{N0}}k Charge for {{N1}} Rarity!"
+      ],
+      "translation": "达到 {{N0}}千充能以提升至 {{N1}} 稀有度!",
+      "styleMappings": {
+        "Rarity": "稀有度",
+        "{{N0}}k": "{{N0}}千"
+      }
+    },
+    {
+      "source": [
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "放在饰品袋中即可生效!",
+      "styleMappings": {
+        "Accessory Bag": "饰品袋",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON ACCESSORY"
+      ],
+      "translation": "罕见 饰品",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Ring": "戒指"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

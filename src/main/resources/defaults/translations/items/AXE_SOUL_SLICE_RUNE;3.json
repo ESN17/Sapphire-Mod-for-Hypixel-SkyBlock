@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "AXE_SOUL_SLICE_RUNE;3",
+  "_original_name": "◆ Soul Slice Rune III",
+  "_original_lore": [
+    "Requires level 0",
+    "Throwing Axe",
+    "",
+    "Your axe slices the very threads of",
+    "this reality. Obtained from Fire Sales.",
+    "",
+    "Apply this rune to throwing axe or",
+    "fuse two together at the Runic",
+    "Pedestal!",
+    "",
+    "LEGENDARY COSMETIC"
+  ],
+  "name": "◆ 灵魂切割符文 III",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Requires level {{N0}}",
+        "Throwing Axe"
+      ],
+      "translation": "需要等级 {{N0}} 投掷斧",
+      "styleMappings": {
+        "Throwing Axe": "投掷斧",
+        "Requires": "需要",
+        "Axe": "斧"
+      }
+    },
+    {
+      "source": [
+        "Your axe slices the very threads of",
+        "this reality. Obtained from Fire Sales."
+      ],
+      "translation": "你的斧头能切割现实本身的丝线.从限时抢购中获得.",
+      "styleMappings": {
+        "Fire Sales": "限时抢购"
+      }
+    },
+    {
+      "source": [
+        "Apply this rune to throwing axe or",
+        "fuse two together at the Runic",
+        "Pedestal!"
+      ],
+      "translation": "将此符文应用于投掷斧, 或在符文基座上将两个融合!",
+      "styleMappings": {
+        "Runic Pedestal": "符文基座",
+        "Runic": "符文"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY COSMETIC"
+      ],
+      "translation": "传说外观",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Rune III": "符文 III",
+    "Soul": "灵魂",
+    "III": "III"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

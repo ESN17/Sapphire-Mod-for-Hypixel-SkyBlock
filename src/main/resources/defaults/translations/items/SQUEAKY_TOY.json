@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "id": "SQUEAKY_TOY",
+  "_original_name": "Squeaky Toy",
+  "_original_lore": [
+    "Reforge Stone",
+    "Combinable in Anvil",
+    "",
+    "Applies the Squeaky reforge when",
+    "combined with Equipment.",
+    "",
+    "So lifelike!",
+    "",
+    "Grants the following stats that scale",
+    "with the item's rarity:",
+    "  Bonus Pest Chance",
+    "  Farming Fortune",
+    "",
+    "Squeaky Bonus",
+    " Pests spawn 2.5% faster.",
+    "",
+    "Right-click to view rarity scaling!",
+    "",
+    "❣ Requires Mining Skill 21.",
+    "",
+    "EPIC REFORGE STONE"
+  ],
+  "name": "吱吱玩具",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Reforge Stone",
+        "Combinable in Anvil"
+      ],
+      "translation": "洗练石 可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Reforge Stone": "洗练石",
+        "Anvil": "铁砧",
+        "Reforge": "洗练"
+      }
+    },
+    {
+      "source": [
+        "Applies the Squeaky reforge when",
+        "combined with Equipment."
+      ],
+      "translation": "与装备结合时,应用吱吱洗练.",
+      "styleMappings": {
+        "Squeaky": "吱吱",
+        "Equipment": "装备",
+        "reforge": "洗练",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "So lifelike!"
+      ],
+      "translation": "栩栩如生!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants the following stats that scale"
+      ],
+      "translation": "提供以下随物品稀有度提升的属性:",
+      "styleMappings": {
+        "Grants": "提供",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "with the item's rarity:"
+      ],
+      "translation": "物品稀有度提升的属性:",
+      "styleMappings": {
+        "item": "物品",
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "  Bonus Pest Chance",
+        "  Farming Fortune"
+      ],
+      "translation": "    额外害虫概率   农业幸运",
+      "styleMappings": {
+        "Bonus Pest Chance": "额外害虫概率",
+        "Farming Fortune": "农业幸运",
+        "Pest": "害虫",
+        "Fortune": "幸运",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "Squeaky Bonus",
+        " Pests spawn {{N0}} faster."
+      ],
+      "translation": "吱吱加成  害虫生成速度加快 {{N0}}.",
+      "styleMappings": {
+        "Squeaky Bonus": "吱吱加成",
+        " Pests": " 害虫",
+        "faster": "加快",
+        "Pests": "害虫",
+        "Bonus": "加成",
+        "Squeaky": "吱吱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view rarity scaling!"
+      ],
+      "translation": "右键查看各稀有度的属性!",
+      "styleMappings": {
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Mining Skill {{N0}}."
+      ],
+      "translation": "❣ 需要采矿技能 {{N0}}.",
+      "styleMappings": {
+        "Mining Skill": "采矿技能",
+        "Requires": "需要",
+        "Mining": "采矿",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC REFORGE STONE"
+      ],
+      "translation": "史诗洗练石",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Squeaky": "吱吱"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

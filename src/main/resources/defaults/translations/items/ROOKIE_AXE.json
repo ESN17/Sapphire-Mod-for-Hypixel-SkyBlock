@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "ROOKIE_AXE",
+  "_original_name": "Rookie Foraging Axe",
+  "_original_lore": [
+    "Damage: +20",
+    "",
+    "Efficiency I",
+    "Increases how quickly your tool",
+    "breaks blocks.",
+    "",
+    "This item can be reforged!",
+    "COMMON AXE"
+  ],
+  "name": "新手采伐斧",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Efficiency I",
+        "Increases how quickly your tool",
+        "breaks blocks."
+      ],
+      "translation": "效率 I 加快工具破坏方块的速度.",
+      "styleMappings": {
+        "Efficiency I": "效率 I",
+        "blocks": "方块",
+        "Efficiency": "效率"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "COMMON AXE"
+      ],
+      "translation": "普通斧",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Foraging Axe": "采伐斧",
+    "Axe": "斧",
+    "Foraging": "采伐"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

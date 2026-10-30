@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "ANANKE_FEATHER",
+  "_original_name": "Ananke Feather",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Consume this delicate feather to add",
+    "a large amount of progress to an",
+    "RNG Meter of your choosing.",
+    "",
+    "Right-click to consume!",
+    "",
+    "RARE"
+  ],
+  "name": "阿南刻羽毛",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Consume this delicate feather to add",
+        "a large amount of progress to an",
+        "RNG Meter of your choosing."
+      ],
+      "translation": "消耗这根精致的羽毛,为你选择的随机数计量表增加大量进度.",
+      "styleMappings": {
+        "RNG Meter": "随机数计量表"
+      }
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Feather": "羽毛"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

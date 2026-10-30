@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "THERMODYNAMIC_CHESTPLATE",
+  "_original_name": "Thermodynamic Chestplate",
+  "_original_lore": [
+    "Defense: +240",
+    "Attack Speed: +5%",
+    "Speed: +25",
+    "",
+    "Full Set Bonus: Newton's Demise (0/4)",
+    "Grants +50 Attack Speed Cap.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Combat Skill 30.",
+    "LEGENDARY CHESTPLATE"
+  ],
+  "name": "热力学胸甲",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Attack Speed: {{N0}}"
+      ],
+      "translation": "攻击速度: {{N0}}",
+      "styleMappings": {
+        "Attack Speed": "攻击速度",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Newton's Demise ({{N0}}/{{N1}})"
+      ],
+      "translation": "全套加成:牛顿之陨 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Full Set Bonus: Newton's Demise": "全套加成:牛顿之陨",
+        "Full Set Bonus": "全套加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Attack Speed Cap."
+      ],
+      "translation": "提升 {{N0}} 攻击速度上限.",
+      "styleMappings": {
+        "Attack Speed Cap": "攻击速度上限",
+        " Attack Speed": " 攻击速度",
+        "Speed Cap": "速度上限",
+        "Speed": "速度",
+        "Attack Speed": "攻击速度"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY CHESTPLATE"
+      ],
+      "translation": "传说 胸甲",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Chestplate": "胸甲"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "id": "FROST_WALKER;1",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Frost Walker I",
+    "Ice blocks will be created below",
+    "you when you walk above water in",
+    "a radius of 1 blocks.",
+    "",
+    "Source:",
+    "I-II: Enchantment Table,",
+    "Ice Collection",
+    "",
+    "Applied To:",
+    "- Boots",
+    "",
+    "Conflicts:",
+    "- Depth Strider",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Frost Walker I"
+      ],
+      "translation": "冰霜行者 I",
+      "styleMappings": {
+        "Frost Walker": "冰霜行者"
+      }
+    },
+    {
+      "source": [
+        "Ice blocks will be created below",
+        "you when you walk above water in",
+        "a radius of {{N0}} blocks."
+      ],
+      "translation": "当你在水面上行走时,会在你下方 {{N0}} 格半径内生成冰方块.",
+      "styleMappings": {
+        "Ice": "冰",
+        "when": "时",
+        "water": "水"
+      }
+    },
+    {
+      "source": [
+        "Source:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "I-II: Enchantment Table,"
+      ],
+      "translation": "一至二级: 附魔台,",
+      "styleMappings": {
+        "Enchantment Table": "附魔台",
+        "I-II": "一至二级",
+        "II": "二",
+        "Enchantment": "附魔"
+      }
+    },
+    {
+      "source": [
+        "Ice Collection"
+      ],
+      "translation": "冰收藏",
+      "styleMappings": {
+        "Ice Collection": "冰收藏",
+        "Collection": "收藏",
+        "Ice": "冰"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "- Boots"
+      ],
+      "translation": "- 靴子",
+      "styleMappings": {
+        "Boots": "靴子"
+      }
+    },
+    {
+      "source": [
+        "Conflicts:"
+      ],
+      "translation": "冲突:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "- Depth Strider"
+      ],
+      "translation": "- 深海探索者",
+      "styleMappings": {
+        "Depth Strider": "深海探索者"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

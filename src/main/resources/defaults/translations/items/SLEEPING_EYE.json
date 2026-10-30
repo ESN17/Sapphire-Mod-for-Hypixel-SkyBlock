@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "SLEEPING_EYE",
+  "_original_name": "Sleeping Eye",
+  "_original_lore": [
+    "Keep this item in your inventory to",
+    "recover your placed Summoning Eye",
+    "when you leave or when you click",
+    "the Ender Altar.",
+    "",
+    "This item becomes imbued with the",
+    "magic of the Dragon when it spawns,",
+    "turning it into a Remnant of the Eye.",
+    "",
+    "EPIC"
+  ],
+  "name": "沉睡之眼",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Keep this item in your inventory to",
+        "recover your placed Summoning Eye",
+        "when you leave or when you click",
+        "the Ender Altar."
+      ],
+      "translation": "将此物品保留在物品栏中,以便在你离开或点击末地祭坛时取回已放置的召唤之眼.",
+      "styleMappings": {
+        "Altar": "祭坛",
+        "Ender": "末地",
+        "Summoning Eye": "召唤之眼",
+        "item": "物品",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "This item becomes imbued with the",
+        "magic of the Dragon when it spawns,",
+        "turning it into a Remnant of the Eye."
+      ],
+      "translation": "当巨龙生成时,此物品会被龙之魔法灌注,变成残存之眼.",
+      "styleMappings": {
+        "item": "物品",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

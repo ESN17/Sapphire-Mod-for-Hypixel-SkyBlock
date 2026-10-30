@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "id": "SUSPICIOUS_RED_GIFT",
+  "_original_name": "Suspicious Red Gift",
+  "_original_lore": [
+    "A suspiciously heavy gift given to",
+    "you by Chuckleton.",
+    "",
+    "Obtained from the A Honk and Seek",
+    "Adventure event during April Fools.",
+    "",
+    "Right-click to open!",
+    "",
+    "All suspicious things come in red.",
+    "",
+    "* Co-op Soulbound *",
+    "SPECIAL"
+  ],
+  "name": "可疑的红色礼物",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A suspiciously heavy gift given to",
+        "you by Chuckleton."
+      ],
+      "translation": "查克尔顿送给你的一个可疑地沉重的礼物.",
+      "styleMappings": {
+        "Chuckleton": "查克尔顿"
+      }
+    },
+    {
+      "source": [
+        "Obtained from the A Honk and Seek",
+        "Adventure event during April Fools."
+      ],
+      "translation": "在愚人节期间的鸣笛寻宝冒险活动中获得.",
+      "styleMappings": {
+        "A Honk and Seek Adventure": "鸣笛寻宝冒险"
+      }
+    },
+    {
+      "source": [
+        "Right-click to open!"
+      ],
+      "translation": "右键点击打开!",
+      "styleMappings": {
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "All suspicious things come in red."
+      ],
+      "translation": "所有可疑的东西都是红色的.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Red": "红色",
+    "Suspicious": "可疑"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

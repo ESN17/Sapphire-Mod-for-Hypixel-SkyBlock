@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ENCHANTED_HAY_BLOCK",
+  "_original_name": "Enchanted Hay Bale",
+  "_original_lore": [
+    "Legacy Item",
+    "",
+    "This item is no longer used",
+    "throughout the game, and can be",
+    "exchanged in your Legacy Trades",
+    "menu, accessed through",
+    "/legacytrades.",
+    "",
+    "* Co-op Soulbound *",
+    "UNCOMMON"
+  ],
+  "name": "附魔干草捆",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Legacy Item"
+      ],
+      "translation": "遗留物品",
+      "styleMappings": {
+        "Item": "物品"
+      }
+    },
+    {
+      "source": [
+        "This item is no longer used",
+        "throughout the game, and can be",
+        "exchanged in your Legacy Trades",
+        "menu, accessed through",
+        "/legacytrades."
+      ],
+      "translation": "此物品已不再于游戏中使用,可在遗留交易菜单中交换,通过 /legacytrades 访问.",
+      "styleMappings": {
+        "item": "物品",
+        "Legacy Trades": "遗留交易"
+      }
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

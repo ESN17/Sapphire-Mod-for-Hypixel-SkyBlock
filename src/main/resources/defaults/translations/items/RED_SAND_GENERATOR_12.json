@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "RED_SAND_GENERATOR_12",
+  "_original_name": "Red Sand Minion XII",
+  "_original_lore": [
+    "Place this minion and it will start",
+    "generating and mining red sand!",
+    "Requires an open area to place red",
+    "sand. Minions also work when you are",
+    "offline!",
+    "",
+    "Time Between Actions: 11s",
+    "Max Storage: 960",
+    "Resources Generated: 0",
+    "",
+    "❣ Requires 12,000 Barbarian Reputation.",
+    "RARE"
+  ],
+  "name": "红沙仆从 XII",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Place this minion and it will start",
+        "generating and mining red sand!"
+      ],
+      "translation": "放置此仆从后, 它将开始生成并挖掘红沙!",
+      "styleMappings": {
+        "minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "Requires an open area to place red",
+        "sand. Minions also work when you are",
+        "offline!"
+      ],
+      "translation": "需要一片开阔区域来放置红沙.仆从在你离线时也会工作!",
+      "styleMappings": {
+        "Requires": "需要",
+        "Minions": "仆从",
+        "work": "工作",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Time Between Actions: {{N0}}s"
+      ],
+      "translation": "行动间隔:{{N0}}秒",
+      "styleMappings": {
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "Max Storage: {{N0}}"
+      ],
+      "translation": "最大存储:{{N0}}",
+      "styleMappings": {
+        "Max": "最大"
+      }
+    },
+    {
+      "source": [
+        "Resources Generated: {{N0}}"
+      ],
+      "translation": "产出资源:{{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "❣ Requires {{N0}} Barbarian Reputation."
+      ],
+      "translation": "❣ 需要 {{N0}} 野蛮人声望.",
+      "styleMappings": {
+        "Barbarian Reputation": "野蛮人声望",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Minion": "仆从"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

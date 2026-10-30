@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "id": "WYLD_HELMET",
+  "_original_name": "Wyld Helmet on a Helmet",
+  "_original_lore": [
+    "Rift Time: +15s",
+    "Intelligence: +10",
+    "",
+    "Ability: Helmets All The Way Down ",
+    "Regain +1ф when killing a monster.",
+    "Note: Monsters already grant time on",
+    "death.",
+    "",
+    "UNCOMMON HELMET"
+  ],
+  "name": "头盔上的荒野头盔",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Rift Time: {{N0}}s"
+      ],
+      "translation": "裂隙时间: {{N0}}秒",
+      "styleMappings": {
+        "Rift Time": "裂隙时间",
+        "{{N0}}s": "{{N0}}秒",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Ability: Helmets All The Way Down "
+      ],
+      "translation": "能力: 一路头盔到底 ",
+      "styleMappings": {
+        "Ability": "能力",
+        "Helmets All The Way Down": "一路头盔到底"
+      }
+    },
+    {
+      "source": [
+        "Regain {{N0}}ф when killing a monster."
+      ],
+      "translation": "击杀怪物时恢复 {{N0}}ф.",
+      "styleMappings": {
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Note: Monsters already grant time on"
+      ],
+      "translation": "注意:怪物死亡时本就会提供时间",
+      "styleMappings": {
+        "Monsters": "怪物"
+      }
+    },
+    {
+      "source": [
+        "death."
+      ],
+      "translation": ".",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "UNCOMMON HELMET"
+      ],
+      "translation": "罕见 头盔",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Helmet": "头盔"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "id": "BAL_BOSS",
+  "_original_name": "Bal (Boss)",
+  "_original_lore": [
+    "The Bal is a Boss located within Khazad-dûm",
+    "in the Crystal Hollows. It guards the Topaz Crystal.",
+    "It takes 1 health of damage per hit,",
+    "regardless of which weapon is used. At various points",
+    "in the fight Bal will summon Fire Bats and Blazes.",
+    "",
+    "Mob Types: ⚂ Cubic, ♨ Infernal, ⛨ Shielded",
+    "❤ Health: 200"
+  ],
+  "name": "巴尔 (首领)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Bal is a Boss located within Khazad-dûm",
+        "in the Crystal Hollows. It guards the Topaz Crystal."
+      ],
+      "translation": "巴尔是位于水晶洞窟中卡扎督姆内的首领.它守护着黄玉水晶.",
+      "styleMappings": {
+        "the Crystal Hollows": "水晶洞窟",
+        "Topaz Crystal": "黄玉水晶",
+        "Boss": "首领",
+        "Bal": "巴尔",
+        "Crystal": "水晶",
+        "Crystal Hollows": "水晶洞窟",
+        "Topaz": "黄玉",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "It takes {{N0}} health of damage per hit,",
+        "regardless of which weapon is used. At various points",
+        "in the fight Bal will summon Fire Bats and Blazes."
+      ],
+      "translation": "无论使用何种武器,每次攻击造成 {{N0}} 生命值伤害.战斗中巴尔会在不同阶段召唤火焰蝙蝠和烈焰人.",
+      "styleMappings": {
+        "Fire Bats": "火焰蝙蝠",
+        "Blazes": "烈焰人",
+        "damage": "伤害",
+        "health": "生命值",
+        "hit": "攻击",
+        "Bal": "巴尔",
+        "Fire": "火焰",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Mob Types: ⚂ Cubic, ♨ Infernal, ⛨ Shielded"
+      ],
+      "translation": "生物类型: ⚂ 立方体, ♨ 地狱, ⛨ 护盾",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Infernal": "地狱",
+        "Shielded": "护盾",
+        "Cubic": "立方体"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Boss": "首领",
+    "Bal": "巴尔"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

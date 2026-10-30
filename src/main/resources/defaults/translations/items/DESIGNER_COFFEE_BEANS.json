@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "DESIGNER_COFFEE_BEANS",
+  "_original_name": "Designer Coffee Beans",
+  "_original_lore": [
+    "Dropped rarely from Cocoa Beans",
+    "during the Harvest Feast event.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "设计师咖啡豆",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Dropped rarely from Cocoa Beans",
+        "during the Harvest Feast event."
+      ],
+      "translation": "在丰收盛宴活动期间,有较低概率从可可豆中掉落.",
+      "styleMappings": {
+        "Harvest Feast": "丰收盛宴",
+        "Cocoa Beans": "可可豆",
+        "Feast": "盛宴"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

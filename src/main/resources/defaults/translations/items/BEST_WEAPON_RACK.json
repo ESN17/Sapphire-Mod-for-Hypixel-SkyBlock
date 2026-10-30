@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "BEST_WEAPON_RACK",
+  "_original_name": "Weapon Rack+",
+  "_original_lore": [
+    "Furniture",
+    "Item Showcase",
+    "Storage",
+    "",
+    "Show off your best weapon (sword,",
+    "pickaxe, or axe) including a hologram",
+    "with stats!",
+    "",
+    "COMMON"
+  ],
+  "name": "武器架+",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Furniture",
+        "Item Showcase",
+        "Storage"
+      ],
+      "translation": "家具 物品展示 存储",
+      "styleMappings": {
+        "Furniture": "家具",
+        "Item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Show off your best weapon (sword,",
+        "pickaxe, or axe) including a hologram",
+        "with stats!"
+      ],
+      "translation": "展示你最好的武器 (剑、镐或斧),并附带全息投影属性展示!",
+      "styleMappings": {
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Weapon": "武器"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

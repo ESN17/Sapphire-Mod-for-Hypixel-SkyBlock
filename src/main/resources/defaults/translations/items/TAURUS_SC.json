@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "TAURUS_SC",
+  "_original_name": "Taurus (Sea Creature)",
+  "_original_lore": [
+    "Mob Types: ♆ Magmatic, ✰ Humanoid, ☮ Animal",
+    "❤ Health: 3,000,000",
+    "",
+    "EPIC"
+  ],
+  "name": "金牛 (海怪)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mob Types: ♆ Magmatic, ✰ Humanoid, ☮ Animal"
+      ],
+      "translation": "生物类型: ♆ 岩浆生物, ✰ 人形生物, ☮ 动物",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Magmatic": "岩浆生物",
+        "Humanoid": "人形生物",
+        "Animal": "动物"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sea Creature": "海怪",
+    "Taurus": "金牛",
+    "(Sea Creature)": "(海怪)"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

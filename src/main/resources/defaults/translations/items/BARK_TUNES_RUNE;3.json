@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "BARK_TUNES_RUNE;3",
+  "_original_name": "◆ Bark Tunes Rune III",
+  "_original_lore": [
+    "Requires level 0",
+    "Weapons",
+    "",
+    "Plays aggresive barks when slaying",
+    "an enemy. Obtained from Fire Sales.",
+    "",
+    "Apply this rune to weapons or fuse",
+    "two together at the Runic Pedestal!",
+    "",
+    "LEGENDARY COSMETIC"
+  ],
+  "name": "◆ 吠叫曲调符文 III",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Requires level {{N0}}",
+        "Weapons"
+      ],
+      "translation": "需要等级 {{N0}} 武器",
+      "styleMappings": {
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Plays aggresive barks when slaying",
+        "an enemy. Obtained from Fire Sales."
+      ],
+      "translation": "击杀敌人时发出凶猛的吠叫声.从限时抢购中获得.",
+      "styleMappings": {
+        "Fire Sales": "限时抢购",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Apply this rune to weapons or fuse",
+        "two together at the Runic Pedestal!"
+      ],
+      "translation": "将此符文应用于武器,或在符文基座上将两个符文融合!",
+      "styleMappings": {
+        "Runic Pedestal": "符文基座",
+        "Runic": "符文"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY COSMETIC"
+      ],
+      "translation": "传说外观",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Rune III": "符文 III",
+    "III": "III"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

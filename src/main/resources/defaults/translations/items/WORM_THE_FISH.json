@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "WORM_THE_FISH",
+  "_original_name": "Worm the Fish",
+  "_original_lore": [
+    "I come from a land down under.",
+    "",
+    "SPECIAL"
+  ],
+  "name": "鱼饵虫",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "I come from a land down under."
+      ],
+      "translation": "我来自南半球的一片土地.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Worm the Fish": "鱼饵虫",
+    "Fish": "鱼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

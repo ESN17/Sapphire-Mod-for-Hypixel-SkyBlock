@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "id": "HELLFIRE_ROD",
+  "_original_name": "Hellfire Rod",
+  "_original_lore": [
+    "Lava Rod",
+    "",
+    "Damage: +225",
+    "Strength: +225",
+    "Fishing Speed: +60",
+    "Sea Creature Chance: +14%",
+    "Trophy Chance: +25%",
+    "Gemstones: [] []",
+    "",
+    "ථ Hook NONE",
+    "ꨃ Line NONE",
+    "࿉ Sinker NONE",
+    "",
+    "Talk to Roddy in the Backwater",
+    "Bayou to apply parts to this rod.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Fishing Skill 35.",
+    "LEGENDARY FISHING ROD"
+  ],
+  "name": "地狱火钓竿",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Lava Rod"
+      ],
+      "translation": "熔岩钓竿",
+      "styleMappings": {
+        "Lava": "熔岩"
+      }
+    },
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Fishing Speed: {{N0}}"
+      ],
+      "translation": "钓鱼速度: {{N0}}",
+      "styleMappings": {
+        "Fishing Speed": "钓鱼速度",
+        "Fishing": "钓鱼",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Sea Creature Chance: {{N0}}"
+      ],
+      "translation": "海洋生物概率:{{N0}}",
+      "styleMappings": {
+        "Sea Creature Chance": "海洋生物概率",
+        "Sea Creature": "海洋生物"
+      }
+    },
+    {
+      "source": [
+        "Trophy Chance: {{N0}}"
+      ],
+      "translation": "奖杯概率:{{N0}}",
+      "styleMappings": {
+        "Trophy Chance": "奖杯概率",
+        "Trophy": "奖杯"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [] []"
+      ],
+      "translation": "宝石: [] []",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石",
+        "] [": "] ["
+      }
+    },
+    {
+      "source": [
+        "ථ Hook NONE",
+        "ꨃ Line NONE",
+        "࿉ Sinker NONE"
+      ],
+      "translation": "ථ 鱼钩 无 ꨃ 鱼线 无 ࿉ 沉子 无",
+      "styleMappings": {
+        "Sinker": "沉子",
+        "Hook": "鱼钩",
+        "Line": "鱼线",
+        "NONE": "无"
+      }
+    },
+    {
+      "source": [
+        "Talk to Roddy in the Backwater",
+        "Bayou to apply parts to this rod."
+      ],
+      "translation": "与静水河湾的 Roddy 交谈,为这根钓竿安装部件.",
+      "styleMappings": {
+        "Roddy": "Roddy",
+        "Backwater Bayou": "静水河湾",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Fishing Skill {{N0}}."
+      ],
+      "translation": "❣ 需要钓鱼技能 {{N0}}.",
+      "styleMappings": {
+        "Fishing Skill": "钓鱼技能",
+        "Requires": "需要",
+        "Fishing": "钓鱼",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY FISHING ROD"
+      ],
+      "translation": "传说钓鱼竿",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

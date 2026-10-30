@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "REFINED_MINERAL",
+  "_original_name": "Refined Mineral",
+  "_original_lore": [
+    "Drops rarely from Ores and",
+    "Dwarven Metals while Mayor Cole is in",
+    "office.",
+    "",
+    "A material so pure it comes",
+    "pre-refined from its place of origin.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "RARE"
+  ],
+  "name": "精炼矿物",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Drops rarely from Ores and",
+        "Dwarven Metals while Mayor Cole is in",
+        "office."
+      ],
+      "translation": "在 Cole 市长任职期间,有较低几率从矿石和矮人金属中掉落.",
+      "styleMappings": {
+        "Dwarven Metals": "矮人金属",
+        "Mayor Cole": "Cole 市长",
+        "Ores": "矿石",
+        "Mayor": "市长"
+      }
+    },
+    {
+      "source": [
+        "A material so pure it comes",
+        "pre-refined from its place of origin."
+      ],
+      "translation": "一种如此纯净的材料,从产地开采出来时就已精炼完毕.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Refined": "精炼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

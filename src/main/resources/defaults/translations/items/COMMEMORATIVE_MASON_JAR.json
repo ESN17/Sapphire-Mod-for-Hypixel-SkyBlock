@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "COMMEMORATIVE_MASON_JAR",
+  "_original_name": "Commemorative Mason Jar",
+  "_original_lore": [
+    "Obtained during the 1st Harvest",
+    "Feast for reaching the highest",
+    "Donation Tier possible.",
+    "",
+    "* Co-op Soulbound *",
+    "SPECIAL"
+  ],
+  "name": "纪念梅森罐",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Obtained during the {{N0}}st Harvest",
+        "Feast for reaching the highest",
+        "Donation Tier possible."
+      ],
+      "translation": "在第 {{N0}} 届丰收盛宴期间,达到最高捐赠等级时获得.",
+      "styleMappings": {
+        "Donation Tier": "捐赠等级",
+        "Harvest Feast": "丰收盛宴",
+        "for": "获得",
+        "Feast": "盛宴"
+      }
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

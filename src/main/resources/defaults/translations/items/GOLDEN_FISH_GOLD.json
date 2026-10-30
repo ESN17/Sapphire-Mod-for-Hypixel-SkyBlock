@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "GOLDEN_FISH_GOLD",
+  "_original_name": "Golden Fish GOLD",
+  "_original_lore": [
+    "Found swimming around in the lava.",
+    "",
+    "Bring this to Odger at the top of the",
+    "Blazing Volcano.",
+    "",
+    "* Soulbound *",
+    "LEGENDARY TROPHY"
+  ],
+  "name": "金鱼 黄金",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Found swimming around in the lava."
+      ],
+      "translation": "被发现游弋在熔岩中.",
+      "styleMappings": {
+        "lava": "熔岩"
+      }
+    },
+    {
+      "source": [
+        "Bring this to Odger at the top of the",
+        "Blazing Volcano."
+      ],
+      "translation": "将此物交给炽焰火山顶部的 Odger.",
+      "styleMappings": {
+        "Blazing Volcano": "炽焰火山",
+        "Odger": "Odger"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY TROPHY"
+      ],
+      "translation": "传说奖杯",
+      "styleMappings": {
+        "LEGENDARY TROPHY": "传说奖杯",
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Golden Fish": "金鱼",
+    "GOLD": "黄金",
+    "Fish": "鱼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

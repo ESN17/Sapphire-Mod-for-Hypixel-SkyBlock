@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_MANA;1",
+  "_original_name": "Mana I Potion",
+  "_original_lore": [
+    "",
+    "Mana I (3:00)",
+    "Grants +1 ✎ Mana per second.",
+    "",
+    "COMMON"
+  ],
+  "name": "法力 I 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mana I ({{N0}}:{{N1}})"
+      ],
+      "translation": "法力 I ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Mana I": "法力 I",
+        "Mana": "法力"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} ✎ Mana per second."
+      ],
+      "translation": "每秒提供 {{N0}} ✎ 法力.",
+      "styleMappings": {
+        "per second": "每秒",
+        "Grants": "提供",
+        "Mana": "法力",
+        "second": "秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mana I": "法力 I",
+    "Mana": "法力"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "PET_ITEM_EXP_SHARE_DROP",
+  "_original_name": "Exp Share Core",
+  "_original_lore": [
+    "Used to craft the Exp Share pet item.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "EPIC"
+  ],
+  "name": "经验共享核心",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Used to craft the Exp Share pet item."
+      ],
+      "translation": "用于合成经验共享宠物物品.",
+      "styleMappings": {
+        "Exp Share": "经验共享",
+        "item": "物品",
+        "pet": "宠物",
+        "Exp": "经验",
+        "pet item": "宠物物品"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Exp Share": "经验共享",
+    "Exp": "经验"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

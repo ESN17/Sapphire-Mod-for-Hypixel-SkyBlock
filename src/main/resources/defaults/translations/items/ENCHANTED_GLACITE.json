@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "ENCHANTED_GLACITE",
+  "_original_name": "Enchanted Glacite",
+  "_original_lore": [
+    "Brewing Ingredient",
+    "Collection Item",
+    "",
+    "RARE DWARVEN METAL"
+  ],
+  "name": "附魔冰晶石",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Brewing Ingredient",
+        "Collection Item"
+      ],
+      "translation": "酿造材料收藏物品",
+      "styleMappings": {
+        "Brewing Ingredient": "酿造材料",
+        "Collection Item": "收藏物品",
+        "Collection": "收藏",
+        "Item": "物品"
+      }
+    },
+    {
+      "source": [
+        "RARE DWARVEN METAL"
+      ],
+      "translation": "稀有矮人金属",
+      "styleMappings": {
+        "RARE DWARVEN METAL": "稀有矮人金属",
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

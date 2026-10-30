@@ -1,0 +1,360 @@
+[
+  {
+    "menu": "SkyBlock Menu",
+    "expected": "技能",
+    "name": "§aYour Skills",
+    "lore": [
+      "§7View your Skill progression and",
+      "§7rewards.",
+      " ",
+      "§60.0 Skill Avg. §8(non-cosmetic)",
+      " ",
+      "§8Also accessible via /skills",
+      " ",
+      "§eClick to view!"
+    ]
+  },
+  {
+    "menu": "SkyBlock Menu",
+    "expected": "仓库",
+    "name": "§aStorage",
+    "lore": [
+      "§7Store global items that you",
+      "§7want to access at any time",
+      "§7from anywhere here.",
+      " ",
+      "§8Also accessible via /storage",
+      " ",
+      "§eClick to view!"
+    ]
+  },
+  {
+    "menu": "SkyBlock Menu",
+    "expected": "随身袋",
+    "name": "§aYour Bags",
+    "lore": [
+      "§7§7Different bags allow you to",
+      "§7store many different items",
+      "§7inside!",
+      "",
+      "§8Also accessible via /bags",
+      " ",
+      "§eClick to open!"
+    ]
+  },
+  {
+    "menu": "SkyBlock Menu",
+    "expected": "宠物",
+    "name": "§aPets",
+    "lore": [
+      "§7View and manage all your",
+      "§7Pets.",
+      " ",
+      "§7Level up your pets faster by",
+      "§7gaining xp in their favorite",
+      "§7Skill!",
+      " ",
+      "§7Selected Pet: §cNone",
+      " ",
+      "§8Also accessible via /pets",
+      " ",
+      "§eClick to view!"
+    ]
+  },
+  {
+    "menu": "SkyBlock Menu",
+    "expected": "工作台",
+    "name": "§aCrafting Table",
+    "lore": [
+      "§7Opens the crafting grid.",
+      " ",
+      "§8Also accessible via /craft",
+      " ",
+      "§eClick to open!"
+    ]
+  },
+  {
+    "menu": "SkyBlock Menu",
+    "expected": "衣柜",
+    "name": "§aWardrobe",
+    "lore": [
+      "§7Store armor sets and quickly",
+      "§7swap between them!",
+      "",
+      "§8Also accessible via /wardrobe",
+      " ",
+      "§eClick to view!"
+    ]
+  },
+  {
+    "menu": "SkyBlock Menu",
+    "expected": "设置",
+    "name": "§aSettings",
+    "lore": [
+      "§7View and edit your SkyBlock",
+      "§7settings.",
+      "",
+      "§8Also accessible via /viewsettings",
+      " ",
+      "§eClick to view!"
+    ]
+  },
+  {
+    "menu": "SkyBlock Menu",
+    "expected": "储物袋总袋",
+    "name": "§aSack of Sacks",
+    "lore": [
+      "§7A sack which contains other",
+      "§7sacks. Sackception!",
+      "",
+      "§eClick to open!"
+    ]
+  },
+  {
+    "menu": "SkyBlock Menu",
+    "expected": "钓鱼袋",
+    "name": "§aFishing Bag",
+    "lore": [
+      "§7A useful bag which can hold all",
+      "§7types of fish, bait, and fishing",
+      "§7loot!",
+      "",
+      "§eClick to open!"
+    ]
+  },
+  {
+    "menu": "SkyBlock Menu",
+    "expected": "药水袋",
+    "name": "§aPotion Bag",
+    "lore": [
+      "§7A handy bag for holding your",
+      "§7Potions in.",
+      "",
+      "§eClick to open!"
+    ]
+  },
+  {
+    "menu": "Auction House",
+    "expected": "拍卖列表",
+    "name": "§6Auctions Browser",
+    "lore": [
+      "§7Find items for sale by players",
+      "§7across Hypixel SkyBlock!",
+      "§5",
+      "§7Items offered here are for §6auction§7,",
+      "§7meaning you have to place the top",
+      "§7bid to acquire them!",
+      "§5",
+      "§eClick to browse!"
+    ]
+  },
+  {
+    "menu": "Auction House",
+    "expected": "管理出价",
+    "name": "§aManage Bids",
+    "lore": [
+      "§7View and manage your bids.",
+      "§5",
+      "§eClick to view!"
+    ]
+  },
+  {
+    "menu": "Auction House",
+    "expected": "创建拍卖",
+    "name": "§aCreate Auction",
+    "lore": [
+      "§7Set your own items on auction for",
+      "§7other players to purchase.",
+      "§5",
+      "§eClick to become rich!"
+    ]
+  },
+  {
+    "menu": "Auction House",
+    "expected": "创建拍卖",
+    "name": "§cCreate Auction",
+    "lore": [
+      "§7No item selected!",
+      "§5",
+      "§7Click an item in your inventory to",
+      "§7select it for this auction."
+    ]
+  },
+  {
+    "menu": "Auction House",
+    "expected": "切换为一口价",
+    "name": "§aSwitch to BIN",
+    "lore": [
+      "§7BIN Auctions are simple.",
+      "§5",
+      "§7Set a price, then one player may buy",
+      "§7the item at that price.",
+      "§5",
+      "§8(BIN means Buy It Now)",
+      "§5",
+      "§eClick to switch!"
+    ]
+  },
+  {
+    "menu": "Auction House",
+    "expected": "切换为竞拍",
+    "name": "§aSwitch to Auction",
+    "lore": [
+      "§7With traditional auctions, multiple",
+      "§7buyers compete for the item by",
+      "§7bidding turn by turn.",
+      "§5",
+      "§eClick to switch!"
+    ]
+  },
+  {
+    "menu": "Auction House",
+    "expected": "自定义时长",
+    "name": "§aCustom Duration",
+    "lore": [
+      "§7Specify how long you want the",
+      "§7auction to last.",
+      "§5",
+      "§bRight-click for minutes!",
+      "§eClick to set hours!"
+    ]
+  },
+  {
+    "menu": "Auction House",
+    "expected": "武器",
+    "name": "§eWeapons",
+    "lore": [
+      "§8Category",
+      "§5",
+      "§7Examples:",
+      "§8◼ §7Swords",
+      "§8◼ §7Bows",
+      "§8◼ §7Magic Weapons",
+      "§5",
+      "§aCurrently browsing!"
+    ]
+  },
+  {
+    "menu": "Auction House",
+    "expected": "盔甲",
+    "name": "§bArmor",
+    "lore": [
+      "§8Category",
+      "§5",
+      "§7Examples:",
+      "§8◼ §7Hats",
+      "§8◼ §7Chestplates",
+      "§8◼ §7Leggings",
+      "§8◼ §7Boots",
+      "§5",
+      "§eClick to view items!"
+    ]
+  },
+  {
+    "menu": "Auction House",
+    "expected": "饰品",
+    "name": "§2Accessories",
+    "lore": [
+      "§8Category",
+      "§5",
+      "§7Examples:",
+      "§8◼ §7Talismans",
+      "§8◼ §7Rings",
+      "§8◼ §7Orbs",
+      "§8◼ §7Artifacts",
+      "§5",
+      "§eClick to view items!"
+    ]
+  },
+  {
+    "menu": "Auction House",
+    "expected": "消耗品",
+    "name": "§cConsumables",
+    "lore": [
+      "§8Category",
+      "§5",
+      "§7Examples:",
+      "§8◼ §7Potions",
+      "§8◼ §7Food",
+      "§8◼ §7Books",
+      "§5",
+      "§eClick to view items!"
+    ]
+  },
+  {
+    "menu": "Auction House",
+    "expected": "装饰品",
+    "name": "§6Cosmetics",
+    "lore": [
+      "§8Category",
+      "§5",
+      "§7Examples:",
+      "§8◼ §7Dyes",
+      "§8◼ §7Skins",
+      "§8◼ §7Runes",
+      "§8◼ §7Furniture",
+      "§5",
+      "§eClick to view items!"
+    ]
+  },
+  {
+    "menu": "Auction House",
+    "expected": "排序",
+    "name": "§aSort",
+    "lore": [
+      "§5",
+      "§b▶ Highest Bid",
+      "§7 Lowest Bid",
+      "§7 Ending soon",
+      "§7 Most Bids",
+      "§5",
+      "§bRight-click to go backwards!",
+      "§eClick to switch sort!"
+    ]
+  },
+  {
+    "menu": "Auction House",
+    "expected": "物品稀有度",
+    "name": "§aItem Tier",
+    "lore": [
+      "§5",
+      "§8▶ No filter",
+      "§7 Common",
+      "§7 Uncommon",
+      "§7 Rare",
+      "§7 Epic",
+      "§7 Legendary",
+      "§7 Mythic",
+      "§7 Divine",
+      "§e And 3 more options",
+      "§5",
+      "§bRight-click to go backwards!",
+      "§eClick to switch rarity!"
+    ]
+  },
+  {
+    "menu": "Auction House",
+    "expected": "拍卖类型",
+    "name": "§aBIN Filter",
+    "lore": [
+      "§5",
+      "§3▶ Show All",
+      "§7 BIN Only",
+      "§7 Auctions Only",
+      "§5",
+      "§bRight-Click to go backwards!",
+      "§eClick to switch filter!"
+    ]
+  },
+  {
+    "menu": "Auction House",
+    "expected": "出价记录",
+    "name": "§fBid History",
+    "lore": [
+      "§7No bids have been placed on this",
+      "§7item yet.",
+      "",
+      "§7Be the first to bid on it!"
+    ]
+  }
+]

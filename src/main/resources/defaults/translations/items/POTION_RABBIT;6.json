@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_RABBIT;6",
+  "_original_name": "Rabbit VI Potion",
+  "_original_lore": [
+    "",
+    "Rabbit VI (3:00)",
+    "Grants Jump Boost III and +60 ",
+    "Speed.",
+    "",
+    "RARE"
+  ],
+  "name": "兔子 VI 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Rabbit VI ({{N0}}:{{N1}})"
+      ],
+      "translation": "兔子 VI ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Rabbit VI": "兔子 VI",
+        "Rabbit": "兔子"
+      }
+    },
+    {
+      "source": [
+        "Grants Jump Boost III and {{N0}} ",
+        "Speed."
+      ],
+      "translation": "给予跳跃提升 III 和 {{N0}}  速度.",
+      "styleMappings": {
+        "Jump Boost III": "跳跃提升 III",
+        " Speed": " 速度",
+        "Grants": "给予",
+        "III": "III",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Rabbit VI": "兔子 VI",
+    "Rabbit": "兔子"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

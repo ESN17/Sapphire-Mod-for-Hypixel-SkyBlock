@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "FIRST_MASTER_STAR",
+  "_original_name": "First Master Star",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Imbue a 5✪ Dungeon Item with a",
+    "Master Star ➊, increasing all stats",
+    "by an additional +5% in Master Mode!",
+    "",
+    "EPIC DUNGEON ITEM"
+  ],
+  "name": "第一大师之星",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Imbue a {{N0}}✪ Dungeon Item with a",
+        "Master Star ➊, increasing all stats",
+        "by an additional {{N1}} in Master Mode!"
+      ],
+      "translation": "为 {{N0}}✪ 地牢物品注入大师之星 ➊,在大师模式中额外提升 {{N1}} 所有属性!",
+      "styleMappings": {
+        "Master Star ➊": "大师之星 ➊",
+        "Dungeon Item": "地牢物品",
+        "Master Mode": "大师模式",
+        "additional": "额外",
+        "stats": "属性",
+        "Item": "物品",
+        "Dungeon": "地牢",
+        "Master": "大师"
+      }
+    },
+    {
+      "source": [
+        "EPIC DUNGEON ITEM"
+      ],
+      "translation": "史诗 地牢物品",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Master": "大师"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

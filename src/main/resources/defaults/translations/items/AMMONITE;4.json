@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 1,
+  "id": "AMMONITE;4",
+  "_original_name": "[Lvl {LVL}] Ammonite",
+  "_original_lore": [
+    "Fishing Pet",
+    "",
+    "Sea Creature Chance: +{SEA_CREATURE_CHANCE}",
+    "",
+    "Heart of the Sea",
+    "Grants +{0} Sea Creature Chance",
+    "to your pet for each Heart of the",
+    "Mountain level.",
+    "",
+    "Expert Cave Fisher",
+    "Grants +{1} Double Hook Chance",
+    "for each Heart of the Mountain level",
+    "while in the Crystal Hollows.",
+    "",
+    "Gift of the Ammonite",
+    "Each Mining and Fishing level grants",
+    "+{2} Fishing Speed, +{3} Speed",
+    "and +{4} Defense.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "LEGENDARY PET"
+  ],
+  "name": "[等级 {LVL}] 菊石",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Fishing Pet"
+      ],
+      "translation": "钓鱼宠物",
+      "styleMappings": {
+        "Fishing": "钓鱼",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Sea Creature Chance: +{{N0}}"
+      ],
+      "translation": "海洋生物概率: +{{N0}}",
+      "styleMappings": {
+        "Sea Creature Chance": "海洋生物概率",
+        "Sea Creature": "海洋生物"
+      }
+    },
+    {
+      "source": [
+        "Heart of the Sea"
+      ],
+      "translation": "海洋之心",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants +{{N0}} Sea Creature Chance",
+        "to your pet for each Heart of the",
+        "Mountain level."
+      ],
+      "translation": "每级山之心为你的宠物提供 +{{N0}} 海洋生物概率.",
+      "styleMappings": {
+        "Heart of the Mountain": "山之心",
+        "Sea Creature Chance": "海洋生物概率",
+        "Grants": "提供",
+        "pet": "宠物",
+        "Sea Creature": "海洋生物"
+      }
+    },
+    {
+      "source": [
+        "Expert Cave Fisher"
+      ],
+      "translation": "洞穴钓鱼专家",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants +{{N0}} Double Hook Chance",
+        "for each Heart of the Mountain level",
+        "while in the Crystal Hollows."
+      ],
+      "translation": "在水晶洞窟中时,每级山之心提供 +{{N0}} 双钩概率.",
+      "styleMappings": {
+        "Heart of the Mountain": "山之心",
+        "Double Hook Chance": "双钩概率",
+        "Crystal Hollows": "水晶洞窟",
+        "Grants": "提供",
+        "Crystal": "水晶"
+      }
+    },
+    {
+      "source": [
+        "Gift of the Ammonite"
+      ],
+      "translation": "菊石之馈赠",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Each Mining and Fishing level grants",
+        "+{{N0}} Fishing Speed, +{{N1}} Speed",
+        "and +{{N2}} Defense."
+      ],
+      "translation": "每级采矿和钓鱼等级提供 +{{N0}} 钓鱼速度, +{{N1}} 速度 和 +{{N2}} 防御.",
+      "styleMappings": {
+        "Fishing Speed": "钓鱼速度",
+        " Defense": " 防御",
+        "Fishing": "钓鱼",
+        " Speed": " 速度",
+        "Mining": "采矿",
+        "Defense": "防御",
+        "Speed": "速度",
+        " Fishing Speed": " 钓鱼速度"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY PET"
+      ],
+      "translation": "传说 宠物",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

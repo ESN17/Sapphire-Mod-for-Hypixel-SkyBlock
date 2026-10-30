@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "id": "TURBO_PUMPKIN;1",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Turbo-Pumpkin I",
+    "Grants +5 Pumpkin Fortune.",
+    "",
+    "Sources:",
+    " - Jacob's Farming Contest (I)",
+    " - Bazaar (I-V)",
+    " - Turbo Gourd (VI)",
+    " - Enchanted Turbo Gourd (VII)",
+    "",
+    "Applied To:",
+    " - Farming Tool",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Turbo-Pumpkin I"
+      ],
+      "translation": "南瓜增产 I",
+      "styleMappings": {
+        "Turbo-Pumpkin": "南瓜增产",
+        "Pumpkin": "南瓜"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Pumpkin Fortune."
+      ],
+      "translation": "提供 {{N0}} 南瓜幸运.",
+      "styleMappings": {
+        "Pumpkin Fortune": "南瓜幸运",
+        "Grants": "提供",
+        "Pumpkin": "南瓜",
+        "Fortune": "幸运"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Jacob's Farming Contest (I)",
+        " - Bazaar (I-V)",
+        " - Turbo Gourd (VI)",
+        " - Enchanted Turbo Gourd (VII)"
+      ],
+      "translation": " - 雅各布的农业竞赛 (I)  - 集市 (I-V)  - 涡轮葫芦 (VI)  - 附魔涡轮南瓜 (VII)",
+      "styleMappings": {
+        "Enchanted Turbo Gourd": "附魔涡轮南瓜",
+        "Bazaar": "集市",
+        "Jacob's Farming Contest": "雅各布的农业竞赛",
+        "I-V": "I-V",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Farming Tool"
+      ],
+      "translation": " - 农业工具",
+      "styleMappings": {
+        "Farming Tool": "农业工具",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

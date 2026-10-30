@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "id": "JERRY_SPECIAL_MAYOR_MONSTER",
+  "_original_name": "Jerry (Mayor)",
+  "_original_lore": [
+    "Special Candidate",
+    "",
+    "Perkpocalypse",
+    "Activates all perks of another",
+    "mayor every 18 Skyblock Days",
+    "(6 hours).",
+    "",
+    "Jerrypocalypse",
+    "Reveal Hidden Jerries from",
+    "logging, farming, mining and",
+    "killing mobs.",
+    "",
+    "Statspocalypse",
+    "Increases all Combat and",
+    "Miscellaneous stats by 10%.",
+    "",
+    "This is a SPECIAL candidate!",
+    "It rarely appears!"
+  ],
+  "name": "杰瑞 (市长)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Special Candidate"
+      ],
+      "translation": "特殊候选人",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Perkpocalypse",
+        "Activates all perks of another",
+        "mayor every {{N0}} Skyblock Days",
+        "({{N1}} hours)."
+      ],
+      "translation": "增益大灾变每 {{N0}} 个空岛天 ({{N1}} 小时) 激活另一位市长的所有增益.",
+      "styleMappings": {
+        "Perkpocalypse": "增益大灾变",
+        "hours": "小时"
+      }
+    },
+    {
+      "source": [
+        "Jerrypocalypse",
+        "Reveal Hidden Jerries from",
+        "logging, farming, mining and",
+        "killing mobs."
+      ],
+      "translation": "杰瑞天启 在伐木、耕种、采矿和击杀生物时揭示隐藏的 杰瑞.",
+      "styleMappings": {
+        "Jerrypocalypse": "杰瑞天启",
+        "mobs": "生物"
+      }
+    },
+    {
+      "source": [
+        "Statspocalypse",
+        "Increases all Combat and",
+        "Miscellaneous stats by {{N0}}."
+      ],
+      "translation": "属性天启 将所有战斗和杂项属性提高 {{N0}}.",
+      "styleMappings": {
+        "Statspocalypse": "属性天启",
+        "Miscellaneous": "杂项",
+        "Combat": "战斗",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "This is a SPECIAL candidate!"
+      ],
+      "translation": "这是一位特殊候选人!",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    },
+    {
+      "source": [
+        "It rarely appears!"
+      ],
+      "translation": "它很少出现!",
+      "styleMappings": {}
+    }
+  ],
+  "styleMappings": {
+    "Mayor": "市长",
+    "Jerry": "杰瑞"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

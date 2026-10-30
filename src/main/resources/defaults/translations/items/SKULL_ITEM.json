@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "SKULL_ITEM",
+  "_original_name": "Skeleton Skull",
+  "_original_lore": [
+    "* Co-op Soulbound *",
+    "RARE"
+  ],
+  "name": "骷髅头颅",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Skeleton": "骷髅",
+    "Skull": "骷髅"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

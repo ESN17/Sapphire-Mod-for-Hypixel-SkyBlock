@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "id": "SOUL_CAMPFIRE_TALISMAN_2",
+  "_original_name": "Soul Campfire Initiate Badge II",
+  "_original_lore": [
+    "Accessory Power: +3",
+    "",
+    "Grants +3 Defense while burning.",
+    "",
+    "Trial of Blue Flames 3",
+    "\"Fire guy!\"",
+    "",
+    "* Soulbound *",
+    "Works while in Accessory Bag!",
+    "COMMON ACCESSORY"
+  ],
+  "name": "灵魂营火入门者徽章 II",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Accessory Power: {{N0}}"
+      ],
+      "translation": "饰品能量: {{N0}}",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Defense while burning."
+      ],
+      "translation": "燃烧时提供 {{N0}} 防御.",
+      "styleMappings": {
+        " Defense": " 防御",
+        "Grants": "提供",
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Trial of Blue Flames {{N0}}",
+        "\"Fire guy!\""
+      ],
+      "translation": "蓝焰试炼 {{N0}} \"火人!\"",
+      "styleMappings": {
+        "Trial of Blue Flames": "蓝焰试炼"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "放在饰品袋中即可生效!",
+      "styleMappings": {
+        "Accessory Bag": "饰品袋",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "COMMON ACCESSORY"
+      ],
+      "translation": "普通饰品",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Soul": "灵魂",
+    "II": "II"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

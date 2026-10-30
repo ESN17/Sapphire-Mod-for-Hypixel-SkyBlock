@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "BONZO_FRAGMENT",
+  "_original_name": "Bonzo Fragment",
+  "_original_lore": [
+    "Right-click to view recipes!",
+    "",
+    "RARE DUNGEON ITEM"
+  ],
+  "name": "邦佐碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE DUNGEON ITEM"
+      ],
+      "translation": "稀有 地牢物品",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Bonzo": "邦佐",
+    "Bonzo Fragment": "邦佐碎片"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_WEAKNESS;8",
+  "_original_name": "Weakness VIII Potion",
+  "_original_lore": [
+    "",
+    "Weakness VIII (3:00)",
+    "Reduces  Damage when attacking",
+    "enemies by 50.",
+    "",
+    "EPIC"
+  ],
+  "name": "虚弱 VIII 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Weakness VIII ({{N0}}:{{N1}})"
+      ],
+      "translation": "虚弱 VIII ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Weakness VIII": "虚弱 VIII"
+      }
+    },
+    {
+      "source": [
+        "Reduces  Damage when attacking",
+        "enemies by {{N0}}."
+      ],
+      "translation": "攻击敌人时降低 伤害 {{N0}}.",
+      "styleMappings": {
+        " Damage": " 伤害",
+        "Damage": "伤害",
+        "enemies": "敌人",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Weakness VIII": "虚弱 VIII"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

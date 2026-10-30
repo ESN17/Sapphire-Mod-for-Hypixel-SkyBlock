@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "id": "ATTRIBUTE_SHARD_SOLAR_POWER;1",
+  "_original_name": "Firefly Shard",
+  "_original_lore": [
+    "Solar Power I",
+    "Grants +5  Farming Fortune during",
+    "the day.",
+    "",
+    "You can Syphon this shard from",
+    "your Hunting Box.",
+    "",
+    "Right-click to send to Hunting Box!",
+    "Shift Right-click to move all!",
+    "",
+    "❣ Requires Hunting Skill 15.",
+    "EPIC FOREST SHARD (ID E31)"
+  ],
+  "name": "萤火虫碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Solar Power I"
+      ],
+      "translation": "太阳之力 I",
+      "styleMappings": {
+        "I": "I"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}  Farming Fortune during",
+        "the day."
+      ],
+      "translation": "白天时获得 {{N0}}  农业幸运.",
+      "styleMappings": {
+        "Farming Fortune": "农业幸运",
+        "Grants": "获得",
+        "day": "天",
+        "Fortune": "幸运",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "You can Syphon this shard from",
+        "your Hunting Box."
+      ],
+      "translation": "你可以从狩猎箱中吸取此碎片.",
+      "styleMappings": {
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to send to Hunting Box!"
+      ],
+      "translation": "右键点击发送至狩猎箱!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Shift Right-click to move all!"
+      ],
+      "translation": "潜行键 右键点击全部移动!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "all": "全部"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Hunting Skill {{N0}}."
+      ],
+      "translation": "❣ 需要狩猎技能 {{N0}}.",
+      "styleMappings": {
+        "Hunting Skill": "狩猎技能",
+        "Requires": "需要",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC FOREST SHARD (ID E{{N0}})"
+      ],
+      "translation": "史诗森林碎片 (ID 伊{{N0}})",
+      "styleMappings": {
+        "EPIC FOREST SHARD": "史诗森林碎片",
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shard": "碎片",
+    "Firefly": "萤火虫"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

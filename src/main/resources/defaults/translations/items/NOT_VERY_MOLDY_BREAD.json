@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "NOT_VERY_MOLDY_BREAD",
+  "_original_name": "Not Very Moldy Bread",
+  "_original_lore": [
+    "Consume to boost your ☯ Farming",
+    "Wisdom for 60m.",
+    "",
+    "Keep this item in your inventory to",
+    "increase the bonus up to +30☯",
+    "Farming Wisdom, at which point the",
+    "item evolves!",
+    "",
+    "Current Bonus: +0☯ Farming Wisdom",
+    "",
+    "RARE"
+  ],
+  "name": "不太发霉的面包",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consume to boost your ☯ Farming",
+        "Wisdom for {{N0}}m."
+      ],
+      "translation": "食用后提升你的 ☯ 农业智慧,持续 {{N0}} 分钟。",
+      "styleMappings": {
+        "Farming Wisdom": "农业智慧",
+        "for": "持续",
+        "{{N0}}m": "{{N0}} 分钟",
+        "Wisdom": "智慧",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "Keep this item in your inventory to",
+        "increase the bonus up to {{N0}}☯",
+        "Farming Wisdom, at which point the",
+        "item evolves!"
+      ],
+      "translation": "将此物品保留在物品栏中,可将加成提升至 {{N0}}☯ 农业智慧,届时该物品会进化!",
+      "styleMappings": {
+        "Farming Wisdom": "农业智慧",
+        "evolves": "进化",
+        "item": "物品",
+        "Wisdom": "智慧",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "Current Bonus: {{N0}}☯ Farming Wisdom"
+      ],
+      "translation": "当前加成:{{N0}}☯ 农业智慧",
+      "styleMappings": {
+        "Current Bonus:": "当前加成:",
+        "Farming Wisdom": "农业智慧",
+        "Bonus": "加成",
+        "Wisdom": "智慧",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

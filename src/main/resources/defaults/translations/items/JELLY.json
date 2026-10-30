@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "JELLY",
+  "_original_name": "Jelly",
+  "_original_lore": [
+    "Can be spread across a Garden plot",
+    "with a Sprayonator or used in Pest",
+    "Traps.",
+    "",
+    "Attracts: Praying Mantis, Dragonfly, Firefly",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "果冻",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Can be spread across a Garden plot",
+        "with a Sprayonator or used in Pest",
+        "Traps."
+      ],
+      "translation": "可用喷雾器撒在花园地块上,或用于害虫陷阱.",
+      "styleMappings": {
+        "Sprayonator": "喷雾器",
+        "Pest Traps": "害虫陷阱",
+        "Garden": "花园",
+        "Pest": "害虫"
+      }
+    },
+    {
+      "source": [
+        "Attracts: Praying Mantis, Dragonfly, Firefly"
+      ],
+      "translation": "吸引:螳螂、蜻蜓、萤火虫",
+      "styleMappings": {
+        "Attracts": "吸引",
+        "Praying Mantis": "螳螂",
+        "Dragonfly": "蜻蜓",
+        "Firefly": "萤火虫"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Jelly": "果冻"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

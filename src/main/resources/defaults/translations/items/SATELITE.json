@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "id": "SATELITE",
+  "_original_name": "Satelite",
+  "_original_lore": [
+    "Accessory Power: +16",
+    "",
+    "High altitude, slow attitude. The",
+    "procrastinator's dream stone.",
+    "",
+    "Ability: Bullet Time ",
+    "Slow down the loss of  Rift Time by",
+    "20% in elevated areas.",
+    "",
+    "Works while in Accessory Bag!",
+    "LEGENDARY ACCESSORY"
+  ],
+  "name": "卫星石",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Accessory Power: {{N0}}"
+      ],
+      "translation": "饰品能量: {{N0}}",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "High altitude, slow attitude. The",
+        "procrastinator's dream stone."
+      ],
+      "translation": "高空飞行,慢条斯理.拖延症患者的梦想之石.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Ability: Bullet Time "
+      ],
+      "translation": "能力: 子弹时间 ",
+      "styleMappings": {
+        "Ability": "能力"
+      }
+    },
+    {
+      "source": [
+        "Slow down the loss of  Rift Time by",
+        "{{N0}} in elevated areas."
+      ],
+      "translation": "在高处区域将  裂隙时间的流失速度减缓 {{N0}}.",
+      "styleMappings": {
+        "Rift Time": "裂隙时间",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "放在饰品袋中即可生效!",
+      "styleMappings": {
+        "Accessory Bag": "饰品袋",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY ACCESSORY"
+      ],
+      "translation": "传说饰品",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "GOLD_SPADE",
+  "_original_name": "Golden Shovel",
+  "_original_lore": [
+    "Damage: +15",
+    "",
+    "COMMON SHOVEL"
+  ],
+  "name": "金锹",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "COMMON SHOVEL"
+      ],
+      "translation": "普通铲子",
+      "styleMappings": {
+        "COMMON SHOVEL": "普通铲子",
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shovel": "铲子"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

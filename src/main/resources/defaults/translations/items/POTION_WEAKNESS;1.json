@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_WEAKNESS;1",
+  "_original_name": "Weakness I Potion",
+  "_original_lore": [
+    "",
+    "Weakness I (3:00)",
+    "Reduces  Damage when attacking",
+    "enemies by 5.",
+    "",
+    "COMMON"
+  ],
+  "name": "虚弱药水 I",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Weakness I ({{N0}}:{{N1}})"
+      ],
+      "translation": "虚弱 I ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Weakness I": "虚弱 I"
+      }
+    },
+    {
+      "source": [
+        "Reduces  Damage when attacking",
+        "enemies by {{N0}}."
+      ],
+      "translation": "攻击敌人时降低 伤害 {{N0}}.",
+      "styleMappings": {
+        " Damage": " 伤害",
+        "Damage": "伤害",
+        "enemies": "敌人",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "I": "I"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

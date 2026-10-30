@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "id": "ZOMBIE;2",
+  "_original_name": "[Lvl {LVL}] Zombie",
+  "_original_lore": [
+    "Combat Pet",
+    "",
+    "Health: +{HEALTH}",
+    "Crit Damage: +{CRIT_DAMAGE}%",
+    "",
+    "Bite Shield",
+    "Reduce the damage taken from",
+    "zombies by {0}%.",
+    "",
+    "Rotten Blade",
+    "Deal {1}% more damage to ༕ Undead",
+    "mobs",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "RARE PET"
+  ],
+  "name": "[等级 {LVL}] 僵尸",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combat Pet"
+      ],
+      "translation": "战斗宠物",
+      "styleMappings": {
+        "Combat Pet": "战斗宠物",
+        "Combat": "战斗",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Health: +{{N0}}"
+      ],
+      "translation": "生命值: +{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: +{{N0}}%"
+      ],
+      "translation": "暴击伤害: +{{N0}}%",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Bite Shield"
+      ],
+      "translation": "撕咬护盾",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Reduce the damage taken from",
+        "zombies by {{N0}}%."
+      ],
+      "translation": "减少受到僵尸的伤害 {{N0}}%.",
+      "styleMappings": {
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Rotten Blade"
+      ],
+      "translation": "腐化之刃",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Deal {{N0}}% more damage to ༕ Undead",
+        "mobs"
+      ],
+      "translation": "对 ༕ 亡灵怪物造成 {{N0}}% 额外伤害",
+      "styleMappings": {
+        "Undead": "亡灵",
+        "damage": "伤害",
+        "mobs": "怪物",
+        "more": "额外",
+        "Deal": "造成"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "RARE PET"
+      ],
+      "translation": "稀有 宠物",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Zombie": "僵尸",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

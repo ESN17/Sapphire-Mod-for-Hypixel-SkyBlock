@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "SUPER_TANK_ZOMBIE_MONSTER",
+  "_original_name": "Super Tank Zombie (Monster)",
+  "_original_lore": [
+    "Heftiest zombie.",
+    "",
+    "❤ Health: 20,000 - 90,000",
+    "❤ Health (MM) : 180,000 - 1.050,000"
+  ],
+  "name": "超级坦克僵尸 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Heftiest zombie."
+      ],
+      "translation": "最魁梧的僵尸.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}} - {{N1}}"
+      ],
+      "translation": "❤ 生命值: {{N0}} - {{N1}}",
+      "styleMappings": {
+        "Health": "生命值",
+        "-": "-"
+      }
+    },
+    {
+      "source": [
+        "❤ Health (MM) : {{N0}} - {{N1}},{{N2}}"
+      ],
+      "translation": "❤ 生命值 (MM) : {{N0}} - {{N1}},{{N2}}",
+      "styleMappings": {
+        "-": "-",
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Zombie": "僵尸",
+    "Tank": "坦克",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

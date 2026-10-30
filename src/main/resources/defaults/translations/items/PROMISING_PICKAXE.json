@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "PROMISING_PICKAXE",
+  "_original_name": "Promising Pickaxe",
+  "_original_lore": [
+    "Breaking Power 3",
+    "",
+    "Damage: +20",
+    "Mining Speed: +50",
+    "",
+    "Ability: Stored Potential ",
+    "Grants +10 Mining Speed for every",
+    "100 blocks mined.",
+    "(Max +250 Mining Speed)",
+    "",
+    "Blocks Mined: 0",
+    "Mining Speed: 0",
+    "",
+    "This item can be reforged!",
+    "UNCOMMON PICKAXE"
+  ],
+  "name": "潜力镐",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Breaking Power {{N0}}"
+      ],
+      "translation": "破坏力 {{N0}}",
+      "styleMappings": {
+        "Breaking Power": "破坏力"
+      }
+    },
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Mining Speed: {{N0}}"
+      ],
+      "translation": "采矿速度: {{N0}}",
+      "styleMappings": {
+        "Mining Speed": "采矿速度",
+        "Mining": "采矿",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Ability: Stored Potential "
+      ],
+      "translation": "能力: 蓄势待发 ",
+      "styleMappings": {
+        "Ability": "能力",
+        "Stored Potential": "蓄势待发"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Mining Speed for every",
+        "{{N1}} blocks mined."
+      ],
+      "translation": "每挖掘 {{N1}} 个方块获得 {{N0}} ​ 采矿速度.",
+      "styleMappings": {
+        "Mining Speed": "采矿速度",
+        "Grants": "获得",
+        "blocks": "方块",
+        "for": "获得",
+        "Mining": "采矿",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "(Max {{N0}} Mining Speed)"
+      ],
+      "translation": "(最多 {{N0}} ​ 采矿速度)",
+      "styleMappings": {
+        "Mining Speed": "采矿速度",
+        "(Max": "(最多",
+        "Max": "最多",
+        "Mining": "采矿",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Blocks Mined: {{N0}}"
+      ],
+      "translation": "已挖掘方块: {{N0}}",
+      "styleMappings": {
+        "Blocks Mined": "已挖掘方块",
+        "Blocks": "方块"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON PICKAXE"
+      ],
+      "translation": "罕见 镐",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Pickaxe": "镐"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

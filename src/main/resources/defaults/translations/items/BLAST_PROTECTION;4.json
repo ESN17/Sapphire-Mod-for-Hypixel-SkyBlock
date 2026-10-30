@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "id": "BLAST_PROTECTION;4",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Blast Protection IV",
+    "Grants +120  Defense against",
+    "explosions.",
+    "",
+    "Sources:",
+    " - Enchantment Table (I-V)",
+    " - Experiments (VI-VII)",
+    " - Bazaar (VI-VII)",
+    "",
+    "Applied To:",
+    " - Armor",
+    "",
+    "Conflicts:",
+    " - Fire Protection",
+    " - Protection",
+    " - Projectile Protection",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Blast Protection IV"
+      ],
+      "translation": "爆炸保护 IV",
+      "styleMappings": {
+        "Blast Protection": "爆炸保护",
+        "Protection": "保护"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}  Defense against",
+        "explosions."
+      ],
+      "translation": "提供 {{N0}}  防御,抵御爆炸伤害.",
+      "styleMappings": {
+        "Defense": "防御",
+        "Grants": "提供",
+        " Defense": " 防御"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchantment Table (I-V)",
+        " - Experiments (VI-VII)",
+        " - Bazaar (VI-VII)"
+      ],
+      "translation": " - 附魔台 (I-V)  - 实验 (VI-VII)  - 集市 (VI-VII)",
+      "styleMappings": {
+        "Enchantment Table": "附魔台",
+        "Experiments": "实验",
+        "Bazaar": "集市",
+        "I-V": "I-V",
+        "Enchantment": "附魔"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Armor"
+      ],
+      "translation": " - 盔甲",
+      "styleMappings": {
+        "Armor": "盔甲"
+      }
+    },
+    {
+      "source": [
+        "Conflicts:"
+      ],
+      "translation": "冲突:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Fire Protection"
+      ],
+      "translation": " - 火焰保护",
+      "styleMappings": {
+        "Fire Protection": "火焰保护",
+        "Protection": "保护",
+        "Fire": "火焰"
+      }
+    },
+    {
+      "source": [
+        " - Protection"
+      ],
+      "translation": " - 保护",
+      "styleMappings": {
+        "Protection": "保护"
+      }
+    },
+    {
+      "source": [
+        " - Projectile Protection"
+      ],
+      "translation": " - 弹射物保护",
+      "styleMappings": {
+        "Projectile Protection": "弹射物保护",
+        "Protection": "保护"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

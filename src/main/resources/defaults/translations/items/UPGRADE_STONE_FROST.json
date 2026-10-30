@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "UPGRADE_STONE_FROST",
+  "_original_name": "Wisp Upgrade Stone",
+  "_original_lore": [
+    "Consumed on use",
+    "",
+    "Upgrades a Droplet Wisp pet to a",
+    "Frost Wisp pet, resetting its level.",
+    "",
+    "Right-click on your wisp to upgrade it!",
+    "",
+    "RARE"
+  ],
+  "name": "灵火升级石",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumed on use"
+      ],
+      "translation": "使用后消耗",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Upgrades a Droplet Wisp pet to a",
+        "Frost Wisp pet, resetting its level."
+      ],
+      "translation": "将水滴灵火宠物升级为霜冻灵火宠物,并重置其等级.",
+      "styleMappings": {
+        "Droplet Wisp": "水滴灵火",
+        "Frost Wisp": "霜冻灵火",
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Right-click on your wisp to upgrade it!"
+      ],
+      "translation": "右键点击你的灵火以升级它!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "upgrade": "升级"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

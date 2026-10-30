@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "RETRO_ENCABULATING_VISOR",
+  "_original_name": "Retro-Encabulating Visor",
+  "_original_lore": [
+    "Intelligence: -50",
+    "",
+    "Lets you see presumably invisible",
+    "cables when worn.",
+    "",
+    "Kloon built this in a cave!",
+    "With a bunch of scraps!",
+    "",
+    "MYTHIC HELMET"
+  ],
+  "name": "复古线缆护目镜",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Lets you see presumably invisible",
+        "cables when worn."
+      ],
+      "translation": "佩戴后能让你看见本应隐形的线缆.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Kloon built this in a cave!"
+      ],
+      "translation": "克鲁恩在洞穴里造出了这个!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "With a bunch of scraps!"
+      ],
+      "translation": "用一堆废料!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "MYTHIC HELMET"
+      ],
+      "translation": "神话 头盔",
+      "styleMappings": {
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

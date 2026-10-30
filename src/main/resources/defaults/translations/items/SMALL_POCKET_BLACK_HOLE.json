@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "id": "SMALL_POCKET_BLACK_HOLE",
+  "_original_name": "Small Pocket Black Hole",
+  "_original_lore": [
+    "Hunting Tool",
+    "",
+    "Ability: Black Hole  RIGHT CLICK",
+    "Place the Black Hole for 180s, and",
+    "it'll start pulling low HP monsters",
+    "towards it.",
+    "Cooldown: 2s",
+    "",
+    "Harness the power of Gravity!",
+    "",
+    "Monsters below 10% HP can even get",
+    "their Shard captured!",
+    "",
+    "UNCOMMON DEPLOYABLE"
+  ],
+  "name": "小型口袋黑洞",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Hunting Tool"
+      ],
+      "translation": "狩猎工具",
+      "styleMappings": {
+        "Hunting Tool": "狩猎工具"
+      }
+    },
+    {
+      "source": [
+        "Ability: Black Hole  RIGHT CLICK"
+      ],
+      "translation": "技能:黑洞  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Black Hole": "黑洞",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Place the Black Hole for {{N0}}s, and",
+        "it'll start pulling low HP monsters",
+        "towards it."
+      ],
+      "translation": "放置黑洞 {{N0}} 秒,它会开始将低血量怪物拉向它.",
+      "styleMappings": {
+        "Black Hole": "黑洞",
+        "monsters": "怪物",
+        "low HP": "低血量",
+        "{{N0}}s": "{{N0}} 秒"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "Harness the power of Gravity!"
+      ],
+      "translation": "驾驭重力的力量!",
+      "styleMappings": {
+        "Gravity": "重力"
+      }
+    },
+    {
+      "source": [
+        "Monsters below {{N0}} HP can even get",
+        "their Shard captured!"
+      ],
+      "translation": "血量低于 {{N0}} 的怪物甚至可以被捕获碎片!",
+      "styleMappings": {
+        "Monsters": "怪物",
+        "Shard": "碎片"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON DEPLOYABLE"
+      ],
+      "translation": "罕见 部署物",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Black Hole": "黑洞"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

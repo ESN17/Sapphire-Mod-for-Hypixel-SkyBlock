@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "ROYAL_COMPASS",
+  "_original_name": "Royal Compass",
+  "_original_lore": [
+    "Ability: True Dwarth  RIGHT CLICK",
+    "Shows the way towards the nearest Emissary",
+    "while in the Dwarven Mines.",
+    "Cooldown: 3s",
+    "",
+    "* Co-op Soulbound *",
+    "RARE"
+  ],
+  "name": "皇家指南针",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: True Dwarth  RIGHT CLICK"
+      ],
+      "translation": "技能: 真矮人  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Shows the way towards the nearest Emissary",
+        "while in the Dwarven Mines."
+      ],
+      "translation": "在矮人矿坑中时,指引前往最近的使者的方向.",
+      "styleMappings": {
+        "Emissary": "使者",
+        "Dwarven Mines": "矮人矿坑",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Compass": "指南针",
+    "Royal": "皇家"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "CARNIVAL_DART_TUBE",
+  "_original_name": "Carnival Dart Tube",
+  "_original_lore": [
+    "Ability: Phwomp  RIGHT CLICK",
+    "Shoots a dart. Can only damage",
+    "Zombies from Zombie Shootout.",
+    "",
+    "* Soulbound *",
+    "UNCOMMON"
+  ],
+  "name": "嘉年华飞镖管",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Phwomp  RIGHT CLICK"
+      ],
+      "translation": "能力:砰  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "能力",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Shoots a dart. Can only damage",
+        "Zombies from Zombie Shootout."
+      ],
+      "translation": "射出一支飞镖.只能伤害僵尸射击战中的僵尸.",
+      "styleMappings": {
+        "Zombies": "僵尸",
+        "Zombie Shootout": "僵尸射击战",
+        "damage": "伤害",
+        "Shoots": "射出",
+        "Zombie": "僵尸"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Carnival": "嘉年华"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "ALL_IN_ALOE",
+  "_original_name": "All-in Aloe",
+  "_original_lore": [
+    "This bold plant grows bigger the",
+    "longer you wait, but wait too long and",
+    "it's gone. Time your harvest right",
+    "for big rewards.",
+    "",
+    "Complete Visitor Beth's quest to",
+    "Analyze this crop!",
+    "",
+    "LEGENDARY MUTATION"
+  ],
+  "name": "全能芦荟",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "This bold plant grows bigger the",
+        "longer you wait, but wait too long and",
+        "it's gone. Time your harvest right",
+        "for big rewards."
+      ],
+      "translation": "这种大胆的植物等待越久长得越大,但等太久它就会消失.把握好收获时机即可获得丰厚奖励.",
+      "styleMappings": {
+        "plant": "植物",
+        "for": "获得"
+      }
+    },
+    {
+      "source": [
+        "Complete Visitor Beth's quest to",
+        "Analyze this crop!"
+      ],
+      "translation": "完成访客 Beth 的任务来分析这种作物!",
+      "styleMappings": {
+        "Visitor": "访客",
+        "Beth's": "Beth 的",
+        "Analyze": "分析"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY MUTATION"
+      ],
+      "translation": "传说突变",
+      "styleMappings": {
+        "LEGENDARY MUTATION": "传说突变",
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

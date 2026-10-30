@@ -1,0 +1,156 @@
+{
+  "schemaVersion": 1,
+  "id": "HECATOMB;1",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Hecatomb I",
+    "Gain +0.28% Catacombs XP & +0.56%",
+    "Class XP, doubled on S+ runs.",
+    "Grants +2.6❤ per 10 Catacombs levels.",
+    "",
+    "Complete 2 S runs for Tier II",
+    "Complete 5 S runs for Tier III",
+    "Complete 10 S runs for Tier IV",
+    "Complete 20 S runs for Tier V",
+    "Complete 30 S runs for Tier VI",
+    "Complete 40 S runs for Tier VII",
+    "Complete 60 S runs for Tier VIII",
+    "Complete 80 S runs for Tier IX",
+    "Complete 100 S runs for Tier X",
+    "",
+    "▲ Hecatomb cannot be combined!",
+    "",
+    "Sources:",
+    " - Community Shop (I)",
+    " - Bazaar (I)",
+    "",
+    "Applied To:",
+    " - Helmet",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Hecatomb I"
+      ],
+      "translation": "地牢专精 I",
+      "styleMappings": {
+        "Hecatomb": "地牢专精"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}} Catacombs XP & {{N1}}",
+        "Class XP, doubled on S+ runs."
+      ],
+      "translation": "获得 {{N0}} 地牢经验 & {{N1}} 职业经验,在卓越+ 评价中翻倍.",
+      "styleMappings": {
+        "Catacombs": "地牢",
+        "doubled": "翻倍",
+        "Class": "职业",
+        "S+": "卓越+",
+        "Gain": "获得",
+        "Catacombs XP": "地牢经验"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}❤ per {{N1}} Catacombs levels."
+      ],
+      "translation": "每 {{N1}} 级地牢等级提供 {{N0}}❤.",
+      "styleMappings": {
+        "Catacombs": "地牢",
+        "Grants": "提供",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Complete {{N0}} S runs for Tier II",
+        "Complete {{N1}} S runs for Tier III",
+        "Complete {{N2}} S runs for Tier IV",
+        "Complete {{N3}} S runs for Tier V",
+        "Complete {{N4}} S runs for Tier VI",
+        "Complete {{N5}} S runs for Tier VII",
+        "Complete {{N6}} S runs for Tier VIII",
+        "Complete {{N7}} S runs for Tier IX",
+        "Complete {{N8}} S runs for Tier X"
+      ],
+      "translation": "完成 {{N0}} 次卓越评价以达成 II 级 完成 {{N1}} 次卓越评价以达成 III 级 完成 {{N2}} 次卓越评价以达成 IV 级 完成 {{N3}} 次卓越评价以达成 V 级 完成 {{N4}} 次卓越评价以达成 VI 级 完成 {{N5}} 次卓越评价以达成 VII 级 完成 {{N6}} 次卓越评价以达成 VIII 级 完成 {{N7}} 次卓越评价以达成 IX 级 完成 {{N8}} 次卓越评价以达成 X 级",
+      "styleMappings": {
+        "II": "II",
+        "III": "III"
+      }
+    },
+    {
+      "source": [
+        "▲ Hecatomb cannot be combined!"
+      ],
+      "translation": "▲ 地牢专精无法合并!",
+      "styleMappings": {
+        "Hecatomb": "地牢专精"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Community Shop (I)",
+        " - Bazaar (I)"
+      ],
+      "translation": " - 社区商店 (I)  - 集市 (I)",
+      "styleMappings": {
+        "Community Shop": "社区商店",
+        "Bazaar": "集市",
+        "I": "I"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Helmet"
+      ],
+      "translation": " - 头盔",
+      "styleMappings": {
+        "Helmet": "头盔"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

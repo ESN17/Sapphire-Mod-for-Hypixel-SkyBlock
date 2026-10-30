@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "id": "DIANA_MAYOR_MONSTER",
+  "_original_name": "Diana (Mayor)",
+  "_original_lore": [
+    "Candidate",
+    "",
+    "Huntress' Intuition",
+    "Gain +10❃ Tracking.",
+    "",
+    "Mythological Ritual",
+    "Mayor Diana will sell the Griffin",
+    "Pet, which lets you find",
+    "Mythological Creatures and tons",
+    "of unique items.",
+    "",
+    "Pet XP Buff",
+    "Gain 35% more pet XP.",
+    "",
+    "Sharing is Caring",
+    "Unlocks 2 more Exp Share slots in",
+    "your pets menu and increases the",
+    "Exp Share rate by +10%!"
+  ],
+  "name": "Diana (市长)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Candidate"
+      ],
+      "translation": "候选人",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Huntress' Intuition",
+        "Gain {{N0}}❃ Tracking."
+      ],
+      "translation": "女猎手直觉 获得 {{N0}}❃ 追踪.",
+      "styleMappings": {
+        "Huntress' Intuition": "女猎手直觉",
+        "Tracking": "追踪",
+        "Gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "Mythological Ritual",
+        "Mayor Diana will sell the Griffin",
+        "Pet, which lets you find",
+        "Mythological Creatures and tons",
+        "of unique items."
+      ],
+      "translation": "神话仪式 市长戴安娜将出售狮鹫宠物,让你能找到神话生物和大量独特物品.",
+      "styleMappings": {
+        "Mythological Creatures": "神话生物",
+        "Mythological Ritual": "神话仪式",
+        "unique items": "独特物品",
+        "Griffin Pet": "狮鹫宠物",
+        "Mayor": "市长",
+        "Pet": "宠物",
+        "Griffin": "狮鹫",
+        "items": "物品",
+        "unique": "独特"
+      }
+    },
+    {
+      "source": [
+        "Pet XP Buff",
+        "Gain {{N0}} more pet XP."
+      ],
+      "translation": "宠物经验加成 获得 {{N0}} 更多宠物经验.",
+      "styleMappings": {
+        "Pet XP Buff": "宠物经验加成",
+        "Gain": "获得",
+        "pet": "宠物",
+        "more": "更多",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Sharing is Caring",
+        "Unlocks {{N0}} more Exp Share slots in",
+        "your pets menu and increases the",
+        "Exp Share rate by {{N1}}!"
+      ],
+      "translation": "分享即关爱 在你的宠物菜单中解锁 {{N0}} 个额外经验共享栏位,并将经验共享速率提高 {{N1}}!",
+      "styleMappings": {
+        "Sharing is Caring": "分享即关爱",
+        "Exp Share": "经验共享",
+        "more": "额外",
+        "Exp": "经验"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mayor": "市长"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_SLOWNESS;4",
+  "_original_name": "Slowness IV Potion",
+  "_original_lore": [
+    "",
+    "Slowness IV (3:00)",
+    "Removes 99 Speed.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "缓慢 IV 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Slowness IV ({{N0}}:{{N1}})"
+      ],
+      "translation": "缓慢 IV ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Slowness IV": "缓慢 IV",
+        "Slowness": "缓慢"
+      }
+    },
+    {
+      "source": [
+        "Removes {{N0}} Speed."
+      ],
+      "translation": "移除 {{N0}} 速度.",
+      "styleMappings": {
+        " Speed": " 速度",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Slowness IV Potion": "缓慢 IV 药水",
+    "Slowness": "缓慢",
+    "Slowness IV": "缓慢 IV"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

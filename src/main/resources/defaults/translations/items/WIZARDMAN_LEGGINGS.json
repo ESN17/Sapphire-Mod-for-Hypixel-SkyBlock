@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "WIZARDMAN_LEGGINGS",
+  "_original_name": "Wizardman Leggings",
+  "_original_lore": [
+    "Rift Time: +100s",
+    "Hearts: +1",
+    "Mana Regen: +8%",
+    "",
+    "Ability: Friendship is Power ",
+    "Gain +1 Rift Damage and +2 Mana",
+    "Regen for each other wearer within",
+    "65 blocks.",
+    "Max of 3 players!",
+    "",
+    "Same color = 2x stats!",
+    "Left-click to pick color!",
+    "",
+    "MYTHIC LEGGINGS"
+  ],
+  "name": "巫师绑腿",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Rift Time: {{N0}}s"
+      ],
+      "translation": "裂隙时间: {{N0}}秒",
+      "styleMappings": {
+        "Rift Time": "裂隙时间",
+        "{{N0}}s": "{{N0}}秒",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "Hearts: {{N0}}"
+      ],
+      "translation": "生命值: {{N0}}",
+      "styleMappings": {
+        "Hearts": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Mana Regen: {{N0}}"
+      ],
+      "translation": "法力回复: {{N0}}",
+      "styleMappings": {
+        "Mana Regen": "法力回复",
+        "Mana": "法力",
+        "Regen": "回复"
+      }
+    },
+    {
+      "source": [
+        "Ability: Friendship is Power "
+      ],
+      "translation": "能力: 友谊就是力量 ",
+      "styleMappings": {
+        "Ability": "能力",
+        "Power": "力量"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}} Rift Damage and {{N1}} Mana",
+        "Regen for each other wearer within",
+        "{{N2}} blocks."
+      ],
+      "translation": "每个 {{N2}} 格内的其他穿戴者为你提供 {{N0}} 裂隙伤害和 {{N1}} 法力回复.",
+      "styleMappings": {
+        "Rift Damage": "裂隙伤害",
+        "Mana Regen": "法力回复",
+        "blocks": "格",
+        "Damage": "伤害",
+        "Mana": "法力",
+        "Rift": "裂隙",
+        "Regen": "回复"
+      }
+    },
+    {
+      "source": [
+        "Max of {{N0}} players!"
+      ],
+      "translation": "最多 {{N0}} 名玩家!",
+      "styleMappings": {
+        "Max": "最多"
+      }
+    },
+    {
+      "source": [
+        "Same color = {{N0}}x stats!"
+      ],
+      "translation": "同色 = {{N0}}倍属性!",
+      "styleMappings": {
+        "stats": "属性",
+        "{{N0}}x": "{{N0}}倍"
+      }
+    },
+    {
+      "source": [
+        "Left-click to pick color!"
+      ],
+      "translation": "左键点击选择颜色!",
+      "styleMappings": {
+        "Left-click": "左键点击"
+      }
+    },
+    {
+      "source": [
+        "MYTHIC LEGGINGS"
+      ],
+      "translation": "神话 护腿",
+      "styleMappings": {
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

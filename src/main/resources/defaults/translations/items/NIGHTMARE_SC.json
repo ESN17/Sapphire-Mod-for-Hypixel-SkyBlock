@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "NIGHTMARE_SC",
+  "_original_name": "Nightmare (Sea Creature)",
+  "_original_lore": [
+    "Mob Types: ⚓ Aquatic, ☽ Spooky, ༕ Undead",
+    "❤ Health: 35,000",
+    "",
+    "RARE"
+  ],
+  "name": "梦魇 (海怪)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mob Types: ⚓ Aquatic, ☽ Spooky, ༕ Undead"
+      ],
+      "translation": "怪物类型: ⚓ 水生, ☽ 阴森, ༕ 亡灵",
+      "styleMappings": {
+        "Mob Types:": "怪物类型:",
+        "Aquatic": "水生",
+        "Spooky": "阴森",
+        "Undead": "亡灵",
+        "Mob Types": "怪物类型"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sea Creature": "海怪",
+    "(Sea Creature)": "(海怪)",
+    "Nightmare": "梦魇"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

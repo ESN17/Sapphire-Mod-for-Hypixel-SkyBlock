@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "TURBO_FISHING_NET",
+  "_original_name": "Turbo Fishing Net",
+  "_original_lore": [
+    "Hunting Tool",
+    "",
+    "Pull: +50",
+    "",
+    "Ability: Yoink  RIGHT CLICK",
+    "Throw your fishing net at swimming",
+    "fish to catch them!",
+    "Cooldown: 0.5s",
+    "",
+    "Throw Distance: +100%",
+    "",
+    "Ability: Haul ",
+    "Grants +5 Hunting Fortune on",
+    "Water Shards caught with this net.",
+    "",
+    "EPIC FISHING NET"
+  ],
+  "name": "涡轮渔网",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Hunting Tool"
+      ],
+      "translation": "狩猎工具",
+      "styleMappings": {
+        "Hunting Tool": "狩猎工具"
+      }
+    },
+    {
+      "source": [
+        "Pull: {{N0}}"
+      ],
+      "translation": "拉力: {{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Ability: Yoink  RIGHT CLICK"
+      ],
+      "translation": "技能: Yoink  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Throw your fishing net at swimming",
+        "fish to catch them!"
+      ],
+      "translation": "将渔网投向游动的鱼来捕捉它们!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "Throw Distance: {{N0}}"
+      ],
+      "translation": "投掷距离:{{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Ability: Haul "
+      ],
+      "translation": "能力:拖网 ",
+      "styleMappings": {
+        "Ability: Haul": "能力:拖网",
+        "Ability": "能力"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Hunting Fortune on",
+        "Water Shards caught with this net."
+      ],
+      "translation": "使用此网捕获的水之碎片提供 {{N0}} 狩猎幸运.",
+      "styleMappings": {
+        "Hunting Fortune": "狩猎幸运",
+        "Water Shards": "水之碎片",
+        "Grants": "提供",
+        "Fortune": "幸运"
+      }
+    },
+    {
+      "source": [
+        "EPIC FISHING NET"
+      ],
+      "translation": "史诗渔网",
+      "styleMappings": {
+        "EPIC FISHING NET": "史诗渔网",
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fishing Net": "渔网"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

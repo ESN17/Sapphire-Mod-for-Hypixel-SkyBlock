@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 1,
+  "id": "RED_NOSE",
+  "_original_name": "Red Nose",
+  "_original_lore": [
+    "Reforge Stone",
+    "Combinable in Anvil",
+    "",
+    "Applies the Ridiculous reforge when",
+    "combined with a Helmet.",
+    "",
+    "Bonzo never wears it in the",
+    "presence of other Necromancers.",
+    "",
+    "Grants the following stats that scale",
+    "with the item's rarity:",
+    "  Health",
+    "  Defense",
+    "  Crit Chance",
+    "",
+    "Ridiculous Bonus",
+    "SNEAK: Fart, granting +30 Defense",
+    "and +50 Mana for 5s, but inflicts",
+    "-20%  Crit Chance for 20s.",
+    "",
+    "Right-click to view rarity scaling!",
+    "",
+    "❣ Requires Mining Skill 17.",
+    "",
+    "RARE REFORGE STONE"
+  ],
+  "name": "红鼻子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Reforge Stone",
+        "Combinable in Anvil"
+      ],
+      "translation": "洗练石 可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Reforge Stone": "洗练石",
+        "Anvil": "铁砧",
+        "Reforge": "洗练"
+      }
+    },
+    {
+      "source": [
+        "Applies the Ridiculous reforge when",
+        "combined with a Helmet."
+      ],
+      "translation": "与头盔组合时应用滑稽洗练.",
+      "styleMappings": {
+        "Ridiculous": "滑稽",
+        "Helmet": "头盔",
+        "reforge": "洗练",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Bonzo never wears it in the",
+        "presence of other Necromancers."
+      ],
+      "translation": "邦佐从不在其他死灵法师面前戴它.",
+      "styleMappings": {
+        "Bonzo": "邦佐"
+      }
+    },
+    {
+      "source": [
+        "Grants the following stats that scale"
+      ],
+      "translation": "提供以下随物品稀有度提升的属性:",
+      "styleMappings": {
+        "Grants": "提供",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "with the item's rarity:"
+      ],
+      "translation": "物品稀有度提升的属性:",
+      "styleMappings": {
+        "item": "物品",
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "  Health",
+        "  Defense",
+        "  Crit Chance"
+      ],
+      "translation": "   生命  防御   暴击几率",
+      "styleMappings": {
+        "Crit Chance": "暴击几率",
+        " Defense": " 防御",
+        "Defense": "防御",
+        "Health": "生命",
+        " Crit Chance": " 暴击几率"
+      }
+    },
+    {
+      "source": [
+        "Ridiculous Bonus"
+      ],
+      "translation": "滑稽加成",
+      "styleMappings": {
+        "Ridiculous Bonus": "滑稽加成",
+        "Bonus": "加成",
+        "Ridiculous": "滑稽"
+      }
+    },
+    {
+      "source": [
+        "SNEAK: Fart, granting {{N0}} Defense"
+      ],
+      "translation": "潜行: 放屁, 给予 {{N0}} 防御",
+      "styleMappings": {
+        " Defense": " 防御",
+        "SNEAK": "潜行",
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "and {{N0}} Mana for {{N1}}s, but inflicts",
+        "{{N2}}  Crit Chance for {{N3}}s."
+      ],
+      "translation": "以及 {{N0}} 法力, 持续 {{N1}} 秒, 但造成 {{N2}}  暴击几率, 持续 {{N3}} 秒.",
+      "styleMappings": {
+        "Crit Chance": "暴击几率",
+        "Mana": "法力",
+        "": "",
+        "{{N1}}s": "{{N1}} 秒",
+        "{{N3}}s": "{{N3}} 秒",
+        "for": "持续",
+        " Crit Chance": " 暴击几率"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view rarity scaling!"
+      ],
+      "translation": "右键查看各稀有度的属性!",
+      "styleMappings": {
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Mining Skill {{N0}}."
+      ],
+      "translation": "❣ 需要采矿技能 {{N0}}.",
+      "styleMappings": {
+        "Mining Skill": "采矿技能",
+        "Requires": "需要",
+        "Mining": "采矿",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "RARE REFORGE STONE"
+      ],
+      "translation": "稀有 洗练石",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": "EMBER_BOOTS",
+  "_original_name": "Ember Boots",
+  "_original_lore": [
+    "Health: +35",
+    "Defense: +30",
+    "Intelligence: +5",
+    "",
+    "Full Set Bonus: Nether Lord (0/4)",
+    "Grants immunity to all damage from",
+    "Lava and Fire.",
+    "Walking over Lava creates Obsidian",
+    "under your feet.",
+    "Disabled in some zones and near",
+    "Fishing Hotspots.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Combat Skill 8.",
+    "EPIC BOOTS"
+  ],
+  "name": "余烬靴子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Nether Lord ({{N0}}/{{N1}})"
+      ],
+      "translation": "全套加成: 下界领主 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Full Set Bonus": "全套加成",
+        "Nether Lord": "下界领主",
+        "Bonus": "加成",
+        "Nether": "下界"
+      }
+    },
+    {
+      "source": [
+        "Grants immunity to all damage from",
+        "Lava and Fire."
+      ],
+      "translation": "免疫来自熔岩和火焰的所有伤害.",
+      "styleMappings": {
+        "immunity": "免疫",
+        "damage": "伤害",
+        "Lava": "熔岩",
+        "Fire": "火焰"
+      }
+    },
+    {
+      "source": [
+        "Walking over Lava creates Obsidian",
+        "under your feet."
+      ],
+      "translation": "走过熔岩时会在脚下生成黑曜石.",
+      "styleMappings": {
+        "Lava": "熔岩",
+        "Obsidian": "黑曜石"
+      }
+    },
+    {
+      "source": [
+        "Disabled in some zones and near",
+        "Fishing Hotspots."
+      ],
+      "translation": "在部分区域和钓鱼热点附近失效.",
+      "styleMappings": {
+        "Fishing Hotspots": "钓鱼热点",
+        "Fishing": "钓鱼",
+        "Hotspots": "热点"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC BOOTS"
+      ],
+      "translation": "史诗靴子",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Boots": "靴子"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

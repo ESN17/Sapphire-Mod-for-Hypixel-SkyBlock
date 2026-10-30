@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "SHOWCASE_BLOCK",
+  "_original_name": "Showcase Block",
+  "_original_lore": [
+    "Show off an item in this fancy glass",
+    "display box! RIGHT CLICK to put in",
+    "or swap an item.",
+    "",
+    "❣ Requires Social Skill 10.",
+    "UNCOMMON"
+  ],
+  "name": "展示方块",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Show off an item in this fancy glass",
+        "display box! RIGHT CLICK to put in",
+        "or swap an item."
+      ],
+      "translation": "在这个精美的玻璃展示箱中炫耀一件物品!右键点击以放入或替换物品.",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "item": "物品",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Social Skill {{N0}}."
+      ],
+      "translation": "❣ 需要社交技能 {{N0}}.",
+      "styleMappings": {
+        "Requires": "需要",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

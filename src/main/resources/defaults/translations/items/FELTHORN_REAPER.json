@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 1,
+  "id": "FELTHORN_REAPER",
+  "_original_name": "Felthorn Reaper",
+  "_original_lore": [
+    "Gear Score: 367",
+    "Damage: +275",
+    "Crit Damage: +115%",
+    "Swing Range: +1",
+    "",
+    "Ability: Reaving Strike  RIGHT CLICK",
+    "Slash in a huge arc, dealing 135% melee",
+    "damage to all enemies hit!",
+    "",
+    "Deals +1% damage for every 1% of",
+    "missing health on the target.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires The Catacombs Floor VI Completion.",
+    "LEGENDARY DUNGEON LONGSWORD"
+  ],
+  "name": "魔煞收割者",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: {{N0}}"
+      ],
+      "translation": "暴击伤害:{{N0}}",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Swing Range: {{N0}}"
+      ],
+      "translation": "挥砍范围: {{N0}}",
+      "styleMappings": {
+        "Swing Range": "挥砍范围"
+      }
+    },
+    {
+      "source": [
+        "Ability: Reaving Strike  RIGHT CLICK"
+      ],
+      "translation": "技能: 掠夺打击  右键点击",
+      "styleMappings": {
+        "Reaving Strike": "掠夺打击",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Slash in a huge arc, dealing {{N0}} melee",
+        "damage to all enemies hit!"
+      ],
+      "translation": "挥出一道巨大的弧光,对所有命中的敌人造成 {{N0}} 近战伤害!",
+      "styleMappings": {
+        "melee damage": "近战伤害",
+        "hit": "命中",
+        "damage": "伤害",
+        "enemies": "敌人"
+      }
+    },
+    {
+      "source": [
+        "Deals {{N0}} damage for every {{N1}} of",
+        "missing health on the target."
+      ],
+      "translation": "目标每损失 {{N1}} 生命值,造成 {{N0}} 伤害.",
+      "styleMappings": {
+        "damage": "伤害",
+        "health": "生命值",
+        "Deals": "造成"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires The Catacombs Floor VI Completion."
+      ],
+      "translation": "❣ 需要通关地牢第 VI 层.",
+      "styleMappings": {
+        "The Catacombs": "地牢",
+        "Requires": "需要",
+        "Catacombs": "地牢"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY DUNGEON LONGSWORD"
+      ],
+      "translation": "传说 地牢 长剑",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

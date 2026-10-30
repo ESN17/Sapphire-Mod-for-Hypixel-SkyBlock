@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "BATTLE_DISC",
+  "_original_name": "Battle Disc",
+  "_original_lore": [
+    "Place this inside a jukebox to play a",
+    "battle song!",
+    "",
+    "Blast in Banter Battle",
+    "  By ShinkoNet",
+    "",
+    "RARE"
+  ],
+  "name": "战斗唱片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Place this inside a jukebox to play a",
+        "battle song!"
+      ],
+      "translation": "将其放入唱片机以播放战斗歌曲!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Blast in Banter Battle"
+      ],
+      "translation": "在戏谑之战中炸裂",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "  By ShinkoNet"
+      ],
+      "translation": "  作者 辛科网",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

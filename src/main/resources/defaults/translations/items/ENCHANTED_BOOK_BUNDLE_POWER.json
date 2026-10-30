@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "ENCHANTED_BOOK_BUNDLE_POWER",
+  "_original_name": "Enchanted Book Bundle",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Consume to unwrap the bundle",
+    "containing 1x Power VII Book.",
+    "",
+    "Right-click to consume!",
+    "",
+    "* Soulbound *",
+    "EPIC"
+  ],
+  "name": "附魔书捆",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Consume to unwrap the bundle",
+        "containing {{N0}}x Power VII Book."
+      ],
+      "translation": "消耗以拆开内含 {{N0}}x 力量 VII 附魔书的包裹.",
+      "styleMappings": {
+        "Power VII Book": "力量 VII 附魔书",
+        "Power": "力量"
+      }
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

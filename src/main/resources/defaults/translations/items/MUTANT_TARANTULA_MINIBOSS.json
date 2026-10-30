@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "MUTANT_TARANTULA_MINIBOSS",
+  "_original_name": "Mutant Tarantula (Miniboss)",
+  "_original_lore": [
+    "The Mutant Tarantula is a Tarantula Broodfather",
+    "Miniboss. It spawns very rarely when a player doing",
+    "the Tarantula Broodfather Tier IV quest kills a spider.",
+    "",
+    "❤ Health: 576,000"
+  ],
+  "name": "变异狼蛛 (小首领)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Mutant Tarantula is a Tarantula Broodfather",
+        "Miniboss. It spawns very rarely when a player doing",
+        "the Tarantula Broodfather Tier IV quest kills a spider."
+      ],
+      "translation": "变异狼蛛是狼蛛母巢猎手的小首领.当进行狼蛛母巢 IV 级任务的玩家击杀蜘蛛时,有极低概率生成.",
+      "styleMappings": {
+        "Tarantula": "狼蛛",
+        "Miniboss": "小首领",
+        "player": "玩家",
+        "kills": "击杀",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Miniboss)": "(小首领)",
+    "Tarantula": "狼蛛",
+    "Miniboss": "小首领"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "CHICKEN_AXE",
+  "_original_name": "Advanced Chicken Axe",
+  "_original_lore": [
+    "Damage: +20",
+    "",
+    "Chickens killed with this drop 2",
+    "additional Feather and Raw Chicken.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Farming Skill 15.",
+    "UNCOMMON SWORD"
+  ],
+  "name": "高级鸡斧",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Chickens killed with this drop {{N0}}",
+        "additional Feather and Raw Chicken."
+      ],
+      "translation": "用此斧击杀鸡时额外掉落 {{N0}} 个羽毛和生鸡肉.",
+      "styleMappings": {
+        "Raw Chicken.": "生鸡肉.",
+        "additional": "额外",
+        "Chickens": "鸡",
+        "Feather": "羽毛",
+        "Chicken": "鸡",
+        "Raw Chicken": "生鸡肉"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Farming Skill {{N0}}."
+      ],
+      "translation": "❣ 需要农业技能 {{N0}}.",
+      "styleMappings": {
+        "Farming Skill": "农业技能",
+        "Requires": "需要",
+        "Farming": "农业",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON SWORD"
+      ],
+      "translation": "罕见剑",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Chicken": "鸡",
+    "Axe": "斧"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

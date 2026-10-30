@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "ASHWREATH",
+  "_original_name": "Ashwreath",
+  "_original_lore": [
+    "It rises from ashen ground, gray",
+    "and whispering.",
+    "",
+    "Complete Visitor Beth's quest to",
+    "Analyze this crop!",
+    "",
+    "COMMON MUTATION"
+  ],
+  "name": "灰烬花环",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "It rises from ashen ground, gray",
+        "and whispering."
+      ],
+      "translation": "它从灰烬之地升起,灰白而低语.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Complete Visitor Beth's quest to",
+        "Analyze this crop!"
+      ],
+      "translation": "完成访客 Beth 的任务来分析这种作物!",
+      "styleMappings": {
+        "Visitor": "访客",
+        "Beth's": "Beth 的",
+        "Analyze": "分析"
+      }
+    },
+    {
+      "source": [
+        "COMMON MUTATION"
+      ],
+      "translation": "普通变异",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

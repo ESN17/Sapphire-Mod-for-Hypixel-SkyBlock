@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "CARNIVAL_FISHING_ROD",
+  "_original_name": "Carnival Rod",
+  "_original_lore": [
+    "Used to catch fish in the Catch a",
+    "Fish game.",
+    "",
+    "This item can be reforged!",
+    "* Soulbound *",
+    "UNCOMMON FISHING ROD"
+  ],
+  "name": "嘉年华钓竿",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Used to catch fish in the Catch a",
+        "Fish game."
+      ],
+      "translation": "用于在钓鱼大作战中钓鱼.",
+      "styleMappings": {
+        "fish": "钓鱼",
+        "Catch a Fish": "钓鱼大作战",
+        "Fish": "鱼"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON FISHING ROD"
+      ],
+      "translation": "罕见钓鱼竿",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Carnival": "嘉年华"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "PEST_RAT_MONSTER",
+  "_original_name": "Rat (Pest)",
+  "_original_lore": [
+    "Pretty loud, and pretty",
+    "annoying.",
+    "",
+    "Attracted to Plant Matter.",
+    "",
+    "❤ Health: 600"
+  ],
+  "name": "老鼠 (害虫)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Pretty loud, and pretty",
+        "annoying."
+      ],
+      "translation": "相当吵,也相当烦人.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Attracted to Plant Matter."
+      ],
+      "translation": "被植物物质吸引.",
+      "styleMappings": {
+        "Plant Matter": "植物物质"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Pest": "害虫",
+    "Rat ": "鼠",
+    "Rat": "鼠"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "TREE_THE_FISH",
+  "_original_name": "Tree the Fish",
+  "_original_lore": [
+    "Fish grow on trees.",
+    "",
+    "SPECIAL"
+  ],
+  "name": "树鱼",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Fish grow on trees."
+      ],
+      "translation": "鱼长在树上.",
+      "styleMappings": {
+        "Fish": "鱼"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fish": "鱼",
+    "Tree": "树"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

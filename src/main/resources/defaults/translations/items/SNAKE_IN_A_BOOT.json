@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "SNAKE_IN_A_BOOT",
+  "_original_name": "Snake-in-a-Boot",
+  "_original_lore": [
+    "Rift Time: +60s",
+    "Speed: +7",
+    "",
+    "You've got a friend in me.",
+    "",
+    "LEGENDARY BOOTS"
+  ],
+  "name": "靴中蛇",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Rift Time: {{N0}}s"
+      ],
+      "translation": "裂隙时间: {{N0}}秒",
+      "styleMappings": {
+        "Rift Time": "裂隙时间",
+        "{{N0}}s": "{{N0}}秒",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "You've got a friend in me."
+      ],
+      "translation": "你有了我这个朋友.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "LEGENDARY BOOTS"
+      ],
+      "translation": "传说 靴子",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Snake-in-a-Boot": "靴中蛇"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

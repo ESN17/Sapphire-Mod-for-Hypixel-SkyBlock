@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "CARROT_BED",
+  "_original_name": "Carrot Bed",
+  "_original_lore": [
+    "Furniture",
+    "Easter Cosmetic",
+    "",
+    "This exclusive Easter cosmetic can",
+    "be placed on your island or traded.",
+    "",
+    "EPIC"
+  ],
+  "name": "胡萝卜床",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Furniture",
+        "Easter Cosmetic"
+      ],
+      "translation": "家具 复活节装饰",
+      "styleMappings": {
+        "Easter Cosmetic": "复活节装饰",
+        "Furniture": "家具",
+        "Easter": "复活节"
+      }
+    },
+    {
+      "source": [
+        "This exclusive Easter cosmetic can",
+        "be placed on your island or traded."
+      ],
+      "translation": "这款专属复活节装饰可以放置在你的岛屿上或进行交易.",
+      "styleMappings": {
+        "Easter": "复活节",
+        "island": "岛屿上"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Carrot": "胡萝卜"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

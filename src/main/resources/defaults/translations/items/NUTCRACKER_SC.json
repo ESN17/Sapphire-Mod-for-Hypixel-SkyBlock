@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "NUTCRACKER_SC",
+  "_original_name": "Nutcracker (Sea Creature)",
+  "_original_lore": [
+    "Mob Types: ⚓ Aquatic, ☃ Frozen, ✰ Humanoid",
+    "❤ Health: 4,000,000",
+    "",
+    "EPIC"
+  ],
+  "name": "胡桃夹子 (海怪)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mob Types: ⚓ Aquatic, ☃ Frozen, ✰ Humanoid"
+      ],
+      "translation": "怪物类型: ⚓ 水生, ☃ 冰冻, ✰ 人形",
+      "styleMappings": {
+        "Mob Types": "怪物类型",
+        "Aquatic": "水生",
+        "Frozen": "冰冻",
+        "Humanoid": "人形",
+        "Mob Types:": "怪物类型:"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sea Creature": "海怪",
+    "(Sea Creature)": "(海怪)"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

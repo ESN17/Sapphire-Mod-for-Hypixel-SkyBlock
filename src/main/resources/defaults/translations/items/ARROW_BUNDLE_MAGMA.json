@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "ARROW_BUNDLE_MAGMA",
+  "_original_name": "Bundle of Magma Arrows",
+  "_original_lore": [
+    "Right-click to consume this item and",
+    "add Magma Arrow x256 to your",
+    "quiver.",
+    "",
+    "❣ Requires Combat Skill 25.",
+    "EPIC"
+  ],
+  "name": "岩浆箭捆",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Right-click to consume this item and"
+      ],
+      "translation": "右键点击消耗此物品,",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "add Magma Arrow x{{N0}} to your",
+        "quiver."
+      ],
+      "translation": "将岩浆箭 x{{N0}} 添加到你的箭袋.",
+      "styleMappings": {
+        "Magma Arrow": "岩浆箭"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

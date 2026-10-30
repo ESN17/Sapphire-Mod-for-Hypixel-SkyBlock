@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "THE_ART_OF_PEACE",
+  "_original_name": "The Art of Peace",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Grants +40 Health when applied to",
+    "an armor piece. Can only be applied",
+    "to an item once.",
+    "",
+    "Stop quoting my cousin.",
+    " - Moon Tzu",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "孙弟兵法",
+  "lore": {
+    "Combinable in Anvil": "可在铁砧中合成",
+    "LEGENDARY": "传说"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "Grants {health} Health when applied to",
+        "an armor piece. Can only be applied",
+        "to an item once."
+      ],
+      "translation": "用于护甲时,提供 {health} 生命值.每件物品只能使用一次.",
+      "styleMappings": {
+        "Health": "生命值",
+        "item": "物品",
+        "Grants": "提供",
+        " Health": " 生命",
+        "health": "生命值",
+        "when": "时",
+        "armor piece": "护甲"
+      }
+    },
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Health when applied to",
+        "an armor piece. Can only be applied",
+        "to an item once."
+      ],
+      "translation": "用于护甲时,提供 {{N0}} 生命值.每件物品只能使用一次.",
+      "styleMappings": {
+        "Grants": "提供",
+        "Health": "生命值",
+        "item": "物品",
+        " Health": " 生命",
+        "when": "时",
+        "armor piece": "护甲"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    },
+    {
+      "source": [
+        "Stop quoting my cousin."
+      ],
+      "translation": "别特么动不动引用我哥的话了。",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Moon Tzu"
+      ],
+      "translation": " —— 孙子弟弟",
+      "styleMappings": {}
+    }
+  ],
+  "styleMappings": {
+    "Health": "生命值"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

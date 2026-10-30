@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "id": "PIG;2",
+  "_original_name": "[Lvl {LVL}] Pig",
+  "_original_lore": [
+    "Farming Pet",
+    "",
+    "Speed: +{SPEED}",
+    "Potato Fortune: +{POTATO_FORTUNE}",
+    "",
+    "Hamfisted",
+    "Increases Coin gain from Shiny Pigs",
+    "by {0}%.",
+    "",
+    "Shining Stampede",
+    "Grants +{1} Potato Fortune per",
+    "Shiny Pig Bestiary tier.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "RARE PET"
+  ],
+  "name": "[等级 {LVL}] 猪",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Farming Pet"
+      ],
+      "translation": "耕作宠物",
+      "styleMappings": {
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Speed: +{{N0}}"
+      ],
+      "translation": "速度: +{{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Potato Fortune: +{{N0}}"
+      ],
+      "translation": "马铃薯幸运: +{{N0}}",
+      "styleMappings": {
+        "Potato Fortune": "马铃薯幸运",
+        "Fortune": "幸运",
+        "Potato": "马铃薯"
+      }
+    },
+    {
+      "source": [
+        "Hamfisted"
+      ],
+      "translation": "笨手笨脚",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Increases Coin gain from Shiny Pigs",
+        "by {{N0}}%."
+      ],
+      "translation": "使从闪亮猪获得的硬币增加 {{N0}}%.",
+      "styleMappings": {
+        "Shiny Pigs": "闪亮猪",
+        "Increases": "增加",
+        "Coin": "硬币",
+        "Pigs": "猪",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "Shining Stampede"
+      ],
+      "translation": "闪耀狂奔",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants +{{N0}} Potato Fortune per",
+        "Shiny Pig Bestiary tier."
+      ],
+      "translation": "每级闪亮猪图鉴等级提供 +{{N0}} 马铃薯幸运.",
+      "styleMappings": {
+        "Potato Fortune": "马铃薯幸运",
+        "Shiny Pig": "闪亮猪",
+        "Bestiary": "图鉴",
+        "Grants": "提供",
+        "Fortune": "幸运",
+        "Potato": "马铃薯",
+        "Pig": "猪",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "RARE PET"
+      ],
+      "translation": "稀有 宠物",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Lvl": "等级",
+    "Pig": "猪"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

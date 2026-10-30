@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "WEIRDER_TUBA",
+  "_original_name": "Weirder Tuba",
+  "_original_lore": [
+    "Ability: Howl  RIGHT CLICK",
+    "You and 4 nearby players gain:",
+    " +40 Strength",
+    " +5 Attack Speed",
+    " +10 Crit Damage",
+    " +30 Speed",
+    "for 30 seconds.",
+    "Effect doesn't stack.",
+    "Mana Cost: 150",
+    "Cooldown: 20s",
+    "",
+    "☠ Requires Wolf Slayer 5.",
+    "☠ Requires Vampire Slayer 4.",
+    "X Rift-Transferable X",
+    "EPIC"
+  ],
+  "name": "更怪的长号",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Howl  RIGHT CLICK"
+      ],
+      "translation": "技能:嚎叫  右键点击",
+      "styleMappings": {
+        "Ability: Howl": "技能:嚎叫",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "You and {{N0}} nearby players gain:"
+      ],
+      "translation": "你和 {{N0}} 名附近玩家获得:",
+      "styleMappings": {
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        " {{N0}} Strength",
+        " {{N1}} Attack Speed",
+        " {{N2}} Crit Damage",
+        " {{N3}} Speed",
+        "for {{N4}} seconds."
+      ],
+      "translation": " {{N0}} 力量  {{N1}} 攻击速度  {{N2}} 暴击伤害  {{N3}} 速度,持续 {{N4}} 秒.",
+      "styleMappings": {
+        " Attack Speed": " 攻击速度",
+        " Crit Damage": " 暴击伤害",
+        " Strength": " 力量",
+        "seconds": "秒",
+        " Speed": " 速度",
+        "for": "持续",
+        "Strength": "力量",
+        "Attack Speed": "攻击速度",
+        "Crit Damage": "暴击伤害",
+        "Speed": "速度",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Effect doesn't stack."
+      ],
+      "translation": "效果不叠加.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Wolf Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要狼杀手 {{N0}}.",
+      "styleMappings": {
+        "Wolf Slayer": "狼杀手",
+        "Requires": "需要",
+        "Slayer": "杀手",
+        "Wolf": "狼"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Vampire Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要吸血鬼杀手 {{N0}}.",
+      "styleMappings": {
+        "Vampire Slayer": "吸血鬼杀手",
+        "Requires": "需要",
+        "Slayer": "杀手",
+        "Vampire": "吸血鬼"
+      }
+    },
+    {
+      "source": [
+        "X Rift-Transferable X"
+      ],
+      "translation": "X 可转移至裂隙 X",
+      "styleMappings": {
+        "Rift-Transferable": "可转移至裂隙",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

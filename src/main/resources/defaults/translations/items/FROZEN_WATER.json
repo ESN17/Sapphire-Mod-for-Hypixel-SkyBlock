@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "FROZEN_WATER",
+  "_original_name": "Frozen Water",
+  "_original_lore": [
+    "One could say it's... ice cold.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "RARE"
+  ],
+  "name": "冰冻之水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "One could say it's... ice cold."
+      ],
+      "translation": "可以说它...冰冷刺骨.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Frozen": "冰冻"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

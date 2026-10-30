@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "BRINE_TONIC",
+  "_original_name": "Brine Tonic",
+  "_original_lore": [
+    "Hunting Tool",
+    "",
+    "Grants 2.75❣ Charm Chance on",
+    "Moonglade Marsh Sea Creatures and",
+    "Torrhus Canyon Sea Creatures.",
+    "Duration: 24h",
+    "",
+    "Left-click to consume!",
+    "",
+    "RARE SALT"
+  ],
+  "name": "盐水补剂",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Hunting Tool"
+      ],
+      "translation": "狩猎工具",
+      "styleMappings": {
+        "Hunting Tool": "狩猎工具"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}❣ Charm Chance on",
+        "Moonglade Marsh Sea Creatures and",
+        "Torrhus Canyon Sea Creatures."
+      ],
+      "translation": "对月林沼泽海怪和托鲁斯峡谷海怪提供 {{N0}}❣ 魅惑几率.",
+      "styleMappings": {
+        "Moonglade Marsh Sea Creatures": "月林沼泽海怪",
+        "Torrhus Canyon Sea Creatures": "托鲁斯峡谷海怪",
+        "Charm Chance": "魅惑几率",
+        "Grants": "提供",
+        "Sea Creatures": "海怪",
+        "Moonglade Marsh": "月林沼泽",
+        "Torrhus Canyon": "托鲁斯峡谷"
+      }
+    },
+    {
+      "source": [
+        "Duration: {{N0}}h"
+      ],
+      "translation": "持续时间: {{N0}}小时",
+      "styleMappings": {
+        "Duration": "持续时间",
+        "{{N0}}h": "{{N0}}小时"
+      }
+    },
+    {
+      "source": [
+        "Left-click to consume!"
+      ],
+      "translation": "左键点击饮用!",
+      "styleMappings": {
+        "Left-click": "左键点击"
+      }
+    },
+    {
+      "source": [
+        "RARE SALT"
+      ],
+      "translation": "稀有盐",
+      "styleMappings": {
+        "RARE SALT": "稀有盐",
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

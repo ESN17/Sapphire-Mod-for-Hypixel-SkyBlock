@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_AGILITY;1",
+  "_original_name": "Agility I Potion",
+  "_original_lore": [
+    "",
+    "Agility I (3:00)",
+    "Grants +10  Speed and increases",
+    "the chance for mob attacks to miss",
+    "by 10%.",
+    "",
+    "COMMON"
+  ],
+  "name": "敏捷 I 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Agility I ({{N0}}:{{N1}})"
+      ],
+      "translation": "敏捷 I ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Agility I": "敏捷 I"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}  Speed and increases",
+        "the chance for mob attacks to miss",
+        "by {{N1}}."
+      ],
+      "translation": "提供 {{N0}}  速度,并使生物攻击落空的概率提高 {{N1}}.",
+      "styleMappings": {
+        " Speed": " 速度",
+        "Grants": "提供",
+        "chance": "概率",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Agility I": "敏捷 I"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

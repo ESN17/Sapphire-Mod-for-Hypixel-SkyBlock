@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "HEPHAESTUS_ANVIL",
+  "_original_name": "Hephaestus Anvil",
+  "_original_lore": [
+    "Used in crafting to upgrade pet",
+    "items dropped from  Mythological",
+    "mobs.",
+    "",
+    "EPIC"
+  ],
+  "name": "赫菲斯托斯铁砧",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Used in crafting to upgrade pet",
+        "items dropped from  Mythological",
+        "mobs."
+      ],
+      "translation": "用于合成,以升级从 神话生物掉落的宠物物品.",
+      "styleMappings": {
+        " Mythological": " 神话生物",
+        "upgrade": "升级",
+        "items": "物品",
+        "pet": "宠物",
+        "Mythological": "神话生物",
+        "mobs": "生物"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Hephaestus Anvil": "赫菲斯托斯铁砧",
+    "Anvil": "铁砧"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "id": "PET_SKIN_BEE_SPELLING_BEE",
+  "_original_name": "Spelling Bee Skin",
+  "_original_lore": [
+    "Consumed on use",
+    "",
+    "Pet skins change the look and",
+    "particle trail of your pet but only",
+    "one skin can be active at a time!",
+    "",
+    "This skin can only be applied to Bee",
+    "pets.",
+    "",
+    "Right-click on your summoned pet to",
+    "apply this skin!",
+    "",
+    "EPIC COSMETIC"
+  ],
+  "name": "拼字蜜蜂皮肤",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumed on use"
+      ],
+      "translation": "使用后消耗",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Pet skins change the look and",
+        "particle trail of your pet but only",
+        "one skin can be active at a time!"
+      ],
+      "translation": "宠物皮肤会改变宠物的外观和粒子轨迹,但一次只能激活一个皮肤!",
+      "styleMappings": {
+        "pet": "宠物",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "This skin can only be applied to Bee",
+        "pets."
+      ],
+      "translation": "该皮肤只能应用于蜜蜂宠物.",
+      "styleMappings": {
+        "Bee": "蜜蜂"
+      }
+    },
+    {
+      "source": [
+        "Right-click on your summoned pet to"
+      ],
+      "translation": "右键点击你召唤的宠物以",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "apply this skin!"
+      ],
+      "translation": "使用此皮肤!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC COSMETIC"
+      ],
+      "translation": "史诗外观",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Bee": "蜜蜂"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

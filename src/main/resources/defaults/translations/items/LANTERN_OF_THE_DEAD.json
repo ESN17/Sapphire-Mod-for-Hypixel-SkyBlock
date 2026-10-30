@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "id": "LANTERN_OF_THE_DEAD",
+  "_original_name": "Lantern of the Dead",
+  "_original_lore": [
+    "Obtained during the 1st Carnival for",
+    "achieving a high score in Zombie",
+    "Shootout!",
+    "",
+    "Player: Eisengolem",
+    "Position: #10",
+    "Score: 5,175",
+    "",
+    "* Co-op Soulbound *",
+    "SPECIAL"
+  ],
+  "name": "亡者灯笼",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Obtained during the {{N0}}st Carnival for",
+        "achieving a high score in Zombie",
+        "Shootout!"
+      ],
+      "translation": "在 {{N0}} 届嘉年华中于僵尸射击中取得高分获得!",
+      "styleMappings": {
+        "Zombie Shootout": "僵尸射击",
+        "high score": "高分",
+        "Carnival": "嘉年华",
+        "for": "获得",
+        "Zombie": "僵尸"
+      }
+    },
+    {
+      "source": [
+        "Player: Eisengolem"
+      ],
+      "translation": "玩家: 铁傀儡",
+      "styleMappings": {
+        "Player": "玩家",
+        "Eisengolem": "铁傀儡"
+      }
+    },
+    {
+      "source": [
+        "Position: #{{N0}}"
+      ],
+      "translation": "排名: #{{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Score: {{N0}}"
+      ],
+      "translation": "得分: {{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

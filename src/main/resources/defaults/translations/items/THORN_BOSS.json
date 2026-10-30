@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "THORN_BOSS",
+  "_original_name": "Thorn (Boss)",
+  "_original_lore": [
+    "Thorn is the boss of Floor 4 of the Catacombs. He is a",
+    "'Shaman Necromancer', appears as a ghast, and does not",
+    "attack the player. He spawns Spirit Animals that you must",
+    "kill to spawn a Spirit Bear which when killed drops the Spirit",
+    "Bow which is a single shot bow and the only way to damage him.",
+    "",
+    "❤ Health: 4 hits",
+    "❤ Health (MM): 6 hits"
+  ],
+  "name": "荆棘 (首领)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Thorn is the boss of Floor {{N0}} of the Catacombs. He is a",
+        "'Shaman Necromancer', appears as a ghast, and does not",
+        "attack the player. He spawns Spirit Animals that you must",
+        "kill to spawn a Spirit Bear which when killed drops the Spirit",
+        "Bow which is a single shot bow and the only way to damage him."
+      ],
+      "translation": "索恩是地牢第 {{N0}} 层的首领.他是一名 '萨满死灵法师',以恶魂形态出现,不会攻击玩家.他会生成灵魂动物,你必须击杀它们来生成灵魂熊,击杀灵魂熊后会掉落灵魂之弓,这是一把单发弓,也是唯一能伤害他的方式.",
+      "styleMappings": {
+        "Catacombs": "地牢",
+        "damage": "伤害",
+        "player": "玩家",
+        "Thorn": "索恩",
+        "Bow": "弓",
+        "Spirit": "灵魂",
+        "spawn": "出现",
+        "the Catacombs": "地牢"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}} hits"
+      ],
+      "translation": "❤ 生命值: {{N0}} 次命中",
+      "styleMappings": {
+        "Health": "生命值",
+        "hits": "次命中"
+      }
+    },
+    {
+      "source": [
+        "❤ Health (MM): {{N0}} hits"
+      ],
+      "translation": "❤ 生命值 (MM): {{N0}} 次命中",
+      "styleMappings": {
+        "Health": "生命值",
+        "hits": "次命中"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Thorn": "荆棘",
+    "Boss": "首领"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

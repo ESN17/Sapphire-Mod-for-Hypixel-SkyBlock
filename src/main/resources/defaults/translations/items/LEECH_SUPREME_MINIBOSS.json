@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "LEECH_SUPREME_MINIBOSS",
+  "_original_name": "Leech Supreme (Miniboss)",
+  "_original_lore": [
+    "❤ Health: 800"
+  ],
+  "name": "血蛭至尊 (小头目)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Miniboss": "小头目",
+    "(Miniboss)": "(小头目)"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "GLOOMGOURD",
+  "_original_name": "Gloomgourd",
+  "_original_lore": [
+    "Heavy and strange, it seems to",
+    "carry a hidden weight.",
+    "",
+    "Complete Visitor Beth's quest to",
+    "Analyze this crop!",
+    "",
+    "COMMON MUTATION"
+  ],
+  "name": "幽暗南瓜",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Heavy and strange, it seems to",
+        "carry a hidden weight."
+      ],
+      "translation": "沉重而奇怪,似乎承载着隐藏的重量.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Complete Visitor Beth's quest to",
+        "Analyze this crop!"
+      ],
+      "translation": "完成访客 Beth 的任务来分析这种作物!",
+      "styleMappings": {
+        "Visitor": "访客",
+        "Beth's": "Beth 的",
+        "Analyze": "分析"
+      }
+    },
+    {
+      "source": [
+        "COMMON MUTATION"
+      ],
+      "translation": "普通变异",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

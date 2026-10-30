@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": "ANGLER_LEGGINGS",
+  "_original_name": "Angler Leggings",
+  "_original_lore": [
+    "Defense: +30",
+    "Sea Creature Chance: +1%",
+    "",
+    "Tiered Bonus: Depth Champion (0/8)",
+    "Reduces the damage taken from Sea",
+    "Creatures by 3%.",
+    "",
+    "Tiered Bonus: Deepness Within (0/4)",
+    "Gain 6❤ per Fishing level.",
+    "Fishing: Level 00",
+    "",
+    "This item can be reforged!",
+    "COMMON LEGGINGS"
+  ],
+  "name": "渔夫护腿",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Sea Creature Chance: {{N0}}"
+      ],
+      "translation": "海洋生物概率:{{N0}}",
+      "styleMappings": {
+        "Sea Creature Chance": "海洋生物概率",
+        "Sea Creature": "海洋生物"
+      }
+    },
+    {
+      "source": [
+        "Tiered Bonus: Depth Champion ({{N0}}/{{N1}})"
+      ],
+      "translation": "阶梯加成: 深渊冠军 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Reduces the damage taken from Sea",
+        "Creatures by {{N0}}."
+      ],
+      "translation": "减少受到的海怪伤害 {{N0}}.",
+      "styleMappings": {
+        "Sea Creatures": "海怪",
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Tiered Bonus: Deepness Within ({{N0}}/{{N1}})"
+      ],
+      "translation": "阶梯加成: 内心深渊 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}}❤ per Fishing level."
+      ],
+      "translation": "每级钓鱼等级获得 {{N0}}❤.",
+      "styleMappings": {
+        "Fishing": "钓鱼",
+        "Gain": "获得",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Fishing: Level {{N0}}"
+      ],
+      "translation": "钓鱼: 等级 {{N0}}",
+      "styleMappings": {
+        "Fishing": "钓鱼",
+        "Level": "等级"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "COMMON LEGGINGS"
+      ],
+      "translation": "普通护腿",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Leggings": "护腿"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

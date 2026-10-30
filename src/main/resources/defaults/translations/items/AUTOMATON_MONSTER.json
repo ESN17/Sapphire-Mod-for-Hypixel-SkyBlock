@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "AUTOMATON_MONSTER",
+  "_original_name": "Automaton (Monster)",
+  "_original_lore": [
+    "Ancient robots which protect the",
+    "lands of the Precursor from",
+    "whoever dares to trespass",
+    "",
+    "Mob Types: ⛏ Subterranean, ⚙ Construct, ♃ Arcane",
+    "❤ Health: 15,000"
+  ],
+  "name": "自动机 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ancient robots which protect the",
+        "lands of the Precursor from",
+        "whoever dares to trespass"
+      ],
+      "translation": "守护先遣者之地的远古机器人,抵御任何胆敢擅闯者",
+      "styleMappings": {
+        "Ancient": "远古"
+      }
+    },
+    {
+      "source": [
+        "Mob Types: ⛏ Subterranean, ⚙ Construct, ♃ Arcane"
+      ],
+      "translation": "生物类型: ⛏ 地底, ⚙ 构造体, ♃ 奥术",
+      "styleMappings": {
+        "Subterranean": "地底",
+        "Mob Types:": "生物类型:",
+        "Construct": "构造体",
+        "Arcane": "奥术"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

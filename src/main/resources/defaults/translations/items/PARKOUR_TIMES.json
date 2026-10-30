@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "PARKOUR_TIMES",
+  "_original_name": "Parkour Times",
+  "_original_lore": [
+    "Places a hologram displaying the top",
+    "parkour times of players on your",
+    "island. Click to select which parkour",
+    "is displayed.",
+    "",
+    "❣ Requires Social Skill 1.",
+    "COMMON"
+  ],
+  "name": "跑酷计时",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Places a hologram displaying the top",
+        "parkour times of players on your",
+        "island. Click to select which parkour",
+        "is displayed."
+      ],
+      "translation": "放置一个全息投影, 显示你岛上玩家的最佳跑酷时间. 点击选择要显示的跑酷路线.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "❣ Requires Social Skill {{N0}}."
+      ],
+      "translation": "❣ 需要社交技能 {{N0}}.",
+      "styleMappings": {
+        "Requires": "需要",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

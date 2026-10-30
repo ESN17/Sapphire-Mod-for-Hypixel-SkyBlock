@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "id": "GANACHE_CHOCOLATE_SLAB",
+  "_original_name": "Ganache Chocolate Slab",
+  "_original_lore": [
+    "Accessory Power: +12",
+    "",
+    "Grants +8% chance to find a",
+    "Chocolate Rabbit that you haven't",
+    "found yet and grants +40 Chocolate",
+    "per second.",
+    "",
+    "A Factory masterpiece - its divine",
+    "taste transcends reality, offering a",
+    "heavenly escape.",
+    "",
+    "Works while in Accessory Bag!",
+    "EPIC ACCESSORY"
+  ],
+  "name": "甘纳许巧克力板",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Accessory Power: {{N0}}"
+      ],
+      "translation": "饰品能量: {{N0}}",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} chance to find a",
+        "Chocolate Rabbit that you haven't",
+        "found yet and grants {{N1}} Chocolate",
+        "per second."
+      ],
+      "translation": "提供 {{N0}} 概率找到你尚未找到的巧克力兔子,并每秒提供 {{N1}} 巧克力.",
+      "styleMappings": {
+        "Chocolate Rabbit": "巧克力兔子",
+        "chance to find": "概率找到",
+        "per second": "每秒",
+        "Chocolate": "巧克力",
+        "Grants": "提供",
+        "chance": "概率",
+        "chance to": "概率",
+        "Rabbit": "兔子",
+        "second": "秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "A Factory masterpiece - its divine",
+        "taste transcends reality, offering a",
+        "heavenly escape."
+      ],
+      "translation": "工厂的杰作——其神圣的味道超越现实,带来天堂般的享受.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "放在饰品袋中即可生效!",
+      "styleMappings": {
+        "Accessory Bag": "饰品袋",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "EPIC ACCESSORY"
+      ],
+      "translation": "史诗饰品",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Chocolate": "巧克力"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

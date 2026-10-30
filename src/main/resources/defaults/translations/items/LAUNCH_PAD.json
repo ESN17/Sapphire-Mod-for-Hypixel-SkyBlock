@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "LAUNCH_PAD",
+  "_original_name": "Launch Pad",
+  "_original_lore": [
+    "Launches you in the direction you",
+    "are facing!",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "发射台",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Launches you in the direction you",
+        "are facing!"
+      ],
+      "translation": "将你朝面向的方向发射出去!",
+      "styleMappings": {
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "GEMSTONE_CHAMBER",
+  "_original_name": "Gemstone Chamber",
+  "_original_lore": [
+    "Used in the Gemstone Grinder to",
+    "unlock Gemstone slots for Divan items.",
+    "",
+    "EPIC"
+  ],
+  "name": "宝石室",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Used in the Gemstone Grinder to",
+        "unlock Gemstone slots for Divan items."
+      ],
+      "translation": "用于宝石研磨机,为迪万物品解锁宝石槽位.",
+      "styleMappings": {
+        "Gemstone Grinder": "宝石研磨机",
+        "Gemstone": "宝石",
+        "Divan": "迪万",
+        "items": "物品"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Gemstone": "宝石"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

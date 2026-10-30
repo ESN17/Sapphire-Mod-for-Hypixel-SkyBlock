@@ -1,0 +1,191 @@
+{
+  "schemaVersion": 1,
+  "id": "GEMSTONE_GAUNTLET",
+  "_original_name": "Gemstone Gauntlet",
+  "_original_lore": [
+    "Breaking Power 8",
+    "",
+    "Damage: +300",
+    "Strength: +50",
+    "Mining Speed: +800",
+    "Gemstones: [] [] [] [] []",
+    "",
+    "Ability: Reduced To Atoms",
+    "On Mining Islands, mobs hit by this Gauntlet will",
+    "drop the same Gemstones as your filled",
+    "Gemstone Slots.",
+    "Cooldown: 2s",
+    "",
+    "Ability: Kinetic",
+    "Killing mobs on Mining Islands reduces your",
+    "Forge Timers by 0s.",
+    "(+0.5s per Perfect Gemstone)",
+    "Cooldown: 1s",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Heart of the Mountain Tier 6.",
+    "LEGENDARY GAUNTLET"
+  ],
+  "name": "宝石护手",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Breaking Power {{N0}}"
+      ],
+      "translation": "破坏力 {{N0}}",
+      "styleMappings": {
+        "Breaking Power": "破坏力"
+      }
+    },
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Mining Speed: {{N0}}"
+      ],
+      "translation": "采矿速度: {{N0}}",
+      "styleMappings": {
+        "Mining Speed": "采矿速度",
+        "Mining": "采矿",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [] [] [] [] []"
+      ],
+      "translation": "宝石: [] [] [] [] []",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "": "",
+        "Gemstones": "宝石",
+        "] [": "] ["
+      }
+    },
+    {
+      "source": [
+        "Ability: Reduced To Atoms"
+      ],
+      "translation": "技能: 化为原子",
+      "styleMappings": {
+        "Ability": "技能"
+      }
+    },
+    {
+      "source": [
+        "On Mining Islands, mobs hit by this Gauntlet will",
+        "drop the same Gemstones as your filled",
+        "Gemstone Slots."
+      ],
+      "translation": "在采矿岛屿上, 被此护手击中的怪物会掉落与你已填充宝石槽位相同的宝石.",
+      "styleMappings": {
+        "Gemstone Slots": "宝石槽位",
+        "Mining Islands": "采矿岛屿",
+        "Gemstones": "宝石",
+        "Gauntlet": "护手",
+        "mobs": "怪物",
+        "hit": "击中",
+        "Mining": "采矿",
+        "Gemstone": "宝石"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "Ability: Kinetic"
+      ],
+      "translation": "技能: 动能",
+      "styleMappings": {
+        "Ability": "技能"
+      }
+    },
+    {
+      "source": [
+        "Killing mobs on Mining Islands reduces your",
+        "Forge Timers by {{N0}}s."
+      ],
+      "translation": "在采矿岛屿上击杀怪物会减少你的锻造计时器 {{N0}} 秒。",
+      "styleMappings": {
+        "Mining Islands": "采矿岛屿",
+        "Forge Timers": "锻造计时器",
+        "mobs": "怪物",
+        "{{N0}}s": "{{N0}} 秒",
+        "Mining": "采矿"
+      }
+    },
+    {
+      "source": [
+        "({{N0}}s per Perfect Gemstone)"
+      ],
+      "translation": "(每个完美宝石 {{N0}} 秒)",
+      "styleMappings": {
+        "Gemstone": "宝石",
+        "Perfect": "完美",
+        "{{N0}}s": "{{N0}} 秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Heart of the Mountain Tier {{N0}}."
+      ],
+      "translation": "❣ 需要山峰之心等级 {{N0}}.",
+      "styleMappings": {
+        "Heart of the Mountain Tier": "山峰之心等级",
+        "Requires": "需要",
+        "Heart of the Mountain": "山峰之心"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY GAUNTLET"
+      ],
+      "translation": "传说 护手",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Gemstone": "宝石",
+    "Gauntlet": "护手"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

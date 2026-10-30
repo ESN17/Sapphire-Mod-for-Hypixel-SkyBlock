@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "DISCRITE",
+  "_original_name": "Discrite",
+  "_original_lore": [
+    "Consume to boost your  Health and",
+    " Rift Time for 60m.",
+    "",
+    "Keep this item in your inventory to",
+    "increase the bonus up to +150",
+    "Health and +150 Rift Time, at which",
+    "point the item evolves!",
+    "",
+    "Current Bonus: +0 Health",
+    "",
+    "PRO TIP!",
+    "Bonus  Rift Time will be granted",
+    "whenever you enter the Rift- only",
+    "while this item is active!",
+    "",
+    "X Rift-Exportable X",
+    "Loses motes value when crossing",
+    "dimensions.",
+    "RARE"
+  ],
+  "name": "离时石",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consume to boost your  Health and",
+        " Rift Time for {{N0}}m."
+      ],
+      "translation": "食用后,在 {{N0}} 分钟内提升你的 生命和  裂隙时间。",
+      "styleMappings": {
+        "Rift Time": "裂隙时间",
+        " Health": " 生命",
+        "{{N0}}m": "{{N0}} 分钟",
+        "Health": "生命",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "Keep this item in your inventory to",
+        "increase the bonus up to {{N0}}",
+        "Health and {{N1}} Rift Time, at which",
+        "point the item evolves!"
+      ],
+      "translation": "将此物品保留在物品栏中,可将加成提升至 {{N0}} 生命和 {{N1}} 裂隙时间,届时该物品会进化!",
+      "styleMappings": {
+        "Rift Time": "裂隙时间",
+        " Health": " 生命",
+        "evolves": "进化",
+        "item": "物品",
+        "Health": "生命",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "Current Bonus: {{N0}} Health"
+      ],
+      "translation": "当前加成: {{N0}} 生命",
+      "styleMappings": {
+        "Current Bonus:": "当前加成:",
+        " Health": " 生命",
+        "Health": "生命",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "PRO TIP!"
+      ],
+      "translation": "专业提示!",
+      "styleMappings": {
+        "PRO TIP!": "专业提示!"
+      }
+    },
+    {
+      "source": [
+        "Bonus  Rift Time will be granted",
+        "whenever you enter the Rift- only",
+        "while this item is active!"
+      ],
+      "translation": "每当你进入裂隙时,都会获得加成 裂隙时间——仅在此物品激活时!",
+      "styleMappings": {
+        "Bonus": "加成",
+        "Rift Time": "裂隙时间",
+        "Rift": "裂隙",
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "X Rift-Exportable X",
+        "Loses motes value when crossing",
+        "dimensions."
+      ],
+      "translation": "X 可带出裂隙 X 穿越维度时会损失裂隙尘埃价值.",
+      "styleMappings": {
+        "Rift-Exportable": "可带出裂隙",
+        "Rift": "裂隙",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

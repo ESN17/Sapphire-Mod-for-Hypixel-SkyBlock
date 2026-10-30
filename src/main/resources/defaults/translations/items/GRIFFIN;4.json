@@ -1,0 +1,264 @@
+{
+  "schemaVersion": 1,
+  "id": "GRIFFIN;4",
+  "_original_name": "[Lvl {LVL}] Griffin",
+  "_original_lore": [
+    "Combat Pet",
+    "",
+    "Strength: +{STRENGTH}",
+    "Crit Chance: +{CRIT_CHANCE}%",
+    "Crit Damage: +{CRIT_DAMAGE}%",
+    "Attack Speed: +{BONUS_ATTACK_SPEED}%",
+    "",
+    "Odyssey",
+    "10 types of  Mythological mobs can",
+    "spawn from Griffin Burrows. Their",
+    "stats scale with your Griffin’s",
+    "rarity.",
+    "",
+    "Sacred Strength",
+    "Gain +{0}%  Strength when above",
+    "85%  Health.",
+    "",
+    "King of Kings",
+    "Grants +{1} Magic Find on ",
+    "Mythological mobs.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "LEGENDARY PET"
+  ],
+  "name": "[等级 {LVL}] 狮鹫",
+  "lore": {
+    "Combat Pet": "战斗宠物",
+    "Strength: {value}": "力量:{value}",
+    "Crit Chance: {value}": "暴击率:{value}",
+    "Crit Damage: {value}": "暴击伤害:{value}",
+    "Attack Speed: {value}": "攻击速度:{value}",
+    "Odyssey": "远征",
+    "Sacred Strength": "神圣力量",
+    "King of Kings": "万王之王",
+    "Right-click to add this pet to your pet menu!": "右键将此宠物添加到宠物菜单!",
+    "Can be upgraded at Kat in The Hub!": "可在中心岛找 Kat 升级稀有度!",
+    "LEGENDARY PET": "传说宠物",
+    "Strength: {value} ({bonus})": "力量:{value} ({bonus})",
+    "Crit Chance: {value} ({bonus})": "暴击率:{value} ({bonus})",
+    "Crit Damage: {value} ({bonus})": "暴击伤害:{value} ({bonus})",
+    "Attack Speed: {value} ({bonus})": "攻击速度:{value} ({bonus})"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "{count} types of  Mythological mobs can",
+        "spawn from Griffin Burrows. Their",
+        "stats scale with your Griffin’s",
+        "rarity."
+      ],
+      "translation": "狮鹫洞穴中可出现 {count} 种  神话生物,其属性随你的狮鹫稀有度提升.",
+      "styleMappings": {
+        "Griffin Burrows": "狮鹫洞穴",
+        "Mythological": "神话生物",
+        "Griffin": "狮鹫",
+        "rarity": "稀有度",
+        "spawn": "出现",
+        "stats": "属性",
+        "mobs": "生物"
+      }
+    },
+    {
+      "source": [
+        "Gain {strength}  Strength when above",
+        "{threshold}  Health."
+      ],
+      "translation": " 生命值高于 {threshold} 时,获得 {strength}  力量.",
+      "styleMappings": {
+        "Strength": "力量",
+        "Health": "生命值",
+        " Strength": " 力量",
+        " Health": " 生命",
+        "Gain": "获得",
+        "strength": "力量",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Grants {find} Magic Find on ",
+        "Mythological mobs."
+      ],
+      "translation": "对  神话生物获得 {find} 稀有物品概率加成.",
+      "styleMappings": {
+        "Mythological": "神话生物",
+        "Magic Find": "稀有物品概率加成",
+        " Magic Find": " 稀有物品概率加成",
+        "Grants": "获得",
+        "mobs": "生物"
+      }
+    },
+    {
+      "source": [
+        "Combat Pet"
+      ],
+      "translation": "战斗宠物",
+      "styleMappings": {
+        "Combat Pet": "战斗宠物",
+        "Combat": "战斗",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Strength: +{{N0}}"
+      ],
+      "translation": "力量: +{{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Crit Chance: +{{N0}}%"
+      ],
+      "translation": "暴击几率: +{{N0}}%",
+      "styleMappings": {
+        "Crit Chance": "暴击几率"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: +{{N0}}%"
+      ],
+      "translation": "暴击伤害: +{{N0}}%",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Attack Speed: +{{N0}}%"
+      ],
+      "translation": "攻击速度: +{{N0}}%",
+      "styleMappings": {
+        "Attack Speed": "攻击速度",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Odyssey"
+      ],
+      "translation": "远征",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "{{N0}} types of  Mythological mobs can",
+        "spawn from Griffin Burrows. Their",
+        "stats scale with your Griffin’s",
+        "rarity."
+      ],
+      "translation": "狮鹫洞穴中可出现 {{N0}} 种  神话生物,其属性随你的狮鹫稀有度提升.",
+      "styleMappings": {
+        "Griffin Burrows": "狮鹫洞穴",
+        " Mythological": " 神话生物",
+        "Griffin": "狮鹫",
+        "rarity": "稀有度",
+        "stats": "属性",
+        "s": "现",
+        "Mythological": "神话生物",
+        "spawn": "出现",
+        "mobs": "生物"
+      }
+    },
+    {
+      "source": [
+        "Sacred Strength"
+      ],
+      "translation": "神圣力量",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Gain +{{N0}}%  Strength when above",
+        "{{N1}}  Health."
+      ],
+      "translation": "当 生命值高于 {{N1}} 时,获得 +{{N0}}%  力量.",
+      "styleMappings": {
+        " Strength": " 力量",
+        "Health": "生命值",
+        " Health": " 生命",
+        "Gain": "获得",
+        "Strength": "力量",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "King of Kings"
+      ],
+      "translation": "万王之王",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants +{{N0}} Magic Find on ",
+        "Mythological mobs."
+      ],
+      "translation": "对  神话生物提供 +{{N0}} 稀有物品概率加成.",
+      "styleMappings": {
+        " Mythological": " 神话生物",
+        " Magic Find": " 稀有物品概率加成",
+        "Grants": "提供",
+        "Mythological": "神话生物",
+        "Magic Find": "稀有物品概率加成",
+        "mobs": "生物"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY PET"
+      ],
+      "translation": "传说 宠物",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Strength": "力量",
+    "Crit Chance": "暴击率",
+    "Crit Damage": "暴击伤害",
+    "Attack Speed": "攻击速度",
+    "Griffin Burrows": "狮鹫洞穴",
+    "Mythological": "神话",
+    "Health": "生命值",
+    "Magic Find": "稀有物品概率加成",
+    "Griffin": "狮鹫",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

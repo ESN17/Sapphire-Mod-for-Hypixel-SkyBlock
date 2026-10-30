@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "id": "CELLAR_SPIDER_MONSTER",
+  "_original_name": "Cellar Spider (Monster)",
+  "_original_lore": [
+    "Creepy crawler",
+    "",
+    "❤ Health: 22,000 - 420,000",
+    "❤ Health (MM) : 500,000 - 9,500,000"
+  ],
+  "name": "地窖蜘蛛 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Creepy crawler"
+      ],
+      "translation": "毛骨悚然的爬虫",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}} - {{N1}}"
+      ],
+      "translation": "❤ 生命值: {{N0}} - {{N1}}",
+      "styleMappings": {
+        "Health": "生命值",
+        "-": "-"
+      }
+    },
+    {
+      "source": [
+        "❤ Health (MM) : {{N0}} - {{N1}}"
+      ],
+      "translation": "❤ 生命值 (MM) : {{N0}} - {{N1}}",
+      "styleMappings": {
+        "Health": "生命值",
+        "-": "-"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Spider": "蜘蛛",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

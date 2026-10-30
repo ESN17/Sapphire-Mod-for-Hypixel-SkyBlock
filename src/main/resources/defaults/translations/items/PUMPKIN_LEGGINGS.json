@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "PUMPKIN_LEGGINGS",
+  "_original_name": "Sprout Leggings",
+  "_original_lore": [
+    "Defense: +20",
+    "Farming Fortune: +15",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Farming Skill 15.",
+    "UNCOMMON LEGGINGS"
+  ],
+  "name": "嫩芽护腿",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Farming Fortune: {{N0}}"
+      ],
+      "translation": "农业幸运: {{N0}}",
+      "styleMappings": {
+        "Farming Fortune": "农业幸运",
+        "Fortune": "幸运",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Farming Skill {{N0}}."
+      ],
+      "translation": "❣ 需要农业技能 {{N0}}.",
+      "styleMappings": {
+        "Farming Skill": "农业技能",
+        "Requires": "需要",
+        "Farming": "农业",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON LEGGINGS"
+      ],
+      "translation": "罕见 护腿",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Leggings": "护腿"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

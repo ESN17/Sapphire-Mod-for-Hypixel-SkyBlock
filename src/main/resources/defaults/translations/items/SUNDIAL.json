@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "SUNDIAL",
+  "_original_name": "Sundial",
+  "_original_lore": [
+    "Give this item to Sam to permanently",
+    "unlock Crop Speed settings in your",
+    "Garden.",
+    "",
+    "EPIC"
+  ],
+  "name": "日晷",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Give this item to Sam to permanently",
+        "unlock Crop Speed settings in your",
+        "Garden."
+      ],
+      "translation": "将此物品交给山姆以永久解锁花园中的作物速度设置.",
+      "styleMappings": {
+        "permanently": "永久",
+        "Crop Speed": "作物速度",
+        "Garden": "花园",
+        "item": "物品",
+        "Sam": "山姆",
+        "Crop": "作物",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

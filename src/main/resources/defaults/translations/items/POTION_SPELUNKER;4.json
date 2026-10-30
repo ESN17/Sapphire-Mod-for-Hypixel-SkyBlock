@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_SPELUNKER;4",
+  "_original_name": "Spelunker IV Potion",
+  "_original_lore": [
+    "",
+    "Spelunker IV (3:00)",
+    "Grants 20  Mining Fortune.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "洞穴探险 IV 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Spelunker IV ({{N0}}:{{N1}})"
+      ],
+      "translation": "洞穴探险 IV ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Spelunker IV": "洞穴探险 IV"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}  Mining Fortune."
+      ],
+      "translation": "获得 {{N0}}   采矿幸运.",
+      "styleMappings": {
+        "Mining Fortune": "采矿幸运",
+        "Grants": "获得",
+        "Mining": "采矿",
+        "Fortune": "幸运",
+        " Mining Fortune": " 采矿幸运"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Spelunker IV": "洞穴探险 IV"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

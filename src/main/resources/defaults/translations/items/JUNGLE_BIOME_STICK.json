@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "id": "JUNGLE_BIOME_STICK",
+  "_original_name": "Jungle Biome Stick",
+  "_original_lore": [
+    "Allows you to change the biome at",
+    "the targeted block on your private",
+    "island to Jungle.",
+    "",
+    "Right-click to use or Left-click to",
+    "change the radius it effects.",
+    "",
+    "Selected Radius: 3",
+    "",
+    "COMMON"
+  ],
+  "name": "丛林生物群系棒",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Allows you to change the biome at",
+        "the targeted block on your private",
+        "island to Jungle."
+      ],
+      "translation": "允许你将私人岛屿上目标方块的生物群系改为丛林.",
+      "styleMappings": {
+        "targeted block": "目标方块",
+        "Jungle": "丛林",
+        "private island": "私人岛屿",
+        "island": "岛屿上"
+      }
+    },
+    {
+      "source": [
+        "Right-click to use or Left-click to"
+      ],
+      "translation": "右键点击使用,或左键点击",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Left-click": "左键点击"
+      }
+    },
+    {
+      "source": [
+        "change the radius it effects."
+      ],
+      "translation": "改变其影响半径.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Selected Radius: {{N0}}"
+      ],
+      "translation": "已选半径: {{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Jungle": "丛林"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

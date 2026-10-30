@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "ENCHANTED_HONEYCOMB",
+  "_original_name": "Enchanted Honeycomb",
+  "_original_lore": [
+    "Collection Item",
+    "",
+    "A block of sparkling honey. It smells",
+    "incredible.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "附魔蜜脾",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Collection Item"
+      ],
+      "translation": "收藏品",
+      "styleMappings": {
+        "Collection": "收藏"
+      }
+    },
+    {
+      "source": [
+        "A block of sparkling honey. It smells",
+        "incredible."
+      ],
+      "translation": "一块闪闪发光的蜂蜜.闻起来棒极了.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Honeycomb": "蜜脾"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

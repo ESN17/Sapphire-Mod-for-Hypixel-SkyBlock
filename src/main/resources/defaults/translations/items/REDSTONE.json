@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "REDSTONE",
+  "_original_name": "Redstone Dust",
+  "_original_lore": [
+    "Brewing Ingredient",
+    "Collection Item",
+    "",
+    "COMMON ORE"
+  ],
+  "name": "红石粉",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Brewing Ingredient",
+        "Collection Item"
+      ],
+      "translation": "酿造材料收藏物品",
+      "styleMappings": {
+        "Brewing Ingredient": "酿造材料",
+        "Collection Item": "收藏物品",
+        "Collection": "收藏",
+        "Item": "物品"
+      }
+    },
+    {
+      "source": [
+        "COMMON ORE"
+      ],
+      "translation": "普通 矿物",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

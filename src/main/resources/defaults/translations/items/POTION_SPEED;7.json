@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_SPEED;7",
+  "_original_name": "Speed VII Potion",
+  "_original_lore": [
+    "",
+    "Speed VII (3:00)",
+    "Grants +35  Speed.",
+    "",
+    "EPIC"
+  ],
+  "name": "速度 VII 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Speed VII ({{N0}}:{{N1}})"
+      ],
+      "translation": "速度 VII ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Speed VII": "速度 VII",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}  Speed."
+      ],
+      "translation": "提供 {{N0}}  速度.",
+      "styleMappings": {
+        " Speed": " 速度",
+        "Grants": "提供",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Speed VII Potion": "速度 VII 药水",
+    "Speed": "速度",
+    "Speed VII": "速度 VII"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

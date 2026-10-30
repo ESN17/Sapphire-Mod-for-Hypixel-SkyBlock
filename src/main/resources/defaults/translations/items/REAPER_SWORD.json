@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "id": "REAPER_SWORD",
+  "_original_name": "Reaper Falchion",
+  "_original_lore": [
+    "Damage: +120",
+    "Strength: +100",
+    "Intelligence: +200",
+    "Gemstones: []",
+    "",
+    "Heal 10❤ per hit.",
+    "Deal +200% damage to  Undead mobs.",
+    "Gain +45☯ Combat Wisdom against ",
+    "Undead mobs.",
+    "",
+    "This item can be reforged!",
+    "☠ Requires Zombie Slayer 6.",
+    "EPIC SWORD"
+  ],
+  "name": "斩魂弯刀",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: []"
+      ],
+      "translation": "宝石: []",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石"
+      }
+    },
+    {
+      "source": [
+        "Heal {{N0}}❤ per hit."
+      ],
+      "translation": "每次命中恢复 {{N0}}❤ 生命.",
+      "styleMappings": {
+        "Heal": "恢复",
+        "hit": "命中",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Deal {{N0}} damage to  Undead mobs."
+      ],
+      "translation": "对  亡灵生物造成 {{N0}} 伤害.",
+      "styleMappings": {
+        "Undead": "亡灵",
+        "damage": "伤害",
+        "mobs": "生物",
+        "Deal": "造成",
+        "mobs.": "伤害."
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}}☯ Combat Wisdom against ",
+        "Undead mobs."
+      ],
+      "translation": "对  亡灵生物获得 {{N0}}☯ 战斗智慧.",
+      "styleMappings": {
+        "Combat Wisdom": "战斗智慧",
+        "Undead": "亡灵",
+        "Gain": "获得",
+        "mobs": "生物",
+        "Combat": "战斗",
+        "Wisdom": "智慧"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Zombie Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要僵尸杀手 {{N0}}.",
+      "styleMappings": {
+        "Zombie Slayer": "僵尸杀手",
+        "Requires": "需要",
+        "Zombie": "僵尸",
+        "Slayer": "杀手"
+      }
+    },
+    {
+      "source": [
+        "EPIC SWORD"
+      ],
+      "translation": "史诗 剑",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Reaper Falchion": "斩魂弯刀"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_name_revision": "2026-10-17-slayer-rpg"
+}

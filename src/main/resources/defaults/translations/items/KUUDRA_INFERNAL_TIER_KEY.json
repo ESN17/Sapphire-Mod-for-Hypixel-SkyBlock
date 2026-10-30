@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "KUUDRA_INFERNAL_TIER_KEY",
+  "_original_name": "Infernal Kuudra Key",
+  "_original_lore": [
+    "Used to unlock the reward chest in",
+    "the Infernal Tier of the Kuudra fight.",
+    "",
+    "* Co-op Soulbound *",
+    "LEGENDARY"
+  ],
+  "name": "炼狱 库德拉 钥匙",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Used to unlock the reward chest in",
+        "the Infernal Tier of the Kuudra fight."
+      ],
+      "translation": "用于解锁库德拉之战炼狱阶级的奖励宝箱.",
+      "styleMappings": {
+        "Infernal Tier": "炼狱阶级",
+        "Kuudra": "库德拉",
+        "reward": "奖励",
+        "Infernal": "炼狱",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Infernal": "炼狱",
+    "Kuudra": "库德拉"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

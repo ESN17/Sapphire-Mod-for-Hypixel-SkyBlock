@@ -1,0 +1,181 @@
+{
+  "schemaVersion": 1,
+  "id": "WITHER_SKELETON;4",
+  "_original_name": "[Lvl {LVL}] Wither Skeleton",
+  "_original_lore": [
+    "Mining Pet",
+    "",
+    "Defense: +{DEFENSE}",
+    "Strength: +{STRENGTH}",
+    "Crit Chance: +{CRIT_CHANCE}%",
+    "Crit Damage: +{CRIT_DAMAGE}%",
+    "Intelligence: +{INTELLIGENCE}",
+    "",
+    "Stronger Bones",
+    "Take {0}% less damage from ",
+    "Skeletal mobs.",
+    "",
+    "Wither Blood",
+    "Deal {1}% more damage to  Wither",
+    "mobs.",
+    "",
+    "Death's Touch",
+    "Upon hitting an enemy inflict the",
+    "wither effect for {2}% damage over 3",
+    "seconds",
+    "Does not stack",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "LEGENDARY PET"
+  ],
+  "name": "[等级 {LVL}] 凋零骷髅",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mining Pet"
+      ],
+      "translation": "采矿宠物",
+      "styleMappings": {
+        "Mining": "采矿",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Defense: +{{N0}}"
+      ],
+      "translation": "防御力: +{{N0}}",
+      "styleMappings": {
+        "Defense": "防御力"
+      }
+    },
+    {
+      "source": [
+        "Strength: +{{N0}}"
+      ],
+      "translation": "力量: +{{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Crit Chance: +{{N0}}%"
+      ],
+      "translation": "暴击几率: +{{N0}}%",
+      "styleMappings": {
+        "Crit Chance": "暴击几率"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: +{{N0}}%"
+      ],
+      "translation": "暴击伤害: +{{N0}}%",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: +{{N0}}"
+      ],
+      "translation": "智力: +{{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Stronger Bones"
+      ],
+      "translation": "强健骨骼",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Take {{N0}}% less damage from ",
+        "Skeletal mobs."
+      ],
+      "translation": "受到  骷髅生物的伤害减少 {{N0}}%.",
+      "styleMappings": {
+        "less damage": "伤害减少",
+        "Skeletal": "骷髅",
+        "mobs": "生物",
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Wither Blood"
+      ],
+      "translation": "凋零之血",
+      "styleMappings": {
+        "Wither": "凋零"
+      }
+    },
+    {
+      "source": [
+        "Deal {{N0}}% more damage to  Wither",
+        "mobs."
+      ],
+      "translation": "对  凋零生物造成 {{N0}}% 额外伤害.",
+      "styleMappings": {
+        "Wither": "凋零",
+        "damage": "伤害",
+        "mobs": "生物",
+        "more": "额外",
+        "Deal": "造成",
+        "mobs.": "伤害."
+      }
+    },
+    {
+      "source": [
+        "Death's Touch"
+      ],
+      "translation": "死亡之触",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Upon hitting an enemy inflict the",
+        "wither effect for {{N0}}% damage over {{N1}}",
+        "seconds",
+        "Does not stack"
+      ],
+      "translation": "击中敌人时施加凋零效果,在 {{N1}} 秒内造成 {{N0}}% 伤害 无法叠加",
+      "styleMappings": {
+        "Does not stack": "无法叠加",
+        "seconds": "秒",
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY PET"
+      ],
+      "translation": "传说 宠物",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Skeleton": "骷髅",
+    "Wither": "凋零",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

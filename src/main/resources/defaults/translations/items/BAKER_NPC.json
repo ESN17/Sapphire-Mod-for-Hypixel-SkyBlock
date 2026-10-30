@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "BAKER_NPC",
+  "_original_name": "Baker (NPC)",
+  "_original_lore": [
+    "The Baker visits the SkyBlock Hub",
+    "every year during the New Year Celebration",
+    "to hand out New Year Cakes."
+  ],
+  "name": "Baker (人物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Baker visits the SkyBlock Hub",
+        "every year during the New Year Celebration",
+        "to hand out New Year Cakes."
+      ],
+      "translation": "Baker 每年新年庆典期间都会来到中心岛分发新年蛋糕.",
+      "styleMappings": {
+        "New Year Celebration": "新年庆典",
+        "New Year Cakes": "新年蛋糕",
+        "SkyBlock Hub": "中心岛",
+        "Hub": "中心岛",
+        "year": "年",
+        "Year": "年"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(NPC)": "(人物)"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

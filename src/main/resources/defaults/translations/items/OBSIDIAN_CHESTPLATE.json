@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "id": "OBSIDIAN_CHESTPLATE",
+  "_original_name": "Obsidian Chestplate",
+  "_original_lore": [
+    "Defense: +250",
+    "",
+    "While worn, gain +1  Speed for",
+    "every 20 pieces of Obsidian in your",
+    "inventory!",
+    "",
+    "Bonus Speed: 0",
+    "",
+    "Immune to Wither effect.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Combat Skill 14.",
+    "EPIC CHESTPLATE"
+  ],
+  "name": "黑曜石胸甲",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "While worn, gain {{N0}}  Speed for",
+        "every {{N1}} pieces of Obsidian in your",
+        "inventory!"
+      ],
+      "translation": "穿戴时,每 {{N1}} 个背包中的黑曜石提供 {{N0}}  速度!",
+      "styleMappings": {
+        "Obsidian": "黑曜石",
+        " Speed": " 速度",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Bonus Speed: {{N0}}"
+      ],
+      "translation": "额外速度: {{N0}}",
+      "styleMappings": {
+        "Bonus Speed": "额外速度",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Immune to Wither effect."
+      ],
+      "translation": "免疫凋零效果.",
+      "styleMappings": {
+        "Wither": "凋零"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC CHESTPLATE"
+      ],
+      "translation": "史诗胸甲",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Chestplate": "胸甲",
+    "Obsidian": "黑曜石"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

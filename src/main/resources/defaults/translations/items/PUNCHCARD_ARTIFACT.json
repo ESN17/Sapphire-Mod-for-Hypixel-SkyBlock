@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "id": "PUNCHCARD_ARTIFACT",
+  "_original_name": "Punchcard Artifact",
+  "_original_lore": [
+    "Rift Time: +30s",
+    "",
+    "Ability: Punch in!  LEFT CLICK",
+    "Punch another player while this is in",
+    "your inventory to both regain +25ф",
+    "Rift Time.",
+    "Usable once per player per rift visit",
+    "up to 20 players.",
+    "",
+    "EPIC ACCESSORY"
+  ],
+  "name": "打卡神器",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Rift Time: {{N0}}s"
+      ],
+      "translation": "裂隙时间: {{N0}}秒",
+      "styleMappings": {
+        "Rift Time": "裂隙时间",
+        "{{N0}}s": "{{N0}}秒",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "Ability: Punch in!  LEFT CLICK"
+      ],
+      "translation": "能力: 出拳!  左键点击",
+      "styleMappings": {
+        "LEFT CLICK": "左键点击",
+        "Ability": "能力",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Punch another player while this is in",
+        "your inventory to both regain {{N0}}ф",
+        "Rift Time."
+      ],
+      "translation": "将此物品放在物品栏中时,拳击另一名玩家,双方均可恢复 {{N0}}ф 裂隙时间.",
+      "styleMappings": {
+        "another player": "另一名玩家",
+        "Rift Time": "裂隙时间",
+        "player": "玩家",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "Usable once per player per rift visit",
+        "up to {{N0}} players."
+      ],
+      "translation": "每位玩家每次进入裂隙可使用一次,最多 {{N0}} 名玩家.",
+      "styleMappings": {
+        "rift": "裂隙",
+        "player": "玩家",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "EPIC ACCESSORY"
+      ],
+      "translation": "史诗饰品",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Artifact": "神器"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

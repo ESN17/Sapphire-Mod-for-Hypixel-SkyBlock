@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "id": "UNSTABLE_DRAGON_BOOTS",
+  "_original_name": "Unstable Dragon Boots",
+  "_original_lore": [
+    "Health: +60",
+    "Defense: +90",
+    "Crit Chance: +5%",
+    "Crit Damage: +15%",
+    "Gemstones: [⚔]",
+    "",
+    "Full Set Bonus: Unstable Blood (0/4)",
+    "Sometimes strikes nearby mobs with",
+    "lightning. It's unstable!",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Combat Skill 16.",
+    "LEGENDARY BOOTS"
+  ],
+  "name": "不稳定龙靴子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Crit Chance: {{N0}}"
+      ],
+      "translation": "暴击率: {{N0}}",
+      "styleMappings": {
+        "Crit Chance": "暴击率"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: {{N0}}"
+      ],
+      "translation": "暴击伤害:{{N0}}",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [⚔]"
+      ],
+      "translation": "宝石: [⚔]",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Unstable Blood ({{N0}}/{{N1}})"
+      ],
+      "translation": "全套加成:不稳定之血 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Full Set Bonus: Unstable Blood": "全套加成:不稳定之血",
+        "Full Set Bonus": "全套加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Sometimes strikes nearby mobs with",
+        "lightning. It's unstable!"
+      ],
+      "translation": "有时会用闪电劈击附近的怪物.它很不稳定!",
+      "styleMappings": {
+        "mobs": "怪物",
+        "lightning": "闪电"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY BOOTS"
+      ],
+      "translation": "传说 靴子",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Dragon": "龙",
+    "Boots": "靴子"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

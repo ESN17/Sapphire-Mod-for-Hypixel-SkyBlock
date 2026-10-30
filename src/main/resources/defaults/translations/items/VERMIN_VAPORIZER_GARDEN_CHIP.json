@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "id": "VERMIN_VAPORIZER_GARDEN_CHIP",
+  "_original_name": "Vermin Vaporizer Chip",
+  "_original_lore": [
+    "Garden Chip",
+    "",
+    "Ability: Vermin Vaporizer ",
+    "Grants +3 Bonus Pest Chance per",
+    "Chip Level!",
+    "",
+    "Redeem Chips to increase their rarity!",
+    "",
+    "Right-Click to redeem!",
+    "Shift Right-Click to redeem all!",
+    "",
+    "RARE GARDEN CHIP"
+  ],
+  "name": "害虫汽化芯片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Garden Chip"
+      ],
+      "translation": "花园芯片",
+      "styleMappings": {
+        "Garden Chip": "花园芯片",
+        "Garden": "花园",
+        "Chip": "芯片"
+      }
+    },
+    {
+      "source": [
+        "Ability: Vermin Vaporizer "
+      ],
+      "translation": "能力:害虫汽化 ",
+      "styleMappings": {
+        "Ability: Vermin Vaporizer": "能力:害虫汽化",
+        "Ability": "能力"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Bonus Pest Chance per",
+        "Chip Level!"
+      ],
+      "translation": "每级芯片提供 {{N0}} 额外害虫概率!",
+      "styleMappings": {
+        "Bonus Pest Chance": "额外害虫概率",
+        "Grants": "提供",
+        "Level": "级",
+        "Chip": "芯片",
+        "Pest": "害虫",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Redeem Chips to increase their rarity!"
+      ],
+      "translation": "兑换芯片以提升其稀有度!",
+      "styleMappings": {
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "Right-Click to redeem!"
+      ],
+      "translation": "右键点击兑换!",
+      "styleMappings": {
+        "Right-Click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "Shift Right-Click to redeem all!"
+      ],
+      "translation": "潜行键 右键点击全部兑换!",
+      "styleMappings": {
+        "Shift Right-Click": "潜行键 右键点击",
+        "all": "全部",
+        "Right-Click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "RARE GARDEN CHIP"
+      ],
+      "translation": "稀有 花园芯片",
+      "styleMappings": {
+        "RARE GARDEN CHIP": "稀有 花园芯片",
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Chip": "芯片"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

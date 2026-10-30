@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "ENCHANTED_COAL",
+  "_original_name": "Enchanted Coal",
+  "_original_lore": [
+    "Minion Fuel",
+    "Collection Item",
+    "",
+    "Increases the speed of",
+    "your minion by 10% for 24",
+    "hours!",
+    "",
+    "UNCOMMON ORE"
+  ],
+  "name": "附魔煤炭",
+  "lore": {
+    "Minion Fuel": "仆从燃料",
+    "UNCOMMON ORE": "罕见 矿物"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "Increases the speed of",
+        "your minion by {speed} for {hours}",
+        "hours!"
+      ],
+      "translation": "仆从的工作速度提高 {speed},持续 {hours} 小时!",
+      "styleMappings": {
+        "hours": "小时",
+        "minion": "仆从",
+        "for": "持续",
+        "speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Minion Fuel",
+        "Collection Item"
+      ],
+      "translation": "仆从燃料 收藏物品",
+      "styleMappings": {
+        "Collection Item": "收藏物品",
+        "Minion Fuel": "仆从燃料",
+        "Collection": "收藏",
+        "Item": "物品",
+        "Fuel": "燃料",
+        "Minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "Increases the speed of",
+        "your minion by {{N0}} for {{N1}}",
+        "hours!"
+      ],
+      "translation": "仆从的工作速度提高 {{N0}},持续 {{N1}} 小时!",
+      "styleMappings": {
+        "minion": "仆从",
+        "speed": "速度",
+        "for": "持续",
+        "hours": "小时"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON ORE"
+      ],
+      "translation": "罕见矿物",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "hours": "小时"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

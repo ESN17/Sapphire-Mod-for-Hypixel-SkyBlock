@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "DWARVEN_OS_BLOCK_BRAN",
+  "_original_name": "Dwarven O's Block Bran",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "The first 5 times you consume this,",
+    "gain a permanent +2 Block Fortune.",
+    "",
+    "Right-click to consume!",
+    "",
+    "RARE"
+  ],
+  "name": "矮人的方块麦麸",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "The first {{N0}} times you consume this,",
+        "gain a permanent {{N1}} Block Fortune."
+      ],
+      "translation": "前 {{N0}} 次食用时,获得永久 {{N1}} 方块幸运.",
+      "styleMappings": {
+        "Block Fortune": "方块幸运",
+        "first": "前",
+        "Fortune": "幸运",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_name_revision": "2026-10-17-user-request"
+}

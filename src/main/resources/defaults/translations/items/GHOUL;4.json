@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "GHOUL;4",
+  "_original_name": "[Lvl {LVL}] Ghoul",
+  "_original_lore": [
+    "Combat Pet",
+    "",
+    "Health: +{HEALTH}",
+    "Ferocity: +{FEROCITY}",
+    "Intelligence: +{INTELLIGENCE}",
+    "Vitality: +{VITALITY}",
+    "Mending: +{MENDING}",
+    "",
+    "Undead Slayer",
+    "Gain +{0}☯ Combat Wisdom towards",
+    "Zombies.",
+    "",
+    "Army of the Dead",
+    "Increases the amount of souls you",
+    "can store by 2 and the chance of",
+    "getting a mob's soul by {1}%.",
+    "",
+    "Reaper Soul",
+    "Reduces the summoning cost of mobs",
+    "by {2}% and increases their damage",
+    "output by {3}%. Increases the health",
+    "of all summoned mobs by {4}%.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "LEGENDARY PET"
+  ],
+  "name": "[等级 {LVL}] 食尸鬼",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combat Pet"
+      ],
+      "translation": "战斗宠物",
+      "styleMappings": {
+        "Combat Pet": "战斗宠物",
+        "Combat": "战斗",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Health: +{{N0}}"
+      ],
+      "translation": "生命值: +{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Ferocity: +{{N0}}"
+      ],
+      "translation": "残暴值: +{{N0}}",
+      "styleMappings": {
+        "Ferocity": "残暴值"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: +{{N0}}"
+      ],
+      "translation": "智力: +{{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Vitality: +{{N0}}"
+      ],
+      "translation": "活力: +{{N0}}",
+      "styleMappings": {
+        "Vitality": "活力"
+      }
+    },
+    {
+      "source": [
+        "Mending: +{{N0}}"
+      ],
+      "translation": "修复: +{{N0}}",
+      "styleMappings": {
+        "Mending": "修复"
+      }
+    },
+    {
+      "source": [
+        "Undead Slayer"
+      ],
+      "translation": "亡灵杀手",
+      "styleMappings": {
+        "Undead Slayer": "亡灵杀手",
+        "Undead": "亡灵",
+        "Slayer": "杀手"
+      }
+    },
+    {
+      "source": [
+        "Gain +{{N0}}☯ Combat Wisdom towards",
+        "Zombies."
+      ],
+      "translation": "对僵尸获得 +{{N0}}☯ 战斗智慧.",
+      "styleMappings": {
+        "Combat Wisdom": "战斗智慧",
+        "Zombies": "僵尸",
+        "Gain": "获得",
+        "Combat": "战斗",
+        "Wisdom": "智慧"
+      }
+    },
+    {
+      "source": [
+        "Army of the Dead"
+      ],
+      "translation": "亡灵大军",
+      "styleMappings": {
+        "Army of the Dead": "亡灵大军"
+      }
+    },
+    {
+      "source": [
+        "Increases the amount of souls you",
+        "can store by {{N0}} and the chance of",
+        "getting a mob's soul by {{N1}}%."
+      ],
+      "translation": "使你可以储存的灵魂数量增加 {{N0}},获得怪物灵魂的概率增加 {{N1}}%.",
+      "styleMappings": {
+        "chance": "概率",
+        "Increases": "增加"
+      }
+    },
+    {
+      "source": [
+        "Reaper Soul"
+      ],
+      "translation": "死神灵魂",
+      "styleMappings": {
+        "Reaper Soul": "死神灵魂",
+        "Soul": "灵魂"
+      }
+    },
+    {
+      "source": [
+        "Reduces the summoning cost of mobs",
+        "by {{N0}}% and increases their damage",
+        "output by {{N1}}%. Increases the health",
+        "of all summoned mobs by {{N2}}%."
+      ],
+      "translation": "使怪物的召唤消耗降低 {{N0}}%,并使其伤害输出提高 {{N1}}%.使所有被召唤怪物的生命值提高 {{N2}}%.",
+      "styleMappings": {
+        "mobs": "怪物",
+        "damage": "伤害",
+        "health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY PET"
+      ],
+      "translation": "传说 宠物",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Ghoul": "食尸鬼",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

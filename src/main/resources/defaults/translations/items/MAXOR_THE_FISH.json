@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "MAXOR_THE_FISH",
+  "_original_name": "Maxor the Fish",
+  "_original_lore": [
+    "Dynamite fishing is my favorite!",
+    "",
+    "SPECIAL DUNGEON ITEM"
+  ],
+  "name": "麦克瑟之鱼",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Dynamite fishing is my favorite!"
+      ],
+      "translation": "炸药钓鱼是我的最爱!",
+      "styleMappings": {
+        "fishing": "钓鱼"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL DUNGEON ITEM"
+      ],
+      "translation": "特殊地牢物品",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Maxor": "麦克瑟",
+    "Fish": "鱼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

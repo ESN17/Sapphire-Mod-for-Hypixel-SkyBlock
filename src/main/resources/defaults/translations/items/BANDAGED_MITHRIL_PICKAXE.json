@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "BANDAGED_MITHRIL_PICKAXE",
+  "_original_name": "Bandaged Mithril Pickaxe",
+  "_original_lore": [
+    "Breaking Power 5",
+    "",
+    "Damage: +30",
+    "Mining Speed: +250",
+    "Mining Fortune: +4",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Heart of the Mountain Tier 2.",
+    "UNCOMMON PICKAXE"
+  ],
+  "name": "绷带秘银镐",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Breaking Power {{N0}}"
+      ],
+      "translation": "破坏力 {{N0}}",
+      "styleMappings": {
+        "Breaking Power": "破坏力"
+      }
+    },
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Mining Speed: {{N0}}"
+      ],
+      "translation": "采矿速度: {{N0}}",
+      "styleMappings": {
+        "Mining Speed": "采矿速度",
+        "Mining": "采矿",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Mining Fortune: {{N0}}"
+      ],
+      "translation": "采矿幸运: {{N0}}",
+      "styleMappings": {
+        "Mining Fortune": "采矿幸运",
+        "Mining": "采矿",
+        "Fortune": "幸运"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Heart of the Mountain Tier {{N0}}."
+      ],
+      "translation": "❣ 需要山峰之心等级 {{N0}}.",
+      "styleMappings": {
+        "Heart of the Mountain Tier": "山峰之心等级",
+        "Requires": "需要",
+        "Heart of the Mountain": "山峰之心"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON PICKAXE"
+      ],
+      "translation": "罕见 镐",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mithril": "秘银",
+    "Pickaxe": "镐"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

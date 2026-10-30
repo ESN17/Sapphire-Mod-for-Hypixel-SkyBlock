@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "MOLDY_MUFFIN",
+  "_original_name": "Moldy Muffin",
+  "_original_lore": [
+    "While most muffins don't mold, even",
+    "over many months, these mysterious",
+    "munches were manufactured with",
+    "minimal shelf life in mind.",
+    "",
+    "Mass-produced for miners who",
+    "participated in the Many More Major",
+    "and Minor Modifications Meticulously",
+    "Made to Modernize Mining alpha test.",
+    "",
+    "SPECIAL MEMENTO"
+  ],
+  "name": "发霉松饼",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "While most muffins don't mold, even",
+        "over many months, these mysterious",
+        "munches were manufactured with",
+        "minimal shelf life in mind."
+      ],
+      "translation": "大多数松饼即使放上数月也不会发霉,而这些神秘小点心在制作时就只考虑了极短的保质期.",
+      "styleMappings": {
+        "most": "大多数"
+      }
+    },
+    {
+      "source": [
+        "Mass-produced for miners who",
+        "participated in the Many More Major",
+        "and Minor Modifications Meticulously",
+        "Made to Modernize Mining alpha test."
+      ],
+      "translation": "为参与“为现代化采矿而精心做出的更多大大小小改动”内部测试的矿工批量生产.",
+      "styleMappings": {
+        "Mining": "采矿",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL MEMENTO"
+      ],
+      "translation": "特殊纪念品",
+      "styleMappings": {
+        "SPECIAL MEMENTO": "特殊纪念品",
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Moldy Muffin": "发霉松饼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

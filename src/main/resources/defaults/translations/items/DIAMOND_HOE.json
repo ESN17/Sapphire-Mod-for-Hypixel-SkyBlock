@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "DIAMOND_HOE",
+  "_original_name": "Diamond Hoe",
+  "_original_lore": [
+    "This item can be reforged!",
+    "UNCOMMON FARMING TOOL"
+  ],
+  "name": "钻石锄",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON FARMING TOOL"
+      ],
+      "translation": "罕见农具",
+      "styleMappings": {
+        "UNCOMMON FARMING TOOL": "罕见农具",
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

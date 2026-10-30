@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "METAPHYSICAL_SERUM",
+  "_original_name": "Metaphysical Serum",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Drinking this serum shortens",
+    "the chain required for Superpairs",
+    "add-on experiments by 1!",
+    "",
+    "You may drink up to 3 doses",
+    "of the serum before the taste",
+    "becomes too abstract.",
+    "",
+    "Right-click to consume!",
+    "",
+    "EPIC"
+  ],
+  "name": "形而上血清",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Drinking this serum shortens",
+        "the chain required for Superpairs",
+        "add-on experiments by {{N0}}!"
+      ],
+      "translation": "饮用此血清可将超级配对附加实验所需的连锁缩短 {{N0}}!",
+      "styleMappings": {
+        "Superpairs": "超级配对"
+      }
+    },
+    {
+      "source": [
+        "You may drink up to {{N0}} doses",
+        "of the serum before the taste",
+        "becomes too abstract."
+      ],
+      "translation": "在味道变得过于抽象之前,你最多可以饮用 {{N0}} 剂血清.",
+      "styleMappings": {
+        "too abstract": "过于抽象"
+      }
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

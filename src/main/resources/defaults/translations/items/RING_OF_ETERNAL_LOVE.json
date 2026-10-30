@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "RING_OF_ETERNAL_LOVE",
+  "_original_name": "Ring of Eternal Love",
+  "_original_lore": [
+    "Rift Time: +80s",
+    "",
+    "Ramero and Joliet's love transcends",
+    "the boundaries of time, space, and",
+    "fate itself.",
+    "",
+    "LEGENDARY ACCESSORY"
+  ],
+  "name": "永恒之爱戒指",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Rift Time: {{N0}}s"
+      ],
+      "translation": "裂隙时间: {{N0}}秒",
+      "styleMappings": {
+        "Rift Time": "裂隙时间",
+        "{{N0}}s": "{{N0}}秒",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "Ramero and Joliet's love transcends",
+        "the boundaries of time, space, and",
+        "fate itself."
+      ],
+      "translation": "拉梅罗和朱丽叶的爱情超越了时间、空间乃至命运本身的界限.",
+      "styleMappings": {
+        "Ramero": "拉梅罗"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY ACCESSORY"
+      ],
+      "translation": "传说饰品",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Ring": "戒指"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

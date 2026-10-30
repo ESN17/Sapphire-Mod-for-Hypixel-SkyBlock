@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "LARVA_HOOK",
+  "_original_name": "Larva Hook",
+  "_original_lore": [
+    "Click the larvas crawling around",
+    "tree branches to tactfully extract",
+    "their silk.",
+    "",
+    "You may harvest 8 larvas per hook.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "幼虫钩",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Click the larvas crawling around",
+        "tree branches to tactfully extract",
+        "their silk."
+      ],
+      "translation": "点击在树枝上爬行的幼虫,巧妙地抽取它们的丝.",
+      "styleMappings": {
+        "larvas": "幼虫"
+      }
+    },
+    {
+      "source": [
+        "You may harvest {{N0}} larvas per hook."
+      ],
+      "translation": "每次钩取可收获 {{N0}} 只幼虫.",
+      "styleMappings": {
+        "larvas": "幼虫",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

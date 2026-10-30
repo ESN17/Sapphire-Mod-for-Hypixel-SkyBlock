@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "id": "TIKI_MASK",
+  "_original_name": "Tiki Mask",
+  "_original_lore": [
+    "Health: +300",
+    "Defense: +100",
+    "Sea Creature Chance: +2%",
+    "Gemstones: [⚔] [⚔] []",
+    "",
+    "Grants buffs when fishing in a",
+    "Fishing Hotspot.",
+    "",
+    "  +10 Fishing Speed",
+    "  +4 Sea Creature Chance",
+    "  +2 Double Hook Chance",
+    "  +2 Treasure Chance",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Fishing Skill 40.",
+    "LEGENDARY HELMET"
+  ],
+  "name": "提基面具",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Sea Creature Chance: {{N0}}"
+      ],
+      "translation": "海洋生物概率:{{N0}}",
+      "styleMappings": {
+        "Sea Creature Chance": "海洋生物概率",
+        "Sea Creature": "海洋生物"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [⚔] [⚔] []"
+      ],
+      "translation": "宝石: [⚔] [⚔] []",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石",
+        "] [": "] ["
+      }
+    },
+    {
+      "source": [
+        "Grants buffs when fishing in a",
+        "Fishing Hotspot."
+      ],
+      "translation": "在钓鱼热点钓鱼时获得增益.",
+      "styleMappings": {
+        "Fishing Hotspot": "钓鱼热点",
+        "fishing": "钓鱼",
+        "Grants": "获得",
+        "Fishing": "钓鱼",
+        "when": "时",
+        "Hotspot": "热点"
+      }
+    },
+    {
+      "source": [
+        "  {{N0}} Fishing Speed",
+        "  {{N1}} Sea Creature Chance",
+        "  {{N2}} Double Hook Chance",
+        "  {{N3}} Treasure Chance"
+      ],
+      "translation": "  {{N0}} 钓鱼速度   {{N1}} 海怪概率   {{N2}} 双钩概率   {{N3}} 宝藏概率",
+      "styleMappings": {
+        "Sea Creature Chance": "海怪概率",
+        "Double Hook Chance": "双钩概率",
+        "Treasure Chance": "宝藏概率",
+        "Fishing Speed": "钓鱼速度",
+        "Fishing": "钓鱼",
+        "Treasure": "宝藏",
+        "Speed": "速度",
+        "Sea Creature": "海怪",
+        " Fishing Speed": " 钓鱼速度"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Fishing Skill {{N0}}."
+      ],
+      "translation": "❣ 需要钓鱼技能 {{N0}}.",
+      "styleMappings": {
+        "Fishing Skill": "钓鱼技能",
+        "Requires": "需要",
+        "Fishing": "钓鱼",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY HELMET"
+      ],
+      "translation": "传说 头盔",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mask": "面具",
+    "Tiki Mask": "提基面具"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

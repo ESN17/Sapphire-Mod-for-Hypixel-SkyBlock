@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "id": "WITHER_SCROLL_IN_A_BOTTLE",
+  "_original_name": "Wither Scroll in a Bottle",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Open the lid and pull out the Wither",
+    "Scroll stored within. Can be any of",
+    "the following:",
+    "• Implosion",
+    "• Shadow Warp",
+    "• Wither Shield",
+    "",
+    "Fancy-looking bottles aren't the",
+    "best place to store magical scrolls",
+    "of unthinkable power, as they might",
+    "just get swept up and thrown into",
+    "the prize pool of a raffle.",
+    "",
+    "Right-click to consume!",
+    "",
+    "* Soulbound *",
+    "LEGENDARY"
+  ],
+  "name": "瓶装凋灵卷轴",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Open the lid and pull out the Wither",
+        "Scroll stored within. Can be any of"
+      ],
+      "translation": "打开盖子,取出存放在里面的凋灵卷轴.可能是以下之一",
+      "styleMappings": {
+        "Wither Scroll": "凋灵卷轴",
+        "Wither": "凋灵"
+      }
+    },
+    {
+      "source": [
+        "the following:"
+      ],
+      "translation": "以下之一:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "• Implosion",
+        "• Shadow Warp",
+        "• Wither Shield"
+      ],
+      "translation": "• 聚爆 • 暗影扭曲 • 凋灵护盾",
+      "styleMappings": {
+        "Wither Shield": "凋灵护盾",
+        "Shadow Warp": "暗影扭曲",
+        "Implosion": "聚爆",
+        "Wither": "凋灵"
+      }
+    },
+    {
+      "source": [
+        "Fancy-looking bottles aren't the",
+        "best place to store magical scrolls",
+        "of unthinkable power, as they might",
+        "just get swept up and thrown into",
+        "the prize pool of a raffle."
+      ],
+      "translation": "花哨的瓶子并不是存放拥有难以想象力量的魔法卷轴的最佳场所,因为它们可能会被扫走并扔进抽奖的奖池中.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Wither Scroll": "凋灵卷轴",
+    "Wither": "凋灵"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

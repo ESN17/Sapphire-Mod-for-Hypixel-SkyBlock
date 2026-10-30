@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": "NECRON_BLADE",
+  "_original_name": "Necron's Blade (Unrefined)",
+  "_original_lore": [
+    "Gear Score: 425",
+    "Damage: +260",
+    "Strength: +110",
+    "Ferocity: +30",
+    "Intelligence: +50",
+    "",
+    "Deals +50% damage to  Wither mobs.",
+    "",
+    "Right-click to use your class ability!",
+    "",
+    "This item can be reforged!",
+    "❣ Requires The Catacombs Floor VII Completion.",
+    "LEGENDARY DUNGEON SWORD"
+  ],
+  "name": "未完型的奈克隆之刃",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Ferocity: {{N0}}"
+      ],
+      "translation": "残暴值: {{N0}}",
+      "styleMappings": {
+        "Ferocity": "残暴值"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Deals {{N0}} damage to  Wither mobs."
+      ],
+      "translation": "对 凋灵生物造成 {{N0}} 伤害.",
+      "styleMappings": {
+        "Wither": "凋灵",
+        "damage": "伤害",
+        "Deals": "造成",
+        "mobs": "生物",
+        "mobs.": "伤害."
+      }
+    },
+    {
+      "source": [
+        "Right-click to use your class ability!"
+      ],
+      "translation": "右键使用职业技能!",
+      "styleMappings": {
+        "ability": "技能"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires The Catacombs Floor VII Completion."
+      ],
+      "translation": "❣ 需要通关地牢第 VII 层.",
+      "styleMappings": {
+        "The Catacombs": "地牢",
+        "Requires": "需要",
+        "Catacombs": "地牢"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY DUNGEON SWORD"
+      ],
+      "translation": "传说地牢剑",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Necron": "奈克伦",
+    "Necron's Blade (Unrefined)": "未精炼的奈克伦之刃"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback",
+  "_reviewed_name_revision": "2026-10-17-slayer-rpg"
+}

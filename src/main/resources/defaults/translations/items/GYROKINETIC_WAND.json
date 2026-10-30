@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 1,
+  "id": "GYROKINETIC_WAND",
+  "_original_name": "Gyrokinetic Wand",
+  "_original_lore": [
+    "Ability: Gravity Storm  LEFT CLICK",
+    "Create a large rift at the aimed",
+    "location, pulling all mobs together.",
+    "Regen mana 10x slower for 3s after",
+    "cast.",
+    "Soulflow Cost: 10",
+    "Mana Cost: 1,200",
+    "Cooldown: 30s",
+    "",
+    "Ability: Cells Alignment  RIGHT CLICK",
+    "Apply Aligned to yourself for 6s,",
+    "plus 4 nearby players on grouped",
+    "islands. (Catacombs, etc.)",
+    "",
+    "||| Aligned",
+    "Splits incoming damage and applies it",
+    "over 3s.",
+    "Soulflow Cost: 2",
+    "Mana Cost: 220",
+    "Cooldown: 10s",
+    "",
+    "☠ Requires Enderman Slayer 6.",
+    "EPIC WAND"
+  ],
+  "name": "陀螺动能法杖",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Gravity Storm  LEFT CLICK"
+      ],
+      "translation": "技能: 重力风暴  左键点击",
+      "styleMappings": {
+        "Gravity Storm": "重力风暴",
+        "LEFT CLICK": "左键点击",
+        "Ability": "技能",
+        "Storm": "风暴",
+        "CLICK": "点击",
+        "Gravity": "重力"
+      }
+    },
+    {
+      "source": [
+        "Create a large rift at the aimed",
+        "location, pulling all mobs together."
+      ],
+      "translation": "在目标位置制造一道大型裂隙,将所有怪物拉拢到一起.",
+      "styleMappings": {
+        "rift": "裂隙",
+        "mobs": "怪物"
+      }
+    },
+    {
+      "source": [
+        "Regen mana {{N0}}x slower for {{N1}}s after",
+        "cast."
+      ],
+      "translation": "施放后法力回复速度降低至 {{N0}} 倍,持续 {{N1}} 秒.",
+      "styleMappings": {
+        "Regen": "回复",
+        "mana": "法力",
+        "for": "持续",
+        "{{N0}}x": "{{N0}} 倍",
+        "{{N1}}s": "{{N1}} 秒"
+      }
+    },
+    {
+      "source": [
+        "Soulflow Cost: {{N0}}"
+      ],
+      "translation": "灵魂流消耗: {{N0}}",
+      "styleMappings": {
+        "Soulflow Cost": "灵魂流消耗",
+        "Soulflow": "灵魂流"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "Ability: Cells Alignment  RIGHT CLICK"
+      ],
+      "translation": "技能: 细胞排列  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Apply Aligned to yourself for {{N0}}s,",
+        "plus {{N1}} nearby players on grouped",
+        "islands. (Catacombs, etc.)"
+      ],
+      "translation": "对自身施加 铁索连环,持续 {{N0}} 秒,并作用于同组岛屿上的 {{N1}} 名附近玩家.(地牢等)",
+      "styleMappings": {
+        "Catacombs, etc.": "地牢等",
+        "Aligned": "铁索连环",
+        "{{N0}}s": "{{N0}} 秒",
+        "for": "持续",
+        "Catacombs": "地牢"
+      }
+    },
+    {
+      "source": [
+        "||| Aligned"
+      ],
+      "translation": "||| 铁索连环",
+      "styleMappings": {
+        "Aligned": "铁索连环"
+      }
+    },
+    {
+      "source": [
+        "Splits incoming damage and applies it",
+        "over {{N0}}s."
+      ],
+      "translation": "将受到的伤害拆分,并在 {{N0}} 秒内分摊.",
+      "styleMappings": {
+        "incoming damage": "受到的伤害",
+        "{{N0}}s": "{{N0}} 秒",
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Enderman Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要末影人杀手 {{N0}}.",
+      "styleMappings": {
+        "Enderman Slayer": "末影人杀手",
+        "Requires": "需要",
+        "Slayer": "杀手",
+        "Enderman": "末影人"
+      }
+    },
+    {
+      "source": [
+        "EPIC WAND"
+      ],
+      "translation": "史诗魔杖",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Wand": "法杖"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "id": "NANSORB_ARROW",
+  "_original_name": "Nansorb Arrow",
+  "_original_lore": [
+    "Damage: +5",
+    "",
+    "Replaces the damage reduction from",
+    "the Piercing enchant to Skewer.",
+    "",
+    "Passive: Skewer",
+    "Hits through Piercing deal +7.5%",
+    "damage than the previous one, up to",
+    "5 victims.",
+    "",
+    "❣ Requires Combat Skill 25.",
+    "❣ Requires Cactus Collection VII.",
+    "❣ Requires Target Practice III.",
+    "Stats added when shot!",
+    "RARE ARROW"
+  ],
+  "name": "南索布箭",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Replaces the damage reduction from",
+        "the Piercing enchant to Skewer."
+      ],
+      "translation": "将穿透附魔的伤害减免替换为穿刺.",
+      "styleMappings": {
+        "Piercing": "穿透",
+        "Skewer": "穿刺",
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Passive: Skewer"
+      ],
+      "translation": "被动:穿刺",
+      "styleMappings": {
+        "Passive": "被动",
+        "Skewer": "穿刺"
+      }
+    },
+    {
+      "source": [
+        "Hits through Piercing deal {{N0}}",
+        "damage than the previous one, up to",
+        "{{N1}} victims."
+      ],
+      "translation": "穿透命中的目标比前一个目标多造成 {{N0}} 伤害,最多命中 {{N1}} 个目标.",
+      "styleMappings": {
+        "Piercing": "穿透",
+        "damage": "伤害",
+        "deal": "造成"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Cactus Collection VII."
+      ],
+      "translation": "❣ 需要仙人掌收藏 VII.",
+      "styleMappings": {
+        "Cactus Collection VII": "仙人掌收藏 VII",
+        "Requires": "需要",
+        "Collection": "收藏",
+        "Cactus": "仙人掌"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Target Practice III."
+      ],
+      "translation": "❣ 需要靶场练习 III.",
+      "styleMappings": {
+        "Target Practice III": "靶场练习 III",
+        "Requires": "需要",
+        "III": "III"
+      }
+    },
+    {
+      "source": [
+        "Stats added when shot!"
+      ],
+      "translation": "射出时添加属性!",
+      "styleMappings": {
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "RARE ARROW"
+      ],
+      "translation": "稀有箭",
+      "styleMappings": {
+        "RARE ARROW": "稀有箭",
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

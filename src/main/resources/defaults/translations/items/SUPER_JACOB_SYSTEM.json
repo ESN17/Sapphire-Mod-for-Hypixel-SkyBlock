@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "id": "SUPER_JACOB_SYSTEM",
+  "_original_name": "Super Jacob Entertainment System",
+  "_original_lore": [
+    "Minion Upgrade",
+    "",
+    "This item can be used as a minion",
+    "upgrade. Place it in ONE Farming",
+    "Minion and it will generate a Jacob's",
+    "Ticket once every 3h.",
+    "",
+    "The console spits out a Jacob's",
+    "Ticket every time the player manages",
+    "to beat the last level of Jacob's",
+    "Harvest III -- Dull Plows.",
+    "",
+    "EPIC"
+  ],
+  "name": "超级雅各布娱乐系统",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Minion Upgrade"
+      ],
+      "translation": "仆从升级组件",
+      "styleMappings": {
+        "Minion Upgrade": "仆从升级",
+        "Minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "This item can be used as a minion"
+      ],
+      "translation": "此物品可作为仆从",
+      "styleMappings": {
+        "item": "物品",
+        "minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "upgrade. Place it in ONE Farming",
+        "Minion and it will generate a Jacob's",
+        "Ticket once every {{N0}}h."
+      ],
+      "translation": "升级.将其放入一个农业仆从中,它每 {{N0}}小时会生成一张 Jacob的奖券.",
+      "styleMappings": {
+        "Farming Minion": "农业仆从",
+        "Jacob's Ticket": "Jacob的奖券",
+        "upgrade": "升级",
+        "ONE": "一个",
+        "{{N0}}h": "{{N0}}小时",
+        "Farming": "农业",
+        "Minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "The console spits out a Jacob's",
+        "Ticket every time the player manages",
+        "to beat the last level of Jacob's",
+        "Harvest III -- Dull Plows."
+      ],
+      "translation": "每当玩家成功通关Jacob的收获 III -- 钝犁的最后一关时,这台主机就会吐出一张Jacob的奖券.",
+      "styleMappings": {
+        "Jacob's Harvest III -- Dull Plows": "Jacob的收获 III -- 钝犁",
+        "Jacob's Ticket": "Jacob的奖券",
+        "player": "玩家",
+        "III": "III",
+        "Harvest": "收获"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Super Jacob Entertainment System": "超级雅各布娱乐系统"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

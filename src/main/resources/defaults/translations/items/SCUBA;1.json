@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": "SCUBA;1",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Scuba I",
+    "Grants +1 Pressure Resistance.",
+    "",
+    "Sources:",
+    " - Sea Lumies Collection (I)",
+    " - Bazaar (I-V)",
+    " - Vibrant Coral (V)",
+    "",
+    "Applied To:",
+    " - Armor",
+    "",
+    "Requirements:",
+    " - Enchanting Level 5",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Scuba I"
+      ],
+      "translation": "潜水 I",
+      "styleMappings": {
+        "Scuba": "潜水"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Pressure Resistance."
+      ],
+      "translation": "提供 {{N0}} 抗压能力.",
+      "styleMappings": {
+        "Pressure Resistance": "抗压能力",
+        "Grants": "提供"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Sea Lumies Collection (I)",
+        " - Bazaar (I-V)",
+        " - Vibrant Coral (V)"
+      ],
+      "translation": " - 海泡菜收藏 (I)  - 集市 (I-V)  - 鲜艳珊瑚 (V)",
+      "styleMappings": {
+        "Sea Lumies Collection": "海泡菜收藏",
+        "Vibrant Coral": "鲜艳珊瑚",
+        "Bazaar": "集市",
+        "I-V": "I-V",
+        "I": "I",
+        "Collection": "收藏"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Armor"
+      ],
+      "translation": " - 盔甲",
+      "styleMappings": {
+        "Armor": "盔甲"
+      }
+    },
+    {
+      "source": [
+        "Requirements:"
+      ],
+      "translation": "需求:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchanting Level {{N0}}"
+      ],
+      "translation": " - 附魔等级 {{N0}}",
+      "styleMappings": {
+        "Enchanting Level": "附魔等级"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

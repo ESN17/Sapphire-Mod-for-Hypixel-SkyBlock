@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "id": "BLAZEN_SPHERE",
+  "_original_name": "Blazen Sphere",
+  "_original_lore": [
+    "Reforge Stone",
+    "Combinable in Anvil",
+    "",
+    "Applies the Blazing reforge when",
+    "combined with Equipment.",
+    "",
+    "Grants the following stats that scale",
+    "with the item's rarity:",
+    "  Mining Fortune",
+    "  Heat Resistance",
+    "",
+    "Blazing Bonus",
+    "For every 1♨ Heat, you are 0.05%",
+    "more likely to find Worms.",
+    "",
+    "Right-click to view rarity scaling!",
+    "",
+    "❣ Requires Mining Skill 27.",
+    "",
+    "RARE REFORGE STONE"
+  ],
+  "name": "烈焰球",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Reforge Stone",
+        "Combinable in Anvil"
+      ],
+      "translation": "洗练石 可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Reforge Stone": "洗练石",
+        "Anvil": "铁砧",
+        "Reforge": "洗练"
+      }
+    },
+    {
+      "source": [
+        "Applies the Blazing reforge when",
+        "combined with Equipment."
+      ],
+      "translation": "与装备结合时,施加炽热洗练.",
+      "styleMappings": {
+        "Blazing": "炽热",
+        "Equipment": "装备",
+        "reforge": "洗练",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Grants the following stats that scale"
+      ],
+      "translation": "提供以下随物品稀有度提升的属性:",
+      "styleMappings": {
+        "Grants": "提供",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "with the item's rarity:"
+      ],
+      "translation": "物品稀有度提升的属性:",
+      "styleMappings": {
+        "item": "物品",
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "  Mining Fortune",
+        "  Heat Resistance"
+      ],
+      "translation": "   采矿幸运   抗热性",
+      "styleMappings": {
+        "Heat Resistance": "抗热性",
+        "Mining Fortune": "采矿幸运",
+        "Mining": "采矿",
+        "Fortune": "幸运"
+      }
+    },
+    {
+      "source": [
+        "Blazing Bonus",
+        "For every {{N0}}♨ Heat, you are {{N1}}",
+        "more likely to find Worms."
+      ],
+      "translation": "炽热加成 每 {{N0}}♨ 热量,你发现蠕虫的概率提高 {{N1}}.",
+      "styleMappings": {
+        "Blazing Bonus": "炽热加成",
+        "Worms": "蠕虫",
+        "Heat": "热量",
+        "Bonus": "加成",
+        "Blazing": "炽热"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view rarity scaling!"
+      ],
+      "translation": "右键查看各稀有度的属性!",
+      "styleMappings": {
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Mining Skill {{N0}}."
+      ],
+      "translation": "❣ 需要采矿技能 {{N0}}.",
+      "styleMappings": {
+        "Mining Skill": "采矿技能",
+        "Requires": "需要",
+        "Mining": "采矿",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "RARE REFORGE STONE"
+      ],
+      "translation": "稀有 洗练石",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

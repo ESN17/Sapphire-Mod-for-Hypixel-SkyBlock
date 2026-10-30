@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "FROZEN_SPIDER",
+  "_original_name": "Frozen Spider",
+  "_original_lore": [
+    "One lonely spider sitting in the pond.",
+    "Then down came the hook that pulled",
+    "the spider out.",
+    "",
+    "* Co-op Soulbound *",
+    "LEGENDARY"
+  ],
+  "name": "冰冻蜘蛛",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "One lonely spider sitting in the pond."
+      ],
+      "translation": "一只孤独的蜘蛛坐在池塘里.",
+      "styleMappings": {
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Then down came the hook that pulled",
+        "the spider out."
+      ],
+      "translation": "然后钩子落下,把蜘蛛拉了出来.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Frozen": "冰冻",
+    "Spider": "蜘蛛"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

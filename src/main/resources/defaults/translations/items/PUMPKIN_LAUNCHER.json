@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "PUMPKIN_LAUNCHER",
+  "_original_name": "Pumpkin Launcher",
+  "_original_lore": [
+    "Shoots Blast o' Lanterns. Deals 2",
+    "damage to Spooky enemies and 3,000",
+    "damage against non-scary enemies!",
+    "",
+    "Blast o' Lanterns: 0/20k",
+    "",
+    "EPIC"
+  ],
+  "name": "南瓜发射器",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Shoots Blast o' Lanterns. Deals {{N0}}",
+        "damage to Spooky enemies and {{N1}}",
+        "damage against non-scary enemies!"
+      ],
+      "translation": "发射南瓜爆炸弹.对恐怖敌人造成 {{N0}} 伤害,对普通敌人造成 {{N1}} 伤害!",
+      "styleMappings": {
+        "Blast o' Lanterns": "南瓜爆炸弹",
+        "damage": "伤害",
+        "Deals": "造成",
+        "enemies": "敌人",
+        "Spooky": "恐怖",
+        "non-scary": "普通"
+      }
+    },
+    {
+      "source": [
+        "Blast o' Lanterns: {{N0}}/{{N1}}k"
+      ],
+      "translation": "南瓜爆炸弹: {{N0}}/{{N1}}千",
+      "styleMappings": {
+        "Blast o' Lanterns": "南瓜爆炸弹",
+        "{{N1}}k": "{{N1}}千"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Pumpkin": "南瓜"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

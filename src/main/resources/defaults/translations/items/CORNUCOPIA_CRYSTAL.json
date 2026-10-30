@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "CORNUCOPIA_CRYSTAL",
+  "_original_name": "Cornucopia Crystal",
+  "_original_lore": [
+    "Can be placed on your Private Island.",
+    "",
+    "While placed down, Farming Minions will",
+    "work 10% faster. For each unique",
+    "Farming Minion placed down, they will",
+    "work an additional 1% faster.",
+    "",
+    "EPIC"
+  ],
+  "name": "丰饶角水晶",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Can be placed on your Private Island."
+      ],
+      "translation": "可放置在你的私人岛屿上.",
+      "styleMappings": {
+        "Private Island": "私人岛屿",
+        "Island": "岛屿"
+      }
+    },
+    {
+      "source": [
+        "While placed down, Farming Minions will",
+        "work {{N0}} faster. For each unique",
+        "Farming Minion placed down, they will",
+        "work an additional {{N1}} faster."
+      ],
+      "translation": "放置后,农业仆从的工作速度提升 {{N0}}.每放置一个独特的农业仆从,它们的工作速度额外提升 {{N1}}.",
+      "styleMappings": {
+        "Farming Minions": "农业仆从",
+        "Farming Minion": "农业仆从",
+        "additional": "额外",
+        "Farming": "农业",
+        "faster": "提升",
+        "unique": "独特",
+        "work": "工作",
+        "Minions": "仆从",
+        "Minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Crystal": "水晶"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

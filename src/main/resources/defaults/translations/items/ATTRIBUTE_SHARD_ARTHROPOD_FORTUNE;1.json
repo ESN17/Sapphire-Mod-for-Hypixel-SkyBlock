@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "id": "ATTRIBUTE_SHARD_ARTHROPOD_FORTUNE;1",
+  "_original_name": "Black Widow Shard",
+  "_original_lore": [
+    "Arthropod Fortune I",
+    "Grants +0.5  Magic Find against ",
+    "Arthropod mobs.",
+    "",
+    "You can Syphon this shard from",
+    "your Hunting Box.",
+    "",
+    "Right-click to send to Hunting Box!",
+    "Shift Right-click to move all!",
+    "",
+    "❣ Requires Hunting Skill 10.",
+    "RARE COMBAT SHARD (ID R87)"
+  ],
+  "name": "黑寡妇碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Arthropod Fortune I"
+      ],
+      "translation": "节肢财富 I",
+      "styleMappings": {
+        "Arthropod Fortune I": "节肢财富 I",
+        "Arthropod": "节肢"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}  Magic Find against ",
+        "Arthropod mobs."
+      ],
+      "translation": "对 节肢生物提供 {{N0}}  稀有物品概率加成.",
+      "styleMappings": {
+        " Magic Find": " 稀有物品概率加成",
+        "Arthropod": "节肢",
+        "Grants": "提供",
+        "mobs": "生物",
+        "Magic Find": "稀有物品概率加成"
+      }
+    },
+    {
+      "source": [
+        "You can Syphon this shard from",
+        "your Hunting Box."
+      ],
+      "translation": "你可以从狩猎箱中吸取此碎片.",
+      "styleMappings": {
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to send to Hunting Box!"
+      ],
+      "translation": "右键点击发送至狩猎箱!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Shift Right-click to move all!"
+      ],
+      "translation": "潜行键 右键点击全部移动!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "all": "全部"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Hunting Skill {{N0}}."
+      ],
+      "translation": "❣ 需要狩猎技能 {{N0}}.",
+      "styleMappings": {
+        "Hunting Skill": "狩猎技能",
+        "Requires": "需要",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "RARE COMBAT SHARD (ID R{{N0}})"
+      ],
+      "translation": "稀有战斗碎片 (ID R{{N0}})",
+      "styleMappings": {
+        "RARE": "稀有",
+        "COMBAT SHARD": "战斗碎片"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shard": "碎片"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "id": "ATTRIBUTE_SHARD_SCRAP_CHANCE;1",
+  "_original_name": "Scrappy Shard",
+  "_original_lore": [
+    "Scrap Chance I",
+    "Increases your chance of finding a",
+    "Suspicious Scrap while mining in the",
+    "Glacite Mineshafts by +1%.",
+    "",
+    "You can Syphon this shard from",
+    "your Hunting Box.",
+    "",
+    "Right-click to send to Hunting Box!",
+    "Shift Right-click to move all!",
+    "",
+    "❣ Requires Hunting Skill 10.",
+    "RARE COMBAT SHARD (ID R72)"
+  ],
+  "name": "碎屑碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Scrap Chance I"
+      ],
+      "translation": "碎屑概率 I",
+      "styleMappings": {
+        "I": "I"
+      }
+    },
+    {
+      "source": [
+        "Increases your chance of finding a",
+        "Suspicious Scrap while mining in the",
+        "Glacite Mineshafts by {{N0}}."
+      ],
+      "translation": "在冰晶矿井中采矿时,你找到可疑的碎片的概率提高 {{N0}}.",
+      "styleMappings": {
+        "Glacite Mineshafts": "冰晶矿井",
+        "Suspicious Scrap": "可疑的碎片",
+        "Mineshafts": "矿井",
+        "chance": "概率",
+        "in the": "的",
+        "Suspicious": "可疑"
+      }
+    },
+    {
+      "source": [
+        "You can Syphon this shard from",
+        "your Hunting Box."
+      ],
+      "translation": "你可以从狩猎箱中吸取此碎片.",
+      "styleMappings": {
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to send to Hunting Box!"
+      ],
+      "translation": "右键点击发送至狩猎箱!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Shift Right-click to move all!"
+      ],
+      "translation": "潜行键 右键点击全部移动!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "all": "全部"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Hunting Skill {{N0}}."
+      ],
+      "translation": "❣ 需要狩猎技能 {{N0}}.",
+      "styleMappings": {
+        "Hunting Skill": "狩猎技能",
+        "Requires": "需要",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "RARE COMBAT SHARD (ID R{{N0}})"
+      ],
+      "translation": "稀有战斗碎片 (ID R{{N0}})",
+      "styleMappings": {
+        "RARE": "稀有",
+        "COMBAT SHARD": "战斗碎片"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shard": "碎片"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

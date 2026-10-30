@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "SILENT_PEARL",
+  "_original_name": "Silent Pearl",
+  "_original_lore": [
+    "Prevents pearl damage and",
+    "Enderman from spawning when",
+    "thrown on The End Island!",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "无声珍珠",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Prevents pearl damage and",
+        "Enderman from spawning when",
+        "thrown on The End Island!"
+      ],
+      "translation": "在末地岛屿投掷时,防止珍珠伤害和末影人生成!",
+      "styleMappings": {
+        "Enderman": "末影人",
+        "The End": "末地",
+        "Island": "岛屿",
+        "damage": "伤害",
+        "End": "末地",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

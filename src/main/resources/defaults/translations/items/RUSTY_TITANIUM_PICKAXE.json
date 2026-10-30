@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "id": "RUSTY_TITANIUM_PICKAXE",
+  "_original_name": "Rusty Titanium Pickaxe",
+  "_original_lore": [
+    "Breaking Power 5",
+    "",
+    "Damage: +55",
+    "Mining Speed: +100",
+    "",
+    "Grants +25 Mining Fortune when",
+    "mining Titanium Ore.",
+    "",
+    "This item can be reforged!",
+    "UNCOMMON PICKAXE"
+  ],
+  "name": "生锈的钛镐",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Breaking Power {{N0}}"
+      ],
+      "translation": "破坏力 {{N0}}",
+      "styleMappings": {
+        "Breaking Power": "破坏力"
+      }
+    },
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Mining Speed: {{N0}}"
+      ],
+      "translation": "采矿速度: {{N0}}",
+      "styleMappings": {
+        "Mining Speed": "采矿速度",
+        "Mining": "采矿",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Mining Fortune when",
+        "mining Titanium Ore."
+      ],
+      "translation": "挖掘钛矿石时获得 {{N0}} 采矿幸运.",
+      "styleMappings": {
+        "Mining Fortune": "采矿幸运",
+        "Titanium Ore": "钛矿石",
+        "Grants": "获得",
+        "Mining": "采矿",
+        "Fortune": "幸运",
+        "Titanium": "钛",
+        "when": "时",
+        " Mining Fortune": " 采矿幸运"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON PICKAXE"
+      ],
+      "translation": "罕见 镐",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Titanium": "钛",
+    "Pickaxe": "镐"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

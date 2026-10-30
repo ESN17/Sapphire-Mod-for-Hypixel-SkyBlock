@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_HEALING;7",
+  "_original_name": "Healing VII Potion",
+  "_original_lore": [
+    "",
+    "Healing VII (0:05)",
+    "Heals for +35 every second.",
+    "",
+    "EPIC"
+  ],
+  "name": "治疗 VII 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Healing VII ({{N0}}:{{N1}})"
+      ],
+      "translation": "治疗 VII ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Healing VII": "治疗 VII"
+      }
+    },
+    {
+      "source": [
+        "Heals for {{N0}} every second."
+      ],
+      "translation": "每秒恢复 {{N0}} 生命.",
+      "styleMappings": {
+        "second": "秒"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Healing VII": "治疗 VII"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

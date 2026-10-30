@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "SILVER_TROPHY_FROG_SACK",
+  "_original_name": "Silver Trophy Frog Sack",
+  "_original_lore": [
+    "Trophy Frog pickups of SILVER",
+    "quality go directly into your sacks.",
+    "",
+    "Capacity: 512 per trophy",
+    "Sacks sum their capacity.",
+    "",
+    "Right Click to open sack!",
+    "",
+    "❣ Requires Adept Frog Collector.",
+    "* Soulbound *",
+    "RARE"
+  ],
+  "name": "银奖杯青蛙袋",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Trophy Frog pickups of SILVER",
+        "quality go directly into your sacks."
+      ],
+      "translation": "白银品质的奖杯青蛙拾取物会直接进入你的袋子.",
+      "styleMappings": {
+        "Trophy Frog": "奖杯青蛙",
+        "SILVER": "白银",
+        "Frog": "青蛙",
+        "Trophy": "奖杯"
+      }
+    },
+    {
+      "source": [
+        "Capacity: {{N0}} per trophy"
+      ],
+      "translation": "容量: 每个奖杯 {{N0}}",
+      "styleMappings": {
+        "Capacity": "容量",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Sacks sum their capacity."
+      ],
+      "translation": "麻袋的容量会累加.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right Click to open sack!"
+      ],
+      "translation": "右键点击打开麻袋!",
+      "styleMappings": {
+        "Right Click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Adept Frog Collector."
+      ],
+      "translation": "❣ 需要熟练青蛙收藏家.",
+      "styleMappings": {
+        "Requires": "需要",
+        "Adept": "熟练",
+        "Frog": "青蛙"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Trophy Frog": "奖杯青蛙",
+    "Frog": "青蛙",
+    "Trophy": "奖杯"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

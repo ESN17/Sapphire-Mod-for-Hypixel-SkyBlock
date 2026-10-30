@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "ENDERMITE_MONSTER",
+  "_original_name": "Endermite (Monster)",
+  "_original_lore": [
+    "Endermites are small creatures similar to Silverfish",
+    "in the End. They will occasionally spawn by breaking",
+    "Endstone with anything other than a Stonk or killing",
+    "Watchers. ",
+    "",
+    "❤ Health: 2,000"
+  ],
+  "name": "末影螨 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Endermites are small creatures similar to Silverfish",
+        "in the End. They will occasionally spawn by breaking",
+        "Endstone with anything other than a Stonk or killing",
+        "Watchers. "
+      ],
+      "translation": "末影螨是末地中类似蠹虫的小型生物.它们偶尔会在用除石镐以外的任何工具破坏末地石或击杀观察者时生成.",
+      "styleMappings": {
+        "Endermites": "末影螨",
+        "Silverfish": "蠹虫",
+        "Endstone": "末地石",
+        "Watchers": "观察者",
+        "Stonk": "石镐",
+        "End": "末地",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Endermite": "末影螨",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "DYE_BRICK_RED",
+  "_original_name": "Brick Red Dye",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Changes the color of an armor piece",
+    "to #CB4154!",
+    "",
+    "LEGENDARY DYE"
+  ],
+  "name": "砖红染料",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Changes the color of an armor piece",
+        "to #CB{{N0}}!"
+      ],
+      "translation": "将一件盔甲的颜色改为 #CB{{N0}}!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "LEGENDARY DYE"
+      ],
+      "translation": "传说染料",
+      "styleMappings": {
+        "LEGENDARY DYE": "传说染料",
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

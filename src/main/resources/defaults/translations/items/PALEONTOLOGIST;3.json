@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": "PALEONTOLOGIST;3",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Paleontologist III",
+    "Increases chances of finding a",
+    "Suspicious Scrap when mining in",
+    "Glacite Mineshafts by 7.5%.",
+    "",
+    "Sources:",
+    " - Fossil Excavation (I)",
+    " - Bazaar (I-V)",
+    "",
+    "Applied To:",
+    " - Pickaxe",
+    " - Drill",
+    " - Gauntlet",
+    "",
+    "Requirements:",
+    " - Enchanting Level 27",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Paleontologist III"
+      ],
+      "translation": "古生物学家 III",
+      "styleMappings": {
+        "Paleontologist": "古生物学家",
+        "III": "III"
+      }
+    },
+    {
+      "source": [
+        "Increases chances of finding a",
+        "Suspicious Scrap when mining in",
+        "Glacite Mineshafts by {{N0}}."
+      ],
+      "translation": "在冰晶矿井中挖矿时,发现可疑的碎片的概率提高 {{N0}}.",
+      "styleMappings": {
+        "Glacite Mineshafts": "冰晶矿井",
+        "Suspicious Scrap": "可疑的碎片",
+        "Mineshafts": "矿井",
+        "when": "时",
+        "Suspicious": "可疑"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Fossil Excavation (I)",
+        " - Bazaar (I-V)"
+      ],
+      "translation": " - 化石挖掘 (一)  - 集市 (一至五)",
+      "styleMappings": {
+        "Fossil Excavation": "化石挖掘",
+        "Bazaar": "集市",
+        "I-V": "一至五",
+        "I": "一"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Pickaxe",
+        " - Drill",
+        " - Gauntlet"
+      ],
+      "translation": " - 镐  - 钻头  - 护手",
+      "styleMappings": {
+        "Gauntlet": "护手",
+        "Drill": "钻头",
+        "Pickaxe": "镐"
+      }
+    },
+    {
+      "source": [
+        "Requirements:"
+      ],
+      "translation": "需求:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchanting Level {{N0}}"
+      ],
+      "translation": " - 附魔等级 {{N0}}",
+      "styleMappings": {
+        "Enchanting Level": "附魔等级"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

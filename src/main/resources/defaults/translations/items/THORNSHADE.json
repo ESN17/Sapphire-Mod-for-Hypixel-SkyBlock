@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "THORNSHADE",
+  "_original_name": "Thornshade",
+  "_original_lore": [
+    "A rose with thick vines and thorns",
+    "sharper than they should be.",
+    "",
+    "Complete Visitor Beth's quest to",
+    "Analyze this crop!",
+    "",
+    "UNCOMMON MUTATION"
+  ],
+  "name": "荆棘之影",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A rose with thick vines and thorns",
+        "sharper than they should be."
+      ],
+      "translation": "一朵玫瑰,藤蔓粗壮,荆棘比应有的更锋利.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Complete Visitor Beth's quest to",
+        "Analyze this crop!"
+      ],
+      "translation": "完成访客 Beth 的任务来分析这种作物!",
+      "styleMappings": {
+        "Visitor": "访客",
+        "Beth's": "Beth 的",
+        "Analyze": "分析"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON MUTATION"
+      ],
+      "translation": "罕见变异",
+      "styleMappings": {
+        "UNCOMMON MUTATION": "罕见变异",
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

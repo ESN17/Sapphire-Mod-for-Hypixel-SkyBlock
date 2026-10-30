@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "id": "SADAN_BOSS",
+  "_original_name": "Sadan (Boss)",
+  "_original_lore": [
+    "Sadan is the boss of Floor 6 of the Catacombs.",
+    "He is a 'Necromancer Lord' and has three phases.",
+    "In the first he summons a teracotta army that must",
+    "be survied for 100 seconds. After that he summons four",
+    "giants and once killed, he merges them into himself.",
+    "",
+    "❤ Health: 40.000.000",
+    "❤ Health (MM): 800.000.000"
+  ],
+  "name": "萨丹 (首领)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Sadan is the boss of Floor {{N0}} of the Catacombs."
+      ],
+      "translation": "萨丹 是地牢第 {{N0}} 层的首领.",
+      "styleMappings": {
+        "Sadan": "萨丹",
+        "Catacombs": "地牢",
+        "the Catacombs": "地牢"
+      }
+    },
+    {
+      "source": [
+        "He is a 'Necromancer Lord' and has three phases."
+      ],
+      "translation": "他是一位“死灵法师领主”,共有三个阶段.",
+      "styleMappings": {
+        "phases": "阶段"
+      }
+    },
+    {
+      "source": [
+        "In the first he summons a teracotta army that must",
+        "be survied for {{N0}} seconds. After that he summons four",
+        "giants and once killed, he merges them into himself."
+      ],
+      "translation": "第一阶段他会召唤一支陶土军队,必须存活 {{N0}} 秒.之后他会召唤四个巨人,击杀后将其融入自身.",
+      "styleMappings": {
+        "seconds": "秒"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}.{{N1}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}.{{N1}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "❤ Health (MM): {{N0}}.{{N1}}"
+      ],
+      "translation": "❤ 生命值 (MM): {{N0}}.{{N1}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sadan": "萨丹",
+    "Boss": "首领"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

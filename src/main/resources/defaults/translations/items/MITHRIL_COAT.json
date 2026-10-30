@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "id": "MITHRIL_COAT",
+  "_original_name": "Mithril Coat",
+  "_original_lore": [
+    "Defense: +125",
+    "Speed: +15",
+    "",
+    "Ability: Mithril's Protection ",
+    "Any damage taken is max 40% of the wearer's",
+    "❤ Health. Gain Regeneration when this ability",
+    "activates.",
+    "",
+    "This item can be reforged!",
+    "EPIC CHESTPLATE"
+  ],
+  "name": "秘银胸甲",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Ability: Mithril's Protection "
+      ],
+      "translation": "能力:秘银守护 ",
+      "styleMappings": {
+        "Ability: Mithril's Protection": "能力:秘银守护",
+        "Ability": "能力",
+        "Mithril": "秘银"
+      }
+    },
+    {
+      "source": [
+        "Any damage taken is max {{N0}} of the wearer's",
+        "❤ Health. Gain Regeneration when this ability",
+        "activates."
+      ],
+      "translation": "受到的任何伤害最高为穿戴者 ❤ 生命值的 {{N0}}.此能力激活时获得生命恢复.",
+      "styleMappings": {
+        "Regeneration": "生命恢复",
+        "Health": "生命值",
+        "damage": "伤害",
+        "Gain": "获得",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "EPIC CHESTPLATE"
+      ],
+      "translation": "史诗胸甲",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mithril": "秘银"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

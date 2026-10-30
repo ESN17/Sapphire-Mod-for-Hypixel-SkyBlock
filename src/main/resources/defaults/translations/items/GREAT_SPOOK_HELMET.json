@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "GREAT_SPOOK_HELMET",
+  "_original_name": "Great Spook Helmet",
+  "_original_lore": [
+    "Fear: +5",
+    "",
+    "Full Set Bonus: Spooky (0/4)",
+    "Lets you spook other players while",
+    "worn by punching them with the Great",
+    "Spook Staff.",
+    "",
+    "Full Set Bonus: Fearsome (0/4)",
+    "Monsters at or below your total",
+    "Fear level will run away from you.",
+    "",
+    "Obtained during the Alchemist",
+    "experiments!",
+    "",
+    "This item can be reforged!",
+    "EPIC HELMET"
+  ],
+  "name": "大万圣节头盔",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Fear: {{N0}}"
+      ],
+      "translation": "恐惧: {{N0}}",
+      "styleMappings": {
+        "Fear": "恐惧"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Spooky ({{N0}}/{{N1}})"
+      ],
+      "translation": "全套加成: 幽灵 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Full Set Bonus: Spooky": "全套加成: 幽灵",
+        "Full Set Bonus": "全套加成",
+        "Bonus": "加成",
+        "Spooky": "幽灵"
+      }
+    },
+    {
+      "source": [
+        "Lets you spook other players while",
+        "worn by punching them with the Great",
+        "Spook Staff."
+      ],
+      "translation": "穿戴时,用大万圣节法杖击打其他玩家即可吓唬他们.",
+      "styleMappings": {
+        "spook": "吓唬",
+        "Great Spook Staff": "大万圣节法杖",
+        "Great Spook": "大万圣节"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Fearsome ({{N0}}/{{N1}})"
+      ],
+      "translation": "全套加成: 恐惧 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Full Set Bonus: Fearsome": "全套加成: 恐惧",
+        "Full Set Bonus": "全套加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Monsters at or below your total",
+        "Fear level will run away from you."
+      ],
+      "translation": "等级等于或低于你总恐惧等级的怪物会逃离你.",
+      "styleMappings": {
+        "Monsters": "怪物",
+        "Fear": "恐惧"
+      }
+    },
+    {
+      "source": [
+        "Obtained during the Alchemist",
+        "experiments!"
+      ],
+      "translation": "在 Alchemist 实验期间获得!",
+      "styleMappings": {
+        "Alchemist": "Alchemist"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "EPIC HELMET"
+      ],
+      "translation": "史诗头盔",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Helmet": "头盔",
+    "Great Spook": "大万圣节"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

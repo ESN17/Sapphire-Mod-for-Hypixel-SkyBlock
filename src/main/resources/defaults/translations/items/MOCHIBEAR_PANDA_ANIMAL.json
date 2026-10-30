@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "MOCHIBEAR_PANDA_ANIMAL",
+  "_original_name": "Mochibear Panda (Animal)",
+  "_original_lore": [
+    "The Mochibear Panda is a passive mob that can be found on Galatea.",
+    "They only appear while it is Autumn or Winter."
+  ],
+  "name": "麻薯熊熊猫 (动物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Mochibear Panda is a passive mob that can be found on Galatea."
+      ],
+      "translation": "麻薯熊熊猫是一种被动生物,可在加拉蒂亚找到.",
+      "styleMappings": {
+        "Galatea": "加拉蒂亚",
+        "passive": "被动"
+      }
+    },
+    {
+      "source": [
+        "They only appear while it is Autumn or Winter."
+      ],
+      "translation": "它们只在秋季或冬季出现.",
+      "styleMappings": {
+        "Autumn": "秋季",
+        "Winter": "冬季"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Animal": "动物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

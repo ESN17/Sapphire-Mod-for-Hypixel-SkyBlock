@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "EXPERIMENTATION_TABLE",
+  "_original_name": "Experimentation Table",
+  "_original_lore": [
+    "Place this item on your island!",
+    "",
+    "Conduct wild enchanting experiments to",
+    "gain bonus Enchanting Exp and items!",
+    "",
+    "RARE"
+  ],
+  "name": "实验台",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Place this item on your island!"
+      ],
+      "translation": "将此物品放置在你的岛屿上!",
+      "styleMappings": {
+        "island": "岛屿上",
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Conduct wild enchanting experiments to",
+        "gain bonus Enchanting Exp and items!"
+      ],
+      "translation": "进行狂野附魔实验,获得额外附魔经验和物品!",
+      "styleMappings": {
+        "Enchanting Exp": "附魔经验",
+        "items": "物品",
+        "Exp": "经验",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

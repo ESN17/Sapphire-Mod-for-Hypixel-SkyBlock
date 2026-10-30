@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_STAMINA;3",
+  "_original_name": "Stamina III Potion",
+  "_original_lore": [
+    "",
+    "Stamina III",
+    "Instantly heals for +315 and a",
+    "grants a 150 ✎ Mana boost.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "耐力 III 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Stamina III",
+        "Instantly heals for {{N0}} and a",
+        "grants a {{N1}} ✎ Mana boost."
+      ],
+      "translation": "耐力 III 立即恢复 {{N0}} 点生命,并给予 {{N1}} ✎ 法力加成.",
+      "styleMappings": {
+        "Instantly heals for": "立即恢复",
+        "Stamina III": "耐力 III",
+        "grants a": "给予",
+        "boost": "加成",
+        "Mana": "法力",
+        "III": "III"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Stamina III": "耐力 III",
+    "III": "III"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

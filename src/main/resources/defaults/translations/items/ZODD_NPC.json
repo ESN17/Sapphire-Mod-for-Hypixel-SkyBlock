@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "ZODD_NPC",
+  "_original_name": "Zodd (NPC)",
+  "_original_lore": [
+    "This NPC can be found in The Catacombs."
+  ],
+  "name": "Zodd (人物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "This NPC can be found in The Catacombs."
+      ],
+      "translation": "该人物位于地牢.",
+      "styleMappings": {
+        "The Catacombs": "地牢",
+        "Catacombs": "地牢"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(NPC)": "(人物)"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

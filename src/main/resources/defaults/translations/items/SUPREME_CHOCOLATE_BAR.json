@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "SUPREME_CHOCOLATE_BAR",
+  "_original_name": "Supreme Chocolate Bar",
+  "_original_lore": [
+    "Bring 3,000 of these to Carrolyn in",
+    "Scarleton on the Crimson Isle to",
+    "permanently gain +5 Health and",
+    "+12 Cocoa Beans Fortune.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "极品巧克力棒",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Bring {{N0}} of these to Carrolyn in",
+        "Scarleton on the Crimson Isle to",
+        "permanently gain {{N1}} Health and",
+        "{{N2}} Cocoa Beans Fortune."
+      ],
+      "translation": "将 {{N0}} 个交给绯红之岛上斯卡雷顿的Carrolyn,即可永久获得 {{N1}} 生命值和 {{N2}} 可可豆幸运.",
+      "styleMappings": {
+        "Cocoa Beans Fortune": "可可豆幸运",
+        "Crimson Isle": "绯红之岛",
+        "permanently": "永久",
+        "Scarleton": "斯卡雷顿",
+        "Carrolyn": "Carrolyn",
+        "Health": "生命值",
+        " Health": " 生命",
+        "Fortune": "幸运",
+        "Cocoa Beans": "可可豆",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Chocolate": "巧克力"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

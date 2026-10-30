@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "GIANT_WITCH_CAULDRON",
+  "_original_name": "Giant Witch Cauldron",
+  "_original_lore": [
+    "Use at Kat to upgrade Witch Pets",
+    "from Epic to Legendary.",
+    "",
+    "LEGENDARY PET ITEM"
+  ],
+  "name": "巨型女巫坩埚",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Use at Kat to upgrade Witch Pets",
+        "from Epic to Legendary."
+      ],
+      "translation": "在 Kat 处使用,可将女巫宠物从史诗升级为传说.",
+      "styleMappings": {
+        "Witch Pets": "女巫宠物",
+        "Legendary": "传说",
+        "upgrade": "升级",
+        "Epic": "史诗",
+        "Kat": "Kat",
+        "Pets": "宠物"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY PET ITEM"
+      ],
+      "translation": "传说 宠物物品",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Giant": "巨型"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "id": "PIERCING;1",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Piercing I",
+    "Arrows travel through enemies.",
+    "The extra targets hit take 25%",
+    "of the damage.",
+    "",
+    "Source:",
+    " - Enchantment Table (I)",
+    "",
+    "Applied To:",
+    " - Bow",
+    "",
+    "Requirements:",
+    " - Enchanting Level 17",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Piercing I"
+      ],
+      "translation": "穿透 I",
+      "styleMappings": {
+        "Piercing": "穿透"
+      }
+    },
+    {
+      "source": [
+        "Arrows travel through enemies."
+      ],
+      "translation": "箭矢会穿透敌人.",
+      "styleMappings": {
+        "enemies": "敌人"
+      }
+    },
+    {
+      "source": [
+        "The extra targets hit take {{N0}}",
+        "of the damage."
+      ],
+      "translation": "额外命中的目标受到 {{N0}} 的伤害.",
+      "styleMappings": {
+        "damage": "伤害",
+        "hit": "命中"
+      }
+    },
+    {
+      "source": [
+        "Source:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchantment Table (I)"
+      ],
+      "translation": " - 附魔台 (I)",
+      "styleMappings": {
+        "Enchantment Table": "附魔台",
+        "I": "I",
+        "Enchantment": "附魔"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Bow"
+      ],
+      "translation": " - 弓",
+      "styleMappings": {
+        "Bow": "弓"
+      }
+    },
+    {
+      "source": [
+        "Requirements:"
+      ],
+      "translation": "需求:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchanting Level {{N0}}"
+      ],
+      "translation": " - 附魔等级 {{N0}}",
+      "styleMappings": {
+        "Enchanting Level": "附魔等级"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

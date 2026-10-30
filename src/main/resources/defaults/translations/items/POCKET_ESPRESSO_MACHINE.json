@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "POCKET_ESPRESSO_MACHINE",
+  "_original_name": "Pocket Espresso Machine",
+  "_original_lore": [
+    "Accessory Power: +3",
+    "",
+    "Costs 1⸎ Soulflow per 5s in combat:",
+    "⁍ Gain +100 Intelligence",
+    "",
+    "Enabled: Off",
+    "Right-click to toggle!",
+    "",
+    "☠ Requires Enderman Slayer 4.",
+    "Works while in Accessory Bag!",
+    "COMMON ACCESSORY"
+  ],
+  "name": "便携浓缩咖啡机",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Accessory Power: {{N0}}"
+      ],
+      "translation": "饰品能量: {{N0}}",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "Costs {{N0}}⸎ Soulflow per {{N1}}s in combat:"
+      ],
+      "translation": "战斗中每 {{N1}} 秒消耗 {{N0}}⸎ 灵魂流:",
+      "styleMappings": {
+        "Soulflow": "灵魂流",
+        "{{N1}}s": "{{N1}} 秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "⁍ Gain {{N0}} Intelligence"
+      ],
+      "translation": "⁍ 获得 {{N0}} 智力",
+      "styleMappings": {
+        "Intelligence": "智力",
+        "Gain": "获得",
+        "": "",
+        " Intelligence": " 智力"
+      }
+    },
+    {
+      "source": [
+        "Enabled: Off"
+      ],
+      "translation": "已启用: 关闭",
+      "styleMappings": {
+        "Enabled": "已启用",
+        "Off": "关闭"
+      }
+    },
+    {
+      "source": [
+        "Right-click to toggle!"
+      ],
+      "translation": "右键点击切换!",
+      "styleMappings": {
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Enderman Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要末影人杀手 {{N0}}.",
+      "styleMappings": {
+        "Enderman Slayer": "末影人杀手",
+        "Requires": "需要",
+        "Slayer": "杀手",
+        "Enderman": "末影人"
+      }
+    },
+    {
+      "source": [
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "放在饰品袋中即可生效!",
+      "styleMappings": {
+        "Accessory Bag": "饰品袋",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "COMMON ACCESSORY"
+      ],
+      "translation": "普通饰品",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

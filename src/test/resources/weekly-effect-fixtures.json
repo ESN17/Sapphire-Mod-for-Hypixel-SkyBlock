@@ -1,0 +1,6813 @@
+{
+  "enchantments": [
+    {
+      "id": "ABSORB;1",
+      "header": "§9Absorb I",
+      "effect": [
+        "§7Grants §3+1☯ Foraging Wisdom §7and",
+        "§6+2 Foraging Fortune§7.",
+        "§81k logs to tier up!"
+      ]
+    },
+    {
+      "id": "AIMING;1",
+      "header": "§9Dragon Tracer I",
+      "effect": [
+        "§7Arrows home towards dragons if",
+        "§7they are within §a2 §7blocks."
+      ]
+    },
+    {
+      "id": "AIMING;2",
+      "header": "§9Dragon Tracer II",
+      "effect": [
+        "§7Arrows home towards dragons if",
+        "§7they are within §a4 §7blocks."
+      ]
+    },
+    {
+      "id": "AIMING;3",
+      "header": "§9Dragon Tracer III",
+      "effect": [
+        "§7Arrows home towards dragons if",
+        "§7they are within §a6 §7blocks."
+      ]
+    },
+    {
+      "id": "AIMING;4",
+      "header": "§9Dragon Tracer IV",
+      "effect": [
+        "§7Arrows home towards dragons if",
+        "§7they are within §a8 §7blocks."
+      ]
+    },
+    {
+      "id": "AIMING;5",
+      "header": "§9Dragon Tracer V",
+      "effect": [
+        "§7Arrows home towards dragons if",
+        "§7they are within §a10 §7blocks."
+      ]
+    },
+    {
+      "id": "ANGLER;1",
+      "header": "§9Angler I",
+      "effect": [
+        "§7Grants §3+1 Sea Creature",
+        "§3Chance§7."
+      ]
+    },
+    {
+      "id": "ANGLER;2",
+      "header": "§9Angler II",
+      "effect": [
+        "§7Grants §3+2 Sea Creature",
+        "§3Chance§7."
+      ]
+    },
+    {
+      "id": "ANGLER;3",
+      "header": "§9Angler III",
+      "effect": [
+        "§7Grants §3+3 Sea Creature",
+        "§3Chance§7."
+      ]
+    },
+    {
+      "id": "ANGLER;4",
+      "header": "§9Angler IV",
+      "effect": [
+        "§7Grants §3+4 Sea Creature",
+        "§3Chance§7."
+      ]
+    },
+    {
+      "id": "ANGLER;5",
+      "header": "§9Angler V",
+      "effect": [
+        "§7Grants §3+5 Sea Creature",
+        "§3Chance§7."
+      ]
+    },
+    {
+      "id": "ANGLER;6",
+      "header": "§9Angler VI",
+      "effect": [
+        "§7Grants §3+6 Sea Creature",
+        "§3Chance§7."
+      ]
+    },
+    {
+      "id": "AQUA_AFFINITY;1",
+      "header": "§9Aqua Affinity I",
+      "effect": [
+        "§7Increases your underwater mining",
+        "§7rate."
+      ]
+    },
+    {
+      "id": "ARCANE;1",
+      "header": "§9Woodsplitter I",
+      "effect": [
+        "§7Increases damage dealt to §2⸙",
+        "§2Woodland§7 mobs by §a10%§7."
+      ]
+    },
+    {
+      "id": "ARCANE;2",
+      "header": "§9Woodsplitter II",
+      "effect": [
+        "§7Increases damage dealt to §2⸙",
+        "§2Woodland§7 mobs by §a20%§7."
+      ]
+    },
+    {
+      "id": "ARCANE;3",
+      "header": "§9Woodsplitter III",
+      "effect": [
+        "§7Increases damage dealt to §2⸙",
+        "§2Woodland§7 mobs by §a30%§7."
+      ]
+    },
+    {
+      "id": "ARCANE;4",
+      "header": "§9Woodsplitter IV",
+      "effect": [
+        "§7Increases damage dealt to §2⸙",
+        "§2Woodland§7 mobs by §a40%§7."
+      ]
+    },
+    {
+      "id": "ARCANE;5",
+      "header": "§9Woodsplitter V",
+      "effect": [
+        "§7Increases damage dealt to §2⸙",
+        "§2Woodland§7 mobs by §a60%§7."
+      ]
+    },
+    {
+      "id": "ARCANE;6",
+      "header": "§9Woodsplitter VI",
+      "effect": [
+        "§7Increases damage dealt to §2⸙",
+        "§2Woodland§7 mobs by §a80%§7."
+      ]
+    },
+    {
+      "id": "BANE_OF_ARTHROPODS;1",
+      "header": "§9Bane of Arthropods I",
+      "effect": [
+        "§7Increases damage dealt to §4",
+        "§4Arthropod§7 mobs by §a5%§7."
+      ]
+    },
+    {
+      "id": "BANE_OF_ARTHROPODS;2",
+      "header": "§9Bane of Arthropods II",
+      "effect": [
+        "§7Increases damage dealt to §4",
+        "§4Arthropod§7 mobs by §a10%§7."
+      ]
+    },
+    {
+      "id": "BANE_OF_ARTHROPODS;3",
+      "header": "§9Bane of Arthropods III",
+      "effect": [
+        "§7Increases damage dealt to §4",
+        "§4Arthropod§7 mobs by §a15%§7."
+      ]
+    },
+    {
+      "id": "BANE_OF_ARTHROPODS;4",
+      "header": "§9Bane of Arthropods IV",
+      "effect": [
+        "§7Increases damage dealt to §4",
+        "§4Arthropod§7 mobs by §20%§7."
+      ]
+    },
+    {
+      "id": "BANE_OF_ARTHROPODS;5",
+      "header": "§9Bane of Arthropods V",
+      "effect": [
+        "§7Increases damage dealt to §4",
+        "§4Arthropod§7 mobs by §a30%§7."
+      ]
+    },
+    {
+      "id": "BANE_OF_ARTHROPODS;6",
+      "header": "§9Bane of Arthropods VI",
+      "effect": [
+        "§7Increases damage dealt to §4",
+        "§4Arthropod§7 mobs by §a40%§7."
+      ]
+    },
+    {
+      "id": "BANE_OF_ARTHROPODS;7",
+      "header": "§9Bane of Arthropods VII",
+      "effect": [
+        "§7Increases damage dealt to §4",
+        "§4Arthropod§7 mobs by §a50%§7."
+      ]
+    },
+    {
+      "id": "BIG_BRAIN;3",
+      "header": "§9Big Brain III",
+      "effect": [
+        "§7Grants §b+15 Intelligence§7."
+      ]
+    },
+    {
+      "id": "BIG_BRAIN;4",
+      "header": "§9Big Brain IV",
+      "effect": [
+        "§7Grants §b+20 Intelligence§7."
+      ]
+    },
+    {
+      "id": "BIG_BRAIN;5",
+      "header": "§9Big Brain V",
+      "effect": [
+        "§7Grants §b+25 Intelligence§7."
+      ]
+    },
+    {
+      "id": "BLAST_PROTECTION;1",
+      "header": "§9Blast Protection I",
+      "effect": [
+        "§7Grants §a+30 §a Defense §7against",
+        "§7explosions."
+      ]
+    },
+    {
+      "id": "BLAST_PROTECTION;2",
+      "header": "§9Blast Protection II",
+      "effect": [
+        "§7Grants §a+60 §a Defense §7against",
+        "§7explosions."
+      ]
+    },
+    {
+      "id": "BLAST_PROTECTION;3",
+      "header": "§9Blast Protection III",
+      "effect": [
+        "§7Grants §a+90 §a Defense §7against",
+        "§7explosions."
+      ]
+    },
+    {
+      "id": "BLAST_PROTECTION;4",
+      "header": "§9Blast Protection IV",
+      "effect": [
+        "§7Grants §a+120 §a Defense §7against",
+        "§7explosions."
+      ]
+    },
+    {
+      "id": "BLAST_PROTECTION;5",
+      "header": "§9Blast Protection V",
+      "effect": [
+        "§7Grants §a+150 §a Defense §7against",
+        "§7explosions."
+      ]
+    },
+    {
+      "id": "BLAST_PROTECTION;6",
+      "header": "§9Blast Protection VI",
+      "effect": [
+        "§7Grants §a+180 §a Defense §7against",
+        "§7explosions."
+      ]
+    },
+    {
+      "id": "BLAST_PROTECTION;7",
+      "header": "§9Blast Protection VII",
+      "effect": [
+        "§7Grants §a+210 §a Defense §7against",
+        "§7explosions."
+      ]
+    },
+    {
+      "id": "BLESSING;1",
+      "header": "§9Blessing I",
+      "effect": [
+        "§7Increases the chance for §6Treasure",
+        "§7catches to be §6§lGREAT §7or",
+        "§d§lOUTSTANDING §7by §a2%§7."
+      ]
+    },
+    {
+      "id": "BLESSING;2",
+      "header": "§9Blessing II",
+      "effect": [
+        "§7Increases the chance for §6Treasure",
+        "§7catches to be §6§lGREAT §7or",
+        "§d§lOUTSTANDING §7by §a4%§7."
+      ]
+    },
+    {
+      "id": "BLESSING;3",
+      "header": "§9Blessing III",
+      "effect": [
+        "§7Increases the chance for §6Treasure",
+        "§7catches to be §6§lGREAT §7or",
+        "§d§lOUTSTANDING §7by §a6%§7."
+      ]
+    },
+    {
+      "id": "BLESSING;4",
+      "header": "§9Blessing IV",
+      "effect": [
+        "§7Increases the chance for §6Treasure",
+        "§7catches to be §6§lGREAT §7or",
+        "§d§lOUTSTANDING §7by §a8%§7."
+      ]
+    },
+    {
+      "id": "BLESSING;5",
+      "header": "§9Blessing V",
+      "effect": [
+        "§7Increases the chance for §6Treasure",
+        "§7catches to be §6§lGREAT §7or",
+        "§d§lOUTSTANDING §7by §a10%§7."
+      ]
+    },
+    {
+      "id": "BLESSING;6",
+      "header": "§9Blessing VI",
+      "effect": [
+        "§7Increases the chance for §6Treasure",
+        "§7catches to be §6§lGREAT §7or",
+        "§d§lOUTSTANDING §7by §a12%§7."
+      ]
+    },
+    {
+      "id": "BUG_BLENDER;1",
+      "header": "§9Bug Blender I",
+      "effect": [
+        "§7Grants §6+20 Farming Fortune §7when",
+        "§7vacuuming §2 Pests§7."
+      ]
+    },
+    {
+      "id": "BUG_BLENDER;2",
+      "header": "§9Bug Blender II",
+      "effect": [
+        "§7Grants §6+40 Farming Fortune §7when",
+        "§7vacuuming §2 Pests§7."
+      ]
+    },
+    {
+      "id": "BUG_BLENDER;3",
+      "header": "§9Bug Blender III",
+      "effect": [
+        "§7Grants §6+60 Farming Fortune §7when",
+        "§7vacuuming §2 Pests§7."
+      ]
+    },
+    {
+      "id": "BUG_BLENDER;4",
+      "header": "§9Bug Blender IV",
+      "effect": [
+        "§7Grants §6+80 Farming Fortune §7when",
+        "§7vacuuming §2 Pests§7."
+      ]
+    },
+    {
+      "id": "BUG_BLENDER;5",
+      "header": "§9Bug Blender V",
+      "effect": [
+        "§7Grants §6+100 Farming Fortune §7when",
+        "§7vacuuming §2 Pests§7."
+      ]
+    },
+    {
+      "id": "CASTER;1",
+      "header": "§9Caster I",
+      "effect": [
+        "§a5%§7 chance to not consume",
+        "§7bait."
+      ]
+    },
+    {
+      "id": "CASTER;2",
+      "header": "§9Caster II",
+      "effect": [
+        "§a10%§7 chance to not consume",
+        "§7bait."
+      ]
+    },
+    {
+      "id": "CASTER;3",
+      "header": "§9Caster III",
+      "effect": [
+        "§a15%§7 chance to not consume",
+        "§7bait."
+      ]
+    },
+    {
+      "id": "CASTER;4",
+      "header": "§9Caster IV",
+      "effect": [
+        "§a20%§7 chance to not consume",
+        "§7bait."
+      ]
+    },
+    {
+      "id": "CASTER;5",
+      "header": "§9Caster V",
+      "effect": [
+        "§a25%§7 chance to not consume",
+        "§7bait."
+      ]
+    },
+    {
+      "id": "CASTER;6",
+      "header": "§9Caster VI",
+      "effect": [
+        "§a30%§7 chance to not consume",
+        "§7bait."
+      ]
+    },
+    {
+      "id": "CAYENNE;4",
+      "header": "§9Cayenne IV",
+      "effect": [
+        "§7Grants §c+0.8 Health §7and §f+0.4 True",
+        "§fDefense §7per digit in your §6Accessory",
+        "§6Power§7."
+      ]
+    },
+    {
+      "id": "CAYENNE;5",
+      "header": "§9Cayenne V",
+      "effect": [
+        "§7Grants §c+1 Health §7and §f+0.5 True",
+        "§fDefense §7per digit in your §6Accessory",
+        "§6Power§7."
+      ]
+    },
+    {
+      "id": "CHAMPION;1",
+      "header": "§9Champion I",
+      "effect": [
+        "§7Gain §a3% §7extra Combat XP. The",
+        "§72nd hit on a mob grants §6+1.4",
+        "§6coins §7& §3+7 §7exp orbs."
+      ]
+    },
+    {
+      "id": "CHANCE;1",
+      "header": "§9Chance I",
+      "effect": [
+        "§7Increases the chance of a",
+        "§7Monster dropping an item by",
+        "§a15%§7."
+      ]
+    },
+    {
+      "id": "CHANCE;2",
+      "header": "§9Chance II",
+      "effect": [
+        "§7Increases the chance of a",
+        "§7Monster dropping an item by",
+        "§a30%§7."
+      ]
+    },
+    {
+      "id": "CHANCE;3",
+      "header": "§9Chance III",
+      "effect": [
+        "§7Increases the chance of a",
+        "§7Monster dropping an item by",
+        "§a45%§7."
+      ]
+    },
+    {
+      "id": "CHANCE;4",
+      "header": "§9Chance IV",
+      "effect": [
+        "§7Increases the chance of a",
+        "§7Monster dropping an item by",
+        "§a60%§7."
+      ]
+    },
+    {
+      "id": "CHANCE;5",
+      "header": "§9Chance V",
+      "effect": [
+        "§7Increases the chance of a",
+        "§7Monster dropping an item by",
+        "§a75%§7."
+      ]
+    },
+    {
+      "id": "CHARM;1",
+      "header": "§9Charm I",
+      "effect": [
+        "§7Increases the chance to catch",
+        "§7higher-tiered §6Trophies §7by §a2%§7."
+      ]
+    },
+    {
+      "id": "CHARM;2",
+      "header": "§9Charm II",
+      "effect": [
+        "§7Increases the chance to catch",
+        "§7higher-tiered §6Trophies §7by §a4%§7."
+      ]
+    },
+    {
+      "id": "CHARM;3",
+      "header": "§9Charm III",
+      "effect": [
+        "§7Increases the chance to catch",
+        "§7higher-tiered §6Trophies §7by §a6%§7."
+      ]
+    },
+    {
+      "id": "CHARM;4",
+      "header": "§9Charm IV",
+      "effect": [
+        "§7Increases the chance to catch",
+        "§7higher-tiered §6Trophies §7by §a8%§7."
+      ]
+    },
+    {
+      "id": "CHARM;5",
+      "header": "§9Charm V",
+      "effect": [
+        "§7Increases the chance to catch",
+        "§7higher-tiered §6Trophies §7by §a10%§7."
+      ]
+    },
+    {
+      "id": "CHARM;6",
+      "header": "§9Charm VI",
+      "effect": [
+        "§7Increases the chance to catch",
+        "§7higher-tiered §6Trophies §7by §a12%§7."
+      ]
+    },
+    {
+      "id": "CLEAVE;1",
+      "header": "§9Cleave I",
+      "effect": [
+        "§7Deals §a5% §7of your damage",
+        "§7dealt to other monsters within",
+        "§a3.3 §7blocks of the target."
+      ]
+    },
+    {
+      "id": "CLEAVE;2",
+      "header": "§9Cleave II",
+      "effect": [
+        "§7Deals §a10% §7of your damage",
+        "§7dealt to other monsters within",
+        "§a3.6 §7blocks of the target."
+      ]
+    },
+    {
+      "id": "CLEAVE;3",
+      "header": "§9Cleave III",
+      "effect": [
+        "§7Deals §a15% §7of your damage",
+        "§7dealt to other monsters within",
+        "§a3.9 §7blocks of the target."
+      ]
+    },
+    {
+      "id": "CLEAVE;4",
+      "header": "§9Cleave IV",
+      "effect": [
+        "§7Deals §a20% §7of your damage",
+        "§7dealt to other monsters within",
+        "§a4.2 §7blocks of the target."
+      ]
+    },
+    {
+      "id": "CLEAVE;5",
+      "header": "§9Cleave V",
+      "effect": [
+        "§7Deals §a25% §7of your damage",
+        "§7dealt to other monsters within",
+        "§a4.5 §7blocks of the target."
+      ]
+    },
+    {
+      "id": "CLEAVE;6",
+      "header": "§9Cleave VI",
+      "effect": [
+        "§7Deals §a30% §7of your damage",
+        "§7dealt to other monsters within",
+        "§a4.8 §7blocks of the target."
+      ]
+    },
+    {
+      "id": "COMPACT;1",
+      "header": "§9Compact I",
+      "effect": [
+        "§7Gain §3+1☯ Mining Wisdom §7and a",
+        "§a0.25% §7chance to drop an",
+        "§7enchanted item."
+      ]
+    },
+    {
+      "id": "CORRUPTION;1",
+      "header": "§9Corruption I",
+      "effect": [
+        "§7Gain a §a1% §7chance to spawn a",
+        "§7Corrupted Sea Creature."
+      ]
+    },
+    {
+      "id": "CORRUPTION;2",
+      "header": "§9Corruption II",
+      "effect": [
+        "§7Gain a §a2% §7chance to spawn a",
+        "§7Corrupted Sea Creature."
+      ]
+    },
+    {
+      "id": "CORRUPTION;3",
+      "header": "§9Corruption III",
+      "effect": [
+        "§7Gain a §a3% §7chance to spawn a",
+        "§7Corrupted Sea Creature."
+      ]
+    },
+    {
+      "id": "CORRUPTION;4",
+      "header": "§9Corruption IV",
+      "effect": [
+        "§7Gain a §a4% §7chance to spawn a",
+        "§7Corrupted Sea Creature."
+      ]
+    },
+    {
+      "id": "CORRUPTION;5",
+      "header": "§9Corruption V",
+      "effect": [
+        "§7Gain a §a5% §7chance to spawn a",
+        "§7Corrupted Sea Creature."
+      ]
+    },
+    {
+      "id": "COUNTER_STRIKE;5",
+      "header": "§9Counter-Strike V",
+      "effect": [
+        "§7Gain §a+10 Defense §7for §a7s §7on the",
+        "§7first hit from an enemy."
+      ]
+    },
+    {
+      "id": "CRITICAL;1",
+      "header": "§9Critical I",
+      "effect": [
+        "§7Increases §9 Crit Damage §7by §a10%§7."
+      ]
+    },
+    {
+      "id": "CRITICAL;2",
+      "header": "§9Critical II",
+      "effect": [
+        "§7Increases §9 Crit Damage §7by §a20%§7."
+      ]
+    },
+    {
+      "id": "CRITICAL;3",
+      "header": "§9Critical III",
+      "effect": [
+        "§7Increases §9 Crit Damage §7by §a30%§7."
+      ]
+    },
+    {
+      "id": "CRITICAL;4",
+      "header": "§9Critical IV",
+      "effect": [
+        "§7Increases §9 Crit Damage §7by §a40%§7."
+      ]
+    },
+    {
+      "id": "CRITICAL;5",
+      "header": "§9Critical V",
+      "effect": [
+        "§7Increases §9 Crit Damage §7by §a50%§7."
+      ]
+    },
+    {
+      "id": "CRITICAL;6",
+      "header": "§9Critical VI",
+      "effect": [
+        "§7Increases §9 Crit Damage §7by §a70%§7."
+      ]
+    },
+    {
+      "id": "CRITICAL;7",
+      "header": "§9Critical VII",
+      "effect": [
+        "§7Increases §9 Crit Damage §7by §a100%§7."
+      ]
+    },
+    {
+      "id": "CUBISM;1",
+      "header": "§9Cubism I",
+      "effect": [
+        "§7Increases damage dealt to §a Cubic§7",
+        "§7mobs by §a5%§7."
+      ]
+    },
+    {
+      "id": "CUBISM;2",
+      "header": "§9Cubism II",
+      "effect": [
+        "§7Increases damage dealt to §a Cubic§7",
+        "§7mobs by §a10%§7."
+      ]
+    },
+    {
+      "id": "CUBISM;3",
+      "header": "§9Cubism III",
+      "effect": [
+        "§7Increases damage dealt to §a Cubic§7",
+        "§7mobs by §a15%§7."
+      ]
+    },
+    {
+      "id": "CUBISM;4",
+      "header": "§9Cubism IV",
+      "effect": [
+        "§7Increases damage dealt to §a Cubic§7",
+        "§7mobs by §a20%§7."
+      ]
+    },
+    {
+      "id": "CUBISM;5",
+      "header": "§9Cubism V",
+      "effect": [
+        "§7Increases damage dealt to §a Cubic§7",
+        "§7mobs by §a30%§7."
+      ]
+    },
+    {
+      "id": "CUBISM;6",
+      "header": "§9Cubism VI",
+      "effect": [
+        "§7Increases damage dealt to §a Cubic§7",
+        "§7mobs by §a40%§7."
+      ]
+    },
+    {
+      "id": "CULTIVATING;1",
+      "header": "§9Cultivating I",
+      "effect": [
+        "§7Gain §3+1☯ Farming Wisdom §7and",
+        "§6+2 Farming Fortune§7."
+      ]
+    },
+    {
+      "id": "DEDICATION;1",
+      "header": "§9Dedication I",
+      "effect": [
+        "§7Grants §60.5 Farming Fortune §7for",
+        "§7crops, multiplied by your §aGarden",
+        "§7milestone for that crop."
+      ]
+    },
+    {
+      "id": "DEDICATION;2",
+      "header": "§9Dedication II",
+      "effect": [
+        "§7Grants §60.75 Farming Fortune §7for",
+        "§7crops, multiplied by your §aGarden",
+        "§7milestone for that crop."
+      ]
+    },
+    {
+      "id": "DEDICATION;3",
+      "header": "§9Dedication III",
+      "effect": [
+        "§7Grants §61 Farming Fortune §7for",
+        "§7crops, multiplied by your §aGarden",
+        "§7milestone for that crop."
+      ]
+    },
+    {
+      "id": "DEDICATION;4",
+      "header": "§9Dedication IV",
+      "effect": [
+        "§7Grants §62 Farming Fortune §7for",
+        "§7crops, multiplied by your §aGarden",
+        "§7milestone for that crop."
+      ]
+    },
+    {
+      "id": "DELICATE;5",
+      "header": "§9Delicate V",
+      "effect": [
+        "§7Avoids breaking stems and baby",
+        "§7crops."
+      ]
+    },
+    {
+      "id": "DEPTH_STRIDER;1",
+      "header": "§9Depth Strider I",
+      "effect": [
+        "§7Reduces how much you are slowed",
+        "§7in the water by §a33%§7."
+      ]
+    },
+    {
+      "id": "DEPTH_STRIDER;2",
+      "header": "§9Depth Strider II",
+      "effect": [
+        "§7Reduces how much you are slowed",
+        "§7in the water by §a67%§7."
+      ]
+    },
+    {
+      "id": "DEPTH_STRIDER;3",
+      "header": "§9Depth Strider III",
+      "effect": [
+        "§7Reduces how much you are slowed",
+        "§7in the water by §a100%§7."
+      ]
+    },
+    {
+      "id": "DIVINE_GIFT;1",
+      "header": "§9Divine Gift I",
+      "effect": [
+        "§7Grants §b+2 Magic Find."
+      ]
+    },
+    {
+      "id": "DIVINE_GIFT;2",
+      "header": "§9Divine Gift II",
+      "effect": [
+        "§7Grants §b+4 Magic Find."
+      ]
+    },
+    {
+      "id": "DIVINE_GIFT;3",
+      "header": "§9Divine Gift III",
+      "effect": [
+        "§7Grants §b+6 Magic Find."
+      ]
+    },
+    {
+      "id": "DRAGON_HUNTER;1",
+      "header": "§9Gravity I",
+      "effect": [
+        "§7Increases damage dealt to ✈",
+        "§7Airborne mobs by §a5%§7."
+      ]
+    },
+    {
+      "id": "DRAGON_HUNTER;2",
+      "header": "§9Gravity II",
+      "effect": [
+        "§7Increases damage dealt to ✈",
+        "§7Airborne mobs by §a10%§7."
+      ]
+    },
+    {
+      "id": "DRAGON_HUNTER;3",
+      "header": "§9Gravity III",
+      "effect": [
+        "§7Increases damage dealt to ✈",
+        "§7Airborne mobs by §a15%§7."
+      ]
+    },
+    {
+      "id": "DRAGON_HUNTER;4",
+      "header": "§9Gravity IV",
+      "effect": [
+        "§7Increases damage dealt to ✈",
+        "§7Airborne mobs by §a20%§7."
+      ]
+    },
+    {
+      "id": "DRAGON_HUNTER;5",
+      "header": "§9Gravity V",
+      "effect": [
+        "§7Increases damage dealt to ✈",
+        "§7Airborne mobs by §a30%§7."
+      ]
+    },
+    {
+      "id": "DRAGON_HUNTER;6",
+      "header": "§9Gravity VI",
+      "effect": [
+        "§7Increases damage dealt to ✈",
+        "§7Airborne mobs by §a40%§7."
+      ]
+    },
+    {
+      "id": "EFFICIENCY;1",
+      "header": "§9Efficiency I",
+      "effect": [
+        "§7Increases how quickly your tool",
+        "§7breaks blocks."
+      ]
+    },
+    {
+      "id": "EFFICIENCY;2",
+      "header": "§9Efficiency II",
+      "effect": [
+        "§7Increases how quickly your tool",
+        "§7breaks blocks."
+      ]
+    },
+    {
+      "id": "EFFICIENCY;3",
+      "header": "§9Efficiency III",
+      "effect": [
+        "§7Increases how quickly your tool",
+        "§7breaks blocks."
+      ]
+    },
+    {
+      "id": "EFFICIENCY;4",
+      "header": "§9Efficiency IV",
+      "effect": [
+        "§7Increases how quickly your tool",
+        "§7breaks blocks."
+      ]
+    },
+    {
+      "id": "EFFICIENCY;5",
+      "header": "§9Efficiency V",
+      "effect": [
+        "§7Increases how quickly your tool",
+        "§7breaks blocks."
+      ]
+    },
+    {
+      "id": "ENDER_SLAYER;1",
+      "header": "§9Ender Slayer I",
+      "effect": [
+        "§7Increases damage dealt to §5 Ender",
+        "§7mobs by §a5%§7."
+      ]
+    },
+    {
+      "id": "ENDER_SLAYER;2",
+      "header": "§9Ender Slayer II",
+      "effect": [
+        "§7Increases damage dealt to §5 Ender",
+        "§7mobs by §a10%§7."
+      ]
+    },
+    {
+      "id": "ENDER_SLAYER;3",
+      "header": "§9Ender Slayer III",
+      "effect": [
+        "§7Increases damage dealt to §5 Ender",
+        "§7mobs by §a15%§7."
+      ]
+    },
+    {
+      "id": "ENDER_SLAYER;4",
+      "header": "§9Ender Slayer IV",
+      "effect": [
+        "§7Increases damage dealt to §5 Ender",
+        "§7mobs by §a20%§7."
+      ]
+    },
+    {
+      "id": "ENDER_SLAYER;5",
+      "header": "§9Ender Slayer V",
+      "effect": [
+        "§7Increases damage dealt to §5 Ender",
+        "§7mobs by §a30%§7."
+      ]
+    },
+    {
+      "id": "ENDER_SLAYER;6",
+      "header": "§9Ender Slayer VI",
+      "effect": [
+        "§7Increases damage dealt to §5 Ender",
+        "§7mobs by §a40%§7."
+      ]
+    },
+    {
+      "id": "ENDER_SLAYER;7",
+      "header": "§9Ender Slayer VII",
+      "effect": [
+        "§7Increases damage dealt to §5 Ender",
+        "§7mobs by §a50%§7."
+      ]
+    },
+    {
+      "id": "EXECUTE;1",
+      "header": "§9Execute I",
+      "effect": [
+        "§7Increases damage dealt by §a0.2%",
+        "§7for each percent of health",
+        "§7missing on your target."
+      ]
+    },
+    {
+      "id": "EXECUTE;2",
+      "header": "§9Execute II",
+      "effect": [
+        "§7Increases damage dealt by §a0.4%",
+        "§7for each percent of health",
+        "§7missing on your target."
+      ]
+    },
+    {
+      "id": "EXECUTE;3",
+      "header": "§9Execute III",
+      "effect": [
+        "§7Increases damage dealt by §a0.6%",
+        "§7for each percent of health",
+        "§7missing on your target."
+      ]
+    },
+    {
+      "id": "EXECUTE;4",
+      "header": "§9Execute IV",
+      "effect": [
+        "§7Increases damage dealt by §a0.8%",
+        "§7for each percent of health",
+        "§7missing on your target."
+      ]
+    },
+    {
+      "id": "EXECUTE;5",
+      "header": "§9Execute V",
+      "effect": [
+        "§7Increases damage dealt by §a1%",
+        "§7for each percent of health",
+        "§7missing on your target."
+      ]
+    },
+    {
+      "id": "EXECUTE;6",
+      "header": "§9Execute VI",
+      "effect": [
+        "§7Increases damage dealt by §a1.25%",
+        "§7for each percent of health",
+        "§7missing on your target."
+      ]
+    },
+    {
+      "id": "EXPERIENCE;1",
+      "header": "§9Experience I",
+      "effect": [
+        "§7Grants a §a12.5% §7chance for mobs",
+        "§7and ores to drop double",
+        "§7experience."
+      ]
+    },
+    {
+      "id": "EXPERIENCE;2",
+      "header": "§9Experience II",
+      "effect": [
+        "§7Grants a §a25% §7chance for mobs",
+        "§7and ores to drop double",
+        "§7experience."
+      ]
+    },
+    {
+      "id": "EXPERIENCE;3",
+      "header": "§9Experience III",
+      "effect": [
+        "§7Grants a §a37.5% §7chance for",
+        "§7mobs and ores to drop double",
+        "§7experience."
+      ]
+    },
+    {
+      "id": "EXPERIENCE;4",
+      "header": "§9Experience IV",
+      "effect": [
+        "§7Grants a §a50% §7chance for mobs",
+        "§7and ores to drop double",
+        "§7experience."
+      ]
+    },
+    {
+      "id": "EXPERIENCE;5",
+      "header": "§9Experience V",
+      "effect": [
+        "§7Grants a §a62.5% §7chance for",
+        "§7mobs and ores to drop double",
+        "§7experience."
+      ]
+    },
+    {
+      "id": "EXPERTISE;1",
+      "header": "§9Expertise I",
+      "effect": [
+        "§7Grants §3+0.6 Sea Creature",
+        "§3Chance §7and §3+2☯ Fishing",
+        "§3Wisdom §7when killing Sea",
+        "§7Creatures."
+      ]
+    },
+    {
+      "id": "FEAST;1",
+      "header": "§9Feast I",
+      "effect": [
+        "§7Grants §e+2 Overbloom§7."
+      ]
+    },
+    {
+      "id": "FEAST;2",
+      "header": "§9Feast II",
+      "effect": [
+        "§7Grants §e+4 Overbloom§7."
+      ]
+    },
+    {
+      "id": "FEAST;3",
+      "header": "§9Feast III",
+      "effect": [
+        "§7Grants §e+6 Overbloom§7."
+      ]
+    },
+    {
+      "id": "FEAST;4",
+      "header": "§9Feast IV",
+      "effect": [
+        "§7Grants §e+8 Overbloom§7."
+      ]
+    },
+    {
+      "id": "FEAST;5",
+      "header": "§9Feast V",
+      "effect": [
+        "§7Grants §e+10 Overbloom§7."
+      ]
+    },
+    {
+      "id": "FEATHER_FALLING;1",
+      "header": "§9Feather Falling I",
+      "effect": [
+        "§7Increases how high you can fall",
+        "§7before taking fall damage by",
+        "§a1§7 and reduces fall damage by",
+        "§a5%§7."
+      ]
+    },
+    {
+      "id": "FEATHER_FALLING;10",
+      "header": "§9Feather Falling X",
+      "effect": [
+        "§7Increases how high you can fall",
+        "§7before taking fall damage by",
+        "§a10§7 and reduces fall damage",
+        "§7by §a50%§7."
+      ]
+    },
+    {
+      "id": "FEATHER_FALLING;2",
+      "header": "§9Feather Falling II",
+      "effect": [
+        "§7Increases how high you can fall",
+        "§7before taking fall damage by",
+        "§a2§7 and reduces fall damage by",
+        "§a10%§7."
+      ]
+    },
+    {
+      "id": "FEATHER_FALLING;3",
+      "header": "§9Feather Falling III",
+      "effect": [
+        "§7Increases how high you can fall",
+        "§7before taking fall damage by",
+        "§a3§7 and reduces fall damage by",
+        "§a15%§7."
+      ]
+    },
+    {
+      "id": "FEATHER_FALLING;4",
+      "header": "§9Feather Falling IV",
+      "effect": [
+        "§7Increases how high you can fall",
+        "§7before taking fall damage by",
+        "§a4§7 and reduces fall damage by",
+        "§a20%§7."
+      ]
+    },
+    {
+      "id": "FEATHER_FALLING;5",
+      "header": "§9Feather Falling V",
+      "effect": [
+        "§7Increases how high you can fall",
+        "§7before taking fall damage by",
+        "§a5§7 and reduces fall damage by",
+        "§a25%§7."
+      ]
+    },
+    {
+      "id": "FEATHER_FALLING;6",
+      "header": "§9Feather Falling VI",
+      "effect": [
+        "§7Increases how high you can fall",
+        "§7before taking fall damage by",
+        "§a6§7 and reduces fall damage by",
+        "§a30%§7."
+      ]
+    },
+    {
+      "id": "FEATHER_FALLING;7",
+      "header": "§9Feather Falling VII",
+      "effect": [
+        "§7Increases how high you can fall",
+        "§7before taking fall damage by",
+        "§a7§7 and reduces fall damage by",
+        "§a35%§7."
+      ]
+    },
+    {
+      "id": "FEATHER_FALLING;8",
+      "header": "§9Feather Falling VIII",
+      "effect": [
+        "§7Increases how high you can fall",
+        "§7before taking fall damage by",
+        "§a8§7 and reduces fall damage by",
+        "§a40%§7."
+      ]
+    },
+    {
+      "id": "FEATHER_FALLING;9",
+      "header": "§9Feather Falling IX",
+      "effect": [
+        "§7Increases how high you can fall",
+        "§7before taking fall damage by",
+        "§a9§7 and reduces fall damage by",
+        "§a45%§7."
+      ]
+    },
+    {
+      "id": "FEROCIOUS_MANA;1",
+      "header": "§9Vivacious Vitality I",
+      "effect": [
+        "§7Convert §a1% §7of §4 Vitality §7used as §e",
+        "§eAttack Speed §7for §a10s§7. §8(Max 5",
+        "§8Attack Speed)."
+      ]
+    },
+    {
+      "id": "FEROCIOUS_MANA;10",
+      "header": "§9Vivacious Vitality X",
+      "effect": [
+        "§7Convert §a10% §7of §4 Vitality §7used as §e",
+        "§eAttack Speed §7for §a10s§7. §8(Max 5",
+        "§8Attack Speed)."
+      ]
+    },
+    {
+      "id": "FEROCIOUS_MANA;2",
+      "header": "§9Vivacious Vitality II",
+      "effect": [
+        "§7Convert §a2% §7of §4 Vitality §7used as §e",
+        "§eAttack Speed §7for §a10s§7. §8(Max 5",
+        "§8Attack Speed)."
+      ]
+    },
+    {
+      "id": "FEROCIOUS_MANA;3",
+      "header": "§9Vivacious Vitality III",
+      "effect": [
+        "§7Convert §a3% §7of §4 Vitality §7used as §e",
+        "§eAttack Speed §7for §a10s§7. §8(Max 5",
+        "§8Attack Speed)."
+      ]
+    },
+    {
+      "id": "FEROCIOUS_MANA;4",
+      "header": "§9Vivacious Vitality IV",
+      "effect": [
+        "§7Convert §a4% §7of §4 Vitality §7used as §e",
+        "§eAttack Speed §7for §a10s§7. §8(Max 5",
+        "§8Attack Speed)."
+      ]
+    },
+    {
+      "id": "FEROCIOUS_MANA;5",
+      "header": "§9Vivacious Vitality V",
+      "effect": [
+        "§7Convert §a5% §7of §4 Vitality §7used as §e",
+        "§eAttack Speed §7for §a10s§7. §8(Max 5",
+        "§8Attack Speed)."
+      ]
+    },
+    {
+      "id": "FEROCIOUS_MANA;6",
+      "header": "§9Vivacious Vitality VI",
+      "effect": [
+        "§7Convert §a6% §7of §4 Vitality §7used as §e",
+        "§eAttack Speed §7for §a10s§7. §8(Max 5",
+        "§8Attack Speed)."
+      ]
+    },
+    {
+      "id": "FEROCIOUS_MANA;7",
+      "header": "§9Vivacious Vitality VII",
+      "effect": [
+        "§7Convert §a7% §7of §4 Vitality §7used as §e",
+        "§eAttack Speed §7for §a10s§7. §8(Max 5",
+        "§8Attack Speed)."
+      ]
+    },
+    {
+      "id": "FEROCIOUS_MANA;8",
+      "header": "§9Vivacious Vitality VIII",
+      "effect": [
+        "§7Convert §a8% §7of §4 Vitality §7used as §e",
+        "§eAttack Speed §7for §a10s§7. §8(Max 5",
+        "§8Attack Speed)."
+      ]
+    },
+    {
+      "id": "FEROCIOUS_MANA;9",
+      "header": "§9Vivacious Vitality IX",
+      "effect": [
+        "§7Convert §a9% §7of §4 Vitality §7used as §e",
+        "§eAttack Speed §7for §a10s§7. §8(Max 5",
+        "§8Attack Speed)."
+      ]
+    },
+    {
+      "id": "FIRE_ASPECT;1",
+      "header": "§9Fire Aspect I",
+      "effect": [
+        "§7Ignites your enemies for §a3s§7,",
+        "§7dealing §a3% §7of your damage",
+        "§7per second."
+      ]
+    },
+    {
+      "id": "FIRE_ASPECT;2",
+      "header": "§9Fire Aspect II",
+      "effect": [
+        "§7Ignites your enemies for §a4s§7,",
+        "§7dealing §a6% §7of your damage",
+        "§7per second."
+      ]
+    },
+    {
+      "id": "FIRE_ASPECT;3",
+      "header": "§9Fire Aspect III",
+      "effect": [
+        "§7Ignites your enemies for §a4s§7,",
+        "§7dealing §a9% §7of your damage",
+        "§7per second."
+      ]
+    },
+    {
+      "id": "FIRE_PROTECTION;1",
+      "header": "§9Fire Protection I",
+      "effect": [
+        "§7Grants §f+2 True Defense §7against",
+        "§7fire and lava."
+      ]
+    },
+    {
+      "id": "FIRE_PROTECTION;2",
+      "header": "§9Fire Protection II",
+      "effect": [
+        "§7Grants §f+4 True Defense §7against",
+        "§7fire and lava."
+      ]
+    },
+    {
+      "id": "FIRE_PROTECTION;3",
+      "header": "§9Fire Protection III",
+      "effect": [
+        "§7Grants §f+6 True Defense §7against",
+        "§7fire and lava."
+      ]
+    },
+    {
+      "id": "FIRE_PROTECTION;4",
+      "header": "§9Fire Protection IV",
+      "effect": [
+        "§7Grants §f+8 True Defense §7against",
+        "§7fire and lava."
+      ]
+    },
+    {
+      "id": "FIRE_PROTECTION;5",
+      "header": "§9Fire Protection V",
+      "effect": [
+        "§7Grants §f+10 True Defense §7against",
+        "§7fire and lava."
+      ]
+    },
+    {
+      "id": "FIRE_PROTECTION;6",
+      "header": "§9Fire Protection VI",
+      "effect": [
+        "§7Grants §f+12 True Defense §7against",
+        "§7fire and lava."
+      ]
+    },
+    {
+      "id": "FIRE_PROTECTION;7",
+      "header": "§9Fire Protection VII",
+      "effect": [
+        "§7Grants §f+14 True Defense §7against",
+        "§fire and lava."
+      ]
+    },
+    {
+      "id": "FIRST_STRIKE;1",
+      "header": "§9First Strike I",
+      "effect": [
+        "§7Increases melee damage dealt by",
+        "§a25% §7for the first hit on a",
+        "§7mob."
+      ]
+    },
+    {
+      "id": "FIRST_STRIKE;2",
+      "header": "§9First Strike II",
+      "effect": [
+        "§7Increases melee damage dealt by",
+        "§a50% §7for the first hit on a",
+        "§7mob."
+      ]
+    },
+    {
+      "id": "FIRST_STRIKE;3",
+      "header": "§9First Strike III",
+      "effect": [
+        "§7Increases melee damage dealt by",
+        "§a75% §7for the first hit on a",
+        "§7mob."
+      ]
+    },
+    {
+      "id": "FIRST_STRIKE;4",
+      "header": "§9First Strike IV",
+      "effect": [
+        "§7Increases melee damage dealt by",
+        "§a100% §7for the first hit on a",
+        "§7mob."
+      ]
+    },
+    {
+      "id": "FIRST_STRIKE;5",
+      "header": "§9First Strike V",
+      "effect": [
+        "§7Increases melee damage dealt by",
+        "§a125% §7for the first hit on a",
+        "§7mob."
+      ]
+    },
+    {
+      "id": "FLAME;1",
+      "header": "§9Flame I",
+      "effect": [
+        "§7Arrows ignite your enemies for",
+        "§a3s§7."
+      ]
+    },
+    {
+      "id": "FLAME;2",
+      "header": "§9Flame II",
+      "effect": [
+        "§7Arrows ignite your enemies for",
+        "§a4s§7."
+      ]
+    },
+    {
+      "id": "FOREST_PLEDGE;3",
+      "header": "§9Forest Pledge III",
+      "effect": [
+        "§7Grants §6+6 Foraging Fortune§7."
+      ]
+    },
+    {
+      "id": "FOREST_PLEDGE;4",
+      "header": "§9Forest Pledge IV",
+      "effect": [
+        "§7Grants §6+8 Foraging Fortune§7."
+      ]
+    },
+    {
+      "id": "FOREST_PLEDGE;5",
+      "header": "§9Forest Pledge V",
+      "effect": [
+        "§7Grants §6+10 Foraging Fortune§7."
+      ]
+    },
+    {
+      "id": "FOREST_PLEDGE;6",
+      "header": "§9Forest Pledge VI",
+      "effect": [
+        "§7Grants §6+12 Foraging Fortune§7."
+      ]
+    },
+    {
+      "id": "FORTUNE;1",
+      "header": "§9Fortune I",
+      "effect": [
+        "§7Grants §a+10 §6☘ Mining",
+        "§6Fortune§7, which increases your",
+        "§7chance for multiple drops."
+      ]
+    },
+    {
+      "id": "FORTUNE;2",
+      "header": "§9Fortune II",
+      "effect": [
+        "§7Grants §a+20 §6☘ Mining",
+        "§6Fortune§7, which increases your",
+        "§7chance for multiple drops."
+      ]
+    },
+    {
+      "id": "FORTUNE;3",
+      "header": "§9Fortune III",
+      "effect": [
+        "§7Grants §a+30 §6☘ Mining",
+        "§6Fortune§7, which increases your",
+        "§7chance for multiple drops."
+      ]
+    },
+    {
+      "id": "FORTUNE;4",
+      "header": "§9Fortune IV",
+      "effect": [
+        "§7Grants §a+45 §6☘ Mining",
+        "§6Fortune§7, which increases your",
+        "§7chance for multiple drops."
+      ]
+    },
+    {
+      "id": "FRAIL;1",
+      "header": "§9Frail I",
+      "effect": [
+        "§7Sea creatures start with §a2.5%",
+        "§7reduced health."
+      ]
+    },
+    {
+      "id": "FRAIL;2",
+      "header": "§9Frail II",
+      "effect": [
+        "§7Sea creatures start with §a5%",
+        "§7reduced health."
+      ]
+    },
+    {
+      "id": "FRAIL;3",
+      "header": "§9Frail III",
+      "effect": [
+        "§7Sea creatures start with §a7.5%",
+        "§7reduced health."
+      ]
+    },
+    {
+      "id": "FRAIL;4",
+      "header": "§9Frail IV",
+      "effect": [
+        "§7Sea creatures start with §a10%",
+        "§7reduced health."
+      ]
+    },
+    {
+      "id": "FRAIL;5",
+      "header": "§9Frail V",
+      "effect": [
+        "§7Sea creatures start with §a12.5%",
+        "§7reduced health."
+      ]
+    },
+    {
+      "id": "FRAIL;6",
+      "header": "§9Frail VI",
+      "effect": [
+        "§7Sea creatures start with §a15%",
+        "§7reduced health."
+      ]
+    },
+    {
+      "id": "FRAIL;7",
+      "header": "§9Frail VII",
+      "effect": [
+        "§7Sea creatures start with §a17.5%",
+        "§7reduced health."
+      ]
+    },
+    {
+      "id": "FROST_WALKER;1",
+      "header": "§9Frost Walker I",
+      "effect": [
+        "§7Ice blocks will be created below",
+        "§7you when you walk above water in",
+        "§7a radius of §a1 §7blocks."
+      ]
+    },
+    {
+      "id": "FROST_WALKER;2",
+      "header": "§9Frost Walker II",
+      "effect": [
+        "§7Ice blocks will be created below",
+        "§7you when you walk above water in",
+        "§7a radius of §a2 §7blocks."
+      ]
+    },
+    {
+      "id": "GIANT_KILLER;1",
+      "header": "§9Giant Killer I",
+      "effect": [
+        "§7Increases damage dealt by §a0.1%",
+        "§7for each percent of extra",
+        "§7health that your target has",
+        "§7above you up to §a5%§7."
+      ]
+    },
+    {
+      "id": "GIANT_KILLER;2",
+      "header": "§9Giant Killer II",
+      "effect": [
+        "§7Increases damage dealt by §a0.2%",
+        "§7for each percent of extra",
+        "§7health that your target has",
+        "§7above you up to §a10%§7."
+      ]
+    },
+    {
+      "id": "GIANT_KILLER;3",
+      "header": "§9Giant Killer III",
+      "effect": [
+        "§7Increases damage dealt by §a0.3%",
+        "§7for each percent of extra",
+        "§7health that your target has",
+        "§7above you up to §a15%§7."
+      ]
+    },
+    {
+      "id": "GIANT_KILLER;4",
+      "header": "§9Giant Killer IV",
+      "effect": [
+        "§7Increases damage dealt by §a0.4%",
+        "§7for each percent of extra",
+        "§7health that your target has",
+        "§7above you up to §a20%§7."
+      ]
+    },
+    {
+      "id": "GIANT_KILLER;5",
+      "header": "§9Giant Killer V",
+      "effect": [
+        "§7Increases damage dealt by §a0.6%",
+        "§7for each percent of extra",
+        "§7health that your target has",
+        "§7above you up to §a30%§7."
+      ]
+    },
+    {
+      "id": "GIANT_KILLER;6",
+      "header": "§9Giant Killer VI",
+      "effect": [
+        "§7Increases damage dealt by §a0.9%",
+        "§7for each percent of extra",
+        "§7health that your target has",
+        "§7above you up to §a45%§7."
+      ]
+    },
+    {
+      "id": "GIANT_KILLER;7",
+      "header": "§9Giant Killer VII",
+      "effect": [
+        "§7Increases damage dealt by §a1.2%",
+        "§7for each percent of extra",
+        "§7health that your target has",
+        "§7above you up to §a65%§7."
+      ]
+    },
+    {
+      "id": "GREAT_SPOOK;1",
+      "header": "§9Great Spook I",
+      "effect": [
+        "§7Grants §a+1 §5Fear §7on §5Great Spook",
+        "§5Armor§7."
+      ]
+    },
+    {
+      "id": "GREEN_THUMB;1",
+      "header": "§9Green Thumb I",
+      "effect": [
+        "§7Grants §60.05 Farming Fortune",
+        "§7per unique visitor served."
+      ]
+    },
+    {
+      "id": "GREEN_THUMB;2",
+      "header": "§9Green Thumb II",
+      "effect": [
+        "§7Grants §60.1 Farming Fortune",
+        "§7per unique visitor served."
+      ]
+    },
+    {
+      "id": "GREEN_THUMB;3",
+      "header": "§9Green Thumb III",
+      "effect": [
+        "§7Grants §60.15 Farming Fortune",
+        "§7per unique visitor served."
+      ]
+    },
+    {
+      "id": "GREEN_THUMB;4",
+      "header": "§9Green Thumb IV",
+      "effect": [
+        "§7Grants §60.2 Farming Fortune",
+        "§7per unique visitor served."
+      ]
+    },
+    {
+      "id": "GREEN_THUMB;5",
+      "header": "§9Green Thumb V",
+      "effect": [
+        "§7Grants §60.25 Farming Fortune",
+        "§7per unique visitor served."
+      ]
+    },
+    {
+      "id": "GROWTH;1",
+      "header": "§9Growth I",
+      "effect": [
+        "§7Grants §a+15 §c Health§7."
+      ]
+    },
+    {
+      "id": "GROWTH;2",
+      "header": "§9Growth II",
+      "effect": [
+        "§7Grants §a+30 §c Health§7."
+      ]
+    },
+    {
+      "id": "GROWTH;3",
+      "header": "§9Growth III",
+      "effect": [
+        "§7Grants §a+45 §c Health§7."
+      ]
+    },
+    {
+      "id": "GROWTH;4",
+      "header": "§9Growth IV",
+      "effect": [
+        "§7Grants §a+60 §c Health§7."
+      ]
+    },
+    {
+      "id": "GROWTH;5",
+      "header": "§9Growth V",
+      "effect": [
+        "§7Grants §a+75 §c Health§7."
+      ]
+    },
+    {
+      "id": "GROWTH;6",
+      "header": "§9Growth VI",
+      "effect": [
+        "§7Grants §a+90 §c Health§7."
+      ]
+    },
+    {
+      "id": "GROWTH;7",
+      "header": "§9Growth VII",
+      "effect": [
+        "§7Grants §a+105 §c Health§7."
+      ]
+    },
+    {
+      "id": "HARDENED_MANA;1",
+      "header": "§9Hardened Vitality I",
+      "effect": [
+        "§7Convert §a4% §7of §4 Vitality §7used as §a",
+        "§aDefense §7for §a10s§7. §8(Max 25 Defense)."
+      ]
+    },
+    {
+      "id": "HARDENED_MANA;10",
+      "header": "§9Hardened Vitality X",
+      "effect": [
+        "§7Convert §a40% §7of §4 Vitality §7used as §a",
+        "§aDefense §7for §a10s§7. §8(Max 25 Defense)."
+      ]
+    },
+    {
+      "id": "HARDENED_MANA;2",
+      "header": "§9Hardened Vitality II",
+      "effect": [
+        "§7Convert §a8% §7of §4 Vitality §7used as §a",
+        "§aDefense §7for §a10s§7. §8(Max 25 Defense)."
+      ]
+    },
+    {
+      "id": "HARDENED_MANA;3",
+      "header": "§9Hardened Vitality III",
+      "effect": [
+        "§7Convert §a12% §7of §4 Vitality §7used as §a",
+        "§aDefense §7for §a10s§7. §8(Max 25 Defense)."
+      ]
+    },
+    {
+      "id": "HARDENED_MANA;4",
+      "header": "§9Hardened Vitality IV",
+      "effect": [
+        "§7Convert §a16% §7of §4 Vitality §7used as §a",
+        "§aDefense §7for §a10s§7. §8(Max 25 Defense)."
+      ]
+    },
+    {
+      "id": "HARDENED_MANA;5",
+      "header": "§9Hardened Vitality V",
+      "effect": [
+        "§7Convert §a20% §7of §4 Vitality §7used as §a",
+        "§aDefense §7for §a10s§7. §8(Max 25 Defense)."
+      ]
+    },
+    {
+      "id": "HARDENED_MANA;6",
+      "header": "§9Hardened Vitality VI",
+      "effect": [
+        "§7Convert §a24% §7of §4 Vitality §7used as §a",
+        "§aDefense §7for §a10s§7. §8(Max 25 Defense)."
+      ]
+    },
+    {
+      "id": "HARDENED_MANA;7",
+      "header": "§9Hardened Vitality VII",
+      "effect": [
+        "§7Convert §a28% §7of §4 Vitality §7used as §a",
+        "§aDefense §7for §a10s§7. §8(Max 25 Defense)."
+      ]
+    },
+    {
+      "id": "HARDENED_MANA;8",
+      "header": "§9Hardened Vitality VIII",
+      "effect": [
+        "§7Convert §a32% §7of §4 Vitality §7used as §a",
+        "§aDefense §7for §a10s§7. §8(Max 25 Defense)."
+      ]
+    },
+    {
+      "id": "HARDENED_MANA;9",
+      "header": "§9Hardened Vitality IX",
+      "effect": [
+        "§7Convert §a36% §7of §4 Vitality §7used as §a",
+        "§aDefense §7for §a10s§7. §8(Max 25 Defense)."
+      ]
+    },
+    {
+      "id": "HARVESTING;1",
+      "header": "§9Harvesting I",
+      "effect": [
+        "§7Grants §a+12.5 §6☘ Farming",
+        "§6Fortune§7, which increases your",
+        "§7chance for multiple crops."
+      ]
+    },
+    {
+      "id": "HARVESTING;2",
+      "header": "§9Harvesting II",
+      "effect": [
+        "§7Grants §a+25 §6☘ Farming",
+        "§6Fortune§7, which increases your",
+        "§7chance for multiple crops."
+      ]
+    },
+    {
+      "id": "HARVESTING;3",
+      "header": "§9Harvesting III",
+      "effect": [
+        "§7Grants §a+50 §6☘ Farming",
+        "§6Fortune§7, which increases your",
+        "§7chance for multiple crops."
+      ]
+    },
+    {
+      "id": "HARVESTING;4",
+      "header": "§9Harvesting IV",
+      "effect": [
+        "§7Grants §a+37.5 §6☘ Farming",
+        "§6Fortune§7, which increases your",
+        "§7chance for multiple crops."
+      ]
+    },
+    {
+      "id": "HARVESTING;5",
+      "header": "§9Harvesting V",
+      "effect": [
+        "§7Grants §a+62.5 §6☘ Farming",
+        "§6Fortune§7, which increases your",
+        "§7chance for multiple crops."
+      ]
+    },
+    {
+      "id": "HARVESTING;6",
+      "header": "§9Harvesting VI",
+      "effect": [
+        "§7Grants §a+75 §6☘ Farming",
+        "§6Fortune§7, which increases your",
+        "§7chance for multiple crops."
+      ]
+    },
+    {
+      "id": "HECATOMB;1",
+      "header": "§9Hecatomb I",
+      "effect": [
+        "§7Gain §a+0.28% §cCatacombs §7XP & §a+0.56%",
+        "§3Class §7XP, doubled on §b§lS+ §7runs.",
+        "§7Grants §c+2.6❤ §7per 10 §cCatacombs §7levels."
+      ]
+    },
+    {
+      "id": "ICE_COLD;1",
+      "header": "§9Ice Cold I",
+      "effect": [
+        "§7Grants §b+1 Cold Resistance§7."
+      ]
+    },
+    {
+      "id": "ICE_COLD;2",
+      "header": "§9Ice Cold II",
+      "effect": [
+        "§7Grants §b+2 Cold Resistance§7."
+      ]
+    },
+    {
+      "id": "ICE_COLD;3",
+      "header": "§9Ice Cold III",
+      "effect": [
+        "§7Grants §b+3 Cold Resistance§7."
+      ]
+    },
+    {
+      "id": "ICE_COLD;4",
+      "header": "§9Ice Cold IV",
+      "effect": [
+        "§7Grants §b+4 Cold Resistance§7."
+      ]
+    },
+    {
+      "id": "ICE_COLD;5",
+      "header": "§9Ice Cold V",
+      "effect": [
+        "§7Grants §b+5 Cold Resistance§7."
+      ]
+    },
+    {
+      "id": "IMPALING;1",
+      "header": "§9Impaling I",
+      "effect": [
+        "§7Increases damage dealt to §9⚓",
+        "§9Aquatic§7 mobs by §a5%§7."
+      ]
+    },
+    {
+      "id": "IMPALING;2",
+      "header": "§9Impaling II",
+      "effect": [
+        "§7Increases damage dealt to §9⚓",
+        "§9Aquatic§7 mobs by §a10%§7."
+      ]
+    },
+    {
+      "id": "IMPALING;3",
+      "header": "§9Impaling III",
+      "effect": [
+        "§7Increases damage dealt to §9⚓",
+        "§9Aquatic§7 mobs by §a15%§7."
+      ]
+    },
+    {
+      "id": "IMPALING;4",
+      "header": "§9Impaling IV",
+      "effect": [
+        "§7Increases damage dealt to §9⚓",
+        "§9Aquatic§7 mobs by §a20%§7."
+      ]
+    },
+    {
+      "id": "IMPALING;5",
+      "header": "§9Impaling V",
+      "effect": [
+        "§7Increases damage dealt to §9⚓",
+        "§9Aquatic§7 mobs by §a30%§7."
+      ]
+    },
+    {
+      "id": "INFINITE_QUIVER;1",
+      "header": "§9Infinite Quiver I",
+      "effect": [
+        "§7Saves arrows §a3%§7 of the time",
+        "§7when you fire your bow."
+      ]
+    },
+    {
+      "id": "INFINITE_QUIVER;10",
+      "header": "§9Infinite Quiver X",
+      "effect": [
+        "§7Saves arrows §a30%§7 of the time",
+        "§7when you fire your bow."
+      ]
+    },
+    {
+      "id": "INFINITE_QUIVER;2",
+      "header": "§9Infinite Quiver II",
+      "effect": [
+        "§7Saves arrows §a6%§7 of the time",
+        "§7when you fire your bow."
+      ]
+    },
+    {
+      "id": "INFINITE_QUIVER;3",
+      "header": "§9Infinite Quiver III",
+      "effect": [
+        "§7Saves arrows §a9%§7 of the time",
+        "§7when you fire your bow."
+      ]
+    },
+    {
+      "id": "INFINITE_QUIVER;4",
+      "header": "§9Infinite Quiver IV",
+      "effect": [
+        "§7Saves arrows §a12%§7 of the time",
+        "§7when you fire your bow."
+      ]
+    },
+    {
+      "id": "INFINITE_QUIVER;5",
+      "header": "§9Infinite Quiver V",
+      "effect": [
+        "§7Saves arrows §a15%§7 of the time",
+        "§7when you fire your bow."
+      ]
+    },
+    {
+      "id": "INFINITE_QUIVER;6",
+      "header": "§9Infinite Quiver VI",
+      "effect": [
+        "§7Saves arrows §a18%§7 of the time",
+        "§7when you fire your bow."
+      ]
+    },
+    {
+      "id": "INFINITE_QUIVER;7",
+      "header": "§9Infinite Quiver VII",
+      "effect": [
+        "§7Saves arrows §a21%§7 of the time",
+        "§7when you fire your bow."
+      ]
+    },
+    {
+      "id": "INFINITE_QUIVER;8",
+      "header": "§9Infinite Quiver VIII",
+      "effect": [
+        "§7Saves arrows §a24%§7 of the time",
+        "§7when you fire your bow."
+      ]
+    },
+    {
+      "id": "INFINITE_QUIVER;9",
+      "header": "§9Infinite Quiver IX",
+      "effect": [
+        "§7Saves arrows §a27%§7 of the time",
+        "§7when you fire your bow."
+      ]
+    },
+    {
+      "id": "KARMA;1",
+      "header": "§9Karma I",
+      "effect": [
+        "§7Grants a §a1% §7chance for §2Tree Gifts",
+        "§7to contain double loot."
+      ]
+    },
+    {
+      "id": "KARMA;2",
+      "header": "§9Karma II",
+      "effect": [
+        "§7Grants a §a2% §7chance for §2Tree Gifts",
+        "§7to contain double loot."
+      ]
+    },
+    {
+      "id": "KARMA;3",
+      "header": "§9Karma III",
+      "effect": [
+        "§7Grants a §a3% §7chance for §2Tree Gifts",
+        "§7to contain double loot."
+      ]
+    },
+    {
+      "id": "KARMA;4",
+      "header": "§9Karma IV",
+      "effect": [
+        "§7Grants a §a4% §7chance for §2Tree Gifts",
+        "§7to contain double loot."
+      ]
+    },
+    {
+      "id": "KARMA;5",
+      "header": "§9Karma V",
+      "effect": [
+        "§7Grants a §a5% §7chance for §2Tree Gifts",
+        "§7to contain double loot."
+      ]
+    },
+    {
+      "id": "KNOCKBACK;1",
+      "header": "§9Knockback I",
+      "effect": [
+        "§7Increases knockback by §a3",
+        "§7blocks."
+      ]
+    },
+    {
+      "id": "KNOCKBACK;2",
+      "header": "§9Knockback II",
+      "effect": [
+        "§7Increases knockback by §a6",
+        "§7blocks."
+      ]
+    },
+    {
+      "id": "LAPIDARY;1",
+      "header": "§9Lapidary I",
+      "effect": [
+        "§7Grants §6+10 Gemstone Fortune §7and",
+        "§6+20 Mining Speed §7while mining",
+        "§7Gemstones."
+      ]
+    },
+    {
+      "id": "LAPIDARY;2",
+      "header": "§9Lapidary II",
+      "effect": [
+        "§7Grants §6+20 Gemstone Fortune §7and",
+        "§6+40 Mining Speed §7while mining",
+        "§7Gemstones."
+      ]
+    },
+    {
+      "id": "LAPIDARY;3",
+      "header": "§9Lapidary III",
+      "effect": [
+        "§7Grants §6+30 Gemstone Fortune §7and",
+        "§6+60 Mining Speed §7while mining",
+        "§7Gemstones."
+      ]
+    },
+    {
+      "id": "LAPIDARY;4",
+      "header": "§9Lapidary IV",
+      "effect": [
+        "§7Grants §6+40 Gemstone Fortune §7and",
+        "§6+80 Mining Speed §7while mining",
+        "§7Gemstones."
+      ]
+    },
+    {
+      "id": "LAPIDARY;5",
+      "header": "§9Lapidary V",
+      "effect": [
+        "§7Grants §6+50 Gemstone Fortune §7and",
+        "§6+100 Mining Speed §7while mining",
+        "§7Gemstones."
+      ]
+    },
+    {
+      "id": "LETHALITY;1",
+      "header": "§9Lethality I",
+      "effect": [
+        "§7Reduces the §a Defense §7of your",
+        "§7target by §a1.2% §7for §64s §7each time you",
+        "§7hit them with melee. Stacks up to §a4",
+        "§7times."
+      ]
+    },
+    {
+      "id": "LETHALITY;2",
+      "header": "§9Lethality II",
+      "effect": [
+        "§7Reduces the §a Defense §7of your",
+        "§7target by §a2.4% §7for §64s §7each time you",
+        "§7hit them with melee. Stacks up to §a4",
+        "§7times."
+      ]
+    },
+    {
+      "id": "LETHALITY;3",
+      "header": "§9Lethality III",
+      "effect": [
+        "§7Reduces the §a Defense §7of your",
+        "§7target by §a3.6% §7for §64s §7each time you",
+        "§7hit them with melee. Stacks up to §a4",
+        "§7times."
+      ]
+    },
+    {
+      "id": "LETHALITY;4",
+      "header": "§9Lethality IV",
+      "effect": [
+        "§7Reduces the §a Defense §7of your",
+        "§7target by §a4.8% §7for §64s §7each time you",
+        "§7hit them with melee. Stacks up to §a4",
+        "§7times."
+      ]
+    },
+    {
+      "id": "LETHALITY;5",
+      "header": "§9Lethality V",
+      "effect": [
+        "§7Reduces the §a Defense §7of your",
+        "§7target by §a6% §7for §64s §7each time you",
+        "§7hit them with melee. Stacks up to §a4",
+        "§7times."
+      ]
+    },
+    {
+      "id": "LETHALITY;6",
+      "header": "§9Lethality VI",
+      "effect": [
+        "§7Reduces the §a Defense §7of your",
+        "§7target by §a9% §7for §64s §7each time you",
+        "§7hit them with melee. Stacks up to §a4",
+        "§7times."
+      ]
+    },
+    {
+      "id": "LIFE_STEAL;1",
+      "header": "§9Life Steal I",
+      "effect": [
+        "§7Heal §c2.4❤ §7every time you hit a mob."
+      ]
+    },
+    {
+      "id": "LIFE_STEAL;2",
+      "header": "§9Life Steal II",
+      "effect": [
+        "§7Heal §c4.8❤ §7every time you hit a mob."
+      ]
+    },
+    {
+      "id": "LIFE_STEAL;3",
+      "header": "§9Life Steal III",
+      "effect": [
+        "§7Heal §c7.2❤ §7every time you hit a mob."
+      ]
+    },
+    {
+      "id": "LIFE_STEAL;4",
+      "header": "§9Life Steal IV",
+      "effect": [
+        "§7Heal §c9.6❤ §7every time you hit a mob."
+      ]
+    },
+    {
+      "id": "LIFE_STEAL;5",
+      "header": "§9Life Steal V",
+      "effect": [
+        "§7Heal §c12❤ §7every time you hit a mob."
+      ]
+    },
+    {
+      "id": "LOOTING;1",
+      "header": "§9Looting I",
+      "effect": [
+        "§7Increases the chance of a",
+        "§7Monster dropping an item by",
+        "§a15%§7."
+      ]
+    },
+    {
+      "id": "LOOTING;2",
+      "header": "§9Looting II",
+      "effect": [
+        "§7Increases the chance of a",
+        "§7Monster dropping an item by",
+        "§a30%§7."
+      ]
+    },
+    {
+      "id": "LOOTING;3",
+      "header": "§9Looting III",
+      "effect": [
+        "§7Increases the chance of a",
+        "§7Monster dropping an item by",
+        "§a45%§7."
+      ]
+    },
+    {
+      "id": "LOOTING;4",
+      "header": "§9Looting IV",
+      "effect": [
+        "§7Increases the chance of a",
+        "§7Monster dropping an item by",
+        "§a60%§7."
+      ]
+    },
+    {
+      "id": "LOOTING;5",
+      "header": "§9Looting V",
+      "effect": [
+        "§7Increases the chance of a",
+        "§7Monster dropping an item by",
+        "§a75%§7."
+      ]
+    },
+    {
+      "id": "LUCK;1",
+      "header": "§9Luck I",
+      "effect": [
+        "§7Increases the chance for",
+        "§7Monsters to drop their armor by",
+        "§a5%"
+      ]
+    },
+    {
+      "id": "LUCK;2",
+      "header": "§9Luck II",
+      "effect": [
+        "§7Increases the chance for",
+        "§7Monsters to drop their armor by",
+        "§a10%"
+      ]
+    },
+    {
+      "id": "LUCK;3",
+      "header": "§9Luck III",
+      "effect": [
+        "§7Increases the chance for",
+        "§7Monsters to drop their armor by",
+        "§a15%"
+      ]
+    },
+    {
+      "id": "LUCK;4",
+      "header": "§9Luck IV",
+      "effect": [
+        "§7Increases the chance for",
+        "§7Monsters to drop their armor by",
+        "§a20%"
+      ]
+    },
+    {
+      "id": "LUCK;5",
+      "header": "§9Luck V",
+      "effect": [
+        "§7Increases the chance for",
+        "§7Monsters to drop their armor by",
+        "§a25%"
+      ]
+    },
+    {
+      "id": "LUCK;6",
+      "header": "§9Luck VI",
+      "effect": [
+        "§7Increases the chance for",
+        "§7Monsters to drop their armor by",
+        "§a30%"
+      ]
+    },
+    {
+      "id": "LUCK;7",
+      "header": "§9Luck VII",
+      "effect": [
+        "§7Increases the chance for",
+        "§7Monsters to drop their armor by",
+        "§a35%"
+      ]
+    },
+    {
+      "id": "LUCK_OF_THE_SEA;1",
+      "header": "§9Luck of the Sea I",
+      "effect": [
+        "§7Grants §6+0.5 Treasure Chance§7, which",
+        "§7increases the chance of fishing",
+        "§7treasure."
+      ]
+    },
+    {
+      "id": "LUCK_OF_THE_SEA;2",
+      "header": "§9Luck of the Sea II",
+      "effect": [
+        "§7Grants §6+1 Treasure Chance§7, which",
+        "§7increases the chance of fishing",
+        "§7treasure."
+      ]
+    },
+    {
+      "id": "LUCK_OF_THE_SEA;3",
+      "header": "§9Luck of the Sea III",
+      "effect": [
+        "§7Grants §6+1.5 Treasure Chance§7, which",
+        "§7increases the chance of fishing",
+        "§7treasure."
+      ]
+    },
+    {
+      "id": "LUCK_OF_THE_SEA;4",
+      "header": "§9Luck of the Sea IV",
+      "effect": [
+        "§7Grants §6+2 Treasure Chance§7, which",
+        "§7increases the chance of fishing",
+        "§7treasure."
+      ]
+    },
+    {
+      "id": "LUCK_OF_THE_SEA;5",
+      "header": "§9Luck of the Sea V",
+      "effect": [
+        "§7Grants §6+2.5 Treasure Chance§7, which",
+        "§7increases the chance of fishing",
+        "§7treasure."
+      ]
+    },
+    {
+      "id": "LUCK_OF_THE_SEA;6",
+      "header": "§9Luck of the Sea VI",
+      "effect": [
+        "§7Grants §6+3 Treasure Chance§7, which",
+        "§7increases the chance of fishing",
+        "§7treasure."
+      ]
+    },
+    {
+      "id": "LUCK_OF_THE_SEA;7",
+      "header": "§9Luck of the Sea VII",
+      "effect": [
+        "§7Grants §6+3.5 Treasure Chance§7, which",
+        "§7increases the chance of fishing",
+        "§7treasure."
+      ]
+    },
+    {
+      "id": "LURE;1",
+      "header": "§9Lure I",
+      "effect": [
+        "§7Shortens the maximum time it",
+        "§7takes to catch something by",
+        "§7§a5%§7."
+      ]
+    },
+    {
+      "id": "LURE;2",
+      "header": "§9Lure II",
+      "effect": [
+        "§7Shortens the maximum time it",
+        "§7takes to catch something by",
+        "§a10%§7."
+      ]
+    },
+    {
+      "id": "LURE;3",
+      "header": "§9Lure III",
+      "effect": [
+        "§7Shortens the maximum time it",
+        "§7takes to catch something by",
+        "§a15%§7."
+      ]
+    },
+    {
+      "id": "LURE;4",
+      "header": "§9Lure IV",
+      "effect": [
+        "§7Shortens the maximum time it",
+        "§7takes to catch something by",
+        "§a20%§7."
+      ]
+    },
+    {
+      "id": "LURE;5",
+      "header": "§9Lure V",
+      "effect": [
+        "§7Shortens the maximum time it",
+        "§7takes to catch something by",
+        "§a25%§7."
+      ]
+    },
+    {
+      "id": "LURE;6",
+      "header": "§9Lure VI",
+      "effect": [
+        "§7Shortens the maximum time it",
+        "§7takes to catch something by",
+        "§a30%§7."
+      ]
+    },
+    {
+      "id": "MAGMARIZER;1",
+      "header": "§9Pyroclasm I",
+      "effect": [
+        "§7Increases damage dealt to §c♆",
+        "§cMagmatic §7mobs by §a10%§7."
+      ]
+    },
+    {
+      "id": "MAGMARIZER;2",
+      "header": "§9Pyroclasm II",
+      "effect": [
+        "§7Increases damage dealt to §c♆",
+        "§cMagmatic §7mobs by §a20%§7."
+      ]
+    },
+    {
+      "id": "MAGMARIZER;3",
+      "header": "§9Pyroclasm III",
+      "effect": [
+        "§7Increases damage dealt to §c♆",
+        "§cMagmatic §7mobs by §a30%§7."
+      ]
+    },
+    {
+      "id": "MAGMARIZER;4",
+      "header": "§9Pyroclasm IV",
+      "effect": [
+        "§7Increases damage dealt to §c♆",
+        "§cMagmatic §7mobs by §a40%§7."
+      ]
+    },
+    {
+      "id": "MAGMARIZER;5",
+      "header": "§9Pyroclasm V",
+      "effect": [
+        "§7Increases damage dealt to §c♆",
+        "§cMagmatic §7mobs by §a60%§7."
+      ]
+    },
+    {
+      "id": "MAGMARIZER;6",
+      "header": "§9Pyroclasm VI",
+      "effect": [
+        "§7Increases damage dealt to §c♆",
+        "§cMagmatic §7mobs by §a80%§7."
+      ]
+    },
+    {
+      "id": "MAGNET;1",
+      "header": "§9Magnet I",
+      "effect": [
+        "§7Grants §a1 §7additional",
+        "§7experience orb every time you",
+        "§7successfully catch a fish."
+      ]
+    },
+    {
+      "id": "MAGNET;2",
+      "header": "§9Magnet II",
+      "effect": [
+        "§7Grants §a2 §7additional",
+        "§7experience orb every time you",
+        "§7successfully catch a fish."
+      ]
+    },
+    {
+      "id": "MAGNET;3",
+      "header": "§9Magnet III",
+      "effect": [
+        "§7Grants §a3 §7additional",
+        "§7experience orb every time you",
+        "§7successfully catch a fish."
+      ]
+    },
+    {
+      "id": "MAGNET;4",
+      "header": "§9Magnet IV",
+      "effect": [
+        "§7Grants §a4 §7additional",
+        "§7experience orbs every time you",
+        "§7successfully catch a fish."
+      ]
+    },
+    {
+      "id": "MAGNET;5",
+      "header": "§9Magnet V",
+      "effect": [
+        "§7Grants §a5 §7additional",
+        "§7experience orbs every time you",
+        "§7successfully catch a fish."
+      ]
+    },
+    {
+      "id": "MAGNET;6",
+      "header": "§9Magnet VI",
+      "effect": [
+        "§7Grants §a6 §7additional",
+        "§7experience orbs every time you",
+        "§7successfully catch a fish."
+      ]
+    },
+    {
+      "id": "MANA_STEAL;1",
+      "header": "§9Mana Steal I",
+      "effect": [
+        "§7Regain §b0.25% §7of your mana on",
+        "§7hit."
+      ]
+    },
+    {
+      "id": "MANA_STEAL;2",
+      "header": "§9Mana Steal II",
+      "effect": [
+        "§7Regain §b0.5% §7of your mana on",
+        "§7hit."
+      ]
+    },
+    {
+      "id": "MANA_STEAL;3",
+      "header": "§9Mana Steal III",
+      "effect": [
+        "§7Regain §b0.75% §7of your mana on",
+        "§7hit."
+      ]
+    },
+    {
+      "id": "MANA_VAMPIRE;1",
+      "header": "§9Vampiric Vitality I",
+      "effect": [
+        "§7Heal for §c0.6❤ §7per §4 Vitality §7used."
+      ]
+    },
+    {
+      "id": "MANA_VAMPIRE;10",
+      "header": "§9Vampiric Vitality X",
+      "effect": [
+        "§7Heal for §c1❤ §7per §4 Vitality §7used."
+      ]
+    },
+    {
+      "id": "MANA_VAMPIRE;2",
+      "header": "§9Vampiric Vitality II",
+      "effect": [
+        "§7Heal for §c0.6❤ §7per §4 Vitality §7used."
+      ]
+    },
+    {
+      "id": "MANA_VAMPIRE;3",
+      "header": "§9Vampiric Vitality III",
+      "effect": [
+        "§7Heal for §c0.7❤ §7per §4 Vitality §7used."
+      ]
+    },
+    {
+      "id": "MANA_VAMPIRE;4",
+      "header": "§9Vampiric Vitality IV",
+      "effect": [
+        "§7Heal for §c0.7❤ §7per §4 Vitality §7used."
+      ]
+    },
+    {
+      "id": "MANA_VAMPIRE;5",
+      "header": "§9Vampiric Vitality V",
+      "effect": [
+        "§7Heal for §c0.8❤ §7per §4 Vitality §7used."
+      ]
+    },
+    {
+      "id": "MANA_VAMPIRE;6",
+      "header": "§9Vampiric Vitality VI",
+      "effect": [
+        "§7Heal for §c0.8❤ §7per §4 Vitality §7used."
+      ]
+    },
+    {
+      "id": "MANA_VAMPIRE;7",
+      "header": "§9Vampiric Vitality VII",
+      "effect": [
+        "§7Heal for §c0.9❤ §7per §4 Vitality §7used."
+      ]
+    },
+    {
+      "id": "MANA_VAMPIRE;8",
+      "header": "§9Vampiric Vitality VIII",
+      "effect": [
+        "§7Heal for §c0.9❤ §7per §4 Vitality §7used."
+      ]
+    },
+    {
+      "id": "MANA_VAMPIRE;9",
+      "header": "§9Vampiric Vitality IX",
+      "effect": [
+        "§7Heal for §c0.9❤ §7per §4 Vitality §7used."
+      ]
+    },
+    {
+      "id": "OVERLOAD;1",
+      "header": "§9Overload I",
+      "effect": [
+        "§7Increases §9 Crit Damage §7by §a1%§7 and",
+        "§9 Crit Chance §7by §a1%§7. Having a",
+        "§7Critical chance above §9100% §7grants a",
+        "§7chance to perform a Mega Critical Hit",
+        "§7dealing §910% §7extra damage."
+      ]
+    },
+    {
+      "id": "OVERLOAD;2",
+      "header": "§9Overload II",
+      "effect": [
+        "§7Increases §9 Crit Damage §7by §a2%§7 and",
+        "§9 Crit Chance §7by §a2%§7. Having a",
+        "§7Critical chance above §9100% §7grants a",
+        "§7chance to perform a Mega Critical Hit",
+        "§7dealing §920% §7extra damage."
+      ]
+    },
+    {
+      "id": "OVERLOAD;3",
+      "header": "§9Overload III",
+      "effect": [
+        "§7Increases §9 Crit Damage §7by §a3%§7 and",
+        "§9 Crit Chance §7by §a3%§7. Having a",
+        "§7Critical chance above §9100% §7grants a",
+        "§7chance to perform a Mega Critical Hit",
+        "§7dealing §930% §7extra damage."
+      ]
+    },
+    {
+      "id": "OVERLOAD;4",
+      "header": "§9Overload IV",
+      "effect": [
+        "§7Increases §9 Crit Damage §7by §a4%§7 and",
+        "§9 Crit Chance §7by §a4%§7. Having a",
+        "§7Critical chance above §9100% §7grants a",
+        "§7chance to perform a Mega Critical Hit",
+        "§7dealing §940% §7extra damage."
+      ]
+    },
+    {
+      "id": "OVERLOAD;5",
+      "header": "§9Overload V",
+      "effect": [
+        "§7Increases §9 Crit Damage §7by §a5%§7 and",
+        "§9 Crit Chance §7by §a5%§7. Having a",
+        "§7Critical chance above §9100% §7grants a",
+        "§7chance to perform a Mega Critical Hit",
+        "§7dealing §950% §7extra damage."
+      ]
+    },
+    {
+      "id": "PALEONTOLOGIST;1",
+      "header": "§9Paleontologist I",
+      "effect": [
+        "§7Increases chances of finding a",
+        "§9Suspicious Scrap §7when mining in",
+        "§bGlacite Mineshafts §7by §a2.5%§7."
+      ]
+    },
+    {
+      "id": "PALEONTOLOGIST;2",
+      "header": "§9Paleontologist II",
+      "effect": [
+        "§7Increases chances of finding a",
+        "§9Suspicious Scrap §7when mining in",
+        "§bGlacite Mineshafts §7by §a5%§7."
+      ]
+    },
+    {
+      "id": "PALEONTOLOGIST;3",
+      "header": "§9Paleontologist III",
+      "effect": [
+        "§7Increases chances of finding a",
+        "§9Suspicious Scrap §7when mining in",
+        "§bGlacite Mineshafts §7by §a7.5%§7."
+      ]
+    },
+    {
+      "id": "PALEONTOLOGIST;4",
+      "header": "§9Paleontologist IV",
+      "effect": [
+        "§7Increases chances of finding a",
+        "§9Suspicious Scrap §7when mining in",
+        "§bGlacite Mineshafts §7by §a10%§7."
+      ]
+    },
+    {
+      "id": "PALEONTOLOGIST;5",
+      "header": "§9Paleontologist V",
+      "effect": [
+        "§7Increases chances of finding a",
+        "§9Suspicious Scrap §7when mining in",
+        "§bGlacite Mineshafts §7by §a12.5%§7."
+      ]
+    },
+    {
+      "id": "PESTERMINATOR;1",
+      "header": "§9Pesterminator I",
+      "effect": [
+        "§7Grants §6+2 Farming Fortune §7and",
+        "§2+1 Bonus Pest Chance§7, which",
+        "§7increases your chance to spawn",
+        "§7bonus §2 Pests §7on §aThe Garden§7."
+      ]
+    },
+    {
+      "id": "PESTERMINATOR;2",
+      "header": "§9Pesterminator II",
+      "effect": [
+        "§7Grants §6+4 Farming Fortune §7and",
+        "§2+2 Bonus Pest Chance§7, which",
+        "§7increases your chance to spawn",
+        "§7bonus §2Pests §7on §aThe Garden§7."
+      ]
+    },
+    {
+      "id": "PESTERMINATOR;3",
+      "header": "§9Pesterminator III",
+      "effect": [
+        "§7Grants §6+6 Farming Fortune §7and",
+        "§2+3 Bonus Pest Chance§7, which",
+        "§7increases your chance to spawn",
+        "§7bonus §2Pests §7on §aThe Garden§7."
+      ]
+    },
+    {
+      "id": "PESTERMINATOR;4",
+      "header": "§9Pesterminator IV",
+      "effect": [
+        "§7Grants §6+8 Farming Fortune §7and",
+        "§2+4 Bonus Pest Chance§7, which",
+        "§7increases your chance to spawn",
+        "§7bonus §2Pests §7on §aThe Garden§7."
+      ]
+    },
+    {
+      "id": "PESTERMINATOR;5",
+      "header": "§9Pesterminator V",
+      "effect": [
+        "§7Grants §6+10 Farming Fortune §7and",
+        "§2+5 Bonus Pest Chance§7, which",
+        "§7increases your chance to spawn",
+        "§7bonus §2Pests §7on §aThe Garden§7."
+      ]
+    },
+    {
+      "id": "PESTERMINATOR;6",
+      "header": "§9Pesterminator VI",
+      "effect": [
+        "§7Grants §6+12 Farming Fortune §7and",
+        "§2+6 Bonus Pest Chance§7, which",
+        "§7increases your chance to spawn",
+        "§7bonus §2Pests §7on §aThe Garden§7."
+      ]
+    },
+    {
+      "id": "PETALFALL;1",
+      "header": "§9Petalfall I",
+      "effect": [
+        "§7Grants §4+0.2 Timber§7."
+      ]
+    },
+    {
+      "id": "PETALFALL;2",
+      "header": "§9Petalfall II",
+      "effect": [
+        "§7Grants §4+0.4 Timber§7."
+      ]
+    },
+    {
+      "id": "PETALFALL;3",
+      "header": "§9Petalfall III",
+      "effect": [
+        "§7Grants §4+0.6 Timber§7."
+      ]
+    },
+    {
+      "id": "PETALFALL;4",
+      "header": "§9Petalfall IV",
+      "effect": [
+        "§7Grants §4+0.8 Timber§7."
+      ]
+    },
+    {
+      "id": "PETALFALL;5",
+      "header": "§9Petalfall V",
+      "effect": [
+        "§7Grants §4+1 Timber§7."
+      ]
+    },
+    {
+      "id": "PIERCING;1",
+      "header": "§9Piercing I",
+      "effect": [
+        "§7Arrows travel through enemies.",
+        "§7The extra targets hit take §a25%",
+        "§7of the damage."
+      ]
+    },
+    {
+      "id": "PISCARY;1",
+      "header": "§9Piscary I",
+      "effect": [
+        "§7Grants §b+1 Fishing Speed§7."
+      ]
+    },
+    {
+      "id": "PISCARY;2",
+      "header": "§9Piscary II",
+      "effect": [
+        "§7Grants §b+2 Fishing Speed§7."
+      ]
+    },
+    {
+      "id": "PISCARY;3",
+      "header": "§9Piscary III",
+      "effect": [
+        "§7Grants §b+3 Fishing Speed§7."
+      ]
+    },
+    {
+      "id": "PISCARY;4",
+      "header": "§9Piscary IV",
+      "effect": [
+        "§7Grants §b+4 Fishing Speed§7."
+      ]
+    },
+    {
+      "id": "PISCARY;5",
+      "header": "§9Piscary V",
+      "effect": [
+        "§7Grants §b+5 Fishing Speed§7."
+      ]
+    },
+    {
+      "id": "PISCARY;6",
+      "header": "§9Piscary VI",
+      "effect": [
+        "§7Grants §b+6 Fishing Speed§7."
+      ]
+    },
+    {
+      "id": "PISCARY;7",
+      "header": "§9Piscary VII",
+      "effect": [
+        "§7Grants §b+7 Fishing Speed§7."
+      ]
+    },
+    {
+      "id": "POWER;1",
+      "header": "§9Power I",
+      "effect": [
+        "§7Increases bow damage by §a8%§7."
+      ]
+    },
+    {
+      "id": "POWER;2",
+      "header": "§9Power II",
+      "effect": [
+        "§7Increases bow damage by §a16%§7."
+      ]
+    },
+    {
+      "id": "POWER;3",
+      "header": "§9Power III",
+      "effect": [
+        "§7Increases bow damage by §a24%§7."
+      ]
+    },
+    {
+      "id": "POWER;4",
+      "header": "§9Power IV",
+      "effect": [
+        "§7Increases bow damage by §a32%§7."
+      ]
+    },
+    {
+      "id": "POWER;5",
+      "header": "§9Power V",
+      "effect": [
+        "§7Increases bow damage by §a40%§7."
+      ]
+    },
+    {
+      "id": "POWER;6",
+      "header": "§9Power VI",
+      "effect": [
+        "§7Increases bow damage by §a50%§7."
+      ]
+    },
+    {
+      "id": "POWER;7",
+      "header": "§9Power VII",
+      "effect": [
+        "§7Increases bow damage by §a65%§7."
+      ]
+    },
+    {
+      "id": "PRISTINE;1",
+      "header": "§9Prismatic I",
+      "effect": [
+        "§7Grants §5+0.5  Pristine§7, which",
+        "§7increases the chance to improve the",
+        "§7quality of dropped §dGemstones§7."
+      ]
+    },
+    {
+      "id": "PRISTINE;2",
+      "header": "§9Prismatic II",
+      "effect": [
+        "§7Grants §5+1  Pristine§7, which",
+        "§7increases the chance to improve the",
+        "§7quality of dropped §dGemstones§7."
+      ]
+    },
+    {
+      "id": "PRISTINE;3",
+      "header": "§9Prismatic III",
+      "effect": [
+        "§7Grants §5+1.5  Pristine§7, which",
+        "§7increases the chance to improve the",
+        "§7quality of dropped §dGemstones§7."
+      ]
+    },
+    {
+      "id": "PRISTINE;4",
+      "header": "§9Prismatic IV",
+      "effect": [
+        "§7Grants §5+2  Pristine§7, which",
+        "§7increases the chance to improve the",
+        "§7quality of dropped §dGemstones§7."
+      ]
+    },
+    {
+      "id": "PRISTINE;5",
+      "header": "§9Prismatic V",
+      "effect": [
+        "§7Grants §5+2.5  Pristine§7, which",
+        "§7increases the chance to improve the",
+        "§7quality of dropped §dGemstones§7."
+      ]
+    },
+    {
+      "id": "PROJECTILE_PROTECTION;1",
+      "header": "§9Projectile Protection I",
+      "effect": [
+        "§7Grants §a+7 §a Defense §7against",
+        "§7projectiles."
+      ]
+    },
+    {
+      "id": "PROJECTILE_PROTECTION;2",
+      "header": "§9Projectile Protection II",
+      "effect": [
+        "§7Grants §a+14 §a Defense §7against",
+        "§7projectiles."
+      ]
+    },
+    {
+      "id": "PROJECTILE_PROTECTION;3",
+      "header": "§9Projectile Protection III",
+      "effect": [
+        "§7Grants §a+21 §a Defense §7against",
+        "§7projectiles."
+      ]
+    },
+    {
+      "id": "PROJECTILE_PROTECTION;4",
+      "header": "§9Projectile Protection IV",
+      "effect": [
+        "§7Grants §a+28 §a Defense §7against",
+        "§7projectiles."
+      ]
+    },
+    {
+      "id": "PROJECTILE_PROTECTION;5",
+      "header": "§9Projectile Protection V",
+      "effect": [
+        "§7Grants §a+35 §a Defense §7against",
+        "§7projectiles."
+      ]
+    },
+    {
+      "id": "PROJECTILE_PROTECTION;6",
+      "header": "§9Projectile Protection VI",
+      "effect": [
+        "§7Grants §a+42 §a Defense §7against",
+        "§7projectiles."
+      ]
+    },
+    {
+      "id": "PROJECTILE_PROTECTION;7",
+      "header": "§9Projectile Protection VII",
+      "effect": [
+        "§7Grants §a+49 §a Defense §7against",
+        "§7projectiles."
+      ]
+    },
+    {
+      "id": "PROSECUTE;1",
+      "header": "§9Prosecute I",
+      "effect": [
+        "§7Increases damage dealt by §a0.1%",
+        "§7for each percent of health",
+        "§7your target has."
+      ]
+    },
+    {
+      "id": "PROSECUTE;2",
+      "header": "§9Prosecute II",
+      "effect": [
+        "§7Increases damage dealt by §a0.2%",
+        "§7for each percent of health",
+        "§7your target has."
+      ]
+    },
+    {
+      "id": "PROSECUTE;3",
+      "header": "§9Prosecute III",
+      "effect": [
+        "§7Increases damage dealt by §a0.3%",
+        "§7for each percent of health",
+        "§7your target has."
+      ]
+    },
+    {
+      "id": "PROSECUTE;4",
+      "header": "§9Prosecute IV",
+      "effect": [
+        "§7Increases damage dealt by §a0.4%",
+        "§7for each percent of health",
+        "§7your target has."
+      ]
+    },
+    {
+      "id": "PROSECUTE;5",
+      "header": "§9Prosecute V",
+      "effect": [
+        "§7Increases damage dealt by §a0.7%",
+        "§7for each percent of health",
+        "§7your target has."
+      ]
+    },
+    {
+      "id": "PROSECUTE;6",
+      "header": "§9Prosecute VI",
+      "effect": [
+        "§7Increases damage dealt by §a1%",
+        "§7for each percent of health",
+        "§7your target has."
+      ]
+    },
+    {
+      "id": "PROSPERITY;1",
+      "header": "§9Prosperity I",
+      "effect": [
+        "§7Grants §a+3 §c Health§7."
+      ]
+    },
+    {
+      "id": "PROSPERITY;2",
+      "header": "§9Prosperity II",
+      "effect": [
+        "§7Grants §a+6 §c Health§7."
+      ]
+    },
+    {
+      "id": "PROSPERITY;3",
+      "header": "§9Prosperity III",
+      "effect": [
+        "§7Grants §a+9 §c Health§7."
+      ]
+    },
+    {
+      "id": "PROSPERITY;4",
+      "header": "§9Prosperity IV",
+      "effect": [
+        "§7Grants §a+12 §c Health§7."
+      ]
+    },
+    {
+      "id": "PROSPERITY;5",
+      "header": "§9Prosperity V",
+      "effect": [
+        "§7Grants §a+15 §c Health§7."
+      ]
+    },
+    {
+      "id": "PROTECTION;1",
+      "header": "§9Protection I",
+      "effect": [
+        "§7Grants §a+4  Defense§7."
+      ]
+    },
+    {
+      "id": "PROTECTION;2",
+      "header": "§9Protection II",
+      "effect": [
+        "§7Grants §a+8  Defense§7."
+      ]
+    },
+    {
+      "id": "PROTECTION;3",
+      "header": "§9Protection III",
+      "effect": [
+        "§7Grants §a+12  Defense§7."
+      ]
+    },
+    {
+      "id": "PROTECTION;4",
+      "header": "§9Protection IV",
+      "effect": [
+        "§7Grants §a+16  Defense§7."
+      ]
+    },
+    {
+      "id": "PROTECTION;5",
+      "header": "§9Protection V",
+      "effect": [
+        "§7Grants §a+20  Defense§7."
+      ]
+    },
+    {
+      "id": "PROTECTION;6",
+      "header": "§9Protection VI",
+      "effect": [
+        "§7Grants §a+25  Defense§7."
+      ]
+    },
+    {
+      "id": "PROTECTION;7",
+      "header": "§9Protection VII",
+      "effect": [
+        "§7Grants §a+30  Defense§7."
+      ]
+    },
+    {
+      "id": "PUNCH;1",
+      "header": "§9Punch I",
+      "effect": [
+        "§7Increases arrow knockback by",
+        "§a3§7 blocks."
+      ]
+    },
+    {
+      "id": "PUNCH;2",
+      "header": "§9Punch II",
+      "effect": [
+        "§7Increases arrow knockback by",
+        "§a6§7 blocks."
+      ]
+    },
+    {
+      "id": "QUANTUM;3",
+      "header": "§9Quantum III",
+      "effect": [
+        "§7Grants §4+1 Vitality §7on weekdays and",
+        "§3+1.2☯ §7of a random §3Wisdom §7stat on",
+        "§7weekends."
+      ]
+    },
+    {
+      "id": "QUANTUM;4",
+      "header": "§9Quantum IV",
+      "effect": [
+        "§7Grants §4+2 Vitality §7on weekdays and",
+        "§3+1.6☯ §7of a random §3Wisdom §7stat on",
+        "§7weekends."
+      ]
+    },
+    {
+      "id": "QUANTUM;5",
+      "header": "§9Quantum V",
+      "effect": [
+        "§7Grants §4+3 Vitality §7on weekdays and",
+        "§3+2☯ §7of a random §3Wisdom §7stat on",
+        "§7weekends."
+      ]
+    },
+    {
+      "id": "QUICK_BITE;1",
+      "header": "§9Quick Bite I",
+      "effect": [
+        "§7Makes fish swim §a5% §7faster towards",
+        "§7your bobber."
+      ]
+    },
+    {
+      "id": "QUICK_BITE;2",
+      "header": "§9Quick Bite II",
+      "effect": [
+        "§7Makes fish swim §a10% §7faster towards",
+        "§7your bobber."
+      ]
+    },
+    {
+      "id": "QUICK_BITE;3",
+      "header": "§9Quick Bite III",
+      "effect": [
+        "§7Makes fish swim §a15% §7faster towards",
+        "§7your bobber."
+      ]
+    },
+    {
+      "id": "QUICK_BITE;4",
+      "header": "§9Quick Bite IV",
+      "effect": [
+        "§7Makes fish swim §a20% §7faster towards",
+        "§7your bobber."
+      ]
+    },
+    {
+      "id": "QUICK_BITE;5",
+      "header": "§9Quick Bite V",
+      "effect": [
+        "§7Makes fish swim §a25% §7faster towards",
+        "§7your bobber."
+      ]
+    },
+    {
+      "id": "RAINBOW;1",
+      "header": "§9Rainbow I",
+      "effect": [
+        "§7Causes sheep to drop a random",
+        "§7wool colour when sheared."
+      ]
+    },
+    {
+      "id": "RAINBOW;2",
+      "header": "§9Rainbow II",
+      "effect": [
+        "§7Grants a §a50% §7chance to",
+        "§7change the color of a sheep when",
+        "§7shearing it."
+      ]
+    },
+    {
+      "id": "RAINBOW;3",
+      "header": "§9Rainbow III",
+      "effect": [
+        "§7Grants an §a80% §7chance to",
+        "§7change the color of a sheep when",
+        "§7shearing it, which will also",
+        "§7flip it, of course."
+      ]
+    },
+    {
+      "id": "REFLECTION;1",
+      "header": "§9Reflection I",
+      "effect": [
+        "§7Grants §b+2 Intelligence§7.",
+        "§7Grants §f+1 True Defense§7.",
+        "§7When damaged by an arrow, deal §b2x §7your",
+        "§b Intelligence §7to its shooter."
+      ]
+    },
+    {
+      "id": "REFLECTION;2",
+      "header": "§9Reflection II",
+      "effect": [
+        "§7Grants §b+4 Intelligence§7.",
+        "§7Grants §f+2 True Defense§7.",
+        "§7When damaged by an arrow, deal §b5x §7your",
+        "§b Intelligence §7to its shooter."
+      ]
+    },
+    {
+      "id": "REFLECTION;3",
+      "header": "§9Reflection III",
+      "effect": [
+        "§7Grants §b+6 Intelligence§7.",
+        "§7Grants §f+3 True Defense§7.",
+        "§7When damaged by an arrow, deal §b10x §7your",
+        "§b Intelligence §7to its shooter."
+      ]
+    },
+    {
+      "id": "REFLECTION;4",
+      "header": "§9Reflection IV",
+      "effect": [
+        "§7Grants §b+8 Intelligence§7.",
+        "§7Grants §f+4 True Defense§7.",
+        "§7When damaged by an arrow, deal §b20x §7your",
+        "§b Intelligence §7to its shooter."
+      ]
+    },
+    {
+      "id": "REFLECTION;5",
+      "header": "§9Reflection V",
+      "effect": [
+        "§7Grants §b+10 Intelligence§7.",
+        "§7Grants §f+5 True Defense§7.",
+        "§7When damaged by an arrow, deal §b30x §7your",
+        "§b Intelligence §7to its shooter."
+      ]
+    },
+    {
+      "id": "REJUVENATE;1",
+      "header": "§9Rejuvenate I",
+      "effect": [
+        "§7Grants §c+1 Health Regen§7."
+      ]
+    },
+    {
+      "id": "REJUVENATE;2",
+      "header": "§9Rejuvenate II",
+      "effect": [
+        "§7Grants §c+2 Health Regen§7."
+      ]
+    },
+    {
+      "id": "REJUVENATE;3",
+      "header": "§9Rejuvenate III",
+      "effect": [
+        "§7Grants §c+3 Health Regen§7."
+      ]
+    },
+    {
+      "id": "REJUVENATE;4",
+      "header": "§9Rejuvenate IV",
+      "effect": [
+        "§7Grants §c+4 Health Regen§7."
+      ]
+    },
+    {
+      "id": "REJUVENATE;5",
+      "header": "§9Rejuvenate V",
+      "effect": [
+        "§7Grants §c+5 Health Regen§7."
+      ]
+    },
+    {
+      "id": "REPLENISH;1",
+      "header": "§9Replenish I",
+      "effect": [
+        "§7Upon breaking crops, nether wart,",
+        "§7cocoa, wild rose, or sunflower,",
+        "§7automatically replant from materials",
+        "§7in your inventory."
+      ]
+    },
+    {
+      "id": "RESPIRATION;1",
+      "header": "§9Respiration I",
+      "effect": [
+        "§7Grants §3+15 Respiration§7, which",
+        "§7increases the amount of time you",
+        "§7can stay under water."
+      ]
+    },
+    {
+      "id": "RESPIRATION;2",
+      "header": "§9Respiration II",
+      "effect": [
+        "§7Grants §3+30 Respiration§7, which",
+        "§7increases the amount of time you",
+        "§7can stay under water."
+      ]
+    },
+    {
+      "id": "RESPIRATION;3",
+      "header": "§9Respiration III",
+      "effect": [
+        "§7Grants §3+45 Respiration§7, which",
+        "§7increases the amount of time you",
+        "§7can stay under water."
+      ]
+    },
+    {
+      "id": "RESPIRATION;4",
+      "header": "§9Respiration IV",
+      "effect": [
+        "§7Grants §3+60 Respiration§7, which",
+        "§7increases the amount of time you",
+        "§7can stay under water."
+      ]
+    },
+    {
+      "id": "RESPITE;1",
+      "header": "§9Respite I",
+      "effect": [
+        "§7Grants §c+3 Health Regen §7while out",
+        "§7of combat."
+      ]
+    },
+    {
+      "id": "RESPITE;2",
+      "header": "§9Respite II",
+      "effect": [
+        "§7Grants §c+6 Health Regen §7while out",
+        "§7of combat."
+      ]
+    },
+    {
+      "id": "RESPITE;3",
+      "header": "§9Respite III",
+      "effect": [
+        "§7Grants §c+9 Health Regen §7while out",
+        "§7of combat."
+      ]
+    },
+    {
+      "id": "RESPITE;4",
+      "header": "§9Respite IV",
+      "effect": [
+        "§7Grants §c+12 Health Regen §7while out",
+        "§7of combat."
+      ]
+    },
+    {
+      "id": "RESPITE;5",
+      "header": "§9Respite V",
+      "effect": [
+        "§7Grants §c+15 Health Regen §7while out",
+        "§7of combat."
+      ]
+    },
+    {
+      "id": "SCAVENGER;1",
+      "header": "§9Scavenger I",
+      "effect": [
+        "§7Scavenge §60.3 Coins §7per monster",
+        "§7level on kill."
+      ]
+    },
+    {
+      "id": "SCAVENGER;2",
+      "header": "§9Scavenger II",
+      "effect": [
+        "§7Scavenge §60.6 Coins §7per monster",
+        "§7level on kill."
+      ]
+    },
+    {
+      "id": "SCAVENGER;3",
+      "header": "§9Scavenger III",
+      "effect": [
+        "§7Scavenge §60.9 Coins §7per monster",
+        "§7level on kill."
+      ]
+    },
+    {
+      "id": "SCAVENGER;4",
+      "header": "§9Scavenger IV",
+      "effect": [
+        "§7Scavenge §61.2 Coins §7per monster",
+        "§7level on kill."
+      ]
+    },
+    {
+      "id": "SCAVENGER;5",
+      "header": "§9Scavenger V",
+      "effect": [
+        "§7Scavenge §61.5 Coins §7per monster",
+        "§7level on kill."
+      ]
+    },
+    {
+      "id": "SCAVENGER;6",
+      "header": "§9Scavenger VI",
+      "effect": [
+        "§7Scavenge §61.8 Coins §7per monster",
+        "§7level on kill."
+      ]
+    },
+    {
+      "id": "SCUBA;1",
+      "header": "§9Scuba I",
+      "effect": [
+        "§7Grants §9+1 Pressure Resistance§7."
+      ]
+    },
+    {
+      "id": "SHARPNESS;1",
+      "header": "§9Sharpness I",
+      "effect": [
+        "§7Increases melee damage dealt by",
+        "§a5%"
+      ]
+    },
+    {
+      "id": "SHARPNESS;2",
+      "header": "§9Sharpness II",
+      "effect": [
+        "§7Increases melee damage dealt by",
+        "§a10%"
+      ]
+    },
+    {
+      "id": "SHARPNESS;3",
+      "header": "§9Sharpness III",
+      "effect": [
+        "§7Increases melee damage dealt by",
+        "§a15%"
+      ]
+    },
+    {
+      "id": "SHARPNESS;4",
+      "header": "§9Sharpness IV",
+      "effect": [
+        "§7Increases melee damage dealt by",
+        "§a20%"
+      ]
+    },
+    {
+      "id": "SHARPNESS;5",
+      "header": "§9Sharpness V",
+      "effect": [
+        "§7Increases melee damage dealt by",
+        "§a30%"
+      ]
+    },
+    {
+      "id": "SHARPNESS;6",
+      "header": "§9Sharpness VI",
+      "effect": [
+        "§7Increases melee damage dealt by",
+        "§a45%"
+      ]
+    },
+    {
+      "id": "SHARPNESS;7",
+      "header": "§9Sharpness VII",
+      "effect": [
+        "§7Increases melee damage dealt by",
+        "§a65%"
+      ]
+    },
+    {
+      "id": "SILK_TOUCH;1",
+      "header": "§9Silk Touch I",
+      "effect": [
+        "§7Allows you to collect normally",
+        "§7unobtainable block drops."
+      ]
+    },
+    {
+      "id": "SMALL_BRAIN;3",
+      "header": "§9Small Brain III",
+      "effect": [
+        "§7Grants §b-5 Intelligence§7 and §f+1",
+        "§fTrue Defense§7."
+      ]
+    },
+    {
+      "id": "SMALL_BRAIN;4",
+      "header": "§9Small Brain IV",
+      "effect": [
+        "§7Grants §b-10 Intelligence§7 and §f+2",
+        "§fTrue Defense§7."
+      ]
+    },
+    {
+      "id": "SMALL_BRAIN;5",
+      "header": "§9Small Brain V",
+      "effect": [
+        "§7Grants §b-15 Intelligence§7 and §f+3",
+        "§fTrue Defense§7."
+      ]
+    },
+    {
+      "id": "SMARTY_PANTS;1",
+      "header": "§9Smarty Pants I",
+      "effect": [
+        "§7Grants §b+5 Intelligence§7."
+      ]
+    },
+    {
+      "id": "SMARTY_PANTS;2",
+      "header": "§9Smarty Pants II",
+      "effect": [
+        "§7Grants §b+10 Intelligence§7."
+      ]
+    },
+    {
+      "id": "SMARTY_PANTS;3",
+      "header": "§9Smarty Pants III",
+      "effect": [
+        "§7Grants §b+15 Intelligence§7."
+      ]
+    },
+    {
+      "id": "SMARTY_PANTS;4",
+      "header": "§9Smarty Pants IV",
+      "effect": [
+        "§7Grants §b+20 Intelligence§7."
+      ]
+    },
+    {
+      "id": "SMARTY_PANTS;5",
+      "header": "§9Smarty Pants V",
+      "effect": [
+        "§7Grants §b+25 Intelligence§7."
+      ]
+    },
+    {
+      "id": "SMELTING_TOUCH;1",
+      "header": "§9Smelting Touch I",
+      "effect": [
+        "§7Automatically smelts broken",
+        "§7blocks into their smelted form."
+      ]
+    },
+    {
+      "id": "SMITE;1",
+      "header": "§9Smite I",
+      "effect": [
+        "§7Increases damage dealt to §8☠ Wither§7,",
+        "§2༕ Undead §7and §f🦴 Skeletal§7 mobs by",
+        "§a5%§7."
+      ]
+    },
+    {
+      "id": "SMITE;2",
+      "header": "§9Smite II",
+      "effect": [
+        "§7Increases damage dealt to §8☠ Wither§7,",
+        "§2༕ Undead §7and §f🦴 Skeletal§7 mobs by",
+        "§a10%§7."
+      ]
+    },
+    {
+      "id": "SMITE;3",
+      "header": "§9Smite III",
+      "effect": [
+        "§7Increases damage dealt to §8☠ Wither§7,",
+        "§2༕ Undead §7and §f🦴 Skeletal§7 mobs by",
+        "§a15%§7."
+      ]
+    },
+    {
+      "id": "SMITE;4",
+      "header": "§9Smite IV",
+      "effect": [
+        "§7Increases damage dealt to §8☠ Wither§7,",
+        "§2༕ Undead §7and §f🦴 Skeletal§7 mobs by",
+        "§a20%§7."
+      ]
+    },
+    {
+      "id": "SMITE;5",
+      "header": "§9Smite V",
+      "effect": [
+        "§7Increases damage dealt to §8☠ Wither§7,",
+        "§2༕ Undead §7and §f🦴 Skeletal§7 mobs by",
+        "§a30%§7."
+      ]
+    },
+    {
+      "id": "SMITE;6",
+      "header": "§9Smite VI",
+      "effect": [
+        "§7Increases damage dealt to §8☠ Wither§7,",
+        "§2༕ Undead §7and §f🦴 Skeletal§7 mobs by",
+        "§a40%§7."
+      ]
+    },
+    {
+      "id": "SMITE;7",
+      "header": "§9Smite VII",
+      "effect": [
+        "§7Increases damage dealt to §8☠ Wither§7,",
+        "§2༕ Undead §7and §f🦴 Skeletal§7 mobs by",
+        "§a50%§7."
+      ]
+    },
+    {
+      "id": "SMOLDERING;1",
+      "header": "§9Smoldering I",
+      "effect": [
+        "§7Increases damage dealt to §4♨",
+        "§4Infernal§7 mobs by §a5%§7."
+      ]
+    },
+    {
+      "id": "SMOLDERING;2",
+      "header": "§9Smoldering II",
+      "effect": [
+        "§7Increases damage dealt to §4♨",
+        "§4Infernal§7 mobs by §a10%§7."
+      ]
+    },
+    {
+      "id": "SMOLDERING;3",
+      "header": "§9Smoldering III",
+      "effect": [
+        "§7Increases damage dealt to §4♨",
+        "§4Infernal§7 mobs by §a15%§7."
+      ]
+    },
+    {
+      "id": "SMOLDERING;4",
+      "header": "§9Smoldering IV",
+      "effect": [
+        "§7Increases damage dealt to §4♨",
+        "§4Infernal§7 mobs by §a20%§7."
+      ]
+    },
+    {
+      "id": "SMOLDERING;5",
+      "header": "§9Smoldering V",
+      "effect": [
+        "§7Increases damage dealt to §4♨",
+        "§4Infernal§7 mobs by §a30%§7."
+      ]
+    },
+    {
+      "id": "SNIPE;1",
+      "header": "§9Snipe I",
+      "effect": [
+        "§7Arrows deal §a+1% §7damage for",
+        "§7every §a10 §7blocks travelled."
+      ]
+    },
+    {
+      "id": "SNIPE;2",
+      "header": "§9Snipe II",
+      "effect": [
+        "§7Arrows deal §a+2% §7damage for",
+        "§7every §a10 §7blocks travelled."
+      ]
+    },
+    {
+      "id": "SNIPE;3",
+      "header": "§9Snipe III",
+      "effect": [
+        "§7Arrows deal §a+3% §7damage for",
+        "§7every §a10 §7blocks travelled."
+      ]
+    },
+    {
+      "id": "SNIPE;4",
+      "header": "§9Snipe IV",
+      "effect": [
+        "§7Arrows deal §a+4% §7damage for",
+        "§7every §a10 §7blocks travelled."
+      ]
+    },
+    {
+      "id": "SPIKED_HOOK;1",
+      "header": "§9Spiked Hook I",
+      "effect": [
+        "§7Fishing rod deals §a5%§7 more damage",
+        "§7to monsters."
+      ]
+    },
+    {
+      "id": "SPIKED_HOOK;2",
+      "header": "§9Spiked Hook II",
+      "effect": [
+        "§7Fishing rod deals §a10%§7 more damage",
+        "§7to monsters."
+      ]
+    },
+    {
+      "id": "SPIKED_HOOK;3",
+      "header": "§9Spiked Hook III",
+      "effect": [
+        "§7Fishing rod deals §a15%§7 more damage",
+        "§7to monsters."
+      ]
+    },
+    {
+      "id": "SPIKED_HOOK;4",
+      "header": "§9Spiked Hook IV",
+      "effect": [
+        "§7Fishing rod deals §a20%§7 more damage",
+        "§7to monsters."
+      ]
+    },
+    {
+      "id": "SPIKED_HOOK;5",
+      "header": "§9Spiked Hook V",
+      "effect": [
+        "§7Fishing rod deals §a25%§7 more damage",
+        "§7to monsters."
+      ]
+    },
+    {
+      "id": "SPIKED_HOOK;6",
+      "header": "§9Spiked Hook VI",
+      "effect": [
+        "§7Fishing rod deals §a30%§7 more damage",
+        "§7to monsters."
+      ]
+    },
+    {
+      "id": "SPIKED_HOOK;7",
+      "header": "§9Spiked Hook VII",
+      "effect": [
+        "§7Fishing rod deals §a35%§7 more damage",
+        "§7to monsters."
+      ]
+    },
+    {
+      "id": "STEALTH;1",
+      "header": "§9Stealth I",
+      "effect": [
+        "§e Timid §7mobs have a §a10% §7chance to",
+        "§7remain still instead of fleeing."
+      ]
+    },
+    {
+      "id": "STEALTH;2",
+      "header": "§9Stealth II",
+      "effect": [
+        "§e Timid §7mobs have a §a20% §7chance to",
+        "§7remain still instead of fleeing."
+      ]
+    },
+    {
+      "id": "STEALTH;3",
+      "header": "§9Stealth III",
+      "effect": [
+        "§e Timid §7mobs have a §a30% §7chance to",
+        "§7remain still instead of fleeing."
+      ]
+    },
+    {
+      "id": "STEALTH;4",
+      "header": "§9Stealth IV",
+      "effect": [
+        "§e Timid §7mobs have a §a40% §7chance to",
+        "§7remain still instead of fleeing."
+      ]
+    },
+    {
+      "id": "STEALTH;5",
+      "header": "§9Stealth V",
+      "effect": [
+        "§e Timid §7mobs have a §a50% §7chance to",
+        "§7remain still instead of fleeing."
+      ]
+    },
+    {
+      "id": "STEALTH;6",
+      "header": "§9Stealth VI",
+      "effect": [
+        "§e Timid §7mobs have a §a60% §7chance to",
+        "§7remain still instead of fleeing."
+      ]
+    },
+    {
+      "id": "STRONG_MANA;1",
+      "header": "§9Strong Vitality I",
+      "effect": [
+        "§7Convert §a2% §7of §4 Vitality §7used as §c",
+        "§cStrength §7for §a10s§7. §8(Max 30",
+        "§8Strength)."
+      ]
+    },
+    {
+      "id": "STRONG_MANA;10",
+      "header": "§9Strong Vitality X",
+      "effect": [
+        "§7Convert §a20% §7of §4 Vitality §7used as §c",
+        "§cStrength §7for §a10s§7. §8(Max 30",
+        "§8Strength)."
+      ]
+    },
+    {
+      "id": "STRONG_MANA;2",
+      "header": "§9Strong Vitality II",
+      "effect": [
+        "§7Convert §a4% §7of §4 Vitality §7used as §c",
+        "§cStrength §7for §a10s§7. §8(Max 30",
+        "§8Strength)."
+      ]
+    },
+    {
+      "id": "STRONG_MANA;3",
+      "header": "§9Strong Vitality III",
+      "effect": [
+        "§7Convert §a6% §7of §4 Vitality §7used as §c",
+        "§cStrength §7for §a10s§7. §8(Max 30",
+        "§8Strength)."
+      ]
+    },
+    {
+      "id": "STRONG_MANA;4",
+      "header": "§9Strong Vitality IV",
+      "effect": [
+        "§7Convert §a8% §7of §4 Vitality §7used as §c",
+        "§cStrength §7for §a10s§7. §8(Max 30",
+        "§8Strength)."
+      ]
+    },
+    {
+      "id": "STRONG_MANA;5",
+      "header": "§9Strong Vitality V",
+      "effect": [
+        "§7Convert §a10% §7of §4 Vitality §7used as §c",
+        "§cStrength §7for §a10s§7. §8(Max 30",
+        "§8Strength)."
+      ]
+    },
+    {
+      "id": "STRONG_MANA;6",
+      "header": "§9Strong Vitality VI",
+      "effect": [
+        "§7Convert §a12% §7of §4 Vitality §7used as §c",
+        "§cStrength §7for §a10s§7. §8(Max 30",
+        "§8Strength)."
+      ]
+    },
+    {
+      "id": "STRONG_MANA;7",
+      "header": "§9Strong Vitality VII",
+      "effect": [
+        "§7Convert §a14% §7of §4 Vitality §7used as §c",
+        "§cStrength §7for §a10s§7. §8(Max 30",
+        "§8Strength)."
+      ]
+    },
+    {
+      "id": "STRONG_MANA;8",
+      "header": "§9Strong Vitality VIII",
+      "effect": [
+        "§7Convert §a16% §7of §4 Vitality §7used as §c",
+        "§cStrength §7for §a10s§7. §8(Max 30",
+        "§8Strength)."
+      ]
+    },
+    {
+      "id": "STRONG_MANA;9",
+      "header": "§9Strong Vitality IX",
+      "effect": [
+        "§7Convert §a18% §7of §4 Vitality §7used as §c",
+        "§cStrength §7for §a10s§7. §8(Max 30",
+        "§8Strength)."
+      ]
+    },
+    {
+      "id": "SUGAR_RUSH;1",
+      "header": "§9Sugar Rush I",
+      "effect": [
+        "§7Grants §a+2 §f Speed§7."
+      ]
+    },
+    {
+      "id": "SUGAR_RUSH;2",
+      "header": "§9Sugar Rush II",
+      "effect": [
+        "§7Grants §a+4 §f Speed§7."
+      ]
+    },
+    {
+      "id": "SUGAR_RUSH;3",
+      "header": "§9Sugar Rush III",
+      "effect": [
+        "§7Grants §a+6 §f Speed§7."
+      ]
+    },
+    {
+      "id": "SUNDER;1",
+      "header": "§9Sunder I",
+      "effect": [
+        "§7Grants §a+12.5 §6☘ Farming",
+        "§6Fortune§7, which increases your",
+        "§7chance for multiple crops."
+      ]
+    },
+    {
+      "id": "SUNDER;2",
+      "header": "§9Sunder II",
+      "effect": [
+        "§7Grants §a+25 §6☘ Farming",
+        "§6Fortune§7, which increases your",
+        "§7chance for multiple crops."
+      ]
+    },
+    {
+      "id": "SUNDER;3",
+      "header": "§9Sunder III",
+      "effect": [
+        "§7Grants §a+37.5 §6☘ Farming",
+        "§6Fortune§7, which increases your",
+        "§7chance for multiple crops."
+      ]
+    },
+    {
+      "id": "SUNDER;4",
+      "header": "§9Sunder IV",
+      "effect": [
+        "§7Grants §a+50 §6☘ Farming",
+        "§6Fortune§7, which increases your",
+        "§7chance for multiple crops."
+      ]
+    },
+    {
+      "id": "SUNDER;5",
+      "header": "§9Sunder V",
+      "effect": [
+        "§7Grants §a+62.5 §6☘ Farming",
+        "§6Fortune§7, which increases your",
+        "§7chance for multiple crops."
+      ]
+    },
+    {
+      "id": "SUNDER;6",
+      "header": "§9Sunder VI",
+      "effect": [
+        "§7Grants §a+75 §6☘ Farming",
+        "§6Fortune§7, which increases your",
+        "§7chance for multiple crops."
+      ]
+    },
+    {
+      "id": "SYPHON;1",
+      "header": "§9Drain I",
+      "effect": [
+        "§7Regen §4+0.5 Vitality §7every time you",
+        "§7hit a mob.",
+        "§8(1s Cooldown)."
+      ]
+    },
+    {
+      "id": "SYPHON;2",
+      "header": "§9Drain II",
+      "effect": [
+        "§7Regen §4+1 Vitality §7every time you",
+        "§7hit a mob.",
+        "§8(1s Cooldown)."
+      ]
+    },
+    {
+      "id": "SYPHON;3",
+      "header": "§9Drain III",
+      "effect": [
+        "§7Regen §4+1.5 Vitality §7every time you",
+        "§7hit a mob.",
+        "§8(1s Cooldown)."
+      ]
+    },
+    {
+      "id": "SYPHON;4",
+      "header": "§9Drain IV",
+      "effect": [
+        "§7Regen §4+2 Vitality §7every time you",
+        "§7hit a mob.",
+        "§8(1s Cooldown)."
+      ]
+    },
+    {
+      "id": "SYPHON;5",
+      "header": "§9Drain V",
+      "effect": [
+        "§7Regen §4+2.5 Vitality §7every time you",
+        "§7hit a mob.",
+        "§8(1s Cooldown)."
+      ]
+    },
+    {
+      "id": "TABASCO;2",
+      "header": "§9Tabasco II",
+      "effect": [
+        "§7Grants §f+2 §7weapon damage if",
+        "§7you don't have a §5Dragon §7pet",
+        "§7equipped."
+      ]
+    },
+    {
+      "id": "TABASCO;3",
+      "header": "§9Tabasco III",
+      "effect": [
+        "§7Grants §f+3 §7weapon damage if",
+        "§7you don't have a §5Dragon §7pet",
+        "§7equipped."
+      ]
+    },
+    {
+      "id": "TELEKINESIS;1",
+      "header": "§9Telekinesis I",
+      "effect": [
+        "§7Block and mob drops go directly",
+        "§7into your inventory."
+      ]
+    },
+    {
+      "id": "THORNS;1",
+      "header": "§9Thorns I",
+      "effect": [
+        "§7Grants a §a50% §7chance to rebound §a3%",
+        "§7of damage dealt back at the attacker."
+      ]
+    },
+    {
+      "id": "THORNS;2",
+      "header": "§9Thorns II",
+      "effect": [
+        "§7Grants a §a50% §7chance to rebound §a6%",
+        "§7of damage dealt back at the attacker."
+      ]
+    },
+    {
+      "id": "THORNS;3",
+      "header": "§9Thorns III",
+      "effect": [
+        "§7Grants a §a50% §7chance to rebound §a9%",
+        "§7of damage dealt back at the attacker."
+      ]
+    },
+    {
+      "id": "THORNS;4",
+      "header": "§9Thorns IV",
+      "effect": [
+        "§7Grants a §a50% §7chance to rebound §a12%",
+        "§7of damage dealt back at the attacker."
+      ]
+    },
+    {
+      "id": "THUNDERBOLT;1",
+      "header": "§9Thunderbolt I",
+      "effect": [
+        "§7Every §c3 §7hits on a monster,",
+        "§7strike §elightning§7, dealing",
+        "§a4% §7of the hit's damage to up",
+        "§7to 10 monsters within 2 blocks."
+      ]
+    },
+    {
+      "id": "THUNDERBOLT;2",
+      "header": "§9Thunderbolt II",
+      "effect": [
+        "§7Every §c3 §7hits on a monster,",
+        "§7strike §elightning§7, dealing",
+        "§a8% §7of the hit's damage to up",
+        "§7to 10 monsters within 2 blocks."
+      ]
+    },
+    {
+      "id": "THUNDERBOLT;3",
+      "header": "§9Thunderbolt III",
+      "effect": [
+        "§7Every §c3 §7hits on a monster,",
+        "§7strike §elightning§7, dealing",
+        "§a12% §7of the hit's damage to up",
+        "§7to 10 monsters within 2 blocks."
+      ]
+    },
+    {
+      "id": "THUNDERBOLT;4",
+      "header": "§9Thunderbolt IV",
+      "effect": [
+        "§7Every §c3 §7hits on a monster,",
+        "§7strike §elightning§7, dealing",
+        "§a16% §7of the hit's damage to up",
+        "§7to 10 monsters within 2 blocks."
+      ]
+    },
+    {
+      "id": "THUNDERBOLT;5",
+      "header": "§9Thunderbolt V",
+      "effect": [
+        "§7Every §c3 §7hits on a monster,",
+        "§7strike §elightning§7, dealing",
+        "§a20% §7of the hit's damage to up",
+        "§7to 10 monsters within 2 blocks."
+      ]
+    },
+    {
+      "id": "THUNDERBOLT;6",
+      "header": "§9Thunderbolt VI",
+      "effect": [
+        "§7Every §c3 §7hits on a monster, strike",
+        "§elightning§7, dealing §a25% §7of the hit's",
+        "§7damage to up to 10 monsters within 2",
+        "§7blocks."
+      ]
+    },
+    {
+      "id": "THUNDERBOLT;7",
+      "header": "§9Thunderbolt VII",
+      "effect": [
+        "§7Every §c3 §7hits on a monster, strike",
+        "§elightning§7, dealing §a30% §7of the hit's",
+        "§7damage to up to 10 monsters within 2",
+        "§7blocks."
+      ]
+    },
+    {
+      "id": "THUNDERLORD;1",
+      "header": "§9Thunderlord I",
+      "effect": [
+        "§7Every §c3 §7hits on a monster,",
+        "§7strike §elightning§7, dealing",
+        "§a8% §7of the hit's damage."
+      ]
+    },
+    {
+      "id": "THUNDERLORD;2",
+      "header": "§9Thunderlord II",
+      "effect": [
+        "§7Every §c3 §7hits on a monster,",
+        "§7strike §elightning§7, dealing",
+        "§a16% §7of the hit's damage."
+      ]
+    },
+    {
+      "id": "THUNDERLORD;3",
+      "header": "§9Thunderlord III",
+      "effect": [
+        "§7Every §c3 §7hits on a monster,",
+        "§7strike §elightning§7, dealing",
+        "§a24% §7of the hit's damage."
+      ]
+    },
+    {
+      "id": "THUNDERLORD;4",
+      "header": "§9Thunderlord IV",
+      "effect": [
+        "§7Every §c3 §7hits on a monster,",
+        "§7strike §elightning§7, dealing",
+        "§a32% §7of the hit's damage."
+      ]
+    },
+    {
+      "id": "THUNDERLORD;5",
+      "header": "§9Thunderlord V",
+      "effect": [
+        "§7Every §c3 §7hits on a monster,",
+        "§7strike §elightning§7, dealing",
+        "§a40% §7of the hit's damage."
+      ]
+    },
+    {
+      "id": "THUNDERLORD;6",
+      "header": "§9Thunderlord VI",
+      "effect": [
+        "§7Every §c3 §7hits on a monster,",
+        "§7strike §elightning§7, dealing",
+        "§a50% §7of the hit's damage."
+      ]
+    },
+    {
+      "id": "THUNDERLORD;7",
+      "header": "§9Thunderlord VII",
+      "effect": [
+        "§7Every §c3 §7hits on a monster,",
+        "§7strike §elightning§7, dealing",
+        "§a60% §7of the hit's damage."
+      ]
+    },
+    {
+      "id": "TIDAL;1",
+      "header": "§9Tidal I",
+      "effect": [
+        "§7Increases your §a Defense §7by §a+5%",
+        "§7against Sea Creatures."
+      ]
+    },
+    {
+      "id": "TIDAL;2",
+      "header": "§9Tidal II",
+      "effect": [
+        "§7Increases your §a Defense §7by §a+10%",
+        "§7against Sea Creatures."
+      ]
+    },
+    {
+      "id": "TIDAL;3",
+      "header": "§9Tidal III",
+      "effect": [
+        "§7Increases your §a Defense §7by §a+15%",
+        "§7against Sea Creatures."
+      ]
+    },
+    {
+      "id": "TITAN_KILLER;1",
+      "header": "§9Titan Killer I",
+      "effect": [
+        "§7Increases damage dealt by §a2%",
+        "§7for every 100 defense your",
+        "§7target has up to §a6%§7."
+      ]
+    },
+    {
+      "id": "TITAN_KILLER;2",
+      "header": "§9Titan Killer II",
+      "effect": [
+        "§7Increases damage dealt by §a4%",
+        "§7for every 100 defense your",
+        "§7target has up to §a12%§7."
+      ]
+    },
+    {
+      "id": "TITAN_KILLER;3",
+      "header": "§9Titan Killer III",
+      "effect": [
+        "§7Increases damage dealt by §a6%",
+        "§7for every 100 defense your",
+        "§7target has up to §a18%§7."
+      ]
+    },
+    {
+      "id": "TITAN_KILLER;4",
+      "header": "§9Titan Killer IV",
+      "effect": [
+        "§7Increases damage dealt by §a8%",
+        "§7for every 100 defense your",
+        "§7target has up to §a24%§7."
+      ]
+    },
+    {
+      "id": "TITAN_KILLER;5",
+      "header": "§9Titan Killer V",
+      "effect": [
+        "§7Increases damage dealt by §a12%",
+        "§7for every 100 defense your",
+        "§7target has up to §a40%§7."
+      ]
+    },
+    {
+      "id": "TITAN_KILLER;6",
+      "header": "§9Titan Killer VI",
+      "effect": [
+        "§7Increases damage dealt by §a16%",
+        "§7for every 100 defense your",
+        "§7target has up to §a60%§7."
+      ]
+    },
+    {
+      "id": "TITAN_KILLER;7",
+      "header": "§9Titan Killer VII",
+      "effect": [
+        "§7Increases damage dealt by §a20%",
+        "§7for every 100 defense your",
+        "§7target has up to §a80%§7."
+      ]
+    },
+    {
+      "id": "TOXOPHILITE;1",
+      "header": "§9Toxophilite I",
+      "effect": [
+        "§7Gain §a3% §7extra Combat XP. Grants",
+        "§9+3.7 Crit Chance§7.",
+        "§850k Combat XP to tier up!"
+      ]
+    },
+    {
+      "id": "TRANSYLVANIAN;4",
+      "header": "§9Transylvanian IV",
+      "effect": [
+        "§7Heal §c2❤§7/s per enemy within §a10",
+        "§7blocks, up to §c20❤§7/s."
+      ]
+    },
+    {
+      "id": "TRANSYLVANIAN;5",
+      "header": "§9Transylvanian V",
+      "effect": [
+        "§7Heal §c4❤§7/s per enemy within §a10",
+        "§7blocks, up to §c40❤§7/s."
+      ]
+    },
+    {
+      "id": "TRIPLE_STRIKE;1",
+      "header": "§9Triple-Strike I",
+      "effect": [
+        "§7Increases melee damage dealt by",
+        "§a10% §7for the first three hits",
+        "§7on a mob."
+      ]
+    },
+    {
+      "id": "TRIPLE_STRIKE;2",
+      "header": "§9Triple-Strike II",
+      "effect": [
+        "§7Increases melee damage dealt by",
+        "§a20% §7for the first three hits",
+        "§7on a mob."
+      ]
+    },
+    {
+      "id": "TRIPLE_STRIKE;3",
+      "header": "§9Triple-Strike III",
+      "effect": [
+        "§7Increases melee damage dealt by",
+        "§a30% §7for the first three hits",
+        "§7on a mob."
+      ]
+    },
+    {
+      "id": "TRIPLE_STRIKE;4",
+      "header": "§9Triple-Strike IV",
+      "effect": [
+        "§7Increases melee damage dealt by",
+        "§a40% §7for the first three hits",
+        "§7on a mob."
+      ]
+    },
+    {
+      "id": "TRIPLE_STRIKE;5",
+      "header": "§9Triple-Strike V",
+      "effect": [
+        "§7Increases melee damage dealt by",
+        "§a50% §7for the first three hits",
+        "§7on a mob."
+      ]
+    },
+    {
+      "id": "TRUE_PROTECTION;1",
+      "header": "§9True Protection I",
+      "effect": [
+        "§7Grants §f+5 True Defense§7."
+      ]
+    },
+    {
+      "id": "TURBO_CACTUS;1",
+      "header": "§9Turbo-Cacti I",
+      "effect": [
+        "§7Grants §6+5 Cactus Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_CACTUS;2",
+      "header": "§9Turbo-Cacti II",
+      "effect": [
+        "§7Grants §6+10 Cactus Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_CACTUS;3",
+      "header": "§9Turbo-Cacti III",
+      "effect": [
+        "§7Grants §6+15 Cactus Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_CACTUS;4",
+      "header": "§9Turbo-Cacti IV",
+      "effect": [
+        "§7Grants §6+20 Cactus Fortune§7.",
+        "§7Requires §cBronze §7in a §aCactus Contest§7!"
+      ]
+    },
+    {
+      "id": "TURBO_CACTUS;5",
+      "header": "§9Turbo-Cacti V",
+      "effect": [
+        "§7Grants §6+25 Cactus Fortune§7.",
+        "§7Requires §fSilver §7in a §aCactus Contest§7!"
+      ]
+    },
+    {
+      "id": "TURBO_CACTUS;6",
+      "header": "§9Turbo-Cacti VI",
+      "effect": [
+        "§7Grants §6+30 Cactus Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_CACTUS;7",
+      "header": "§9Turbo-Cacti VII",
+      "effect": [
+        "§7Grants §6+35 Cactus Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_CANE;1",
+      "header": "§9Turbo-Cane I",
+      "effect": [
+        "§7Grants §6+5 Sugar Cane Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_CANE;2",
+      "header": "§9Turbo-Cane II",
+      "effect": [
+        "§7Grants §6+10 Sugar Cane Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_CANE;3",
+      "header": "§9Turbo-Cane III",
+      "effect": [
+        "§7Grants §6+15 Sugar Cane Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_CANE;4",
+      "header": "§9Turbo-Cane IV",
+      "effect": [
+        "§7Grants §6+20 Sugar Cane Fortune§7.",
+        "§7Requires §cBronze §7in a §aSugar Cane Contest§7!"
+      ]
+    },
+    {
+      "id": "TURBO_CANE;5",
+      "header": "§9Turbo-Cane V",
+      "effect": [
+        "§7Grants §6+25 Sugar Cane Fortune§7.",
+        "§7Requires §fSilver §7in a §aSugar Cane Contest§7!"
+      ]
+    },
+    {
+      "id": "TURBO_CANE;6",
+      "header": "§9Turbo-Cane VI",
+      "effect": [
+        "§7Grants §6+30 Sugar Cane Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_CANE;7",
+      "header": "§9Turbo-Cane VII",
+      "effect": [
+        "§7Grants §6+35 Sugar Cane Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_CARROT;1",
+      "header": "§9Turbo-Carrot I",
+      "effect": [
+        "§7Grants §6+5 Carrot Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_CARROT;2",
+      "header": "§9Turbo-Carrot II",
+      "effect": [
+        "§7Grants §6+10 Carrot Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_CARROT;3",
+      "header": "§9Turbo-Carrot III",
+      "effect": [
+        "§7Grants §6+15 Carrot Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_CARROT;4",
+      "header": "§9Turbo-Carrot IV",
+      "effect": [
+        "§7Grants §6+20 Carrot Fortune§7.",
+        "§7Requires §cBronze §7in a §aCarrot Contest§7!"
+      ]
+    },
+    {
+      "id": "TURBO_CARROT;5",
+      "header": "§9Turbo-Carrot V",
+      "effect": [
+        "§7Grants §6+25 Carrot Fortune§7.",
+        "§7Requires §fSilver §7in a §aCarrot Contest§7!"
+      ]
+    },
+    {
+      "id": "TURBO_CARROT;6",
+      "header": "§9Turbo-Carrot VI",
+      "effect": [
+        "§7Grants §6+30 Carrot Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_CARROT;7",
+      "header": "§9Turbo-Carrot VII",
+      "effect": [
+        "§7Grants §6+35 Carrot Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_COCO;1",
+      "header": "§9Turbo-Cocoa I",
+      "effect": [
+        "§7Grants §6+5 Cocoa Beans Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_COCO;2",
+      "header": "§9Turbo-Cocoa II",
+      "effect": [
+        "§7Grants §6+10 Cocoa Beans Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_COCO;3",
+      "header": "§9Turbo-Cocoa III",
+      "effect": [
+        "§7Grants §6+15 Cocoa Beans Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_COCO;4",
+      "header": "§9Turbo-Cocoa IV",
+      "effect": [
+        "§7Grants §6+20 Cocoa Beans Fortune§7.",
+        "§7Requires §cBronze §7in a §aCocoa Beans Contest§7!"
+      ]
+    },
+    {
+      "id": "TURBO_COCO;5",
+      "header": "§9Turbo-Cocoa V",
+      "effect": [
+        "§7Grants §6+25 Cocoa Beans Fortune§7.",
+        "§7Requires §fSilver §7in a §aCocoa Beans Contest§7!"
+      ]
+    },
+    {
+      "id": "TURBO_COCO;6",
+      "header": "§9Turbo-Cocoa VI",
+      "effect": [
+        "§7Grants §6+30 Cocoa Beans Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_COCO;7",
+      "header": "§9Turbo-Cocoa VII",
+      "effect": [
+        "§7Grants §6+35 Cocoa Beans Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_MELON;1",
+      "header": "§9Turbo-Melon I",
+      "effect": [
+        "§7Grants §6+5 Melon Slice Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_MELON;2",
+      "header": "§9Turbo-Melon II",
+      "effect": [
+        "§7Grants §6+10 Melon Slice Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_MELON;3",
+      "header": "§9Turbo-Melon III",
+      "effect": [
+        "§7Grants §6+15 Melon Slice Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_MELON;4",
+      "header": "§9Turbo-Melon IV",
+      "effect": [
+        "§7Grants §6+20 Melon Slice Fortune§7.",
+        "§7Requires §cBronze §7in a §aMelon Slice Contest§7!"
+      ]
+    },
+    {
+      "id": "TURBO_MELON;5",
+      "header": "§9Turbo-Melon V",
+      "effect": [
+        "§7Grants §6+25 Melon Slice Fortune§7.",
+        "§7Requires §fSilver §7in a §aMelon Slice Contest§7!"
+      ]
+    },
+    {
+      "id": "TURBO_MELON;6",
+      "header": "§9Turbo-Melon VI",
+      "effect": [
+        "§7Grants §6+30 Melon Slice Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_MELON;7",
+      "header": "§9Turbo-Melon VII",
+      "effect": [
+        "§7Grants §6+35 Melon Slice Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_MOONFLOWER;1",
+      "header": "§9Turbo-Moonflower I",
+      "effect": [
+        "§7Grants §6+5 Moonflower Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_MOONFLOWER;2",
+      "header": "§9Turbo-Moonflower II",
+      "effect": [
+        "§7Grants §6+10 Moonflower Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_MOONFLOWER;3",
+      "header": "§9Turbo-Moonflower III",
+      "effect": [
+        "§7Grants §6+15 Moonflower Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_MOONFLOWER;4",
+      "header": "§9Turbo-Moonflower IV",
+      "effect": [
+        "§7Grants §6+20 Moonflower Fortune§7.",
+        "§7Requires §cBronze §7in a §aMoonflower Contest§7!"
+      ]
+    },
+    {
+      "id": "TURBO_MOONFLOWER;5",
+      "header": "§9Turbo-Moonflower V",
+      "effect": [
+        "§7Grants §6+25 Moonflower Fortune§7.",
+        "§7Requires §fSilver §7in a §aMoonflower Contest§7!"
+      ]
+    },
+    {
+      "id": "TURBO_MOONFLOWER;6",
+      "header": "§9Turbo-Moonflower VI",
+      "effect": [
+        "§7Grants §6+30 Moonflower Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_MOONFLOWER;7",
+      "header": "§9Turbo-Moonflower VII",
+      "effect": [
+        "§7Grants §6+35 Moonflower Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_MUSHROOMS;1",
+      "header": "§9Turbo-Mushrooms I",
+      "effect": [
+        "§7Grants §6+5 Mushroom Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_MUSHROOMS;2",
+      "header": "§9Turbo-Mushrooms II",
+      "effect": [
+        "§7Grants §6+10 Mushroom Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_MUSHROOMS;3",
+      "header": "§9Turbo-Mushrooms III",
+      "effect": [
+        "§7Grants §6+15 Mushroom Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_MUSHROOMS;4",
+      "header": "§9Turbo-Mushrooms IV",
+      "effect": [
+        "§7Grants §6+20 Mushroom Fortune§7.",
+        "§7Requires §cBronze §7in a §aMushroom Contest§7!"
+      ]
+    },
+    {
+      "id": "TURBO_MUSHROOMS;5",
+      "header": "§9Turbo-Mushrooms V",
+      "effect": [
+        "§7Grants §6+25 Mushroom Fortune§7.",
+        "§7Requires §fSilver §7in a §aMushroom Contest§7!"
+      ]
+    },
+    {
+      "id": "TURBO_MUSHROOMS;6",
+      "header": "§9Turbo-Mushrooms VI",
+      "effect": [
+        "§7Grants §6+30 Mushroom Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_MUSHROOMS;7",
+      "header": "§9Turbo-Mushrooms VII",
+      "effect": [
+        "§7Grants §6+35 Mushroom Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_POTATO;1",
+      "header": "§9Turbo-Potato I",
+      "effect": [
+        "§7Grants §6+5 Potato Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_POTATO;2",
+      "header": "§9Turbo-Potato II",
+      "effect": [
+        "§7Grants §6+10 Potato Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_POTATO;3",
+      "header": "§9Turbo-Potato III",
+      "effect": [
+        "§7Grants §6+15 Potato Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_POTATO;4",
+      "header": "§9Turbo-Potato IV",
+      "effect": [
+        "§7Grants §6+20 Potato Fortune§7.",
+        "§7Requires §cBronze §7in a §aPotato Contest§7!"
+      ]
+    },
+    {
+      "id": "TURBO_POTATO;5",
+      "header": "§9Turbo-Potato V",
+      "effect": [
+        "§7Grants §6+25 Potato Fortune§7.",
+        "§7Requires §fSilver §7in a §aPotato Contest§7!"
+      ]
+    },
+    {
+      "id": "TURBO_POTATO;6",
+      "header": "§9Turbo-Potato VI",
+      "effect": [
+        "§7Grants §6+30 Potato Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_POTATO;7",
+      "header": "§9Turbo-Potato VII",
+      "effect": [
+        "§7Grants §6+35 Potato Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_PUMPKIN;1",
+      "header": "§9Turbo-Pumpkin I",
+      "effect": [
+        "§7Grants §6+5 Pumpkin Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_PUMPKIN;2",
+      "header": "§9Turbo-Pumpkin II",
+      "effect": [
+        "§7Grants §6+10 Pumpkin Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_PUMPKIN;3",
+      "header": "§9Turbo-Pumpkin III",
+      "effect": [
+        "§7Grants §6+15 Pumpkin Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_PUMPKIN;4",
+      "header": "§9Turbo-Pumpkin IV",
+      "effect": [
+        "§7Grants §6+20 Pumpkin Fortune§7.",
+        "§7Requires §cBronze §7in a §aPumpkin Contest§7!"
+      ]
+    },
+    {
+      "id": "TURBO_PUMPKIN;5",
+      "header": "§9Turbo-Pumpkin V",
+      "effect": [
+        "§7Grants §6+25 Pumpkin Fortune§7.",
+        "§7Requires §fSilver §7in a §aPumpkin Contest§7!"
+      ]
+    },
+    {
+      "id": "TURBO_PUMPKIN;6",
+      "header": "§9Turbo-Pumpkin VI",
+      "effect": [
+        "§7Grants §6+30 Pumpkin Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_PUMPKIN;7",
+      "header": "§9Turbo-Pumpkin VII",
+      "effect": [
+        "§7Grants §6+35 Pumpkin Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_ROSE;1",
+      "header": "§9Turbo-Rose I",
+      "effect": [
+        "§7Grants §6+5 Wild Rose Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_ROSE;2",
+      "header": "§9Turbo-Rose II",
+      "effect": [
+        "§7Grants §6+10 Wild Rose Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_ROSE;3",
+      "header": "§9Turbo-Rose III",
+      "effect": [
+        "§7Grants §6+15 Wild Rose Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_ROSE;4",
+      "header": "§9Turbo-Rose IV",
+      "effect": [
+        "§7Grants §6+20 Wild Rose Fortune§7.",
+        "§7Requires §cBronze §7in a §aWild Rose Contest§7!"
+      ]
+    },
+    {
+      "id": "TURBO_ROSE;5",
+      "header": "§9Turbo-Rose V",
+      "effect": [
+        "§7Grants §6+25 Wild Rose Fortune§7.",
+        "§7Requires §fSilver §7in a §aWild Rose Contest§7!"
+      ]
+    },
+    {
+      "id": "TURBO_ROSE;6",
+      "header": "§9Turbo-Rose VI",
+      "effect": [
+        "§7Grants §6+30 Wild Rose Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_ROSE;7",
+      "header": "§9Turbo-Rose VII",
+      "effect": [
+        "§7Grants §6+35 Wild Rose Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_SUNFLOWER;1",
+      "header": "§9Turbo-Sunflower I",
+      "effect": [
+        "§7Grants §6+5 Sunflower Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_SUNFLOWER;2",
+      "header": "§9Turbo-Sunflower II",
+      "effect": [
+        "§7Grants §6+10 Sunflower Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_SUNFLOWER;3",
+      "header": "§9Turbo-Sunflower III",
+      "effect": [
+        "§7Grants §6+15 Sunflower Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_SUNFLOWER;4",
+      "header": "§9Turbo-Sunflower IV",
+      "effect": [
+        "§7Grants §6+20 Sunflower Fortune§7.",
+        "§7Requires §cBronze §7in a §aSunflower Contest§7!"
+      ]
+    },
+    {
+      "id": "TURBO_SUNFLOWER;5",
+      "header": "§9Turbo-Sunflower V",
+      "effect": [
+        "§7Grants §6+25 Sunflower Fortune§7.",
+        "§7Requires §fSilver §7in a §aSunflower Contest§7!"
+      ]
+    },
+    {
+      "id": "TURBO_SUNFLOWER;6",
+      "header": "§9Turbo-Sunflower VI",
+      "effect": [
+        "§7Grants §6+30 Sunflower Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_SUNFLOWER;7",
+      "header": "§9Turbo-Sunflower VII",
+      "effect": [
+        "§7Grants §6+35 Sunflower Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_WARTS;1",
+      "header": "§9Turbo-Warts I",
+      "effect": [
+        "§7Grants §6+5 Nether Wart Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_WARTS;2",
+      "header": "§9Turbo-Warts II",
+      "effect": [
+        "§7Grants §6+10 Nether Wart Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_WARTS;3",
+      "header": "§9Turbo-Warts III",
+      "effect": [
+        "§7Grants §6+15 Nether Wart Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_WARTS;4",
+      "header": "§9Turbo-Warts IV",
+      "effect": [
+        "§7Grants §6+20 Nether Wart Fortune§7.",
+        "§7Requires §cBronze §7in a §aNether Warts Contest§7!"
+      ]
+    },
+    {
+      "id": "TURBO_WARTS;5",
+      "header": "§9Turbo-Warts V",
+      "effect": [
+        "§7Grants §6+25 Nether Wart Fortune§7.",
+        "§7Requires §fSilver §7in a §aNether Warts Contest§7!"
+      ]
+    },
+    {
+      "id": "TURBO_WARTS;6",
+      "header": "§9Turbo-Warts VI",
+      "effect": [
+        "§7Grants §6+30 Nether Wart Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_WARTS;7",
+      "header": "§9Turbo-Warts VII",
+      "effect": [
+        "§7Grants §6+35 Nether Wart Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_WHEAT;1",
+      "header": "§9Turbo-Wheat I",
+      "effect": [
+        "§7Grants §6+5 Wheat Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_WHEAT;2",
+      "header": "§9Turbo-Wheat II",
+      "effect": [
+        "§7Grants §6+10 Wheat Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_WHEAT;3",
+      "header": "§9Turbo-Wheat III",
+      "effect": [
+        "§7Grants §6+15 Wheat Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_WHEAT;4",
+      "header": "§9Turbo-Wheat IV",
+      "effect": [
+        "§7Grants §6+20 Wheat Fortune§7.",
+        "§7Requires §cBronze §7in a §aWheat Contest§7!"
+      ]
+    },
+    {
+      "id": "TURBO_WHEAT;5",
+      "header": "§9Turbo-Wheat V",
+      "effect": [
+        "§7Grants §6+25 Wheat Fortune§7.",
+        "§7Requires §fSilver §7in a §aWheat Contest§7!"
+      ]
+    },
+    {
+      "id": "TURBO_WHEAT;6",
+      "header": "§9Turbo-Wheat VI",
+      "effect": [
+        "§7Grants §6+30 Wheat Fortune§7."
+      ]
+    },
+    {
+      "id": "TURBO_WHEAT;7",
+      "header": "§9Turbo-Wheat VII",
+      "effect": [
+        "§7Grants §6+35 Wheat Fortune§7."
+      ]
+    },
+    {
+      "id": "ULTIMATE_BANK;1",
+      "header": "§d§lBank I",
+      "effect": [
+        "§7Saves §610% §7of your coins on",
+        "§7death. Additionally, enemies",
+        "§7drop §6+0.5 coins §7when killed."
+      ]
+    },
+    {
+      "id": "ULTIMATE_BANK;2",
+      "header": "§d§lBank II",
+      "effect": [
+        "§7Saves §620% §7of your coins on",
+        "§7death. Additionally, enemies",
+        "§7drop §6+1.0 coins §7when killed."
+      ]
+    },
+    {
+      "id": "ULTIMATE_BANK;3",
+      "header": "§d§lBank III",
+      "effect": [
+        "§7Saves §630% §7of your coins on",
+        "§7death. Additionally, enemies",
+        "§7drop §6+1.5 coins §7when killed."
+      ]
+    },
+    {
+      "id": "ULTIMATE_BANK;4",
+      "header": "§d§lBank IV",
+      "effect": [
+        "§7Saves §640% §7of your coins on",
+        "§7death. Additionally, enemies",
+        "§7drop §6+2.0 coins §7when killed."
+      ]
+    },
+    {
+      "id": "ULTIMATE_BANK;5",
+      "header": "§d§lBank V",
+      "effect": [
+        "§7Saves §650% §7of your coins on",
+        "§7death. Additionally, enemies",
+        "§7drop §6+2.5 coins §7when killed."
+      ]
+    },
+    {
+      "id": "ULTIMATE_BOBBIN_TIME;3",
+      "header": "§d§lBobbin' Time III",
+      "effect": [
+        "§7Increases all §bFishing Stats §7and §b Magic Find §7by",
+        "§b+0.6% §7per fishing bobber within §a30 blocks§7, up to",
+        "§b5 §7bobbers."
+      ]
+    },
+    {
+      "id": "ULTIMATE_BOBBIN_TIME;4",
+      "header": "§d§lBobbin' Time IV",
+      "effect": [
+        "§7Increases all §bFishing Stats §7and §b Magic Find §7by",
+        "§b+0.8% §7per fishing bobber within §a30 blocks§7, up to",
+        "§b5 §7bobbers."
+      ]
+    },
+    {
+      "id": "ULTIMATE_BOBBIN_TIME;5",
+      "header": "§d§lBobbin' Time V",
+      "effect": [
+        "§7Increases all §bFishing Stats §7and §b Magic Find §7by",
+        "§b1.0% §7per fishing bobber within §a30 blocks§7, up to",
+        "§b5 §7bobbers."
+      ]
+    },
+    {
+      "id": "ULTIMATE_CHIMERA;1",
+      "header": "§d§lChimera I",
+      "effect": [
+        "§7Copies §a20% §7of your active",
+        "§7pet's stats."
+      ]
+    },
+    {
+      "id": "ULTIMATE_CHIMERA;2",
+      "header": "§d§lChimera II",
+      "effect": [
+        "§7Copies §a40% §7of your active",
+        "§7pet's stats."
+      ]
+    },
+    {
+      "id": "ULTIMATE_CHIMERA;3",
+      "header": "§d§lChimera III",
+      "effect": [
+        "§7Copies §a60% §7of your active",
+        "§7pet's stats."
+      ]
+    },
+    {
+      "id": "ULTIMATE_CHIMERA;4",
+      "header": "§d§lChimera IV",
+      "effect": [
+        "§7Copies §a80% §7of your active",
+        "§7pet's stats."
+      ]
+    },
+    {
+      "id": "ULTIMATE_CHIMERA;5",
+      "header": "§d§lChimera V",
+      "effect": [
+        "§7Copies §a100% §7of your active",
+        "§7pet's stats."
+      ]
+    },
+    {
+      "id": "ULTIMATE_COMBO;1",
+      "header": "§d§lCombo I",
+      "effect": [
+        "§7Increases your damage by §c+1%",
+        "§7per kill up to §a2 §7kills",
+        "§7within §a2s§7."
+      ]
+    },
+    {
+      "id": "ULTIMATE_COMBO;2",
+      "header": "§d§lCombo II",
+      "effect": [
+        "§7Increases your damage by §c+2%",
+        "§7per kill up to §a4 §7kills",
+        "§7within §a4s§7."
+      ]
+    },
+    {
+      "id": "ULTIMATE_COMBO;3",
+      "header": "§d§lCombo III",
+      "effect": [
+        "§7Increases your damage by §c+3%",
+        "§7per kill up to §a6 §7kills",
+        "§7within §a6s§7."
+      ]
+    },
+    {
+      "id": "ULTIMATE_COMBO;4",
+      "header": "§d§lCombo IV",
+      "effect": [
+        "§7Increases your damage by §c+4%",
+        "§7per kill up to §a8 §7kills",
+        "§7within §a8s§7."
+      ]
+    },
+    {
+      "id": "ULTIMATE_COMBO;5",
+      "header": "§d§lCombo V",
+      "effect": [
+        "§7Increases your damage by §c+5%",
+        "§7per kill up to §a10 §7kills",
+        "§7within §a10s§7."
+      ]
+    },
+    {
+      "id": "ULTIMATE_CROP_FEVER;1",
+      "header": "§d§lCrop Fever I",
+      "effect": [
+        "§7When breaking crops, there is a",
+        "§a0.001% §7chance to trigger §d§lCrop",
+        "§d§lFever §7for §a60s §7which grants:",
+        "§8- §7Additional crop rolls",
+        "§8- §e+15 Overbloom",
+        "§8- §6+100 Farming Fortune"
+      ]
+    },
+    {
+      "id": "ULTIMATE_CROP_FEVER;2",
+      "header": "§d§lCrop Fever II",
+      "effect": [
+        "§7When breaking crops, there is a",
+        "§a0.002% §7chance to trigger §d§lCrop",
+        "§d§lFever §7for §a60s §7which grants:",
+        "§8- §7Additional crop rolls",
+        "§8- §e+15 Overbloom",
+        "§8- §6+100 Farming Fortune"
+      ]
+    },
+    {
+      "id": "ULTIMATE_CROP_FEVER;3",
+      "header": "§d§lCrop Fever III",
+      "effect": [
+        "§7When breaking crops, there is a",
+        "§a0.003% §7chance to trigger §d§lCrop",
+        "§d§lFever §7for §a60s §7which grants:",
+        "§8- §7Additional crop rolls",
+        "§8- §e+15 Overbloom",
+        "§8- §6+100 Farming Fortune"
+      ]
+    },
+    {
+      "id": "ULTIMATE_CROP_FEVER;4",
+      "header": "§d§lCrop Fever IV",
+      "effect": [
+        "§7When breaking crops, there is a",
+        "§a0.004% §7chance to trigger §d§lCrop",
+        "§d§lFever §7for §a60s §7which grants:",
+        "§8- §7Additional crop rolls",
+        "§8- §e+15 Overbloom",
+        "§8- §6+100 Farming Fortune"
+      ]
+    },
+    {
+      "id": "ULTIMATE_CROP_FEVER;5",
+      "header": "§d§lCrop Fever V",
+      "effect": [
+        "§7When breaking crops, there is a",
+        "§a0.005% §7chance to trigger §d§lCrop",
+        "§d§lFever §7for §a60s §7which grants:",
+        "§8- §7Additional crop rolls",
+        "§8- §e+15 Overbloom",
+        "§8- §6+100 Farming Fortune"
+      ]
+    },
+    {
+      "id": "ULTIMATE_FATAL_TEMPO;1",
+      "header": "§d§lFatal Tempo I",
+      "effect": [
+        "§7Attacking increases your §c",
+        "§cFerocity §7by §c10% §7per hit,",
+        "§7capped at §c200% §7for 3 seconds",
+        "§7after your last attack."
+      ]
+    },
+    {
+      "id": "ULTIMATE_FATAL_TEMPO;2",
+      "header": "§d§lFatal Tempo II",
+      "effect": [
+        "§7Attacking increases your §c",
+        "§cFerocity §7by §c20% §7per hit,",
+        "§7capped at §c200% §7for 3 seconds",
+        "§7after your last attack."
+      ]
+    },
+    {
+      "id": "ULTIMATE_FATAL_TEMPO;3",
+      "header": "§d§lFatal Tempo III",
+      "effect": [
+        "§7Attacking increases your §c",
+        "§cFerocity §7by §c30% §7per hit,",
+        "§7capped at §c200% §7for 3 seconds",
+        "§7after your last attack."
+      ]
+    },
+    {
+      "id": "ULTIMATE_FATAL_TEMPO;4",
+      "header": "§d§lFatal Tempo IV",
+      "effect": [
+        "§7Attacking increases your §c",
+        "§cFerocity §7by §c40% §7per hit,",
+        "§7capped at §c200% §7for 3 seconds",
+        "§7after your last attack."
+      ]
+    },
+    {
+      "id": "ULTIMATE_FATAL_TEMPO;5",
+      "header": "§d§lFatal Tempo V",
+      "effect": [
+        "§7Attacking increases your §c",
+        "§cFerocity §7by §c50% §7per hit,",
+        "§7capped at §c200% §7for 3 seconds",
+        "§7after your last attack."
+      ]
+    },
+    {
+      "id": "ULTIMATE_FIRST_IMPRESSION;1",
+      "header": "§d§lFirst Impression I",
+      "effect": [
+        "§7Grants §2+1 Sweep §7on melee Log",
+        "§7Breaks, and your first melee Log",
+        "§7Break on a tree grants you §2+2",
+        "§2Sweep§7."
+      ]
+    },
+    {
+      "id": "ULTIMATE_FIRST_IMPRESSION;2",
+      "header": "§d§lFirst Impression II",
+      "effect": [
+        "§7Grants §2+2 Sweep §7on melee Log",
+        "§7Breaks, and your first melee Log",
+        "§7Break on a tree grants you §2+4",
+        "§2Sweep§7."
+      ]
+    },
+    {
+      "id": "ULTIMATE_FIRST_IMPRESSION;3",
+      "header": "§d§lFirst Impression III",
+      "effect": [
+        "§7Grants §2+3 Sweep §7on melee Log",
+        "§7Breaks, and your first melee Log",
+        "§7Break on a tree grants you §2+6",
+        "§2Sweep§7."
+      ]
+    },
+    {
+      "id": "ULTIMATE_FIRST_IMPRESSION;4",
+      "header": "§d§lFirst Impression IV",
+      "effect": [
+        "§7Grants §2+4 Sweep §7on melee Log",
+        "§7Breaks, and your first melee Log",
+        "§7Break on a tree grants you §2+8",
+        "§2Sweep§7."
+      ]
+    },
+    {
+      "id": "ULTIMATE_FIRST_IMPRESSION;5",
+      "header": "§d§lFirst Impression V",
+      "effect": [
+        "§7Grants §2+5 Sweep §7on melee Log",
+        "§7Breaks, and your first melee Log",
+        "§7Break on a tree grants you §2+10",
+        "§2Sweep§7."
+      ]
+    },
+    {
+      "id": "ULTIMATE_FLASH;1",
+      "header": "§d§lFlash I",
+      "effect": [
+        "§7Gain a §a1%§7 chance to",
+        "§7instantly attract a fish."
+      ]
+    },
+    {
+      "id": "ULTIMATE_FLASH;2",
+      "header": "§d§lFlash II",
+      "effect": [
+        "§7Gain a §a2%§7 chance to",
+        "§7instantly attract a fish."
+      ]
+    },
+    {
+      "id": "ULTIMATE_FLASH;3",
+      "header": "§d§lFlash III",
+      "effect": [
+        "§7Gain a §a3%§7 chance to",
+        "§7instantly attract a fish."
+      ]
+    },
+    {
+      "id": "ULTIMATE_FLASH;4",
+      "header": "§d§lFlash IV",
+      "effect": [
+        "§7Gain a §a4%§7 chance to",
+        "§7instantly attract a fish."
+      ]
+    },
+    {
+      "id": "ULTIMATE_FLASH;5",
+      "header": "§d§lFlash V",
+      "effect": [
+        "§7Gain a §a5%§7 chance to",
+        "§7instantly attract a fish."
+      ]
+    },
+    {
+      "id": "ULTIMATE_FLOWSTATE;1",
+      "header": "§d§lFlowstate I",
+      "effect": [
+        "§7Consecutive blocks broken grant",
+        "§6+1 Mining Speed§7. Stops after §a10s",
+        "§7of not mining and caps at §a200 §7blocks."
+      ]
+    },
+    {
+      "id": "ULTIMATE_FLOWSTATE;2",
+      "header": "§d§lFlowstate II",
+      "effect": [
+        "§7Consecutive blocks broken grant",
+        "§6+2 Mining Speed§7. Stops after §a10s",
+        "§7of not mining and caps at §a200 §7blocks."
+      ]
+    },
+    {
+      "id": "ULTIMATE_FLOWSTATE;3",
+      "header": "§d§lFlowstate III",
+      "effect": [
+        "§7Consecutive blocks broken grant",
+        "§6+3 Mining Speed§7. Stops after §a10s",
+        "§7of not mining and caps at §a200 §7blocks."
+      ]
+    },
+    {
+      "id": "ULTIMATE_HABANERO_TACTICS;4",
+      "header": "§d§lHabanero Tactics IV",
+      "effect": [
+        "§8ℏ §7Heal §a+6% §7more from wands.",
+        "§8ℏ §7Deal §c+20% damage §7against Slayer Bosses",
+        "§7with Slayer weapons.",
+        "§8ℏ §7Gain §3+2.5☯ Combat Wisdom §7with Slayer",
+        "§7weapons.",
+        "§8ℏ §7With §aSmoldering Polarization§7, gain §b+10",
+        "§bMagic Find §7on your slayer weapon."
+      ]
+    },
+    {
+      "id": "ULTIMATE_HABANERO_TACTICS;5",
+      "header": "§d§lHabanero Tactics V",
+      "effect": [
+        "§8ℏ §7Heal §a+7.5% §7more from wands.",
+        "§8ℏ §7Deal §c+25% damage §7against Slayer Bosses",
+        "§7with Slayer weapons.",
+        "§8ℏ §7Gain §3+5☯ Combat Wisdom §7with Slayer",
+        "§7weapons.",
+        "§8ℏ §7With §aSmoldering Polarization§7, gain §b+15",
+        "§bMagic Find §7on your slayer weapon."
+      ]
+    },
+    {
+      "id": "ULTIMATE_INFERNO;1",
+      "header": "§d§lInferno I",
+      "effect": [
+        "§7Every §c10th §7hit on a mob",
+        "§7spawns an inferno which traps",
+        "§7the mob and deals §c125% §7of",
+        "§7your last hit."
+      ]
+    },
+    {
+      "id": "ULTIMATE_INFERNO;2",
+      "header": "§d§lInferno II",
+      "effect": [
+        "§7Every §c10th §7hit on a mob",
+        "§7spawns an inferno which traps",
+        "§7the mob and deals §c150% §7of",
+        "§7your last hit."
+      ]
+    },
+    {
+      "id": "ULTIMATE_INFERNO;3",
+      "header": "§d§lInferno III",
+      "effect": [
+        "§7Every §c10th §7hit on a mob",
+        "§7spawns an inferno which traps",
+        "§7the mob and deals §c175% §7of",
+        "§7your last hit."
+      ]
+    },
+    {
+      "id": "ULTIMATE_INFERNO;4",
+      "header": "§d§lInferno IV",
+      "effect": [
+        "§7Every §c10th §7hit on a mob",
+        "§7spawns an inferno which traps",
+        "§7the mob and deals §c200% §7of",
+        "§7your last hit."
+      ]
+    },
+    {
+      "id": "ULTIMATE_INFERNO;5",
+      "header": "§d§lInferno V",
+      "effect": [
+        "§7Every §c10th §7hit on a mob",
+        "§7spawns an inferno which traps",
+        "§7the mob and deals §c225% §7of",
+        "§7your last hit."
+      ]
+    },
+    {
+      "id": "ULTIMATE_JERRY;1",
+      "header": "§d§lUltimate Jerry I",
+      "effect": [
+        "§7Increases the base damage of",
+        "§fAspect of the Jerry§7 by",
+        "§a1000%§7."
+      ]
+    },
+    {
+      "id": "ULTIMATE_JERRY;2",
+      "header": "§d§lUltimate Jerry II",
+      "effect": [
+        "§7Increases the base damage of",
+        "§fAspect of the Jerry§7 by",
+        "§a2000%§7."
+      ]
+    },
+    {
+      "id": "ULTIMATE_JERRY;3",
+      "header": "§d§lUltimate Jerry III",
+      "effect": [
+        "§7Increases the base damage of",
+        "§fAspect of the Jerry§7 by",
+        "§a3000%§7."
+      ]
+    },
+    {
+      "id": "ULTIMATE_JERRY;4",
+      "header": "§d§lUltimate Jerry IV",
+      "effect": [
+        "§7Increases the base damage of",
+        "§fAspect of the Jerry§7 by",
+        "§a4000%§7."
+      ]
+    },
+    {
+      "id": "ULTIMATE_JERRY;5",
+      "header": "§d§lUltimate Jerry V",
+      "effect": [
+        "§7Increases the base damage of",
+        "§fAspect of the Jerry§7 by",
+        "§a5000%§7."
+      ]
+    },
+    {
+      "id": "ULTIMATE_LAST_STAND;1",
+      "header": "§d§lLast Stand I",
+      "effect": [
+        "§7When falling below §c40%  Health§7:",
+        "§8- §7Gain §a+2.5%  Defense §7for §a10s§7.",
+        "§8- §7Regen §42 Vitality§7.",
+        "§8Cooldown: 30s"
+      ]
+    },
+    {
+      "id": "ULTIMATE_LAST_STAND;2",
+      "header": "§d§lLast Stand II",
+      "effect": [
+        "§7When falling below §c40%  Health§7:",
+        "§8- §7Gain §a+5%  Defense §7for §a10s§7.",
+        "§8- §7Regen §44 Vitality§7.",
+        "§8Cooldown: 30s"
+      ]
+    },
+    {
+      "id": "ULTIMATE_LAST_STAND;3",
+      "header": "§d§lLast Stand III",
+      "effect": [
+        "§7When falling below §c40%  Health§7:",
+        "§8- §7Gain §a+7.5%  Defense §7for §a10s§7.",
+        "§8- §7Regen §46 Vitality§7.",
+        "§8Cooldown: 30s"
+      ]
+    },
+    {
+      "id": "ULTIMATE_LAST_STAND;4",
+      "header": "§d§lLast Stand IV",
+      "effect": [
+        "§7When falling below §c40%  Health§7:",
+        "§8- §7Gain §a+10%  Defense §7for §a10s§7.",
+        "§8- §7Regen §48 Vitality§7.",
+        "§8Cooldown: 30s"
+      ]
+    },
+    {
+      "id": "ULTIMATE_LAST_STAND;5",
+      "header": "§d§lLast Stand V",
+      "effect": [
+        "§7When falling below §c40%  Health§7:",
+        "§8- §7Gain §a+12.5%  Defense §7for §a10s§7.",
+        "§8- §7Regen §410 Vitality§7.",
+        "§8Cooldown: 30s"
+      ]
+    },
+    {
+      "id": "ULTIMATE_LEGION;1",
+      "header": "§d§lLegion I",
+      "effect": [
+        "§7Increases all §cCombat §7stats and §b",
+        "§bMagic Find §7by §e0.07% §7per player within",
+        "§b30 §7blocks of you, up to §c20 §7players."
+      ]
+    },
+    {
+      "id": "ULTIMATE_LEGION;2",
+      "header": "§d§lLegion II",
+      "effect": [
+        "§7Increases all §cCombat §7stats and §b",
+        "§bMagic Find §7by §e0.14% §7per player within",
+        "§b30 §7blocks of you, up to §c20 §7players."
+      ]
+    },
+    {
+      "id": "ULTIMATE_LEGION;3",
+      "header": "§d§lLegion III",
+      "effect": [
+        "§7Increases all §cCombat §7stats and §b",
+        "§bMagic Find §7by §e0.21% §7per player within",
+        "§b30 §7blocks of you, up to §c20 §7players."
+      ]
+    },
+    {
+      "id": "ULTIMATE_LEGION;4",
+      "header": "§d§lLegion IV",
+      "effect": [
+        "§7Increases all §cCombat §7stats and §b",
+        "§bMagic Find §7by §e0.28% §7per player within",
+        "§b30 §7blocks of you, up to §c20 §7players."
+      ]
+    },
+    {
+      "id": "ULTIMATE_LEGION;5",
+      "header": "§d§lLegion V",
+      "effect": [
+        "§7Increases all §cCombat §7stats and §b",
+        "§bMagic Find §7by §e0.35% §7per player within",
+        "§b30 §7blocks of you, up to §c20 §7players."
+      ]
+    },
+    {
+      "id": "ULTIMATE_MISSILE;1",
+      "header": "§d§lMissile I",
+      "effect": [
+        "§7The Log penalty on Throwing Axe is",
+        "§7reduced by §a10%§7."
+      ]
+    },
+    {
+      "id": "ULTIMATE_MISSILE;2",
+      "header": "§d§lMissile II",
+      "effect": [
+        "§7The Log penalty on Throwing Axe is",
+        "§7reduced by §a20%§7."
+      ]
+    },
+    {
+      "id": "ULTIMATE_MISSILE;3",
+      "header": "§d§lMissile III",
+      "effect": [
+        "§7The Log penalty on Throwing Axe is",
+        "§7reduced by §a30%§7."
+      ]
+    },
+    {
+      "id": "ULTIMATE_MISSILE;4",
+      "header": "§d§lMissile IV",
+      "effect": [
+        "§7The Log penalty on Throwing Axe is",
+        "§7reduced by §a40%§7."
+      ]
+    },
+    {
+      "id": "ULTIMATE_MISSILE;5",
+      "header": "§d§lMissile V",
+      "effect": [
+        "§7The Log penalty on Throwing Axe is",
+        "§7reduced by §a50%§7."
+      ]
+    },
+    {
+      "id": "ULTIMATE_NO_PAIN_NO_GAIN;1",
+      "header": "§d§lNo Pain No Gain I",
+      "effect": [
+        "§7You have §e20% §7chance to gain",
+        "§b2 §7experience orb every time",
+        "§7you take hits from mobs."
+      ]
+    },
+    {
+      "id": "ULTIMATE_NO_PAIN_NO_GAIN;2",
+      "header": "§d§lNo Pain No Gain II",
+      "effect": [
+        "§7You have §e40% §7chance to gain",
+        "§b10 §7experience orbs every",
+        "§7time you take hits from mobs."
+      ]
+    },
+    {
+      "id": "ULTIMATE_NO_PAIN_NO_GAIN;3",
+      "header": "§d§lNo Pain No Gain III",
+      "effect": [
+        "§7You have §e60% §7chance to gain",
+        "§b10 §7experience orbs every",
+        "§7time you take hits from mobs."
+      ]
+    },
+    {
+      "id": "ULTIMATE_NO_PAIN_NO_GAIN;4",
+      "header": "§d§lNo Pain No Gain IV",
+      "effect": [
+        "§7You have §e80% §7chance to gain",
+        "§b10 §7experience orbs every",
+        "§7time you take hits from mobs."
+      ]
+    },
+    {
+      "id": "ULTIMATE_NO_PAIN_NO_GAIN;5",
+      "header": "§d§lNo Pain No Gain V",
+      "effect": [
+        "§7You have §e100% §7chance to gain",
+        "§b10 §7experience orbs every",
+        "§7time you take hits from mobs."
+      ]
+    },
+    {
+      "id": "ULTIMATE_ONE_FOR_ALL;1",
+      "header": "§d§lOne For All I",
+      "effect": [
+        "§7Removes all other enchants but",
+        "§7increases your weapon damage by",
+        "§a500%§7."
+      ]
+    },
+    {
+      "id": "ULTIMATE_REFRIGERATE;1",
+      "header": "§d§lRefrigerate I",
+      "effect": [
+        "§7Convert §a3% §7of §b Mana §7used as §a",
+        "§aDefense §7for §a10s§7.",
+        "§8(Max 150 Defense)"
+      ]
+    },
+    {
+      "id": "ULTIMATE_REFRIGERATE;2",
+      "header": "§d§lRefrigerate II",
+      "effect": [
+        "§7Convert §a3.75% §7of §b Mana §7used as §a",
+        "§aDefense §7for §a10s§7.",
+        "§8(Max 150 Defense)"
+      ]
+    },
+    {
+      "id": "ULTIMATE_REFRIGERATE;3",
+      "header": "§d§lRefrigerate III",
+      "effect": [
+        "§7Convert §a4.5% §7of §b Mana §7used as §a",
+        "§aDefense §7for §a10s§7.",
+        "§8(Max 150 Defense)"
+      ]
+    },
+    {
+      "id": "ULTIMATE_REFRIGERATE;4",
+      "header": "§d§lRefrigerate IV",
+      "effect": [
+        "§7Convert §a5.25% §7of §b Mana §7used as §a",
+        "§aDefense §7for §a10s§7.",
+        "§8(Max 150 Defense)"
+      ]
+    },
+    {
+      "id": "ULTIMATE_REFRIGERATE;5",
+      "header": "§d§lRefrigerate V",
+      "effect": [
+        "§7Convert §a6% §7of §b Mana §7used as §a",
+        "§aDefense §7for §a10s§7.",
+        "§8(Max 150 Defense)"
+      ]
+    },
+    {
+      "id": "ULTIMATE_REITERATE;1",
+      "header": "§d§lDuplex I",
+      "effect": [
+        "§7Shoot a second arrow dealing §c4% §7of",
+        "§7the first arrow's damage.",
+        "§7Targets hit take §c1.1x §7fire",
+        "§7damage for §a60s§7."
+      ]
+    },
+    {
+      "id": "ULTIMATE_REITERATE;2",
+      "header": "§d§lDuplex II",
+      "effect": [
+        "§7Shoot a second arrow dealing §c8% §7of",
+        "§7the first arrow's damage.",
+        "§7Targets hit take §c1.2x §7fire",
+        "§7damage for §a60s§7."
+      ]
+    },
+    {
+      "id": "ULTIMATE_REITERATE;3",
+      "header": "§d§lDuplex III",
+      "effect": [
+        "§7Shoot a second arrow dealing §c12%",
+        "§7of the first arrow's damage.",
+        "§7Targets hit take §c1.3x §7fire",
+        "§7damage for §a60s§7."
+      ]
+    },
+    {
+      "id": "ULTIMATE_REITERATE;4",
+      "header": "§d§lDuplex IV",
+      "effect": [
+        "§7Shoot a second arrow dealing §c16%",
+        "§7of the first arrow's damage.",
+        "§7Targets hit take §c1.4x §7fire",
+        "§7damage for §a60s§7."
+      ]
+    },
+    {
+      "id": "ULTIMATE_REITERATE;5",
+      "header": "§d§lDuplex V",
+      "effect": [
+        "§7Shoot a second arrow dealing §c20%",
+        "§7of the first arrow's damage.",
+        "§7Targets hit take §c1.5x §7fire",
+        "§7damage for §a60s§7."
+      ]
+    },
+    {
+      "id": "ULTIMATE_REND;1",
+      "header": "§d§lRend I",
+      "effect": [
+        "§7Use Left Click ability to rip",
+        "§7your arrows out of nearby",
+        "§7enemies. Each arrow deals §c5%",
+        "§7of your last critical shot on",
+        "§7the target, up to §c5 §7arrows.",
+        "§a2s §7Cooldown."
+      ]
+    },
+    {
+      "id": "ULTIMATE_REND;2",
+      "header": "§d§lRend II",
+      "effect": [
+        "§7Use Left Click ability to rip",
+        "§7your arrows out of nearby",
+        "§7enemies. Each arrow deals §c10%",
+        "§7of your last critical shot on",
+        "§7the target, up to §c5 §7arrows.",
+        "§a2s §7Cooldown."
+      ]
+    },
+    {
+      "id": "ULTIMATE_REND;3",
+      "header": "§d§lRend III",
+      "effect": [
+        "§7Use Left Click ability to rip",
+        "§7your arrows out of nearby",
+        "§7enemies. Each arrow deals §c15%",
+        "§7of your last critical shot on",
+        "§7the target, up to §c5 §7arrows.",
+        "§a2s §7Cooldown."
+      ]
+    },
+    {
+      "id": "ULTIMATE_REND;4",
+      "header": "§d§lRend IV",
+      "effect": [
+        "§7Use Left Click ability to rip",
+        "§7your arrows out of nearby",
+        "§7enemies. Each arrow deals §c20%",
+        "§7of your last critical shot on",
+        "§7the target, up to §c5 §7arrows.",
+        "§a2s §7Cooldown."
+      ]
+    },
+    {
+      "id": "ULTIMATE_REND;5",
+      "header": "§d§lRend V",
+      "effect": [
+        "§7Use Left Click ability to rip",
+        "§7your arrows out of nearby",
+        "§7enemies. Each arrow deals §c25%",
+        "§7of your last critical shot on",
+        "§7the target, up to §c5 §7arrows.",
+        "§a2s §7Cooldown."
+      ]
+    },
+    {
+      "id": "ULTIMATE_SOUL_EATER;1",
+      "header": "§d§lSoul Eater I",
+      "effect": [
+        "§7Your weapon gains §c2x §7the Damage of",
+        "§7the latest monster killed and adds it",
+        "§7at the end of your next critical hit.",
+        "§7§8(Max 1M outside Dungeons)."
+      ]
+    },
+    {
+      "id": "ULTIMATE_SOUL_EATER;2",
+      "header": "§d§lSoul Eater II",
+      "effect": [
+        "§7Your weapon gains §c4x §7the Damage of",
+        "§7the latest monster killed and adds it",
+        "§7at the end of your next critical hit.",
+        "§7§8(Max 1M outside Dungeons)."
+      ]
+    },
+    {
+      "id": "ULTIMATE_SOUL_EATER;3",
+      "header": "§d§lSoul Eater III",
+      "effect": [
+        "§7Your weapon gains §c6x §7the Damage of",
+        "§7the latest monster killed and adds it",
+        "§7at the end of your next critical hit.",
+        "§7§8(Max 1M outside Dungeons)."
+      ]
+    },
+    {
+      "id": "ULTIMATE_SOUL_EATER;4",
+      "header": "§d§lSoul Eater IV",
+      "effect": [
+        "§7Your weapon gains §c8x §7the Damage of",
+        "§7the latest monster killed and adds it",
+        "§7at the end of your next critical hit.",
+        "§7§8(Max 1M outside Dungeons)."
+      ]
+    },
+    {
+      "id": "ULTIMATE_SOUL_EATER;5",
+      "header": "§d§lSoul Eater V",
+      "effect": [
+        "§7Your weapon gains §c10x §7the Damage of",
+        "§7the latest monster killed and adds it",
+        "§7at the end of your next critical hit.",
+        "§7§8(Max 1M outside Dungeons)."
+      ]
+    },
+    {
+      "id": "ULTIMATE_SUNSET;1",
+      "header": "§d§lSunset I",
+      "effect": [
+        "§7During the day, §e+1 Overbloom§7.",
+        "§7During the night, §b-1% Visitor Cooldown."
+      ]
+    },
+    {
+      "id": "ULTIMATE_SUNSET;2",
+      "header": "§d§lSunset II",
+      "effect": [
+        "§7During the day, §e+2 Overbloom§7.",
+        "§7During the night, §b-2% Visitor Cooldown."
+      ]
+    },
+    {
+      "id": "ULTIMATE_SUNSET;3",
+      "header": "§d§lSunset III",
+      "effect": [
+        "§7During the day, §e+3 Overbloom§7.",
+        "§7During the night, §b-3% Visitor Cooldown."
+      ]
+    },
+    {
+      "id": "ULTIMATE_SUNSET;4",
+      "header": "§d§lSunset IV",
+      "effect": [
+        "§7During the day, §e+4 Overbloom§7.",
+        "§7During the night, §b-4% Visitor Cooldown."
+      ]
+    },
+    {
+      "id": "ULTIMATE_SUNSET;5",
+      "header": "§d§lSunset V",
+      "effect": [
+        "§7During the day, §e+5 Overbloom§7.",
+        "§7During the night, §b-5% Visitor Cooldown."
+      ]
+    },
+    {
+      "id": "ULTIMATE_SWARM;1",
+      "header": "§d§lSwarm I",
+      "effect": [
+        "§7Increases your damage by §c2%",
+        "§7for each enemy within §e10",
+        "§7blocks. Maximum of §c10",
+        "§7enemies."
+      ]
+    },
+    {
+      "id": "ULTIMATE_SWARM;2",
+      "header": "§d§lSwarm II",
+      "effect": [
+        "§7Increases your damage by §c4%",
+        "§7for each enemy within §e10",
+        "§7blocks. Maximum of §c10",
+        "§7enemies."
+      ]
+    },
+    {
+      "id": "ULTIMATE_SWARM;3",
+      "header": "§d§lSwarm III",
+      "effect": [
+        "§7Increases your damage by §c6%",
+        "§7for each enemy within §e10",
+        "§7blocks. Maximum of §c10",
+        "§7enemies."
+      ]
+    },
+    {
+      "id": "ULTIMATE_SWARM;4",
+      "header": "§d§lSwarm IV",
+      "effect": [
+        "§7Increases your damage by §c8%",
+        "§7for each enemy within §e10",
+        "§7blocks. Maximum of §c10",
+        "§7enemies."
+      ]
+    },
+    {
+      "id": "ULTIMATE_SWARM;5",
+      "header": "§d§lSwarm V",
+      "effect": [
+        "§7Increases your damage by §c10%",
+        "§7for each enemy within §e10",
+        "§7blocks. Maximum of §c10",
+        "§7enemies."
+      ]
+    },
+    {
+      "id": "ULTIMATE_THE_ONE;4",
+      "header": "§d§lThe One IV",
+      "effect": [
+        "§7Grants §c+0.5 Health §7and",
+        "§c+0.1 Strength §7per maxed out",
+        "§7collection. You have §a§k73",
+        "§acollections §7maxed."
+      ]
+    },
+    {
+      "id": "ULTIMATE_THE_ONE;5",
+      "header": "§d§lThe One V",
+      "effect": [
+        "§7Grants §c+1 Health §7and",
+        "§c+0.2 Strength §7per maxed out",
+        "§7collection. You have §a§k73",
+        "§acollections §7maxed."
+      ]
+    },
+    {
+      "id": "ULTIMATE_WISDOM;1",
+      "header": "§d§lWisdom I",
+      "effect": [
+        "§7Gain §b1 §7Intelligence for",
+        "§7every §b5 §7levels of exp you",
+        "§7have on you. Capped at §b20",
+        "§7Intelligence."
+      ]
+    },
+    {
+      "id": "ULTIMATE_WISDOM;2",
+      "header": "§d§lWisdom II",
+      "effect": [
+        "§7Gain §b2 §7Intelligence for",
+        "§7every §b5 §7levels of exp you",
+        "§7have on you. Capped at §b40",
+        "§7Intelligence."
+      ]
+    },
+    {
+      "id": "ULTIMATE_WISDOM;3",
+      "header": "§d§lWisdom III",
+      "effect": [
+        "§7Gain §b3 §7Intelligence for",
+        "§7every §b5 §7levels of exp you",
+        "§7have on you. Capped at §b60",
+        "§7Intelligence."
+      ]
+    },
+    {
+      "id": "ULTIMATE_WISDOM;4",
+      "header": "§d§lWisdom IV",
+      "effect": [
+        "§7Gain §b4 §7Intelligence for",
+        "§7every §b5 §7levels of exp you",
+        "§7have on you. Capped at §b80",
+        "§7Intelligence."
+      ]
+    },
+    {
+      "id": "ULTIMATE_WISDOM;5",
+      "header": "§d§lWisdom V",
+      "effect": [
+        "§7Gain §b5 §7Intelligence for",
+        "§7every §b5 §7levels of exp you",
+        "§7have on you. Capped at §b100",
+        "§7Intelligence."
+      ]
+    },
+    {
+      "id": "ULTIMATE_WISE;1",
+      "header": "§d§lUltimate Wise I",
+      "effect": [
+        "§7Reduces the ability mana cost of",
+        "§7this item by §a10%§7."
+      ]
+    },
+    {
+      "id": "ULTIMATE_WISE;2",
+      "header": "§d§lUltimate Wise II",
+      "effect": [
+        "§7Reduces the ability mana cost of",
+        "§7this item by §a20%§7."
+      ]
+    },
+    {
+      "id": "ULTIMATE_WISE;3",
+      "header": "§d§lUltimate Wise III",
+      "effect": [
+        "§7Reduces the ability mana cost of",
+        "§7this item by §a30%§7."
+      ]
+    },
+    {
+      "id": "ULTIMATE_WISE;4",
+      "header": "§d§lUltimate Wise IV",
+      "effect": [
+        "§7Reduces the ability mana cost of",
+        "§7this item by §a40%§7."
+      ]
+    },
+    {
+      "id": "ULTIMATE_WISE;5",
+      "header": "§d§lUltimate Wise V",
+      "effect": [
+        "§7Reduces the ability mana cost of",
+        "§7this item by §a50%§7."
+      ]
+    },
+    {
+      "id": "VAMPIRISM;1",
+      "header": "§9Vampirism I",
+      "effect": [
+        "§7Heal §c5❤ §7every time you kill a mob.",
+        "§8(0.5s Cooldown)."
+      ]
+    },
+    {
+      "id": "VAMPIRISM;2",
+      "header": "§9Vampirism II",
+      "effect": [
+        "§7Heal §c10❤ §7every time you kill a mob.",
+        "§8(0.5s Cooldown)."
+      ]
+    },
+    {
+      "id": "VAMPIRISM;3",
+      "header": "§9Vampirism III",
+      "effect": [
+        "§7Heal §c15❤ §7every time you kill a mob.",
+        "§8(0.5s Cooldown)."
+      ]
+    },
+    {
+      "id": "VAMPIRISM;4",
+      "header": "§9Vampirism IV",
+      "effect": [
+        "§7Heal §c20❤ §7every time you kill a mob.",
+        "§8(0.5s Cooldown)."
+      ]
+    },
+    {
+      "id": "VAMPIRISM;5",
+      "header": "§9Vampirism V",
+      "effect": [
+        "§7Heal §c25❤ §7every time you kill a mob.",
+        "§8(0.5s Cooldown)."
+      ]
+    },
+    {
+      "id": "VAMPIRISM;6",
+      "header": "§9Vampirism VI",
+      "effect": [
+        "§7Heal §c30❤ §7every time you kill a mob.",
+        "§8(0.5s Cooldown)."
+      ]
+    },
+    {
+      "id": "VENOMOUS;1",
+      "header": "§9Venomous I",
+      "effect": [
+        "§7Reduces the target's walk speed by",
+        "§a2% §7and deals §2+0.2% §7of your damage",
+        "§7per second per hit, stacking globally",
+        "§7up to §240 §7hits. Lasts §65s§7."
+      ]
+    },
+    {
+      "id": "VENOMOUS;2",
+      "header": "§9Venomous II",
+      "effect": [
+        "§7Reduces the target's walk speed by",
+        "§a4% §7and deals §2+0.4% §7of your damage",
+        "§7per second per hit, stacking globally",
+        "§7up to §240 §7hits. Lasts §65s§7."
+      ]
+    },
+    {
+      "id": "VENOMOUS;3",
+      "header": "§9Venomous III",
+      "effect": [
+        "§7Reduces the target's walk speed by",
+        "§a6% §7and deals §2+0.6% §7of your damage",
+        "§7per second per hit, stacking globally",
+        "§7up to §240 §7hits. Lasts §65s§7."
+      ]
+    },
+    {
+      "id": "VENOMOUS;4",
+      "header": "§9Venomous IV",
+      "effect": [
+        "§7Reduces the target's walk speed by",
+        "§a8% §7and deals §2+0.8% §7of your damage",
+        "§7per second per hit, stacking globally",
+        "§7up to §240 §7hits. Lasts §65s§7."
+      ]
+    },
+    {
+      "id": "VENOMOUS;5",
+      "header": "§9Venomous V",
+      "effect": [
+        "§7Reduces the target's walk speed by",
+        "§a12% §7and deals §2+1.2% §7of your damage",
+        "§7per second per hit, stacking globally",
+        "§7up to §240 §7hits. Lasts §65s§7."
+      ]
+    },
+    {
+      "id": "VENOMOUS;6",
+      "header": "§9Venomous VI",
+      "effect": [
+        "§7Reduces the target's walk speed by",
+        "§a15% §7and deals §2+1.6% §7of your damage",
+        "§7per second per hit, stacking globally",
+        "§7up to §240 §7hits. Lasts §65s§7."
+      ]
+    },
+    {
+      "id": "VENOMOUS;7",
+      "header": "§9Venomous VII",
+      "effect": [
+        "§7Reduces the target's walk speed by",
+        "§a20% §7and deals §2+2% §7of your damage",
+        "§7per second per hit, stacking globally",
+        "§7up to §240 §7hits. Lasts §65s§7."
+      ]
+    },
+    {
+      "id": "VICIOUS;3",
+      "header": "§9Vicious III",
+      "effect": [
+        "§7Grants §c+3 Ferocity§7."
+      ]
+    },
+    {
+      "id": "VICIOUS;4",
+      "header": "§9Vicious IV",
+      "effect": [
+        "§7Grants §c+4 Ferocity§7."
+      ]
+    },
+    {
+      "id": "VICIOUS;5",
+      "header": "§9Vicious V",
+      "effect": [
+        "§7Grants §c+5 Ferocity§7."
+      ]
+    }
+  ],
+  "petItems": [
+    {
+      "id": "PET_ITEM_ALL_SKILLS_BOOST_COMMON",
+      "name": "All Skills Exp Boost",
+      "effects": [
+        [
+          "§7Gives §a+10% §7pet exp for all skills."
+        ]
+      ]
+    },
+    {
+      "id": "PET_ITEM_BIG_TEETH_COMMON",
+      "name": "Big Teeth",
+      "effects": [
+        [
+          "§7Grants §9+5 Crit Chance§7."
+        ]
+      ]
+    },
+    {
+      "id": "PET_ITEM_BINGO_BOOSTER",
+      "name": "Bingo Booster",
+      "effects": [
+        [
+          "§7Doubles the efficiency of the",
+          "§6Lucky Looting §7perk of your",
+          "§7Bingo Pet."
+        ]
+      ]
+    },
+    {
+      "id": "PET_ITEM_BUBBLEGUM",
+      "name": "Bubblegum",
+      "effects": [
+        [
+          "§7Your pet fuses its power with placed",
+          "§9Deployables §7to give them §a2x §7duration."
+        ]
+      ]
+    },
+    {
+      "id": "PET_ITEM_CHOCOLATE_SYRINGE",
+      "name": "Chocolate Syringe",
+      "effects": [
+        [
+          "§7Use at §bKat §7to upgrade §eRabbit Pets §7to",
+          "§dMythic §7rarity."
+        ]
+      ]
+    },
+    {
+      "id": "PET_ITEM_COMBAT_SKILL_BOOST_COMMON",
+      "name": "Combat Exp Boost",
+      "effects": [
+        [
+          "§7Gives §a+20% §7pet exp for §aCombat§7."
+        ]
+      ]
+    },
+    {
+      "id": "PET_ITEM_COMBAT_SKILL_BOOST_EPIC",
+      "name": "Combat Exp Boost",
+      "effects": [
+        [
+          "§7Gives §a+50% §7pet exp for §aCombat§7."
+        ]
+      ]
+    },
+    {
+      "id": "PET_ITEM_COMBAT_SKILL_BOOST_RARE",
+      "name": "Combat Exp Boost",
+      "effects": [
+        [
+          "§7Gives §a+40% §7pet exp for §aCombat§7."
+        ]
+      ]
+    },
+    {
+      "id": "PET_ITEM_COMBAT_SKILL_BOOST_UNCOMMON",
+      "name": "Combat Exp Boost",
+      "effects": [
+        [
+          "§7Gives §a+30% §7pet exp for §aCombat§7."
+        ]
+      ]
+    },
+    {
+      "id": "PET_ITEM_EXP_SHARE",
+      "name": "Exp Share",
+      "effects": [
+        [
+          "§7While equipped in an Exp Share slot",
+          "§7this pet gains §a+15% §7Exp Share rate."
+        ]
+      ]
+    },
+    {
+      "id": "PET_ITEM_EXP_SHARE_DROP",
+      "name": "Exp Share Core",
+      "effects": [
+        [
+          "§7Used to craft the Exp Share pet item."
+        ]
+      ]
+    },
+    {
+      "id": "PET_ITEM_FARMING_SKILL_BOOST_COMMON",
+      "name": "Farming Exp Boost",
+      "effects": [
+        [
+          "§7Gives §a+20% §7pet exp for §aFarming§7."
+        ]
+      ]
+    },
+    {
+      "id": "PET_ITEM_FARMING_SKILL_BOOST_EPIC",
+      "name": "Farming Exp Boost",
+      "effects": [
+        [
+          "§7Gives §a+50% §7pet exp for §aFarming§7."
+        ]
+      ]
+    },
+    {
+      "id": "PET_ITEM_FARMING_SKILL_BOOST_RARE",
+      "name": "Farming Exp Boost",
+      "effects": [
+        [
+          "§7Gives §a+40% §7pet exp for §aFarming§7."
+        ]
+      ]
+    },
+    {
+      "id": "PET_ITEM_FARMING_SKILL_BOOST_UNCOMMON",
+      "name": "Farming Exp Boost",
+      "effects": [
+        [
+          "§7Gives §a+30% §7pet exp for §aFarming§7."
+        ]
+      ]
+    },
+    {
+      "id": "PET_ITEM_FISHING_SKILL_BOOST_COMMON",
+      "name": "Fishing Exp Boost",
+      "effects": [
+        [
+          "§7Gives §a+20% §7pet exp for Fishing."
+        ]
+      ]
+    },
+    {
+      "id": "PET_ITEM_FISHING_SKILL_BOOST_EPIC",
+      "name": "Fishing Exp Boost",
+      "effects": [
+        [
+          "§7Gives §a+50% §7pet exp for §aFishing§7."
+        ]
+      ]
+    },
+    {
+      "id": "PET_ITEM_FISHING_SKILL_BOOST_RARE",
+      "name": "Fishing Exp Boost",
+      "effects": [
+        [
+          "§7Gives §a+40% §7pet exp for §aFishing§7."
+        ]
+      ]
+    },
+    {
+      "id": "PET_ITEM_FISHING_SKILL_BOOST_UNCOMMON",
+      "name": "Fishing Exp Boost",
+      "effects": [
+        [
+          "§7Gives §a+30% §7pet exp for §aFishing§7."
+        ]
+      ]
+    },
+    {
+      "id": "PET_ITEM_FLYING_PIG",
+      "name": "Flying Pig",
+      "effects": [
+        [
+          "§7This pet item may only be used on a",
+          "§6Pig§7 pet."
+        ],
+        [
+          "§7Grants §6+40 Potato Fortune§7 and",
+          "§f+20 Speed§7."
+        ]
+      ]
+    },
+    {
+      "id": "PET_ITEM_FORAGING_SKILL_BOOST_COMMON",
+      "name": "Foraging Exp Boost",
+      "effects": [
+        [
+          "§7Gives §a+20% §7pet exp for §aForaging§7."
+        ]
+      ]
+    },
+    {
+      "id": "PET_ITEM_FORAGING_SKILL_BOOST_EPIC",
+      "name": "Foraging Exp Boost",
+      "effects": [
+        [
+          "§7Gives §a+50% §7pet exp for §aForaging§7."
+        ]
+      ]
+    },
+    {
+      "id": "PET_ITEM_FORAGING_SKILL_BOOST_RARE",
+      "name": "Foraging Exp Boost",
+      "effects": [
+        [
+          "§7Gives §a+40% §7pet exp for §aForaging§7."
+        ]
+      ]
+    },
+    {
+      "id": "PET_ITEM_FORAGING_SKILL_BOOST_UNCOMMON",
+      "name": "Foraging Exp Boost",
+      "effects": [
+        [
+          "§7Gives §a+30% §7pet exp for §aForaging§7."
+        ]
+      ]
+    },
+    {
+      "id": "PET_ITEM_HARDENED_SCALES_UNCOMMON",
+      "name": "Hardened Scales",
+      "effects": [
+        [
+          "§7Grants §a+25 Defense§7."
+        ]
+      ]
+    },
+    {
+      "id": "PET_ITEM_IRON_CLAWS_COMMON",
+      "name": "Iron Claws",
+      "effects": [
+        [
+          "§7Increases the pet's §9 Crit Damage",
+          "§7by §a40% §7and §9 Crit Chance §7by §a40%§7."
+        ]
+      ]
+    },
+    {
+      "id": "PET_ITEM_LUCKY_CLOVER",
+      "name": "Lucky Clover",
+      "effects": [
+        [
+          "§7Grants §b+7 Magic Find§7 and §e+7",
+          "§eOverbloom§7."
+        ]
+      ]
+    },
+    {
+      "id": "PET_ITEM_LUCKY_CLOVER_DROP",
+      "name": "Lucky Clover Core",
+      "effects": [
+        [
+          "§7Used to craft the Lucky Clover pet",
+          "§7item."
+        ]
+      ]
+    },
+    {
+      "id": "PET_ITEM_MINING_SKILL_BOOST_COMMON",
+      "name": "Mining Exp Boost",
+      "effects": [
+        [
+          "§7Gives §a+20% §7pet exp for §aMining§7."
+        ]
+      ]
+    },
+    {
+      "id": "PET_ITEM_MINING_SKILL_BOOST_RARE",
+      "name": "Mining Exp Boost",
+      "effects": [
+        [
+          "§7Gives §a+40% §7pet exp for §aMining§7."
+        ]
+      ]
+    },
+    {
+      "id": "PET_ITEM_MINING_SKILL_BOOST_UNCOMMON",
+      "name": "Mining Exp Boost",
+      "effects": [
+        [
+          "§7Gives §a+30% §7pet exp for §aMining§7."
+        ]
+      ]
+    },
+    {
+      "id": "PET_ITEM_PURE_MITHRIL_GEM",
+      "name": "Pure Mithril Gem",
+      "effects": [
+        [
+          "§7Use at §bKat §7to upgrade §eMithril Golem",
+          "§ePets §7to §dMythic §7rarity."
+        ]
+      ]
+    },
+    {
+      "id": "PET_ITEM_QUICK_CLAW",
+      "name": "Quick Claw",
+      "effects": [
+        [
+          "§7Every 2 pet levels, you gain §6+1",
+          "§6Mining Speed §7and §6+1 Mining Fortune§7."
+        ]
+      ]
+    },
+    {
+      "id": "PET_ITEM_SADDLE",
+      "name": "Saddle",
+      "effects": [
+        [
+          "§7Grants §f+30 Speed§7."
+        ]
+      ]
+    },
+    {
+      "id": "PET_ITEM_SHARPENED_CLAWS_UNCOMMON",
+      "name": "Sharpened Claws",
+      "effects": [
+        [
+          "§7Grants §9+15 Crit Damage§7."
+        ]
+      ]
+    },
+    {
+      "id": "PET_ITEM_SPOOKY_CUPCAKE",
+      "name": "Spooky Cupcake",
+      "effects": [
+        [
+          "§7Grants §c+30 Strength§7 and §f+20",
+          "§fSpeed§7."
+        ]
+      ]
+    },
+    {
+      "id": "PET_ITEM_TEXTBOOK",
+      "name": "Textbook",
+      "effects": [
+        [
+          "§7Increases the pet's §b Intelligence",
+          "§7by §a100%§7."
+        ]
+      ]
+    },
+    {
+      "id": "PET_ITEM_TIER_BOOST",
+      "name": "Tier Boost",
+      "effects": [
+        [
+          "§7Boosts the §ararity §7of your pet by 1",
+          "§7tier!"
+        ]
+      ]
+    },
+    {
+      "id": "PET_ITEM_TIER_BOOST_DROP",
+      "name": "Tier Boost Core",
+      "effects": [
+        [
+          "§7Used to craft the Tier Boost pet item."
+        ]
+      ]
+    },
+    {
+      "id": "PET_ITEM_TITANIUM_MINECART",
+      "name": "Titanium Minecart",
+      "effects": [
+        [
+          "§7Grants §6+33.3 Mining Fortune §7while",
+          "§7mining §fTitanium Ore§7."
+        ]
+      ]
+    },
+    {
+      "id": "PET_ITEM_TOY_JERRY",
+      "name": "Jerry 3D Glasses",
+      "effects": [
+        [
+          "§7Use at §bKat §7to upgrade §eJerry Pets §7to",
+          "§dMythic §7rarity."
+        ]
+      ]
+    },
+    {
+      "id": "PET_ITEM_VAMPIRE_FANG",
+      "name": "Vampire Fang",
+      "effects": [
+        [
+          "§7Use at §bKat §7to upgrade §eBat Pets §7to",
+          "§dMythic §7rarity."
+        ]
+      ]
+    }
+  ]
+}

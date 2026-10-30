@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "SPEEDY_LINE",
+  "_original_name": "Speedy Line",
+  "_original_lore": [
+    "Grants +10 Fishing Speed.",
+    "",
+    "Talk to Roddy in the Backwater",
+    "Bayou to apply this Line to a Fishing",
+    "Rod.",
+    "",
+    "❣ Requires Fishing Skill 5.",
+    "UNCOMMON ROD PART"
+  ],
+  "name": "迅捷钓线",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Grants {{N0}} Fishing Speed."
+      ],
+      "translation": "提供 {{N0}} 钓鱼速度.",
+      "styleMappings": {
+        "Fishing Speed": "钓鱼速度",
+        "Grants": "提供",
+        "Fishing": "钓鱼",
+        "Speed": "速度",
+        " Fishing Speed": " 钓鱼速度"
+      }
+    },
+    {
+      "source": [
+        "Talk to Roddy in the Backwater",
+        "Bayou to apply this Line to a Fishing",
+        "Rod."
+      ],
+      "translation": "与静水河湾的 Roddy 交谈,将此钓线应用到钓鱼竿上.",
+      "styleMappings": {
+        "Backwater Bayou": "静水河湾",
+        "Fishing Rod": "钓鱼竿",
+        "Roddy": "Roddy",
+        "Line": "钓线",
+        "Fishing": "钓鱼",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Fishing Skill {{N0}}."
+      ],
+      "translation": "❣ 需要钓鱼技能 {{N0}}.",
+      "styleMappings": {
+        "Fishing Skill": "钓鱼技能",
+        "Requires": "需要",
+        "Fishing": "钓鱼",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON ROD PART"
+      ],
+      "translation": "罕见鱼竿部件",
+      "styleMappings": {
+        "UNCOMMON ROD PART": "罕见鱼竿部件",
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Line": "钓线"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

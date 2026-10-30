@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "TREASURE_HOOK",
+  "_original_name": "Treasure Hook",
+  "_original_lore": [
+    "Only allows you to catch items and",
+    "Treasure.",
+    "",
+    "Talk to Roddy in the Backwater",
+    "Bayou to apply this Hook to a Fishing",
+    "Rod.",
+    "",
+    "❣ Requires Fishing Skill 25.",
+    "LEGENDARY ROD PART"
+  ],
+  "name": "宝藏鱼钩",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Only allows you to catch items and",
+        "Treasure."
+      ],
+      "translation": "只能让你钓到物品和宝藏.",
+      "styleMappings": {
+        "items": "物品",
+        "Treasure": "宝藏"
+      }
+    },
+    {
+      "source": [
+        "Talk to Roddy in the Backwater",
+        "Bayou to apply this Hook to a Fishing",
+        "Rod."
+      ],
+      "translation": "与静水河湾的 Roddy 交谈,将此鱼钩应用到钓鱼竿上.",
+      "styleMappings": {
+        "Backwater Bayou": "静水河湾",
+        "Fishing Rod": "钓鱼竿",
+        "Roddy": "Roddy",
+        "Hook": "鱼钩",
+        "Fishing": "钓鱼",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Fishing Skill {{N0}}."
+      ],
+      "translation": "❣ 需要钓鱼技能 {{N0}}.",
+      "styleMappings": {
+        "Fishing Skill": "钓鱼技能",
+        "Requires": "需要",
+        "Fishing": "钓鱼",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY ROD PART"
+      ],
+      "translation": "传说钓竿部件",
+      "styleMappings": {
+        "LEGENDARY ROD PART": "传说钓竿部件",
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Treasure": "宝藏",
+    "Hook": "鱼钩"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

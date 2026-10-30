@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "UMBER_KEY",
+  "_original_name": "Umber Key",
+  "_original_lore": [
+    "Can be used to open backpacks with",
+    "an Umber lock held by Frozen",
+    "Corpses in the Glacite Mineshafts.",
+    "",
+    "EPIC"
+  ],
+  "name": "棕土钥匙",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Can be used to open backpacks with",
+        "an Umber lock held by Frozen",
+        "Corpses in the Glacite Mineshafts."
+      ],
+      "translation": "可用于打开冰晶矿井中由冰冻尸体持有的带 棕土金属 锁的背包.",
+      "styleMappings": {
+        "Glacite Mineshafts": "冰晶矿井",
+        "Frozen Corpses": "冰冻尸体",
+        "Mineshafts": "矿井",
+        "Frozen": "冰冻",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

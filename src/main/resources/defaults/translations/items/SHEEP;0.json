@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "id": "SHEEP;0",
+  "_original_name": "[Lvl {LVL}] Sheep",
+  "_original_lore": [
+    "Alchemy Pet",
+    "",
+    "Intelligence: +{INTELLIGENCE}",
+    "Ability Damage: +{ABILITY_DAMAGE}%",
+    "",
+    "Mana Saver",
+    "Reduces the mana cost of abilities by",
+    "{0}%.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "COMMON PET"
+  ],
+  "name": "[等级 {LVL}] 绵羊",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Alchemy Pet"
+      ],
+      "translation": "炼金宠物",
+      "styleMappings": {
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: +{{N0}}"
+      ],
+      "translation": "智力: +{{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Ability Damage: +{{N0}}%"
+      ],
+      "translation": "技能伤害: +{{N0}}%",
+      "styleMappings": {
+        "Ability Damage": "技能伤害",
+        "Ability": "技能",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Mana Saver"
+      ],
+      "translation": "节省魔力",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Reduces the mana cost of abilities by",
+        "{{N0}}%."
+      ],
+      "translation": "技能的法力消耗降低 {{N0}}%.",
+      "styleMappings": {
+        "abilities": "技能",
+        "mana": "法力"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "COMMON PET"
+      ],
+      "translation": "普通 宠物",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sheep": "绵羊",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

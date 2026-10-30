@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "BOOK_OF_STATS",
+  "_original_name": "Book of Stats",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Tracks the amount of kills and crops",
+    "harvested when applied to its",
+    "respective tool.",
+    "",
+    "EPIC COSMETIC"
+  ],
+  "name": "统计之书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Tracks the amount of kills and crops",
+        "harvested when applied to its",
+        "respective tool."
+      ],
+      "translation": "应用于对应工具时,记录击杀数和收获的作物数量.",
+      "styleMappings": {
+        "crops": "作物",
+        "kills": "击杀",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "EPIC COSMETIC"
+      ],
+      "translation": "史诗外观",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

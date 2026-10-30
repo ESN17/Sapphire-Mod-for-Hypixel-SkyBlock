@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "id": "SPIRIT;3",
+  "_original_name": "[Lvl {LVL}] Spirit",
+  "_original_lore": [
+    "Combat Pet",
+    "",
+    "Intelligence: +{INTELLIGENCE}",
+    "Speed: +{SPEED}",
+    "",
+    "Spirit Assistance",
+    "Spawns and assists you when you",
+    "are a ghost in Dungeons.",
+    "",
+    "Spirit Cooldowns",
+    "Reduces the cooldown of your ghost",
+    "abilities in dungeons by {0}%.",
+    "",
+    "This pet's perks are active even",
+    "when the pet is not summoned!",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "EPIC PET"
+  ],
+  "name": "[等级 {LVL}] 灵魂",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combat Pet"
+      ],
+      "translation": "战斗宠物",
+      "styleMappings": {
+        "Combat Pet": "战斗宠物",
+        "Combat": "战斗",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: +{{N0}}"
+      ],
+      "translation": "智力: +{{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Speed: +{{N0}}"
+      ],
+      "translation": "速度: +{{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Spirit Assistance"
+      ],
+      "translation": "灵魂协助",
+      "styleMappings": {
+        "Spirit Assistance": "灵魂协助",
+        "Spirit": "灵魂"
+      }
+    },
+    {
+      "source": [
+        "Spawns and assists you when you",
+        "are a ghost in Dungeons."
+      ],
+      "translation": "当你在地牢中成为幽灵时生成并协助你.",
+      "styleMappings": {
+        "Dungeons": "地牢",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Spirit Cooldowns"
+      ],
+      "translation": "灵魂冷却",
+      "styleMappings": {
+        "Spirit Cooldowns": "灵魂冷却",
+        "Spirit": "灵魂"
+      }
+    },
+    {
+      "source": [
+        "Reduces the cooldown of your ghost",
+        "abilities in dungeons by {{N0}}%."
+      ],
+      "translation": "将你在地牢中幽灵技能的冷却时间减少 {{N0}}%.",
+      "styleMappings": {
+        "abilities": "技能",
+        "cooldown": "冷却"
+      }
+    },
+    {
+      "source": [
+        "This pet's perks are active even",
+        "when the pet is not summoned!"
+      ],
+      "translation": "即使宠物未被召唤,此宠物的技能也会生效!",
+      "styleMappings": {
+        "This pet's perks are active even": "即使宠物未被召唤,此宠物的技能也会生效",
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "EPIC PET"
+      ],
+      "translation": "史诗 宠物",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Spirit": "灵魂",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

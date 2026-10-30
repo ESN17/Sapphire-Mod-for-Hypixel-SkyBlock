@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "CHARMINIZER",
+  "_original_name": "Charminizer",
+  "_original_lore": [
+    "Can be used on Exe, Wai or Zee",
+    "Atoms to charm them into only",
+    "following you.",
+    "",
+    "❣ Requires Combat Skill 22.",
+    "EPIC"
+  ],
+  "name": "魅惑器",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Can be used on Exe, Wai or Zee",
+        "Atoms to charm them into only",
+        "following you."
+      ],
+      "translation": "可用于埃克斯、怀或泽原子,将其魅惑为只跟随你.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "ISLAND_NPC",
+  "_original_name": "Island NPC",
+  "_original_lore": [
+    "Spawn island NPCs for your private",
+    "world! Right-Click one to edit its",
+    "settings and add dialogue.",
+    "",
+    "❣ Requires Social Skill 5.",
+    "RARE"
+  ],
+  "name": "岛屿人物",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Spawn island NPCs for your private",
+        "world! Right-Click one to edit its",
+        "settings and add dialogue."
+      ],
+      "translation": "为你的私人世界生成岛屿人物!右键点击一个即可编辑其设置并添加对话.",
+      "styleMappings": {
+        "Right-Click": "右键点击",
+        "Spawn": "生成"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Social Skill {{N0}}."
+      ],
+      "translation": "❣ 需要社交技能 {{N0}}.",
+      "styleMappings": {
+        "Requires": "需要",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Island": "岛屿"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

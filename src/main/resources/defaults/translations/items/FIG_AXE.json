@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 1,
+  "id": "FIG_AXE",
+  "_original_name": "Fig Hew",
+  "_original_lore": [
+    "Damage: +30",
+    "Strength: +10",
+    "Sweep: +15",
+    "Foraging Fortune: +20",
+    "Gemstones: []",
+    "",
+    "Ability: Frenzy ",
+    "Gains 1 Sweep every 2,000 Logs",
+    "cut on Galatea. (max 20)",
+    "Current Bonus: +0",
+    "Next Upgrade: +1 (0/2,000)",
+    "",
+    "Logs Cut: 0",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Foraging Skill 12.",
+    "UNCOMMON AXE"
+  ],
+  "name": "无花果斧",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Sweep: {{N0}}"
+      ],
+      "translation": "清扫:{{N0}}",
+      "styleMappings": {
+        "Sweep": "清扫"
+      }
+    },
+    {
+      "source": [
+        "Foraging Fortune: {{N0}}"
+      ],
+      "translation": "采伐幸运: {{N0}}",
+      "styleMappings": {
+        "Foraging Fortune": "采伐幸运",
+        "Fortune": "幸运",
+        "Foraging": "采伐"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: []"
+      ],
+      "translation": "宝石: []",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石"
+      }
+    },
+    {
+      "source": [
+        "Ability: Frenzy "
+      ],
+      "translation": "技能:狂乱 ",
+      "styleMappings": {
+        "Ability": "技能",
+        "Frenzy": "狂乱"
+      }
+    },
+    {
+      "source": [
+        "Gains {{N0}} Sweep every {{N1}} Logs",
+        "cut on Galatea. (max {{N2}})"
+      ],
+      "translation": "在加拉蒂亚上每砍伐 {{N1}} 个原木获得 {{N0}} 横扫.(最大 {{N2}})",
+      "styleMappings": {
+        "Galatea": "加拉蒂亚",
+        "Sweep": "横扫",
+        "Gains": "获得",
+        "Logs": "原木",
+        "max": "最大"
+      }
+    },
+    {
+      "source": [
+        "Current Bonus: {{N0}}"
+      ],
+      "translation": "当前加成: {{N0}}",
+      "styleMappings": {
+        "Current Bonus:": "当前加成:",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Next Upgrade: {{N0}} ({{N1}}/{{N2}})"
+      ],
+      "translation": "下次升级: {{N0}} ({{N1}}/{{N2}})",
+      "styleMappings": {
+        "Next Upgrade": "下次升级"
+      }
+    },
+    {
+      "source": [
+        "Logs Cut: {{N0}}"
+      ],
+      "translation": "砍伐原木: {{N0}}",
+      "styleMappings": {
+        "Logs Cut": "砍伐原木",
+        "Logs": "原木"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Foraging Skill {{N0}}."
+      ],
+      "translation": "❣ 需要采伐技能 {{N0}}.",
+      "styleMappings": {
+        "Foraging Skill": "采伐技能",
+        "Requires": "需要",
+        "Foraging": "采伐",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON AXE"
+      ],
+      "translation": "罕见 斧",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

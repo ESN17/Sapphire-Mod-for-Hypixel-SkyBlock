@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "CORRUPT_SOIL",
+  "_original_name": "Corrupt Soil",
+  "_original_lore": [
+    "Minion Upgrade",
+    "",
+    "This item can be used as a minion",
+    "upgrade. Place it in any mob",
+    "spawning minion and it will turn",
+    "nearby mobs into their corrupted",
+    "forms.",
+    "",
+    "EPIC"
+  ],
+  "name": "腐化土壤",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Minion Upgrade"
+      ],
+      "translation": "仆从升级组件",
+      "styleMappings": {
+        "Minion Upgrade": "仆从升级",
+        "Minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "This item can be used as a minion"
+      ],
+      "translation": "此物品可作为仆从",
+      "styleMappings": {
+        "item": "物品",
+        "minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "upgrade. Place it in any mob",
+        "spawning minion and it will turn",
+        "nearby mobs into their corrupted",
+        "forms."
+      ],
+      "translation": "升级.将其放入任意生成怪物的仆从中,它会把附近的怪物转化为腐化形态.",
+      "styleMappings": {
+        "corrupted": "腐化",
+        "minion": "仆从",
+        "upgrade": "升级",
+        "into": "转化为",
+        "mobs": "怪物"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

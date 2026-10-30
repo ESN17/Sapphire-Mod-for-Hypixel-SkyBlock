@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": "BLUE_WHALE;4",
+  "_original_name": "[Lvl {LVL}] Blue Whale",
+  "_original_lore": [
+    "Fishing Pet",
+    "",
+    "Health: +{HEALTH}",
+    "",
+    "Ingest",
+    "If you have any absorption active,",
+    "gain +{0}% Damage Reduction.",
+    "",
+    "Bulk",
+    "Gain {1} Defense per 20 Max ",
+    "Health.",
+    "",
+    "Archimedes",
+    "Gain +{2}% Max  Health.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "LEGENDARY PET"
+  ],
+  "name": "[等级 {LVL}] 蓝鲸",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Fishing Pet"
+      ],
+      "translation": "钓鱼宠物",
+      "styleMappings": {
+        "Fishing": "钓鱼",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Health: +{{N0}}"
+      ],
+      "translation": "生命值: +{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Ingest"
+      ],
+      "translation": "摄取",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "If you have any absorption active,",
+        "gain +{{N0}}% Damage Reduction."
+      ],
+      "translation": "如果你有任何吸收效果处于激活状态,获得 +{{N0}}% 伤害减免.",
+      "styleMappings": {
+        "Damage Reduction": "伤害减免",
+        "Damage": "伤害",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "Bulk"
+      ],
+      "translation": "庞大",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Gain {{N0}} Defense per {{N1}} Max ",
+        "Health."
+      ],
+      "translation": "每 {{N1}} 最大  生命值获得 {{N0}} 防御力.",
+      "styleMappings": {
+        " Defense": " 防御",
+        "Health": "生命值",
+        "Gain": "获得",
+        "Max": "最大",
+        " Health": " 生命",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Archimedes"
+      ],
+      "translation": "阿基米德",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Gain +{{N0}}% Max  Health."
+      ],
+      "translation": "获得 +{{N0}}% 最大  生命值.",
+      "styleMappings": {
+        "Health": "生命值",
+        "Gain": "获得",
+        "Max": "最大",
+        " Health": " 生命"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY PET"
+      ],
+      "translation": "传说 宠物",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Blue Whale": "蓝鲸",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

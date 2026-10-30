@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "HEAT_CORE",
+  "_original_name": "Heat Core",
+  "_original_lore": [
+    "Craft with Enchanted Lava Buckets",
+    "to upgrade the minion speed bonus",
+    "to 30% and 35%.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "SPECIAL"
+  ],
+  "name": "高温核心",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Craft with Enchanted Lava Buckets",
+        "to upgrade the minion speed bonus",
+        "to {{N0}} and {{N1}}."
+      ],
+      "translation": "与附魔熔岩桶合成,将仆从速度加成提升至 {{N0}} 和 {{N1}}.",
+      "styleMappings": {
+        "Enchanted Lava Buckets": "附魔熔岩桶",
+        "minion": "仆从",
+        "speed": "速度",
+        "Lava": "熔岩"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

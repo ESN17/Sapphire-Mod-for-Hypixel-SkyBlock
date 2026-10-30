@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "BUILDERS_WAND",
+  "_original_name": "Builder's Wand",
+  "_original_lore": [
+    "Ability: Grand Architect  RIGHT CLICK",
+    "Right-Click the face of a block to",
+    "extend all connected block faces.",
+    "",
+    "Ability: Built-in Storage  LEFT CLICK",
+    "Opens the wand storage. Blocks will",
+    "be placed from your inventory or",
+    "the wand storage.",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "建筑魔杖",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Grand Architect  RIGHT CLICK"
+      ],
+      "translation": "技能: 宏伟建筑师  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Right-Click the face of a block to",
+        "extend all connected block faces."
+      ],
+      "translation": "右键点击方块表面以延伸所有相连的方块面.",
+      "styleMappings": {
+        "Right-Click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "Ability: Built-in Storage  LEFT CLICK"
+      ],
+      "translation": "技能: 内置存储  左键点击",
+      "styleMappings": {
+        "Built-in Storage": "内置存储",
+        "LEFT CLICK": "左键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Opens the wand storage. Blocks will",
+        "be placed from your inventory or",
+        "the wand storage."
+      ],
+      "translation": "打开魔杖存储.方块将从你的物品栏或魔杖存储中放置.",
+      "styleMappings": {
+        "Blocks": "方块"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

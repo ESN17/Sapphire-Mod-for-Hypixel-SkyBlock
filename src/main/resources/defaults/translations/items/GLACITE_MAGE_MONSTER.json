@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "GLACITE_MAGE_MONSTER",
+  "_original_name": "Glacite Mage (Monster)",
+  "_original_lore": [
+    "Mob Types: ❄ Glacial, ✰ Humanoid",
+    "❤ Health: 625,000",
+    "❁ Damage: 6,250",
+    "❈ Defense: 1,000"
+  ],
+  "name": "冰川法师 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mob Types: ❄ Glacial, ✰ Humanoid"
+      ],
+      "translation": "生物类型: ❄ 冰川, ✰ 人形",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Glacial": "冰川",
+        "Humanoid": "人形"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "❁ Damage: {{N0}}"
+      ],
+      "translation": "❁ 伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "❈ Defense: {{N0}}"
+      ],
+      "translation": "❈ 防御: {{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Glacite": "冰川",
+    "Mage": "法师",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

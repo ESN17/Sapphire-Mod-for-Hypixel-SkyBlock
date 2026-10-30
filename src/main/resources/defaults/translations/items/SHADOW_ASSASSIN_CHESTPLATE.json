@@ -1,0 +1,201 @@
+{
+  "schemaVersion": 1,
+  "id": "SHADOW_ASSASSIN_CHESTPLATE",
+  "_original_name": "Shadow Assassin Chestplate",
+  "_original_lore": [
+    "Gear Score: 530",
+    "Health: +240",
+    "Defense: +110",
+    "Strength: +25",
+    "Crit Damage: +25%",
+    "Speed: +7",
+    "Gemstones: []",
+    "",
+    "Piece Bonus: Sinew",
+    "On teleport, gain +10 Strength for",
+    "10 seconds.",
+    "Cooldown: 3s",
+    "",
+    "Full Set Bonus: Shadow Assassin (0/4)",
+    "Grants +1 Strength for every mob",
+    "you kill in The Catacombs.",
+    "(Strength resets after each run)",
+    "",
+    "This item can be reforged!",
+    "❣ Requires The Catacombs Floor V Completion.",
+    "EPIC DUNGEON CHESTPLATE"
+  ],
+  "name": "暗影刺客胸甲",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: {{N0}}"
+      ],
+      "translation": "暴击伤害:{{N0}}",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: []"
+      ],
+      "translation": "宝石: []",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石"
+      }
+    },
+    {
+      "source": [
+        "Piece Bonus: Sinew"
+      ],
+      "translation": "部件加成: 肌腱",
+      "styleMappings": {
+        "Piece Bonus": "部件加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "On teleport, gain {{N0}} Strength for",
+        "{{N1}} seconds."
+      ],
+      "translation": "传送时,获得 {{N0}} 力量,持续 {{N1}} 秒.",
+      "styleMappings": {
+        " Strength": " 力量",
+        "seconds": "秒",
+        "for": "持续",
+        "Strength": "力量",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Shadow Assassin ({{N0}}/{{N1}})"
+      ],
+      "translation": "全套加成: 暗影刺客 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Full Set Bonus": "全套加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Strength for every mob",
+        "you kill in The Catacombs."
+      ],
+      "translation": "在地牢中每击杀一个怪物,获得 {{N0}} 力量.",
+      "styleMappings": {
+        "The Catacombs": "地牢",
+        " Strength": " 力量",
+        "Grants": "获得",
+        "Strength": "力量",
+        "Catacombs": "地牢",
+        "for": "获得"
+      }
+    },
+    {
+      "source": [
+        "(Strength resets after each run)"
+      ],
+      "translation": "(每次地牢结束后力量重置)",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires The Catacombs Floor V Completion."
+      ],
+      "translation": "❣ 需要通关地牢第 V 层.",
+      "styleMappings": {
+        "The Catacombs": "地牢",
+        "Requires": "需要",
+        "Catacombs": "地牢"
+      }
+    },
+    {
+      "source": [
+        "EPIC DUNGEON CHESTPLATE"
+      ],
+      "translation": "史诗地牢胸甲",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Chestplate": "胸甲"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

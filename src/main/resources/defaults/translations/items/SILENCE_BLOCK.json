@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "SILENCE_BLOCK",
+  "_original_name": "Silence Block",
+  "_original_lore": [
+    "Prevents all mobs from making noise",
+    "on your private island.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "消音方块",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Prevents all mobs from making noise",
+        "on your private island."
+      ],
+      "translation": "阻止所有生物在你的私人岛屿上发出噪音.",
+      "styleMappings": {
+        "private island": "私人岛屿",
+        "mobs": "生物",
+        "island": "岛屿上"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

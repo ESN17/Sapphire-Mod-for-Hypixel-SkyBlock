@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "SEAL_TREAT_BAG",
+  "_original_name": "Seal's Treat Bag",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Opening it rewards you with a random",
+    "enchanted fish or bait, rumored to",
+    "be handpicked by playful seals",
+    "themselves!",
+    "",
+    "Right-click to consume!",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "海豹的零食袋",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Opening it rewards you with a random",
+        "enchanted fish or bait, rumored to",
+        "be handpicked by playful seals",
+        "themselves!"
+      ],
+      "translation": "打开它会奖励你一条随机的附魔鱼或鱼饵,据说是由顽皮的海豹们亲手挑选的!",
+      "styleMappings": {
+        "bait": "鱼饵"
+      }
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Seal": "海豹"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

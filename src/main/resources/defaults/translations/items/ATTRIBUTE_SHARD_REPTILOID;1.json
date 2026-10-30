@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "ATTRIBUTE_SHARD_REPTILOID;1",
+  "_original_name": "Chameleon Shard",
+  "_original_lore": [
+    "Reptiloid I",
+    "Fusing a Chameleon with a Shard",
+    "grants the next 3 Shards from that",
+    "Shard's ID line as a result.",
+    "",
+    "Right-click to send to Hunting Box!",
+    "Shift Right-click to move all!",
+    "",
+    "LEGENDARY FOREST SHARD (ID L4)"
+  ],
+  "name": "变色龙碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Reptiloid I"
+      ],
+      "translation": "爬虫 I",
+      "styleMappings": {
+        "I": "I"
+      }
+    },
+    {
+      "source": [
+        "Fusing a Chameleon with a Shard",
+        "grants the next {{N0}} Shards from that",
+        "Shard's ID line as a result."
+      ],
+      "translation": "将变色龙与碎片融合后,会额外获得该碎片 ID 序列中的下 {{N0}} 个碎片.",
+      "styleMappings": {
+        "Shard": "碎片"
+      }
+    },
+    {
+      "source": [
+        "Right-click to send to Hunting Box!"
+      ],
+      "translation": "右键点击发送至狩猎箱!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Shift Right-click to move all!"
+      ],
+      "translation": "潜行键 右键点击全部移动!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "all": "全部"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY FOREST SHARD (ID L{{N0}})"
+      ],
+      "translation": "传说森林碎片 (ID L{{N0}})",
+      "styleMappings": {
+        "LEGENDARY FOREST SHARD": "传说森林碎片",
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shard": "碎片"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "id": "TURBOMAX_VACUUM",
+  "_original_name": "Turbomax Vacuum Cleaner",
+  "_original_lore": [
+    "Lended to you by Kat the Potentially",
+    "Fake Neuroscientist.",
+    "",
+    "Ability: Vacuum  HOLD RIGHT CLICK",
+    "Creates an air pressure differential",
+    "to efficiently collect dust and vermin.",
+    "",
+    "Vacuum Bag: 0 Silverfishes",
+    "Vacuum Bag: 0 Spiders",
+    "Vacuum Bag: 0 Flies",
+    "",
+    "It's not an industrial model, but it",
+    "should do the trick.",
+    "",
+    "RARE"
+  ],
+  "name": "涡轮增压吸尘器",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Lended to you by Kat the Potentially",
+        "Fake Neuroscientist."
+      ],
+      "translation": "由可能是假神经科学家的 Kat 借给你.",
+      "styleMappings": {
+        "Kat": "Kat"
+      }
+    },
+    {
+      "source": [
+        "Ability: Vacuum  HOLD RIGHT CLICK"
+      ],
+      "translation": "技能: 真空  按住右键点击",
+      "styleMappings": {
+        "HOLD RIGHT CLICK": "按住右键点击",
+        "Ability: Vacuum": "技能: 真空",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Creates an air pressure differential",
+        "to efficiently collect dust and vermin."
+      ],
+      "translation": "制造气压差,高效收集灰尘和害虫.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Vacuum Bag: {{N0}} Silverfishes"
+      ],
+      "translation": "集尘袋: {{N0}} 只蠹虫",
+      "styleMappings": {
+        "Silverfishes": "蠹虫",
+        "Vacuum Bag": "集尘袋"
+      }
+    },
+    {
+      "source": [
+        "Vacuum Bag: {{N0}} Spiders"
+      ],
+      "translation": "集尘袋: {{N0}} 只蜘蛛",
+      "styleMappings": {
+        "Vacuum Bag": "集尘袋",
+        "Spiders": "蜘蛛"
+      }
+    },
+    {
+      "source": [
+        "Vacuum Bag: {{N0}} Flies"
+      ],
+      "translation": "集尘袋: {{N0}} 只苍蝇",
+      "styleMappings": {
+        "Vacuum Bag": "集尘袋",
+        "Flies": "苍蝇"
+      }
+    },
+    {
+      "source": [
+        "It's not an industrial model, but it",
+        "should do the trick."
+      ],
+      "translation": "虽然不是工业型号,但应该够用了.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Turbomax Vacuum Cleaner": "涡轮增压吸尘器"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

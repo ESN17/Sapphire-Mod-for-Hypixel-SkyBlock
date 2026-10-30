@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "CAVE_FROG_BRONZE",
+  "_original_name": "Cave Frog BRONZE",
+  "_original_lore": [
+    "Found in the Lotus Eater's Cave.",
+    "",
+    "Bring this to Researcher Ribery on",
+    "the Lotus Atoll.",
+    "",
+    "* Soulbound *",
+    "EPIC TROPHY"
+  ],
+  "name": "洞穴蛙 青铜",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Found in the Lotus Eater's Cave."
+      ],
+      "translation": "在食莲者洞穴中发现.",
+      "styleMappings": {
+        "Lotus Eater's Cave": "食莲者洞穴"
+      }
+    },
+    {
+      "source": [
+        "Bring this to Researcher Ribery on",
+        "the Lotus Atoll."
+      ],
+      "translation": "将此物交给莲花环礁上的 Researcher Ribery.",
+      "styleMappings": {
+        "Researcher Ribery": "Researcher Ribery",
+        "Lotus Atoll": "莲花环礁",
+        "Lotus": "莲花"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "EPIC TROPHY"
+      ],
+      "translation": "史诗奖杯",
+      "styleMappings": {
+        "EPIC TROPHY": "史诗奖杯",
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Cave Frog": "洞穴蛙",
+    "BRONZE": "青铜"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

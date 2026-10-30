@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "ARROW_SWAPPER",
+  "_original_name": "Arrow Swapper",
+  "_original_lore": [
+    "Select the arrow type you want to",
+    "take priority in your quiver.",
+    "",
+    "Selected: None",
+    "",
+    "Left-click: Previous arrow",
+    "Right-click: Next arrow",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "箭矢切换器",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Select the arrow type you want to",
+        "take priority in your quiver."
+      ],
+      "translation": "选择你希望箭袋优先使用的箭矢类型.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Selected: None"
+      ],
+      "translation": "已选择: 无",
+      "styleMappings": {
+        "Selected": "已选择"
+      }
+    },
+    {
+      "source": [
+        "Left-click: Previous arrow"
+      ],
+      "translation": "左键点击: 上一支箭",
+      "styleMappings": {
+        "Left-click": "左键点击"
+      }
+    },
+    {
+      "source": [
+        "Right-click: Next arrow"
+      ],
+      "translation": "右键点击: 下一支箭",
+      "styleMappings": {
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

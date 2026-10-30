@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "id": "EXECUTE;6",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Execute VI",
+    "Increases damage dealt by 1.25%",
+    "for each percent of health",
+    "missing on your target.",
+    "",
+    "Sources:",
+    " - Enchantment Table (I-V)",
+    " - Experiments (VI)",
+    " - Bazaar (VI)",
+    "",
+    "Applied To:",
+    " - Sword",
+    " - Longsword",
+    " - Gauntlet",
+    "",
+    "Requirements:",
+    " - Enchanting Level 14",
+    "",
+    "Conflicts:",
+    " - Prosecute",
+    "",
+    "RARE"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Execute VI"
+      ],
+      "translation": "处决 VI",
+      "styleMappings": {
+        "Execute": "处决",
+        "Execute VI": "处决 VI"
+      }
+    },
+    {
+      "source": [
+        "Increases damage dealt by {{N0}}",
+        "for each percent of health",
+        "missing on your target."
+      ],
+      "translation": "目标每损失百分之一的生命值,你造成的伤害提高 {{N0}}.",
+      "styleMappings": {
+        "damage": "伤害",
+        "health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchantment Table (I-V)",
+        " - Experiments (VI)",
+        " - Bazaar (VI)"
+      ],
+      "translation": " - 附魔台 (I-V)  - 实验 (VI)  - 集市 (VI)",
+      "styleMappings": {
+        "Enchantment Table": "附魔台",
+        "Experiments": "实验",
+        "Bazaar": "集市",
+        "I-V": "I-V",
+        "Enchantment": "附魔"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Sword",
+        " - Longsword",
+        " - Gauntlet"
+      ],
+      "translation": " - 剑  - 长剑  - 护手",
+      "styleMappings": {
+        "Sword": "剑",
+        "Longsword": "长剑",
+        "Gauntlet": "护手"
+      }
+    },
+    {
+      "source": [
+        "Requirements:"
+      ],
+      "translation": "需求:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchanting Level {{N0}}"
+      ],
+      "translation": " - 附魔等级 {{N0}}",
+      "styleMappings": {
+        "Enchanting Level": "附魔等级"
+      }
+    },
+    {
+      "source": [
+        "Conflicts:"
+      ],
+      "translation": "冲突:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Prosecute"
+      ],
+      "translation": " - 审判",
+      "styleMappings": {
+        "Prosecute": "审判"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

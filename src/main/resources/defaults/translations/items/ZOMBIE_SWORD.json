@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "ZOMBIE_SWORD",
+  "_original_name": "Zombie Sword",
+  "_original_lore": [
+    "Damage: +100",
+    "Strength: +50",
+    "Intelligence: +50",
+    "Gemstones: []",
+    "",
+    "Ability: Instant Heal  RIGHT CLICK",
+    "Heal for 320❤ and heal players within 7",
+    "blocks for 64❤.",
+    "Vitality Cost: 25",
+    "",
+    "This item can be reforged!",
+    "RARE SWORD"
+  ],
+  "name": "僵尸剑",
+  "lore": {
+    "Damage: {value}": "伤害:{value}",
+    "Strength: {value}": "力量:{value}",
+    "Intelligence: {value}": "智力:{value}",
+    "Gemstones: {text}": "宝石槽:{text}",
+    "Ability: Instant Heal  RIGHT CLICK": "技能:瞬间治疗  右键点击",
+    "Vitality Cost: {value}": "活力消耗:{value}",
+    "This item can be reforged!": "此物品可以洗练!",
+    "RARE SWORD": "稀有剑",
+    "Damage: {value} ({bonus})": "伤害:{value} ({bonus})",
+    "Strength: {value} ({bonus})": "力量:{value} ({bonus})",
+    "Intelligence: {value} ({bonus})": "智力:{value} ({bonus})"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "Heal for {self}❤ and heal players within {range}",
+        "blocks for {others}❤."
+      ],
+      "translation": "为自己恢复 {self}❤,并为 {range} 格内的玩家恢复 {others}❤.",
+      "styleMappings": {
+        "blocks": "格",
+        "Heal": "恢复"
+      }
+    },
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: []"
+      ],
+      "translation": "宝石槽:[]",
+      "styleMappings": {
+        "Gemstones": "宝石槽"
+      }
+    },
+    {
+      "source": [
+        "Ability: Instant Heal  RIGHT CLICK"
+      ],
+      "translation": "技能:瞬间治疗  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "Heal": "治疗",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Heal for {{N0}}❤ and heal players within {{N1}}",
+        "blocks for {{N2}}❤."
+      ],
+      "translation": "为自己恢复 {{N0}}❤,并为 {{N1}} 格内的玩家恢复 {{N2}}❤.",
+      "styleMappings": {
+        "blocks": "格",
+        "Heal": "恢复"
+      }
+    },
+    {
+      "source": [
+        "Vitality Cost: {{N0}}"
+      ],
+      "translation": "活力消耗:{{N0}}",
+      "styleMappings": {
+        "Vitality": "活力"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "RARE SWORD"
+      ],
+      "translation": "稀有剑",
+      "styleMappings": {
+        "RARE": "稀有",
+        "RARE SWORD": "稀有剑"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Damage": "伤害",
+    "Strength": "力量",
+    "Intelligence": "智力",
+    "RIGHT CLICK": "右键点击",
+    "blocks": "格",
+    "Sword": "剑",
+    "Zombie": "僵尸"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

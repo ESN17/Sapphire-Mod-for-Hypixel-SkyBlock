@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "TALISMAN_ENRICHMENT_FEROCITY",
+  "_original_name": "Ferocity Enrichment",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Enriches an accessory with the",
+    "power of +0.3 Ferocity when",
+    "applied to a Legendary or Mythic",
+    "accessory.",
+    "",
+    "Only ONE enrichment can be applied",
+    "to a given accessory.",
+    "",
+    "SPECIAL"
+  ],
+  "name": "残暴值强化",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Enriches an accessory with the",
+        "power of {{N0}} Ferocity when",
+        "applied to a Legendary or Mythic",
+        "accessory."
+      ],
+      "translation": "应用于传说或神话饰品时,为饰品注入 {{N0}} 残暴值之力.",
+      "styleMappings": {
+        "Legendary": "传说",
+        "Ferocity": "残暴值",
+        "Mythic": "神话",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Only ONE enrichment can be applied",
+        "to a given accessory."
+      ],
+      "translation": "每个饰品只能应用一个强化.",
+      "styleMappings": {
+        "ONE": "一个"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Ferocity": "残暴值"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

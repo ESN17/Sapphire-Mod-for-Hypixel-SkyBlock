@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "id": "SALMON_OPAL",
+  "_original_name": "Kaleidoscopic Mineral",
+  "_original_lore": [
+    "Reforge Stone",
+    "Combinable in Anvil",
+    "",
+    "Applies the Headstrong reforge",
+    "when combined with a Bow.",
+    "",
+    "https://en.wikipedia.org/wiki/Opal.",
+    "",
+    "Grants the following stats that scale",
+    "with the item's rarity:",
+    "  Strength",
+    "  Crit Chance",
+    "  Crit Damage",
+    "",
+    "Headstrong Bonus",
+    "Deal +8%  Damage when hitting a",
+    "mob's head.",
+    "",
+    "Right-click to view rarity scaling!",
+    "",
+    "❣ Requires Mining Skill 15.",
+    "",
+    "UNCOMMON REFORGE STONE"
+  ],
+  "name": "万花筒矿物",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Reforge Stone",
+        "Combinable in Anvil"
+      ],
+      "translation": "洗练石 可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Reforge Stone": "洗练石",
+        "Anvil": "铁砧",
+        "Reforge": "洗练"
+      }
+    },
+    {
+      "source": [
+        "Applies the Headstrong reforge",
+        "when combined with a Bow."
+      ],
+      "translation": "与弓结合时应用倔强洗练.",
+      "styleMappings": {
+        "Headstrong": "倔强",
+        "Bow": "弓",
+        "reforge": "洗练",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "https://en.wikipedia.org/wiki/Opal."
+      ],
+      "translation": "https://en.wikipedia.org/wiki/Opal.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants the following stats that scale"
+      ],
+      "translation": "提供以下随物品稀有度提升的属性:",
+      "styleMappings": {
+        "Grants": "提供",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "with the item's rarity:"
+      ],
+      "translation": "物品稀有度提升的属性:",
+      "styleMappings": {
+        "item": "物品",
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "  Strength",
+        "  Crit Chance",
+        "  Crit Damage"
+      ],
+      "translation": "    力量    暴击几率   暴击伤害",
+      "styleMappings": {
+        " Crit Damage": " 暴击伤害",
+        "Crit Chance": "暴击几率",
+        "Crit Damage": "暴击伤害",
+        "Strength": "力量",
+        "Damage": "伤害",
+        " Crit Chance": " 暴击几率"
+      }
+    },
+    {
+      "source": [
+        "Headstrong Bonus",
+        "Deal {{N0}}  Damage when hitting a",
+        "mob's head."
+      ],
+      "translation": "倔强加成 击中生物头部时造成 {{N0}}  伤害.",
+      "styleMappings": {
+        "Headstrong Bonus": "倔强加成",
+        " Damage": " 伤害",
+        "Damage": "伤害",
+        "Bonus": "加成",
+        "when": "时",
+        "Deal": "造成",
+        "Headstrong": "倔强"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view rarity scaling!"
+      ],
+      "translation": "右键查看各稀有度的属性!",
+      "styleMappings": {
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Mining Skill {{N0}}."
+      ],
+      "translation": "❣ 需要采矿技能 {{N0}}.",
+      "styleMappings": {
+        "Mining Skill": "采矿技能",
+        "Requires": "需要",
+        "Mining": "采矿",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON REFORGE STONE"
+      ],
+      "translation": "罕见 洗练 石",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "AXE_SHATTER_RUNE;3",
+  "_original_name": "◆ Barkshatter Rune III",
+  "_original_lore": [
+    "Requires level 0",
+    "Axes",
+    "",
+    "Your axe throws bark all over the",
+    "place! Obtained from Fire Sales.",
+    "",
+    "Apply this rune to axes at the Runic",
+    "Pedestal!",
+    "",
+    "LEGENDARY COSMETIC"
+  ],
+  "name": "◆ 碎木符文 III",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Requires level {{N0}}",
+        "Axes"
+      ],
+      "translation": "需要斧头等级 {{N0}}",
+      "styleMappings": {
+        "Requires": "需要",
+        "Axes": "斧头"
+      }
+    },
+    {
+      "source": [
+        "Your axe throws bark all over the",
+        "place! Obtained from Fire Sales."
+      ],
+      "translation": "你的斧头会把树皮扔得到处都是!从限时抢购中获得.",
+      "styleMappings": {
+        "Fire Sales": "限时抢购"
+      }
+    },
+    {
+      "source": [
+        "Apply this rune to axes at the Runic",
+        "Pedestal!"
+      ],
+      "translation": "在符文基座上将此符文应用于斧头!",
+      "styleMappings": {
+        "Runic Pedestal": "符文基座",
+        "Runic": "符文"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY COSMETIC"
+      ],
+      "translation": "传说外观",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Rune III": "符文 III",
+    "III": "III"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

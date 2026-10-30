@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "MELON_JUICE",
+  "_original_name": "Melon Juice",
+  "_original_lore": [
+    "Dropped rarely from Melon Slice",
+    "during the Harvest Feast event.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "西瓜汁",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Dropped rarely from Melon Slice",
+        "during the Harvest Feast event."
+      ],
+      "translation": "丰收盛宴活动期间有较低概率从西瓜片掉落.",
+      "styleMappings": {
+        "Harvest Feast": "丰收盛宴",
+        "Melon Slice": "西瓜片",
+        "Melon": "西瓜",
+        "Feast": "盛宴"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Melon": "西瓜"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

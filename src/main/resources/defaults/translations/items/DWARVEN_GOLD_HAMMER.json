@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "DWARVEN_GOLD_HAMMER",
+  "_original_name": "Scavenged Golden Hammer",
+  "_original_lore": [
+    "Quest Item",
+    "",
+    "Bring to the Keeper of Gold in the",
+    "Mines of Divan.",
+    "",
+    "SPECIAL"
+  ],
+  "name": "回收的金锤",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Quest Item"
+      ],
+      "translation": "任务物品",
+      "styleMappings": {
+        "Item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Bring to the Keeper of Gold in the",
+        "Mines of Divan."
+      ],
+      "translation": "带给迪万矿坑的金守护者.",
+      "styleMappings": {
+        "Keeper of Gold": "金守护者",
+        "Mines of Divan": "迪万矿坑",
+        "Gold": "金",
+        "Divan": "迪万",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,227 @@
+{
+  "schemaVersion": 1,
+  "id": "LIVID_DAGGER",
+  "_original_name": "Livid Dagger",
+  "_original_lore": [
+    "Gear Score: 685",
+    "Damage: +210",
+    "Strength: +60",
+    "Crit Chance: +100%",
+    "Crit Damage: +50%",
+    "Attack Speed: +50%",
+    "Gemstones: []",
+    "",
+    "Ability: Throw  RIGHT CLICK",
+    "Throw your dagger at your enemies!",
+    "Mana Cost: 150",
+    "Cooldown: 5s",
+    "",
+    "Your Critical Hits deal 100% more",
+    "damage if you are behind your",
+    "target.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires The Catacombs Floor V Completion.",
+    "LEGENDARY DUNGEON SWORD"
+  ],
+  "name": "利维德匕首",
+  "lore": {
+    "Gear Score: {value}": "装备评分:{value}",
+    "Damage: {value}": "伤害:{value}",
+    "Strength: {value}": "力量:{value}",
+    "Crit Chance: {value}": "暴击率:{value}",
+    "Crit Damage: {value}": "暴击伤害:{value}",
+    "Attack Speed: {value}": "攻击速度:{value}",
+    "Gemstones: {text}": "宝石槽:{text}",
+    "Ability: Throw  RIGHT CLICK": "技能:投掷  右键点击",
+    "Throw your dagger at your enemies!": "向敌人投掷匕首!",
+    "Mana Cost: {value}": "魔力消耗:{value}",
+    "Cooldown: {value}s": "冷却时间:{value}秒",
+    "This item can be reforged!": "此物品可以洗练!",
+    "❣ Requires The Catacombs Floor V Completion.": "❣ 需要通关地牢第 V 层.",
+    "LEGENDARY DUNGEON SWORD": "传说 地牢剑",
+    "Damage: {value} ({bonus})": "伤害:{value} ({bonus})",
+    "Strength: {value} ({bonus})": "力量:{value} ({bonus})",
+    "Crit Chance: {value} ({bonus})": "暴击率:{value} ({bonus})",
+    "Crit Damage: {value} ({bonus})": "暴击伤害:{value} ({bonus})",
+    "Attack Speed: {value} ({bonus})": "攻击速度:{value} ({bonus})",
+    "Gear Score: {value} ({bonus})": "装备评分:{value} ({bonus})"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "Your Critical Hits deal {damage} more",
+        "damage if you are behind your",
+        "target."
+      ],
+      "translation": "从目标背后攻击时,暴击伤害额外提高 {damage}.",
+      "styleMappings": {
+        "Critical": "暴击",
+        "more": "额外",
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Crit Chance: {{N0}}"
+      ],
+      "translation": "暴击率: {{N0}}",
+      "styleMappings": {
+        "Crit Chance": "暴击率"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: {{N0}}"
+      ],
+      "translation": "暴击伤害:{{N0}}",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Attack Speed: {{N0}}"
+      ],
+      "translation": "攻击速度: {{N0}}",
+      "styleMappings": {
+        "Attack Speed": "攻击速度",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: []"
+      ],
+      "translation": "宝石: []",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石"
+      }
+    },
+    {
+      "source": [
+        "Ability: Throw  RIGHT CLICK"
+      ],
+      "translation": "技能:投掷  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Throw your dagger at your enemies!"
+      ],
+      "translation": "向敌人投掷匕首!",
+      "styleMappings": {
+        "enemies": "敌人"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "Your Critical Hits deal {{N0}} more",
+        "damage if you are behind your",
+        "target."
+      ],
+      "translation": "从目标背后攻击时,暴击伤害额外提高 {{N0}}.",
+      "styleMappings": {
+        "Critical": "暴击",
+        "damage": "伤害",
+        "more": "额外"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires The Catacombs Floor V Completion."
+      ],
+      "translation": "❣ 需要通关地牢第 V 层.",
+      "styleMappings": {
+        "The Catacombs": "地牢",
+        "Requires": "需要",
+        "Catacombs": "地牢"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY DUNGEON SWORD"
+      ],
+      "translation": "传说地牢剑",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Strength": "力量",
+    "Crit Chance": "暴击率",
+    "Crit Damage": "暴击伤害",
+    "Attack Speed": "攻击速度",
+    "RIGHT CLICK": "右键点击",
+    "s": "秒",
+    "The Catacombs": "地牢",
+    "Livid": "利维德"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

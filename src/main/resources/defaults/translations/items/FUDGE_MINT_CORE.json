@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "FUDGE_MINT_CORE",
+  "_original_name": "Fudge Mint Core",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Consume this awesome fudge",
+    "flavored mint to permanently gain",
+    "+1☯ Social Wisdom while not playing",
+    "SkyBlock.",
+    "",
+    "Obtained from the A Honk and Seek",
+    "Adventure event during April Fools.",
+    "",
+    "Right-click to consume!",
+    "",
+    "SPECIAL"
+  ],
+  "name": "软糖薄荷核心",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Consume this awesome fudge",
+        "flavored mint to permanently gain",
+        "{{N0}}☯ Social Wisdom while not playing",
+        "SkyBlock."
+      ],
+      "translation": "食用这颗美味的软糖味薄荷,即可在不玩空岛生存时永久获得 {{N0}}☯ 社交智慧.",
+      "styleMappings": {
+        "while not playing SkyBlock": "不玩空岛生存时",
+        "Social Wisdom": "社交智慧",
+        "permanently": "永久",
+        "Wisdom": "智慧",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "Obtained from the A Honk and Seek",
+        "Adventure event during April Fools."
+      ],
+      "translation": "在愚人节期间的鸣笛寻宝冒险活动中获得.",
+      "styleMappings": {
+        "A Honk and Seek Adventure": "鸣笛寻宝冒险"
+      }
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

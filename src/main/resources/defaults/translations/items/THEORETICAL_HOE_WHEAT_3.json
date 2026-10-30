@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "THEORETICAL_HOE_WHEAT_3",
+  "_original_name": "Euclid's Wheat Sickle Mk. III",
+  "_original_lore": [
+    "Farming Tool",
+    "",
+    "Level 1 -> 2   (0/1k)",
+    "                          0%",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Farming Skill 20.",
+    "EPIC FARMING TOOL"
+  ],
+  "name": "欧几里得的小麦镰刀 III 型",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Farming Tool"
+      ],
+      "translation": "农具",
+      "styleMappings": {
+        "Farming Tool": "农具"
+      }
+    },
+    {
+      "source": [
+        "Level {{N0}} -> {{N1}}   ({{N2}}/{{N3}}k)",
+        "                          {{N4}}"
+      ],
+      "translation": "等级 {{N0}} -> {{N1}}   ({{N2}}/{{N3}}千)                           {{N4}}",
+      "styleMappings": {
+        "Level": "等级",
+        "{{N3}}k": "{{N3}}千"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Farming Skill {{N0}}."
+      ],
+      "translation": "❣ 需要农业技能 {{N0}}.",
+      "styleMappings": {
+        "Farming Skill": "农业技能",
+        "Requires": "需要",
+        "Farming": "农业",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC FARMING TOOL"
+      ],
+      "translation": "史诗农业工具",
+      "styleMappings": {
+        "EPIC FARMING TOOL": "史诗农业工具",
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Wheat": "小麦",
+    "III": "III"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

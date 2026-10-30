@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "ETHEREAL_VINE",
+  "_original_name": "Ethereal Vine",
+  "_original_lore": [
+    "Allows you to unlock additional plant",
+    "slots in the Greenhouse by",
+    "right-clicking on a locked plant slot.",
+    "",
+    "This elusive vine seems to grow",
+    "wherever it pleases, bending the",
+    "rules of nature.",
+    "",
+    "EPIC"
+  ],
+  "name": "空灵藤蔓",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Allows you to unlock additional plant",
+        "slots in the Greenhouse by",
+        "right-clicking on a locked plant slot."
+      ],
+      "translation": "右键点击温室中已锁定的种植槽,即可解锁额外的种植槽.",
+      "styleMappings": {
+        "right-clicking": "右键点击",
+        "Greenhouse": "温室",
+        "additional": "额外",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "This elusive vine seems to grow",
+        "wherever it pleases, bending the",
+        "rules of nature."
+      ],
+      "translation": "这种难以捉摸的藤蔓似乎想长在哪就长在哪,无视自然规律.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

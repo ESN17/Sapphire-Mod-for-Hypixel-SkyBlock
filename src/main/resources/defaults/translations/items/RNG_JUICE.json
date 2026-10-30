@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "id": "RNG_JUICE",
+  "_original_name": "RNG Juice",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Consume this tasty but",
+    "questionably-sourced juice to add a",
+    "small amount of progress to an RNG",
+    "Meter of your choosing.",
+    "",
+    "An ancient delicacy said to bring",
+    "good luck to those who dare to",
+    "consume it.",
+    "",
+    "Right-click to consume!",
+    "",
+    "* Soulbound *",
+    "UNCOMMON"
+  ],
+  "name": "随机数果汁",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Consume this tasty but",
+        "questionably-sourced juice to add a",
+        "small amount of progress to an RNG",
+        "Meter of your choosing."
+      ],
+      "translation": "饮用这瓶美味但来源存疑的果汁,为你选择的随机数计量条增加少量进度.",
+      "styleMappings": {
+        "RNG Meter": "随机数计量条"
+      }
+    },
+    {
+      "source": [
+        "An ancient delicacy said to bring",
+        "good luck to those who dare to",
+        "consume it."
+      ],
+      "translation": "一种古老的珍馐,据说能给敢于食用它的人带来好运.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

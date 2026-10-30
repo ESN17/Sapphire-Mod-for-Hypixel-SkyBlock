@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_HASTE;4",
+  "_original_name": "Haste IV Potion",
+  "_original_lore": [
+    "",
+    "Haste IV (3:00)",
+    "Grants +200  Mining Speed.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "急速 IV 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Haste IV ({{N0}}:{{N1}})"
+      ],
+      "translation": "急速 IV ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Haste IV": "急速 IV"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}  Mining Speed."
+      ],
+      "translation": "获得 {{N0}}   挖掘速度.",
+      "styleMappings": {
+        "Mining Speed": "挖掘速度",
+        "Grants": "获得",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Haste IV": "急速 IV"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "DWARVEN_EMERALD_HAMMER",
+  "_original_name": "Scavenged Emerald Hammer",
+  "_original_lore": [
+    "Quest Item",
+    "",
+    "Bring to the Keeper of Emerald in",
+    "the Mines of Divan.",
+    "",
+    "SPECIAL"
+  ],
+  "name": "回收的绿宝石锤",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Quest Item"
+      ],
+      "translation": "任务物品",
+      "styleMappings": {
+        "Item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Bring to the Keeper of Emerald in",
+        "the Mines of Divan."
+      ],
+      "translation": "带给迪万矿坑的绿宝石守护者.",
+      "styleMappings": {
+        "Keeper of Emerald": "绿宝石守护者",
+        "Mines of Divan": "迪万矿坑",
+        "Divan": "迪万",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

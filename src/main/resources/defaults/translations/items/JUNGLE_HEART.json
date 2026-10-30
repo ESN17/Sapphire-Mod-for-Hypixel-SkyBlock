@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "JUNGLE_HEART",
+  "_original_name": "Jungle Heart",
+  "_original_lore": [
+    "Found in the deepest layers of the",
+    "Jungle Temple.",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "丛林之心",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Found in the deepest layers of the",
+        "Jungle Temple."
+      ],
+      "translation": "发现于丛林神庙的最深层.",
+      "styleMappings": {
+        "Jungle Temple": "丛林神庙",
+        "Jungle": "丛林",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Jungle": "丛林"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

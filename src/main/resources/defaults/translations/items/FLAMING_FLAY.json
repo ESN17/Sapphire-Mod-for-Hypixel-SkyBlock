@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "id": "FLAMING_FLAY",
+  "_original_name": "Flaming Flay",
+  "_original_lore": [
+    "Damage: +200",
+    "Strength: +250",
+    "Ferocity: +25",
+    "Gemstones: [⚔] [⚔]",
+    "",
+    "Deals 3x damage to Sea Creatures.",
+    "",
+    "Ability: Flay  RIGHT CLICK",
+    "Flay your whip in an arc, dealing your melee",
+    "damage to all enemies in its path. Heal 1% ",
+    "for each Sea Creature hit, up to 25 .",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Fishing Skill 47.",
+    "LEGENDARY SWORD"
+  ],
+  "name": "烈焰鞭",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Ferocity: {{N0}}"
+      ],
+      "translation": "残暴值: {{N0}}",
+      "styleMappings": {
+        "Ferocity": "残暴值"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [⚔] [⚔]"
+      ],
+      "translation": "宝石: [⚔] [⚔]",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石",
+        "] [": "] ["
+      }
+    },
+    {
+      "source": [
+        "Deals {{N0}}x damage to Sea Creatures."
+      ],
+      "translation": "对海洋生物造成 {{N0}} 倍伤害.",
+      "styleMappings": {
+        "Sea Creatures": "海洋生物",
+        "damage": "伤害",
+        "Deals": "造成",
+        "{{N0}}x": "{{N0}} 倍"
+      }
+    },
+    {
+      "source": [
+        "Ability: Flay  RIGHT CLICK"
+      ],
+      "translation": "技能: 鞭击  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Flay your whip in an arc, dealing your melee",
+        "damage to all enemies in its path. Heal {{N0}} ",
+        "for each Sea Creature hit, up to {{N1}} ."
+      ],
+      "translation": "以弧线挥出你的鞭子,对路径上的所有敌人造成你的近战伤害.每命中一个海洋生物,治疗 {{N0}} ,最多 {{N1}} .",
+      "styleMappings": {
+        "Sea Creature": "海洋生物",
+        "melee damage": "近战伤害",
+        "Heal": "治疗",
+        "Flay your whip in an arc": "以弧线挥出你的鞭子",
+        "dealing your melee damage": "造成你的近战伤害",
+        "to all enemies in its path": "对路径上的所有敌人",
+        "damage": "伤害",
+        "hit": "命中",
+        "enemies": "敌人"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Fishing Skill {{N0}}."
+      ],
+      "translation": "❣ 需要钓鱼技能 {{N0}}.",
+      "styleMappings": {
+        "Fishing Skill": "钓鱼技能",
+        "Requires": "需要",
+        "Fishing": "钓鱼",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY SWORD"
+      ],
+      "translation": "传说剑",
+      "styleMappings": {
+        "LEGENDARY": "传说",
+        "LEGENDARY SWORD": "传说剑"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "ENDSTONE_PROTECTOR_BOSS",
+  "_original_name": "End Stone Protector (Boss)",
+  "_original_lore": [
+    "Risen from the debris of",
+    "Endstone.",
+    "",
+    "❤ Health: 5,000,000"
+  ],
+  "name": "末地石守护者 (首领)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Risen from the debris of",
+        "Endstone."
+      ],
+      "translation": "从末地石的残骸中崛起.",
+      "styleMappings": {
+        "Endstone": "末地石"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Boss": "首领",
+    "End": "末地",
+    "End Stone Protector": "末地石守护者",
+    "End Stone": "末地石"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

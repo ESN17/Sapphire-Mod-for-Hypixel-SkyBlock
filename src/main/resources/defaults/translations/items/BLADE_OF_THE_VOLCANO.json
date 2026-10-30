@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": "BLADE_OF_THE_VOLCANO",
+  "_original_name": "Blade of the Volcano",
+  "_original_lore": [
+    "Damage: +220",
+    "Strength: +70",
+    "Crit Damage: +20%",
+    "",
+    "A powerful blade forged in the",
+    "depths of the Blazing Volcano.",
+    "",
+    "Gain +100 Strength against enemies",
+    "who are in lava.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Combat Skill 22.",
+    "RARE SWORD"
+  ],
+  "name": "火山之刃",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: {{N0}}"
+      ],
+      "translation": "暴击伤害:{{N0}}",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "A powerful blade forged in the",
+        "depths of the Blazing Volcano."
+      ],
+      "translation": "在炽焰火山深处锻造的强大刀刃.",
+      "styleMappings": {
+        "Blazing Volcano": "炽焰火山",
+        "depths": "深处",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}} Strength against enemies",
+        "who are in lava."
+      ],
+      "translation": "对身处熔岩中的敌人获得 {{N0}} 力量.",
+      "styleMappings": {
+        " Strength": " 力量",
+        "Gain": "获得",
+        "lava": "熔岩",
+        "Strength": "力量",
+        "enemies": "敌人"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "RARE SWORD"
+      ],
+      "translation": "稀有剑",
+      "styleMappings": {
+        "RARE": "稀有",
+        "RARE SWORD": "稀有剑"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

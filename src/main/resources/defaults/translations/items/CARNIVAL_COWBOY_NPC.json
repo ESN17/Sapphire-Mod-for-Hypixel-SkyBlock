@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "CARNIVAL_COWBOY_NPC",
+  "_original_name": "Carnival Cowboy (NPC)",
+  "_original_lore": [
+    "Only appears during The Carnival Event ",
+    "when Foxy is Mayor."
+  ],
+  "name": "嘉年华牛仔 (人物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Only appears during The Carnival Event ",
+        "when Foxy is Mayor."
+      ],
+      "translation": "仅在 Foxy 担任市长期间的嘉年华活动期间出现.",
+      "styleMappings": {
+        "The Carnival Event": "嘉年华活动",
+        "Mayor": "市长",
+        "Foxy": "Foxy",
+        "Carnival": "嘉年华",
+        "The Carnival": "嘉年华"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Carnival": "嘉年华",
+    "(NPC)": "(人物)"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

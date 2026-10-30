@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "RED_BELT",
+  "_original_name": "Red Belt",
+  "_original_lore": [
+    "Health: +0.1",
+    "Defense: +0.1",
+    "",
+    "Reduces damage taken by 0%.",
+    "",
+    "Obtained from the A Honk and Seek",
+    "Adventure event during April Fools.",
+    "",
+    "Right-click to equip!",
+    "",
+    "This item CANNOT be reforged!",
+    "SPECIAL BELT"
+  ],
+  "name": "红腰带",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Reduces damage taken by {{N0}}."
+      ],
+      "translation": "减少 {{N0}} 受到的伤害.",
+      "styleMappings": {
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Obtained from the A Honk and Seek",
+        "Adventure event during April Fools."
+      ],
+      "translation": "在愚人节期间的鸣笛寻宝冒险活动中获得.",
+      "styleMappings": {
+        "A Honk and Seek Adventure": "鸣笛寻宝冒险"
+      }
+    },
+    {
+      "source": [
+        "Right-click to equip!"
+      ],
+      "translation": "右键点击装备!",
+      "styleMappings": {
+        "Right-click to equip!": "右键点击装备!",
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "This item CANNOT be reforged!"
+      ],
+      "translation": "此物品无法洗练!",
+      "styleMappings": {
+        "CANNOT": "无法",
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL BELT"
+      ],
+      "translation": "特殊腰带",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Belt": "腰带"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "id": "FRUIT_BOWL",
+  "_original_name": "Fruit Bowl",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Click on a player while holding this",
+    "item to add the name of their profile",
+    "to this item.",
+    "",
+    "Find one of each default profile",
+    "name to permanently consume this",
+    "item and permanently gain +1☯",
+    "Farming Wisdom and 250,000 Coins.",
+    "",
+    "Names missing:",
+    "Apple, Banana, Blueberry, Cucumber, Coconut,",
+    "Grapes, Kiwi, Lemon, Lime, Mango, Orange,",
+    "Papaya, Pineapple, Peach, Pear, Pomegranate,",
+    "Raspberry, Strawberry, Tomato, Watermelon,",
+    "Zucchini",
+    "",
+    "You may only gain the bonus once!",
+    "",
+    "RARE"
+  ],
+  "name": "水果碗",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Click on a player while holding this",
+        "item to add the name of their profile",
+        "to this item."
+      ],
+      "translation": "手持此物品时点击一名玩家,将其档案名称添加到此物品上.",
+      "styleMappings": {
+        "player": "玩家",
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Find one of each default profile",
+        "name to permanently consume this",
+        "item and permanently gain {{N0}}☯",
+        "Farming Wisdom and {{N1}} Coins."
+      ],
+      "translation": "找到每种默认档案名称各一个,即可永久消耗此物品并永久获得 {{N0}}☯ 农业智慧和 {{N1}} 硬币.",
+      "styleMappings": {
+        "Farming Wisdom": "农业智慧",
+        "permanently": "永久",
+        "Coins": "硬币",
+        "item": "物品",
+        "Wisdom": "智慧",
+        "Farming": "农业",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "Names missing:"
+      ],
+      "translation": "缺少的名称:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Apple, Banana, Blueberry, Cucumber, Coconut,",
+        "Grapes, Kiwi, Lemon, Lime, Mango, Orange,",
+        "Papaya, Pineapple, Peach, Pear, Pomegranate,",
+        "Raspberry, Strawberry, Tomato, Watermelon,",
+        "Zucchini"
+      ],
+      "translation": "苹果, 香蕉, 蓝莓, 黄瓜, 椰子, 葡萄, 猕猴桃, 柠檬, 青柠, 芒果, 橙子, 木瓜, 菠萝, 桃子, 梨, 石榴, 覆盆子, 草莓, 番茄, 西瓜, 西葫芦",
+      "styleMappings": {
+        "Apple": "苹果",
+        "Banana": "香蕉",
+        "Blueberry": "蓝莓",
+        "Cucumber": "黄瓜",
+        "Coconut": "椰子",
+        "Grapes": "葡萄",
+        "Kiwi": "猕猴桃",
+        "Lemon": "柠檬",
+        "Lime": "青柠",
+        "Mango": "芒果",
+        "Orange": "橙子",
+        "Papaya": "木瓜",
+        "Pineapple": "菠萝",
+        "Peach": "桃子",
+        "Pear": "梨",
+        "Pomegranate": "石榴",
+        "Raspberry": "覆盆子",
+        "Strawberry": "草莓",
+        "Tomato": "番茄",
+        "Watermelon": "西瓜",
+        "Zucchini": "西葫芦"
+      }
+    },
+    {
+      "source": [
+        "You may only gain the bonus once!"
+      ],
+      "translation": "你只能获得一次该奖励!",
+      "styleMappings": {
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

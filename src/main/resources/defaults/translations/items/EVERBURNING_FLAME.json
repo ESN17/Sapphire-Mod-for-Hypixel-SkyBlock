@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "EVERBURNING_FLAME",
+  "_original_name": "Everburning Flame",
+  "_original_lore": [
+    "Minion Fuel",
+    "",
+    "Increases the speed of your minion",
+    "by 35%. Unlimited Duration!",
+    "",
+    "Everburning Bonus: 5% extra speed on",
+    "Combat minions.",
+    "",
+    "EPIC"
+  ],
+  "name": "永燃之焰",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Minion Fuel"
+      ],
+      "translation": "仆从燃料",
+      "styleMappings": {
+        "Minion Fuel": "仆从燃料",
+        "Fuel": "燃料",
+        "Minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "Increases the speed of your minion",
+        "by {{N0}}. Unlimited Duration!"
+      ],
+      "translation": "仆从的工作速度提高 {{N0}},永久有效!",
+      "styleMappings": {
+        "minion": "仆从",
+        "speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Everburning Bonus: {{N0}} extra speed on"
+      ],
+      "translation": "永燃加成: {{N0}} 额外速度,作用于",
+      "styleMappings": {
+        "Everburning Bonus": "永燃加成",
+        "speed": "速度",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Combat minions."
+      ],
+      "translation": "战斗仆从.",
+      "styleMappings": {
+        "Combat": "战斗",
+        "minions": "仆从"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

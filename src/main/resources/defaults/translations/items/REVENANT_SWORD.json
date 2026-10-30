@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "id": "REVENANT_SWORD",
+  "_original_name": "Revenant Falchion",
+  "_original_lore": [
+    "Damage: +90",
+    "Strength: +50",
+    "Intelligence: +100",
+    "",
+    "Deals +150% damage to  Undead",
+    "mobs.",
+    "",
+    "This item can be reforged!",
+    "☠ Requires Zombie Slayer 3.",
+    "RARE SWORD"
+  ],
+  "name": "镇魂弯刀",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Deals {{N0}} damage to  Undead",
+        "mobs."
+      ],
+      "translation": "对 亡灵生物造成 {{N0}} 伤害.",
+      "styleMappings": {
+        "Undead": "亡灵",
+        "damage": "伤害",
+        "Deals": "造成",
+        "mobs": "生物",
+        "mobs.": "伤害."
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Zombie Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要僵尸杀手 {{N0}}.",
+      "styleMappings": {
+        "Zombie Slayer": "僵尸杀手",
+        "Requires": "需要",
+        "Zombie": "僵尸",
+        "Slayer": "杀手"
+      }
+    },
+    {
+      "source": [
+        "RARE SWORD"
+      ],
+      "translation": "稀有剑",
+      "styleMappings": {
+        "RARE": "稀有",
+        "RARE SWORD": "稀有剑"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Revenant Falchion": "镇魂弯刀"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_name_revision": "2026-10-17-slayer-rpg"
+}

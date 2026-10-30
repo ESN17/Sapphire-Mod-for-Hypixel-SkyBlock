@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "ORCHID_MANTIS;0",
+  "_original_name": "[Lvl {LVL}] Orchid Mantis",
+  "_original_lore": [
+    "Farming Pet",
+    "",
+    "Speed: +{SPEED}",
+    "Overbloom: +{OVERBLOOM}",
+    "",
+    "Intelligent Specimen",
+    "Earn +{0}% more Farming Tool Exp.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "COMMON PET"
+  ],
+  "name": "[等级 {LVL}] 兰花螳螂",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Farming Pet"
+      ],
+      "translation": "耕作宠物",
+      "styleMappings": {
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Speed: +{{N0}}"
+      ],
+      "translation": "速度: +{{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Overbloom: +{{N0}}"
+      ],
+      "translation": "稀有作物概率加成: +{{N0}}",
+      "styleMappings": {
+        "Overbloom": "稀有作物概率加成"
+      }
+    },
+    {
+      "source": [
+        "Intelligent Specimen"
+      ],
+      "translation": "智能标本",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Earn +{{N0}}% more Farming Tool Exp."
+      ],
+      "translation": "获得 +{{N0}}% 额外农具经验.",
+      "styleMappings": {
+        "more": "额外",
+        "Farming Tool": "农具",
+        "Exp": "经验"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "COMMON PET"
+      ],
+      "translation": "普通 宠物",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

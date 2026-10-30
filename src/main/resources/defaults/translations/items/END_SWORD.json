@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "END_SWORD",
+  "_original_name": "End Sword",
+  "_original_lore": [
+    "Damage: +35",
+    "",
+    "Deals +100% damage to  Ender",
+    "mobs.",
+    "",
+    "This item can be reforged!",
+    "UNCOMMON SWORD"
+  ],
+  "name": "末地剑",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Deals {{N0}} damage to  Ender",
+        "mobs."
+      ],
+      "translation": "对  末地生物造成 {{N0}} 伤害.",
+      "styleMappings": {
+        "damage": "伤害",
+        "Deals": "造成",
+        "Ender": "末地",
+        "mobs": "生物",
+        "mobs.": "伤害."
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON SWORD"
+      ],
+      "translation": "罕见剑",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sword": "剑",
+    "End": "末地"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

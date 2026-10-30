@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "BACHELOR_ROSE",
+  "_original_name": "Bachelor's Rose",
+  "_original_lore": [
+    "Can be gifted to any eligible NPC to",
+    "invite them to visit your Garden.",
+    "",
+    "Right-click on an NPC to use!",
+    "",
+    "SPECIAL"
+  ],
+  "name": "单身汉玫瑰",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Can be gifted to any eligible NPC to",
+        "invite them to visit your Garden."
+      ],
+      "translation": "可赠送给任意符合条件的人物,邀请他们参观你的花园.",
+      "styleMappings": {
+        "Garden": "花园"
+      }
+    },
+    {
+      "source": [
+        "Right-click on an NPC to use!"
+      ],
+      "translation": "右键点击人物使用!",
+      "styleMappings": {
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

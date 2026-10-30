@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "id": "KRAMPUS_HELMET",
+  "_original_name": "Krampus Helmet",
+  "_original_lore": [
+    "Minion Upgrade",
+    "",
+    "Gains +1 per 50 gifts given by",
+    "wearer.",
+    "Max 500❤",
+    "",
+    "This item can be used as a minion",
+    "upgrade. Place it in ONE minion and it",
+    "will occasionally generate Red Gifts!",
+    "",
+    "This item can be reforged!",
+    "EPIC HELMET"
+  ],
+  "name": "坎卜斯头盔",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Minion Upgrade"
+      ],
+      "translation": "仆从升级组件",
+      "styleMappings": {
+        "Minion Upgrade": "仆从升级",
+        "Minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "Gains {{N0}} per {{N1}} gifts given by",
+        "wearer."
+      ],
+      "translation": "佩戴者每送出 {{N1}} 份礼物,获得 {{N0}}.",
+      "styleMappings": {
+        "Gains": "获得",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Max {{N0}}❤"
+      ],
+      "translation": "上限 {{N0}}❤",
+      "styleMappings": {
+        "Max": "上限"
+      }
+    },
+    {
+      "source": [
+        "This item can be used as a minion"
+      ],
+      "translation": "此物品可作为仆从",
+      "styleMappings": {
+        "item": "物品",
+        "minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "upgrade. Place it in ONE minion and it",
+        "will occasionally generate Red Gifts!"
+      ],
+      "translation": "升级.放入一个仆从后,它会偶尔产出红色礼物!",
+      "styleMappings": {
+        "Red Gifts": "红色礼物",
+        "upgrade": "升级",
+        "minion": "仆从",
+        "ONE": "一个",
+        "Red": "红色",
+        "Gifts": "礼物"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "EPIC HELMET"
+      ],
+      "translation": "史诗头盔",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Helmet": "头盔"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

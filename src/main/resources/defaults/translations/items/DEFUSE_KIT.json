@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "DEFUSE_KIT",
+  "_original_name": "Defuse Kit",
+  "_original_lore": [
+    "Can be used to defuse Dungeon",
+    "traps. Successful defusing of traps",
+    "may increase your  Intelligence!",
+    "(Maximum +10)",
+    "",
+    "Traps Defused: 0",
+    "",
+    "UNCOMMON DUNGEON ITEM"
+  ],
+  "name": "拆弹工具包",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Can be used to defuse Dungeon",
+        "traps. Successful defusing of traps",
+        "may increase your  Intelligence!"
+      ],
+      "translation": "可用于拆除地牢陷阱.成功拆除陷阱可能提升你的  智力!",
+      "styleMappings": {
+        "Intelligence": "智力",
+        "Dungeon": "地牢",
+        "": "",
+        " Intelligence": " 智力"
+      }
+    },
+    {
+      "source": [
+        "(Maximum {{N0}})"
+      ],
+      "translation": "(最大 {{N0}})",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Traps Defused: {{N0}}"
+      ],
+      "translation": "已拆除陷阱: {{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "UNCOMMON DUNGEON ITEM"
+      ],
+      "translation": "罕见 地牢 物品",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

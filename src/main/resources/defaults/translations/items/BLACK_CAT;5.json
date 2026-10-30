@@ -1,0 +1,189 @@
+{
+  "schemaVersion": 1,
+  "id": "BLACK_CAT;5",
+  "_original_name": "[Lvl {LVL}] Black Cat",
+  "_original_lore": [
+    "Combat Pet",
+    "",
+    "Intelligence: +{INTELLIGENCE}",
+    "Speed: +{SPEED}",
+    "Magic Find: +{MAGIC_FIND}",
+    "Pet Luck: +{PET_LUCK}",
+    "",
+    "Hunter",
+    "Increases your  Speed and speed",
+    "cap by +{0}.",
+    "",
+    "Omen",
+    "Grants +{1} Pet Luck.",
+    "",
+    "Supernatural",
+    "Grants +{2} Magic Find.",
+    "",
+    "Looting",
+    "Gain {3}% more collection items from",
+    "monsters!",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "MYTHIC PET"
+  ],
+  "name": "[等级 {LVL}] 黑猫",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combat Pet"
+      ],
+      "translation": "战斗宠物",
+      "styleMappings": {
+        "Combat Pet": "战斗宠物",
+        "Combat": "战斗",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: +{{N0}}"
+      ],
+      "translation": "智力: +{{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Speed: +{{N0}}"
+      ],
+      "translation": "速度: +{{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Magic Find: +{{N0}}"
+      ],
+      "translation": "稀有物品概率加成: +{{N0}}",
+      "styleMappings": {
+        "Magic Find": "稀有物品概率加成"
+      }
+    },
+    {
+      "source": [
+        "Pet Luck: +{{N0}}"
+      ],
+      "translation": "宠物幸运: +{{N0}}",
+      "styleMappings": {
+        "Pet Luck": "宠物幸运",
+        "Pet": "宠物",
+        "Luck": "幸运"
+      }
+    },
+    {
+      "source": [
+        "Hunter"
+      ],
+      "translation": "猎人",
+      "styleMappings": {
+        "Hunter": "猎人"
+      }
+    },
+    {
+      "source": [
+        "Increases your  Speed and speed",
+        "cap by +{{N0}}."
+      ],
+      "translation": "将你的  速度 和速度上限提高 +{{N0}}.",
+      "styleMappings": {
+        "speed cap": "速度上限",
+        " Speed": "速度",
+        "speed": "速度",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Omen"
+      ],
+      "translation": "预兆",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants +{{N0}} Pet Luck."
+      ],
+      "translation": "提供 +{{N0}} 宠物幸运.",
+      "styleMappings": {
+        "Pet Luck": "宠物幸运",
+        "Grants": "提供",
+        "Pet": "宠物",
+        "Luck": "幸运"
+      }
+    },
+    {
+      "source": [
+        "Supernatural"
+      ],
+      "translation": "超自然",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants +{{N0}} Magic Find."
+      ],
+      "translation": "获得 +{{N0}} 稀有物品概率加成.",
+      "styleMappings": {
+        " Magic Find": " 稀有物品概率加成",
+        "Grants": "获得",
+        "Magic Find": "稀有物品概率加成"
+      }
+    },
+    {
+      "source": [
+        "Looting"
+      ],
+      "translation": "掠夺",
+      "styleMappings": {
+        "Looting": "掠夺"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}}% more collection items from",
+        "monsters!"
+      ],
+      "translation": "从怪物处获得 {{N0}}% 更多收藏物品!",
+      "styleMappings": {
+        "collection items": "收藏物品",
+        "monsters": "怪物",
+        "Gain": "获得",
+        "more": "更多",
+        "items": "物品"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "MYTHIC PET"
+      ],
+      "translation": "神话 宠物",
+      "styleMappings": {
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Black Cat": "黑猫",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

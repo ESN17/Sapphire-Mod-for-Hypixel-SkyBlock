@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "id": "MIMIC_FRAGMENT",
+  "_original_name": "Mimic Fragment",
+  "_original_lore": [
+    "Fool me once, shame on you. Fool me",
+    "9 times, and you can craft a Lesser",
+    "Orb of Healing.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "RARE DUNGEON ITEM"
+  ],
+  "name": "拟态碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Fool me once, shame on you. Fool me",
+        "{{N0}} times, and you can craft a Lesser",
+        "Orb of Healing."
+      ],
+      "translation": "骗我一次, 是你的耻辱.骗我 {{N0}} 次, 你就能合成一个次级治疗宝珠.",
+      "styleMappings": {
+        "Lesser Orb of Healing": "次级治疗宝珠",
+        "Orb": "宝珠"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE DUNGEON ITEM"
+      ],
+      "translation": "稀有 地牢物品",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

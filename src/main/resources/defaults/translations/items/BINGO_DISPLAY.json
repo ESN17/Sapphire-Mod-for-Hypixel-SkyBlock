@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "BINGO_DISPLAY",
+  "_original_name": "Bingo Display",
+  "_original_lore": [
+    "Show off your total Bingo Points!",
+    "",
+    "COMMON COSMETIC"
+  ],
+  "name": "宾果展示",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Show off your total Bingo Points!"
+      ],
+      "translation": "炫耀你的宾果积分总数!",
+      "styleMappings": {
+        "Bingo Points": "宾果积分",
+        "Bingo": "宾果"
+      }
+    },
+    {
+      "source": [
+        "COMMON COSMETIC"
+      ],
+      "translation": "普通 外观",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Bingo": "宾果"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

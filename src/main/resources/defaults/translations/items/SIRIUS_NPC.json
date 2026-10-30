@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "SIRIUS_NPC",
+  "_original_name": "Sirius (NPC)",
+  "_original_lore": [
+    "Sirius appears every 3 Skyblock Days  ",
+    "(Usally the 55th min of every real-life hour) ",
+    "in front of house in the Wilderness."
+  ],
+  "name": "Sirius (人物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Sirius appears every {{N0}} Skyblock Days  ",
+        "(Usally the {{N1}}th min of every real-life hour) ",
+        "in front of house in the Wilderness."
+      ],
+      "translation": "Sirius 每 {{N0}} 个空岛日出现一次   (通常是每个现实小时的 {{N1}} 分)  在荒野中的房子前面.",
+      "styleMappings": {
+        "Wilderness": "荒野",
+        "hour": "小时",
+        "in the": "的"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(NPC)": "(人物)"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

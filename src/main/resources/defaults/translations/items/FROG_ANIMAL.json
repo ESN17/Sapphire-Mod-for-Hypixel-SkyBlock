@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "FROG_ANIMAL",
+  "_original_name": "Mossybit (Animal)",
+  "_original_lore": [
+    "The Mossybit is a passive mob that can be found on Galatea."
+  ],
+  "name": "苔藓小虫 (动物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Mossybit is a passive mob that can be found on Galatea."
+      ],
+      "translation": "苔藓球是一种被动生物,可在加拉蒂亚找到.",
+      "styleMappings": {
+        "passive": "被动",
+        "Galatea": "加拉蒂亚"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Animal": "动物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

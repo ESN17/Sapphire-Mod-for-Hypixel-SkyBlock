@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "GREGORY_NPC",
+  "_original_name": "Gregory (NPC)",
+  "_original_lore": [
+    "This NPC only appears during an",
+    "Ender Dragon fight in The End."
+  ],
+  "name": "Gregory (人物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "This NPC only appears during an",
+        "Ender Dragon fight in The End."
+      ],
+      "translation": "该人物仅在末地的末影龙战斗期间出现.",
+      "styleMappings": {
+        "Ender Dragon": "末影龙",
+        "The End": "末地",
+        "Dragon": "龙",
+        "End": "末地"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(NPC)": "(人物)"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,186 @@
+{
+  "schemaVersion": 1,
+  "id": "ULTIMATE_HABANERO_TACTICS;5",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Habanero Tactics V",
+    "ℏ Heal +7.5% more from wands.",
+    "ℏ Deal +25% damage against Slayer Bosses",
+    "with Slayer weapons.",
+    "ℏ Gain +5☯ Combat Wisdom with Slayer",
+    "weapons.",
+    "ℏ With Smoldering Polarization, gain +15",
+    "Magic Find on your slayer weapon.",
+    "",
+    "You can only have 1 Ultimate",
+    "Enchantment on an item!",
+    "",
+    "Sources:",
+    " - Chili Pepper Collection (IV)",
+    " - Bazaar (IV-V)",
+    "",
+    "Applied To:",
+    " - Armor",
+    "",
+    "Requirements:",
+    " - Enchanting Level 28",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Habanero Tactics V"
+      ],
+      "translation": "辣椒战术 V",
+      "styleMappings": {
+        "Habanero Tactics": "辣椒战术",
+        "Habanero Tactics V": "辣椒战术 V"
+      }
+    },
+    {
+      "source": [
+        "ℏ Heal {{N0}} more from wands."
+      ],
+      "translation": "ℏ 从法杖中额外治疗 {{N0}}.",
+      "styleMappings": {
+        "Heal": "治疗",
+        "more": "额外",
+        "ℏ": "ℏ"
+      }
+    },
+    {
+      "source": [
+        "ℏ Deal {{N0}} damage against Slayer Bosses",
+        "with Slayer weapons."
+      ],
+      "translation": "ℏ 使用杀手武器对杀手首领造成 {{N0}} 伤害.",
+      "styleMappings": {
+        "Slayer": "杀手",
+        "damage": "伤害",
+        "ℏ": "ℏ",
+        "Slayer Bosses": "杀手首领",
+        "Deal": "造成"
+      }
+    },
+    {
+      "source": [
+        "ℏ Gain {{N0}}☯ Combat Wisdom with Slayer",
+        "weapons."
+      ],
+      "translation": "ℏ 使用杀手武器获得 {{N0}}☯ 战斗智慧.",
+      "styleMappings": {
+        "Combat Wisdom": "战斗智慧",
+        "Slayer": "杀手",
+        "ℏ": "ℏ",
+        "Combat": "战斗",
+        "Gain": "获得",
+        "Wisdom": "智慧"
+      }
+    },
+    {
+      "source": [
+        "ℏ With Smoldering Polarization, gain {{N0}}",
+        "Magic Find on your slayer weapon."
+      ],
+      "translation": "ℏ 拥有阴燃极化时,你的杀手武器获得 {{N0}} 稀有物品概率加成.",
+      "styleMappings": {
+        "Smoldering Polarization": "阴燃极化",
+        " Magic Find": " 稀有物品概率加成",
+        "ℏ": "ℏ",
+        "Magic Find": "稀有物品概率加成",
+        "gain": "获得",
+        "Smoldering": "阴燃"
+      }
+    },
+    {
+      "source": [
+        "You can only have {{N0}} Ultimate",
+        "Enchantment on an item!"
+      ],
+      "translation": "一件物品上只能拥有 {{N0}} 个终极附魔!",
+      "styleMappings": {
+        "Ultimate Enchantment": "终极附魔",
+        "item": "物品",
+        "Enchantment": "附魔"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Chili Pepper Collection (IV)",
+        " - Bazaar (IV-V)"
+      ],
+      "translation": " - 辣椒收藏 (IV)  - 集市 (IV-V)",
+      "styleMappings": {
+        "Chili Pepper Collection": "辣椒收藏",
+        "Bazaar": "集市",
+        "Collection": "收藏",
+        "IV-V": "IV-V"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Armor"
+      ],
+      "translation": " - 盔甲",
+      "styleMappings": {
+        "Armor": "盔甲"
+      }
+    },
+    {
+      "source": [
+        "Requirements:"
+      ],
+      "translation": "需求:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchanting Level {{N0}}"
+      ],
+      "translation": " - 附魔等级 {{N0}}",
+      "styleMappings": {
+        "Enchanting Level": "附魔等级"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "id": "PEST_DRAGONFLY_MONSTER",
+  "_original_name": "Dragonfly (Pest)",
+  "_original_lore": [
+    "Glides by in a blur of wings",
+    "whispers.",
+    "",
+    "Attracted to Jelly.",
+    "",
+    "❤ Health: 600"
+  ],
+  "name": "蜻蜓 (害虫)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Glides by in a blur of wings",
+        "whispers."
+      ],
+      "translation": "振翅低语间一闪而过.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Attracted to Jelly."
+      ],
+      "translation": "被果冻吸引.",
+      "styleMappings": {
+        "Jelly": "果冻"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Pest": "害虫",
+    "Dragonfly": "蜻蜓"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "ICE_WALKER_MONSTER",
+  "_original_name": "Glacite Walker (Monster)",
+  "_original_lore": [
+    "The Glacite Walker is a mob that spawns in the Great",
+    "Ice Wall area in the Dwarven Mines. They are",
+    "required to be killed for one commission.",
+    "",
+    "Mob Types: ❄ Glacial, ✰ Humanoid",
+    "❤ Health: 888"
+  ],
+  "name": "冰川行者 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Glacite Walker is a mob that spawns in the Great",
+        "Ice Wall area in the Dwarven Mines. They are",
+        "required to be killed for one commission."
+      ],
+      "translation": "冰川行者是一种生成于矮人矿坑巨冰之墙区域的怪物.需要击杀它们来完成一项委托.",
+      "styleMappings": {
+        "Dwarven Mines": "矮人矿坑",
+        "Glacite": "冰川",
+        "Ice": "冰",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Mob Types: ❄ Glacial, ✰ Humanoid"
+      ],
+      "translation": "生物类型: ❄ 冰川, ✰ 人形",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Glacial": "冰川",
+        "Humanoid": "人形"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Glacite": "冰川",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "GEOMETRIC_ODDITY",
+  "_original_name": "Geometric Oddity",
+  "_original_lore": [
+    "Reforge Stone",
+    "Combinable in Anvil",
+    "",
+    "Applies the Geometric reforge when",
+    "combined with Froggles, Silver",
+    "Froggles, Golden Froggles, and",
+    "Diamond Froggles.",
+    "",
+    "A man, who knows not where he is",
+    "nor where he has been, reaches into",
+    "his pocket.",
+    "",
+    "Grants the following stats that scale",
+    "with the item's rarity:",
+    "  Fishing Speed",
+    "  Trophy Chance",
+    "",
+    "Geometric Bonus",
+    "Gain a +5% chance to catch a bonus",
+    "Trophy while fishing in a Wormhole.",
+    "",
+    "Right-click to view rarity scaling!",
+    "",
+    "❣ Requires Mining Skill 15.",
+    "",
+    "RARE REFORGE STONE"
+  ],
+  "name": "几何奇物",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Reforge Stone",
+        "Combinable in Anvil"
+      ],
+      "translation": "洗练石 可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Reforge Stone": "洗练石",
+        "Anvil": "铁砧",
+        "Reforge": "洗练"
+      }
+    },
+    {
+      "source": [
+        "Applies the Geometric reforge when",
+        "combined with Froggles, Silver",
+        "Froggles, Golden Froggles, and",
+        "Diamond Froggles."
+      ],
+      "translation": "与蛙镜、白银蛙镜、黄金蛙镜和钻石蛙镜结合时,施加几何洗练.",
+      "styleMappings": {
+        "Diamond Froggles": "钻石蛙镜",
+        "Golden Froggles": "黄金蛙镜",
+        "Silver Froggles": "白银蛙镜",
+        "Geometric": "几何",
+        "Froggles": "蛙镜",
+        "reforge": "洗练",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "A man, who knows not where he is",
+        "nor where he has been, reaches into",
+        "his pocket."
+      ],
+      "translation": "一个不知自己身在何处、也不知自己曾去过何处的男人,把手伸进口袋.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants the following stats that scale"
+      ],
+      "translation": "提供以下随物品稀有度提升的属性:",
+      "styleMappings": {
+        "Grants": "提供",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "with the item's rarity:"
+      ],
+      "translation": "物品稀有度提升的属性:",
+      "styleMappings": {
+        "item": "物品",
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "  Fishing Speed",
+        "  Trophy Chance"
+      ],
+      "translation": "   钓鱼速度   奖杯概率",
+      "styleMappings": {
+        "Fishing Speed": "钓鱼速度",
+        "Trophy Chance": "奖杯概率",
+        "Fishing": "钓鱼",
+        "Trophy": "奖杯",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Geometric Bonus",
+        "Gain a {{N0}} chance to catch a bonus",
+        "Trophy while fishing in a Wormhole."
+      ],
+      "translation": "几何加成 在虫洞中钓鱼时,有 {{N0}} 概率钓到额外奖杯.",
+      "styleMappings": {
+        "Geometric Bonus": "几何加成",
+        "chance to": "概率",
+        "Wormhole": "虫洞",
+        "fishing": "钓鱼",
+        "Trophy": "奖杯",
+        "Bonus": "加成",
+        "chance": "概率",
+        "Geometric": "几何"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view rarity scaling!"
+      ],
+      "translation": "右键查看各稀有度的属性!",
+      "styleMappings": {
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Mining Skill {{N0}}."
+      ],
+      "translation": "❣ 需要采矿技能 {{N0}}.",
+      "styleMappings": {
+        "Mining Skill": "采矿技能",
+        "Requires": "需要",
+        "Mining": "采矿",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "RARE REFORGE STONE"
+      ],
+      "translation": "稀有 洗练石",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Geometric": "几何"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

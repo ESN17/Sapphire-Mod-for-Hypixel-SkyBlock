@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "TRIBAL_SPEAR",
+  "_original_name": "Tribal Spear",
+  "_original_lore": [
+    "Strength: +100",
+    "",
+    "Ability: Thwack  RIGHT CLICK",
+    "Throw the spear like an arrow which",
+    "will return to you.",
+    "",
+    "This item can be reforged!",
+    "RARE SWORD"
+  ],
+  "name": "部落长矛",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Ability: Thwack  RIGHT CLICK"
+      ],
+      "translation": "能力: 重击  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "能力",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Throw the spear like an arrow which",
+        "will return to you."
+      ],
+      "translation": "像箭一样投掷长矛,它会回到你身边.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "RARE SWORD"
+      ],
+      "translation": "稀有剑",
+      "styleMappings": {
+        "RARE": "稀有",
+        "RARE SWORD": "稀有剑"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

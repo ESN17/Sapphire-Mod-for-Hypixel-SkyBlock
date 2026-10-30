@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "ALATAR_RIFT_NPC",
+  "_original_name": "Alatar (Rift NPC)",
+  "_original_lore": [
+    "An NPC that talks about how",
+    "time flows in the Rift Dimension."
+  ],
+  "name": "Alatar (裂隙人物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "An NPC that talks about how",
+        "time flows in the Rift Dimension."
+      ],
+      "translation": "一位谈论裂隙维度中时间如何流动的人物.",
+      "styleMappings": {
+        "Rift Dimension": "裂隙维度",
+        "Rift": "裂隙",
+        "the Rift": "裂隙",
+        "in the": "的"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Rift NPC)": "(裂隙人物)",
+    "Rift": "裂隙"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

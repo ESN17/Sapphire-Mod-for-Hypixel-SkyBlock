@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": "DESTRUCTION_CLOAK",
+  "_original_name": "Destruction Cloak",
+  "_original_lore": [
+    "Health: +60",
+    "Strength: +15",
+    "Crit Damage: +15%",
+    "Magic Find: +1",
+    "Foraging Wisdom: +1",
+    "",
+    "Heal 15❤ every 1s while worn.",
+    "",
+    "Right-click to equip!",
+    "",
+    "This item can be reforged!",
+    "☠ Requires Blaze Slayer 5.",
+    "EPIC CLOAK"
+  ],
+  "name": "毁灭斗篷",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: {{N0}}"
+      ],
+      "translation": "暴击伤害:{{N0}}",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Magic Find: {{N0}}"
+      ],
+      "translation": "稀有物品概率加成: {{N0}}",
+      "styleMappings": {
+        "Magic Find": "稀有物品概率加成"
+      }
+    },
+    {
+      "source": [
+        "Foraging Wisdom: {{N0}}"
+      ],
+      "translation": "采伐智慧: {{N0}}",
+      "styleMappings": {
+        "Foraging Wisdom": "采伐智慧",
+        "Wisdom": "智慧",
+        "Foraging": "采伐"
+      }
+    },
+    {
+      "source": [
+        "Heal {{N0}}❤ every {{N1}}s while worn."
+      ],
+      "translation": "穿戴时每 {{N1}} 秒恢复 {{N0}}❤ 生命值.",
+      "styleMappings": {
+        "Heal": "恢复",
+        "{{N1}}s": "{{N1}} 秒"
+      }
+    },
+    {
+      "source": [
+        "Right-click to equip!"
+      ],
+      "translation": "右键点击装备!",
+      "styleMappings": {
+        "Right-click to equip!": "右键点击装备!",
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Blaze Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要 烈焰人杀手 {{N0}}.",
+      "styleMappings": {
+        "Blaze Slayer": "烈焰人杀手",
+        "Requires": "需要",
+        "Slayer": "杀手"
+      }
+    },
+    {
+      "source": [
+        "EPIC CLOAK"
+      ],
+      "translation": "史诗 披风",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

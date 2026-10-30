@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "SHINING_COIN",
+  "_original_name": "Shining Coin",
+  "_original_lore": [
+    "Quest Item",
+    "",
+    "Found in the Haunted Biome. Perhaps",
+    "it has a use there?",
+    "",
+    "Throwing coins into fountains and",
+    "other bodies of water it said to",
+    "bring good luck in some cultures.",
+    "",
+    "This item will vanish from your",
+    "inventory after leaving the Critter",
+    "Safari!",
+    "",
+    "SPECIAL"
+  ],
+  "name": "闪亮硬币",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Quest Item"
+      ],
+      "translation": "任务物品",
+      "styleMappings": {
+        "Item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Found in the Haunted Biome. Perhaps",
+        "it has a use there?"
+      ],
+      "translation": "发现于闹鬼生物群系.也许在那里有用途?",
+      "styleMappings": {
+        "Haunted Biome": "闹鬼生物群系"
+      }
+    },
+    {
+      "source": [
+        "Throwing coins into fountains and",
+        "other bodies of water it said to",
+        "bring good luck in some cultures."
+      ],
+      "translation": "在某些文化中,将硬币投入喷泉或其他水体据说能带来好运.",
+      "styleMappings": {
+        "coins": "硬币",
+        "water": "水"
+      }
+    },
+    {
+      "source": [
+        "This item will vanish from your"
+      ],
+      "translation": "此物品将在你离开",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "inventory after leaving the Critter",
+        "Safari!"
+      ],
+      "translation": "小兽狩猎区后从物品栏中消失!",
+      "styleMappings": {
+        "Critter Safari": "小兽狩猎区",
+        "Critter": "小兽"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Coin": "硬币"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

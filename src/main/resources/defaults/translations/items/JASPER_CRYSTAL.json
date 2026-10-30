@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "JASPER_CRYSTAL",
+  "_original_name": "Jasper Crystal",
+  "_original_lore": [
+    "Exquisite crystal found deep in the",
+    "Glacite Mineshafts and Crystal",
+    "Hollows.",
+    "",
+    "Some say that it can be infused with",
+    "gemstones, unlock treasure, and",
+    "hold the secrets to a time long past.",
+    "",
+    "SPECIAL"
+  ],
+  "name": "碧玉水晶",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Exquisite crystal found deep in the",
+        "Glacite Mineshafts and Crystal",
+        "Hollows."
+      ],
+      "translation": "在冰晶矿井和水晶洞窟深处发现的精美水晶.",
+      "styleMappings": {
+        "Glacite Mineshafts": "冰晶矿井",
+        "Crystal Hollows": "水晶洞窟",
+        "Crystal": "水晶",
+        "Mineshafts": "矿井",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Some say that it can be infused with",
+        "gemstones, unlock treasure, and",
+        "hold the secrets to a time long past."
+      ],
+      "translation": "有人说它可以注入宝石,解锁宝藏,并掌握着遥远过去的秘密.",
+      "styleMappings": {
+        "unlock treasure": "解锁宝藏",
+        "time long past": "遥远过去",
+        "gemstones": "宝石",
+        "treasure": "宝藏"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Crystal": "水晶",
+    "Jasper": "碧玉"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

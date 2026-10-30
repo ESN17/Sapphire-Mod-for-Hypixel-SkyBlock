@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "PEST_LUNAR_MOTH_MONSTER",
+  "_original_name": "Lunar Moth (Pest)",
+  "_original_lore": [
+    "Drawn to the light and dew of the",
+    "moon.",
+    "",
+    "Attracted to Moondew.",
+    "",
+    "❤ Health: 600"
+  ],
+  "name": "月蛾 (害虫)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Drawn to the light and dew of the",
+        "moon."
+      ],
+      "translation": "被月光与月露吸引.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Attracted to Moondew."
+      ],
+      "translation": "被月露吸引.",
+      "styleMappings": {
+        "Moondew": "月露"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Pest": "害虫"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

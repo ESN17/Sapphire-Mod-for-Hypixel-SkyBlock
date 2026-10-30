@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "SMOLDERING_CHAMBERS_TRAVEL_SCROLL",
+  "_original_name": "Travel Scroll to the Smoldering Tomb",
+  "_original_lore": [
+    "Consume this item to add its",
+    "destination to your Fast Travel",
+    "options.",
+    "",
+    "Requires MVP+ to consume!",
+    "",
+    "Island: Crimson Isle",
+    "Teleport: Smoldering Tomb",
+    "",
+    "☠ Requires Blaze Slayer 4.",
+    "EPIC TRAVEL SCROLL"
+  ],
+  "name": "闷燃墓穴传送卷轴",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consume this item to add its",
+        "destination to your Fast Travel",
+        "options."
+      ],
+      "translation": "消耗此物品,将其目的地添加到你的快速旅行选项中.",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Requires MVP+ to consume!"
+      ],
+      "translation": "需要 尊贵贵宾+ 才能使用!",
+      "styleMappings": {
+        "MVP": "尊贵贵宾",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Island: Crimson Isle"
+      ],
+      "translation": "岛屿: 绯红之岛",
+      "styleMappings": {
+        "Island": "岛屿",
+        "Crimson Isle": "绯红之岛"
+      }
+    },
+    {
+      "source": [
+        "Teleport: Smoldering Tomb"
+      ],
+      "translation": "传送: 闷燃墓穴",
+      "styleMappings": {
+        "Smoldering Tomb": "闷燃墓穴",
+        "Teleport": "传送",
+        "Smoldering": "闷燃"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Blaze Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要 烈焰人杀手 {{N0}}.",
+      "styleMappings": {
+        "Blaze Slayer": "烈焰人杀手",
+        "Requires": "需要",
+        "Slayer": "杀手"
+      }
+    },
+    {
+      "source": [
+        "EPIC TRAVEL SCROLL"
+      ],
+      "translation": "史诗传送卷轴",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Smoldering Tomb": "闷燃墓穴",
+    "Smoldering": "闷燃"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

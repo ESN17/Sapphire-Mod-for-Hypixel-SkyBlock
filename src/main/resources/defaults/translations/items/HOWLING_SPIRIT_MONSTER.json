@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "HOWLING_SPIRIT_MONSTER",
+  "_original_name": "Howling Spirit (Monster)",
+  "_original_lore": [
+    "The Howling Spirits are a Lv 35 Wolf that spawns in",
+    "the Howling Cave in the Park. They have 7,000 HP",
+    "and are nothing more than just buffed Pack Spirits. ",
+    "",
+    "Mob Types: ☮ Animal, ♃ Arcane",
+    "❤ Health: 7,000"
+  ],
+  "name": "嚎叫之灵 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Howling Spirits are a Lv {{N0}} Wolf that spawns in",
+        "the Howling Cave in the Park. They have {{N1}} HP",
+        "and are nothing more than just buffed Pack Spirits. "
+      ],
+      "translation": "嚎叫幽灵是生成在公园嚎叫洞穴中的 {{N0}} 级狼.它们拥有 {{N1}} 生命值,不过是强化版的群狼幽灵.",
+      "styleMappings": {
+        "Howling Cave": "嚎叫洞穴",
+        "HP": "生命值",
+        "Wolf": "狼",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Mob Types: ☮ Animal, ♃ Arcane"
+      ],
+      "translation": "生物类型: ☮ 动物, ♃ 奥术",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Animal": "动物",
+        "Arcane": "奥术"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Howling Spirit": "嚎叫之灵",
+    "(Monster)": "(怪物)",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

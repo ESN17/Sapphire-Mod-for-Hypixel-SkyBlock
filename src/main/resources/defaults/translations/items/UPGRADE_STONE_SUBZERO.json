@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "UPGRADE_STONE_SUBZERO",
+  "_original_name": "Wisp Upgrade Stone",
+  "_original_lore": [
+    "Consumed on use",
+    "",
+    "Upgrades a Glacial Wisp pet to a",
+    "Subzero Wisp pet, resetting its level.",
+    "",
+    "Right-click on your wisp to upgrade it!",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "灵火升级石",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumed on use"
+      ],
+      "translation": "使用后消耗",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Upgrades a Glacial Wisp pet to a",
+        "Subzero Wisp pet, resetting its level."
+      ],
+      "translation": "将冰川灵火宠物升级为极寒灵火宠物,并重置其等级.",
+      "styleMappings": {
+        "Glacial Wisp": "冰川灵火",
+        "Subzero Wisp": "极寒灵火",
+        "pet": "宠物",
+        "Glacial": "冰川"
+      }
+    },
+    {
+      "source": [
+        "Right-click on your wisp to upgrade it!"
+      ],
+      "translation": "右键点击你的灵火以升级它!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "upgrade": "升级"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

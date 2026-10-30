@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "ENDERMAN_CORTEX_REWRITER",
+  "_original_name": "Enderman Cortex Rewriter",
+  "_original_lore": [
+    "Use at Kat to upgrade Enderman",
+    "Pets to Mythic rarity.",
+    "",
+    "MYTHIC"
+  ],
+  "name": "末影人皮质重写器",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Use at Kat to upgrade Enderman",
+        "Pets to Mythic rarity."
+      ],
+      "translation": "在 Kat 处使用,将末影人宠物升级至神话稀有度.",
+      "styleMappings": {
+        "Kat": "Kat",
+        "Enderman": "末影人",
+        "Pets": "宠物",
+        "Mythic": "神话",
+        "rarity": "稀有度",
+        "upgrade": "升级"
+      }
+    },
+    {
+      "source": [
+        "MYTHIC"
+      ],
+      "translation": "神话",
+      "styleMappings": {
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Enderman": "末影人"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

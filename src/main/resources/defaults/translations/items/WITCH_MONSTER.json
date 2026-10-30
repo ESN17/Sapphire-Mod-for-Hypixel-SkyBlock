@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "WITCH_MONSTER",
+  "_original_name": "Witch (Monster)",
+  "_original_lore": [
+    "Masters of alchemy",
+    "",
+    "❤ Health: 150 - 1,061"
+  ],
+  "name": "女巫 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Masters of alchemy"
+      ],
+      "translation": "炼金大师",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}} - {{N1}}"
+      ],
+      "translation": "❤ 生命值: {{N0}} - {{N1}}",
+      "styleMappings": {
+        "Health": "生命值",
+        "-": "-"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

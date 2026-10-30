@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "VIAL_OF_VENOM",
+  "_original_name": "Vial of Venom",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Consume this item to permanently",
+    "gain +1 Crit Damage.",
+    "",
+    "You can only consume 5 of this item",
+    "before the damage to your internal",
+    "organs becomes too extensive to",
+    "drink more.",
+    "",
+    "Right-click to consume!",
+    "",
+    "EPIC"
+  ],
+  "name": "毒液瓶",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Consume this item to permanently",
+        "gain {{N0}} Crit Damage."
+      ],
+      "translation": "消耗此物品以永久获得 {{N0}} 暴击伤害.",
+      "styleMappings": {
+        " Crit Damage": " 暴击伤害",
+        "permanently": "永久",
+        "item": "物品",
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "You can only consume {{N0}} of this item",
+        "before the damage to your internal",
+        "organs becomes too extensive to",
+        "drink more."
+      ],
+      "translation": "你只能消耗 {{N0}} 个此物品,再多喝就会对内脏造成过大的损伤.",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "HEWVER_MONSTER",
+  "_original_name": "Hewver (Monster)",
+  "_original_lore": [
+    "Mob Types:  Woodland",
+    "",
+    "Unaware it even eats critters, just",
+    "thinks the floor tastes nice.",
+    "",
+    "❤ Health: 50,000",
+    "",
+    "Found when lathering Fig Trees."
+  ],
+  "name": "赫维尔 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mob Types:  Woodland"
+      ],
+      "translation": "生物类型:  林地",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Woodland": "林地",
+        " Woodland": " 林地"
+      }
+    },
+    {
+      "source": [
+        "Unaware it even eats critters, just",
+        "thinks the floor tastes nice."
+      ],
+      "translation": "它甚至不知道自己吃的是小生物,只觉得地板味道不错.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Found when lathering Fig Trees."
+      ],
+      "translation": "在给无花果树涂抹时发现.",
+      "styleMappings": {
+        "Fig Trees": "无花果树",
+        "Trees": "树",
+        "when": "时"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Hewver (Monster)": "赫维尔 (怪物)",
+    "(Monster)": "(怪物)",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

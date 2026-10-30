@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "COMPACTOR",
+  "_original_name": "Compactor",
+  "_original_lore": [
+    "Minion Upgrade",
+    "",
+    "This item can be used as a minion",
+    "upgrade. This will automatically turn",
+    "materials that a minion produces into",
+    "their block form.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "压缩器",
+  "lore": {
+    "Minion Upgrade": "仆从升级组件",
+    "Right-click to view recipes!": "右键查看配方!",
+    "UNCOMMON": "罕见"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "This item can be used as a minion",
+        "upgrade. This will automatically turn",
+        "materials that a minion produces into",
+        "their block form."
+      ],
+      "translation": "可用作仆从升级组件,将仆从产出的材料自动合成为方块.",
+      "styleMappings": {
+        "automatically": "自动",
+        "upgrade": "升级",
+        "minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "Minion Upgrade"
+      ],
+      "translation": "仆从升级组件",
+      "styleMappings": {
+        "Minion Upgrade": "仆从升级",
+        "Minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "This item can be used as a minion"
+      ],
+      "translation": "此物品可作为仆从",
+      "styleMappings": {
+        "item": "物品",
+        "minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "upgrade. This will automatically turn",
+        "materials that a minion produces into",
+        "their block form."
+      ],
+      "translation": "升级.这会将仆从产出的材料自动转化为其方块形式.",
+      "styleMappings": {
+        "automatically": "自动",
+        "minion": "仆从",
+        "upgrade": "升级",
+        "into": "转化为"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

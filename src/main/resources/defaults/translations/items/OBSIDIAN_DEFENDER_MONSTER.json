@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "OBSIDIAN_DEFENDER_MONSTER",
+  "_original_name": "Obsidian Defender (Monster)",
+  "_original_lore": [
+    "Obsidian Defenders are types of Wither Skeletons",
+    "found exclusively in the Dragon's Nest. Obsidian",
+    "Defenders are hostile, inflict the Wither potion",
+    "effect, and are extremely fast. They are also",
+    "completely immune to all knockback. ",
+    "",
+    "❤ Health: 10,000"
+  ],
+  "name": "黑曜石守卫 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Obsidian Defenders are types of Wither Skeletons",
+        "found exclusively in the Dragon's Nest. Obsidian",
+        "Defenders are hostile, inflict the Wither potion",
+        "effect, and are extremely fast. They are also",
+        "completely immune to all knockback. "
+      ],
+      "translation": "黑曜石守卫是仅出没于龙巢的凋灵骷髅.黑曜石守卫具有敌意,会施加凋零药水效果,且速度极快.它们还完全免疫所有击退. ",
+      "styleMappings": {
+        "Dragon's Nest": "龙巢",
+        "knockback": "击退",
+        "Obsidian": "黑曜石",
+        "immune": "免疫",
+        "Dragon": "龙",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Obsidian": "黑曜石",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

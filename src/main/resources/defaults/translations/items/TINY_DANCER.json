@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "TINY_DANCER",
+  "_original_name": "Tiny Dancer",
+  "_original_lore": [
+    "Crit Damage: +1%",
+    "",
+    "* Soulbound *",
+    "X Rift-Transferable X",
+    "UNCOMMON ACCESSORY"
+  ],
+  "name": "迷你舞者",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Crit Damage: {{N0}}"
+      ],
+      "translation": "暴击伤害:{{N0}}",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "X Rift-Transferable X"
+      ],
+      "translation": "X 可跨裂隙转移 X",
+      "styleMappings": {
+        "Rift-Transferable": "可跨裂隙转移",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON ACCESSORY"
+      ],
+      "translation": "罕见 饰品",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

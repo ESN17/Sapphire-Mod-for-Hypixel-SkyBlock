@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "id": "GHAST_MONSTER",
+  "_original_name": "Ghast (Monster)",
+  "_original_lore": [
+    "Ghasts are mobs found in the northern end of",
+    "the Blazing Fortress at nighttime (8:30 PM - 5:00",
+    "AM skyblock time) in the sky within the zone where",
+    "level 9 Magma Cubes spawn, or the Magma Cube Boss.",
+    "It can also be spawned from Ghast Minions.",
+    "",
+    "❤ Health: 330"
+  ],
+  "name": "恶魂 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ghasts are mobs found in the northern end of"
+      ],
+      "translation": "恶魂是生成于烈焰堡垒北端",
+      "styleMappings": {
+        "Ghasts": "恶魂"
+      }
+    },
+    {
+      "source": [
+        "the Blazing Fortress at nighttime ({{N0}}:{{N1}} PM - {{N2}}:{{N3}}"
+      ],
+      "translation": "烈焰堡垒的夜间 ({{N0}}:{{N1}} 下午 - {{N2}}:{{N3}}",
+      "styleMappings": {
+        "-": "-"
+      }
+    },
+    {
+      "source": [
+        "AM skyblock time) in the sky within the zone where",
+        "level {{N0}} Magma Cubes spawn, or the Magma Cube Boss."
+      ],
+      "translation": "上午空岛时间) 天空中,位于 {{N0}} 级岩浆怪或岩浆怪首领的生成区域内.",
+      "styleMappings": {
+        "Boss": "首领",
+        "Magma Cube Boss": "岩浆怪首领",
+        "Magma Cubes": "岩浆怪",
+        "Magma Cube": "岩浆怪",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "It can also be spawned from Ghast Minions."
+      ],
+      "translation": "它也可以由恶魂仆从生成.",
+      "styleMappings": {
+        "Minions": "仆从"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

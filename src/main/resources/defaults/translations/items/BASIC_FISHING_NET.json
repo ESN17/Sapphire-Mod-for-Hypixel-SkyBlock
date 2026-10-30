@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "id": "BASIC_FISHING_NET",
+  "_original_name": "Basic Fishing Net",
+  "_original_lore": [
+    "Hunting Tool",
+    "",
+    "Pull: +5",
+    "",
+    "Ability: Yoink  RIGHT CLICK",
+    "Throw your fishing net at swimming",
+    "fish to catch them!",
+    "Cooldown: 0.5s",
+    "",
+    "UNCOMMON FISHING NET"
+  ],
+  "name": "基础渔网",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Hunting Tool"
+      ],
+      "translation": "狩猎工具",
+      "styleMappings": {
+        "Hunting Tool": "狩猎工具"
+      }
+    },
+    {
+      "source": [
+        "Pull: {{N0}}"
+      ],
+      "translation": "拉力: {{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Ability: Yoink  RIGHT CLICK"
+      ],
+      "translation": "技能: Yoink  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Throw your fishing net at swimming",
+        "fish to catch them!"
+      ],
+      "translation": "将渔网投向游动的鱼来捕捉它们!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON FISHING NET"
+      ],
+      "translation": "罕见渔网",
+      "styleMappings": {
+        "UNCOMMON FISHING NET": "罕见渔网",
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fishing Net": "渔网",
+    "Basic": "基础"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

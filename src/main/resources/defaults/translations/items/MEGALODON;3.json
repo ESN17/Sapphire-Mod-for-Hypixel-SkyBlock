@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "id": "MEGALODON;3",
+  "_original_name": "[Lvl {LVL}] Megalodon",
+  "_original_lore": [
+    "Fishing Pet",
+    "",
+    "Strength: +{STRENGTH}",
+    "Ferocity: +{FEROCITY}",
+    "Magic Find: +{MAGIC_FIND}",
+    "Fishing Speed: +{FISHING_SPEED}",
+    "Sea Creature Chance: +{SEA_CREATURE_CHANCE}%",
+    "",
+    "Blood Scent",
+    "Deal up to +{0}%  Damage based on",
+    "the enemy's missing health",
+    "",
+    "Enhanced Scales",
+    "Doubles the pet's base stats during",
+    "the Fishing Festival.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "EPIC PET"
+  ],
+  "name": "[等级 {LVL}] 巨齿鲨",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Fishing Pet"
+      ],
+      "translation": "钓鱼宠物",
+      "styleMappings": {
+        "Fishing": "钓鱼",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Strength: +{{N0}}"
+      ],
+      "translation": "力量: +{{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Ferocity: +{{N0}}"
+      ],
+      "translation": "残暴值: +{{N0}}",
+      "styleMappings": {
+        "Ferocity": "残暴值"
+      }
+    },
+    {
+      "source": [
+        "Magic Find: +{{N0}}"
+      ],
+      "translation": "稀有物品概率加成: +{{N0}}",
+      "styleMappings": {
+        "Magic Find": "稀有物品概率加成"
+      }
+    },
+    {
+      "source": [
+        "Fishing Speed: +{{N0}}"
+      ],
+      "translation": "钓鱼速度: +{{N0}}",
+      "styleMappings": {
+        "Fishing Speed": "钓鱼速度",
+        "Fishing": "钓鱼",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Sea Creature Chance: +{{N0}}%"
+      ],
+      "translation": "海怪概率: +{{N0}}%",
+      "styleMappings": {
+        "Sea Creature Chance": "海怪概率",
+        "Sea Creature": "海怪"
+      }
+    },
+    {
+      "source": [
+        "Blood Scent"
+      ],
+      "translation": "血腥气息",
+      "styleMappings": {
+        "Blood Scent": "血腥气息"
+      }
+    },
+    {
+      "source": [
+        "Deal up to +{{N0}}%  Damage based on",
+        "the enemy's missing health"
+      ],
+      "translation": "根据敌人已损失的生命值,最多造成 +{{N0}}%  伤害",
+      "styleMappings": {
+        " Damage": " 伤害",
+        "health": "生命值",
+        "Damage": "伤害",
+        "Deal": "造成"
+      }
+    },
+    {
+      "source": [
+        "Enhanced Scales"
+      ],
+      "translation": "强化鳞片",
+      "styleMappings": {
+        "Enhanced Scales": "强化鳞片"
+      }
+    },
+    {
+      "source": [
+        "Doubles the pet's base stats during",
+        "the Fishing Festival."
+      ],
+      "translation": "在钓鱼节期间,宠物的基础属性翻倍.",
+      "styleMappings": {
+        "Fishing Festival": "钓鱼节",
+        "Doubles": "翻倍",
+        "stats": "属性",
+        "pet": "宠物",
+        "Fishing": "钓鱼"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "EPIC PET"
+      ],
+      "translation": "史诗 宠物",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Megalodon": "巨齿鲨",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

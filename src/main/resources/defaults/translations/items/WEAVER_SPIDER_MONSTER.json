@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "id": "WEAVER_SPIDER_MONSTER",
+  "_original_name": "Weaver Spider (Monster)",
+  "_original_lore": [
+    "The Weaver Spider is a spider that acts normally, but",
+    "it can also shoot webs that slow you down for a small",
+    "amount of time. Weaver Spiders can be found in the",
+    "Spider's Den, usually higher up in the nest. ",
+    "",
+    "❤ Health: 160 - 800"
+  ],
+  "name": "织网蜘蛛 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Weaver Spider is a spider that acts normally, but",
+        "it can also shoot webs that slow you down for a small",
+        "amount of time. Weaver Spiders can be found in the",
+        "Spider's Den, usually higher up in the nest. "
+      ],
+      "translation": "织网蜘蛛是一种行为正常的蜘蛛,但它也能射出蛛网,在短时间内让你减速.织网蜘蛛可以在蜘蛛巢穴中找到,通常位于巢穴较高处.",
+      "styleMappings": {
+        "Spider's Den": "蜘蛛巢穴",
+        "Spider": "蜘蛛",
+        "Spiders": "蜘蛛",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}} - {{N1}}"
+      ],
+      "translation": "❤ 生命值: {{N0}} - {{N1}}",
+      "styleMappings": {
+        "Health": "生命值",
+        "-": "-"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Spider": "蜘蛛",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

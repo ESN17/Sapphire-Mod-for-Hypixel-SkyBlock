@@ -1,0 +1,145 @@
+{
+  "schemaVersion": 1,
+  "id": "MARSHROOM",
+  "_original_name": "Marshroom",
+  "_original_lore": [
+    "Reforge Stone",
+    "Combinable in Anvil",
+    "",
+    "Applies the Marshy reforge when",
+    "combined with Equipment.",
+    "",
+    "A rare type of mushroom native to",
+    "the Moonglade Marsh.",
+    "",
+    "Grants the following stats that scale",
+    "with the item's rarity:",
+    "  Fishing Speed",
+    "  Sea Creature Chance",
+    "  Foraging Fortune",
+    "",
+    "Marshy Bonus",
+    "Earn +1% Forest Whispers from",
+    "foraging.",
+    "",
+    "Right-click to view rarity scaling!",
+    "",
+    "UNCOMMON REFORGE STONE"
+  ],
+  "name": "沼泽菇",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Reforge Stone",
+        "Combinable in Anvil"
+      ],
+      "translation": "洗练石 可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Reforge Stone": "洗练石",
+        "Anvil": "铁砧",
+        "Reforge": "洗练"
+      }
+    },
+    {
+      "source": [
+        "Applies the Marshy reforge when",
+        "combined with Equipment."
+      ],
+      "translation": "与装备结合时应用沼泽洗练.",
+      "styleMappings": {
+        "Marshy": "沼泽",
+        "Equipment": "装备",
+        "reforge": "洗练",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "A rare type of mushroom native to",
+        "the Moonglade Marsh."
+      ],
+      "translation": "一种原产于月林沼泽的稀有蘑菇.",
+      "styleMappings": {
+        "rare": "稀有",
+        "Moonglade Marsh": "月林沼泽"
+      }
+    },
+    {
+      "source": [
+        "Grants the following stats that scale"
+      ],
+      "translation": "提供以下随物品稀有度提升的属性:",
+      "styleMappings": {
+        "Grants": "提供",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "with the item's rarity:"
+      ],
+      "translation": "物品稀有度提升的属性:",
+      "styleMappings": {
+        "item": "物品",
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "  Fishing Speed",
+        "  Sea Creature Chance",
+        "  Foraging Fortune"
+      ],
+      "translation": "   钓鱼速度   海洋生物概率   采伐幸运",
+      "styleMappings": {
+        "Sea Creature Chance": "海洋生物概率",
+        " Foraging Fortune": " 采伐幸运",
+        "Fishing Speed": "钓鱼速度",
+        "Fishing": "钓鱼",
+        "Fortune": "幸运",
+        "Foraging": "采伐",
+        "Speed": "速度",
+        "Foraging Fortune": "采伐幸运",
+        "Sea Creature": "海洋生物"
+      }
+    },
+    {
+      "source": [
+        "Marshy Bonus",
+        "Earn {{N0}} Forest Whispers from",
+        "foraging."
+      ],
+      "translation": "沼泽加成 通过采伐获得 {{N0}} 森林低语.",
+      "styleMappings": {
+        "Forest Whispers": "森林低语",
+        "Marshy Bonus": "沼泽加成",
+        "Forest": "森林",
+        "Bonus": "加成",
+        "Whispers": "低语",
+        "Marshy": "沼泽"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view rarity scaling!"
+      ],
+      "translation": "右键查看各稀有度的属性!",
+      "styleMappings": {
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON REFORGE STONE"
+      ],
+      "translation": "罕见 洗练 石",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

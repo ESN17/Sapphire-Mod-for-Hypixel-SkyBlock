@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "id": "STINGER_BOW",
+  "_original_name": "Stinger Bow",
+  "_original_lore": [
+    "Gear Score: 47 ",
+    "Damage: +47 ",
+    "",
+    "Ability: Sting",
+    "While in Dungeons, shooting your",
+    "teammates grants them 20",
+    "speed and 30 strength for",
+    "30 seconds but deals 1",
+    "damage.",
+    "Mana Cost: 100",
+    "",
+    "This item can be reforged!",
+    "RARE DUNGEON BOW"
+  ],
+  "name": "毒刺弓",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}} "
+      ],
+      "translation": "装备评分: {{N0}} ",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Damage: {{N0}} "
+      ],
+      "translation": "伤害: {{N0}} ",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Ability: Sting"
+      ],
+      "translation": "技能: 弑蛛之锋",
+      "styleMappings": {
+        "Ability": "技能",
+        "Sting": "弑蛛之锋"
+      }
+    },
+    {
+      "source": [
+        "While in Dungeons, shooting your",
+        "teammates grants them {{N0}}",
+        "speed and {{N1}} strength for",
+        "{{N2}} seconds but deals {{N3}}",
+        "damage."
+      ],
+      "translation": "在地牢中,射击队友会为其提供 {{N0}} 速度与 {{N1}} 力量,持续 {{N2}} 秒,但会造成 {{N3}} 伤害.",
+      "styleMappings": {
+        "Dungeons": "地牢",
+        "speed": "速度",
+        "strength": "力量",
+        "for": "持续",
+        "seconds": "秒",
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "RARE DUNGEON BOW"
+      ],
+      "translation": "稀有 地牢 弓",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Bow": "弓"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

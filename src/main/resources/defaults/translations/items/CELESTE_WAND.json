@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "id": "CELESTE_WAND",
+  "_original_name": "Celeste Wand",
+  "_original_lore": [
+    "Ability: Lightning Strike  RIGHT CLICK",
+    "Strikes lightning up to 10 blocks away, dealing",
+    "40 damage to the nearest monster.",
+    "Mana Cost: 70",
+    "",
+    "❣ Requires Combat Skill 4.",
+    "UNCOMMON WAND"
+  ],
+  "name": "星辰法杖",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Lightning Strike  RIGHT CLICK"
+      ],
+      "translation": "技能: 闪电打击  右键点击",
+      "styleMappings": {
+        "Lightning Strike": "闪电打击",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Strikes lightning up to {{N0}} blocks away, dealing",
+        "{{N1}} damage to the nearest monster."
+      ],
+      "translation": "召唤闪电攻击最远 {{N0}} 格外的目标,对最近的怪物造成 {{N1}} 伤害.",
+      "styleMappings": {
+        "lightning": "闪电",
+        "blocks": "格",
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON WAND"
+      ],
+      "translation": "罕见魔杖",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Wand": "法杖"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

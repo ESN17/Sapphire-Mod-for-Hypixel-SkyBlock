@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_DODGE;4",
+  "_original_name": "Dodge IV Potion",
+  "_original_lore": [
+    "",
+    "Dodge IV (3:00)",
+    "Mob attacks have a 40% chance to",
+    "miss.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "闪避 IV 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Dodge IV ({{N0}}:{{N1}})"
+      ],
+      "translation": "闪避 IV ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Dodge IV": "闪避 IV"
+      }
+    },
+    {
+      "source": [
+        "Mob attacks have a {{N0}} chance to",
+        "miss."
+      ],
+      "translation": "生物攻击有 {{N0}} 概率未命中.",
+      "styleMappings": {
+        "Mob attacks have a": "生物攻击有",
+        "chance to": "概率",
+        "miss": "未命中",
+        "chance": "概率"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Dodge IV": "闪避 IV"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

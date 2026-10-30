@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "id": "SWORD_OF_BAD_HEALTH",
+  "_original_name": "Sword of Bad Health",
+  "_original_lore": [
+    "Damage: +200",
+    "Strength: +50",
+    "Crit Damage: +50%",
+    "",
+    "Ability: Bad Health  RIGHT CLICK",
+    "Gain +5 Strength for every 5% of total HP",
+    "you have for 5s. Capped at +100 Strength.",
+    "Health Cost: 100",
+    "Cooldown: 5s",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Combat Skill 22.",
+    "UNCOMMON SWORD"
+  ],
+  "name": "恶疾之剑",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: {{N0}}"
+      ],
+      "translation": "暴击伤害:{{N0}}",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Ability: Bad Health  RIGHT CLICK"
+      ],
+      "translation": "技能: 恶疾  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Bad Health": "恶疾",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}} Strength for every {{N1}} of total HP",
+        "you have for {{N2}}s. Capped at {{N3}} Strength."
+      ],
+      "translation": "每拥有 {{N1}} 总生命值,获得 {{N0}} 力量,持续 {{N2}} 秒.上限为 {{N3}} 力量.",
+      "styleMappings": {
+        " Strength": " 力量",
+        "Gain": "获得",
+        "HP": "生命值",
+        "Strength": "力量",
+        "{{N2}}s": "{{N2}} 秒"
+      }
+    },
+    {
+      "source": [
+        "Health Cost: {{N0}}"
+      ],
+      "translation": "生命消耗:{{N0}}",
+      "styleMappings": {
+        "Health Cost": "生命消耗",
+        "Health": "生命"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON SWORD"
+      ],
+      "translation": "罕见剑",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sword": "剑",
+    "Bad Health": "恶疾"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

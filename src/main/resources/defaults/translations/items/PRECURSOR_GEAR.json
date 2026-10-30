@@ -1,0 +1,156 @@
+{
+  "schemaVersion": 1,
+  "id": "PRECURSOR_GEAR",
+  "_original_name": "Precursor Gear",
+  "_original_lore": [
+    "Reforge Stone",
+    "Combinable in Anvil",
+    "",
+    "Applies the Ancient reforge when",
+    "combined with Armor.",
+    "",
+    "Grants the following stats that scale",
+    "with the item's rarity:",
+    "  Health",
+    "  Defense",
+    "  Strength",
+    "  Crit Chance",
+    "  Intelligence",
+    "",
+    "Ancient Bonus",
+    "Grants +1 Crit Damage per",
+    "Catacombs skill level you have.",
+    "",
+    "Right-click to view rarity scaling!",
+    "",
+    "❣ Requires Mining Skill 30.",
+    "",
+    "EPIC REFORGE STONE"
+  ],
+  "name": "先驱者齿轮",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Reforge Stone",
+        "Combinable in Anvil"
+      ],
+      "translation": "洗练石 可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Reforge Stone": "洗练石",
+        "Anvil": "铁砧",
+        "Reforge": "洗练"
+      }
+    },
+    {
+      "source": [
+        "Applies the Ancient reforge when",
+        "combined with Armor."
+      ],
+      "translation": "与盔甲结合时应用远古洗练.",
+      "styleMappings": {
+        "Ancient": "远古",
+        "Armor": "盔甲",
+        "reforge": "洗练",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Grants the following stats that scale"
+      ],
+      "translation": "提供以下随物品稀有度提升的属性:",
+      "styleMappings": {
+        "Grants": "提供",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "with the item's rarity:"
+      ],
+      "translation": "物品稀有度提升的属性:",
+      "styleMappings": {
+        "item": "物品",
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "  Health",
+        "  Defense",
+        "  Strength",
+        "  Crit Chance",
+        "  Intelligence"
+      ],
+      "translation": "   生命  防御  力量   暴击几率   智力",
+      "styleMappings": {
+        "Intelligence": "智力",
+        "Crit Chance": "暴击几率",
+        " Strength": " 力量",
+        " Defense": " 防御",
+        "": "",
+        "Strength": "力量",
+        "Defense": "防御",
+        "Health": "生命",
+        " Crit Chance": " 暴击几率",
+        " Intelligence": " 智力"
+      }
+    },
+    {
+      "source": [
+        "Ancient Bonus",
+        "Grants {{N0}} Crit Damage per",
+        "Catacombs skill level you have."
+      ],
+      "translation": "远古加成 每级地牢技能等级提供 {{N0}} 暴击伤害.",
+      "styleMappings": {
+        "Ancient Bonus": "远古加成",
+        " Crit Damage": " 暴击伤害",
+        "Catacombs": "地牢",
+        "Grants": "提供",
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害",
+        "Ancient": "远古",
+        "Bonus": "加成",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view rarity scaling!"
+      ],
+      "translation": "右键查看各稀有度的属性!",
+      "styleMappings": {
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Mining Skill {{N0}}."
+      ],
+      "translation": "❣ 需要采矿技能 {{N0}}.",
+      "styleMappings": {
+        "Mining Skill": "采矿技能",
+        "Requires": "需要",
+        "Mining": "采矿",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC REFORGE STONE"
+      ],
+      "translation": "史诗洗练石",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Precursor Gear": "先驱者齿轮"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

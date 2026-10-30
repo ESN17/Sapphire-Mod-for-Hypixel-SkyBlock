@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "id": "DRAGON_SCALE",
+  "_original_name": "Dragon Scale",
+  "_original_lore": [
+    "Reforge Stone",
+    "Combinable in Anvil",
+    "",
+    "Applies the Spiked reforge when",
+    "combined with Armor.",
+    "",
+    "Some people say it is harder than",
+    "diamond. Hard to tell, really.",
+    "",
+    "Grants the following stats that scale",
+    "with the item's rarity:",
+    "  Health",
+    "  Defense",
+    "  Strength",
+    "  Crit Chance",
+    "  Crit Damage",
+    "  Attack Speed",
+    "  Intelligence",
+    "  Speed",
+    "",
+    "Right-click to view rarity scaling!",
+    "",
+    "❣ Requires Mining Skill 20.",
+    "",
+    "RARE REFORGE STONE"
+  ],
+  "name": "龙鳞",
+  "lore": {
+    "Reforge Stone": "洗练石",
+    "Combinable in Anvil": "可在铁砧中合成",
+    "  Health": "   生命值",
+    "  Defense": "   防御",
+    "  Strength": "  力量",
+    "  Crit Chance": "   暴击率",
+    "  Crit Damage": "  暴击伤害",
+    "  Attack Speed": "   攻击速度",
+    "  Intelligence": "   智力",
+    "  Speed": "   速度",
+    "Right-click to view rarity scaling!": "右键查看各稀有度的属性!",
+    "RARE REFORGE STONE": "稀有 洗练石"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "Applies the Spiked reforge when",
+        "combined with Armor."
+      ],
+      "translation": "与盔甲合成后,赋予尖刺洗练.",
+      "styleMappings": {
+        "reforge": "洗练",
+        "Spiked": "尖刺",
+        "Armor": "盔甲"
+      }
+    },
+    {
+      "source": [
+        "Some people say it is harder than",
+        "diamond. Hard to tell, really."
+      ],
+      "translation": "有人说它比钻石还硬.究竟如何,谁也说不准.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants the following stats that scale",
+        "with the item's rarity:"
+      ],
+      "translation": "提供以下属性,数值随物品稀有度提升:",
+      "styleMappings": {
+        "Grants": "提供",
+        "rarity": "稀有度",
+        "stats": "属性",
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Reforge Stone",
+        "Combinable in Anvil"
+      ],
+      "translation": "洗练石 可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Reforge Stone": "洗练石",
+        "Anvil": "铁砧",
+        "Reforge": "洗练"
+      }
+    },
+    {
+      "source": [
+        "Grants the following stats that scale"
+      ],
+      "translation": "提供以下随物品稀有度提升的属性:",
+      "styleMappings": {
+        "Grants": "提供",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "with the item's rarity:"
+      ],
+      "translation": "物品稀有度提升的属性:",
+      "styleMappings": {
+        "item": "物品",
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "  Health",
+        "  Defense",
+        "  Strength",
+        "  Crit Chance",
+        "  Crit Damage",
+        "  Attack Speed",
+        "  Intelligence",
+        "  Speed"
+      ],
+      "translation": "  生命   防御   力量   暴击几率   暴击伤害   攻击速度   智力   速度",
+      "styleMappings": {
+        " Attack Speed": " 攻击速度",
+        " Crit Damage": " 暴击伤害",
+        "Intelligence": "智力",
+        "Crit Chance": "暴击几率",
+        " Strength": " 力量",
+        " Defense": " 防御",
+        " Health": " 生命",
+        " Speed": " 速度",
+        "": "",
+        " Crit Chance": " 暴击几率",
+        " Intelligence": " 智力",
+        "Health": "生命",
+        "Defense": "防御",
+        "Crit Damage": "暴击伤害",
+        "Strength": "力量",
+        "Damage": "伤害",
+        "Speed": "速度",
+        "Attack Speed": "攻击速度"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view rarity scaling!"
+      ],
+      "translation": "右键查看各稀有度的属性!",
+      "styleMappings": {
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Mining Skill {{N0}}."
+      ],
+      "translation": "❣ 需要采矿技能 {{N0}}.",
+      "styleMappings": {
+        "Mining Skill": "采矿技能",
+        "Requires": "需要",
+        "Mining": "采矿",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "RARE REFORGE STONE"
+      ],
+      "translation": "稀有 洗练石",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Spiked": "尖刺",
+    "Armor": "盔甲",
+    "Mining Skill": "采矿等级",
+    "Dragon": "龙"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

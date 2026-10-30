@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "MANA_RAY_DIAMOND",
+  "_original_name": "Mana Ray DIAMOND",
+  "_original_lore": [
+    "Lured by having a high amount of",
+    "mana.",
+    "",
+    "Bring this to Odger at the top of the",
+    "Blazing Volcano.",
+    "",
+    "* Soulbound *",
+    "RARE TROPHY"
+  ],
+  "name": "法力鳐 钻石",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Lured by having a high amount of",
+        "mana."
+      ],
+      "translation": "被高额法力吸引而来.",
+      "styleMappings": {
+        "mana": "法力"
+      }
+    },
+    {
+      "source": [
+        "Bring this to Odger at the top of the",
+        "Blazing Volcano."
+      ],
+      "translation": "将此物交给炽焰火山顶部的 Odger.",
+      "styleMappings": {
+        "Blazing Volcano": "炽焰火山",
+        "Odger": "Odger"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "RARE TROPHY"
+      ],
+      "translation": "稀有奖杯",
+      "styleMappings": {
+        "RARE TROPHY": "稀有奖杯",
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mana Ray": "法力鳐",
+    "DIAMOND": "钻石",
+    "Mana": "法力"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

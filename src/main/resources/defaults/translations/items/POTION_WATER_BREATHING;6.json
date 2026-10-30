@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_WATER_BREATHING;6",
+  "_original_name": "Water Breathing VI Potion",
+  "_original_lore": [
+    "",
+    "Water Breathing VI (3:00)",
+    "Grants a 100% chance of not taking",
+    "drowning damage.",
+    "",
+    "RARE"
+  ],
+  "name": "水肺药水 VI",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Water Breathing VI ({{N0}}:{{N1}})"
+      ],
+      "translation": "水肺 VI ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Water Breathing VI": "水肺 VI"
+      }
+    },
+    {
+      "source": [
+        "Grants a {{N0}} chance of not taking",
+        "drowning damage."
+      ],
+      "translation": "有 {{N0}} 概率不受溺水伤害.",
+      "styleMappings": {
+        "damage": "伤害",
+        "chance": "概率"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

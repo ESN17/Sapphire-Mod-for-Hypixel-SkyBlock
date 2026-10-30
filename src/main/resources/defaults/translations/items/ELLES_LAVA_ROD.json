@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "ELLES_LAVA_ROD",
+  "_original_name": "Elle's Lava Rod",
+  "_original_lore": [
+    "Lava Rod",
+    "",
+    "Damage: +50",
+    "Strength: +50",
+    "Fishing Speed: +8",
+    "",
+    "This item can be reforged!",
+    "SPECIAL FISHING ROD"
+  ],
+  "name": "Elle 的熔岩钓竿",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Lava Rod"
+      ],
+      "translation": "熔岩钓竿",
+      "styleMappings": {
+        "Lava": "熔岩"
+      }
+    },
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Fishing Speed: {{N0}}"
+      ],
+      "translation": "钓鱼速度: {{N0}}",
+      "styleMappings": {
+        "Fishing Speed": "钓鱼速度",
+        "Fishing": "钓鱼",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL FISHING ROD"
+      ],
+      "translation": "特殊钓鱼竿",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Lava": "熔岩"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

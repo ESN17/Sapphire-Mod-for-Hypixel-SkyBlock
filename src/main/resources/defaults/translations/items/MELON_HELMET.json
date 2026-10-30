@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "MELON_HELMET",
+  "_original_name": "Tater Helmet",
+  "_original_lore": [
+    "Health: +100",
+    "Defense: +25",
+    "Bonus Pest Chance: +10%",
+    "Farming Fortune: +15",
+    "Speed: +2",
+    "",
+    "Tiered Bonus: Cropier Crops (0/4)",
+    "Farming Wheat, Carrots, and Potatoes",
+    "has a 0.03% chance of dropping a",
+    "Cropie. Inside the Greenhouse gives",
+    "a 12.0% chance to drop one from",
+    "any crop grown inside. Grants 0",
+    "Farming Fortune.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Farming Skill 20.",
+    "UNCOMMON HELMET"
+  ],
+  "name": "土豆头盔",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Bonus Pest Chance: {{N0}}"
+      ],
+      "translation": "额外害虫概率: {{N0}}",
+      "styleMappings": {
+        "Bonus Pest Chance": "额外害虫概率",
+        "Pest": "害虫"
+      }
+    },
+    {
+      "source": [
+        "Farming Fortune: {{N0}}"
+      ],
+      "translation": "农业幸运: {{N0}}",
+      "styleMappings": {
+        "Farming Fortune": "农业幸运",
+        "Fortune": "幸运",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Tiered Bonus: Cropier Crops ({{N0}}/{{N1}})"
+      ],
+      "translation": "分级加成: 作物丰收 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Cropier Crops": "作物丰收",
+        "Tiered Bonus": "分级加成",
+        "Bonus": "加成",
+        "Crops": "作物"
+      }
+    },
+    {
+      "source": [
+        "Farming Wheat, Carrots, and Potatoes",
+        "has a {{N0}} chance of dropping a",
+        "Cropie. Inside the Greenhouse gives",
+        "a {{N1}} chance to drop one from",
+        "any crop grown inside. Grants {{N2}}",
+        "Farming Fortune."
+      ],
+      "translation": "种植小麦、胡萝卜和马铃薯时有 {{N0}} 的几率掉落作物.在温室中,任何内部种植的作物都有 {{N1}} 的几率掉落一个.提供 {{N2}} 农业幸运.",
+      "styleMappings": {
+        "Farming Fortune": "农业幸运",
+        "Greenhouse": "温室",
+        "Grants": "提供",
+        "chance": "几率",
+        "Wheat": "小麦",
+        "Fortune": "幸运",
+        "chance to": "几率",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Farming Skill {{N0}}."
+      ],
+      "translation": "❣ 需要农业技能 {{N0}}.",
+      "styleMappings": {
+        "Farming Skill": "农业技能",
+        "Requires": "需要",
+        "Farming": "农业",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON HELMET"
+      ],
+      "translation": "罕见 头盔",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Helmet": "头盔"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "id": "MAYOR_JERRY_GREEN_MONSTER",
+  "_original_name": "Green Jerry (Monster)",
+  "_original_lore": [
+    "Jerry.",
+    "",
+    "Chance:",
+    " - 54.55%",
+    " - 54.05% (With Enderman Slayer 9)",
+    "",
+    "Mob Types: ✰ Humanoid, ⛨ Shielded",
+    "❤ Health: 3",
+    "❁ Damage: 1"
+  ],
+  "name": "绿色杰瑞 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Jerry."
+      ],
+      "translation": "杰瑞.",
+      "styleMappings": {
+        "Jerry": "杰瑞"
+      }
+    },
+    {
+      "source": [
+        "Chance:"
+      ],
+      "translation": "概率:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - {{N0}}",
+        " - {{N1}} (With Enderman Slayer {{N2}})"
+      ],
+      "translation": " - {{N0}}  - {{N1}} (末影人杀手 {{N2}} 级)",
+      "styleMappings": {
+        "Enderman Slayer": "末影人杀手",
+        "-": "-",
+        "Slayer": "杀手",
+        "Enderman": "末影人"
+      }
+    },
+    {
+      "source": [
+        "Mob Types: ✰ Humanoid, ⛨ Shielded"
+      ],
+      "translation": "怪物类型: ✰ 人形, ⛨ 带盾",
+      "styleMappings": {
+        "Mob Types:": "怪物类型:",
+        "Humanoid": "人形",
+        "Shielded": "带盾",
+        "Mob Types": "怪物类型"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "❁ Damage: {{N0}}"
+      ],
+      "translation": "❁ 伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Green Jerry": "绿色杰瑞",
+    "(Monster)": "(怪物)",
+    "Green": "绿色",
+    "Jerry": "杰瑞",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

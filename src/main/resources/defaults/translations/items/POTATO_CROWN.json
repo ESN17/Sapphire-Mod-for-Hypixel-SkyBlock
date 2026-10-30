@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "POTATO_CROWN",
+  "_original_name": "Potato Crown",
+  "_original_lore": [
+    "Speed: +1",
+    "",
+    "Ability: Potato King",
+    "Bestowed by Hypixel to the",
+    "winner of the Great Potato War.",
+    "",
+    "All men can see the tactics",
+    "whereby I conquer, but what none",
+    "can see is the strategy out ",
+    "which victory is evolved.",
+    "- Sun Tzu, The Art of War",
+    "",
+    "This item can be reforged!",
+    "LEGENDARY HELMET"
+  ],
+  "name": "马铃薯王冠",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Ability: Potato King"
+      ],
+      "translation": "能力: 马铃薯之王",
+      "styleMappings": {
+        "Ability": "能力",
+        "Potato": "马铃薯"
+      }
+    },
+    {
+      "source": [
+        "Bestowed by Hypixel to the",
+        "winner of the Great Potato War."
+      ],
+      "translation": "由海像素授予马铃薯大战的获胜者.",
+      "styleMappings": {
+        "Potato": "马铃薯",
+        "Hypixel": "海像素"
+      }
+    },
+    {
+      "source": [
+        "All men can see the tactics",
+        "whereby I conquer, but what none",
+        "can see is the strategy out ",
+        "which victory is evolved."
+      ],
+      "translation": "人皆可见我取胜的战术,却无人能见我演化出胜利的战略.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "- Sun Tzu, The Art of War"
+      ],
+      "translation": "- 孙子, 孙子兵法",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY HELMET"
+      ],
+      "translation": "传说 头盔",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Potato": "马铃薯"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

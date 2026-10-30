@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ASSISTANT",
+  "_original_name": "Move Jerry",
+  "_original_lore": [
+    "Place this where you would like",
+    "Jerry to move to!",
+    "",
+    "COMMON"
+  ],
+  "name": "移动 杰瑞",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Place this where you would like",
+        "Jerry to move to!"
+      ],
+      "translation": "将此物放置在你希望杰瑞移动到的位置!",
+      "styleMappings": {
+        "Jerry": "杰瑞"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Jerry": "杰瑞"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

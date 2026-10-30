@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "id": "TACTICIAN_SWORD",
+  "_original_name": "Tactician's Sword",
+  "_original_lore": [
+    "Damage: +50",
+    "Crit Chance: +20%",
+    "",
+    "Gains +15 Damage for each",
+    "Combat collection at Tier VII or",
+    "higher.",
+    "",
+    "Your Collections: 0/11",
+    "",
+    "This item can be reforged!",
+    "RARE SWORD"
+  ],
+  "name": "战术家之剑",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Crit Chance: {{N0}}"
+      ],
+      "translation": "暴击率: {{N0}}",
+      "styleMappings": {
+        "Crit Chance": "暴击率"
+      }
+    },
+    {
+      "source": [
+        "Gains {{N0}} Damage for each",
+        "Combat collection at Tier VII or",
+        "higher."
+      ],
+      "translation": "每个达到 VII 级或更高的战斗收藏提供 {{N0}} 伤害.",
+      "styleMappings": {
+        "Combat collection": "战斗收藏",
+        "Damage": "伤害",
+        "Combat": "战斗"
+      }
+    },
+    {
+      "source": [
+        "Your Collections: {{N0}}/{{N1}}"
+      ],
+      "translation": "你的收藏:{{N0}}/{{N1}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "RARE SWORD"
+      ],
+      "translation": "稀有剑",
+      "styleMappings": {
+        "RARE": "稀有",
+        "RARE SWORD": "稀有剑"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sword": "剑"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

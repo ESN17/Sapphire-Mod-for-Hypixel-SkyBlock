@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "POIGNANT_CARROT_BAIT",
+  "_original_name": "Poignant Carrot Bait",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Consume this while on The Garden to",
+    "attract a certain carrot-craving",
+    "Visitor.",
+    "",
+    "Right-click to consume!",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "辛辣胡萝卜诱饵",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Consume this while on The Garden to",
+        "attract a certain carrot-craving",
+        "Visitor."
+      ],
+      "translation": "在花园中食用此物,以吸引某种渴望胡萝卜的访客.",
+      "styleMappings": {
+        "The Garden": "花园",
+        "Visitor": "访客",
+        "Garden": "花园"
+      }
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Carrot": "胡萝卜"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

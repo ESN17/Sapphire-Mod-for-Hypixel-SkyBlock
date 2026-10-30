@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "EFFICIENT_AXE",
+  "_original_name": "Efficient Axe",
+  "_original_lore": [
+    "Damage: +25",
+    "",
+    "Drops 5 Planks from chopping Logs.",
+    "",
+    "This item can be reforged!",
+    "UNCOMMON AXE"
+  ],
+  "name": "高效斧",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Drops {{N0}} Planks from chopping Logs."
+      ],
+      "translation": "砍伐原木时掉落 {{N0}} 个木板.",
+      "styleMappings": {
+        "Logs": "原木"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON AXE"
+      ],
+      "translation": "罕见 斧",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Axe": "斧"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

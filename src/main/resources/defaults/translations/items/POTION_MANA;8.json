@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_MANA;8",
+  "_original_name": "Mana VIII Potion",
+  "_original_lore": [
+    "",
+    "Mana VIII (3:00)",
+    "Grants +8 ✎ Mana per second.",
+    "",
+    "EPIC"
+  ],
+  "name": "法力 VIII 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mana VIII ({{N0}}:{{N1}})"
+      ],
+      "translation": "法力 VIII ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Mana VIII": "法力 VIII",
+        "Mana": "法力"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} ✎ Mana per second."
+      ],
+      "translation": "每秒提供 {{N0}} ✎ 法力.",
+      "styleMappings": {
+        "per second": "每秒",
+        "Grants": "提供",
+        "Mana": "法力",
+        "second": "秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mana VIII": "法力 VIII",
+    "Mana": "法力"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

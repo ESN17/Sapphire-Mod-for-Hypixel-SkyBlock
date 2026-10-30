@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "WINTER_ISLAND_CRYSTAL",
+  "_original_name": "Winter Crystal",
+  "_original_lore": [
+    "Can be placed on your Private Island.",
+    "",
+    "While placed down, Snow Minions will",
+    "work 5% faster. Once every SkyBlock",
+    "Year, a present will spawn",
+    "somewhere on the island.",
+    "",
+    "EPIC"
+  ],
+  "name": "冬季水晶",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Can be placed on your Private Island."
+      ],
+      "translation": "可放置在你的私人岛屿上.",
+      "styleMappings": {
+        "Private Island": "私人岛屿",
+        "Island": "岛屿"
+      }
+    },
+    {
+      "source": [
+        "While placed down, Snow Minions will",
+        "work {{N0}} faster. Once every SkyBlock",
+        "Year, a present will spawn",
+        "somewhere on the island."
+      ],
+      "translation": "放置后,雪仆从的工作速度提升 {{N0}}.每个空岛年,岛上某处会生成一份礼物.",
+      "styleMappings": {
+        "Snow Minions": "雪仆从",
+        "SkyBlock": "空岛",
+        "Year": "年",
+        "Minions": "仆从",
+        "faster": "提升",
+        "work": "工作"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Winter": "冬季",
+    "Crystal": "水晶"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

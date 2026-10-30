@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "MAGICAL_WATER_BUCKET",
+  "_original_name": "Magical Water Bucket",
+  "_original_lore": [
+    "This Magical Water Bucket will never",
+    "run out of water, no matter how",
+    "many times it is emptied.",
+    "",
+    "COMMON"
+  ],
+  "name": "魔法水桶",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "This Magical Water Bucket will never",
+        "run out of water, no matter how",
+        "many times it is emptied."
+      ],
+      "translation": "这个魔法水桶永远不会耗尽水,无论倒空多少次.",
+      "styleMappings": {
+        "water": "水"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "id": "BLAZETEKK_HAM_RADIO",
+  "_original_name": "Blazetekk™ Ham Radio",
+  "_original_lore": [
+    "Ability: Telecommunications ",
+    "If exactly two players within 110 blocks are",
+    "on the same channel, both gain:",
+    " +60 Defense",
+    " +40 True Defense",
+    " +5☯ Combat Wisdom",
+    " +10 Vitality",
+    "Earn half stats while alone!",
+    "",
+    "Ability: Tuning 4 Dummies  CLICK",
+    "Switches to the next radio channel.",
+    "",
+    "Your channel: 103.5 FM",
+    "Nearby: 0 enjoyers",
+    "",
+    "☠ Requires Blaze Slayer 6.",
+    "LEGENDARY"
+  ],
+  "name": "烈焰科技™ 业余无线电",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Telecommunications "
+      ],
+      "translation": "能力: 电信 ",
+      "styleMappings": {
+        "Ability": "能力"
+      }
+    },
+    {
+      "source": [
+        "If exactly two players within {{N0}} blocks are"
+      ],
+      "translation": "如果恰好有两名玩家在 {{N0}} 格内",
+      "styleMappings": {
+        "blocks": "格"
+      }
+    },
+    {
+      "source": [
+        "on the same channel, both gain:"
+      ],
+      "translation": "处于同一频道, 双方获得:",
+      "styleMappings": {
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        " {{N0}} Defense",
+        " {{N1}} True Defense",
+        " {{N2}}☯ Combat Wisdom",
+        " {{N3}} Vitality",
+        "Earn half stats while alone!"
+      ],
+      "translation": " {{N0}} 防御  {{N1}} 真实防御  {{N2}}☯ 战斗智慧  {{N3}} 生命回复 独自一人时获得一半属性!",
+      "styleMappings": {
+        "Earn half stats while alone!": "独自一人时获得一半属性!",
+        "Combat Wisdom": "战斗智慧",
+        "True Defense": "真实防御",
+        " Defense": " 防御",
+        "Vitality": "生命回复",
+        "Defense": "防御",
+        "stats": "属性",
+        "Combat": "战斗",
+        "Wisdom": "智慧",
+        "True": "真实"
+      }
+    },
+    {
+      "source": [
+        "Ability: Tuning {{N0}} Dummies  CLICK"
+      ],
+      "translation": "能力: 调校 {{N0}} 假人  点击",
+      "styleMappings": {
+        "Ability": "能力",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Switches to the next radio channel."
+      ],
+      "translation": "切换到下一个无线电频道.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Your channel: {{N0}} FM"
+      ],
+      "translation": "你的频道: {{N0}} 调频",
+      "styleMappings": {
+        "Your channel:": "你的频道:",
+        "FM": "调频"
+      }
+    },
+    {
+      "source": [
+        "Nearby: {{N0}} enjoyers"
+      ],
+      "translation": "附近: {{N0}} 位爱好者",
+      "styleMappings": {
+        "Nearby": "附近",
+        "enjoyers": "位爱好者"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Blaze Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要 烈焰人杀手 {{N0}}.",
+      "styleMappings": {
+        "Blaze Slayer": "烈焰人杀手",
+        "Requires": "需要",
+        "Slayer": "杀手"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Blazetekk™ Ham Radio": "烈焰科技™ 业余无线电",
+    "Blazetekk™": "烈焰科技™"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

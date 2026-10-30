@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "id": "TELEKINESIS;1",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Telekinesis I",
+    "Block and mob drops go directly",
+    "into your inventory.",
+    "",
+    "Source:",
+    "I: Enchantment Table,",
+    "Rusty",
+    "",
+    "Applied To:",
+    "- Fishing Weapon",
+    "- Fishing Rod",
+    "- Axe",
+    "- Hoe",
+    "- Bow",
+    "- Drill",
+    "- Pickaxe",
+    "- Sword",
+    "- Shovel",
+    "- Shears",
+    "- Gauntlet",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Telekinesis I"
+      ],
+      "translation": "自动拾取 I",
+      "styleMappings": {
+        "Telekinesis": "自动拾取"
+      }
+    },
+    {
+      "source": [
+        "Block and mob drops go directly",
+        "into your inventory."
+      ],
+      "translation": "方块和生物掉落物直接进入你的物品栏.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Source:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "I: Enchantment Table,"
+      ],
+      "translation": "I: 附魔台,",
+      "styleMappings": {
+        "Enchantment Table": "附魔台",
+        "I": "I",
+        "Enchantment": "附魔"
+      }
+    },
+    {
+      "source": [
+        "Rusty"
+      ],
+      "translation": "Rusty",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "- Fishing Weapon",
+        "- Fishing Rod",
+        "- Axe",
+        "- Hoe",
+        "- Bow",
+        "- Drill",
+        "- Pickaxe",
+        "- Sword",
+        "- Shovel",
+        "- Shears",
+        "- Gauntlet"
+      ],
+      "translation": "- 钓鱼武器 - 钓鱼竿 - 斧 - 锄 - 弓 - 钻头 - 镐 - 剑 - 锹 - 剪刀 - 护手",
+      "styleMappings": {
+        "Fishing Weapon": "钓鱼武器",
+        "Fishing Rod": "钓鱼竿",
+        "Gauntlet": "护手",
+        "Shears": "剪刀",
+        "Drill": "钻头",
+        "Sword": "剑",
+        "Axe": "斧",
+        "Bow": "弓",
+        "Fishing": "钓鱼",
+        "Weapon": "武器",
+        "Pickaxe": "镐"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

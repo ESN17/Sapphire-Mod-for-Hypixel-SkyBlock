@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "VOLCANIC_SNAIL_SC",
+  "_original_name": "Volcanic Snail (Sea Creature)",
+  "_original_lore": [
+    "Mob Types: ♆ Magmatic, ☮ Animal",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "火山蜗牛 (海怪)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mob Types: ♆ Magmatic, ☮ Animal"
+      ],
+      "translation": "生物类型: ♆ 岩浆, ☮ 动物",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Magmatic": "岩浆",
+        "Animal": "动物"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sea Creature": "海怪",
+    "Snail": "蜗牛",
+    "(Sea Creature)": "(海怪)"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

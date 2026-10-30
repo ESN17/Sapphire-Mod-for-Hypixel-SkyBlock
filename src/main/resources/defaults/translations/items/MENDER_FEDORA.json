@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "id": "MENDER_FEDORA",
+  "_original_name": "Mender Fedora",
+  "_original_lore": [
+    "Gear Score: 250",
+    "Health: +220",
+    "",
+    "Grants +65 Mending and  Vitality",
+    "while in Dungeons.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires The Catacombs Floor III Completion.",
+    "EPIC DUNGEON HELMET"
+  ],
+  "name": "修补者软呢帽",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Mending and  Vitality",
+        "while in Dungeons."
+      ],
+      "translation": "在地牢中提供 {{N0}} 修补和  生命回复.",
+      "styleMappings": {
+        "Dungeons": "地牢",
+        "Vitality": "生命回复",
+        "Mending": "修补",
+        "Grants": "提供"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires The Catacombs Floor III Completion."
+      ],
+      "translation": "❣ 需要完成地牢第III层。",
+      "styleMappings": {
+        "The Catacombs": "地牢",
+        "Requires": "需要",
+        "III": "III",
+        "Catacombs": "地牢"
+      }
+    },
+    {
+      "source": [
+        "EPIC DUNGEON HELMET"
+      ],
+      "translation": "史诗 地牢 头盔",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mender Fedora": "修补者软呢帽"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "id": "ENDER_BOW",
+  "_original_name": "Ender Bow",
+  "_original_lore": [
+    "Damage: +60",
+    "",
+    "Ability: Ender Warp  LEFT CLICK",
+    "Shoots an Ender Pearl. Upon landing you deal",
+    "damage to all Monsters in a 8 block radius for",
+    "10% of their  Health. (Max 500 damage)",
+    "Mana Cost: 50",
+    "Cooldown: 5s",
+    "",
+    "This item can be reforged!",
+    "RARE BOW"
+  ],
+  "name": "末影弓",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Ability: Ender Warp  LEFT CLICK"
+      ],
+      "translation": "技能: 末影传送  左键点击",
+      "styleMappings": {
+        "Ender Warp": "末影传送",
+        "LEFT CLICK": "左键点击",
+        "Ability": "技能",
+        "Ender": "末影",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Shoots an Ender Pearl. Upon landing you deal",
+        "damage to all Monsters in a {{N0}} block radius for",
+        "{{N1}} of their  Health. (Max {{N2}} damage)"
+      ],
+      "translation": "射出一颗末影珍珠.落地时对 {{N0}} 格半径内的所有怪物造成其  生命值 {{N1}} 的伤害. (最大 {{N2}} 伤害)",
+      "styleMappings": {
+        "(Max {{N2}} damage)": "(最大 {{N2}} 伤害)",
+        "Ender Pearl": "末影珍珠",
+        "Monsters": "怪物",
+        "Shoots": "射出",
+        "damage": "伤害",
+        "block": "格",
+        "deal": "造成",
+        "Health": "生命值",
+        "Max": "最大",
+        "Ender": "末影"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "RARE BOW"
+      ],
+      "translation": "稀有 弓",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Ender": "末影",
+    "Bow": "弓"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

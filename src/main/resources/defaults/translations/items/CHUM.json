@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "CHUM",
+  "_original_name": "Chum",
+  "_original_lore": [
+    "Obtained from killing a sea creature",
+    "with a nearby Chum Bucket.",
+    "",
+    "Deposit it in any Chum Bucket to earn",
+    "+20 Coins and +10 Fishing XP!",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "鱼饵",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Obtained from killing a sea creature",
+        "with a nearby Chum Bucket."
+      ],
+      "translation": "在附近有鱼饵桶的情况下击杀海怪获得.",
+      "styleMappings": {
+        "Chum Bucket": "鱼饵桶",
+        "Chum": "鱼饵"
+      }
+    },
+    {
+      "source": [
+        "Deposit it in any Chum Bucket to earn",
+        "{{N0}} Coins and {{N1}} Fishing XP!"
+      ],
+      "translation": "将其存入任意鱼饵桶即可获得 {{N0}} 硬币和 {{N1}} 钓鱼经验!",
+      "styleMappings": {
+        "Chum Bucket": "鱼饵桶",
+        "Fishing XP": "钓鱼经验",
+        "Coins": "硬币",
+        "Fishing": "钓鱼",
+        "Chum": "鱼饵"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Chum": "鱼饵"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

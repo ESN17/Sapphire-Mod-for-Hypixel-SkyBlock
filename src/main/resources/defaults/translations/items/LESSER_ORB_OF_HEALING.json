@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "LESSER_ORB_OF_HEALING",
+  "_original_name": "Lesser Orb of Healing",
+  "_original_lore": [
+    "A shard of a Dungeon Blessing,",
+    "capable of being bestowed upon",
+    "another player for a continuous buff,",
+    "but draining mana.",
+    "",
+    "Orb of Life RIGHT CLICK TEAMMATE",
+    "Grants +25 Health Regen.",
+    "Mana Drain: 15 per second",
+    "Vitality Drain: 1 per second",
+    "Max duration: 60s",
+    "",
+    "❣ Requires Catacombs Skill 16.",
+    "EPIC DUNGEON ITEM"
+  ],
+  "name": "次级治疗宝珠",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A shard of a Dungeon Blessing,",
+        "capable of being bestowed upon",
+        "another player for a continuous buff,",
+        "but draining mana."
+      ],
+      "translation": "地牢祝福的碎片,可施加于其他玩家以持续增益,但会消耗法力.",
+      "styleMappings": {
+        "Blessing": "祝福",
+        "Dungeon": "地牢",
+        "mana": "法力",
+        "player": "玩家",
+        "for": "持续"
+      }
+    },
+    {
+      "source": [
+        "Orb of Life RIGHT CLICK TEAMMATE",
+        "Grants {{N0}} Health Regen."
+      ],
+      "translation": "生命宝珠 右键点击队友 提供 {{N0}} 生命回复.",
+      "styleMappings": {
+        "RIGHT CLICK TEAMMATE": "右键点击队友",
+        "Health Regen": "生命回复",
+        "Orb of Life": "生命宝珠",
+        "Grants": "提供",
+        "RIGHT CLICK": "右键点击",
+        "Health": "生命",
+        "CLICK": "点击",
+        "Orb": "宝珠",
+        "Regen": "回复"
+      }
+    },
+    {
+      "source": [
+        "Mana Drain: {{N0}} per second"
+      ],
+      "translation": "法力消耗: 每秒 {{N0}}",
+      "styleMappings": {
+        "Mana Drain": "法力消耗",
+        "per second": "每秒",
+        "Mana": "法力",
+        "second": "秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Vitality Drain: {{N0}} per second"
+      ],
+      "translation": "生命消耗: 每秒 {{N0}}",
+      "styleMappings": {
+        "Vitality Drain": "生命消耗",
+        "per second": "每秒",
+        "Vitality": "生命",
+        "second": "秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Max duration: {{N0}}s"
+      ],
+      "translation": "最长持续时间: {{N0}}秒",
+      "styleMappings": {
+        "Max duration": "最长持续时间",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Catacombs Skill {{N0}}."
+      ],
+      "translation": "❣ 需要地牢技能 {{N0}}.",
+      "styleMappings": {
+        "Requires": "需要",
+        "Catacombs": "地牢",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC DUNGEON ITEM"
+      ],
+      "translation": "史诗 地牢物品",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Lesser Orb of Healing": "次级治疗宝珠",
+    "Orb": "宝珠"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

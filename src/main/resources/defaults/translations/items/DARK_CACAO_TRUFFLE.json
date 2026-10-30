@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "DARK_CACAO_TRUFFLE",
+  "_original_name": "Dark Cacao Truffle",
+  "_original_lore": [
+    "Consume to boost your  Cocoa",
+    "Beans Fortune for 60m.",
+    "",
+    "Keep this item in your inventory to",
+    "increase the bonus up to +30",
+    "Cocoa Beans Fortune, at which point",
+    "the item evolves!",
+    "",
+    "Current Bonus: +0 Cocoa Beans Fortune",
+    "",
+    "RARE"
+  ],
+  "name": "黑暗可可松露",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consume to boost your  Cocoa",
+        "Beans Fortune for {{N0}}m."
+      ],
+      "translation": "食用后,你的 可可豆幸运提升{{N0}}分钟.",
+      "styleMappings": {
+        "Cocoa Beans Fortune": "可可豆幸运",
+        "{{N0}}m": "{{N0}}分钟",
+        "Fortune": "幸运",
+        "Cocoa Beans": "可可豆"
+      }
+    },
+    {
+      "source": [
+        "Keep this item in your inventory to",
+        "increase the bonus up to {{N0}}",
+        "Cocoa Beans Fortune, at which point",
+        "the item evolves!"
+      ],
+      "translation": "将此物品保留在物品栏中,可将加成提升至 {{N0}} 可可豆幸运,达到该数值时物品会进化!",
+      "styleMappings": {
+        "Cocoa Beans Fortune": "可可豆幸运",
+        "evolves": "进化",
+        "item": "物品",
+        "Fortune": "幸运",
+        "Cocoa Beans": "可可豆"
+      }
+    },
+    {
+      "source": [
+        "Current Bonus: {{N0}} Cocoa Beans Fortune"
+      ],
+      "translation": "当前加成:{{N0}} 可可豆幸运",
+      "styleMappings": {
+        "Cocoa Beans Fortune": "可可豆幸运",
+        "Current Bonus:": "当前加成:",
+        "Bonus": "加成",
+        "Fortune": "幸运",
+        "Cocoa Beans": "可可豆"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

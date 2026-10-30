@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "QUICK_BITE;5",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Quick Bite V",
+    "Makes fish swim 25% faster towards",
+    "your bobber.",
+    "",
+    "Sources:",
+    " - Fishing (I)",
+    " - Bazaar (I-V)",
+    "",
+    "Applied To:",
+    " - Fishing Rod",
+    "",
+    "Requirements:",
+    " - Enchanting Level 23",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Quick Bite V"
+      ],
+      "translation": "快速咬钩 V",
+      "styleMappings": {
+        "Quick Bite": "快速咬钩"
+      }
+    },
+    {
+      "source": [
+        "Makes fish swim {{N0}} faster towards",
+        "your bobber."
+      ],
+      "translation": "使鱼游向你的浮标的速度加快 {{N0}}.",
+      "styleMappings": {
+        "faster": "加快"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Fishing (I)",
+        " - Bazaar (I-V)"
+      ],
+      "translation": " - 钓鱼 (一)  - 集市 (一至五)",
+      "styleMappings": {
+        "Fishing": "钓鱼",
+        "Bazaar": "集市",
+        "I-V": "一至五",
+        "I": "一"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Fishing Rod"
+      ],
+      "translation": " - 钓鱼竿",
+      "styleMappings": {
+        "Fishing Rod": "钓鱼竿",
+        "Fishing": "钓鱼"
+      }
+    },
+    {
+      "source": [
+        "Requirements:"
+      ],
+      "translation": "需求:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchanting Level {{N0}}"
+      ],
+      "translation": " - 附魔等级 {{N0}}",
+      "styleMappings": {
+        "Enchanting Level": "附魔等级"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

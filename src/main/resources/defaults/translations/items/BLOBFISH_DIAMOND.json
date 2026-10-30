@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "BLOBFISH_DIAMOND",
+  "_original_name": "Blobfish DIAMOND",
+  "_original_lore": [
+    "Caught everywhere.",
+    "",
+    "Bring this to Odger at the top of the",
+    "Blazing Volcano.",
+    "",
+    "* Soulbound *",
+    "COMMON TROPHY"
+  ],
+  "name": "水滴鱼 钻石",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Caught everywhere."
+      ],
+      "translation": "可在任何地方钓到.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Bring this to Odger at the top of the",
+        "Blazing Volcano."
+      ],
+      "translation": "将此物交给炽焰火山顶部的 Odger.",
+      "styleMappings": {
+        "Blazing Volcano": "炽焰火山",
+        "Odger": "Odger"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "COMMON TROPHY"
+      ],
+      "translation": "普通奖杯",
+      "styleMappings": {
+        "COMMON TROPHY": "普通奖杯",
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Blobfish": "水滴鱼",
+    "DIAMOND": "钻石"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

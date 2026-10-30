@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "YOGGIE",
+  "_original_name": "Yoggie",
+  "_original_lore": [
+    "Harvested from the core of Yogs.",
+    "Used to upgrade Magma equipment.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "尤格核心",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Harvested from the core of Yogs."
+      ],
+      "translation": "从瑜伽兽的核心中采集而来.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Used to upgrade Magma equipment."
+      ],
+      "translation": "用于升级岩浆装备.",
+      "styleMappings": {
+        "upgrade": "升级"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

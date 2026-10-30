@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "id": "ASCENSION_ROPE",
+  "_original_name": "Ascension Rope",
+  "_original_lore": [
+    "Consumed on use",
+    "",
+    "Hoist yourself back from where you",
+    "came.",
+    "",
+    "• In the Crystal Hollows: the",
+    "entrance you spawned in.",
+    "",
+    "• In the Glacite Tunnels or Glacite",
+    "Mineshafts: the Dwarven Base Camp.",
+    "",
+    "Right-click to consume!",
+    "",
+    "RARE"
+  ],
+  "name": "飞升绳索",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumed on use"
+      ],
+      "translation": "使用后消耗",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Hoist yourself back from where you",
+        "came."
+      ],
+      "translation": "将你拉回你来的地方.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "• In the Crystal Hollows: the"
+      ],
+      "translation": "• 在水晶洞窟中:你出生的",
+      "styleMappings": {
+        "Crystal Hollows": "水晶洞窟",
+        "Crystal": "水晶"
+      }
+    },
+    {
+      "source": [
+        "entrance you spawned in."
+      ],
+      "translation": "入口处.",
+      "styleMappings": {
+        "entrance": "入口"
+      }
+    },
+    {
+      "source": [
+        "• In the Glacite Tunnels or Glacite"
+      ],
+      "translation": "• 在冰川矿道或冰川",
+      "styleMappings": {
+        "Glacite Tunnels": "冰川矿道",
+        "Glacite": "冰川"
+      }
+    },
+    {
+      "source": [
+        "Mineshafts: the Dwarven Base Camp."
+      ],
+      "translation": "矿井中:矮人营地.",
+      "styleMappings": {
+        "Mineshafts": "矿井",
+        "Dwarven Base Camp": "矮人营地"
+      }
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

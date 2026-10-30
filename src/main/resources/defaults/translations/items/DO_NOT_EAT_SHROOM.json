@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "DO_NOT_EAT_SHROOM",
+  "_original_name": "Do-not-eat-shroom",
+  "_original_lore": [
+    "It's clearly labeled, but who can",
+    "resist? Eat at your own risk - things",
+    "get strange when this one's",
+    "consumed.",
+    "",
+    "Complete Visitor Beth's quest to",
+    "Analyze this crop!",
+    "",
+    "RARE MUTATION"
+  ],
+  "name": "勿食菇",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "It's clearly labeled, but who can",
+        "resist? Eat at your own risk - things",
+        "get strange when this one's",
+        "consumed."
+      ],
+      "translation": "标签写得清清楚楚,但谁能忍住呢?食用风险自负——吃下它后,一切都会变得诡异.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Complete Visitor Beth's quest to",
+        "Analyze this crop!"
+      ],
+      "translation": "完成访客 Beth 的任务来分析这种作物!",
+      "styleMappings": {
+        "Visitor": "访客",
+        "Beth's": "Beth 的",
+        "Analyze": "分析"
+      }
+    },
+    {
+      "source": [
+        "RARE MUTATION"
+      ],
+      "translation": "稀有突变",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

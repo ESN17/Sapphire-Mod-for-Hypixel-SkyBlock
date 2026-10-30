@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": "FRAIL;1",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Frail I",
+    "Sea creatures start with 2.5%",
+    "reduced health.",
+    "",
+    "Sources:",
+    " - Enchantment Table (I-V)",
+    " - Fishing (VI)",
+    " - Bazaar (VI)",
+    " - Severed Pincer (VII)",
+    "",
+    "Applied To:",
+    " - Fishing Rod",
+    "",
+    "Requirements:",
+    " - Enchanting Level 14",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Frail I"
+      ],
+      "translation": "虚弱 I",
+      "styleMappings": {
+        "Frail": "虚弱"
+      }
+    },
+    {
+      "source": [
+        "Sea creatures start with {{N0}}",
+        "reduced health."
+      ],
+      "translation": "海洋生物初始生命值减少 {{N0}}.",
+      "styleMappings": {
+        "health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchantment Table (I-V)",
+        " - Fishing (VI)",
+        " - Bazaar (VI)",
+        " - Severed Pincer (VII)"
+      ],
+      "translation": " - 附魔台 (I-V)  - 钓鱼 (VI)  - 集市 (VI)  - 断钳 (VII)",
+      "styleMappings": {
+        "Enchantment Table": "附魔台",
+        "Severed Pincer": "断钳",
+        "Fishing": "钓鱼",
+        "Bazaar": "集市",
+        "I-V": "I-V",
+        "Enchantment": "附魔"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Fishing Rod"
+      ],
+      "translation": " - 钓鱼竿",
+      "styleMappings": {
+        "Fishing Rod": "钓鱼竿",
+        "Fishing": "钓鱼"
+      }
+    },
+    {
+      "source": [
+        "Requirements:"
+      ],
+      "translation": "需求:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchanting Level {{N0}}"
+      ],
+      "translation": " - 附魔等级 {{N0}}",
+      "styleMappings": {
+        "Enchanting Level": "附魔等级"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

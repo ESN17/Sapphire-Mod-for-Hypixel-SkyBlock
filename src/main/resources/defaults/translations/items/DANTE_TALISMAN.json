@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "DANTE_TALISMAN",
+  "_original_name": "Dante's Talisman",
+  "_original_lore": [
+    "Accessory Power: +3",
+    "",
+    "Official medal proving your eternal",
+    "support for Dante.",
+    "",
+    "Can be shown to goons in place of a",
+    "Happy Mask for entry into official",
+    "buildings.",
+    "",
+    "Works while in Accessory Bag!",
+    "COMMON ACCESSORY"
+  ],
+  "name": "Dante的护符",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Accessory Power: {{N0}}"
+      ],
+      "translation": "饰品能量: {{N0}}",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "Official medal proving your eternal",
+        "support for Dante."
+      ],
+      "translation": "证明你永远支持但丁的官方勋章.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Can be shown to goons in place of a",
+        "Happy Mask for entry into official",
+        "buildings."
+      ],
+      "translation": "可向打手出示以代替快乐面具,用于进入官方建筑.",
+      "styleMappings": {
+        "Mask": "面具"
+      }
+    },
+    {
+      "source": [
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "放在饰品袋中即可生效!",
+      "styleMappings": {
+        "Accessory Bag": "饰品袋",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "COMMON ACCESSORY"
+      ],
+      "translation": "普通饰品",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Talisman": "护符"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

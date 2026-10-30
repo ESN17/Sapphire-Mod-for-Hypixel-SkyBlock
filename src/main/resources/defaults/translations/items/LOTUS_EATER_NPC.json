@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "LOTUS_EATER_NPC",
+  "_original_name": "The Lotus Eater (NPC)",
+  "_original_lore": [
+    "Appears after throwing 4 Frogcoin in",
+    "to the water in the Lotus Eater's Cave.",
+    "",
+    "Ribbit!"
+  ],
+  "name": "食莲者 (人物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Appears after throwing {{N0}} Frogcoin in",
+        "to the water in the Lotus Eater's Cave."
+      ],
+      "translation": "在食莲者洞穴的水中投入 {{N0}} 个青蛙币后出现.",
+      "styleMappings": {
+        "Lotus Eater's Cave": "食莲者洞穴",
+        "Frogcoin": "青蛙币",
+        "in the": "的",
+        "water": "水"
+      }
+    },
+    {
+      "source": [
+        "Ribbit!"
+      ],
+      "translation": "呱呱!",
+      "styleMappings": {}
+    }
+  ],
+  "styleMappings": {
+    "(NPC)": "(人物)"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "SUPER_SCORCHER",
+  "_original_name": "Super Scorcher",
+  "_original_lore": [
+    "Consumed on use",
+    "",
+    "Can be used to remove Pet Items",
+    "from your active Pet. You will be",
+    "refunded the Pet Item.",
+    "",
+    "The small text mentions something",
+    "about Plumber Joe not being",
+    "culpable for any damage done to",
+    "pets. It's probably a good thing",
+    "Montezuma's already dead.",
+    "",
+    "Right-click on your summoned pet to",
+    "remove its item!",
+    "",
+    "EPIC"
+  ],
+  "name": "超级灼烧者",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumed on use"
+      ],
+      "translation": "使用后消耗",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Can be used to remove Pet Items",
+        "from your active Pet. You will be",
+        "refunded the Pet Item."
+      ],
+      "translation": "可移除当前宠物装备的宠物道具.卸下的道具会退还给你.",
+      "styleMappings": {
+        "Pet Items": "宠物道具",
+        "Pet": "宠物",
+        "Pet Item": "道具"
+      }
+    },
+    {
+      "source": [
+        "The small text mentions something",
+        "about Plumber Joe not being",
+        "culpable for any damage done to",
+        "pets. It's probably a good thing",
+        "Montezuma's already dead."
+      ],
+      "translation": "小字部分提到Plumber Joe对宠物受到的伤害概不负责.还好蒙特祖玛已经死了.",
+      "styleMappings": {
+        "damage": "伤害",
+        "Montezuma": "蒙特祖玛"
+      }
+    },
+    {
+      "source": [
+        "Right-click on your summoned pet to"
+      ],
+      "translation": "右键点击你召唤的宠物以",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "remove its item!"
+      ],
+      "translation": "移除它的物品!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

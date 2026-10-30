@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "id": "BOBBIN_SCRIPTURES",
+  "_original_name": "Bobbin' Scriptures",
+  "_original_lore": [
+    "The sacred ways of bobbin', written",
+    "by a long-forgotten worshipper of",
+    "Kuudra.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "RARE"
+  ],
+  "name": "钓鱼圣经",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The sacred ways of bobbin', written",
+        "by a long-forgotten worshipper of",
+        "Kuudra."
+      ],
+      "translation": "钓鱼的神圣之道,由一位被遗忘已久的库德拉信徒所著.",
+      "styleMappings": {
+        "Kuudra": "库德拉"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

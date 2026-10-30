@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "id": "CRYSTALLIZED_HEART",
+  "_original_name": "Crystallized Heart",
+  "_original_lore": [
+    "Health: +50",
+    "Defense: +10",
+    "Intelligence: +50",
+    "Vitality: +40",
+    "Mending: +40",
+    "",
+    "This item is Undead !",
+    "",
+    "This item can be reforged!",
+    "☠ Requires Zombie Slayer 3.",
+    "RARE HELMET"
+  ],
+  "name": "晶化之心",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Vitality: {{N0}}"
+      ],
+      "translation": "生命恢复: {{N0}}",
+      "styleMappings": {
+        "Vitality": "生命恢复"
+      }
+    },
+    {
+      "source": [
+        "Mending: {{N0}}"
+      ],
+      "translation": "修复:{{N0}}",
+      "styleMappings": {
+        "Mending": "修复"
+      }
+    },
+    {
+      "source": [
+        "This item is Undead !"
+      ],
+      "translation": "此物品属于亡灵 !",
+      "styleMappings": {
+        "Undead": "亡灵",
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Zombie Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要僵尸杀手 {{N0}}.",
+      "styleMappings": {
+        "Zombie Slayer": "僵尸杀手",
+        "Requires": "需要",
+        "Zombie": "僵尸",
+        "Slayer": "杀手"
+      }
+    },
+    {
+      "source": [
+        "RARE HELMET"
+      ],
+      "translation": "稀有头盔",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

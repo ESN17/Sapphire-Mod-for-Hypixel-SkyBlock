@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "id": "ENDER_DRAGON;3",
+  "_original_name": "[Lvl {LVL}] Ender Dragon",
+  "_original_lore": [
+    "Combat Pet",
+    "",
+    "Strength: +{STRENGTH}",
+    "Crit Damage: +{CRIT_DAMAGE}%",
+    "Crit Chance: +{CRIT_CHANCE}%",
+    "",
+    "End Strike",
+    "Deal {0}% more damage to  Ender",
+    "mobs.",
+    "",
+    "One With The Dragon",
+    "Buffs the Aspect of the Dragons",
+    "sword by {1}  Damage and {2} ",
+    "Strength.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "EPIC PET"
+  ],
+  "name": "[等级 {LVL}] 末影龙",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combat Pet"
+      ],
+      "translation": "战斗宠物",
+      "styleMappings": {
+        "Combat Pet": "战斗宠物",
+        "Combat": "战斗",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Strength: +{{N0}}"
+      ],
+      "translation": "力量: +{{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: +{{N0}}%"
+      ],
+      "translation": "暴击伤害: +{{N0}}%",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Crit Chance: +{{N0}}%"
+      ],
+      "translation": "暴击几率: +{{N0}}%",
+      "styleMappings": {
+        "Crit Chance": "暴击几率"
+      }
+    },
+    {
+      "source": [
+        "End Strike"
+      ],
+      "translation": "末影打击",
+      "styleMappings": {
+        "End Strike": "末影打击"
+      }
+    },
+    {
+      "source": [
+        "Deal {{N0}}% more damage to  Ender",
+        "mobs."
+      ],
+      "translation": "对  末影生物造成 {{N0}}% 额外伤害.",
+      "styleMappings": {
+        "damage": "伤害",
+        "Ender": "末影",
+        "mobs": "生物",
+        "more": "额外",
+        "Deal": "造成",
+        "mobs.": "伤害."
+      }
+    },
+    {
+      "source": [
+        "One With The Dragon"
+      ],
+      "translation": "与龙合一",
+      "styleMappings": {
+        "One With The Dragon": "与龙合一",
+        "Dragon": "龙"
+      }
+    },
+    {
+      "source": [
+        "Buffs the Aspect of the Dragons",
+        "sword by {{N0}}  Damage and {{N1}} ",
+        "Strength."
+      ],
+      "translation": "使巨龙之刃的伤害提高 {{N0}}  ,力量提高 {{N1}}  .",
+      "styleMappings": {
+        "Aspect of the Dragons": "巨龙之刃",
+        "Strength": "力量",
+        "Damage": "伤害",
+        "Aspect": "巨龙之刃",
+        "of the Dragons": "龙之"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "EPIC PET"
+      ],
+      "translation": "史诗 宠物",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Ender Dragon": "末影龙",
+    "Lvl": "等级",
+    "Dragon": "龙",
+    "Ender": "末影"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

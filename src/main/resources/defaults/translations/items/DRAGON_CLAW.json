@@ -1,0 +1,215 @@
+{
+  "schemaVersion": 1,
+  "id": "DRAGON_CLAW",
+  "_original_name": "Dragon Claw",
+  "_original_lore": [
+    "Reforge Stone",
+    "Combinable in Anvil",
+    "",
+    "Applies the Fabled reforge when",
+    "combined with a Melee Weapon.",
+    "",
+    "Dragons rarely use their claws.",
+    "They should.",
+    "",
+    "Grants the following stats that scale",
+    "with the item's rarity:",
+    "  Strength",
+    "  Crit Damage",
+    "",
+    "Fabled Bonus",
+    " Crits have a chance to deal up to",
+    "+15% more  Damage.",
+    "",
+    "Right-click to view rarity scaling!",
+    "",
+    "❣ Requires Mining Skill 22.",
+    "",
+    "RARE REFORGE STONE"
+  ],
+  "name": "龙爪",
+  "lore": {
+    "Reforge Stone": "洗练石",
+    "Combinable in Anvil": "可在铁砧中合成",
+    "  Strength": "  力量",
+    "  Crit Damage": "  暴击伤害",
+    "Fabled Bonus": "传奇加成",
+    "Right-click to view rarity scaling!": "右键查看各稀有度的属性!",
+    "RARE REFORGE STONE": "稀有 洗练石"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "Applies the Fabled reforge when",
+        "combined with a Melee Weapon."
+      ],
+      "translation": "与近战武器合成后,赋予传奇洗练.",
+      "styleMappings": {
+        "Melee Weapon": "近战武器",
+        "Fabled": "传奇",
+        "reforge": "洗练",
+        "Weapon": "武器"
+      }
+    },
+    {
+      "source": [
+        "Dragons rarely use their claws.",
+        "They should."
+      ],
+      "translation": "巨龙很少动用利爪.它们真该多用用.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants the following stats that scale",
+        "with the item's rarity:"
+      ],
+      "translation": "提供以下属性,数值随物品稀有度提升:",
+      "styleMappings": {
+        "Grants": "提供",
+        "rarity": "稀有度",
+        "stats": "属性",
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        " Crits have a chance to deal up to",
+        "{damage} more  Damage."
+      ],
+      "translation": "  暴击有概率额外造成最高 {damage} 的   伤害.",
+      "styleMappings": {
+        "Damage": "伤害",
+        "Crits": "暴击",
+        "chance to": "概率",
+        " Damage": " 伤害",
+        "deal": "造成",
+        "more": "额外",
+        "damage": "伤害",
+        "chance": "概率"
+      }
+    },
+    {
+      "source": [
+        "Reforge Stone",
+        "Combinable in Anvil"
+      ],
+      "translation": "洗练石 可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Reforge Stone": "洗练石",
+        "Anvil": "铁砧",
+        "Reforge": "洗练"
+      }
+    },
+    {
+      "source": [
+        "Dragons rarely use their claws."
+      ],
+      "translation": "龙很少使用它们的爪子.",
+      "styleMappings": {
+        "Dragons": "龙"
+      }
+    },
+    {
+      "source": [
+        "They should."
+      ],
+      "translation": "它们应该用.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants the following stats that scale"
+      ],
+      "translation": "提供以下随物品稀有度提升的属性:",
+      "styleMappings": {
+        "Grants": "提供",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "with the item's rarity:"
+      ],
+      "translation": "物品稀有度提升的属性:",
+      "styleMappings": {
+        "item": "物品",
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "  Strength",
+        "  Crit Damage"
+      ],
+      "translation": "   力量  暴击伤害",
+      "styleMappings": {
+        " Crit Damage": " 暴击伤害",
+        "Strength": "力量",
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Fabled Bonus",
+        " Crits have a chance to deal up to",
+        "{{N0}} more  Damage."
+      ],
+      "translation": "传说加成  暴击有几率造成最多 {{N0}} 额外 伤害.",
+      "styleMappings": {
+        "Fabled Bonus": "传说加成",
+        " Damage": " 伤害",
+        "chance": "几率",
+        "Crits": "暴击",
+        "deal": "造成",
+        "more": "额外",
+        "Damage": "伤害",
+        "Bonus": "加成",
+        "chance to": "几率"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view rarity scaling!"
+      ],
+      "translation": "右键查看各稀有度的属性!",
+      "styleMappings": {
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Mining Skill {{N0}}."
+      ],
+      "translation": "❣ 需要采矿技能 {{N0}}.",
+      "styleMappings": {
+        "Mining Skill": "采矿技能",
+        "Requires": "需要",
+        "Mining": "采矿",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "RARE REFORGE STONE"
+      ],
+      "translation": "稀有 洗练石",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Melee Weapon": "近战武器",
+    "Fabled": "传奇",
+    "Strength": "力量",
+    "Crit Damage": "暴击伤害",
+    "Damage": "伤害",
+    "Crits": "暴击",
+    "Mining Skill": "采矿等级",
+    "Dragon": "龙"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "BOSS_CORLEONE_BOSS",
+  "_original_name": "Boss Corleone (Boss)",
+  "_original_lore": [
+    "Prepare for trouble!",
+    "",
+    "Mob Types: ✰ Humanoid, ⛏ Subterranean",
+    "❤ Health: 1,000,000"
+  ],
+  "name": "科里昂首领 (首领)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Prepare for trouble!"
+      ],
+      "translation": "准备迎接麻烦吧!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Mob Types: ✰ Humanoid, ⛏ Subterranean"
+      ],
+      "translation": "生物类型: ✰ 人形, ⛏ 地下",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Humanoid": "人形",
+        "Subterranean": "地下"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Boss Corleone (Boss)": "科里昂首领 (首领)",
+    "Boss": "首领"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

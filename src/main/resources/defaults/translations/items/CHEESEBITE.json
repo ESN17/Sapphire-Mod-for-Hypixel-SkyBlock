@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "CHEESEBITE",
+  "_original_name": "Cheesebite",
+  "_original_lore": [
+    "A smell so aromatic that even",
+    "rodents can't resist.",
+    "",
+    "Complete Visitor Beth's quest to",
+    "Analyze this crop!",
+    "",
+    "RARE MUTATION"
+  ],
+  "name": "奶酪咬",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A smell so aromatic that even",
+        "rodents can't resist."
+      ],
+      "translation": "香气如此浓郁,连啮齿动物都无法抗拒.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Complete Visitor Beth's quest to",
+        "Analyze this crop!"
+      ],
+      "translation": "完成访客 Beth 的任务来分析这种作物!",
+      "styleMappings": {
+        "Visitor": "访客",
+        "Beth's": "Beth 的",
+        "Analyze": "分析"
+      }
+    },
+    {
+      "source": [
+        "RARE MUTATION"
+      ],
+      "translation": "稀有突变",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

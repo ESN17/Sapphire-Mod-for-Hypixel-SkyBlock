@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "IMPLOSION_BELT",
+  "_original_name": "Implosion Belt",
+  "_original_lore": [
+    "Defense: +70",
+    "",
+    "Ability: Consolidated ",
+    "Increases all explosion damage dealt by 25%.",
+    "",
+    "Right-click to equip!",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Combat Skill 22.",
+    "EPIC BELT"
+  ],
+  "name": "爆裂腰带",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Ability: Consolidated "
+      ],
+      "translation": "能力: 聚爆 ",
+      "styleMappings": {
+        "Ability": "能力",
+        "Consolidated": "聚爆"
+      }
+    },
+    {
+      "source": [
+        "Increases all explosion damage dealt by {{N0}}."
+      ],
+      "translation": "使造成的所有爆炸伤害提高 {{N0}}.",
+      "styleMappings": {
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Right-click to equip!"
+      ],
+      "translation": "右键点击装备!",
+      "styleMappings": {
+        "Right-click to equip!": "右键点击装备!",
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC BELT"
+      ],
+      "translation": "史诗腰带",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Belt": "腰带"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

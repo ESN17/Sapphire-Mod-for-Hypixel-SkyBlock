@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "id": "STONE_CHESTPLATE",
+  "_original_name": "Stone Chestplate",
+  "_original_lore": [
+    "Gear Score: 260",
+    "Defense: +130",
+    "",
+    "While in Dungeons, players within 10",
+    "blocks of you take 5% less damage.",
+    "This range is extended to 30 blocks",
+    "while playing as a Tank.",
+    "",
+    "This item can be reforged!",
+    "RARE DUNGEON CHESTPLATE"
+  ],
+  "name": "石头胸甲",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "While in Dungeons, players within {{N0}}",
+        "blocks of you take {{N1}} less damage."
+      ],
+      "translation": "在地牢中时,你周围 {{N0}} 格内的玩家受到的伤害减少 {{N1}}.",
+      "styleMappings": {
+        "less damage": "伤害减少",
+        "Dungeons": "地牢",
+        "blocks": "格",
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "This range is extended to {{N0}} blocks",
+        "while playing as a Tank."
+      ],
+      "translation": "当以坦克身份游玩时,此范围扩大至 {{N0}} 格.",
+      "styleMappings": {
+        "blocks": "格",
+        "Tank": "坦克"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "RARE DUNGEON CHESTPLATE"
+      ],
+      "translation": "稀有地牢胸甲",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Chestplate": "胸甲"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

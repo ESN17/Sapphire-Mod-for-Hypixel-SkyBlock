@@ -1,0 +1,179 @@
+{
+  "schemaVersion": 1,
+  "id": "REFINED_AMBER",
+  "_original_name": "Andesite Whetstone",
+  "_original_lore": [
+    "Reforge Stone",
+    "Combinable in Anvil",
+    "",
+    "Applies the Refined reforge when",
+    "combined with a Mining Tool.",
+    "",
+    "Grants the following stats that scale",
+    "with the item's rarity:",
+    " ☯ Mining Wisdom",
+    "",
+    "Refined Bonus",
+    "You have a 0.25% chance to find",
+    "enchanted forms of items when mining",
+    "Ores.",
+    "",
+    "Right-click to view rarity scaling!",
+    "",
+    "❣ Requires Mining Skill 25.",
+    "",
+    "RARE REFORGE STONE"
+  ],
+  "name": "安山岩磨刀石",
+  "lore": {
+    "Reforge Stone": "洗练石",
+    "Combinable in Anvil": "可在铁砧中合成",
+    " ☯ Mining Wisdom": " ☯ 采矿智慧",
+    "Refined Bonus": "精炼加成",
+    "Right-click to view rarity scaling!": "右键查看各稀有度的属性!",
+    "RARE REFORGE STONE": "稀有 洗练石"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "Applies the Refined reforge when",
+        "combined with a Mining Tool."
+      ],
+      "translation": "与采矿工具合成后,赋予精炼洗练.",
+      "styleMappings": {
+        "Mining Tool": "采矿工具",
+        "Refined": "精炼",
+        "reforge": "洗练",
+        "Mining": "采矿"
+      }
+    },
+    {
+      "source": [
+        "Grants the following stats that scale",
+        "with the item's rarity:"
+      ],
+      "translation": "提供以下属性,数值随物品稀有度提升:",
+      "styleMappings": {
+        "item": "物品",
+        "Grants": "提供",
+        "stats": "属性",
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "You have a {chance} chance to find",
+        "enchanted forms of items when mining",
+        "Ores."
+      ],
+      "translation": "挖掘矿石时,有 {chance} 的概率获得其附魔形态.",
+      "styleMappings": {
+        "Ores": "矿石",
+        "chance": "概率",
+        "chance to": "概率",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Reforge Stone",
+        "Combinable in Anvil"
+      ],
+      "translation": "洗练石 可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Reforge Stone": "洗练石",
+        "Anvil": "铁砧",
+        "Reforge": "洗练"
+      }
+    },
+    {
+      "source": [
+        "Grants the following stats that scale"
+      ],
+      "translation": "提供以下随物品稀有度提升的属性:",
+      "styleMappings": {
+        "Grants": "提供",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "with the item's rarity:"
+      ],
+      "translation": "物品稀有度提升的属性:",
+      "styleMappings": {
+        "item": "物品",
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        " ☯ Mining Wisdom"
+      ],
+      "translation": " ☯ 采矿智慧",
+      "styleMappings": {
+        "Mining Wisdom": "采矿智慧",
+        "Mining": "采矿",
+        "Wisdom": "智慧"
+      }
+    },
+    {
+      "source": [
+        "Refined Bonus",
+        "You have a {{N0}} chance to find",
+        "enchanted forms of items when mining",
+        "Ores."
+      ],
+      "translation": "精炼加成 挖掘矿石时,你有 {{N0}} 的几率发现物品的附魔形态.",
+      "styleMappings": {
+        "Refined Bonus": "精炼加成",
+        "chance": "几率",
+        "items": "物品",
+        "Ores": "矿石",
+        "Bonus": "加成",
+        "chance to": "几率",
+        "Refined": "精炼",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view rarity scaling!"
+      ],
+      "translation": "右键查看各稀有度的属性!",
+      "styleMappings": {
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Mining Skill {{N0}}."
+      ],
+      "translation": "❣ 需要采矿技能 {{N0}}.",
+      "styleMappings": {
+        "Mining Skill": "采矿技能",
+        "Requires": "需要",
+        "Mining": "采矿",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "RARE REFORGE STONE"
+      ],
+      "translation": "稀有 洗练石",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mining Tool": "采矿工具",
+    "Refined": "精炼",
+    "Mining Wisdom": "采矿智慧",
+    "Ores": "矿石",
+    "Mining Skill": "采矿等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

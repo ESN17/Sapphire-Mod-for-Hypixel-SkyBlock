@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ICE_CUBE",
+  "_original_name": "Ice Cube",
+  "_original_lore": [
+    "Prevents all ice from melting on your",
+    "private island.",
+    "",
+    "RARE"
+  ],
+  "name": "冰块",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Prevents all ice from melting on your",
+        "private island."
+      ],
+      "translation": "防止你的私人岛屿上的所有冰融化.",
+      "styleMappings": {
+        "private island": "私人岛屿",
+        "island": "岛屿上"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Ice": "冰"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

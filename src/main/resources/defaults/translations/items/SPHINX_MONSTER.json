@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "SPHINX_MONSTER",
+  "_original_name": "Sphinx (Mythological Creature)",
+  "_original_lore": [
+    "Mob Types: ✿ Mythological, ✰ Humanoid, ❃ Elusive",
+    "❤ Health:",
+    "[Griffin] 40,000,000 ❤",
+    "[Griffin] 65,000,000 ❤",
+    "",
+    "MYTHIC"
+  ],
+  "name": "斯芬克斯 (神话生物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mob Types: ✿ Mythological, ✰ Humanoid, ❃ Elusive"
+      ],
+      "translation": "生物类型: ✿ 神话, ✰ 人形, ❃ 难以捉摸",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Mythological": "神话",
+        "Humanoid": "人形",
+        "Elusive": "难以捉摸"
+      }
+    },
+    {
+      "source": [
+        "❤ Health:"
+      ],
+      "translation": "❤ 生命值:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "[Griffin] {{N0}} ❤",
+        "[Griffin] {{N1}} ❤"
+      ],
+      "translation": "[狮鹫] {{N0}} ❤ [狮鹫] {{N1}} ❤",
+      "styleMappings": {
+        "Griffin": "狮鹫"
+      }
+    },
+    {
+      "source": [
+        "MYTHIC"
+      ],
+      "translation": "神话",
+      "styleMappings": {
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mythological Creature": "神话生物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

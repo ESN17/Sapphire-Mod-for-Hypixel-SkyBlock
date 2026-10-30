@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "RED_THORNLEAF_TEA",
+  "_original_name": "Red Thornleaf Tea",
+  "_original_lore": [
+    "Basic Brew",
+    "",
+    "Use this item in place of an",
+    "Awkward Potion for certain",
+    "potions.",
+    "",
+    "Added to Resistance potions.",
+    "",
+    "Upon being hit, reflect 5% of the",
+    "damage back to the attacker.",
+    "",
+    "RARE"
+  ],
+  "name": "红刺叶茶",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Basic Brew"
+      ],
+      "translation": "基础酿造",
+      "styleMappings": {
+        "Basic": "基础"
+      }
+    },
+    {
+      "source": [
+        "Use this item in place of an",
+        "Awkward Potion for certain",
+        "potions."
+      ],
+      "translation": "在酿造某些药水时,用此物品代替粗制药水.",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Added to Resistance potions."
+      ],
+      "translation": "加入抗性药水中.",
+      "styleMappings": {
+        "Resistance": "抗性"
+      }
+    },
+    {
+      "source": [
+        "Upon being hit, reflect {{N0}} of the",
+        "damage back to the attacker."
+      ],
+      "translation": "受到攻击时,将 {{N0}} 的伤害反弹给攻击者.",
+      "styleMappings": {
+        "damage": "伤害",
+        "hit": "攻击"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Red Thornleaf": "红刺叶"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

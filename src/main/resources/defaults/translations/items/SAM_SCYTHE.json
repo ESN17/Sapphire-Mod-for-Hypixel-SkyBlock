@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "SAM_SCYTHE",
+  "_original_name": "Sam's Scythe",
+  "_original_lore": [
+    "Cleans a 3x3 area of grass, leaves",
+    "and flowers.",
+    "",
+    "* Co-op Soulbound *",
+    "COMMON"
+  ],
+  "name": "萨姆的镰刀",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Cleans a {{N0}}x{{N1}} area of grass, leaves",
+        "and flowers."
+      ],
+      "translation": "清理 {{N0}}乘{{N1}} 区域内的草、树叶和花.",
+      "styleMappings": {
+        "area of grass, leaves": "区域内的草、树叶",
+        "and flowers": "和花",
+        "Cleans": "清理",
+        "{{N0}}x{{N1}}": "{{N0}}乘{{N1}}"
+      }
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sam": "萨姆"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

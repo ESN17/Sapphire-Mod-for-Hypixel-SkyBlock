@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "BLOOD_SOAKED_COINS",
+  "_original_name": "Blood-Soaked Coins",
+  "_original_lore": [
+    "When you pay through the nose,",
+    "you'll end up with a nosebleed.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "EPIC"
+  ],
+  "name": "血浸硬币",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "When you pay through the nose,",
+        "you'll end up with a nosebleed."
+      ],
+      "translation": "当你花大价钱时,最终会落得个流鼻血的下场.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Coins": "硬币"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

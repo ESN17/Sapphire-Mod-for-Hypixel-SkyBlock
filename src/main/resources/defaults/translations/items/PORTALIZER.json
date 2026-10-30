@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "PORTALIZER",
+  "_original_name": "Portalizer",
+  "_original_lore": [
+    "Combine in an anvil with any Travel",
+    "Scroll to transform it into a Portal",
+    "item which can be placed on your",
+    "private island.",
+    "",
+    "Note: Some portals are available in",
+    "various collections with cheap",
+    "recipes!",
+    "",
+    "SPECIAL"
+  ],
+  "name": "传送门制造器",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combine in an anvil with any Travel",
+        "Scroll to transform it into a Portal",
+        "item which can be placed on your",
+        "private island."
+      ],
+      "translation": "在铁砧中与任意旅行卷轴结合,将其转化为可放置在你私人岛屿上的传送门物品.",
+      "styleMappings": {
+        "private island": "私人岛屿",
+        "Travel Scroll": "旅行卷轴",
+        "anvil": "铁砧",
+        "into": "转化为",
+        "item": "物品",
+        "island": "岛屿上"
+      }
+    },
+    {
+      "source": [
+        "Note: Some portals are available in"
+      ],
+      "translation": "注意: 部分传送门可在",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "various collections with cheap",
+        "recipes!"
+      ],
+      "translation": "各种收藏中以廉价配方获得!",
+      "styleMappings": {
+        "collections": "收藏"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

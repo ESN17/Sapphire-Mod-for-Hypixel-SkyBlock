@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "id": "SNAIL;4",
+  "_original_name": "[Lvl {LVL}] Snail",
+  "_original_lore": [
+    "Mining Pet",
+    "",
+    "Defense: +{DEFENSE}",
+    "Intelligence: +{INTELLIGENCE}",
+    "",
+    "Red Sand Enjoyer",
+    "Red Sand Minions work {0}% faster",
+    "while on your Private Island.",
+    "",
+    "Slow and Steady",
+    "Convert every {1} Speed you",
+    "have above 100 into +1 Block",
+    "Fortune.",
+    "",
+    "Slimy Reach",
+    "Grants +{2} Mining Spread while",
+    "mining Blocks.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "LEGENDARY PET"
+  ],
+  "name": "[等级 {LVL}] 蜗牛",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mining Pet"
+      ],
+      "translation": "采矿宠物",
+      "styleMappings": {
+        "Mining": "采矿",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Defense: +{{N0}}"
+      ],
+      "translation": "防御力: +{{N0}}",
+      "styleMappings": {
+        "Defense": "防御力"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: +{{N0}}"
+      ],
+      "translation": "智力: +{{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Red Sand Enjoyer"
+      ],
+      "translation": "红沙爱好者",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Red Sand Minions work {{N0}}% faster",
+        "while on your Private Island."
+      ],
+      "translation": "在你的私人岛屿上时,红沙仆从的工作速度提高 {{N0}}%.",
+      "styleMappings": {
+        "Red Sand Minions": "红沙仆从",
+        "Private Island": "私人岛屿",
+        "Minions": "仆从",
+        "Island": "岛屿",
+        "work": "工作"
+      }
+    },
+    {
+      "source": [
+        "Slow and Steady"
+      ],
+      "translation": "缓慢而稳定",
+      "styleMappings": {
+        "Slow and Steady": "缓慢而稳定"
+      }
+    },
+    {
+      "source": [
+        "Convert every {{N0}} Speed you",
+        "have above {{N1}} into {{N2}} Block",
+        "Fortune."
+      ],
+      "translation": "将你超过 {{N1}} 的每 {{N0}} 速度转化为 {{N2}} 方块幸运.",
+      "styleMappings": {
+        "Block Fortune": "方块幸运",
+        "Convert": "转化",
+        " Speed": " 速度",
+        "Speed": "速度",
+        "Fortune": "幸运",
+        "into": "转化为"
+      }
+    },
+    {
+      "source": [
+        "Slimy Reach"
+      ],
+      "translation": "黏液之域",
+      "styleMappings": {
+        "Slimy Reach": "黏液之域"
+      }
+    },
+    {
+      "source": [
+        "Grants +{{N0}} Mining Spread while",
+        "mining Blocks."
+      ],
+      "translation": "挖掘方块时提供 +{{N0}} 挖掘扩散.",
+      "styleMappings": {
+        "Mining Spread": "挖掘扩散",
+        "Blocks": "方块",
+        "Grants": "提供"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY PET"
+      ],
+      "translation": "传说 宠物",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Snail": "蜗牛",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

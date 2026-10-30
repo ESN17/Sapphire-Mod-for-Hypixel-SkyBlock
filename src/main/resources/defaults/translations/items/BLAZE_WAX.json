@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "id": "BLAZE_WAX",
+  "_original_name": "Blaze Wax",
+  "_original_lore": [
+    "Reforge Stone",
+    "Combinable in Anvil",
+    "",
+    "Applies the Waxed reforge when",
+    "combined with Equipment.",
+    "",
+    "Used by some Master Blacksmiths to",
+    "infuse equipments with an immense",
+    "power. It's also a great replacement",
+    "for butter.",
+    "",
+    "Grants the following stats that scale",
+    "with the item's rarity:",
+    "  Health",
+    "  Crit Chance",
+    "",
+    "Right-click to view rarity scaling!",
+    "",
+    "❣ Requires Mining Skill 24.",
+    "",
+    "RARE REFORGE STONE"
+  ],
+  "name": "烈焰蜡",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Reforge Stone",
+        "Combinable in Anvil"
+      ],
+      "translation": "洗练石 可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Reforge Stone": "洗练石",
+        "Anvil": "铁砧",
+        "Reforge": "洗练"
+      }
+    },
+    {
+      "source": [
+        "Applies the Waxed reforge when",
+        "combined with Equipment."
+      ],
+      "translation": "与装备结合时应用蜡质洗练.",
+      "styleMappings": {
+        "Waxed": "蜡质",
+        "Equipment": "装备",
+        "reforge": "洗练",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Used by some Master Blacksmiths to",
+        "infuse equipments with an immense",
+        "power. It's also a great replacement",
+        "for butter."
+      ],
+      "translation": "一些大师铁匠用它为装备注入强大的力量.它也是黄油的绝佳替代品.",
+      "styleMappings": {
+        "Master": "大师",
+        "s": "一"
+      }
+    },
+    {
+      "source": [
+        "Grants the following stats that scale"
+      ],
+      "translation": "提供以下随物品稀有度提升的属性:",
+      "styleMappings": {
+        "Grants": "提供",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "with the item's rarity:"
+      ],
+      "translation": "物品稀有度提升的属性:",
+      "styleMappings": {
+        "item": "物品",
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "  Health",
+        "  Crit Chance"
+      ],
+      "translation": "   生命值   暴击几率",
+      "styleMappings": {
+        "Health": "生命值",
+        "Crit Chance": "暴击几率",
+        " Crit Chance": " 暴击几率"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view rarity scaling!"
+      ],
+      "translation": "右键查看各稀有度的属性!",
+      "styleMappings": {
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Mining Skill {{N0}}."
+      ],
+      "translation": "❣ 需要采矿技能 {{N0}}.",
+      "styleMappings": {
+        "Mining Skill": "采矿技能",
+        "Requires": "需要",
+        "Mining": "采矿",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "RARE REFORGE STONE"
+      ],
+      "translation": "稀有 洗练石",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Blaze": "烈焰"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

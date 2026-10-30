@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "GIANT_TOOTH",
+  "_original_name": "Giant Tooth",
+  "_original_lore": [
+    "Reforge Stone",
+    "Combinable in Anvil",
+    "",
+    "Applies the Giant reforge when",
+    "combined with Armor.",
+    "",
+    "Super clean, great hygiene.",
+    "",
+    "Grants the following stats that scale",
+    "with the item's rarity:",
+    "  Health",
+    "",
+    "Right-click to view rarity scaling!",
+    "",
+    "❣ Requires Mining Skill 25.",
+    "",
+    "EPIC REFORGE STONE"
+  ],
+  "name": "巨型牙齿",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Reforge Stone",
+        "Combinable in Anvil"
+      ],
+      "translation": "洗练石 可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Reforge Stone": "洗练石",
+        "Anvil": "铁砧",
+        "Reforge": "洗练"
+      }
+    },
+    {
+      "source": [
+        "Applies the Giant reforge when",
+        "combined with Armor."
+      ],
+      "translation": "与盔甲结合时,应用巨型洗练.",
+      "styleMappings": {
+        "Giant": "巨型",
+        "Armor": "盔甲",
+        "reforge": "洗练",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Super clean, great hygiene."
+      ],
+      "translation": "超级干净,卫生极佳.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants the following stats that scale"
+      ],
+      "translation": "提供以下随物品稀有度提升的属性:",
+      "styleMappings": {
+        "Grants": "提供",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "with the item's rarity:"
+      ],
+      "translation": "物品稀有度提升的属性:",
+      "styleMappings": {
+        "item": "物品",
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "  Health"
+      ],
+      "translation": "   生命值",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to view rarity scaling!"
+      ],
+      "translation": "右键查看各稀有度的属性!",
+      "styleMappings": {
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Mining Skill {{N0}}."
+      ],
+      "translation": "❣ 需要采矿技能 {{N0}}.",
+      "styleMappings": {
+        "Mining Skill": "采矿技能",
+        "Requires": "需要",
+        "Mining": "采矿",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC REFORGE STONE"
+      ],
+      "translation": "史诗洗练石",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Giant": "巨型"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

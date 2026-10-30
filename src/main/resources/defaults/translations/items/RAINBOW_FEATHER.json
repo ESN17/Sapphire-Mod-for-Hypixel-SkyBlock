@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "RAINBOW_FEATHER",
+  "_original_name": "Rainbow Feather",
+  "_original_lore": [
+    "Consumed on use",
+    "",
+    "Use on a Pet to increase its current",
+    "level by 1.",
+    "",
+    "Right-click on your summoned pet to",
+    "use!",
+    "",
+    "EPIC"
+  ],
+  "name": "彩虹羽毛",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumed on use"
+      ],
+      "translation": "使用后消耗",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Use on a Pet to increase its current",
+        "level by {{N0}}."
+      ],
+      "translation": "对宠物使用, 使其当前等级提升 {{N0}}.",
+      "styleMappings": {
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Right-click on your summoned pet to"
+      ],
+      "translation": "右键点击你召唤的宠物以",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "use!"
+      ],
+      "translation": "使用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Rainbow Feather": "彩虹羽毛",
+    "Feather": "羽毛",
+    "Rainbow": "彩虹"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

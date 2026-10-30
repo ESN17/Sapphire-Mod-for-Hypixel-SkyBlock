@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "VOLCANIC_ROCK",
+  "_original_name": "Volcanic Rock",
+  "_original_lore": [
+    "Visit Einary's Shop to trade it for",
+    "useful items!",
+    "",
+    "Forged in the crucible of a volcanic",
+    "eruption, this rock embodies the",
+    "unyielding fury of the Earth.",
+    "",
+    "EPIC"
+  ],
+  "name": "火山岩",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Visit Einary's Shop to trade it for",
+        "useful items!"
+      ],
+      "translation": "前往 Einary 的商店,用它兑换有用的物品!",
+      "styleMappings": {
+        "Einary's Shop": "Einary 的商店",
+        "items": "物品",
+        "Einary": "Einary"
+      }
+    },
+    {
+      "source": [
+        "Forged in the crucible of a volcanic",
+        "eruption, this rock embodies the",
+        "unyielding fury of the Earth."
+      ],
+      "translation": "这块岩石在火山喷发的熔炉中锻造而成,凝聚着大地不屈的怒火.",
+      "styleMappings": {
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

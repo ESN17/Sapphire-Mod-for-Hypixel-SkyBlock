@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "GOLDEN_BALL",
+  "_original_name": "Golden Ball",
+  "_original_lore": [
+    "Reforge Stone",
+    "Combinable in Anvil",
+    "",
+    "Applies the Bountiful reforge when",
+    "combined with a Farming Tool.",
+    "",
+    "Grants the following stats that scale",
+    "with the item's rarity:",
+    "  Farming Fortune",
+    "  Speed",
+    "",
+    "Bountiful Bonus",
+    "Earn +0.2 Coins every time you",
+    "harvest a Crop.",
+    "",
+    "Right-click to view rarity scaling!",
+    "",
+    "❣ Requires Mining Skill 30.",
+    "",
+    "LEGENDARY REFORGE STONE"
+  ],
+  "name": "金球",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Reforge Stone",
+        "Combinable in Anvil"
+      ],
+      "translation": "洗练石 可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Reforge Stone": "洗练石",
+        "Anvil": "铁砧",
+        "Reforge": "洗练"
+      }
+    },
+    {
+      "source": [
+        "Applies the Bountiful reforge when",
+        "combined with a Farming Tool."
+      ],
+      "translation": "与农具结合时施加丰饶洗练.",
+      "styleMappings": {
+        "Bountiful": "丰饶",
+        "Farming Tool": "农具",
+        "reforge": "洗练",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Grants the following stats that scale"
+      ],
+      "translation": "提供以下随物品稀有度提升的属性:",
+      "styleMappings": {
+        "Grants": "提供",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "with the item's rarity:"
+      ],
+      "translation": "物品稀有度提升的属性:",
+      "styleMappings": {
+        "item": "物品",
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "  Farming Fortune",
+        "  Speed"
+      ],
+      "translation": "   农业幸运  速度",
+      "styleMappings": {
+        "Farming Fortune": "农业幸运",
+        " Speed": " 速度",
+        "Fortune": "幸运",
+        "Farming": "农业",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Bountiful Bonus",
+        "Earn {{N0}} Coins every time you",
+        "harvest a Crop."
+      ],
+      "translation": "丰饶加成 每次收获作物时获得 {{N0}} 硬币.",
+      "styleMappings": {
+        "Bountiful Bonus": "丰饶加成",
+        "Coins": "硬币",
+        "Crop": "作物",
+        "Bonus": "加成",
+        "Bountiful": "丰饶"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view rarity scaling!"
+      ],
+      "translation": "右键查看各稀有度的属性!",
+      "styleMappings": {
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Mining Skill {{N0}}."
+      ],
+      "translation": "❣ 需要采矿技能 {{N0}}.",
+      "styleMappings": {
+        "Mining Skill": "采矿技能",
+        "Requires": "需要",
+        "Mining": "采矿",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY REFORGE STONE"
+      ],
+      "translation": "传说洗练石",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

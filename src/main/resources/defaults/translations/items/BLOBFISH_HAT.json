@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "BLOBFISH_HAT",
+  "_original_name": "Blobfish Hat",
+  "_original_lore": [
+    "Strength: +25",
+    "Intelligence: -10",
+    "",
+    "This item can be reforged!",
+    "UNCOMMON HELMET"
+  ],
+  "name": "水滴鱼帽",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON HELMET"
+      ],
+      "translation": "罕见 头盔",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Blobfish Hat": "水滴鱼帽",
+    "Blobfish": "水滴鱼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

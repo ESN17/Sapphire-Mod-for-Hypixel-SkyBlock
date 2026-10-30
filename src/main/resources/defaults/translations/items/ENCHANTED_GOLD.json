@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "ENCHANTED_GOLD",
+  "_original_name": "Enchanted Gold Ingot",
+  "_original_lore": [
+    "Brewing Ingredient",
+    "Collection Item",
+    "",
+    "UNCOMMON ORE"
+  ],
+  "name": "附魔金锭",
+  "lore": {
+    "Brewing Ingredient": "酿造材料",
+    "UNCOMMON ORE": "罕见 矿物"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "Brewing Ingredient",
+        "Collection Item"
+      ],
+      "translation": "酿造材料收藏物品",
+      "styleMappings": {
+        "Brewing Ingredient": "酿造材料",
+        "Collection Item": "收藏物品",
+        "Collection": "收藏",
+        "Item": "物品"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON ORE"
+      ],
+      "translation": "罕见矿物",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Gold": "金"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

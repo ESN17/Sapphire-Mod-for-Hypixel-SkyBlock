@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": "AMBER_NECKLACE",
+  "_original_name": "Amber Necklace",
+  "_original_lore": [
+    "Mining Speed: +30",
+    "Mining Fortune: +10",
+    "",
+    "Grants +30 Mining Fortune while",
+    "mining Amber.",
+    "",
+    "Full Set Bonus: Gemstone Gatherer (0/4)",
+    "Grants +25 Mining Fortune while in",
+    "the Crystal Hollows.",
+    "",
+    "Right-click to equip!",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Heart of the Mountain Tier 5.",
+    "EPIC NECKLACE"
+  ],
+  "name": "琥珀项链",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mining Speed: {{N0}}"
+      ],
+      "translation": "采矿速度: {{N0}}",
+      "styleMappings": {
+        "Mining Speed": "采矿速度",
+        "Mining": "采矿",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Mining Fortune: {{N0}}"
+      ],
+      "translation": "采矿幸运: {{N0}}",
+      "styleMappings": {
+        "Mining Fortune": "采矿幸运",
+        "Mining": "采矿",
+        "Fortune": "幸运"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Mining Fortune while",
+        "mining Amber."
+      ],
+      "translation": "挖掘琥珀时提供 {{N0}} 采矿幸运.",
+      "styleMappings": {
+        "Mining Fortune": "采矿幸运",
+        "Grants": "提供",
+        "Amber": "琥珀",
+        "Mining": "采矿",
+        "Fortune": "幸运",
+        " Mining Fortune": " 采矿幸运"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Gemstone Gatherer ({{N0}}/{{N1}})"
+      ],
+      "translation": "全套加成:宝石收集者 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Gemstone Gatherer": "宝石收集者",
+        "Full Set Bonus": "全套加成",
+        "Bonus": "加成",
+        "Gemstone": "宝石"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Mining Fortune while in",
+        "the Crystal Hollows."
+      ],
+      "translation": "在水晶洞窟中提供 {{N0}} 采矿幸运.",
+      "styleMappings": {
+        "Crystal Hollows": "水晶洞窟",
+        "Mining Fortune": "采矿幸运",
+        "Grants": "提供",
+        "Crystal": "水晶",
+        "Mining": "采矿",
+        "Fortune": "幸运",
+        " Mining Fortune": " 采矿幸运"
+      }
+    },
+    {
+      "source": [
+        "Right-click to equip!"
+      ],
+      "translation": "右键点击装备!",
+      "styleMappings": {
+        "Right-click to equip!": "右键点击装备!",
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Heart of the Mountain Tier {{N0}}."
+      ],
+      "translation": "❣ 需要山峰之心等级 {{N0}}.",
+      "styleMappings": {
+        "Heart of the Mountain Tier": "山峰之心等级",
+        "Requires": "需要",
+        "Heart of the Mountain": "山峰之心"
+      }
+    },
+    {
+      "source": [
+        "EPIC NECKLACE"
+      ],
+      "translation": "史诗项链",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Amber": "琥珀",
+    "Necklace": "项链"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

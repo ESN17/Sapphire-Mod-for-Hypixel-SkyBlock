@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "ARCHITECT_FIRST_DRAFT",
+  "_original_name": "Architect's First Draft",
+  "_original_lore": [
+    "Can be used to reset a puzzle room",
+    "when in dungeons.",
+    "",
+    "A 'reset' button seems to have been",
+    "hidden somewhere in the floor, just",
+    "in case something goes wrong...",
+    "",
+    "Dungeons only!",
+    "",
+    "EPIC DUNGEON ITEM"
+  ],
+  "name": "建筑师初稿",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Can be used to reset a puzzle room",
+        "when in dungeons."
+      ],
+      "translation": "可在地牢中用于重置解谜房间.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "A 'reset' button seems to have been",
+        "hidden somewhere in the floor, just",
+        "in case something goes wrong..."
+      ],
+      "translation": "地板某处似乎藏着一个 '重置' 按钮, 以防万一出了什么差错...",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Dungeons only!"
+      ],
+      "translation": "仅限地牢使用!",
+      "styleMappings": {
+        "Dungeons": "地牢"
+      }
+    },
+    {
+      "source": [
+        "EPIC DUNGEON ITEM"
+      ],
+      "translation": "史诗 地牢物品",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

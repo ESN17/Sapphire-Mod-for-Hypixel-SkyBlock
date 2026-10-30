@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "id": "GRAND_GARDENING_RUNE;3",
+  "_original_name": "◆ Grand Gardening Rune III",
+  "_original_lore": [
+    "Requires level 0",
+    "Chestplates",
+    "",
+    "Special look on Farming Islands &",
+    "Garden! Obtained from the Taylor",
+    "Spring Bundle.",
+    "",
+    "Apply this rune to chestplates or",
+    "fuse two together at the Runic",
+    "Pedestal!",
+    "",
+    "LEGENDARY COSMETIC"
+  ],
+  "name": "◆ 高级园艺符文 III",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Requires level {{N0}}",
+        "Chestplates"
+      ],
+      "translation": "需要等级 {{N0}} 胸甲",
+      "styleMappings": {
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Special look on Farming Islands &",
+        "Garden! Obtained from the Taylor",
+        "Spring Bundle."
+      ],
+      "translation": "农业岛屿与花园专属外观!从 Taylor 春季礼包中获得.",
+      "styleMappings": {
+        "Garden": "花园",
+        "Spring": "春季",
+        "Farming": "农业",
+        "Taylor Spring Bundle": "Taylor 春季礼包"
+      }
+    },
+    {
+      "source": [
+        "Apply this rune to chestplates or",
+        "fuse two together at the Runic",
+        "Pedestal!"
+      ],
+      "translation": "将此符文应用于胸甲,或在符文基座上将两个符文融合!",
+      "styleMappings": {
+        "Runic Pedestal": "符文基座",
+        "Runic": "符文"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY COSMETIC"
+      ],
+      "translation": "传说外观",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Rune III": "符文 III",
+    "III": "III"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

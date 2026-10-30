@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "WIZARD_WAND",
+  "_original_name": "Wizard Wand",
+  "_original_lore": [
+    "A private joke amongst Wizards, but",
+    "you wouldn't understand.",
+    "",
+    "Ability: Time Warp!  RIGHT CLICK",
+    "Teleport through time (a work in progress).",
+    "",
+    "Purchased by: [MVP+] Eisengolem",
+    "Purchased for: 666,666,666  coins",
+    "",
+    "Auction #1",
+    "Bid #1",
+    "July 2022",
+    "",
+    "EPIC WAND"
+  ],
+  "name": "巫师魔杖",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A private joke amongst Wizards, but",
+        "you wouldn't understand."
+      ],
+      "translation": "巫师之间的一个私人笑话,但你是不会懂的.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Ability: Time Warp!  RIGHT CLICK"
+      ],
+      "translation": "技能: 时间扭曲! 右键点击",
+      "styleMappings": {
+        "Ability: Time Warp!": "技能: 时间扭曲!",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Teleport through time (a work in progress)."
+      ],
+      "translation": "穿越时间传送(仍在开发中).",
+      "styleMappings": {
+        "Teleport": "传送"
+      }
+    },
+    {
+      "source": [
+        "Purchased by: [MVP+] Eisengolem"
+      ],
+      "translation": "购买者: [尊贵会员+] 艾森戈勒姆",
+      "styleMappings": {
+        "Purchased by:": "购买者:",
+        "Eisengolem": "艾森戈勒姆",
+        "MVP": "尊贵会员"
+      }
+    },
+    {
+      "source": [
+        "Purchased for: {{N0}}  coins"
+      ],
+      "translation": "购买价格: {{N0}} 硬币",
+      "styleMappings": {
+        "Purchased for": "购买价格",
+        "coins": "硬币"
+      }
+    },
+    {
+      "source": [
+        "Auction #{{N0}}",
+        "Bid #{{N1}}",
+        "July {{N2}}"
+      ],
+      "translation": "拍卖 #{{N0}} 出价 #{{N1}} 七月 {{N2}}",
+      "styleMappings": {
+        "Auction": "拍卖",
+        "July": "七月",
+        "Bid": "出价"
+      }
+    },
+    {
+      "source": [
+        "EPIC WAND"
+      ],
+      "translation": "史诗魔杖",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

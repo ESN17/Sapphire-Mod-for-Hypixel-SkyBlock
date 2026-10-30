@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "CARPENTRY_BENCH",
+  "_original_name": "Carpentry Table",
+  "_original_lore": [
+    "Furniture",
+    "",
+    "Used for crafting furniture for",
+    "your world. View and craft all of",
+    "your unlocked furniture through the",
+    "Carpentry Table.",
+    "",
+    "COMMON"
+  ],
+  "name": "木工台",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Furniture"
+      ],
+      "translation": "家具",
+      "styleMappings": {
+        "Furniture": "家具"
+      }
+    },
+    {
+      "source": [
+        "Used for crafting furniture for",
+        "your world. View and craft all of",
+        "your unlocked furniture through the",
+        "Carpentry Table."
+      ],
+      "translation": "用于为你的世界制作家具.通过木工台查看并制作所有已解锁的家具.",
+      "styleMappings": {
+        "Carpentry Table": "木工台"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Carpentry Table": "木工台"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

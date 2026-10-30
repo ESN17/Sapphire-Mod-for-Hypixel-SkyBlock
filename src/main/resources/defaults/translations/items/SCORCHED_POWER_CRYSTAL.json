@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "id": "SCORCHED_POWER_CRYSTAL",
+  "_original_name": "Scorched Power Crystal",
+  "_original_lore": [
+    "Powers Beacons for up to 48 hours",
+    "at a time!",
+    "",
+    "Adds +1% minion speed buff and +20%",
+    "profile stats to beacons fueled by this",
+    "power crystal!",
+    "",
+    "Has a single use and can be stacked.",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "焦灼能量水晶",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Powers Beacons for up to",
+        "{{N0}} hours at a time!"
+      ],
+      "translation": "每次可为信标提供最多 {{N0}} 小时的增益!",
+      "styleMappings": {
+        "Beacons": "信标",
+        "hours": "小时"
+      }
+    },
+    {
+      "source": [
+        "Adds {{N0}} minion speed buff and",
+        "{{N1}} profile stats to beacons",
+        "fueled by this power crystal!"
+      ],
+      "translation": "为以该能量水晶为燃料的信标增加 {{N0}} 仆从速度加成和 {{N1}} 档案属性!",
+      "styleMappings": {
+        "minion speed buff": "仆从速度加成",
+        "profile stats": "档案属性",
+        "speed": "速度",
+        "minion": "仆从",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "Has a single use and can be stacked."
+      ],
+      "translation": "仅可使用一次,可堆叠.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    },
+    {
+      "source": [
+        "Adds {{N0}} minion speed buff and +{{N1}} profile stats to beacons fueled by this power crystal!"
+      ],
+      "translation": "为此能量水晶供能的信标增加 {{N0}} 仆从速度加成和 +{{N1}} 档案属性!",
+      "styleMappings": {
+        "speed": "速度",
+        "minion": "仆从",
+        "stats": "属性",
+        "minion speed buff": "仆从速度加成",
+        "profile stats": "档案属性"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Scorched Power Crystal": "焦灼能量水晶",
+    "Crystal": "水晶"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

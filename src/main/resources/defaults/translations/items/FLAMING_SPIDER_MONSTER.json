@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "FLAMING_SPIDER_MONSTER",
+  "_original_name": "Flaming Spider (Monster)",
+  "_original_lore": [
+    "Can't stop burning.",
+    "",
+    "❤ Health: 1,200,000"
+  ],
+  "name": "烈焰蜘蛛 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Can't stop burning."
+      ],
+      "translation": "无法停止燃烧.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Spider": "蜘蛛",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

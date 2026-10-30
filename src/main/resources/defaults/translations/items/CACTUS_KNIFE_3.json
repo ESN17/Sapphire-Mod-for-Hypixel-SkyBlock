@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "id": "CACTUS_KNIFE_3",
+  "_original_name": "Cactus Knife Mk. III",
+  "_original_lore": [
+    "Farming Tool",
+    "",
+    "Slices through cactus instantly!",
+    "",
+    "Ability: Swift Slicer ",
+    "Increases your speed cap by 100",
+    "while in The Garden.",
+    "",
+    "Level 1 -> 2   (0/1k)",
+    "                          0%",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Farming Skill 20.",
+    "❣ Requires Garden Level 7.",
+    "EPIC FARMING TOOL"
+  ],
+  "name": "仙人掌刀 III 型",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Farming Tool"
+      ],
+      "translation": "农具",
+      "styleMappings": {
+        "Farming Tool": "农具"
+      }
+    },
+    {
+      "source": [
+        "Slices through cactus instantly!"
+      ],
+      "translation": "瞬间切开仙人掌!",
+      "styleMappings": {
+        "cactus": "仙人掌"
+      }
+    },
+    {
+      "source": [
+        "Ability: Swift Slicer "
+      ],
+      "translation": "技能:迅捷切割 ",
+      "styleMappings": {
+        "Ability": "技能"
+      }
+    },
+    {
+      "source": [
+        "Increases your speed cap by {{N0}}",
+        "while in The Garden."
+      ],
+      "translation": "在花园中时,你的速度上限提高 {{N0}}.",
+      "styleMappings": {
+        "The Garden": "花园",
+        "speed cap": "速度上限",
+        "speed": "速度",
+        "Garden": "花园"
+      }
+    },
+    {
+      "source": [
+        "Level {{N0}} -> {{N1}}   ({{N2}}/{{N3}}k)",
+        "                          {{N4}}"
+      ],
+      "translation": "等级 {{N0}} -> {{N1}}   ({{N2}}/{{N3}}千)                           {{N4}}",
+      "styleMappings": {
+        "Level": "等级",
+        "{{N3}}k": "{{N3}}千"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Farming Skill {{N0}}."
+      ],
+      "translation": "❣ 需要农业技能 {{N0}}.",
+      "styleMappings": {
+        "Farming Skill": "农业技能",
+        "Requires": "需要",
+        "Farming": "农业",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Garden Level {{N0}}."
+      ],
+      "translation": "❣ 需要花园等级 {{N0}}.",
+      "styleMappings": {
+        "Garden Level": "花园等级",
+        "Requires": "需要",
+        "Garden": "花园"
+      }
+    },
+    {
+      "source": [
+        "EPIC FARMING TOOL"
+      ],
+      "translation": "史诗农业工具",
+      "styleMappings": {
+        "EPIC FARMING TOOL": "史诗农业工具",
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Cactus": "仙人掌",
+    "III": "III"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

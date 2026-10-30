@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "id": "MINOS_INQUISITOR_MONSTER",
+  "_original_name": "Minos Inquisitor (Mythological Creature)",
+  "_original_lore": [
+    "The Minos Inquisitor is the rarest mob in the",
+    "Mythological Ritual, and can only be found",
+    "using a legendary Griffin Pet. It reduces",
+    "your stats by 10% every time you hit it,",
+    "maxing out at a 40% reduction. Similar to the",
+    "Minos Champion, its stats increase by 6% for every",
+    "second it is alive, capping at 600%, which is",
+    "when it despawns. While alive, it summons",
+    "lightning on the block you are standing on.",
+    "",
+    "Mob Types: ✿ Mythological, ✰ Humanoid, ♣ Elusive",
+    "❤ Health:",
+    "[Griffin] 40,000,000 ❤",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "弥诺斯审判官 (神话生物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Minos Inquisitor is the rarest mob in the",
+        "Mythological Ritual, and can only be found",
+        "using a legendary Griffin Pet. It reduces",
+        "your stats by {{N0}} every time you hit it,",
+        "maxing out at a {{N1}} reduction. Similar to the",
+        "Minos Champion, its stats increase by {{N2}} for every",
+        "second it is alive, capping at {{N3}}, which is",
+        "when it despawns. While alive, it summons",
+        "lightning on the block you are standing on."
+      ],
+      "translation": "弥诺斯审判官是神话仪式中最稀有的怪物,只能使用传说狮鹫宠物找到.你每次击中它,它都会降低你的属性 {{N0}},最多降低 {{N1}}.与弥诺斯勇士类似,它的属性每存活一秒就增加 {{N2}},上限为 {{N3}},达到上限时它就会消失.存活期间,它会在你站立的方块上召唤闪电.",
+      "styleMappings": {
+        "Mythological Ritual": "神话仪式",
+        "Minos Champion": "弥诺斯勇士",
+        "Griffin Pet": "狮鹫宠物",
+        "rarest mob": "最稀有的怪物",
+        "lightning": "闪电",
+        "second": "秒",
+        "stats": "属性",
+        "Minos Inquisitor": "弥诺斯审判官",
+        "hit": "击中",
+        "Pet": "宠物",
+        "Griffin": "狮鹫",
+        "Champion": "勇士",
+        "Mythological": "神话",
+        "when": "时",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Mob Types: ✿ Mythological, ✰ Humanoid, ♣ Elusive"
+      ],
+      "translation": "怪物类型: ✿ 神话, ✰ 人形, ♣ 难以捉摸",
+      "styleMappings": {
+        "Mythological": "神话",
+        "Humanoid": "人形",
+        "Elusive": "难以捉摸",
+        "Mob Types": "怪物类型",
+        "Mob Types:": "怪物类型:"
+      }
+    },
+    {
+      "source": [
+        "❤ Health:"
+      ],
+      "translation": "❤ 生命值:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "[Griffin] {{N0}} ❤"
+      ],
+      "translation": "[狮鹫] {{N0}} ❤",
+      "styleMappings": {
+        "Griffin": "狮鹫"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mythological Creature": "神话生物",
+    "Minos Inquisitor": "弥诺斯审判官"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

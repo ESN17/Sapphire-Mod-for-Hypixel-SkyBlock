@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "ARCHAEOLOGIST_COMPASS",
+  "_original_name": "Archaeologist's Compass",
+  "_original_lore": [
+    "Accessory Power: +3",
+    "",
+    "Right-click to point towards the",
+    "nearest Relic!",
+    "",
+    "Relics Found: 28/28",
+    "",
+    "* Soulbound *",
+    "Works while in Accessory Bag!",
+    "COMMON ACCESSORY"
+  ],
+  "name": "考古学家的指南针",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Accessory Power: {{N0}}"
+      ],
+      "translation": "饰品能量: {{N0}}",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "Right-click to point towards the"
+      ],
+      "translation": "右键点击以指向",
+      "styleMappings": {
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "nearest Relic!"
+      ],
+      "translation": "最近的圣物!",
+      "styleMappings": {
+        "Relic": "圣物"
+      }
+    },
+    {
+      "source": [
+        "Relics Found: {{N0}}/{{N1}}"
+      ],
+      "translation": "已找到圣物: {{N0}}/{{N1}}",
+      "styleMappings": {
+        "Relics Found": "已找到圣物"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "放在饰品袋中即可生效!",
+      "styleMappings": {
+        "Accessory Bag": "饰品袋",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "COMMON ACCESSORY"
+      ],
+      "translation": "普通饰品",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Compass": "指南针",
+    "Archaeologist": "考古学家"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

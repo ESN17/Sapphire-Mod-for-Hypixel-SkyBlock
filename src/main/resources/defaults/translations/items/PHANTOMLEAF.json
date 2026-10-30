@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "PHANTOMLEAF",
+  "_original_name": "Phantomleaf",
+  "_original_lore": [
+    "It hides in plain sight, blending in with",
+    "its surroundings until it's ready to",
+    "reveal itself. If you listen closely,",
+    "you can hear its pulse guiding you",
+    "to the right spot.",
+    "",
+    "Complete Visitor Beth's quest to",
+    "Analyze this crop!",
+    "",
+    "LEGENDARY MUTATION"
+  ],
+  "name": "幻影叶",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "It hides in plain sight, blending in with",
+        "its surroundings until it's ready to",
+        "reveal itself. If you listen closely,",
+        "you can hear its pulse guiding you",
+        "to the right spot."
+      ],
+      "translation": "它隐藏在明处,与周围环境融为一体,直到准备好现身.仔细倾听,你能听到它的脉动指引你前往正确的位置.",
+      "styleMappings": {
+        "s": "现"
+      }
+    },
+    {
+      "source": [
+        "Complete Visitor Beth's quest to",
+        "Analyze this crop!"
+      ],
+      "translation": "完成访客 Beth 的任务来分析这种作物!",
+      "styleMappings": {
+        "Visitor": "访客",
+        "Beth's": "Beth 的",
+        "Analyze": "分析"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY MUTATION"
+      ],
+      "translation": "传说突变",
+      "styleMappings": {
+        "LEGENDARY MUTATION": "传说突变",
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

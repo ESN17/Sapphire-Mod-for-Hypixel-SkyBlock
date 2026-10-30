@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "MINING_PUMPKIN",
+  "_original_name": "Powder Pie",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Grants +15% Mithril Powder",
+    "Duration: 60m",
+    "",
+    "Right-click to consume!",
+    "",
+    "What happened to Malmar?",
+    "",
+    "❣ Requires Heart of the Mountain Tier 1.",
+    "UNCOMMON"
+  ],
+  "name": "粉末派",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants {{N0}} Mithril Powder"
+      ],
+      "translation": "给予 {{N0}} 秘银粉末",
+      "styleMappings": {
+        "Mithril Powder": "秘银粉末",
+        "Grants": "给予",
+        "Mithril": "秘银",
+        "Powder": "粉末"
+      }
+    },
+    {
+      "source": [
+        "Duration: {{N0}}m"
+      ],
+      "translation": "持续时间: {{N0}}分钟",
+      "styleMappings": {
+        "Duration": "持续时间",
+        "{{N0}}m": "{{N0}}分钟"
+      }
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "What happened to Malmar?"
+      ],
+      "translation": "马尔玛发生了什么?",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "❣ Requires Heart of the Mountain Tier {{N0}}."
+      ],
+      "translation": "❣ 需要山峰之心等级 {{N0}}.",
+      "styleMappings": {
+        "Heart of the Mountain Tier": "山峰之心等级",
+        "Requires": "需要",
+        "Heart of the Mountain": "山峰之心"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Powder": "粉末"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

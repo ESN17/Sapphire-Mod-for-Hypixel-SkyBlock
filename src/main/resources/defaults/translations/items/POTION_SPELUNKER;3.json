@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_SPELUNKER;3",
+  "_original_name": "Spelunker III Potion",
+  "_original_lore": [
+    "",
+    "Spelunker III (3:00)",
+    "Grants 15  Mining Fortune.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "洞穴探险 III 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Spelunker III ({{N0}}:{{N1}})"
+      ],
+      "translation": "洞穴探险 III ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Spelunker III": "洞穴探险 III",
+        "III": "III"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}  Mining Fortune."
+      ],
+      "translation": "获得 {{N0}}   采矿幸运.",
+      "styleMappings": {
+        "Mining Fortune": "采矿幸运",
+        "Grants": "获得",
+        "Mining": "采矿",
+        "Fortune": "幸运",
+        " Mining Fortune": " 采矿幸运"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Spelunker III": "洞穴探险 III",
+    "III": "III"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

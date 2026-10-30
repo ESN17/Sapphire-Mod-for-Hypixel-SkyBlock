@@ -1,0 +1,181 @@
+{
+  "schemaVersion": 1,
+  "id": "SPRAYONATOR",
+  "_original_name": "Sprayonator",
+  "_original_lore": [
+    "Ability: Configure  LEFT CLICK",
+    "Select a nozzle and material for",
+    "spraying. Certain materials attract",
+    "certain types of  Pests.",
+    "",
+    "Selected Nozzle: Basic",
+    "Selected Material: Compost",
+    "Attracts: Earthworm, Mosquito",
+    "",
+    "Ability: Spray  RIGHT CLICK",
+    "Sprays your selected material onto",
+    "the Garden plot you are on. Lasts",
+    "for 30m.",
+    "",
+    "Basic Nozzle Bonus:",
+    "➜ +25 Bonus Pest Chance while",
+    "   in a sprayed plot.",
+    "➜  Pests are 1.5x more likely to",
+    "   spawn in sprayed plots.",
+    "Cooldown: 3s",
+    "",
+    "❣ Requires Garden Level 5.",
+    "UNCOMMON"
+  ],
+  "name": "喷雾器",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Configure  LEFT CLICK"
+      ],
+      "translation": "技能: 配置  左键点击",
+      "styleMappings": {
+        "Ability: Configure": "技能: 配置",
+        "LEFT CLICK": "左键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Select a nozzle and material for",
+        "spraying. Certain materials attract",
+        "certain types of  Pests."
+      ],
+      "translation": "选择要喷洒的喷嘴和材料.某些材料会吸引特定类型的 害虫.",
+      "styleMappings": {
+        " Pests": " 害虫",
+        "Pests": "害虫"
+      }
+    },
+    {
+      "source": [
+        "Selected Nozzle: Basic"
+      ],
+      "translation": "已选喷嘴: 基础",
+      "styleMappings": {
+        "Basic": "基础"
+      }
+    },
+    {
+      "source": [
+        "Selected Material: Compost"
+      ],
+      "translation": "已选材料: 堆肥",
+      "styleMappings": {
+        "Compost": "堆肥"
+      }
+    },
+    {
+      "source": [
+        "Attracts: Earthworm, Mosquito"
+      ],
+      "translation": "吸引:蚯蚓、蚊子",
+      "styleMappings": {
+        "Earthworm": "蚯蚓",
+        "Mosquito": "蚊子",
+        "Attracts": "吸引"
+      }
+    },
+    {
+      "source": [
+        "Ability: Spray  RIGHT CLICK"
+      ],
+      "translation": "技能: 喷洒  右键点击",
+      "styleMappings": {
+        "Ability: Spray": "技能: 喷洒",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Sprays your selected material onto",
+        "the Garden plot you are on. Lasts",
+        "for {{N0}}m."
+      ],
+      "translation": "将你选择的材料喷洒到你所在的花园地块上.持续 {{N0}} 分钟.",
+      "styleMappings": {
+        "Garden": "花园",
+        "for": "持续",
+        "{{N0}}m": "{{N0}} 分钟",
+        "Lasts": "持续"
+      }
+    },
+    {
+      "source": [
+        "Basic Nozzle Bonus:"
+      ],
+      "translation": "基础喷嘴加成:",
+      "styleMappings": {
+        "Basic Nozzle Bonus": "基础喷嘴加成",
+        "Basic": "基础",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "➜ {{N0}} Bonus Pest Chance while",
+        "   in a sprayed plot."
+      ],
+      "translation": "➜ {{N0}} 在喷洒过的地块中时额外害虫概率.",
+      "styleMappings": {
+        "Bonus Pest Chance": "额外害虫概率",
+        "Pest": "害虫"
+      }
+    },
+    {
+      "source": [
+        "➜  Pests are {{N0}}x more likely to",
+        "   spawn in sprayed plots."
+      ],
+      "translation": "➜  害虫在喷洒过的地块中生成概率提高 {{N0}}x.",
+      "styleMappings": {
+        " Pests": " 害虫",
+        "Pests": "害虫"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Garden Level {{N0}}."
+      ],
+      "translation": "❣ 需要花园等级 {{N0}}.",
+      "styleMappings": {
+        "Garden Level": "花园等级",
+        "Requires": "需要",
+        "Garden": "花园"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sprayonator": "喷雾器"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

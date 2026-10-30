@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "BEADY_EYES",
+  "_original_name": "Beady Eyes",
+  "_original_lore": [
+    "Reforge Stone",
+    "Combinable in Anvil",
+    "",
+    "Applies the Beady reforge when",
+    "combined with a Vacuum.",
+    "",
+    "Grants the following stats that scale",
+    "with the item's rarity:",
+    "  Damage",
+    "  Intelligence",
+    "",
+    "Beady Bonus",
+    "Grants +100 Farming Fortune",
+    "towards  Pests.",
+    "",
+    "Right-click to view rarity scaling!",
+    "",
+    "❣ Requires Mining Skill 15.",
+    "",
+    "RARE REFORGE STONE"
+  ],
+  "name": "珠眼",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Reforge Stone",
+        "Combinable in Anvil"
+      ],
+      "translation": "洗练石 可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Reforge Stone": "洗练石",
+        "Anvil": "铁砧",
+        "Reforge": "洗练"
+      }
+    },
+    {
+      "source": [
+        "Applies the Beady reforge when",
+        "combined with a Vacuum."
+      ],
+      "translation": "与真空吸尘器结合时应用珠眼洗练.",
+      "styleMappings": {
+        "Beady": "珠眼",
+        "Vacuum": "真空吸尘器",
+        "reforge": "洗练",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Grants the following stats that scale"
+      ],
+      "translation": "提供以下随物品稀有度提升的属性:",
+      "styleMappings": {
+        "Grants": "提供",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "with the item's rarity:"
+      ],
+      "translation": "物品稀有度提升的属性:",
+      "styleMappings": {
+        "item": "物品",
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "  Damage",
+        "  Intelligence"
+      ],
+      "translation": "   伤害   智力",
+      "styleMappings": {
+        "Intelligence": "智力",
+        "": "",
+        "Damage": "伤害",
+        " Intelligence": " 智力"
+      }
+    },
+    {
+      "source": [
+        "Beady Bonus",
+        "Grants {{N0}} Farming Fortune",
+        "towards  Pests."
+      ],
+      "translation": "珠眼加成 对 害虫提供 {{N0}} 农业幸运.",
+      "styleMappings": {
+        "Farming Fortune": "农业幸运",
+        "Beady Bonus": "珠眼加成",
+        " Pests": " 害虫",
+        "Grants": "提供",
+        "Pests": "害虫",
+        "Bonus": "加成",
+        "Fortune": "幸运",
+        "Farming": "农业",
+        "Beady": "珠眼"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view rarity scaling!"
+      ],
+      "translation": "右键查看各稀有度的属性!",
+      "styleMappings": {
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Mining Skill {{N0}}."
+      ],
+      "translation": "❣ 需要采矿技能 {{N0}}.",
+      "styleMappings": {
+        "Mining Skill": "采矿技能",
+        "Requires": "需要",
+        "Mining": "采矿",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "RARE REFORGE STONE"
+      ],
+      "translation": "稀有 洗练石",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Beady": "珠眼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

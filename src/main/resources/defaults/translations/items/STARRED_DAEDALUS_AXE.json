@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "STARRED_DAEDALUS_AXE",
+  "_original_name": " Daedalus Blade",
+  "_original_lore": [
+    "Gemstones: [⚔] [⚔]",
+    "",
+    "Gains +5 Damage per Taming level",
+    "and copies the base Combat stats of",
+    "your active pet.",
+    "",
+    "Grants +1.5%  Damage and +0.3",
+    "Magic Find on  Mythological mobs",
+    "per Bestiary tier you have across",
+    "all of them.",
+    "",
+    " Mythological Bestiary Tiers: 0",
+    "  +0%  Damage",
+    "  +0 Magic Find",
+    "",
+    "This item can be reforged!",
+    "LEGENDARY SWORD"
+  ],
+  "name": " 代达罗斯之刃",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gemstones: [⚔] [⚔]"
+      ],
+      "translation": "宝石: [⚔] [⚔]",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石",
+        "] [": "] ["
+      }
+    },
+    {
+      "source": [
+        "Gains {{N0}} Damage per Taming level",
+        "and copies the base Combat stats of",
+        "your active pet."
+      ],
+      "translation": "每级驯养获得 {{N0}} 伤害,并复制你当前宠物的基础战斗属性.",
+      "styleMappings": {
+        " Damage": " 伤害",
+        "Combat": "战斗",
+        "Gains": "获得",
+        "stats": "属性",
+        "pet": "宠物",
+        "Damage": "伤害",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}  Damage and {{N1}}",
+        "Magic Find on  Mythological mobs",
+        "per Bestiary tier you have across",
+        "all of them."
+      ],
+      "translation": "根据你在所有神话生物图鉴中拥有的等级,对 神话生物提供 {{N0}}  伤害和 {{N1}} 稀有物品概率加成.",
+      "styleMappings": {
+        " Mythological": " 神话生物",
+        " Magic Find": " 稀有物品概率加成",
+        "Bestiary": "图鉴",
+        " Damage": " 伤害",
+        "mobs": "生物",
+        "Mythological": "神话生物",
+        "Grants": "提供",
+        "Damage": "伤害",
+        "Magic Find": "稀有物品概率加成"
+      }
+    },
+    {
+      "source": [
+        " Mythological Bestiary Tiers: {{N0}}"
+      ],
+      "translation": " 神话图鉴等级: {{N0}}",
+      "styleMappings": {
+        "Bestiary Tiers": "图鉴等级",
+        "Mythological": "神话",
+        "Bestiary": "图鉴"
+      }
+    },
+    {
+      "source": [
+        "  {{N0}}  Damage",
+        "  {{N1}} Magic Find"
+      ],
+      "translation": "  {{N0}}  伤害   {{N1}} 稀有物品概率加成",
+      "styleMappings": {
+        " Magic Find": " 稀有物品概率加成",
+        " Damage": " 伤害",
+        "Damage": "伤害",
+        "Magic Find": "稀有物品概率加成"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY SWORD"
+      ],
+      "translation": "传说剑",
+      "styleMappings": {
+        "LEGENDARY": "传说",
+        "LEGENDARY SWORD": "传说剑"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

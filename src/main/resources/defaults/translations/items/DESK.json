@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "DESK",
+  "_original_name": "Desk",
+  "_original_lore": [
+    "Furniture",
+    "",
+    "Furniture can be placed on your",
+    "world. Some furniture is interactable",
+    "while some are purely cosmetic.",
+    "",
+    "COMMON"
+  ],
+  "name": "书桌",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Furniture"
+      ],
+      "translation": "家具",
+      "styleMappings": {
+        "Furniture": "家具"
+      }
+    },
+    {
+      "source": [
+        "Furniture can be placed on your",
+        "world. Some furniture is interactable",
+        "while some are purely cosmetic."
+      ],
+      "translation": "家具可以放置在你的世界中.部分家具可以互动,部分则纯粹是装饰.",
+      "styleMappings": {
+        "Furniture": "家具"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

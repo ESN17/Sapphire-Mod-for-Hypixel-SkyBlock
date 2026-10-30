@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "WEATHER_STICK",
+  "_original_name": "Weather Wand",
+  "_original_lore": [
+    "Ability: Weather  RIGHT CLICK",
+    "Allows you to change the weather on your",
+    "island.",
+    "Cooldown: 5s",
+    "",
+    "UNCOMMON WAND"
+  ],
+  "name": "天气法杖",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Weather  RIGHT CLICK"
+      ],
+      "translation": "能力: 天气  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "能力",
+        "Weather": "天气",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Allows you to change the weather on your",
+        "island."
+      ],
+      "translation": "允许你改变岛上的天气.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON WAND"
+      ],
+      "translation": "罕见魔杖",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Weather": "天气",
+    "Wand": "法杖"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

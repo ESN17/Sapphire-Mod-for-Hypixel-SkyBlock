@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "ATTRIBUTE_SHARD_GHASTLY_DISTRACTION;1",
+  "_original_name": "Dive Ghast Shard",
+  "_original_lore": [
+    "Ghastly Distraction I",
+    "Pacifies enemies for +1s after mining",
+    "Opal Gemstones in the Smoldering",
+    "Tomb.",
+    "Does not work on Slayer Bosses,",
+    "Slayer Minibosses. Attacking an",
+    "enemy ends effect early.",
+    "",
+    "You can Syphon this shard from",
+    "your Hunting Box.",
+    "",
+    "Right-click to send to Hunting Box!",
+    "Shift Right-click to move all!",
+    "",
+    "❣ Requires Hunting Skill 15.",
+    "EPIC FOREST SHARD (ID E43)"
+  ],
+  "name": "深潜恶魂碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ghastly Distraction I"
+      ],
+      "translation": "恶魂干扰 I",
+      "styleMappings": {
+        "I": "I"
+      }
+    },
+    {
+      "source": [
+        "Pacifies enemies for {{N0}}s after mining",
+        "Opal Gemstones in the Smoldering",
+        "Tomb."
+      ],
+      "translation": "在闷燃墓穴中开采蛋白石宝石后,安抚敌人{{N0}}秒。",
+      "styleMappings": {
+        "Smoldering Tomb": "闷燃墓穴",
+        "Opal Gemstones": "蛋白石宝石",
+        "{{N0}}s": "{{N0}}秒",
+        "Gemstones": "宝石",
+        "enemies": "敌人",
+        "Opal": "蛋白石",
+        "Smoldering": "闷燃"
+      }
+    },
+    {
+      "source": [
+        "Does not work on Slayer Bosses,",
+        "Slayer Minibosses. Attacking an",
+        "enemy ends effect early."
+      ],
+      "translation": "对杀手首领、杀手小首领无效.攻击敌人会提前结束效果.",
+      "styleMappings": {
+        "Slayer Bosses": "杀手首领",
+        "Slayer Minibosses": "杀手小首领",
+        "Slayer": "杀手"
+      }
+    },
+    {
+      "source": [
+        "You can Syphon this shard from",
+        "your Hunting Box."
+      ],
+      "translation": "你可以从狩猎箱中吸取此碎片.",
+      "styleMappings": {
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to send to Hunting Box!"
+      ],
+      "translation": "右键点击发送至狩猎箱!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Shift Right-click to move all!"
+      ],
+      "translation": "潜行键 右键点击全部移动!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "all": "全部"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Hunting Skill {{N0}}."
+      ],
+      "translation": "❣ 需要狩猎技能 {{N0}}.",
+      "styleMappings": {
+        "Hunting Skill": "狩猎技能",
+        "Requires": "需要",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC FOREST SHARD (ID E{{N0}})"
+      ],
+      "translation": "史诗森林碎片 (ID 伊{{N0}})",
+      "styleMappings": {
+        "EPIC FOREST SHARD": "史诗森林碎片",
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shard": "碎片"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

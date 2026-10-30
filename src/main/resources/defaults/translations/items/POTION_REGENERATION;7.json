@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_REGENERATION;7",
+  "_original_name": "Regeneration VII Potion",
+  "_original_lore": [
+    "",
+    "Regeneration VII (0:45)",
+    "Grants +20 Health Regen.",
+    "",
+    "EPIC"
+  ],
+  "name": "再生 VII 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Regeneration VII ({{N0}}:{{N1}})"
+      ],
+      "translation": "再生 VII ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Regeneration VII": "再生 VII"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Health Regen."
+      ],
+      "translation": "提供 {{N0}} 生命恢复.",
+      "styleMappings": {
+        "Health Regen": "生命恢复",
+        "Grants": "提供",
+        "Health": "生命",
+        "Regen": "恢复"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Regeneration VII": "再生 VII"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

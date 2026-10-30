@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "id": "SPEEDSTER_BOOTS",
+  "_original_name": "Speedster Boots",
+  "_original_lore": [
+    "Defense: +35",
+    "Speed: +15",
+    "",
+    "Full Set Bonus: Bonus Speed (0/4)",
+    "Increases  Speed by +20.",
+    "",
+    "This item can be reforged!",
+    "UNCOMMON BOOTS"
+  ],
+  "name": "极速靴子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Bonus Speed ({{N0}}/{{N1}})"
+      ],
+      "translation": "全套加成:额外速度 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Full Set Bonus: Bonus Speed": "全套加成:额外速度",
+        "Full Set Bonus": "全套加成",
+        "Bonus": "加成",
+        "Speed": "速度",
+        "Bonus Speed": "额外速度"
+      }
+    },
+    {
+      "source": [
+        "Increases  Speed by {{N0}}."
+      ],
+      "translation": "增加 速度 {{N0}}.",
+      "styleMappings": {
+        "Increases": "增加",
+        " Speed": " 速度",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON BOOTS"
+      ],
+      "translation": "罕见 靴子",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Boots": "靴子"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

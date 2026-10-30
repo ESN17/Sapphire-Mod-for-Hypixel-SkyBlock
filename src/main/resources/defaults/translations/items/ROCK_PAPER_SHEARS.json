@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "ROCK_PAPER_SHEARS",
+  "_original_name": "Rock Paper Shears",
+  "_original_lore": [
+    "Click this item to initiate a tournament",
+    "of Rock Paper Shears with all of the",
+    "players on your island!",
+    "",
+    "Outsmart your opponents by",
+    "choosing the least picked option to",
+    "win the round! Final round uses",
+    "classic rules.",
+    "",
+    "❣ Requires Social Skill 8.",
+    "UNCOMMON"
+  ],
+  "name": "石头剪刀剪",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Click this item to initiate a tournament",
+        "of Rock Paper Shears with all of the",
+        "players on your island!"
+      ],
+      "translation": "点击此物品,与你岛上的所有玩家发起一场石头剪刀剪锦标赛!",
+      "styleMappings": {
+        "Shears": "剪刀",
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Outsmart your opponents by",
+        "choosing the least picked option to",
+        "win the round! Final round uses",
+        "classic rules."
+      ],
+      "translation": "选择最少人选的选项来智胜对手,赢得本轮!最后一轮使用经典规则.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "❣ Requires Social Skill {{N0}}."
+      ],
+      "translation": "❣ 需要社交技能 {{N0}}.",
+      "styleMappings": {
+        "Requires": "需要",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shears": "剪刀"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

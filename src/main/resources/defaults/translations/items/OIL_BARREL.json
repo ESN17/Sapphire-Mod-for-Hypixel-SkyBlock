@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "OIL_BARREL",
+  "_original_name": "Oil Barrel",
+  "_original_lore": [
+    "Machine Fuel",
+    "",
+    "Adds +10,000 Fuel to a refuelable",
+    "machine.",
+    "",
+    "100% unrenewable energy!",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "油桶",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Machine Fuel"
+      ],
+      "translation": "机器燃料",
+      "styleMappings": {
+        "Machine Fuel": "机器燃料",
+        "Fuel": "燃料"
+      }
+    },
+    {
+      "source": [
+        "Adds {{N0}} Fuel to a refuelable",
+        "machine."
+      ],
+      "translation": "为可补充燃料的机器添加 {{N0}} 燃料.",
+      "styleMappings": {
+        "Adds": "添加",
+        "Fuel": "燃料",
+        "to a refuelable machine": "为可补充燃料的机器"
+      }
+    },
+    {
+      "source": [
+        "{{N0}} unrenewable energy!"
+      ],
+      "translation": "{{N0}} 不可再生能源!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

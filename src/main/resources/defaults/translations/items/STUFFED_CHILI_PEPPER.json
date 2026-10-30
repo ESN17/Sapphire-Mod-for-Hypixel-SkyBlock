@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "STUFFED_CHILI_PEPPER",
+  "_original_name": "Stuffed Chili Pepper",
+  "_original_lore": [
+    "Collection Item",
+    "",
+    "It's red hot, but green and stuffed!",
+    "",
+    "RARE"
+  ],
+  "name": "酿辣椒",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Collection Item"
+      ],
+      "translation": "收藏品",
+      "styleMappings": {
+        "Collection": "收藏"
+      }
+    },
+    {
+      "source": [
+        "It's red hot, but green and stuffed!"
+      ],
+      "translation": "它红得发辣,却又绿又塞满了馅!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

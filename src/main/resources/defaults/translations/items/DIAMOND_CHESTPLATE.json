@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "DIAMOND_CHESTPLATE",
+  "_original_name": "Diamond Chestplate",
+  "_original_lore": [
+    "Defense: +40",
+    "",
+    "This item can be reforged!",
+    "UNCOMMON CHESTPLATE"
+  ],
+  "name": "钻石胸甲",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON CHESTPLATE"
+      ],
+      "translation": "罕见 胸甲",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Chestplate": "胸甲"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

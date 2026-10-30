@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "CAMPAIGN_POSTER",
+  "_original_name": "Campaign Poster",
+  "_original_lore": [
+    "If these posters are being dropped",
+    "en-masse, who's responsible for",
+    "picking them all up?",
+    "",
+    "Unlocked for all players who",
+    "participated in the Better Mayors",
+    "alpha test.",
+    "",
+    "SPECIAL MEMENTO"
+  ],
+  "name": "竞选海报",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "If these posters are being dropped",
+        "en-masse, who's responsible for",
+        "picking them all up?"
+      ],
+      "translation": "如果这些海报被大量丢弃,那谁来负责把它们全部捡起来?",
+      "styleMappings": {
+        "all": "全部"
+      }
+    },
+    {
+      "source": [
+        "Unlocked for all players who",
+        "participated in the Better Mayors",
+        "alpha test."
+      ],
+      "translation": "所有参与过更佳市长阿尔法测试的玩家均已解锁.",
+      "styleMappings": {
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL MEMENTO"
+      ],
+      "translation": "特殊纪念品",
+      "styleMappings": {
+        "SPECIAL MEMENTO": "特殊纪念品",
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Campaign Poster": "竞选海报"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

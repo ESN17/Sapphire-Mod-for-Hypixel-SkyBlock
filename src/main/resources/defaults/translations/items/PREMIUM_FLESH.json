@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 1,
+  "id": "PREMIUM_FLESH",
+  "_original_name": "Premium Flesh",
+  "_original_lore": [
+    "Reforge Stone",
+    "Combinable in Anvil",
+    "",
+    "Applies the Undead reforge when",
+    "combined with Armor.",
+    "",
+    "The Zombie it came from was",
+    "probably a great warrior before its",
+    "death.",
+    "",
+    "Grants the following stats that scale",
+    "with the item's rarity:",
+    "  Health",
+    "  Defense",
+    "  Strength",
+    "  Attack Speed",
+    "",
+    "Undead Bonus",
+    "Take -2%  Damage from  Undead",
+    "mobs.",
+    "",
+    "Right-click to view rarity scaling!",
+    "",
+    "❣ Requires Mining Skill 16.",
+    "",
+    "UNCOMMON REFORGE STONE"
+  ],
+  "name": "优质腐肉",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Reforge Stone",
+        "Combinable in Anvil"
+      ],
+      "translation": "洗练石 可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Reforge Stone": "洗练石",
+        "Anvil": "铁砧",
+        "Reforge": "洗练"
+      }
+    },
+    {
+      "source": [
+        "Applies the Undead reforge when",
+        "combined with Armor."
+      ],
+      "translation": "与盔甲结合时应用亡灵洗练.",
+      "styleMappings": {
+        "Undead": "亡灵",
+        "Armor": "盔甲",
+        "reforge": "洗练",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "The Zombie it came from was",
+        "probably a great warrior before its",
+        "death."
+      ],
+      "translation": "它来自的僵尸生前大概是一位伟大的战士.",
+      "styleMappings": {
+        "Zombie": "僵尸"
+      }
+    },
+    {
+      "source": [
+        "Grants the following stats that scale"
+      ],
+      "translation": "提供以下随物品稀有度提升的属性:",
+      "styleMappings": {
+        "Grants": "提供",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "with the item's rarity:"
+      ],
+      "translation": "物品稀有度提升的属性:",
+      "styleMappings": {
+        "item": "物品",
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "  Health",
+        "  Defense",
+        "  Strength",
+        "  Attack Speed"
+      ],
+      "translation": "   生命   防御   力量   攻击速度",
+      "styleMappings": {
+        " Attack Speed": " 攻击速度",
+        " Strength": " 力量",
+        " Defense": " 防御",
+        "Health": "生命",
+        "Defense": "防御",
+        "Strength": "力量",
+        "Attack Speed": "攻击速度",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Undead Bonus",
+        "Take {{N0}}  Damage from  Undead",
+        "mobs."
+      ],
+      "translation": "亡灵加成 受到  亡灵生物造成的 {{N0}}  伤害.",
+      "styleMappings": {
+        "Undead Bonus": "亡灵加成",
+        " Damage": " 伤害",
+        "Undead": "亡灵",
+        "mobs": "生物",
+        "Damage": "伤害",
+        "Bonus": "加成",
+        "mobs.": "伤害."
+      }
+    },
+    {
+      "source": [
+        "Right-click to view rarity scaling!"
+      ],
+      "translation": "右键查看各稀有度的属性!",
+      "styleMappings": {
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Mining Skill {{N0}}."
+      ],
+      "translation": "❣ 需要采矿技能 {{N0}}.",
+      "styleMappings": {
+        "Mining Skill": "采矿技能",
+        "Requires": "需要",
+        "Mining": "采矿",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON REFORGE STONE"
+      ],
+      "translation": "罕见 洗练 石",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

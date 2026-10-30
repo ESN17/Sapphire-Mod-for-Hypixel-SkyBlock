@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "AXE_FADING_WHITE_RUNE;3",
+  "_original_name": "◆ Fading White Rune III",
+  "_original_lore": [
+    "Requires level 3",
+    "Throwing Axe",
+    "",
+    "Your axe fades into wonderful white",
+    "particles!",
+    "",
+    "Apply this rune to throwing axe or",
+    "fuse two together at the Runic",
+    "Pedestal!",
+    "",
+    "COMMON COSMETIC"
+  ],
+  "name": "◆ 褪色白符文 III",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Requires level {{N0}}",
+        "Throwing Axe"
+      ],
+      "translation": "需要等级 {{N0}} 投掷斧",
+      "styleMappings": {
+        "Throwing Axe": "投掷斧",
+        "Requires": "需要",
+        "Axe": "斧"
+      }
+    },
+    {
+      "source": [
+        "Your axe fades into wonderful white",
+        "particles!"
+      ],
+      "translation": "你的斧头会消散成美妙的白色粒子!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Apply this rune to throwing axe or",
+        "fuse two together at the Runic",
+        "Pedestal!"
+      ],
+      "translation": "将此符文应用于投掷斧, 或在符文基座上将两个融合!",
+      "styleMappings": {
+        "Runic Pedestal": "符文基座",
+        "Runic": "符文"
+      }
+    },
+    {
+      "source": [
+        "COMMON COSMETIC"
+      ],
+      "translation": "普通 外观",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Rune III": "符文 III",
+    "Fading": "褪色",
+    "III": "III"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

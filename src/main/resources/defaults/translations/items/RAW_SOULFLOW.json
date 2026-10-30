@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "RAW_SOULFLOW",
+  "_original_name": "Raw Soulflow",
+  "_original_lore": [
+    "Hold and right-click to consume,",
+    "gaining +1⸎ Soulflow!",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "粗制灵魂流",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Hold and right-click to consume,",
+        "gaining {{N0}}⸎ Soulflow!"
+      ],
+      "translation": "按住并右键点击以消耗,获得 {{N0}}⸎ 灵魂流!",
+      "styleMappings": {
+        "Soulflow": "灵魂流"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Soulflow": "灵魂流"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

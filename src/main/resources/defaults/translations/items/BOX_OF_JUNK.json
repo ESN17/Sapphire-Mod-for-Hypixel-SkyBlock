@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "id": "BOX_OF_JUNK",
+  "_original_name": "Box of Junk",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Consume this item to unwrap it and",
+    "find some Junk. Contains a random",
+    "selection of 5 of the following:",
+    "• Rusty Coin",
+    "• Busted Belt Buckle",
+    "• Old Leather Boot",
+    "",
+    "Found dumped around the corner by",
+    "the raffle box. Unclear if it was",
+    "intended to be used as a reward.",
+    "",
+    "Right-click to consume!",
+    "",
+    "* Soulbound *",
+    "RARE"
+  ],
+  "name": "杂物箱",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Consume this item to unwrap it and",
+        "find some Junk. Contains a random"
+      ],
+      "translation": "消耗此物品可将其拆开,获得一些杂物.包含随机",
+      "styleMappings": {
+        "item": "物品",
+        "Junk": "杂物"
+      }
+    },
+    {
+      "source": [
+        "selection of {{N0}} of the following:"
+      ],
+      "translation": "以下 {{N0}} 种物品之一:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "• Rusty Coin",
+        "• Busted Belt Buckle",
+        "• Old Leather Boot"
+      ],
+      "translation": "• 生锈硬币 • 破损的腰带扣 • 旧皮革靴子",
+      "styleMappings": {
+        "Busted Belt Buckle": "破损的腰带扣",
+        "Old Leather Boot": "旧皮革靴子",
+        "Rusty Coin": "生锈硬币",
+        "Belt": "腰带",
+        "Coin": "硬币",
+        "Leather": "皮革"
+      }
+    },
+    {
+      "source": [
+        "Found dumped around the corner by",
+        "the raffle box. Unclear if it was",
+        "intended to be used as a reward."
+      ],
+      "translation": "被发现丢弃在抽奖箱旁的角落里.不清楚它原本是否打算作为奖励使用.",
+      "styleMappings": {
+        "reward": "奖励"
+      }
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Junk": "杂物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

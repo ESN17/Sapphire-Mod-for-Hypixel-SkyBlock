@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "id": "MINOS_HUNTER_MONSTER",
+  "_original_name": "Minos Hunter (Mythological Creature)",
+  "_original_lore": [
+    "The Minos Hunter is the most common mob in",
+    "the Mythological Ritual. It is relatively",
+    "easy to kill if you have the right weapons,",
+    "though it can be challenging for early-game",
+    "players. It will attack with a sword, dealing",
+    "damage and knockback if you get hit. It's the",
+    "only Mythological Creature that can be damaged",
+    "without having a Griffin Pet.",
+    "",
+    "Mob Types: ✿ Mythological, ༕ Undead",
+    "❤ Health:",
+    "[No Pet/Griffin] 4,000 ❤",
+    "[Griffin] 15,000 ❤",
+    "[Griffin] 100,000 ❤",
+    "[Griffin] 350,000 ❤",
+    "[Griffin] 1,000,000 ❤",
+    "[Griffin] 1,750,000 ❤",
+    "",
+    "COMMON"
+  ],
+  "name": "弥诺斯猎手 (神话生物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Minos Hunter is the most common mob in",
+        "the Mythological Ritual. It is relatively",
+        "easy to kill if you have the right weapons,",
+        "though it can be challenging for early-game",
+        "players. It will attack with a sword, dealing",
+        "damage and knockback if you get hit. It's the",
+        "only Mythological Creature that can be damaged",
+        "without having a Griffin Pet."
+      ],
+      "translation": "弥诺斯猎手是神话仪式中最常见的怪物.如果你有合适的武器,它相对容易击杀,但对前期玩家来说可能颇具挑战.它会用剑攻击,若你被击中,会受到伤害和击退.它是唯一无需拥有狮鹫宠物就能造成伤害的神话生物.",
+      "styleMappings": {
+        "Mythological Creature": "神话生物",
+        "Mythological Ritual": "神话仪式",
+        "Minos Hunter": "弥诺斯猎手",
+        "Griffin Pet": "狮鹫宠物",
+        "knockback": "击退",
+        "common": "常见",
+        "hit": "击中",
+        "s": "一",
+        "damage": "伤害",
+        "Pet": "宠物",
+        "Griffin": "狮鹫",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Mob Types: ✿ Mythological, ༕ Undead"
+      ],
+      "translation": "怪物类型: ✿ 神话, ༕ 亡灵",
+      "styleMappings": {
+        "Mythological": "神话",
+        "Undead": "亡灵",
+        "Mob Types": "怪物类型",
+        "Mob Types:": "怪物类型:"
+      }
+    },
+    {
+      "source": [
+        "❤ Health:"
+      ],
+      "translation": "❤ 生命值:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "[No Pet/Griffin] {{N0}} ❤",
+        "[Griffin] {{N1}} ❤",
+        "[Griffin] {{N2}} ❤",
+        "[Griffin] {{N3}} ❤",
+        "[Griffin] {{N4}} ❤",
+        "[Griffin] {{N5}} ❤"
+      ],
+      "translation": "[无宠物/狮鹫] {{N0}} ❤ [狮鹫] {{N1}} ❤ [狮鹫] {{N2}} ❤ [狮鹫] {{N3}} ❤ [狮鹫] {{N4}} ❤ [狮鹫] {{N5}} ❤",
+      "styleMappings": {
+        "No Pet": "无宠物",
+        "Pet": "宠物",
+        "Griffin": "狮鹫"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mythological Creature": "神话生物",
+    "Minos Hunter": "弥诺斯猎手"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

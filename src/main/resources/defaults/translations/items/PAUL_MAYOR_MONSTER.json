@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "PAUL_MAYOR_MONSTER",
+  "_original_name": "Paul (Mayor)",
+  "_original_lore": [
+    "Candidate",
+    "",
+    "EZPZ",
+    "Gain 10 bonus score on",
+    "dungeon runs.",
+    "",
+    "Marauder",
+    "Dungeons reward chests are",
+    "20% cheaper.",
+    "",
+    "Benediction",
+    "Blessings are 25%",
+    "stronger."
+  ],
+  "name": "Paul (市长)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Candidate"
+      ],
+      "translation": "候选人",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EZPZ",
+        "Gain {{N0}} bonus score on",
+        "dungeon runs."
+      ],
+      "translation": "轻松拿下 地牢通关时获得 {{N0}} 额外分数.",
+      "styleMappings": {
+        "EZPZ": "轻松拿下",
+        "Gain": "获得",
+        "dungeon runs": "地牢通关"
+      }
+    },
+    {
+      "source": [
+        "Marauder",
+        "Dungeons reward chests are",
+        "{{N0}} cheaper."
+      ],
+      "translation": "掠夺者地牢奖励箱便宜 {{N0}}.",
+      "styleMappings": {
+        "Dungeons reward chests": "地牢奖励箱",
+        "Marauder": "掠夺者",
+        "Dungeons": "地牢",
+        "reward": "奖励"
+      }
+    },
+    {
+      "source": [
+        "Benediction",
+        "Blessings are {{N0}}",
+        "stronger."
+      ],
+      "translation": "祝福恩赐效果增强 {{N0}}.",
+      "styleMappings": {
+        "Benediction": "祝福恩赐",
+        "Blessings": "祝福"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mayor": "市长"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_FARMING_XP_BOOST;1",
+  "_original_name": "Farming XP Boost I Potion",
+  "_original_lore": [
+    "",
+    "Farming XP Boost I (12:00)",
+    "Grants +5☯ Farming Wisdom.",
+    "",
+    "COMMON"
+  ],
+  "name": "农业经验加成 I 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Farming XP Boost I ({{N0}}:{{N1}})"
+      ],
+      "translation": "农业经验加成 I ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Farming XP Boost I": "农业经验加成 I",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}☯ Farming Wisdom."
+      ],
+      "translation": "获得 {{N0}}☯ 农业智慧.",
+      "styleMappings": {
+        "Farming Wisdom": "农业智慧",
+        "Grants": "获得",
+        "Wisdom": "智慧",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Farming XP Boost I": "农业经验加成 I",
+    "Farming": "农业"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "NAME_TAG",
+  "_original_name": "Name Tag",
+  "_original_lore": [
+    "Right-click to apply a name to",
+    "this Name Tag. Can be applied to",
+    "mobs.",
+    "",
+    "* Co-op Soulbound *",
+    "UNCOMMON"
+  ],
+  "name": "命名牌",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Right-click to apply a name to"
+      ],
+      "translation": "右键点击以将名称应用于",
+      "styleMappings": {
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "this Name Tag. Can be applied to",
+        "mobs."
+      ],
+      "translation": "此命名牌.可应用于生物.",
+      "styleMappings": {
+        "mobs": "生物"
+      }
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

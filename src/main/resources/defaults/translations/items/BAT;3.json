@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "id": "BAT;3",
+  "_original_name": "[Lvl {LVL}] Bat",
+  "_original_lore": [
+    "Mining Pet",
+    "",
+    "Intelligence: +{INTELLIGENCE}",
+    "Speed: +{SPEED}",
+    "",
+    "Candy Lover",
+    "Increases drop chance of candies",
+    "from mobs by {0}%.",
+    "",
+    "Nightmare",
+    "During night, gain {1}  Intelligence,",
+    "{2}  Speed, and Night Vision.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "EPIC PET"
+  ],
+  "name": "[等级 {LVL}] 蝙蝠",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mining Pet"
+      ],
+      "translation": "采矿宠物",
+      "styleMappings": {
+        "Mining": "采矿",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: +{{N0}}"
+      ],
+      "translation": "智力: +{{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Speed: +{{N0}}"
+      ],
+      "translation": "速度: +{{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Candy Lover"
+      ],
+      "translation": "糖果爱好者",
+      "styleMappings": {
+        "Candy Lover": "糖果爱好者",
+        "Candy": "糖果"
+      }
+    },
+    {
+      "source": [
+        "Increases drop chance of candies",
+        "from mobs by {{N0}}%."
+      ],
+      "translation": "使怪物掉落糖果的概率提高 {{N0}}%.",
+      "styleMappings": {
+        "mobs": "怪物",
+        "chance": "概率"
+      }
+    },
+    {
+      "source": [
+        "Nightmare"
+      ],
+      "translation": "梦魇",
+      "styleMappings": {
+        "Nightmare": "梦魇"
+      }
+    },
+    {
+      "source": [
+        "During night, gain {{N0}}  Intelligence,",
+        "{{N1}}  Speed, and Night Vision."
+      ],
+      "translation": "夜间获得 {{N0}}  智力、{{N1}}  速度和夜视.",
+      "styleMappings": {
+        "Intelligence": "智力",
+        "Night Vision": "夜视",
+        " Speed": " 速度",
+        "night": "夜间",
+        "": "",
+        "Speed": "速度",
+        " Intelligence": " 智力",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "EPIC PET"
+      ],
+      "translation": "史诗 宠物",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Bat": "蝙蝠",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

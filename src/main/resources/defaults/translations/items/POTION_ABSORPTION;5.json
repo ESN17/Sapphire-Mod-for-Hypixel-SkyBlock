@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_ABSORPTION;5",
+  "_original_name": "Absorption V Potion",
+  "_original_lore": [
+    "",
+    "Absorption V (3:00)",
+    "Grants +100 of absorption.",
+    "",
+    "RARE"
+  ],
+  "name": "伤害吸收 V 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Absorption V ({{N0}}:{{N1}})"
+      ],
+      "translation": "伤害吸收 V ({{N0}}:{{N1}})",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants {{N0}} of absorption."
+      ],
+      "translation": "提供 {{N0}} 点伤害吸收.",
+      "styleMappings": {
+        "Grants": "提供"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

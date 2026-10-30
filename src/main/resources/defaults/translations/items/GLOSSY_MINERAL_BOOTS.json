@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "GLOSSY_MINERAL_BOOTS",
+  "_original_name": "Glossy Mineral Boots",
+  "_original_lore": [
+    "Defense: +90",
+    "Block Fortune: +50",
+    "Speed: +20",
+    "",
+    "Tiered Bonus: Glossy Mineralworks (0/4)",
+    "Grants +0 Mining Spread on Ores",
+    "and Blocks.",
+    "",
+    "This item can be reforged!",
+    "LEGENDARY BOOTS"
+  ],
+  "name": "光泽矿物靴子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Block Fortune: {{N0}}"
+      ],
+      "translation": "方块幸运: {{N0}}",
+      "styleMappings": {
+        "Block Fortune": "方块幸运",
+        "Fortune": "幸运"
+      }
+    },
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Tiered Bonus: Glossy Mineralworks ({{N0}}/{{N1}})"
+      ],
+      "translation": "分级加成: 光泽矿物工艺 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Glossy Mineralworks": "光泽矿物工艺",
+        "Tiered Bonus": "分级加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Mining Spread on Ores",
+        "and Blocks."
+      ],
+      "translation": "对矿石和方块提供 {{N0}} 采矿扩散.",
+      "styleMappings": {
+        "Mining Spread": "采矿扩散",
+        "Blocks": "方块",
+        "Grants": "提供",
+        "Ores": "矿石",
+        "Mining": "采矿"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY BOOTS"
+      ],
+      "translation": "传说 靴子",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Boots": "靴子"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

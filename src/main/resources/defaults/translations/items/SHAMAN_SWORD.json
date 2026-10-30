@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "id": "SHAMAN_SWORD",
+  "_original_name": "Shaman Sword",
+  "_original_lore": [
+    "Damage: +100",
+    "Strength: +20",
+    "Speed: +5",
+    "",
+    "Deal +10 Damage per Wolf Slayer level",
+    "Deal +100%  Damage against Wolves",
+    "Take -20% damage from  Animal mobs",
+    "Gain +30☯ Combat Wisdom against  Animal mobs",
+    "",
+    "This item can be reforged!",
+    "☠ Requires Wolf Slayer 3.",
+    "EPIC SWORD"
+  ],
+  "name": "祭灵之剑",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Deal {{N0}} Damage per Wolf Slayer level",
+        "Deal {{N1}}  Damage against Wolves",
+        "Take {{N2}} damage from  Animal mobs",
+        "Gain {{N3}}☯ Combat Wisdom against  Animal mobs"
+      ],
+      "translation": "每级狼杀手等级造成 {{N0}} 伤害 对狼造成 {{N1}}  伤害 受到  动物生物造成的 {{N2}} 伤害 对  动物生物获得 {{N3}}☯ 战斗智慧",
+      "styleMappings": {
+        "Combat Wisdom": "战斗智慧",
+        "damage from": "造成的",
+        "Wolf Slayer": "狼杀手",
+        " Damage": " 伤害",
+        "Animal": "动物",
+        "Wolves": "狼",
+        "mobs": "生物",
+        "damage": "伤害",
+        "Combat": "战斗",
+        "Damage": "伤害",
+        "Gain": "获得",
+        "Wisdom": "智慧",
+        "Slayer": "杀手",
+        " Animal": " 动物",
+        "Deal": "造成",
+        "per": "每",
+        "Wolf": "狼"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Wolf Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要狼杀手 {{N0}}.",
+      "styleMappings": {
+        "Wolf Slayer": "狼杀手",
+        "Requires": "需要",
+        "Slayer": "杀手",
+        "Wolf": "狼"
+      }
+    },
+    {
+      "source": [
+        "EPIC SWORD"
+      ],
+      "translation": "史诗 剑",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sword": "剑",
+    "Shaman Sword": "祭灵之剑"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_name_revision": "2026-10-17-slayer-rpg"
+}

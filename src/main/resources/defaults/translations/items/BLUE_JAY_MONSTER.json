@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "BLUE_JAY_MONSTER",
+  "_original_name": "Blue Jay (Monster)",
+  "_original_lore": [
+    "Mob Types:  Airborne,  Timid,  Critter",
+    "",
+    "High up in the sky, and your",
+    "problems seem so far away.",
+    "",
+    "❤ Health: 1,000"
+  ],
+  "name": "冠蓝鸦 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mob Types:  Airborne,  Timid,  Critter"
+      ],
+      "translation": "生物类型:   空中,   胆小,   小动物",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Airborne": "空中",
+        "Critter": "小动物",
+        "Timid": "胆小",
+        " Critter": " 小动物"
+      }
+    },
+    {
+      "source": [
+        "High up in the sky, and your",
+        "problems seem so far away."
+      ],
+      "translation": "高高在天上,你的烦恼似乎如此遥远.",
+      "styleMappings": {
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

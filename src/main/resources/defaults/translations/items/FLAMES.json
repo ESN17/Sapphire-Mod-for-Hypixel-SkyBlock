@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "FLAMES",
+  "_original_name": "Flames",
+  "_original_lore": [
+    "Some say that the same substance",
+    "can be found in the abdomen of",
+    "Dragons, allowing them to breathe",
+    "fire. Cinderbats are much cuter",
+    "though.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "RARE"
+  ],
+  "name": "烈焰",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Some say that the same substance",
+        "can be found in the abdomen of",
+        "Dragons, allowing them to breathe",
+        "fire. Cinderbats are much cuter",
+        "though."
+      ],
+      "translation": "据说在巨龙的腹部也能找到同样的物质,让它们得以喷吐火焰.不过余烬蝙蝠要可爱得多.",
+      "styleMappings": {
+        "Dragons": "龙",
+        "fire": "火",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

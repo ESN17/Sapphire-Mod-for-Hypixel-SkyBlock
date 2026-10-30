@@ -1,0 +1,252 @@
+{
+  "schemaVersion": 1,
+  "id": "GOLDEN_DRAGON;4",
+  "_original_name": "[Lvl {LVL}] Golden Dragon",
+  "_original_lore": [
+    "Combat Pet",
+    "",
+    "Strength: +{STRENGTH}",
+    "Attack Speed: +{BONUS_ATTACK_SPEED}%",
+    "Magic Find: +{MAGIC_FIND}",
+    "",
+    "Gold's Power",
+    "Increase the potency of Midas'",
+    "Sword and Midas Staff's Greed Ability",
+    "by {0}%.",
+    "",
+    "Shining Scales",
+    "Grants +11.1 Strength and +2.2",
+    "Magic Find to your pet for each digit",
+    "in your Gold Collection.",
+    "(Max 100M collection)",
+    "",
+    "Dragon's Greed",
+    "Grants +{1}% Strength per 5",
+    "Magic Find. (Max +{2}%)",
+    "",
+    "Legendary Treasure",
+    "Gain {3}% damage for every million",
+    "coins in your bank. (Max {4}%)",
+    "",
+    "Symbiosis",
+    "If you own a level 200 Golden",
+    "Dragon, gain +5 coins per monster",
+    "kill for every other unique maxed",
+    "Combat Pet that you own.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "LEGENDARY PET"
+  ],
+  "name": "[等级 {LVL}] 金火龙",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combat Pet"
+      ],
+      "translation": "战斗宠物",
+      "styleMappings": {
+        "Combat Pet": "战斗宠物",
+        "Combat": "战斗",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Strength: +{{N0}}"
+      ],
+      "translation": "力量: +{{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Attack Speed: +{{N0}}%"
+      ],
+      "translation": "攻击速度: +{{N0}}%",
+      "styleMappings": {
+        "Attack Speed": "攻击速度",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Magic Find: +{{N0}}"
+      ],
+      "translation": "稀有物品概率加成: +{{N0}}",
+      "styleMappings": {
+        "Magic Find": "稀有物品概率加成"
+      }
+    },
+    {
+      "source": [
+        "Gold's Power"
+      ],
+      "translation": "黄金之力",
+      "styleMappings": {
+        "Gold": "黄金"
+      }
+    },
+    {
+      "source": [
+        "Increase the potency of Midas'",
+        "Sword and Midas Staff's Greed Ability",
+        "by {{N0}}%."
+      ],
+      "translation": "将米达斯之剑和米达斯法杖的贪婪能力效果提高 {{N0}}%.",
+      "styleMappings": {
+        "Greed Ability": "贪婪能力",
+        "Midas Staff's": "米达斯法杖的",
+        "Midas' Sword": "米达斯之剑",
+        "Ability": "能力",
+        "Sword": "剑",
+        "Midas Staff": "米达斯法杖"
+      }
+    },
+    {
+      "source": [
+        "Shining Scales"
+      ],
+      "translation": "闪耀鳞片",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants {{N0}} Strength and {{N1}}",
+        "Magic Find to your pet for each digit",
+        "in your Gold Collection."
+      ],
+      "translation": "根据你的黄金收藏中的位数,为你的宠物提供 {{N0}} 力量和 {{N1}} 稀有物品概率加成.",
+      "styleMappings": {
+        "Gold Collection": "黄金收藏",
+        " Magic Find": " 稀有物品概率加成",
+        " Strength": " 力量",
+        "Grants": "提供",
+        "pet": "宠物",
+        "Collection": "收藏",
+        "Strength": "力量",
+        "Magic Find": "稀有物品概率加成"
+      }
+    },
+    {
+      "source": [
+        "(Max {{N0}}M collection)"
+      ],
+      "translation": "(最大 {{N0}}M 收藏)",
+      "styleMappings": {
+        "Max": "最大",
+        "M collection)": "M 收藏)"
+      }
+    },
+    {
+      "source": [
+        "Dragon's Greed"
+      ],
+      "translation": "巨龙之贪",
+      "styleMappings": {
+        "Dragon": "巨龙"
+      }
+    },
+    {
+      "source": [
+        "Grants +{{N0}}% Strength per {{N1}}",
+        "Magic Find. (Max +{{N2}}%)"
+      ],
+      "translation": "每 {{N1}} 稀有物品概率加成提供 +{{N0}}% 力量.(上限 +{{N2}}%)",
+      "styleMappings": {
+        "+{{N0}}% Strength": "+{{N0}}% 力量",
+        "(Max +{{N2}}%)": "(上限 +{{N2}}%)",
+        " Magic Find": " 稀有物品概率加成",
+        "Strength": "力量",
+        "Grants": "提供",
+        " Strength": " 力量",
+        "Max": "上限",
+        "Magic Find": "稀有物品概率加成",
+        "(Max": "(上限",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Legendary Treasure"
+      ],
+      "translation": "传说宝藏",
+      "styleMappings": {
+        "Legendary Treasure": "传说宝藏",
+        "Treasure": "宝藏",
+        "Legendary": "传说"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}}% damage for every million",
+        "coins in your bank. (Max {{N1}}%)"
+      ],
+      "translation": "银行中每有一百万硬币,获得 {{N0}}% 伤害.(上限 {{N1}}%)",
+      "styleMappings": {
+        "(Max {{N1}}%)": "(上限 {{N1}}%)",
+        "damage": "伤害",
+        "coins": "硬币",
+        "Gain": "获得",
+        "Max": "上限",
+        "for": "获得",
+        "(Max": "(上限"
+      }
+    },
+    {
+      "source": [
+        "Symbiosis"
+      ],
+      "translation": "共生",
+      "styleMappings": {
+        "Symbiosis": "共生"
+      }
+    },
+    {
+      "source": [
+        "If you own a level {{N0}} Golden",
+        "Dragon, gain {{N1}} coins per monster",
+        "kill for every other unique maxed",
+        "Combat Pet that you own."
+      ],
+      "translation": "如果你拥有一只 {{N0}} 级的黄金龙,每拥有一只其他独特的满级战斗宠物,击杀怪物时获得 {{N1}} 硬币.",
+      "styleMappings": {
+        "Golden Dragon": "黄金龙",
+        "Combat Pet": "战斗宠物",
+        "unique": "独特",
+        "coins": "硬币",
+        "Dragon": "龙",
+        "Combat": "战斗",
+        "for": "获得",
+        "Pet": "宠物",
+        "per": "每",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY PET"
+      ],
+      "translation": "传说 宠物",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Dragon": "龙",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

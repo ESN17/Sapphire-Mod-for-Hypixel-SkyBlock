@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "CHEST_SHELVES",
+  "_original_name": "Chest Storage",
+  "_original_lore": [
+    "Furniture",
+    "Storage",
+    "",
+    "This extra large chest looks great",
+    "in any build.",
+    "",
+    "COMMON"
+  ],
+  "name": "箱子存储",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Furniture",
+        "Storage"
+      ],
+      "translation": "家具存储",
+      "styleMappings": {
+        "Furniture": "家具"
+      }
+    },
+    {
+      "source": [
+        "This extra large chest looks great",
+        "in any build."
+      ],
+      "translation": "这个超大箱子在任何建筑中都很出彩.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

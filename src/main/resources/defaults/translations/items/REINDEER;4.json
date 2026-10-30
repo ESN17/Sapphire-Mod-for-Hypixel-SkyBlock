@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 1,
+  "id": "REINDEER;4",
+  "_original_name": "[Lvl {LVL}] Reindeer",
+  "_original_lore": [
+    "Fishing Pet",
+    "",
+    "Health: +{HEALTH}",
+    "Fishing Speed: +{FISHING_SPEED}",
+    "Sea Creature Chance: +{SEA_CREATURE_CHANCE}",
+    "",
+    "Winter Sprint",
+    "Gain double pet EXP.",
+    "",
+    "Infused",
+    "Gives +{0} Fishing Speed and +5",
+    "Treasure Chance while on Jerry's",
+    "Workshop.",
+    "",
+    "Snow Power",
+    "Grants +{1}% bonus gift chance",
+    "during the Gift Attack event.",
+    "",
+    "Icy Wind",
+    "Grants +{2}% chance of getting",
+    "double Ice Essence.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "LEGENDARY PET"
+  ],
+  "name": "[等级 {LVL}] 驯鹿",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Fishing Pet"
+      ],
+      "translation": "钓鱼宠物",
+      "styleMappings": {
+        "Fishing": "钓鱼",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Health: +{{N0}}"
+      ],
+      "translation": "生命值: +{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Fishing Speed: +{{N0}}"
+      ],
+      "translation": "钓鱼速度: +{{N0}}",
+      "styleMappings": {
+        "Fishing Speed": "钓鱼速度",
+        "Fishing": "钓鱼",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Sea Creature Chance: +{{N0}}"
+      ],
+      "translation": "海洋生物概率: +{{N0}}",
+      "styleMappings": {
+        "Sea Creature Chance": "海洋生物概率",
+        "Sea Creature": "海洋生物"
+      }
+    },
+    {
+      "source": [
+        "Winter Sprint"
+      ],
+      "translation": "冬季冲刺",
+      "styleMappings": {
+        "Winter Sprint": "冬季冲刺",
+        "Winter": "冬季"
+      }
+    },
+    {
+      "source": [
+        "Gain double pet EXP."
+      ],
+      "translation": "获得双倍宠物经验.",
+      "styleMappings": {
+        "Gain": "获得",
+        "double": "双倍",
+        "pet": "宠物",
+        "EXP": "经验"
+      }
+    },
+    {
+      "source": [
+        "Infused"
+      ],
+      "translation": "灌注",
+      "styleMappings": {
+        "Infused": "灌注"
+      }
+    },
+    {
+      "source": [
+        "Gives +{{N0}} Fishing Speed and {{N1}}",
+        "Treasure Chance while on Jerry's",
+        "Workshop."
+      ],
+      "translation": "在杰瑞的工坊时给予 +{{N0}} 钓鱼速度和 {{N1}} 宝藏概率.",
+      "styleMappings": {
+        "Jerry's Workshop": "杰瑞的工坊",
+        "Treasure Chance": "宝藏概率",
+        "Fishing Speed": "钓鱼速度",
+        "Fishing": "钓鱼",
+        "Jerry": "杰瑞",
+        "Treasure": "宝藏",
+        "Speed": "速度",
+        " Fishing Speed": " 钓鱼速度"
+      }
+    },
+    {
+      "source": [
+        "Snow Power"
+      ],
+      "translation": "雪之力量",
+      "styleMappings": {
+        "Snow Power": "雪之力量",
+        "Power": "力量"
+      }
+    },
+    {
+      "source": [
+        "Grants +{{N0}}% bonus gift chance",
+        "during the Gift Attack event."
+      ],
+      "translation": "在礼物袭击活动期间给予 +{{N0}}% 额外礼物概率.",
+      "styleMappings": {
+        "bonus gift chance": "额外礼物概率",
+        "Gift Attack": "礼物袭击",
+        "Grants": "给予",
+        "chance": "概率"
+      }
+    },
+    {
+      "source": [
+        "Icy Wind"
+      ],
+      "translation": "寒风",
+      "styleMappings": {
+        "Icy Wind": "寒风"
+      }
+    },
+    {
+      "source": [
+        "Grants +{{N0}}% chance of getting",
+        "double Ice Essence."
+      ],
+      "translation": "给予 +{{N0}}% 概率获得双倍冰精华.",
+      "styleMappings": {
+        "Ice Essence": "冰精华",
+        "Grants": "给予",
+        "double": "双倍",
+        "chance": "概率",
+        "Ice": "冰"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY PET"
+      ],
+      "translation": "传说 宠物",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Reindeer": "驯鹿",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

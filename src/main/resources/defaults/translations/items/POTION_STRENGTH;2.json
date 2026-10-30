@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_STRENGTH;2",
+  "_original_name": "Strength II Potion",
+  "_original_lore": [
+    "",
+    "Strength II (3:00)",
+    "Increases  Strength by 12.5.",
+    "",
+    "COMMON"
+  ],
+  "name": "力量 II 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Strength II ({{N0}}:{{N1}})"
+      ],
+      "translation": "力量 II ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Strength II": "力量 II",
+        "II": "II",
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Increases  Strength by {{N0}}."
+      ],
+      "translation": "增加  力量 {{N0}}.",
+      "styleMappings": {
+        " Strength": " 力量",
+        "Increases": "增加",
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Strength II": "力量 II",
+    "II": "II",
+    "Strength": "力量"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

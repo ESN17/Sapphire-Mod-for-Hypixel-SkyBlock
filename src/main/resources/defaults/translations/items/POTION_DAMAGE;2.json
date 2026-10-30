@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_DAMAGE;2",
+  "_original_name": "Damage II Potion",
+  "_original_lore": [
+    "",
+    "Damage II",
+    "Instantly deals 50 damage.",
+    "",
+    "COMMON"
+  ],
+  "name": "伤害 II 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage II",
+        "Instantly deals {{N0}} damage."
+      ],
+      "translation": "伤害 II 立即造成 {{N0}} 伤害.",
+      "styleMappings": {
+        "Instantly deals": "立即造成",
+        "Damage II": "伤害 II",
+        "damage": "伤害",
+        "II": "II",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Damage II": "伤害 II",
+    "II": "II",
+    "Damage": "伤害"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

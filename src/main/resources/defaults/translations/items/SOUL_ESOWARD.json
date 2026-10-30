@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "SOUL_ESOWARD",
+  "_original_name": "Soul Esoward",
+  "_original_lore": [
+    "Ability: Soulward  RIGHT CLICK",
+    "Become invulnerable for 5s, but can't deal",
+    "damage.",
+    "Halves your damage for 2s afterwards.",
+    "Soulflow Cost: 10",
+    "Mana Cost: 350",
+    "Cooldown: 20s",
+    "",
+    "RARE"
+  ],
+  "name": "灵魂护盾",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Soulward  RIGHT CLICK"
+      ],
+      "translation": "技能: 灵魂护盾  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Become invulnerable for {{N0}}s, but can't deal",
+        "damage."
+      ],
+      "translation": "获得 {{N0}} 秒无敌,但无法造成伤害.",
+      "styleMappings": {
+        "invulnerable": "无敌",
+        "damage": "伤害",
+        "deal": "造成",
+        "{{N0}}s": "{{N0}} 秒",
+        "for": "获得"
+      }
+    },
+    {
+      "source": [
+        "Halves your damage for {{N0}}s afterwards."
+      ],
+      "translation": "之后 {{N0}} 秒内你的伤害减半.",
+      "styleMappings": {
+        "damage": "伤害",
+        "{{N0}}s": "{{N0}} 秒"
+      }
+    },
+    {
+      "source": [
+        "Soulflow Cost: {{N0}}"
+      ],
+      "translation": "灵魂流消耗: {{N0}}",
+      "styleMappings": {
+        "Soulflow Cost": "灵魂流消耗",
+        "Soulflow": "灵魂流"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Soul": "灵魂"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

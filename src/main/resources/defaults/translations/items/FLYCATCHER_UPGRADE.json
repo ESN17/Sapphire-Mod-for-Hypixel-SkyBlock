@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "id": "FLYCATCHER_UPGRADE",
+  "_original_name": "Flycatcher",
+  "_original_lore": [
+    "Minion Upgrade",
+    "",
+    "This item can be used as a minion",
+    "upgrade. Prevents your minions from",
+    "getting distracted by flies.",
+    "Increases the speed of your minion",
+    "by 20%.",
+    "",
+    "☠ Requires Spider Slayer 6.",
+    "EPIC"
+  ],
+  "name": "捕蝇草",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Minion Upgrade"
+      ],
+      "translation": "仆从升级组件",
+      "styleMappings": {
+        "Minion Upgrade": "仆从升级",
+        "Minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "This item can be used as a minion"
+      ],
+      "translation": "此物品可作为仆从",
+      "styleMappings": {
+        "item": "物品",
+        "minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "upgrade. Prevents your minions from",
+        "getting distracted by flies."
+      ],
+      "translation": "升级.防止你的仆从被苍蝇分心.",
+      "styleMappings": {
+        "upgrade": "升级",
+        "minions": "仆从"
+      }
+    },
+    {
+      "source": [
+        "Increases the speed of your minion",
+        "by {{N0}}."
+      ],
+      "translation": "使你的仆从速度提高 {{N0}}.",
+      "styleMappings": {
+        "minion": "仆从",
+        "speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Spider Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要蜘蛛杀手 {{N0}}.",
+      "styleMappings": {
+        "Spider Slayer": "蜘蛛杀手",
+        "Requires": "需要",
+        "Spider": "蜘蛛",
+        "Slayer": "杀手"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "TELEPORTER_PILL",
+  "_original_name": "Teleporter Pill",
+  "_original_lore": [
+    "Right-click to consume a really nice,",
+    "really good pill.",
+    "",
+    "Consuming it allows you to use",
+    "teleport pads on your private island",
+    "from anywhere.",
+    "",
+    "☠ Requires Blaze Slayer 4.",
+    "RARE"
+  ],
+  "name": "传送药丸",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Right-click to consume a really nice,"
+      ],
+      "translation": "右键点击以消耗一颗非常不错、",
+      "styleMappings": {
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "really good pill."
+      ],
+      "translation": "非常棒的药丸.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Consuming it allows you to use",
+        "teleport pads on your private island",
+        "from anywhere."
+      ],
+      "translation": "消耗后,你可以在任何地方使用私人岛屿上的传送垫.",
+      "styleMappings": {
+        "teleport pads": "传送垫",
+        "private island": "私人岛屿",
+        "island": "岛屿上"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Blaze Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要 烈焰人杀手 {{N0}}.",
+      "styleMappings": {
+        "Blaze Slayer": "烈焰人杀手",
+        "Requires": "需要",
+        "Slayer": "杀手"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

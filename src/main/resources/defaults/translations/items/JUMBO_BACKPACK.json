@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "JUMBO_BACKPACK",
+  "_original_name": "Jumbo Backpack",
+  "_original_lore": [
+    "A bag with 45 slots which can be",
+    "placed in your Storage Menu to",
+    "store additional items.",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "巨型背包",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A bag with {{N0}} slots which can be",
+        "placed in your Storage Menu to",
+        "store additional items."
+      ],
+      "translation": "一个有 {{N0}} 个格子的背包,可放入你的存储菜单以存放额外物品.",
+      "styleMappings": {
+        "additional": "额外",
+        "items": "物品"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

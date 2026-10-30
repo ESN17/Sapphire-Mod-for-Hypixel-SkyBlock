@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "BAYOU_SLUDGE_SC",
+  "_original_name": "Bayou Sludge (Sea Creature)",
+  "_original_lore": [
+    "Mob Types: ⚓ Aquatic, ⚂ Cubic",
+    "❤ Health: 20,000",
+    "",
+    "EPIC"
+  ],
+  "name": "河口淤泥 (海怪)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mob Types: ⚓ Aquatic, ⚂ Cubic"
+      ],
+      "translation": "生物类型: ⚓ 水生, ⚂ 立方",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Aquatic": "水生",
+        "Cubic": "立方"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sea Creature": "海怪",
+    "(Sea Creature)": "(海怪)"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

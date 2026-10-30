@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "KARATE_FISH_BRONZE",
+  "_original_name": "Karate Fish BRONZE",
+  "_original_lore": [
+    "Found in the Dojo.",
+    "",
+    "Bring this to Odger at the top of the",
+    "Blazing Volcano.",
+    "",
+    "* Soulbound *",
+    "EPIC TROPHY"
+  ],
+  "name": "空手道鱼 青铜",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Found in the Dojo."
+      ],
+      "translation": "在道场中发现.",
+      "styleMappings": {
+        "Dojo": "道场"
+      }
+    },
+    {
+      "source": [
+        "Bring this to Odger at the top of the",
+        "Blazing Volcano."
+      ],
+      "translation": "将此物交给炽焰火山顶部的 Odger.",
+      "styleMappings": {
+        "Blazing Volcano": "炽焰火山",
+        "Odger": "Odger"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "EPIC TROPHY"
+      ],
+      "translation": "史诗奖杯",
+      "styleMappings": {
+        "EPIC TROPHY": "史诗奖杯",
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Karate Fish": "空手道鱼",
+    "BRONZE": "青铜",
+    "Fish": "鱼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

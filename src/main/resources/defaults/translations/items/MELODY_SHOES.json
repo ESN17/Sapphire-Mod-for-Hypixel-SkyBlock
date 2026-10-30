@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "MELODY_SHOES",
+  "_original_name": "Melody's Shoes",
+  "_original_lore": [
+    "Health: +90",
+    "Defense: +20",
+    "Foraging Fortune: +6",
+    "",
+    "This item can be reforged!",
+    "* Soulbound *",
+    "COMMON BOOTS"
+  ],
+  "name": "旋律的鞋子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Foraging Fortune: {{N0}}"
+      ],
+      "translation": "采伐幸运: {{N0}}",
+      "styleMappings": {
+        "Foraging Fortune": "采伐幸运",
+        "Fortune": "幸运",
+        "Foraging": "采伐"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "COMMON BOOTS"
+      ],
+      "translation": "普通靴子",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

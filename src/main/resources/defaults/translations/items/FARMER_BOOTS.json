@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "id": "FARMER_BOOTS",
+  "_original_name": "Farmer Boots",
+  "_original_lore": [
+    "Health: +40",
+    "Defense: +34",
+    "Speed: +38",
+    "Gemstones: []",
+    "",
+    "These boots gain +2 Defense and",
+    "+4 Speed for every Farming Skill",
+    "level you have. While on The Garden,",
+    "these boots instead gain +1",
+    "Farming Fortune for every Farming",
+    "Skill level.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Farming Skill 18.",
+    "UNCOMMON BOOTS"
+  ],
+  "name": "农夫靴子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: []"
+      ],
+      "translation": "宝石: []",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石"
+      }
+    },
+    {
+      "source": [
+        "These boots gain {{N0}} Defense and",
+        "{{N1}} Speed for every Farming Skill",
+        "level you have. While on The Garden,",
+        "these boots instead gain {{N2}}",
+        "Farming Fortune for every Farming",
+        "Skill level."
+      ],
+      "translation": "每拥有一个农业技能等级,这双靴子获得 {{N0}} 防御 和 {{N1}} 速度.在 花园 中时,这双靴子改为每拥有一个农业技能等级获得 {{N2}} 农业幸运.",
+      "styleMappings": {
+        "Farming Fortune": "农业幸运",
+        "Farming Skill": "农业技能",
+        "The Garden": "花园",
+        " Defense": " 防御",
+        " Speed": " 速度",
+        "Defense": "防御",
+        "for": "获得",
+        "Garden": "花园",
+        "Fortune": "幸运",
+        "Farming": "农业",
+        "Speed": "速度",
+        "Skill": "技能",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Farming Skill {{N0}}."
+      ],
+      "translation": "❣ 需要农业技能 {{N0}}.",
+      "styleMappings": {
+        "Farming Skill": "农业技能",
+        "Requires": "需要",
+        "Farming": "农业",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON BOOTS"
+      ],
+      "translation": "罕见 靴子",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Boots": "靴子"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

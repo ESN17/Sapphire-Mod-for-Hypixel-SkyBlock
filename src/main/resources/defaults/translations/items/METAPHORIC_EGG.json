@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "METAPHORIC_EGG",
+  "_original_name": "Metaphoric Egg",
+  "_original_lore": [
+    "A ticking time bomb to new life.",
+    "Acquired using Berberis Blowgun.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "RARE"
+  ],
+  "name": "隐喻之蛋",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A ticking time bomb to new life."
+      ],
+      "translation": "一颗通往新生命的定时炸弹.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Acquired using Berberis Blowgun."
+      ],
+      "translation": "使用小檗吹箭获得.",
+      "styleMappings": {
+        "Berberis Blowgun": "小檗吹箭"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Egg": "蛋"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

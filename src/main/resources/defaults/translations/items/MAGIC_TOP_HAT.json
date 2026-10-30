@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "MAGIC_TOP_HAT",
+  "_original_name": "Magic Top Hat",
+  "_original_lore": [
+    "Use at Kat to upgrade Snowman Pets",
+    "to Mythic rarity.",
+    "",
+    "A hat so charming, even rabbits wish",
+    "to call it home.",
+    "",
+    "MYTHIC"
+  ],
+  "name": "魔法高顶礼帽",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Use at Kat to upgrade Snowman Pets",
+        "to Mythic rarity."
+      ],
+      "translation": "在 Kat 处使用,可将雪人宠物升级至 神话 稀有度.",
+      "styleMappings": {
+        "Snowman Pets": "雪人宠物",
+        "upgrade": "升级",
+        "Mythic": "神话",
+        "rarity": "稀有度",
+        "Kat": "Kat",
+        "Pets": "宠物",
+        "Snowman": "雪人"
+      }
+    },
+    {
+      "source": [
+        "A hat so charming, even rabbits wish",
+        "to call it home."
+      ],
+      "translation": "一顶如此迷人的帽子,连兔子都想把它当家.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "MYTHIC"
+      ],
+      "translation": "神话",
+      "styleMappings": {
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

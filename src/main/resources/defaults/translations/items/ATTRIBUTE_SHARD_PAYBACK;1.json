@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "id": "ATTRIBUTE_SHARD_PAYBACK;1",
+  "_original_name": "Spike Shard",
+  "_original_lore": [
+    "Payback I",
+    "When hit, your next hit deals +2%",
+    "damage",
+    "",
+    "You can Syphon this shard from",
+    "your Hunting Box.",
+    "",
+    "Right-click to send to Hunting Box!",
+    "Shift Right-click to move all!",
+    "",
+    "❣ Requires Hunting Skill 20.",
+    "LEGENDARY WATER SHARD (ID L14)"
+  ],
+  "name": "尖刺碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Payback I"
+      ],
+      "translation": "反击 I",
+      "styleMappings": {
+        "I": "I"
+      }
+    },
+    {
+      "source": [
+        "When hit, your next hit deals {{N0}}",
+        "damage"
+      ],
+      "translation": "受到攻击时,你的下一次攻击造成 {{N0}} 伤害",
+      "styleMappings": {
+        "hit": "攻击",
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "You can Syphon this shard from",
+        "your Hunting Box."
+      ],
+      "translation": "你可以从狩猎箱中吸取此碎片.",
+      "styleMappings": {
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to send to Hunting Box!"
+      ],
+      "translation": "右键点击发送至狩猎箱!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Shift Right-click to move all!"
+      ],
+      "translation": "潜行键 右键点击全部移动!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "all": "全部"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Hunting Skill {{N0}}."
+      ],
+      "translation": "❣ 需要狩猎技能 {{N0}}.",
+      "styleMappings": {
+        "Hunting Skill": "狩猎技能",
+        "Requires": "需要",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY WATER SHARD (ID L{{N0}})"
+      ],
+      "translation": "传说水域碎片 (ID L{{N0}})",
+      "styleMappings": {
+        "LEGENDARY WATER SHARD": "传说水域碎片",
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shard": "碎片"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

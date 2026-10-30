@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "id": "ENIGMA_CLOAK",
+  "_original_name": "Enigma Cloak",
+  "_original_lore": [
+    "Find Enigma Souls across the Rift",
+    "Dimension.",
+    "",
+    "Each adds +20 Rift Time to this item.",
+    "",
+    "Every 4 Souls, go back to Enigma for",
+    "more upgrades.",
+    "",
+    "You found: 0/42 Souls",
+    "",
+    "Right-click to equip!",
+    "",
+    "EPIC CLOAK"
+  ],
+  "name": "恩尼格玛的斗篷",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Find Enigma Souls across the Rift",
+        "Dimension."
+      ],
+      "translation": "在裂隙维度中寻找恩尼格玛之魂.",
+      "styleMappings": {
+        "Rift Dimension": "裂隙维度",
+        "Enigma Souls": "恩尼格玛之魂",
+        "Rift": "裂隙",
+        "the Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "Each adds {{N0}} Rift Time to this item."
+      ],
+      "translation": "每个为此物品增加 {{N0}} 裂隙时间.",
+      "styleMappings": {
+        "Rift Time": "裂隙时间",
+        "item": "物品",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "Every {{N0}} Souls, go back to Enigma for",
+        "more upgrades."
+      ],
+      "translation": "每 {{N0}} 个灵魂,回到恩尼格玛处获取更多升级.",
+      "styleMappings": {
+        "Souls": "灵魂",
+        "more": "更多",
+        "Enigma": "恩尼格玛"
+      }
+    },
+    {
+      "source": [
+        "You found: {{N0}}/{{N1}} Souls"
+      ],
+      "translation": "你已找到:{{N0}}/{{N1}} 灵魂",
+      "styleMappings": {
+        "Souls": "灵魂"
+      }
+    },
+    {
+      "source": [
+        "Right-click to equip!"
+      ],
+      "translation": "右键点击装备!",
+      "styleMappings": {
+        "Right-click to equip!": "右键点击装备!",
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "EPIC CLOAK"
+      ],
+      "translation": "史诗 披风",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

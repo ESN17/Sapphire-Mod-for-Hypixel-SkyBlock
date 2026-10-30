@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "POISONED_CANDY",
+  "_original_name": "Poisoned Candy",
+  "_original_lore": [
+    "A delicious, vibrant, and round candy",
+    "with an extra kick.",
+    "",
+    "* Co-op Soulbound *",
+    "UNCOMMON"
+  ],
+  "name": "毒糖果",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A delicious, vibrant, and round candy",
+        "with an extra kick."
+      ],
+      "translation": "一颗美味、鲜艳、圆润的糖果,还带有一份额外的刺激.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Candy": "糖果"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

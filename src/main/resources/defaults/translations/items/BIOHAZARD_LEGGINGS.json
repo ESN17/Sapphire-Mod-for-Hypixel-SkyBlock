@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "BIOHAZARD_LEGGINGS",
+  "_original_name": "Biohazard Leggings",
+  "_original_lore": [
+    "Health: +20",
+    "Defense: +15",
+    "Bonus Pest Chance: +16.5%",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Garden Level 5.",
+    "UNCOMMON LEGGINGS"
+  ],
+  "name": "生物危害护腿",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Bonus Pest Chance: {{N0}}"
+      ],
+      "translation": "额外害虫概率: {{N0}}",
+      "styleMappings": {
+        "Bonus Pest Chance": "额外害虫概率",
+        "Pest": "害虫"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Garden Level {{N0}}."
+      ],
+      "translation": "❣ 需要花园等级 {{N0}}.",
+      "styleMappings": {
+        "Garden Level": "花园等级",
+        "Requires": "需要",
+        "Garden": "花园"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON LEGGINGS"
+      ],
+      "translation": "罕见 护腿",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Leggings": "护腿"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

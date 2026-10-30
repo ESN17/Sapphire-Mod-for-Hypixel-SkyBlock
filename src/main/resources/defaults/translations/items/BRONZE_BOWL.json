@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "BRONZE_BOWL",
+  "_original_name": "Bronze Bowl",
+  "_original_lore": [
+    "A broken old bowl. Maybe you can",
+    "use it to upgrade your Ship?",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "青铜碗",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A broken old bowl. Maybe you can",
+        "use it to upgrade your Ship?"
+      ],
+      "translation": "一个破损的旧碗.也许你能用它来升级你的船?",
+      "styleMappings": {
+        "upgrade": "升级",
+        "Ship": "船"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

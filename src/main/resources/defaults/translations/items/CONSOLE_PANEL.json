@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "CONSOLE_PANEL",
+  "_original_name": "Console Panel",
+  "_original_lore": [
+    "Drops sometimes from ⚙ Construct",
+    "mobs during the Year of the Witch!",
+    "",
+    "Drop Chance: 5%",
+    "",
+    "Bring to Alcina in the Hub to craft it",
+    "into Stews!",
+    "",
+    "* Soulbound *",
+    "RARE"
+  ],
+  "name": "控制面板",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Drops sometimes from ⚙ Construct",
+        "mobs during the Year of the Witch!"
+      ],
+      "translation": "在女巫之年期间,有时会从 ⚙ 构造体怪物身上掉落!",
+      "styleMappings": {
+        "Drops sometimes from": "有时会从",
+        "Year of the Witch": "女巫之年",
+        "Construct mobs": "构造体怪物",
+        "mobs": "怪物",
+        "Construct": "构造体",
+        "Year": "年"
+      }
+    },
+    {
+      "source": [
+        "Drop Chance: {{N0}}"
+      ],
+      "translation": "掉落几率: {{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Bring to Alcina in the Hub to craft it",
+        "into Stews!"
+      ],
+      "translation": "带到中心岛的 Alcina 处,将其制作成炖菜!",
+      "styleMappings": {
+        "Alcina": "Alcina",
+        "Hub": "中心岛",
+        "Stews": "炖菜",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

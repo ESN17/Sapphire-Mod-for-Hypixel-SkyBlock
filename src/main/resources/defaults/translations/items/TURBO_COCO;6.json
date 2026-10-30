@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "id": "TURBO_COCO;6",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Turbo-Cocoa VI",
+    "Grants +30 Cocoa Beans Fortune.",
+    "",
+    "Sources:",
+    " - Jacob's Farming Contest (I)",
+    " - Bazaar (I-V)",
+    " - Turbo Gourd (VI)",
+    " - Enchanted Turbo Gourd (VII)",
+    "",
+    "Applied To:",
+    " - Farming Tool",
+    "",
+    "RARE"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Turbo-Cocoa VI"
+      ],
+      "translation": "可可增产 VI",
+      "styleMappings": {
+        "Turbo-Cocoa": "可可增产"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Cocoa Beans Fortune."
+      ],
+      "translation": "提供 {{N0}} 可可豆幸运.",
+      "styleMappings": {
+        "Cocoa Beans Fortune": "可可豆幸运",
+        "Grants": "提供",
+        "Fortune": "幸运",
+        "Cocoa Beans": "可可豆"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Jacob's Farming Contest (I)",
+        " - Bazaar (I-V)",
+        " - Turbo Gourd (VI)",
+        " - Enchanted Turbo Gourd (VII)"
+      ],
+      "translation": " - 雅各布的农业竞赛 (I)  - 集市 (I-V)  - 涡轮葫芦 (VI)  - 附魔涡轮南瓜 (VII)",
+      "styleMappings": {
+        "Enchanted Turbo Gourd": "附魔涡轮南瓜",
+        "Bazaar": "集市",
+        "Jacob's Farming Contest": "雅各布的农业竞赛",
+        "I-V": "I-V",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Farming Tool"
+      ],
+      "translation": " - 农业工具",
+      "styleMappings": {
+        "Farming Tool": "农业工具",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

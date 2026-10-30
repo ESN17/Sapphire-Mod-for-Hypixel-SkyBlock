@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 1,
+  "id": "FLOWER_OF_TRUTH",
+  "_original_name": "Flower of Truth",
+  "_original_lore": [
+    "Gear Score: 460",
+    "Damage: +160",
+    "Strength: +300",
+    "Gemstones: []",
+    "",
+    "Ability: Heat-Seeking Rose  RIGHT CLICK",
+    "Shoots a rose that ricochets between enemies,",
+    "damaging up to 3 of your foes! Damage",
+    "multiplies as more enemies are hit.",
+    "Health Cost: 100",
+    "Cooldown: 1s",
+    "",
+    "This item can be reforged!",
+    "❣ Requires The Catacombs Floor VI Completion.",
+    "LEGENDARY DUNGEON SWORD"
+  ],
+  "name": "真理之花",
+  "lore": {
+    "Gear Score: {value}": "装备评分:{value}",
+    "Damage: {value}": "伤害:{value}",
+    "Strength: {value}": "力量:{value}",
+    "Gemstones: {text}": "宝石槽:{text}",
+    "Ability: Heat-Seeking Rose  RIGHT CLICK": "技能:追踪玫瑰  右键点击",
+    "Health Cost: {value}": "生命消耗:{value}",
+    "Cooldown: {value}s": "冷却时间:{value}秒",
+    "This item can be reforged!": "此物品可以洗练!",
+    "❣ Requires The Catacombs Floor VI Completion.": "❣ 需要通关地牢第 VI 层.",
+    "LEGENDARY DUNGEON SWORD": "传说 地牢剑",
+    "Damage: {value} ({bonus})": "伤害:{value} ({bonus})",
+    "Strength: {value} ({bonus})": "力量:{value} ({bonus})",
+    "Gear Score: {value} ({bonus})": "装备评分:{value} ({bonus})"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "Shoots a rose that ricochets between enemies,",
+        "damaging up to {count} of your foes! Damage",
+        "multiplies as more enemies are hit."
+      ],
+      "translation": "射出一朵在敌人之间弹射的玫瑰,最多攻击 {count} 个敌人!命中的敌人越多,伤害倍率越高.",
+      "styleMappings": {
+        "Damage": "伤害",
+        "Shoots": "射出",
+        "enemies": "敌人",
+        "foes": "敌人"
+      }
+    },
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: []"
+      ],
+      "translation": "宝石: []",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石"
+      }
+    },
+    {
+      "source": [
+        "Ability: Heat-Seeking Rose  RIGHT CLICK"
+      ],
+      "translation": "技能:追踪玫瑰  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Shoots a rose that ricochets between enemies,",
+        "damaging up to {{N0}} of your foes! Damage",
+        "multiplies as more enemies are hit."
+      ],
+      "translation": "射出一朵在敌人之间弹射的玫瑰,最多攻击 {{N0}} 个敌人!命中的敌人越多,伤害倍率越高.",
+      "styleMappings": {
+        "Damage": "伤害",
+        "Shoots": "射出",
+        "hit": "攻击",
+        "enemies": "敌人",
+        "foes": "敌人"
+      }
+    },
+    {
+      "source": [
+        "Health Cost: {{N0}}"
+      ],
+      "translation": "生命消耗:{{N0}}",
+      "styleMappings": {
+        "Health Cost": "生命消耗",
+        "Health": "生命"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires The Catacombs Floor VI Completion."
+      ],
+      "translation": "❣ 需要通关地牢第 VI 层.",
+      "styleMappings": {
+        "The Catacombs": "地牢",
+        "Requires": "需要",
+        "Catacombs": "地牢"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY DUNGEON SWORD"
+      ],
+      "translation": "传说地牢剑",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Damage": "伤害",
+    "Strength": "力量",
+    "RIGHT CLICK": "右键点击",
+    "s": "秒",
+    "The Catacombs": "地牢"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

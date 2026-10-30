@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "ENSNARED_SNAIL",
+  "_original_name": "Ensnared Snail",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "When applied to a sword, increases",
+    "its Bane of Arthropods level by 1!",
+    "Can be applied once.",
+    "Requires Bane of Arthropods VI!",
+    "",
+    "The remains of a snail, tightly",
+    "wrapped in webbing by a fiend of",
+    "Eldritch proportions. Maybe it will",
+    "have its revenge - in the next life.",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "缠网蜗牛",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "When applied to to a sword,",
+        "increases its Bane of Arthropods",
+        "level by {{N0}}!"
+      ],
+      "translation": "应用于剑时,将其节肢杀手等级提高 {{N0}}!",
+      "styleMappings": {
+        "Bane of Arthropods": "节肢杀手"
+      }
+    },
+    {
+      "source": [
+        "Can be applied once."
+      ],
+      "translation": "只能应用一次.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Requires Bane of Arthropods VI!"
+      ],
+      "translation": "需要节肢杀手 VI!",
+      "styleMappings": {
+        "Bane of Arthropods VI": "节肢杀手 VI",
+        "Requires": "需要",
+        "Bane of Arthropods": "节肢杀手"
+      }
+    },
+    {
+      "source": [
+        "The remains of a snail, tightly",
+        "wrapped in webbing by a fiend of",
+        "Eldritch proportions. Maybe it will",
+        "have its revenge - in the next life."
+      ],
+      "translation": "一只蜗牛的残骸,被一个诡异比例的恶魔用蛛网紧紧包裹.也许它会在来世复仇.",
+      "styleMappings": {
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    },
+    {
+      "source": [
+        "When applied to a sword, increases its Bane of Arthropods level by 1! Can be applied once. Requires Bane of Arthropods VI!"
+      ],
+      "translation": "应用于剑时,将其节肢杀手等级提高 1!只能应用一次.需要节肢杀手 VI!",
+      "styleMappings": {
+        "Requires": "需要",
+        "Bane of Arthropods": "节肢杀手",
+        "Bane of Arthropods VI": "节肢杀手 VI",
+        "Can be applied once. Requires Bane of Arthropods VI!": "只能应用一次.需要节肢杀手 VI!"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Snail": "蜗牛",
+    "Ensnared Snail": "缠网蜗牛"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

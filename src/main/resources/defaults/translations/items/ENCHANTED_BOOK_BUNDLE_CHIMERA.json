@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "id": "ENCHANTED_BOOK_BUNDLE_CHIMERA",
+  "_original_name": "Enchanted Book Bundle",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Consume to unwrap the bundle",
+    "containing 1x Chimera V Book.",
+    "",
+    "It seems to react to your touch, as",
+    "if adjusting to you in some way.",
+    "",
+    "Right-click to consume!",
+    "",
+    "* Soulbound *",
+    "LEGENDARY"
+  ],
+  "name": "附魔书捆",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Consume to unwrap the bundle",
+        "containing {{N0}}x Chimera V Book."
+      ],
+      "translation": "消耗以拆开内含 {{N0}}x 奇美拉 V 书的包裹.",
+      "styleMappings": {
+        "Chimera V Book": "奇美拉 V 书",
+        "Chimera": "奇美拉",
+        "Chimera V": "奇美拉 V"
+      }
+    },
+    {
+      "source": [
+        "It seems to react to your touch, as",
+        "if adjusting to you in some way."
+      ],
+      "translation": "它似乎会对你的触碰产生反应,仿佛在以某种方式适应你.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

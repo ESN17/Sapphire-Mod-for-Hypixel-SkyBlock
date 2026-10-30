@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "FROZEN_STEVE_SC",
+  "_original_name": "Frozen Steve (Sea Creature)",
+  "_original_lore": [
+    "Mob Types: ⚓ Aquatic, ☃ Frozen, ✰ Humanoid",
+    "❤ Health: 700",
+    "",
+    "COMMON"
+  ],
+  "name": "冰冻史蒂夫 (海怪)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mob Types: ⚓ Aquatic, ☃ Frozen, ✰ Humanoid"
+      ],
+      "translation": "怪物类型: ⚓ 水生, ☃ 冰冻, ✰ 人形",
+      "styleMappings": {
+        "Mob Types": "怪物类型",
+        "Aquatic": "水生",
+        "Frozen": "冰冻",
+        "Humanoid": "人形",
+        "Mob Types:": "怪物类型:"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Frozen": "冰冻",
+    "Sea Creature": "海怪",
+    "(Sea Creature)": "(海怪)"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

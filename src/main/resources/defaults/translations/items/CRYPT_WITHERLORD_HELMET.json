@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "CRYPT_WITHERLORD_HELMET",
+  "_original_name": "Crypt Witherlord Helmet",
+  "_original_lore": [
+    "Gear Score: 150",
+    "Defense: +70",
+    "Speed: +5",
+    "",
+    "Reduces damage from Withers by",
+    "5%",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Catacombs Skill",
+    "18.",
+    "EPIC DUNGEON HELMET"
+  ],
+  "name": "墓穴凋灵领主头盔",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Reduces damage from Withers by",
+        "{{N0}}"
+      ],
+      "translation": "减少来自凋灵生物的伤害 {{N0}}",
+      "styleMappings": {
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Catacombs Skill"
+      ],
+      "translation": "❣ 需要 地牢 技能",
+      "styleMappings": {
+        "Requires": "需要",
+        "Catacombs": "地牢",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC DUNGEON HELMET"
+      ],
+      "translation": "史诗 地牢 头盔",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Helmet": "头盔"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

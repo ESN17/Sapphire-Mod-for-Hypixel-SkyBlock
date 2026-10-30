@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "id": "FIRE_IN_A_BOTTLE",
+  "_original_name": "Fire in a Bottle",
+  "_original_lore": [
+    "Can be used at Phillip to upgrade the",
+    "Mouse Trap into the Vermin Trap.",
+    "",
+    "Who thought to bottle a firefly's",
+    "glow? Whoever it was, they certainly",
+    "knew what they were doing.",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "瓶中火焰",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Can be used at Phillip to upgrade the",
+        "Mouse Trap into the Vermin Trap."
+      ],
+      "translation": "可在菲利普处用于将捕鼠器升级为害虫陷阱.",
+      "styleMappings": {
+        "Mouse Trap": "捕鼠器",
+        "Vermin Trap": "害虫陷阱",
+        "upgrade": "升级",
+        "Phillip": "菲利普",
+        "into the": "升级为"
+      }
+    },
+    {
+      "source": [
+        "Who thought to bottle a firefly's",
+        "glow? Whoever it was, they certainly",
+        "knew what they were doing."
+      ],
+      "translation": "是谁想到把萤火虫的光芒装进瓶子里? 不管是谁, 他们肯定知道自己在做什么.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fire": "火焰"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

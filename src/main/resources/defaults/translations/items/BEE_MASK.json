@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "BEE_MASK",
+  "_original_name": "Bee Mask",
+  "_original_lore": [
+    "Health: +7",
+    "Foraging Fortune: +7",
+    "Speed: +7",
+    "",
+    "Ability: Buzzy Little Bee ",
+    "Double the base pet stats of your",
+    "active Bee pet.",
+    "",
+    "Buzz, buzz!",
+    "",
+    "This item can be reforged!",
+    "EPIC CARNIVAL MASK"
+  ],
+  "name": "蜜蜂面具",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Foraging Fortune: {{N0}}"
+      ],
+      "translation": "采伐幸运: {{N0}}",
+      "styleMappings": {
+        "Foraging Fortune": "采伐幸运",
+        "Fortune": "幸运",
+        "Foraging": "采伐"
+      }
+    },
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Ability: Buzzy Little Bee "
+      ],
+      "translation": "技能: 嗡嗡小蜜蜂 ",
+      "styleMappings": {
+        "Ability": "技能",
+        "Buzzy Little Bee": "嗡嗡小蜜蜂",
+        "Bee": "蜜蜂"
+      }
+    },
+    {
+      "source": [
+        "Double the base pet stats of your",
+        "active Bee pet."
+      ],
+      "translation": "使你当前蜜蜂宠物的基础宠物属性翻倍.",
+      "styleMappings": {
+        "Double": "翻倍",
+        "stats": "属性",
+        "Bee": "蜜蜂",
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Buzz, buzz!"
+      ],
+      "translation": "嗡嗡,嗡嗡!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "EPIC CARNIVAL MASK"
+      ],
+      "translation": "史诗嘉年华面具",
+      "styleMappings": {
+        "EPIC CARNIVAL MASK": "史诗嘉年华面具",
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Bee": "蜜蜂",
+    "Mask": "面具"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

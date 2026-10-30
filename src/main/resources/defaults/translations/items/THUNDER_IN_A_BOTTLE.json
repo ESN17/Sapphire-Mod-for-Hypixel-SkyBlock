@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "THUNDER_IN_A_BOTTLE",
+  "_original_name": "Thunder in a Bottle",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "What happens if you open it? The",
+    "answer may shock you.",
+    "",
+    "Charge: 50,000/50,000",
+    "",
+    "EPIC"
+  ],
+  "name": "瓶中雷霆",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "What happens if you open it? The",
+        "answer may shock you."
+      ],
+      "translation": "如果你打开它会发生什么?答案可能会让你震惊.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Charge: {{N0}}/{{N1}}"
+      ],
+      "translation": "充能: {{N0}}/{{N1}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Thunder": "雷霆",
+    "Thunder in a Bottle": "瓶中雷霆"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

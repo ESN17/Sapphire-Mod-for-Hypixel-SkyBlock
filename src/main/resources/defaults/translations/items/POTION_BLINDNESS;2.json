@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_BLINDNESS;2",
+  "_original_name": "Blindness II Potion",
+  "_original_lore": [
+    "",
+    "Blindness II (0:03)",
+    "Grants blindness to the affected",
+    "player.",
+    "",
+    "COMMON"
+  ],
+  "name": "失明 II 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Blindness II ({{N0}}:{{N1}})"
+      ],
+      "translation": "失明 II ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "II": "II"
+      }
+    },
+    {
+      "source": [
+        "Grants blindness to the affected",
+        "player."
+      ],
+      "translation": "使受影响的玩家失明.",
+      "styleMappings": {
+        "player": "玩家"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "II": "II"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

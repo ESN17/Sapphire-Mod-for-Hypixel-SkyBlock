@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "id": "TABASCO;2",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Tabasco II",
+    "Grants +2 weapon damage if",
+    "you don't have a Dragon pet",
+    "equipped.",
+    "",
+    "Sources:",
+    " - Chili Pepper Collection (II)",
+    " - Bazaar (II-III)",
+    "",
+    "Applied To:",
+    " - Fishing Rod",
+    " - Sword",
+    " - Axe",
+    " - Longsword",
+    " - Gauntlet",
+    " - Bow",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Tabasco II"
+      ],
+      "translation": "塔巴斯科 II",
+      "styleMappings": {
+        "Tabasco": "塔巴斯科",
+        "II": "II"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} weapon damage if",
+        "you don't have a Dragon pet",
+        "equipped."
+      ],
+      "translation": "若你未装备龙宠物,则提供 {{N0}} 武器伤害.",
+      "styleMappings": {
+        "weapon damage": "武器伤害",
+        "equipped": "装备",
+        "Dragon": "龙",
+        "Grants": "提供",
+        "pet": "宠物",
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Chili Pepper Collection (II)",
+        " - Bazaar (II-III)"
+      ],
+      "translation": " - 辣椒收藏 (二)  - 集市 (二至三)",
+      "styleMappings": {
+        "Chili Pepper Collection": "辣椒收藏",
+        "Bazaar": "集市",
+        "II-III": "二至三",
+        "Collection": "收藏",
+        "II": "二"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Fishing Rod",
+        " - Sword",
+        " - Axe",
+        " - Longsword",
+        " - Gauntlet",
+        " - Bow"
+      ],
+      "translation": " - 钓鱼竿  - 剑  - 斧  - 长剑  - 护手  - 弓",
+      "styleMappings": {
+        "Fishing Rod": "钓鱼竿",
+        "Longsword": "长剑",
+        "Gauntlet": "护手",
+        "Sword": "剑",
+        "Axe": "斧",
+        "Bow": "弓",
+        "Fishing": "钓鱼"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

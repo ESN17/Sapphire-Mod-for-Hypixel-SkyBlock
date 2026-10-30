@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "MAGICAL_LAVA_BUCKET",
+  "_original_name": "Magical Lava Bucket",
+  "_original_lore": [
+    "This Magical Lava Bucket holds a tiny",
+    "volcano. Easy infinite lava!",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "魔法熔岩桶",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "This Magical Lava Bucket holds a tiny",
+        "volcano. Easy infinite lava!"
+      ],
+      "translation": "这个魔法熔岩桶里装着一座微型火山。轻松获得无限熔岩!",
+      "styleMappings": {
+        "Lava": "熔岩",
+        "lava": "熔岩"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Lava": "熔岩"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "KNUCKLE_SANDWICH",
+  "_original_name": "Knuckle Sandwich",
+  "_original_lore": [
+    "Increases the melee damage of your",
+    "fists by 500%!",
+    "",
+    "Not recommended for breakfast,",
+    "lunch, or dinner.",
+    "",
+    "Right-click to equip!",
+    "",
+    "This item can be reforged!",
+    "LEGENDARY GLOVES"
+  ],
+  "name": "指虎三明治",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Increases the melee damage of your",
+        "fists by {{N0}}!"
+      ],
+      "translation": "使你的拳头近战伤害提高 {{N0}}!",
+      "styleMappings": {
+        "melee damage": "近战伤害",
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Not recommended for breakfast,",
+        "lunch, or dinner."
+      ],
+      "translation": "不建议在早餐、午餐或晚餐时食用.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to equip!"
+      ],
+      "translation": "右键点击装备!",
+      "styleMappings": {
+        "Right-click to equip!": "右键点击装备!",
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY GLOVES"
+      ],
+      "translation": "传说手套",
+      "styleMappings": {
+        "LEGENDARY": "传说",
+        "GLOVES": "手套"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

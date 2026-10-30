@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 1,
+  "id": "MAMMOTH;4",
+  "_original_name": "[Lvl {LVL}] Mammoth",
+  "_original_lore": [
+    "Combat Pet",
+    "",
+    "Defense: +{DEFENSE}",
+    "Cold Resistance: +{COLD_RESISTANCE}",
+    "",
+    "Wooly Coat",
+    "Gain a {0}% chance for mobs to not",
+    "inflict ❄ Cold when damaging you in",
+    "the Glacite Mineshafts.",
+    "",
+    "Tusk Luck",
+    "Gain +{1} Magic Find for every",
+    "100  Mining Fortune, doubled in the",
+    "Glacite Tunnels and Glacite",
+    "Mineshafts.",
+    "",
+    "Corpse Crusher",
+    "Gain +{2} Mining Fortune for each",
+    "Frozen Corpse looted in your",
+    "current Glacite Mineshaft.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "LEGENDARY PET"
+  ],
+  "name": "[等级 {LVL}] 猛犸象",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combat Pet"
+      ],
+      "translation": "战斗宠物",
+      "styleMappings": {
+        "Combat Pet": "战斗宠物",
+        "Combat": "战斗",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Defense: +{{N0}}"
+      ],
+      "translation": "防御力: +{{N0}}",
+      "styleMappings": {
+        "Defense": "防御力"
+      }
+    },
+    {
+      "source": [
+        "Cold Resistance: +{{N0}}"
+      ],
+      "translation": "寒冷抗性: +{{N0}}",
+      "styleMappings": {
+        "Cold Resistance": "寒冷抗性",
+        "Resistance": "抗性",
+        "Cold": "寒冷"
+      }
+    },
+    {
+      "source": [
+        "Wooly Coat"
+      ],
+      "translation": "毛绒外衣",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Gain a {{N0}}% chance for mobs to not",
+        "inflict ❄ Cold when damaging you in",
+        "the Glacite Mineshafts."
+      ],
+      "translation": "在冰晶矿井中受到生物伤害时,有 {{N0}}% 的几率不会施加 ❄ 寒冷.",
+      "styleMappings": {
+        "Glacite Mineshafts": "冰晶矿井",
+        "chance": "几率",
+        "Cold": "寒冷",
+        "mobs": "生物",
+        "Mineshafts": "矿井",
+        "when": "时",
+        "❄ Cold": "❄ 寒冷",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Tusk Luck"
+      ],
+      "translation": "獠牙幸运",
+      "styleMappings": {
+        "Luck": "幸运"
+      }
+    },
+    {
+      "source": [
+        "Gain +{{N0}} Magic Find for every",
+        "{{N1}}  Mining Fortune, doubled in the",
+        "Glacite Tunnels and Glacite",
+        "Mineshafts."
+      ],
+      "translation": "每 {{N1}}  采矿幸运获得 +{{N0}} 稀有物品概率加成,在冰川矿道和冰晶矿井中翻倍.",
+      "styleMappings": {
+        "Glacite Mineshafts": "冰晶矿井",
+        "Glacite Tunnels": "冰川矿道",
+        "Mining Fortune": "采矿幸运",
+        " Magic Find": " 稀有物品概率加成",
+        "doubled": "翻倍",
+        "Gain": "获得",
+        "for": "获得",
+        "Mining": "采矿",
+        "Magic Find": "稀有物品概率加成",
+        "Glacite": "冰川",
+        "Mineshafts": "矿井",
+        "Fortune": "幸运",
+        " Mining Fortune": " 采矿幸运"
+      }
+    },
+    {
+      "source": [
+        "Corpse Crusher"
+      ],
+      "translation": "尸骸粉碎者",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Gain +{{N0}} Mining Fortune for each",
+        "Frozen Corpse looted in your",
+        "current Glacite Mineshaft."
+      ],
+      "translation": "在当前冰晶矿井中每拾取一具冰冻尸骸,获得 +{{N0}} 采矿幸运.",
+      "styleMappings": {
+        "Glacite Mineshaft": "冰晶矿井",
+        "Mining Fortune": "采矿幸运",
+        "Frozen Corpse": "冰冻尸骸",
+        "Gain": "获得",
+        "for": "获得",
+        "Mining": "采矿",
+        "Fortune": "幸运",
+        "Frozen": "冰冻",
+        " Mining Fortune": " 采矿幸运"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY PET"
+      ],
+      "translation": "传说 宠物",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mammoth": "猛犸象",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

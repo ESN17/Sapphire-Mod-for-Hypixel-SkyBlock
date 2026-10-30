@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "id": "RED_SCARF",
+  "_original_name": "Red Scarf",
+  "_original_lore": [
+    "Reforge Stone",
+    "Combinable in Anvil",
+    "",
+    "Applies the Loving reforge when",
+    "combined with a Chestplate.",
+    "",
+    "Given by his mother. Scarf always",
+    "studied harder than everyone else,",
+    "hoping that one day he could bring",
+    "her back.",
+    "",
+    "Grants the following stats that scale",
+    "with the item's rarity:",
+    "  Health",
+    "  Defense",
+    "  Intelligence",
+    "",
+    "Loving Bonus",
+    "Grants +5%  Ability Damage.",
+    "",
+    "Right-click to view rarity scaling!",
+    "",
+    "❣ Requires Mining Skill 21.",
+    "",
+    "RARE REFORGE STONE"
+  ],
+  "name": "红围巾",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Reforge Stone",
+        "Combinable in Anvil"
+      ],
+      "translation": "洗练石 可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Reforge Stone": "洗练石",
+        "Anvil": "铁砧",
+        "Reforge": "洗练"
+      }
+    },
+    {
+      "source": [
+        "Applies the Loving reforge when",
+        "combined with a Chestplate."
+      ],
+      "translation": "与胸甲结合时应用挚爱洗练.",
+      "styleMappings": {
+        "Loving": "挚爱",
+        "Chestplate": "胸甲",
+        "reforge": "洗练",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Given by his mother. Scarf always",
+        "studied harder than everyone else,",
+        "hoping that one day he could bring",
+        "her back."
+      ],
+      "translation": "由他的母亲所赠.斯卡夫总是比任何人都更努力地学习,希望有朝一日能让她回来.",
+      "styleMappings": {
+        "Scarf": "斯卡夫"
+      }
+    },
+    {
+      "source": [
+        "Grants the following stats that scale"
+      ],
+      "translation": "提供以下随物品稀有度提升的属性:",
+      "styleMappings": {
+        "Grants": "提供",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "with the item's rarity:"
+      ],
+      "translation": "物品稀有度提升的属性:",
+      "styleMappings": {
+        "item": "物品",
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "  Health",
+        "  Defense",
+        "  Intelligence"
+      ],
+      "translation": "   生命  防御   智力",
+      "styleMappings": {
+        "Intelligence": "智力",
+        " Defense": " 防御",
+        "": "",
+        "Defense": "防御",
+        "Health": "生命",
+        " Intelligence": " 智力"
+      }
+    },
+    {
+      "source": [
+        "Loving Bonus",
+        "Grants {{N0}}  Ability Damage."
+      ],
+      "translation": "挚爱加成 提供 {{N0}}  技能伤害.",
+      "styleMappings": {
+        "Ability Damage": "技能伤害",
+        "Loving Bonus": "挚爱加成",
+        "Grants": "提供",
+        "Ability": "技能",
+        "Damage": "伤害",
+        "Bonus": "加成",
+        "Loving": "挚爱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view rarity scaling!"
+      ],
+      "translation": "右键查看各稀有度的属性!",
+      "styleMappings": {
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Mining Skill {{N0}}."
+      ],
+      "translation": "❣ 需要采矿技能 {{N0}}.",
+      "styleMappings": {
+        "Mining Skill": "采矿技能",
+        "Requires": "需要",
+        "Mining": "采矿",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "RARE REFORGE STONE"
+      ],
+      "translation": "稀有 洗练石",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Scarf": "围巾"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

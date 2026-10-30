@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "RED_THORNLEAF",
+  "_original_name": "Red Thornleaf",
+  "_original_lore": [
+    "Machine Fuel",
+    "",
+    "Adds +200 Fuel to a refuelable",
+    "machine.",
+    "",
+    "A leaf that grows on the ground.",
+    "Really pushing the envelope.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "红刺叶",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Machine Fuel"
+      ],
+      "translation": "机器燃料",
+      "styleMappings": {
+        "Machine Fuel": "机器燃料",
+        "Fuel": "燃料"
+      }
+    },
+    {
+      "source": [
+        "Adds {{N0}} Fuel to a refuelable",
+        "machine."
+      ],
+      "translation": "为可补充燃料的机器添加 {{N0}} 燃料.",
+      "styleMappings": {
+        "Adds": "添加",
+        "Fuel": "燃料",
+        "to a refuelable machine": "为可补充燃料的机器"
+      }
+    },
+    {
+      "source": [
+        "A leaf that grows on the ground."
+      ],
+      "translation": "生长在地面上的叶子.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Really pushing the envelope."
+      ],
+      "translation": "真是突破极限.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Red Thornleaf": "红刺叶"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

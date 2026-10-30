@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "id": "EAGLE;4",
+  "_original_name": "[Lvl {LVL}] Eagle",
+  "_original_lore": [
+    "Hunting Pet",
+    "",
+    "Health: +25",
+    "Speed: +50",
+    "Hunting Wisdom: +30",
+    "",
+    "Critter Capturer",
+    "Your Critter Capsules are 50% more",
+    "likely to catch  Critters.",
+    "",
+    "Seer of the Skies",
+    "Grants +30☯ Hunting Wisdom while in",
+    "the Critter Safari.",
+    "",
+    "Flock Mentality",
+    "Grants +2.5 Hunting Fortune for",
+    "every Eagle Pet in the Critter Safari.",
+    "",
+    "LEGENDARY PET"
+  ],
+  "name": "[等级 {LVL}] 苍鹰",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Hunting Pet"
+      ],
+      "translation": "狩猎宠物",
+      "styleMappings": {
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Hunting Wisdom: {{N0}}"
+      ],
+      "translation": "狩猎智慧: {{N0}}",
+      "styleMappings": {
+        "Hunting Wisdom": "狩猎智慧",
+        "Wisdom": "智慧"
+      }
+    },
+    {
+      "source": [
+        "Critter Capturer"
+      ],
+      "translation": "小兽捕捉者",
+      "styleMappings": {
+        "Critter": "小兽"
+      }
+    },
+    {
+      "source": [
+        "Your Critter Capsules are {{N0}} more",
+        "likely to catch  Critters."
+      ],
+      "translation": "你的生物胶囊捕捉  生物的概率提高 {{N0}}.",
+      "styleMappings": {
+        "Critter Capsules": "生物胶囊",
+        "Critters": "生物",
+        " Critters": " 生物",
+        "Critter": "生物"
+      }
+    },
+    {
+      "source": [
+        "Seer of the Skies"
+      ],
+      "translation": "天空先知",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants {{N0}}☯ Hunting Wisdom while in",
+        "the Critter Safari."
+      ],
+      "translation": "在小兽狩猎区中时提供 {{N0}}☯ 狩猎智慧.",
+      "styleMappings": {
+        "Critter Safari": "小兽狩猎区",
+        "Hunting Wisdom": "狩猎智慧",
+        "Grants": "提供",
+        "Wisdom": "智慧",
+        "Critter": "小兽"
+      }
+    },
+    {
+      "source": [
+        "Flock Mentality"
+      ],
+      "translation": "群鸟意识",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants {{N0}} Hunting Fortune for",
+        "every Eagle Pet in the Critter Safari."
+      ],
+      "translation": "在小兽狩猎区中每有一只苍鹰宠物,提供 {{N0}} 狩猎幸运.",
+      "styleMappings": {
+        "Hunting Fortune": "狩猎幸运",
+        "Critter Safari": "小兽狩猎区",
+        "Eagle Pet": "苍鹰宠物",
+        "Grants": "提供",
+        "Pet": "宠物",
+        "Fortune": "幸运",
+        "Critter": "小兽",
+        "Eagle": "苍鹰"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY PET"
+      ],
+      "translation": "传说 宠物",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Lvl": "等级",
+    "Eagle": "苍鹰"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

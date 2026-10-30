@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "id": "OCELOT;1",
+  "_original_name": "[Lvl {LVL}] Ocelot",
+  "_original_lore": [
+    "Foraging Pet",
+    "",
+    "Ferocity: +{FEROCITY}",
+    "Speed: +{SPEED}",
+    "",
+    "Foraging Wisdom Boost",
+    "Grants +{0}☯ Foraging Wisdom.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "UNCOMMON PET"
+  ],
+  "name": "[等级 {LVL}] 豹猫",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Foraging Pet"
+      ],
+      "translation": "采伐宠物",
+      "styleMappings": {
+        "Foraging Pet": "采伐宠物",
+        "Pet": "宠物",
+        "Foraging": "采伐"
+      }
+    },
+    {
+      "source": [
+        "Ferocity: +{{N0}}"
+      ],
+      "translation": "残暴值: +{{N0}}",
+      "styleMappings": {
+        "Ferocity": "残暴值"
+      }
+    },
+    {
+      "source": [
+        "Speed: +{{N0}}"
+      ],
+      "translation": "速度: +{{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Foraging Wisdom Boost"
+      ],
+      "translation": "采伐智慧加成",
+      "styleMappings": {
+        "Foraging Wisdom Boost": "采伐智慧加成",
+        "Foraging Wisdom": "采伐智慧",
+        "Wisdom": "智慧",
+        "Foraging": "采伐"
+      }
+    },
+    {
+      "source": [
+        "Grants +{{N0}}☯ Foraging Wisdom."
+      ],
+      "translation": "提供 +{{N0}}☯ 采伐智慧.",
+      "styleMappings": {
+        "☯ Foraging Wisdom": "☯ 采伐智慧",
+        "Grants": "提供",
+        "Foraging Wisdom": "采伐智慧",
+        "Wisdom": "智慧",
+        "Foraging": "采伐"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON PET"
+      ],
+      "translation": "罕见 宠物",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Ocelot": "豹猫",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

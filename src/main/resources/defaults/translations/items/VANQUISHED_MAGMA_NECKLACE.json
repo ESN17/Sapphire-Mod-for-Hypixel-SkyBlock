@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "id": "VANQUISHED_MAGMA_NECKLACE",
+  "_original_name": "Vanquished Magma Necklace",
+  "_original_lore": [
+    "Health: +20",
+    "",
+    "Ability: Cube Fanatic ",
+    "Gain 20% more Magma Cream when",
+    "killing Magma Cubes.",
+    "",
+    "Piece Bonus: Magma Cube Absorber",
+    "Kill Magma Cubes to accumulate ",
+    "Crit Damage.",
+    "Piece Bonus: +0",
+    "Next Upgrade: +1 (0/1,000)",
+    "",
+    "Right-click to equip!",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Combat Skill 22.",
+    "EPIC NECKLACE"
+  ],
+  "name": "征服岩浆项链",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Ability: Cube Fanatic "
+      ],
+      "translation": "能力: 方块狂热者 ",
+      "styleMappings": {
+        "Ability": "能力"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}} more Magma Cream when",
+        "killing Magma Cubes."
+      ],
+      "translation": "击杀岩浆怪时获得 {{N0}} 更多岩浆膏.",
+      "styleMappings": {
+        "Magma Cream": "岩浆膏",
+        "Magma Cubes": "岩浆怪",
+        "Gain": "获得",
+        "more": "更多",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Piece Bonus: Magma Cube Absorber"
+      ],
+      "translation": "部位加成: 岩浆怪吸收器",
+      "styleMappings": {
+        "Magma Cube Absorber": "岩浆怪吸收器",
+        "Piece Bonus": "部位加成",
+        "Bonus": "加成",
+        "Magma Cube": "岩浆怪"
+      }
+    },
+    {
+      "source": [
+        "Kill Magma Cubes to accumulate ",
+        "Crit Damage."
+      ],
+      "translation": "击杀岩浆怪以累积  ​  暴击伤害.",
+      "styleMappings": {
+        " Crit Damage": " 暴击伤害",
+        "Magma Cubes": "岩浆怪",
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Piece Bonus: {{N0}}"
+      ],
+      "translation": "部位加成: {{N0}}​",
+      "styleMappings": {
+        "Piece Bonus": "部位加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Next Upgrade: {{N0}} ({{N1}}/{{N2}})"
+      ],
+      "translation": "下次升级: {{N0}}​ ({{N1}}/{{N2}})",
+      "styleMappings": {
+        "Next Upgrade": "下次升级"
+      }
+    },
+    {
+      "source": [
+        "Right-click to equip!"
+      ],
+      "translation": "右键点击装备!",
+      "styleMappings": {
+        "Right-click to equip!": "右键点击装备!",
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC NECKLACE"
+      ],
+      "translation": "史诗项链",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Necklace": "项链"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

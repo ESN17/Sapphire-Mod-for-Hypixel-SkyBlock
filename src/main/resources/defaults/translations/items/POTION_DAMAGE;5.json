@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_DAMAGE;5",
+  "_original_name": "Damage V Potion",
+  "_original_lore": [
+    "",
+    "Damage V",
+    "Instantly deals 200 damage.",
+    "",
+    "RARE"
+  ],
+  "name": "伤害 V 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage V",
+        "Instantly deals {{N0}} damage."
+      ],
+      "translation": "伤害 V 立即造成 {{N0}} 伤害.",
+      "styleMappings": {
+        "Instantly deals": "立即造成",
+        "Damage V": "伤害 V",
+        "damage": "伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Damage V": "伤害 V",
+    "Damage": "伤害"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

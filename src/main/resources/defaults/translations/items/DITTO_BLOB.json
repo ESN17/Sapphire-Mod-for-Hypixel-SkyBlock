@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "DITTO_BLOB",
+  "_original_name": "Ditto Blob",
+  "_original_lore": [
+    "Combine this blob in an anvil with any item",
+    "which is a skinned skull to turn it into a",
+    "decoration block which you can place on",
+    "your island.",
+    "",
+    "CAUTION! The item will blob away!",
+    "(The item will be destroyed)",
+    "",
+    "LEGENDARY COSMETIC"
+  ],
+  "name": "百变怪团块",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combine this blob in an anvil with any item",
+        "which is a skinned skull to turn it into a",
+        "decoration block which you can place on",
+        "your island."
+      ],
+      "translation": "在铁砧中将此团块与任何带有皮肤的头颅物品合成,将其变为可放置在你的岛屿上的装饰方块.",
+      "styleMappings": {
+        "decoration block": "装饰方块",
+        "skinned skull": "带有皮肤的头颅",
+        "anvil": "铁砧",
+        "item": "物品",
+        "island": "岛屿上",
+        "Combine": "合成"
+      }
+    },
+    {
+      "source": [
+        "CAUTION! The item will blob away!"
+      ],
+      "translation": "注意!物品会变走!",
+      "styleMappings": {
+        "CAUTION!": "注意!",
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "(The item will be destroyed)"
+      ],
+      "translation": "(物品将被摧毁)",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY COSMETIC"
+      ],
+      "translation": "传说外观",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

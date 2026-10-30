@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "id": "LAPIDARY;3",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Lapidary III",
+    "Grants +30 Gemstone Fortune and",
+    "+60 Mining Speed while mining",
+    "Gemstones.",
+    "",
+    "Sources:",
+    " - Crystal Nucleus (I)",
+    " - Bazaar (I-V)",
+    "",
+    "Applied To:",
+    " - Pickaxe",
+    " - Drill",
+    " - Gauntlet",
+    "",
+    "Requirements:",
+    " - Enchanting Level 22",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Lapidary III"
+      ],
+      "translation": "宝石工匠 III",
+      "styleMappings": {
+        "Lapidary": "宝石工匠",
+        "III": "III"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Gemstone Fortune and",
+        "{{N1}} Mining Speed while mining",
+        "Gemstones."
+      ],
+      "translation": "挖掘宝石时提供 {{N0}} 宝石幸运和 {{N1}} 采矿速度.",
+      "styleMappings": {
+        "Gemstone Fortune": "宝石幸运",
+        "Mining Speed": "采矿速度",
+        "Gemstones": "宝石",
+        "Grants": "提供",
+        "Mining": "采矿",
+        "Gemstone": "宝石",
+        "Fortune": "幸运",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Crystal Nucleus (I)",
+        " - Bazaar (I-V)"
+      ],
+      "translation": " - 水晶核心 (一)  - 集市 (一至五)",
+      "styleMappings": {
+        "Crystal Nucleus": "水晶核心",
+        "Bazaar": "集市",
+        "I-V": "一至五",
+        "I": "一",
+        "Crystal": "水晶"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Pickaxe",
+        " - Drill",
+        " - Gauntlet"
+      ],
+      "translation": " - 镐  - 钻头  - 护手",
+      "styleMappings": {
+        "Gauntlet": "护手",
+        "Drill": "钻头",
+        "Pickaxe": "镐"
+      }
+    },
+    {
+      "source": [
+        "Requirements:"
+      ],
+      "translation": "需求:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchanting Level {{N0}}"
+      ],
+      "translation": " - 附魔等级 {{N0}}",
+      "styleMappings": {
+        "Enchanting Level": "附魔等级"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

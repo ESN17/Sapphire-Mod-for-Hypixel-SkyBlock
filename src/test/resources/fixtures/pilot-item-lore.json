@@ -1,0 +1,1516 @@
+{
+  "ASPECT_OF_THE_DRAGON": {
+    "name": "§6Aspect of the Dragons",
+    "lore": [
+      "§7Damage: §c+225",
+      "§7Strength: §c+100",
+      "§7Gemstones: §8[]",
+      "",
+      "§6Ability: Dragon Rage  §e§lRIGHT CLICK",
+      "§7All Monsters in front of you take §a12,000",
+      "§7damage. Hit monsters take large knockback.",
+      "§8Mana Cost: §b100",
+      "",
+      "§8This item can be reforged!",
+      "§4❣ §cRequires §aCombat Skill 18§c.",
+      "§6§lLEGENDARY SWORD"
+    ]
+  },
+  "ASPECT_OF_THE_VOID": {
+    "name": "§5Aspect of the Void",
+    "lore": [
+      "§7Damage: §c+120",
+      "§7Strength: §c+100",
+      "§7Gemstones: §8[§7§8]",
+      "",
+      "§6Ability: Instant Transmission  §e§lRIGHT CLICK",
+      "§7Teleport §a8 blocks§7 ahead of you and",
+      "§7gain §a+50 §f Speed§7 for §a3 seconds§7.",
+      "§8Mana Cost: §b45",
+      "",
+      "§8This item can be reforged!",
+      "§5§lEPIC SWORD"
+    ]
+  },
+  "HYPERION": {
+    "name": "§6Hyperion",
+    "lore": [
+      "§7Gear Score: §d615",
+      "§7Damage: §c+260",
+      "§7Strength: §c+150",
+      "§7Ferocity: §c+30",
+      "§7Intelligence: §b+350",
+      "§7Gemstones: §8[] [⚔]",
+      "",
+      "§7Deals §c+50% §7damage to §8 Wither §7mobs.",
+      "§7Grants §c+1  Damage §7and §a+2 §b",
+      "§bIntelligence §7per §cCatacombs §7level.",
+      "",
+      "§eRight-click to use your class ability!",
+      "",
+      "§8This item can be reforged!",
+      "§4❣ §cRequires The Catacombs Floor VII Completion.",
+      "§6§lLEGENDARY DUNGEON SWORD"
+    ]
+  },
+  "LIVID_DAGGER": {
+    "name": "§6Livid Dagger",
+    "lore": [
+      "§7Gear Score: §d685",
+      "§7Damage: §c+210",
+      "§7Strength: §c+60",
+      "§7Crit Chance: §9+100%",
+      "§7Crit Damage: §9+50%",
+      "§7Attack Speed: §e+50%",
+      "§7Gemstones: §8[]",
+      "",
+      "§6Ability: Throw  §e§lRIGHT CLICK",
+      "§7Throw your dagger at your enemies!",
+      "§8Mana Cost: §b150",
+      "§8Cooldown: §a5s",
+      "",
+      "§7Your Critical Hits deal §9100% §7more",
+      "§7damage if you are behind your",
+      "§7target.",
+      "",
+      "§8This item can be reforged!",
+      "§4❣ §cRequires The Catacombs Floor V Completion.",
+      "§6§lLEGENDARY DUNGEON SWORD"
+    ]
+  },
+  "SHADOW_FURY": {
+    "name": "§6Shadow Fury",
+    "lore": [
+      "§7Gear Score: §d554",
+      "§7Damage: §c+300",
+      "§7Strength: §c+130",
+      "§7Crit Damage: §9+30%",
+      "§7Speed: §f+30",
+      "§7Gemstones: §8[]",
+      "",
+      "§6Ability: Shadow Fury  §e§lRIGHT CLICK",
+      "§7Rapidly teleports you to up to §b5 §7enemies within",
+      "§e12 §7blocks, rooting each of them and allowing",
+      "§7you to hit them.",
+      "§8Cooldown: §a15s",
+      "",
+      "§8This item can be reforged!",
+      "§4❣ §cRequires The Catacombs Floor V Completion.",
+      "§6§lLEGENDARY DUNGEON SWORD"
+    ]
+  },
+  "FLOWER_OF_TRUTH": {
+    "name": "§6Flower of Truth",
+    "lore": [
+      "§7Gear Score: §d460",
+      "§7Damage: §c+160",
+      "§7Strength: §c+300",
+      "§7Gemstones: §8[]",
+      "",
+      "§6Ability: Heat-Seeking Rose  §e§lRIGHT CLICK",
+      "§7Shoots a rose that ricochets between enemies,",
+      "§7damaging up to §a3 §7of your foes! Damage",
+      "§7multiplies as more enemies are hit.",
+      "§8Health Cost: §c100",
+      "§8Cooldown: §a1s",
+      "",
+      "§8This item can be reforged!",
+      "§4❣ §cRequires The Catacombs Floor VI Completion.",
+      "§6§lLEGENDARY DUNGEON SWORD"
+    ]
+  },
+  "BONZO_STAFF": {
+    "name": "§9Bonzo's Staff",
+    "lore": [
+      "§7Gear Score: §d285",
+      "§7Damage: §c+160",
+      "§7Intelligence: §b+250",
+      "§7Gemstones: §8[§7§8]",
+      "",
+      "§6Ability: Showtime  §e§lRIGHT CLICK",
+      "§7Shoots balloons that create a large explosion",
+      "§7on impact, dealing up to §c1,000 §7damage.",
+      "§8Mana Cost: §b90",
+      "",
+      "§8This item can be reforged!",
+      "§4❣ §cRequires The Catacombs Floor I Completion.",
+      "§9§lRARE DUNGEON SWORD"
+    ]
+  },
+  "FROZEN_SCYTHE": {
+    "name": "§9Frozen Scythe",
+    "lore": [
+      "§7Damage: §c+80",
+      "",
+      "§6Ability: Ice Bolt  §e§lRIGHT CLICK",
+      "§7Shoots §a1 §7Ice Bolt that deals §c1,000 §7damage and",
+      "§7slows enemies hit for §a5 §7seconds!",
+      "§8Mana Cost: §b50",
+      "",
+      "§8This item can be reforged!",
+      "§9§lRARE SWORD"
+    ]
+  },
+  "CRYPT_DREADLORD_SWORD": {
+    "name": "§9Dreadlord Sword",
+    "lore": [
+      "§7Gear Score: §d118",
+      "§7Damage: §c+52",
+      "§7Strength: §c+23",
+      "§7Intelligence: §b+85",
+      "",
+      "§6Ability: Dreadlord  §e§lRIGHT CLICK",
+      "§7Shoot a skull that deals §a504§7 damage.",
+      "§8Mana Cost: §b40",
+      "",
+      "§8This item can be reforged!",
+      "§4❣ §cRequires Catacombs Skill 3.",
+      "§9§lRARE DUNGEON SWORD"
+    ]
+  },
+  "JUJU_SHORTBOW": {
+    "name": "§5Juju Shortbow",
+    "lore": [
+      "§7Damage: §c+310",
+      "§7Strength: §c+40",
+      "§7Crit Chance: §9+10%",
+      "§7Crit Damage: §9+110%",
+      "§7Shot Cooldown: §a0.5s",
+      "",
+      "§7Hits §c3 §7mobs on impact.",
+      "§7Can damage endermen.",
+      "",
+      "§5Shortbow: Instantly shoots!",
+      "",
+      "§8This item can be reforged!",
+      "§4☠ §cRequires §5Enderman Slayer 5§c.",
+      "§5§lEPIC BOW"
+    ]
+  },
+  "TERMINATOR": {
+    "name": "§6Terminator",
+    "lore": [
+      "§7Damage: §c+310",
+      "§7Strength: §c+50",
+      "§7Crit Damage: §9+250%",
+      "§7Attack Speed: §e+40%",
+      "§7Shot Cooldown: §a0.5s",
+      "",
+      "§7Shoots §b3 §7arrows at once.",
+      "§7Can damage endermen.",
+      "",
+      "§cDivides your §9 Crit Chance §cby 4!",
+      "",
+      "§6Ability: Salvation  §e§lLEFT CLICK",
+      "§7Can be cast after landing §63 §7hits.",
+      "§7Shoot a beam, penetrating up to §e5",
+      "§7enemies.",
+      "§7The beam always crits.",
+      "§8Soulflow Cost: §31⸎",
+      "",
+      "§6Shortbow: Instantly shoots!",
+      "",
+      "§8This item can be reforged!",
+      "§4☠ §cRequires §5Enderman Slayer 7§c.",
+      "§6§lLEGENDARY BOW"
+    ]
+  },
+  "RUNAANS_BOW": {
+    "name": "§6Runaan's Bow",
+    "lore": [
+      "§7Damage: §c+160",
+      "§7Strength: §c+50",
+      "",
+      "§6Ability: Triple Shot ",
+      "§7Shoots 3 arrows at a time! The 2",
+      "§7extra arrows deal §a40% §7of the",
+      "§7damage and home to targets.",
+      "",
+      "§8This item can be reforged!",
+      "§6§lLEGENDARY BOW"
+    ]
+  },
+  "HURRICANE_BOW": {
+    "name": "§5Hurricane Bow",
+    "lore": [
+      "§7Damage: §c+120",
+      "§7Strength: §c+50",
+      "",
+      "§6Ability: Tempest ",
+      "§7The more kills you get using this bow",
+      "§7the more powerful it becomes! Reach",
+      "§6250 §7kills to unlock its full potential.",
+      "§7Next Upgrade: §eDouble Shot §8(§a0§7/§c20§8)",
+      "",
+      "§7Kills: §b0",
+      "",
+      "§8This item can be reforged!",
+      "§5§lEPIC BOW"
+    ]
+  },
+  "UNDEAD_SWORD": {
+    "name": "§fUndead Sword",
+    "lore": [
+      "§7Damage: §c+30",
+      "",
+      "§7Deals §a+100% §7damage to §2 Undead",
+      "§7mobs.",
+      "",
+      "§8This item can be reforged!",
+      "§f§lCOMMON SWORD"
+    ]
+  },
+  "ZOMBIE_SWORD": {
+    "name": "§9Zombie Sword",
+    "lore": [
+      "§7Damage: §c+100",
+      "§7Strength: §c+50",
+      "§7Intelligence: §b+50",
+      "§7Gemstones: §8[§7§8]",
+      "",
+      "§6Ability: Instant Heal  §e§lRIGHT CLICK",
+      "§7Heal for §c320❤ §7and heal players within §a7",
+      "§7blocks for §c64❤§7.",
+      "§8Vitality Cost: §425",
+      "",
+      "§8This item can be reforged!",
+      "§9§lRARE SWORD"
+    ]
+  },
+  "ORNATE_ZOMBIE_SWORD": {
+    "name": "§5Ornate Zombie Sword",
+    "lore": [
+      "§7Damage: §c+110",
+      "§7Strength: §c+60",
+      "§7Intelligence: §b+50",
+      "§7Gemstones: §8[§7§8] []",
+      "",
+      "§6Ability: Instant Heal  §e§lRIGHT CLICK",
+      "§7Heal for §c420❤ §7and heal players within §a7",
+      "§7blocks for §c84❤§7.",
+      "§8Vitality Cost: §425",
+      "",
+      "§8This item can be reforged!",
+      "§5§lEPIC SWORD"
+    ]
+  },
+  "FLORID_ZOMBIE_SWORD": {
+    "name": "§6Florid Zombie Sword",
+    "lore": [
+      "§7Damage: §c+150",
+      "§7Strength: §c+80",
+      "§7Intelligence: §b+100",
+      "§7Gemstones: §8[§7§8] []",
+      "",
+      "§6Ability: Instant Heal  §e§lRIGHT CLICK",
+      "§7Heal for §c500❤ §7and heal players within §a8",
+      "§7blocks for §c100❤§7.",
+      "§8Vitality Cost: §425",
+      "",
+      "§8This item can be reforged!",
+      "§6§lLEGENDARY SWORD"
+    ]
+  },
+  "ROGUE_SWORD": {
+    "name": "§fRogue Sword",
+    "lore": [
+      "§7Damage: §c+20",
+      "",
+      "§6Ability: Speed Boost  §e§lRIGHT CLICK",
+      "§7Grants §f+100 Speed §7for §a30s§7.",
+      "§8Mana Cost: §b41",
+      "§8Cooldown: §a5s",
+      "",
+      "§8This item can be reforged!",
+      "§8§l* §8Co-op Soulbound §8§l*",
+      "§f§lCOMMON SWORD"
+    ]
+  },
+  "YOUNG_DRAGON_HELMET": {
+    "name": "§6Young Dragon Helmet",
+    "lore": [
+      "§7Health: §c+70",
+      "§7Defense: §a+110",
+      "§7Speed: §f+20",
+      "§7Gemstones: §8[⚔]",
+      "",
+      "§6Full Set Bonus: Young Blood §7(0/4)",
+      "§7Gain §a+70§7 Walk Speed while you are",
+      "§7above §a50%§7 HP.",
+      "§8+100 Walk Speed Cap",
+      "",
+      "§8This item can be reforged!",
+      "§4❣ §cRequires §aCombat Skill 16§c.",
+      "§6§lLEGENDARY HELMET"
+    ]
+  },
+  "YOUNG_DRAGON_CHESTPLATE": {
+    "name": "§6Young Dragon Chestplate",
+    "lore": [
+      "§7Health: §c+120",
+      "§7Defense: §a+160",
+      "§7Speed: §f+20",
+      "§7Gemstones: §8[⚔]",
+      "",
+      "§6Full Set Bonus: Young Blood §7(0/4)",
+      "§7Gain §a+70§7 Walk Speed while you are",
+      "§7above §a50%§7 HP.",
+      "§8+100 Walk Speed Cap",
+      "",
+      "§8This item can be reforged!",
+      "§4❣ §cRequires §aCombat Skill 16§c.",
+      "§6§lLEGENDARY CHESTPLATE"
+    ]
+  },
+  "YOUNG_DRAGON_LEGGINGS": {
+    "name": "§6Young Dragon Leggings",
+    "lore": [
+      "§7Health: §c+100",
+      "§7Defense: §a+140",
+      "§7Speed: §f+20",
+      "§7Gemstones: §8[⚔]",
+      "",
+      "§6Full Set Bonus: Young Blood §7(0/4)",
+      "§7Gain §a+70§7 Walk Speed while you are",
+      "§7above §a50%§7 HP.",
+      "§8+100 Walk Speed Cap",
+      "",
+      "§8This item can be reforged!",
+      "§4❣ §cRequires §aCombat Skill 16§c.",
+      "§6§lLEGENDARY LEGGINGS"
+    ]
+  },
+  "YOUNG_DRAGON_BOOTS": {
+    "name": "§6Young Dragon Boots",
+    "lore": [
+      "§7Health: §c+60",
+      "§7Defense: §a+90",
+      "§7Speed: §f+20",
+      "§7Gemstones: §8[⚔]",
+      "",
+      "§6Full Set Bonus: Young Blood §7(0/4)",
+      "§7Gain §a+70§7 Walk Speed while you are",
+      "§7above §a50%§7 HP.",
+      "§8+100 Walk Speed Cap",
+      "",
+      "§8This item can be reforged!",
+      "§4❣ §cRequires §aCombat Skill 16§c.",
+      "§6§lLEGENDARY BOOTS"
+    ]
+  },
+  "STRONG_DRAGON_HELMET": {
+    "name": "§6Strong Dragon Helmet",
+    "lore": [
+      "§7Health: §c+70",
+      "§7Defense: §a+110",
+      "§7Strength: §c+25",
+      "§7Gemstones: §8[]",
+      "",
+      "§6Full Set Bonus: Strong Blood §7(0/4)",
+      "§7Improves §9Aspect of the End",
+      "§8⋗ §c+75 Damage",
+      "",
+      "§7Instant Transmission:",
+      "§8⋗ §a+2 §7teleport range",
+      "§8⋗ §a+3 §7seconds",
+      "§8⋗ §c+5 Strength §7on cast",
+      "",
+      "§8This item can be reforged!",
+      "§4❣ §cRequires §aCombat Skill 16§c.",
+      "§6§lLEGENDARY HELMET"
+    ]
+  },
+  "STRONG_DRAGON_CHESTPLATE": {
+    "name": "§6Strong Dragon Chestplate",
+    "lore": [
+      "§7Health: §c+120",
+      "§7Defense: §a+160",
+      "§7Strength: §c+25",
+      "§7Gemstones: §8[]",
+      "",
+      "§6Full Set Bonus: Strong Blood §7(0/4)",
+      "§7Improves §9Aspect of the End",
+      "§8⋗ §c+75 Damage",
+      "",
+      "§7Instant Transmission:",
+      "§8⋗ §a+2 §7teleport range",
+      "§8⋗ §a+3 §7seconds",
+      "§8⋗ §c+5 Strength §7on cast",
+      "",
+      "§8This item can be reforged!",
+      "§4❣ §cRequires §aCombat Skill 16§c.",
+      "§6§lLEGENDARY CHESTPLATE"
+    ]
+  },
+  "STRONG_DRAGON_LEGGINGS": {
+    "name": "§6Strong Dragon Leggings",
+    "lore": [
+      "§7Health: §c+100",
+      "§7Defense: §a+140",
+      "§7Strength: §c+25",
+      "§7Gemstones: §8[]",
+      "",
+      "§6Full Set Bonus: Strong Blood §7(0/4)",
+      "§7Improves §9Aspect of the End",
+      "§8⋗ §c+75 Damage",
+      "",
+      "§7Instant Transmission:",
+      "§8⋗ §a+2 §7teleport range",
+      "§8⋗ §a+3 §7seconds",
+      "§8⋗ §c+5 Strength §7on cast",
+      "",
+      "§8This item can be reforged!",
+      "§4❣ §cRequires §aCombat Skill 16§c.",
+      "§6§lLEGENDARY LEGGINGS"
+    ]
+  },
+  "STRONG_DRAGON_BOOTS": {
+    "name": "§6Strong Dragon Boots",
+    "lore": [
+      "§7Health: §c+60",
+      "§7Defense: §a+90",
+      "§7Strength: §c+25",
+      "§7Gemstones: §8[]",
+      "",
+      "§6Full Set Bonus: Strong Blood §7(0/4)",
+      "§7Improves §9Aspect of the End",
+      "§8⋗ §c+75 Damage",
+      "",
+      "§7Instant Transmission:",
+      "§8⋗ §a+2 §7teleport range",
+      "§8⋗ §a+3 §7seconds",
+      "§8⋗ §c+5 Strength §7on cast",
+      "",
+      "§8This item can be reforged!",
+      "§4❣ §cRequires §aCombat Skill 16§c.",
+      "§6§lLEGENDARY BOOTS"
+    ]
+  },
+  "WISE_DRAGON_HELMET": {
+    "name": "§6Wise Dragon Helmet",
+    "lore": [
+      "§7Health: §c+70",
+      "§7Defense: §a+110",
+      "§7Intelligence: §b+125",
+      "§7Gemstones: §8[]",
+      "",
+      "§6Full Set Bonus: Wise Blood §7(0/4)",
+      "§7Abilities have §a2/3 §7of the mana cost.",
+      "",
+      "§8This item can be reforged!",
+      "§4❣ §cRequires §aCombat Skill 16§c.",
+      "§6§lLEGENDARY HELMET"
+    ]
+  },
+  "WISE_DRAGON_CHESTPLATE": {
+    "name": "§6Wise Dragon Chestplate",
+    "lore": [
+      "§7Health: §c+120",
+      "§7Defense: §a+160",
+      "§7Intelligence: §b+75",
+      "§7Gemstones: §8[]",
+      "",
+      "§6Full Set Bonus: Wise Blood §7(0/4)",
+      "§7Abilities have §a2/3 §7of the mana cost.",
+      "",
+      "§8This item can be reforged!",
+      "§4❣ §cRequires §aCombat Skill 16§c.",
+      "§6§lLEGENDARY CHESTPLATE"
+    ]
+  },
+  "WISE_DRAGON_LEGGINGS": {
+    "name": "§6Wise Dragon Leggings",
+    "lore": [
+      "§7Health: §c+100",
+      "§7Defense: §a+140",
+      "§7Intelligence: §b+75",
+      "§7Gemstones: §8[]",
+      "",
+      "§6Full Set Bonus: Wise Blood §7(0/4)",
+      "§7Abilities have §a2/3 §7of the mana cost.",
+      "",
+      "§8This item can be reforged!",
+      "§4❣ §cRequires §aCombat Skill 16§c.",
+      "§6§lLEGENDARY LEGGINGS"
+    ]
+  },
+  "WISE_DRAGON_BOOTS": {
+    "name": "§6Wise Dragon Boots",
+    "lore": [
+      "§7Health: §c+60",
+      "§7Defense: §a+90",
+      "§7Intelligence: §b+75",
+      "§7Gemstones: §8[]",
+      "",
+      "§6Full Set Bonus: Wise Blood §7(0/4)",
+      "§7Abilities have §a2/3 §7of the mana cost.",
+      "",
+      "§8This item can be reforged!",
+      "§4❣ §cRequires §aCombat Skill 16§c.",
+      "§6§lLEGENDARY BOOTS"
+    ]
+  },
+  "GRAPPLING_HOOK": {
+    "name": "§aGrappling Hook",
+    "lore": [
+      "§7Travel around in style using this",
+      "§7Grappling Hook.",
+      "§82 Second Cooldown",
+      "",
+      "§a§lUNCOMMON"
+    ]
+  },
+  "WAND_OF_HEALING": {
+    "name": "§aWand of Healing",
+    "lore": [
+      "§6Ability: Small Heal  §e§lRIGHT CLICK",
+      "§7Heal §c60❤ §7per second for 5s.",
+      "§8Wand heals don't stack.",
+      "§8Vitality Cost: §425",
+      "§8Cooldown: §a1s",
+      "",
+      "§4☠ §cRequires §5Zombie Slayer 1§c.",
+      "§a§lUNCOMMON WAND"
+    ]
+  },
+  "WAND_OF_MENDING": {
+    "name": "§9Wand of Mending",
+    "lore": [
+      "§6Ability: Medium Heal  §e§lRIGHT CLICK",
+      "§7Heal §c80❤ §7per second for 5s.",
+      "§8Wand heals don't stack.",
+      "§8Vitality Cost: §425",
+      "§8Cooldown: §a1s",
+      "",
+      "§4☠ §cRequires §5Zombie Slayer 3§c.",
+      "§9§lRARE WAND"
+    ]
+  },
+  "WAND_OF_RESTORATION": {
+    "name": "§5Wand of Restoration",
+    "lore": [
+      "§6Ability: Big Heal  §e§lRIGHT CLICK",
+      "§7Heal §c100❤ §7per second for 6s.",
+      "§8Wand heals don't stack.",
+      "§8Vitality Cost: §425",
+      "§8Cooldown: §a1s",
+      "",
+      "§4☠ §cRequires §5Zombie Slayer 6§c.",
+      "§5§lEPIC WAND"
+    ]
+  },
+  "WAND_OF_ATONEMENT": {
+    "name": "§6Wand of Atonement",
+    "lore": [
+      "§6Ability: Huge Heal  §e§lRIGHT CLICK",
+      "§7Heal §c120❤ §7per second for 6s.",
+      "§8Wand heals don't stack.",
+      "§8Vitality Cost: §425",
+      "§8Cooldown: §a1s",
+      "",
+      "§4☠ §cRequires §5Zombie Slayer 7§c.",
+      "§6§lLEGENDARY WAND"
+    ]
+  },
+  "RADIANT_POWER_ORB": {
+    "name": "§aRadiant Power Orb",
+    "lore": [
+      "§6Ability: Deploy  §e§lRIGHT CLICK",
+      "§7Place an orb for §a1m §7buffing up to §b5",
+      "§7players within §a18 §7blocks.",
+      "§8Mana Cost: §b50% of max",
+      "§8Vitality Cost: §450",
+      "",
+      "§aOrb Buff: Radiant",
+      "§8• §7Heal yourself for §c30❤§7 per second.",
+      "§8• §7Heal others for §c15❤§7 per second.",
+      "§8• §7Gain §c+25 Health Regen§7.",
+      "",
+      "§8Only one deployable buff applies.",
+      "",
+      "§4☠ §cRequires §5Wolf Slayer 2§c.",
+      "§a§lUNCOMMON DEPLOYABLE"
+    ]
+  },
+  "SUPER_COMPACTOR_3000": {
+    "name": "§9Super Compactor 3000",
+    "lore": [
+      "§8Minion Upgrade",
+      "",
+      "§7This item can be used as a minion",
+      "§7upgrade. This will automatically turn",
+      "§7materials that a minion produces into",
+      "§7their enchanted form when there",
+      "§7are enough resources in the",
+      "§7minion's storage.",
+      "",
+      "§9§lRARE"
+    ]
+  },
+  "COMPACTOR": {
+    "name": "§aCompactor",
+    "lore": [
+      "§8Minion Upgrade",
+      "",
+      "§7This item can be used as a minion",
+      "§7upgrade. This will automatically turn",
+      "§7materials that a minion produces into",
+      "§7their block form.",
+      "",
+      "§eRight-click to view recipes!",
+      "",
+      "§a§lUNCOMMON"
+    ]
+  },
+  "ENCHANTED_LAVA_BUCKET": {
+    "name": "§5Enchanted Lava Bucket",
+    "lore": [
+      "§8Minion Fuel",
+      "",
+      "§7Increases the speed of your minion",
+      "§7by §a25%§7. Unlimited Duration!",
+      "",
+      "§5§lEPIC"
+    ]
+  },
+  "BUDGET_HOPPER": {
+    "name": "§aBudget Hopper",
+    "lore": [
+      "§8Minion Shipping",
+      "",
+      "§7This item can be placed inside any",
+      "§7minion. Automatically sells generated",
+      "§7items when the minion has no space.",
+      "§7Items are sold for §a50% §7of their",
+      "§7selling price.",
+      "",
+      "§a§lUNCOMMON"
+    ]
+  },
+  "ENCHANTED_HOPPER": {
+    "name": "§9Enchanted Hopper",
+    "lore": [
+      "§8Minion Shipping",
+      "",
+      "§7This item can be placed inside any",
+      "§7minion. Automatically sells generated",
+      "§7items when the minion has no space.",
+      "§7Items are sold for §a70% §7of their",
+      "§7selling price.",
+      "",
+      "§9§lRARE"
+    ]
+  },
+  "DWARVEN_COMPACTOR": {
+    "name": "§9Dwarven Super Compactor",
+    "lore": [
+      "§8Minion Upgrade",
+      "",
+      "§7This item can be used as a minion",
+      "§7upgrade.",
+      "§7Automatically smelts materials",
+      "§7produced by minions before",
+      "§7compacting them into their enchanted",
+      "§7form.",
+      "",
+      "§9§lRARE"
+    ]
+  },
+  "DIAMOND_SPREADING": {
+    "name": "§9Diamond Spreading",
+    "lore": [
+      "§8Minion Upgrade",
+      "",
+      "§7This item can be used as a minion",
+      "§7upgrade. Place it in any minion and it",
+      "§7will occasionally generate Diamonds!",
+      "",
+      "§9§lRARE"
+    ]
+  },
+  "MAGMA_BUCKET": {
+    "name": "§6Magma Bucket",
+    "lore": [
+      "§8Minion Fuel",
+      "",
+      "§7Increases the speed of your minion",
+      "§7by §a30%§7. Unlimited Duration!",
+      "",
+      "§6§lLEGENDARY"
+    ]
+  },
+  "PLASMA_BUCKET": {
+    "name": "§dPlasma Bucket",
+    "lore": [
+      "§8Minion Fuel",
+      "",
+      "§7Increases the speed of your minion",
+      "§7by §a35%§7. Unlimited Duration!",
+      "",
+      "§d§lMYTHIC"
+    ]
+  },
+  "PERSONAL_COMPACTOR_4000": {
+    "name": "§aPersonal Compactor 4000",
+    "lore": [
+      "§7Accessory Power: §6+5",
+      "",
+      "§7Automatically turns certain materials",
+      "§7in your inventory into their",
+      "§7enchanted form.",
+      "",
+      "§eRight-click to configure!",
+      "",
+      "§8Does not grant Carpentry XP!",
+      "",
+      "§8Works while in Accessory Bag!",
+      "§a§lUNCOMMON ACCESSORY"
+    ]
+  },
+  "SPEED_TALISMAN": {
+    "name": "§fSpeed Talisman",
+    "lore": [
+      "§7Speed: §f+1",
+      "§7Accessory Power: §6+3",
+      "",
+      "§8Works while in Accessory Bag!",
+      "§f§lCOMMON ACCESSORY"
+    ]
+  },
+  "FEATHER_TALISMAN": {
+    "name": "§fFeather Talisman",
+    "lore": [
+      "§7Accessory Power: §6+3",
+      "",
+      "§7Increases how high you can fall",
+      "§7before taking fall damage by §a5",
+      "§7blocks.",
+      "",
+      "§8Works while in Accessory Bag!",
+      "§f§lCOMMON ACCESSORY"
+    ]
+  },
+  "ZOMBIE_TALISMAN": {
+    "name": "§fZombie Talisman",
+    "lore": [
+      "§7Accessory Power: §6+3",
+      "",
+      "§7Reduces the damage taken from §2",
+      "§2Undead §7mobs by §a5%§7.",
+      "",
+      "§8Works while in Accessory Bag!",
+      "§f§lCOMMON ACCESSORY"
+    ]
+  },
+  "VILLAGE_TALISMAN": {
+    "name": "§fVillage Affinity Talisman",
+    "lore": [
+      "§7Accessory Power: §6+3",
+      "",
+      "§7Increases your §f Speed §7by §a+10",
+      "§7while held in the §bVillage§7.",
+      "",
+      "§8Works while in Accessory Bag!",
+      "§f§lCOMMON ACCESSORY"
+    ]
+  },
+  "MINE_TALISMAN": {
+    "name": "§fMine Affinity Talisman",
+    "lore": [
+      "§7Accessory Power: §6+3",
+      "",
+      "§7Grants §f+25 Speed §7while on §6Mining",
+      "§6Islands§7.",
+      "",
+      "§8Works while in Accessory Bag!",
+      "§f§lCOMMON ACCESSORY"
+    ]
+  },
+  "MAGNETIC_TALISMAN": {
+    "name": "§aMagnetic Talisman",
+    "lore": [
+      "§7Accessory Power: §6+5",
+      "",
+      "§7Increase the item pick up range by",
+      "§a3x§7.",
+      "",
+      "§8Works while in Accessory Bag!",
+      "§a§lUNCOMMON ACCESSORY"
+    ]
+  },
+  "BOOSTER_COOKIE": {
+    "name": "§6Booster Cookie",
+    "lore": [
+      "§7Consume to gain the §dCookie Buff §7for",
+      "§b4 §7days:",
+      "",
+      "§8‣ §7Ability to gain §bBits§7!",
+      "§8‣ §3+25☯ §7on all §3Wisdom §7stats",
+      "§8‣ §b+15 §7Magic Find",
+      "§8‣ §7Keep §6coins §7on death",
+      "§8‣ §ePermafly §7on private islands and gardens",
+      "§8‣ §7Quick access to some menus using their",
+      "§7respective commands:",
+      "  §6/ah§7, §6/bazaar§7, §a/bank§7, §6/accessorybag§7,",
+      "  §b/fishingbag§7, §d/timepocket§7, §f/anvil§7, §d/hex§7,",
+      "  §b/etable§7, §d/potionbag§7, and §e/quiver",
+      "§8‣ §7Sell items directly to the trades and cookie menu",
+      "§8‣ §7AFK §aimmunity §7on your island and garden",
+      "§8‣ §7Toggle specific §dpotion effects",
+      "§8‣ §7Link your items in chat using §e/show",
+      "§8‣ §7Insta-sell your Material stash to the §6Bazaar",
+      "§8‣ §7Increases §6Chocolate Factory §7production by §6+0.25x",
+      "§8‣ §7Allows consuming §9Mixins §7directly from your inventory",
+      "§8‣ §7Call §3Abiphone Contacts §7with §b/call",
+      "",
+      "§6§lLEGENDARY"
+    ]
+  },
+  "SUMMONING_EYE": {
+    "name": "§5Summoning Eye",
+    "lore": [
+      "§8Minion Upgrade",
+      "",
+      "§7Use this at the §5Ender Altar §7in the",
+      "§5Dragon's Nest §7to summon Ender",
+      "§7Dragons!",
+      "",
+      "§5§lEPIC"
+    ]
+  },
+  "REMNANT_OF_THE_EYE": {
+    "name": "§5Remnant of the Eye",
+    "lore": [
+      "§7Keeps you alive when you are on",
+      "§7death's door, granting a short",
+      "§7period of invincibility. Consumed on",
+      "§7use.",
+      "",
+      "§cONLY WORKS ON THE END ISLAND.",
+      "",
+      "§5§lEPIC"
+    ]
+  },
+  "HOT_POTATO_BOOK": {
+    "name": "§5Hot Potato Book",
+    "lore": [
+      "§8Combinable in Anvil",
+      "",
+      "§7When applied to armor, grants §a+2",
+      "§aDefense §7and §c+4 Health§7.",
+      "",
+      "§7When applied to weapons, grants",
+      "§c+2 Strength §7and §c+2 Damage§7.",
+      "",
+      "§7This can be applied to an item up to",
+      "§a10 §7times!",
+      "",
+      "§5§lEPIC"
+    ]
+  },
+  "FUMING_POTATO_BOOK": {
+    "name": "§5Fuming Potato Book",
+    "lore": [
+      "§8Combinable in Anvil",
+      "",
+      "§7When applied to armor, grants §a+2",
+      "§aDefense §7and §c+4 Health§7.",
+      "",
+      "§7When applied to weapons, grants",
+      "§c+2 Strength §7and §c+2 Damage§7.",
+      "",
+      "§7This book bypasses the §5Hot Potato",
+      "§5Book §7limit of §a10§7, allowing you to",
+      "§7upgrade an item up to §a15 §7times!",
+      "",
+      "§5§lEPIC DUNGEON ITEM"
+    ]
+  },
+  "THE_ART_OF_WAR": {
+    "name": "§6The Art of War",
+    "lore": [
+      "§8Combinable in Anvil",
+      "",
+      "§7Grants §c+5 Strength §7when applied",
+      "§7to a weapon. Can only be applied to",
+      "§7an item once.",
+      "",
+      "§8In the midst of chaos, there is also",
+      "§8opportunity.",
+      "§8 - Sun Tzu",
+      "",
+      "§6§lLEGENDARY"
+    ]
+  },
+  "THE_ART_OF_PEACE": {
+    "name": "§6The Art of Peace",
+    "lore": [
+      "§8Combinable in Anvil",
+      "",
+      "§7Grants §c+40 Health §7when applied to",
+      "§7an armor piece. Can only be applied",
+      "§7to an item once.",
+      "",
+      "§8Stop quoting my cousin.",
+      "§8 - Moon Tzu",
+      "",
+      "§6§lLEGENDARY"
+    ]
+  },
+  "TRANSMISSION_TUNER": {
+    "name": "§5Transmission Tuner",
+    "lore": [
+      "§8Combinable in Anvil",
+      "",
+      "§7When applied to an item offering a",
+      "§7Transmission ability, its ability range",
+      "§7is increased by §d+1§7. Can be applied",
+      "§7up to §a4 §7times!",
+      "",
+      "§eRight-click to view recipes!",
+      "",
+      "§5§kX§5 Rift-Transferable §5§kX",
+      "§5§lEPIC"
+    ]
+  },
+  "DRAGON_CLAW": {
+    "name": "§9Dragon Claw",
+    "lore": [
+      "§8Reforge Stone",
+      "§8Combinable in Anvil",
+      "",
+      "§7Applies the §9Fabled §7reforge when",
+      "§7combined with a §cMelee Weapon§7.",
+      "",
+      "§8§oDragons rarely use their claws.",
+      "§8§oThey should.",
+      "",
+      "§7Grants the following stats that scale",
+      "§7with the item's rarity:",
+      " §c Strength",
+      " §9 Crit Damage",
+      "",
+      "§9Fabled Bonus",
+      "§9 Crits §7have a chance to deal up to",
+      "§c+15% §7more §c Damage§7.",
+      "",
+      "§eRight-click to view rarity scaling!",
+      "",
+      "§4❣ §cRequires §aMining Skill 22§c.",
+      "",
+      "§9§lRARE REFORGE STONE"
+    ]
+  },
+  "DRAGON_HORN": {
+    "name": "§5Dragon Horn",
+    "lore": [
+      "§8Reforge Stone",
+      "§8Combinable in Anvil",
+      "",
+      "§7Applies the §9Renowned §7reforge when",
+      "§7combined with §cArmor§7.",
+      "",
+      "§7Grants the following stats that scale",
+      "§7with the item's rarity:",
+      " §c Health",
+      " §a Defense",
+      " §c Strength",
+      " §9 Crit Chance",
+      " §9 Crit Damage",
+      " §e Attack Speed",
+      " §b Intelligence",
+      " §f Speed",
+      "",
+      "§9Renowned Bonus",
+      "§7Grants §b+1%  Magic Find §7and §c+1% §7to",
+      "§7ALL §cCombat Stats§7.",
+      "",
+      "§eRight-click to view rarity scaling!",
+      "",
+      "§4❣ §cRequires §aMining Skill 25§c.",
+      "",
+      "§5§lEPIC REFORGE STONE"
+    ]
+  },
+  "REFINED_AMBER": {
+    "name": "§9Andesite Whetstone",
+    "lore": [
+      "§8Reforge Stone",
+      "§8Combinable in Anvil",
+      "",
+      "§7Applies the §9Refined §7reforge when",
+      "§7combined with a §6Mining Tool§7.",
+      "",
+      "§7Grants the following stats that scale",
+      "§7with the item's rarity:",
+      " §3☯ Mining Wisdom",
+      "",
+      "§9Refined Bonus",
+      "§7You have a §a0.25% §7chance to find",
+      "§7enchanted forms of items when mining",
+      "§6Ores§7.",
+      "",
+      "§eRight-click to view rarity scaling!",
+      "",
+      "§4❣ §cRequires §aMining Skill 25§c.",
+      "",
+      "§9§lRARE REFORGE STONE"
+    ]
+  },
+  "GOD_POTION": {
+    "name": "§cGod Potion",
+    "lore": [
+      "§8Legacy",
+      "",
+      "§7Consuming this potion gives the",
+      "§7player §a24 hours §7of all positive",
+      "§7potion effects!",
+      "",
+      "§eRight-click to consume!",
+      "",
+      "§8§l* §8Co-op Soulbound §8§l*",
+      "§c§lSPECIAL"
+    ]
+  },
+  "SUPERBOOM_TNT": {
+    "name": "§9Superboom TNT",
+    "lore": [
+      "§7Blows up cracked brick walls and",
+      "§7crypts, which are typically found in",
+      "§cDungeons §7and the §5Crystal Hollows§7.",
+      "",
+      "§9§lRARE"
+    ]
+  },
+  "INFINITE_SUPERBOOM_TNT": {
+    "name": "§5Infinityboom TNT",
+    "lore": [
+      "§7Instantly breaks weak walls. Can be",
+      "§7used to blow up Crypts in §cThe",
+      "§cCatacombs §7and §5Crystal Hollows§7.",
+      "",
+      "§8Cooldown: §a2s",
+      "",
+      "§5§lEPIC"
+    ]
+  },
+  "DUNGEON_CHEST_KEY": {
+    "name": "§9Dungeon Chest Key",
+    "lore": [
+      "§7Allows you to open an additional",
+      "§7treasure chest at the end of a",
+      "§7dungeon!",
+      "",
+      "§9§lRARE DUNGEON ITEM"
+    ]
+  },
+  "KISMET_FEATHER": {
+    "name": "§9Kismet Feather",
+    "lore": [
+      "§7Allows you to reroll a §cDungeon",
+      "§7or §cKuudra§7 reward chest.",
+      "",
+      "§7Keep this feather in your",
+      "§7inventory or §6Dungeon Sack§7 and",
+      "§7open a reward chest to use.",
+      "",
+      "§8You may only reroll 1 reward",
+      "§8chest per run!",
+      "",
+      "§9§lRARE"
+    ]
+  },
+  "SPIRIT_LEAP": {
+    "name": "§9Spirit Leap",
+    "lore": [
+      "§6Ability: Spirit Leap  §e§lRIGHT CLICK",
+      "§7Allows you to teleport to any teammate! Grants",
+      "§a1 §7second of immunity after teleporting,",
+      "§7immunity is cancelled upon dealing damage.",
+      "§8Cooldown: §a5s",
+      "",
+      "§cDungeons only!",
+      "",
+      "§9§lRARE DUNGEON ITEM"
+    ]
+  },
+  "WISHING_COMPASS": {
+    "name": "§aWishing Compass",
+    "lore": [
+      "§8Consumed on use",
+      "",
+      "§7Points to §dimportant locations §7while in",
+      "§7the §5Crystal Hollows§7.",
+      "",
+      "§eRight-click to consume!",
+      "",
+      "§8§oTrue enough, this compass does not",
+      "§8§opoint north. It points to the thing you",
+      "§8§owant most in this world.",
+      "",
+      "§a§lUNCOMMON"
+    ]
+  },
+  "GOBLIN_EGG": {
+    "name": "§9Goblin Egg",
+    "lore": [
+      "§7§oWhat came first the goblin or the",
+      "§7§oegg?",
+      "",
+      "§9§lRARE"
+    ]
+  },
+  "TREASURITE": {
+    "name": "§5Treasurite",
+    "lore": [
+      "§7Origin unknown.",
+      "",
+      "§5§lEPIC"
+    ]
+  },
+  "SORROW": {
+    "name": "§9Sorrow",
+    "lore": [
+      "§7To become a ghost, one must go",
+      "§7through unimaginable distress.",
+      "",
+      "§eRight-click to view recipes!",
+      "",
+      "§9§lRARE"
+    ]
+  },
+  "SULPHUR_ORE": {
+    "name": "§aSulphur",
+    "lore": [
+      "§8Collection Item",
+      "",
+      "§7§o\"Give me some Sulphur and I'll make a",
+      "§7§owand. Give me all the Sulphur and I'll",
+      "§7§oconquer the world.\" - Unnamed Mage.",
+      "",
+      "§a§lUNCOMMON ORE"
+    ]
+  },
+  "ENCHANTED_DIAMOND": {
+    "name": "§aEnchanted Diamond",
+    "lore": [
+      "§8Collection Item",
+      "",
+      "§a§lUNCOMMON ORE"
+    ]
+  },
+  "ENCHANTED_IRON": {
+    "name": "§aEnchanted Iron Ingot",
+    "lore": [
+      "§8Collection Item",
+      "",
+      "§a§lUNCOMMON ORE"
+    ]
+  },
+  "ENCHANTED_GOLD": {
+    "name": "§aEnchanted Gold Ingot",
+    "lore": [
+      "§8Brewing Ingredient",
+      "§8Collection Item",
+      "",
+      "§a§lUNCOMMON ORE"
+    ]
+  },
+  "ENCHANTED_EMERALD": {
+    "name": "§aEnchanted Emerald",
+    "lore": [
+      "§8Collection Item",
+      "",
+      "§a§lUNCOMMON ORE"
+    ]
+  },
+  "ENCHANTED_REDSTONE": {
+    "name": "§aEnchanted Redstone Dust",
+    "lore": [
+      "§8Brewing Ingredient",
+      "§8Collection Item",
+      "",
+      "§a§lUNCOMMON ORE"
+    ]
+  },
+  "ENCHANTED_LAPIS_LAZULI": {
+    "name": "§aEnchanted Lapis Lazuli",
+    "lore": [
+      "§8Collection Item",
+      "",
+      "§a§lUNCOMMON ORE"
+    ]
+  },
+  "ENCHANTED_COAL": {
+    "name": "§aEnchanted Coal",
+    "lore": [
+      "§8Minion Fuel",
+      "§8Collection Item",
+      "",
+      "§7Increases the speed of",
+      "§7your minion by §a10%§7 for 24",
+      "§7hours!",
+      "",
+      "§a§lUNCOMMON ORE"
+    ]
+  },
+  "ENCHANTED_COBBLESTONE": {
+    "name": "§aEnchanted Cobblestone",
+    "lore": [
+      "§8Collection Item",
+      "",
+      "§a§lUNCOMMON BLOCK"
+    ]
+  },
+  "ENCHANTED_ENDER_PEARL": {
+    "name": "§aEnchanted Ender Pearl",
+    "lore": [
+      "§8Collection Item",
+      "",
+      "§a§lUNCOMMON"
+    ]
+  },
+  "ENCHANTED_EYE_OF_ENDER": {
+    "name": "§aEnchanted Eye of Ender",
+    "lore": [
+      "§a§lUNCOMMON"
+    ]
+  },
+  "ENCHANTED_STRING": {
+    "name": "§aEnchanted String",
+    "lore": [
+      "§8Collection Item",
+      "",
+      "§a§lUNCOMMON"
+    ]
+  },
+  "ENCHANTED_ROTTEN_FLESH": {
+    "name": "§aEnchanted Rotten Flesh",
+    "lore": [
+      "§8Collection Item",
+      "",
+      "§a§lUNCOMMON"
+    ]
+  },
+  "ENCHANTED_BONE": {
+    "name": "§aEnchanted Bone",
+    "lore": [
+      "§8Collection Item",
+      "",
+      "§a§lUNCOMMON"
+    ]
+  },
+  "ENCHANTED_BLAZE_ROD": {
+    "name": "§9Enchanted Blaze Rod",
+    "lore": [
+      "§8Brewing Ingredient",
+      "§8Collection Item",
+      "",
+      "§9§lRARE"
+    ]
+  },
+  "ENCHANTED_SUGAR": {
+    "name": "§aEnchanted Sugar",
+    "lore": [
+      "§8Brewing Ingredient",
+      "§8Collection Item",
+      "",
+      "§a§lUNCOMMON"
+    ]
+  },
+  "ENCHANTED_SUGAR_CANE": {
+    "name": "§9Enchanted Sugar Cane",
+    "lore": [
+      "§8Brewing Ingredient",
+      "§8Collection Item",
+      "",
+      "§9§lRARE"
+    ]
+  },
+  "ENCHANTED_CARROT": {
+    "name": "§aEnchanted Carrot",
+    "lore": [
+      "§8Collection Item",
+      "",
+      "§a§lUNCOMMON"
+    ]
+  },
+  "ENCHANTED_POTATO": {
+    "name": "§aEnchanted Potato",
+    "lore": [
+      "§8Collection Item",
+      "",
+      "§a§lUNCOMMON"
+    ]
+  },
+  "ENCHANTED_PUMPKIN": {
+    "name": "§aEnchanted Pumpkin",
+    "lore": [
+      "§8Collection Item",
+      "",
+      "§a§lUNCOMMON"
+    ]
+  },
+  "ENCHANTED_LEATHER": {
+    "name": "§aEnchanted Leather",
+    "lore": [
+      "§8Collection Item",
+      "",
+      "§a§lUNCOMMON"
+    ]
+  },
+  "SHEEP;4": {
+    "name": "§7[Lvl {LVL}] §6Sheep",
+    "lore": [
+      "§8Alchemy Pet",
+      "",
+      "§7Intelligence: §b+{INTELLIGENCE}",
+      "§7Ability Damage: §c+{ABILITY_DAMAGE}%",
+      "",
+      "§6Mana Saver",
+      "§7Reduces the mana cost of abilities by",
+      "§a{0}%§7.",
+      "",
+      "§6Overheal",
+      "§7Gives a §a{1}% §7shield after not taking",
+      "§7damage for 10s",
+      "",
+      "§6Dungeon Wizard",
+      "§7Increases your total mana by §a{2}%",
+      "§7while in dungeons",
+      "",
+      "§eRight-click to add this pet to your pet menu!",
+      "",
+      "§6§lLEGENDARY PET"
+    ]
+  },
+  "TIGER;4": {
+    "name": "§7[Lvl {LVL}] §6Tiger",
+    "lore": [
+      "§8Combat Pet",
+      "",
+      "§7Strength: §c+{STRENGTH}",
+      "§7Crit Chance: §9+{CRIT_CHANCE}%",
+      "§7Crit Damage: §9+{CRIT_DAMAGE}%",
+      "§7Ferocity: §c+{FEROCITY}",
+      "",
+      "§6Merciless Swipe",
+      "§7Gain §c+{0}%  Ferocity§7.",
+      "",
+      "§6Hemorrhage",
+      "§7Melee attacks reduce healing by §6{1}%",
+      "§7for §a10s§7.",
+      "",
+      "§6Apex Predator",
+      "§7Deal §c+{2}% §7damage against targets with",
+      "§7no other mobs within §a15 §7blocks.",
+      "",
+      "§eRight-click to add this pet to your pet menu!",
+      "",
+      "§6§lLEGENDARY PET"
+    ]
+  },
+  "LION;4": {
+    "name": "§7[Lvl {LVL}] §6Lion",
+    "lore": [
+      "§8Foraging Pet",
+      "",
+      "§7Strength: §c+{STRENGTH}",
+      "§7Ferocity: §c+{FEROCITY}",
+      "§7Speed: §f+{SPEED}",
+      "",
+      "§6Primal Force",
+      "§7Adds §c+{0}  Damage §7and §c+{1} ",
+      "§cStrength §7to your weapons.",
+      "",
+      "§6First Pounce",
+      "§7First Strike, Triple-Strike, and",
+      "§d§lCombo §7are §a{2}% §7more effective.",
+      "",
+      "§6King of the Jungle",
+      "§7Deal §c+{3}%  Damage §7against mobs",
+      "§7that have attacked you.",
+      "",
+      "§eRight-click to add this pet to your pet menu!",
+      "",
+      "§6§lLEGENDARY PET"
+    ]
+  },
+  "RABBIT;4": {
+    "name": "§7[Lvl {LVL}] §6Rabbit",
+    "lore": [
+      "§8Farming Pet",
+      "",
+      "§7Health: §c+{HEALTH}",
+      "§7Speed: §f+{SPEED}",
+      "",
+      "§6Happy Feet",
+      "§7Jump potions also give §a+{0} §7speed",
+      "",
+      "§6Farming Wisdom Boost",
+      "§7Grants §3+{1}☯ Farming Wisdom§7.",
+      "",
+      "§6Efficient Farming",
+      "§7Farming minions work §a{2}% §7faster",
+      "§7while on your island",
+      "",
+      "§eRight-click to add this pet to your pet menu!",
+      "",
+      "§8Can be upgraded at Kat in The Hub!",
+      "§6§lLEGENDARY PET"
+    ]
+  },
+  "SILVERFISH;4": {
+    "name": "§7[Lvl {LVL}] §6Silverfish",
+    "lore": [
+      "§8Mining Pet",
+      "",
+      "§7Defense: §a+{DEFENSE}",
+      "§7Mining Fortune: §6+{MINING_FORTUNE}",
+      "",
+      "§6Magnetic",
+      "§7Earn §a+{0}% §7more Exp when mining.",
+      "",
+      "§6Experienced Burrower",
+      "§7Grants §3+{1}☯ Mining Wisdom§7.",
+      "",
+      "§6Dexterity",
+      "§7Grants §6+{2} Mining Speed §7and",
+      "§7permanent §eHaste {3}§7.",
+      "",
+      "§eRight-click to add this pet to your pet menu!",
+      "",
+      "§6§lLEGENDARY PET"
+    ]
+  },
+  "GRIFFIN;4": {
+    "name": "§7[Lvl {LVL}] §6Griffin",
+    "lore": [
+      "§8Combat Pet",
+      "",
+      "§7Strength: §c+{STRENGTH}",
+      "§7Crit Chance: §9+{CRIT_CHANCE}%",
+      "§7Crit Damage: §9+{CRIT_DAMAGE}%",
+      "§7Attack Speed: §e+{BONUS_ATTACK_SPEED}%",
+      "",
+      "§6Odyssey",
+      "§c10 §7types of §2 Mythological §7mobs can",
+      "§7spawn from §eGriffin Burrows§7. Their",
+      "§7stats scale with your Griffin’s",
+      "§7rarity.",
+      "",
+      "§6Sacred Strength",
+      "§7Gain §c+{0}%  Strength §7when above",
+      "§c85%  Health§7.",
+      "",
+      "§6King of Kings",
+      "§7Grants §b+{1} Magic Find §7on §2",
+      "§2Mythological §7mobs.",
+      "",
+      "§eRight-click to add this pet to your pet menu!",
+      "",
+      "§8Can be upgraded at Kat in The Hub!",
+      "§6§lLEGENDARY PET"
+    ]
+  }
+}

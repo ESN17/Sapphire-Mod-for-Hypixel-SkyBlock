@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "ATOMINIZER",
+  "_original_name": "Atominizer",
+  "_original_lore": [
+    "Right-Click on a Exe, Wai or Zee",
+    "Atom to harvest their orbs.",
+    "",
+    "❣ Requires Combat Skill 22.",
+    "EPIC"
+  ],
+  "name": "原子化器",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Right-Click on a Exe, Wai or Zee",
+        "Atom to harvest their orbs."
+      ],
+      "translation": "右键点击艾克斯、怀或泽原子以采集它们的球体.",
+      "styleMappings": {
+        "Right-Click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "DYE_ARCHFIEND",
+  "_original_name": "Archfiend Dye",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Changes the color of an armor piece",
+    "to #B80036!",
+    "",
+    "LEGENDARY DYE"
+  ],
+  "name": "大恶魔染料",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Changes the color of an armor piece",
+        "to #B{{N0}}!"
+      ],
+      "translation": "将一件盔甲的颜色改为 #B{{N0}}!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "LEGENDARY DYE"
+      ],
+      "translation": "传说染料",
+      "styleMappings": {
+        "LEGENDARY DYE": "传说染料",
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "FORAGING_4_PORTAL",
+  "_original_name": "Portal to Savanna Woodland",
+  "_original_lore": [
+    "Placing this item on your private",
+    "island will create a portal to",
+    "Savanna Woodland for you to use",
+    "whenever you want!",
+    "",
+    "The portal will spawn facing you on",
+    "the block you click on.",
+    "",
+    "COMMON PORTAL"
+  ],
+  "name": "通往热带草原林地的传送门",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Placing this item on your private",
+        "island will create a portal to",
+        "Savanna Woodland for you to use",
+        "whenever you want!"
+      ],
+      "translation": "将此物品放置在你的私人岛屿上会创建一个通往热带草原林地的传送门,你可以随时使用!",
+      "styleMappings": {
+        "Savanna Woodland": "热带草原林地",
+        "private island": "私人岛屿",
+        "portal to": "通往",
+        "item": "物品",
+        "Placing this item on your private": "将此物品放置在你的私人",
+        "island": "岛屿上",
+        "Woodland": "林地",
+        "Savanna": "热带草原"
+      }
+    },
+    {
+      "source": [
+        "The portal will spawn facing you on",
+        "the block you click on."
+      ],
+      "translation": "传送门将生成在你点击的方块上并面向你.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "COMMON PORTAL"
+      ],
+      "translation": "普通传送门",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Savanna Woodland": "热带草原林地",
+    "Woodland": "林地",
+    "Savanna": "热带草原"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

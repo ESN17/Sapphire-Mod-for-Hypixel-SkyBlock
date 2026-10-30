@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "id": "PURPLE_GEM",
+  "_original_name": "Purple Gem",
+  "_original_lore": [
+    "Quest Item",
+    "",
+    "Found in the Cavern Biome. Perhaps",
+    "it has a use there?",
+    "",
+    "A brilliant purple gem glowing like a",
+    "crystal from the depths.",
+    "",
+    "This item will vanish from your",
+    "inventory after leaving the Critter",
+    "Safari!",
+    "",
+    "SPECIAL"
+  ],
+  "name": "紫色宝石",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Quest Item"
+      ],
+      "translation": "任务物品",
+      "styleMappings": {
+        "Item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Found in the Cavern Biome. Perhaps",
+        "it has a use there?"
+      ],
+      "translation": "在洞穴生物群系中发现.也许在那里有用途?",
+      "styleMappings": {
+        "Cavern Biome": "洞穴生物群系"
+      }
+    },
+    {
+      "source": [
+        "A brilliant purple gem glowing like a",
+        "crystal from the depths."
+      ],
+      "translation": "一颗璀璨的紫色宝石,如来自深渊的水晶般闪耀.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "This item will vanish from your"
+      ],
+      "translation": "此物品将在你离开",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "inventory after leaving the Critter",
+        "Safari!"
+      ],
+      "translation": "小兽狩猎区后从物品栏中消失!",
+      "styleMappings": {
+        "Critter Safari": "小兽狩猎区",
+        "Critter": "小兽"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Purple": "紫色"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

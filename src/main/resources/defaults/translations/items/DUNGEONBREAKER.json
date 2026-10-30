@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "id": "DUNGEONBREAKER",
+  "_original_name": "Dungeonbreaker",
+  "_original_lore": [
+    "Speed: +20",
+    "",
+    "Ability: Dungeon Breaker DIG",
+    "While in The Catacombs, consume 1⸕",
+    "charge to break a block. 20 blocks can",
+    "be broken at a time, and re-appear after",
+    "10s. 2⸕ charges are regenerated each",
+    "second.",
+    "",
+    "Charges: 20/20⸕",
+    "",
+    "SPECIAL DUNGEON PICKAXE"
+  ],
+  "name": "地牢破坏者",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Ability: Dungeon Breaker DIG"
+      ],
+      "translation": "技能:地牢破坏者 挖掘",
+      "styleMappings": {
+        "Dungeon Breaker": "地牢破坏者",
+        "Ability": "技能",
+        "DIG": "挖掘",
+        "Dungeon": "地牢"
+      }
+    },
+    {
+      "source": [
+        "While in The Catacombs, consume {{N0}}⸕",
+        "charge to break a block. {{N1}} blocks can",
+        "be broken at a time, and re-appear after",
+        "{{N2}}s. {{N3}}⸕ charges are regenerated each",
+        "second."
+      ],
+      "translation": "在地牢中时,消耗 {{N0}}⸕ 充能来破坏一个方块.一次可破坏 {{N1}} 个方块,并在 {{N2}} 秒后重新出现.每秒恢复 {{N3}}⸕ 充能.",
+      "styleMappings": {
+        "The Catacombs": "地牢",
+        "second": "秒",
+        "{{N2}}s": "{{N2}} 秒",
+        "Catacombs": "地牢",
+        "blocks": "方块",
+        "charge": "充能",
+        "charges": "充能"
+      }
+    },
+    {
+      "source": [
+        "Charges: {{N0}}/{{N1}}⸕"
+      ],
+      "translation": "充能:{{N0}}/{{N1}}⸕",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "SPECIAL DUNGEON PICKAXE"
+      ],
+      "translation": "特殊地牢镐",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

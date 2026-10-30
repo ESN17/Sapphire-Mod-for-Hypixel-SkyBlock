@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": "PURE_MITHRIL",
+  "_original_name": "Pure Mithril",
+  "_original_lore": [
+    "Reforge Stone",
+    "Combinable in Anvil",
+    "",
+    "Applies the Mithraic reforge when",
+    "combined with a Mining Tool.",
+    "",
+    "It takes a few hours of forging to",
+    "purify Mithril - the impurities extract",
+    "themselves while the Mithril coalesces.",
+    "",
+    "Grants the following stats that scale",
+    "with the item's rarity:",
+    "  Mining Fortune",
+    "",
+    "Mithraic Bonus",
+    "Grants +50 Mining Fortune towards",
+    "Mithril and Titanium.",
+    "",
+    "Right-click to view rarity scaling!",
+    "",
+    "❣ Requires Mining Skill 18.",
+    "",
+    "EPIC REFORGE STONE"
+  ],
+  "name": "纯净秘银",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Reforge Stone",
+        "Combinable in Anvil"
+      ],
+      "translation": "洗练石 可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Reforge Stone": "洗练石",
+        "Anvil": "铁砧",
+        "Reforge": "洗练"
+      }
+    },
+    {
+      "source": [
+        "Applies the Mithraic reforge when",
+        "combined with a Mining Tool."
+      ],
+      "translation": "与采矿工具结合时,施加秘银洗练.",
+      "styleMappings": {
+        "Mining Tool": "采矿工具",
+        "Mithraic": "秘银",
+        "reforge": "洗练",
+        "Mining": "采矿",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "It takes a few hours of forging to",
+        "purify Mithril - the impurities extract",
+        "themselves while the Mithril coalesces."
+      ],
+      "translation": "净化秘银需要数小时的锻造——秘银凝聚时,杂质会自行析出.",
+      "styleMappings": {
+        "Mithril": "秘银",
+        "hours": "小时"
+      }
+    },
+    {
+      "source": [
+        "Grants the following stats that scale"
+      ],
+      "translation": "提供以下随物品稀有度提升的属性:",
+      "styleMappings": {
+        "Grants": "提供",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "with the item's rarity:"
+      ],
+      "translation": "物品稀有度提升的属性:",
+      "styleMappings": {
+        "item": "物品",
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "  Mining Fortune"
+      ],
+      "translation": "  采矿幸运",
+      "styleMappings": {
+        "Mining Fortune": "采矿幸运",
+        " Mining Fortune": " 采矿幸运",
+        "Mining": "采矿",
+        "Fortune": "幸运"
+      }
+    },
+    {
+      "source": [
+        "Mithraic Bonus",
+        "Grants {{N0}} Mining Fortune towards",
+        "Mithril and Titanium."
+      ],
+      "translation": "秘银加成 对秘银和钛提供 {{N0}} 采矿幸运.",
+      "styleMappings": {
+        "Mining Fortune": "采矿幸运",
+        "Mithraic Bonus": "秘银加成",
+        "Titanium": "钛",
+        "Mithril": "秘银",
+        "Grants": "提供",
+        "Mining": "采矿",
+        "Bonus": "加成",
+        "Fortune": "幸运",
+        " Mining Fortune": " 采矿幸运",
+        "Mithraic": "秘银"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view rarity scaling!"
+      ],
+      "translation": "右键查看各稀有度的属性!",
+      "styleMappings": {
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Mining Skill {{N0}}."
+      ],
+      "translation": "❣ 需要采矿技能 {{N0}}.",
+      "styleMappings": {
+        "Mining Skill": "采矿技能",
+        "Requires": "需要",
+        "Mining": "采矿",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC REFORGE STONE"
+      ],
+      "translation": "史诗洗练石",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mithril": "秘银"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

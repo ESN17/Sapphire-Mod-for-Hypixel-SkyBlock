@@ -1,0 +1,193 @@
+{
+  "RECOMBOBULATOR_3000": {
+    "name": "§6Recombobulator 3000",
+    "lore": [
+      "§8Combinable in Anvil",
+      "",
+      "§7Permanently increases the rarity of",
+      "§7an item. Can only be applied to an",
+      "§7item once.",
+      "",
+      "§6§lLEGENDARY DUNGEON ITEM"
+    ]
+  },
+  "DRAGON_SCALE": {
+    "name": "§9Dragon Scale",
+    "lore": [
+      "§8Reforge Stone",
+      "§8Combinable in Anvil",
+      "",
+      "§7Applies the §9Spiked §7reforge when",
+      "§7combined with §cArmor§7.",
+      "",
+      "§8§oSome people say it is harder than",
+      "§8§odiamond. Hard to tell, really.",
+      "",
+      "§7Grants the following stats that scale",
+      "§7with the item's rarity:",
+      " §c Health",
+      " §a Defense",
+      " §c Strength",
+      " §9 Crit Chance",
+      " §9 Crit Damage",
+      " §e Attack Speed",
+      " §b Intelligence",
+      " §f Speed",
+      "",
+      "§eRight-click to view rarity scaling!",
+      "",
+      "§4❣ §cRequires §aMining Skill 20§c.",
+      "",
+      "§9§lRARE REFORGE STONE"
+    ]
+  },
+  "PET_ITEM_QUICK_CLAW": {
+    "name": "§6Quick Claw",
+    "lore": [
+      "§8Consumed on use",
+      "",
+      "§aPet Items §7can boost pets in many",
+      "§7powerful ways! A pet can only hold",
+      "§7one §aPet Item§7, but you can §eswap §7it at",
+      "§7any time!",
+      "§8The pet must be visible to apply the item!",
+      "",
+      "§7Every 2 pet levels, you gain §6+1",
+      "§6Mining Speed §7and §6+1 Mining Fortune§7.",
+      "",
+      "§eRight-click on your summoned pet to",
+      "§egive it this item!",
+      "",
+      "§6§lLEGENDARY PET ITEM"
+    ]
+  },
+  "ENDERMAN;0": {
+    "name": "§7[Lvl {LVL}] §fEnderman",
+    "lore": [
+      "§8Combat Pet",
+      "",
+      "§7Crit Damage: §9+{CRIT_DAMAGE}%",
+      "",
+      "§6Enderian",
+      "§7Take §a{0}% §7less damage from §5⊙ Ender",
+      "§7mobs",
+      "",
+      "§eRight-click to add this pet to your pet menu!",
+      "",
+      "§8Can be upgraded at Kat in The Hub!",
+      "§f§lCOMMON PET"
+    ]
+  },
+  "ENDERMAN;1": {
+    "name": "§7[Lvl {LVL}] §aEnderman",
+    "lore": [
+      "§8Combat Pet",
+      "",
+      "§7Crit Damage: §9+{CRIT_DAMAGE}%",
+      "",
+      "§6Enderian",
+      "§7Take §a{0}% §7less damage from §5 Ender",
+      "§7mobs",
+      "",
+      "§eRight-click to add this pet to your pet menu!",
+      "",
+      "§8Can be upgraded at Kat in The Hub!",
+      "§a§lUNCOMMON PET"
+    ]
+  },
+  "ENDERMAN;2": {
+    "name": "§7[Lvl {LVL}] §9Enderman",
+    "lore": [
+      "§8Combat Pet",
+      "",
+      "§7Crit Damage: §9+{CRIT_DAMAGE}%",
+      "",
+      "§6Enderian",
+      "§7Take §a{0}% §7less damage from §5 Ender",
+      "§7mobs",
+      "",
+      "§6Teleport Savvy",
+      "§7Buffs Transmission abilities, granting",
+      "§a{1} §7weapon damage for 5s on use",
+      "",
+      "§eRight-click to add this pet to your pet menu!",
+      "",
+      "§8Can be upgraded at Kat in The Hub!",
+      "§9§lRARE PET"
+    ]
+  },
+  "ENDERMAN;3": {
+    "name": "§7[Lvl {LVL}] §5Enderman",
+    "lore": [
+      "§8Combat Pet",
+      "",
+      "§7Crit Damage: §9+{CRIT_DAMAGE}%",
+      "",
+      "§6Enderian",
+      "§7Take §a{0}% §7less damage from §5 Ender",
+      "§7mobs",
+      "",
+      "§6Teleport Savvy",
+      "§7Buffs Transmission abilities, granting",
+      "§a{1} §7weapon damage for 5s on use",
+      "",
+      "§eRight-click to add this pet to your pet menu!",
+      "",
+      "§8Can be upgraded at Kat in The Hub!",
+      "§5§lEPIC PET"
+    ]
+  },
+  "ENDERMAN;4": {
+    "name": "§7[Lvl {LVL}] §6Enderman",
+    "lore": [
+      "§8Combat Pet",
+      "",
+      "§7Crit Damage: §9+{CRIT_DAMAGE}%",
+      "",
+      "§6Enderian",
+      "§7Take §a{0}% §7less damage from §5 Ender",
+      "§7mobs",
+      "",
+      "§6Teleport Savvy",
+      "§7Buffs Transmission abilities, granting",
+      "§a{1} §7weapon damage for 5s on use",
+      "",
+      "§6Zealot Madness",
+      "§7Increases your odds to find a",
+      "§7special Zealot by §a{2}%§7.",
+      "",
+      "§eRight-click to add this pet to your pet menu!",
+      "",
+      "§8Can be upgraded at Kat in The Hub!",
+      "§6§lLEGENDARY PET"
+    ]
+  },
+  "ENDERMAN;5": {
+    "name": "§7[Lvl {LVL}] §dEnderman",
+    "lore": [
+      "§8Combat Pet",
+      "",
+      "§7Crit Damage: §9+{CRIT_DAMAGE}%",
+      "",
+      "§6Enderian",
+      "§7Take §a{0}% §7less damage from §5 Ender",
+      "§7mobs",
+      "",
+      "§6Teleport Savvy",
+      "§7Buffs Transmission abilities, granting",
+      "§a{1} §7weapon damage for 5s on use",
+      "",
+      "§6Zealot Madness",
+      "§7Increases your odds to find a",
+      "§7special Zealot by §a{2}%§7.",
+      "",
+      "§6Enderman Slayer",
+      "§7Gain §3+{3}☯ Combat Wisdom §7towards",
+      "§5Endermen§7.",
+      "",
+      "§eRight-click to add this pet to your pet menu!",
+      "",
+      "§d§lMYTHIC PET"
+    ]
+  }
+}

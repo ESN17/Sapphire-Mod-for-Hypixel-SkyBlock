@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "id": "ARMOR_OF_THE_RESISTANCE_HELMET",
+  "_original_name": "Helmet of the Rising Sun",
+  "_original_lore": [
+    "Health: +10",
+    "Defense: +10",
+    "",
+    "Full Set Bonus: Power of the Resistance (0/4)",
+    "Provides a damage bonus while",
+    "fighting against Dante, and reduces",
+    "damage taken from Dante.",
+    "",
+    "This item can be reforged!",
+    "EPIC HELMET"
+  ],
+  "name": "旭日头盔",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Power of the Resistance ({{N0}}/{{N1}})"
+      ],
+      "translation": "全套加成:抵抗之力 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Power of the Resistance": "抵抗之力",
+        "Full Set Bonus": "全套加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Provides a damage bonus while",
+        "fighting against Dante, and reduces",
+        "damage taken from Dante."
+      ],
+      "translation": "与但丁战斗时提供伤害加成,并减少来自但丁的伤害.",
+      "styleMappings": {
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "EPIC HELMET"
+      ],
+      "translation": "史诗头盔",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Helmet": "头盔"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

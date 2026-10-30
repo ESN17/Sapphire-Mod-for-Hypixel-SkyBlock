@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "id": "BINGOLIBUR",
+  "_original_name": "Bingolibur",
+  "_original_lore": [
+    "Damage: +80",
+    "Strength: +80",
+    "",
+    "Gives +1 Magic Find for",
+    "each SkyBlock Level (Max 50).",
+    "",
+    "* Soulbound *",
+    "RARE SWORD"
+  ],
+  "name": "宾果圣剑",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Gives {{N0}} Magic Find for",
+        "each SkyBlock Level (Max {{N1}})."
+      ],
+      "translation": "每级空岛等级提供 {{N0}} 稀有物品概率加成 (最大 {{N1}}).",
+      "styleMappings": {
+        "SkyBlock Level": "空岛等级",
+        " Magic Find": " 稀有物品概率加成",
+        "Max": "最大",
+        "Magic Find": "稀有物品概率加成",
+        "SkyBlock": "空岛",
+        "Gives": "提供"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "RARE SWORD"
+      ],
+      "translation": "稀有剑",
+      "styleMappings": {
+        "RARE": "稀有",
+        "RARE SWORD": "稀有剑"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

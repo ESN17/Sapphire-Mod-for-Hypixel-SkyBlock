@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "DUNGEON_LORE_PAPER",
+  "_original_name": "The Expedition Volume 1",
+  "_original_lore": [
+    "Click to read!",
+    "",
+    "RARE DUNGEON ITEM"
+  ],
+  "name": "远征记 卷1",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Click to read!"
+      ],
+      "translation": "点击阅读!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE DUNGEON ITEM"
+      ],
+      "translation": "稀有 地牢物品",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

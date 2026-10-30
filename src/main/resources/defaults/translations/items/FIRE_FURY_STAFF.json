@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": "FIRE_FURY_STAFF",
+  "_original_name": "Fire Fury Staff",
+  "_original_lore": [
+    "Damage: +100",
+    "Intelligence: +300",
+    "Gemstones: []",
+    "",
+    "Ability: Firestorm  RIGHT CLICK",
+    "Shoots a projectile that on impact creates a",
+    "firestorm, dealing up to 42,000 damage over",
+    "10 seconds to mobs in a 7 block radius.",
+    "Mana Cost: 1,000",
+    "Cooldown: 20s",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Combat Skill 22.",
+    "EPIC SWORD"
+  ],
+  "name": "火焰狂怒法杖",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: []"
+      ],
+      "translation": "宝石槽:[]",
+      "styleMappings": {
+        "Gemstones": "宝石槽"
+      }
+    },
+    {
+      "source": [
+        "Ability: Firestorm  RIGHT CLICK"
+      ],
+      "translation": "技能: 火焰风暴  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Shoots a projectile that on impact creates a",
+        "firestorm, dealing up to {{N0}} damage over",
+        "{{N1}} seconds to mobs in a {{N2}} block radius."
+      ],
+      "translation": "射出一个投射物, 命中后制造火焰风暴, 在 {{N1}} 秒内对 {{N2}} 格半径内的生物造成至多 {{N0}} 伤害.",
+      "styleMappings": {
+        "Shoots": "射出",
+        "damage": "伤害",
+        "seconds": "秒",
+        "mobs": "生物",
+        "block": "格"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC SWORD"
+      ],
+      "translation": "史诗 剑",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fire": "火焰"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

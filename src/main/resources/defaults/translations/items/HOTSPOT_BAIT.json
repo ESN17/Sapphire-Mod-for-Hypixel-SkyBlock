@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "HOTSPOT_BAIT",
+  "_original_name": "Hotspot Bait",
+  "_original_lore": [
+    "Fishing Bait",
+    "Consumes on Catch",
+    "",
+    "Grants a +20% chance to catch",
+    "Hotspot Sea Creatures while fishing",
+    "in a Hotspot.",
+    "",
+    "RARE BAIT"
+  ],
+  "name": "热点鱼饵",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Fishing Bait",
+        "Consumes on Catch"
+      ],
+      "translation": "钓鱼鱼饵 钓起时消耗",
+      "styleMappings": {
+        "Consumes on Catch": "钓起时消耗",
+        "Fishing Bait": "钓鱼鱼饵",
+        "Fishing": "钓鱼",
+        "Bait": "鱼饵"
+      }
+    },
+    {
+      "source": [
+        "Grants a {{N0}} chance to catch",
+        "Hotspot Sea Creatures while fishing",
+        "in a Hotspot."
+      ],
+      "translation": "在热点钓鱼时,有 {{N0}} 概率钓到热点海怪.",
+      "styleMappings": {
+        "Hotspot Sea Creatures": "热点海怪",
+        "chance to": "概率",
+        "Hotspot": "热点",
+        "fishing": "钓鱼",
+        "Sea Creatures": "海怪",
+        "chance": "概率"
+      }
+    },
+    {
+      "source": [
+        "RARE BAIT"
+      ],
+      "translation": "稀有 鱼饵",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Hotspot": "热点",
+    "Bait": "鱼饵"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

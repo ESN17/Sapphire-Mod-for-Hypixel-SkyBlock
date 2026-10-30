@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "id": "SUPER_UNDEAD_BOW",
+  "_original_name": "Super Undead Bow",
+  "_original_lore": [
+    "Gear Score: 260",
+    "Damage: +220",
+    "",
+    "Deals +100% damage to  Undead",
+    "mobs.",
+    "",
+    "Your arrows have a 25% chance to",
+    "bounce to another target after it",
+    "hits something.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires The Catacombs Floor III Completion.",
+    "EPIC DUNGEON BOW"
+  ],
+  "name": "超级亡灵弓",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Deals {{N0}} damage to  Undead",
+        "mobs."
+      ],
+      "translation": "对 亡灵生物造成 {{N0}} 伤害.",
+      "styleMappings": {
+        "Undead": "亡灵",
+        "damage": "伤害",
+        "Deals": "造成",
+        "mobs": "生物",
+        "mobs.": "伤害."
+      }
+    },
+    {
+      "source": [
+        "Your arrows have a {{N0}} chance to",
+        "bounce to another target after it",
+        "hits something."
+      ],
+      "translation": "你的箭矢命中目标后有 {{N0}} 概率弹跳到另一个目标.",
+      "styleMappings": {
+        "hits something": "命中目标",
+        "chance to": "概率",
+        "chance": "概率",
+        "hits": "命中"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires The Catacombs Floor III Completion."
+      ],
+      "translation": "❣ 需要完成地牢第III层。",
+      "styleMappings": {
+        "The Catacombs": "地牢",
+        "Requires": "需要",
+        "III": "III",
+        "Catacombs": "地牢"
+      }
+    },
+    {
+      "source": [
+        "EPIC DUNGEON BOW"
+      ],
+      "translation": "史诗 地牢 弓",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Undead": "亡灵",
+    "Bow": "弓"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

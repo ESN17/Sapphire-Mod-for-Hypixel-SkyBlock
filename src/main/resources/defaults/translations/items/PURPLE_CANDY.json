@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "PURPLE_CANDY",
+  "_original_name": "Purple Candy",
+  "_original_lore": [
+    "Candy can be used to trade with the",
+    "Fear Mongerer during the Spooky",
+    "Festival!",
+    "",
+    "EPIC"
+  ],
+  "name": "紫色糖果",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Candy can be used to trade with the",
+        "Fear Mongerer during the Spooky",
+        "Festival!"
+      ],
+      "translation": "糖果可在万圣节期间与 Fear Mongerer 交易!",
+      "styleMappings": {
+        "Spooky Festival": "万圣节",
+        "Fear Mongerer": "Fear Mongerer",
+        "Candy": "糖果",
+        "Spooky": "万圣节"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Purple": "紫色",
+    "Candy": "糖果"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

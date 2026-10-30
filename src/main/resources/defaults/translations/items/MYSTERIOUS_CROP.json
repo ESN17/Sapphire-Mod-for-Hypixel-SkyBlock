@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "MYSTERIOUS_CROP",
+  "_original_name": "Mysterious Crop",
+  "_original_lore": [
+    "Back to the roots... but which ones?",
+    "",
+    "COMMON"
+  ],
+  "name": "神秘作物",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Back to the roots... but which ones?"
+      ],
+      "translation": "回归本源……但究竟是哪一种?",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Crop": "作物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

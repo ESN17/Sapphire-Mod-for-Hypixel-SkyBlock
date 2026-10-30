@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "WYLD_BOOTS",
+  "_original_name": "Wyld Boots",
+  "_original_lore": [
+    "Rift Time: +15s",
+    "",
+    "UNCOMMON BOOTS"
+  ],
+  "name": "荒野靴子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Rift Time: {{N0}}s"
+      ],
+      "translation": "裂隙时间: {{N0}}秒",
+      "styleMappings": {
+        "Rift Time": "裂隙时间",
+        "{{N0}}s": "{{N0}}秒",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON BOOTS"
+      ],
+      "translation": "罕见 靴子",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Boots": "靴子"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,37 @@
+{
+  "revision": "2026-10-16-first-feedback",
+  "completedAt": "2026-10-16T16:03:27.006820+00:00",
+  "changedItemIds": 727,
+  "totalItemIds": 8937,
+  "validation": {
+    "src/main/resources/defaults": {
+      "errors": 0,
+      "warnings": 299,
+      "items": 8937
+    },
+    "dictionary-workspace": {
+      "errors": 0,
+      "warnings": 330,
+      "items": 8937
+    },
+    "run/config/sapphire": {
+      "errors": 0,
+      "warnings": 299,
+      "items": 8937
+    }
+  },
+  "javaTests": {
+    "tests": 62,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 1
+  },
+  "pythonTestsPassed": 28,
+  "offlineClientSmoke": "passed, including Magic 8 Ball line separation",
+  "jar": "build/libs/sapphire-1.0.0.jar",
+  "jarSha256": "12fce61ac368a5d83846bffce83c2321ce1a601c0ee203b6e9153b570539640a",
+  "backups": "translation-state/first-feedback/backup",
+  "sourceRequest": "第一版问题.txt",
+  "translations": "tools/translation_revision_v2.json",
+  "note": "Names and matching paragraphs for all 727 affected IDs checked using real NEU colors; live server and other mod combinations remain untested."
+}

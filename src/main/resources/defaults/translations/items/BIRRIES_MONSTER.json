@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "BIRRIES_MONSTER",
+  "_original_name": "Birries (Monster)",
+  "_original_lore": [
+    "❤ Health: 1",
+    "❁ Damage: 60"
+  ],
+  "name": "比瑞斯 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "❁ Damage: {{N0}}"
+      ],
+      "translation": "❁ 伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Birries (Monster)": "比瑞斯 (怪物)",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "WIZARD_FACE",
+  "_original_name": "Wizard Face",
+  "_original_lore": [
+    "Rift Time: +130s",
+    "Hearts: +1",
+    "Intelligence: +26",
+    "",
+    "* Soulbound *",
+    "MYTHIC HELMET"
+  ],
+  "name": "巫师之面",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Rift Time: {{N0}}s"
+      ],
+      "translation": "裂隙时间: {{N0}}秒",
+      "styleMappings": {
+        "Rift Time": "裂隙时间",
+        "{{N0}}s": "{{N0}}秒",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "Hearts: {{N0}}"
+      ],
+      "translation": "生命值: {{N0}}",
+      "styleMappings": {
+        "Hearts": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "MYTHIC HELMET"
+      ],
+      "translation": "神话 头盔",
+      "styleMappings": {
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

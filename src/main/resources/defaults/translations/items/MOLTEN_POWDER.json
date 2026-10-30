@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "MOLTEN_POWDER",
+  "_original_name": "Molten Powder",
+  "_original_lore": [
+    "Right-click to view recipes!",
+    "",
+    "RARE"
+  ],
+  "name": "熔岩粉末",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Powder": "粉末"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "HEARTSPLOSION_RUNE;3",
+  "_original_name": "◆ Heartsplosion Rune III",
+  "_original_lore": [
+    "Requires level 0",
+    "Weapons",
+    "",
+    "Explode your enemies... with love.",
+    "Obtained from the Taylor Valentine's",
+    "Bundle.",
+    "",
+    "Apply this rune to weapons or fuse",
+    "two together at the Runic Pedestal!",
+    "",
+    "LEGENDARY COSMETIC"
+  ],
+  "name": "◆ 爱心爆炸符文 III",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Requires level {{N0}}",
+        "Weapons"
+      ],
+      "translation": "需要等级 {{N0}} 武器",
+      "styleMappings": {
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Explode your enemies... with love."
+      ],
+      "translation": "用爱...炸飞你的敌人.",
+      "styleMappings": {
+        "enemies": "敌人"
+      }
+    },
+    {
+      "source": [
+        "Obtained from the Taylor Valentine's",
+        "Bundle."
+      ],
+      "translation": "从 Taylor 情人节礼包中获得.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Apply this rune to weapons or fuse",
+        "two together at the Runic Pedestal!"
+      ],
+      "translation": "将此符文应用于武器,或在符文基座上将两个符文融合!",
+      "styleMappings": {
+        "Runic Pedestal": "符文基座",
+        "Runic": "符文"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY COSMETIC"
+      ],
+      "translation": "传说外观",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Rune III": "符文 III",
+    "III": "III"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

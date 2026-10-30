@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "DECK_CHAIR",
+  "_original_name": "Deck Chair",
+  "_original_lore": [
+    "Furniture",
+    "Summer Cosmetic",
+    "",
+    "This exclusive Summer cosmetic can",
+    "be placed on your island or traded.",
+    "",
+    "RARE"
+  ],
+  "name": "躺椅",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Furniture",
+        "Summer Cosmetic"
+      ],
+      "translation": "家具 夏季装饰",
+      "styleMappings": {
+        "Summer Cosmetic": "夏季装饰",
+        "Furniture": "家具",
+        "Summer": "夏季"
+      }
+    },
+    {
+      "source": [
+        "This exclusive Summer cosmetic can",
+        "be placed on your island or traded."
+      ],
+      "translation": "这款限定夏日装饰可以放置在你的岛屿上或进行交易.",
+      "styleMappings": {
+        "Summer": "夏日",
+        "island": "岛屿上"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

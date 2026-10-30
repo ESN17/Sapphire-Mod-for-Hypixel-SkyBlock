@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "id": "PREHISTORIC_EGG",
+  "_original_name": "Prehistoric Egg",
+  "_original_lore": [
+    "After walking a certain amount of blocks, has a chance",
+    "to spawn an Armadillo!",
+    "",
+    "4,000: 50% for a Common Armadillo!",
+    "10,000: 50% for an Uncommon Armadillo!",
+    "20,000: 50% for a Rare Armadillo!",
+    "40,000: 50% for an Epic Armadillo!",
+    "100,000: 100% for a Legendary Armadillo!",
+    "",
+    "COMMON"
+  ],
+  "name": "史前蛋",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "After walking a certain amount of blocks, has a chance",
+        "to spawn an Armadillo!"
+      ],
+      "translation": "行走一定数量的方块后,有几率生成一只穿山甲!",
+      "styleMappings": {
+        "Armadillo": "穿山甲",
+        "walking": "行走",
+        "blocks": "方块",
+        "chance": "几率"
+      }
+    },
+    {
+      "source": [
+        "{{N0}}: {{N1}} for a Common Armadillo!"
+      ],
+      "translation": "{{N0}}: {{N1}} 获得一只普通穿山甲!",
+      "styleMappings": {
+        "Common Armadillo": "普通穿山甲",
+        "for": "获得",
+        "Armadillo": "穿山甲",
+        "Common": "普通"
+      }
+    },
+    {
+      "source": [
+        "{{N0}}: {{N1}} for an Uncommon Armadillo!"
+      ],
+      "translation": "{{N0}}: {{N1}} 获得一只罕见穿山甲!",
+      "styleMappings": {
+        "Uncommon Armadillo": "罕见穿山甲",
+        "for": "获得",
+        "Armadillo": "穿山甲",
+        "Uncommon": "罕见"
+      }
+    },
+    {
+      "source": [
+        "{{N0}}: {{N1}} for a Rare Armadillo!"
+      ],
+      "translation": "{{N0}}: {{N1}} 获得一只稀有穿山甲!",
+      "styleMappings": {
+        "Rare Armadillo": "稀有穿山甲",
+        "for": "获得",
+        "Armadillo": "穿山甲",
+        "Rare": "稀有"
+      }
+    },
+    {
+      "source": [
+        "{{N0}}: {{N1}} for an Epic Armadillo!"
+      ],
+      "translation": "{{N0}}: {{N1}} 获得一只史诗穿山甲!",
+      "styleMappings": {
+        "Epic Armadillo": "史诗穿山甲",
+        "for": "获得",
+        "Armadillo": "穿山甲",
+        "Epic": "史诗"
+      }
+    },
+    {
+      "source": [
+        "{{N0}}: {{N1}} for a Legendary Armadillo!"
+      ],
+      "translation": "{{N0}}: {{N1}} 获得一只传说穿山甲!",
+      "styleMappings": {
+        "Legendary Armadillo": "传说穿山甲",
+        "for": "获得",
+        "Armadillo": "穿山甲",
+        "Legendary": "传说"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Prehistoric Egg": "史前蛋",
+    "Egg": "蛋"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

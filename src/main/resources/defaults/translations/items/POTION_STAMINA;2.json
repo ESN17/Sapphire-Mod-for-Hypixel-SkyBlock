@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_STAMINA;2",
+  "_original_name": "Stamina II Potion",
+  "_original_lore": [
+    "",
+    "Stamina II",
+    "Instantly heals for +215 and a",
+    "grants a 100 ✎ Mana boost.",
+    "",
+    "COMMON"
+  ],
+  "name": "耐力 II 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Stamina II",
+        "Instantly heals for {{N0}} and a",
+        "grants a {{N1}} ✎ Mana boost."
+      ],
+      "translation": "耐力 II 立即恢复 {{N0}} 点生命,并给予 {{N1}} ✎ 法力加成.",
+      "styleMappings": {
+        "Instantly heals for": "立即恢复",
+        "Stamina II": "耐力 II",
+        "grants a": "给予",
+        "boost": "加成",
+        "Mana": "法力",
+        "II": "II"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Stamina II": "耐力 II",
+    "II": "II"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

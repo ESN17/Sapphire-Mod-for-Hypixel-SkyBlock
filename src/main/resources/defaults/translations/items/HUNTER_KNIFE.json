@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "HUNTER_KNIFE",
+  "_original_name": "Hunter Knife",
+  "_original_lore": [
+    "Damage: +50",
+    "Speed: +40",
+    "",
+    "This item can be reforged!",
+    "* Co-op Soulbound *",
+    "UNCOMMON SWORD"
+  ],
+  "name": "猎人小刀",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON SWORD"
+      ],
+      "translation": "罕见剑",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Hunter": "猎人"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

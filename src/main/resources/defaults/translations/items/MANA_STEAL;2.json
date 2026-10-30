@@ -1,0 +1,156 @@
+{
+  "schemaVersion": 1,
+  "id": "MANA_STEAL;2",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Mana Steal II",
+    "Regain 0.5% of your mana on",
+    "hit.",
+    "",
+    "Sources:",
+    " - Voidgloom Seraph (I-III)",
+    " - Bazaar (I-III)",
+    "",
+    "Applied To:",
+    " - Sword",
+    " - Longsword",
+    " - Gauntlet",
+    "",
+    "Requirements:",
+    " - Enchanting Level 20",
+    "",
+    "Conflicts:",
+    " - Life Steal",
+    " - Drain",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Mana Steal II"
+      ],
+      "translation": "魔力窃取 II",
+      "styleMappings": {
+        "Mana Steal": "魔力窃取",
+        "II": "II"
+      }
+    },
+    {
+      "source": [
+        "Regain {{N0}} of your mana on",
+        "hit."
+      ],
+      "translation": "命中时恢复 {{N0}} 法力.",
+      "styleMappings": {
+        "mana": "法力",
+        "hit": "命中"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Voidgloom Seraph (I-III)",
+        " - Bazaar (I-III)"
+      ],
+      "translation": " - 虚空幽暗炽天使 (一至三)  - 集市 (一至三)",
+      "styleMappings": {
+        "Voidgloom Seraph": "虚空幽暗炽天使",
+        "Bazaar": "集市",
+        "I-III": "一至三"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Sword",
+        " - Longsword",
+        " - Gauntlet"
+      ],
+      "translation": " - 剑  - 长剑  - 护手",
+      "styleMappings": {
+        "Sword": "剑",
+        "Longsword": "长剑",
+        "Gauntlet": "护手"
+      }
+    },
+    {
+      "source": [
+        "Requirements:"
+      ],
+      "translation": "需求:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchanting Level {{N0}}"
+      ],
+      "translation": " - 附魔等级 {{N0}}",
+      "styleMappings": {
+        "Enchanting Level": "附魔等级"
+      }
+    },
+    {
+      "source": [
+        "Conflicts:"
+      ],
+      "translation": "冲突:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Life Steal"
+      ],
+      "translation": " - 生命窃取",
+      "styleMappings": {
+        "Life Steal": "生命窃取"
+      }
+    },
+    {
+      "source": [
+        " - Drain"
+      ],
+      "translation": " - 汲取",
+      "styleMappings": {
+        "Drain": "汲取"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

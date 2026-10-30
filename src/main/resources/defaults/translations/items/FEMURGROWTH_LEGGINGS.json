@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "FEMURGROWTH_LEGGINGS",
+  "_original_name": "Femurgrowth Leggings",
+  "_original_lore": [
+    "Rift Time: +65s",
+    "Speed: -4",
+    "Mana Regen: +5%",
+    "",
+    "It's infected slime, it makes you",
+    "slower.",
+    "",
+    "EPIC LEGGINGS"
+  ],
+  "name": "发酵成长护腿",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Rift Time: {{N0}}s"
+      ],
+      "translation": "裂隙时间: {{N0}}秒",
+      "styleMappings": {
+        "Rift Time": "裂隙时间",
+        "{{N0}}s": "{{N0}}秒",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Mana Regen: {{N0}}"
+      ],
+      "translation": "法力回复: {{N0}}",
+      "styleMappings": {
+        "Mana Regen": "法力回复",
+        "Mana": "法力",
+        "Regen": "回复"
+      }
+    },
+    {
+      "source": [
+        "It's infected slime, it makes you",
+        "slower."
+      ],
+      "translation": "这是被感染的黏液,会让你变慢.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC LEGGINGS"
+      ],
+      "translation": "史诗护腿",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Leggings": "护腿"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "INTIMIDATION_RELIC",
+  "_original_name": "Intimidation Relic",
+  "_original_lore": [
+    "Accessory Power: +12",
+    "",
+    "Monsters at or below Level 30 will no",
+    "longer target you.",
+    "",
+    "Works while in Accessory Bag!",
+    "EPIC ACCESSORY"
+  ],
+  "name": "威慑圣物",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Accessory Power: {{N0}}"
+      ],
+      "translation": "饰品能量: {{N0}}",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "Monsters at or below Level {{N0}} will no",
+        "longer target you."
+      ],
+      "translation": "等级 {{N0}} 或以下的怪物不再以你为目标.",
+      "styleMappings": {
+        "Monsters": "怪物",
+        "Level": "等级"
+      }
+    },
+    {
+      "source": [
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "放在饰品袋中即可生效!",
+      "styleMappings": {
+        "Accessory Bag": "饰品袋",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "EPIC ACCESSORY"
+      ],
+      "translation": "史诗饰品",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Relic": "圣物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

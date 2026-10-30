@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "id": "STRONG_MANA;2",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Strong Vitality II",
+    "Convert 4% of  Vitality used as ",
+    "Strength for 10s. (Max 30",
+    "Strength).",
+    "",
+    "Sources:",
+    " - Kuudra (I-X)",
+    " - Bazaar (I-X)",
+    "",
+    "Applied To:",
+    " - Armor",
+    "",
+    "Requirements:",
+    " - Enchanting Level 22",
+    "",
+    "Conflicts:",
+    " - Hardened Vitality",
+    " - Vivacious Vitality",
+    " - Vampiric Vitality",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Strong Vitality II"
+      ],
+      "translation": "强力活力 II",
+      "styleMappings": {
+        "Strong Vitality": "强力活力",
+        "II": "II",
+        "Vitality": "活力",
+        "Strong": "强力"
+      }
+    },
+    {
+      "source": [
+        "Convert {{N0}} of  Vitality used as ",
+        "Strength for {{N1}}s. (Max {{N2}}",
+        "Strength)."
+      ],
+      "translation": "将 {{N0}} 的  活力转化为  力量,持续 {{N1}} 秒.(上限 {{N2}} 力量).",
+      "styleMappings": {
+        " Vitality": " 活力",
+        " Strength": " 力量",
+        "{{N1}}s": "{{N1}} 秒",
+        "(Max {{N2}} Strength).": "(上限 {{N2}} 力量)."
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Kuudra (I-X)",
+        " - Bazaar (I-X)"
+      ],
+      "translation": " - 库德拉 (一至十)  - 集市 (一至十)",
+      "styleMappings": {
+        "Kuudra": "库德拉",
+        "I-X": "一至十",
+        "Bazaar": "集市"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Armor"
+      ],
+      "translation": " - 盔甲",
+      "styleMappings": {
+        "Armor": "盔甲"
+      }
+    },
+    {
+      "source": [
+        "Requirements:"
+      ],
+      "translation": "需求:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchanting Level {{N0}}"
+      ],
+      "translation": " - 附魔等级 {{N0}}",
+      "styleMappings": {
+        "Enchanting Level": "附魔等级"
+      }
+    },
+    {
+      "source": [
+        "Conflicts:"
+      ],
+      "translation": "冲突:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Hardened Vitality"
+      ],
+      "translation": " - 坚韧活力",
+      "styleMappings": {
+        "Hardened Vitality": "坚韧活力",
+        "Vitality": "活力"
+      }
+    },
+    {
+      "source": [
+        " - Vivacious Vitality"
+      ],
+      "translation": " - 迅捷活力",
+      "styleMappings": {
+        "Vivacious Vitality": "迅捷活力",
+        "Vitality": "活力"
+      }
+    },
+    {
+      "source": [
+        " - Vampiric Vitality"
+      ],
+      "translation": " - 吸血活力",
+      "styleMappings": {
+        "Vampiric Vitality": "吸血活力",
+        "Vitality": "活力"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

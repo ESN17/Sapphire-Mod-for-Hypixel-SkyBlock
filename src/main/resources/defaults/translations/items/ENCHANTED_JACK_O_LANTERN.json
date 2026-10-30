@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "id": "ENCHANTED_JACK_O_LANTERN",
+  "_original_name": "Lantern Helmet",
+  "_original_lore": [
+    "Health: +20",
+    "Defense: +10",
+    "Gemstones: [] []",
+    "",
+    "For every Farming Level, this Helmet gains:",
+    "+2  Defense",
+    "+4  Health",
+    "+1  Farming Fortune (Holding an Axe)",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Farming Skill 15.",
+    "UNCOMMON HELMET"
+  ],
+  "name": "灯笼头盔",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [] []"
+      ],
+      "translation": "宝石: [] []",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石",
+        "] [": "] ["
+      }
+    },
+    {
+      "source": [
+        "For every Farming Level, this Helmet gains:"
+      ],
+      "translation": "每提升一级农业等级,此头盔获得:",
+      "styleMappings": {
+        "Farming": "农业",
+        "Level": "等级",
+        "Helmet": "头盔"
+      }
+    },
+    {
+      "source": [
+        "{{N0}}  Defense",
+        "{{N1}}  Health",
+        "{{N2}}  Farming Fortune (Holding an Axe)"
+      ],
+      "translation": "{{N0}}  防御 {{N1}}   生命值 {{N2}}   农业幸运 (手持斧头)",
+      "styleMappings": {
+        "(Holding an Axe)": "(手持斧头)",
+        "Farming Fortune": "农业幸运",
+        " Defense": " 防御",
+        "Health": "生命值",
+        " Health": " 生命",
+        "Defense": "防御",
+        "Fortune": "幸运",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Farming Skill {{N0}}."
+      ],
+      "translation": "❣ 需要农业技能 {{N0}}.",
+      "styleMappings": {
+        "Farming Skill": "农业技能",
+        "Requires": "需要",
+        "Farming": "农业",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON HELMET"
+      ],
+      "translation": "罕见 头盔",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Helmet": "头盔"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

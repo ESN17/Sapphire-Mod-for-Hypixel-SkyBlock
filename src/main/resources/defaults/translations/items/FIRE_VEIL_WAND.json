@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "FIRE_VEIL_WAND",
+  "_original_name": "Fire Veil Wand",
+  "_original_lore": [
+    "Damage: +50",
+    "Intelligence: +200",
+    "",
+    "Ability: Fire Veil  RIGHT CLICK",
+    "Creates a veil of fire around you for 5s,",
+    "dealing 15,000 damage per second to mobs",
+    "within.",
+    "Mana Cost: 300",
+    "Cooldown: 1s",
+    "",
+    "❣ Requires Combat Skill 22.",
+    "EPIC WAND"
+  ],
+  "name": "火焰帷幕法杖",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Ability: Fire Veil  RIGHT CLICK"
+      ],
+      "translation": "技能:火焰帷幕  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Fire Veil": "火焰帷幕",
+        "Ability": "技能",
+        "CLICK": "点击",
+        "Fire": "火焰"
+      }
+    },
+    {
+      "source": [
+        "Creates a veil of fire around you for {{N0}}s,",
+        "dealing {{N1}} damage per second to mobs",
+        "within."
+      ],
+      "translation": "在你周围制造火焰帷幕,持续 {{N0}} 秒,每秒对范围内的怪物造成 {{N1}} 伤害.",
+      "styleMappings": {
+        "per second": "每秒",
+        "damage": "伤害",
+        "fire": "火",
+        "mobs": "怪物",
+        "for": "持续",
+        "{{N0}}s": "{{N0}} 秒",
+        "second": "秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC WAND"
+      ],
+      "translation": "史诗魔杖",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fire Veil": "火焰帷幕",
+    "Wand": "法杖",
+    "Fire": "火焰"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

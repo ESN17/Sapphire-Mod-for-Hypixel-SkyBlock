@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "id": "LION;0",
+  "_original_name": "[Lvl {LVL}] Lion",
+  "_original_lore": [
+    "Foraging Pet",
+    "",
+    "Strength: +{STRENGTH}",
+    "Ferocity: +{FEROCITY}",
+    "Speed: +{SPEED}",
+    "",
+    "Primal Force",
+    "Adds +{0}  Damage and +{1} ",
+    "Strength to your weapons.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "COMMON PET"
+  ],
+  "name": "[等级 {LVL}] 狮子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Foraging Pet"
+      ],
+      "translation": "采伐宠物",
+      "styleMappings": {
+        "Foraging Pet": "采伐宠物",
+        "Pet": "宠物",
+        "Foraging": "采伐"
+      }
+    },
+    {
+      "source": [
+        "Strength: +{{N0}}"
+      ],
+      "translation": "力量: +{{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Ferocity: +{{N0}}"
+      ],
+      "translation": "残暴值: +{{N0}}",
+      "styleMappings": {
+        "Ferocity": "残暴值"
+      }
+    },
+    {
+      "source": [
+        "Speed: +{{N0}}"
+      ],
+      "translation": "速度: +{{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Primal Force"
+      ],
+      "translation": "原始之力",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Adds +{{N0}}  Damage and +{{N1}} ",
+        "Strength to your weapons."
+      ],
+      "translation": "为你的武器增加 +{{N0}}  伤害和 +{{N1}}  力量.",
+      "styleMappings": {
+        " Strength": " 力量",
+        " Damage": " 伤害",
+        "Strength": "力量",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "COMMON PET"
+      ],
+      "translation": "普通 宠物",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Lion": "狮子",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

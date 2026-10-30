@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "BITTER_ICE_TEA",
+  "_original_name": "Bitter Iced Tea",
+  "_original_lore": [
+    "Basic Brew",
+    "",
+    "Use this item in place of an",
+    "Awkward Potion for certain",
+    "potions.",
+    "",
+    "Buffs the ✎ Mana and Experience",
+    "values of potions by +20%.",
+    "",
+    "COMMON"
+  ],
+  "name": "苦味冰茶",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Basic Brew"
+      ],
+      "translation": "基础酿造",
+      "styleMappings": {
+        "Basic": "基础"
+      }
+    },
+    {
+      "source": [
+        "Use this item in place of an",
+        "Awkward Potion for certain",
+        "potions."
+      ],
+      "translation": "在酿造某些药水时,用此物品代替粗制药水.",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Buffs the ✎ Mana and Experience",
+        "values of potions by {{N0}}."
+      ],
+      "translation": "将药水的 ✎ 法力值和经验值提高 {{N0}}.",
+      "styleMappings": {
+        "Experience": "经验值",
+        "Mana": "法力值"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

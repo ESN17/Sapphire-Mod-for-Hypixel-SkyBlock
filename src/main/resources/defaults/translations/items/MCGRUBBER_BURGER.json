@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "id": "MCGRUBBER_BURGER",
+  "_original_name": "McGrubber's Burger",
+  "_original_lore": [
+    "Consume this tasty burger to",
+    "permanently gain a Grubber",
+    "Stack.",
+    "",
+    "Each stack grants:",
+    " +12ф Rift Time",
+    " +5% Motes from Motes Grubber",
+    " +40 Motes on Orb pickup",
+    "Max 5 stacks!",
+    "",
+    "Right-click to consume!",
+    "",
+    "EPIC"
+  ],
+  "name": "麦克格拉伯的汉堡",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consume this tasty burger to",
+        "permanently gain a Grubber",
+        "Stack."
+      ],
+      "translation": "食用这个美味的汉堡以永久获得一层格鲁伯堆叠.",
+      "styleMappings": {
+        "Grubber Stack": "格鲁伯堆叠",
+        "permanently": "永久",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "Each stack grants:"
+      ],
+      "translation": "每层堆叠提供:",
+      "styleMappings": {
+        "stack": "堆叠"
+      }
+    },
+    {
+      "source": [
+        " {{N0}}ф Rift Time",
+        " {{N1}} Motes from Motes Grubber",
+        " {{N2}} Motes on Orb pickup",
+        "Max {{N3}} stacks!"
+      ],
+      "translation": " {{N0}}ф 裂隙时间  {{N1}} 裂隙尘埃,来自 Motes Grubber  {{N2}} 裂隙尘埃,拾取宝珠时 最多 {{N3}} 层!",
+      "styleMappings": {
+        "Max {{N3}} stacks!": "最多 {{N3}} 层!",
+        "Motes Grubber": "Motes Grubber",
+        "Rift Time": "裂隙时间",
+        "Motes": "裂隙尘埃",
+        "Orb": "宝珠",
+        "Max": "最多",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "INK_SPLAT",
+  "_original_name": "Ink Splat",
+  "_original_lore": [
+    "Avoid getting in eyes. It’ll hurt!",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "RARE"
+  ],
+  "name": "墨渍",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Avoid getting in eyes. It’ll hurt!"
+      ],
+      "translation": "小心别弄进眼睛里.会很疼!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

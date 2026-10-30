@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "REDSTONE_TIPPED_ARROW",
+  "_original_name": "Redstone-tipped Arrow",
+  "_original_lore": [
+    "Damage: +15",
+    "",
+    "❣ Requires Combat Skill 13.",
+    "❣ Requires Target Practice I.",
+    "Stats added when shot!",
+    "UNCOMMON ARROW"
+  ],
+  "name": "红石箭",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Target Practice I."
+      ],
+      "translation": "❣ 需要靶场练习 I.",
+      "styleMappings": {
+        "Requires Target Practice I.": "需要靶场练习 I.",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Stats added when shot!"
+      ],
+      "translation": "射出时添加属性!",
+      "styleMappings": {
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON ARROW"
+      ],
+      "translation": "罕见 箭",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

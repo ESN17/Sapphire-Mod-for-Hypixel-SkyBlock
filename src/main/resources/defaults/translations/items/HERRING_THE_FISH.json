@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "id": "HERRING_THE_FISH",
+  "_original_name": "Herring the Fish",
+  "_original_lore": [
+    "Sometimes patience is the key",
+    "to victory. Sometimes it leads",
+    "to very little and it seems like",
+    "it's not worth it. And you",
+    "wonder why you waited so long",
+    "for something so disappointing.",
+    "",
+    "* Soulbound *",
+    "SPECIAL"
+  ],
+  "name": "鲱鱼",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Sometimes patience is the key",
+        "to victory. Sometimes it leads",
+        "to very little and it seems like",
+        "it's not worth it. And you",
+        "wonder why you waited so long",
+        "for something so disappointing."
+      ],
+      "translation": "有时耐心是取胜的关键.有时它收效甚微,让人觉得并不值得.你也会纳闷,为何为如此令人失望的东西等了这么久.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Herring the Fish": "鲱鱼",
+    "Fish": "鱼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

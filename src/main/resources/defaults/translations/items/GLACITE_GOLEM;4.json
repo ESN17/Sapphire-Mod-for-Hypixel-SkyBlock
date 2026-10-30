@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 1,
+  "id": "GLACITE_GOLEM;4",
+  "_original_name": "[Lvl {LVL}] Glacite Golem",
+  "_original_lore": [
+    "Mining Pet",
+    "",
+    "Cold Resistance: +{COLD_RESISTANCE}",
+    "Mining Speed: +{MINING_SPEED}",
+    "",
+    "Powder-powered",
+    "Gain {0}% more Glacite Powder from",
+    "most sources.",
+    "",
+    "Iceborn",
+    "Gain +{1}  Mining Fortune while in the",
+    "Glacite Mineshafts.",
+    "",
+    "Frozen Perfection",
+    "Gain +{2}  Pristine for every",
+    "Frozen Corpse you've looted in the",
+    "current Glacite Mineshaft.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "LEGENDARY PET"
+  ],
+  "name": "[等级 {LVL}] 冰晶傀儡",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mining Pet"
+      ],
+      "translation": "采矿宠物",
+      "styleMappings": {
+        "Mining": "采矿",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Cold Resistance: +{{N0}}"
+      ],
+      "translation": "寒冷抗性: +{{N0}}",
+      "styleMappings": {
+        "Cold Resistance": "寒冷抗性",
+        "Resistance": "抗性",
+        "Cold": "寒冷"
+      }
+    },
+    {
+      "source": [
+        "Mining Speed: +{{N0}}"
+      ],
+      "translation": "采矿速度: +{{N0}}",
+      "styleMappings": {
+        "Mining Speed": "采矿速度",
+        "Mining": "采矿",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Powder-powered"
+      ],
+      "translation": "粉末驱动",
+      "styleMappings": {
+        "Powder-powered": "粉末驱动",
+        "Powder": "粉末"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}}% more Glacite Powder from",
+        "most sources."
+      ],
+      "translation": "从大多数来源获得 {{N0}}% 更多冰川粉末.",
+      "styleMappings": {
+        "Glacite Powder": "冰川粉末",
+        "Gain": "获得",
+        "most": "大多数",
+        "more": "更多",
+        "Glacite": "冰川",
+        "Powder": "粉末"
+      }
+    },
+    {
+      "source": [
+        "Iceborn"
+      ],
+      "translation": "冰生",
+      "styleMappings": {
+        "Iceborn": "冰生"
+      }
+    },
+    {
+      "source": [
+        "Gain +{{N0}}  Mining Fortune while in the",
+        "Glacite Mineshafts."
+      ],
+      "translation": "在冰晶矿井中时获得 +{{N0}}  采矿幸运.",
+      "styleMappings": {
+        "Glacite Mineshafts": "冰晶矿井",
+        "Mining Fortune": "采矿幸运",
+        "Gain": "获得",
+        "Mining": "采矿",
+        "Mineshafts": "矿井",
+        "Fortune": "幸运",
+        " Mining Fortune": " 采矿幸运"
+      }
+    },
+    {
+      "source": [
+        "Frozen Perfection"
+      ],
+      "translation": "冰封完美",
+      "styleMappings": {
+        "Frozen Perfection": "冰封完美"
+      }
+    },
+    {
+      "source": [
+        "Gain +{{N0}}  Pristine for every",
+        "Frozen Corpse you've looted in the",
+        "current Glacite Mineshaft."
+      ],
+      "translation": "在当前冰晶矿井中每拾取一具冰封尸体,获得 +{{N0}}  提纯.",
+      "styleMappings": {
+        "Glacite Mineshaft": "冰晶矿井",
+        "Frozen Corpse": "冰封尸体",
+        "Pristine": "提纯",
+        "Gain": "获得",
+        "for": "获得"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY PET"
+      ],
+      "translation": "传说 宠物",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Golem": "傀儡",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "id": "ATTRIBUTE_SHARD_FIG_COLLECTOR;1",
+  "_original_name": "Sparrow Shard",
+  "_original_lore": [
+    "Fig Collector I",
+    "Grants +1  Fig Fortune for every",
+    "digit in your Fig Log collection. (Max",
+    "10M collection)",
+    "",
+    "You can Syphon this shard from",
+    "your Hunting Box.",
+    "",
+    "Right-click to send to Hunting Box!",
+    "Shift Right-click to move all!",
+    "",
+    "❣ Requires Hunting Skill 5.",
+    "UNCOMMON FOREST SHARD (ID U4)"
+  ],
+  "name": "麻雀碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Fig Collector I"
+      ],
+      "translation": "无花果收藏家 I",
+      "styleMappings": {
+        "I": "I"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}  Fig Fortune for every",
+        "digit in your Fig Log collection. (Max",
+        "{{N1}}M collection)"
+      ],
+      "translation": "你的无花果原木收藏中每有一位数字,就获得 {{N0}}  无花果幸运. (最高 {{N1}}M 收藏)",
+      "styleMappings": {
+        "(Max {{N1}}M collection)": "(最高 {{N1}}M 收藏)",
+        "Fig Fortune": "无花果幸运",
+        "Grants": "获得",
+        "for": "获得",
+        "(Max": "(最高",
+        "Fortune": "幸运",
+        "M collection)": "M 收藏)"
+      }
+    },
+    {
+      "source": [
+        "You can Syphon this shard from",
+        "your Hunting Box."
+      ],
+      "translation": "你可以从狩猎箱中吸取此碎片.",
+      "styleMappings": {
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to send to Hunting Box!"
+      ],
+      "translation": "右键点击发送至狩猎箱!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Shift Right-click to move all!"
+      ],
+      "translation": "潜行键 右键点击全部移动!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "all": "全部"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Hunting Skill {{N0}}."
+      ],
+      "translation": "❣ 需要狩猎技能 {{N0}}.",
+      "styleMappings": {
+        "Hunting Skill": "狩猎技能",
+        "Requires": "需要",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON FOREST SHARD (ID U{{N0}})"
+      ],
+      "translation": "罕见森林碎片 (ID 优{{N0}})",
+      "styleMappings": {
+        "UNCOMMON FOREST SHARD": "罕见森林碎片",
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shard": "碎片"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

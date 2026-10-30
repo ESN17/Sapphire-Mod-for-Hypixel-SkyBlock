@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 1,
+  "id": "GRIFFIN;5",
+  "_original_name": "[Lvl {LVL}] Griffin",
+  "_original_lore": [
+    "Combat Pet",
+    "",
+    "Strength: +{STRENGTH}",
+    "Crit Chance: +{CRIT_CHANCE}%",
+    "Crit Damage: +{CRIT_DAMAGE}%",
+    "Attack Speed: +{BONUS_ATTACK_SPEED}%",
+    "",
+    "Odyssey",
+    "12 types of  Mythological mobs can",
+    "spawn from Griffin Burrows. Their",
+    "stats scale with your Griffin’s",
+    "rarity.",
+    "",
+    "Sacred Strength",
+    "Gain +{0}%  Strength when above",
+    "85%  Health.",
+    "",
+    "King of Kings",
+    "Grants +{1} Magic Find on ",
+    "Mythological mobs.",
+    "",
+    "Ancient Earth",
+    "Grants +1 Tracking on Griffin",
+    "Burrows for each burrow excavated",
+    "in your current chain.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "MYTHIC PET"
+  ],
+  "name": "[等级 {LVL}] 狮鹫",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combat Pet"
+      ],
+      "translation": "战斗宠物",
+      "styleMappings": {
+        "Combat Pet": "战斗宠物",
+        "Combat": "战斗",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Strength: +{{N0}}"
+      ],
+      "translation": "力量: +{{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Crit Chance: +{{N0}}%"
+      ],
+      "translation": "暴击几率: +{{N0}}%",
+      "styleMappings": {
+        "Crit Chance": "暴击几率"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: +{{N0}}%"
+      ],
+      "translation": "暴击伤害: +{{N0}}%",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Attack Speed: +{{N0}}%"
+      ],
+      "translation": "攻击速度: +{{N0}}%",
+      "styleMappings": {
+        "Attack Speed": "攻击速度",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Odyssey"
+      ],
+      "translation": "远征",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "{{N0}} types of  Mythological mobs can",
+        "spawn from Griffin Burrows. Their",
+        "stats scale with your Griffin’s",
+        "rarity."
+      ],
+      "translation": "狮鹫洞穴中可出现 {{N0}} 种  神话生物,其属性随你的狮鹫稀有度提升.",
+      "styleMappings": {
+        "Griffin Burrows": "狮鹫洞穴",
+        " Mythological": " 神话生物",
+        "Griffin": "狮鹫",
+        "rarity": "稀有度",
+        "stats": "属性",
+        "s": "现",
+        "Mythological": "神话生物",
+        "spawn": "出现",
+        "mobs": "生物"
+      }
+    },
+    {
+      "source": [
+        "Sacred Strength"
+      ],
+      "translation": "神圣力量",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Gain +{{N0}}%  Strength when above",
+        "{{N1}}  Health."
+      ],
+      "translation": "当 生命值高于 {{N1}} 时,获得 +{{N0}}%  力量.",
+      "styleMappings": {
+        " Strength": " 力量",
+        "Health": "生命值",
+        " Health": " 生命",
+        "Gain": "获得",
+        "Strength": "力量",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "King of Kings"
+      ],
+      "translation": "万王之王",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants +{{N0}} Magic Find on ",
+        "Mythological mobs."
+      ],
+      "translation": "对  神话生物提供 +{{N0}} 稀有物品概率加成.",
+      "styleMappings": {
+        " Mythological": " 神话生物",
+        " Magic Find": " 稀有物品概率加成",
+        "Grants": "提供",
+        "Mythological": "神话生物",
+        "Magic Find": "稀有物品概率加成",
+        "mobs": "生物"
+      }
+    },
+    {
+      "source": [
+        "Ancient Earth"
+      ],
+      "translation": "远古大地",
+      "styleMappings": {
+        "Ancient": "远古"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Tracking on Griffin",
+        "Burrows for each burrow excavated",
+        "in your current chain."
+      ],
+      "translation": "当前连锁中每挖掘一个狮鹫洞穴,便提供 {{N0}} 追踪.",
+      "styleMappings": {
+        "Griffin Burrows": "狮鹫洞穴",
+        "Tracking": "追踪",
+        "Grants": "提供",
+        "Griffin": "狮鹫"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "MYTHIC PET"
+      ],
+      "translation": "神话 宠物",
+      "styleMappings": {
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Griffin": "狮鹫",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

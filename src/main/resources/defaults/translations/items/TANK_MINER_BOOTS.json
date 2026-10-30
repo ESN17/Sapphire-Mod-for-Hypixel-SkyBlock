@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "id": "TANK_MINER_BOOTS",
+  "_original_name": "Miner Boots",
+  "_original_lore": [
+    "Defense: +15",
+    "Mining Speed: +10",
+    "",
+    "Ability: Depth Coating ",
+    "Doubles this piece's  Defense while",
+    "on Mining Islands.",
+    "",
+    "This item can be reforged!",
+    "RARE BOOTS"
+  ],
+  "name": "矿工靴子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Mining Speed: {{N0}}"
+      ],
+      "translation": "采矿速度: {{N0}}",
+      "styleMappings": {
+        "Mining Speed": "采矿速度",
+        "Mining": "采矿",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Ability: Depth Coating "
+      ],
+      "translation": "技能: 深层涂层 ",
+      "styleMappings": {
+        "Ability": "技能",
+        "Depth Coating": "深层涂层"
+      }
+    },
+    {
+      "source": [
+        "Doubles this piece's  Defense while",
+        "on Mining Islands."
+      ],
+      "translation": "在采矿岛屿上时,此装备的  防御力翻倍.",
+      "styleMappings": {
+        "Mining Islands": "采矿岛屿",
+        " Defense": " 防御",
+        "Doubles": "翻倍",
+        "Mining": "采矿"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "RARE BOOTS"
+      ],
+      "translation": "稀有靴子",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Boots": "靴子"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

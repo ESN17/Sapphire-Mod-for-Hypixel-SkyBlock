@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "HEARTS_RUNE;3",
+  "_original_name": "◆ Hearts Rune III",
+  "_original_lore": [
+    "Requires level 10",
+    "Weapons",
+    "",
+    "Shower your enemies in love!",
+    "",
+    "Apply this rune to weapons or fuse",
+    "two together at the Runic Pedestal!",
+    "",
+    "RARE COSMETIC"
+  ],
+  "name": "◆ 爱心符文 III",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Requires level {{N0}}",
+        "Weapons"
+      ],
+      "translation": "需要等级 {{N0}} 武器",
+      "styleMappings": {
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Shower your enemies in love!"
+      ],
+      "translation": "用爱沐浴你的敌人!",
+      "styleMappings": {
+        "enemies": "敌人"
+      }
+    },
+    {
+      "source": [
+        "Apply this rune to weapons or fuse",
+        "two together at the Runic Pedestal!"
+      ],
+      "translation": "将此符文应用于武器,或在符文基座上将两个符文融合!",
+      "styleMappings": {
+        "Runic Pedestal": "符文基座",
+        "Runic": "符文"
+      }
+    },
+    {
+      "source": [
+        "RARE COSMETIC"
+      ],
+      "translation": "稀有 外观",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Rune III": "符文 III",
+    "III": "III"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

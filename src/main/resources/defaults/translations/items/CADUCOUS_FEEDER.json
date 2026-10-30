@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "CADUCOUS_FEEDER",
+  "_original_name": "Caducous Feeder",
+  "_original_lore": [
+    "Use on a pet to consume an Ultimate",
+    "Carrot Candy and grant it 1,650,000",
+    "pet Exp.",
+    "",
+    "Has 2 charges, reloading after 20h.",
+    "",
+    "❣ Requires Profile older than 7 days.",
+    "X Rift-Transferable X",
+    "RARE"
+  ],
+  "name": "早落喂食器",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Use on a pet to consume an Ultimate",
+        "Carrot Candy and grant it {{N0}}",
+        "pet Exp."
+      ],
+      "translation": "对宠物使用以消耗一个终极胡萝卜糖,并给予其 {{N0}} 宠物经验.",
+      "styleMappings": {
+        "Ultimate Carrot Candy": "终极胡萝卜糖",
+        "Exp": "经验",
+        "pet": "宠物",
+        "Carrot": "胡萝卜",
+        "Carrot Candy": "胡萝卜糖"
+      }
+    },
+    {
+      "source": [
+        "Has {{N0}} charges, reloading after {{N1}}h."
+      ],
+      "translation": "拥有 {{N0}} 次充能,{{N1}}小时后重新装填.",
+      "styleMappings": {
+        "Has": "拥有",
+        "charges": "充能",
+        "reloading after": "后重新装填",
+        "{{N1}}h": "{{N1}}小时"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Profile older than {{N0}} days."
+      ],
+      "translation": "❣ 需要档案创建时间超过 {{N0}} 天.",
+      "styleMappings": {
+        "Requires": "需要",
+        "days": "天"
+      }
+    },
+    {
+      "source": [
+        "X Rift-Transferable X"
+      ],
+      "translation": "X 可转移至裂隙 X",
+      "styleMappings": {
+        "Rift-Transferable": "可转移至裂隙",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

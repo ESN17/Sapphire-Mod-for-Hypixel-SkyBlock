@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "ATTRIBUTE_SHARD_MANA_STEAL;1",
+  "_original_name": "Rain Slime Shard",
+  "_original_lore": [
+    "Mana Steal I",
+    "Regain +0.5 Mana every time you hit a",
+    "monster.",
+    "Cooldown: 0.5s",
+    "",
+    "You can Syphon this shard from",
+    "your Hunting Box.",
+    "",
+    "Right-click to send to Hunting Box!",
+    "Shift Right-click to move all!",
+    "",
+    "UNCOMMON COMBAT SHARD (ID U12)"
+  ],
+  "name": "雨史莱姆碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mana Steal I"
+      ],
+      "translation": "法力窃取 I",
+      "styleMappings": {
+        "Mana Steal I": "法力窃取 I",
+        "Mana": "法力"
+      }
+    },
+    {
+      "source": [
+        "Regain {{N0}} Mana every time you hit a",
+        "monster."
+      ],
+      "translation": "每次击中怪物时恢复 {{N0}} 法力.",
+      "styleMappings": {
+        "Mana": "法力",
+        "hit": "击中"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "You can Syphon this shard from",
+        "your Hunting Box."
+      ],
+      "translation": "你可以从狩猎箱中吸取此碎片.",
+      "styleMappings": {
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to send to Hunting Box!"
+      ],
+      "translation": "右键点击发送至狩猎箱!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Shift Right-click to move all!"
+      ],
+      "translation": "潜行键 右键点击全部移动!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "all": "全部"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON COMBAT SHARD (ID U{{N0}})"
+      ],
+      "translation": "罕见战斗碎片 (ID U{{N0}})",
+      "styleMappings": {
+        "UNCOMMON COMBAT SHARD": "罕见战斗碎片",
+        "UNCOMMON": "罕见",
+        "COMBAT SHARD": "战斗碎片"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shard": "碎片"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

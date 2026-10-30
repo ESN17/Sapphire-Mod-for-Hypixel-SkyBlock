@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": "GOBLIN;4",
+  "_original_name": "[Lvl {LVL}] Goblin",
+  "_original_lore": [
+    "Mining Pet",
+    "",
+    "Magic Find: +{MAGIC_FIND}",
+    "Ore Fortune: +{ORE_FORTUNE}",
+    "",
+    "Grunt Work",
+    "Gain +{0} Mining Speed when mining",
+    "Ores.",
+    "",
+    "Fetid Thief",
+    "Gain +{1} Mining Spread while in the",
+    "Mines of Divan.",
+    "",
+    "Free-range Eggs",
+    "Increases the chance of finding",
+    "rare goblin eggs by {2}%.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "LEGENDARY PET"
+  ],
+  "name": "[等级 {LVL}] 哥布林",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mining Pet"
+      ],
+      "translation": "采矿宠物",
+      "styleMappings": {
+        "Mining": "采矿",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Magic Find: +{{N0}}"
+      ],
+      "translation": "稀有物品概率加成: +{{N0}}",
+      "styleMappings": {
+        "Magic Find": "稀有物品概率加成"
+      }
+    },
+    {
+      "source": [
+        "Ore Fortune: +{{N0}}"
+      ],
+      "translation": "矿石幸运: +{{N0}}",
+      "styleMappings": {
+        "Ore Fortune": "矿石幸运",
+        "Fortune": "幸运"
+      }
+    },
+    {
+      "source": [
+        "Grunt Work"
+      ],
+      "translation": "苦力活",
+      "styleMappings": {
+        "Grunt Work": "苦力活"
+      }
+    },
+    {
+      "source": [
+        "Gain +{{N0}} Mining Speed when mining",
+        "Ores."
+      ],
+      "translation": "挖掘矿石时获得 +{{N0}} 采矿速度.",
+      "styleMappings": {
+        "Mining Speed": "采矿速度",
+        "Gain": "获得",
+        "Ores": "矿石",
+        "Mining": "采矿",
+        "Speed": "速度",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Fetid Thief"
+      ],
+      "translation": "恶臭窃贼",
+      "styleMappings": {
+        "Fetid Thief": "恶臭窃贼"
+      }
+    },
+    {
+      "source": [
+        "Gain +{{N0}} Mining Spread while in the",
+        "Mines of Divan."
+      ],
+      "translation": "在迪万矿坑中时获得 +{{N0}} 采矿扩散.",
+      "styleMappings": {
+        "Mines of Divan": "迪万矿坑",
+        "Mining Spread": "采矿扩散",
+        "Gain": "获得",
+        "Mining": "采矿",
+        "Divan": "迪万"
+      }
+    },
+    {
+      "source": [
+        "Free-range Eggs"
+      ],
+      "translation": "散养鸡蛋",
+      "styleMappings": {
+        "Free-range Eggs": "散养鸡蛋"
+      }
+    },
+    {
+      "source": [
+        "Increases the chance of finding",
+        "rare goblin eggs by {{N0}}%."
+      ],
+      "translation": "提高找到稀有哥布林鸡蛋的概率 {{N0}}%.",
+      "styleMappings": {
+        "rare goblin eggs": "稀有哥布林鸡蛋",
+        "rare": "稀有",
+        "chance": "概率"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY PET"
+      ],
+      "translation": "传说 宠物",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Goblin": "哥布林",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

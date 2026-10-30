@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_SPIRIT;4",
+  "_original_name": "Spirit IV Potion",
+  "_original_lore": [
+    "",
+    "Spirit IV (3:00)",
+    "Grants +40  Speed and +40% ",
+    "Crit Damage.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "灵魂 IV 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Spirit IV ({{N0}}:{{N1}})"
+      ],
+      "translation": "灵魂 IV ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Spirit IV": "灵魂 IV",
+        "Spirit": "灵魂"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}  Speed and {{N1}} ",
+        "Crit Damage."
+      ],
+      "translation": "获得 {{N0}}  速度与 {{N1}}  暴击伤害.",
+      "styleMappings": {
+        " Crit Damage": " 暴击伤害",
+        " Speed": " 速度",
+        "Grants": "获得",
+        "Speed": "速度",
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Spirit IV": "灵魂 IV",
+    "Spirit": "灵魂"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

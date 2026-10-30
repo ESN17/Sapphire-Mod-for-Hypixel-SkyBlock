@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "EGG_HUNT",
+  "_original_name": "Egg Hunt",
+  "_original_lore": [
+    "Place an egg which can be found on",
+    "your island by guests for island",
+    "points.",
+    "",
+    "Maximum of 10.",
+    "",
+    "❣ Requires Social Skill 3.",
+    "COMMON"
+  ],
+  "name": "寻蛋活动",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Place an egg which can be found on",
+        "your island by guests for island",
+        "points."
+      ],
+      "translation": "放置一个蛋,访客可在你的岛屿上找到它并获得岛屿积分.",
+      "styleMappings": {
+        "island": "岛屿上",
+        "for": "获得"
+      }
+    },
+    {
+      "source": [
+        "Maximum of {{N0}}."
+      ],
+      "translation": "最多 {{N0}} 个.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "❣ Requires Social Skill {{N0}}."
+      ],
+      "translation": "❣ 需要社交技能 {{N0}}.",
+      "styleMappings": {
+        "Requires": "需要",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Egg": "蛋"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

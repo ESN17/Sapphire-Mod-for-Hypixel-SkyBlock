@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "BASIC_CHICKEN_AXE",
+  "_original_name": "Basic Chicken Axe",
+  "_original_lore": [
+    "Damage: +10",
+    "",
+    "Chickens killed with this drop 1",
+    "additional Feather and Raw Chicken.",
+    "",
+    "This item can be reforged!",
+    "COMMON SWORD"
+  ],
+  "name": "基础鸡斧",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Chickens killed with this drop {{N0}}",
+        "additional Feather and Raw Chicken."
+      ],
+      "translation": "用此斧击杀鸡时额外掉落 {{N0}} 个羽毛和生鸡肉.",
+      "styleMappings": {
+        "Raw Chicken.": "生鸡肉.",
+        "additional": "额外",
+        "Chickens": "鸡",
+        "Feather": "羽毛",
+        "Chicken": "鸡",
+        "Raw Chicken": "生鸡肉"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "COMMON SWORD"
+      ],
+      "translation": "普通剑",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Chicken": "鸡",
+    "Basic": "基础",
+    "Axe": "斧"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

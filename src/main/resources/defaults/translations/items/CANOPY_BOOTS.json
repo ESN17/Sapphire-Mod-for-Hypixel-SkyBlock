@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "CANOPY_BOOTS",
+  "_original_name": "Canopy Sandals",
+  "_original_lore": [
+    "Health: +50",
+    "Defense: +20",
+    "Sweep: +6",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Foraging Skill 12.",
+    "UNCOMMON BOOTS"
+  ],
+  "name": "树冠凉鞋",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Sweep: {{N0}}"
+      ],
+      "translation": "清扫:{{N0}}",
+      "styleMappings": {
+        "Sweep": "清扫"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Foraging Skill {{N0}}."
+      ],
+      "translation": "❣ 需要采伐技能 {{N0}}.",
+      "styleMappings": {
+        "Foraging Skill": "采伐技能",
+        "Requires": "需要",
+        "Foraging": "采伐",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON BOOTS"
+      ],
+      "translation": "罕见 靴子",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Canopy Sandals": "树冠凉鞋"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

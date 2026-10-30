@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "SULPHUR_ORE",
+  "_original_name": "Sulphur",
+  "_original_lore": [
+    "Collection Item",
+    "",
+    "\"Give me some Sulphur and I'll make a",
+    "wand. Give me all the Sulphur and I'll",
+    "conquer the world.\" - Unnamed Mage.",
+    "",
+    "UNCOMMON ORE"
+  ],
+  "name": "硫磺",
+  "lore": {
+    "UNCOMMON ORE": "罕见 矿物"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "\"Give me some Sulphur and I'll make a",
+        "wand. Give me all the Sulphur and I'll",
+        "conquer the world.\" - Unnamed Mage."
+      ],
+      "translation": "“给我一点硫磺,我能造出一根魔杖;给我所有硫磺,我将征服世界.”—— 无名法师",
+      "styleMappings": {
+        "Mage": "法师",
+        "Sulphur": "硫磺"
+      }
+    },
+    {
+      "source": [
+        "Collection Item"
+      ],
+      "translation": "收藏品",
+      "styleMappings": {
+        "Collection": "收藏"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON ORE"
+      ],
+      "translation": "罕见矿物",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sulphur": "硫磺"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

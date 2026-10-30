@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_ENCHANTING_XP_BOOST;3",
+  "_original_name": "Enchanting XP Boost III Potion",
+  "_original_lore": [
+    "",
+    "Enchanting XP Boost III (36:00)",
+    "Grants +20☯ Enchanting Wisdom.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "附魔经验加成 III 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Enchanting XP Boost III ({{N0}}:{{N1}})"
+      ],
+      "translation": "附魔经验加成 III ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Enchanting XP Boost III": "附魔经验加成 III",
+        "III": "III"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}☯ Enchanting Wisdom."
+      ],
+      "translation": "获得 {{N0}}☯ 附魔智慧.",
+      "styleMappings": {
+        "Enchanting Wisdom": "附魔智慧",
+        "Grants": "获得",
+        "Wisdom": "智慧"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Enchanting XP Boost III": "附魔经验加成 III",
+    "III": "III"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

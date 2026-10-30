@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "BLOOD_2_RUNE;2",
+  "_original_name": "◆ Blood Rune II",
+  "_original_lore": [
+    "Requires level 1",
+    "Weapons",
+    "",
+    "Create a blood effect when you",
+    "kill mobs!",
+    "",
+    "Apply this rune to weapons or",
+    "fuse two together at the Runic",
+    "Pedestal!",
+    "",
+    "COMMON COSMETIC"
+  ],
+  "name": "◆ 血符文 II",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Requires level {{N0}}",
+        "Weapons"
+      ],
+      "translation": "需要等级 {{N0}} 武器",
+      "styleMappings": {
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Create a blood effect when you",
+        "kill mobs!"
+      ],
+      "translation": "击杀怪物时产生血液效果!",
+      "styleMappings": {
+        "mobs": "怪物",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Apply this rune to weapons or",
+        "fuse two together at the Runic",
+        "Pedestal!"
+      ],
+      "translation": "将此符文应用于武器,或在符文基座上将两个融合!",
+      "styleMappings": {
+        "Runic Pedestal": "符文基座",
+        "Runic": "符文"
+      }
+    },
+    {
+      "source": [
+        "COMMON COSMETIC"
+      ],
+      "translation": "普通 外观",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Rune II": "符文 II",
+    "II": "II"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

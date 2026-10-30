@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "package": "com.sorakoi.sbtranslate.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": ["GuiMixin", "ContainerScreenMixin", "BossHealthOverlayMixin", "PlayerTabOverlayMixin"],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

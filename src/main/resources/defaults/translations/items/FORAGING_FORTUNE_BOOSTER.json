@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "id": "FORAGING_FORTUNE_BOOSTER",
+  "_original_name": "Common Foraging Fortune Booster",
+  "_original_lore": [
+    "Booster",
+    "Combinable in Anvil",
+    "",
+    "Applies the ⎋ Foraging Fortune",
+    "booster when combined with Foraging",
+    "Armor, Equipment, or Axes.",
+    "",
+    "Grants  Foraging Fortune.",
+    "",
+    "COMMON BOOSTER"
+  ],
+  "name": "普通采伐幸运加成器",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Booster",
+        "Combinable in Anvil"
+      ],
+      "translation": "增益器可在铁砧中合成",
+      "styleMappings": {
+        "Booster Combinable in Anvil": "增益器可在铁砧中合成",
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Applies the ⎋ Foraging Fortune",
+        "booster when combined with Foraging",
+        "Armor, Equipment, or Axes."
+      ],
+      "translation": "与采伐护甲、装备或斧头结合时,应用 ⎋ 采伐幸运加成.",
+      "styleMappings": {
+        "Foraging Fortune": "采伐幸运",
+        "Equipment": "装备",
+        "Foraging": "采伐",
+        "Armor": "护甲",
+        "Axes": "斧头",
+        "Foraging Armor": "采伐护甲",
+        "Fortune": "幸运",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Grants  Foraging Fortune."
+      ],
+      "translation": "提供  采伐幸运.",
+      "styleMappings": {
+        " Foraging Fortune": " 采伐幸运",
+        "Grants": "提供",
+        "Fortune": "幸运",
+        "Foraging": "采伐",
+        "Foraging Fortune": "采伐幸运"
+      }
+    },
+    {
+      "source": [
+        "COMMON BOOSTER"
+      ],
+      "translation": "普通增益器",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Foraging Fortune": "采伐幸运",
+    "Common": "普通",
+    "Fortune": "幸运",
+    "Foraging": "采伐"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

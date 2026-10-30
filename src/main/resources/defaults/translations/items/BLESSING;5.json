@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "id": "BLESSING;5",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Blessing V",
+    "Increases the chance for Treasure",
+    "catches to be GREAT or",
+    "OUTSTANDING by 10%.",
+    "",
+    "Sources:",
+    " - Enchantment Table (I-V)",
+    " - Fishing (VI)",
+    " - Bazaar (VI)",
+    "",
+    "Applied To:",
+    " - Fishing Rod",
+    "",
+    "Requirements:",
+    " - Enchanting Level 9",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Blessing V"
+      ],
+      "translation": "祝福 V",
+      "styleMappings": {
+        "Blessing": "祝福"
+      }
+    },
+    {
+      "source": [
+        "Increases the chance for Treasure",
+        "catches to be GREAT or",
+        "OUTSTANDING by {{N0}}."
+      ],
+      "translation": "使宝藏钓获为极佳或卓越的几率提高 {{N0}}.",
+      "styleMappings": {
+        "OUTSTANDING": "卓越",
+        "Treasure": "宝藏",
+        "chance": "几率",
+        "GREAT": "极佳"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchantment Table (I-V)",
+        " - Fishing (VI)",
+        " - Bazaar (VI)"
+      ],
+      "translation": " - 附魔台 (一至五)  - 钓鱼 (六)  - 集市 (六)",
+      "styleMappings": {
+        "Enchantment Table": "附魔台",
+        "Fishing": "钓鱼",
+        "Bazaar": "集市",
+        "I-V": "一至五",
+        "VI": "六",
+        "Enchantment": "附魔"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Fishing Rod"
+      ],
+      "translation": " - 钓鱼竿",
+      "styleMappings": {
+        "Fishing Rod": "钓鱼竿",
+        "Fishing": "钓鱼"
+      }
+    },
+    {
+      "source": [
+        "Requirements:"
+      ],
+      "translation": "需求:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchanting Level {{N0}}"
+      ],
+      "translation": " - 附魔等级 {{N0}}",
+      "styleMappings": {
+        "Enchanting Level": "附魔等级"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

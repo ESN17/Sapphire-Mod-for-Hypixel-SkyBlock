@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "TRICK_OR_TREAT_BAG",
+  "_original_name": "Trick or Treat Bag",
+  "_original_lore": [
+    "Picking up Candy will place it directly",
+    "into this bag! Your Candy inventory",
+    "is shared across your profile -",
+    "opening any Trick or Treat Bag will",
+    "display your Candy inventory.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "不给糖就捣蛋袋",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Picking up Candy will place it directly",
+        "into this bag! Your Candy inventory",
+        "is shared across your profile -",
+        "opening any Trick or Treat Bag will",
+        "display your Candy inventory."
+      ],
+      "translation": "拾取糖果时会直接放入此袋中!你的糖果库存在整个存档中共享 - 打开任意不给糖就捣蛋袋都会显示你的糖果库存.",
+      "styleMappings": {
+        "Candy": "糖果"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

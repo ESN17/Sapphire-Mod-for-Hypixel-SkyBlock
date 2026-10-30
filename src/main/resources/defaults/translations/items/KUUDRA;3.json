@@ -1,0 +1,222 @@
+{
+  "schemaVersion": 1,
+  "id": "KUUDRA;3",
+  "_original_name": "[Lvl {LVL}] Kuudra",
+  "_original_lore": [
+    "Combat Pet",
+    "",
+    "Health: +{HEALTH}",
+    "Strength: +{STRENGTH}",
+    "",
+    "Crimson",
+    "Grants {0}% extra Crimson Essence.",
+    "",
+    "Wither Bait",
+    "Increases the odds of finding a",
+    "vanquisher by {1}%.",
+    "",
+    "Kuudra Fortune",
+    "Grants +{2} Mining Fortune while on",
+    "the Crimson Isle.",
+    "",
+    "Trophy Bait",
+    "Grants +{3} Trophy Chance",
+    "while on the Crimson Isle.",
+    "",
+    "This pet's perks are active even",
+    "when the pet is not summoned!",
+    "",
+    "This pet automatically has Exp share!",
+    "",
+    "This pet only gains XP on the",
+    "Crimson Isle!",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "* Soulbound *",
+    "EPIC PET"
+  ],
+  "name": "[等级 {LVL}] 库德拉",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combat Pet"
+      ],
+      "translation": "战斗宠物",
+      "styleMappings": {
+        "Combat Pet": "战斗宠物",
+        "Combat": "战斗",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Health: +{{N0}}"
+      ],
+      "translation": "生命值: +{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Strength: +{{N0}}"
+      ],
+      "translation": "力量: +{{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Crimson"
+      ],
+      "translation": "绯红",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants {{N0}}% extra Crimson Essence."
+      ],
+      "translation": "额外获得 {{N0}}% 猩红精华.",
+      "styleMappings": {
+        "extra Crimson Essence": "额外获得",
+        "Grants": "获得",
+        "Crimson Essence": "猩红精华"
+      }
+    },
+    {
+      "source": [
+        "Wither Bait"
+      ],
+      "translation": "凋灵诱饵",
+      "styleMappings": {
+        "Wither": "凋灵"
+      }
+    },
+    {
+      "source": [
+        "Increases the odds of finding a",
+        "vanquisher by {{N0}}%."
+      ],
+      "translation": "找到征服者的概率提高 {{N0}}%.",
+      "styleMappings": {
+        "Increases the odds of finding a": "找到征服者的概率提高"
+      }
+    },
+    {
+      "source": [
+        "Kuudra Fortune"
+      ],
+      "translation": "库德拉幸运",
+      "styleMappings": {
+        "Kuudra": "库德拉",
+        "Fortune": "幸运"
+      }
+    },
+    {
+      "source": [
+        "Grants +{{N0}} Mining Fortune while on",
+        "the Crimson Isle."
+      ],
+      "translation": "在绯红之岛时获得 +{{N0}} 采矿幸运.",
+      "styleMappings": {
+        "Mining Fortune": "采矿幸运",
+        "Crimson Isle": "绯红之岛",
+        "Grants": "获得",
+        "Mining": "采矿",
+        "Fortune": "幸运",
+        " Mining Fortune": " 采矿幸运"
+      }
+    },
+    {
+      "source": [
+        "Trophy Bait"
+      ],
+      "translation": "奖杯诱饵",
+      "styleMappings": {
+        "Trophy": "奖杯"
+      }
+    },
+    {
+      "source": [
+        "Grants +{{N0}} Trophy Chance",
+        "while on the Crimson Isle."
+      ],
+      "translation": "在绯红之岛时获得 +{{N0}} 奖杯概率.",
+      "styleMappings": {
+        "Trophy Chance": "奖杯概率",
+        "Crimson Isle": "绯红之岛",
+        "Grants": "获得",
+        "Trophy": "奖杯"
+      }
+    },
+    {
+      "source": [
+        "This pet's perks are active even",
+        "when the pet is not summoned!"
+      ],
+      "translation": "即使宠物未被召唤,此宠物的技能也会生效!",
+      "styleMappings": {
+        "This pet's perks are active even": "即使宠物未被召唤,此宠物的技能也会生效",
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "This pet automatically has Exp share!"
+      ],
+      "translation": "该宠物自动拥有经验共享!",
+      "styleMappings": {
+        "pet": "宠物",
+        "automatically": "自动",
+        "Exp": "经验"
+      }
+    },
+    {
+      "source": [
+        "This pet only gains XP on the",
+        "Crimson Isle!"
+      ],
+      "translation": "该宠物只能在绯红之岛获得经验!",
+      "styleMappings": {
+        "pet": "宠物",
+        "Crimson Isle": "绯红之岛"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "EPIC PET"
+      ],
+      "translation": "史诗 宠物",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Kuudra": "库德拉",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

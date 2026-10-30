@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "INFINI_TORCH",
+  "_original_name": "InfiniTorch™",
+  "_original_lore": [
+    "Places a torch for 2 coins.",
+    "",
+    "Right-Click a block to use!",
+    "",
+    "EPIC"
+  ],
+  "name": "无限火把™",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Places a torch for {{N0}} coins."
+      ],
+      "translation": "花费 {{N0}} 硬币放置一个火把.",
+      "styleMappings": {
+        "coins": "硬币"
+      }
+    },
+    {
+      "source": [
+        "Right-Click a block to use!"
+      ],
+      "translation": "右键点击方块以使用!",
+      "styleMappings": {
+        "Right-Click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

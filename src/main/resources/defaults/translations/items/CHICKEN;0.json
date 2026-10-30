@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "id": "CHICKEN;0",
+  "_original_name": "[Lvl {LVL}] Chicken",
+  "_original_lore": [
+    "Farming Pet",
+    "",
+    "Speed: +{SPEED}",
+    "Farming Fortune: +{FARMING_FORTUNE}",
+    "",
+    "Free Range",
+    "Grants +{0} Farming Fortune while",
+    "on Public Islands.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "COMMON PET"
+  ],
+  "name": "[等级 {LVL}] 鸡",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Farming Pet"
+      ],
+      "translation": "耕作宠物",
+      "styleMappings": {
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Speed: +{{N0}}"
+      ],
+      "translation": "速度: +{{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Farming Fortune: +{{N0}}"
+      ],
+      "translation": "农业幸运: +{{N0}}",
+      "styleMappings": {
+        "Farming Fortune": "农业幸运",
+        "Fortune": "幸运",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "Free Range"
+      ],
+      "translation": "自由放养",
+      "styleMappings": {
+        "Free Range": "自由放养"
+      }
+    },
+    {
+      "source": [
+        "Grants +{{N0}} Farming Fortune while",
+        "on Public Islands."
+      ],
+      "translation": "在公共岛屿上时提供 +{{N0}} 农业幸运.",
+      "styleMappings": {
+        "Farming Fortune": "农业幸运",
+        "Public Islands": "公共岛屿",
+        "Grants": "提供",
+        "Fortune": "幸运",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "COMMON PET"
+      ],
+      "translation": "普通 宠物",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Chicken": "鸡",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

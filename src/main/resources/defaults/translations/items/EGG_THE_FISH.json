@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "EGG_THE_FISH",
+  "_original_name": "Egg the Fish",
+  "_original_lore": [
+    "This delicate, painted fish was found",
+    "in the depths of the Main Lobby",
+    "during the Easter season.",
+    "",
+    "SPECIAL"
+  ],
+  "name": "蛋鱼",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "This delicate, painted fish was found",
+        "in the depths of the Main Lobby",
+        "during the Easter season."
+      ],
+      "translation": "这条精致的彩绘鱼是在复活节期间于主大厅深处发现的.",
+      "styleMappings": {
+        "Easter": "复活节",
+        "depths": "深处",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fish": "鱼",
+    "Egg": "蛋"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "BEEHEEMOTH_MONSTER",
+  "_original_name": "Beeheemoth (Monster)",
+  "_original_lore": [
+    "Mob Types:  Airborne,  Critter",
+    "",
+    "Defies all scientific reasoning - how",
+    "can it even fly?",
+    "",
+    "❤ Health: 1,000,000"
+  ],
+  "name": "巨蜂 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mob Types:  Airborne,  Critter"
+      ],
+      "translation": "生物类型:  空中,  小动物",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Airborne": "空中",
+        " Critter": " 小动物"
+      }
+    },
+    {
+      "source": [
+        "Defies all scientific reasoning - how",
+        "can it even fly?"
+      ],
+      "translation": "违背一切科学常理 - 它究竟是怎么飞起来的?",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

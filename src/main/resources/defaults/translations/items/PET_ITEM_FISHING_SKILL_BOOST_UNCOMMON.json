@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "id": "PET_ITEM_FISHING_SKILL_BOOST_UNCOMMON",
+  "_original_name": "Fishing Exp Boost",
+  "_original_lore": [
+    "Consumed on use",
+    "",
+    "Pet Items can boost pets in many",
+    "powerful ways! A pet can only hold",
+    "one Pet Item, but you can swap it at",
+    "any time!",
+    "The pet must be visible to apply the item!",
+    "",
+    "Gives +30% pet exp for Fishing.",
+    "",
+    "Right-click on your summoned pet to",
+    "give it this item!",
+    "",
+    "UNCOMMON PET ITEM"
+  ],
+  "name": "钓鱼经验加成",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumed on use"
+      ],
+      "translation": "使用后消耗",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Pet Items can boost pets in many",
+        "powerful ways! A pet can only hold",
+        "one Pet Item, but you can swap it at",
+        "any time!"
+      ],
+      "translation": "宠物道具能以多种方式强化宠物.每只宠物只能携带一件宠物道具,但你可以随时更换!",
+      "styleMappings": {
+        "Pet Items": "宠物道具",
+        "swap": "更换",
+        "powerful ways": "方式",
+        "any time": "随时",
+        "one": "一件",
+        "pet": "宠物",
+        "Pet": "宠物",
+        "Pet Item": "宠物道具"
+      }
+    },
+    {
+      "source": [
+        "The pet must be visible to apply the item!"
+      ],
+      "translation": "宠物必须处于可见状态才能使用此物品!",
+      "styleMappings": {
+        "pet": "宠物",
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Gives {{N0}} pet exp for Fishing."
+      ],
+      "translation": "为钓鱼提供 {{N0}} 宠物经验.",
+      "styleMappings": {
+        "Fishing": "钓鱼",
+        "pet": "宠物",
+        "Gives": "提供"
+      }
+    },
+    {
+      "source": [
+        "Right-click on your summoned pet to"
+      ],
+      "translation": "右键点击你召唤的宠物以",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "give it this item!"
+      ],
+      "translation": "给予它此物品!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON PET ITEM"
+      ],
+      "translation": "罕见 宠物 物品",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fishing": "钓鱼",
+    "Exp": "经验"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

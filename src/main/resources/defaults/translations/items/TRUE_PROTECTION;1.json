@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "TRUE_PROTECTION;1",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "True Protection I",
+    "Grants +5 True Defense.",
+    "",
+    "Sources:",
+    " - Old Shaman Nyko (I)",
+    " - Bazaar (I)",
+    "",
+    "Applied To:",
+    " - Chestplate",
+    "",
+    "Requirements:",
+    " - Enchanting Level 15",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "True Protection I"
+      ],
+      "translation": "真实保护 I",
+      "styleMappings": {
+        "True Protection": "真实保护",
+        "Protection": "保护",
+        "True Protection I": "真实保护 I",
+        "True": "真实"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} True Defense."
+      ],
+      "translation": "提供 {{N0}} 真实防御.",
+      "styleMappings": {
+        "True Defense": "真实防御",
+        "Grants": "提供",
+        "Defense": "防御",
+        "True": "真实"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Old Shaman Nyko (I)",
+        " - Bazaar (I)"
+      ],
+      "translation": " - Old Shaman Nyko (I)  - 集市 (I)",
+      "styleMappings": {
+        "Bazaar": "集市",
+        "I": "I"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Chestplate"
+      ],
+      "translation": " - 胸甲",
+      "styleMappings": {
+        "Chestplate": "胸甲"
+      }
+    },
+    {
+      "source": [
+        "Requirements:"
+      ],
+      "translation": "需求:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchanting Level {{N0}}"
+      ],
+      "translation": " - 附魔等级 {{N0}}",
+      "styleMappings": {
+        "Enchanting Level": "附魔等级"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

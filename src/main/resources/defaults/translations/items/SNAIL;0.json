@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "SNAIL;0",
+  "_original_name": "[Lvl {LVL}] Snail",
+  "_original_lore": [
+    "Mining Pet",
+    "",
+    "Defense: +{DEFENSE}",
+    "Intelligence: +{INTELLIGENCE}",
+    "",
+    "Red Sand Enjoyer",
+    "Red Sand Minions work {0}% faster",
+    "while on your Private Island.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "COMMON PET"
+  ],
+  "name": "[等级 {LVL}] 蜗牛",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mining Pet"
+      ],
+      "translation": "采矿宠物",
+      "styleMappings": {
+        "Mining": "采矿",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Defense: +{{N0}}"
+      ],
+      "translation": "防御力: +{{N0}}",
+      "styleMappings": {
+        "Defense": "防御力"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: +{{N0}}"
+      ],
+      "translation": "智力: +{{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Red Sand Enjoyer"
+      ],
+      "translation": "红沙爱好者",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Red Sand Minions work {{N0}}% faster",
+        "while on your Private Island."
+      ],
+      "translation": "在你的私人岛屿上时,红沙仆从的工作速度提高 {{N0}}%.",
+      "styleMappings": {
+        "Red Sand Minions": "红沙仆从",
+        "Private Island": "私人岛屿",
+        "Minions": "仆从",
+        "Island": "岛屿",
+        "work": "工作"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "COMMON PET"
+      ],
+      "translation": "普通 宠物",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Snail": "蜗牛",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

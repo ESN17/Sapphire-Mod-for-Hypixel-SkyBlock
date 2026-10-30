@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "id": "HUNTING_WISDOM_BOOSTER_COMMON",
+  "_original_name": "Common Hunting Wisdom Booster",
+  "_original_lore": [
+    "Booster",
+    "Combinable in Anvil",
+    "",
+    "Applies the ☯ Common Hunting Wisdom",
+    "booster when combined with Foraging",
+    "Armor, Equipment, or Axes.",
+    "",
+    "Grants ☯ Hunting Wisdom.",
+    "",
+    "COMMON BOOSTER"
+  ],
+  "name": "普通狩猎智慧加成",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Booster",
+        "Combinable in Anvil"
+      ],
+      "translation": "增益器可在铁砧中合成",
+      "styleMappings": {
+        "Booster Combinable in Anvil": "增益器可在铁砧中合成",
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Applies the ☯ Common Hunting Wisdom",
+        "booster when combined with Foraging",
+        "Armor, Equipment, or Axes."
+      ],
+      "translation": "与采伐盔甲、装备或斧头结合时,应用 ☯ 普通狩猎智慧加成.",
+      "styleMappings": {
+        "Common Hunting Wisdom": "普通狩猎智慧",
+        "Foraging Armor": "采伐盔甲",
+        "Equipment": "装备",
+        "Axes": "斧头",
+        "Armor": "盔甲",
+        "Wisdom": "智慧",
+        "Foraging": "采伐",
+        "Hunting Wisdom": "狩猎智慧",
+        "Common": "普通",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Grants ☯ Hunting Wisdom."
+      ],
+      "translation": "提供 ☯ 狩猎智慧.",
+      "styleMappings": {
+        "Hunting Wisdom": "狩猎智慧",
+        "Grants": "提供",
+        "Wisdom": "智慧"
+      }
+    },
+    {
+      "source": [
+        "COMMON BOOSTER"
+      ],
+      "translation": "普通增益器",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Common Hunting Wisdom Booster": "普通狩猎智慧加成",
+    "Wisdom": "智慧",
+    "Hunting Wisdom": "狩猎智慧",
+    "Common": "普通",
+    "Common Hunting Wisdom": "普通狩猎智慧"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

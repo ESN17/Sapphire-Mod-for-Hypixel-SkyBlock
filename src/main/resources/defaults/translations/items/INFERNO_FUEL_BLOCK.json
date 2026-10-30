@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "INFERNO_FUEL_BLOCK",
+  "_original_name": "Inferno Fuel Block",
+  "_original_lore": [
+    "Reacts with gabagool in the crafting",
+    "of Inferno minion fuels.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "RARE"
+  ],
+  "name": "炼狱燃料块",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Reacts with gabagool in the crafting",
+        "of Inferno minion fuels."
+      ],
+      "translation": "在合成炼狱仆从燃料时与加巴古尔发生反应.",
+      "styleMappings": {
+        "minion": "仆从",
+        "Inferno": "炼狱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fuel": "燃料",
+    "Inferno": "炼狱"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

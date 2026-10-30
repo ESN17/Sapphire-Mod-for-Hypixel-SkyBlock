@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_DAMAGE;4",
+  "_original_name": "Damage IV Potion",
+  "_original_lore": [
+    "",
+    "Damage IV",
+    "Instantly deals 150 damage.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "伤害 IV 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage IV",
+        "Instantly deals {{N0}} damage."
+      ],
+      "translation": "伤害 IV 立即造成 {{N0}} 伤害.",
+      "styleMappings": {
+        "Instantly deals": "立即造成",
+        "Damage IV": "伤害 IV",
+        "damage": "伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Damage IV": "伤害 IV",
+    "Damage": "伤害"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

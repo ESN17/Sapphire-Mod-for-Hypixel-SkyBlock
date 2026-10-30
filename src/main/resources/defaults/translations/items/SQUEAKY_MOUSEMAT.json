@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": "SQUEAKY_MOUSEMAT",
+  "_original_name": "Squeaky Mousemat",
+  "_original_lore": [
+    "Ability: Set  RIGHT CLICK",
+    "Set your yaw and pitch.",
+    "",
+    "Ability: Snap  LEFT CLICK",
+    "Look in the direction of your selected yaw",
+    "and pitch while in The Garden.",
+    "Cooldown: 3s",
+    "",
+    "Selected Yaw: 0",
+    "Selected Pitch: 0",
+    "",
+    "Found at the bottom of a vacuum",
+    "bag, this furry mousemat comes",
+    "complete with a cute pair of ears!",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "吱吱鼠标垫",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Set  RIGHT CLICK"
+      ],
+      "translation": "技能: 设置  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Set your yaw and pitch."
+      ],
+      "translation": "设置你的偏航角和俯仰角.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Ability: Snap  LEFT CLICK"
+      ],
+      "translation": "技能: 快速转向  左键点击",
+      "styleMappings": {
+        "LEFT CLICK": "左键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Look in the direction of your selected yaw",
+        "and pitch while in The Garden."
+      ],
+      "translation": "在花园中时,朝向你选定的偏航角和俯仰角方向看去.",
+      "styleMappings": {
+        "The Garden": "花园",
+        "Garden": "花园",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "Selected Yaw: {{N0}}"
+      ],
+      "translation": "选定偏航角: {{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Selected Pitch: {{N0}}"
+      ],
+      "translation": "选定俯仰角: {{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Found at the bottom of a vacuum",
+        "bag, this furry mousemat comes",
+        "complete with a cute pair of ears!"
+      ],
+      "translation": "在吸尘器袋底发现的这款毛茸茸鼠标垫,还配有一对可爱的耳朵!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Squeaky": "吱吱"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

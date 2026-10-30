@@ -1,0 +1,228 @@
+{
+  "schemaVersion": 1,
+  "id": "BEE;2",
+  "_original_name": "[Lvl {LVL}] Bee",
+  "_original_lore": [
+    "Farming Pet",
+    "",
+    "Strength: +{STRENGTH}",
+    "Intelligence: +{INTELLIGENCE}",
+    "Speed: +{SPEED}",
+    "Mining Fortune: +{MINING_FORTUNE}",
+    "Foraging Fortune: +{FORAGING_FORTUNE}",
+    "Farming Fortune: +{FARMING_FORTUNE}",
+    "",
+    "Hive",
+    "For each player within 25 blocks:",
+    " +{0} Intelligence",
+    " +{1} Strength",
+    " +{2} Defense",
+    "Max 15 players",
+    "",
+    "Busy Buzz Buzz",
+    "Grants +{3} of each to your pet:",
+    " Farming Fortune",
+    " Foraging Fortune",
+    " Mining Fortune",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "RARE PET"
+  ],
+  "name": "[等级 {LVL}] 蜜蜂",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Farming Pet"
+      ],
+      "translation": "耕作宠物",
+      "styleMappings": {
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Strength: +{{N0}}"
+      ],
+      "translation": "力量: +{{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: +{{N0}}"
+      ],
+      "translation": "智力: +{{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Speed: +{{N0}}"
+      ],
+      "translation": "速度: +{{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Mining Fortune: +{{N0}}"
+      ],
+      "translation": "采矿幸运: +{{N0}}",
+      "styleMappings": {
+        "Mining Fortune": "采矿幸运",
+        "Mining": "采矿",
+        "Fortune": "幸运"
+      }
+    },
+    {
+      "source": [
+        "Foraging Fortune: +{{N0}}"
+      ],
+      "translation": "采伐幸运: +{{N0}}",
+      "styleMappings": {
+        "Foraging Fortune": "采伐幸运",
+        "Fortune": "幸运",
+        "Foraging": "采伐"
+      }
+    },
+    {
+      "source": [
+        "Farming Fortune: +{{N0}}"
+      ],
+      "translation": "农业幸运: +{{N0}}",
+      "styleMappings": {
+        "Farming Fortune": "农业幸运",
+        "Fortune": "幸运",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "Hive"
+      ],
+      "translation": "蜂巢",
+      "styleMappings": {
+        "Hive": "蜂巢"
+      }
+    },
+    {
+      "source": [
+        "For each player within {{N0}} blocks:"
+      ],
+      "translation": "{{N0}} 格范围内的每位玩家:",
+      "styleMappings": {
+        "blocks": "格",
+        "player": "玩家"
+      }
+    },
+    {
+      "source": [
+        " +{{N0}} Intelligence",
+        " +{{N1}} Strength",
+        " +{{N2}} Defense",
+        "Max {{N3}} players"
+      ],
+      "translation": " +{{N0}} 智力  +{{N1}} 力量  +{{N2}} 防御 最多 {{N3}} 名玩家",
+      "styleMappings": {
+        "Intelligence": "智力",
+        " Strength": " 力量",
+        " Defense": " 防御",
+        "Max": "最多",
+        "": "",
+        "Defense": "防御",
+        "Strength": "力量",
+        " Intelligence": " 智力"
+      }
+    },
+    {
+      "source": [
+        "Busy Buzz Buzz"
+      ],
+      "translation": "忙碌嗡嗡嗡",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants +{{N0}} of each to your pet:"
+      ],
+      "translation": "为你的宠物提供每种 +{{N0}}:",
+      "styleMappings": {
+        "Grants": "提供",
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        " Farming Fortune"
+      ],
+      "translation": "  农业幸运",
+      "styleMappings": {
+        "Farming Fortune": "农业幸运",
+        "Fortune": "幸运",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        " Foraging Fortune"
+      ],
+      "translation": "  采伐幸运",
+      "styleMappings": {
+        "Foraging Fortune": "采伐幸运",
+        "Fortune": "幸运",
+        "Foraging": "采伐"
+      }
+    },
+    {
+      "source": [
+        " Mining Fortune"
+      ],
+      "translation": "  采矿幸运",
+      "styleMappings": {
+        "Mining Fortune": "采矿幸运",
+        "Mining": "采矿",
+        "Fortune": "幸运"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "RARE PET"
+      ],
+      "translation": "稀有 宠物",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Bee": "蜜蜂",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

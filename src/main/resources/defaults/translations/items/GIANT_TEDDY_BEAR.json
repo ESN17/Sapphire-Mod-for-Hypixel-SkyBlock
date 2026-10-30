@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "GIANT_TEDDY_BEAR",
+  "_original_name": "Giant Teddy Bear",
+  "_original_lore": [
+    "Furniture",
+    "Holiday Cosmetic",
+    "",
+    "This exclusive Holiday cosmetic can",
+    "be placed on your island or traded.",
+    "",
+    "EPIC"
+  ],
+  "name": "巨型泰迪熊",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Furniture",
+        "Holiday Cosmetic"
+      ],
+      "translation": "家具 节日装饰",
+      "styleMappings": {
+        "Holiday Cosmetic": "节日装饰",
+        "Furniture": "家具",
+        "Holiday": "节日"
+      }
+    },
+    {
+      "source": [
+        "This exclusive Holiday cosmetic can",
+        "be placed on your island or traded."
+      ],
+      "translation": "这款专属节日装饰可以放置在你的岛屿上或进行交易.",
+      "styleMappings": {
+        "Holiday": "节日",
+        "island": "岛屿上"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Giant": "巨型"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

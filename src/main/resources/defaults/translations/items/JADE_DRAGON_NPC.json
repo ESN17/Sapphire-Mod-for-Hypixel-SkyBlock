@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "id": "JADE_DRAGON_NPC",
+  "_original_name": "Jade Dragon (NPC)",
+  "_original_lore": [
+    "The Jade Dragon Pet can be purchased",
+    "in the Dragon's Lair on the Galatea island.",
+    "The pet starts out as an egg with no stats or perks,",
+    "gaining them when it hatches at level 100."
+  ],
+  "name": "Jade Dragon (人物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Jade Dragon Pet can be purchased",
+        "in the Dragon's Lair on the Galatea island."
+      ],
+      "translation": "Jade Dragon 宠物可以在加拉蒂亚岛的巨龙巢穴中购买.",
+      "styleMappings": {
+        "Jade Dragon Pet": "Jade Dragon 宠物",
+        "Dragon's Lair": "巨龙巢穴",
+        "Galatea": "加拉蒂亚",
+        "Pet": "宠物",
+        "Jade Dragon": "Jade Dragon",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "The pet starts out as an egg with no stats or perks,",
+        "gaining them when it hatches at level {{N0}}."
+      ],
+      "translation": "该宠物初始为蛋形态,没有属性或能力,在 {{N0}} 级孵化时获得它们.",
+      "styleMappings": {
+        "stats": "属性",
+        "pet": "宠物",
+        "when": "时"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Dragon": "Dragon",
+    "(NPC)": "(人物)",
+    "Jade Dragon": "Jade Dragon"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

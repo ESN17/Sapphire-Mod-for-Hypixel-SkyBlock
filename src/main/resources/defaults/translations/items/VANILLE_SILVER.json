@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "VANILLE_SILVER",
+  "_original_name": "Vanille SILVER",
+  "_original_lore": [
+    "Only caught with Starter Lava Rod",
+    "with no enchantments.",
+    "",
+    "Bring this to Odger at the top of the",
+    "Blazing Volcano.",
+    "",
+    "* Soulbound *",
+    "RARE TROPHY"
+  ],
+  "name": "瓦妮尔 银",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Only caught with Starter Lava Rod",
+        "with no enchantments."
+      ],
+      "translation": "只能使用无附魔的初始熔岩钓竿钓到.",
+      "styleMappings": {
+        "Starter Lava Rod": "初始熔岩钓竿",
+        "Lava": "熔岩"
+      }
+    },
+    {
+      "source": [
+        "Bring this to Odger at the top of the",
+        "Blazing Volcano."
+      ],
+      "translation": "将此物交给炽焰火山顶部的 Odger.",
+      "styleMappings": {
+        "Blazing Volcano": "炽焰火山",
+        "Odger": "Odger"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "RARE TROPHY"
+      ],
+      "translation": "稀有奖杯",
+      "styleMappings": {
+        "RARE TROPHY": "稀有奖杯",
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "SILVER": "银"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

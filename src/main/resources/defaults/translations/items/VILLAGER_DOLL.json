@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "VILLAGER_DOLL",
+  "_original_name": "Villager Doll",
+  "_original_lore": [
+    "Commemorates your participation in",
+    "the Hub Revamp city project.",
+    "",
+    "Earned by: [MVP+] Alex33856",
+    "Total Contributions: 20",
+    "February 21, 2026",
+    "",
+    "Memento acquirer name becomes",
+    "hidden if traded.",
+    "",
+    "An ugly doll of a villager. Holding it",
+    "evokes suppressed memories of",
+    "walking aimlessly in circles around",
+    "the Hub for hours on end.",
+    "",
+    "SPECIAL MEMENTO"
+  ],
+  "name": "村民玩偶",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Commemorates your participation in",
+        "the Hub Revamp city project."
+      ],
+      "translation": "纪念你参与中心岛翻新城市项目.",
+      "styleMappings": {
+        "Hub Revamp": "中心岛翻新",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "Earned by: [MVP+] Alex{{N0}}"
+      ],
+      "translation": "获得者:[尊贵贵宾+] 亚历克斯{{N0}}",
+      "styleMappings": {
+        "MVP": "尊贵贵宾",
+        "Alex{{N0}}": "亚历克斯{{N0}}"
+      }
+    },
+    {
+      "source": [
+        "Total Contributions: {{N0}}"
+      ],
+      "translation": "总贡献: {{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "February {{N0}}, {{N1}}"
+      ],
+      "translation": "{{N0}}月{{N1}}日",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Memento acquirer name becomes",
+        "hidden if traded."
+      ],
+      "translation": "纪念品获得者名称在交易后将被隐藏.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "An ugly doll of a villager. Holding it",
+        "evokes suppressed memories of",
+        "walking aimlessly in circles around",
+        "the Hub for hours on end."
+      ],
+      "translation": "一个丑陋的村民玩偶.拿着它会唤起被压抑的记忆:在中心岛里漫无目的地绕圈走了好几个小时.",
+      "styleMappings": {
+        "ugly": "丑陋",
+        "Hub": "中心岛",
+        "hours": "小时"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL MEMENTO"
+      ],
+      "translation": "特殊纪念品",
+      "styleMappings": {
+        "SPECIAL MEMENTO": "特殊纪念品",
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

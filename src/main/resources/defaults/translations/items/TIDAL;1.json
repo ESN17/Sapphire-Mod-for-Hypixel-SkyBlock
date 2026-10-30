@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "TIDAL;1",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Tidal I",
+    "Increases your  Defense by +5%",
+    "against Sea Creatures.",
+    "",
+    "Sources:",
+    " - Lukas the Aquarist (I)",
+    " - Bazaar (I-III)",
+    "",
+    "Applied To:",
+    " - Leggings",
+    "",
+    "Requirements:",
+    " - Enchanting Level 13",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Tidal I"
+      ],
+      "translation": "潮汐 I",
+      "styleMappings": {
+        "Tidal": "潮汐"
+      }
+    },
+    {
+      "source": [
+        "Increases your  Defense by {{N0}}",
+        "against Sea Creatures."
+      ],
+      "translation": "使你对海怪的 防御提高 {{N0}}.",
+      "styleMappings": {
+        "Sea Creatures": "海怪",
+        " Defense": " 防御",
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Lukas the Aquarist (I)",
+        " - Bazaar (I-III)"
+      ],
+      "translation": " - Lukas the Aquarist (一)  - 集市 (一至三)",
+      "styleMappings": {
+        "Lukas the Aquarist": "Lukas the Aquarist",
+        "Bazaar": "集市",
+        "I-III": "一至三",
+        "I": "一"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Leggings"
+      ],
+      "translation": " - 护腿",
+      "styleMappings": {
+        "Leggings": "护腿"
+      }
+    },
+    {
+      "source": [
+        "Requirements:"
+      ],
+      "translation": "需求:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchanting Level {{N0}}"
+      ],
+      "translation": " - 附魔等级 {{N0}}",
+      "styleMappings": {
+        "Enchanting Level": "附魔等级"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

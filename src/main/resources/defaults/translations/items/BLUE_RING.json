@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "id": "BLUE_RING",
+  "_original_name": "Blue Ring",
+  "_original_lore": [
+    "As the Octopus makes its great",
+    "escape, it accidentally leaves",
+    "something behind...",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "RARE"
+  ],
+  "name": "蓝色戒指",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "As the Octopus makes its great",
+        "escape, it accidentally leaves",
+        "something behind..."
+      ],
+      "translation": "当章鱼大逃亡时,它不小心留下了什么东西...",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Blue": "蓝色",
+    "Ring": "戒指"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

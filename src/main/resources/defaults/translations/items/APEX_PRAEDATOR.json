@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "APEX_PRAEDATOR",
+  "_original_name": "Savage Huntaxe - Praedator",
+  "_original_lore": [
+    "Hunting Tool",
+    "",
+    "Damage: +20",
+    "",
+    "Ability: Absorptio  RIGHT CLICK",
+    "This weapon lets you absorb 20% of",
+    "the basic combat stats of any",
+    "weapon.",
+    "",
+    "Ability: Vis Temperata ",
+    "Each strike of this weapon has its",
+    "damage capped at 33% of the",
+    "enemy's max Health. This weapon",
+    "cannot cause a fatal blow.",
+    "",
+    "Supra omnes, Apex Praedator solus",
+    "regnat.",
+    "",
+    "This item can be reforged!",
+    "EPIC AXE"
+  ],
+  "name": "野蛮狩猎斧 - 掠夺者",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Hunting Tool"
+      ],
+      "translation": "狩猎工具",
+      "styleMappings": {
+        "Hunting Tool": "狩猎工具"
+      }
+    },
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Ability: Absorptio  RIGHT CLICK"
+      ],
+      "translation": "技能:吸收  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "This weapon lets you absorb {{N0}} of",
+        "the basic combat stats of any",
+        "weapon."
+      ],
+      "translation": "此武器可让你吸收任意武器 {{N0}} 的基础战斗属性.",
+      "styleMappings": {
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "Ability: Vis Temperata "
+      ],
+      "translation": "技能:温和之力 ",
+      "styleMappings": {
+        "Ability": "技能"
+      }
+    },
+    {
+      "source": [
+        "Each strike of this weapon has its",
+        "damage capped at {{N0}} of the",
+        "enemy's max Health. This weapon",
+        "cannot cause a fatal blow."
+      ],
+      "translation": "此武器的每次攻击伤害上限为敌人最大生命值的 {{N0}}.此武器无法造成致命一击.",
+      "styleMappings": {
+        "damage": "伤害",
+        "s": "一"
+      }
+    },
+    {
+      "source": [
+        "Supra omnes, Apex Praedator solus",
+        "regnat."
+      ],
+      "translation": "万物之上,巅峰掠食者独自称王.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "EPIC AXE"
+      ],
+      "translation": "史诗 斧",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "GHAST_HEAD",
+  "_original_name": "Ghast Head",
+  "_original_lore": [
+    "Health: +100",
+    "",
+    "Restores +5 Health every second",
+    "while worn.",
+    "",
+    "This item can be reforged!",
+    "COMMON HELMET"
+  ],
+  "name": "恶魂头颅",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Restores {{N0}} Health every second",
+        "while worn."
+      ],
+      "translation": "穿戴时每秒恢复 {{N0}} 生命值.",
+      "styleMappings": {
+        "Health": "生命值",
+        "second": "秒",
+        " Health": " 生命"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "COMMON HELMET"
+      ],
+      "translation": "普通头盔",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

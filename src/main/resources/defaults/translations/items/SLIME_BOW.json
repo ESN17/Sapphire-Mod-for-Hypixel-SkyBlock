@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "SLIME_BOW",
+  "_original_name": "Slime Bow",
+  "_original_lore": [
+    "Damage: +100",
+    "Crit Damage: +50%",
+    "",
+    "Ability: Arrow Infusion  ON SHOOT",
+    "Will consume Slimeballs in your",
+    "Inventory or Quiver to deal 5x",
+    "damage to Magma Cubes and Slimes.",
+    "",
+    "This item can be reforged!",
+    "EPIC BOW"
+  ],
+  "name": "黏液弓",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: {{N0}}"
+      ],
+      "translation": "暴击伤害:{{N0}}",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Ability: Arrow Infusion  ON SHOOT"
+      ],
+      "translation": "技能: 箭矢灌注  射击时",
+      "styleMappings": {
+        "Ability: Arrow Infusion": "技能: 箭矢灌注",
+        "ON SHOOT": "射击时",
+        "Ability": "技能"
+      }
+    },
+    {
+      "source": [
+        "Will consume Slimeballs in your",
+        "Inventory or Quiver to deal {{N0}}x",
+        "damage to Magma Cubes and Slimes."
+      ],
+      "translation": "将消耗你物品栏或箭袋中的黏液球,对岩浆怪和史莱姆造成 {{N0}}倍伤害.",
+      "styleMappings": {
+        "Slimeballs": "黏液球",
+        "Inventory": "物品栏",
+        "Quiver": "箭袋",
+        "Magma Cubes": "岩浆怪",
+        "Slimes": "史莱姆",
+        "damage": "伤害",
+        "deal": "造成",
+        "{{N0}}x": "{{N0}}倍"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "EPIC BOW"
+      ],
+      "translation": "史诗 弓",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Bow": "弓"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

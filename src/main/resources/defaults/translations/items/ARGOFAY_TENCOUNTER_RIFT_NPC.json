@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "ARGOFAY_TENCOUNTER_RIFT_NPC",
+  "_original_name": "Argofay Tencounter (Rift NPC)",
+  "_original_lore": [
+    "An NPC that counts to 10."
+  ],
+  "name": "Argofay Tencounter (裂隙人物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "An NPC that counts to {{N0}}."
+      ],
+      "translation": "一个数到 {{N0}} 的人物.",
+      "styleMappings": {}
+    }
+  ],
+  "styleMappings": {
+    "(Rift NPC)": "(裂隙人物)",
+    "Rift": "裂隙"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

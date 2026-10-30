@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "HUNTING_TOOLKIT",
+  "_original_name": "Hunting Toolkit",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Store all of your Hunting Tools in",
+    "one convenient place and swap",
+    "between them with ease.",
+    "",
+    "Right-click to consume!",
+    "",
+    "RARE"
+  ],
+  "name": "狩猎工具包",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Store all of your Hunting Tools in",
+        "one convenient place and swap",
+        "between them with ease."
+      ],
+      "translation": "将所有狩猎工具存放在一个便捷的地方,并可轻松切换.",
+      "styleMappings": {
+        "Tools": "工具"
+      }
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

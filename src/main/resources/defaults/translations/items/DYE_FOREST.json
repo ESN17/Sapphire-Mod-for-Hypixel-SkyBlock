@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "DYE_FOREST",
+  "_original_name": "Forest Dye",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Animates the color of an armor piece",
+    "between #1D3451 and #1E3953!",
+    "",
+    "MYTHIC DYE"
+  ],
+  "name": "森林染料",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Animates the color of an armor piece",
+        "between #{{N0}}D{{N1}} and #{{N2}}E{{N3}}!"
+      ],
+      "translation": "使一件盔甲的颜色在 #{{N0}}D{{N1}} 和 #{{N2}}E{{N3}} 之间渐变!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "MYTHIC DYE"
+      ],
+      "translation": "神话染料",
+      "styleMappings": {
+        "MYTHIC DYE": "神话染料",
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Forest": "森林"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

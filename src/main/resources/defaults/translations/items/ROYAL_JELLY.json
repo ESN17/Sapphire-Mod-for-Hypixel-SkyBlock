@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "ROYAL_JELLY",
+  "_original_name": "Royal Jelly",
+  "_original_lore": [
+    "Use at Kat to upgrade Bee Pets to",
+    "Mythic rarity.",
+    "",
+    "MYTHIC"
+  ],
+  "name": "皇家蜂王浆",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Use at Kat to upgrade Bee Pets to",
+        "Mythic rarity."
+      ],
+      "translation": "在 Kat 处使用,将蜜蜂宠物升级至神话稀有度.",
+      "styleMappings": {
+        "Bee Pets": "蜜蜂宠物",
+        "upgrade": "升级",
+        "Mythic": "神话",
+        "rarity": "稀有度",
+        "Kat": "Kat",
+        "Pets": "宠物",
+        "Bee": "蜜蜂"
+      }
+    },
+    {
+      "source": [
+        "MYTHIC"
+      ],
+      "translation": "神话",
+      "styleMappings": {
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Royal": "皇家"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

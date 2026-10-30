@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "id": "ARCHFIEND_DICE",
+  "_original_name": "Archfiend Dice",
+  "_original_lore": [
+    "Ability: Try Your Luck  RIGHT CLICK",
+    "Costs 666.7k coins to roll between 1-6.",
+    "Gain between -120❤ and +120❤ for 24h.",
+    "Overwritten by new rolls!",
+    "",
+    "If you roll a 6, earn 15M coins but lose this dice.",
+    "Heavy in the hand. Could someone have tampered with it?",
+    "",
+    "EPIC"
+  ],
+  "name": "恶魔骰子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Try Your Luck  RIGHT CLICK"
+      ],
+      "translation": "能力: 试试运气  右键点击",
+      "styleMappings": {
+        "Ability: Try Your Luck": "能力: 试试运气",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "能力",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Costs {{N0}}k coins to roll between {{N1}}-{{N2}}."
+      ],
+      "translation": "花费 {{N0}}千硬币在 {{N1}}-{{N2}} 之间随机.",
+      "styleMappings": {
+        "Costs": "花费",
+        "coins": "硬币",
+        "{{N0}}k": "{{N0}}千"
+      }
+    },
+    {
+      "source": [
+        "Gain between {{N0}}❤ and {{N1}}❤ for {{N2}}h."
+      ],
+      "translation": "在 {{N2}}小时内获得 {{N0}}❤ 到 {{N1}}❤ 之间的加成.",
+      "styleMappings": {
+        "Gain": "获得",
+        "{{N2}}h": "{{N2}}小时",
+        "for": "获得"
+      }
+    },
+    {
+      "source": [
+        "Overwritten by new rolls!"
+      ],
+      "translation": "会被新的掷出结果覆盖!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "If you roll a {{N0}}, earn {{N1}}M coins but lose this dice."
+      ],
+      "translation": "如果你掷出 {{N0}}, 获得 {{N1}}M 硬币但失去这个骰子.",
+      "styleMappings": {
+        "coins": "硬币"
+      }
+    },
+    {
+      "source": [
+        "Heavy in the hand. Could someone have tampered with it?"
+      ],
+      "translation": "拿在手里沉甸甸的.会不会有人动过手脚?",
+      "styleMappings": {
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

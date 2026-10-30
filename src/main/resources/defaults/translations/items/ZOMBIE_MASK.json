@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "id": "ZOMBIE_MASK",
+  "_original_name": "Zombie Mask",
+  "_original_lore": [
+    "Health: +1",
+    "",
+    "Ability: Exanimate Blessing ",
+    "Increases the stats of Undead ༕",
+    "armor pieces by +5%.",
+    "",
+    "Guh.",
+    "",
+    "This item can be reforged!",
+    "UNCOMMON CARNIVAL MASK"
+  ],
+  "name": "僵尸面具",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Ability: Exanimate Blessing "
+      ],
+      "translation": "能力: 亡者祝福 ",
+      "styleMappings": {
+        "Ability": "能力",
+        "Blessing": "祝福"
+      }
+    },
+    {
+      "source": [
+        "Increases the stats of Undead ༕",
+        "armor pieces by {{N0}}."
+      ],
+      "translation": "将亡灵 ༕ 盔甲部件的属性提高 {{N0}}.",
+      "styleMappings": {
+        "Undead": "亡灵",
+        "pieces": "件",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "Guh."
+      ],
+      "translation": "咕.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON CARNIVAL MASK"
+      ],
+      "translation": "罕见 嘉年华面具",
+      "styleMappings": {
+        "UNCOMMON CARNIVAL MASK": "罕见 嘉年华面具",
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mask": "面具",
+    "Zombie": "僵尸"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

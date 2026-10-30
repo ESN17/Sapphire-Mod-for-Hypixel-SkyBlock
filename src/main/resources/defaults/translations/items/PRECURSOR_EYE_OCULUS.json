@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "id": "PRECURSOR_EYE_OCULUS",
+  "_original_name": "Oculus Skin",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Item skins give your gear a fresh",
+    "new look! Apply them just like an",
+    "enchant book using the anvil.",
+    "",
+    "This skin can be applied to",
+    "Precursor Eye.",
+    "",
+    "Features!",
+    "▶ This skin is swappable between 19",
+    "variants!",
+    "▶ Changes the color of your Eye",
+    "Beam depending on your selected",
+    "skin!",
+    "",
+    "MYTHIC COSMETIC"
+  ],
+  "name": "魔眼皮肤",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Item skins give your gear a fresh",
+        "new look! Apply them just like an",
+        "enchant book using the anvil."
+      ],
+      "translation": "物品皮肤能让你的装备焕然一新!像附魔书一样在铁砧上使用即可.",
+      "styleMappings": {
+        "fresh new look": "焕然一新",
+        "enchant book": "附魔书",
+        "Item skins": "物品皮肤",
+        "anvil": "铁砧",
+        "Item": "物品"
+      }
+    },
+    {
+      "source": [
+        "This skin can be applied to",
+        "Precursor Eye."
+      ],
+      "translation": "该皮肤可以应用于先驱者之眼.",
+      "styleMappings": {
+        "Precursor Eye": "先驱者之眼"
+      }
+    },
+    {
+      "source": [
+        "Features!"
+      ],
+      "translation": "特色!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "▶ This skin is swappable between {{N0}}",
+        "variants!"
+      ],
+      "translation": "▶ 该皮肤可在 {{N0}} 个变体之间切换!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "▶ Changes the color of your Eye",
+        "Beam depending on your selected",
+        "skin!"
+      ],
+      "translation": "▶ 根据你选择的皮肤改变你的光束眼颜色!",
+      "styleMappings": {
+        "Eye Beam": "光束眼"
+      }
+    },
+    {
+      "source": [
+        "MYTHIC COSMETIC"
+      ],
+      "translation": "神话 外观",
+      "styleMappings": {
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Oculus Skin": "魔眼皮肤"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

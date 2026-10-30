@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "DIVAN_FRAGMENT",
+  "_original_name": "Divan Fragment",
+  "_original_lore": [
+    "One of the greatest alloys naturally",
+    "found in the Crystal Hollows, named",
+    "after the first Dwarf to find them.",
+    "",
+    "EPIC"
+  ],
+  "name": "迪万碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "One of the greatest alloys naturally",
+        "found in the Crystal Hollows, named",
+        "after the first Dwarf to find them."
+      ],
+      "translation": "水晶洞窟中天然发现的最伟大的合金之一,以第一个发现它们的矮人命名.",
+      "styleMappings": {
+        "the Crystal Hollows": "水晶洞窟",
+        "Crystal": "水晶",
+        "Crystal Hollows": "水晶洞窟",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Divan": "迪万"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

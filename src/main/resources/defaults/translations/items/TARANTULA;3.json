@@ -1,0 +1,146 @@
+{
+  "schemaVersion": 1,
+  "id": "TARANTULA;3",
+  "_original_name": "[Lvl {LVL}] Tarantula",
+  "_original_lore": [
+    "Combat Pet",
+    "",
+    "Strength: +{STRENGTH}",
+    "Crit Chance: +{CRIT_CHANCE}%",
+    "Crit Damage: +{CRIT_DAMAGE}%",
+    "",
+    "Webbed Cells",
+    "Tarantula Broodfather's  Vitality",
+    "reduction is {0}% less effective",
+    "against you.",
+    "",
+    "Eight Legs",
+    "Decreases the mana cost of Spider,",
+    "Tarantula, Primordial and Spirit Boots",
+    "by {1}%.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "EPIC PET"
+  ],
+  "name": "[等级 {LVL}] 狼蛛",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combat Pet"
+      ],
+      "translation": "战斗宠物",
+      "styleMappings": {
+        "Combat Pet": "战斗宠物",
+        "Combat": "战斗",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Strength: +{{N0}}"
+      ],
+      "translation": "力量: +{{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Crit Chance: +{{N0}}%"
+      ],
+      "translation": "暴击几率: +{{N0}}%",
+      "styleMappings": {
+        "Crit Chance": "暴击几率"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: +{{N0}}%"
+      ],
+      "translation": "暴击伤害: +{{N0}}%",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Webbed Cells"
+      ],
+      "translation": "蛛网细胞",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Tarantula Broodfather's  Vitality",
+        "reduction is {{N0}}% less effective",
+        "against you."
+      ],
+      "translation": "狼蛛母巢的  生命回复削减对你效果降低 {{N0}}%.",
+      "styleMappings": {
+        "Tarantula Broodfather's": "狼蛛母巢的",
+        "Vitality": "生命回复",
+        "Tarantula": "狼蛛"
+      }
+    },
+    {
+      "source": [
+        "Eight Legs"
+      ],
+      "translation": "八条腿",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Decreases the mana cost of Spider,",
+        "Tarantula, Primordial and Spirit Boots",
+        "by {{N0}}%."
+      ],
+      "translation": "将蜘蛛靴、狼蛛靴、原始靴和灵魂靴的法力消耗降低 {{N0}}%.",
+      "styleMappings": {
+        "Tarantula": "狼蛛",
+        "Spider": "蜘蛛",
+        "Spirit": "灵魂",
+        "mana": "法力",
+        "Boots": "靴"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "EPIC PET"
+      ],
+      "translation": "史诗 宠物",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Tarantula": "狼蛛",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

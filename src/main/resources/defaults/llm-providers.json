@@ -1,0 +1,7 @@
+{
+  "OPENAI": {"endpoint":"https://api.openai.com/v1/responses","model":"gpt-6-luna"},
+  "CLAUDE": {"endpoint":"https://api.anthropic.com/v1/messages","model":"claude-haiku-4-5"},
+  "DEEPSEEK": {"endpoint":"https://api.deepseek.com/chat/completions","model":"deepseek-flash"},
+  "KIMI": {"endpoint":"https://api.moonshot.cn/v1/chat/completions","model":"kimi-k2.5"},
+  "GLM": {"endpoint":"https://open.bigmodel.cn/api/paas/v4/chat/completions","model":"glm-4"}
+}

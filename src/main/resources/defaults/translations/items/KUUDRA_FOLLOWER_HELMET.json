@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "KUUDRA_FOLLOWER_HELMET",
+  "_original_name": "Kuudra Follower Helmet",
+  "_original_lore": [
+    "",
+    "Full Set Bonus: Follower (0/4)",
+    "Shows that you are a true follower",
+    "of Kuudra.",
+    "",
+    "Hunter: [ADMIN] Dueces",
+    "",
+    "Edition #1",
+    "December 19th, 2022",
+    "",
+    "This item can be reforged!",
+    "* Soulbound *",
+    "SPECIAL HELMET"
+  ],
+  "name": "库德拉 追随者头盔",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Full Set Bonus: Follower ({{N0}}/{{N1}})"
+      ],
+      "translation": "套装奖励: 追随者 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Full Set Bonus": "套装奖励",
+        "Follower": "追随者"
+      }
+    },
+    {
+      "source": [
+        "Shows that you are a true follower",
+        "of Kuudra."
+      ],
+      "translation": "证明你是库德拉的真正追随者.",
+      "styleMappings": {
+        "Kuudra": "库德拉"
+      }
+    },
+    {
+      "source": [
+        "Hunter: [ADMIN] Dueces"
+      ],
+      "translation": "猎人: [管理员] 杜塞斯",
+      "styleMappings": {
+        "Hunter": "猎人",
+        "[ADMIN] Dueces": "[管理员] 杜塞斯"
+      }
+    },
+    {
+      "source": [
+        "Edition #{{N0}}",
+        "December {{N1}}th, {{N2}}"
+      ],
+      "translation": "第 {{N0}} 版 {{N2}} 年 {{N1}} 月",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL HELMET"
+      ],
+      "translation": "特殊头盔",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Helmet": "头盔",
+    "Kuudra": "库德拉",
+    "Follower": "追随者"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

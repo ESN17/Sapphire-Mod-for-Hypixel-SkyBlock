@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "CRYSTAL_HOLLOWS_TRAVEL_SCROLL",
+  "_original_name": "Travel Scroll to the Crystal Hollows",
+  "_original_lore": [
+    "Consume this item to add its",
+    "destination to your fast travel",
+    "options.",
+    "",
+    "Island: Crystal Hollows",
+    "Teleport: Entrance",
+    "",
+    "RARE TRAVEL SCROLL"
+  ],
+  "name": "水晶洞穴传送卷轴",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consume this item to add its",
+        "destination to your fast travel",
+        "options."
+      ],
+      "translation": "使用此物品可将其目的地加入你的快速旅行选项.",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Island: Crystal Hollows"
+      ],
+      "translation": "岛屿: 水晶洞窟",
+      "styleMappings": {
+        "Crystal Hollows": "水晶洞窟",
+        "Island": "岛屿",
+        "Crystal": "水晶"
+      }
+    },
+    {
+      "source": [
+        "Teleport: Entrance"
+      ],
+      "translation": "传送: 入口",
+      "styleMappings": {
+        "Entrance": "入口",
+        "Teleport": "传送"
+      }
+    },
+    {
+      "source": [
+        "RARE TRAVEL SCROLL"
+      ],
+      "translation": "稀有传送卷轴",
+      "styleMappings": {
+        "RARE TRAVEL SCROLL": "稀有传送卷轴",
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "the Crystal Hollows": "水晶洞穴",
+    "Crystal": "水晶",
+    "Crystal Hollows": "水晶洞穴"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "FISH_THE_FISH",
+  "_original_name": "Fish the Fish",
+  "_original_lore": [
+    "Shrimp was the GOAT!",
+    "",
+    "SPECIAL"
+  ],
+  "name": "鱼中鱼",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Shrimp was the GOAT!"
+      ],
+      "translation": "虾是最棒的!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fish": "鱼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

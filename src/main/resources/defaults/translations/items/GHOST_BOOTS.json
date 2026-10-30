@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "id": "GHOST_BOOTS",
+  "_original_name": "Ghostly Boots",
+  "_original_lore": [
+    "Boots made of pure ghost",
+    "essence.",
+    "",
+    "This item can be reforged!",
+    "RARE BOOTS"
+  ],
+  "name": "幽灵靴子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Boots made of pure ghost",
+        "essence."
+      ],
+      "translation": "由纯粹的幽灵精华制成的靴子.",
+      "styleMappings": {
+        "Boots": "靴子"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "RARE BOOTS"
+      ],
+      "translation": "稀有靴子",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Boots": "靴子"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": "BINGO_BLASTER",
+  "_original_name": "Bingo Blaster",
+  "_original_lore": [
+    "Ability Damage: +20%",
+    "Intelligence: +300",
+    "",
+    "Ability: Bingo Blast  RIGHT CLICK",
+    "Shoots out a piercing ray of",
+    "water that travels up to 15",
+    "blocks. Deals 865.2 damage",
+    "to the first enemy hit. Damage",
+    "is halved for each subsequent",
+    "enemy hit.",
+    "Mana Cost: 125",
+    "Cooldown: 1s",
+    "",
+    "* Soulbound *",
+    "EPIC WAND"
+  ],
+  "name": "宾果爆破枪",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability Damage: {{N0}}"
+      ],
+      "translation": "技能伤害: {{N0}}",
+      "styleMappings": {
+        "Ability Damage": "技能伤害",
+        "Ability": "技能",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Ability: Bingo Blast  RIGHT CLICK"
+      ],
+      "translation": "技能: 宾果爆破  右键点击",
+      "styleMappings": {
+        "Bingo Blast": "宾果爆破",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "Bingo": "宾果",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Shoots out a piercing ray of",
+        "water that travels up to {{N0}}",
+        "blocks. Deals {{N1}} damage",
+        "to the first enemy hit. Damage",
+        "is halved for each subsequent",
+        "enemy hit."
+      ],
+      "translation": "射出一道穿透水射线,最远可飞行 {{N0}} 格.对命中的第一个敌人造成 {{N1}} 伤害.每命中一个后续敌人,伤害减半.",
+      "styleMappings": {
+        "Shoots": "射出",
+        "blocks": "格",
+        "Deals": "造成",
+        "Damage": "伤害",
+        "damage": "伤害",
+        "hit": "命中",
+        "water": "水"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "EPIC WAND"
+      ],
+      "translation": "史诗魔杖",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Bingo Blaster": "宾果爆破枪",
+    "Bingo": "宾果"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

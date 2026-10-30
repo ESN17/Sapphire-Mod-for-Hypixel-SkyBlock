@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "MUSHROOM_SPORE",
+  "_original_name": "Mushroom Spore",
+  "_original_lore": [
+    "The life cycle of a mushroom starts",
+    "with the spore, which germs and",
+    "becomes Mycelium, which develops",
+    "fruit bodies into a mature mushroom,",
+    "and that mushroom will release",
+    "spores.",
+    "",
+    "COMMON"
+  ],
+  "name": "蘑菇孢子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The life cycle of a mushroom starts",
+        "with the spore, which germs and",
+        "becomes Mycelium, which develops",
+        "fruit bodies into a mature mushroom,",
+        "and that mushroom will release",
+        "spores."
+      ],
+      "translation": "蘑菇的生命周期始于孢子,孢子发芽后成为菌丝体,菌丝体发育出子实体长成成熟的蘑菇,而成熟的蘑菇会释放孢子.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mushroom": "蘑菇"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "ZOMBIE_SLAYER_RUNE;1",
+  "_original_name": "◆ Pestilence Rune I",
+  "_original_lore": [
+    "Requires level 10",
+    "Weapons",
+    "",
+    "Obtained rarely from slaying the",
+    "Revenant Horror.",
+    "",
+    "Apply this rune to weapons or fuse",
+    "two together at the Runic Pedestal!",
+    "",
+    "RARE COSMETIC"
+  ],
+  "name": "◆ 瘟疫符文 I",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Requires level {{N0}}",
+        "Weapons"
+      ],
+      "translation": "需要等级 {{N0}} 武器",
+      "styleMappings": {
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Obtained rarely from slaying the",
+        "Revenant Horror."
+      ],
+      "translation": "击杀亡魂恐魔时稀有掉落.",
+      "styleMappings": {
+        "Revenant Horror": "亡魂恐魔"
+      }
+    },
+    {
+      "source": [
+        "Apply this rune to weapons or fuse",
+        "two together at the Runic Pedestal!"
+      ],
+      "translation": "将此符文应用于武器,或在符文基座上将两个符文融合!",
+      "styleMappings": {
+        "Runic Pedestal": "符文基座",
+        "Runic": "符文"
+      }
+    },
+    {
+      "source": [
+        "RARE COSMETIC"
+      ],
+      "translation": "稀有 外观",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Pestilence Rune": "瘟疫符文",
+    "I": "I",
+    "Rune I": "符文 I",
+    "Pestilence": "瘟疫"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

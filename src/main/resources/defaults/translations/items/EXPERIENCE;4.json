@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": "EXPERIENCE;4",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Experience IV",
+    "Grants a 50% chance for mobs",
+    "and ores to drop double",
+    "experience.",
+    "",
+    "Sources:",
+    " - Enchantment Table (I-III)",
+    " - Melancholic Viking (IV)",
+    " - Bazaar (IV-V)",
+    " - Frozen Alex (V)",
+    "",
+    "Applied To:",
+    " - Sword",
+    " - Pickaxe",
+    " - Longsword",
+    " - Drill",
+    " - Gauntlet",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Experience IV"
+      ],
+      "translation": "经验 IV",
+      "styleMappings": {
+        "Experience": "经验",
+        "Experience IV": "经验 IV"
+      }
+    },
+    {
+      "source": [
+        "Grants a {{N0}} chance for mobs",
+        "and ores to drop double",
+        "experience."
+      ],
+      "translation": "使怪物和矿石有 {{N0}} 的几率掉落双倍经验.",
+      "styleMappings": {
+        "double experience": "双倍经验",
+        "chance": "几率",
+        "mobs": "怪物",
+        "double": "双倍"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchantment Table (I-III)",
+        " - Melancholic Viking (IV)",
+        " - Bazaar (IV-V)",
+        " - Frozen Alex (V)"
+      ],
+      "translation": " - 附魔台 (I-III)  - Melancholic Viking (IV)  - 集市 (IV-V)  - Frozen Alex (V)",
+      "styleMappings": {
+        "Melancholic Viking": "Melancholic Viking",
+        "Enchantment Table": "附魔台",
+        "Frozen Alex": "Frozen Alex",
+        "Bazaar": "集市",
+        "I-III": "I-III",
+        "III": "III",
+        "Enchantment": "附魔",
+        "IV-V": "IV-V"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Sword",
+        " - Pickaxe",
+        " - Longsword",
+        " - Drill",
+        " - Gauntlet"
+      ],
+      "translation": " - 剑  - 镐  - 长剑  - 钻头  - 护手",
+      "styleMappings": {
+        "Longsword": "长剑",
+        "Gauntlet": "护手",
+        "Drill": "钻头",
+        "Sword": "剑",
+        "Pickaxe": "镐"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

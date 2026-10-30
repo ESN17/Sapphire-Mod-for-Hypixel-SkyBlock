@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "MUSIC_PANTS",
+  "_original_name": "Stereo Pants",
+  "_original_lore": [
+    "Defense: +35",
+    "Treasure Chance: +1%",
+    "",
+    "Plays sweet tunes that you and",
+    "nearby players can hear!",
+    "",
+    "Ability: Beat Saver ",
+    "While worn, grants a small chance to",
+    "catch Music Discs while fishing.",
+    "",
+    "This item can be reforged!",
+    "EPIC LEGGINGS"
+  ],
+  "name": "立体声裤子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Treasure Chance: {{N0}}"
+      ],
+      "translation": "宝藏概率: {{N0}}",
+      "styleMappings": {
+        "Treasure Chance": "宝藏概率",
+        "Treasure": "宝藏"
+      }
+    },
+    {
+      "source": [
+        "Plays sweet tunes that you and",
+        "nearby players can hear!"
+      ],
+      "translation": "播放你和附近玩家都能听到的动听音乐!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Ability: Beat Saver "
+      ],
+      "translation": "能力: 节拍守护 ",
+      "styleMappings": {
+        "Ability": "能力"
+      }
+    },
+    {
+      "source": [
+        "While worn, grants a small chance to",
+        "catch Music Discs while fishing."
+      ],
+      "translation": "穿戴时,钓鱼有小概率钓到音乐唱片.",
+      "styleMappings": {
+        "Music Discs": "音乐唱片",
+        "fishing": "钓鱼",
+        "chance to": "概率",
+        "chance": "概率"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "EPIC LEGGINGS"
+      ],
+      "translation": "史诗护腿",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Stereo Pants": "立体声裤子"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

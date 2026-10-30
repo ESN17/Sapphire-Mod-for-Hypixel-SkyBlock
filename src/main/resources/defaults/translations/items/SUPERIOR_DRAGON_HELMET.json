@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 1,
+  "id": "SUPERIOR_DRAGON_HELMET",
+  "_original_name": "Superior Dragon Helmet",
+  "_original_lore": [
+    "Health: +90",
+    "Defense: +130",
+    "Strength: +10",
+    "Crit Chance: +2%",
+    "Crit Damage: +10%",
+    "Intelligence: +25",
+    "Speed: +3",
+    "Gemstones: [⚔]",
+    "",
+    "Full Set Bonus: Superior Blood (0/4)",
+    "Increases all Combat stats and ",
+    "Magic Find by 5% and Aspect of the",
+    "Dragons ability deals 50% more",
+    "damage.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Combat Skill 20.",
+    "LEGENDARY HELMET"
+  ],
+  "name": "至尊龙头盔",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Crit Chance: {{N0}}"
+      ],
+      "translation": "暴击率: {{N0}}",
+      "styleMappings": {
+        "Crit Chance": "暴击率"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: {{N0}}"
+      ],
+      "translation": "暴击伤害:{{N0}}",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [⚔]"
+      ],
+      "translation": "宝石: [⚔]",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Superior Blood ({{N0}}/{{N1}})"
+      ],
+      "translation": "全套加成: 超级之血 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Full Set Bonus: Superior Blood": "全套加成: 超级之血",
+        "Full Set Bonus": "全套加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Increases all Combat stats and ",
+        "Magic Find by {{N0}} and Aspect of the",
+        "Dragons ability deals {{N1}} more",
+        "damage."
+      ],
+      "translation": "将所有战斗属性和  稀有物品概率加成提高 {{N0}},且巨龙之刃技能造成 {{N1}} 额外伤害.",
+      "styleMappings": {
+        "Aspect of the Dragons": "巨龙之刃",
+        " Magic Find": " 稀有物品概率加成",
+        "ability": "技能",
+        "Combat": "战斗",
+        "damage": "伤害",
+        "stats": "属性",
+        "more": "额外",
+        "Magic Find": "稀有物品概率加成",
+        "Aspect": "巨龙之刃",
+        "of the Dragons": "龙之"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY HELMET"
+      ],
+      "translation": "传说 头盔",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Helmet": "头盔",
+    "Dragon": "龙",
+    "Dragon Helmet": "龙头盔",
+    "Superior": "至尊"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

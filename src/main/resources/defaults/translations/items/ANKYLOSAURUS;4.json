@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "id": "ANKYLOSAURUS;4",
+  "_original_name": "[Lvl {LVL}] Ankylosaurus",
+  "_original_lore": [
+    "Combat Pet",
+    "",
+    "Health: +{HEALTH}",
+    "Defense: +{DEFENSE}",
+    "True Defense: +{TRUE_DEFENSE}",
+    "",
+    "Armored Tank",
+    "Gain {0}% of your  Defense as ",
+    "Strength. (Max +500)",
+    "",
+    "Unyielding",
+    "Increase the effectiveness of Last",
+    "Stand and Lifeline by {1}%.",
+    "",
+    "Clubbed Tail",
+    "Every 5th hit deals {2}% of your",
+    "final damage to enemies within 5",
+    "blocks. Enemies hit deal 10% less",
+    "damage for 10s.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "LEGENDARY PET"
+  ],
+  "name": "[等级 {LVL}] 甲龙",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combat Pet"
+      ],
+      "translation": "战斗宠物",
+      "styleMappings": {
+        "Combat Pet": "战斗宠物",
+        "Combat": "战斗",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Health: +{{N0}}"
+      ],
+      "translation": "生命值: +{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: +{{N0}}"
+      ],
+      "translation": "防御力: +{{N0}}",
+      "styleMappings": {
+        "Defense": "防御力"
+      }
+    },
+    {
+      "source": [
+        "True Defense: +{{N0}}"
+      ],
+      "translation": "真实防御: +{{N0}}",
+      "styleMappings": {
+        "True Defense": "真实防御",
+        "Defense": "防御",
+        "True": "真实"
+      }
+    },
+    {
+      "source": [
+        "Armored Tank"
+      ],
+      "translation": "装甲坦克",
+      "styleMappings": {
+        "Tank": "坦克"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}}% of your  Defense as ",
+        "Strength. (Max {{N1}})"
+      ],
+      "translation": "将你  防御力的 {{N0}}% 转化为  力量.(上限 {{N1}})",
+      "styleMappings": {
+        "(Max {{N1}})": "(上限 {{N1}})",
+        " Strength": " 力量",
+        " Defense": " 防御",
+        "Max": "上限",
+        "Strength": "力量",
+        "(Max": "(上限"
+      }
+    },
+    {
+      "source": [
+        "Unyielding"
+      ],
+      "translation": "不屈",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Increase the effectiveness of Last",
+        "Stand and Lifeline by {{N0}}%."
+      ],
+      "translation": "使背水一战和生命线的效果提高 {{N0}}%.",
+      "styleMappings": {
+        "Last Stand": "背水一战",
+        "Lifeline": "生命线"
+      }
+    },
+    {
+      "source": [
+        "Clubbed Tail"
+      ],
+      "translation": "锤状尾",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Every {{N0}}th hit deals {{N1}}% of your",
+        "final damage to enemies within {{N2}}",
+        "blocks. Enemies hit deal {{N3}} less",
+        "damage for {{N4}}s."
+      ],
+      "translation": "每第 {{N0}} 次攻击对 {{N2}} 格内的敌人造成你最终伤害的 {{N1}}%.被击中的敌人造成的伤害降低 {{N3}},持续 {{N4}} 秒.",
+      "styleMappings": {
+        "blocks": "格",
+        "damage": "伤害",
+        "for": "持续",
+        "{{N4}}s": "{{N4}} 秒",
+        "deal": "造成",
+        "enemies": "敌人",
+        "Enemies": "敌人"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY PET"
+      ],
+      "translation": "传说 宠物",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Ankylosaurus": "甲龙",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

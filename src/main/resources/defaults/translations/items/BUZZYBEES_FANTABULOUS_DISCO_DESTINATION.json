@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "BUZZYBEES_FANTABULOUS_DISCO_DESTINATION",
+  "_original_name": "Buzzybee's Fantabulous Disco Destination",
+  "_original_lore": [
+    "Place this in your Garden and fill it",
+    "with Pest Vinyls.",
+    "",
+    "Offline  Pests will spawn within 10",
+    "blocks of this if their Pest Vinyl has",
+    "been placed in this.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "嗡嗡蜂的奇妙迪斯科目的地",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Place this in your Garden and fill it",
+        "with Pest Vinyls."
+      ],
+      "translation": "将其放置在花园中,并放入害虫唱片.",
+      "styleMappings": {
+        "Pest Vinyls": "害虫唱片",
+        "Garden": "花园",
+        "Pest": "害虫"
+      }
+    },
+    {
+      "source": [
+        "Offline  Pests will spawn within {{N0}}",
+        "blocks of this if their Pest Vinyl has",
+        "been placed in this."
+      ],
+      "translation": "如果离线 害虫的害虫唱片已放入其中,它们将在其 {{N0}} 格范围内生成.",
+      "styleMappings": {
+        " Pests": " 害虫",
+        "blocks": "格",
+        "Vinyl": "唱片",
+        "Pest": "害虫",
+        "Pests": "害虫"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Buzzybee's Fantabulous Disco Destination": "嗡嗡蜂的奇妙迪斯科目的地"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

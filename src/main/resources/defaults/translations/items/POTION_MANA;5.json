@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_MANA;5",
+  "_original_name": "Mana V Potion",
+  "_original_lore": [
+    "",
+    "Mana V (3:00)",
+    "Grants +5 ✎ Mana per second.",
+    "",
+    "RARE"
+  ],
+  "name": "法力 V 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mana V ({{N0}}:{{N1}})"
+      ],
+      "translation": "法力 V ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Mana V": "法力 V",
+        "Mana": "法力"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} ✎ Mana per second."
+      ],
+      "translation": "每秒提供 {{N0}} ✎ 法力.",
+      "styleMappings": {
+        "per second": "每秒",
+        "Grants": "提供",
+        "Mana": "法力",
+        "second": "秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mana V": "法力 V",
+    "Mana": "法力"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "ALLIGATOR_SC",
+  "_original_name": "Alligator (Sea Creature)",
+  "_original_lore": [
+    "Mob Types: ⚓ Aquatic, ☮ Animal, ❃ Elusive",
+    "❤ Health: 600,000",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "鳄鱼 (海洋生物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mob Types: ⚓ Aquatic, ☮ Animal, ❃ Elusive"
+      ],
+      "translation": "生物类型: ⚓ 水生, ☮ 动物, ❃ 难以捕捉",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Aquatic": "水生",
+        "Animal": "动物",
+        "Elusive": "难以捕捉"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Sea Creature)": "(海洋生物)",
+    "Sea Creature": "海洋生物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

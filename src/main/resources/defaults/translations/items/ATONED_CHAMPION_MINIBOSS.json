@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "ATONED_CHAMPION_MINIBOSS",
+  "_original_name": "Atoned Champion (Miniboss)",
+  "_original_lore": [
+    "The Atoned Champion is a Revenant Horror",
+    "Miniboss that very rarely spawns after killing a",
+    "Zombie during Revenant Horror Tier V Quests.",
+    "",
+    "❤ Health: 600,000"
+  ],
+  "name": "赎罪勇士 (小头目)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Atoned Champion is a Revenant Horror",
+        "Miniboss that very rarely spawns after killing a",
+        "Zombie during Revenant Horror Tier V Quests."
+      ],
+      "translation": "赎罪勇士是亡魂恐魔小首领,在亡魂恐魔 V 阶任务中击杀僵尸后有极低概率生成.",
+      "styleMappings": {
+        "Champion": "勇士",
+        "Revenant Horror": "亡魂恐魔",
+        "Miniboss": "小首领",
+        "Zombie": "僵尸"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Miniboss)": "(小头目)",
+    "Champion": "勇士"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

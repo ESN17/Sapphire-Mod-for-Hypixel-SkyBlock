@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "EON_THE_FISH",
+  "_original_name": "Eon the Fish",
+  "_original_lore": [
+    "Back in my day, we swam upstream",
+    "for hours to get to school, and we",
+    "didn't complain!",
+    "",
+    "SPECIAL"
+  ],
+  "name": "万古之鱼",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Back in my day, we swam upstream",
+        "for hours to get to school, and we",
+        "didn't complain!"
+      ],
+      "translation": "想当年,我们逆流游好几个小时去上学,而且我们从不抱怨!",
+      "styleMappings": {
+        "hours": "小时"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fish": "鱼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

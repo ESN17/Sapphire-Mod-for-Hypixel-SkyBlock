@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": "HEPHAESTUS_LUCKY_DIP",
+  "_original_name": "Hephaestus' Lucky Dip",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Dip your hand in and reach around",
+    "to find a random Hephaestus Pet",
+    "Item. Can be any of the following:",
+    "• Hephaestus Plushie",
+    "• Hephaestus Relic",
+    "• Hephaestus Remedies",
+    "• Hephaestus Shelmet",
+    "• Hephaestus Souvenir",
+    "• Hephaestus Urn",
+    "",
+    "Step right up and try your luck - will",
+    "you win big or win even bigger?",
+    "",
+    "Right-click to consume!",
+    "",
+    "* Soulbound *",
+    "LEGENDARY"
+  ],
+  "name": "赫菲斯托斯幸运抽奖",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Dip your hand in and reach around",
+        "to find a random Hephaestus Pet"
+      ],
+      "translation": "把手伸进去摸索,随机找到一只赫菲斯托斯宠物",
+      "styleMappings": {
+        "Hephaestus Pet": "赫菲斯托斯宠物",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Item. Can be any of the following:"
+      ],
+      "translation": "物品.可能是以下之一:",
+      "styleMappings": {
+        "Item": "物品"
+      }
+    },
+    {
+      "source": [
+        "• Hephaestus Plushie",
+        "• Hephaestus Relic",
+        "• Hephaestus Remedies",
+        "• Hephaestus Shelmet",
+        "• Hephaestus Souvenir",
+        "• Hephaestus Urn"
+      ],
+      "translation": "• 赫菲斯托斯毛绒玩偶 • 赫菲斯托斯圣物 • 赫菲斯托斯药剂 • 赫菲斯托斯甲壳盔 • 赫菲斯托斯纪念品 • 赫菲斯托斯骨灰瓮",
+      "styleMappings": {
+        "Hephaestus Remedies": "赫菲斯托斯药剂",
+        "Hephaestus Souvenir": "赫菲斯托斯纪念品",
+        "Hephaestus Plushie": "赫菲斯托斯毛绒玩偶",
+        "Hephaestus Shelmet": "赫菲斯托斯甲壳盔",
+        "Hephaestus Relic": "赫菲斯托斯圣物",
+        "Hephaestus Urn": "赫菲斯托斯骨灰瓮",
+        "Relic": "圣物",
+        "Plushie": "毛绒"
+      }
+    },
+    {
+      "source": [
+        "Step right up and try your luck - will",
+        "you win big or win even bigger?"
+      ],
+      "translation": "快来试试手气 - 你会赢得盆满钵满,还是赢得更多?",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Lucky": "幸运"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

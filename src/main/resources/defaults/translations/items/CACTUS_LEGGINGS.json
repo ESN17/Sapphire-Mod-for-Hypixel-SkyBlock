@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "CACTUS_LEGGINGS",
+  "_original_name": "Cactus Leggings",
+  "_original_lore": [
+    "Health: +10",
+    "Defense: +20",
+    "",
+    "Full Set Bonus: Deflect (0/4)",
+    "Rebound 33% of the damage you take",
+    "back at your enemy.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Farming Skill 5.",
+    "COMMON LEGGINGS"
+  ],
+  "name": "仙人掌护腿",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Deflect ({{N0}}/{{N1}})"
+      ],
+      "translation": "全套加成: 偏转 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Full Set Bonus: Deflect": "全套加成: 偏转",
+        "Full Set Bonus": "全套加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Rebound {{N0}} of the damage you take",
+        "back at your enemy."
+      ],
+      "translation": "将你受到的伤害的 {{N0}} 反弹回敌人.",
+      "styleMappings": {
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Farming Skill {{N0}}."
+      ],
+      "translation": "❣ 需要农业技能 {{N0}}.",
+      "styleMappings": {
+        "Farming Skill": "农业技能",
+        "Requires": "需要",
+        "Farming": "农业",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "COMMON LEGGINGS"
+      ],
+      "translation": "普通护腿",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Cactus": "仙人掌",
+    "Leggings": "护腿"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

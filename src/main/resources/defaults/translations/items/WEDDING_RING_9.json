@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "id": "WEDDING_RING_9",
+  "_original_name": "Legendary Ring of Love",
+  "_original_lore": [
+    "Accessory Power: +16",
+    "",
+    "Grants a 1 in 100 chance to deal",
+    "+100% damage.",
+    "",
+    "True love is tough to find, but",
+    "finding it hits you hard!",
+    "",
+    "Requires quest progress!",
+    "",
+    "Works while in Accessory Bag!",
+    "LEGENDARY ACCESSORY"
+  ],
+  "name": "传说爱情戒指",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Accessory Power: {{N0}}"
+      ],
+      "translation": "饰品能量: {{N0}}",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "Grants a {{N0}} in {{N1}} chance to deal",
+        "{{N2}} damage."
+      ],
+      "translation": "有 {{N1}} 的几率造成 {{N2}} 点伤害,获得 {{N0}}.",
+      "styleMappings": {
+        "Grants": "获得",
+        "chance": "几率",
+        "damage": "伤害",
+        "deal": "造成",
+        "chance to": "几率"
+      }
+    },
+    {
+      "source": [
+        "True love is tough to find, but",
+        "finding it hits you hard!"
+      ],
+      "translation": "真爱难寻,但寻到时你会被狠狠击中!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Requires quest progress!"
+      ],
+      "translation": "需要任务进度!",
+      "styleMappings": {
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "放在饰品袋中即可生效!",
+      "styleMappings": {
+        "Accessory Bag": "饰品袋",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY ACCESSORY"
+      ],
+      "translation": "传说饰品",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Legendary": "传说",
+    "Ring": "戒指"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

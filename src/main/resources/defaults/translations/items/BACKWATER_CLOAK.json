@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": "BACKWATER_CLOAK",
+  "_original_name": "Backwater Cloak",
+  "_original_lore": [
+    "Fishing Speed: +2",
+    "Sea Creature Chance: +1%",
+    "Treasure Chance: +0.1%",
+    "",
+    "Tiered Bonus: Swamp Soldier (0/8)",
+    "Increases damage dealt to Sea",
+    "Creatures by 5%.",
+    "",
+    "Right-click to equip!",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Fishing Skill 5.",
+    "UNCOMMON CLOAK"
+  ],
+  "name": "死水斗篷",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Fishing Speed: {{N0}}"
+      ],
+      "translation": "钓鱼速度: {{N0}}",
+      "styleMappings": {
+        "Fishing Speed": "钓鱼速度",
+        "Fishing": "钓鱼",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Sea Creature Chance: {{N0}}"
+      ],
+      "translation": "海洋生物概率:{{N0}}",
+      "styleMappings": {
+        "Sea Creature Chance": "海洋生物概率",
+        "Sea Creature": "海洋生物"
+      }
+    },
+    {
+      "source": [
+        "Treasure Chance: {{N0}}"
+      ],
+      "translation": "宝藏概率: {{N0}}",
+      "styleMappings": {
+        "Treasure Chance": "宝藏概率",
+        "Treasure": "宝藏"
+      }
+    },
+    {
+      "source": [
+        "Tiered Bonus: Swamp Soldier ({{N0}}/{{N1}})"
+      ],
+      "translation": "分级加成: 沼泽士兵 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Swamp Soldier": "沼泽士兵",
+        "Tiered Bonus": "分级加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Increases damage dealt to Sea",
+        "Creatures by {{N0}}."
+      ],
+      "translation": "对海洋生物造成的伤害提高 {{N0}}.",
+      "styleMappings": {
+        "Sea Creatures": "海洋生物",
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Right-click to equip!"
+      ],
+      "translation": "右键点击装备!",
+      "styleMappings": {
+        "Right-click to equip!": "右键点击装备!",
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Fishing Skill {{N0}}."
+      ],
+      "translation": "❣ 需要钓鱼技能 {{N0}}.",
+      "styleMappings": {
+        "Fishing Skill": "钓鱼技能",
+        "Requires": "需要",
+        "Fishing": "钓鱼",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON CLOAK"
+      ],
+      "translation": "罕见 披风",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

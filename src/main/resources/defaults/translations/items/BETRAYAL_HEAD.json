@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "BETRAYAL_HEAD",
+  "_original_name": "Head of Betrayal",
+  "_original_lore": [
+    "Health: +10",
+    "Defense: +5",
+    "",
+    "This item can be reforged!",
+    "* Co-op Soulbound *",
+    "UNCOMMON HELMET"
+  ],
+  "name": "背叛之首",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON HELMET"
+      ],
+      "translation": "罕见 头盔",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

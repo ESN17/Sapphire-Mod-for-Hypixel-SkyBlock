@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "id": "MEDIOCRE_FISH_DRAWING",
+  "_original_name": "Mediocre Drawing of a Fish",
+  "_original_lore": [
+    "Commemorates your participation in",
+    "the Fishing Outpost city project.",
+    "",
+    "Earned by: [MVP+] Eisengolem",
+    "Total Contributions: 20",
+    "March 4, 2025",
+    "",
+    "Memento acquirer name becomes",
+    "hidden if traded.",
+    "",
+    "Found underneath the fridge in the",
+    "Fisherman's Hut during renovations.",
+    "Though it leaves a lot to be desired,",
+    "visually speaking, a lot of love was",
+    "probably put into it.",
+    "",
+    "SPECIAL MEMENTO"
+  ],
+  "name": "平庸的鱼画",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Commemorates your participation in",
+        "the Fishing Outpost city project."
+      ],
+      "translation": "纪念你参与了钓鱼前哨城市项目.",
+      "styleMappings": {
+        "Fishing Outpost": "钓鱼前哨",
+        "Fishing": "钓鱼"
+      }
+    },
+    {
+      "source": [
+        "Earned by: [MVP+] Eisengolem"
+      ],
+      "translation": "获得者:[最有价值玩家+]艾森戈莱姆",
+      "styleMappings": {
+        "MVP": "最有价值玩家",
+        "Eisengolem": "艾森戈莱姆"
+      }
+    },
+    {
+      "source": [
+        "Total Contributions: {{N0}}"
+      ],
+      "translation": "总贡献: {{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "March {{N0}}, {{N1}}"
+      ],
+      "translation": "{{N0}} 月 {{N1}} 日",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Memento acquirer name becomes",
+        "hidden if traded."
+      ],
+      "translation": "纪念品获得者名称在交易后将被隐藏.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Found underneath the fridge in the",
+        "Fisherman's Hut during renovations."
+      ],
+      "translation": "翻修期间在渔夫小屋的冰箱下被发现.",
+      "styleMappings": {
+        "Fisherman's Hut": "渔夫小屋",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Though it leaves a lot to be desired,",
+        "visually speaking, a lot of love was",
+        "probably put into it."
+      ],
+      "translation": "虽然从视觉上看还有很大改进空间,但大概倾注了不少爱.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "SPECIAL MEMENTO"
+      ],
+      "translation": "特殊纪念品",
+      "styleMappings": {
+        "SPECIAL MEMENTO": "特殊纪念品",
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fish": "鱼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

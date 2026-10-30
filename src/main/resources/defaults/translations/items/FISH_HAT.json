@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "FISH_HAT",
+  "_original_name": "Fish Hat",
+  "_original_lore": [
+    "Health: +5",
+    "",
+    "Ability: Splash  SNEAK",
+    "Crouch to splash some water around.",
+    "Mana Cost: 10",
+    "Cooldown: 1s",
+    "",
+    "This item can be reforged!",
+    "COMMON HELMET"
+  ],
+  "name": "鱼帽",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Ability: Splash  SNEAK"
+      ],
+      "translation": "技能:水花  潜行",
+      "styleMappings": {
+        "Ability: Splash": "技能:水花",
+        "SNEAK": "潜行",
+        "Ability": "技能"
+      }
+    },
+    {
+      "source": [
+        "Crouch to splash some water around."
+      ],
+      "translation": "蹲下以向周围溅起一些水花.",
+      "styleMappings": {
+        "water": "水"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "COMMON HELMET"
+      ],
+      "translation": "普通头盔",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fish": "鱼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

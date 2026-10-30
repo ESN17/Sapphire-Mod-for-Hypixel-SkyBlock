@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "ANTI_SENTIENT_PICKAXE",
+  "_original_name": "Anti-Sentient Pickaxe",
+  "_original_lore": [
+    "Rift Damage: +5",
+    "",
+    "Allows you to break living metal ore",
+    "and Youngite.",
+    "",
+    "This pickaxe is not a particular fan",
+    "of sentient pickaxes.",
+    "",
+    "EPIC SWORD"
+  ],
+  "name": "反感知镐",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Rift Damage: {{N0}}"
+      ],
+      "translation": "裂隙伤害: {{N0}}",
+      "styleMappings": {
+        "Rift Damage": "裂隙伤害",
+        "Damage": "伤害",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "Allows you to break living metal ore",
+        "and Youngite."
+      ],
+      "translation": "允许你破坏活体金属矿石和幼时石.",
+      "styleMappings": {
+        "Youngite": "幼时石"
+      }
+    },
+    {
+      "source": [
+        "This pickaxe is not a particular fan",
+        "of sentient pickaxes."
+      ],
+      "translation": "这把镐子不太喜欢有感知的镐子.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC SWORD"
+      ],
+      "translation": "史诗 剑",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Pickaxe": "镐"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

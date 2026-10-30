@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "BONZO_STATUE",
+  "_original_name": "Bonzo Statue",
+  "_original_lore": [
+    "Spawn a statue of Bonzo.",
+    "",
+    "UNCOMMON COSMETIC"
+  ],
+  "name": "邦佐雕像",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Spawn a statue of Bonzo."
+      ],
+      "translation": "生成一座邦佐雕像.",
+      "styleMappings": {
+        "Bonzo": "邦佐",
+        "Spawn": "生成"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON COSMETIC"
+      ],
+      "translation": "罕见 外观",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Bonzo": "邦佐"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

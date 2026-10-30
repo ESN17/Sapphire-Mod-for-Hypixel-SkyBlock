@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "SIAMESE_LYNXES_MONSTER",
+  "_original_name": "Siamese Lynxes (Mythological Creature)",
+  "_original_lore": [
+    "Siamese Lynxes, also known as Bagheera and Azrael,",
+    "in-game are the second most common mobs found in",
+    "the Mythological Ritual. Their health scales",
+    "depending on the rarity of your Griffin Pet. You",
+    "have to hit the lynxes one at a time, the correct",
+    "one being indicated by angry villager particles.",
+    "",
+    "Mob Types: ✿ Mythological, ☮ Animal",
+    "❤ Health:",
+    "[Griffin/Griffin] 2 × 30,000 ❤",
+    "[Griffin/Griffin] 2 × 150,000 ❤",
+    "[Griffin] 2 × 800,000 ❤",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "暹罗猞猁 (神话生物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Siamese Lynxes, also known as Bagheera and Azrael,",
+        "in-game are the second most common mobs found in",
+        "the Mythological Ritual. Their health scales",
+        "depending on the rarity of your Griffin Pet. You",
+        "have to hit the lynxes one at a time, the correct",
+        "one being indicated by angry villager particles."
+      ],
+      "translation": "暹罗猫,又名巴格拉和阿兹拉尔,是游戏中神话仪式里第二常见的生物.它们的生命值取决于你的狮鹫宠物的稀有度.你必须一次攻击一只猫,正确的那只会被愤怒的村民粒子标记.",
+      "styleMappings": {
+        "Mythological Ritual": "神话仪式",
+        "Griffin": "狮鹫",
+        "common": "常见",
+        "health": "生命值",
+        "rarity": "稀有度",
+        "mobs": "生物",
+        "Pet": "宠物",
+        "hit": "攻击",
+        "Mythological": "神话",
+        "Griffin Pet": "狮鹫宠物",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Mob Types: ✿ Mythological, ☮ Animal"
+      ],
+      "translation": "生物类型: ✿ 神话, ☮ 动物",
+      "styleMappings": {
+        "Mythological": "神话",
+        "Mob Types:": "生物类型:",
+        "Animal": "动物"
+      }
+    },
+    {
+      "source": [
+        "❤ Health:"
+      ],
+      "translation": "❤ 生命值:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "[Griffin/Griffin] {{N0}} × {{N1}} ❤",
+        "[Griffin/Griffin] {{N2}} × {{N3}} ❤",
+        "[Griffin] {{N4}} × {{N5}} ❤"
+      ],
+      "translation": "[狮鹫/狮鹫] {{N0}} × {{N1}} ❤ [狮鹫/狮鹫] {{N2}} × {{N3}} ❤ [狮鹫] {{N4}} × {{N5}} ❤",
+      "styleMappings": {
+        "Griffin": "狮鹫"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mythological Creature": "神话生物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

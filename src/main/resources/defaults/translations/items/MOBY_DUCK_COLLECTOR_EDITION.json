@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "MOBY_DUCK_COLLECTOR_EDITION",
+  "_original_name": "Moby-Duck: Collector's Edition",
+  "_original_lore": [
+    "Consume to gain +30☯ Fishing Wisdom",
+    "for 60m!",
+    "",
+    "Bookworm",
+    "Consuming this grants permanent",
+    "+1☯ Fishing Wisdom.",
+    "",
+    "You may consume 1 of these before",
+    "they lose their magical energy.",
+    "",
+    "A series of tales following a fellow",
+    "named Moby and his waterfowl best",
+    "friend. Who would be so egregious as",
+    "to thrust such a literary",
+    "masterpiece into the sea?",
+    "",
+    "EPIC"
+  ],
+  "name": "莫比鸭:收藏家版",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consume to gain {{N0}}☯ Fishing Wisdom",
+        "for {{N1}}m!"
+      ],
+      "translation": "食用后,获得 {{N0}}☯ 钓鱼智慧,持续 {{N1}}分钟!",
+      "styleMappings": {
+        "Fishing Wisdom": "钓鱼智慧",
+        "for": "持续",
+        "{{N1}}m": "{{N1}}分钟",
+        "Fishing": "钓鱼",
+        "Wisdom": "智慧",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "Bookworm"
+      ],
+      "translation": "书虫",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Consuming this grants permanent",
+        "{{N0}}☯ Fishing Wisdom."
+      ],
+      "translation": "食用后,永久获得 {{N0}}☯ 钓鱼智慧.",
+      "styleMappings": {
+        "Fishing Wisdom": "钓鱼智慧",
+        "Fishing": "钓鱼",
+        "Wisdom": "智慧"
+      }
+    },
+    {
+      "source": [
+        "You may consume {{N0}} of these before",
+        "they lose their magical energy."
+      ],
+      "translation": "在失去魔法能量前,你最多可饮用 {{N0}} 个.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "A series of tales following a fellow",
+        "named Moby and his waterfowl best",
+        "friend. Who would be so egregious as",
+        "to thrust such a literary",
+        "masterpiece into the sea?"
+      ],
+      "translation": "一系列故事,讲述一个名叫 Moby 的家伙和他最好的水禽朋友.谁会如此过分,把这样一部文学杰作扔进海里?",
+      "styleMappings": {
+        "Moby": "Moby"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

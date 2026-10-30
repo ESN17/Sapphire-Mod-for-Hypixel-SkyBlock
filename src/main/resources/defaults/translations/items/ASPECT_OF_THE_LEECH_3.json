@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "ASPECT_OF_THE_LEECH_3",
+  "_original_name": "Aspect of the Leech",
+  "_original_lore": [
+    "Ability: Weird Transmission  RIGHT CLICK",
+    "Teleport 5 blocks ahead of you.",
+    "Mana Cost: 50",
+    "",
+    "EPIC WAND"
+  ],
+  "name": "血蛭之刃",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Weird Transmission  RIGHT CLICK"
+      ],
+      "translation": "技能: 诡异传送  右键点击",
+      "styleMappings": {
+        "Weird Transmission": "诡异传送",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击",
+        "Transmission": "传送"
+      }
+    },
+    {
+      "source": [
+        "Teleport {{N0}} blocks ahead of you."
+      ],
+      "translation": "传送到你前方 {{N0}} 格处.",
+      "styleMappings": {
+        "Teleport": "传送",
+        "blocks": "格"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "EPIC WAND"
+      ],
+      "translation": "史诗魔杖",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Aspect of the Leech": "血蛭之刃"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

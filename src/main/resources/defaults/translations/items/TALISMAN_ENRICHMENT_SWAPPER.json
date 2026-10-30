@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "TALISMAN_ENRICHMENT_SWAPPER",
+  "_original_name": "Accessory Enrichment Swapper",
+  "_original_lore": [
+    "Consumed on use",
+    "",
+    "Swaps all enriched accessories in",
+    "your accessory bag to another",
+    "enrichment.",
+    "",
+    "Right-click to open menu!",
+    "",
+    "SPECIAL"
+  ],
+  "name": "饰品强化切换器",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumed on use"
+      ],
+      "translation": "使用后消耗",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Swaps all enriched accessories in",
+        "your accessory bag to another",
+        "enrichment."
+      ],
+      "translation": "将你饰品袋中所有已强化的饰品切换为另一种强化.",
+      "styleMappings": {
+        "enriched": "已强化"
+      }
+    },
+    {
+      "source": [
+        "Right-click to open menu!"
+      ],
+      "translation": "右键点击打开菜单!",
+      "styleMappings": {
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Accessory": "饰品"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

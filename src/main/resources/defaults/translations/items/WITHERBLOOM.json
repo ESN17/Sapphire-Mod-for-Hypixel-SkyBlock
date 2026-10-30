@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "WITHERBLOOM",
+  "_original_name": "Witherbloom",
+  "_original_lore": [
+    "A plant that only thrives in the",
+    "presence of decay, its petals",
+    "growing strong where life once was.",
+    "Only death thrives the living.",
+    "",
+    "Complete Visitor Beth's quest to",
+    "Analyze this crop!",
+    "",
+    "COMMON MUTATION"
+  ],
+  "name": "凋零花",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A plant that only thrives in the",
+        "presence of decay, its petals",
+        "growing strong where life once was."
+      ],
+      "translation": "一种只在腐朽之处茂盛的植物,其花瓣在曾经有生命的地方茁壮成长.",
+      "styleMappings": {
+        "plant": "植物",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Only death thrives the living."
+      ],
+      "translation": "唯有死亡在生者中繁盛.",
+      "styleMappings": {
+        "death": "死亡"
+      }
+    },
+    {
+      "source": [
+        "Complete Visitor Beth's quest to",
+        "Analyze this crop!"
+      ],
+      "translation": "完成访客 Beth 的任务来分析这种作物!",
+      "styleMappings": {
+        "Visitor": "访客",
+        "Beth's": "Beth 的",
+        "Analyze": "分析"
+      }
+    },
+    {
+      "source": [
+        "COMMON MUTATION"
+      ],
+      "translation": "普通变异",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

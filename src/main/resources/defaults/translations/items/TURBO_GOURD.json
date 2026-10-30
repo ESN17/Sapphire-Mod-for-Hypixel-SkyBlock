@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "id": "TURBO_GOURD",
+  "_original_name": "Turbo Gourd",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "When applied to Farming Tool,",
+    "increases ALL Turbo-Crop V",
+    "enchantments to Turbo-Crop VI.",
+    "Requires at least one Turbo-Crop V",
+    "enchantment!",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "涡轮葫芦",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "When applied to Farming Tool,",
+        "increases ALL Turbo-Crop V",
+        "enchantments to Turbo-Crop VI."
+      ],
+      "translation": "应用于农具时,将所有作物增产 V 附魔提升至作物增产 VI.",
+      "styleMappings": {
+        "Turbo-Crop V": "作物增产 V",
+        "Turbo-Crop VI": "作物增产 VI",
+        "Farming Tool": "农具",
+        "ALL": "所有",
+        "Crop": "作物"
+      }
+    },
+    {
+      "source": [
+        "Requires at least one Turbo-Crop V",
+        "enchantment!"
+      ],
+      "translation": "需要至少一个作物增产 V 附魔!",
+      "styleMappings": {
+        "Turbo-Crop V": "作物增产 V",
+        "Requires": "需要",
+        "Crop": "作物"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

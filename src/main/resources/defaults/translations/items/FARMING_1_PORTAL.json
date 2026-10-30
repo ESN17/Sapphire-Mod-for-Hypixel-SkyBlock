@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "FARMING_1_PORTAL",
+  "_original_name": "Portal to The Barn",
+  "_original_lore": [
+    "Placing this item on your private",
+    "island will create a portal to The",
+    "Barn for you to use whenever you",
+    "want!",
+    "",
+    "The portal will spawn facing you on",
+    "the block you click on.",
+    "",
+    "COMMON PORTAL"
+  ],
+  "name": "通往农庄的传送门",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Placing this item on your private",
+        "island will create a portal to The",
+        "Barn for you to use whenever you",
+        "want!"
+      ],
+      "translation": "将此物品放置在你的私人岛屿上,即可创建一个通往农庄的传送门,随时供你使用!",
+      "styleMappings": {
+        "private island": "私人岛屿",
+        "portal to": "通往",
+        "The Barn": "农庄",
+        "item": "物品",
+        "Placing this item on your private": "将此物品放置在你的私人",
+        "island": "岛屿上",
+        "Barn": "农庄"
+      }
+    },
+    {
+      "source": [
+        "The portal will spawn facing you on",
+        "the block you click on."
+      ],
+      "translation": "传送门将生成在你点击的方块上并面向你.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "COMMON PORTAL"
+      ],
+      "translation": "普通传送门",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "The Barn": "农庄",
+    "Barn": "农庄"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

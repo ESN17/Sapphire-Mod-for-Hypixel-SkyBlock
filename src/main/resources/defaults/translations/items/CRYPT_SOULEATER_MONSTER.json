@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "CRYPT_SOULEATER_MONSTER",
+  "_original_name": "Crypt Souleater (Monster)",
+  "_original_lore": [
+    "A soul a day keeps the doctor away.",
+    "",
+    "❤ Health: 18,000 - 800,000",
+    "❤ Health (MM) : 1,100,000 - 20,000,000"
+  ],
+  "name": "墓穴噬魂者 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A soul a day keeps the doctor away."
+      ],
+      "translation": "每天一个灵魂,医生远离我.",
+      "styleMappings": {
+        "day": "天"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}} - {{N1}}"
+      ],
+      "translation": "❤ 生命值: {{N0}} - {{N1}}",
+      "styleMappings": {
+        "Health": "生命值",
+        "-": "-"
+      }
+    },
+    {
+      "source": [
+        "❤ Health (MM) : {{N0}} - {{N1}}"
+      ],
+      "translation": "❤ 生命值 (MM) : {{N0}} - {{N1}}",
+      "styleMappings": {
+        "Health": "生命值",
+        "-": "-"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

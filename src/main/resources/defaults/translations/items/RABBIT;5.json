@@ -1,0 +1,172 @@
+{
+  "schemaVersion": 1,
+  "id": "RABBIT;5",
+  "_original_name": "[Lvl {LVL}] Rabbit",
+  "_original_lore": [
+    "Farming Pet",
+    "",
+    "Health: +{HEALTH}",
+    "Speed: +{SPEED}",
+    "",
+    "Happy Feet",
+    "Jump potions also give +{0} speed",
+    "",
+    "Farming Wisdom Boost",
+    "Grants +{1}☯ Farming Wisdom.",
+    "",
+    "Efficient Farming",
+    "Farming minions work {2}% faster",
+    "while on your island",
+    "",
+    "Chocolate Injections",
+    "Increases Chocolate Factory",
+    "production by +{3}x. Duplicate",
+    "Chocolate Rabbits that you find",
+    "grant +{4}% Chocolate.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "MYTHIC PET"
+  ],
+  "name": "[等级 {LVL}] 兔子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Farming Pet"
+      ],
+      "translation": "耕作宠物",
+      "styleMappings": {
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Health: +{{N0}}"
+      ],
+      "translation": "生命值: +{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Speed: +{{N0}}"
+      ],
+      "translation": "速度: +{{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Happy Feet"
+      ],
+      "translation": "欢快步伐",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Jump potions also give +{{N0}} speed"
+      ],
+      "translation": "跳跃药水也会提供 +{{N0}} 速度",
+      "styleMappings": {
+        "speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Farming Wisdom Boost"
+      ],
+      "translation": "耕作智慧加成",
+      "styleMappings": {
+        "Farming Wisdom": "耕作智慧",
+        "Wisdom": "智慧"
+      }
+    },
+    {
+      "source": [
+        "Grants +{{N0}}☯ Farming Wisdom."
+      ],
+      "translation": "提供 +{{N0}}☯ 农业智慧.",
+      "styleMappings": {
+        "Farming Wisdom": "农业智慧",
+        "Grants": "提供",
+        "Wisdom": "智慧",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "Efficient Farming"
+      ],
+      "translation": "高效耕作",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Farming minions work {{N0}}% faster",
+        "while on your island"
+      ],
+      "translation": "在你的岛屿上时,农业仆从的工作速度加快 {{N0}}%",
+      "styleMappings": {
+        "Farming minions": "农业仆从",
+        "faster": "加快",
+        "island": "岛屿上",
+        "Farming": "农业",
+        "minions": "仆从",
+        "work": "工作"
+      }
+    },
+    {
+      "source": [
+        "Chocolate Injections"
+      ],
+      "translation": "巧克力注射",
+      "styleMappings": {
+        "Chocolate Injections": "巧克力注射",
+        "Chocolate": "巧克力"
+      }
+    },
+    {
+      "source": [
+        "Increases Chocolate Factory",
+        "production by +{{N0}}x. Duplicate",
+        "Chocolate Rabbits that you find",
+        "grant +{{N1}}% Chocolate."
+      ],
+      "translation": "使巧克力工厂的产量提高 +{{N0}}倍.你找到的重复巧克力兔子会提供 +{{N1}}% 巧克力.",
+      "styleMappings": {
+        "Chocolate Factory": "巧克力工厂",
+        "Chocolate Rabbits": "巧克力兔子",
+        "Chocolate": "巧克力",
+        "{{N0}}x": "{{N0}}倍",
+        "Rabbits": "兔子",
+        "+{{N0}}x": "+{{N0}}倍"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "MYTHIC PET"
+      ],
+      "translation": "神话 宠物",
+      "styleMappings": {
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Rabbit": "兔子",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

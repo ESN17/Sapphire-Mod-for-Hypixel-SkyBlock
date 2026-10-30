@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "ENCHANTED_BOOK_BUNDLE_VICIOUS",
+  "_original_name": "Enchanted Book Bundle",
+  "_original_lore": [
+    "Vicious III",
+    "Grants +3 Ferocity.",
+    "",
+    "Right-click to open this bundle",
+    "containing 5 enchanted",
+    "books.",
+    "",
+    "* Soulbound *",
+    "UNCOMMON"
+  ],
+  "name": "附魔书捆",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Vicious III",
+        "Grants {{N0}} Ferocity."
+      ],
+      "translation": "凶暴 III 提供 {{N0}} 残暴值.",
+      "styleMappings": {
+        "Vicious III": "凶暴 III",
+        "Ferocity": "残暴值",
+        "Grants": "提供",
+        "III": "III"
+      }
+    },
+    {
+      "source": [
+        "Right-click to open this bundle"
+      ],
+      "translation": "右键点击打开此包裹",
+      "styleMappings": {
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "containing {{N0}} enchanted",
+        "books."
+      ],
+      "translation": "内含 {{N0}} 本附魔书.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

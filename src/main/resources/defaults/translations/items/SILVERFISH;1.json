@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "id": "SILVERFISH;1",
+  "_original_name": "[Lvl {LVL}] Silverfish",
+  "_original_lore": [
+    "Mining Pet",
+    "",
+    "Defense: +{DEFENSE}",
+    "Mining Fortune: +{MINING_FORTUNE}",
+    "",
+    "Magnetic",
+    "Earn +{0}% more Exp when mining.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "UNCOMMON PET"
+  ],
+  "name": "[等级 {LVL}] 蠹虫",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mining Pet"
+      ],
+      "translation": "采矿宠物",
+      "styleMappings": {
+        "Mining": "采矿",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Defense: +{{N0}}"
+      ],
+      "translation": "防御力: +{{N0}}",
+      "styleMappings": {
+        "Defense": "防御力"
+      }
+    },
+    {
+      "source": [
+        "Mining Fortune: +{{N0}}"
+      ],
+      "translation": "采矿幸运: +{{N0}}",
+      "styleMappings": {
+        "Mining Fortune": "采矿幸运",
+        "Mining": "采矿",
+        "Fortune": "幸运"
+      }
+    },
+    {
+      "source": [
+        "Magnetic"
+      ],
+      "translation": "磁力",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Earn +{{N0}}% more Exp when mining."
+      ],
+      "translation": "挖掘时获得 +{{N0}}% 更多经验.",
+      "styleMappings": {
+        "Exp": "经验",
+        "more": "更多",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON PET"
+      ],
+      "translation": "罕见 宠物",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Silverfish": "蠹虫",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

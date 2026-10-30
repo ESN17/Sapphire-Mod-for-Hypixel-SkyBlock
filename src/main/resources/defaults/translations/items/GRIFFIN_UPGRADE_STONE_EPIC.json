@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "GRIFFIN_UPGRADE_STONE_EPIC",
+  "_original_name": "Epic Griffin Upgrade Stone",
+  "_original_lore": [
+    "Use at Kat to upgrade Griffin Pets",
+    "from Rare to Epic.",
+    "",
+    "EPIC"
+  ],
+  "name": "史诗狮鹫升级石",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Use at Kat to upgrade Griffin Pets",
+        "from Rare to Epic."
+      ],
+      "translation": "在 Kat 处使用,将狮鹫宠物从稀有升级为史诗.",
+      "styleMappings": {
+        "Rare": "稀有",
+        "Epic": "史诗",
+        "Kat": "Kat",
+        "Pets": "宠物",
+        "upgrade": "升级",
+        "Griffin Pets": "狮鹫宠物",
+        "Griffin": "狮鹫"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Epic": "史诗",
+    "Griffin": "狮鹫"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

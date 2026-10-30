@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "STEW_THE_FISH",
+  "_original_name": "Stew the Fish",
+  "_original_lore": [
+    "The stew was expired.",
+    "",
+    "SPECIAL"
+  ],
+  "name": "炖鱼",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The stew was expired."
+      ],
+      "translation": "这锅炖菜已经过期了.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fish": "鱼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

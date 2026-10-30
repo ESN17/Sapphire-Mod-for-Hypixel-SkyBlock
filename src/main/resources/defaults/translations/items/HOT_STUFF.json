@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 1,
+  "id": "HOT_STUFF",
+  "_original_name": "Scorched Topaz",
+  "_original_lore": [
+    "Reforge Stone",
+    "Combinable in Anvil",
+    "",
+    "Applies the Heated reforge when",
+    "combined with a Mining Tool.",
+    "",
+    "Oooh, das hot!",
+    "",
+    "Grants the following stats that scale",
+    "with the item's rarity:",
+    "  Mining Speed",
+    "  Mining Fortune",
+    "",
+    "Heated Bonus",
+    "Grants +1 Mining Fortune and +4",
+    "Mining Speed per 1♨ Heat you have.",
+    "",
+    "Right-click to view rarity scaling!",
+    "",
+    "EPIC REFORGE STONE"
+  ],
+  "name": "焦灼黄玉",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Reforge Stone",
+        "Combinable in Anvil"
+      ],
+      "translation": "洗练石 可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Reforge Stone": "洗练石",
+        "Anvil": "铁砧",
+        "Reforge": "洗练"
+      }
+    },
+    {
+      "source": [
+        "Applies the Heated reforge when",
+        "combined with a Mining Tool."
+      ],
+      "translation": "与采矿工具结合时,赋予炽热洗练.",
+      "styleMappings": {
+        "Mining Tool": "采矿工具",
+        "reforge": "洗练",
+        "Heated": "炽热",
+        "Mining": "采矿",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Oooh, das hot!"
+      ],
+      "translation": "哦哦,好烫!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants the following stats that scale"
+      ],
+      "translation": "提供以下随物品稀有度提升的属性:",
+      "styleMappings": {
+        "Grants": "提供",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "with the item's rarity:"
+      ],
+      "translation": "物品稀有度提升的属性:",
+      "styleMappings": {
+        "item": "物品",
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "  Mining Speed",
+        "  Mining Fortune"
+      ],
+      "translation": "   采矿速度   采矿幸运",
+      "styleMappings": {
+        "Mining Fortune": "采矿幸运",
+        "Mining Speed": "采矿速度",
+        "Mining": "采矿",
+        "Fortune": "幸运",
+        "Speed": "速度",
+        " Mining Fortune": " 采矿幸运"
+      }
+    },
+    {
+      "source": [
+        "Heated Bonus",
+        "Grants {{N0}} Mining Fortune and {{N1}}",
+        "Mining Speed per {{N2}}♨ Heat you have."
+      ],
+      "translation": "炽热加成 每拥有 {{N2}}♨ 热量,获得 {{N0}} 采矿幸运和 {{N1}} 采矿速度.",
+      "styleMappings": {
+        "Mining Fortune": "采矿幸运",
+        "Heated Bonus": "炽热加成",
+        "Mining Speed": "采矿速度",
+        "Grants": "获得",
+        "Heat": "热量",
+        "Mining": "采矿",
+        "Bonus": "加成",
+        "Fortune": "幸运",
+        "Speed": "速度",
+        " Mining Fortune": " 采矿幸运",
+        "Heated": "炽热",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view rarity scaling!"
+      ],
+      "translation": "右键查看各稀有度的属性!",
+      "styleMappings": {
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "EPIC REFORGE STONE"
+      ],
+      "translation": "史诗洗练石",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Topaz": "黄玉"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

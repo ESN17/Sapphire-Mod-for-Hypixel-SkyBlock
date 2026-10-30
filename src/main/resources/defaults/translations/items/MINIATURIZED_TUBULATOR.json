@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "id": "MINIATURIZED_TUBULATOR",
+  "_original_name": "Miniaturized Tubulator",
+  "_original_lore": [
+    "Health: +1",
+    "",
+    "Don't hate the player, hate the game.",
+    "- Ice T",
+    "",
+    "* Soulbound *",
+    "X Rift-Transferable X",
+    "Works while in Accessory Bag!",
+    "UNCOMMON ACCESSORY"
+  ],
+  "name": "微型管道器",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Don't hate the player, hate the game."
+      ],
+      "translation": "别恨玩家,恨游戏.",
+      "styleMappings": {
+        "player": "玩家"
+      }
+    },
+    {
+      "source": [
+        "- Ice T"
+      ],
+      "translation": "- 冰茶",
+      "styleMappings": {
+        "Ice": "冰"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "X Rift-Transferable X",
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "X 裂隙可转移 X 放在饰品袋中时生效!",
+      "styleMappings": {
+        "Works while in Accessory Bag!": "放在饰品袋中时生效!",
+        "Rift-Transferable": "裂隙可转移",
+        "Accessory Bag": "饰品袋",
+        "Rift": "裂隙",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON ACCESSORY"
+      ],
+      "translation": "罕见 饰品",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

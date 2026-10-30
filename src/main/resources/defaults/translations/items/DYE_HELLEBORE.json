@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "DYE_HELLEBORE",
+  "_original_name": "Hellebore Dye",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Animates the color of an armor piece",
+    "between #E20F99 and #E3179D!",
+    "",
+    "MYTHIC DYE"
+  ],
+  "name": "铁筷子染料",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Animates the color of an armor piece",
+        "between #E{{N0}}F{{N1}} and #E{{N2}}D!"
+      ],
+      "translation": "使盔甲部件的颜色在 #E{{N0}}F{{N1}} 和 #E{{N2}}D 之间渐变!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "MYTHIC DYE"
+      ],
+      "translation": "神话染料",
+      "styleMappings": {
+        "MYTHIC DYE": "神话染料",
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

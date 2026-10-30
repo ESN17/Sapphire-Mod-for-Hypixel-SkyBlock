@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "id": "SYNTHESIZER_V2",
+  "_original_name": "Synthesizer v2",
+  "_original_lore": [
+    "Can synthesize X and Y items",
+    "increasing the stats of this",
+    "necklace.",
+    "",
+    "Current Bonuses:",
+    "0/30  Health",
+    "0/30  Defense",
+    "",
+    "Right-click to open!",
+    "",
+    "Right-click to equip!",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Combat Skill 22.",
+    "EPIC NECKLACE"
+  ],
+  "name": "合成器 v2",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Can synthesize X and Y items",
+        "increasing the stats of this",
+        "necklace."
+      ],
+      "translation": "可合成 X 和 字母歪 物品,提升此项链的属性.",
+      "styleMappings": {
+        "stats": "属性",
+        "items": "物品"
+      }
+    },
+    {
+      "source": [
+        "Current Bonuses:"
+      ],
+      "translation": "当前加成:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "{{N0}}/{{N1}}  Health",
+        "{{N2}}/{{N3}}  Defense"
+      ],
+      "translation": "{{N0}}/{{N1}}   生命值 {{N2}}/{{N3}}  防御",
+      "styleMappings": {
+        " Defense": " 防御",
+        "Health": "生命值",
+        "Defense": "防御",
+        " Health": " 生命"
+      }
+    },
+    {
+      "source": [
+        "Right-click to open!"
+      ],
+      "translation": "右键点击打开!",
+      "styleMappings": {
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "Right-click to equip!"
+      ],
+      "translation": "右键点击装备!",
+      "styleMappings": {
+        "Right-click to equip!": "右键点击装备!",
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC NECKLACE"
+      ],
+      "translation": "史诗项链",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Synthesizer": "合成器",
+    "v2": "v2"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

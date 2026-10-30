@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "PEST_BEETLE_MONSTER",
+  "_original_name": "Beetle (Pest)",
+  "_original_lore": [
+    "A particularly gross pest.",
+    "",
+    "Attracted to Dung.",
+    "",
+    "❤ Health: 600"
+  ],
+  "name": "甲虫 (害虫)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A particularly gross pest."
+      ],
+      "translation": "一种格外恶心的害虫.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Attracted to Dung."
+      ],
+      "translation": "会被粪便吸引.",
+      "styleMappings": {
+        "Dung": "粪便"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Pest": "害虫",
+    "Beetle": "甲虫"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

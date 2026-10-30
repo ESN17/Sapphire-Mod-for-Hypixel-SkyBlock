@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "PIG_SHOP_NPC",
+  "_original_name": "Pig Shop (NPC)",
+  "_original_lore": [
+    "Only appears during Year of the Pig event."
+  ],
+  "name": "猪商店 (人物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Only appears during Year of the Pig event."
+      ],
+      "translation": "仅在猪年活动期间出现.",
+      "styleMappings": {
+        "Year of the Pig": "猪年",
+        "Pig": "猪",
+        "Year": "年"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(NPC)": "(人物)",
+    "Pig": "猪"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

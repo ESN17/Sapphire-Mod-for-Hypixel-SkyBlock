@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "SPIDER_CATALYST",
+  "_original_name": "Spider Catalyst",
+  "_original_lore": [
+    "Drops rarely from Tarantula",
+    "Broodfather when you are at least",
+    "Spider Slayer LVL 2.",
+    "",
+    "Catalysts upgrade other items!",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "RARE"
+  ],
+  "name": "蜘蛛催化剂",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Drops rarely from Tarantula",
+        "Broodfather when you are at least",
+        "Spider Slayer LVL {{N0}}."
+      ],
+      "translation": "当你达到至少蜘蛛杀手 LVL {{N0}} 时,有较低概率从狼蛛育母掉落.",
+      "styleMappings": {
+        "Tarantula Broodfather": "狼蛛育母",
+        "Spider Slayer LVL": "蜘蛛杀手 LVL",
+        "Spider": "蜘蛛",
+        "Slayer": "杀手",
+        "Tarantula": "狼蛛",
+        "when": "时",
+        "Spider Slayer": "蜘蛛杀手"
+      }
+    },
+    {
+      "source": [
+        "Catalysts upgrade other items!"
+      ],
+      "translation": "催化剂可升级其他物品!",
+      "styleMappings": {
+        "Catalysts": "催化剂",
+        "upgrade": "升级",
+        "items": "物品"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Spider": "蜘蛛"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "sapphire",
+  "version": "${version}",
+  "name": "Sapphire",
+  "description": "一站式Hypixel SkyBlock中文汉化mod",
+  "authors": [
+    "ESN17_OwO"
+  ],
+  "contributors": [
+    "ESN17_OwO"
+  ],
+  "license": "CC0-1.0 AND GPL-3.0-only AND CC-BY-NC-SA-3.0",
+  "icon": "assets/sapphire/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.sorakoi.sbtranslate.Sapphire"
+    ]
+  },
+  "mixins": [
+    "sapphire.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.1.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

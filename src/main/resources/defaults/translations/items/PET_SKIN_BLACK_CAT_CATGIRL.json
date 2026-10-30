@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": "PET_SKIN_BLACK_CAT_CATGIRL",
+  "_original_name": "Catgirl Black Cat Skin",
+  "_original_lore": [
+    "Consumed on use",
+    "",
+    "Pet skins change the look and",
+    "particle trail of your pet but only",
+    "one skin can be active at a time!",
+    "",
+    "This skin can only be applied to",
+    "Black Cat pets.",
+    "",
+    "Features!",
+    "▶ This skin is swappable between 96",
+    "animated meowable variants.",
+    "▶ Keeps track of the total RARE",
+    "DROPS! found while wearing this skin.",
+    "",
+    "Right-click on your summoned pet to",
+    "apply this skin!",
+    "",
+    "ULTIMATE COSMETIC"
+  ],
+  "name": "猫娘黑猫皮肤",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumed on use"
+      ],
+      "translation": "使用后消耗",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Pet skins change the look and",
+        "particle trail of your pet but only",
+        "one skin can be active at a time!"
+      ],
+      "translation": "宠物皮肤会改变宠物的外观和粒子轨迹,但一次只能激活一个皮肤!",
+      "styleMappings": {
+        "pet": "宠物",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "This skin can only be applied to",
+        "Black Cat pets."
+      ],
+      "translation": "该皮肤只能应用于黑猫宠物.",
+      "styleMappings": {
+        "Black Cat": "黑猫"
+      }
+    },
+    {
+      "source": [
+        "Features!"
+      ],
+      "translation": "特色!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "▶ This skin is swappable between {{N0}}",
+        "animated meowable variants."
+      ],
+      "translation": "▶ 该皮肤可在 {{N0}} 种可喵喵叫的动画变体之间切换.",
+      "styleMappings": {
+        "meow": "喵喵叫"
+      }
+    },
+    {
+      "source": [
+        "▶ Keeps track of the total RARE",
+        "DROPS! found while wearing this skin."
+      ],
+      "translation": "▶ 记录佩戴该皮肤时发现的稀有掉落总数!",
+      "styleMappings": {
+        "RARE DROPS!": "稀有掉落",
+        "RARE": "稀有"
+      }
+    },
+    {
+      "source": [
+        "Right-click on your summoned pet to"
+      ],
+      "translation": "右键点击你召唤的宠物以",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "apply this skin!"
+      ],
+      "translation": "使用此皮肤!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "ULTIMATE COSMETIC"
+      ],
+      "translation": "终极外观",
+      "styleMappings": {}
+    }
+  ],
+  "styleMappings": {
+    "Black Cat": "黑猫"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

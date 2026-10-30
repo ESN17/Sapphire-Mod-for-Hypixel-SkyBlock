@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "BOB_OMB",
+  "_original_name": "Bob-omb",
+  "_original_lore": [
+    "Makes a huge explosion in the",
+    "Crystal Hollows and Glacite",
+    "Mineshafts, breaking nearby blocks",
+    "and dropping 50% of the items.",
+    "",
+    "RARE"
+  ],
+  "name": "炸弹兵",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Makes a huge explosion in the",
+        "Crystal Hollows and Glacite",
+        "Mineshafts, breaking nearby blocks",
+        "and dropping {{N0}} of the items."
+      ],
+      "translation": "在水晶洞窟和冰晶矿井中引发巨大爆炸,破坏附近的方块并掉落 {{N0}} 的物品.",
+      "styleMappings": {
+        "Glacite Mineshafts": "冰晶矿井",
+        "Crystal Hollows": "水晶洞窟",
+        "blocks": "方块",
+        "items": "物品",
+        "Crystal": "水晶",
+        "Mineshafts": "矿井",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "SKYBLOCK_DESERT_WHISPERS",
+  "_original_name": "Desert Whispers",
+  "_original_lore": [
+    "Used for NEU Recipes",
+    "",
+    "a SPECIAL a"
+  ],
+  "name": "沙漠低语",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Used for NEU Recipes"
+      ],
+      "translation": "用于物品百科配方",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "a SPECIAL a"
+      ],
+      "translation": "一个 特殊 一个",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Whispers": "低语",
+    "Desert": "沙漠"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

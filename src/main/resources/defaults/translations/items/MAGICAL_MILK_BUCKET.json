@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "MAGICAL_MILK_BUCKET",
+  "_original_name": "Magical Milk Bucket",
+  "_original_lore": [
+    "Obtained by using a bucket to milk",
+    "Shania the Cow in The Hub. Can be",
+    "drank to remove all potion effects",
+    "and never runs out of milk!",
+    "",
+    "Where do cows get their medicine? At",
+    "the farm-acy.",
+    "",
+    "COMMON"
+  ],
+  "name": "魔法奶桶",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Obtained by using a bucket to milk",
+        "Shania the Cow in The Hub. Can be",
+        "drank to remove all potion effects",
+        "and never runs out of milk!"
+      ],
+      "translation": "在中心岛用桶给奶牛 Shania 挤奶获得。饮用后可移除所有药水效果,且牛奶永不耗尽!",
+      "styleMappings": {
+        "Shania the Cow": "奶牛 Shania",
+        "potion effects": "药水效果",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "Where do cows get their medicine? At",
+        "the farm-acy."
+      ],
+      "translation": "奶牛去哪里拿药?去农场药房.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

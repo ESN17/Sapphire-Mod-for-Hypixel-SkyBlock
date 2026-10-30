@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "FIGHTING_BOOSTER",
+  "_original_name": "Common Fighting Booster",
+  "_original_lore": [
+    "Booster",
+    "Combinable in Anvil",
+    "",
+    "Applies the ४ Fighting booster when",
+    "combined with Foraging Armor,",
+    "Equipment, or Axes.",
+    "",
+    "Increases damage against Foraging",
+    "Island creatures.",
+    "",
+    "COMMON BOOSTER"
+  ],
+  "name": "普通战斗增益器",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Booster",
+        "Combinable in Anvil"
+      ],
+      "translation": "增益器可在铁砧中合成",
+      "styleMappings": {
+        "Booster Combinable in Anvil": "增益器可在铁砧中合成",
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Applies the ४ Fighting booster when",
+        "combined with Foraging Armor,",
+        "Equipment, or Axes."
+      ],
+      "translation": "与采伐盔甲、装备或斧头结合时,应用 ४ 战斗增益器.",
+      "styleMappings": {
+        "Foraging Armor": "采伐盔甲",
+        "४ Fighting": "४ 战斗",
+        "Equipment": "装备",
+        "Axes": "斧头",
+        "Armor": "盔甲",
+        "Foraging": "采伐",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Increases damage against Foraging",
+        "Island creatures."
+      ],
+      "translation": "增加对采伐岛生物的伤害.",
+      "styleMappings": {
+        "Foraging Island": "采伐岛",
+        "Increases": "增加",
+        "damage": "伤害",
+        "Foraging": "采伐"
+      }
+    },
+    {
+      "source": [
+        "COMMON BOOSTER"
+      ],
+      "translation": "普通增益器",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Common Fighting Booster": "普通战斗增益器",
+    "Common": "普通"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "PLHLEGBLAST_SC",
+  "_original_name": "Plhlegblast (Sea Creature)",
+  "_original_lore": [
+    "Mob Types: ♆ Magmatic, ❃ Elusive, ☮ Animal",
+    "❤ Health: 500,000,000",
+    "",
+    "MYTHIC"
+  ],
+  "name": "弗雷格布拉斯特 (海怪)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mob Types: ♆ Magmatic, ❃ Elusive, ☮ Animal"
+      ],
+      "translation": "生物类型:♆ 岩浆、❃ 难以捉摸、☮ 动物",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Magmatic": "岩浆",
+        "Elusive": "难以捉摸",
+        "Animal": "动物"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "MYTHIC"
+      ],
+      "translation": "神话",
+      "styleMappings": {
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sea Creature": "海怪",
+    "Plhlegblast": "弗雷格布拉斯特",
+    "(Sea Creature)": "(海怪)"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

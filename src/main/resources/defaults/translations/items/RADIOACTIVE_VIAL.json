@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "RADIOACTIVE_VIAL",
+  "_original_name": "Radioactive Vial",
+  "_original_lore": [
+    "Use at Kat to upgrade Flying Fish",
+    "Pets to Mythic rarity.",
+    "",
+    "MYTHIC"
+  ],
+  "name": "放射性药瓶",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Use at Kat to upgrade Flying Fish",
+        "Pets to Mythic rarity."
+      ],
+      "translation": "在 Kat 处使用,将飞鱼宠物升级至神话稀有度.",
+      "styleMappings": {
+        "Kat": "Kat",
+        "Flying Fish": "飞鱼",
+        "Pets": "宠物",
+        "Mythic": "神话",
+        "rarity": "稀有度",
+        "upgrade": "升级",
+        "Fish": "鱼"
+      }
+    },
+    {
+      "source": [
+        "MYTHIC"
+      ],
+      "translation": "神话",
+      "styleMappings": {
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Radioactive": "放射性"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

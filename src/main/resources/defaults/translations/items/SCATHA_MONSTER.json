@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "SCATHA_MONSTER",
+  "_original_name": "Scatha (Monster)",
+  "_original_lore": [
+    "Stoneworms can and will eat anything.",
+    "",
+    "Mob Types: ⛏ Subterranean, ⛨ Shielded, ❃ Elusive",
+    "❤ Health: 10"
+  ],
+  "name": "史卡沙 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Stoneworms can and will eat anything."
+      ],
+      "translation": "石虫什么都吃得下.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Mob Types: ⛏ Subterranean, ⛨ Shielded, ❃ Elusive"
+      ],
+      "translation": "怪物类型: ⛏ 地下, ⛨ 护盾, ❃ 闪避",
+      "styleMappings": {
+        "Subterranean": "地下",
+        "Shielded": "护盾",
+        "Elusive": "闪避",
+        "Mob Types": "怪物类型",
+        "Mob Types:": "怪物类型:"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Scatha": "史卡沙",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

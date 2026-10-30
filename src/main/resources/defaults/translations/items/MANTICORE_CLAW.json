@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "id": "MANTICORE_CLAW",
+  "_original_name": "Manticore Claw",
+  "_original_lore": [
+    "Strength: +20",
+    "Crit Damage: +10%",
+    "Attack Speed: +2.5%",
+    "Ferocity: +4",
+    "",
+    "Ability: Chimeric Core ",
+    "Copies 10% of your active pet's",
+    "Combat stats.",
+    "",
+    "Right-click to equip!",
+    "",
+    "This item can be reforged!",
+    "LEGENDARY GLOVES"
+  ],
+  "name": "蝎狮之爪",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: {{N0}}"
+      ],
+      "translation": "暴击伤害:{{N0}}",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Attack Speed: {{N0}}"
+      ],
+      "translation": "攻击速度: {{N0}}",
+      "styleMappings": {
+        "Attack Speed": "攻击速度",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Ferocity: {{N0}}"
+      ],
+      "translation": "残暴值: {{N0}}",
+      "styleMappings": {
+        "Ferocity": "残暴值"
+      }
+    },
+    {
+      "source": [
+        "Ability: Chimeric Core "
+      ],
+      "translation": "技能: 嵌合核心 ",
+      "styleMappings": {
+        "Ability": "技能",
+        "Chimeric Core": "嵌合核心"
+      }
+    },
+    {
+      "source": [
+        "Copies {{N0}} of your active pet's",
+        "Combat stats."
+      ],
+      "translation": "复制你当前宠物 {{N0}} 的战斗属性.",
+      "styleMappings": {
+        "Combat": "战斗",
+        "stats": "属性",
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Right-click to equip!"
+      ],
+      "translation": "右键点击装备!",
+      "styleMappings": {
+        "Right-click to equip!": "右键点击装备!",
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY GLOVES"
+      ],
+      "translation": "传说手套",
+      "styleMappings": {
+        "LEGENDARY": "传说",
+        "GLOVES": "手套"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

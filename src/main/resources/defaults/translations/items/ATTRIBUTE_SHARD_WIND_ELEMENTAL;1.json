@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "ATTRIBUTE_SHARD_WIND_ELEMENTAL;1",
+  "_original_name": "Aero Shard",
+  "_original_lore": [
+    "Wind Elemental I",
+    "Grants +1  Strength.",
+    "",
+    "You can Syphon this shard from",
+    "your Hunting Box.",
+    "",
+    "Right-click to send to Hunting Box!",
+    "Shift Right-click to move all!",
+    "",
+    "❣ Requires Hunting Skill 15.",
+    "EPIC COMBAT SHARD (ID E3)"
+  ],
+  "name": "风之碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Wind Elemental I"
+      ],
+      "translation": "风元素 I",
+      "styleMappings": {
+        "Wind Elemental I": "风元素 I",
+        "Elemental": "元素"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}  Strength."
+      ],
+      "translation": "提供 {{N0}}  力量.",
+      "styleMappings": {
+        " Strength": " 力量",
+        "Grants": "提供",
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "You can Syphon this shard from",
+        "your Hunting Box."
+      ],
+      "translation": "你可以从狩猎箱中吸取此碎片.",
+      "styleMappings": {
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to send to Hunting Box!"
+      ],
+      "translation": "右键点击发送至狩猎箱!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Shift Right-click to move all!"
+      ],
+      "translation": "潜行键 右键点击全部移动!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "all": "全部"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Hunting Skill {{N0}}."
+      ],
+      "translation": "❣ 需要狩猎技能 {{N0}}.",
+      "styleMappings": {
+        "Hunting Skill": "狩猎技能",
+        "Requires": "需要",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC COMBAT SHARD (ID E{{N0}})"
+      ],
+      "translation": "史诗战斗碎片 (ID 伊{{N0}})",
+      "styleMappings": {
+        "EPIC": "史诗",
+        "COMBAT SHARD": "战斗碎片"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Aero Shard": "风之碎片",
+    "Shard": "碎片"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

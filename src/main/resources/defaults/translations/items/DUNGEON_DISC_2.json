@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "DUNGEON_DISC_2",
+  "_original_name": "Clown Disc",
+  "_original_lore": [
+    "Place this inside a jukebox to play a",
+    "dungeon song!",
+    "",
+    "Superior Judgement",
+    "  By SirCatcelot",
+    "",
+    "EPIC"
+  ],
+  "name": "小丑唱片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Place this inside a jukebox to play a",
+        "dungeon song!"
+      ],
+      "translation": "将其放入唱片机以播放地牢歌曲!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Superior Judgement"
+      ],
+      "translation": "至高审判",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "  By SirCatcelot"
+      ],
+      "translation": "  作者：猫骑士",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

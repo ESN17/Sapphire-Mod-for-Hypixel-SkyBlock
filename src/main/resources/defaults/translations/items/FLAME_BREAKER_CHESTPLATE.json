@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "id": "FLAME_BREAKER_CHESTPLATE",
+  "_original_name": "Flamebreaker Chestplate",
+  "_original_lore": [
+    "Health: +70",
+    "Defense: +70",
+    "Mining Speed: +25",
+    "Mining Fortune: +15",
+    "Heat Resistance: +5",
+    "Gemstones: [] [] []",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Hard Stone Collection V.",
+    "EPIC CHESTPLATE"
+  ],
+  "name": "御火胸甲",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Mining Speed: {{N0}}"
+      ],
+      "translation": "采矿速度: {{N0}}",
+      "styleMappings": {
+        "Mining Speed": "采矿速度",
+        "Mining": "采矿",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Mining Fortune: {{N0}}"
+      ],
+      "translation": "采矿幸运: {{N0}}",
+      "styleMappings": {
+        "Mining Fortune": "采矿幸运",
+        "Mining": "采矿",
+        "Fortune": "幸运"
+      }
+    },
+    {
+      "source": [
+        "Heat Resistance: {{N0}}"
+      ],
+      "translation": "抗热性: {{N0}}",
+      "styleMappings": {
+        "Heat Resistance": "抗热性"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [] [] []"
+      ],
+      "translation": "宝石: [] [] []",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石",
+        "] [": "] ["
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Hard Stone Collection V."
+      ],
+      "translation": "❣ 需要硬化石头收藏 V.",
+      "styleMappings": {
+        "Hard Stone Collection V": "硬化石头收藏 V",
+        "Requires": "需要",
+        "Collection": "收藏",
+        "Hard Stone": "硬化石头"
+      }
+    },
+    {
+      "source": [
+        "EPIC CHESTPLATE"
+      ],
+      "translation": "史诗胸甲",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Chestplate": "胸甲"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

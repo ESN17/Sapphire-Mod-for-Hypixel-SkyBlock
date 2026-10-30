@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "FACTION_RABBIT_SUNSET",
+  "_original_name": "Sunset",
+  "_original_lore": [
+    "This is a Beach Faction Rabbit!",
+    "",
+    "Grants +0.02x Chocolate per second",
+    "to your Chocolate Factory.",
+    "",
+    "Right click to add to your Factory!",
+    "",
+    "LEGENDARY RABBIT"
+  ],
+  "name": "日落",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "This is a Beach Faction Rabbit!"
+      ],
+      "translation": "这是一只海滩阵营兔子!",
+      "styleMappings": {
+        "Rabbit": "兔子"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}x Chocolate per second",
+        "to your Chocolate Factory."
+      ],
+      "translation": "每秒为你的巧克力工厂提供 {{N0}} 倍巧克力.",
+      "styleMappings": {
+        "Chocolate Factory": "巧克力工厂",
+        "per second": "每秒",
+        "Chocolate": "巧克力",
+        "Grants": "提供",
+        "{{N0}}x": "{{N0}} 倍",
+        "second": "秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Right click to add to your Factory!"
+      ],
+      "translation": "右键点击添加到你的工厂!",
+      "styleMappings": {
+        "Right click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY RABBIT"
+      ],
+      "translation": "传说兔子",
+      "styleMappings": {
+        "LEGENDARY RABBIT": "传说兔子",
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sunset": "日落"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

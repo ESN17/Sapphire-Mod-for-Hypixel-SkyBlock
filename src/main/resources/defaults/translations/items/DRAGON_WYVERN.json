@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "id": "DRAGON_WYVERN",
+  "_original_name": "Wyvern Dragon Helmet Skin",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Item skins give your gear a fresh",
+    "new look! Apply them just like an",
+    "enchant book using the anvil.",
+    "",
+    "This skin can be applied to any type",
+    "of Dragon Helmet.",
+    "",
+    "This skin is swappable between 21",
+    "flying Wyvern variants!",
+    "",
+    "LEGENDARY COSMETIC"
+  ],
+  "name": "双足飞龙头盔皮肤",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Item skins give your gear a fresh",
+        "new look! Apply them just like an",
+        "enchant book using the anvil."
+      ],
+      "translation": "物品皮肤能让你的装备焕然一新!像附魔书一样在铁砧上使用即可.",
+      "styleMappings": {
+        "fresh new look": "焕然一新",
+        "enchant book": "附魔书",
+        "Item skins": "物品皮肤",
+        "anvil": "铁砧",
+        "Item": "物品"
+      }
+    },
+    {
+      "source": [
+        "This skin can be applied to any type",
+        "of Dragon Helmet."
+      ],
+      "translation": "该皮肤可应用于任何类型的龙头盔.",
+      "styleMappings": {
+        "Dragon Helmet": "龙头盔",
+        "Dragon": "龙",
+        "Helmet": "头盔",
+        "This skin can be applied to": "该皮肤可应用于"
+      }
+    },
+    {
+      "source": [
+        "This skin is swappable between {{N0}}",
+        "flying Wyvern variants!"
+      ],
+      "translation": "该皮肤可在 {{N0}} 种飞行双足飞龙变体之间切换!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "LEGENDARY COSMETIC"
+      ],
+      "translation": "传说外观",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Dragon Helmet": "龙头盔",
+    "Dragon": "龙",
+    "Helmet": "头盔"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

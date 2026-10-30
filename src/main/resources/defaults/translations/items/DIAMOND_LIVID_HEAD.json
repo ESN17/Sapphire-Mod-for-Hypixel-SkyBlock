@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "id": "DIAMOND_LIVID_HEAD",
+  "_original_name": "Diamond Livid Head",
+  "_original_lore": [
+    "Gear Score: 310",
+    "Health: +160",
+    "Defense: +60",
+    "Strength: +30",
+    "",
+    "Obtained from killing Livid in The",
+    "Catacombs lots of times. Grants 2x",
+    "stats on The Catacombs Floor V.",
+    "",
+    "Strongly believes he will become the",
+    "Lord one day. Subject of mockeries,",
+    "even from his disciples.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Livid Collection 7.",
+    "* Co-op Soulbound *",
+    "SPECIAL DUNGEON HELMET"
+  ],
+  "name": "钻石愤怒头颅",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Obtained from killing Livid in The",
+        "Catacombs lots of times. Grants {{N0}}x",
+        "stats on The Catacombs Floor V."
+      ],
+      "translation": "多次在地牢中击杀利维德获得.在地牢第五层提供 {{N0}}倍属性.",
+      "styleMappings": {
+        "The Catacombs Floor V": "地牢第五层",
+        "The Catacombs": "地牢",
+        "Livid": "利维德",
+        "stats": "属性",
+        "{{N0}}x": "{{N0}}倍",
+        "Catacombs": "地牢"
+      }
+    },
+    {
+      "source": [
+        "Strongly believes he will become the",
+        "Lord one day. Subject of mockeries,",
+        "even from his disciples."
+      ],
+      "translation": "坚信自己终有一天会成为领主.沦为笑柄,连他的门徒都嘲笑他.",
+      "styleMappings": {
+        "day": "天"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Livid Collection {{N0}}."
+      ],
+      "translation": "❣ 需要利维德收藏 {{N0}}.",
+      "styleMappings": {
+        "Requires Livid Collection": "需要利维德收藏",
+        "Requires": "需要",
+        "Collection": "收藏",
+        "Livid": "利维德"
+      }
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL DUNGEON HELMET"
+      ],
+      "translation": "特殊地牢头盔",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Livid": "愤怒"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

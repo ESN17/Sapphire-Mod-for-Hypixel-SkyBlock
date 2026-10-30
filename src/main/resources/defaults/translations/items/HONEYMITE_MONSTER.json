@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "HONEYMITE_MONSTER",
+  "_original_name": "Honeymite (Monster)",
+  "_original_lore": [
+    "Mob Types:  Woodland,   Arthropod",
+    "",
+    "Loves honey, the bees are just",
+    "collateral.",
+    "",
+    "❤ Health: 20,000",
+    "",
+    "Found when lathering Fig Trees."
+  ],
+  "name": "蜜螨 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mob Types:  Woodland,   Arthropod"
+      ],
+      "translation": "怪物类型:   林地,   节肢动物",
+      "styleMappings": {
+        "Woodland": "林地",
+        "Arthropod": "节肢动物",
+        "Mob Types": "怪物类型",
+        "Mob Types:": "怪物类型:",
+        " Woodland": " 林地"
+      }
+    },
+    {
+      "source": [
+        "Loves honey, the bees are just",
+        "collateral."
+      ],
+      "translation": "热爱蜂蜜,蜜蜂只是附带伤害.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Found when lathering Fig Trees."
+      ],
+      "translation": "在给无花果树涂抹时发现.",
+      "styleMappings": {
+        "Fig Trees": "无花果树",
+        "Trees": "树",
+        "when": "时"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

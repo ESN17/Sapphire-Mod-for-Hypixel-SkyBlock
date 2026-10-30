@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "id": "SPOOKY_PIE",
+  "_original_name": "Spooky Pie (Year 69)",
+  "_original_lore": [
+    "Obtained during the 69",
+    "Spooky Festival during",
+    "SkyBlock Year 69.",
+    "",
+    "Player: IRONM00N",
+    "Position: #4,200",
+    "Candy Score: 420",
+    "",
+    "* Co-op Soulbound *",
+    "SPECIAL"
+  ],
+  "name": "幽灵派 (第 69 年)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Obtained during the {{N0}}",
+        "Spooky Festival during",
+        "SkyBlock Year {{N1}}."
+      ],
+      "translation": "在空岛生存第 {{N1}} 年的 {{N0}} 万圣节活动期间获得.",
+      "styleMappings": {
+        "Spooky Festival": "万圣节活动",
+        "SkyBlock Year": "空岛生存第",
+        "Spooky": "万圣节",
+        "Year": "年"
+      }
+    },
+    {
+      "source": [
+        "Player: IRONM{{N0}}N"
+      ],
+      "translation": "玩家: 铁人{{N0}}号",
+      "styleMappings": {
+        "Player": "玩家"
+      }
+    },
+    {
+      "source": [
+        "Position: #{{N0}}"
+      ],
+      "translation": "排名: #{{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Candy Score: {{N0}}"
+      ],
+      "translation": "糖果分数: {{N0}}",
+      "styleMappings": {
+        "Candy": "糖果"
+      }
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Spooky": "幽灵",
+    "Year": "年"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "ICHTHYIC_GLOVES",
+  "_original_name": "Ichthyic Gloves",
+  "_original_lore": [
+    "Health: +8",
+    "Fishing Speed: +6",
+    "",
+    "Right-click to equip!",
+    "",
+    "This item can be reforged!",
+    "RARE GLOVES"
+  ],
+  "name": "鱼形手套",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Fishing Speed: {{N0}}"
+      ],
+      "translation": "钓鱼速度: {{N0}}",
+      "styleMappings": {
+        "Fishing Speed": "钓鱼速度",
+        "Fishing": "钓鱼",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Right-click to equip!"
+      ],
+      "translation": "右键点击装备!",
+      "styleMappings": {
+        "Right-click to equip!": "右键点击装备!",
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "RARE GLOVES"
+      ],
+      "translation": "稀有 手套",
+      "styleMappings": {
+        "GLOVES": "手套",
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Gloves": "手套"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

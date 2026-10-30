@@ -1,0 +1,2776 @@
+{
+  "schemaVersion": 1,
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ambered Bonus"
+      ],
+      "translation": "琥珀 加成",
+      "styleMappings": {
+        "Ambered": "琥珀",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Find Goblins from mining {{N0}} more",
+        "often."
+      ],
+      "translation": "采矿时发现哥布林的概率提高 {{N0}}.",
+      "styleMappings": {
+        "Goblins": "哥布林"
+      }
+    },
+    {
+      "source": [
+        "Beady Bonus"
+      ],
+      "translation": "珠光 加成",
+      "styleMappings": {
+        "Beady": "珠光",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Farming Fortune",
+        "towards {icon1} Pests."
+      ],
+      "translation": "对 {icon1} 害虫提供 {{N0}} 农业时运.",
+      "styleMappings": {
+        "Farming Fortune": "农业时运",
+        "{icon1} Pests": "{icon1} 害虫",
+        "Grants": "提供",
+        "Pests": "害虫"
+      }
+    },
+    {
+      "source": [
+        "Blazing Bonus"
+      ],
+      "translation": "炽燃 加成",
+      "styleMappings": {
+        "Blazing": "炽燃",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "For every {{N0}}♨ Heat, you are {{N1}}",
+        "more likely to find Worms."
+      ],
+      "translation": "每拥有 {{N0}}♨ 热量,发现蠕虫的概率提高 {{N1}}.",
+      "styleMappings": {
+        "Worms": "蠕虫",
+        "Heat": "热量"
+      }
+    },
+    {
+      "source": [
+        "Blessed Bonus"
+      ],
+      "translation": "祝福 加成",
+      "styleMappings": {
+        "Blessed": "祝福",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "You have a {{N0}} chance to find",
+        "enchanted forms of items when",
+        "harvesting Crops."
+      ],
+      "translation": "收获作物时,有 {{N0}} 概率获得附魔形态的产物.",
+      "styleMappings": {
+        "Crops": "作物"
+      }
+    },
+    {
+      "source": [
+        "Thorny Bonus"
+      ],
+      "translation": "荆棘 加成",
+      "styleMappings": {
+        "Thorny": "荆棘",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Grants an additional {{N0}}",
+        "Overbloom per tier of Thorns on all",
+        "of your armor pieces."
+      ],
+      "translation": "所有盔甲上的荆棘附魔每提高一级,额外提供 {{N0}} 稀有作物概率加成.",
+      "styleMappings": {
+        "additional": "额外",
+        "Overbloom": "稀有作物概率加成",
+        "Grants": "提供",
+        "Thorns": "荆棘"
+      }
+    },
+    {
+      "source": [
+        "Calcified Bonus"
+      ],
+      "translation": "钙化 加成",
+      "styleMappings": {
+        "Calcified": "钙化",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Defense towards Sea",
+        "Creatures."
+      ],
+      "translation": "面对海怪时提供 {{N0}} 防御.",
+      "styleMappings": {
+        "Sea Creatures": "海怪",
+        " Defense": " 防御",
+        "Grants": "提供",
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Candied Bonus"
+      ],
+      "translation": "糖衣 加成",
+      "styleMappings": {
+        "Candied": "糖衣",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Mobs are {{N0}} more likely to drop",
+        "candy during the Spooky Festival."
+      ],
+      "translation": "万圣节活动期间,生物掉落糖果的概率提高 {{N0}}.",
+      "styleMappings": {
+        "Spooky Festival": "万圣节活动"
+      }
+    },
+    {
+      "source": [
+        "Buzzing Bonus"
+      ],
+      "translation": "嗡鸣 加成",
+      "styleMappings": {
+        "Buzzing": "嗡鸣",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "This item deals x{{N0}} Damage towards",
+        "{icon1} Pests."
+      ],
+      "translation": "此物品对 {icon1} 害虫造成 x{{N0}} 伤害.",
+      "styleMappings": {
+        " Damage": " 伤害",
+        "{icon1} Pests": "{icon1} 害虫",
+        "item": "物品",
+        "Damage": "伤害",
+        "Pests": "害虫"
+      }
+    },
+    {
+      "source": [
+        "Erudite Bonus"
+      ],
+      "translation": "博学 加成",
+      "styleMappings": {
+        "Erudite": "博学",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Griffin Burrow chains always consist",
+        "of {{N0}} additional burrows."
+      ],
+      "translation": "狮鹫地穴链始终额外包含 {{N0}} 个地穴.",
+      "styleMappings": {
+        "additional": "额外"
+      }
+    },
+    {
+      "source": [
+        "Perfect Bonus"
+      ],
+      "translation": "完美 加成",
+      "styleMappings": {
+        "Perfect": "完美",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} {icon0} Defense."
+      ],
+      "translation": "提供 {{N0}} {icon0} 防御.",
+      "styleMappings": {
+        "{icon0} Defense": "{icon0} 防御",
+        "Grants": "提供",
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Fleet Bonus"
+      ],
+      "translation": "疾行 加成",
+      "styleMappings": {
+        "Fleet": "疾行",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} {icon0} Mining Spread",
+        "towards Blocks."
+      ],
+      "translation": "挖掘方块时提供 {{N0}} {icon0} 采矿扩散.",
+      "styleMappings": {
+        "Mining Spread": "采矿扩散",
+        "Blocks": "方块",
+        "Grants": "提供"
+      }
+    },
+    {
+      "source": [
+        "Fabled Bonus"
+      ],
+      "translation": "传奇 加成",
+      "styleMappings": {
+        "Fabled": "传奇",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "{icon0} Crits have a chance to deal up to",
+        "{{N0}} more {icon1} Damage."
+      ],
+      "translation": "{icon0} 暴击有概率造成至多 {{N0}} 额外 {icon1} 伤害.",
+      "styleMappings": {
+        "{icon1} Damage": "{icon1} 伤害",
+        "Crits": "暴击",
+        "deal": "造成",
+        "more": "额外",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Renowned Bonus"
+      ],
+      "translation": "盛名 加成",
+      "styleMappings": {
+        "Renowned": "盛名",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} {icon0} Magic Find and {{N1}} to",
+        "ALL Combat Stats."
+      ],
+      "translation": "提供 {{N0}} {icon0} 稀有物品概率加成,并使所有战斗属性提高 {{N1}}.",
+      "styleMappings": {
+        "Combat Stats": "战斗属性",
+        "{icon0} Magic Find": "{icon0} 稀有物品概率加成",
+        "Grants": "提供",
+        "ALL": "所有",
+        "Magic Find": "稀有物品概率加成"
+      }
+    },
+    {
+      "source": [
+        "Royal Bonus"
+      ],
+      "translation": "皇家 加成",
+      "styleMappings": {
+        "Royal": "皇家",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Earn {{N0}} ᠅ Mithril Powder from",
+        "Mining Events in the Dwarven Mines."
+      ],
+      "translation": "矮人矿洞采矿事件中的 ᠅ 秘银粉末收益提高 {{N0}}.",
+      "styleMappings": {
+        "Mithril Powder": "秘银粉末",
+        "Dwarven Mines": "矮人矿洞",
+        "Mining Events": "采矿事件"
+      }
+    },
+    {
+      "source": [
+        "Hyper Bonus"
+      ],
+      "translation": "超能 加成",
+      "styleMappings": {
+        "Hyper": "超能",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Speed for {{N1}}s after",
+        "using a Transmission ability."
+      ],
+      "translation": "使用传送技能后获得 {{N0}} 速度,持续 {{N1}}s.",
+      "styleMappings": {
+        "ability": "技能",
+        " Speed": " 速度",
+        "Grants": "获得",
+        "for": "持续",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Coldfused Bonus"
+      ],
+      "translation": "冷聚变 加成",
+      "styleMappings": {
+        "Coldfused": "冷聚变",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "While a Wisp Pet is active:"
+      ],
+      "translation": "当 Wisp 宠物激活时:",
+      "styleMappings": {
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "{{N0}} Strength",
+        "{{N1}} Crit Damage"
+      ],
+      "translation": "{{N0}} 力量 {{N1}} 暴击伤害",
+      "styleMappings": {
+        " Crit Damage": " 暴击伤害",
+        " Strength ": " 力量 ",
+        "Damage": "伤害",
+        "Strength": "力量",
+        "Crit Damage": "暴击伤害"
+      }
+    },
+    {
+      "source": [
+        "Deal {{N0}} Damage to Fire Pillars. Breaking one",
+        "grants {{N1}} True Defense and {{N2}} ",
+        "Damage for {{N3}}s."
+      ],
+      "translation": "对火柱造成 {{N0}} 伤害.击碎一根火柱可获得 {{N1}} 真实防御和 {{N2}}  伤害,持续 {{N3}}s.",
+      "styleMappings": {
+        "True Defense": "真实防御",
+        " Damage": " 伤害",
+        "s": "一",
+        "Damage": "伤害",
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Sticky Bonus"
+      ],
+      "translation": "黏性 加成",
+      "styleMappings": {
+        "Sticky": "黏性",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Hunting Fortune",
+        "towards Water Shards."
+      ],
+      "translation": "捕获水属性碎片时提供 {{N0}} 狩猎时运.",
+      "styleMappings": {
+        "Hunting Fortune": "狩猎时运",
+        "Grants": "提供"
+      }
+    },
+    {
+      "source": [
+        "Glacial Bonus"
+      ],
+      "translation": "冰川 加成",
+      "styleMappings": {
+        "Glacial": "冰川",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Mining Fortune for",
+        "every {{N1}}❄ Cold you have."
+      ],
+      "translation": "每拥有 {{N1}}❄ 寒冷,提供 {{N0}} 挖掘时运.",
+      "styleMappings": {
+        "Mining Fortune": "挖掘时运",
+        "Grants": "提供",
+        "Cold": "寒冷"
+      }
+    },
+    {
+      "source": [
+        "Fanged Bonus"
+      ],
+      "translation": "獠牙 加成",
+      "styleMappings": {
+        "Fanged": "獠牙",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Every {{N0}}th melee hit on a mob deals",
+        "{{N1}} {icon0} Damage."
+      ],
+      "translation": "每第 {{N0}} 次近战命中生物时,造成 {{N1}} {icon0} 伤害.",
+      "styleMappings": {
+        "{icon0} Damage": "{icon0} 伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Geometric Bonus"
+      ],
+      "translation": "几何 加成",
+      "styleMappings": {
+        "Geometric": "几何",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Gain a {{N0}} chance to catch a bonus",
+        "Trophy while fishing in a Wormhole."
+      ],
+      "translation": "在虫洞中钓鱼时,有 {{N0}} 概率额外钓到奖杯鱼.",
+      "styleMappings": {
+        "chance to": "概率",
+        "Wormhole": "虫洞",
+        "fishing": "钓鱼",
+        "Trophy": "奖杯"
+      }
+    },
+    {
+      "source": [
+        "Lustrous Bonus"
+      ],
+      "translation": "辉耀 加成",
+      "styleMappings": {
+        "Lustrous": "辉耀",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Mining Spread while",
+        "Mayor Cole's Mining Fiesta perk is",
+        "active."
+      ],
+      "translation": "Cole 市长的采矿狂欢生效期间,提供 {{N0}} 采矿扩散.",
+      "styleMappings": {
+        "Mining Fiesta": "采矿狂欢",
+        "Mining Spread": "采矿扩散",
+        "Mayor Cole's": "Cole 市长的",
+        "Grants": "提供"
+      }
+    },
+    {
+      "source": [
+        "Bountiful Bonus"
+      ],
+      "translation": "丰饶 加成",
+      "styleMappings": {
+        "Bountiful": "丰饶",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Earn {{N0}} Coins every time you",
+        "harvest a Crop."
+      ],
+      "translation": "每次收获作物时获得 {{N0}} 硬币.",
+      "styleMappings": {
+        "Coins": "硬币",
+        "Crop": "作物"
+      }
+    },
+    {
+      "source": [
+        "Stiff Bonus"
+      ],
+      "translation": "硬挺 加成",
+      "styleMappings": {
+        "Stiff": "硬挺",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Sea Creatures killed with this Fishing",
+        "Rod drop {{N0}} Chum."
+      ],
+      "translation": "使用此钓鱼竿击杀的海怪掉落 {{N0}} 鱼浆.",
+      "styleMappings": {
+        "Sea Creatures": "海怪",
+        "Fishing Rod": "钓鱼竿",
+        "Chum": "鱼浆"
+      }
+    },
+    {
+      "source": [
+        "Deep Fried Bonus"
+      ],
+      "translation": "酥炸 加成",
+      "styleMappings": {
+        "Deep Fried": "酥炸",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Find Seasonings {{N0}} more often",
+        "during the Feast."
+      ],
+      "translation": "盛宴期间发现调味料的概率提高 {{N0}}.",
+      "styleMappings": {
+        "Feast": "盛宴"
+      }
+    },
+    {
+      "source": [
+        "Heated Bonus"
+      ],
+      "translation": "灼热 加成",
+      "styleMappings": {
+        "Heated": "灼热",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Mining Fortune and {{N1}}",
+        "Mining Speed per {{N2}}♨ Heat you have."
+      ],
+      "translation": "每拥有 {{N2}}♨ 热量,提供 {{N0}} 挖掘时运和 {{N1}} 挖掘速度.",
+      "styleMappings": {
+        "Mining Fortune": "挖掘时运",
+        "Mining Speed": "挖掘速度",
+        "Grants": "提供",
+        "Heat": "热量",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Chomp Bonus"
+      ],
+      "translation": "噬咬 加成",
+      "styleMappings": {
+        "Chomp": "噬咬",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Each unique Lava Sea Creature",
+        "killed with this rod in your inventory",
+        "reduces their {icon0} Health when fished",
+        "by {{N0}}."
+      ],
+      "translation": "将此竿放在物品栏中时,每击杀一种不同的熔岩海怪,以后钓出该海怪时其 {icon0} 生命值降低 {{N0}}.",
+      "styleMappings": {
+        "Lava Sea Creature": "熔岩海怪",
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Capped at {{N0}} health."
+      ],
+      "translation": "上限为 {{N0}} 生命值.",
+      "styleMappings": {
+        "health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Current Reduction: {{N0}} ❤"
+      ],
+      "translation": "当前减免: {{N0}} ❤",
+      "styleMappings": {
+        "Current Reduction": "当前减免"
+      }
+    },
+    {
+      "source": [
+        "Magnetic Bonus"
+      ],
+      "translation": "磁力 加成",
+      "styleMappings": {
+        "Magnetic": "磁力",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Earn {{N0}} more Exp when mining."
+      ],
+      "translation": "采矿时的经验收益提高 {{N0}}.",
+      "styleMappings": {
+        "Exp": "经验"
+      }
+    },
+    {
+      "source": [
+        "Earthy Bonus"
+      ],
+      "translation": "沃土 加成",
+      "styleMappings": {
+        "Earthy": "沃土",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Earn {{N0}} Sowdust from farming."
+      ],
+      "translation": "耕作时获得 {{N0}} 播种粉尘.",
+      "styleMappings": {
+        "Sowdust": "播种粉尘"
+      }
+    },
+    {
+      "source": [
+        "Mantid Bonus"
+      ],
+      "translation": "螳螂 加成",
+      "styleMappings": {
+        "Mantid": "螳螂",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Bonus Pest Chance",
+        "per {icon1} Pest killed for {{N1}} minutes."
+      ],
+      "translation": "每击杀一只 {icon1} 害虫,获得 {{N0}} 额外害虫概率,持续 {{N1}} 分钟.",
+      "styleMappings": {
+        "Bonus Pest Chance": "额外害虫概率",
+        "minutes": "分钟",
+        "Grants": "获得",
+        "Pest": "害虫"
+      }
+    },
+    {
+      "source": [
+        "Caps at {{N0}} Bonus Pest Chance."
+      ],
+      "translation": "上限为 {{N0}} 额外害虫概率.",
+      "styleMappings": {
+        "Bonus Pest Chance": "额外害虫概率"
+      }
+    },
+    {
+      "source": [
+        "Marshy Bonus"
+      ],
+      "translation": "沼泽 加成",
+      "styleMappings": {
+        "Marshy": "沼泽",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Earn {{N0}} Forest Whispers from",
+        "foraging."
+      ],
+      "translation": "采伐时获得 {{N0}} 森林低语.",
+      "styleMappings": {
+        "Forest Whispers": "森林低语"
+      }
+    },
+    {
+      "source": [
+        "Byron's Compassion (Gilded)"
+      ],
+      "translation": "Byron 的怜悯 (鎏金)",
+      "styleMappings": {
+        "Byron's Compassion": "Byron 的怜悯",
+        "Gilded": "鎏金"
+      }
+    },
+    {
+      "source": [
+        "Killing a mob has a rare chance to",
+        "grant Coins to a nearby player."
+      ],
+      "translation": "击杀生物时,有小概率赠送硬币给附近的一名玩家.",
+      "styleMappings": {
+        "Coins": "硬币",
+        "chance to": "概率",
+        "player": "玩家"
+      }
+    },
+    {
+      "source": [
+        "Cubic Bonus"
+      ],
+      "translation": "方晶 加成",
+      "styleMappings": {
+        "Cubic": "方晶",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Take {{N0}} {icon0} Damage from {icon1} Infernal",
+        "mobs."
+      ],
+      "translation": "受到来自 {icon1} 炼狱生物的 {{N0}} {icon0} 伤害.",
+      "styleMappings": {
+        "Infernal": "炼狱",
+        "{icon0} Damage": "{icon0} 伤害",
+        "mobs": "生物",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Majestic Bonus"
+      ],
+      "translation": "威仪 加成",
+      "styleMappings": {
+        "Majestic": "威仪",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Speed while in the {icon1}",
+        "Critter Safari."
+      ],
+      "translation": "在 {icon1} 小动物狩猎区内提供 {{N0}} 速度.",
+      "styleMappings": {
+        "Critter Safari": "小动物狩猎区",
+        " Speed": " 速度",
+        "Speed": "速度",
+        "Grants": "提供"
+      }
+    },
+    {
+      "source": [
+        "Fruitful Bonus"
+      ],
+      "translation": "硕果 加成",
+      "styleMappings": {
+        "Fruitful": "硕果",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Defense while on Mining",
+        "Islands."
+      ],
+      "translation": "在采矿岛屿上提供 {{N0}} 防御.",
+      "styleMappings": {
+        "Mining Islands": "采矿岛屿",
+        " Defense": " 防御",
+        "Grants": "提供",
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Precise Bonus"
+      ],
+      "translation": "精准 加成",
+      "styleMappings": {
+        "Precise": "精准",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Deal {{N0}} {icon0} Damage when hitting a",
+        "mob's head."
+      ],
+      "translation": "命中生物头部时造成 {{N0}} {icon0} 伤害.",
+      "styleMappings": {
+        "{icon0} Damage": "{icon0} 伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Trashy Bonus"
+      ],
+      "translation": "破烂 加成",
+      "styleMappings": {
+        "Trashy": "破烂",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Treasure Chance while",
+        "in the {icon1} Backwater Bayou."
+      ],
+      "translation": "在 {icon1} 死水沼泽内提供 {{N0}} 宝藏概率.",
+      "styleMappings": {
+        "Backwater Bayou": "死水沼泽",
+        "Treasure Chance": "宝藏概率",
+        "Grants": "提供"
+      }
+    },
+    {
+      "source": [
+        "Stellar Bonus"
+      ],
+      "translation": "星辰 加成",
+      "styleMappings": {
+        "Stellar": "星辰",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Earn {{N0}} ᠅ Mithril Powder and",
+        "{{N1}} Mining Fortune when mining",
+        "near {icon1} Fallen Stars."
+      ],
+      "translation": "在 {icon1} 坠落之星附近采矿时,获得 {{N0}} ᠅ 秘银粉末和 {{N1}} 挖掘时运.",
+      "styleMappings": {
+        "Mining Fortune": "挖掘时运",
+        "Mithril Powder": "秘银粉末",
+        "Fallen Stars": "坠落之星"
+      }
+    },
+    {
+      "source": [
+        "Scraped Bonus"
+      ],
+      "translation": "刮痕 加成",
+      "styleMappings": {
+        "Scraped": "刮痕",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "If the block you are mining has the",
+        "same {icon0} Breaking Power as this item,",
+        "{{N0}} Mining Fortune."
+      ],
+      "translation": "若正在挖掘的方块与此物品的 {icon0} 破坏力相同,获得 {{N0}} 挖掘时运.",
+      "styleMappings": {
+        "Breaking Power": "破坏力",
+        "Mining Fortune": "挖掘时运",
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Ancient Bonus"
+      ],
+      "translation": "远古 加成",
+      "styleMappings": {
+        "Ancient": "远古",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Crit Damage per",
+        "Catacombs skill level you have."
+      ],
+      "translation": "每级地牢技能等级提供 {{N0}} 暴击伤害.",
+      "styleMappings": {
+        " Crit Damage": " 暴击伤害",
+        "Catacombs": "地牢",
+        "Grants": "提供",
+        "Damage": "伤害",
+        "Crit Damage": "暴击伤害"
+      }
+    },
+    {
+      "source": [
+        "Undead Bonus"
+      ],
+      "translation": "亡灵 加成",
+      "styleMappings": {
+        "Undead": "亡灵",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Take {{N0}} {icon0} Damage from {icon1} Undead",
+        "mobs."
+      ],
+      "translation": "受到来自 {icon1} 亡灵生物的 {{N0}} {icon0} 伤害.",
+      "styleMappings": {
+        "{icon0} Damage": "{icon0} 伤害",
+        "Undead": "亡灵",
+        "mobs": "生物",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Blood-Soaked Bonus"
+      ],
+      "translation": "浴血 加成",
+      "styleMappings": {
+        "Blood-Soaked": "浴血",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Adds {{N0}} Level to your Life Steal,",
+        "Drain, and Vampirism enchantments."
+      ],
+      "translation": "生命窃取、汲取和吸血附魔的等级提高 {{N0}} 级.",
+      "styleMappings": {
+        "Life Steal": "生命窃取",
+        "Vampirism": "吸血",
+        "Drain": "汲取",
+        "Level": "级"
+      }
+    },
+    {
+      "source": [
+        "Mithraic Bonus"
+      ],
+      "translation": "秘银 加成",
+      "styleMappings": {
+        "Mithraic": "秘银",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Mining Fortune towards",
+        "Mithril and Titanium."
+      ],
+      "translation": "挖掘秘银和钛时提供 {{N0}} 挖掘时运.",
+      "styleMappings": {
+        "Mining Fortune": "挖掘时运",
+        "Mithril": "秘银",
+        "Grants": "提供"
+      }
+    },
+    {
+      "source": [
+        "Ridiculous Bonus"
+      ],
+      "translation": "荒诞 加成",
+      "styleMappings": {
+        "Ridiculous": "荒诞",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "SNEAK: Fart, granting {{N0}} Defense"
+      ],
+      "translation": "潜行: 放屁, 给予 {{N0}} 防御",
+      "styleMappings": {
+        " Defense": " 防御",
+        "SNEAK": "潜行",
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "and {{N0}} Mana for {{N1}}s, but inflicts",
+        "{{N2}} {icon1} Crit Chance for {{N3}}s."
+      ],
+      "translation": "以及 {{N0}} 法力, 持续 {{N1}}s, 但造成 {{N2}} {icon1} 暴击几率, 持续 {{N3}}s.",
+      "styleMappings": {
+        "Crit Chance": "暴击几率",
+        "Mana": "法力",
+        "": ""
+      }
+    },
+    {
+      "source": [
+        "Loving Bonus"
+      ],
+      "translation": "慈爱 加成",
+      "styleMappings": {
+        "Loving": "慈爱",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} {icon0} Ability Damage."
+      ],
+      "translation": "提供 {{N0}} {icon0} 技能伤害.",
+      "styleMappings": {
+        "Ability Damage": "技能伤害",
+        "Grants": "提供",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Refined Bonus"
+      ],
+      "translation": "精炼 加成",
+      "styleMappings": {
+        "Refined": "精炼",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "You have a {{N0}} chance to find",
+        "enchanted forms of items when mining",
+        "Ores."
+      ],
+      "translation": "挖掘矿石时,有 {{N0}} 概率获得附魔形态的产物.",
+      "styleMappings": {
+        "Ores": "矿石"
+      }
+    },
+    {
+      "source": [
+        "Auspicious Bonus"
+      ],
+      "translation": "祥瑞 加成",
+      "styleMappings": {
+        "Auspicious": "祥瑞",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} {icon0} Mining Fortune."
+      ],
+      "translation": "提供 {{N0}} {icon0} 挖掘时运.",
+      "styleMappings": {
+        "Mining Fortune": "挖掘时运",
+        "Grants": "提供"
+      }
+    },
+    {
+      "source": [
+        "Treacherous Bonus"
+      ],
+      "translation": "险恶 加成",
+      "styleMappings": {
+        "Treacherous": "险恶",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Earn {{N0}} Ice Essence from",
+        "TREASURE catches."
+      ],
+      "translation": "从宝藏钓获中获得 {{N0}} 冰之精华.",
+      "styleMappings": {
+        "Ice Essence": "冰之精华"
+      }
+    },
+    {
+      "source": [
+        "Empowered Bonus"
+      ],
+      "translation": "赋能 加成",
+      "styleMappings": {
+        "Empowered": "赋能",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Mending while in",
+        "{icon1} Dungeons."
+      ],
+      "translation": "在 {icon1} 地牢中提供 {{N0}} 治疗效果.",
+      "styleMappings": {
+        "Dungeons": "地牢",
+        "Mending": "治疗效果",
+        "Grants": "提供"
+      }
+    },
+    {
+      "source": [
+        "Headstrong Bonus"
+      ],
+      "translation": "执拗 加成",
+      "styleMappings": {
+        "Headstrong": "执拗",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Salty Bonus"
+      ],
+      "translation": "海盐 加成",
+      "styleMappings": {
+        "Salty": "海盐",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "This gives x{{N0}} stats while on {icon0}",
+        "Jerry's Workshop."
+      ],
+      "translation": "在 {icon0} 杰瑞工坊内提供 x{{N0}} 属性.",
+      "styleMappings": {
+        "Jerry's Workshop": "杰瑞工坊",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "Bloodshot Bonus"
+      ],
+      "translation": "血眸 加成",
+      "styleMappings": {
+        "Bloodshot": "血眸",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "When killing an enemy, you have a",
+        "{{N0}} chance to cocoon them!"
+      ],
+      "translation": "击杀敌人时,有 {{N0}} 概率使其结茧!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Cocooned enemies will quickly hatch,",
+        "and can be killed again."
+      ],
+      "translation": "被结茧的敌人会迅速孵化,并可再次被击杀.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "(Cannot trigger in Dungeons, Kuudra,",
+        "or on Bosses)."
+      ],
+      "translation": "(无法在地牢、库德拉 或 Boss 身上触发).",
+      "styleMappings": {
+        "Dungeons": "地牢",
+        "Kuudra": "库德拉"
+      }
+    },
+    {
+      "source": [
+        "Spiritual Bonus"
+      ],
+      "translation": "灵性 加成",
+      "styleMappings": {
+        "Spiritual": "灵性",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Killing an enemy has a {{N0}} chance to",
+        "spawn a Spirit Decoy while in {icon0}",
+        "Dungeons."
+      ],
+      "translation": "在 {icon0} 地牢内击杀敌人时,有 {{N0}} 概率生成灵魂诱饵.",
+      "styleMappings": {
+        "chance to": "概率",
+        "Dungeons": "地牢",
+        "Spirit": "灵魂",
+        "Spirit Decoy": "灵魂诱饵"
+      }
+    },
+    {
+      "source": [
+        "Squeaky Bonus"
+      ],
+      "translation": "吱响 加成",
+      "styleMappings": {
+        "Squeaky": "吱响",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "{icon0} Pests spawn {{N0}} faster."
+      ],
+      "translation": "{icon0} 害虫的生成速度提高 {{N0}}.",
+      "styleMappings": {
+        "{icon0} Pests": "{icon0} 害虫",
+        "Pests": "害虫"
+      }
+    },
+    {
+      "source": [
+        "Suspicious Bonus"
+      ],
+      "translation": "诡秘 加成",
+      "styleMappings": {
+        "Suspicious": "诡秘",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Adds {{N0}} Damage to this item's",
+        "base stats."
+      ],
+      "translation": "为物品的基础属性增加 {{N0}} 伤害.",
+      "styleMappings": {
+        " Damage": " 伤害",
+        "stats": "属性",
+        "item": "物品",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Dimensional Bonus"
+      ],
+      "translation": "次元 加成",
+      "styleMappings": {
+        "Dimensional": "次元",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Titanium drops {{N0}} ᠅ Mithril Powder",
+        "when mined."
+      ],
+      "translation": "挖掘钛时掉落 {{N0}} ᠅ 秘银粉末.",
+      "styleMappings": {
+        "Titanium": "钛",
+        "Mithril": "秘银",
+        "Powder": "粉末",
+        "Mithril Powder": "秘银粉末"
+      }
+    },
+    {
+      "source": [
+        "Withered Bonus"
+      ],
+      "translation": "凋零 加成",
+      "styleMappings": {
+        "Withered": "凋零",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Strength per Catacombs",
+        "skill level you have."
+      ],
+      "translation": "每级地牢技能等级提供 {{N0}} 力量.",
+      "styleMappings": {
+        " Strength": " 力量",
+        "Catacombs": "地牢",
+        "Grants": "提供",
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Some of your enchantments require",
+        "a higher Enchanting level!"
+      ],
+      "translation": "你的部分附魔需要更高的附魔等级!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Requires level {level}"
+      ],
+      "translation": "需要等级 {level}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Requires Combat Skill {level}"
+      ],
+      "translation": "需要战斗技能 {level}",
+      "styleMappings": {
+        "Combat": "战斗",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Requires Combat Skill {level}."
+      ],
+      "translation": "需要战斗技能 {level}.",
+      "styleMappings": {
+        "Combat": "战斗",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "{icon0} Requires Combat Skill {level}"
+      ],
+      "translation": "{icon0} 需要战斗技能 {level}",
+      "styleMappings": {
+        "Combat": "战斗",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "{icon0} Requires Combat Skill {level}."
+      ],
+      "translation": "{icon0} 需要战斗技能 {level}.",
+      "styleMappings": {
+        "Combat": "战斗",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Requires Mining Skill {level}"
+      ],
+      "translation": "需要采矿技能 {level}",
+      "styleMappings": {
+        "Mining": "采矿",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Requires Mining Skill {level}."
+      ],
+      "translation": "需要采矿技能 {level}.",
+      "styleMappings": {
+        "Mining": "采矿",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "{icon0} Requires Mining Skill {level}"
+      ],
+      "translation": "{icon0} 需要采矿技能 {level}",
+      "styleMappings": {
+        "Mining": "采矿",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "{icon0} Requires Mining Skill {level}."
+      ],
+      "translation": "{icon0} 需要采矿技能 {level}.",
+      "styleMappings": {
+        "Mining": "采矿",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Requires Fishing Skill {level}"
+      ],
+      "translation": "需要钓鱼技能 {level}",
+      "styleMappings": {
+        "Fishing": "钓鱼",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Requires Fishing Skill {level}."
+      ],
+      "translation": "需要钓鱼技能 {level}.",
+      "styleMappings": {
+        "Fishing": "钓鱼",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "{icon0} Requires Fishing Skill {level}"
+      ],
+      "translation": "{icon0} 需要钓鱼技能 {level}",
+      "styleMappings": {
+        "Fishing": "钓鱼",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "{icon0} Requires Fishing Skill {level}."
+      ],
+      "translation": "{icon0} 需要钓鱼技能 {level}.",
+      "styleMappings": {
+        "Fishing": "钓鱼",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Requires Farming Skill {level}"
+      ],
+      "translation": "需要农业技能 {level}",
+      "styleMappings": {
+        "Farming": "农业",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Requires Farming Skill {level}."
+      ],
+      "translation": "需要农业技能 {level}.",
+      "styleMappings": {
+        "Farming": "农业",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "{icon0} Requires Farming Skill {level}"
+      ],
+      "translation": "{icon0} 需要农业技能 {level}",
+      "styleMappings": {
+        "Farming": "农业",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "{icon0} Requires Farming Skill {level}."
+      ],
+      "translation": "{icon0} 需要农业技能 {level}.",
+      "styleMappings": {
+        "Farming": "农业",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Requires Foraging Skill {level}"
+      ],
+      "translation": "需要采伐技能 {level}",
+      "styleMappings": {
+        "Foraging": "采伐",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Requires Foraging Skill {level}."
+      ],
+      "translation": "需要采伐技能 {level}.",
+      "styleMappings": {
+        "Foraging": "采伐",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "{icon0} Requires Foraging Skill {level}"
+      ],
+      "translation": "{icon0} 需要采伐技能 {level}",
+      "styleMappings": {
+        "Foraging": "采伐",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "{icon0} Requires Foraging Skill {level}."
+      ],
+      "translation": "{icon0} 需要采伐技能 {level}.",
+      "styleMappings": {
+        "Foraging": "采伐",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Requires Enchanting Skill {level}"
+      ],
+      "translation": "需要附魔技能 {level}",
+      "styleMappings": {
+        "Enchanting": "附魔",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Requires Enchanting Skill {level}."
+      ],
+      "translation": "需要附魔技能 {level}.",
+      "styleMappings": {
+        "Enchanting": "附魔",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "{icon0} Requires Enchanting Skill {level}"
+      ],
+      "translation": "{icon0} 需要附魔技能 {level}",
+      "styleMappings": {
+        "Enchanting": "附魔",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "{icon0} Requires Enchanting Skill {level}."
+      ],
+      "translation": "{icon0} 需要附魔技能 {level}.",
+      "styleMappings": {
+        "Enchanting": "附魔",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Requires Alchemy Skill {level}"
+      ],
+      "translation": "需要炼金技能 {level}",
+      "styleMappings": {
+        "Alchemy": "炼金",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Requires Alchemy Skill {level}."
+      ],
+      "translation": "需要炼金技能 {level}.",
+      "styleMappings": {
+        "Alchemy": "炼金",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "{icon0} Requires Alchemy Skill {level}"
+      ],
+      "translation": "{icon0} 需要炼金技能 {level}",
+      "styleMappings": {
+        "Alchemy": "炼金",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "{icon0} Requires Alchemy Skill {level}."
+      ],
+      "translation": "{icon0} 需要炼金技能 {level}.",
+      "styleMappings": {
+        "Alchemy": "炼金",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Requires Carpentry Skill {level}"
+      ],
+      "translation": "需要木工技能 {level}",
+      "styleMappings": {
+        "Carpentry": "木工",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Requires Carpentry Skill {level}."
+      ],
+      "translation": "需要木工技能 {level}.",
+      "styleMappings": {
+        "Carpentry": "木工",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "{icon0} Requires Carpentry Skill {level}"
+      ],
+      "translation": "{icon0} 需要木工技能 {level}",
+      "styleMappings": {
+        "Carpentry": "木工",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "{icon0} Requires Carpentry Skill {level}."
+      ],
+      "translation": "{icon0} 需要木工技能 {level}.",
+      "styleMappings": {
+        "Carpentry": "木工",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Requires Runecrafting Skill {level}"
+      ],
+      "translation": "需要符文技能 {level}",
+      "styleMappings": {
+        "Runecrafting": "符文",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Requires Runecrafting Skill {level}."
+      ],
+      "translation": "需要符文技能 {level}.",
+      "styleMappings": {
+        "Runecrafting": "符文",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "{icon0} Requires Runecrafting Skill {level}"
+      ],
+      "translation": "{icon0} 需要符文技能 {level}",
+      "styleMappings": {
+        "Runecrafting": "符文",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "{icon0} Requires Runecrafting Skill {level}."
+      ],
+      "translation": "{icon0} 需要符文技能 {level}.",
+      "styleMappings": {
+        "Runecrafting": "符文",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Requires Taming Skill {level}"
+      ],
+      "translation": "需要驯兽技能 {level}",
+      "styleMappings": {
+        "Taming": "驯兽",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Requires Taming Skill {level}."
+      ],
+      "translation": "需要驯兽技能 {level}.",
+      "styleMappings": {
+        "Taming": "驯兽",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "{icon0} Requires Taming Skill {level}"
+      ],
+      "translation": "{icon0} 需要驯兽技能 {level}",
+      "styleMappings": {
+        "Taming": "驯兽",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "{icon0} Requires Taming Skill {level}."
+      ],
+      "translation": "{icon0} 需要驯兽技能 {level}.",
+      "styleMappings": {
+        "Taming": "驯兽",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Requires Hunting Skill {level}"
+      ],
+      "translation": "需要狩猎技能 {level}",
+      "styleMappings": {
+        "Hunting": "狩猎",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Requires Hunting Skill {level}."
+      ],
+      "translation": "需要狩猎技能 {level}.",
+      "styleMappings": {
+        "Hunting": "狩猎",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "{icon0} Requires Hunting Skill {level}"
+      ],
+      "translation": "{icon0} 需要狩猎技能 {level}",
+      "styleMappings": {
+        "Hunting": "狩猎",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "{icon0} Requires Hunting Skill {level}."
+      ],
+      "translation": "{icon0} 需要狩猎技能 {level}.",
+      "styleMappings": {
+        "Hunting": "狩猎",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Requires Social Skill {level}"
+      ],
+      "translation": "需要社交技能 {level}",
+      "styleMappings": {
+        "Social": "社交",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Requires Social Skill {level}."
+      ],
+      "translation": "需要社交技能 {level}.",
+      "styleMappings": {
+        "Social": "社交",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "{icon0} Requires Social Skill {level}"
+      ],
+      "translation": "{icon0} 需要社交技能 {level}",
+      "styleMappings": {
+        "Social": "社交",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "{icon0} Requires Social Skill {level}."
+      ],
+      "translation": "{icon0} 需要社交技能 {level}.",
+      "styleMappings": {
+        "Social": "社交",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Requires Catacombs Skill {level}"
+      ],
+      "translation": "需要地牢技能 {level}",
+      "styleMappings": {
+        "Catacombs": "地牢",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Requires Catacombs Skill {level}."
+      ],
+      "translation": "需要地牢技能 {level}.",
+      "styleMappings": {
+        "Catacombs": "地牢",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "{icon0} Requires Catacombs Skill {level}"
+      ],
+      "translation": "{icon0} 需要地牢技能 {level}",
+      "styleMappings": {
+        "Catacombs": "地牢",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "{icon0} Requires Catacombs Skill {level}."
+      ],
+      "translation": "{icon0} 需要地牢技能 {level}.",
+      "styleMappings": {
+        "Catacombs": "地牢",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Requires Catacombs Skill {level} while in The Catacombs."
+      ],
+      "translation": "在地牢中需要地牢技能 {level}.",
+      "styleMappings": {
+        "Catacombs": "地牢"
+      }
+    },
+    {
+      "source": [
+        "Requires Catacombs Floor {roman} Completion."
+      ],
+      "translation": "需要完成地牢第 {roman} 层.",
+      "styleMappings": {
+        "Catacombs": "地牢",
+        "Floor": "层",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Requires Master Mode Catacombs Floor {roman} Completion."
+      ],
+      "translation": "需要完成大师模式地牢第 {roman} 层.",
+      "styleMappings": {
+        "Master Mode": "大师模式",
+        "Catacombs": "地牢",
+        "Floor": "层",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Requires The Catacombs Skill {level} while in The Catacombs."
+      ],
+      "translation": "在地牢中需要地牢技能 {level}.",
+      "styleMappings": {
+        "The Catacombs": "地牢"
+      }
+    },
+    {
+      "source": [
+        "Requires The Catacombs Floor {roman} Completion."
+      ],
+      "translation": "需要完成地牢第 {roman} 层.",
+      "styleMappings": {
+        "The Catacombs": "地牢",
+        "Floor": "层",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Requires Master Mode The Catacombs Floor {roman} Completion."
+      ],
+      "translation": "需要完成大师模式地牢第 {roman} 层.",
+      "styleMappings": {
+        "Master Mode": "大师模式",
+        "The Catacombs": "地牢",
+        "Floor": "层",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "{icon0} Requires Catacombs Skill {level} while in The Catacombs."
+      ],
+      "translation": "{icon0} 在地牢中需要地牢技能 {level}.",
+      "styleMappings": {
+        "Catacombs": "地牢"
+      }
+    },
+    {
+      "source": [
+        "{icon0} Requires Catacombs Floor {roman} Completion."
+      ],
+      "translation": "{icon0} 需要完成地牢第 {roman} 层.",
+      "styleMappings": {
+        "Catacombs": "地牢",
+        "Floor": "层",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "{icon0} Requires Master Mode Catacombs Floor {roman} Completion."
+      ],
+      "translation": "{icon0} 需要完成大师模式地牢第 {roman} 层.",
+      "styleMappings": {
+        "Master Mode": "大师模式",
+        "Catacombs": "地牢",
+        "Floor": "层",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "{icon0} Requires The Catacombs Skill {level} while in The Catacombs."
+      ],
+      "translation": "{icon0} 在地牢中需要地牢技能 {level}.",
+      "styleMappings": {
+        "The Catacombs": "地牢"
+      }
+    },
+    {
+      "source": [
+        "{icon0} Requires The Catacombs Floor {roman} Completion."
+      ],
+      "translation": "{icon0} 需要完成地牢第 {roman} 层.",
+      "styleMappings": {
+        "The Catacombs": "地牢",
+        "Floor": "层",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "{icon0} Requires Master Mode The Catacombs Floor {roman} Completion."
+      ],
+      "translation": "{icon0} 需要完成大师模式地牢第 {roman} 层.",
+      "styleMappings": {
+        "Master Mode": "大师模式",
+        "The Catacombs": "地牢",
+        "Floor": "层",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Increases damage dealt to {icon0} Undead, {icon1} Skeletal and {icon2} Wither mobs by {amount}."
+      ],
+      "translation": "对 {icon0} 亡灵, {icon1} 骷髅和 {icon2} 凋灵生物的伤害提高 {amount}.",
+      "styleMappings": {
+        "Undead": "亡灵",
+        "Skeletal": "骷髅",
+        "Wither": "凋灵",
+        "mobs": "生物",
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Increases damage dealt to {icon0} Undead, {icon1} Wither and {icon2} Skeletal mobs by {amount}."
+      ],
+      "translation": "对 {icon0} 亡灵, {icon1} 凋灵和 {icon2} 骷髅生物的伤害提高 {amount}.",
+      "styleMappings": {
+        "Undead": "亡灵",
+        "Skeletal": "骷髅",
+        "Wither": "凋灵",
+        "mobs": "生物",
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Increases damage dealt to {icon0} Skeletal, {icon1} Undead and {icon2} Wither mobs by {amount}."
+      ],
+      "translation": "对 {icon0} 骷髅, {icon1} 亡灵和 {icon2} 凋灵生物的伤害提高 {amount}.",
+      "styleMappings": {
+        "Undead": "亡灵",
+        "Skeletal": "骷髅",
+        "Wither": "凋灵",
+        "mobs": "生物",
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Increases damage dealt to {icon0} Skeletal, {icon1} Wither and {icon2} Undead mobs by {amount}."
+      ],
+      "translation": "对 {icon0} 骷髅, {icon1} 凋灵和 {icon2} 亡灵生物的伤害提高 {amount}.",
+      "styleMappings": {
+        "Undead": "亡灵",
+        "Skeletal": "骷髅",
+        "Wither": "凋灵",
+        "mobs": "生物",
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Increases damage dealt to {icon0} Wither, {icon1} Undead and {icon2} Skeletal mobs by {amount}."
+      ],
+      "translation": "对 {icon0} 凋灵, {icon1} 亡灵和 {icon2} 骷髅生物的伤害提高 {amount}.",
+      "styleMappings": {
+        "Undead": "亡灵",
+        "Skeletal": "骷髅",
+        "Wither": "凋灵",
+        "mobs": "生物",
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Increases damage dealt to {icon0} Wither, {icon1} Skeletal and {icon2} Undead mobs by {amount}."
+      ],
+      "translation": "对 {icon0} 凋灵, {icon1} 骷髅和 {icon2} 亡灵生物的伤害提高 {amount}.",
+      "styleMappings": {
+        "Undead": "亡灵",
+        "Skeletal": "骷髅",
+        "Wither": "凋灵",
+        "mobs": "生物",
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Mithril-Infused Fuel Tank"
+      ],
+      "translation": "秘银灌注燃料罐",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Titanium-Infused Fuel Tank"
+      ],
+      "translation": "注钛燃料罐",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Gemstone Fuel Tank"
+      ],
+      "translation": "宝石燃料箱",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Perfectly-Cut Fuel Tank"
+      ],
+      "translation": "完美切割燃料罐",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Mithril-Plated Drill Engine"
+      ],
+      "translation": "秘银镀层钻头引擎",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Titanium-Plated Drill Engine"
+      ],
+      "translation": "镀钛钻头引擎",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Ruby-Polished Drill Engine"
+      ],
+      "translation": "红宝石抛光钻头引擎",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Sapphire-Polished Drill Engine"
+      ],
+      "translation": "蓝宝石抛光钻头引擎",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Amber-Polished Drill Engine"
+      ],
+      "translation": "琥珀抛光钻头引擎",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Goblin Omelette"
+      ],
+      "translation": "哥布林煎蛋卷",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Goblin Omelette Part"
+      ],
+      "translation": "哥布林煎蛋卷 配件",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Pesto Goblin Omelette"
+      ],
+      "translation": "青酱哥布林煎蛋卷",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Pesto Goblin Omelette Part"
+      ],
+      "translation": "青酱哥布林煎蛋卷 配件",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Spicy Goblin Omelette"
+      ],
+      "translation": "辣味哥布林煎蛋卷",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Spicy Goblin Omelette Part"
+      ],
+      "translation": "辣味哥布林煎蛋卷 配件",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Sunny Side Goblin Omelette"
+      ],
+      "translation": "单面煎哥布林煎蛋卷",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Sunny Side Goblin Omelette Part"
+      ],
+      "translation": "单面煎哥布林煎蛋卷 配件",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Blue Cheese Goblin Omelette"
+      ],
+      "translation": "蓝纹奶酪哥布林煎蛋卷",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Blue Cheese Goblin Omelette Part"
+      ],
+      "translation": "蓝纹奶酪哥布林煎蛋卷 配件",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "{capacity} Max Fuel Capacity"
+      ],
+      "translation": "{capacity} 最大燃料容量",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "{cooldown} Pickaxe Ability Cooldown"
+      ],
+      "translation": "{cooldown} 镐子技能冷却",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "+{amount} Mining Speed"
+      ],
+      "translation": "+{amount} 挖掘速度",
+      "styleMappings": {
+        "Mining Speed": "挖掘速度"
+      }
+    },
+    {
+      "source": [
+        "+{amount} Mining Speed"
+      ],
+      "translation": "+{amount} 挖掘速度",
+      "styleMappings": {
+        "Mining Speed": "挖掘速度"
+      }
+    },
+    {
+      "source": [
+        "+{amount} Mining Fortune"
+      ],
+      "translation": "+{amount} 挖掘时运",
+      "styleMappings": {
+        "Mining Fortune": "挖掘时运"
+      }
+    },
+    {
+      "source": [
+        "+{amount} Mining Fortune"
+      ],
+      "translation": "+{amount} 挖掘时运",
+      "styleMappings": {
+        "Mining Fortune": "挖掘时运"
+      }
+    },
+    {
+      "source": [
+        "Grants a {chance} chance to not consume Fuel when mining."
+      ],
+      "translation": "挖矿时有 {chance} 概率不消耗燃料.",
+      "styleMappings": {
+        "Fuel": "燃料"
+      }
+    },
+    {
+      "source": [
+        "Earn {amount} Powder from all sources."
+      ],
+      "translation": "所有来源的粉末收益提高 {amount}.",
+      "styleMappings": {
+        "Powder": "粉末"
+      }
+    },
+    {
+      "source": [
+        "Grants +{amount} Mining Fortune, but this Drill consumes quadruple the Fuel."
+      ],
+      "translation": "提供 +{amount} 挖掘时运,但此钻头消耗四倍燃料.",
+      "styleMappings": {
+        "Mining Fortune": "挖掘时运",
+        "Drill": "钻头",
+        "Fuel": "燃料"
+      }
+    },
+    {
+      "source": [
+        "Adds {level} Level to all of your unlocked Heart of the Mountain perks."
+      ],
+      "translation": "所有已解锁的山峰之心技能增加 {level} 等级.",
+      "styleMappings": {
+        "Level": "等级",
+        "Heart of the Mountain": "山峰之心"
+      }
+    },
+    {
+      "source": [
+        "Scroll Abilities:"
+      ],
+      "translation": "卷轴技能:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Ability: Wither Impact  RIGHT CLICK"
+      ],
+      "translation": "技能: 凋零冲击  右键点击",
+      "styleMappings": {
+        "Ability": "技能",
+        "Wither Impact": "凋零冲击",
+        "RIGHT CLICK": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "Teleport {distance} blocks ahead of you dealing {damage} damage to nearby enemies. Also reduces your damage taken and grants an absorption shield for {duration} seconds."
+      ],
+      "translation": "向前传送 {distance} 格,对附近敌人造成 {damage} 伤害.同时降低受到的伤害,并获得伤害吸收护盾,持续 {duration} 秒.",
+      "styleMappings": {
+        "blocks": "格",
+        "seconds": "秒"
+      }
+    },
+    {
+      "source": [
+        "Ability: Implosion  RIGHT CLICK"
+      ],
+      "translation": "能力: 聚爆  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Implosion": "聚爆",
+        "Ability": "能力"
+      }
+    },
+    {
+      "source": [
+        "Deals {{N0}} damage to nearby",
+        "enemies."
+      ],
+      "translation": "对附近敌人造成 {{N0}} 伤害.",
+      "styleMappings": {
+        "damage to nearby enemies.": "伤害.",
+        "Deals": "造成"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": ""
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间:{{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却"
+      }
+    },
+    {
+      "source": [
+        "Ability: Shadow Warp  RIGHT CLICK"
+      ],
+      "translation": "技能: 暗影扭曲  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Shadow Warp": "暗影扭曲",
+        "Ability": "技能"
+      }
+    },
+    {
+      "source": [
+        "Creates a spatial distortion {{N0}}",
+        "blocks ahead of you that sucks all",
+        "enemies around it. Use this ability",
+        "again within {{N1}} seconds to detonate",
+        "the warp and deal {{N2}} damage",
+        "to enemies near it."
+      ],
+      "translation": "在你前方 {{N0}} 格处制造一个空间扭曲,将周围的敌人全部吸入.在 {{N1}} 秒内再次使用此技能可引爆扭曲,对附近敌人造成 {{N2}} 伤害.",
+      "styleMappings": {
+        "ability": "技能",
+        "seconds": "秒",
+        "blocks": "格",
+        "damage": "伤害",
+        "deal": "造成",
+        "all": "全部"
+      }
+    },
+    {
+      "source": [
+        "Ability: Wither Shield  RIGHT CLICK"
+      ],
+      "translation": "能力: 凋零护盾  右键点击",
+      "styleMappings": {
+        "Wither Shield": "凋零护盾",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "能力"
+      }
+    },
+    {
+      "source": [
+        "Reduces damage taken by {{N0}} for {{N1}}",
+        "seconds. Also grants an absorption",
+        "shield that scales based on your",
+        "Catacombs Level."
+      ],
+      "translation": "在 {{N1}} 秒内减少 {{N0}} 受到的伤害.还会根据你的地牢等级提供吸收护盾.",
+      "styleMappings": {
+        "Catacombs Level": "地牢等级",
+        "seconds": "秒",
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Vitality Cost: {{N0}}"
+      ],
+      "translation": "活力消耗:{{N0}}",
+      "styleMappings": {
+        "Vitality": "活力"
+      }
+    },
+    {
+      "source": [
+        "Titanium Drill Engine Part"
+      ],
+      "translation": "镀钛钻头引擎 配件",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Titanium Drill Engine"
+      ],
+      "translation": "镀钛钻头引擎",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Mithril Drill Engine Part"
+      ],
+      "translation": "秘银镀层钻头引擎 配件",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Mithril Drill Engine"
+      ],
+      "translation": "秘银镀层钻头引擎",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Sunny Side Goblin Egg Part"
+      ],
+      "translation": "单面煎哥布林煎蛋卷 配件",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Blue Cheese Goblin Egg Part"
+      ],
+      "translation": "蓝纹奶酪哥布林煎蛋卷 配件",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Spicy Goblin Egg Part"
+      ],
+      "translation": "辣味哥布林煎蛋卷 配件",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Pesto Goblin Egg Part"
+      ],
+      "translation": "青酱哥布林煎蛋卷 配件",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Goblin Egg Part"
+      ],
+      "translation": "哥布林煎蛋卷 配件",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants {statIcon0} Mining Spread towards Blocks."
+      ],
+      "translation": "挖掘方块时提供 {statIcon0} 采矿扩散.",
+      "styleMappings": {
+        "Mining Spread": "采矿扩散",
+        "Blocks": "方块",
+        "Grants": "提供"
+      }
+    },
+    {
+      "source": [
+        "Grants {statIcon0} Mining Fortune, which increases your chance for multiple drops."
+      ],
+      "translation": "提供 {statIcon0} 挖掘时运,提高获得多份掉落物的概率.",
+      "styleMappings": {
+        "Mining Fortune": "挖掘时运",
+        "Grants": "提供"
+      }
+    },
+    {
+      "source": [
+        "Gain {statIcon0} Mining Wisdom and a {chance} chance to drop an enchanted item."
+      ],
+      "translation": "获得 {statIcon0} 采矿智慧,并有 {chance} 概率掉落附魔物品.",
+      "styleMappings": {
+        "Mining Wisdom": "采矿智慧",
+        "Gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "This item is Undead {icon0}!"
+      ],
+      "translation": "此物品属于亡灵类 {icon0}!",
+      "styleMappings": {
+        "Undead": "亡灵类",
+        "This item is": "此物品属于"
+      }
+    },
+    {
+      "source": [
+        "This item is Undead!"
+      ],
+      "translation": "此物品属于亡灵类!",
+      "styleMappings": {
+        "Undead": "亡灵类",
+        "This item is": "此物品属于"
+      }
+    },
+    {
+      "source": [
+        "This item is Arachnal {icon0}!"
+      ],
+      "translation": "此物品属于蛛类 {icon0}!",
+      "styleMappings": {
+        "Arachnal": "蛛类",
+        "This item is": "此物品属于"
+      }
+    },
+    {
+      "source": [
+        "This item is Arachnal!"
+      ],
+      "translation": "此物品属于蛛类!",
+      "styleMappings": {
+        "Arachnal": "蛛类",
+        "This item is": "此物品属于"
+      }
+    },
+    {
+      "source": [
+        "This item is Arachnal Ж!"
+      ],
+      "translation": "此物品属于蛛类 Ж!",
+      "styleMappings": {
+        "Arachnal": "蛛类",
+        "This item is": "此物品属于",
+        "Ж": "Ж"
+      }
+    },
+    {
+      "source": [
+        "This item is consumed on use."
+      ],
+      "translation": "此物品使用后消耗.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "This item is in its final form!"
+      ],
+      "translation": "此物品已达最终形态!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "This item is no longer used in the game. It can be exchanged in your Legacy Trades menu - accessed with /legacytrades."
+      ],
+      "translation": "此物品已停用,可输入 /legacytrades 打开旧物兑换菜单进行兑换.",
+      "styleMappings": {
+        "Legacy Trades": "旧物兑换",
+        "/legacytrades": "/legacytrades"
+      }
+    },
+    {
+      "source": [
+        "This item is no longer used throughout the game, and can be exchanged in your Legacy Trades menu, accessed through /legacytrades."
+      ],
+      "translation": "此物品已停用,可输入 /legacytrades 打开旧物兑换菜单进行兑换.",
+      "styleMappings": {
+        "Legacy Trades": "旧物兑换",
+        "/legacytrades": "/legacytrades"
+      }
+    },
+    {
+      "source": [
+        "{value} Mote"
+      ],
+      "translation": "{value} 裂隙尘埃",
+      "styleMappings": {
+        "Mote": "裂隙尘埃"
+      }
+    },
+    {
+      "source": [
+        "Cost: {value} Mote"
+      ],
+      "translation": "花费: {value} 裂隙尘埃",
+      "styleMappings": {
+        "Mote": "裂隙尘埃",
+        "Cost:": "花费:"
+      }
+    },
+    {
+      "source": [
+        "Worth: {value} Mote"
+      ],
+      "translation": "价值: {value} 裂隙尘埃",
+      "styleMappings": {
+        "Mote": "裂隙尘埃",
+        "Worth:": "价值:"
+      }
+    },
+    {
+      "source": [
+        "Sell Price: {value} Mote"
+      ],
+      "translation": "卖出价格: {value} 裂隙尘埃",
+      "styleMappings": {
+        "Mote": "裂隙尘埃",
+        "Sell Price:": "卖出价格:"
+      }
+    },
+    {
+      "source": [
+        "Buy Price: {value} Mote"
+      ],
+      "translation": "买入价格: {value} 裂隙尘埃",
+      "styleMappings": {
+        "Mote": "裂隙尘埃",
+        "Buy Price:": "买入价格:"
+      }
+    },
+    {
+      "source": [
+        "{value} Motes"
+      ],
+      "translation": "{value} 裂隙尘埃",
+      "styleMappings": {
+        "Motes": "裂隙尘埃"
+      }
+    },
+    {
+      "source": [
+        "Cost: {value} Motes"
+      ],
+      "translation": "花费: {value} 裂隙尘埃",
+      "styleMappings": {
+        "Motes": "裂隙尘埃",
+        "Cost:": "花费:"
+      }
+    },
+    {
+      "source": [
+        "Worth: {value} Motes"
+      ],
+      "translation": "价值: {value} 裂隙尘埃",
+      "styleMappings": {
+        "Motes": "裂隙尘埃",
+        "Worth:": "价值:"
+      }
+    },
+    {
+      "source": [
+        "Sell Price: {value} Motes"
+      ],
+      "translation": "卖出价格: {value} 裂隙尘埃",
+      "styleMappings": {
+        "Motes": "裂隙尘埃",
+        "Sell Price:": "卖出价格:"
+      }
+    },
+    {
+      "source": [
+        "Buy Price: {value} Motes"
+      ],
+      "translation": "买入价格: {value} 裂隙尘埃",
+      "styleMappings": {
+        "Motes": "裂隙尘埃",
+        "Buy Price:": "买入价格:"
+      }
+    },
+    {
+      "source": [
+        "{value} mote"
+      ],
+      "translation": "{value} 裂隙尘埃",
+      "styleMappings": {
+        "mote": "裂隙尘埃"
+      }
+    },
+    {
+      "source": [
+        "Cost: {value} mote"
+      ],
+      "translation": "花费: {value} 裂隙尘埃",
+      "styleMappings": {
+        "mote": "裂隙尘埃",
+        "Cost:": "花费:"
+      }
+    },
+    {
+      "source": [
+        "Worth: {value} mote"
+      ],
+      "translation": "价值: {value} 裂隙尘埃",
+      "styleMappings": {
+        "mote": "裂隙尘埃",
+        "Worth:": "价值:"
+      }
+    },
+    {
+      "source": [
+        "Sell Price: {value} mote"
+      ],
+      "translation": "卖出价格: {value} 裂隙尘埃",
+      "styleMappings": {
+        "mote": "裂隙尘埃",
+        "Sell Price:": "卖出价格:"
+      }
+    },
+    {
+      "source": [
+        "Buy Price: {value} mote"
+      ],
+      "translation": "买入价格: {value} 裂隙尘埃",
+      "styleMappings": {
+        "mote": "裂隙尘埃",
+        "Buy Price:": "买入价格:"
+      }
+    },
+    {
+      "source": [
+        "{value} motes"
+      ],
+      "translation": "{value} 裂隙尘埃",
+      "styleMappings": {
+        "motes": "裂隙尘埃"
+      }
+    },
+    {
+      "source": [
+        "Cost: {value} motes"
+      ],
+      "translation": "花费: {value} 裂隙尘埃",
+      "styleMappings": {
+        "motes": "裂隙尘埃",
+        "Cost:": "花费:"
+      }
+    },
+    {
+      "source": [
+        "Worth: {value} motes"
+      ],
+      "translation": "价值: {value} 裂隙尘埃",
+      "styleMappings": {
+        "motes": "裂隙尘埃",
+        "Worth:": "价值:"
+      }
+    },
+    {
+      "source": [
+        "Sell Price: {value} motes"
+      ],
+      "translation": "卖出价格: {value} 裂隙尘埃",
+      "styleMappings": {
+        "motes": "裂隙尘埃",
+        "Sell Price:": "卖出价格:"
+      }
+    },
+    {
+      "source": [
+        "Buy Price: {value} motes"
+      ],
+      "translation": "买入价格: {value} 裂隙尘埃",
+      "styleMappings": {
+        "motes": "裂隙尘埃",
+        "Buy Price:": "买入价格:"
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_SPEED;6",
+  "_original_name": "Speed VI Potion",
+  "_original_lore": [
+    "",
+    "Speed VI (3:00)",
+    "Grants +30  Speed.",
+    "",
+    "RARE"
+  ],
+  "name": "速度 VI 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Speed VI ({{N0}}:{{N1}})"
+      ],
+      "translation": "速度 VI ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Speed VI": "速度 VI",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}  Speed."
+      ],
+      "translation": "提供 {{N0}}  速度.",
+      "styleMappings": {
+        " Speed": " 速度",
+        "Grants": "提供",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Speed VI Potion": "速度 VI 药水",
+    "Speed": "速度",
+    "Speed VI": "速度 VI"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

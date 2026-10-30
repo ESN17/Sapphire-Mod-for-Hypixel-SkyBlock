@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "id": "VICIOUS;5",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Vicious V",
+    "Grants +5 Ferocity.",
+    "",
+    "Sources:",
+    " - Dark Auction (III-V)",
+    " - Bazaar (III-V)",
+    "",
+    "Applied To:",
+    " - Sword",
+    " - Longsword",
+    " - Gauntlet",
+    " - Bow",
+    "",
+    "Requirements:",
+    " - Enchanting Level 26",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Vicious V"
+      ],
+      "translation": "凶残 V",
+      "styleMappings": {
+        "Vicious": "凶残"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Ferocity."
+      ],
+      "translation": "提供 {{N0}} 残暴值.",
+      "styleMappings": {
+        "Grants": "提供",
+        "Ferocity": "残暴值"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Dark Auction (III-V)",
+        " - Bazaar (III-V)"
+      ],
+      "translation": " - 暗黑拍卖行 (III-V)  - 集市 (III-V)",
+      "styleMappings": {
+        "Dark Auction": "暗黑拍卖行",
+        "Bazaar": "集市",
+        "III": "III",
+        "Auction": "拍卖"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Sword",
+        " - Longsword",
+        " - Gauntlet",
+        " - Bow"
+      ],
+      "translation": " - 剑  - 长剑  - 护手  - 弓",
+      "styleMappings": {
+        "Sword": "剑",
+        "Longsword": "长剑",
+        "Gauntlet": "护手",
+        "Bow": "弓"
+      }
+    },
+    {
+      "source": [
+        "Requirements:"
+      ],
+      "translation": "需求:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchanting Level {{N0}}"
+      ],
+      "translation": " - 附魔等级 {{N0}}",
+      "styleMappings": {
+        "Enchanting Level": "附魔等级"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

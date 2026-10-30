@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "STARLIGHT_WAND",
+  "_original_name": "Starlight Wand",
+  "_original_lore": [
+    "Ability: Starfall  RIGHT CLICK",
+    "Shower stars in a 3 blocks area for 5s,",
+    "dealing 300 damage per second to mobs within.",
+    "Mana Cost: 100",
+    "Cooldown: 2s",
+    "",
+    "❣ Requires Combat Skill 8.",
+    "RARE WAND"
+  ],
+  "name": "星光法杖",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Starfall  RIGHT CLICK"
+      ],
+      "translation": "技能:星陨  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Starfall": "星陨",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Shower stars in a {{N0}} blocks area for {{N1}}s,",
+        "dealing {{N2}} damage per second to mobs within."
+      ],
+      "translation": "在 {{N0}} 格范围内降下流星,持续 {{N1}} 秒,对范围内的怪物每秒造成 {{N2}} 伤害.",
+      "styleMappings": {
+        "per second": "每秒",
+        "blocks": "格",
+        "damage": "伤害",
+        "mobs": "怪物",
+        "{{N1}}s": "{{N1}} 秒",
+        "for": "持续",
+        "second": "秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "RARE WAND"
+      ],
+      "translation": "稀有 魔杖",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Wand": "法杖"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

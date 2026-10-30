@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "id": "LIVELY_SEPULTURE_CHESTPLATE",
+  "_original_name": "Lively Sepulture Chestplate",
+  "_original_lore": [
+    "Rift Time: +65s",
+    "Hearts: +1",
+    "Intelligence: +30",
+    "Mana Regen: +25%",
+    "",
+    "☠ Requires Vampire Slayer 5.",
+    "LEGENDARY CHESTPLATE"
+  ],
+  "name": "活力葬仪胸甲",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Rift Time: {{N0}}s"
+      ],
+      "translation": "裂隙时间: {{N0}}秒",
+      "styleMappings": {
+        "Rift Time": "裂隙时间",
+        "{{N0}}s": "{{N0}}秒",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "Hearts: {{N0}}"
+      ],
+      "translation": "生命值: {{N0}}",
+      "styleMappings": {
+        "Hearts": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Mana Regen: {{N0}}"
+      ],
+      "translation": "法力回复: {{N0}}",
+      "styleMappings": {
+        "Mana Regen": "法力回复",
+        "Mana": "法力",
+        "Regen": "回复"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Vampire Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要吸血鬼杀手 {{N0}}.",
+      "styleMappings": {
+        "Vampire Slayer": "吸血鬼杀手",
+        "Requires": "需要",
+        "Slayer": "杀手",
+        "Vampire": "吸血鬼"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY CHESTPLATE"
+      ],
+      "translation": "传说 胸甲",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Chestplate": "胸甲"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

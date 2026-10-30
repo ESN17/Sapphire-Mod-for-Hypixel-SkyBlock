@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "CREEPER_LEGGINGS",
+  "_original_name": "Creeper Pants",
+  "_original_lore": [
+    "Health: +200",
+    "Defense: +65",
+    "",
+    "Ability: Detonate ",
+    "Causes an explosion when dropping",
+    "below 20% HP, damaging and knocking",
+    "back all monsters around you.",
+    "Cooldown: 60s",
+    "",
+    "This item can be reforged!",
+    "RARE LEGGINGS"
+  ],
+  "name": "苦力怕裤子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Ability: Detonate "
+      ],
+      "translation": "能力: 引爆 ",
+      "styleMappings": {
+        "Ability": "能力",
+        "Detonate": "引爆"
+      }
+    },
+    {
+      "source": [
+        "Causes an explosion when dropping",
+        "below {{N0}} HP, damaging and knocking",
+        "back all monsters around you."
+      ],
+      "translation": "当生命值降至 {{N0}} 以下时引发爆炸,对周围所有怪物造成伤害并将其击退.",
+      "styleMappings": {
+        "monsters": "怪物",
+        "HP": "生命值",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "RARE LEGGINGS"
+      ],
+      "translation": "稀有 护腿",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Creeper": "苦力怕"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

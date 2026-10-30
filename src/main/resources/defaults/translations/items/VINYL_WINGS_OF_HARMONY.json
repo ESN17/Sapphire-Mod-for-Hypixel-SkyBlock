@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "id": "VINYL_WINGS_OF_HARMONY",
+  "_original_name": "Wings of Harmony Vinyl",
+  "_original_lore": [
+    "Place in a Chirping Stereo to play",
+    "funky tunes for  Pests.",
+    "",
+    "When playing, this vinyl attracts Moth",
+    "Pests.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "和谐之翼唱片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Place in a Chirping Stereo to play",
+        "funky tunes for  Pests."
+      ],
+      "translation": "放入鸣叫音响中,为  害虫播放动感音乐.",
+      "styleMappings": {
+        "Chirping Stereo": "鸣叫音响",
+        " Pests": " 害虫",
+        "Pests": "害虫"
+      }
+    },
+    {
+      "source": [
+        "When playing, this vinyl attracts Moth",
+        "Pests."
+      ],
+      "translation": "播放时,这张唱片会吸引飞蛾害虫.",
+      "styleMappings": {
+        "Moth Pests": "飞蛾害虫",
+        "Moth": "飞蛾",
+        "Pests": "害虫"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Vinyl": "唱片"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

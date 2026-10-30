@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": "MOOSHROOM_COW;0",
+  "_original_name": "[Lvl {LVL}] Mooshroom Cow",
+  "_original_lore": [
+    "Farming Pet",
+    "",
+    "Health: +{HEALTH}",
+    "Farming Fortune: +{FARMING_FORTUNE}",
+    "",
+    "Mushroom Eater",
+    "You have a {0}% chance to drop a",
+    "Mushroom when farming crops.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "COMMON PET"
+  ],
+  "name": "[等级 {LVL}] 哞菇牛",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Farming Pet"
+      ],
+      "translation": "耕作宠物",
+      "styleMappings": {
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Health: +{{N0}}"
+      ],
+      "translation": "生命值: +{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Farming Fortune: +{{N0}}"
+      ],
+      "translation": "农业幸运: +{{N0}}",
+      "styleMappings": {
+        "Farming Fortune": "农业幸运",
+        "Fortune": "幸运",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "Mushroom Eater"
+      ],
+      "translation": "蘑菇吞噬者",
+      "styleMappings": {
+        "Mushroom Eater": "蘑菇吞噬者",
+        "Mushroom": "蘑菇"
+      }
+    },
+    {
+      "source": [
+        "You have a {{N0}}% chance to drop a",
+        "Mushroom when farming crops."
+      ],
+      "translation": "耕种作物时有 {{N0}}% 概率掉落一个蘑菇.",
+      "styleMappings": {
+        "chance to": "概率",
+        "Mushroom": "蘑菇",
+        "crops": "作物",
+        "chance": "概率",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "COMMON PET"
+      ],
+      "translation": "普通 宠物",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mooshroom Cow": "哞菇牛",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

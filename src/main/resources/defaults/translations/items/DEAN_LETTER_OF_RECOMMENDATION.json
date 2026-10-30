@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "DEAN_LETTER_OF_RECOMMENDATION",
+  "_original_name": "Letter of Recommendation",
+  "_original_lore": [
+    "A letter of recommendation from",
+    "Dean advocating for Eisengolem",
+    "to join the Mage faction!",
+    "",
+    "* Soulbound *",
+    "RARE"
+  ],
+  "name": "推荐信",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A letter of recommendation from",
+        "Dean advocating for Eisengolem",
+        "to join the Mage faction!"
+      ],
+      "translation": "一封来自 Dean 的推荐信,为铁傀儡加入法师阵营作保!",
+      "styleMappings": {
+        "Dean": "Dean",
+        "Eisengolem": "铁傀儡",
+        "Mage": "法师"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

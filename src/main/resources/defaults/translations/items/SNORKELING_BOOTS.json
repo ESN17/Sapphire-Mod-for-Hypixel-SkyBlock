@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "id": "SNORKELING_BOOTS",
+  "_original_name": "Snorkeling Shoes",
+  "_original_lore": [
+    "Health: +60",
+    "Defense: +55",
+    "Pressure Resistance: +10",
+    "",
+    "Tiered Bonus: Long Tuba (0/4)",
+    "Grants +2 Respiration.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Foraging Skill 16.",
+    "UNCOMMON BOOTS"
+  ],
+  "name": "浮潜鞋",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Pressure Resistance: {{N0}}"
+      ],
+      "translation": "抗压性: {{N0}}",
+      "styleMappings": {
+        "Pressure Resistance": "抗压性"
+      }
+    },
+    {
+      "source": [
+        "Tiered Bonus: Long Tuba ({{N0}}/{{N1}})"
+      ],
+      "translation": "阶段奖励: 长号角 ({{N0}}/{{N1}})",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants {{N0}} Respiration."
+      ],
+      "translation": "提供 {{N0}} 水下呼吸.",
+      "styleMappings": {
+        "Respiration": "水下呼吸",
+        "Grants": "提供"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Foraging Skill {{N0}}."
+      ],
+      "translation": "❣ 需要采伐技能 {{N0}}.",
+      "styleMappings": {
+        "Foraging Skill": "采伐技能",
+        "Requires": "需要",
+        "Foraging": "采伐",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON BOOTS"
+      ],
+      "translation": "罕见 靴子",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

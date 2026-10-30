@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "id": "EERIE_TREAT",
+  "_original_name": "Eerie Treat",
+  "_original_lore": [
+    "Obtained during the 2023 Alchemist",
+    "experiments!",
+    "",
+    "Edition #270",
+    "",
+    "Turns your COMMON Eerie Pet into",
+    "its RARE version.",
+    "",
+    "* Soulbound *",
+    "RARE PET ITEM"
+  ],
+  "name": "诡异零食",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Obtained during the {{N0}} Alchemist",
+        "experiments!"
+      ],
+      "translation": "在 {{N0}} 炼金实验中获得!",
+      "styleMappings": {
+        "Alchemist": "炼金"
+      }
+    },
+    {
+      "source": [
+        "Edition #{{N0}}"
+      ],
+      "translation": "版本 #{{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Turns your COMMON Eerie Pet into",
+        "its RARE version."
+      ],
+      "translation": "将你的普通诡异宠物变为其稀有版本.",
+      "styleMappings": {
+        "COMMON": "普通",
+        "RARE": "稀有",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "RARE PET ITEM"
+      ],
+      "translation": "稀有宠物物品",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

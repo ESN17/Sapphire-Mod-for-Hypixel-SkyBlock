@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": "HELLSTORM_STAFF",
+  "_original_name": "Hellstorm Wand",
+  "_original_lore": [
+    "Damage: +120",
+    "Strength: +50",
+    "Intelligence: +100",
+    "Gemstones: []",
+    "",
+    "Ability: Hellstorm  RIGHT CLICK",
+    "Gain 5 Ability Damage, but take double",
+    "damage for 30s.",
+    "Mana Cost: 100",
+    "Cooldown: 30s",
+    "",
+    "❣ Requires Combat Skill 25.",
+    "EPIC WAND"
+  ],
+  "name": "地狱风暴法杖",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: []"
+      ],
+      "translation": "宝石槽:[]",
+      "styleMappings": {
+        "Gemstones": "宝石槽"
+      }
+    },
+    {
+      "source": [
+        "Ability: Hellstorm  RIGHT CLICK"
+      ],
+      "translation": "技能: 地狱风暴  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}} Ability Damage, but take double",
+        "damage for {{N1}}s."
+      ],
+      "translation": "获得 {{N0}} 技能伤害,但在 {{N1}} 秒内受到双倍伤害.",
+      "styleMappings": {
+        "Ability Damage": "技能伤害",
+        "double damage": "双倍伤害",
+        "Gain": "获得",
+        "{{N1}}s": "{{N1}} 秒",
+        "Ability": "技能",
+        "damage": "伤害",
+        "for": "获得",
+        "Damage": "伤害",
+        "double": "双倍"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC WAND"
+      ],
+      "translation": "史诗魔杖",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Wand": "法杖"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": "VENATOR_GENESIS",
+  "_original_name": "Worn Huntaxe - Genesis",
+  "_original_lore": [
+    "Hunting Tool",
+    "",
+    "Damage: +5",
+    "",
+    "Ability: Absorptio  RIGHT CLICK",
+    "This weapon lets you absorb 5% of",
+    "the basic combat stats of any",
+    "weapon.",
+    "",
+    "Ability: Vis Temperata ",
+    "Each strike of this weapon has its",
+    "damage capped at 15% of the",
+    "enemy's max Health. This weapon",
+    "cannot cause a fatal blow.",
+    "",
+    "Ex tenebris, primus venator surgit.",
+    "",
+    "This item can be reforged!",
+    "COMMON AXE"
+  ],
+  "name": "磨损的狩猎斧 - 创世",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Hunting Tool"
+      ],
+      "translation": "狩猎工具",
+      "styleMappings": {
+        "Hunting Tool": "狩猎工具"
+      }
+    },
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Ability: Absorptio  RIGHT CLICK"
+      ],
+      "translation": "技能:吸收  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "This weapon lets you absorb {{N0}} of",
+        "the basic combat stats of any",
+        "weapon."
+      ],
+      "translation": "此武器可让你吸收任意武器 {{N0}} 的基础战斗属性.",
+      "styleMappings": {
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "Ability: Vis Temperata "
+      ],
+      "translation": "技能:温和之力 ",
+      "styleMappings": {
+        "Ability": "技能"
+      }
+    },
+    {
+      "source": [
+        "Each strike of this weapon has its",
+        "damage capped at {{N0}} of the",
+        "enemy's max Health. This weapon",
+        "cannot cause a fatal blow."
+      ],
+      "translation": "此武器的每次攻击伤害上限为敌人最大生命值的 {{N0}}.此武器无法造成致命一击.",
+      "styleMappings": {
+        "damage": "伤害",
+        "s": "一"
+      }
+    },
+    {
+      "source": [
+        "Ex tenebris, primus venator surgit."
+      ],
+      "translation": "自黑暗中,首位猎手崛起.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "COMMON AXE"
+      ],
+      "translation": "普通斧",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

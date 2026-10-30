@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "DETECTIVE_WALLET",
+  "_original_name": "Wallet",
+  "_original_lore": [
+    "It belonged to a world-renowned",
+    "detective whose lifelong dream has",
+    "always been to investigate his own",
+    "murder case.",
+    "",
+    "* Soulbound *",
+    "X Rift-Transferable X",
+    "EPIC"
+  ],
+  "name": "钱包",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "It belonged to a world-renowned",
+        "detective whose lifelong dream has",
+        "always been to investigate his own",
+        "murder case."
+      ],
+      "translation": "它曾属于一位世界闻名的侦探,他毕生的梦想一直是调查自己的谋杀案.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "X Rift-Transferable X"
+      ],
+      "translation": "X 可转移至裂隙 X",
+      "styleMappings": {
+        "Rift-Transferable": "可转移至裂隙",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

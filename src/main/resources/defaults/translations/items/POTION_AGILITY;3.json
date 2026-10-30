@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_AGILITY;3",
+  "_original_name": "Agility III Potion",
+  "_original_lore": [
+    "",
+    "Agility III (3:00)",
+    "Grants +30  Speed and increases",
+    "the chance for mob attacks to miss",
+    "by 30%.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "敏捷 III 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Agility III ({{N0}}:{{N1}})"
+      ],
+      "translation": "敏捷 III ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Agility III": "敏捷 III",
+        "III": "III"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}  Speed and increases",
+        "the chance for mob attacks to miss",
+        "by {{N1}}."
+      ],
+      "translation": "提供 {{N0}}  速度,并使生物攻击落空的概率提高 {{N1}}.",
+      "styleMappings": {
+        " Speed": " 速度",
+        "Grants": "提供",
+        "chance": "概率",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Agility III": "敏捷 III",
+    "III": "III"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

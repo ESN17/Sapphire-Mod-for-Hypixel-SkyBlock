@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "VOIDLING_FANATIC_MONSTER",
+  "_original_name": "Voidling Fanatic (Monster)",
+  "_original_lore": [
+    "The Voidling Fanatic is a level 85 neutral mob",
+    "added in the End Slayer Update. It currently",
+    "spawns in the Void Sepulture.",
+    "",
+    "❤ Health: 750.000"
+  ],
+  "name": "虚空狂热者 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Voidling Fanatic is a level {{N0}} neutral mob",
+        "added in the End Slayer Update. It currently",
+        "spawns in the Void Sepulture."
+      ],
+      "translation": "虚空狂热者是末地杀手更新中加入的 {{N0}} 级中立生物.目前生成于虚空墓地.",
+      "styleMappings": {
+        "End Slayer Update": "末地杀手更新",
+        "Void Sepulture": "虚空墓地",
+        "neutral mob": "中立生物",
+        "Slayer": "杀手",
+        "End": "末地",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

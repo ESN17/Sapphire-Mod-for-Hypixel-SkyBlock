@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "SKYBLOCK_TABLE",
+  "_original_name": "Dark Oak Table",
+  "_original_lore": [
+    "Furniture",
+    "",
+    "This stylized table is purely cosmetic.",
+    "",
+    "COMMON"
+  ],
+  "name": "深色橡木桌",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Furniture"
+      ],
+      "translation": "家具",
+      "styleMappings": {
+        "Furniture": "家具"
+      }
+    },
+    {
+      "source": [
+        "This stylized table is purely cosmetic."
+      ],
+      "translation": "这张装饰桌纯属外观.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

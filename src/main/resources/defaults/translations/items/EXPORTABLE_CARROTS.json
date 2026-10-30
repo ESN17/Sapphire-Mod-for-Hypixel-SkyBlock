@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "EXPORTABLE_CARROTS",
+  "_original_name": "Exportable Carrots",
+  "_original_lore": [
+    "Bring 3,000 of these to Carrolyn in",
+    "Scarleton on the Crimson Isle to",
+    "permanently gain +5 Health and",
+    "+12 Carrot Fortune.",
+    "",
+    "X Rift-Transferable X",
+    "UNCOMMON"
+  ],
+  "name": "出口胡萝卜",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Bring {{N0}} of these to Carrolyn in",
+        "Scarleton on the Crimson Isle to",
+        "permanently gain {{N1}} Health and",
+        "{{N2}} Carrot Fortune."
+      ],
+      "translation": "将 {{N0}} 个此物品带给绯红之岛上斯卡雷顿的 Carrolyn,即可永久获得 {{N1}} 生命值和 {{N2}} 胡萝卜幸运.",
+      "styleMappings": {
+        "Carrot Fortune": "胡萝卜幸运",
+        "Crimson Isle": "绯红之岛",
+        "permanently": "永久",
+        "Scarleton": "斯卡雷顿",
+        "Carrolyn": "Carrolyn",
+        "Health": "生命值",
+        " Health": " 生命",
+        "Fortune": "幸运",
+        "Carrot": "胡萝卜",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "X Rift-Transferable X"
+      ],
+      "translation": "X 可转移至裂隙 X",
+      "styleMappings": {
+        "Rift-Transferable": "可转移至裂隙",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

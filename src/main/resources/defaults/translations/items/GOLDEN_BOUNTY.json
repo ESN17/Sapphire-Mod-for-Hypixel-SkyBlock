@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "GOLDEN_BOUNTY",
+  "_original_name": "Golden Bounty",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "When applied to a weapon, increases",
+    "its Scavenger level by 1!",
+    "Can be applied once.",
+    "Requires Scavenger V!",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "黄金赏金",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "When applied to a weapon, increases",
+        "its Scavenger level by {{N0}}!"
+      ],
+      "translation": "应用于武器时,将其拾荒者等级提高 {{N0}}!",
+      "styleMappings": {
+        "Scavenger": "拾荒者"
+      }
+    },
+    {
+      "source": [
+        "Can be applied once."
+      ],
+      "translation": "只能应用一次.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Requires Scavenger V!"
+      ],
+      "translation": "需要拾荒者 V!",
+      "styleMappings": {
+        "Scavenger V": "拾荒者 V",
+        "Requires": "需要",
+        "Scavenger": "拾荒者"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Golden Bounty": "黄金赏金"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

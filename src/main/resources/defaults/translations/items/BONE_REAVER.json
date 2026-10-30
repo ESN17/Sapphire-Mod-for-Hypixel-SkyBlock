@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "id": "BONE_REAVER",
+  "_original_name": "Bone Reaver",
+  "_original_lore": [
+    "Gear Score: 325",
+    "Damage: +235",
+    "Strength: +90",
+    "Swing Range: +0.5",
+    "",
+    "Ability: Reaving Strike  RIGHT CLICK",
+    "Slash in a huge arc, dealing 125% melee",
+    "damage to all enemies hit!",
+    "",
+    "Deals +1% damage to Undead",
+    "monsters for every 1% of your",
+    "missing health.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires The Catacombs Floor IV Completion.",
+    "EPIC DUNGEON LONGSWORD"
+  ],
+  "name": "骸骨掠夺者",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Swing Range: {{N0}}"
+      ],
+      "translation": "挥砍范围: {{N0}}",
+      "styleMappings": {
+        "Swing Range": "挥砍范围"
+      }
+    },
+    {
+      "source": [
+        "Ability: Reaving Strike  RIGHT CLICK"
+      ],
+      "translation": "技能: 掠夺打击  右键点击",
+      "styleMappings": {
+        "Reaving Strike": "掠夺打击",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Slash in a huge arc, dealing {{N0}} melee",
+        "damage to all enemies hit!"
+      ],
+      "translation": "挥出一道巨大的弧光,对所有命中的敌人造成 {{N0}} 近战伤害!",
+      "styleMappings": {
+        "melee damage": "近战伤害",
+        "hit": "命中",
+        "damage": "伤害",
+        "enemies": "敌人"
+      }
+    },
+    {
+      "source": [
+        "Deals {{N0}} damage to Undead",
+        "monsters for every {{N1}} of your",
+        "missing health."
+      ],
+      "translation": "你每损失 {{N1}} 生命值,对亡灵怪物造成 {{N0}} 伤害.",
+      "styleMappings": {
+        "monsters": "怪物",
+        "Undead": "亡灵",
+        "damage": "伤害",
+        "health": "生命值",
+        "Deals": "造成"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires The Catacombs Floor IV Completion."
+      ],
+      "translation": "❣ 需要完成地牢第四层.",
+      "styleMappings": {
+        "Requires The Catacombs Floor IV Completion.": "需要完成地牢第四层.",
+        "Requires": "需要",
+        "The Catacombs": "地牢",
+        "Catacombs": "地牢",
+        "The Catacombs Floor IV": "地牢第四层"
+      }
+    },
+    {
+      "source": [
+        "EPIC DUNGEON LONGSWORD"
+      ],
+      "translation": "史诗 地牢 长剑",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

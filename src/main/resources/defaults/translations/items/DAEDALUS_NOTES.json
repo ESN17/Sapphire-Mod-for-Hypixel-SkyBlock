@@ -1,0 +1,156 @@
+{
+  "schemaVersion": 1,
+  "id": "DAEDALUS_NOTES",
+  "_original_name": "Daedalus' Notes",
+  "_original_lore": [
+    "Reforge Stone",
+    "Combinable in Anvil",
+    "",
+    "Applies the Erudite reforge when",
+    "combined with Ancestral Spade,",
+    "Archaic Spade, and Deific Spade.",
+    "",
+    "One of the greatest minds of his time.",
+    "Much can be learned from what",
+    "Daedalus left behind.",
+    "",
+    "Grants the following stats that scale",
+    "with the item's rarity:",
+    "  Speed",
+    "",
+    "Erudite Bonus",
+    "Griffin Burrow chains always consist",
+    "of 2 additional burrows.",
+    "",
+    "Right-click to view rarity scaling!",
+    "",
+    "❣ Requires Mining Skill 30.",
+    "",
+    "LEGENDARY REFORGE STONE"
+  ],
+  "name": "代达罗斯的笔记",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Reforge Stone",
+        "Combinable in Anvil"
+      ],
+      "translation": "洗练石 可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Reforge Stone": "洗练石",
+        "Anvil": "铁砧",
+        "Reforge": "洗练"
+      }
+    },
+    {
+      "source": [
+        "Applies the Erudite reforge when",
+        "combined with Ancestral Spade,",
+        "Archaic Spade, and Deific Spade."
+      ],
+      "translation": "与先祖之铲、古老铁铲和神性铲结合时应用博学洗练.",
+      "styleMappings": {
+        "Erudite": "博学",
+        "Ancestral Spade": "先祖之铲",
+        "Archaic Spade": "古老铁铲",
+        "Deific Spade": "神性铲",
+        "reforge": "洗练",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "One of the greatest minds of his time."
+      ],
+      "translation": "他那个时代最伟大的头脑之一.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Much can be learned from what",
+        "Daedalus left behind."
+      ],
+      "translation": "从代达罗斯留下的东西中可以学到很多.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants the following stats that scale"
+      ],
+      "translation": "提供以下随物品稀有度提升的属性:",
+      "styleMappings": {
+        "Grants": "提供",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "with the item's rarity:"
+      ],
+      "translation": "物品稀有度提升的属性:",
+      "styleMappings": {
+        "item": "物品",
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "  Speed"
+      ],
+      "translation": "   速度",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Erudite Bonus",
+        "Griffin Burrow chains always consist",
+        "of {{N0}} additional burrows."
+      ],
+      "translation": "博学加成 狮鹫洞穴链始终包含 {{N0}} 个额外洞穴.",
+      "styleMappings": {
+        "Griffin Burrow": "狮鹫洞穴",
+        "Erudite Bonus": "博学加成",
+        "additional": "额外",
+        "Griffin": "狮鹫",
+        "Bonus": "加成",
+        "Erudite": "博学"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view rarity scaling!"
+      ],
+      "translation": "右键查看各稀有度的属性!",
+      "styleMappings": {
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Mining Skill {{N0}}."
+      ],
+      "translation": "❣ 需要采矿技能 {{N0}}.",
+      "styleMappings": {
+        "Mining Skill": "采矿技能",
+        "Requires": "需要",
+        "Mining": "采矿",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY REFORGE STONE"
+      ],
+      "translation": "传说洗练石",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

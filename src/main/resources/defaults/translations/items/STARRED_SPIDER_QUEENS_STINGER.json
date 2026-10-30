@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "id": "STARRED_SPIDER_QUEENS_STINGER",
+  "_original_name": " Spider Queen's Stinger",
+  "_original_lore": [
+    "Damage: +600",
+    "",
+    "Arrows shot using this bow have an",
+    "aura around them that deals 618",
+    "Damage to nearby enemies instead of",
+    "dealing impact damage. Arrows travel",
+    "through enemies.",
+    "",
+    "This item is Arachnal !",
+    "",
+    "This item can be reforged!",
+    "EPIC BOW"
+  ],
+  "name": " 蜘蛛女王的毒刺",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Arrows shot using this bow have an",
+        "aura around them that deals {{N0}}",
+        "Damage to nearby enemies instead of",
+        "dealing impact damage. Arrows travel",
+        "through enemies."
+      ],
+      "translation": "使用此弓射出的箭矢周围带有光环,对附近敌人造成 {{N0}} 伤害,而非命中伤害.箭矢会穿透敌人.",
+      "styleMappings": {
+        "that deals": "造成",
+        " Damage": " 伤害",
+        "damage": "伤害",
+        "Damage": "伤害",
+        "enemies": "敌人"
+      }
+    },
+    {
+      "source": [
+        "This item is Arachnal !"
+      ],
+      "translation": "此物品是蛛形纲的 !",
+      "styleMappings": {
+        "item": "物品",
+        "Arachnal": "蛛形"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "EPIC BOW"
+      ],
+      "translation": "史诗 弓",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Spider": "蜘蛛"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

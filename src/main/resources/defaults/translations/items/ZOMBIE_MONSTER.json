@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "ZOMBIE_MONSTER",
+  "_original_name": "Zombie (Monster)",
+  "_original_lore": [
+    "The Zombie is a natural mob in Minecraft. Zombies",
+    "",
+    "❤ Health: 100 - 707"
+  ],
+  "name": "僵尸 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Zombie is a natural mob in Minecraft. Zombies"
+      ],
+      "translation": "僵尸是《我的世界》中的一种自然生物.僵尸",
+      "styleMappings": {
+        "Zombie": "僵尸",
+        "Zombies": "僵尸"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}} - {{N1}}"
+      ],
+      "translation": "❤ 生命值: {{N0}} - {{N1}}",
+      "styleMappings": {
+        "Health": "生命值",
+        "-": "-"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Zombie": "僵尸",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

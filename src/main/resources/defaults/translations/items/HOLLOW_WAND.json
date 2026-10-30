@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "id": "HOLLOW_WAND",
+  "_original_name": "Hollow Wand",
+  "_original_lore": [
+    "Damage: +150",
+    "Strength: +20",
+    "Intelligence: +120",
+    "",
+    "Ability: Hollow Spirit LEFT/RIGHT CLICK",
+    "Left Click to cast a stack of [✤] and Right Click to",
+    "cast a stack of [✦]. Combine stacks to cast",
+    "different spells!",
+    "",
+    "⊳ [✤✤] Spirit Spark (10 ⚶)",
+    "⊳ [✦✦] Hollowed Rush (15 ⚶)",
+    "⊳ [✦✤] Raging Wind (20 ⚶)",
+    "⊳ [✤✦] Ichor Pool (30 ⚶)",
+    "Type '/wandinfo' for detailed ability info.",
+    "",
+    "❣ Requires Combat Skill 22.",
+    "❣ Requires Kuudra Basic Tier Completion.",
+    "LEGENDARY WAND"
+  ],
+  "name": "空洞法杖",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Ability: Hollow Spirit LEFT/RIGHT CLICK"
+      ],
+      "translation": "技能: 空洞之魂 左键/右键点击",
+      "styleMappings": {
+        "LEFT/RIGHT CLICK": "左键/右键点击",
+        "Hollow Spirit": "空洞之魂",
+        "Ability": "技能",
+        "RIGHT CLICK": "右键点击",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Left Click to cast a stack of [✤] and Right Click to",
+        "cast a stack of [✦]. Combine stacks to cast",
+        "different spells!"
+      ],
+      "translation": "左键点击施放一叠 [✤],右键点击施放一叠 [✦].组合叠层可施放不同法术!",
+      "styleMappings": {
+        "Right Click": "右键点击",
+        "Left Click": "左键点击",
+        "[": "[",
+        "✦": "✦"
+      }
+    },
+    {
+      "source": [
+        "⊳ [✤✤] Spirit Spark ({{N0}} ⚶)",
+        "⊳ [✦✦] Hollowed Rush ({{N1}} ⚶)",
+        "⊳ [✦✤] Raging Wind ({{N2}} ⚶)",
+        "⊳ [✤✦] Ichor Pool ({{N3}} ⚶)",
+        "Type '/wandinfo' for detailed ability info."
+      ],
+      "translation": "⊳ [✤✤] 灵魂火花 ({{N0}} ⚶) ⊳ [✦✦] 空洞突袭 ({{N1}} ⚶) ⊳ [✦✤] 狂怒之风 ({{N2}} ⚶) ⊳ [✤✦] 灵液之池 ({{N3}} ⚶) 输入 '/wandinfo' 查看详细技能信息.",
+      "styleMappings": {
+        "Spirit Spark": "灵魂火花",
+        "Hollowed Rush": "空洞突袭",
+        "Raging Wind": "狂怒之风",
+        "Ichor Pool": "灵液之池",
+        "Type '/wandinfo' for detailed ability info.": "输入 '/wandinfo' 查看详细技能信息."
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Kuudra Basic Tier Completion."
+      ],
+      "translation": "❣ 需要完成库德拉基础难度.",
+      "styleMappings": {
+        "Requires Kuudra Basic Tier Completion.": "需要完成库德拉基础难度.",
+        "Requires": "需要",
+        "Basic": "基础",
+        "Kuudra": "库德拉"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY WAND"
+      ],
+      "translation": "传说 魔杖",
+      "styleMappings": {
+        "LEGENDARY": "传说",
+        "LEGENDARY WAND": "传说 魔杖"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Wand": "法杖",
+    "Hollow Wand": "空洞法杖"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

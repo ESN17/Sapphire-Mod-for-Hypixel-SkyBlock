@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "id": "SPRING_BOOTS",
+  "_original_name": "Spring Boots",
+  "_original_lore": [
+    "Feather Falling XX",
+    "Increases how high you can fall",
+    "before taking fall damage by 20 and",
+    "reduces fall damage by 100%.",
+    "",
+    "Ability: To the Moon!  SNEAK",
+    "Charge your jump by sneaking. The",
+    "longer you sneak, the higher you will",
+    "jump!",
+    "",
+    "This item can be reforged!",
+    "RARE BOOTS"
+  ],
+  "name": "弹簧靴",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Feather Falling XX",
+        "Increases how high you can fall",
+        "before taking fall damage by {{N0}} and",
+        "reduces fall damage by {{N1}}."
+      ],
+      "translation": "摔落保护 XX 增加你在受到摔落伤害前可下落的高度 {{N0}},并减少摔落伤害 {{N1}}.",
+      "styleMappings": {
+        "Feather Falling XX": "摔落保护 XX",
+        "Increases": "增加",
+        "damage": "伤害",
+        "Feather Falling": "摔落保护"
+      }
+    },
+    {
+      "source": [
+        "Ability: To the Moon!  SNEAK"
+      ],
+      "translation": "技能: 飞向月球!  潜行",
+      "styleMappings": {
+        "Ability": "技能",
+        "To the Moon!": "飞向月球!",
+        "SNEAK": "潜行"
+      }
+    },
+    {
+      "source": [
+        "Charge your jump by sneaking. The",
+        "longer you sneak, the higher you will",
+        "jump!"
+      ],
+      "translation": "通过潜行蓄力跳跃.潜行时间越长,跳得越高!",
+      "styleMappings": {
+        "sneaking": "潜行"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "RARE BOOTS"
+      ],
+      "translation": "稀有靴子",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Spring Boots": "弹簧靴",
+    "Boots": "靴"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

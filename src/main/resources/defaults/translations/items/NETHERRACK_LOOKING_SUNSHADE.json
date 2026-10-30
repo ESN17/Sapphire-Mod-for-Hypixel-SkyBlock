@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "NETHERRACK_LOOKING_SUNSHADE",
+  "_original_name": "Netherrack-Looking Sunshade",
+  "_original_lore": [
+    "Accessory Power: +3",
+    "",
+    "Makes you invisible to Dive Ghasts.",
+    "",
+    "Works while in Accessory Bag!",
+    "COMMON ACCESSORY"
+  ],
+  "name": "下界岩外观遮阳伞",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Accessory Power: {{N0}}"
+      ],
+      "translation": "饰品能量: {{N0}}",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "Makes you invisible to Dive Ghasts."
+      ],
+      "translation": "使你对俯冲恶魂隐形.",
+      "styleMappings": {
+        "Dive Ghasts": "俯冲恶魂",
+        "Ghasts": "恶魂"
+      }
+    },
+    {
+      "source": [
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "放在饰品袋中即可生效!",
+      "styleMappings": {
+        "Accessory Bag": "饰品袋",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "COMMON ACCESSORY"
+      ],
+      "translation": "普通饰品",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

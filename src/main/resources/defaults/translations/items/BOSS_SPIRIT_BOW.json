@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "id": "BOSS_SPIRIT_BOW",
+  "_original_name": "Spirit Bow",
+  "_original_lore": [
+    "Gear Score: 6",
+    "Damage: +5.81",
+    "",
+    "An extremely fragile but powerful",
+    "bow, capable of damaging Thorn,",
+    "despite him being a spirit!",
+    "",
+    "This item can be reforged!",
+    "EPIC DUNGEON BOW"
+  ],
+  "name": "灵魂之弓",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "An extremely fragile but powerful",
+        "bow, capable of damaging Thorn,",
+        "despite him being a spirit!"
+      ],
+      "translation": "一把极其脆弱但威力强大的弓,能够伤害索恩,尽管他是个幽灵!",
+      "styleMappings": {
+        "Thorn": "索恩"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "EPIC DUNGEON BOW"
+      ],
+      "translation": "史诗 地牢 弓",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Spirit": "灵魂",
+    "Bow": "弓"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "id": "TOXOPHILITE;1",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Toxophilite I",
+    "Gain 3% extra Combat XP. Grants",
+    "+3.7 Crit Chance.",
+    "50k Combat XP to tier up!",
+    "",
+    "Gain 50k Combat XP for Tier II",
+    "Gain 100k Combat XP for Tier III",
+    "Gain 250k Combat XP for Tier IV",
+    "Gain 500k Combat XP for Tier V",
+    "Gain 1m Combat XP for Tier VI",
+    "Gain 1,5m Combat XP for Tier VII",
+    "Gain 2m Combat XP for Tier VIII",
+    "Gain 2,5m Combat XP for Tier IX",
+    "Gain 3m Combat XP for Tier X",
+    "",
+    "▲ Toxophilite cannot be combined!",
+    "",
+    "Sources:",
+    " - Community Shop (I)",
+    " - Bazaar (I)",
+    "",
+    "Applied To:",
+    " - Bow",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Toxophilite I"
+      ],
+      "translation": "远程战斗专精 I",
+      "styleMappings": {
+        "Toxophilite": "远程战斗专精"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}} extra Combat XP. Grants",
+        "{{N1}} Crit Chance."
+      ],
+      "translation": "获得 {{N0}} 额外战斗经验.提供 {{N1}} 暴击几率.",
+      "styleMappings": {
+        "Crit Chance": "暴击几率",
+        "Combat XP": "战斗经验",
+        "Gain": "获得",
+        "Combat": "战斗",
+        " Crit Chance": " 暴击几率"
+      }
+    },
+    {
+      "source": [
+        "{{N0}}k Combat XP to tier up!"
+      ],
+      "translation": "还需 {{N0}} 千战斗经验即可升级!",
+      "styleMappings": {
+        "Combat XP": "战斗经验",
+        "{{N0}}k": "{{N0}} 千",
+        "Combat": "战斗"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}}k Combat XP for Tier II",
+        "Gain {{N1}}k Combat XP for Tier III",
+        "Gain {{N2}}k Combat XP for Tier IV",
+        "Gain {{N3}}k Combat XP for Tier V",
+        "Gain {{N4}}m Combat XP for Tier VI",
+        "Gain {{N5}},{{N6}}m Combat XP for Tier VII",
+        "Gain {{N7}}m Combat XP for Tier VIII",
+        "Gain {{N8}},{{N9}}m Combat XP for Tier IX",
+        "Gain {{N10}}m Combat XP for Tier X"
+      ],
+      "translation": "II 级获得 {{N0}} 千战斗经验 III 级获得 {{N1}} 千战斗经验 IV 级获得 {{N2}} 千战斗经验 V 级获得 {{N3}} 千战斗经验 VI 级获得 {{N4}} 百万战斗经验 VII 级获得 {{N5}},{{N6}} 百万战斗经验 VIII 级获得 {{N7}} 百万战斗经验 IX 级获得 {{N8}},{{N9}} 百万战斗经验 X 级获得 {{N10}} 百万战斗经验",
+      "styleMappings": {
+        "Combat XP": "战斗经验",
+        "{{N5}},{{N6}}m": "{{N5}},{{N6}} 百万",
+        "{{N8}},{{N9}}m": "{{N8}},{{N9}} 百万",
+        "{{N10}}m": "{{N10}} 百万",
+        "{{N0}}k": "{{N0}} 千",
+        "{{N1}}k": "{{N1}} 千",
+        "{{N2}}k": "{{N2}} 千",
+        "{{N3}}k": "{{N3}} 千",
+        "{{N4}}m": "{{N4}} 百万",
+        "{{N7}}m": "{{N7}} 百万",
+        "Gain": "获得",
+        "II": "II",
+        "III": "III",
+        "Combat": "战斗",
+        "for": "获得"
+      }
+    },
+    {
+      "source": [
+        "▲ Toxophilite cannot be combined!"
+      ],
+      "translation": "▲ 远程战斗专精无法合并!",
+      "styleMappings": {
+        "Toxophilite": "远程战斗专精"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Community Shop (I)",
+        " - Bazaar (I)"
+      ],
+      "translation": " - 社区商店 (I)  - 集市 (I)",
+      "styleMappings": {
+        "Community Shop": "社区商店",
+        "Bazaar": "集市",
+        "I": "I"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Bow"
+      ],
+      "translation": " - 弓",
+      "styleMappings": {
+        "Bow": "弓"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

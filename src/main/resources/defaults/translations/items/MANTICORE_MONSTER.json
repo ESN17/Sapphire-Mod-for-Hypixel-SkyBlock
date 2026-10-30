@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "MANTICORE_MONSTER",
+  "_original_name": "Manticore (Mythological Creature)",
+  "_original_lore": [
+    "Mob Types: ✿ Mythological, ☮ Animal, ❃ Elusive",
+    "❤ Health:",
+    "[Griffin] 125,000,000 ❤",
+    "",
+    "MYTHIC"
+  ],
+  "name": "蝎狮 (神话生物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mob Types: ✿ Mythological, ☮ Animal, ❃ Elusive"
+      ],
+      "translation": "生物类型: ✿ 神话, ☮ 动物, ❃ 难以捉摸",
+      "styleMappings": {
+        "Mythological": "神话",
+        "Mob Types:": "生物类型:",
+        "Elusive": "难以捉摸",
+        "Animal": "动物"
+      }
+    },
+    {
+      "source": [
+        "❤ Health:"
+      ],
+      "translation": "❤ 生命值:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "[Griffin] {{N0}} ❤"
+      ],
+      "translation": "[狮鹫] {{N0}} ❤",
+      "styleMappings": {
+        "Griffin": "狮鹫"
+      }
+    },
+    {
+      "source": [
+        "MYTHIC"
+      ],
+      "translation": "神话",
+      "styleMappings": {
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mythological Creature": "神话生物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

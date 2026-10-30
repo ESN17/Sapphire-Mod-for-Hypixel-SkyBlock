@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_DUNGEON;1",
+  "_original_name": "Dungeon I Potion",
+  "_original_lore": [
+    "",
+    "Regeneration I (20:00)",
+    "Grants +2.5 Health Regen.",
+    "",
+    "Strength III (20:00)",
+    "Increases  Strength by 20.",
+    "",
+    "Critical I (20:00)",
+    "Increases  Crit Chance by 10% and",
+    " Crit Damage by 10%.",
+    "",
+    "Speed I (20:00)",
+    "Grants +5  Speed.",
+    "",
+    "Resistance I (20:00)",
+    "Increases  Defense by +5.",
+    "",
+    "COMMON"
+  ],
+  "name": "地牢 I 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Regeneration I ({{N0}}:{{N1}})"
+      ],
+      "translation": "生命恢复 I ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Regeneration I": "生命恢复 I",
+        "Regeneration": "生命恢复"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Health Regen."
+      ],
+      "translation": "提供 {{N0}} 生命恢复.",
+      "styleMappings": {
+        "Health Regen": "生命恢复",
+        "Grants": "提供",
+        "Health": "生命",
+        "Regen": "恢复"
+      }
+    },
+    {
+      "source": [
+        "Strength III ({{N0}}:{{N1}})"
+      ],
+      "translation": "力量 III ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Strength III": "力量 III",
+        "III": "III",
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Increases  Strength by {{N0}}."
+      ],
+      "translation": "增加  力量 {{N0}}.",
+      "styleMappings": {
+        " Strength": " 力量",
+        "Increases": "增加",
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Critical I ({{N0}}:{{N1}})"
+      ],
+      "translation": "暴击 I ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Critical I": "暴击 I",
+        "Critical": "暴击"
+      }
+    },
+    {
+      "source": [
+        "Increases  Crit Chance by {{N0}} and",
+        " Crit Damage by {{N1}}."
+      ],
+      "translation": "增加  暴击几率 {{N0}},增加 暴击伤害 {{N1}}.",
+      "styleMappings": {
+        " Crit Damage": " 暴击伤害",
+        "Crit Chance": "暴击几率",
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害",
+        "Increases": "增加",
+        " Crit Chance": " 暴击几率"
+      }
+    },
+    {
+      "source": [
+        "Speed I ({{N0}}:{{N1}})"
+      ],
+      "translation": "速度 I ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Speed I": "速度 I",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}  Speed."
+      ],
+      "translation": "提供 {{N0}}  速度.",
+      "styleMappings": {
+        " Speed": " 速度",
+        "Grants": "提供",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Resistance I ({{N0}}:{{N1}})"
+      ],
+      "translation": "抗性 I ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Resistance I": "抗性 I",
+        "Resistance": "抗性"
+      }
+    },
+    {
+      "source": [
+        "Increases  Defense by {{N0}}."
+      ],
+      "translation": "增加  防御力 {{N0}}.",
+      "styleMappings": {
+        "Increases": "增加",
+        " Defense": " 防御",
+        "Defense": "防御力"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Dungeon I Potion": "地牢 I 药水",
+    "Dungeon": "地牢"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

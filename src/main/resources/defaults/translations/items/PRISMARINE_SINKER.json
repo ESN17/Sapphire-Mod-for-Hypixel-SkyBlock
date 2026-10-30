@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "PRISMARINE_SINKER",
+  "_original_name": "Prismarine Sinker",
+  "_original_lore": [
+    "Materializes Prismarine Shard or",
+    "Prismarine Crystals in your",
+    "inventory whenever you catch",
+    "something.",
+    "",
+    "Talk to Roddy in the Backwater",
+    "Bayou to apply this Sinker to a",
+    "Fishing Rod.",
+    "",
+    "❣ Requires Fishing Skill 5.",
+    "COMMON ROD PART"
+  ],
+  "name": "海晶石沉子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Materializes Prismarine Shard or",
+        "Prismarine Crystals in your",
+        "inventory whenever you catch",
+        "something."
+      ],
+      "translation": "每次钓到东西时,都会在你的物品栏中生成海晶碎片或海晶砂粒.",
+      "styleMappings": {
+        "Prismarine Crystals": "海晶砂粒",
+        "Prismarine Shard": "海晶碎片",
+        "Shard": "碎片",
+        "Prismarine": "海晶石"
+      }
+    },
+    {
+      "source": [
+        "Talk to Roddy in the Backwater",
+        "Bayou to apply this Sinker to a",
+        "Fishing Rod."
+      ],
+      "translation": "与静水河湾的 Roddy 交谈,将此沉子应用到钓鱼竿上.",
+      "styleMappings": {
+        "Backwater Bayou": "静水河湾",
+        "Fishing Rod": "钓鱼竿",
+        "Sinker": "沉子",
+        "Roddy": "Roddy",
+        "Fishing": "钓鱼",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Fishing Skill {{N0}}."
+      ],
+      "translation": "❣ 需要钓鱼技能 {{N0}}.",
+      "styleMappings": {
+        "Fishing Skill": "钓鱼技能",
+        "Requires": "需要",
+        "Fishing": "钓鱼",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "COMMON ROD PART"
+      ],
+      "translation": "普通钓竿部件",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sinker": "沉子",
+    "Prismarine": "海晶石"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

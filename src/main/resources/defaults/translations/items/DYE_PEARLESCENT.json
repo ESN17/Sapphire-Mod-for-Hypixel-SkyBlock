@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "DYE_PEARLESCENT",
+  "_original_name": "Pearlescent Dye",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Changes the color of an armor piece",
+    "to #115555!",
+    "",
+    "LEGENDARY DYE"
+  ],
+  "name": "珠光染料",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Changes the color of an armor piece",
+        "to #{{N0}}!"
+      ],
+      "translation": "将一件盔甲的颜色改为 #{{N0}}!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "LEGENDARY DYE"
+      ],
+      "translation": "传说染料",
+      "styleMappings": {
+        "LEGENDARY DYE": "传说染料",
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

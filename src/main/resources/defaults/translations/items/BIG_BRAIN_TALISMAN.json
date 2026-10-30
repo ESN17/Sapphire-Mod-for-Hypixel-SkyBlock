@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "BIG_BRAIN_TALISMAN",
+  "_original_name": "Big Brain Talisman",
+  "_original_lore": [
+    "Intelligence: +1",
+    "",
+    "* Soulbound *",
+    "X Rift-Transferable X",
+    "Works while in Accessory Bag!",
+    "COMMON ACCESSORY"
+  ],
+  "name": "大脑袋护符",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "X Rift-Transferable X",
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "X 裂隙可转移 X 放在饰品袋中时生效!",
+      "styleMappings": {
+        "Works while in Accessory Bag!": "放在饰品袋中时生效!",
+        "Rift-Transferable": "裂隙可转移",
+        "Accessory Bag": "饰品袋",
+        "Rift": "裂隙",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "COMMON ACCESSORY"
+      ],
+      "translation": "普通饰品",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Big Brain": "大脑",
+    "Talisman": "护符"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

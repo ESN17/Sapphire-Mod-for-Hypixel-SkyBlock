@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "GLACITE_JEWEL",
+  "_original_name": "Glacite Jewel",
+  "_original_lore": [
+    "It is said that there is a lost village",
+    "made of Glacite, deep under the",
+    "Dwarven Mines.",
+    "",
+    "RARE"
+  ],
+  "name": "冰川宝石",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "It is said that there is a lost village",
+        "made of Glacite, deep under the",
+        "Dwarven Mines."
+      ],
+      "translation": "据说在矮人矿坑深处,有一座由冰川石建成的失落村庄.",
+      "styleMappings": {
+        "Dwarven Mines": "矮人矿坑",
+        "Glacite": "冰川石"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Glacite": "冰川"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

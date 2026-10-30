@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_AWKWARD",
+  "_original_name": "Awkward Potion",
+  "_original_lore": [
+    "Use Awkward Potions in Brewing",
+    "Stands with items labeled as Brewing",
+    "Ingredients to brew Potions.",
+    "",
+    "COMMON"
+  ],
+  "name": "粗制药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Use Awkward Potions in Brewing",
+        "Stands with items labeled as Brewing",
+        "Ingredients to brew Potions."
+      ],
+      "translation": "在酿造台中用粗制药水与标注为酿造材料的物品来酿造药水.",
+      "styleMappings": {
+        "items": "物品",
+        "Ingredients": "材料",
+        "Potions": "药水"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "VOLT_MONSTER",
+  "_original_name": "Volt (Monster)",
+  "_original_lore": [
+    "❤ Health: 160"
+  ],
+  "name": "伏特 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Volt (Monster)": "伏特 (怪物)",
+    "(Monster)": "(怪物)",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

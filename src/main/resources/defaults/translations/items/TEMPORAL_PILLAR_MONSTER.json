@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "TEMPORAL_PILLAR_MONSTER",
+  "_original_name": "Temporal Pillar (Monster)",
+  "_original_lore": [
+    "Can be found roaming around the Village Plaza.",
+    "",
+    "❤ Health: 100,000"
+  ],
+  "name": "时间之柱 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Can be found roaming around the Village Plaza."
+      ],
+      "translation": "可在村庄广场附近游荡时找到.",
+      "styleMappings": {
+        "Village": "村庄"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

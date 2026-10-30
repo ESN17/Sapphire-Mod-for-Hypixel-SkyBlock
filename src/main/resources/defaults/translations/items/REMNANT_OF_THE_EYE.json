@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "REMNANT_OF_THE_EYE",
+  "_original_name": "Remnant of the Eye",
+  "_original_lore": [
+    "Keeps you alive when you are on",
+    "death's door, granting a short",
+    "period of invincibility. Consumed on",
+    "use.",
+    "",
+    "ONLY WORKS ON THE END ISLAND.",
+    "",
+    "EPIC"
+  ],
+  "name": "残存之眼",
+  "lore": {
+    "ONLY WORKS ON THE END ISLAND.": "仅在末地岛屿生效.",
+    "EPIC": "史诗"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "Keeps you alive when you are on",
+        "death's door, granting a short",
+        "period of invincibility. Consumed on",
+        "use."
+      ],
+      "translation": "在濒死时保住你的性命,并给予短暂无敌.触发后消耗.",
+      "styleMappings": {
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "ONLY WORKS ON THE END ISLAND."
+      ],
+      "translation": "仅在末地岛屿生效.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "LORD_JAWBUS_SC",
+  "_original_name": "Lord Jawbus (Sea Creature)",
+  "_original_lore": [
+    "Mob Types: ♆ Magmatic, ⚙ Construct, ❃ Elusive",
+    "❤ Health: 100,000,000",
+    "",
+    "MYTHIC"
+  ],
+  "name": "乔巴斯领主 (海怪)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mob Types: ♆ Magmatic, ⚙ Construct, ❃ Elusive"
+      ],
+      "translation": "生物类型: ♆ 熔岩, ⚙ 构装, ❃ 闪避",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Magmatic": "熔岩",
+        "Construct": "构装",
+        "Elusive": "闪避"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "MYTHIC"
+      ],
+      "translation": "神话",
+      "styleMappings": {
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sea Creature": "海怪",
+    "(Sea Creature)": "(海怪)"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

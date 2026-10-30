@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "SEA_FROG_DIAMOND",
+  "_original_name": "Sea Frog DIAMOND",
+  "_original_lore": [
+    "Caught while underwater.",
+    "",
+    "Bring this to Researcher Ribery on",
+    "the Lotus Atoll.",
+    "",
+    "* Soulbound *",
+    "RARE TROPHY"
+  ],
+  "name": "海蛙 钻石",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Caught while underwater."
+      ],
+      "translation": "在水下捕获.",
+      "styleMappings": {
+        "underwater": "水下"
+      }
+    },
+    {
+      "source": [
+        "Bring this to Researcher Ribery on",
+        "the Lotus Atoll."
+      ],
+      "translation": "将此物交给莲花环礁上的 Researcher Ribery.",
+      "styleMappings": {
+        "Researcher Ribery": "Researcher Ribery",
+        "Lotus Atoll": "莲花环礁",
+        "Lotus": "莲花"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "RARE TROPHY"
+      ],
+      "translation": "稀有奖杯",
+      "styleMappings": {
+        "RARE TROPHY": "稀有奖杯",
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "DIAMOND": "钻石",
+    "Sea Frog": "海蛙"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

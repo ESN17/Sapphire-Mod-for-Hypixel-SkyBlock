@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "DARK_BAIT",
+  "_original_name": "Dark Bait",
+  "_original_lore": [
+    "Fishing Bait",
+    "Consumes on Catch",
+    "",
+    "Increases your chance to catch",
+    "rare Sea Creatures during the night.",
+    "",
+    "COMMON BAIT"
+  ],
+  "name": "黑暗鱼饵",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Fishing Bait",
+        "Consumes on Catch"
+      ],
+      "translation": "钓鱼鱼饵 钓起时消耗",
+      "styleMappings": {
+        "Consumes on Catch": "钓起时消耗",
+        "Fishing Bait": "钓鱼鱼饵",
+        "Fishing": "钓鱼",
+        "Bait": "鱼饵"
+      }
+    },
+    {
+      "source": [
+        "Increases your chance to catch",
+        "rare Sea Creatures during the night."
+      ],
+      "translation": "提高你在夜间钓到稀有海洋生物的概率.",
+      "styleMappings": {
+        "rare Sea Creatures": "稀有海洋生物",
+        "chance to": "概率",
+        "night": "夜间",
+        "rare": "稀有",
+        "Sea Creatures": "海洋生物",
+        "chance": "概率"
+      }
+    },
+    {
+      "source": [
+        "COMMON BAIT"
+      ],
+      "translation": "普通鱼饵",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Bait": "鱼饵",
+    "Dark Bait": "黑暗鱼饵"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

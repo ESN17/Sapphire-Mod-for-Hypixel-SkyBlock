@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "SVEN_ALPHA_MINIBOSS",
+  "_original_name": "Sven Alpha (Miniboss)",
+  "_original_lore": [
+    "The Sven Alpha is a Sven Packmaster Miniboss that is",
+    "rarely spawned upon killing a Wolf during a Sven ",
+    "Packmaster Tier IV Quest.",
+    "",
+    "❤ Health: 450,000"
+  ],
+  "name": "斯文首领 (小首领)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Sven Alpha is a Sven Packmaster Miniboss that is",
+        "rarely spawned upon killing a Wolf during a Sven ",
+        "Packmaster Tier IV Quest."
+      ],
+      "translation": "斯文狼王阿尔法是一种斯文狼王小首领,在斯文狼王四级任务中击杀狼时有小概率生成.",
+      "styleMappings": {
+        "Miniboss": "小首领",
+        "Wolf": "狼",
+        "Sven Alpha": "斯文狼王阿尔法",
+        "Sven Packmaster": "斯文狼王"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Miniboss)": "(小首领)",
+    "Miniboss": "小首领"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

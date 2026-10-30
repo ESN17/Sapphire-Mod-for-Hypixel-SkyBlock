@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "id": "DIAMOND_HUNTER_BOOTS",
+  "_original_name": "Diamond Hunter Boots",
+  "_original_lore": [
+    "Health: +100",
+    "Gemstones: [] []",
+    "",
+    "Tiered Bonus: Peace Treaty (0/2)",
+    "Gain immunity to Sea Creatures but",
+    "they are immune to you and you can",
+    "no longer catch them.",
+    "",
+    "Tiered Bonus: Odger's Blessing (0/4)",
+    "Grants +0 Trophy Chance.",
+    "",
+    "Full Set Bonus: Star Fisher (0/4)",
+    "Grants +1 Fishing Speed per ✪",
+    "Upgrade Star on your armor.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Master Trophy Fisher.",
+    "* Soulbound *",
+    "LEGENDARY BOOTS"
+  ],
+  "name": "钻石猎人靴子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [] []"
+      ],
+      "translation": "宝石: [] []",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石",
+        "] [": "] ["
+      }
+    },
+    {
+      "source": [
+        "Tiered Bonus: Peace Treaty ({{N0}}/{{N1}})"
+      ],
+      "translation": "分级加成:和平条约 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Tiered Bonus": "分级加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Gain immunity to Sea Creatures but",
+        "they are immune to you and you can",
+        "no longer catch them."
+      ],
+      "translation": "获得对海洋生物的免疫,但它们也免疫于你,你无法再捕捉它们.",
+      "styleMappings": {
+        "Sea Creatures": "海洋生物",
+        "Gain": "获得",
+        "immunity": "免疫",
+        "immune": "免疫"
+      }
+    },
+    {
+      "source": [
+        "Tiered Bonus: Odger's Blessing ({{N0}}/{{N1}})"
+      ],
+      "translation": "分级加成:Odger的祝福 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Tiered Bonus": "分级加成",
+        "Blessing": "祝福",
+        "Odger": "Odger",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Trophy Chance."
+      ],
+      "translation": "提供 {{N0}} 奖杯概率.",
+      "styleMappings": {
+        "Trophy Chance": "奖杯概率",
+        "Grants": "提供",
+        "Trophy": "奖杯"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Star Fisher ({{N0}}/{{N1}})"
+      ],
+      "translation": "全套加成:星辰渔夫 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Full Set Bonus: Star Fisher": "全套加成:星辰渔夫",
+        "Full Set Bonus": "全套加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Fishing Speed per ✪",
+        "Upgrade Star on your armor."
+      ],
+      "translation": "每颗护甲上的 ✪ 升级之星提供 {{N0}} 钓鱼速度.",
+      "styleMappings": {
+        "Fishing Speed": "钓鱼速度",
+        "Upgrade Star": "升级之星",
+        "Grants": "提供",
+        "Fishing": "钓鱼",
+        "Speed": "速度",
+        " Fishing Speed": " 钓鱼速度",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Master Trophy Fisher."
+      ],
+      "translation": "❣ 需要大师奖杯钓手.",
+      "styleMappings": {
+        "Requires Master Trophy Fisher.": "需要大师奖杯钓手.",
+        "Requires": "需要",
+        "Trophy": "奖杯",
+        "Master": "大师"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY BOOTS"
+      ],
+      "translation": "传说 靴子",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Boots": "靴子",
+    "Hunter": "猎人"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

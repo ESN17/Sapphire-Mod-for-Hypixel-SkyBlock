@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "GIRAFFE;0",
+  "_original_name": "[Lvl {LVL}] Giraffe",
+  "_original_lore": [
+    "Foraging Pet",
+    "",
+    "Health: +{HEALTH}",
+    "Crit Chance: +{CRIT_CHANCE}%",
+    "Swing Range: +{SWING_RANGE}",
+    "",
+    "Good Heart",
+    "Grants +{0} Health Regen",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "COMMON PET"
+  ],
+  "name": "[等级 {LVL}] 长颈鹿",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Foraging Pet"
+      ],
+      "translation": "采伐宠物",
+      "styleMappings": {
+        "Foraging Pet": "采伐宠物",
+        "Pet": "宠物",
+        "Foraging": "采伐"
+      }
+    },
+    {
+      "source": [
+        "Health: +{{N0}}"
+      ],
+      "translation": "生命值: +{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Crit Chance: +{{N0}}%"
+      ],
+      "translation": "暴击几率: +{{N0}}%",
+      "styleMappings": {
+        "Crit Chance": "暴击几率"
+      }
+    },
+    {
+      "source": [
+        "Swing Range: +{{N0}}"
+      ],
+      "translation": "攻击范围: +{{N0}}",
+      "styleMappings": {
+        "Swing Range": "攻击范围"
+      }
+    },
+    {
+      "source": [
+        "Good Heart"
+      ],
+      "translation": "善良之心",
+      "styleMappings": {
+        "Good Heart": "善良之心"
+      }
+    },
+    {
+      "source": [
+        "Grants +{{N0}} Health Regen"
+      ],
+      "translation": "提供 +{{N0}} 生命回复",
+      "styleMappings": {
+        "Health Regen": "生命回复",
+        "Grants": "提供",
+        "Health": "生命",
+        "Regen": "回复"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "COMMON PET"
+      ],
+      "translation": "普通 宠物",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Giraffe": "长颈鹿",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

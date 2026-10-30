@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_ARCHERY;4",
+  "_original_name": "Archery IV Potion",
+  "_original_lore": [
+    "",
+    "Archery IV (3:00)",
+    "Increases bow damage by 75%.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "弓术 IV 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Archery IV ({{N0}}:{{N1}})"
+      ],
+      "translation": "弓术 IV ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Archery IV": "弓术 IV"
+      }
+    },
+    {
+      "source": [
+        "Increases bow damage by {{N0}}."
+      ],
+      "translation": "弓伤害提高 {{N0}}.",
+      "styleMappings": {
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Archery IV": "弓术 IV"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "SWEET_AXE",
+  "_original_name": "Sweet Axe",
+  "_original_lore": [
+    "Damage: +25",
+    "",
+    "20% chance of dropping an Apple",
+    "when chopping logs.",
+    "",
+    "This item can be reforged!",
+    "UNCOMMON AXE"
+  ],
+  "name": "甜斧",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "{{N0}} chance of dropping an Apple",
+        "when chopping logs."
+      ],
+      "translation": "砍伐原木时有 {{N0}} 几率掉落苹果.",
+      "styleMappings": {
+        "chance": "几率",
+        "Apple": "苹果",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON AXE"
+      ],
+      "translation": "罕见 斧",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Axe": "斧"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

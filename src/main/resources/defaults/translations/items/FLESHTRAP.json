@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "FLESHTRAP",
+  "_original_name": "Fleshtrap",
+  "_original_lore": [
+    "A twisted version of the Venus",
+    "flytrap, this plant thrives on feeding",
+    "its insatiable hunger for flesh. It",
+    "requires regular offerings to stay",
+    "alive, or it withers away.",
+    "",
+    "Complete Visitor Beth's quest to",
+    "Analyze this crop!",
+    "",
+    "RARE MUTATION"
+  ],
+  "name": "肉捕蝇草",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A twisted version of the Venus",
+        "flytrap, this plant thrives on feeding",
+        "its insatiable hunger for flesh. It",
+        "requires regular offerings to stay",
+        "alive, or it withers away."
+      ],
+      "translation": "捕蝇草的扭曲变种,这株植物靠满足其对血肉的无尽饥渴而茁壮成长.它需要定期献祭才能存活,否则就会枯萎.",
+      "styleMappings": {
+        "plant": "植物"
+      }
+    },
+    {
+      "source": [
+        "Complete Visitor Beth's quest to",
+        "Analyze this crop!"
+      ],
+      "translation": "完成访客 Beth 的任务来分析这种作物!",
+      "styleMappings": {
+        "Visitor": "访客",
+        "Beth's": "Beth 的",
+        "Analyze": "分析"
+      }
+    },
+    {
+      "source": [
+        "RARE MUTATION"
+      ],
+      "translation": "稀有突变",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

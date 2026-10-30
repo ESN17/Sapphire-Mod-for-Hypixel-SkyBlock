@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "id": "BAT_FIREWORK",
+  "_original_name": "Bat Firework",
+  "_original_lore": [
+    "Launches a firework that",
+    "explodes into several Bat",
+    "Piñatas, each dropping a bunch",
+    "of candies. Only usable in the",
+    "Village.",
+    "",
+    "Cooldown: 30s",
+    "",
+    "Bat Piñata drops do not",
+    "count towards leaderboard",
+    "progress!",
+    "",
+    "RARE"
+  ],
+  "name": "蝙蝠烟花",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Launches a firework that",
+        "explodes into several Bat",
+        "Piñatas, each dropping a bunch",
+        "of candies. Only usable in the",
+        "Village."
+      ],
+      "translation": "发射一枚烟花,爆炸后散出数个蝙蝠皮纳塔,每个都会掉落一堆糖果.仅可在村庄使用.",
+      "styleMappings": {
+        "Bat": "蝙蝠",
+        "Village": "村庄"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "Bat Piñata drops do not",
+        "count towards leaderboard",
+        "progress!"
+      ],
+      "translation": "蝙蝠皮纳塔的掉落不计入排行榜进度!",
+      "styleMappings": {
+        "Bat": "蝙蝠"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Bat": "蝙蝠"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": "CONTRABAND",
+  "_original_name": "Drone Mod: Contraband",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Can be applied to Precursor Drone",
+    "to grant it +7.5 Sea Creature",
+    "Chance and unlock the Contraband",
+    "perk.",
+    "",
+    "Contraband",
+    "When Fishing, catching a Sea",
+    "Creature has a 0.1-10% chance to",
+    "also give you Treasure.",
+    "Chances scale with pet level.",
+    "",
+    "Right-click on your summoned",
+    "Precursor Drone to give it this item!",
+    "",
+    "EPIC PET ITEM"
+  ],
+  "name": "无人机改装:违禁品",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Can be applied to Precursor Drone",
+        "to grant it {{N0}} Sea Creature",
+        "Chance and unlock the Contraband",
+        "perk."
+      ],
+      "translation": "可应用于先驱者无人机,使其获得 {{N0}} 海怪概率并解锁违禁品能力.",
+      "styleMappings": {
+        "Sea Creature Chance": "海怪概率",
+        "Precursor Drone": "先驱者无人机",
+        "Contraband": "违禁品",
+        "Sea Creature": "海怪"
+      }
+    },
+    {
+      "source": [
+        "Contraband"
+      ],
+      "translation": "违禁品",
+      "styleMappings": {
+        "Contraband": "违禁品"
+      }
+    },
+    {
+      "source": [
+        "When Fishing, catching a Sea",
+        "Creature has a {{N0}}-{{N1}} chance to",
+        "also give you Treasure."
+      ],
+      "translation": "钓鱼时,钓到海怪有 {{N0}}-{{N1}} 的概率额外给予你宝藏.",
+      "styleMappings": {
+        "Sea Creature": "海怪",
+        "chance to": "概率",
+        "Treasure": "宝藏",
+        "Fishing": "钓鱼",
+        "chance": "概率"
+      }
+    },
+    {
+      "source": [
+        "Chances scale with pet level."
+      ],
+      "translation": "概率随宠物等级提升.",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Right-click on your summoned"
+      ],
+      "translation": "右键点击你召唤的",
+      "styleMappings": {
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "Precursor Drone to give it this item!"
+      ],
+      "translation": "先驱者无人机,将此物品给予它!",
+      "styleMappings": {
+        "Precursor Drone": "先驱者无人机",
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "EPIC PET ITEM"
+      ],
+      "translation": "史诗 宠物 物品",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Contraband": "违禁品"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

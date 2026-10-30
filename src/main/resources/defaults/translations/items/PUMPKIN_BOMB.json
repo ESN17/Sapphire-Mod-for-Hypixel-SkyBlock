@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "PUMPKIN_BOMB",
+  "_original_name": "Blast o' Lantern",
+  "_original_lore": [
+    "Throwable explosive. Deals 2 damage",
+    "to Spooky enemies and 3,021 damage",
+    "against non-scary enemies!",
+    "",
+    "RARE"
+  ],
+  "name": "爆炸南瓜灯",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Throwable explosive. Deals {{N0}} damage",
+        "to Spooky enemies and {{N1}} damage",
+        "against non-scary enemies!"
+      ],
+      "translation": "可投掷的爆炸物.对恐怖敌人造成 {{N0}} 伤害,对普通敌人造成 {{N1}} 伤害!",
+      "styleMappings": {
+        "damage": "伤害",
+        "Deals": "造成",
+        "enemies": "敌人",
+        "Spooky": "恐怖",
+        "non-scary": "普通"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

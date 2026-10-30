@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "id": "ATTRIBUTE_SHARD_EELASTIC;1",
+  "_original_name": "Eel Shard",
+  "_original_lore": [
+    "Eelastic I",
+    "Increase Pull by +1 when using your",
+    "Fishing Nets.",
+    "",
+    "You can Syphon this shard from",
+    "your Hunting Box.",
+    "",
+    "Right-click to send to Hunting Box!",
+    "Shift Right-click to move all!",
+    "",
+    "❣ Requires Hunting Skill 10.",
+    "RARE WATER SHARD (ID R53)"
+  ],
+  "name": "鳗鱼碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Eelastic I"
+      ],
+      "translation": "鳗鱼 I",
+      "styleMappings": {
+        "I": "I"
+      }
+    },
+    {
+      "source": [
+        "Increase Pull by {{N0}} when using your",
+        "Fishing Nets."
+      ],
+      "translation": "使用钓鱼网时,牵引力提高 {{N0}}.",
+      "styleMappings": {
+        "Fishing": "钓鱼",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "You can Syphon this shard from",
+        "your Hunting Box."
+      ],
+      "translation": "你可以从狩猎箱中吸取此碎片.",
+      "styleMappings": {
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to send to Hunting Box!"
+      ],
+      "translation": "右键点击发送至狩猎箱!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Shift Right-click to move all!"
+      ],
+      "translation": "潜行键 右键点击全部移动!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "all": "全部"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Hunting Skill {{N0}}."
+      ],
+      "translation": "❣ 需要狩猎技能 {{N0}}.",
+      "styleMappings": {
+        "Hunting Skill": "狩猎技能",
+        "Requires": "需要",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "RARE WATER SHARD (ID R{{N0}})"
+      ],
+      "translation": "稀有水生碎片 (ID 阿{{N0}})",
+      "styleMappings": {
+        "RARE WATER SHARD": "稀有水生碎片",
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shard": "碎片"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

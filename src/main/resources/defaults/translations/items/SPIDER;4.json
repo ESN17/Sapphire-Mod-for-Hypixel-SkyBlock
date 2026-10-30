@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 1,
+  "id": "SPIDER;4",
+  "_original_name": "[Lvl {LVL}] Spider",
+  "_original_lore": [
+    "Combat Pet",
+    "",
+    "Strength: +{STRENGTH}",
+    "Crit Chance: +{CRIT_CHANCE}%",
+    "",
+    "One With The Spider",
+    "Applies +{0} Strength to all",
+    "Arachnal  weapons, armor, and",
+    "equipment you have equipped.",
+    "",
+    "Web-weaver",
+    "Upon hitting a monster, it becomes",
+    "slowed by {1}%.",
+    "",
+    "Spider Whisperer",
+    "Spider, Cave Spider and Tarantula",
+    "minions work {2}% faster while on",
+    "your island.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "LEGENDARY PET"
+  ],
+  "name": "[等级 {LVL}] 蜘蛛",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combat Pet"
+      ],
+      "translation": "战斗宠物",
+      "styleMappings": {
+        "Combat Pet": "战斗宠物",
+        "Combat": "战斗",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Strength: +{{N0}}"
+      ],
+      "translation": "力量: +{{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Crit Chance: +{{N0}}%"
+      ],
+      "translation": "暴击几率: +{{N0}}%",
+      "styleMappings": {
+        "Crit Chance": "暴击几率"
+      }
+    },
+    {
+      "source": [
+        "One With The Spider"
+      ],
+      "translation": "与蜘蛛合一",
+      "styleMappings": {
+        "Spider": "蜘蛛"
+      }
+    },
+    {
+      "source": [
+        "Applies +{{N0}} Strength to all",
+        "Arachnal  weapons, armor, and",
+        "equipment you have equipped."
+      ],
+      "translation": "为你装备的所有蛛形  武器、盔甲和装备提供 +{{N0}} 力量.",
+      "styleMappings": {
+        "+{{N0}} Strength": "+{{N0}} 力量",
+        "Arachnal": "蛛形",
+        " Strength": " 力量",
+        "Strength": "力量",
+        "equipped": "装备"
+      }
+    },
+    {
+      "source": [
+        "Web-weaver"
+      ],
+      "translation": "织网者",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Upon hitting a monster, it becomes",
+        "slowed by {{N0}}%."
+      ],
+      "translation": "击中怪物后,其会被减速 {{N0}}%.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Spider Whisperer"
+      ],
+      "translation": "蜘蛛低语者",
+      "styleMappings": {
+        "Spider": "蜘蛛"
+      }
+    },
+    {
+      "source": [
+        "Spider, Cave Spider and Tarantula",
+        "minions work {{N0}}% faster while on",
+        "your island."
+      ],
+      "translation": "蜘蛛、洞穴蜘蛛和狼蛛仆从在你的岛屿上工作时速度加快 {{N0}}%.",
+      "styleMappings": {
+        "Cave Spider": "洞穴蜘蛛",
+        "Tarantula": "狼蛛",
+        "minions": "仆从",
+        "Spider": "蜘蛛",
+        "faster": "加快",
+        "island": "岛屿上",
+        "work": "工作"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY PET"
+      ],
+      "translation": "传说 宠物",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Spider": "蜘蛛",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

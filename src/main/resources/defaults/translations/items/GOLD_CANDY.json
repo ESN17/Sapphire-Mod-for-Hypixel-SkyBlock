@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "GOLD_CANDY",
+  "_original_name": "Golden Treat",
+  "_original_lore": [
+    "Obtained during the Spooky Festival",
+    "for placing within the Top 50 of the",
+    "Candy Contest! Can be placed.",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "金糖果",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Obtained during the Spooky Festival",
+        "for placing within the Top {{N0}} of the",
+        "Candy Contest! Can be placed."
+      ],
+      "translation": "在幽灵节期间,于糖果竞赛中进入前 {{N0}} 名获得!可放置.",
+      "styleMappings": {
+        "Spooky Festival": "幽灵节",
+        "Candy Contest": "糖果竞赛",
+        "Top {{N0}}": "前 {{N0}} 名",
+        "for": "获得",
+        "Spooky": "幽灵",
+        "Candy": "糖果"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_HASTE;1",
+  "_original_name": "Haste I Potion",
+  "_original_lore": [
+    "",
+    "Haste I (3:00)",
+    "Grants +50  Mining Speed.",
+    "",
+    "COMMON"
+  ],
+  "name": "急速 I 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Haste I ({{N0}}:{{N1}})"
+      ],
+      "translation": "急速 I ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Haste I": "急速 I"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}  Mining Speed."
+      ],
+      "translation": "获得 {{N0}}   挖掘速度.",
+      "styleMappings": {
+        "Mining Speed": "挖掘速度",
+        "Grants": "获得",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Haste I": "急速 I"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

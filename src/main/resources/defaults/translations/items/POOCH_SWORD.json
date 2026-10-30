@@ -1,0 +1,172 @@
+{
+  "schemaVersion": 1,
+  "id": "POOCH_SWORD",
+  "_original_name": "Pooch Sword",
+  "_original_lore": [
+    "Damage: +160",
+    "Strength: +80",
+    "Attack Speed: +5%",
+    "Speed: +10",
+    "Gemstones: []",
+    "",
+    "Deal +20 Damage per Wolf Slayer level",
+    "Deal +200%  Damage against Wolves",
+    "Take -20% damage from  Animal mobs",
+    "Gain +45☯ Combat Wisdom against  Animal mobs",
+    "",
+    "Ability: Pack Mentality",
+    "Deal +100%  Damage against Wolves",
+    "when wearing a full set of Armor of",
+    "the Pack or Mastiff Armor.",
+    "",
+    "This item can be reforged!",
+    "☠ Requires Wolf Slayer 6.",
+    "LEGENDARY SWORD"
+  ],
+  "name": "啸月之剑",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Attack Speed: {{N0}}"
+      ],
+      "translation": "攻击速度: {{N0}}",
+      "styleMappings": {
+        "Attack Speed": "攻击速度",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: []"
+      ],
+      "translation": "宝石: []",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石"
+      }
+    },
+    {
+      "source": [
+        "Deal {{N0}} Damage per Wolf Slayer level",
+        "Deal {{N1}}  Damage against Wolves",
+        "Take {{N2}} damage from  Animal mobs",
+        "Gain {{N3}}☯ Combat Wisdom against  Animal mobs"
+      ],
+      "translation": "每级狼杀手等级造成 {{N0}} 伤害 对狼造成 {{N1}}  伤害 受到  动物生物造成的 {{N2}} 伤害 对  动物生物获得 {{N3}}☯ 战斗智慧",
+      "styleMappings": {
+        "Combat Wisdom": "战斗智慧",
+        "damage from": "造成的",
+        "Wolf Slayer": "狼杀手",
+        " Damage": " 伤害",
+        "Animal": "动物",
+        "Wolves": "狼",
+        "mobs": "生物",
+        "damage": "伤害",
+        "Combat": "战斗",
+        "Damage": "伤害",
+        "Gain": "获得",
+        "Wisdom": "智慧",
+        "Slayer": "杀手",
+        " Animal": " 动物",
+        "Deal": "造成",
+        "per": "每",
+        "Wolf": "狼"
+      }
+    },
+    {
+      "source": [
+        "Ability: Pack Mentality"
+      ],
+      "translation": "能力: 群体意识",
+      "styleMappings": {
+        "Ability": "能力",
+        "Pack Mentality": "群体意识"
+      }
+    },
+    {
+      "source": [
+        "Deal {{N0}}  Damage against Wolves",
+        "when wearing a full set of Armor of",
+        "the Pack or Mastiff Armor."
+      ],
+      "translation": "穿戴全套狼群护甲或獒犬护甲时,对狼造成 {{N0}}  伤害.",
+      "styleMappings": {
+        "Armor of the Pack": "狼群护甲",
+        "Mastiff Armor": "獒犬护甲",
+        " Damage": " 伤害",
+        "Wolves": "狼",
+        "Damage": "伤害",
+        "Armor": "护甲",
+        "when": "时",
+        "Deal": "造成",
+        "Mastiff": "獒犬"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Wolf Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要狼杀手 {{N0}}.",
+      "styleMappings": {
+        "Wolf Slayer": "狼杀手",
+        "Requires": "需要",
+        "Slayer": "杀手",
+        "Wolf": "狼"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY SWORD"
+      ],
+      "translation": "传说剑",
+      "styleMappings": {
+        "LEGENDARY": "传说",
+        "LEGENDARY SWORD": "传说剑"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Pooch Sword": "啸月之剑",
+    "Sword": "剑"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_name_revision": "2026-10-17-slayer-rpg"
+}

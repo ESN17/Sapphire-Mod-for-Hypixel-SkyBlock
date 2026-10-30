@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "TIDAL_RUNE;1",
+  "_original_name": "◆ Tidal Rune I",
+  "_original_lore": [
+    "Requires level 20",
+    "Boots",
+    "",
+    "Obtained from Phantom Fisher during",
+    "Spooky Festival.",
+    "",
+    "Apply this rune to boots or fuse two",
+    "together at the Runic Pedestal!",
+    "",
+    "LEGENDARY COSMETIC"
+  ],
+  "name": "◆ 潮汐符文 I",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Requires level {{N0}}",
+        "Boots"
+      ],
+      "translation": "需要等级 {{N0}} 靴子",
+      "styleMappings": {
+        "Requires": "需要",
+        "Boots": "靴子"
+      }
+    },
+    {
+      "source": [
+        "Obtained from Phantom Fisher during",
+        "Spooky Festival."
+      ],
+      "translation": "在幽灵节期间从幽灵渔夫处获得.",
+      "styleMappings": {
+        "Spooky Festival": "幽灵节",
+        "Spooky": "幽灵"
+      }
+    },
+    {
+      "source": [
+        "Apply this rune to boots or fuse two",
+        "together at the Runic Pedestal!"
+      ],
+      "translation": "将此符文应用于靴子,或在符文基座上将两个融合!",
+      "styleMappings": {
+        "Runic Pedestal": "符文基座",
+        "Runic": "符文"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY COSMETIC"
+      ],
+      "translation": "传说外观",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Rune I": "符文 I",
+    "Tidal": "潮汐"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

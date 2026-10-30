@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "MYSTERIOUS_PACKAGE",
+  "_original_name": "Mysterious Package",
+  "_original_lore": [
+    "Correctly dispose of this item to",
+    "permanently gain +1☯ Fishing Wisdom",
+    "and 250,000 Coins.",
+    "",
+    "Bonuses may only be obtained once.",
+    "",
+    "Throw it back when they are",
+    "present. By he who is both false idol",
+    "and beacon of hope.",
+    "",
+    "RARE"
+  ],
+  "name": "神秘包裹",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Correctly dispose of this item to",
+        "permanently gain {{N0}}☯ Fishing Wisdom",
+        "and {{N1}} Coins."
+      ],
+      "translation": "正确处理此物品即可永久获得 {{N0}}☯ 钓鱼智慧和 {{N1}} 硬币.",
+      "styleMappings": {
+        "Fishing Wisdom": "钓鱼智慧",
+        "permanently": "永久",
+        "Coins": "硬币",
+        "item": "物品",
+        "Fishing": "钓鱼",
+        "Wisdom": "智慧",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "Bonuses may only be obtained once."
+      ],
+      "translation": "奖励只能获得一次.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Throw it back when they are",
+        "present. By he who is both false idol",
+        "and beacon of hope."
+      ],
+      "translation": "当他们出现时把它扔回去.由那位既是虚假偶像又是希望灯塔者所留.",
+      "styleMappings": {
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "PHANFLARE_MONSTER",
+  "_original_name": "Phanflare (Monster)",
+  "_original_lore": [
+    "The Phanflare has a 7.1% chance to spawn",
+    "when breaking a tree on Galetea.",
+    "",
+    "Mob Type: ⸙ Woodland, ✈ Airborne",
+    "❤ Health: 200",
+    "❁ Damage: 1"
+  ],
+  "name": "幽焰怪 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Phanflare has a {{N0}} chance to spawn",
+        "when breaking a tree on Galetea."
+      ],
+      "translation": "在加勒忒亚上砍树时,有 {{N0}} 概率生成幻焰蛾.",
+      "styleMappings": {
+        "chance to": "概率",
+        "Galetea": "加勒忒亚",
+        "chance": "概率",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Mob Type: ⸙ Woodland, ✈ Airborne"
+      ],
+      "translation": "生物类型: ⸙ 林地, ✈ 飞行",
+      "styleMappings": {
+        "Mob Type": "生物类型",
+        "Woodland": "林地",
+        "Airborne": "飞行"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "❁ Damage: {{N0}}"
+      ],
+      "translation": "❁ 伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

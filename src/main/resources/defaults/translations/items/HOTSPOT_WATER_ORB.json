@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "HOTSPOT_WATER_ORB",
+  "_original_name": "Hotspot Water Orb",
+  "_original_lore": [
+    "Radiating some weird energy.",
+    "",
+    "Probably safe to hold?",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "热点水球",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Radiating some weird energy."
+      ],
+      "translation": "散发着某种奇怪的能量.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Probably safe to hold?"
+      ],
+      "translation": "拿着大概很安全?",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Hotspot": "热点"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

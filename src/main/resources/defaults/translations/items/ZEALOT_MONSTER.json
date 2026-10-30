@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "ZEALOT_MONSTER",
+  "_original_name": "Zealot (Monster)",
+  "_original_lore": [
+    "Zealots are a type of Enderman found exclusively",
+    "in the Dragon's Nest. Zealots are not hostile towards",
+    "players, unless provoked, like normal Enderman. ",
+    "",
+    "❤ Health: 13,000"
+  ],
+  "name": "末地战士 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Zealots are a type of Enderman found exclusively",
+        "in the Dragon's Nest. Zealots are not hostile towards",
+        "players, unless provoked, like normal Enderman. "
+      ],
+      "translation": "末地战士是一种仅出没于龙巢的末影人.除非被激怒,末地战士不会像普通末影人那样主动攻击玩家.",
+      "styleMappings": {
+        "Dragon's Nest": "龙巢",
+        "Enderman": "末影人",
+        "Dragon": "龙",
+        "Zealots": "末地战士",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

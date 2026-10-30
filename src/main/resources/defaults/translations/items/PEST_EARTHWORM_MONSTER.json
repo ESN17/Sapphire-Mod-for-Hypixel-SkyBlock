@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "PEST_EARTHWORM_MONSTER",
+  "_original_name": "Earthworm (Pest)",
+  "_original_lore": [
+    "Big, scary, and pink.",
+    "",
+    "Attracted to Compost.",
+    "",
+    "❤ Health: 600"
+  ],
+  "name": "蚯蚓 (害虫)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Big, scary, and pink."
+      ],
+      "translation": "又大、又吓人,还是粉色的.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Attracted to Compost."
+      ],
+      "translation": "被堆肥吸引.",
+      "styleMappings": {
+        "Compost": "堆肥"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Pest": "害虫",
+    "Earthworm": "蚯蚓"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

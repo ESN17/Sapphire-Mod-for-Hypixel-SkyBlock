@@ -1,0 +1,176 @@
+{
+  "schemaVersion": 1,
+  "id": "KUUDRA_MANDIBLE",
+  "_original_name": "Kuudra Mandible",
+  "_original_lore": [
+    "Reforge Stone",
+    "Combinable in Anvil",
+    "",
+    "Applies the Chomp reforge when",
+    "combined with a Fishing Rod.",
+    "",
+    "Grants the following stats that scale",
+    "with the item's rarity:",
+    "  Strength",
+    "  Crit Chance",
+    "  Fishing Speed",
+    "",
+    "Chomp Bonus",
+    "Each unique Lava Sea Creature",
+    "killed with this rod in your inventory",
+    "reduces their  Health when fished",
+    "by 1%.",
+    "Capped at -20% health.",
+    "",
+    "Current Reduction: -0% ❤",
+    "",
+    "Right-click to view rarity scaling!",
+    "",
+    "❣ Requires Mining Skill 33.",
+    "",
+    "LEGENDARY REFORGE STONE"
+  ],
+  "name": "库德拉 下颚",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Reforge Stone",
+        "Combinable in Anvil"
+      ],
+      "translation": "洗练石 可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Reforge Stone": "洗练石",
+        "Anvil": "铁砧",
+        "Reforge": "洗练"
+      }
+    },
+    {
+      "source": [
+        "Applies the Chomp reforge when",
+        "combined with a Fishing Rod."
+      ],
+      "translation": "与钓鱼竿结合时施加咀嚼洗练.",
+      "styleMappings": {
+        "Fishing Rod": "钓鱼竿",
+        "reforge": "洗练",
+        "Chomp": "咀嚼",
+        "Fishing": "钓鱼",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Grants the following stats that scale"
+      ],
+      "translation": "提供以下随物品稀有度提升的属性:",
+      "styleMappings": {
+        "Grants": "提供",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "with the item's rarity:"
+      ],
+      "translation": "物品稀有度提升的属性:",
+      "styleMappings": {
+        "item": "物品",
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "  Strength",
+        "  Crit Chance",
+        "  Fishing Speed"
+      ],
+      "translation": "   力量   暴击几率   钓鱼速度",
+      "styleMappings": {
+        "Fishing Speed": "钓鱼速度",
+        "Crit Chance": "暴击几率",
+        "Strength": "力量",
+        "Fishing": "钓鱼",
+        "Speed": "速度",
+        " Crit Chance": " 暴击几率",
+        " Fishing Speed": " 钓鱼速度"
+      }
+    },
+    {
+      "source": [
+        "Chomp Bonus",
+        "Each unique Lava Sea Creature",
+        "killed with this rod in your inventory",
+        "reduces their  Health when fished",
+        "by {{N0}}."
+      ],
+      "translation": "咀嚼加成 每当你背包中带有此竿时击杀一种独特的熔岩海怪,钓到它们时其 生命值降低 {{N0}}.",
+      "styleMappings": {
+        "Lava Sea Creature": "熔岩海怪",
+        "Chomp Bonus": "咀嚼加成",
+        "Health": "生命值",
+        "unique": "独特",
+        " Health": " 生命",
+        "Bonus": "加成",
+        "Lava": "熔岩",
+        "Sea Creature": "海怪",
+        "when": "时",
+        "Chomp": "咀嚼"
+      }
+    },
+    {
+      "source": [
+        "Capped at {{N0}} health."
+      ],
+      "translation": "上限为 {{N0}} 生命值.",
+      "styleMappings": {
+        "health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Current Reduction: {{N0}} ❤"
+      ],
+      "translation": "当前减免: {{N0}} ❤",
+      "styleMappings": {
+        "Current Reduction": "当前减免"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view rarity scaling!"
+      ],
+      "translation": "右键查看各稀有度的属性!",
+      "styleMappings": {
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Mining Skill {{N0}}."
+      ],
+      "translation": "❣ 需要采矿技能 {{N0}}.",
+      "styleMappings": {
+        "Mining Skill": "采矿技能",
+        "Requires": "需要",
+        "Mining": "采矿",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY REFORGE STONE"
+      ],
+      "translation": "传说洗练石",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Kuudra": "库德拉"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

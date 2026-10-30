@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "ZOG_ANVIL",
+  "_original_name": "Zog Anvil",
+  "_original_lore": [
+    "Used in crafting to upgrade pet",
+    "items purchased from Zog.",
+    "",
+    "Can also be used to craft the",
+    "Hephaestus Anvil.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "RARE"
+  ],
+  "name": "Zog 铁砧",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Used in crafting to upgrade pet",
+        "items purchased from Zog."
+      ],
+      "translation": "用于合成,以升级从 Zog 处购买的宠物物品.",
+      "styleMappings": {
+        "Zog": "Zog",
+        "pet": "宠物",
+        "items": "物品",
+        "upgrade": "升级"
+      }
+    },
+    {
+      "source": [
+        "Can also be used to craft the",
+        "Hephaestus Anvil."
+      ],
+      "translation": "也可用于合成赫菲斯托斯铁砧.",
+      "styleMappings": {
+        "Hephaestus Anvil": "赫菲斯托斯铁砧",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Anvil": "铁砧",
+    "Zog": "Zog"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

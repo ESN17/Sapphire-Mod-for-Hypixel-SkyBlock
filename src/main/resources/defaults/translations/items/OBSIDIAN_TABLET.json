@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "OBSIDIAN_TABLET",
+  "_original_name": "Obsidian Tablet",
+  "_original_lore": [
+    "Combine x9 of this item at the",
+    "Thaumaturgist in the Hub to unlock the",
+    "Mythical power.",
+    "",
+    "At 250 Accessory Power:",
+    "+55.08 Health",
+    "+39.34 Defense",
+    "+39.34 Strength",
+    "+15.74 Crit Chance",
+    "+39.34 Crit Damage",
+    "+59.01 Intelligence",
+    "+9.26 Speed",
+    "",
+    "Unique Power Bonus:",
+    "+150 Health",
+    "+40 Strength",
+    "",
+    "❣ Requires Combat Skill 20.",
+    "",
+    "RARE POWER STONE"
+  ],
+  "name": "黑曜石板",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combine x{{N0}} of this item at the",
+        "Thaumaturgist in the Hub to unlock the",
+        "Mythical power."
+      ],
+      "translation": "在中心岛的奇术师居所处将 x{{N0}} 个此物品组合,以解锁神话级能量.",
+      "styleMappings": {
+        "Thaumaturgist": "奇术师居所",
+        "Mythical": "神话级",
+        "item": "物品",
+        "Hub": "中心岛",
+        "to unlock the": "以解锁",
+        "in the": "的",
+        "power.": "能量.",
+        "x{{N0}}": "{{N0}} 个"
+      }
+    },
+    {
+      "source": [
+        "At {{N0}} Accessory Power:"
+      ],
+      "translation": "在 {{N0}} 饰品能量时:",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "{{N0}} Health",
+        "{{N1}} Defense",
+        "{{N2}} Strength",
+        "{{N3}} Crit Chance",
+        "{{N4}} Crit Damage",
+        "{{N5}} Intelligence",
+        "{{N6}} Speed"
+      ],
+      "translation": "{{N0}} 生命 {{N1}} 防御 {{N2}} 力量 {{N3}} 暴击几率 {{N4}} 暴击伤害 {{N5}} 智力 {{N6}} 速度",
+      "styleMappings": {
+        " Crit Damage": " 暴击伤害",
+        "Intelligence": "智力",
+        "Crit Chance": "暴击几率",
+        " Strength": " 力量",
+        " Defense": " 防御",
+        " Health": " 生命",
+        " Speed": " 速度",
+        "": "",
+        "Crit Damage": "暴击伤害",
+        "Strength": "力量",
+        "Defense": "防御",
+        "Health": "生命",
+        "Speed": "速度",
+        "Damage": "伤害",
+        " Crit Chance": " 暴击几率",
+        " Intelligence": " 智力"
+      }
+    },
+    {
+      "source": [
+        "Unique Power Bonus:"
+      ],
+      "translation": "独特能量加成:",
+      "styleMappings": {
+        "Unique Power Bonus": "独特能量加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "{{N0}} Health",
+        "{{N1}} Strength"
+      ],
+      "translation": "{{N0}} 生命 {{N1}} 力量",
+      "styleMappings": {
+        " Strength": " 力量",
+        " Health": " 生命",
+        "Strength": "力量",
+        "Health": "生命"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "RARE POWER STONE"
+      ],
+      "translation": "稀有能量石",
+      "styleMappings": {
+        "RARE POWER STONE": "稀有能量石",
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Obsidian": "黑曜石"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

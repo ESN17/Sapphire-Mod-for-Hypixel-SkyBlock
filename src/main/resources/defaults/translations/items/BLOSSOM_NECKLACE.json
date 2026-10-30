@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "id": "BLOSSOM_NECKLACE",
+  "_original_name": "Blossom Necklace",
+  "_original_lore": [
+    "Health: +15",
+    "Farming Fortune: +7",
+    "",
+    "Piece Bonus: Florist",
+    "Complete Garden Visitor Offers to",
+    "gain  Farming Fortune.",
+    "",
+    "Piece Bonus: +0",
+    "Next Upgrade: +1.5 (0/1)",
+    "",
+    "Right-click to equip!",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Garden Level 8.",
+    "❣ Requires Farming Skill 20.",
+    "EPIC NECKLACE"
+  ],
+  "name": "花簇项链",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Farming Fortune: {{N0}}"
+      ],
+      "translation": "农业幸运: {{N0}}",
+      "styleMappings": {
+        "Farming Fortune": "农业幸运",
+        "Fortune": "幸运",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "Piece Bonus: Florist"
+      ],
+      "translation": "部件加成: 花匠",
+      "styleMappings": {
+        "Piece Bonus": "部件加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Complete Garden Visitor Offers to",
+        "gain  Farming Fortune."
+      ],
+      "translation": "完成花园访客订单以获得  农业幸运.",
+      "styleMappings": {
+        "Garden Visitor Offers": "花园访客订单",
+        "Farming Fortune": "农业幸运",
+        "Visitor": "访客",
+        "Garden": "花园",
+        "Fortune": "幸运",
+        "Farming": "农业",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "Piece Bonus: {{N0}}"
+      ],
+      "translation": "部件加成: {{N0}}",
+      "styleMappings": {
+        "Piece Bonus": "部件加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Next Upgrade: {{N0}} ({{N1}}/{{N2}})"
+      ],
+      "translation": "下次升级: {{N0}} ({{N1}}/{{N2}})",
+      "styleMappings": {
+        "Next Upgrade": "下次升级"
+      }
+    },
+    {
+      "source": [
+        "Right-click to equip!"
+      ],
+      "translation": "右键点击装备!",
+      "styleMappings": {
+        "Right-click to equip!": "右键点击装备!",
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Garden Level {{N0}}."
+      ],
+      "translation": "❣ 需要花园等级 {{N0}}.",
+      "styleMappings": {
+        "Garden Level": "花园等级",
+        "Requires": "需要",
+        "Garden": "花园"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Farming Skill {{N0}}."
+      ],
+      "translation": "❣ 需要农业技能 {{N0}}.",
+      "styleMappings": {
+        "Farming Skill": "农业技能",
+        "Requires": "需要",
+        "Farming": "农业",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC NECKLACE"
+      ],
+      "translation": "史诗项链",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Necklace": "项链"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

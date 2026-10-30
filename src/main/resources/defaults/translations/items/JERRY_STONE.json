@@ -1,0 +1,145 @@
+{
+  "schemaVersion": 1,
+  "id": "JERRY_STONE",
+  "_original_name": "Jerry Stone",
+  "_original_lore": [
+    "Reforge Stone",
+    "Combinable in Anvil",
+    "",
+    "Applies the Jerry's reforge when",
+    "combined with Aspect of the Jerry",
+    "and Aspect of the Jerry, Signature",
+    "Edition.",
+    "",
+    "Use with your favorite Aspect of the",
+    "Jerry.",
+    "",
+    "Grants the following stats that scale",
+    "with the item's rarity:",
+    "  Strength",
+    "  Crit Chance",
+    "  Crit Damage",
+    "",
+    "Right-click to view rarity scaling!",
+    "",
+    "❣ Requires Mining Skill 1.",
+    "",
+    "UNCOMMON REFORGE STONE"
+  ],
+  "name": "杰瑞 石",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Reforge Stone",
+        "Combinable in Anvil"
+      ],
+      "translation": "洗练石 可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Reforge Stone": "洗练石",
+        "Anvil": "铁砧",
+        "Reforge": "洗练"
+      }
+    },
+    {
+      "source": [
+        "Applies the Jerry's reforge when",
+        "combined with Aspect of the Jerry",
+        "and Aspect of the Jerry, Signature",
+        "Edition."
+      ],
+      "translation": "与杰瑞之刃和杰瑞之刃, 签名版结合时,施加 杰瑞 的洗练.",
+      "styleMappings": {
+        "Jerry's": "杰瑞 的",
+        "Aspect of the Jerry, Signature Edition": "杰瑞之刃, 签名版",
+        "Aspect of the Jerry": "杰瑞之刃",
+        "reforge": "洗练",
+        "Jerry": "杰瑞",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Use with your favorite Aspect of the",
+        "Jerry."
+      ],
+      "translation": "与你最喜欢的杰瑞之刃一起使用.",
+      "styleMappings": {
+        "Aspect of the Jerry": "杰瑞之刃",
+        "Jerry": "杰瑞"
+      }
+    },
+    {
+      "source": [
+        "Grants the following stats that scale"
+      ],
+      "translation": "提供以下随物品稀有度提升的属性:",
+      "styleMappings": {
+        "Grants": "提供",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "with the item's rarity:"
+      ],
+      "translation": "物品稀有度提升的属性:",
+      "styleMappings": {
+        "item": "物品",
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "  Strength",
+        "  Crit Chance",
+        "  Crit Damage"
+      ],
+      "translation": "    力量    暴击几率   暴击伤害",
+      "styleMappings": {
+        " Crit Damage": " 暴击伤害",
+        "Crit Chance": "暴击几率",
+        "Crit Damage": "暴击伤害",
+        "Strength": "力量",
+        "Damage": "伤害",
+        " Crit Chance": " 暴击几率"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view rarity scaling!"
+      ],
+      "translation": "右键查看各稀有度的属性!",
+      "styleMappings": {
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Mining Skill {{N0}}."
+      ],
+      "translation": "❣ 需要采矿技能 {{N0}}.",
+      "styleMappings": {
+        "Mining Skill": "采矿技能",
+        "Requires": "需要",
+        "Mining": "采矿",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON REFORGE STONE"
+      ],
+      "translation": "罕见 洗练 石",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Jerry": "杰瑞"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

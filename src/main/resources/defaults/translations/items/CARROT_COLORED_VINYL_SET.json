@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "id": "CARROT_COLORED_VINYL_SET",
+  "_original_name": "Carrot-Colored Vinyl Set",
+  "_original_lore": [
+    "Fill this with any 5 Pest Vinyls.",
+    "",
+    "Once full, you may gift this to a",
+    "Visitor to charm them.",
+    "",
+    "Charmed Visitors can give better",
+    "rewards next time they visit!",
+    "",
+    "Vinyls: 0/5",
+    "",
+    "Right-click to open!",
+    "",
+    "RARE"
+  ],
+  "name": "胡萝卜色黑胶唱片套装",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Fill this with any {{N0}} Pest Vinyls."
+      ],
+      "translation": "用任意 {{N0}} 张害虫黑胶唱片填满它.",
+      "styleMappings": {
+        "Pest Vinyls": "害虫黑胶唱片",
+        "Pest": "害虫"
+      }
+    },
+    {
+      "source": [
+        "Once full, you may gift this to a",
+        "Visitor to charm them."
+      ],
+      "translation": "填满后,你可以将其赠送给访客来迷住他们.",
+      "styleMappings": {
+        "Visitor": "访客",
+        "charm": "迷住"
+      }
+    },
+    {
+      "source": [
+        "Charmed Visitors can give better",
+        "rewards next time they visit!"
+      ],
+      "translation": "被迷住的访客下次来访时能给出更好的奖励!",
+      "styleMappings": {
+        "Charmed Visitors": "被迷住的访客",
+        "Visitors": "访客"
+      }
+    },
+    {
+      "source": [
+        "Vinyls: {{N0}}/{{N1}}"
+      ],
+      "translation": "黑胶唱片: {{N0}}/{{N1}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to open!"
+      ],
+      "translation": "右键点击打开!",
+      "styleMappings": {
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Vinyl": "唱片",
+    "Carrot": "胡萝卜"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

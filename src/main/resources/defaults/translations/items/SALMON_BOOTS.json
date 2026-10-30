@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "SALMON_BOOTS",
+  "_original_name": "Salmon Boots",
+  "_original_lore": [
+    "Health: +85",
+    "Defense: +20",
+    "Sea Creature Chance: +1.5%",
+    "",
+    "Ability: Water Burst  SNEAK",
+    "When wearing the full set, grants the",
+    "wearer with the ability to burst",
+    "forward when sneaking in water.",
+    "Mana Cost: 20",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Fishing Skill 13.",
+    "EPIC BOOTS"
+  ],
+  "name": "鲑鱼靴子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Sea Creature Chance: {{N0}}"
+      ],
+      "translation": "海洋生物概率:{{N0}}",
+      "styleMappings": {
+        "Sea Creature Chance": "海洋生物概率",
+        "Sea Creature": "海洋生物"
+      }
+    },
+    {
+      "source": [
+        "Ability: Water Burst  SNEAK"
+      ],
+      "translation": "技能: 水花迸发  潜行",
+      "styleMappings": {
+        "Ability": "技能",
+        "Water Burst": "水花迸发",
+        "SNEAK": "潜行"
+      }
+    },
+    {
+      "source": [
+        "When wearing the full set, grants the",
+        "wearer with the ability to burst",
+        "forward when sneaking in water."
+      ],
+      "translation": "穿戴全套时,使穿戴者在水中潜行时能够向前迸发.",
+      "styleMappings": {
+        "burst forward": "向前迸发",
+        "sneaking": "潜行",
+        "when": "时",
+        "water": "水"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Fishing Skill {{N0}}."
+      ],
+      "translation": "❣ 需要钓鱼技能 {{N0}}.",
+      "styleMappings": {
+        "Fishing Skill": "钓鱼技能",
+        "Requires": "需要",
+        "Fishing": "钓鱼",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC BOOTS"
+      ],
+      "translation": "史诗靴子",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Boots": "靴子"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

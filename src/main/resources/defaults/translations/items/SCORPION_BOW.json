@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 1,
+  "id": "SCORPION_BOW",
+  "_original_name": "Spider Shortbow",
+  "_original_lore": [
+    "Damage: +50",
+    "Strength: +25",
+    "Crit Chance: +10%",
+    "Shot Cooldown: 0.5s",
+    "",
+    "Ability: Eggsecute ",
+    "Arrows fired from this weapon deal",
+    "2x damage to Egg Sacs spawned by",
+    "the Tarantula Broodfather!",
+    "",
+    "Shortbow: Instantly shoots!",
+    "",
+    "This item can be reforged!",
+    "☠ Requires Spider Slayer 3.",
+    "EPIC BOW"
+  ],
+  "name": "猎蛛短弓",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Crit Chance: {{N0}}"
+      ],
+      "translation": "暴击率: {{N0}}",
+      "styleMappings": {
+        "Crit Chance": "暴击率"
+      }
+    },
+    {
+      "source": [
+        "Shot Cooldown: {{N0}}s"
+      ],
+      "translation": "射击间隔:{{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "Ability: Eggsecute "
+      ],
+      "translation": "技能: 蛋刑 ",
+      "styleMappings": {
+        "Ability": "技能"
+      }
+    },
+    {
+      "source": [
+        "Arrows fired from this weapon deal",
+        "{{N0}}x damage to Egg Sacs spawned by",
+        "the Tarantula Broodfather!"
+      ],
+      "translation": "此武器射出的箭矢对蜘蛛首领生成的鸡蛋囊造成 {{N0}}倍伤害!",
+      "styleMappings": {
+        "Tarantula Broodfather": "蜘蛛首领",
+        "Egg Sacs": "鸡蛋囊",
+        "damage": "伤害",
+        "deal": "造成",
+        "{{N0}}x": "{{N0}}倍"
+      }
+    },
+    {
+      "source": [
+        "Shortbow: Instantly shoots!"
+      ],
+      "translation": "短弓: 即时射击!",
+      "styleMappings": {
+        "Shortbow": "短弓"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Spider Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要蜘蛛杀手 {{N0}}.",
+      "styleMappings": {
+        "Spider Slayer": "蜘蛛杀手",
+        "Requires": "需要",
+        "Spider": "蜘蛛",
+        "Slayer": "杀手"
+      }
+    },
+    {
+      "source": [
+        "EPIC BOW"
+      ],
+      "translation": "史诗 弓",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Spider Shortbow": "猎蛛短弓",
+    "Shortbow": "短弓"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_name_revision": "2026-10-17-slayer-rpg"
+}

@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 1,
+  "id": "MASTIFF_HELMET",
+  "_original_name": "Mastiff Crown",
+  "_original_lore": [
+    "Health: +300",
+    "Crit Damage: +15%",
+    "Intelligence: +125",
+    "Gemstones: [] [] [] [] []",
+    "",
+    "Full Set Bonus: Absolute Unit (0/4)",
+    "- Receive -20% damage from  Animal mobs.",
+    "- Gain +1%❤ Health per 25 Crit Damage. (Max",
+    "40% HP).",
+    "- Gain +1 Crit Damage per 2 Defense.",
+    "- Heal 150❤ when hit, consuming 5 Vitality.",
+    "(1s cooldown).",
+    "- Your  Defense is capped at 300.",
+    "",
+    "This item can be reforged!",
+    "☠ Requires Wolf Slayer 4.",
+    "EPIC HELMET"
+  ],
+  "name": "獒犬头盔",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: {{N0}}"
+      ],
+      "translation": "暴击伤害:{{N0}}",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [] [] [] [] []"
+      ],
+      "translation": "宝石: [] [] [] [] []",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石",
+        "] [": "] ["
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Absolute Unit ({{N0}}/{{N1}})"
+      ],
+      "translation": "全套加成: 绝对巨兽 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Full Set Bonus: Absolute Unit": "全套加成: 绝对巨兽",
+        "Full Set Bonus": "全套加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "- Receive {{N0}} damage from  Animal mobs."
+      ],
+      "translation": "- 受到  动物类生物造成的 {{N0}} 伤害.",
+      "styleMappings": {
+        "damage from": "造成的",
+        "Receive": "受到",
+        "Animal": "动物",
+        "mobs.": "伤害.",
+        "damage": "伤害",
+        "mobs": "生物",
+        " Animal": " 动物"
+      }
+    },
+    {
+      "source": [
+        "- Gain {{N0}}❤ Health per {{N1}} Crit Damage. (Max",
+        "{{N2}} HP)."
+      ],
+      "translation": "- 每 {{N1}} 暴击伤害获得 {{N0}}❤ 生命值.(最大 {{N2}} 生命值).",
+      "styleMappings": {
+        " Crit Damage": " 暴击伤害",
+        "Health": "生命值",
+        "Gain": "获得",
+        "Max": "最大",
+        "{{N0}}❤ Health": "{{N0}}❤ 生命值",
+        "Crit Damage": "暴击伤害",
+        "{{N2}} HP": "{{N2}} 生命值",
+        "per": "每",
+        "Damage": "伤害",
+        "HP": "生命值"
+      }
+    },
+    {
+      "source": [
+        "- Gain {{N0}} Crit Damage per {{N1}} Defense."
+      ],
+      "translation": "- 每 {{N1}} 防御获得 {{N0}} 暴击伤害.",
+      "styleMappings": {
+        " Crit Damage": " 暴击伤害",
+        " Defense": " 防御",
+        "Gain": "获得",
+        "Crit Damage": "暴击伤害",
+        "Defense": "防御",
+        "Damage": "伤害",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "- Heal {{N0}}❤ when hit, consuming {{N1}} Vitality."
+      ],
+      "translation": "- 受击时治疗 {{N0}}❤,消耗 {{N1}} 生命回复.",
+      "styleMappings": {
+        "Vitality": "生命回复",
+        "Heal": "治疗",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "({{N0}}s cooldown)."
+      ],
+      "translation": "({{N0}} 秒冷却).",
+      "styleMappings": {
+        "cooldown": "冷却",
+        "{{N0}}s": "{{N0}} 秒"
+      }
+    },
+    {
+      "source": [
+        "- Your  Defense is capped at {{N0}}."
+      ],
+      "translation": "- 你的  防御上限为 {{N0}}.",
+      "styleMappings": {
+        " Defense": " 防御",
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Wolf Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要狼杀手 {{N0}}.",
+      "styleMappings": {
+        "Wolf Slayer": "狼杀手",
+        "Requires": "需要",
+        "Slayer": "杀手",
+        "Wolf": "狼"
+      }
+    },
+    {
+      "source": [
+        "EPIC HELMET"
+      ],
+      "translation": "史诗头盔",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mastiff": "獒犬",
+    "Crown": "头盔"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

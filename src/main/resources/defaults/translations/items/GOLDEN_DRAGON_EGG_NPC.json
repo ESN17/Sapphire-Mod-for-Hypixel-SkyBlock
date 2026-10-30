@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "GOLDEN_DRAGON_EGG_NPC",
+  "_original_name": "Golden Dragon Egg (NPC)",
+  "_original_lore": [
+    "The Golden Dragon Pet can be purchased",
+    "in the Dragon's Lair within the Crystal Hollows.",
+    "The pet starts out as an egg with no stats or perks,",
+    "gaining them when it hatches at level 100."
+  ],
+  "name": "金龙头蛋 (人物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Golden Dragon Pet can be purchased",
+        "in the Dragon's Lair within the Crystal Hollows."
+      ],
+      "translation": "黄金龙宠物可在水晶洞窟内的巨龙巢穴中购买.",
+      "styleMappings": {
+        "Golden Dragon Pet": "黄金龙宠物",
+        "Crystal Hollows": "水晶洞窟",
+        "Dragon's Lair": "巨龙巢穴",
+        "Crystal": "水晶",
+        "Pet": "宠物",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "The pet starts out as an egg with no stats or perks,",
+        "gaining them when it hatches at level {{N0}}."
+      ],
+      "translation": "该宠物初始为蛋形态,没有属性或能力,在 {{N0}} 级孵化时获得它们.",
+      "styleMappings": {
+        "stats": "属性",
+        "pet": "宠物",
+        "when": "时"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Dragon": "龙",
+    "(NPC)": "(人物)",
+    "Egg": "蛋",
+    "Golden Dragon Egg": "金龙头蛋",
+    "Golden Dragon": "金龙"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

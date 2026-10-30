@@ -1,0 +1,189 @@
+{
+  "schemaVersion": 1,
+  "id": "TERROR_HELMET",
+  "_original_name": "Terror Helmet",
+  "_original_lore": [
+    "Health: +160",
+    "Defense: +50",
+    "Crit Damage: +50%",
+    "Intelligence: +15",
+    "Speed: +12",
+    "Gemstones: [⚔] [⚔]",
+    "",
+    "Tiered Bonus: Hydra Strike (0/4)",
+    "Every 0.2s, arrow attacks grant 1",
+    "stack of ⁑ Hydra Strike. Lose 1 stack",
+    "after 4s of not gaining a stack.",
+    "",
+    "Each stack grants +2% Damage and +1%",
+    "Arrow Speed.",
+    "",
+    "At 10 stacks shoot +2 arrows that deal 20%",
+    "Arrow Damage.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Combat Skill 22.",
+    "❣ Requires Kuudra Basic Tier Completion.",
+    "LEGENDARY HELMET"
+  ],
+  "name": "恐惧头盔",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: {{N0}}"
+      ],
+      "translation": "暴击伤害:{{N0}}",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [⚔] [⚔]"
+      ],
+      "translation": "宝石: [⚔] [⚔]",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石",
+        "] [": "] ["
+      }
+    },
+    {
+      "source": [
+        "Tiered Bonus: Hydra Strike ({{N0}}/{{N1}})"
+      ],
+      "translation": "分级加成:九头蛇打击 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Hydra Strike": "九头蛇打击",
+        "Tiered Bonus": "分级加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Every {{N0}}s, arrow attacks grant {{N1}}",
+        "stack of ⁑ Hydra Strike. Lose {{N2}} stack",
+        "after {{N3}}s of not gaining a stack."
+      ],
+      "translation": "每 {{N0}} 秒,箭矢攻击会给予 {{N1}} 层 ⁑ 九头蛇打击.若 {{N3}} 秒内未获得层数则失去 {{N2}} 层.",
+      "styleMappings": {
+        "Lose {{N2}} stack after {{N3}}s of not gaining a stack.": "若 {{N3}} 秒内未获得层数则失去 {{N2}} 层.",
+        "⁑ Hydra Strike": "⁑ 九头蛇打击",
+        "{{N0}}s": "{{N0}} 秒",
+        "{{N3}}s": "{{N3}} 秒",
+        "Hydra Strike": "九头蛇打击"
+      }
+    },
+    {
+      "source": [
+        "Each stack grants {{N0}} Damage and {{N1}}",
+        "Arrow Speed."
+      ],
+      "translation": "每层给予 {{N0}} 伤害和 {{N1}} 箭矢速度。",
+      "styleMappings": {
+        "Arrow Speed": "箭矢速度",
+        "Damage": "伤害",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "At {{N0}} stacks shoot {{N1}} arrows that deal {{N2}}",
+        "Arrow Damage."
+      ],
+      "translation": "达到 {{N0}} 层时射出 {{N1}} 支箭矢,造成 {{N2}} 箭矢伤害.",
+      "styleMappings": {
+        "Arrow Damage": "箭矢伤害",
+        "deal": "造成",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Kuudra Basic Tier Completion."
+      ],
+      "translation": "❣ 需要完成库德拉基础难度.",
+      "styleMappings": {
+        "Requires Kuudra Basic Tier Completion.": "需要完成库德拉基础难度.",
+        "Requires": "需要",
+        "Basic": "基础",
+        "Kuudra": "库德拉"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY HELMET"
+      ],
+      "translation": "传说 头盔",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Terror Helmet": "恐惧头盔",
+    "Helmet": "头盔"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

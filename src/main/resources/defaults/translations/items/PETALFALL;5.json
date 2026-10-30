@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "id": "PETALFALL;5",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Petalfall V",
+    "Grants +1 Timber.",
+    "",
+    "Sources:",
+    " - Miria's Shop (Level 3+) (I)",
+    " - Bazaar (I-V)",
+    "",
+    "Applied To:",
+    " - Axe",
+    "",
+    "Requirements:",
+    " - Enchanting Level 12",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Petalfall V"
+      ],
+      "translation": "斩断 V",
+      "styleMappings": {
+        "Petalfall": "斩断"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Timber."
+      ],
+      "translation": "提供 {{N0}} 木材.",
+      "styleMappings": {
+        "Grants": "提供",
+        "Timber": "木材"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Miria's Shop (Level {{N0}}+) (I)",
+        " - Bazaar (I-V)"
+      ],
+      "translation": " - Miria的商店 (等级 {{N0}}+) (一)  - 集市 (一至五)",
+      "styleMappings": {
+        "Bazaar": "集市",
+        "I-V": "一至五",
+        "I": "一"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Axe"
+      ],
+      "translation": " - 斧",
+      "styleMappings": {
+        "Axe": "斧"
+      }
+    },
+    {
+      "source": [
+        "Requirements:"
+      ],
+      "translation": "需求:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchanting Level {{N0}}"
+      ],
+      "translation": " - 附魔等级 {{N0}}",
+      "styleMappings": {
+        "Enchanting Level": "附魔等级"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

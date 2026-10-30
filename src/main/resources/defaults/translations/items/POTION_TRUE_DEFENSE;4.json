@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_TRUE_DEFENSE;4",
+  "_original_name": "True Resistance IV Potion",
+  "_original_lore": [
+    "",
+    "True Resistance IV (3:00)",
+    "Gain +20 True Defense.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "真实抗性 IV 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "True Resistance IV ({{N0}}:{{N1}})"
+      ],
+      "translation": "真实抗性 IV ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Resistance IV": "抗性 IV",
+        "True": "真实",
+        "Resistance": "抗性"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}} True Defense."
+      ],
+      "translation": "获得 {{N0}} 真实防御.",
+      "styleMappings": {
+        "True Defense": "真实防御",
+        "Gain": "获得",
+        "Defense": "防御",
+        "True": "真实"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Resistance IV": "抗性 IV",
+    "True": "真实",
+    "Resistance": "抗性"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

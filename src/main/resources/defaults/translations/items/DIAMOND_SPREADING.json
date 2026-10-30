@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "DIAMOND_SPREADING",
+  "_original_name": "Diamond Spreading",
+  "_original_lore": [
+    "Minion Upgrade",
+    "",
+    "This item can be used as a minion",
+    "upgrade. Place it in any minion and it",
+    "will occasionally generate Diamonds!",
+    "",
+    "RARE"
+  ],
+  "name": "钻石扩散器",
+  "lore": {
+    "Minion Upgrade": "仆从升级组件",
+    "RARE": "稀有"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "This item can be used as a minion",
+        "upgrade. Place it in any minion and it",
+        "will occasionally generate Diamonds!"
+      ],
+      "translation": "可用作仆从升级组件.放入任意仆从后,会不时产出钻石!",
+      "styleMappings": {
+        "upgrade": "升级",
+        "minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "Minion Upgrade"
+      ],
+      "translation": "仆从升级组件",
+      "styleMappings": {
+        "Minion Upgrade": "仆从升级",
+        "Minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "This item can be used as a minion"
+      ],
+      "translation": "此物品可作为仆从",
+      "styleMappings": {
+        "item": "物品",
+        "minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "upgrade. Place it in any minion and it",
+        "will occasionally generate Diamonds!"
+      ],
+      "translation": "升级.放入任意仆从后,它会偶尔产出钻石!",
+      "styleMappings": {
+        "minion": "仆从",
+        "upgrade": "升级"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

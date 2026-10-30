@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "PRICELESS_THE_FISH",
+  "_original_name": "Priceless the Fish",
+  "_original_lore": [
+    "The living proof that fish",
+    "understand very little about",
+    "economics.",
+    "",
+    "Purchased b: [MVP+] ThatGravyBoat",
+    "",
+    "Edition #1",
+    "July 2022",
+    "",
+    "SPECIAL"
+  ],
+  "name": "无价之鱼",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The living proof that fish",
+        "understand very little about",
+        "economics."
+      ],
+      "translation": "活生生的证据,证明鱼对经济学知之甚少.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Purchased b: [MVP+] ThatGravyBoat"
+      ],
+      "translation": "购买者: [最有价值玩家+] 那个肉汁船",
+      "styleMappings": {
+        "Purchased b:": "购买者:",
+        "MVP": "最有价值玩家",
+        "ThatGravyBoat": "那个肉汁船"
+      }
+    },
+    {
+      "source": [
+        "Edition #{{N0}}",
+        "July {{N1}}"
+      ],
+      "translation": "第 #{{N0}} 版 {{N1}} 月",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fish": "鱼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

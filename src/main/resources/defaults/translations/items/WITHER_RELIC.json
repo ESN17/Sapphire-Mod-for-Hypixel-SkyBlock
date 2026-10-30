@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "WITHER_RELIC",
+  "_original_name": "Wither Relic",
+  "_original_lore": [
+    "Accessory Power: +16",
+    "",
+    "Reduces the damage taken from ",
+    "Wither mobs by 25%.",
+    "",
+    "Works while in Accessory Bag!",
+    "LEGENDARY DUNGEON ACCESSORY"
+  ],
+  "name": "凋灵圣物",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Accessory Power: {{N0}}"
+      ],
+      "translation": "饰品能量: {{N0}}",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "Reduces the damage taken from ",
+        "Wither mobs by {{N0}}."
+      ],
+      "translation": "减少来自  凋零怪物造成的伤害 {{N0}}.",
+      "styleMappings": {
+        "Wither": "凋零",
+        "damage": "伤害",
+        "mobs": "怪物"
+      }
+    },
+    {
+      "source": [
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "放在饰品袋中即可生效!",
+      "styleMappings": {
+        "Accessory Bag": "饰品袋",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY DUNGEON ACCESSORY"
+      ],
+      "translation": "传说 地牢 饰品",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Relic": "圣物",
+    "Wither": "凋灵"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "id": "GLOWY_CHUM_BAIT",
+  "_original_name": "Glowy Chum Bait",
+  "_original_lore": [
+    "Fishing Bait",
+    "Consumes on Catch",
+    "",
+    "Grants +25 Fishing Speed.",
+    "Grants +3 Sea Creature Chance.",
+    "",
+    "Adds +2 Chums dropped on Sea",
+    "Creatures fished with this bait.",
+    "",
+    "UNCOMMON BAIT"
+  ],
+  "name": "发光鱼饵",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Fishing Bait",
+        "Consumes on Catch"
+      ],
+      "translation": "钓鱼鱼饵 钓起时消耗",
+      "styleMappings": {
+        "Consumes on Catch": "钓起时消耗",
+        "Fishing Bait": "钓鱼鱼饵",
+        "Fishing": "钓鱼",
+        "Bait": "鱼饵"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Fishing Speed."
+      ],
+      "translation": "提供 {{N0}} 钓鱼速度.",
+      "styleMappings": {
+        "Fishing Speed": "钓鱼速度",
+        "Grants": "提供",
+        "Fishing": "钓鱼",
+        "Speed": "速度",
+        " Fishing Speed": " 钓鱼速度"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Sea Creature Chance."
+      ],
+      "translation": "提供 {{N0}} 海怪概率.",
+      "styleMappings": {
+        "Sea Creature Chance": "海怪概率",
+        "Grants": "提供",
+        "Sea Creature": "海怪"
+      }
+    },
+    {
+      "source": [
+        "Adds {{N0}} Chums dropped on Sea",
+        "Creatures fished with this bait."
+      ],
+      "translation": "使用此鱼饵钓到的海洋生物额外掉落 {{N0}} 条诱饵鱼.",
+      "styleMappings": {
+        "Chums": "诱饵鱼",
+        "Sea Creatures": "海洋生物",
+        "bait": "鱼饵"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON BAIT"
+      ],
+      "translation": "罕见鱼饵",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Bait": "鱼饵",
+    "Chum": "鱼饵"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

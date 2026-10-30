@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "id": "PERFECT_CHISEL",
+  "_original_name": "Perfect Chisel",
+  "_original_lore": [
+    "Gemstones: [❥] [❥] [❥]",
+    "",
+    "Can be placed in the Fossil",
+    "Excavator alongside a Suspicious",
+    "Scrap to begin the excavation",
+    "process!",
+    "",
+    "Charges: 22",
+    "",
+    "❣ Requires Heart of the Mountain Tier 10.",
+    "LEGENDARY CHISEL"
+  ],
+  "name": "完美凿子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gemstones: [❥] [❥] [❥]"
+      ],
+      "translation": "宝石: [❥] [❥] [❥]",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石",
+        "] [": "] ["
+      }
+    },
+    {
+      "source": [
+        "Can be placed in the Fossil",
+        "Excavator alongside a Suspicious",
+        "Scrap to begin the excavation",
+        "process!"
+      ],
+      "translation": "可与可疑的碎片一起放入化石挖掘机,开始挖掘过程!",
+      "styleMappings": {
+        "Fossil Excavator": "化石挖掘机",
+        "Suspicious Scrap": "可疑的碎片",
+        "in the": "的",
+        "Suspicious": "可疑"
+      }
+    },
+    {
+      "source": [
+        "Charges: {{N0}}"
+      ],
+      "translation": "充能: {{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "❣ Requires Heart of the Mountain Tier {{N0}}."
+      ],
+      "translation": "❣ 需要山峰之心等级 {{N0}}.",
+      "styleMappings": {
+        "Heart of the Mountain Tier": "山峰之心等级",
+        "Requires": "需要",
+        "Heart of the Mountain": "山峰之心"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY CHISEL"
+      ],
+      "translation": "传说凿子",
+      "styleMappings": {
+        "LEGENDARY CHISEL": "传说凿子",
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Chisel": "凿子",
+    "Perfect": "完美"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

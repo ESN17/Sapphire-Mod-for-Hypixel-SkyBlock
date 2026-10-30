@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "PORTABLE_WASHER",
+  "_original_name": "Portable Washer",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Consume this item to dunk yourself in",
+    "a bucket of water that smells of",
+    "sunshine and rainbows. Doing this will",
+    "rid your Garden of all active",
+    "Sprayonator effects.",
+    "",
+    "Right-click to consume!",
+    "",
+    "RARE"
+  ],
+  "name": "便携清洗机",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Consume this item to dunk yourself in",
+        "a bucket of water that smells of",
+        "sunshine and rainbows. Doing this will",
+        "rid your Garden of all active",
+        "Sprayonator effects."
+      ],
+      "translation": "消耗此物品,将自己浸入一桶散发着阳光与彩虹气息的水中.这样做会清除你花园中所有生效的喷雾器效果.",
+      "styleMappings": {
+        "Sprayonator": "喷雾器",
+        "Garden": "花园",
+        "item": "物品",
+        "water": "水"
+      }
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

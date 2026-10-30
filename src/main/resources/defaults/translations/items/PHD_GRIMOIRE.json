@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "id": "PHD_GRIMOIRE",
+  "_original_name": "PhD's Grimoire",
+  "_original_lore": [
+    "Trophy Chance: +4%",
+    "Accessory Power: +12",
+    "",
+    "A brilliant treatise documenting the",
+    "physiognomy of various frog",
+    "species, their impact on surrounding",
+    "wildlife, and...tears in the fabric of",
+    "reality beyond our conception? What?",
+    "",
+    "❣ Requires Master Frog Collector.",
+    "* Soulbound *",
+    "Works while in Accessory Bag!",
+    "EPIC ACCESSORY"
+  ],
+  "name": "博士的魔法书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Trophy Chance: {{N0}}"
+      ],
+      "translation": "奖杯概率:{{N0}}",
+      "styleMappings": {
+        "Trophy Chance": "奖杯概率",
+        "Trophy": "奖杯"
+      }
+    },
+    {
+      "source": [
+        "Accessory Power: {{N0}}"
+      ],
+      "translation": "饰品能量: {{N0}}",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "A brilliant treatise documenting the",
+        "physiognomy of various frog",
+        "species, their impact on surrounding",
+        "wildlife, and...tears in the fabric of",
+        "reality beyond our conception? What?"
+      ],
+      "translation": "一部精彩的论著,记录了各种青蛙物种的相貌特征、它们对周围野生动物的影响,以及……超越我们认知的现实结构中的裂痕?什么?",
+      "styleMappings": {
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Master Frog Collector."
+      ],
+      "translation": "❣ 需要青蛙大师收藏家.",
+      "styleMappings": {
+        "Requires": "需要",
+        "Frog": "青蛙",
+        "Master": "大师"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "放在饰品袋中即可生效!",
+      "styleMappings": {
+        "Accessory Bag": "饰品袋",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "EPIC ACCESSORY"
+      ],
+      "translation": "史诗饰品",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

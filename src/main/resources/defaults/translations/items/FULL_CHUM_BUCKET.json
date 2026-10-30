@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "id": "FULL_CHUM_BUCKET",
+  "_original_name": "Full Chum Bucket",
+  "_original_lore": [
+    "The result of a hard day's labor!",
+    "Trade it with Moby.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "装满的鱼饵桶",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The result of a hard day's labor!"
+      ],
+      "translation": "辛勤劳作一天的成果!",
+      "styleMappings": {
+        "s": "一",
+        "day": "天"
+      }
+    },
+    {
+      "source": [
+        "Trade it with Moby."
+      ],
+      "translation": "与 Moby 交易.",
+      "styleMappings": {
+        "Moby": "Moby"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Chum Bucket": "鱼饵桶",
+    "Chum": "鱼饵"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

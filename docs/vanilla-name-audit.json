@@ -1,0 +1,702 @@
+{
+  "checked": 1347,
+  "differences": [
+    {
+      "id": "ACACIA_DOOR_ITEM",
+      "english": "Acacia Door",
+      "old": "金合欢门",
+      "new": "金合欢木门",
+      "key": "block.minecraft.acacia_door"
+    },
+    {
+      "id": "ACACIA_FENCE",
+      "english": "Acacia Fence",
+      "old": "金合欢栅栏",
+      "new": "金合欢木栅栏",
+      "key": "block.minecraft.acacia_fence"
+    },
+    {
+      "id": "ACACIA_FENCE_GATE",
+      "english": "Acacia Fence Gate",
+      "old": "金合欢栅栏门",
+      "new": "金合欢木栅栏门",
+      "key": "block.minecraft.acacia_fence_gate"
+    },
+    {
+      "id": "ACACIA_STAIRS",
+      "english": "Acacia Stairs",
+      "old": "金合欢楼梯",
+      "new": "金合欢木楼梯",
+      "key": "block.minecraft.acacia_stairs"
+    },
+    {
+      "id": "BAKED_POTATO",
+      "english": "Baked Potato",
+      "old": "烤土豆",
+      "new": "烤马铃薯",
+      "key": "item.minecraft.baked_potato"
+    },
+    {
+      "id": "BANNER-9",
+      "english": "Pink Banner",
+      "old": "粉色旗帜",
+      "new": "粉红色旗帜",
+      "key": "block.minecraft.pink_banner"
+    },
+    {
+      "id": "BIRCH_FENCE_GATE",
+      "english": "Birch Fence Gate",
+      "old": "白桦栅栏门",
+      "new": "白桦木栅栏门",
+      "key": "block.minecraft.birch_fence_gate"
+    },
+    {
+      "id": "BIRCH_WOOD_STAIRS",
+      "english": "Birch Stairs",
+      "old": "白桦楼梯",
+      "new": "白桦木楼梯",
+      "key": "block.minecraft.birch_stairs"
+    },
+    {
+      "id": "BRICK",
+      "english": "Bricks",
+      "old": "砖块",
+      "new": "红砖块",
+      "key": "block.minecraft.bricks"
+    },
+    {
+      "id": "BRICK_STAIRS",
+      "english": "Brick Stairs",
+      "old": "砖楼梯",
+      "new": "红砖楼梯",
+      "key": "block.minecraft.brick_stairs"
+    },
+    {
+      "id": "BUCKET",
+      "english": "Bucket",
+      "old": "桶",
+      "new": "铁桶",
+      "key": "item.minecraft.bucket"
+    },
+    {
+      "id": "BUILDER_BUSH",
+      "english": "Bush",
+      "old": "灌木",
+      "new": "灌木丛",
+      "key": "block.minecraft.bush"
+    },
+    {
+      "id": "CLAY_BRICK",
+      "english": "Brick",
+      "old": "砖块",
+      "new": "红砖",
+      "key": "item.minecraft.brick"
+    },
+    {
+      "id": "DEAD_BUSH",
+      "english": "Dead Bush",
+      "old": "枯死的灌木",
+      "new": "枯萎的灌木",
+      "key": "block.minecraft.dead_bush"
+    },
+    {
+      "id": "DIRT-1",
+      "english": "Coarse Dirt",
+      "old": "粗泥",
+      "new": "砂土",
+      "key": "block.minecraft.coarse_dirt"
+    },
+    {
+      "id": "DROPPER",
+      "english": "Dropper",
+      "old": "掉落者",
+      "new": "投掷器",
+      "key": "block.minecraft.dropper"
+    },
+    {
+      "id": "ENCHANTED_GLISTERING_MELON",
+      "english": "Enchanted Glistering Melon Slice",
+      "old": "附魔闪烁西瓜片",
+      "new": "附魔闪烁的西瓜片",
+      "key": "item.minecraft.glistering_melon_slice"
+    },
+    {
+      "id": "ENCHANTED_HUGE_MUSHROOM_1",
+      "english": "Enchanted Brown Mushroom Block",
+      "old": "附魔棕色蘑菇块",
+      "new": "附魔棕色蘑菇方块",
+      "key": "block.minecraft.brown_mushroom_block"
+    },
+    {
+      "id": "ENCHANTED_HUGE_MUSHROOM_2",
+      "english": "Enchanted Red Mushroom Block",
+      "old": "附魔红色蘑菇块",
+      "new": "附魔红色蘑菇方块",
+      "key": "block.minecraft.red_mushroom_block"
+    },
+    {
+      "id": "ENCHANTED_MANGROVE_LOG",
+      "english": "Enchanted Mangrove Log",
+      "old": "附魔红树林原木",
+      "new": "附魔红树原木",
+      "key": "block.minecraft.mangrove_log"
+    },
+    {
+      "id": "ENCHANTED_POTATO",
+      "english": "Enchanted Potato",
+      "old": "附魔土豆",
+      "new": "附魔马铃薯",
+      "key": "item.minecraft.potato"
+    },
+    {
+      "id": "ENCHANTED_RED_MUSHROOM",
+      "english": "Enchanted Red Mushroom",
+      "old": "附魔红蘑菇",
+      "new": "附魔红色蘑菇",
+      "key": "block.minecraft.red_mushroom"
+    },
+    {
+      "id": "EXPLOSIVE_MINECART",
+      "english": "Minecart with TNT",
+      "old": "炸药矿车",
+      "new": "TNT矿车",
+      "key": "item.minecraft.tnt_minecart"
+    },
+    {
+      "id": "FIREWORK_CHARGE",
+      "english": "Firework Star",
+      "old": "烟花之星",
+      "new": "烟火之星",
+      "key": "item.minecraft.firework_star"
+    },
+    {
+      "id": "GOLD_HOE",
+      "english": "Golden Hoe",
+      "old": "金锄头",
+      "new": "金锄",
+      "key": "item.minecraft.golden_hoe"
+    },
+    {
+      "id": "GOLD_SPADE",
+      "english": "Golden Shovel",
+      "old": "金铲子",
+      "new": "金锹",
+      "key": "item.minecraft.golden_shovel"
+    },
+    {
+      "id": "GRAVEL",
+      "english": "Gravel",
+      "old": "砂砾",
+      "new": "沙砾",
+      "key": "block.minecraft.gravel"
+    },
+    {
+      "id": "INK_SACK-9",
+      "english": "Pink Dye",
+      "old": "粉色染料",
+      "new": "粉红色染料",
+      "key": "item.minecraft.pink_dye"
+    },
+    {
+      "id": "JUNGLE_DOOR_ITEM",
+      "english": "Jungle Door",
+      "old": "丛林门",
+      "new": "丛林木门",
+      "key": "block.minecraft.jungle_door"
+    },
+    {
+      "id": "JUNGLE_FENCE",
+      "english": "Jungle Fence",
+      "old": "丛林栅栏",
+      "new": "丛林木栅栏",
+      "key": "block.minecraft.jungle_fence"
+    },
+    {
+      "id": "JUNGLE_FENCE_GATE",
+      "english": "Jungle Fence Gate",
+      "old": "丛林栅栏门",
+      "new": "丛林木栅栏门",
+      "key": "block.minecraft.jungle_fence_gate"
+    },
+    {
+      "id": "JUNGLE_WOOD_STAIRS",
+      "english": "Jungle Stairs",
+      "old": "丛林楼梯",
+      "new": "丛林木楼梯",
+      "key": "block.minecraft.jungle_stairs"
+    },
+    {
+      "id": "LAVA_BUCKET",
+      "english": "Lava Bucket",
+      "old": "岩浆桶",
+      "new": "熔岩桶",
+      "key": "item.minecraft.lava_bucket"
+    },
+    {
+      "id": "LEASH",
+      "english": "Lead",
+      "old": "铅",
+      "new": "拴绳",
+      "key": "item.minecraft.lead"
+    },
+    {
+      "id": "LEAVES",
+      "english": "Oak Leaves",
+      "old": "橡木树叶",
+      "new": "橡树树叶",
+      "key": "block.minecraft.oak_leaves"
+    },
+    {
+      "id": "LEAVES_2-1",
+      "english": "Dark Oak Leaves",
+      "old": "深色橡木树叶",
+      "new": "深色橡树树叶",
+      "key": "block.minecraft.dark_oak_leaves"
+    },
+    {
+      "id": "MANGROVE_LOG",
+      "english": "Mangrove Log",
+      "old": "红树林原木",
+      "new": "红树原木",
+      "key": "block.minecraft.mangrove_log"
+    },
+    {
+      "id": "MILK_BUCKET",
+      "english": "Milk Bucket",
+      "old": "牛奶桶",
+      "new": "奶桶",
+      "key": "item.minecraft.milk_bucket"
+    },
+    {
+      "id": "NETHERRACK",
+      "english": "Netherrack",
+      "old": "地狱岩",
+      "new": "下界岩",
+      "key": "block.minecraft.netherrack"
+    },
+    {
+      "id": "PAINTING",
+      "english": "Painting",
+      "old": "画作",
+      "new": "画",
+      "key": "item.minecraft.painting"
+    },
+    {
+      "id": "PET_ITEM_SADDLE",
+      "english": "Saddle",
+      "old": "马鞍",
+      "new": "鞍",
+      "key": "item.minecraft.saddle"
+    },
+    {
+      "id": "PISTON_STICKY_BASE",
+      "english": "Sticky Piston",
+      "old": "粘性活塞",
+      "new": "黏性活塞",
+      "key": "block.minecraft.sticky_piston"
+    },
+    {
+      "id": "POTATO",
+      "english": "Potatoes",
+      "old": "土豆",
+      "new": "马铃薯",
+      "key": "block.minecraft.potatoes"
+    },
+    {
+      "id": "POTATO_ITEM",
+      "english": "Potato",
+      "old": "土豆",
+      "new": "马铃薯",
+      "key": "item.minecraft.potato"
+    },
+    {
+      "id": "POTTED_CACTUS",
+      "english": "Potted Cactus",
+      "old": "盆栽仙人掌",
+      "new": "仙人掌盆栽",
+      "key": "block.minecraft.potted_cactus"
+    },
+    {
+      "id": "POWERED_MINECART",
+      "english": "Minecart with Furnace",
+      "old": "熔炉矿车",
+      "new": "动力矿车",
+      "key": "item.minecraft.furnace_minecart"
+    },
+    {
+      "id": "PRISMARINE_CRYSTALS",
+      "english": "Prismarine Crystals",
+      "old": "海晶石水晶",
+      "new": "海晶砂粒",
+      "key": "item.minecraft.prismarine_crystals"
+    },
+    {
+      "id": "PRISMARINE_SHARD",
+      "english": "Prismarine Shard",
+      "old": "海晶石碎片",
+      "new": "海晶碎片",
+      "key": "item.minecraft.prismarine_shard"
+    },
+    {
+      "id": "RED_MUSHROOM",
+      "english": "Red Mushroom",
+      "old": "红蘑菇",
+      "new": "红色蘑菇",
+      "key": "block.minecraft.red_mushroom"
+    },
+    {
+      "id": "RED_ROSE-1",
+      "english": "Blue Orchid",
+      "old": "蓝色兰花",
+      "new": "兰花",
+      "key": "block.minecraft.blue_orchid"
+    },
+    {
+      "id": "RED_ROSE-7",
+      "english": "Pink Tulip",
+      "old": "粉色郁金香",
+      "new": "粉红色郁金香",
+      "key": "block.minecraft.pink_tulip"
+    },
+    {
+      "id": "SADDLE",
+      "english": "Saddle",
+      "old": "马鞍",
+      "new": "鞍",
+      "key": "item.minecraft.saddle"
+    },
+    {
+      "id": "SKULL_ITEM",
+      "english": "Skeleton Skull",
+      "old": "骷髅头",
+      "new": "骷髅头颅",
+      "key": "block.minecraft.skeleton_skull"
+    },
+    {
+      "id": "SPRUCE_WOOD_STAIRS",
+      "english": "Spruce Stairs",
+      "old": "云杉楼梯",
+      "new": "云杉木楼梯",
+      "key": "block.minecraft.spruce_stairs"
+    },
+    {
+      "id": "STATIONARY_LAVA",
+      "english": "Lava",
+      "old": "岩浆",
+      "new": "熔岩",
+      "key": "block.minecraft.lava"
+    },
+    {
+      "id": "STEP-4",
+      "english": "Brick Slab",
+      "old": "砖台阶",
+      "new": "红砖台阶",
+      "key": "block.minecraft.brick_slab"
+    },
+    {
+      "id": "STEP",
+      "english": "Stone Slab",
+      "old": "石台阶",
+      "new": "石头台阶",
+      "key": "block.minecraft.stone_slab"
+    },
+    {
+      "id": "STONE-2",
+      "english": "Polished Granite",
+      "old": "抛光花岗岩",
+      "new": "磨制花岗岩",
+      "key": "block.minecraft.polished_granite"
+    },
+    {
+      "id": "STONE-4",
+      "english": "Polished Diorite",
+      "old": "抛光闪长岩",
+      "new": "磨制闪长岩",
+      "key": "block.minecraft.polished_diorite"
+    },
+    {
+      "id": "STONE-6",
+      "english": "Polished Andesite",
+      "old": "抛光安山岩",
+      "new": "磨制安山岩",
+      "key": "block.minecraft.polished_andesite"
+    },
+    {
+      "id": "STONE_HOE",
+      "english": "Stone Hoe",
+      "old": "石头锄",
+      "new": "石锄",
+      "key": "item.minecraft.stone_hoe"
+    },
+    {
+      "id": "STONE_PICKAXE",
+      "english": "Stone Pickaxe",
+      "old": "石头镐",
+      "new": "石镐",
+      "key": "item.minecraft.stone_pickaxe"
+    },
+    {
+      "id": "STONE_SPADE",
+      "english": "Stone Shovel",
+      "old": "石头锹",
+      "new": "石锹",
+      "key": "item.minecraft.stone_shovel"
+    },
+    {
+      "id": "STONE_SWORD",
+      "english": "Stone Sword",
+      "old": "石头剑",
+      "new": "石剑",
+      "key": "item.minecraft.stone_sword"
+    },
+    {
+      "id": "SUSPICIOUS_STEW",
+      "english": "Suspicious Stew",
+      "old": "可疑的炖菜",
+      "new": "谜之炖菜",
+      "key": "item.minecraft.suspicious_stew"
+    },
+    {
+      "id": "TNT",
+      "english": "TNT",
+      "old": "炸药",
+      "new": "TNT",
+      "key": "block.minecraft.tnt"
+    },
+    {
+      "id": "WOOD_STEP-1",
+      "english": "Spruce Slab",
+      "old": "云杉台阶",
+      "new": "云杉木台阶",
+      "key": "block.minecraft.spruce_slab"
+    },
+    {
+      "id": "WOOD_STEP-2",
+      "english": "Birch Slab",
+      "old": "白桦台阶",
+      "new": "白桦木台阶",
+      "key": "block.minecraft.birch_slab"
+    },
+    {
+      "id": "WOOD_STEP-3",
+      "english": "Jungle Slab",
+      "old": "丛林台阶",
+      "new": "丛林木台阶",
+      "key": "block.minecraft.jungle_slab"
+    },
+    {
+      "id": "WOOD_STEP-4",
+      "english": "Acacia Slab",
+      "old": "金合欢台阶",
+      "new": "金合欢木台阶",
+      "key": "block.minecraft.acacia_slab"
+    }
+  ],
+  "version": "26.1.2",
+  "zhSha1": "561ed7800004b882b8eeb032ffbe2bf03895bb44",
+  "changedDictionaries": [
+    "translations/community-skyzh.json",
+    "translations/enchantments.json",
+    "translations/gui-menus.json",
+    "translations/locations.json",
+    "translations/items/ACACIA_DOOR_ITEM.json",
+    "translations/items/ACACIA_FENCE_GATE.json",
+    "translations/items/ACACIA_FENCE.json",
+    "translations/items/ACACIA_STAIRS.json",
+    "translations/items/ATTRIBUTE_SHARD_MANGROVE_COLLECTOR;1.json",
+    "translations/items/ATTRIBUTE_SHARD_MANGROVE_SHARPENING;1.json",
+    "translations/items/ATTRIBUTE_SHARD_MOONGLADE_MASTERY;1.json",
+    "translations/items/BAKED_POTATO.json",
+    "translations/items/BANNER-9.json",
+    "translations/items/BASIC_MUSHROOM_COW_AXE.json",
+    "translations/items/BINGO_LAVA_ROD.json",
+    "translations/items/BIRCH_FENCE_GATE.json",
+    "translations/items/BIRCH_WOOD_STAIRS.json",
+    "translations/items/BLADE_OF_THE_VOLCANO.json",
+    "translations/items/BLAZE;4.json",
+    "translations/items/BRICK.json",
+    "translations/items/BRICK_STAIRS.json",
+    "translations/items/BUCKET.json",
+    "translations/items/BUILDER_BUSH.json",
+    "translations/items/CLAY_BRICK.json",
+    "translations/items/CROPIE_TALISMAN.json",
+    "translations/items/DEAD_BUSH.json",
+    "translations/items/DEAD_BUSH_OF_LOVE.json",
+    "translations/items/DEAD_SEED.json",
+    "translations/items/DEEPFRIES.json",
+    "translations/items/DIRT-1.json",
+    "translations/items/DROPPER.json",
+    "translations/items/ELLES_LAVA_ROD.json",
+    "translations/items/EMBER_BOOTS.json",
+    "translations/items/EMBER_CHESTPLATE.json",
+    "translations/items/EMBER_HELMET.json",
+    "translations/items/EMBER_LEGGINGS.json",
+    "translations/items/ENCHANTED_GLISTERING_MELON.json",
+    "translations/items/ENCHANTED_HUGE_MUSHROOM_1.json",
+    "translations/items/ENCHANTED_HUGE_MUSHROOM_2.json",
+    "translations/items/ENCHANTED_MANGROVE_LOG.json",
+    "translations/items/ENCHANTED_POTATO.json",
+    "translations/items/ENCHANTED_RED_MUSHROOM.json",
+    "translations/items/EPOCH_CAKE_YELLOW.json",
+    "translations/items/ETERNAL_FLAME_RING.json",
+    "translations/items/EXPLOSIVE_BOW.json",
+    "translations/items/EXPLOSIVE_MINECART.json",
+    "translations/items/FERMENTO_ARTIFACT.json",
+    "translations/items/FIREWORK_CHARGE.json",
+    "translations/items/FIRE_PROTECTION;1.json",
+    "translations/items/FIRE_PROTECTION;2.json",
+    "translations/items/FIRE_PROTECTION;3.json",
+    "translations/items/FIRE_PROTECTION;5.json",
+    "translations/items/FIRE_PROTECTION;4.json",
+    "translations/items/FIRE_PROTECTION;6.json",
+    "translations/items/FIRE_PROTECTION;7.json",
+    "translations/items/FLINT_SHOVEL.json",
+    "translations/items/FLYING_FISH;5.json",
+    "translations/items/FRIED_FEATHER.json",
+    "translations/items/FUMING_POTATO_BOOK.json",
+    "translations/items/GOLDEN_FISH_BRONZE.json",
+    "translations/items/GOLDEN_FISH_DIAMOND.json",
+    "translations/items/GOLDEN_FISH_GOLD.json",
+    "translations/items/GOLDEN_FISH_SILVER.json",
+    "translations/items/GOLD_HOE.json",
+    "translations/items/GOLD_SPADE.json",
+    "translations/items/GRAVEL.json",
+    "translations/items/GRAVEL_GENERATOR_1.json",
+    "translations/items/GRAVEL_GENERATOR_10.json",
+    "translations/items/GRAVEL_GENERATOR_11.json",
+    "translations/items/GRAVEL_GENERATOR_2.json",
+    "translations/items/GRAVEL_GENERATOR_3.json",
+    "translations/items/GRAVEL_GENERATOR_4.json",
+    "translations/items/GRAVEL_GENERATOR_5.json",
+    "translations/items/GRAVEL_GENERATOR_6.json",
+    "translations/items/GRAVEL_GENERATOR_7.json",
+    "translations/items/GRAVEL_GENERATOR_8.json",
+    "translations/items/GRAVEL_GENERATOR_9.json",
+    "translations/items/GREAT_SPOOK_STAFF.json",
+    "translations/items/HEAT_CORE.json",
+    "translations/items/HELLFIRE_ROD.json",
+    "translations/items/HOT_POTATO_BOOK.json",
+    "translations/items/INFERNO_ROD.json",
+    "translations/items/INFINITE_SUPERBOOM_TNT.json",
+    "translations/items/INK_SACK-9.json",
+    "translations/items/JADE_DRAGON;4.json",
+    "translations/items/JUNGLE_DOOR_ITEM.json",
+    "translations/items/JUNGLE_FENCE.json",
+    "translations/items/JUNGLE_FENCE_GATE.json",
+    "translations/items/JUNGLE_WOOD_STAIRS.json",
+    "translations/items/LARGE_LAVA_FISHING_SACK.json",
+    "translations/items/LAVA.json",
+    "translations/items/LAVA_BLAZE_SC.json",
+    "translations/items/LAVA_BUCKET.json",
+    "translations/items/LAVA_FLAME_SC.json",
+    "translations/items/LAVA_LEECH_SC.json",
+    "translations/items/LAVA_PIGMAN_SC.json",
+    "translations/items/LAVA_RUNE;1.json",
+    "translations/items/LAVA_RUNE;2.json",
+    "translations/items/LAVA_TALISMAN.json",
+    "translations/items/LEASH.json",
+    "translations/items/LEAVES_2-1.json",
+    "translations/items/LEAVES.json",
+    "translations/items/MAGICAL_LAVA_BUCKET.json",
+    "translations/items/MAGICAL_MILK_BUCKET.json",
+    "translations/items/MAGMA_CHUNK.json",
+    "translations/items/MAGMA_LORD_BOOTS.json",
+    "translations/items/MAGMA_LORD_CHESTPLATE.json",
+    "translations/items/MAGMA_LORD_GAUNTLET.json",
+    "translations/items/MAGMA_LORD_HELMET.json",
+    "translations/items/MAGMA_LORD_LEGGINGS.json",
+    "translations/items/MAGMA_ROD.json",
+    "translations/items/MANGROVE_LOG.json",
+    "translations/items/MAXED_ENCHANT_BOOK.json",
+    "translations/items/MEDIUM_LAVA_FISHING_SACK.json",
+    "translations/items/MELON_BOOTS.json",
+    "translations/items/MELON_CHESTPLATE.json",
+    "translations/items/MELON_HELMET.json",
+    "translations/items/MELON_LEGGINGS.json",
+    "translations/items/MILK_BUCKET.json",
+    "translations/items/MURKBAT_MONSTER.json",
+    "translations/items/MUSHROOM_COW_AXE.json",
+    "translations/items/NETHERRACK.json",
+    "translations/items/NETHERRACK_LOOKING_SUNSHADE.json",
+    "translations/items/NETHER_BRICK.json",
+    "translations/items/NETHER_BRICK_STAIRS.json",
+    "translations/items/PAINTING.json",
+    "translations/items/PET_ITEM_FLYING_PIG.json",
+    "translations/items/PET_ITEM_SADDLE.json",
+    "translations/items/PIG;0.json",
+    "translations/items/PIG;1.json",
+    "translations/items/PIG;2.json",
+    "translations/items/PIG;4.json",
+    "translations/items/PIG;3.json",
+    "translations/items/PISTON_STICKY_BASE.json",
+    "translations/items/PLUMBER_SPONGE.json",
+    "translations/items/POLISHED_TOPAZ_ROD.json",
+    "translations/items/POTATO_BASKET.json",
+    "translations/items/POTATO_CROWN.json",
+    "translations/items/POTATO.json",
+    "translations/items/POTATO_GENERATOR_1.json",
+    "translations/items/POTATO_GENERATOR_10.json",
+    "translations/items/POTATO_GENERATOR_11.json",
+    "translations/items/POTATO_GENERATOR_12.json",
+    "translations/items/POTATO_GENERATOR_2.json",
+    "translations/items/POTATO_GENERATOR_3.json",
+    "translations/items/POTATO_GENERATOR_4.json",
+    "translations/items/POTATO_GENERATOR_5.json",
+    "translations/items/POTATO_GENERATOR_6.json",
+    "translations/items/POTATO_GENERATOR_7.json",
+    "translations/items/POTATO_GENERATOR_8.json",
+    "translations/items/POTATO_GENERATOR_9.json",
+    "translations/items/POTATO_RING.json",
+    "translations/items/POTATO_ITEM.json",
+    "translations/items/POTATO_TALISMAN.json",
+    "translations/items/POTATO_SPREADING.json",
+    "translations/items/POTION_FIRE_RESISTANCE;1.json",
+    "translations/items/POTTED_CACTUS.json",
+    "translations/items/POWERED_MINECART.json",
+    "translations/items/PRISMARINE_CRYSTALS.json",
+    "translations/items/PRISMARINE_SHARD.json",
+    "translations/items/PRISMARINE_SINKER.json",
+    "translations/items/REANIMATED_PAINTING.json",
+    "translations/items/RED_MUSHROOM.json",
+    "translations/items/RED_ROSE-1.json",
+    "translations/items/RED_ROSE-7.json",
+    "translations/items/REVENANT_HORROR_5_BOSS.json",
+    "translations/items/SADDLE.json",
+    "translations/items/SKULL_ITEM.json",
+    "translations/items/SMALL_LAVA_FISHING_SACK.json",
+    "translations/items/SMOOTH_STAIRS.json",
+    "translations/items/SPRUCE_WOOD_STAIRS.json",
+    "translations/items/SQUASH_RING.json",
+    "translations/items/STARTER_LAVA_ROD.json",
+    "translations/items/STATIONARY_LAVA.json",
+    "translations/items/STEP-4.json",
+    "translations/items/STEP-5.json",
+    "translations/items/STEP-6.json",
+    "translations/items/STEP.json",
+    "translations/items/STONE-2.json",
+    "translations/items/STONE-4.json",
+    "translations/items/STONE-6.json",
+    "translations/items/STONE_PICKAXE.json",
+    "translations/items/STONE_HOE.json",
+    "translations/items/STONE_SPADE.json",
+    "translations/items/STONE_SWORD.json",
+    "translations/items/SUPERBOOM_TNT.json",
+    "translations/items/SUSPICIOUS_STEW.json",
+    "translations/items/THEORETICAL_HOE_POTATO_1.json",
+    "translations/items/THEORETICAL_HOE_POTATO_2.json",
+    "translations/items/THEORETICAL_HOE_POTATO_3.json",
+    "translations/items/TNT.json",
+    "translations/items/TNT_CHARGE.json",
+    "translations/items/TURBO_POTATO;1.json",
+    "translations/items/TURBO_POTATO;2.json",
+    "translations/items/TURBO_POTATO;3.json",
+    "translations/items/TURBO_POTATO;4.json",
+    "translations/items/TURBO_POTATO;5.json",
+    "translations/items/TURBO_POTATO;6.json",
+    "translations/items/TURBO_POTATO;7.json",
+    "translations/items/WOOD_STEP-1.json",
+    "translations/items/WOOD_STEP-2.json",
+    "translations/items/WOOD_STEP-3.json",
+    "translations/items/WOOD_STEP-4.json"
+  ]
+}

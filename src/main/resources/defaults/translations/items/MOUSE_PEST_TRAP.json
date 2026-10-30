@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "MOUSE_PEST_TRAP",
+  "_original_name": "Mouse Trap",
+  "_original_lore": [
+    "Place in a Garden plot and fill with",
+    "bait to catch  Pests while offline.",
+    "Maximum Capacity: 3 Pests",
+    "Limit of 3 Traps",
+    "",
+    "Field Mice are 3x more likely to be",
+    "caught in this type of trap!",
+    "",
+    "EPIC"
+  ],
+  "name": "捕鼠夹",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Place in a Garden plot and fill with",
+        "bait to catch  Pests while offline."
+      ],
+      "translation": "放置在花园地块中并填入诱饵,即可在离线时捕捉  害虫.",
+      "styleMappings": {
+        " Pests": " 害虫",
+        "Garden": "花园",
+        "Pests": "害虫"
+      }
+    },
+    {
+      "source": [
+        "Maximum Capacity: {{N0}} Pests"
+      ],
+      "translation": "最大容量: {{N0}} 害虫",
+      "styleMappings": {
+        "Capacity": "容量",
+        "Pests": "害虫"
+      }
+    },
+    {
+      "source": [
+        "Limit of {{N0}} Traps"
+      ],
+      "translation": "陷阱上限: {{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Field Mice are {{N0}}x more likely to be",
+        "caught in this type of trap!"
+      ],
+      "translation": "田鼠在此类陷阱中被捕获的概率提高 {{N0}}倍!",
+      "styleMappings": {
+        "Field Mice": "田鼠",
+        "{{N0}}x": "{{N0}}倍"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

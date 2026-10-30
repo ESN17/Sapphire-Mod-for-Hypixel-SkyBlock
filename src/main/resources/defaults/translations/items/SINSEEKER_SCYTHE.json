@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "SINSEEKER_SCYTHE",
+  "_original_name": "Sinseeker Scythe",
+  "_original_lore": [
+    "Damage: +100",
+    "Strength: +100",
+    "",
+    "Ability: Sinrecall Transmission  RIGHT CLICK",
+    "Zap a line 4 blocks forward.",
+    "",
+    "Recast within 1s (1.5x mana) or warp",
+    "back to starting point.",
+    "",
+    "Mobs crossing the line(s) receive a",
+    "melee hit from what you're holding.",
+    "Mana Cost: 260",
+    "",
+    "This item can be reforged!",
+    "☠ Requires Enderman Slayer 6.",
+    "EPIC SWORD"
+  ],
+  "name": "寻罪镰刀",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Ability: Sinrecall Transmission  RIGHT CLICK"
+      ],
+      "translation": "技能: 罪忆传送  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "Sinrecall Transmission": "罪忆传送",
+        "CLICK": "点击",
+        "Transmission": "传送"
+      }
+    },
+    {
+      "source": [
+        "Zap a line {{N0}} blocks forward."
+      ],
+      "translation": "向前方 {{N0}} 格发射一道射线.",
+      "styleMappings": {
+        "blocks": "格"
+      }
+    },
+    {
+      "source": [
+        "Recast within {{N0}}s ({{N1}}x mana) or warp",
+        "back to starting point."
+      ],
+      "translation": "在 {{N0}} 秒内再次施放({{N1}} 倍法力)或传送回起点.",
+      "styleMappings": {
+        "mana": "法力",
+        "warp": "传送",
+        "{{N0}}s": "{{N0}} 秒",
+        "{{N1}}x": "{{N1}} 倍"
+      }
+    },
+    {
+      "source": [
+        "Mobs crossing the line(s) receive a",
+        "melee hit from what you're holding."
+      ],
+      "translation": "穿过射线的怪物会受到你手持武器的近战攻击.",
+      "styleMappings": {
+        "melee hit": "近战攻击",
+        "Mobs": "怪物",
+        "hit": "攻击"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Enderman Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要末影人杀手 {{N0}}.",
+      "styleMappings": {
+        "Enderman Slayer": "末影人杀手",
+        "Requires": "需要",
+        "Slayer": "杀手",
+        "Enderman": "末影人"
+      }
+    },
+    {
+      "source": [
+        "EPIC SWORD"
+      ],
+      "translation": "史诗 剑",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sin": "罪",
+    "seeker": "寻",
+    "Scythe": "镰刀"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

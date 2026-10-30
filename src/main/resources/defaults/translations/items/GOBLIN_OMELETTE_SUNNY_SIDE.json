@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "GOBLIN_OMELETTE_SUNNY_SIDE",
+  "_original_name": "Sunny Side Goblin Omelette",
+  "_original_lore": [
+    "Drill Part",
+    "",
+    "Grants +50 Mining Fortune, but this",
+    "Drill consumes quadruple the Fuel.",
+    "",
+    "Put this item in the Upgrade Module",
+    "slot of a Drill at a Drill Mechanic!",
+    "",
+    "May cause inflammation",
+    "",
+    "❣ Requires Heart of the Mountain Tier 5.",
+    "RARE"
+  ],
+  "name": "单面煎哥布林煎蛋卷",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Drill Part"
+      ],
+      "translation": "钻头部件",
+      "styleMappings": {
+        "Drill Part": "钻头部件",
+        "Drill": "钻头"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Mining Fortune, but this",
+        "Drill consumes quadruple the Fuel."
+      ],
+      "translation": "提供 {{N0}} 采矿幸运,但此钻头消耗四倍燃料.",
+      "styleMappings": {
+        "Mining Fortune": "采矿幸运",
+        "Grants": "提供",
+        "Drill": "钻头",
+        "Fuel": "燃料",
+        "Mining": "采矿",
+        "Fortune": "幸运",
+        " Mining Fortune": " 采矿幸运"
+      }
+    },
+    {
+      "source": [
+        "Put this item in the Upgrade Module",
+        "slot of a Drill at a Drill Mechanic!"
+      ],
+      "translation": "将此物品放入钻机技工处钻机的升级模块槽位!",
+      "styleMappings": {
+        "Drill Mechanic": "钻机技工",
+        "Upgrade Module": "升级模块",
+        "item": "物品",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "May cause inflammation"
+      ],
+      "translation": "可能引起炎症",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "❣ Requires Heart of the Mountain Tier {{N0}}."
+      ],
+      "translation": "❣ 需要山峰之心等级 {{N0}}.",
+      "styleMappings": {
+        "Heart of the Mountain Tier": "山峰之心等级",
+        "Requires": "需要",
+        "Heart of the Mountain": "山峰之心"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Goblin": "哥布林"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "id": "CROW;1",
+  "_original_name": "[Lvl {LVL}] Crow",
+  "_original_lore": [
+    "Combat Pet",
+    "",
+    "Intelligence: +{INTELLIGENCE}",
+    "Ability Damage: +{ABILITY_DAMAGE}",
+    "",
+    "Quick Hands",
+    "Lowers the cooldown of your Weapon",
+    "abilities by {0}.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "UNCOMMON PET"
+  ],
+  "name": "[等级 {LVL}] 乌鸦",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combat Pet"
+      ],
+      "translation": "战斗宠物",
+      "styleMappings": {
+        "Combat Pet": "战斗宠物",
+        "Combat": "战斗",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: +{{N0}}"
+      ],
+      "translation": "智力: +{{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Ability Damage: +{{N0}}"
+      ],
+      "translation": "技能伤害: +{{N0}}",
+      "styleMappings": {
+        "Ability Damage": "技能伤害",
+        "Ability": "技能",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Quick Hands"
+      ],
+      "translation": "快手",
+      "styleMappings": {
+        "Quick Hands": "快手"
+      }
+    },
+    {
+      "source": [
+        "Lowers the cooldown of your Weapon",
+        "abilities by {{N0}}."
+      ],
+      "translation": "使你的武器技能冷却时间缩短 {{N0}}.",
+      "styleMappings": {
+        "abilities": "技能",
+        "cooldown": "冷却",
+        "Weapon": "武器"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON PET"
+      ],
+      "translation": "罕见 宠物",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Crow": "乌鸦",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

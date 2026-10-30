@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "GODSEED",
+  "_original_name": "Godseed",
+  "_original_lore": [
+    "A seed so powerful, it feels like it",
+    "shouldn't exist. Its growth knows no",
+    "limits.",
+    "",
+    "Complete Visitor Beth's quest to",
+    "Analyze this crop!",
+    "",
+    "LEGENDARY MUTATION"
+  ],
+  "name": "神种",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A seed so powerful, it feels like it",
+        "shouldn't exist. Its growth knows no",
+        "limits."
+      ],
+      "translation": "一颗强大到仿佛不该存在的种子.它的生长没有极限.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Complete Visitor Beth's quest to",
+        "Analyze this crop!"
+      ],
+      "translation": "完成访客 Beth 的任务来分析这种作物!",
+      "styleMappings": {
+        "Visitor": "访客",
+        "Beth's": "Beth 的",
+        "Analyze": "分析"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY MUTATION"
+      ],
+      "translation": "传说突变",
+      "styleMappings": {
+        "LEGENDARY MUTATION": "传说突变",
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

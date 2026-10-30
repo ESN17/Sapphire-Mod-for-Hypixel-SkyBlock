@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "ALCHEMISTS_STAFF",
+  "_original_name": "The Alchemist's Staff",
+  "_original_lore": [
+    "Damage: +50",
+    "Strength: +20",
+    "Intelligence: +20",
+    "",
+    "Ability: Coin Conversion  RIGHT CLICK",
+    "Spend coins to cast a projectile which deals",
+    "10,000 damage on hit and knocks enemies",
+    "back.",
+    "Coin Cost: 100,000",
+    "",
+    "❣ Requires Combat Skill 22.",
+    "* Soulbound *",
+    "RARE WAND"
+  ],
+  "name": "炼金术士之杖",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Ability: Coin Conversion  RIGHT CLICK"
+      ],
+      "translation": "技能: 硬币转换  右键点击",
+      "styleMappings": {
+        "Coin Conversion": "硬币转换",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "Coin": "硬币",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Spend coins to cast a projectile which deals",
+        "{{N0}} damage on hit and knocks enemies",
+        "back."
+      ],
+      "translation": "消耗硬币发射一枚投射物,命中时造成 {{N0}} 伤害并击退敌人.",
+      "styleMappings": {
+        "damage": "伤害",
+        "coins": "硬币",
+        "hit": "命中",
+        "enemies": "敌人"
+      }
+    },
+    {
+      "source": [
+        "Coin Cost: {{N0}}"
+      ],
+      "translation": "硬币消耗: {{N0}}",
+      "styleMappings": {
+        "Coin": "硬币"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "RARE WAND"
+      ],
+      "translation": "稀有 魔杖",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Alchemist": "炼金"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

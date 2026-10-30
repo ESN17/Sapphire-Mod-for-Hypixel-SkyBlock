@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "SOUL_STRING",
+  "_original_name": "Soul String",
+  "_original_lore": [
+    "Rare string that can be used to",
+    "craft weapons that are infused with",
+    "the power of Arachne.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "RARE"
+  ],
+  "name": "灵魂线",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Rare string that can be used to",
+        "craft weapons that are infused with",
+        "the power of Arachne."
+      ],
+      "translation": "稀有的线,可用于制作注入阿拉克涅力量的武器.",
+      "styleMappings": {
+        "Rare": "稀有",
+        "Arachne": "阿拉克涅"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Soul": "灵魂"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

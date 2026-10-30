@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "BLOCK_ZAPPER",
+  "_original_name": "Block Zapper",
+  "_original_lore": [
+    "Ability: Grand... Zapper?  RIGHT CLICK",
+    "Right-Click a block to zap all",
+    "connected blocks of the same type.",
+    "",
+    "EPIC"
+  ],
+  "name": "方块电击器",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Grand... Zapper?  RIGHT CLICK"
+      ],
+      "translation": "能力: 大... 电击器?  右键点击",
+      "styleMappings": {
+        "Grand... Zapper?": "大... 电击器?",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "能力",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Right-Click a block to zap all",
+        "connected blocks of the same type."
+      ],
+      "translation": "右键点击一个方块,电击所有相连的同类型方块.",
+      "styleMappings": {
+        "Right-Click": "右键点击",
+        "blocks": "方块"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

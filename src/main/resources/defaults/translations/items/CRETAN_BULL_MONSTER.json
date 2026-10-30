@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "CRETAN_BULL_MONSTER",
+  "_original_name": "Cretan Bull (Mythological Creature)",
+  "_original_lore": [
+    "Mob Types: ✿ Mythological, ☮ Animal",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "克里特公牛 (神话生物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mob Types: ✿ Mythological, ☮ Animal"
+      ],
+      "translation": "生物类型: ✿ 神话, ☮ 动物",
+      "styleMappings": {
+        "Mythological": "神话",
+        "Mob Types:": "生物类型:",
+        "Animal": "动物"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mythological Creature": "神话生物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

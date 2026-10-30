@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "STAFF_OF_THE_RISING_MOON",
+  "_original_name": "Staff of the Rising Moon",
+  "_original_lore": [
+    "Ability: Ray of Hope  RIGHT CLICK",
+    "Launches an explosive moon towards the",
+    "target location, dealing 1❤ Heart of damage",
+    "to Wizardman when hit.",
+    "Mana Cost: 1",
+    "",
+    "EPIC WAND"
+  ],
+  "name": "升月之杖",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Ray of Hope  RIGHT CLICK"
+      ],
+      "translation": "技能: 希望之光  右键点击",
+      "styleMappings": {
+        "Ability: Ray of Hope": "技能: 希望之光",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Launches an explosive moon towards the",
+        "target location, dealing {{N0}}❤ Heart of damage",
+        "to Wizardman when hit."
+      ],
+      "translation": "向目标位置发射一颗爆炸月亮,命中时对巫师人造成 {{N0}}❤ 颗心的伤害.",
+      "styleMappings": {
+        "Wizardman": "巫师人",
+        "damage": "伤害",
+        "Heart": "颗心",
+        "hit": "命中",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "EPIC WAND"
+      ],
+      "translation": "史诗魔杖",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

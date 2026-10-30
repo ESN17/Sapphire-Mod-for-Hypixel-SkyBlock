@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_HARVEST_HARBINGER;5",
+  "_original_name": "Harvest Harbinger V Potion",
+  "_original_lore": [
+    "",
+    "Harvest Harbinger V (25:00)",
+    "Grants +50 Farming Fortune.",
+    "",
+    "RARE"
+  ],
+  "name": "丰收先驱 V 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Harvest Harbinger V ({{N0}}:{{N1}})"
+      ],
+      "translation": "丰收先驱 V ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Harvest Harbinger V": "丰收先驱 V"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Farming Fortune."
+      ],
+      "translation": "获得 {{N0}} 农业幸运.",
+      "styleMappings": {
+        "Farming Fortune": "农业幸运",
+        "Grants": "获得",
+        "Fortune": "幸运",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Harvest Harbinger V": "丰收先驱 V"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

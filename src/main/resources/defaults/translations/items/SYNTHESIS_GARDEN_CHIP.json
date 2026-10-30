@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "id": "SYNTHESIS_GARDEN_CHIP",
+  "_original_name": "Synthesis Chip",
+  "_original_lore": [
+    "Garden Chip",
+    "",
+    "Ability: Synthesis ",
+    "Analyzing a mutation in the Crop",
+    "Analyzer gives 1% more Copper per",
+    "Chip Level!",
+    "",
+    "Redeem Chips to increase their rarity!",
+    "",
+    "Right-Click to redeem!",
+    "Shift Right-Click to redeem all!",
+    "",
+    "RARE GARDEN CHIP"
+  ],
+  "name": "合成芯片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Garden Chip"
+      ],
+      "translation": "花园芯片",
+      "styleMappings": {
+        "Garden Chip": "花园芯片",
+        "Garden": "花园",
+        "Chip": "芯片"
+      }
+    },
+    {
+      "source": [
+        "Ability: Synthesis "
+      ],
+      "translation": "技能: 合成 ",
+      "styleMappings": {
+        "Ability": "技能",
+        "Synthesis": "合成"
+      }
+    },
+    {
+      "source": [
+        "Analyzing a mutation in the Crop",
+        "Analyzer gives {{N0}} more Copper per",
+        "Chip Level!"
+      ],
+      "translation": "在作物分析器中分析突变,每芯片等级提供 {{N0}} 更多铜!",
+      "styleMappings": {
+        "Crop Analyzer": "作物分析器",
+        "Copper": "铜",
+        "Level": "等级",
+        "Chip": "芯片",
+        "more": "更多",
+        "Crop": "作物",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Redeem Chips to increase their rarity!"
+      ],
+      "translation": "兑换芯片以提升其稀有度!",
+      "styleMappings": {
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "Right-Click to redeem!"
+      ],
+      "translation": "右键点击兑换!",
+      "styleMappings": {
+        "Right-Click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "Shift Right-Click to redeem all!"
+      ],
+      "translation": "潜行键 右键点击全部兑换!",
+      "styleMappings": {
+        "Shift Right-Click": "潜行键 右键点击",
+        "all": "全部",
+        "Right-Click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "RARE GARDEN CHIP"
+      ],
+      "translation": "稀有 花园芯片",
+      "styleMappings": {
+        "RARE GARDEN CHIP": "稀有 花园芯片",
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Chip": "芯片",
+    "Synthesis": "合成"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "FARM_ARMOR_CHESTPLATE",
+  "_original_name": "Haymaker Chestplate",
+  "_original_lore": [
+    "Defense: +15",
+    "Farming Fortune: +10",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Farming Skill 10.",
+    "COMMON CHESTPLATE"
+  ],
+  "name": "干草胸甲",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Farming Fortune: {{N0}}"
+      ],
+      "translation": "农业幸运: {{N0}}",
+      "styleMappings": {
+        "Farming Fortune": "农业幸运",
+        "Fortune": "幸运",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Farming Skill {{N0}}."
+      ],
+      "translation": "❣ 需要农业技能 {{N0}}.",
+      "styleMappings": {
+        "Farming Skill": "农业技能",
+        "Requires": "需要",
+        "Farming": "农业",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "COMMON CHESTPLATE"
+      ],
+      "translation": "普通胸甲",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Chestplate": "胸甲"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

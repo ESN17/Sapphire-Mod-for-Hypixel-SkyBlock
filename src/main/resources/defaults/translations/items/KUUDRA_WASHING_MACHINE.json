@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "KUUDRA_WASHING_MACHINE",
+  "_original_name": "Kuudra Washing Machine",
+  "_original_lore": [
+    "Combine in an anvil with any",
+    "item to remove all attributes",
+    "from the item.",
+    "",
+    "SPECIAL"
+  ],
+  "name": "库德拉 洗衣机",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combine in an anvil with any",
+        "item to remove all attributes",
+        "from the item."
+      ],
+      "translation": "在铁砧中与任意物品结合,可移除该物品的所有属性.",
+      "styleMappings": {
+        "anvil": "铁砧",
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Kuudra": "库德拉"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

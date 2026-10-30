@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "NIGHTSWITCH",
+  "_original_name": "Nightswitch",
+  "_original_lore": [
+    "Minion Fuel",
+    "",
+    "Can be placed in a Sunflower Minion",
+    "to exclusively produce Moonflower.",
+    "Increases the speed of your minion",
+    "by 20%.",
+    "",
+    "RARE"
+  ],
+  "name": "夜之开关",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Minion Fuel"
+      ],
+      "translation": "仆从燃料",
+      "styleMappings": {
+        "Minion Fuel": "仆从燃料",
+        "Fuel": "燃料",
+        "Minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "Can be placed in a Sunflower Minion",
+        "to exclusively produce Moonflower."
+      ],
+      "translation": "可放入向日葵仆从,使其只产出月光花.",
+      "styleMappings": {
+        "Sunflower Minion": "向日葵仆从",
+        "Moonflower": "月光花",
+        "Sunflower": "向日葵",
+        "Minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "Increases the speed of your minion",
+        "by {{N0}}."
+      ],
+      "translation": "使你的仆从速度提高 {{N0}}.",
+      "styleMappings": {
+        "minion": "仆从",
+        "speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

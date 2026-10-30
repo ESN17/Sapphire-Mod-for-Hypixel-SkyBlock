@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "GENERALS_HOPE_OF_THE_RESISTANCE",
+  "_original_name": "Staff of the Rising Sun",
+  "_original_lore": [
+    "Ability: Ray of Hope  RIGHT CLICK",
+    "Channels your energy towards the target",
+    "location, exploding on impact for 2,519.3",
+    "damage. Costs 2% of your total mana to use.",
+    "This is the only item that can deal damage to",
+    "Dante.",
+    "",
+    "LEGENDARY WAND"
+  ],
+  "name": "旭日之杖",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Ray of Hope  RIGHT CLICK"
+      ],
+      "translation": "技能: 希望之光  右键点击",
+      "styleMappings": {
+        "Ability: Ray of Hope": "技能: 希望之光",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Channels your energy towards the target",
+        "location, exploding on impact for {{N0}}",
+        "damage. Costs {{N1}} of your total mana to use."
+      ],
+      "translation": "将你的能量引导至目标位置,命中时爆炸造成 {{N0}} 伤害.使用需消耗你总法力值的 {{N1}}.",
+      "styleMappings": {
+        "damage": "伤害",
+        "mana": "法力"
+      }
+    },
+    {
+      "source": [
+        "This is the only item that can deal damage to",
+        "Dante."
+      ],
+      "translation": "这是唯一能对 Dante 造成伤害的物品.",
+      "styleMappings": {
+        "item": "物品",
+        "deal": "造成",
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY WAND"
+      ],
+      "translation": "传说 魔杖",
+      "styleMappings": {
+        "LEGENDARY": "传说",
+        "LEGENDARY WAND": "传说 魔杖"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

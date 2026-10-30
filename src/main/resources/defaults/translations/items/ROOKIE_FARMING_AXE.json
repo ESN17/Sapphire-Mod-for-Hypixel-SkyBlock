@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "id": "ROOKIE_FARMING_AXE",
+  "_original_name": "Rookie Farming Axe",
+  "_original_lore": [
+    "Farming Fortune: +5",
+    "",
+    " Farming Fortune increases your",
+    "chance of dropping multiple crops",
+    "when farming!",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Farming Skill 1.",
+    "COMMON FARMING TOOL"
+  ],
+  "name": "新手农耕斧",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Farming Fortune: {{N0}}"
+      ],
+      "translation": "农业幸运: {{N0}}",
+      "styleMappings": {
+        "Farming Fortune": "农业幸运",
+        "Fortune": "幸运",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        " Farming Fortune increases your",
+        "chance of dropping multiple crops",
+        "when farming!"
+      ],
+      "translation": " 农业幸运提高你耕种时掉落多个作物的概率!",
+      "styleMappings": {
+        "Farming Fortune": "农业幸运",
+        "crops": "作物",
+        "Fortune": "幸运",
+        "chance": "概率",
+        "farming": "农业",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Farming Skill {{N0}}."
+      ],
+      "translation": "❣ 需要农业技能 {{N0}}.",
+      "styleMappings": {
+        "Farming Skill": "农业技能",
+        "Requires": "需要",
+        "Farming": "农业",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "COMMON FARMING TOOL"
+      ],
+      "translation": "普通农业工具",
+      "styleMappings": {
+        "COMMON FARMING TOOL": "普通农业工具",
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Axe": "斧"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

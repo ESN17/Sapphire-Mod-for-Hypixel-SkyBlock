@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "DWARVEN_OS_ORE_OATS",
+  "_original_name": "Dwarven O's Ore Oats",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "The first 5 times you consume this,",
+    "gain a permanent +2 Ore Fortune.",
+    "",
+    "Right-click to consume!",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "矮人的矿石燕麦",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "The first {{N0}} times you consume this,",
+        "gain a permanent {{N1}} Ore Fortune."
+      ],
+      "translation": "前 {{N0}} 次食用时,获得永久 {{N1}} 矿石幸运.",
+      "styleMappings": {
+        "Ore Fortune": "矿石幸运",
+        "first": "前",
+        "Fortune": "幸运",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_name_revision": "2026-10-17-user-request"
+}

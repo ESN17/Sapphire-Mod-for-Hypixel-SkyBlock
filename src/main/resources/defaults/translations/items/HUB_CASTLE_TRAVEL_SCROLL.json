@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "id": "HUB_CASTLE_TRAVEL_SCROLL",
+  "_original_name": "Travel Scroll to Hub Castle",
+  "_original_lore": [
+    "Consume this item to add its",
+    "destination to your Fast Travel",
+    "options.",
+    "",
+    "Requires MVP+ to consume!",
+    "",
+    "Island: Hub",
+    "Teleport: Castle",
+    "",
+    "EPIC TRAVEL SCROLL"
+  ],
+  "name": "主城城堡传送卷轴",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consume this item to add its",
+        "destination to your Fast Travel",
+        "options."
+      ],
+      "translation": "消耗此物品,将其目的地添加到你的快速旅行选项中.",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Requires MVP+ to consume!"
+      ],
+      "translation": "需要 尊贵贵宾+ 才能使用!",
+      "styleMappings": {
+        "MVP": "尊贵贵宾",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Island: Hub"
+      ],
+      "translation": "岛屿: 中心岛",
+      "styleMappings": {
+        "Hub": "中心岛",
+        "Island": "岛屿"
+      }
+    },
+    {
+      "source": [
+        "Teleport: Castle"
+      ],
+      "translation": "传送: 城堡",
+      "styleMappings": {
+        "Castle": "城堡",
+        "Teleport": "传送"
+      }
+    },
+    {
+      "source": [
+        "EPIC TRAVEL SCROLL"
+      ],
+      "translation": "史诗传送卷轴",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Hub Castle": "主城城堡",
+    "Hub": "主城",
+    "Castle": "城堡"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

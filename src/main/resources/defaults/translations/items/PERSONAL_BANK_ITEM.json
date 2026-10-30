@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "PERSONAL_BANK_ITEM",
+  "_original_name": "Personal Bank Item",
+  "_original_lore": [
+    "Shortcut to your Personal Bank!",
+    "",
+    "Right-Click to open bank!",
+    "Left-Click to deposit purse!",
+    "",
+    "COMMON"
+  ],
+  "name": "个人银行物品",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Shortcut to your Personal Bank!"
+      ],
+      "translation": "通往你的个人银行的捷径!",
+      "styleMappings": {
+        "Bank": "银行"
+      }
+    },
+    {
+      "source": [
+        "Right-Click to open bank!"
+      ],
+      "translation": "右键点击打开银行!",
+      "styleMappings": {
+        "Right-Click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "Left-Click to deposit purse!"
+      ],
+      "translation": "左键点击存入钱袋!",
+      "styleMappings": {
+        "Left-Click": "左键点击"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Item": "物品",
+    "Bank": "银行"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

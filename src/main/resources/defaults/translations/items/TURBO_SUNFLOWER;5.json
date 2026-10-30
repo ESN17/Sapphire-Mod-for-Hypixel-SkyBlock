@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "TURBO_SUNFLOWER;5",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Turbo-Sunflower V",
+    "Grants +25 Sunflower Fortune.",
+    "Requires Silver in a Sunflower Contest!",
+    "",
+    "Sources:",
+    " - Jacob's Farming Contest (I)",
+    " - Bazaar (I-V)",
+    " - Turbo Gourd (VI)",
+    " - Enchanted Turbo Gourd (VII)",
+    "",
+    "Applied To:",
+    " - Farming Tool",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Turbo-Sunflower V"
+      ],
+      "translation": "向日葵增产 V",
+      "styleMappings": {
+        "Turbo-Sunflower": "向日葵增产",
+        "Sunflower": "向日葵"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Sunflower Fortune."
+      ],
+      "translation": "提供 {{N0}} 向日葵幸运.",
+      "styleMappings": {
+        "Sunflower Fortune": "向日葵幸运",
+        "Grants": "提供",
+        "Fortune": "幸运",
+        "Sunflower": "向日葵"
+      }
+    },
+    {
+      "source": [
+        "Requires Silver in a Sunflower Contest!"
+      ],
+      "translation": "需要在向日葵竞赛中获得银牌!",
+      "styleMappings": {
+        "Sunflower Contest": "向日葵竞赛",
+        "Requires": "需要",
+        "Silver": "银牌",
+        "Sunflower": "向日葵"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Jacob's Farming Contest (I)",
+        " - Bazaar (I-V)",
+        " - Turbo Gourd (VI)",
+        " - Enchanted Turbo Gourd (VII)"
+      ],
+      "translation": " - 雅各布的农业竞赛 (I)  - 集市 (I-V)  - 涡轮葫芦 (VI)  - 附魔涡轮南瓜 (VII)",
+      "styleMappings": {
+        "Enchanted Turbo Gourd": "附魔涡轮南瓜",
+        "Bazaar": "集市",
+        "Jacob's Farming Contest": "雅各布的农业竞赛",
+        "I-V": "I-V",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Farming Tool"
+      ],
+      "translation": " - 农业工具",
+      "styleMappings": {
+        "Farming Tool": "农业工具",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

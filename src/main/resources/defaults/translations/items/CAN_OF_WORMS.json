@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "CAN_OF_WORMS",
+  "_original_name": "Can of Worms",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Do you dare open it?",
+    "",
+    "Right-click to consume!",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "一罐蠕虫",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Do you dare open it?"
+      ],
+      "translation": "你敢打开它吗?",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Worms": "虫"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

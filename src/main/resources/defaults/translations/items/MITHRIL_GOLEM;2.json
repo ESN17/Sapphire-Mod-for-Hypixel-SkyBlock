@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "id": "MITHRIL_GOLEM;2",
+  "_original_name": "[Lvl {LVL}] Mithril Golem",
+  "_original_lore": [
+    "Mining Pet",
+    "",
+    "True Defense: +{TRUE_DEFENSE}",
+    "Mining Fortune: +{MINING_FORTUNE}",
+    "",
+    "Mithril Affinity",
+    "Grants +{0} Mining Speed when mining",
+    "Mithril.",
+    "",
+    "Subterranean Battler",
+    "Increases all Combat Stats by +{1}%",
+    "on Mining Islands.",
+    "",
+    "Right-click to add this pet to",
+    "your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "RARE PET"
+  ],
+  "name": "[等级 {LVL}] 秘银魔像",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mining Pet"
+      ],
+      "translation": "采矿宠物",
+      "styleMappings": {
+        "Mining": "采矿",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "True Defense: +{{N0}}"
+      ],
+      "translation": "真实防御: +{{N0}}",
+      "styleMappings": {
+        "True Defense": "真实防御",
+        "Defense": "防御",
+        "True": "真实"
+      }
+    },
+    {
+      "source": [
+        "Mining Fortune: +{{N0}}"
+      ],
+      "translation": "采矿幸运: +{{N0}}",
+      "styleMappings": {
+        "Mining Fortune": "采矿幸运",
+        "Mining": "采矿",
+        "Fortune": "幸运"
+      }
+    },
+    {
+      "source": [
+        "Mithril Affinity"
+      ],
+      "translation": "秘银亲和",
+      "styleMappings": {
+        "Mithril Affinity": "秘银亲和",
+        "Mithril": "秘银"
+      }
+    },
+    {
+      "source": [
+        "Grants +{{N0}} Mining Speed when mining",
+        "Mithril."
+      ],
+      "translation": "开采秘银时给予 +{{N0}} 采矿速度.",
+      "styleMappings": {
+        "Mining Speed": "采矿速度",
+        "Mithril": "秘银",
+        "Grants": "给予",
+        "Mining": "采矿",
+        "Speed": "速度",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Subterranean Battler"
+      ],
+      "translation": "地下战士",
+      "styleMappings": {
+        "Subterranean": "地下"
+      }
+    },
+    {
+      "source": [
+        "Increases all Combat Stats by +{{N0}}%",
+        "on Mining Islands."
+      ],
+      "translation": "在采矿岛屿上增加 +{{N0}}% 所有战斗属性.",
+      "styleMappings": {
+        "Mining Islands": "采矿岛屿",
+        "Combat Stats": "战斗属性",
+        "Increases": "增加",
+        "Combat": "战斗",
+        "Mining": "采矿"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to"
+      ],
+      "translation": "右键点击将此宠物加入",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "your pet menu!"
+      ],
+      "translation": "你的宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "RARE PET"
+      ],
+      "translation": "稀有 宠物",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mithril Golem": "秘银魔像",
+    "Lvl": "等级",
+    "Mithril": "秘银",
+    "Golem": "魔像"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

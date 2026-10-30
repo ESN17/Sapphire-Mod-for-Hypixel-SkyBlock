@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "SWAMP_THE_FISH",
+  "_original_name": "Swamp the Fish",
+  "_original_lore": [
+    "I once tried a clear pond. Too shiny.",
+    "Never again.",
+    "",
+    "SPECIAL"
+  ],
+  "name": "沼泽鱼",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "I once tried a clear pond. Too shiny."
+      ],
+      "translation": "我曾试过清澈的池塘.太亮了.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Never again."
+      ],
+      "translation": "再也不了.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Swamp the Fish": "沼泽鱼",
+    "Fish": "鱼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

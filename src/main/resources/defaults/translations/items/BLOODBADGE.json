@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "BLOODBADGE",
+  "_original_name": "Bloodbadge",
+  "_original_lore": [
+    "You and killing stuff in the rift, name",
+    "a more iconic duo.",
+    "",
+    "☠ Requires Vampire Slayer 3.",
+    "RARE"
+  ],
+  "name": "血徽章",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "You and killing stuff in the rift, name",
+        "a more iconic duo."
+      ],
+      "translation": "你和在裂隙里杀怪,说个更经典的组合吧.",
+      "styleMappings": {
+        "rift": "裂隙",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Vampire Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要吸血鬼杀手 {{N0}}.",
+      "styleMappings": {
+        "Vampire Slayer": "吸血鬼杀手",
+        "Requires": "需要",
+        "Slayer": "杀手",
+        "Vampire": "吸血鬼"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "id": "DRAGON_EGG_IN_A_BOX",
+  "_original_name": "Dragon Egg in a Box",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Consume to unwrap a random Dragon",
+    "Egg. Can be any of the following:",
+    "• Golden Dragon Egg",
+    "• Jade Dragon Egg",
+    "• Rose Dragon Egg",
+    "",
+    "A truly magnificent egg is nestled",
+    "within - that much you can tell by",
+    "weight alone.",
+    "",
+    "Right-click to consume!",
+    "",
+    "* Soulbound *",
+    "LEGENDARY"
+  ],
+  "name": "盒装龙蛋",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Consume to unwrap a random Dragon"
+      ],
+      "translation": "消耗以拆开一条随机龙",
+      "styleMappings": {
+        "Dragon": "龙"
+      }
+    },
+    {
+      "source": [
+        "Egg. Can be any of the following:"
+      ],
+      "translation": "蛋.可能是以下之一:",
+      "styleMappings": {
+        "Egg": "蛋"
+      }
+    },
+    {
+      "source": [
+        "• Golden Dragon Egg",
+        "• Jade Dragon Egg",
+        "• Rose Dragon Egg"
+      ],
+      "translation": "• 金龙蛋 • 玉龙蛋 • 玫瑰龙蛋",
+      "styleMappings": {
+        "Golden Dragon Egg": "金龙蛋",
+        "Jade Dragon Egg": "玉龙蛋",
+        "Rose Dragon Egg": "玫瑰龙蛋",
+        "Dragon": "龙",
+        "Egg": "蛋",
+        "Golden Dragon": "金龙",
+        "Rose Dragon": "玫瑰龙"
+      }
+    },
+    {
+      "source": [
+        "A truly magnificent egg is nestled",
+        "within - that much you can tell by",
+        "weight alone."
+      ],
+      "translation": "里面安放着一枚真正华丽的龙蛋——光凭重量你就能判断出来.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Dragon": "龙",
+    "Egg": "蛋"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

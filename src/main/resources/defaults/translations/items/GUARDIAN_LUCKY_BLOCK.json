@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "GUARDIAN_LUCKY_BLOCK",
+  "_original_name": "Guardian Lucky Block",
+  "_original_lore": [
+    "Use at Kat to upgrade Guardian Pets",
+    "to Mythic rarity.",
+    "",
+    "X Rift-Exportable X",
+    "Loses motes value when crossing",
+    "dimensions.",
+    "MYTHIC"
+  ],
+  "name": "守卫者幸运方块",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Use at Kat to upgrade Guardian Pets",
+        "to Mythic rarity."
+      ],
+      "translation": "在 Kat 处使用, 将守卫者宠物升级至 神话 稀有度.",
+      "styleMappings": {
+        "Guardian Pets": "守卫者宠物",
+        "upgrade": "升级",
+        "Mythic": "神话",
+        "rarity": "稀有度",
+        "Kat": "Kat",
+        "Pets": "宠物"
+      }
+    },
+    {
+      "source": [
+        "X Rift-Exportable X",
+        "Loses motes value when crossing",
+        "dimensions."
+      ],
+      "translation": "X 可带出裂隙 X 穿越维度时会损失裂隙尘埃价值.",
+      "styleMappings": {
+        "Rift-Exportable": "可带出裂隙",
+        "Rift": "裂隙",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "MYTHIC"
+      ],
+      "translation": "神话",
+      "styleMappings": {
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Lucky": "幸运"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

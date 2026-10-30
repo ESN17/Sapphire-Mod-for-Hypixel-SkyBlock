@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "BURNT_TEXTS",
+  "_original_name": "Burnt Texts",
+  "_original_lore": [
+    "Consumed on use",
+    "",
+    "Pet Items can boost pets in many",
+    "powerful ways! A pet can only hold",
+    "one Pet Item, but you can swap it at",
+    "any time!",
+    "The pet must be visible to apply the item!",
+    "",
+    "Grants +5 Double Hook Chance, but",
+    "reduces your  Fishing Speed by 50.",
+    "",
+    "Right-click on your summoned pet to",
+    "give it this item!",
+    "",
+    "LEGENDARY PET ITEM"
+  ],
+  "name": "烧焦的文本",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumed on use"
+      ],
+      "translation": "使用后消耗",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Pet Items can boost pets in many",
+        "powerful ways! A pet can only hold",
+        "one Pet Item, but you can swap it at",
+        "any time!"
+      ],
+      "translation": "宠物道具能以多种方式强化宠物.每只宠物只能携带一件宠物道具,但你可以随时更换!",
+      "styleMappings": {
+        "Pet Items": "宠物道具",
+        "swap": "更换",
+        "powerful ways": "方式",
+        "any time": "随时",
+        "one": "一件",
+        "pet": "宠物",
+        "Pet": "宠物",
+        "Pet Item": "宠物道具"
+      }
+    },
+    {
+      "source": [
+        "The pet must be visible to apply the item!"
+      ],
+      "translation": "宠物必须处于可见状态才能使用此物品!",
+      "styleMappings": {
+        "pet": "宠物",
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Double Hook Chance, but",
+        "reduces your  Fishing Speed by {{N1}}."
+      ],
+      "translation": "获得 {{N0}} 双钩概率,但使你的  钓鱼速度降低 {{N1}}。",
+      "styleMappings": {
+        "Double Hook Chance": "双钩概率",
+        "Fishing Speed": "钓鱼速度",
+        "Grants": "获得",
+        "Fishing": "钓鱼",
+        "Speed": "速度",
+        " Fishing Speed": " 钓鱼速度"
+      }
+    },
+    {
+      "source": [
+        "Right-click on your summoned pet to"
+      ],
+      "translation": "右键点击你召唤的宠物以",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "give it this item!"
+      ],
+      "translation": "给予它此物品!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY PET ITEM"
+      ],
+      "translation": "传说 宠物物品",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

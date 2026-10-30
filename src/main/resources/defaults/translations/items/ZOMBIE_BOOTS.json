@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "id": "ZOMBIE_BOOTS",
+  "_original_name": "Zombie Boots",
+  "_original_lore": [
+    "Health: +120",
+    "Defense: +25",
+    "",
+    "Full Set Bonus: Projectile Absorption (0/3)",
+    "Heals the wearer for 10 per second",
+    "for 5 seconds when hit by a",
+    "projectile.",
+    "",
+    "This item can be reforged!",
+    "EPIC BOOTS"
+  ],
+  "name": "僵尸靴子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Projectile Absorption ({{N0}}/{{N1}})"
+      ],
+      "translation": "套装效果: 弹射物吸收 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Full Set Bonus: Projectile Absorption": "套装效果: 弹射物吸收",
+        "Full Set Bonus": "套装效果",
+        "Absorption": "吸收"
+      }
+    },
+    {
+      "source": [
+        "Heals the wearer for {{N0}} per second",
+        "for {{N1}} seconds when hit by a",
+        "projectile."
+      ],
+      "translation": "被弹射物击中时,每秒为穿戴者恢复 {{N0}} 生命,持续 {{N1}} 秒.",
+      "styleMappings": {
+        "per second": "每秒",
+        "seconds": "秒",
+        "for": "持续",
+        "hit": "击中",
+        "second": "秒",
+        "when": "时",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "EPIC BOOTS"
+      ],
+      "translation": "史诗靴子",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Zombie": "僵尸",
+    "Boots": "靴子"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

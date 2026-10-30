@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_ENCHANTING_XP_BOOST;2",
+  "_original_name": "Enchanting XP Boost II Potion",
+  "_original_lore": [
+    "",
+    "Enchanting XP Boost II (24:00)",
+    "Grants +10☯ Enchanting Wisdom.",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔经验加成 II 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Enchanting XP Boost II ({{N0}}:{{N1}})"
+      ],
+      "translation": "附魔经验加成 II ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Enchanting XP Boost II": "附魔经验加成 II",
+        "II": "II"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}☯ Enchanting Wisdom."
+      ],
+      "translation": "获得 {{N0}}☯ 附魔智慧.",
+      "styleMappings": {
+        "Enchanting Wisdom": "附魔智慧",
+        "Grants": "获得",
+        "Wisdom": "智慧"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Enchanting XP Boost II": "附魔经验加成 II",
+    "II": "II"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

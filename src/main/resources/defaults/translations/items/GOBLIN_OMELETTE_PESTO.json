@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "GOBLIN_OMELETTE_PESTO",
+  "_original_name": "Pesto Goblin Omelette",
+  "_original_lore": [
+    "Drill Part",
+    "",
+    "Grants a 75% chance to not consume",
+    "Fuel when mining.",
+    "",
+    "Put this item in the Upgrade Module",
+    "slot of a Drill at a Drill Mechanic!",
+    "",
+    "May cause nausea",
+    "",
+    "❣ Requires Heart of the Mountain Tier 5.",
+    "RARE"
+  ],
+  "name": "青酱哥布林煎蛋卷",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Drill Part"
+      ],
+      "translation": "钻头部件",
+      "styleMappings": {
+        "Drill Part": "钻头部件",
+        "Drill": "钻头"
+      }
+    },
+    {
+      "source": [
+        "Grants a {{N0}} chance to not consume",
+        "Fuel when mining."
+      ],
+      "translation": "挖矿时有 {{N0}} 概率不消耗燃料.",
+      "styleMappings": {
+        "chance to not consume": "概率不消耗",
+        "Fuel": "燃料",
+        "chance": "概率",
+        "chance to": "概率",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Put this item in the Upgrade Module",
+        "slot of a Drill at a Drill Mechanic!"
+      ],
+      "translation": "将此物品放入钻机技工处钻机的升级模块槽位!",
+      "styleMappings": {
+        "Drill Mechanic": "钻机技工",
+        "Upgrade Module": "升级模块",
+        "item": "物品",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "May cause nausea"
+      ],
+      "translation": "可能导致恶心",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "❣ Requires Heart of the Mountain Tier {{N0}}."
+      ],
+      "translation": "❣ 需要山峰之心等级 {{N0}}.",
+      "styleMappings": {
+        "Heart of the Mountain Tier": "山峰之心等级",
+        "Requires": "需要",
+        "Heart of the Mountain": "山峰之心"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Goblin": "哥布林"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

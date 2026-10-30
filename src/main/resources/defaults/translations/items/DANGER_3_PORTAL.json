@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "DANGER_3_PORTAL",
+  "_original_name": "Portal to The End",
+  "_original_lore": [
+    "Placing this item on your private",
+    "island will create a portal to The End",
+    "for you to use whenever you want!",
+    "",
+    "The portal will spawn facing you on",
+    "the block you click on.",
+    "",
+    "UNCOMMON PORTAL"
+  ],
+  "name": "末地传送门",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Placing this item on your private",
+        "island will create a portal to The End",
+        "for you to use whenever you want!"
+      ],
+      "translation": "将此物品放置在你的私人岛屿上会创建一个通往末地的传送门,你可以随时使用!",
+      "styleMappings": {
+        "private island": "私人岛屿",
+        "portal to": "通往",
+        "The End": "末地",
+        "item": "物品",
+        "Placing this item on your private": "将此物品放置在你的私人",
+        "island": "岛屿上",
+        "End": "末地"
+      }
+    },
+    {
+      "source": [
+        "The portal will spawn facing you on",
+        "the block you click on."
+      ],
+      "translation": "传送门将生成在你点击的方块上并面向你.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "UNCOMMON PORTAL"
+      ],
+      "translation": "罕见传送门",
+      "styleMappings": {
+        "UNCOMMON PORTAL": "罕见传送门",
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Portal to The End": "末地传送门",
+    "The End": "末地",
+    "End": "末地"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

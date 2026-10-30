@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "DUSTGRAIN",
+  "_original_name": "Dustgrain",
+  "_original_lore": [
+    "Fragile and dry, it crumbles with the",
+    "slightest touch.",
+    "",
+    "Complete Visitor Beth's quest to",
+    "Analyze this crop!",
+    "",
+    "COMMON MUTATION"
+  ],
+  "name": "尘粒",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Fragile and dry, it crumbles with the",
+        "slightest touch."
+      ],
+      "translation": "脆弱而干燥,轻轻一碰就会碎裂.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Complete Visitor Beth's quest to",
+        "Analyze this crop!"
+      ],
+      "translation": "完成访客 Beth 的任务来分析这种作物!",
+      "styleMappings": {
+        "Visitor": "访客",
+        "Beth's": "Beth 的",
+        "Analyze": "分析"
+      }
+    },
+    {
+      "source": [
+        "COMMON MUTATION"
+      ],
+      "translation": "普通变异",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

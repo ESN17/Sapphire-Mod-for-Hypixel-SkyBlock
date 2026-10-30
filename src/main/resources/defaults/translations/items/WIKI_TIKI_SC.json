@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "WIKI_TIKI_SC",
+  "_original_name": "Wiki Tiki (Sea Creature)",
+  "_original_lore": [
+    "Mob Types: ⚓ Aquatic, ⚙ Construct, ❃ Elusive",
+    "❤ Health: 75,000,000",
+    "",
+    "MYTHIC"
+  ],
+  "name": "维基提基(海怪)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mob Types: ⚓ Aquatic, ⚙ Construct, ❃ Elusive"
+      ],
+      "translation": "生物类型: ⚓ 水生, ⚙ 构装, ❃ 飘忽",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Aquatic": "水生",
+        "Construct": "构装",
+        "Elusive": "飘忽"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "MYTHIC"
+      ],
+      "translation": "神话",
+      "styleMappings": {
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Wiki Tiki": "维基提基",
+    "Sea Creature": "海怪",
+    "(Sea Creature)": "(海怪)"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

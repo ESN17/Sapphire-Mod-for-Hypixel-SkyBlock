@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "id": "ROSETTA_BOOTS",
+  "_original_name": "Rosetta's Boots",
+  "_original_lore": [
+    "Health: +15",
+    "Defense: +20",
+    "",
+    "Growth I",
+    "Grants +15  Health.",
+    "",
+    "This item can be reforged!",
+    "UNCOMMON BOOTS"
+  ],
+  "name": "Rosetta 的靴子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Growth I",
+        "Grants {{N0}}  Health."
+      ],
+      "translation": "生长 I 提供 {{N0}}  生命值.",
+      "styleMappings": {
+        "Growth I": "生长 I",
+        "Grants": "提供",
+        "Health": "生命值",
+        " Health": " 生命",
+        "Growth": "生长"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON BOOTS"
+      ],
+      "translation": "罕见 靴子",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Boots": "靴子"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

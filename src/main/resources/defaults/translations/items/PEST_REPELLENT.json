@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "PEST_REPELLENT",
+  "_original_name": "Pest Repellent",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Consume to cover yourself in a",
+    "pleasant aroma that  Pests find",
+    "truly revolting for 60m.",
+    "",
+    "While active,  Pests will take 2x as",
+    "long to spawn.",
+    "",
+    "Right-click to consume!",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "害虫驱避剂",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Consume to cover yourself in a",
+        "pleasant aroma that  Pests find",
+        "truly revolting for {{N0}}m."
+      ],
+      "translation": "使用后全身散发宜人香气, 害虫会因此极度厌恶你,持续 {{N0}}分钟.",
+      "styleMappings": {
+        " Pests": " 害虫",
+        "for": "持续",
+        "Pests": "害虫",
+        "{{N0}}m": "{{N0}}分钟"
+      }
+    },
+    {
+      "source": [
+        "While active,  Pests will take {{N0}}x as",
+        "long to spawn."
+      ],
+      "translation": "生效期间, 害虫的生成时间将延长至 {{N0}}倍.",
+      "styleMappings": {
+        " Pests": " 害虫",
+        "Pests": "害虫",
+        "{{N0}}x": "{{N0}}倍"
+      }
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Pest": "害虫"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

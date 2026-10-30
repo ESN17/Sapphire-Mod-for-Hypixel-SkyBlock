@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "RED_SWEATER",
+  "_original_name": "Red Sweater",
+  "_original_lore": [
+    "Trophy Chance: +4%",
+    "",
+    "Seems to attract Bullfrogs due to its",
+    "red hue.",
+    "",
+    "This item can be reforged!",
+    "RARE CHESTPLATE"
+  ],
+  "name": "红毛衣",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Trophy Chance: {{N0}}"
+      ],
+      "translation": "奖杯概率:{{N0}}",
+      "styleMappings": {
+        "Trophy Chance": "奖杯概率",
+        "Trophy": "奖杯"
+      }
+    },
+    {
+      "source": [
+        "Seems to attract Bullfrogs due to its",
+        "red hue."
+      ],
+      "translation": "似乎因其红色色调而吸引牛蛙.",
+      "styleMappings": {
+        "Bullfrogs": "牛蛙"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "RARE CHESTPLATE"
+      ],
+      "translation": "稀有胸甲",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Red Sweater": "红毛衣"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

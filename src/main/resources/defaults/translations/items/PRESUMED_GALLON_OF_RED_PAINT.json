@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "id": "PRESUMED_GALLON_OF_RED_PAINT",
+  "_original_name": "Presumed Gallon of Red Paint",
+  "_original_lore": [
+    "Reforge Stone",
+    "Combinable in Anvil",
+    "",
+    "Applies the Blood-Soaked reforge",
+    "when combined with a Cloak.",
+    "",
+    "Not sure if paint.",
+    "",
+    "Grants the following stats that scale",
+    "with the item's rarity:",
+    "  Health",
+    "  Defense",
+    "  Vitality",
+    "",
+    "Blood-Soaked Bonus",
+    "Adds +1 Level to your Life Steal,",
+    "Drain, and Vampirism enchantments.",
+    "",
+    "Right-click to view rarity scaling!",
+    "",
+    "❣ Requires Mining Skill 24.",
+    "",
+    "RARE REFORGE STONE"
+  ],
+  "name": "疑似一加仑红漆",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Reforge Stone",
+        "Combinable in Anvil"
+      ],
+      "translation": "洗练石 可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Reforge Stone": "洗练石",
+        "Anvil": "铁砧",
+        "Reforge": "洗练"
+      }
+    },
+    {
+      "source": [
+        "Applies the Blood-Soaked reforge",
+        "when combined with a Cloak."
+      ],
+      "translation": "与披风结合时应用浸血洗练.",
+      "styleMappings": {
+        "Blood-Soaked": "浸血",
+        "Cloak": "披风",
+        "reforge": "洗练",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Not sure if paint."
+      ],
+      "translation": "不确定是不是油漆.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants the following stats that scale"
+      ],
+      "translation": "提供以下随物品稀有度提升的属性:",
+      "styleMappings": {
+        "Grants": "提供",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "with the item's rarity:"
+      ],
+      "translation": "物品稀有度提升的属性:",
+      "styleMappings": {
+        "item": "物品",
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "  Health",
+        "  Defense",
+        "  Vitality"
+      ],
+      "translation": "   生命   防御   生命恢复",
+      "styleMappings": {
+        " Defense": " 防御",
+        "Vitality": "生命恢复",
+        "Health": "生命",
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Blood-Soaked Bonus",
+        "Adds {{N0}} Level to your Life Steal,",
+        "Drain, and Vampirism enchantments."
+      ],
+      "translation": "浸血加成 使你的生命窃取、汲取和吸血附魔提升 {{N0}} 级.",
+      "styleMappings": {
+        "Blood-Soaked Bonus": "浸血加成",
+        "Life Steal": "生命窃取",
+        "Vampirism": "吸血",
+        "Drain": "汲取",
+        "Level": "级",
+        "Bonus": "加成",
+        "Blood-Soaked": "浸血"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view rarity scaling!"
+      ],
+      "translation": "右键查看各稀有度的属性!",
+      "styleMappings": {
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Mining Skill {{N0}}."
+      ],
+      "translation": "❣ 需要采矿技能 {{N0}}.",
+      "styleMappings": {
+        "Mining Skill": "采矿技能",
+        "Requires": "需要",
+        "Mining": "采矿",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "RARE REFORGE STONE"
+      ],
+      "translation": "稀有 洗练石",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

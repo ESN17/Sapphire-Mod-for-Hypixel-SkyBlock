@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "FULL_CENTURY_CAKE_PACK",
+  "_original_name": "Complete Century Cake Bundle",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Consume to unwrap a Century Cake",
+    "of every color!",
+    "",
+    "Right-click to consume!",
+    "",
+    "MYTHIC"
+  ],
+  "name": "完整世纪蛋糕礼包",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Consume to unwrap a Century Cake",
+        "of every color!"
+      ],
+      "translation": "食用以拆开每种颜色的世纪蛋糕!",
+      "styleMappings": {
+        "Century Cake": "世纪蛋糕",
+        "every color": "每种颜色"
+      }
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "MYTHIC"
+      ],
+      "translation": "神话",
+      "styleMappings": {
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Century Cake": "世纪蛋糕"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "id": "VAMPIRISM;4",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Vampirism IV",
+    "Heal 20❤ every time you kill a mob.",
+    "(0.5s Cooldown).",
+    "",
+    "Sources:",
+    " - Enchantment Table (I-V)",
+    " - Spooky Festival (VI)",
+    " - Bazaar (VI)",
+    "",
+    "Applied To:",
+    " - Sword",
+    " - Longsword",
+    " - Gauntlet",
+    "",
+    "Requirements:",
+    " - Enchanting Level 15",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Vampirism IV"
+      ],
+      "translation": "吸血 IV",
+      "styleMappings": {
+        "Vampirism": "吸血"
+      }
+    },
+    {
+      "source": [
+        "Heal {{N0}}❤ every time you kill a mob."
+      ],
+      "translation": "每次击杀生物时治疗 {{N0}}❤.",
+      "styleMappings": {
+        "Heal": "治疗"
+      }
+    },
+    {
+      "source": [
+        "({{N0}}s Cooldown)."
+      ],
+      "translation": "({{N0}}秒 冷却).",
+      "styleMappings": {
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchantment Table (I-V)",
+        " - Spooky Festival (VI)",
+        " - Bazaar (VI)"
+      ],
+      "translation": " - 附魔台 (I-V)  - 万圣节 (VI)  - 集市 (VI)",
+      "styleMappings": {
+        "Enchantment Table": "附魔台",
+        "Spooky Festival": "万圣节",
+        "Bazaar": "集市",
+        "I-V": "I-V",
+        "Spooky": "万圣节",
+        "Enchantment": "附魔"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Sword",
+        " - Longsword",
+        " - Gauntlet"
+      ],
+      "translation": " - 剑  - 长剑  - 护手",
+      "styleMappings": {
+        "Sword": "剑",
+        "Longsword": "长剑",
+        "Gauntlet": "护手"
+      }
+    },
+    {
+      "source": [
+        "Requirements:"
+      ],
+      "translation": "需求:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchanting Level {{N0}}"
+      ],
+      "translation": " - 附魔等级 {{N0}}",
+      "styleMappings": {
+        "Enchanting Level": "附魔等级"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

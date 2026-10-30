@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "id": "PACK_SPIRIT_MONSTER",
+  "_original_name": "Pack Spirit (Monster)",
+  "_original_lore": [
+    "The Pack Spirit is a Wolf mob found in the Howling",
+    "Cave. They will typically will be found in groups",
+    "near the Soul of the Alpha",
+    "",
+    "Mob Types: ☮ Animal, ♃ Arcane",
+    "❤ Health: 5,000"
+  ],
+  "name": "狼群之魂 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Pack Spirit is a Wolf mob found in the Howling",
+        "Cave. They will typically will be found in groups",
+        "near the Soul of the Alpha"
+      ],
+      "translation": "狼群之魂是嚎叫洞穴中发现的狼类怪物.它们通常成群出现在阿尔法之魂附近.",
+      "styleMappings": {
+        "Howling Cave": "嚎叫洞穴",
+        "Wolf": "狼",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Mob Types: ☮ Animal, ♃ Arcane"
+      ],
+      "translation": "生物类型: ☮ 动物, ♃ 奥术",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Animal": "动物",
+        "Arcane": "奥术"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

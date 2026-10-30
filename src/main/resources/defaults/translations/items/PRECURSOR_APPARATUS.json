@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "PRECURSOR_APPARATUS",
+  "_original_name": "Precursor Apparatus",
+  "_original_lore": [
+    "Can be given to Professor Robot to",
+    "complete the Sapphire Crystal Quest.",
+    "",
+    "This decaying piece of machinery",
+    "was once a part of a large robot",
+    "known as Automaton Prime. There's",
+    "still a lot of good stuff in here.",
+    "",
+    "EPIC"
+  ],
+  "name": "先驱者装置",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Can be given to Professor Robot to",
+        "complete the Sapphire Crystal Quest."
+      ],
+      "translation": "可交给教授机器人以完成蓝宝石水晶任务.",
+      "styleMappings": {
+        "Sapphire Crystal Quest": "蓝宝石水晶任务",
+        "Professor Robot": "教授机器人",
+        "Sapphire": "蓝宝石",
+        "Crystal": "水晶",
+        "Robot": "机器人"
+      }
+    },
+    {
+      "source": [
+        "This decaying piece of machinery",
+        "was once a part of a large robot",
+        "known as Automaton Prime. There's",
+        "still a lot of good stuff in here."
+      ],
+      "translation": "这台腐朽的机械曾是一个名为自动机首领的大型机器人的一部分.里面仍有许多好东西.",
+      "styleMappings": {
+        "Automaton Prime": "自动机首领"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

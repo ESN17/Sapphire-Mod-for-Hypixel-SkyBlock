@@ -1,0 +1,204 @@
+{
+  "schemaVersion": 1,
+  "id": "RANCHERS_BOOTS",
+  "_original_name": "Rancher's Boots",
+  "_original_lore": [
+    "Health: +100",
+    "Defense: +84",
+    "Speed: +78",
+    "Gemstones: [] []",
+    "",
+    "These boots gain +2 Defense and",
+    "+4 Speed for every Farming Skill",
+    "level you have. While on The Garden,",
+    "these boots also gain +1 Farming",
+    "Fortune for every Farming Skill level.",
+    "",
+    "Ability: Farmer's Speed  LEFT CLICK",
+    "Set a maximum amount of  Speed.",
+    "",
+    "Ability: Farmer's Grace ",
+    "Grants immunity to trampling crops.",
+    "",
+    "Bonus Defense: 14",
+    "Bonus Speed: 28",
+    "",
+    "Current Speed Cap: 400",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Farming Skill 21.",
+    "EPIC BOOTS"
+  ],
+  "name": "牧场主靴子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [] []"
+      ],
+      "translation": "宝石:[] []",
+      "styleMappings": {
+        "Gemstones": "宝石",
+        "[": "[",
+        "Gemstones:": "宝石:",
+        "] [": "] ["
+      }
+    },
+    {
+      "source": [
+        "These boots gain {{N0}} Defense and",
+        "{{N1}} Speed for every Farming Skill",
+        "level you have. While on The Garden,",
+        "these boots also gain {{N2}} Farming",
+        "Fortune for every Farming Skill level."
+      ],
+      "translation": "每级农业技能使这双靴子获得 {{N0}} 防御和 {{N1}} 速度.在花园中时,每级农业技能还会使这双靴子获得 {{N2}} 农业幸运.",
+      "styleMappings": {
+        "Farming Fortune": "农业幸运",
+        "Farming Skill": "农业技能",
+        "The Garden": "花园",
+        " Defense": " 防御",
+        " Speed": " 速度",
+        "Defense": "防御",
+        "Speed": "速度",
+        "for": "获得",
+        "Garden": "花园",
+        "Fortune": "幸运",
+        "Farming": "农业",
+        "Skill": "技能",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "Ability: Farmer's Speed  LEFT CLICK"
+      ],
+      "translation": "技能:农夫之速  左键点击",
+      "styleMappings": {
+        "LEFT CLICK": "左键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Set a maximum amount of  Speed."
+      ],
+      "translation": "设置 速度的上限.",
+      "styleMappings": {
+        " Speed": " 速度",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Ability: Farmer's Grace "
+      ],
+      "translation": "技能: 农夫恩泽 ",
+      "styleMappings": {
+        "Ability: Farmer's Grace": "技能: 农夫恩泽",
+        "Ability": "技能"
+      }
+    },
+    {
+      "source": [
+        "Grants immunity to trampling crops."
+      ],
+      "translation": "免疫踩踏作物.",
+      "styleMappings": {
+        "immunity": "免疫",
+        "crops": "作物"
+      }
+    },
+    {
+      "source": [
+        "Bonus Defense: {{N0}}"
+      ],
+      "translation": "额外防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Bonus Speed: {{N0}}"
+      ],
+      "translation": "额外速度: {{N0}}",
+      "styleMappings": {
+        "Bonus Speed": "额外速度",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Current Speed Cap: {{N0}}"
+      ],
+      "translation": "当前速度上限:{{N0}}",
+      "styleMappings": {
+        "Speed Cap": "速度上限",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Farming Skill {{N0}}."
+      ],
+      "translation": "❣ 需要农业技能 {{N0}}.",
+      "styleMappings": {
+        "Farming Skill": "农业技能",
+        "Requires": "需要",
+        "Farming": "农业",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC BOOTS"
+      ],
+      "translation": "史诗靴子",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Boots": "靴子"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

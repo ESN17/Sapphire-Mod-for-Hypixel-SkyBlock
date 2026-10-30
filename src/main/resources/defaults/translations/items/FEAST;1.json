@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "FEAST;1",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Feast I",
+    "Grants +2 Overbloom.",
+    "",
+    "Sources:",
+    " - Grand Bakery (I)",
+    " - Bazaar (I-V)",
+    "",
+    "Applied To:",
+    " - Farming Tool",
+    "",
+    "Requirements:",
+    " - Enchanting Level 5",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Feast I"
+      ],
+      "translation": "盛宴 I",
+      "styleMappings": {
+        "Feast": "盛宴"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Overbloom."
+      ],
+      "translation": "提供 {{N0}} 稀有作物概率加成.",
+      "styleMappings": {
+        "Overbloom": "稀有作物概率加成",
+        "Grants": "提供"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Grand Bakery (I)",
+        " - Bazaar (I-V)"
+      ],
+      "translation": " - 大烘焙坊 (I)  - 集市 (I-V)",
+      "styleMappings": {
+        "Grand Bakery": "大烘焙坊",
+        "Bazaar": "集市",
+        "I-V": "I-V",
+        "I": "I"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Farming Tool"
+      ],
+      "translation": " - 农业工具",
+      "styleMappings": {
+        "Farming Tool": "农业工具",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "Requirements:"
+      ],
+      "translation": "需求:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchanting Level {{N0}}"
+      ],
+      "translation": " - 附魔等级 {{N0}}",
+      "styleMappings": {
+        "Enchanting Level": "附魔等级"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

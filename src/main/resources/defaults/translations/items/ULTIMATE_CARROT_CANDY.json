@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "ULTIMATE_CARROT_CANDY",
+  "_original_name": "Ultimate Carrot Candy",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Carrot Candy gives pets boosts of Pet EXP!",
+    "Pets can only eat 10 candy in their lifetime!",
+    "",
+    "Grants 1,500,000 Pet EXP.",
+    "",
+    "Right-click on your summoned pet to",
+    "feed it!",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "终极胡萝卜糖",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Carrot Candy gives pets boosts of Pet EXP!"
+      ],
+      "translation": "胡萝卜糖可为宠物提供宠物经验加成!",
+      "styleMappings": {
+        "Carrot Candy": "胡萝卜糖",
+        "Pet EXP": "宠物经验",
+        "Pet": "宠物",
+        "EXP": "经验",
+        "Carrot": "胡萝卜"
+      }
+    },
+    {
+      "source": [
+        "Pets can only eat {{N0}} candy in their lifetime!"
+      ],
+      "translation": "宠物一生只能吃 {{N0}} 个糖!",
+      "styleMappings": {
+        "Pets": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Pet EXP."
+      ],
+      "translation": "给予 {{N0}} 宠物经验.",
+      "styleMappings": {
+        "Pet EXP": "宠物经验",
+        "Grants": "给予",
+        "Pet": "宠物",
+        "EXP": "经验"
+      }
+    },
+    {
+      "source": [
+        "Right-click on your summoned pet to"
+      ],
+      "translation": "右键点击你召唤的宠物以",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "feed it!"
+      ],
+      "translation": "喂它!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Ultimate Carrot Candy": "终极胡萝卜糖",
+    "Carrot": "胡萝卜",
+    "Carrot Candy": "胡萝卜糖"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

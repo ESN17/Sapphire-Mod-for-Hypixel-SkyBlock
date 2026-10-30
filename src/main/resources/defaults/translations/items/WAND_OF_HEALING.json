@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "id": "WAND_OF_HEALING",
+  "_original_name": "Wand of Healing",
+  "_original_lore": [
+    "Ability: Small Heal  RIGHT CLICK",
+    "Heal 60❤ per second for 5s.",
+    "Wand heals don't stack.",
+    "Vitality Cost: 25",
+    "Cooldown: 1s",
+    "",
+    "☠ Requires Zombie Slayer 1.",
+    "UNCOMMON WAND"
+  ],
+  "name": "治疗魔杖",
+  "lore": {
+    "Ability: Small Heal  RIGHT CLICK": "技能:初级治疗  右键点击",
+    "Heal {health}❤ per second for {duration}s.": "每秒恢复 {health}❤,持续 {duration}秒.",
+    "Wand heals don't stack.": "魔杖的治疗效果无法叠加.",
+    "Vitality Cost: {value}": "活力消耗:{value}",
+    "Cooldown: {value}s": "冷却时间:{value}秒",
+    "☠ Requires Zombie Slayer {level}.": "☠ 需要僵尸杀手 {level}.",
+    "UNCOMMON WAND": "罕见 魔杖"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Small Heal  RIGHT CLICK"
+      ],
+      "translation": "技能:初级治疗  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "Heal": "治疗",
+        "CLICK": "点击",
+        "Ability: Small Heal": "技能:初级治疗"
+      }
+    },
+    {
+      "source": [
+        "Heal {{N0}}❤ per second for {{N1}}s."
+      ],
+      "translation": "每秒恢复 {{N0}}❤,持续 {{N1}}秒.",
+      "styleMappings": {
+        "per second": "每秒",
+        "Heal": "恢复",
+        "for": "持续",
+        "s": "秒",
+        "{{N1}}s": "{{N1}}秒",
+        "second": "秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Wand heals don't stack."
+      ],
+      "translation": "魔杖的治疗效果无法叠加.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Vitality Cost: {{N0}}"
+      ],
+      "translation": "活力消耗:{{N0}}",
+      "styleMappings": {
+        "Vitality": "活力"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Zombie Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要僵尸杀手 {{N0}}.",
+      "styleMappings": {
+        "Zombie Slayer": "僵尸杀手",
+        "Requires": "需要",
+        "Zombie": "僵尸",
+        "Slayer": "杀手"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON WAND"
+      ],
+      "translation": "罕见魔杖",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "RIGHT CLICK": "右键点击",
+    "s": "秒",
+    "Zombie Slayer": "僵尸杀手",
+    "per second": "每秒"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

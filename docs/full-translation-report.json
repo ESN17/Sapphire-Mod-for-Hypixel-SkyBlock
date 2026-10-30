@@ -1,0 +1,44 @@
+{
+  "completedAt": "2026-10-16T13:16:29.342398+00:00",
+  "neuSource": "https://github.com/NotEnoughUpdates/NotEnoughUpdates-REPO",
+  "neuRevision": "870469a32324a6fea8af3a6ae745b701c92a8919",
+  "policy": "f72d1fff3e6f096cfc87866c14f820f89d6ba1bf5a324aa21509b5d70722ec14",
+  "itemIds": 8937,
+  "checkedLoreUnits": 48458,
+  "runtimeAuditPassedItems": 8937,
+  "auditedStagingSha256": "c802ee002d5479bc856a41df21a51beaf72b6ab89ef9e674be45170ff86c354c",
+  "installedValidation": {
+    "src/main/resources/defaults": {
+      "errors": 0,
+      "review_warnings": 301,
+      "items": 8937
+    },
+    "dictionary-workspace": {
+      "errors": 0,
+      "review_warnings": 332,
+      "items": 8937
+    },
+    "run/config/sapphire": {
+      "errors": 0,
+      "review_warnings": 301,
+      "items": 8937
+    }
+  },
+  "javaTests": {
+    "tests": 59,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 1
+  },
+  "offlineClientSmoke": "passed",
+  "jar": "build/libs/sapphire-1.0.0.jar",
+  "jarBytes": 7858196,
+  "jarSha256": "bed6595000fade9a319de45d9f48fd37b3a467b30ea00ca4d0d53190e4d97bd0",
+  "notes": [
+    "Item IDs include pet and enchantment variants; they are not distinct base items.",
+    "Intentional NPC names, brands and symbol names produce manual-review warnings.",
+    "The workspace also contains empty non-item UI translations outside this task.",
+    "Compliant previously reviewed paragraphs take priority over generated wording.",
+    "Automated and offline verification does not replace live Hypixel testing or human proofreading."
+  ]
+}

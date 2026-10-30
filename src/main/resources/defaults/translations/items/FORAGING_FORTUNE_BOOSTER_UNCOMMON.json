@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "FORAGING_FORTUNE_BOOSTER_UNCOMMON",
+  "_original_name": "Uncommon Foraging Fortune Booster Upgrade",
+  "_original_lore": [
+    "Booster",
+    "Combinable in Anvil",
+    "",
+    "Apply to an item with a Common",
+    "Foraging Fortune Booster to",
+    "upgrade it to an Uncommon Foraging",
+    "Fortune Booster, which increases",
+    "the amount of  Foraging Fortune it",
+    "gives.",
+    "",
+    "UNCOMMON BOOSTER"
+  ],
+  "name": "罕见采伐幸运增幅器升级",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Booster",
+        "Combinable in Anvil"
+      ],
+      "translation": "增益器可在铁砧中合成",
+      "styleMappings": {
+        "Booster Combinable in Anvil": "增益器可在铁砧中合成",
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Apply to an item with a Common",
+        "Foraging Fortune Booster to",
+        "upgrade it to an Uncommon Foraging",
+        "Fortune Booster, which increases",
+        "the amount of  Foraging Fortune it",
+        "gives."
+      ],
+      "translation": "将其应用于带有普通采伐幸运增幅器的物品,可将其升级为罕见采伐幸运增幅器,从而增加其提供的  采伐幸运.",
+      "styleMappings": {
+        "Common Foraging Fortune Booster": "普通采伐幸运增幅器",
+        "Uncommon Foraging Fortune Booster": "罕见采伐幸运增幅器",
+        " Foraging Fortune": " 采伐幸运",
+        "upgrade": "升级",
+        "item": "物品",
+        "Fortune": "幸运",
+        "Foraging": "采伐",
+        "Common": "普通",
+        "Foraging Fortune": "采伐幸运",
+        "Uncommon": "罕见"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON BOOSTER"
+      ],
+      "translation": "罕见增益器",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Uncommon Foraging Fortune Booster": "罕见采伐幸运增幅器",
+    "Fortune": "幸运",
+    "Foraging": "采伐",
+    "Foraging Fortune": "采伐幸运",
+    "Uncommon": "罕见"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

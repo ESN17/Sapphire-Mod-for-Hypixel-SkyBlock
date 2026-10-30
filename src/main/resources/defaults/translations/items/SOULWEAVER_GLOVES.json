@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": "SOULWEAVER_GLOVES",
+  "_original_name": "Soulweaver Gloves",
+  "_original_lore": [
+    "Strength: +10",
+    "Crit Damage: +10%",
+    "",
+    "While in The Catacombs, summon a",
+    "Haunted Skull that slowly revolves",
+    "around you every 15 seconds or",
+    "when you kill a mob with melee damage.",
+    "",
+    "When an enemy is hit by a Haunted",
+    "Skull, they are stunned for 2",
+    "seconds and deal 5% less damage.",
+    "",
+    "Right-click to equip!",
+    "",
+    "This item can be reforged!",
+    "❣ Requires The Catacombs Floor VI Completion.",
+    "EPIC DUNGEON GLOVES"
+  ],
+  "name": "织魂手套",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: {{N0}}"
+      ],
+      "translation": "暴击伤害:{{N0}}",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "While in The Catacombs, summon a",
+        "Haunted Skull that slowly revolves",
+        "around you every {{N0}} seconds or",
+        "when you kill a mob with melee damage."
+      ],
+      "translation": "在地牢中时,每 {{N0}} 秒或当你用近战伤害击杀怪物时,召唤一个缓慢环绕你旋转的幽灵骷髅.",
+      "styleMappings": {
+        "Haunted Skull": "幽灵骷髅",
+        "The Catacombs": "地牢",
+        "melee damage": "近战伤害",
+        "seconds": "秒",
+        "Catacombs": "地牢",
+        "damage": "伤害",
+        "when": "时",
+        "Skull": "骷髅"
+      }
+    },
+    {
+      "source": [
+        "When an enemy is hit by a Haunted",
+        "Skull, they are stunned for {{N0}}",
+        "seconds and deal {{N1}} less damage."
+      ],
+      "translation": "当敌人被幽灵骷髅击中时,其将被眩晕 {{N0}} 秒并造成 {{N1}} 更少伤害.",
+      "styleMappings": {
+        "Haunted Skull": "幽灵骷髅",
+        "seconds": "秒",
+        "damage": "伤害",
+        "deal": "造成",
+        "hit": "击中",
+        "Skull": "骷髅"
+      }
+    },
+    {
+      "source": [
+        "Right-click to equip!"
+      ],
+      "translation": "右键点击装备!",
+      "styleMappings": {
+        "Right-click to equip!": "右键点击装备!",
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires The Catacombs Floor VI Completion."
+      ],
+      "translation": "❣ 需要通关地牢第 VI 层.",
+      "styleMappings": {
+        "The Catacombs": "地牢",
+        "Requires": "需要",
+        "Catacombs": "地牢"
+      }
+    },
+    {
+      "source": [
+        "EPIC DUNGEON GLOVES"
+      ],
+      "translation": "史诗 地牢 手套",
+      "styleMappings": {
+        "EPIC": "史诗",
+        "GLOVES": "手套"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Gloves": "手套"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "CRYPT_DREADLORD_MONSTER",
+  "_original_name": "Crypt Dreadlord (Monster)",
+  "_original_lore": [
+    "Trained in the dark art of wither",
+    "magic.",
+    "",
+    "❤ Health: 19,000 - 840,000",
+    "❤ Health (MM) : 1,050,000 - 20,000,200"
+  ],
+  "name": "墓穴恐惧魔王 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Trained in the dark art of wither",
+        "magic."
+      ],
+      "translation": "精通凋灵魔法的黑暗技艺.",
+      "styleMappings": {
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}} - {{N1}}"
+      ],
+      "translation": "❤ 生命值: {{N0}} - {{N1}}",
+      "styleMappings": {
+        "Health": "生命值",
+        "-": "-"
+      }
+    },
+    {
+      "source": [
+        "❤ Health (MM) : {{N0}} - {{N1}}"
+      ],
+      "translation": "❤ 生命值 (MM) : {{N0}} - {{N1}}",
+      "styleMappings": {
+        "Health": "生命值",
+        "-": "-"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

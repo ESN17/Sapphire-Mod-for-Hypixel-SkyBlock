@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "GRIFFIN;1",
+  "_original_name": "[Lvl {LVL}] Griffin",
+  "_original_lore": [
+    "Combat Pet",
+    "",
+    "Strength: +{STRENGTH}",
+    "Crit Chance: +{CRIT_CHANCE}%",
+    "Crit Damage: +{CRIT_DAMAGE}%",
+    "Attack Speed: +{BONUS_ATTACK_SPEED}%",
+    "",
+    "Odyssey",
+    "4 types of  Mythological mobs can",
+    "spawn from Griffin Burrows. Their",
+    "stats scale with your Griffin’s",
+    "rarity.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "UNCOMMON PET"
+  ],
+  "name": "[等级 {LVL}] 狮鹫",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combat Pet"
+      ],
+      "translation": "战斗宠物",
+      "styleMappings": {
+        "Combat Pet": "战斗宠物",
+        "Combat": "战斗",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Strength: +{{N0}}"
+      ],
+      "translation": "力量: +{{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Crit Chance: +{{N0}}%"
+      ],
+      "translation": "暴击几率: +{{N0}}%",
+      "styleMappings": {
+        "Crit Chance": "暴击几率"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: +{{N0}}%"
+      ],
+      "translation": "暴击伤害: +{{N0}}%",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Attack Speed: +{{N0}}%"
+      ],
+      "translation": "攻击速度: +{{N0}}%",
+      "styleMappings": {
+        "Attack Speed": "攻击速度",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Odyssey"
+      ],
+      "translation": "远征",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "{{N0}} types of  Mythological mobs can",
+        "spawn from Griffin Burrows. Their",
+        "stats scale with your Griffin’s",
+        "rarity."
+      ],
+      "translation": "狮鹫洞穴中可出现 {{N0}} 种  神话生物,其属性随你的狮鹫稀有度提升.",
+      "styleMappings": {
+        "Griffin Burrows": "狮鹫洞穴",
+        " Mythological": " 神话生物",
+        "Griffin": "狮鹫",
+        "rarity": "稀有度",
+        "stats": "属性",
+        "s": "现",
+        "Mythological": "神话生物",
+        "spawn": "出现",
+        "mobs": "生物"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON PET"
+      ],
+      "translation": "罕见 宠物",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Griffin": "狮鹫",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

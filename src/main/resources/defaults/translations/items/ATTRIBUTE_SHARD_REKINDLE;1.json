@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "id": "ATTRIBUTE_SHARD_REKINDLE;1",
+  "_original_name": "Murkbat Shard",
+  "_original_lore": [
+    "Rekindle I",
+    "Killing a Bat has a +10% chance to",
+    "add 1 Bonus Score to your Dungeon",
+    "Run.",
+    "Limit of +1 Score per run",
+    "",
+    "You can Syphon this shard from",
+    "your Hunting Box.",
+    "",
+    "Right-click to send to Hunting Box!",
+    "Shift Right-click to move all!",
+    "",
+    "❣ Requires Hunting Skill 10.",
+    "RARE FOREST SHARD (ID R91)"
+  ],
+  "name": "暗蝠碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Rekindle I"
+      ],
+      "translation": "重燃 I",
+      "styleMappings": {
+        "I": "I"
+      }
+    },
+    {
+      "source": [
+        "Killing a Bat has a {{N0}} chance to",
+        "add {{N1}} Bonus Score to your Dungeon",
+        "Run."
+      ],
+      "translation": "击杀蝙蝠有 {{N0}} 概率为你的地牢探险增加 {{N1}} 额外分数.",
+      "styleMappings": {
+        "chance to": "概率",
+        "Dungeon": "地牢",
+        "Bat": "蝙蝠",
+        "chance": "概率"
+      }
+    },
+    {
+      "source": [
+        "Limit of {{N0}} Score per run"
+      ],
+      "translation": "每次探险最多 {{N0}} 分",
+      "styleMappings": {
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "You can Syphon this shard from",
+        "your Hunting Box."
+      ],
+      "translation": "你可以从狩猎箱中吸取此碎片.",
+      "styleMappings": {
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to send to Hunting Box!"
+      ],
+      "translation": "右键点击发送至狩猎箱!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Shift Right-click to move all!"
+      ],
+      "translation": "潜行键 右键点击全部移动!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "all": "全部"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Hunting Skill {{N0}}."
+      ],
+      "translation": "❣ 需要狩猎技能 {{N0}}.",
+      "styleMappings": {
+        "Hunting Skill": "狩猎技能",
+        "Requires": "需要",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "RARE FOREST SHARD (ID R{{N0}})"
+      ],
+      "translation": "稀有森林碎片 (ID R{{N0}})",
+      "styleMappings": {
+        "RARE FOREST SHARD": "稀有森林碎片",
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shard": "碎片"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

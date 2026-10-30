@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "id": "CROWN_OF_AVARICE",
+  "_original_name": "Crown of Avarice",
+  "_original_lore": [
+    "Health: +200",
+    "Defense: +100",
+    "",
+    "Ability: Overindulgence ",
+    " Mythological mobs deal 1.5x",
+    "damage.",
+    "",
+    "You gain 5x Coins from Griffin",
+    "Burrows and  Mythological mobs,",
+    "but they are consumed by this helmet.",
+    "(Perk changes at 1B Coins consumed)",
+    "",
+    "Grants +2.5 Magic Find against ",
+    "Mythological mobs and deal +0.015x",
+    "Damage for each digit of Coins",
+    "consumed.",
+    "",
+    "Coins Consumed: 0",
+    "  +1x Damage",
+    "  +0 Magic Find ",
+    "",
+    "This item can be reforged!",
+    "LEGENDARY HELMET"
+  ],
+  "name": "贪婪之冠",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Ability: Overindulgence "
+      ],
+      "translation": "能力: 放纵 ",
+      "styleMappings": {
+        "Ability": "能力",
+        "Overindulgence": "放纵"
+      }
+    },
+    {
+      "source": [
+        " Mythological mobs deal {{N0}}x",
+        "damage."
+      ],
+      "translation": " 神话生物造成 {{N0}}倍伤害.",
+      "styleMappings": {
+        " Mythological": " 神话生物",
+        "damage": "伤害",
+        "deal": "造成",
+        "Mythological": "神话生物",
+        "{{N0}}x": "{{N0}}倍",
+        "mobs": "生物"
+      }
+    },
+    {
+      "source": [
+        "You gain {{N0}}x Coins from Griffin",
+        "Burrows and  Mythological mobs,",
+        "but they are consumed by this helmet."
+      ],
+      "translation": "你从狮鹫地洞和 神话生物处获得 {{N0}}倍硬币,但它们会被这顶头盔消耗.",
+      "styleMappings": {
+        "Griffin Burrows": "狮鹫地洞",
+        " Mythological": " 神话生物",
+        "Coins": "硬币",
+        "Mythological": "神话生物",
+        "{{N0}}x": "{{N0}}倍",
+        "Griffin": "狮鹫",
+        "mobs": "生物",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "(Perk changes at {{N0}}B Coins consumed)"
+      ],
+      "translation": "(消耗 {{N0}}十亿硬币时效果变化)",
+      "styleMappings": {
+        "Coins": "硬币"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Magic Find against ",
+        "Mythological mobs and deal {{N1}}x",
+        "Damage for each digit of Coins",
+        "consumed."
+      ],
+      "translation": "对 神话生物提供 {{N0}}稀有物品概率加成,且每消耗一位数字的硬币造成 {{N1}}倍 伤害.",
+      "styleMappings": {
+        " Mythological": " 神话生物",
+        "Damage": "伤害",
+        "Grants": "提供",
+        "Coins": "硬币",
+        "deal": "造成",
+        "Mythological": "神话生物",
+        "Magic Find": "稀有物品概率加成",
+        "{{N1}}x": "{{N1}}倍",
+        "mobs": "生物"
+      }
+    },
+    {
+      "source": [
+        "Coins Consumed: {{N0}}"
+      ],
+      "translation": "已消耗硬币: {{N0}}",
+      "styleMappings": {
+        "Coins Consumed": "已消耗硬币",
+        "Coins": "硬币"
+      }
+    },
+    {
+      "source": [
+        "  {{N0}}x Damage",
+        "  {{N1}} Magic Find "
+      ],
+      "translation": "  {{N0}}倍 伤害   {{N1}}稀有物品概率加成  ",
+      "styleMappings": {
+        "Magic Find": "稀有物品概率加成",
+        "Damage": "伤害",
+        "{{N0}}x": "{{N0}}倍"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY HELMET"
+      ],
+      "translation": "传说 头盔",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Crown of Avarice": "贪婪之冠"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

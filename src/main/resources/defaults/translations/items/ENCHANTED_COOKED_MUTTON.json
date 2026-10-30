@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ENCHANTED_COOKED_MUTTON",
+  "_original_name": "Enchanted Cooked Mutton",
+  "_original_lore": [
+    "Brewing Ingredient",
+    "Collection Item",
+    "",
+    "RARE"
+  ],
+  "name": "附魔熟羊肉",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Brewing Ingredient",
+        "Collection Item"
+      ],
+      "translation": "酿造材料收藏物品",
+      "styleMappings": {
+        "Brewing Ingredient": "酿造材料",
+        "Collection Item": "收藏物品",
+        "Collection": "收藏",
+        "Item": "物品"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "ATTRIBUTE_SHARD_FLORA;1",
+  "_original_name": "Flora Shard",
+  "_original_lore": [
+    "Unique Bonus I",
+    "Counts as +1 towards the Unique",
+    "Crop Bonus in your Greenhouse.",
+    "",
+    "You can Syphon this shard from",
+    "your Hunting Box.",
+    "",
+    "Right-click to send to Hunting Box!",
+    "Shift Right-click to move all!",
+    "",
+    "❣ Requires Hunting Skill 20.",
+    "LEGENDARY FOREST SHARD (ID L52)"
+  ],
+  "name": "植物碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Unique Bonus I"
+      ],
+      "translation": "独特加成 I",
+      "styleMappings": {
+        "Bonus": "加成",
+        "I": "I"
+      }
+    },
+    {
+      "source": [
+        "Counts as {{N0}} towards the Unique",
+        "Crop Bonus in your Greenhouse."
+      ],
+      "translation": "在你的温室中计为 {{N0}} 点独特作物加成.",
+      "styleMappings": {
+        "Unique Crop Bonus": "独特作物加成",
+        "Greenhouse": "温室",
+        "Bonus": "加成",
+        "Crop": "作物"
+      }
+    },
+    {
+      "source": [
+        "You can Syphon this shard from",
+        "your Hunting Box."
+      ],
+      "translation": "你可以从狩猎箱中吸取此碎片.",
+      "styleMappings": {
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to send to Hunting Box!"
+      ],
+      "translation": "右键点击发送至狩猎箱!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Shift Right-click to move all!"
+      ],
+      "translation": "潜行键 右键点击全部移动!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "all": "全部"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Hunting Skill {{N0}}."
+      ],
+      "translation": "❣ 需要狩猎技能 {{N0}}.",
+      "styleMappings": {
+        "Hunting Skill": "狩猎技能",
+        "Requires": "需要",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY FOREST SHARD (ID L{{N0}})"
+      ],
+      "translation": "传说森林碎片 (ID L{{N0}})",
+      "styleMappings": {
+        "LEGENDARY FOREST SHARD": "传说森林碎片",
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shard": "碎片"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "id": "REJUVENATE;3",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Rejuvenate III",
+    "Grants +3 Health Regen.",
+    "",
+    "Sources:",
+    " - Catacombs (I-V)",
+    " - Bazaar (I-V)",
+    "",
+    "Applied To:",
+    " - Armor",
+    "",
+    "Requirements:",
+    " - Enchanting Level 10",
+    "",
+    "Conflicts:",
+    " - Respite",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Rejuvenate III"
+      ],
+      "translation": "恢复 III",
+      "styleMappings": {
+        "Rejuvenate": "恢复",
+        "III": "III"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Health Regen."
+      ],
+      "translation": "提供 {{N0}} 生命回复.",
+      "styleMappings": {
+        "Health Regen": "生命回复",
+        "Grants": "提供",
+        "Health": "生命",
+        "Regen": "回复"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Catacombs (I-V)",
+        " - Bazaar (I-V)"
+      ],
+      "translation": " - 地牢 (一至五)  - 集市 (一至五)",
+      "styleMappings": {
+        "Catacombs": "地牢",
+        "Bazaar": "集市",
+        "I-V": "一至五"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Armor"
+      ],
+      "translation": " - 盔甲",
+      "styleMappings": {
+        "Armor": "盔甲"
+      }
+    },
+    {
+      "source": [
+        "Requirements:"
+      ],
+      "translation": "需求:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchanting Level {{N0}}"
+      ],
+      "translation": " - 附魔等级 {{N0}}",
+      "styleMappings": {
+        "Enchanting Level": "附魔等级"
+      }
+    },
+    {
+      "source": [
+        "Conflicts:"
+      ],
+      "translation": "冲突:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Respite"
+      ],
+      "translation": " - 休养",
+      "styleMappings": {
+        "Respite": "休养"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "id": "OLD_DRAGON_BOOTS",
+  "_original_name": "Old Dragon Boots",
+  "_original_lore": [
+    "Health: +80",
+    "Defense: +90",
+    "Gemstones: [☤]",
+    "",
+    "Full Set Bonus: Old Blood (0/4)",
+    "Increases the strength of Growth,",
+    "Protection, Feather Falling, Sugar",
+    "Rush, and True Protection while worn.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Combat Skill 16.",
+    "LEGENDARY BOOTS"
+  ],
+  "name": "旧龙靴子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [☤]"
+      ],
+      "translation": "宝石: [☤]",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Old Blood ({{N0}}/{{N1}})"
+      ],
+      "translation": "全套加成: 古老之血 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Full Set Bonus": "全套加成",
+        "Old Blood": "古老之血",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Increases the strength of Growth,",
+        "Protection, Feather Falling, Sugar",
+        "Rush, and True Protection while worn."
+      ],
+      "translation": "穿戴时提高生长、保护、摔落保护、糖分冲刺和真实保护的强度.",
+      "styleMappings": {
+        "Feather Falling": "摔落保护",
+        "True Protection": "真实保护",
+        "Protection": "保护",
+        "Sugar Rush": "糖分冲刺",
+        "Growth": "生长",
+        "True": "真实"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY BOOTS"
+      ],
+      "translation": "传说 靴子",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Old Dragon Boots": "旧龙靴子",
+    "Dragon": "龙"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

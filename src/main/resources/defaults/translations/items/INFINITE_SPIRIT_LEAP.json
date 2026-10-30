@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "id": "INFINITE_SPIRIT_LEAP",
+  "_original_name": "Infinileap",
+  "_original_lore": [
+    "Ability: Spirit Leap  RIGHT CLICK",
+    "Allows you to teleport to any teammate! Grants",
+    "1 second of immunity after teleporting,",
+    "immunity is cancelled upon dealing damage.",
+    "Cooldown: 2s",
+    "",
+    "Dungeons only!",
+    "",
+    "EPIC DUNGEON ITEM"
+  ],
+  "name": "无限跳跃",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Spirit Leap  RIGHT CLICK"
+      ],
+      "translation": "技能:灵魂跃迁  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "Spirit": "灵魂",
+        "CLICK": "点击",
+        "Spirit Leap": "灵魂跃迁"
+      }
+    },
+    {
+      "source": [
+        "Allows you to teleport to any teammate! Grants",
+        "{{N0}} second of immunity after teleporting,",
+        "immunity is cancelled upon dealing damage."
+      ],
+      "translation": "传送至任意队友身旁!传送后获得 {{N0}} 秒无敌,造成伤害时立即解除.",
+      "styleMappings": {
+        "Grants": "获得",
+        "damage": "伤害",
+        "second": "秒"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "Dungeons only!"
+      ],
+      "translation": "仅限地牢使用!",
+      "styleMappings": {
+        "Dungeons": "地牢"
+      }
+    },
+    {
+      "source": [
+        "EPIC DUNGEON ITEM"
+      ],
+      "translation": "史诗 地牢物品",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Infinileap": "无限跳跃"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

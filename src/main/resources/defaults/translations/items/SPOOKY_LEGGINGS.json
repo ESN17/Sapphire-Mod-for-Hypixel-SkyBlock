@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "id": "SPOOKY_LEGGINGS",
+  "_original_name": "Spooky Leggings",
+  "_original_lore": [
+    "Defense: +35",
+    "",
+    "Each armor piece grants +5% chance",
+    "to get Candy from mobs during the",
+    "Spooky Festival.",
+    "",
+    "Full Set Bonus: Candy Man (0/4)",
+    "Grants a +5% chance to find rare",
+    "Candy.",
+    "",
+    "This item can be reforged!",
+    "EPIC LEGGINGS"
+  ],
+  "name": "幽灵护腿",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Each armor piece grants {{N0}} chance",
+        "to get Candy from mobs during the",
+        "Spooky Festival."
+      ],
+      "translation": "在幽灵节期间,每件盔甲提供 {{N0}} 的几率从怪物身上获得糖果.",
+      "styleMappings": {
+        "Spooky Festival": "幽灵节",
+        "chance": "几率",
+        "Candy": "糖果",
+        "mobs": "怪物",
+        "chance to": "几率",
+        "Spooky": "幽灵"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Candy Man ({{N0}}/{{N1}})"
+      ],
+      "translation": "全套加成:糖果人 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Full Set Bonus: Candy Man": "全套加成:糖果人",
+        "Full Set Bonus": "全套加成",
+        "Bonus": "加成",
+        "Candy": "糖果"
+      }
+    },
+    {
+      "source": [
+        "Grants a {{N0}} chance to find rare",
+        "Candy."
+      ],
+      "translation": "获得 {{N0}} 几率找到稀有糖果.",
+      "styleMappings": {
+        "Grants": "获得",
+        "chance": "几率",
+        "Candy": "糖果",
+        "rare": "稀有",
+        "chance to": "几率"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "EPIC LEGGINGS"
+      ],
+      "translation": "史诗护腿",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Spooky": "幽灵",
+    "Leggings": "护腿"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

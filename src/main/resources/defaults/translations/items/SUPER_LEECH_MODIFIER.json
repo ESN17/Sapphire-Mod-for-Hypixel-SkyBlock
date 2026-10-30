@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "SUPER_LEECH_MODIFIER",
+  "_original_name": "Super Leech Modifier",
+  "_original_lore": [
+    "Can be combined with an Aspect of",
+    "the Leech in a Crafting Table to",
+    "increase its range from 4 blocks to",
+    "5 blocks and decrease its Mana Cost",
+    "from 60 to 50.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "RARE"
+  ],
+  "name": "超级血蛭修正器",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Can be combined with an Aspect of",
+        "the Leech in a Crafting Table to",
+        "increase its range from {{N0}} blocks to",
+        "{{N1}} blocks and decrease its Mana Cost",
+        "from {{N2}} to {{N3}}."
+      ],
+      "translation": "可在工作台中与血蛭之刃结合,将其范围从 {{N0}} 格提升至 {{N1}} 格,并将其法力消耗从 {{N2}} 降低至 {{N3}}.",
+      "styleMappings": {
+        "Aspect of the Leech": "血蛭之刃",
+        "Mana Cost": "法力消耗",
+        "blocks": "格",
+        "Mana": "法力"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Super Leech Modifier": "超级血蛭修正器"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

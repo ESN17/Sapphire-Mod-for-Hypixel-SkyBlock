@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "id": "ECCENTRIC_PAINTING_BUNDLE",
+  "_original_name": "Eccentric Painting Bundle",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Consume to unwrap the bundle",
+    "containing 9x Eccentric Painting.",
+    "",
+    "A peculiar set of paintings, all of",
+    "which are said to be originals.",
+    "",
+    "Right-click to consume!",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "古怪油画礼包",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Consume to unwrap the bundle",
+        "containing {{N0}}x Eccentric Painting."
+      ],
+      "translation": "消耗以拆开包含 {{N0}} 个古怪油画的礼包.",
+      "styleMappings": {
+        "Eccentric Painting": "古怪油画",
+        "{{N0}}x": "{{N0}} 个"
+      }
+    },
+    {
+      "source": [
+        "A peculiar set of paintings, all of",
+        "which are said to be originals."
+      ],
+      "translation": "一套奇特的画作,据说全部都是真迹.",
+      "styleMappings": {
+        "all": "全部"
+      }
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Eccentric Painting": "古怪油画"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

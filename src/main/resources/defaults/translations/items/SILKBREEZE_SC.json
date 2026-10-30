@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "SILKBREEZE_SC",
+  "_original_name": "Silkbreeze (Sea Creature)",
+  "_original_lore": [
+    "Mob Types:  Aquatic,  Airborne,  Elusive",
+    "",
+    "It weaves silk at impressive speeds",
+    "as it moves.",
+    "",
+    "❤ Health: 250,000",
+    "",
+    "Fished up on Torrhus Canyon."
+  ],
+  "name": "丝风 (海怪)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mob Types:  Aquatic,  Airborne,  Elusive"
+      ],
+      "translation": "生物类型:   水生,   空中,   难以捉摸",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Airborne": "空中",
+        "Aquatic": "水生",
+        "Elusive": "难以捉摸"
+      }
+    },
+    {
+      "source": [
+        "It weaves silk at impressive speeds",
+        "as it moves."
+      ],
+      "translation": "它在移动时以惊人的速度编织丝绸.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Fished up on Torrhus Canyon."
+      ],
+      "translation": "在托鲁斯峡谷钓到.",
+      "styleMappings": {
+        "Torrhus Canyon": "托鲁斯峡谷"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sea Creature": "海怪",
+    "Silkbreeze": "丝风",
+    "(Sea Creature)": "(海怪)"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

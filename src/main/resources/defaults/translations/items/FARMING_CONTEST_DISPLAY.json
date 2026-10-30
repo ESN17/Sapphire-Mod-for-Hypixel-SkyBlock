@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "FARMING_CONTEST_DISPLAY",
+  "_original_name": "Farming Contest Display",
+  "_original_lore": [
+    "Show off your Farming Contest stats!",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "农耕大赛展示牌",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Show off your Farming Contest stats!"
+      ],
+      "translation": "炫耀你的农耕大赛战绩!",
+      "styleMappings": {
+        "Farming Contest": "农耕大赛"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Farming Contest": "农耕大赛"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

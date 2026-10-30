@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "id": "RIFT_COMPLETION_MEMENTO",
+  "_original_name": "There and Back Again",
+  "_original_lore": [
+    "Commemorates your participation in",
+    "the Breach Close event.",
+    "",
+    "Earned by: [MVP+] Eisengolem",
+    "December 10, 2024",
+    "",
+    "Memento acquirer name becomes",
+    "hidden if traded.",
+    "",
+    "This book will never find a publisher.",
+    "",
+    "SPECIAL MEMENTO"
+  ],
+  "name": "去而复返",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Commemorates your participation in",
+        "the Breach Close event."
+      ],
+      "translation": "纪念您参与裂隙关闭活动.",
+      "styleMappings": {
+        "Commemorates your participation in": "纪念您参与",
+        "Breach Close": "裂隙关闭",
+        "event.": "活动."
+      }
+    },
+    {
+      "source": [
+        "Earned by: [MVP+] Eisengolem"
+      ],
+      "translation": "获得者:[最有价值玩家+]艾森戈莱姆",
+      "styleMappings": {
+        "MVP": "最有价值玩家",
+        "Eisengolem": "艾森戈莱姆"
+      }
+    },
+    {
+      "source": [
+        "December {{N0}}, {{N1}}"
+      ],
+      "translation": "{{N0}} 年 {{N1}} 月",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Memento acquirer name becomes",
+        "hidden if traded."
+      ],
+      "translation": "纪念品获得者名称在交易后将被隐藏.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "This book will never find a publisher."
+      ],
+      "translation": "这本书永远找不到出版商.",
+      "styleMappings": {
+        "This book will never find a publisher.": "这本书永远找不到出版商."
+      }
+    },
+    {
+      "source": [
+        "SPECIAL MEMENTO"
+      ],
+      "translation": "特殊纪念品",
+      "styleMappings": {
+        "SPECIAL MEMENTO": "特殊纪念品",
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "There and Back Again": "去而复返"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

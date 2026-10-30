@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": "ROGUE_SWORD",
+  "_original_name": "Rogue Sword",
+  "_original_lore": [
+    "Damage: +20",
+    "",
+    "Ability: Speed Boost  RIGHT CLICK",
+    "Grants +100 Speed for 30s.",
+    "Mana Cost: 41",
+    "Cooldown: 5s",
+    "",
+    "This item can be reforged!",
+    "* Co-op Soulbound *",
+    "COMMON SWORD"
+  ],
+  "name": "游侠剑",
+  "lore": {
+    "Damage: {value}": "伤害:{value}",
+    "Ability: Speed Boost  RIGHT CLICK": "技能:疾行  右键点击",
+    "Grants {speed} Speed for {duration}s.": "获得 {speed} 速度,持续 {duration}秒.",
+    "Mana Cost: {value}": "魔力消耗:{value}",
+    "Cooldown: {value}s": "冷却时间:{value}秒",
+    "This item can be reforged!": "此物品可以洗练!",
+    "* Co-op Soulbound *": "* 合作档绑定 *",
+    "COMMON SWORD": "普通 剑",
+    "Damage: {value} ({bonus})": "伤害:{value} ({bonus})"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Ability: Speed Boost  RIGHT CLICK"
+      ],
+      "translation": "技能:疾行  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击",
+        "Ability: Speed Boost": "技能:疾行"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Speed for {{N1}}s."
+      ],
+      "translation": "获得 {{N0}} 速度,持续 {{N1}}秒.",
+      "styleMappings": {
+        " Speed": " 速度",
+        "Grants": "获得",
+        "for": "持续",
+        "s": "秒",
+        "Speed": "速度",
+        "{{N1}}s": "{{N1}}秒"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "COMMON SWORD"
+      ],
+      "translation": "普通剑",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Damage": "伤害",
+    "RIGHT CLICK": "右键点击",
+    "Speed": "速度",
+    "s": "秒",
+    "Co-op Soulbound": "合作档绑定",
+    "Sword": "剑"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

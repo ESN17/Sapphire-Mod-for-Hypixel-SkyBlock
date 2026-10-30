@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "SNOW_CANNON",
+  "_original_name": "Frosty the Snow Cannon",
+  "_original_lore": [
+    "Holds and shoots Snowballs. When",
+    "you pickup Snowballs, they increase",
+    "the ammo held by this item.",
+    "",
+    "Snowballs: 1,000/1,000",
+    "",
+    "Right click to shoot!",
+    "",
+    "RARE"
+  ],
+  "name": "雪球炮手 Frosty",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Holds and shoots Snowballs. When",
+        "you pickup Snowballs, they increase",
+        "the ammo held by this item."
+      ],
+      "translation": "可储存并发射雪球.当你拾取雪球时,它们会增加此物品储存的弹药.",
+      "styleMappings": {
+        "Snowballs": "雪球",
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Snowballs: {{N0}}/{{N1}}"
+      ],
+      "translation": "雪球: {{N0}}/{{N1}}",
+      "styleMappings": {
+        "Snowballs": "雪球"
+      }
+    },
+    {
+      "source": [
+        "Right click to shoot!"
+      ],
+      "translation": "右键点击发射!",
+      "styleMappings": {
+        "Right click to shoot": "右键点击发射",
+        "Right click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Frosty the Snow Cannon": "雪球炮手 Frosty",
+    "Snow Cannon": "雪球炮"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

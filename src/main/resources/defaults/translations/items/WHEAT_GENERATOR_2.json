@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "id": "WHEAT_GENERATOR_2",
+  "_original_name": "Wheat Minion II",
+  "_original_lore": [
+    "Place this minion and it will start",
+    "generating and harvesting wheat.",
+    "Requires dirt or soil nearby so",
+    "wheat can be planted. Minions also",
+    "work when you are offline!",
+    "",
+    "Time Between Actions: 15s",
+    "Max Storage: 256",
+    "Resources Generated: 0",
+    "",
+    "RARE"
+  ],
+  "name": "小麦仆从 II",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Place this minion and it will start",
+        "generating and harvesting wheat."
+      ],
+      "translation": "放置此仆从后,它会开始生成并收割小麦.",
+      "styleMappings": {
+        "minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "Requires dirt or soil nearby so",
+        "wheat can be planted. Minions also",
+        "work when you are offline!"
+      ],
+      "translation": "附近需要泥土或土壤才能种植小麦.你离线时仆从也会继续工作!",
+      "styleMappings": {
+        "Requires": "需要",
+        "Minions": "仆从",
+        "work": "工作",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Time Between Actions: {{N0}}s"
+      ],
+      "translation": "行动间隔:{{N0}}秒",
+      "styleMappings": {
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "Max Storage: {{N0}}"
+      ],
+      "translation": "最大存储:{{N0}}",
+      "styleMappings": {
+        "Max": "最大"
+      }
+    },
+    {
+      "source": [
+        "Resources Generated: {{N0}}"
+      ],
+      "translation": "产出资源:{{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Wheat": "小麦",
+    "Minion": "仆从",
+    "II": "II"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

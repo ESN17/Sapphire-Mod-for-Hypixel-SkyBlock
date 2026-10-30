@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "id": "MELODY_HAIR",
+  "_original_name": "Melody's Hair",
+  "_original_lore": [
+    "Intelligence: +6",
+    "Accessory Power: +12",
+    "",
+    "A single strand of hair from",
+    "Melody's head.",
+    "",
+    "Left-Click: Tune up!",
+    "Right-Click: Play note!",
+    "",
+    "❣ Requires Melody Harp completion.",
+    "* Soulbound *",
+    "Works while in Accessory Bag!",
+    "EPIC ACCESSORY"
+  ],
+  "name": "旋律的头发",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Accessory Power: {{N0}}"
+      ],
+      "translation": "饰品能量: {{N0}}",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "A single strand of hair from",
+        "Melody's head."
+      ],
+      "translation": "Melody 头上的一缕头发.",
+      "styleMappings": {
+        "s": "一"
+      }
+    },
+    {
+      "source": [
+        "Left-Click: Tune up!"
+      ],
+      "translation": "左键点击: 调音!",
+      "styleMappings": {
+        "Left-Click": "左键点击",
+        "Tune up!": "调音!"
+      }
+    },
+    {
+      "source": [
+        "Right-Click: Play note!"
+      ],
+      "translation": "右键点击: 演奏音符!",
+      "styleMappings": {
+        "Right-Click": "右键点击",
+        "Play note!": "演奏音符!"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Melody Harp completion."
+      ],
+      "translation": "❣ 需要完成 Melody 竖琴.",
+      "styleMappings": {
+        "Melody Harp": "Melody 竖琴",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "放在饰品袋中即可生效!",
+      "styleMappings": {
+        "Accessory Bag": "饰品袋",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "EPIC ACCESSORY"
+      ],
+      "translation": "史诗饰品",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

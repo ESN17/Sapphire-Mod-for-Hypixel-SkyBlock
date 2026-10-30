@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "id": "CLEAVER",
+  "_original_name": "Cleaver",
+  "_original_lore": [
+    "Damage: +40",
+    "Strength: +10",
+    "",
+    "Ability: Cleave ",
+    "When hitting an entity, monsters in a 3 block",
+    "range will be hit for a portion of that damage",
+    "too.",
+    "",
+    "This item can be reforged!",
+    "UNCOMMON SWORD"
+  ],
+  "name": "劈砍者",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Ability: Cleave "
+      ],
+      "translation": "能力: 横扫之刃 ",
+      "styleMappings": {
+        "Ability: Cleave": "能力: 横扫之刃",
+        "Ability": "能力",
+        "Cleave": "横扫之刃"
+      }
+    },
+    {
+      "source": [
+        "When hitting an entity, monsters in a {{N0}} block",
+        "range will be hit for a portion of that damage",
+        "too."
+      ],
+      "translation": "击中实体时,{{N0}} 格范围内的怪物也会受到该伤害的一部分.",
+      "styleMappings": {
+        "monsters": "怪物",
+        "damage": "伤害",
+        "block": "格",
+        "hit": "击中"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON SWORD"
+      ],
+      "translation": "罕见剑",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

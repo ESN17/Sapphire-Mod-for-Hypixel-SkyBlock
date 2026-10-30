@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "POWER_CRYSTAL",
+  "_original_name": "Power Crystal",
+  "_original_lore": [
+    "Powers Beacons for up to 48 hours",
+    "at a time!",
+    "",
+    "Can be obtained through refining at forges in the",
+    "Dwarven Mines.",
+    "",
+    "Has a single use and can be stacked.",
+    "",
+    "EPIC"
+  ],
+  "name": "能量水晶",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Powers Beacons for up to {{N0}} hours",
+        "at a time!"
+      ],
+      "translation": "每次可为信标提供最多 {{N0}} 小时的增益!",
+      "styleMappings": {
+        "Beacons": "信标",
+        "hours": "小时"
+      }
+    },
+    {
+      "source": [
+        "Can be obtained through refining at forges in the",
+        "Dwarven Mines."
+      ],
+      "translation": "可在矮人矿坑的锻造厂中精炼获得.",
+      "styleMappings": {
+        "Dwarven Mines": "矮人矿坑",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Has a single use and can be stacked."
+      ],
+      "translation": "仅可使用一次,可堆叠.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Crystal": "水晶"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

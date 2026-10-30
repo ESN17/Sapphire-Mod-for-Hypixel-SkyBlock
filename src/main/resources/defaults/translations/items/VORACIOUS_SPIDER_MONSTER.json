@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "VORACIOUS_SPIDER_MONSTER",
+  "_original_name": "Voracious Spider (Monster)",
+  "_original_lore": [
+    "The Voracious Spider is a spider that spawns in",
+    "the Spider's Den. Unlike regular spiders in the Den",
+    "they have much more health and damage output",
+    "and spawn much more frequently in large groups.",
+    "",
+    "❤ Health: 300 - 750"
+  ],
+  "name": "贪食蜘蛛 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Voracious Spider is a spider that spawns in",
+        "the Spider's Den. Unlike regular spiders in the Den",
+        "they have much more health and damage output",
+        "and spawn much more frequently in large groups."
+      ],
+      "translation": "贪食蜘蛛是生成在蜘蛛巢穴中的蜘蛛.与巢穴中的普通蜘蛛不同,它们拥有更多的生命值和伤害输出,并且更频繁地成群生成.",
+      "styleMappings": {
+        "Spider's Den": "蜘蛛巢穴",
+        "damage": "伤害",
+        "health": "生命值",
+        "more": "更多",
+        "Spider": "蜘蛛",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}} - {{N1}}"
+      ],
+      "translation": "❤ 生命值: {{N0}} - {{N1}}",
+      "styleMappings": {
+        "Health": "生命值",
+        "-": "-"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Voracious Spider (Monster)": "贪食蜘蛛 (怪物)",
+    "(Monster)": "(怪物)",
+    "Spider": "蜘蛛",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

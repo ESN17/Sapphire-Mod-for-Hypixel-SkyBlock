@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "DEAD_MANS_CHESTPLATE",
+  "_original_name": "Dead Man's Chestplate",
+  "_original_lore": [
+    "\"That horribly rigid, overfrozen",
+    "water in nearby lake almost kills",
+    "everything.\"",
+    "",
+    "RARE"
+  ],
+  "name": "死者的胸甲",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "\"That horribly rigid, overfrozen",
+        "water in nearby lake almost kills",
+        "everything.\""
+      ],
+      "translation": "\"附近湖里那可怕僵硬、过度冰冻的水几乎能杀死一切.\"",
+      "styleMappings": {
+        "water": "水"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Chestplate": "胸甲"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

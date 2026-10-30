@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "DEAD_CAT_FOOD",
+  "_original_name": "Tasty Cat Food",
+  "_original_lore": [
+    "Use on a mythological cat to",
+    "transform this item.",
+    "",
+    "Pss-pss-pss-pss",
+    "Good cats only!",
+    "",
+    "X Rift-Transferable X",
+    "RARE PET ITEM"
+  ],
+  "name": "美味猫粮",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Use on a mythological cat to",
+        "transform this item."
+      ],
+      "translation": "对神话猫使用以转化此物品.",
+      "styleMappings": {
+        "mythological cat": "神话猫",
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Pss-pss-pss-pss",
+        "Good cats only!"
+      ],
+      "translation": "啧啧啧啧 只有好猫才行!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "X Rift-Transferable X"
+      ],
+      "translation": "X 可转移至裂隙 X",
+      "styleMappings": {
+        "Rift-Transferable": "可转移至裂隙",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "RARE PET ITEM"
+      ],
+      "translation": "稀有宠物物品",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

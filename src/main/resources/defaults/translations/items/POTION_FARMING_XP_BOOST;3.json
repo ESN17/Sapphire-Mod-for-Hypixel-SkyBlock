@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_FARMING_XP_BOOST;3",
+  "_original_name": "Farming XP Boost III Potion",
+  "_original_lore": [
+    "",
+    "Farming XP Boost III (36:00)",
+    "Grants +20☯ Farming Wisdom.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "农业经验加成 III 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Farming XP Boost III ({{N0}}:{{N1}})"
+      ],
+      "translation": "农业经验加成 III ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Farming XP Boost III": "农业经验加成 III",
+        "III": "III",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}☯ Farming Wisdom."
+      ],
+      "translation": "获得 {{N0}}☯ 农业智慧.",
+      "styleMappings": {
+        "Farming Wisdom": "农业智慧",
+        "Grants": "获得",
+        "Wisdom": "智慧",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Farming XP Boost III": "农业经验加成 III",
+    "III": "III",
+    "Farming": "农业"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

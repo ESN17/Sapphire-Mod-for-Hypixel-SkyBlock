@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "HILT_OF_TRUE_ICE",
+  "_original_name": "True Ice",
+  "_original_lore": [
+    "Though it’s the coldest thing",
+    "you’ll find on Jerry's Workshop,",
+    "it’s oddly comforting.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "真冰",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Though it’s the coldest thing",
+        "you’ll find on Jerry's Workshop,",
+        "it’s oddly comforting."
+      ],
+      "translation": "虽然这是你在杰瑞的工坊能找到的最冷的东西, 却莫名令人安心.",
+      "styleMappings": {
+        "Jerry's Workshop": "杰瑞的工坊",
+        "Jerry": "杰瑞"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "True Ice": "真冰",
+    "Ice": "冰"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

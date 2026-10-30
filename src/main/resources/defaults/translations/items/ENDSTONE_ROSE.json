@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "ENDSTONE_ROSE",
+  "_original_name": "End Stone Rose",
+  "_original_lore": [
+    "\"The Zealots have shown me so much",
+    "love, I hope this simple rose shows",
+    "how much I care for them.\" - End",
+    "Stone Protector",
+    "",
+    "RARE"
+  ],
+  "name": "末地石玫瑰",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "\"The Zealots have shown me so much",
+        "love, I hope this simple rose shows",
+        "how much I care for them.\" - End",
+        "Stone Protector"
+      ],
+      "translation": "\"末地战士们向我展现了如此多的爱,希望这朵简单的玫瑰能表达我对他们的关心.\" - 末地石守护者",
+      "styleMappings": {
+        "End Stone Protector": "末地石守护者",
+        "Zealots": "末地战士",
+        "End": "末地",
+        "End Stone": "末地石"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "End": "末地",
+    "End Stone": "末地石"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

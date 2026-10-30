@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "SPECKLED_TEACUP",
+  "_original_name": "Speckled Teacup",
+  "_original_lore": [
+    "Quest Item",
+    "",
+    "A garish ornament that is oddly",
+    "beloved by Brynmor, owner of the",
+    "Dwarven Tavern. If you return it to",
+    "him, he will give you his Abiphone",
+    "Contact.",
+    "",
+    "* Soulbound *",
+    "SPECIAL"
+  ],
+  "name": "斑点茶杯",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Quest Item"
+      ],
+      "translation": "任务物品",
+      "styleMappings": {
+        "Item": "物品"
+      }
+    },
+    {
+      "source": [
+        "A garish ornament that is oddly",
+        "beloved by Brynmor, owner of the",
+        "Dwarven Tavern. If you return it to",
+        "him, he will give you his Abiphone",
+        "Contact."
+      ],
+      "translation": "一件花哨的装饰品,却意外地深受矮人酒馆老板 Brynmor 的喜爱.如果你把它还给他,他会给你他的阿比手机联系方式.",
+      "styleMappings": {
+        "Brynmor": "Brynmor",
+        "Dwarven Tavern": "矮人酒馆",
+        "Abiphone Contact": "阿比手机联系方式"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

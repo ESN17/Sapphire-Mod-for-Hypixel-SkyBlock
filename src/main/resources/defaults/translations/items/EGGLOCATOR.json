@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "EGGLOCATOR",
+  "_original_name": "Egglocator",
+  "_original_lore": [
+    "Uses the magic of Hoppity to",
+    "uncover hidden Chocolate Rabbit",
+    "Eggs.",
+    "",
+    "Ability: Egglocator  RIGHT CLICK",
+    "Points towards the nearest unclaimed",
+    "Chocolate Rabbit Egg!",
+    "Cooldown: 5s",
+    "",
+    "Only works during Hoppity's Hunt.",
+    "",
+    "COMMON"
+  ],
+  "name": "寻蛋器",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Uses the magic of Hoppity to",
+        "uncover hidden Chocolate Rabbit",
+        "Eggs."
+      ],
+      "translation": "使用 Hoppity 的魔法来发现隐藏的巧克力兔蛋.",
+      "styleMappings": {
+        "Hoppity": "Hoppity",
+        "Chocolate Rabbit Eggs": "巧克力兔蛋",
+        "Chocolate": "巧克力"
+      }
+    },
+    {
+      "source": [
+        "Ability: Egglocator  RIGHT CLICK"
+      ],
+      "translation": "技能: 寻蛋器  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Points towards the nearest unclaimed",
+        "Chocolate Rabbit Egg!"
+      ],
+      "translation": "指向最近的未领取巧克力兔蛋!",
+      "styleMappings": {
+        "Chocolate Rabbit Egg": "巧克力兔蛋",
+        "Chocolate": "巧克力",
+        "Egg": "蛋"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "Only works during Hoppity's Hunt."
+      ],
+      "translation": "仅在 Hoppity 的狩猎期间有效.",
+      "styleMappings": {
+        "Hoppity's Hunt": "Hoppity 的狩猎",
+        "Hoppity's": "Hoppity 的",
+        "Hunt": "狩猎",
+        "Hoppity": "Hoppity"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

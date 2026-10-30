@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_SLOWNESS;7",
+  "_original_name": "Slowness VII Potion",
+  "_original_lore": [
+    "",
+    "Slowness VII (3:00)",
+    "Removes 380 Speed.",
+    "",
+    "EPIC"
+  ],
+  "name": "缓慢 VII 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Slowness VII ({{N0}}:{{N1}})"
+      ],
+      "translation": "缓慢 VII ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Slowness VII": "缓慢 VII",
+        "Slowness": "缓慢"
+      }
+    },
+    {
+      "source": [
+        "Removes {{N0}} Speed."
+      ],
+      "translation": "移除 {{N0}} 速度.",
+      "styleMappings": {
+        " Speed": " 速度",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Slowness VII Potion": "缓慢 VII 药水",
+    "Slowness": "缓慢",
+    "Slowness VII": "缓慢 VII"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

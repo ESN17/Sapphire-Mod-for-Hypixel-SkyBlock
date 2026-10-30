@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "FINE_JADE_GEM",
+  "_original_name": " Fine Jade Gemstone",
+  "_original_lore": [
+    "Collection Item",
+    "",
+    "A type of Jade that has clearly",
+    "been treated with care.",
+    "",
+    "Some say that when harnessed",
+    "properly, it can give its owner extra",
+    " Mining Fortune.",
+    "",
+    "RARE GEMSTONE"
+  ],
+  "name": " 精致翡翠",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Collection Item"
+      ],
+      "translation": "收藏品",
+      "styleMappings": {
+        "Collection Item": "收藏品"
+      }
+    },
+    {
+      "source": [
+        "A type of Jade that has clearly",
+        "been treated with care."
+      ],
+      "translation": "经过精心加工的翡翠.",
+      "styleMappings": {
+        "Jade": "翡翠"
+      }
+    },
+    {
+      "source": [
+        "Some say that when harnessed",
+        "properly, it can give its owner extra",
+        " Mining Fortune."
+      ],
+      "translation": "据说,运用得当时,它能为持有者提供额外的  采矿时运.",
+      "styleMappings": {
+        "harnessed properly": "运用得当",
+        " Mining Fortune": " 采矿时运"
+      }
+    },
+    {
+      "source": [
+        "RARE GEMSTONE"
+      ],
+      "translation": "稀有宝石",
+      "styleMappings": {
+        "RARE": "稀有",
+        "GEMSTONE": "宝石"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fine": "精致",
+    "Jade Gemstone": "翡翠"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

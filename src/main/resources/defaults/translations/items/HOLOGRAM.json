@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "HOLOGRAM",
+  "_original_name": "Hologram",
+  "_original_lore": [
+    "Furniture",
+    "Colored",
+    "",
+    "Add some flair to your island with",
+    "custom floating text!",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "全息投影",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Furniture",
+        "Colored"
+      ],
+      "translation": "家具 彩色",
+      "styleMappings": {
+        "Furniture": "家具",
+        "Colored": "彩色"
+      }
+    },
+    {
+      "source": [
+        "Add some flair to your island with",
+        "custom floating text!"
+      ],
+      "translation": "用自定义悬浮文字为你的岛屿增添风采!",
+      "styleMappings": {
+        "custom floating text": "自定义悬浮文字"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

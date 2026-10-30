@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "id": "ATTRIBUTE_SHARD_HONEY_SERENDIPITY;1",
+  "_original_name": "Honey Badger Shard",
+  "_original_lore": [
+    "Honey Serendipity I",
+    "Grants a +0.5% chance to instantly",
+    "attract a mob when lathering a Tree",
+    "with Honeycomb.",
+    "",
+    "You can Syphon this shard from",
+    "your Hunting Box.",
+    "",
+    "Right-click to send to Hunting Box!",
+    "Shift Right-click to move all!",
+    "",
+    "❣ Requires Hunting Skill 5.",
+    "UNCOMMON COMBAT SHARD (ID U57)"
+  ],
+  "name": "蜜獾碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Honey Serendipity I"
+      ],
+      "translation": "蜂蜜奇遇 I",
+      "styleMappings": {
+        "I": "I"
+      }
+    },
+    {
+      "source": [
+        "Grants a {{N0}} chance to instantly",
+        "attract a mob when lathering a Tree",
+        "with Honeycomb."
+      ],
+      "translation": "用蜜脾涂抹树时有 {{N0}} 几率立即吸引一只怪物.",
+      "styleMappings": {
+        "Honeycomb": "蜜脾",
+        "chance": "几率",
+        "Tree": "树",
+        "chance to": "几率",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "You can Syphon this shard from",
+        "your Hunting Box."
+      ],
+      "translation": "你可以从狩猎箱中吸取此碎片.",
+      "styleMappings": {
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to send to Hunting Box!"
+      ],
+      "translation": "右键点击发送至狩猎箱!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Shift Right-click to move all!"
+      ],
+      "translation": "潜行键 右键点击全部移动!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "all": "全部"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Hunting Skill {{N0}}."
+      ],
+      "translation": "❣ 需要狩猎技能 {{N0}}.",
+      "styleMappings": {
+        "Hunting Skill": "狩猎技能",
+        "Requires": "需要",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON COMBAT SHARD (ID U{{N0}})"
+      ],
+      "translation": "罕见战斗碎片 (ID U{{N0}})",
+      "styleMappings": {
+        "UNCOMMON COMBAT SHARD": "罕见战斗碎片",
+        "UNCOMMON": "罕见",
+        "COMBAT SHARD": "战斗碎片"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shard": "碎片"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

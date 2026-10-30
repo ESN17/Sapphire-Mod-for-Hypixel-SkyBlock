@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "id": "STEALTH;5",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Stealth V",
+    " Timid mobs have a 50% chance to",
+    "remain still instead of fleeing.",
+    "",
+    "Sources:",
+    " - Chillblade and Chillshot (I)",
+    " - Bazaar (I-V)",
+    " - Distant Echo (VI)",
+    "",
+    "Applied To:",
+    " - Boots",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Stealth V"
+      ],
+      "translation": "潜行 V",
+      "styleMappings": {
+        "Stealth": "潜行",
+        "Stealth V": "潜行 V"
+      }
+    },
+    {
+      "source": [
+        " Timid mobs have a {{N0}} chance to",
+        "remain still instead of fleeing."
+      ],
+      "translation": " 胆小的怪物有 {{N0}} 概率原地不动,而不是逃跑.",
+      "styleMappings": {
+        "chance to": "概率",
+        "Timid": "胆小",
+        "mobs": "怪物",
+        "chance": "概率"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Chillblade and Chillshot (I)",
+        " - Bazaar (I-V)",
+        " - Distant Echo (VI)"
+      ],
+      "translation": " - 寒刃与寒射 (I)  - 集市 (I-V)  - 遥远回响 (VI)",
+      "styleMappings": {
+        "Bazaar": "集市",
+        "I-V": "I-V",
+        "Chillblade and Chillshot": "寒刃与寒射"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Boots"
+      ],
+      "translation": " - 靴子",
+      "styleMappings": {
+        "Boots": "靴子"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

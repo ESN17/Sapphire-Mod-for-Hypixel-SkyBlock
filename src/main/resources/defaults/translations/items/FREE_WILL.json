@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "id": "FREE_WILL",
+  "_original_name": "Free Will",
+  "_original_lore": [
+    "Giving this to a minion will give them",
+    "the illusion of Free Will. They will be",
+    "met with the most important choice of",
+    "their minion life.",
+    "",
+    "They will either stay and become",
+    "loyal, granting +10% Minion Speed or",
+    "leave you forever and send you a",
+    "Postcard.",
+    "",
+    "Loyalty Chance:",
+    "50% at Minion Tier I, +4% per minion",
+    "tier.",
+    "",
+    "X Rift-Transferable X",
+    "LEGENDARY"
+  ],
+  "name": "自由意志",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Giving this to a minion will give them",
+        "the illusion of Free Will. They will be",
+        "met with the most important choice of",
+        "their minion life."
+      ],
+      "translation": "将此物交给仆从,会让它们产生自由意志的错觉.它们将面临仆从一生中最重要的抉择.",
+      "styleMappings": {
+        "Free Will": "自由意志",
+        "minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "They will either stay and become",
+        "loyal, granting {{N0}} Minion Speed or",
+        "leave you forever and send you a",
+        "Postcard."
+      ],
+      "translation": "它们要么留下并变得忠诚,给予 {{N0}} 仆从速度,要么永远离开你并寄给你一张明信片.",
+      "styleMappings": {
+        "leave you forever": "永远离开你",
+        "Minion Speed": "仆从速度",
+        "Postcard": "明信片",
+        "stay": "留下",
+        "Speed": "速度",
+        "Minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "Loyalty Chance:"
+      ],
+      "translation": "忠诚几率:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "{{N0}} at Minion Tier I, {{N1}} per minion",
+        "tier."
+      ],
+      "translation": "仆从 I 阶时 {{N0}},每提升一阶仆从 {{N1}}.",
+      "styleMappings": {
+        "I": "I",
+        "minion": "仆从",
+        "Minion": "仆从",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "X Rift-Transferable X"
+      ],
+      "translation": "X 可转移至裂隙 X",
+      "styleMappings": {
+        "Rift-Transferable": "可转移至裂隙",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Free Will": "自由意志"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

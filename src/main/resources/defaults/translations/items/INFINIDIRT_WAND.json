@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "INFINIDIRT_WAND",
+  "_original_name": "InfiniDirt™ Wand",
+  "_original_lore": [
+    "Ability: Place Dirt  RIGHT CLICK",
+    "Place a dirt block.",
+    "Costs 1 coin.",
+    "",
+    "Can be used within the Builder's Wand!",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "无限泥土™魔杖",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Place Dirt  RIGHT CLICK"
+      ],
+      "translation": "技能: 放置泥土  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Place a dirt block."
+      ],
+      "translation": "放置一个泥土块.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Costs {{N0}} coin."
+      ],
+      "translation": "消耗 {{N0}} 硬币.",
+      "styleMappings": {
+        "coin": "硬币"
+      }
+    },
+    {
+      "source": [
+        "Can be used within the Builder's Wand!"
+      ],
+      "translation": "可在建筑魔杖中使用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

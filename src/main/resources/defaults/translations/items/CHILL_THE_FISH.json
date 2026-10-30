@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "CHILL_THE_FISH",
+  "_original_name": "Chill the Fish",
+  "_original_lore": [
+    "This fish was found frozen solid in",
+    "the lake of the Main Lobby during",
+    "the Holiday months.",
+    "",
+    "SPECIAL"
+  ],
+  "name": "寒冰鱼",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "This fish was found frozen solid in",
+        "the lake of the Main Lobby during",
+        "the Holiday months."
+      ],
+      "translation": "这条鱼是在节日期间被发现冻僵在主大厅的湖里.",
+      "styleMappings": {
+        "Holiday": "节日",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Chill the Fish": "寒冰鱼",
+    "Fish": "鱼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

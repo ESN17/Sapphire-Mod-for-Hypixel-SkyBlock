@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": "MARINA_MAYOR_MONSTER",
+  "_original_name": "Marina (Mayor)",
+  "_original_lore": [
+    "Candidate",
+    "",
+    "Luck of the Sea 2.0",
+    "Gain 15 Sea Creature Chance.",
+    "",
+    "Fishing XP Buff",
+    "Gain +50☯ Fishing Wisdom on public",
+    "islands.",
+    "",
+    "Fishing Festival",
+    "Start a special fishing event the",
+    "first 3 days of each month!",
+    "",
+    "Fish and fight dangerous",
+    "Sharks and earn unique Shark",
+    "loot.",
+    "",
+    "Double Trouble",
+    "For every 1 Sea Creature",
+    "Chance, gain +0.1⚓ Double Hook",
+    "Chance."
+  ],
+  "name": "Marina (市长)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Candidate"
+      ],
+      "translation": "候选人",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Luck of the Sea {{N0}}",
+        "Gain {{N1}} Sea Creature Chance."
+      ],
+      "translation": "海洋之运 {{N0}} 获得 {{N1}} 海洋生物概率.",
+      "styleMappings": {
+        "Sea Creature Chance": "海洋生物概率",
+        "Luck of the Sea": "海洋之运",
+        "Gain": "获得",
+        "Sea Creature": "海洋生物"
+      }
+    },
+    {
+      "source": [
+        "Fishing XP Buff",
+        "Gain {{N0}}☯ Fishing Wisdom on public",
+        "islands."
+      ],
+      "translation": "钓鱼经验加成 在公共岛屿上获得 {{N0}}☯ 钓鱼智慧.",
+      "styleMappings": {
+        "Fishing XP Buff": "钓鱼经验加成",
+        "Fishing Wisdom": "钓鱼智慧",
+        "Gain": "获得",
+        "Fishing": "钓鱼",
+        "Wisdom": "智慧",
+        "Fishing XP": "钓鱼经验"
+      }
+    },
+    {
+      "source": [
+        "Fishing Festival",
+        "Start a special fishing event the",
+        "first {{N0}} days of each month!"
+      ],
+      "translation": "钓鱼节 在每月的前 {{N0}} 天开启一场特殊的钓鱼活动!",
+      "styleMappings": {
+        "Fishing Festival": "钓鱼节",
+        "first": "前",
+        "fishing": "钓鱼",
+        "special": "特殊",
+        "days": "天",
+        "Fishing": "钓鱼"
+      }
+    },
+    {
+      "source": [
+        "Fish and fight dangerous",
+        "Sharks and earn unique Shark",
+        "loot."
+      ],
+      "translation": "钓起并迎战危险的鲨鱼,赢取独特的海鲨战利品.",
+      "styleMappings": {
+        "Sharks": "鲨鱼",
+        "Shark": "海鲨",
+        "unique": "独特",
+        "Fish": "鱼",
+        "dangerous": "危险的"
+      }
+    },
+    {
+      "source": [
+        "Double Trouble",
+        "For every {{N0}} Sea Creature",
+        "Chance, gain {{N1}}⚓ Double Hook",
+        "Chance."
+      ],
+      "translation": "双重麻烦 每 {{N0}} 海洋生物概率,获得 {{N1}}⚓ 双重上钩概率.",
+      "styleMappings": {
+        "Sea Creature Chance": "海洋生物概率",
+        "Double Hook Chance": "双重上钩概率",
+        "Double Trouble": "双重麻烦",
+        "Sea Creature": "海洋生物",
+        "gain": "获得"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mayor": "市长"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

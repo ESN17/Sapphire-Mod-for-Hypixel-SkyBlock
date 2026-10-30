@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "CHILLSHOT_MONSTER",
+  "_original_name": "Chillshot (Monster)",
+  "_original_lore": [
+    "No chill!",
+    "",
+    "Mob Type: ⸙ Woodland, 🦴 Skeletal",
+    "❤ Health: 400",
+    "❁ Damage: 200"
+  ],
+  "name": "寒冰射击 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "No chill!"
+      ],
+      "translation": "毫不冷静!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Mob Type: ⸙ Woodland, 🦴 Skeletal"
+      ],
+      "translation": "生物类型: ⸙ 林地, 🦴 骷髅",
+      "styleMappings": {
+        "Mob Type": "生物类型",
+        "Woodland": "林地",
+        "Skeletal": "骷髅"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "❁ Damage: {{N0}}"
+      ],
+      "translation": "❁ 伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Chillshot (Monster)": "寒冰射击 (怪物)",
+    "(Monster)": "(怪物)",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

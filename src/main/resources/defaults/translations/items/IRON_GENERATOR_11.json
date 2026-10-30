@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "id": "IRON_GENERATOR_11",
+  "_original_name": "Iron Minion XI",
+  "_original_lore": [
+    "Place this minion and it will start",
+    "generating and mining iron ore!",
+    "Requires an open area to place iron",
+    "ore. Minions also work when you are",
+    "offline!",
+    "",
+    "Time Between Actions: 8s",
+    "Max Storage: 960",
+    "Resources Generated: 0",
+    "",
+    "RARE"
+  ],
+  "name": "铁仆从 XI",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Place this minion and it will start",
+        "generating and mining iron ore!"
+      ],
+      "translation": "放置此仆从后,它就会开始生成并挖掘铁矿石!",
+      "styleMappings": {
+        "minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "Requires an open area to place iron",
+        "ore. Minions also work when you are",
+        "offline!"
+      ],
+      "translation": "需要一片开阔区域来放置铁矿石.仆从在你离线时也会工作!",
+      "styleMappings": {
+        "Requires": "需要",
+        "Minions": "仆从",
+        "work": "工作",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Time Between Actions: {{N0}}s"
+      ],
+      "translation": "行动间隔:{{N0}}秒",
+      "styleMappings": {
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "Max Storage: {{N0}}"
+      ],
+      "translation": "最大存储:{{N0}}",
+      "styleMappings": {
+        "Max": "最大"
+      }
+    },
+    {
+      "source": [
+        "Resources Generated: {{N0}}"
+      ],
+      "translation": "产出资源:{{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Minion": "仆从"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "id": "MONKEY;2",
+  "_original_name": "[Lvl {LVL}] Monkey",
+  "_original_lore": [
+    "Foraging Pet",
+    "",
+    "Intelligence: +{INTELLIGENCE}",
+    "Speed: +{SPEED}",
+    "",
+    "Treeborn",
+    "Grants +{0}  Foraging Fortune,",
+    "which increases your chance at",
+    "double logs.",
+    "",
+    "Vine Swing",
+    "Grants {1}5 Speed while in The Park.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "RARE PET"
+  ],
+  "name": "[等级 {LVL}] 猴子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Foraging Pet"
+      ],
+      "translation": "采伐宠物",
+      "styleMappings": {
+        "Foraging Pet": "采伐宠物",
+        "Pet": "宠物",
+        "Foraging": "采伐"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: +{{N0}}"
+      ],
+      "translation": "智力: +{{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Speed: +{{N0}}"
+      ],
+      "translation": "速度: +{{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Treeborn"
+      ],
+      "translation": "树生",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants +{{N0}}  Foraging Fortune,",
+        "which increases your chance at",
+        "double logs."
+      ],
+      "translation": "提供 +{{N0}}  采伐幸运,可提高获得双倍原木的概率.",
+      "styleMappings": {
+        " Foraging Fortune": " 采伐幸运",
+        "double logs": "双倍原木",
+        "Foraging Fortune": "采伐幸运",
+        "Fortune": "幸运",
+        "chance": "概率",
+        "double": "双倍",
+        "Foraging": "采伐"
+      }
+    },
+    {
+      "source": [
+        "Vine Swing"
+      ],
+      "translation": "藤蔓摆荡",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants {{N0}} Speed while in The Park."
+      ],
+      "translation": "在公园时提供 {{N0}} 速度.",
+      "styleMappings": {
+        "The Park": "公园",
+        " Speed": " 速度",
+        "Grants": "提供",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "RARE PET"
+      ],
+      "translation": "稀有 宠物",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Monkey": "猴子",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

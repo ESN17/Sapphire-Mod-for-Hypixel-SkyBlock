@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "SMOKEY_RUNE;3",
+  "_original_name": "◆ Smokey Rune III",
+  "_original_lore": [
+    "Requires level 7",
+    "Bows",
+    "",
+    "Creates a burnt trail behind your",
+    "arrows!",
+    "",
+    "Apply this rune to bows or fuse two",
+    "together at the Runic Pedestal!",
+    "",
+    "COMMON COSMETIC"
+  ],
+  "name": "◆ 烟雾符文 III",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Requires level {{N0}}",
+        "Bows"
+      ],
+      "translation": "需要弓等级 {{N0}}",
+      "styleMappings": {
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Creates a burnt trail behind your",
+        "arrows!"
+      ],
+      "translation": "在你的箭矢后方留下燃烧的轨迹!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Apply this rune to bows or fuse two",
+        "together at the Runic Pedestal!"
+      ],
+      "translation": "将此符文应用于弓,或在符文基座上将两个符文融合!",
+      "styleMappings": {
+        "Runic Pedestal": "符文基座",
+        "Runic": "符文"
+      }
+    },
+    {
+      "source": [
+        "COMMON COSMETIC"
+      ],
+      "translation": "普通 外观",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Rune III": "符文 III",
+    "III": "III"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

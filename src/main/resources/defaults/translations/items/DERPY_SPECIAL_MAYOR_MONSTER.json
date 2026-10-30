@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "DERPY_SPECIAL_MAYOR_MONSTER",
+  "_original_name": "Derpy (Mayor)",
+  "_original_lore": [
+    "Special Candidate",
+    "",
+    "QUAD TAXES!!!",
+    "Pay 4x the normal amount of taxes!",
+    "",
+    "TURBO MINIONS!!!",
+    "Minions have double the output!",
+    "",
+    "DOUBLE MOBS HP!!!",
+    "ALL monsters have double ❤Health!",
+    "",
+    "MOAR SKILLZ!!!",
+    "Gain +50% more skill experience!",
+    "",
+    "This is a SPECIAL candidate!",
+    "It rarely appears!"
+  ],
+  "name": "Derpy (市长)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Special Candidate"
+      ],
+      "translation": "特殊候选人",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "QUAD TAXES!!!"
+      ],
+      "translation": "四倍税收!!!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Pay {{N0}}x the normal amount of taxes!"
+      ],
+      "translation": "支付 {{N0}}倍 正常税额!",
+      "styleMappings": {
+        "{{N0}}x": "{{N0}}倍"
+      }
+    },
+    {
+      "source": [
+        "TURBO MINIONS!!!"
+      ],
+      "translation": "涡轮仆从!!!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Minions have double the output!"
+      ],
+      "translation": "仆从产量翻倍!",
+      "styleMappings": {
+        "Minions": "仆从",
+        "double": "翻倍"
+      }
+    },
+    {
+      "source": [
+        "DOUBLE MOBS HP!!!"
+      ],
+      "translation": "怪物生命值翻倍!!!",
+      "styleMappings": {
+        "HP": "生命值"
+      }
+    },
+    {
+      "source": [
+        "ALL monsters have double ❤Health!"
+      ],
+      "translation": "所有怪物拥有双倍 ❤生命值!",
+      "styleMappings": {
+        "ALL": "所有",
+        "monsters": "怪物",
+        "double": "双倍",
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "MOAR SKILLZ!!!"
+      ],
+      "translation": "更多技能经验!!!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Gain {{N0}} more skill experience!"
+      ],
+      "translation": "获得 {{N0}} 更多技能经验!",
+      "styleMappings": {
+        "Gain": "获得",
+        "more": "更多"
+      }
+    },
+    {
+      "source": [
+        "This is a SPECIAL candidate!"
+      ],
+      "translation": "这是一位特殊候选人!",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    },
+    {
+      "source": [
+        "It rarely appears!"
+      ],
+      "translation": "它很少出现!",
+      "styleMappings": {}
+    }
+  ],
+  "styleMappings": {
+    "Mayor": "市长"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

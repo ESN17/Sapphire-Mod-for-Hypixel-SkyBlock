@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "HEALING_MELON",
+  "_original_name": "Healing Melon",
+  "_original_lore": [
+    "Ability: Succulence  RIGHT CLICK",
+    "Take a bite and heal 7❤.",
+    "Mana Cost: 50",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "治疗西瓜",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Succulence  RIGHT CLICK"
+      ],
+      "translation": "技能: 多汁 右键点击",
+      "styleMappings": {
+        "Ability: Succulence": "技能: 多汁",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Take a bite and heal {{N0}}❤."
+      ],
+      "translation": "咬一口并治疗 {{N0}}❤.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Melon": "西瓜"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

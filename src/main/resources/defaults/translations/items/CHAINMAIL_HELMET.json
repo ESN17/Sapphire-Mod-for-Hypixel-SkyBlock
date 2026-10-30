@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "CHAINMAIL_HELMET",
+  "_original_name": "Chainmail Helmet",
+  "_original_lore": [
+    "Defense: +12",
+    "",
+    "This item can be reforged!",
+    "UNCOMMON HELMET"
+  ],
+  "name": "锁链头盔",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON HELMET"
+      ],
+      "translation": "罕见 头盔",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Helmet": "头盔"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

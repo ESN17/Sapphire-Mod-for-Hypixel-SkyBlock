@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "ALPHA_PICK",
+  "_original_name": "Pioneer Pickaxe",
+  "_original_lore": [
+    "Breaking Power 1",
+    "",
+    "Mining Speed: +1",
+    "",
+    "The very first pickaxe model!",
+    "Invented by the famous Thomas",
+    "Pickson.",
+    "",
+    "This item can be reforged!",
+    "SPECIAL PICKAXE"
+  ],
+  "name": "先驱镐",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Breaking Power {{N0}}"
+      ],
+      "translation": "破坏力 {{N0}}",
+      "styleMappings": {
+        "Breaking Power": "破坏力"
+      }
+    },
+    {
+      "source": [
+        "Mining Speed: {{N0}}"
+      ],
+      "translation": "采矿速度: {{N0}}",
+      "styleMappings": {
+        "Mining Speed": "采矿速度",
+        "Mining": "采矿",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "The very first pickaxe model!"
+      ],
+      "translation": "史上第一款镐子模型!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Invented by the famous Thomas",
+        "Pickson."
+      ],
+      "translation": "由著名的托马斯·皮克森发明.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL PICKAXE"
+      ],
+      "translation": "特殊镐",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Pickaxe": "镐"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

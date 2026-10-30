@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "id": "EAGLE;0",
+  "_original_name": "[Lvl {LVL}] Eagle",
+  "_original_lore": [
+    "Hunting Pet",
+    "",
+    "Health: +25",
+    "Speed: +50",
+    "",
+    "Critter Capturer",
+    "Your Critter Capsules are 20% more",
+    "likely to catch  Critters.",
+    "",
+    "Upgrade your Eagle Pet in the Safari",
+    "Essence Shop!",
+    "",
+    "COMMON PET"
+  ],
+  "name": "[等级 {LVL}] 苍鹰",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Hunting Pet"
+      ],
+      "translation": "狩猎宠物",
+      "styleMappings": {
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Critter Capturer"
+      ],
+      "translation": "小兽捕捉者",
+      "styleMappings": {
+        "Critter": "小兽"
+      }
+    },
+    {
+      "source": [
+        "Your Critter Capsules are {{N0}} more",
+        "likely to catch  Critters."
+      ],
+      "translation": "你的生物胶囊捕捉  生物的概率提高 {{N0}}.",
+      "styleMappings": {
+        "Critter Capsules": "生物胶囊",
+        "Critters": "生物",
+        " Critters": " 生物",
+        "Critter": "生物"
+      }
+    },
+    {
+      "source": [
+        "Upgrade your Eagle Pet in the Safari"
+      ],
+      "translation": "在小兽狩猎区中升级你的苍鹰宠物",
+      "styleMappings": {
+        "Eagle Pet": "苍鹰宠物",
+        "Pet": "宠物",
+        "Eagle": "苍鹰",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Essence Shop!"
+      ],
+      "translation": "精华商店!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "COMMON PET"
+      ],
+      "translation": "普通 宠物",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Lvl": "等级",
+    "Eagle": "苍鹰"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

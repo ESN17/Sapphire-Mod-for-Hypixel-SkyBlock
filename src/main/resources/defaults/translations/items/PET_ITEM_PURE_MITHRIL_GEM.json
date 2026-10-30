@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "PET_ITEM_PURE_MITHRIL_GEM",
+  "_original_name": "Pure Mithril Gem",
+  "_original_lore": [
+    "Use at Kat to upgrade Mithril Golem",
+    "Pets to Mythic rarity.",
+    "",
+    "MYTHIC"
+  ],
+  "name": "纯净秘银宝石",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Use at Kat to upgrade Mithril Golem",
+        "Pets to Mythic rarity."
+      ],
+      "translation": "在 Kat 处使用,可将秘银傀儡宠物升级至神话稀有度.",
+      "styleMappings": {
+        "Mithril Golem": "秘银傀儡",
+        "upgrade": "升级",
+        "Mythic": "神话",
+        "rarity": "稀有度",
+        "Pets": "宠物",
+        "Kat": "Kat",
+        "Mithril": "秘银",
+        "Golem": "傀儡"
+      }
+    },
+    {
+      "source": [
+        "MYTHIC"
+      ],
+      "translation": "神话",
+      "styleMappings": {
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mithril": "秘银"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

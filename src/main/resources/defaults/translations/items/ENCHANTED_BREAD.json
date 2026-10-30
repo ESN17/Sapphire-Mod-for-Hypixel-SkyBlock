@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "ENCHANTED_BREAD",
+  "_original_name": "Enchanted Bread",
+  "_original_lore": [
+    "Minion Fuel",
+    "Collection Item",
+    "",
+    "Increases the speed of",
+    "your minion by 5% for 12",
+    "hours!",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔面包",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Minion Fuel",
+        "Collection Item"
+      ],
+      "translation": "仆从燃料 收藏物品",
+      "styleMappings": {
+        "Collection Item": "收藏物品",
+        "Minion Fuel": "仆从燃料",
+        "Collection": "收藏",
+        "Item": "物品",
+        "Fuel": "燃料",
+        "Minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "Increases the speed of",
+        "your minion by {{N0}} for {{N1}}",
+        "hours!"
+      ],
+      "translation": "仆从的工作速度提高 {{N0}},持续 {{N1}} 小时!",
+      "styleMappings": {
+        "minion": "仆从",
+        "speed": "速度",
+        "for": "持续",
+        "hours": "小时"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

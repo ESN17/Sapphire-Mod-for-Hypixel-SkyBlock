@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "id": "MUSHROOM_BOOTS",
+  "_original_name": "Mushroom Boots",
+  "_original_lore": [
+    "Health: +15",
+    "",
+    "Full Set Bonus: Night Affinity (0/4)",
+    "Grants the wearer permanent Night",
+    "Vision while worn.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Farming Skill 7.",
+    "COMMON BOOTS"
+  ],
+  "name": "蘑菇靴子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Night Affinity ({{N0}}/{{N1}})"
+      ],
+      "translation": "全套效果: 夜之亲和 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Full Set Bonus": "全套效果",
+        "Night Affinity": "夜之亲和"
+      }
+    },
+    {
+      "source": [
+        "Grants the wearer permanent Night",
+        "Vision while worn."
+      ],
+      "translation": "穿戴时给予穿戴者永久夜视效果.",
+      "styleMappings": {
+        "Night Vision": "夜视",
+        "Grants": "给予"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Farming Skill {{N0}}."
+      ],
+      "translation": "❣ 需要农业技能 {{N0}}.",
+      "styleMappings": {
+        "Farming Skill": "农业技能",
+        "Requires": "需要",
+        "Farming": "农业",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "COMMON BOOTS"
+      ],
+      "translation": "普通靴子",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Boots": "靴子",
+    "Mushroom": "蘑菇"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

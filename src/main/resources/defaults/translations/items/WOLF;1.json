@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "id": "WOLF;1",
+  "_original_name": "[Lvl {LVL}] Wolf",
+  "_original_lore": [
+    "Combat Pet",
+    "",
+    "Health: +{HEALTH}",
+    "True Defense: +{TRUE_DEFENSE}",
+    "Crit Damage: +{CRIT_DAMAGE}%",
+    "Speed: +{SPEED}",
+    "",
+    "Alpha Dog",
+    "Take {0}% less damage from wolves",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "UNCOMMON PET"
+  ],
+  "name": "[等级 {LVL}] 狼",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combat Pet"
+      ],
+      "translation": "战斗宠物",
+      "styleMappings": {
+        "Combat Pet": "战斗宠物",
+        "Combat": "战斗",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Health: +{{N0}}"
+      ],
+      "translation": "生命值: +{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "True Defense: +{{N0}}"
+      ],
+      "translation": "真实防御: +{{N0}}",
+      "styleMappings": {
+        "True Defense": "真实防御",
+        "Defense": "防御",
+        "True": "真实"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: +{{N0}}%"
+      ],
+      "translation": "暴击伤害: +{{N0}}%",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Speed: +{{N0}}"
+      ],
+      "translation": "速度: +{{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Alpha Dog"
+      ],
+      "translation": "头狼",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Take {{N0}}% less damage from wolves"
+      ],
+      "translation": "受到狼的伤害减少 {{N0}}%",
+      "styleMappings": {
+        "less damage": "伤害减少",
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON PET"
+      ],
+      "translation": "罕见 宠物",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Wolf": "狼",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "SVEN_FOLLOWER_MINIBOSS",
+  "_original_name": "Sven Follower (Miniboss)",
+  "_original_lore": [
+    "Sven Follower is a Sven Packmaster Miniboss that",
+    "has a small chance to be spawned upon killing a",
+    "Wolf During a Tier IV Sven Packmaster Quest.",
+    "",
+    "❤ Health: 120,000"
+  ],
+  "name": "斯文追随者 (小首领)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Sven Follower is a Sven Packmaster Miniboss that",
+        "has a small chance to be spawned upon killing a",
+        "Wolf During a Tier IV Sven Packmaster Quest."
+      ],
+      "translation": "斯文狼王随从是一种斯文狼王小首领,在四级斯文狼王任务中击杀狼时有小概率生成.",
+      "styleMappings": {
+        "chance to": "概率",
+        "Miniboss": "小首领",
+        "Wolf": "狼",
+        "Sven Follower": "斯文狼王随从",
+        "chance": "概率",
+        "Sven Packmaster": "斯文狼王"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Miniboss)": "(小首领)",
+    "Follower": "追随者",
+    "Miniboss": "小首领"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

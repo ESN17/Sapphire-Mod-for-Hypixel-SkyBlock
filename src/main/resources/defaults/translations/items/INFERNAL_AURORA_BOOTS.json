@@ -1,0 +1,175 @@
+{
+  "schemaVersion": 1,
+  "id": "INFERNAL_AURORA_BOOTS",
+  "_original_name": "Infernal Aurora Boots",
+  "_original_lore": [
+    "Health: +328",
+    "Defense: +101",
+    "Intelligence: +441",
+    "Gemstones: [⚔] [⚔]",
+    "",
+    "Tiered Bonus: Arcane Energy (0/4)",
+    "Every 1s, dealing Magic Damage from an",
+    "ability grants 1 stack of Ѫ Arcane Energy.",
+    "Lose 1 stack after 4s of not gaining a stack.",
+    " ",
+    "Ability: Homing Missiles SNEAK",
+    "At 10 stacks, sneak to reset your",
+    "stacks and shoot 5 homing missiles",
+    "dealing 5,000 Damage each.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Combat Skill 42.",
+    "❣ Requires Kuudra Infernal Tier Completion.",
+    "LEGENDARY BOOTS"
+  ],
+  "name": "炼狱极光靴子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [⚔] [⚔]"
+      ],
+      "translation": "宝石: [⚔] [⚔]",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石",
+        "] [": "] ["
+      }
+    },
+    {
+      "source": [
+        "Tiered Bonus: Arcane Energy ({{N0}}/{{N1}})"
+      ],
+      "translation": "分级加成: 奥术能量 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Arcane Energy": "奥术能量",
+        "Tiered Bonus": "分级加成",
+        "Bonus": "加成",
+        "Arcane": "奥术"
+      }
+    },
+    {
+      "source": [
+        "Every {{N0}}s, dealing Magic Damage from an",
+        "ability grants {{N1}} stack of Ѫ Arcane Energy."
+      ],
+      "translation": "每 {{N0}} 秒,通过技能造成魔法伤害时获得 {{N1}} 层 Ѫ 奥术能量.",
+      "styleMappings": {
+        "Arcane Energy": "奥术能量",
+        "Magic Damage": "魔法伤害",
+        "ability": "技能",
+        "{{N0}}s": "{{N0}} 秒",
+        "Damage": "伤害",
+        "Arcane": "奥术"
+      }
+    },
+    {
+      "source": [
+        "Lose {{N0}} stack after {{N1}}s of not gaining a stack."
+      ],
+      "translation": "{{N1}} 秒内未获得层数则失去 {{N0}} 层.",
+      "styleMappings": {
+        "{{N1}}s": "{{N1}} 秒"
+      }
+    },
+    {
+      "source": [
+        "Ability: Homing Missiles SNEAK"
+      ],
+      "translation": "技能: 追踪导弹 潜行",
+      "styleMappings": {
+        "Ability": "技能",
+        "Homing Missiles": "追踪导弹",
+        "SNEAK": "潜行"
+      }
+    },
+    {
+      "source": [
+        "At {{N0}} stacks, sneak to reset your",
+        "stacks and shoot {{N1}} homing missiles",
+        "dealing {{N2}} Damage each."
+      ],
+      "translation": "达到 {{N0}} 层时,潜行以重置层数并发射 {{N1}} 枚追踪导弹,每枚造成 {{N2}} 伤害.",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Kuudra Infernal Tier Completion."
+      ],
+      "translation": "❣ 需要完成 库德拉 炼狱难度.",
+      "styleMappings": {
+        "Infernal Tier": "炼狱难度",
+        "Requires": "需要",
+        "Kuudra": "库德拉",
+        "Infernal": "炼狱"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY BOOTS"
+      ],
+      "translation": "传说 靴子",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Infernal": "炼狱",
+    "Boots": "靴子"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

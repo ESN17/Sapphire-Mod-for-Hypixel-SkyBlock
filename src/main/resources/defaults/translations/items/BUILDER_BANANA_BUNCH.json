@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "BUILDER_BANANA_BUNCH",
+  "_original_name": "Banana Bunch",
+  "_original_lore": [
+    "Decoration Item",
+    "",
+    "COMMON"
+  ],
+  "name": "香蕉串",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Decoration Item"
+      ],
+      "translation": "装饰物品",
+      "styleMappings": {
+        "Item": "物品"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Banana": "香蕉"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

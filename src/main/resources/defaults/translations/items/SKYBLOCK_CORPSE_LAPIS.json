@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "SKYBLOCK_CORPSE_LAPIS",
+  "_original_name": "Lapis Corpse",
+  "_original_lore": [
+    "Corpses can be found and looted",
+    "deep within the Glacite Mineshafts.",
+    "",
+    "a SPECIAL a"
+  ],
+  "name": "青金石尸体",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Corpses can be found and looted",
+        "deep within the Glacite Mineshafts."
+      ],
+      "translation": "尸体可在冰晶矿井深处找到并搜刮.",
+      "styleMappings": {
+        "Glacite Mineshafts": "冰晶矿井",
+        "Mineshafts": "矿井"
+      }
+    },
+    {
+      "source": [
+        "a SPECIAL a"
+      ],
+      "translation": "一个 特殊 一个",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

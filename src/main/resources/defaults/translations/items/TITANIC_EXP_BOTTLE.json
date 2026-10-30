@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "TITANIC_EXP_BOTTLE",
+  "_original_name": "Titanic Experience Bottle",
+  "_original_lore": [
+    "Smash it open to receive experience!",
+    "",
+    "RARE"
+  ],
+  "name": "巨型经验瓶",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Smash it open to receive experience!"
+      ],
+      "translation": "将其砸开以获得经验!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Titanic Experience Bottle": "巨型经验瓶",
+    "Experience": "经验"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

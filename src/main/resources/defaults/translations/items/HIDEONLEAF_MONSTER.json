@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "HIDEONLEAF_MONSTER",
+  "_original_name": "Hideonleaf (Monster)",
+  "_original_lore": [
+    "Mob Types:  Critter,  Woodland",
+    "",
+    "Watch the foliage for the slightest",
+    "sign of movement.",
+    "",
+    "❤ Health: 2,500",
+    "",
+    "Hunted in the Moonglade Marsh."
+  ],
+  "name": "叶隐者 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mob Types:  Critter,  Woodland"
+      ],
+      "translation": "生物类型:  小生物,  林地",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Woodland": "林地",
+        "Critter": "小生物",
+        " Woodland": " 林地"
+      }
+    },
+    {
+      "source": [
+        "Watch the foliage for the slightest",
+        "sign of movement."
+      ],
+      "translation": "留意枝叶间最细微的动静.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Hunted in the Moonglade Marsh."
+      ],
+      "translation": "在月林沼泽中猎取.",
+      "styleMappings": {
+        "Moonglade Marsh": "月林沼泽"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Hideonleaf (Monster)": "叶隐者 (怪物)",
+    "(Monster)": "(怪物)",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

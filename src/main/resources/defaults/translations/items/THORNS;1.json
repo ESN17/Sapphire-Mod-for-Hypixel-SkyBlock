@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "THORNS;1",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Thorns I",
+    "Grants a 50% chance to rebound 3%",
+    "of damage dealt back at the attacker.",
+    "",
+    "Sources:",
+    " - Enchantment Table (I-III)",
+    " - Prickly Creeper (IV)",
+    "",
+    "Applied To:",
+    " - Armor",
+    "",
+    "Conflicts:",
+    " - Reflection",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Thorns I"
+      ],
+      "translation": "荆棘 I",
+      "styleMappings": {
+        "Thorns": "荆棘"
+      }
+    },
+    {
+      "source": [
+        "Grants a {{N0}} chance to rebound {{N1}}",
+        "of damage dealt back at the attacker."
+      ],
+      "translation": "有 {{N0}} 概率将造成的 {{N1}} 伤害反弹给攻击者.",
+      "styleMappings": {
+        "chance to": "概率",
+        "damage": "伤害",
+        "Grants": "造成",
+        "chance": "概率"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchantment Table (I-III)",
+        " - Prickly Creeper (IV)"
+      ],
+      "translation": " - 附魔台 (I-III)  - 尖刺苦力怕 (IV)",
+      "styleMappings": {
+        "Enchantment Table": "附魔台",
+        "Prickly Creeper": "尖刺苦力怕",
+        "I-III": "I-III",
+        "III": "III",
+        "Creeper": "苦力怕",
+        "Enchantment": "附魔"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Armor"
+      ],
+      "translation": " - 盔甲",
+      "styleMappings": {
+        "Armor": "盔甲"
+      }
+    },
+    {
+      "source": [
+        "Conflicts:"
+      ],
+      "translation": "冲突:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Reflection"
+      ],
+      "translation": " - 映照",
+      "styleMappings": {
+        "Reflection": "映照"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

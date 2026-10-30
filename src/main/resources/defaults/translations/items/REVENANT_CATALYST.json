@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "REVENANT_CATALYST",
+  "_original_name": "Revenant Catalyst",
+  "_original_lore": [
+    "Drops rarely from Revenant Horror",
+    "when you are at least Zombie Slayer",
+    "LVL 6.",
+    "",
+    "Catalysts upgrade other items!",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "EPIC"
+  ],
+  "name": "亡魂催化剂",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Drops rarely from Revenant Horror",
+        "when you are at least Zombie Slayer",
+        "LVL {{N0}}."
+      ],
+      "translation": "当你的僵尸杀手等级至少达到 {{N0}} 时,有较低概率从亡魂恐魔掉落.",
+      "styleMappings": {
+        "Revenant Horror": "亡魂恐魔",
+        "Zombie Slayer": "僵尸杀手",
+        "Zombie": "僵尸",
+        "Slayer": "杀手",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Catalysts upgrade other items!"
+      ],
+      "translation": "催化剂可升级其他物品!",
+      "styleMappings": {
+        "Catalysts": "催化剂",
+        "upgrade": "升级",
+        "items": "物品"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

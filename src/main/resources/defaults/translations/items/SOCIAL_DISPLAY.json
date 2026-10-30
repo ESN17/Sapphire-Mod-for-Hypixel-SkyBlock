@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "SOCIAL_DISPLAY",
+  "_original_name": "Social Display",
+  "_original_lore": [
+    "Places a hologram displaying the top",
+    "players on your island by points.",
+    "",
+    "❣ Requires Social Skill 2.",
+    "UNCOMMON"
+  ],
+  "name": "社交展示",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Places a hologram displaying the top",
+        "players on your island by points."
+      ],
+      "translation": "放置一个全息投影,按积分展示你岛上的顶尖玩家.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "❣ Requires Social Skill {{N0}}."
+      ],
+      "translation": "❣ 需要社交技能 {{N0}}.",
+      "styleMappings": {
+        "Requires": "需要",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

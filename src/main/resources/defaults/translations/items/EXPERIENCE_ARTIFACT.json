@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "EXPERIENCE_ARTIFACT",
+  "_original_name": "Experience Artifact",
+  "_original_lore": [
+    "Accessory Power: +12",
+    "",
+    "Increase the experience orbs you",
+    "gain by 25% while this item is in your",
+    "inventory or accessory bag.",
+    "",
+    "Works while in Accessory Bag!",
+    "EPIC ACCESSORY"
+  ],
+  "name": "经验神器",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Accessory Power: {{N0}}"
+      ],
+      "translation": "饰品能量: {{N0}}",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "Increase the experience orbs you",
+        "gain by {{N0}} while this item is in your",
+        "inventory or accessory bag."
+      ],
+      "translation": "当此物品在你的物品栏或饰品袋中时,你获得的经验球增加 {{N0}}.",
+      "styleMappings": {
+        "item": "物品",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "放在饰品袋中即可生效!",
+      "styleMappings": {
+        "Accessory Bag": "饰品袋",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "EPIC ACCESSORY"
+      ],
+      "translation": "史诗饰品",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Artifact": "神器",
+    "Experience": "经验"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

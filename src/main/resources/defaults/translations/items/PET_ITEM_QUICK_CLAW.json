@@ -1,0 +1,145 @@
+{
+  "schemaVersion": 1,
+  "id": "PET_ITEM_QUICK_CLAW",
+  "_original_name": "Quick Claw",
+  "_original_lore": [
+    "Consumed on use",
+    "",
+    "Pet Items can boost pets in many",
+    "powerful ways! A pet can only hold",
+    "one Pet Item, but you can swap it at",
+    "any time!",
+    "The pet must be visible to apply the item!",
+    "",
+    "Every 2 pet levels, you gain +1",
+    "Mining Speed and +1 Mining Fortune.",
+    "",
+    "Right-click on your summoned pet to",
+    "give it this item!",
+    "",
+    "LEGENDARY PET ITEM"
+  ],
+  "name": "迅捷利爪",
+  "lore": {
+    "Consumed on use": "使用后消耗",
+    "The pet must be visible to apply the item!": "宠物必须处于可见状态才能使用此物品!",
+    "LEGENDARY PET ITEM": "传说 宠物物品"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "Pet Items can boost pets in many",
+        "powerful ways! A pet can only hold",
+        "one Pet Item, but you can swap it at",
+        "any time!"
+      ],
+      "translation": "宠物道具能以多种强大的方式强化宠物!每只宠物只能携带一件宠物道具,但你可以随时更换!",
+      "styleMappings": {
+        "Pet Items": "宠物道具",
+        "Pet Item": "宠物道具",
+        "swap": "更换",
+        "powerful ways": "方式",
+        "any time": "随时",
+        "one": "一件",
+        "pet": "宠物",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Every {levels} pet levels, you gain {speed}",
+        "Mining Speed and {fortune} Mining Fortune."
+      ],
+      "translation": "宠物每提升 {levels} 级,你就获得 {speed} 挖掘速度和 {fortune} 挖掘时运.",
+      "styleMappings": {
+        "Mining Speed": "挖掘速度",
+        "Mining Fortune": "挖掘时运",
+        "speed": "速度",
+        "pet": "宠物",
+        "Fortune": "时运",
+        "Speed": "速度",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "Right-click on your summoned pet to",
+        "give it this item!"
+      ],
+      "translation": "右键点击已召唤的宠物,为它装备此物品!",
+      "styleMappings": {
+        "item": "物品",
+        "Right-click": "右键点击",
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Consumed on use"
+      ],
+      "translation": "使用后消耗",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "The pet must be visible to apply the item!"
+      ],
+      "translation": "宠物必须处于可见状态才能使用此物品!",
+      "styleMappings": {
+        "pet": "宠物",
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Every {{N0}} pet levels, you gain {{N1}}",
+        "Mining Speed and {{N2}} Mining Fortune."
+      ],
+      "translation": "宠物每提升 {{N0}} 级,你就获得 {{N1}} 挖掘速度和 {{N2}} 挖掘时运.",
+      "styleMappings": {
+        "Mining Fortune": "挖掘时运",
+        "Mining Speed": "挖掘速度",
+        "pet": "宠物",
+        "Fortune": "时运",
+        "Speed": "速度",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "Right-click on your summoned pet to"
+      ],
+      "translation": "右键点击你召唤的宠物以",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "give it this item!"
+      ],
+      "translation": "给予它此物品!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY PET ITEM"
+      ],
+      "translation": "传说 宠物物品",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Pet Items": "宠物道具",
+    "Pet Item": "物品",
+    "swap": "更换",
+    "Mining Speed": "挖掘速度",
+    "Mining Fortune": "挖掘时运"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

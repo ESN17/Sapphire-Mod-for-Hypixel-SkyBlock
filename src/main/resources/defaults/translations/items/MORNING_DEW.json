@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "id": "MORNING_DEW",
+  "_original_name": "Morning Dew",
+  "_original_lore": [
+    "Reforge Stone",
+    "Combinable in Anvil",
+    "",
+    "Applies the Majestic reforge when",
+    "combined with Safari Belt.",
+    "",
+    "That, too, soon fades away, along",
+    "with a single tear, like morning dew.",
+    "",
+    "Grants the following stats that scale",
+    "with the item's rarity:",
+    "  Sweep",
+    "  Foraging Fortune",
+    "  Hunting Fortune",
+    " ☯ Hunting Wisdom",
+    "",
+    "Majestic Bonus",
+    "Grants +50 Speed while in the ",
+    "Critter Safari.",
+    "",
+    "Right-click to view rarity scaling!",
+    "",
+    "EPIC REFORGE STONE"
+  ],
+  "name": "晨露",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Reforge Stone",
+        "Combinable in Anvil"
+      ],
+      "translation": "洗练石 可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Reforge Stone": "洗练石",
+        "Anvil": "铁砧",
+        "Reforge": "洗练"
+      }
+    },
+    {
+      "source": [
+        "Applies the Majestic reforge when",
+        "combined with Safari Belt."
+      ],
+      "translation": "与野生动物园腰带结合时施加威严洗练.",
+      "styleMappings": {
+        "Majestic": "威严",
+        "Safari Belt": "野生动物园腰带",
+        "reforge": "洗练",
+        "Belt": "腰带",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "That, too, soon fades away, along",
+        "with a single tear, like morning dew."
+      ],
+      "translation": "那也终将消逝,伴着一滴泪,如晨露般.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants the following stats that scale"
+      ],
+      "translation": "提供以下随物品稀有度提升的属性:",
+      "styleMappings": {
+        "Grants": "提供",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "with the item's rarity:"
+      ],
+      "translation": "物品稀有度提升的属性:",
+      "styleMappings": {
+        "item": "物品",
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "  Sweep",
+        "  Foraging Fortune",
+        "  Hunting Fortune",
+        " ☯ Hunting Wisdom"
+      ],
+      "translation": "    扫荡   采伐幸运    狩猎幸运  ☯ 狩猎智慧",
+      "styleMappings": {
+        " Foraging Fortune": " 采伐幸运",
+        "Hunting Fortune": "狩猎幸运",
+        "Hunting Wisdom": "狩猎智慧",
+        "Sweep": "扫荡",
+        "Foraging Fortune": "采伐幸运",
+        "Fortune": "幸运",
+        "Wisdom": "智慧",
+        "Foraging": "采伐"
+      }
+    },
+    {
+      "source": [
+        "Majestic Bonus",
+        "Grants {{N0}} Speed while in the ",
+        "Critter Safari."
+      ],
+      "translation": "威严加成 在   小兽狩猎区 中时给予 {{N0}} 速度.",
+      "styleMappings": {
+        "Critter Safari": "小兽狩猎区",
+        "Majestic Bonus": "威严加成",
+        " Speed": " 速度",
+        "Speed": "速度",
+        "Grants": "给予",
+        "Bonus": "加成",
+        "Critter": "小兽",
+        "Majestic": "威严"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view rarity scaling!"
+      ],
+      "translation": "右键查看各稀有度的属性!",
+      "styleMappings": {
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "EPIC REFORGE STONE"
+      ],
+      "translation": "史诗洗练石",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Morning Dew": "晨露"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

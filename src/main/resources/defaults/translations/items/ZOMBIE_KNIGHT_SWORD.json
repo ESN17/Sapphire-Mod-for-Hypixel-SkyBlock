@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "id": "ZOMBIE_KNIGHT_SWORD",
+  "_original_name": "Zombie Knight Sword",
+  "_original_lore": [
+    "Gear Score: 123",
+    "Damage: +82",
+    "Strength: +21",
+    "",
+    "Full Set Bonus: Zombie Knight ",
+    "Gains +30 Strength when used with",
+    "the Zombie Knight Armor",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Catacombs Skill 14.",
+    "EPIC DUNGEON SWORD"
+  ],
+  "name": "僵尸骑士剑",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Zombie Knight "
+      ],
+      "translation": "全套加成: 僵尸骑士 ",
+      "styleMappings": {
+        "Full Set Bonus": "全套加成",
+        "Zombie Knight": "僵尸骑士",
+        "Bonus": "加成",
+        "Zombie": "僵尸"
+      }
+    },
+    {
+      "source": [
+        "Gains {{N0}} Strength when used with",
+        "the Zombie Knight Armor"
+      ],
+      "translation": "与僵尸骑士盔甲搭配使用时获得 {{N0}} 力量",
+      "styleMappings": {
+        "Zombie Knight": "僵尸骑士",
+        "Strength": "力量",
+        "Armor": "盔甲",
+        "Gains": "获得",
+        "Zombie": "僵尸",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Catacombs Skill {{N0}}."
+      ],
+      "translation": "❣ 需要地牢技能 {{N0}}.",
+      "styleMappings": {
+        "Requires": "需要",
+        "Catacombs": "地牢",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC DUNGEON SWORD"
+      ],
+      "translation": "史诗 地牢 剑",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Zombie Knight Sword": "僵尸骑士剑",
+    "Zombie": "僵尸",
+    "Sword": "剑",
+    "Zombie Knight": "僵尸骑士"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

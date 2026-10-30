@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "HYPER_CATALYST_UPGRADE",
+  "_original_name": "Hyper Catalyst Upgrade",
+  "_original_lore": [
+    "Combine with Catalysts, buffing the",
+    "fuel to x4 for 6 hours duration.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "SPECIAL"
+  ],
+  "name": "超载催化剂升级",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combine with Catalysts, buffing the",
+        "fuel to x{{N0}} for {{N1}} hours duration."
+      ],
+      "translation": "与催化剂结合, 将燃料提升至 {{N0}} 倍, 持续 {{N1}} 小时.",
+      "styleMappings": {
+        "Catalysts": "催化剂",
+        "hours": "小时",
+        "for": "持续",
+        "{{N1}} hours": "{{N1}} 小时",
+        "x{{N0}}": "{{N0}} 倍"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_CRITICAL;2",
+  "_original_name": "Critical II Potion",
+  "_original_lore": [
+    "",
+    "Critical II (3:00)",
+    "Increases  Crit Chance by 15% and",
+    " Crit Damage by 20%.",
+    "",
+    "COMMON"
+  ],
+  "name": "暴击 II 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Critical II ({{N0}}:{{N1}})"
+      ],
+      "translation": "暴击 II ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Critical II": "暴击 II",
+        "II": "II",
+        "Critical": "暴击"
+      }
+    },
+    {
+      "source": [
+        "Increases  Crit Chance by {{N0}} and",
+        " Crit Damage by {{N1}}."
+      ],
+      "translation": "增加  暴击几率 {{N0}},增加 暴击伤害 {{N1}}.",
+      "styleMappings": {
+        " Crit Damage": " 暴击伤害",
+        "Crit Chance": "暴击几率",
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害",
+        "Increases": "增加",
+        " Crit Chance": " 暴击几率"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Critical II": "暴击 II",
+    "II": "II",
+    "Critical": "暴击"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

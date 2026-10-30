@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "TOXIC_RAIN_SLIME_MONSTER",
+  "_original_name": "Toxic Rain Slime (Monster)",
+  "_original_lore": [
+    "These Slimes enjoy rain...and",
+    "jumping to their deaths.",
+    "",
+    "❤ Health: 1,500"
+  ],
+  "name": "剧毒雨史莱姆 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "These Slimes enjoy rain...and",
+        "jumping to their deaths."
+      ],
+      "translation": "这些史莱姆喜欢下雨...还有跳向死亡.",
+      "styleMappings": {
+        "Slimes": "史莱姆"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

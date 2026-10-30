@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "AUTO_SMELTER",
+  "_original_name": "Auto Smelter",
+  "_original_lore": [
+    "Minion Upgrade",
+    "",
+    "This item can be used as a minion",
+    "upgrade. This will automatically smelt",
+    "materials that a minion produces.",
+    "",
+    "COMMON"
+  ],
+  "name": "自动熔炼",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Minion Upgrade"
+      ],
+      "translation": "仆从升级组件",
+      "styleMappings": {
+        "Minion Upgrade": "仆从升级",
+        "Minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "This item can be used as a minion"
+      ],
+      "translation": "此物品可作为仆从",
+      "styleMappings": {
+        "item": "物品",
+        "minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "upgrade. This will automatically smelt",
+        "materials that a minion produces."
+      ],
+      "translation": "升级使用.这会自动熔炼仆从产出的材料.",
+      "styleMappings": {
+        "upgrade": "升级",
+        "automatically": "自动",
+        "minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "id": "CRITTER_CAPSULE",
+  "_original_name": "Critter Capsule",
+  "_original_lore": [
+    "Hunting Tool",
+    "",
+    "Ability: Capture  RIGHT CLICK",
+    "Throw your Critter Capsule in the",
+    "direction you're facing. If it hits a ",
+    "Critter, the capsule will attempt to",
+    "catch them. Critters that drop a",
+    "more valuable Shard are less likely",
+    "to be caught.",
+    "",
+    "This item will vanish from your",
+    "inventory after leaving the Critter",
+    "Safari!",
+    "",
+    "SPECIAL CAPSULE"
+  ],
+  "name": "生物胶囊",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Hunting Tool"
+      ],
+      "translation": "狩猎工具",
+      "styleMappings": {
+        "Hunting Tool": "狩猎工具"
+      }
+    },
+    {
+      "source": [
+        "Ability: Capture  RIGHT CLICK"
+      ],
+      "translation": "技能: 捕捉  右键点击",
+      "styleMappings": {
+        "Ability: Capture": "技能: 捕捉",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Throw your Critter Capsule in the",
+        "direction you're facing. If it hits a ",
+        "Critter, the capsule will attempt to",
+        "catch them. Critters that drop a",
+        "more valuable Shard are less likely",
+        "to be caught."
+      ],
+      "translation": "将你的生物胶囊朝你面向的方向投掷.如果它击中一只  小动物,胶囊会尝试捕捉它们.掉落更有价值碎片的生物更不容易被捕捉.",
+      "styleMappings": {
+        "Critter Capsule": "生物胶囊",
+        " Critter": " 小动物",
+        "Critters": "生物",
+        "Shard": "碎片",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "This item will vanish from your"
+      ],
+      "translation": "此物品将在你离开",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "inventory after leaving the Critter",
+        "Safari!"
+      ],
+      "translation": "小兽狩猎区后从物品栏中消失!",
+      "styleMappings": {
+        "Critter Safari": "小兽狩猎区",
+        "Critter": "小兽"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL CAPSULE"
+      ],
+      "translation": "特殊胶囊",
+      "styleMappings": {
+        "SPECIAL CAPSULE": "特殊胶囊",
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Critter": "生物",
+    "Critter Capsule": "生物胶囊"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

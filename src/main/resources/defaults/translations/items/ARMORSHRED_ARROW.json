@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "id": "ARMORSHRED_ARROW",
+  "_original_name": "Armorshred Arrow",
+  "_original_lore": [
+    "Damage: +5",
+    "",
+    "Passive: Defense Reduction",
+    "Hits ignore 5% of target's  Defense.",
+    "",
+    "❣ Requires Combat Skill 22.",
+    "❣ Requires Sand Collection VII.",
+    "❣ Requires Target Practice III.",
+    "Stats added when shot!",
+    "RARE ARROW"
+  ],
+  "name": "破甲箭",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Passive: Defense Reduction"
+      ],
+      "translation": "被动:防御削减",
+      "styleMappings": {
+        "Defense Reduction": "防御削减",
+        "Passive": "被动",
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Hits ignore {{N0}} of target's  Defense."
+      ],
+      "translation": "命中无视目标 {{N0}} 的 防御.",
+      "styleMappings": {
+        " Defense": " 防御",
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Sand Collection VII."
+      ],
+      "translation": "❣ 需要沙子收藏 VII.",
+      "styleMappings": {
+        "Sand Collection VII": "沙子收藏 VII",
+        "Requires": "需要",
+        "Collection": "收藏"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Target Practice III."
+      ],
+      "translation": "❣ 需要靶场练习 III.",
+      "styleMappings": {
+        "Target Practice III": "靶场练习 III",
+        "Requires": "需要",
+        "III": "III"
+      }
+    },
+    {
+      "source": [
+        "Stats added when shot!"
+      ],
+      "translation": "射出时添加属性!",
+      "styleMappings": {
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "RARE ARROW"
+      ],
+      "translation": "稀有箭",
+      "styleMappings": {
+        "RARE ARROW": "稀有箭",
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

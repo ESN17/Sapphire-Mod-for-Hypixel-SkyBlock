@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "id": "SHRIVELED_BRACELET",
+  "_original_name": "Shriveled Bracelet",
+  "_original_lore": [
+    "Strength: +10",
+    "Crit Damage: +15%",
+    "",
+    "Grants +5☯ Combat Wisdom and +10",
+    "Magic Find on  Arthropod mobs.",
+    "",
+    "Right-click to equip!",
+    "",
+    "This item can be reforged!",
+    "☠ Requires Spider Slayer 7.",
+    "EPIC BRACELET"
+  ],
+  "name": "干瘪手镯",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: {{N0}}"
+      ],
+      "translation": "暴击伤害:{{N0}}",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}☯ Combat Wisdom and {{N1}}",
+        "Magic Find on  Arthropod mobs."
+      ],
+      "translation": "对  节肢动物怪物提供 {{N0}}☯ 战斗智慧和 {{N1}} 稀有物品概率加成.",
+      "styleMappings": {
+        "Combat Wisdom": "战斗智慧",
+        " Magic Find": " 稀有物品概率加成",
+        "Arthropod": "节肢动物",
+        "Grants": "提供",
+        "mobs": "怪物",
+        "Magic Find": "稀有物品概率加成",
+        "Combat": "战斗",
+        "Wisdom": "智慧"
+      }
+    },
+    {
+      "source": [
+        "Right-click to equip!"
+      ],
+      "translation": "右键点击装备!",
+      "styleMappings": {
+        "Right-click to equip!": "右键点击装备!",
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Spider Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要蜘蛛杀手 {{N0}}.",
+      "styleMappings": {
+        "Spider Slayer": "蜘蛛杀手",
+        "Requires": "需要",
+        "Spider": "蜘蛛",
+        "Slayer": "杀手"
+      }
+    },
+    {
+      "source": [
+        "EPIC BRACELET"
+      ],
+      "translation": "史诗手镯",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Bracelet": "手镯"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_STUN;4",
+  "_original_name": "Stun IV Potion",
+  "_original_lore": [
+    "",
+    "Stun IV (3:00)",
+    "When applied to yourself, your hits",
+    "have a 40% chance to stun enemies",
+    "for 1s. When splashed, enemies are",
+    "stunned for 1.75s.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "眩晕 IV 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Stun IV ({{N0}}:{{N1}})"
+      ],
+      "translation": "眩晕 IV ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Stun IV": "眩晕 IV"
+      }
+    },
+    {
+      "source": [
+        "When applied to yourself, your hits",
+        "have a {{N0}} chance to stun enemies",
+        "for {{N1}}s. When splashed, enemies are",
+        "stunned for {{N2}}s."
+      ],
+      "translation": "对自己使用时,你的攻击有 {{N0}} 概率使敌人眩晕 {{N1}} 秒.作为喷溅药水时,敌人会被眩晕 {{N2}} 秒.",
+      "styleMappings": {
+        "chance to": "概率",
+        "{{N1}}s": "{{N1}} 秒",
+        "{{N2}}s": "{{N2}} 秒",
+        "chance": "概率",
+        "enemies": "敌人"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Stun IV": "眩晕 IV"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

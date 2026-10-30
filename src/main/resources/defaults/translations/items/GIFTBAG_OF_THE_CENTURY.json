@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "GIFTBAG_OF_THE_CENTURY",
+  "_original_name": "Gift Bag of the Century",
+  "_original_lore": [
+    "Been out of luck? Open this gift bag",
+    "and pick 1 item from a curated",
+    "selection of minor rewards!",
+    "",
+    "Cake, raffles, and now gift bags too?",
+    "Maybe we're doing too much...",
+    "",
+    "Right-click to open!",
+    "",
+    "* Soulbound *",
+    "EPIC"
+  ],
+  "name": "世纪礼物袋",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Been out of luck? Open this gift bag",
+        "and pick {{N0}} item from a curated",
+        "selection of minor rewards!"
+      ],
+      "translation": "运气不好?打开这个礼物袋,从精选的小奖励中挑选 {{N0}} 件物品!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Cake, raffles, and now gift bags too?"
+      ],
+      "translation": "蛋糕、抽奖,现在连礼物袋也有了?",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Maybe we're doing too much..."
+      ],
+      "translation": "也许我们做得太多了……",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to open!"
+      ],
+      "translation": "右键点击打开!",
+      "styleMappings": {
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

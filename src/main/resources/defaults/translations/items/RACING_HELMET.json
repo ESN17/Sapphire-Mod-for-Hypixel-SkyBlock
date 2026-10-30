@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "id": "RACING_HELMET",
+  "_original_name": "Racing Helmet",
+  "_original_lore": [
+    "Speed: +400",
+    "",
+    "Grants +100 Speed Cap.",
+    "",
+    "When horses are not fast enough,",
+    "use a Racing Helmet instead.",
+    "",
+    "Purchased by: [MVP+] Throwpo",
+    "Purchased for: 666,666,666  coins",
+    "",
+    "Auction #1",
+    "Bid #1",
+    "July 2022",
+    "",
+    "This item can be reforged!",
+    "LEGENDARY HELMET"
+  ],
+  "name": "竞速头盔",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Speed Cap."
+      ],
+      "translation": "提升 {{N0}} 速度上限.",
+      "styleMappings": {
+        "Speed Cap": "速度上限",
+        " Speed": " 速度",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "When horses are not fast enough,",
+        "use a Racing Helmet instead."
+      ],
+      "translation": "当马不够快时,改用竞速头盔吧.",
+      "styleMappings": {
+        "Helmet": "头盔"
+      }
+    },
+    {
+      "source": [
+        "Purchased by: [MVP+] Throwpo"
+      ],
+      "translation": "购买者: [最尊贵会员+] 投掷波",
+      "styleMappings": {
+        "Purchased by:": "购买者:",
+        "MVP": "最尊贵会员"
+      }
+    },
+    {
+      "source": [
+        "Purchased for: {{N0}}  coins"
+      ],
+      "translation": "购买价格: {{N0}} 硬币",
+      "styleMappings": {
+        "Purchased for": "购买价格",
+        "coins": "硬币"
+      }
+    },
+    {
+      "source": [
+        "Auction #{{N0}}",
+        "Bid #{{N1}}",
+        "July {{N2}}"
+      ],
+      "translation": "拍卖 #{{N0}} 出价 #{{N1}} 七月 {{N2}}",
+      "styleMappings": {
+        "Auction": "拍卖",
+        "July": "七月",
+        "Bid": "出价"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY HELMET"
+      ],
+      "translation": "传说 头盔",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Helmet": "头盔"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

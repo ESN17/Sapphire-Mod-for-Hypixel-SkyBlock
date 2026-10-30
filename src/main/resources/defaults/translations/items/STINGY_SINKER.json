@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "STINGY_SINKER",
+  "_original_name": "Stingy Sinker",
+  "_original_lore": [
+    "Grants a 10% chance to not consume",
+    "Bait.",
+    "",
+    "Talk to Roddy in the Backwater",
+    "Bayou to apply this Sinker to a",
+    "Fishing Rod.",
+    "",
+    "❣ Requires Fishing Skill 5.",
+    "UNCOMMON ROD PART"
+  ],
+  "name": "吝啬沉子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Grants a {{N0}} chance to not consume",
+        "Bait."
+      ],
+      "translation": "有 {{N0}} 概率不消耗鱼饵.",
+      "styleMappings": {
+        "chance to not consume": "概率不消耗",
+        "Bait": "鱼饵",
+        "chance": "概率",
+        "chance to": "概率"
+      }
+    },
+    {
+      "source": [
+        "Talk to Roddy in the Backwater",
+        "Bayou to apply this Sinker to a",
+        "Fishing Rod."
+      ],
+      "translation": "与静水河湾的 Roddy 交谈,将此沉子应用到钓鱼竿上.",
+      "styleMappings": {
+        "Backwater Bayou": "静水河湾",
+        "Fishing Rod": "钓鱼竿",
+        "Sinker": "沉子",
+        "Roddy": "Roddy",
+        "Fishing": "钓鱼",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Fishing Skill {{N0}}."
+      ],
+      "translation": "❣ 需要钓鱼技能 {{N0}}.",
+      "styleMappings": {
+        "Fishing Skill": "钓鱼技能",
+        "Requires": "需要",
+        "Fishing": "钓鱼",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON ROD PART"
+      ],
+      "translation": "罕见鱼竿部件",
+      "styleMappings": {
+        "UNCOMMON ROD PART": "罕见鱼竿部件",
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sinker": "沉子"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

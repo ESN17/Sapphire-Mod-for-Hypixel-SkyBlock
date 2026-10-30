@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "id": "FANCY_TUXEDO_CHESTPLATE",
+  "_original_name": "Fancy Tuxedo Jacket",
+  "_original_lore": [
+    "Crit Damage: +80%",
+    "Intelligence: +150",
+    "",
+    "Full Set Bonus: Dashing (0/3)",
+    "Max health set to 150❤.",
+    "Deal +100% damage!",
+    "Very stylish.",
+    "",
+    "This item can be reforged!",
+    "LEGENDARY CHESTPLATE"
+  ],
+  "name": "华丽燕尾服外套",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Crit Damage: {{N0}}"
+      ],
+      "translation": "暴击伤害:{{N0}}",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Dashing ({{N0}}/{{N1}})"
+      ],
+      "translation": "套装奖励:潇洒 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Full Set Bonus: Dashing": "套装奖励:潇洒",
+        "Full Set Bonus": "套装奖励"
+      }
+    },
+    {
+      "source": [
+        "Max health set to {{N0}}❤."
+      ],
+      "translation": "最大生命值设为 {{N0}}❤.",
+      "styleMappings": {
+        "Max": "最大",
+        "health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Deal {{N0}} damage!"
+      ],
+      "translation": "造成 {{N0}} 伤害!",
+      "styleMappings": {
+        "damage": "伤害",
+        "Deal": "造成"
+      }
+    },
+    {
+      "source": [
+        "Very stylish."
+      ],
+      "translation": "非常时尚.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY CHESTPLATE"
+      ],
+      "translation": "传说 胸甲",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

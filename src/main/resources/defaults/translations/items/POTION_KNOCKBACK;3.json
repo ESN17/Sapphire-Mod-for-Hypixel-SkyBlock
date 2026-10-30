@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_KNOCKBACK;3",
+  "_original_name": "Knockback III Potion",
+  "_original_lore": [
+    "",
+    "Knockback III (3:00)",
+    "Damaging enemies deals 60% more",
+    "knockback.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "击退 III 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Knockback III ({{N0}}:{{N1}})"
+      ],
+      "translation": "击退 III ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Knockback III": "击退 III",
+        "III": "III"
+      }
+    },
+    {
+      "source": [
+        "Damaging enemies deals {{N0}} more",
+        "knockback."
+      ],
+      "translation": "攻击敌人时造成 {{N0}} 额外击退.",
+      "styleMappings": {
+        "Damaging enemies deals": "攻击敌人时造成",
+        "knockback": "击退",
+        "more": "额外",
+        "enemies": "敌人"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Knockback III": "击退 III",
+    "III": "III"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

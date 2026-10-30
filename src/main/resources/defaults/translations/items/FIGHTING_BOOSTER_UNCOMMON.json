@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "id": "FIGHTING_BOOSTER_UNCOMMON",
+  "_original_name": "Uncommon Fighting Booster Upgrade",
+  "_original_lore": [
+    "Booster",
+    "Combinable in Anvil",
+    "",
+    "Apply to an item with a Common",
+    "Fighting Booster to upgrade it to an",
+    "Uncommon Fighting Booster, which",
+    "increases damage against Foraging",
+    "Island mobs.",
+    "",
+    "UNCOMMON BOOSTER"
+  ],
+  "name": "罕见战斗增益器升级",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Booster",
+        "Combinable in Anvil"
+      ],
+      "translation": "增益器可在铁砧中合成",
+      "styleMappings": {
+        "Booster Combinable in Anvil": "增益器可在铁砧中合成",
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Apply to an item with a Common",
+        "Fighting Booster to upgrade it to an",
+        "Uncommon Fighting Booster, which",
+        "increases damage against Foraging",
+        "Island mobs."
+      ],
+      "translation": "应用于带有普通战斗增益器的物品,将其升级为罕见战斗增益器,增加对采伐岛生物的伤害.",
+      "styleMappings": {
+        "Uncommon Fighting Booster": "罕见战斗增益器",
+        "Common Fighting Booster": "普通战斗增益器",
+        "Foraging Island": "采伐岛",
+        "upgrade": "升级",
+        "damage": "伤害",
+        "item": "物品",
+        "mobs": "生物",
+        "Foraging": "采伐",
+        "Common": "普通",
+        "Uncommon": "罕见",
+        "mobs.": "伤害."
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON BOOSTER"
+      ],
+      "translation": "罕见增益器",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Uncommon Fighting Booster": "罕见战斗增益器",
+    "Uncommon": "罕见"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

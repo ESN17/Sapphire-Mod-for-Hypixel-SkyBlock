@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "id": "DROPLET_WISP;1",
+  "_original_name": "[Lvl {LVL}] Droplet Wisp",
+  "_original_lore": [
+    "Gabagool Pet, feed to gain XP",
+    "",
+    "Health: +{HEALTH}",
+    "Damage: +{DAMAGE}",
+    "",
+    "Drophammer",
+    "Lets you break fire pillars 2x",
+    "faster, healing you for 15% of your",
+    "max ❤ over 3s.",
+    "",
+    "Bulwark",
+    "Kill Blazes to gain defense against",
+    "them and demons.",
+    "Bonus: +0 & +0",
+    "Next Upgrade: +30 & +3 (0/100)",
+    "",
+    "Blaze Slayer",
+    "Gain +{0}☯ Combat Wisdom towards",
+    "Blazes.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "UNCOMMON PET"
+  ],
+  "name": "[等级 {LVL}] 水滴精灵",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gabagool Pet, feed to gain XP"
+      ],
+      "translation": "加巴古尔宠物,喂养以获得经验",
+      "styleMappings": {
+        "Pet": "宠物",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "Health: +{{N0}}"
+      ],
+      "translation": "生命值: +{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Damage: +{{N0}}"
+      ],
+      "translation": "伤害: +{{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Drophammer"
+      ],
+      "translation": "落锤",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Lets you break fire pillars {{N0}}x",
+        "faster, healing you for {{N1}} of your",
+        "max ❤ over {{N2}}s."
+      ],
+      "translation": "让你以 {{N0}} 倍速度破坏火柱,在 {{N2}} 秒内为你恢复最大 ❤ 的 {{N1}}.",
+      "styleMappings": {
+        "of your max": "最大",
+        "fire": "火",
+        "{{N2}}s": "{{N2}} 秒",
+        "{{N0}}x": "{{N0}} 倍",
+        "max": "最大"
+      }
+    },
+    {
+      "source": [
+        "Bulwark"
+      ],
+      "translation": "壁垒",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Kill Blazes to gain defense against",
+        "them and demons."
+      ],
+      "translation": "击杀烈焰人可获得对其与恶魔的防御.",
+      "styleMappings": {
+        "Blazes": "烈焰人",
+        "defense": "防御",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "Bonus: {{N0}} & {{N1}}"
+      ],
+      "translation": "加成: {{N0}} & {{N1}}",
+      "styleMappings": {
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Next Upgrade: {{N0}} & {{N1}} ({{N2}}/{{N3}})"
+      ],
+      "translation": "下次升级: {{N0}} & {{N1}} ({{N2}}/{{N3}})",
+      "styleMappings": {
+        "Next Upgrade": "下次升级"
+      }
+    },
+    {
+      "source": [
+        "Blaze Slayer"
+      ],
+      "translation": "烈焰人杀手",
+      "styleMappings": {
+        "Slayer": "杀手",
+        "Blaze Slayer": "烈焰人杀手"
+      }
+    },
+    {
+      "source": [
+        "Gain +{{N0}}☯ Combat Wisdom towards",
+        "Blazes."
+      ],
+      "translation": "对烈焰人获得 +{{N0}}☯ 战斗智慧.",
+      "styleMappings": {
+        "Combat Wisdom": "战斗智慧",
+        "Blazes": "烈焰人",
+        "Gain": "获得",
+        "Combat": "战斗",
+        "Wisdom": "智慧"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON PET"
+      ],
+      "translation": "罕见 宠物",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

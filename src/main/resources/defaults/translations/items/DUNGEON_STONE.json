@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "DUNGEON_STONE",
+  "_original_name": "Dungeon Orb",
+  "_original_lore": [
+    "When entering a Dungeon, this stone",
+    "adapts to its user and allows them to",
+    "use their class abilities.",
+    "",
+    "LEGENDARY DUNGEON ITEM"
+  ],
+  "name": "地牢宝珠",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "When entering a Dungeon, this stone",
+        "adapts to its user and allows them to",
+        "use their class abilities."
+      ],
+      "translation": "进入地牢时,这颗石头会适应其使用者,并允许他们使用职业能力.",
+      "styleMappings": {
+        "Dungeon": "地牢"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY DUNGEON ITEM"
+      ],
+      "translation": "传说地牢物品",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Dungeon": "地牢",
+    "Orb": "宝珠"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

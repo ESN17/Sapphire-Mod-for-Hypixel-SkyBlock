@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "BONZO_BOSS",
+  "_original_name": "Bonzo (Boss)",
+  "_original_lore": [
+    "Bonzo is the boss of Floor 1 of the Catacombs.",
+    "He is a 'New Necromancer' and has two phases. In",
+    "the first one he runs away from the player until",
+    "he is killed. Then he revives appearing as a clown",
+    "and attacks the player.",
+    "",
+    "❤ Health: 250.000",
+    "❤ Health (MM): 200.000.000"
+  ],
+  "name": "邦佐 (首领)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Bonzo is the boss of Floor {{N0}} of the Catacombs."
+      ],
+      "translation": "邦佐是地牢第 {{N0}} 层的首领.",
+      "styleMappings": {
+        "Catacombs": "地牢",
+        "Bonzo": "邦佐",
+        "the Catacombs": "地牢"
+      }
+    },
+    {
+      "source": [
+        "He is a 'New Necromancer' and has two phases. In",
+        "the first one he runs away from the player until",
+        "he is killed. Then he revives appearing as a clown",
+        "and attacks the player."
+      ],
+      "translation": "他是一名'新死灵法师',拥有两个阶段.第一阶段他会逃离玩家,直到被击杀.随后他会以一个小丑的形象复活并攻击玩家.",
+      "styleMappings": {
+        "player": "玩家",
+        "is killed": "击杀",
+        "phases": "阶段"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "❤ Health (MM): {{N0}}.{{N1}}"
+      ],
+      "translation": "❤ 生命值 (MM): {{N0}}.{{N1}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Bonzo": "邦佐",
+    "Boss": "首领",
+    "Bonzo (Boss)": "邦佐 (首领)"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

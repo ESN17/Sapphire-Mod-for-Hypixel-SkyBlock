@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "id": "MENDER_CROWN",
+  "_original_name": "Mender Crown",
+  "_original_lore": [
+    "Gear Score: 300",
+    "Health: +270",
+    "",
+    "Grants +80 Mending and  Vitality",
+    "while in Dungeons.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires The Catacombs Floor VI Completion.",
+    "EPIC DUNGEON HELMET"
+  ],
+  "name": "修补者王冠",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Mending and  Vitality",
+        "while in Dungeons."
+      ],
+      "translation": "在地牢中提供 {{N0}} 修补和  生命回复.",
+      "styleMappings": {
+        "Dungeons": "地牢",
+        "Vitality": "生命回复",
+        "Mending": "修补",
+        "Grants": "提供"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires The Catacombs Floor VI Completion."
+      ],
+      "translation": "❣ 需要通关地牢第 VI 层.",
+      "styleMappings": {
+        "The Catacombs": "地牢",
+        "Requires": "需要",
+        "Catacombs": "地牢"
+      }
+    },
+    {
+      "source": [
+        "EPIC DUNGEON HELMET"
+      ],
+      "translation": "史诗 地牢 头盔",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mender Crown": "修补者王冠"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

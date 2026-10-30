@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "ATTRIBUTE_SHARD_HUNTERS_SUPPRESS;1",
+  "_original_name": "Basilisk Shard",
+  "_original_lore": [
+    "Hunter's Suppress I",
+    "Lassos deplete Stamina +2% faster.",
+    "",
+    "You can Syphon this shard from",
+    "your Hunting Box.",
+    "",
+    "Right-click to send to Hunting Box!",
+    "Shift Right-click to move all!",
+    "",
+    "❣ Requires Hunting Skill 15.",
+    "EPIC COMBAT SHARD (ID E9)"
+  ],
+  "name": "蛇怪碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Hunter's Suppress I"
+      ],
+      "translation": "猎手之抑 I",
+      "styleMappings": {
+        "I": "I"
+      }
+    },
+    {
+      "source": [
+        "Lassos deplete Stamina {{N0}} faster."
+      ],
+      "translation": "套索消耗耐力的速度加快 {{N0}}.",
+      "styleMappings": {
+        "faster": "加快"
+      }
+    },
+    {
+      "source": [
+        "You can Syphon this shard from",
+        "your Hunting Box."
+      ],
+      "translation": "你可以从狩猎箱中吸取此碎片.",
+      "styleMappings": {
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to send to Hunting Box!"
+      ],
+      "translation": "右键点击发送至狩猎箱!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Shift Right-click to move all!"
+      ],
+      "translation": "潜行键 右键点击全部移动!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "all": "全部"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Hunting Skill {{N0}}."
+      ],
+      "translation": "❣ 需要狩猎技能 {{N0}}.",
+      "styleMappings": {
+        "Hunting Skill": "狩猎技能",
+        "Requires": "需要",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC COMBAT SHARD (ID E{{N0}})"
+      ],
+      "translation": "史诗战斗碎片 (ID 伊{{N0}})",
+      "styleMappings": {
+        "EPIC": "史诗",
+        "COMBAT SHARD": "战斗碎片"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shard": "碎片"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

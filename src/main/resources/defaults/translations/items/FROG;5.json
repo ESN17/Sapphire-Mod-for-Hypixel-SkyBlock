@@ -1,0 +1,226 @@
+{
+  "schemaVersion": 1,
+  "id": "FROG;5",
+  "_original_name": "[Lvl {LVL}] Frog",
+  "_original_lore": [
+    "Foraging Pet",
+    "",
+    "Speed: +{SPEED}",
+    "Fishing Speed: +{FISHING_SPEED}",
+    "Trophy Chance: +{TROPHY_CHANCE}%",
+    "Respiration: +{RESPIRATION}",
+    "Sweep: +{SWEEP}",
+    "",
+    "Hop",
+    "Grants {0} Foraging Fortune for",
+    "20s every time you jump. Gain Jump",
+    "Boost IV while on Foraging Islands.",
+    "",
+    "Happy Tree Friends",
+    "Grants {1} Foraging Fortune and",
+    "{2} Fishing Speed for every",
+    "other Frog Pet on the island, up to",
+    "10 frogs.",
+    "",
+    "Hunting Enjoyer",
+    "Increases your chance of fishing up",
+    "Water Shards by {3}% while on",
+    "Foraging Islands.",
+    "",
+    "Home Sweet Home",
+    "Increases your chance of catching",
+    "GOLD and DIAMOND Trophy Frogs",
+    "by {4}%.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "MYTHIC PET"
+  ],
+  "name": "[等级 {LVL}] 青蛙",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Foraging Pet"
+      ],
+      "translation": "采伐宠物",
+      "styleMappings": {
+        "Foraging Pet": "采伐宠物",
+        "Pet": "宠物",
+        "Foraging": "采伐"
+      }
+    },
+    {
+      "source": [
+        "Speed: +{{N0}}"
+      ],
+      "translation": "速度: +{{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Fishing Speed: +{{N0}}"
+      ],
+      "translation": "钓鱼速度: +{{N0}}",
+      "styleMappings": {
+        "Fishing Speed": "钓鱼速度",
+        "Fishing": "钓鱼",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Trophy Chance: +{{N0}}%"
+      ],
+      "translation": "奖杯概率: +{{N0}}%",
+      "styleMappings": {
+        "Trophy Chance": "奖杯概率",
+        "Trophy": "奖杯"
+      }
+    },
+    {
+      "source": [
+        "Respiration: +{{N0}}"
+      ],
+      "translation": "呼吸: +{{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Sweep: +{{N0}}"
+      ],
+      "translation": "扫击: +{{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Hop"
+      ],
+      "translation": "跳跃",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants {{N0}} Foraging Fortune for",
+        "{{N1}}s every time you jump. Gain Jump",
+        "Boost IV while on Foraging Islands."
+      ],
+      "translation": "每次跳跃时,提供 {{N0}} 采伐幸运,持续 {{N1}} 秒.在采伐岛屿上获得跳跃提升 IV.",
+      "styleMappings": {
+        " Foraging Fortune": " 采伐幸运",
+        "Foraging Islands": "采伐岛屿",
+        "Jump Boost IV": "跳跃提升 IV",
+        "Gain": "获得",
+        "for": "持续",
+        "{{N1}}s": "{{N1}} 秒",
+        "Fortune": "幸运",
+        "Foraging": "采伐",
+        "Foraging Fortune": "采伐幸运"
+      }
+    },
+    {
+      "source": [
+        "Happy Tree Friends"
+      ],
+      "translation": "快乐树朋友",
+      "styleMappings": {
+        "Tree": "树"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Foraging Fortune and",
+        "{{N1}} Fishing Speed for every",
+        "other Frog Pet on the island, up to",
+        "{{N2}} frogs."
+      ],
+      "translation": "岛上每有一只其他青蛙宠物,就提供 {{N0}} 采伐幸运和 {{N1}} 钓鱼速度,最多计算 {{N2}} 只青蛙.",
+      "styleMappings": {
+        " Foraging Fortune": " 采伐幸运",
+        "Fishing Speed": "钓鱼速度",
+        "Frog Pet": "青蛙宠物",
+        "Grants": "提供",
+        " Fishing Speed": " 钓鱼速度",
+        "Fishing": "钓鱼",
+        "Pet": "宠物",
+        "Fortune": "幸运",
+        "Foraging": "采伐",
+        "Frog": "青蛙",
+        "Speed": "速度",
+        "Foraging Fortune": "采伐幸运"
+      }
+    },
+    {
+      "source": [
+        "Hunting Enjoyer"
+      ],
+      "translation": "狩猎爱好者",
+      "styleMappings": {
+        "Hunting Enjoyer": "狩猎爱好者"
+      }
+    },
+    {
+      "source": [
+        "Increases your chance of fishing up",
+        "Water Shards by {{N0}}% while on",
+        "Foraging Islands."
+      ],
+      "translation": "在采伐岛屿上时,钓到水碎片的概率提高 {{N0}}%.",
+      "styleMappings": {
+        "Foraging Islands": "采伐岛屿",
+        "Water Shards": "水碎片",
+        "chance": "概率",
+        "Foraging": "采伐"
+      }
+    },
+    {
+      "source": [
+        "Home Sweet Home"
+      ],
+      "translation": "温馨家园",
+      "styleMappings": {
+        "Home Sweet Home": "温馨家园"
+      }
+    },
+    {
+      "source": [
+        "Increases your chance of catching",
+        "GOLD and DIAMOND Trophy Frogs",
+        "by {{N0}}%."
+      ],
+      "translation": "钓到黄金和钻石奖杯青蛙的概率提高 {{N0}}%.",
+      "styleMappings": {
+        "Trophy Frogs": "奖杯青蛙",
+        "DIAMOND": "钻石",
+        "GOLD": "黄金",
+        "chance": "概率",
+        "Trophy": "奖杯"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "MYTHIC PET"
+      ],
+      "translation": "神话 宠物",
+      "styleMappings": {
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Frog": "青蛙",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

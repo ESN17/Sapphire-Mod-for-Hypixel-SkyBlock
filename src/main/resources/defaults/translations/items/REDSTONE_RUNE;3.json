@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "REDSTONE_RUNE;3",
+  "_original_name": "◆ Redstone Rune III",
+  "_original_lore": [
+    "Requires level 9",
+    "Boots",
+    "",
+    "Walk like an engineer!",
+    "",
+    "Apply this rune to boots or fuse two",
+    "together at the Runic Pedestal!",
+    "",
+    "RARE COSMETIC"
+  ],
+  "name": "◆ 红石符文 III",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Requires level {{N0}}",
+        "Boots"
+      ],
+      "translation": "需要等级 {{N0}} 靴子",
+      "styleMappings": {
+        "Requires": "需要",
+        "Boots": "靴子"
+      }
+    },
+    {
+      "source": [
+        "Walk like an engineer!"
+      ],
+      "translation": "像工程师一样行走!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Apply this rune to boots or fuse two",
+        "together at the Runic Pedestal!"
+      ],
+      "translation": "将此符文应用于靴子,或在符文基座上将两个融合!",
+      "styleMappings": {
+        "Runic Pedestal": "符文基座",
+        "Runic": "符文"
+      }
+    },
+    {
+      "source": [
+        "RARE COSMETIC"
+      ],
+      "translation": "稀有 外观",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Rune III": "符文 III",
+    "III": "III"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

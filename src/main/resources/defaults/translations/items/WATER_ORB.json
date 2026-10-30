@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "WATER_ORB",
+  "_original_name": "Water Orb",
+  "_original_lore": [
+    "A perfectly smooth, highly",
+    "condensed orb of pure fish matter.",
+    "",
+    "Used as a core ingredient in high",
+    "level fishing crafts.",
+    "",
+    "Smells like fish...",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "EPIC"
+  ],
+  "name": "水之宝珠",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A perfectly smooth, highly",
+        "condensed orb of pure fish matter."
+      ],
+      "translation": "一个完美光滑、高度浓缩的纯鱼肉球.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Used as a core ingredient in high",
+        "level fishing crafts."
+      ],
+      "translation": "用作高级钓鱼合成中的核心材料.",
+      "styleMappings": {
+        "fishing": "钓鱼"
+      }
+    },
+    {
+      "source": [
+        "Smells like fish..."
+      ],
+      "translation": "闻起来像鱼...",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Orb": "宝珠"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

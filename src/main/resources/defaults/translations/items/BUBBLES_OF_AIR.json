@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "BUBBLES_OF_AIR",
+  "_original_name": "Bubbles of Air",
+  "_original_lore": [
+    "Ability: Inhale  RIGHT CLICK",
+    "Refill your air bubbles when under water on",
+    "Galatea! This item will be consumed on use.",
+    "Cooldown: 30s",
+    "",
+    "RARE"
+  ],
+  "name": "气泡",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Inhale  RIGHT CLICK"
+      ],
+      "translation": "技能: 吸气  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "Inhale": "吸气",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Refill your air bubbles when under water on",
+        "Galatea! This item will be consumed on use."
+      ],
+      "translation": "在加拉蒂亚水下时补充你的气泡! 使用后此物品会被消耗.",
+      "styleMappings": {
+        "Galatea": "加拉蒂亚",
+        "item": "物品",
+        "when": "时",
+        "water": "水"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

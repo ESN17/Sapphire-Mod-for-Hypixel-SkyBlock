@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "TARANTULA_FANG",
+  "_original_name": "Tarantula Fang",
+  "_original_lore": [
+    "Damage: +90",
+    "Strength: +45",
+    "Crit Damage: +20%",
+    "Gemstones: [⚔]",
+    "",
+    "Deal +200%  Damage to and gain",
+    "+15☯ Combat Wisdom against ",
+    "Arthropod mobs.",
+    "",
+    "Ability: Webcutter ",
+    "This weapon can be used to clear",
+    "webs left by the Tarantula",
+    "Broodfather!",
+    "",
+    "This item can be reforged!",
+    "☠ Requires Spider Slayer 4.",
+    "RARE SWORD"
+  ],
+  "name": "蛛魔之牙",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: {{N0}}"
+      ],
+      "translation": "暴击伤害:{{N0}}",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [⚔]"
+      ],
+      "translation": "宝石: [⚔]",
+      "styleMappings": {
+        "Gemstones": "宝石",
+        "[": "[",
+        "Gemstones:": "宝石:"
+      }
+    },
+    {
+      "source": [
+        "Deal {{N0}}  Damage to and gain",
+        "{{N1}}☯ Combat Wisdom against ",
+        "Arthropod mobs."
+      ],
+      "translation": "对  节肢动物怪物造成 {{N0}}  伤害,并获得 {{N1}}☯ 战斗智慧.",
+      "styleMappings": {
+        "Combat Wisdom": "战斗智慧",
+        "Arthropod": "节肢动物",
+        " Damage": " 伤害",
+        "mobs": "怪物",
+        "Combat": "战斗",
+        "Damage": "伤害",
+        "Wisdom": "智慧",
+        "Deal": "造成",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "Ability: Webcutter "
+      ],
+      "translation": "能力:破网者 ",
+      "styleMappings": {
+        "Ability": "能力"
+      }
+    },
+    {
+      "source": [
+        "This weapon can be used to clear",
+        "webs left by the Tarantula",
+        "Broodfather!"
+      ],
+      "translation": "这把武器可用于清除狼蛛族长留下的蛛网!",
+      "styleMappings": {
+        "Tarantula Broodfather": "狼蛛族长",
+        "Tarantula": "狼蛛"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Spider Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要蜘蛛杀手 {{N0}}.",
+      "styleMappings": {
+        "Spider Slayer": "蜘蛛杀手",
+        "Requires": "需要",
+        "Spider": "蜘蛛",
+        "Slayer": "杀手"
+      }
+    },
+    {
+      "source": [
+        "RARE SWORD"
+      ],
+      "translation": "稀有剑",
+      "styleMappings": {
+        "RARE": "稀有",
+        "RARE SWORD": "稀有剑"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Tarantula Fang": "蛛魔之牙"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_name_revision": "2026-10-17-slayer-rpg"
+}

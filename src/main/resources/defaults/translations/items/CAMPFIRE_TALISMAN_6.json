@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "CAMPFIRE_TALISMAN_6",
+  "_original_name": "Campfire Adept Badge III",
+  "_original_lore": [
+    "Accessory Power: +5",
+    "",
+    "Gain +7 Health Regen while burning.",
+    "",
+    "Trial of Fire 7",
+    "\"Fire guy!\"",
+    "",
+    "* Soulbound *",
+    "Works while in Accessory Bag!",
+    "UNCOMMON ACCESSORY"
+  ],
+  "name": "篝火熟练徽章 III",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Accessory Power: {{N0}}"
+      ],
+      "translation": "饰品能量: {{N0}}",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}} Health Regen while burning."
+      ],
+      "translation": "燃烧时获得 {{N0}} 生命回复.",
+      "styleMappings": {
+        "Health Regen": "生命回复",
+        "Gain": "获得",
+        "Health": "生命",
+        "Regen": "回复"
+      }
+    },
+    {
+      "source": [
+        "Trial of Fire {{N0}}"
+      ],
+      "translation": "火焰试炼 {{N0}}",
+      "styleMappings": {
+        "Fire": "火焰"
+      }
+    },
+    {
+      "source": [
+        "\"Fire guy!\""
+      ],
+      "translation": "\"火人!\"",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "放在饰品袋中即可生效!",
+      "styleMappings": {
+        "Accessory Bag": "饰品袋",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON ACCESSORY"
+      ],
+      "translation": "罕见 饰品",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Adept": "熟练",
+    "III": "III"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "id": "OCELOT;4",
+  "_original_name": "[Lvl {LVL}] Ocelot",
+  "_original_lore": [
+    "Foraging Pet",
+    "",
+    "Ferocity: +{FEROCITY}",
+    "Speed: +{SPEED}",
+    "",
+    "Foraging Wisdom Boost",
+    "Grants +{0}☯ Foraging Wisdom.",
+    "",
+    "Tree Hugger",
+    "Foraging minions work {1}% faster",
+    "while on your island",
+    "",
+    "Tree Essence",
+    "Gain a {2}% chance to get exp from",
+    "breaking a log",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "LEGENDARY PET"
+  ],
+  "name": "[等级 {LVL}] 豹猫",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Foraging Pet"
+      ],
+      "translation": "采伐宠物",
+      "styleMappings": {
+        "Foraging Pet": "采伐宠物",
+        "Pet": "宠物",
+        "Foraging": "采伐"
+      }
+    },
+    {
+      "source": [
+        "Ferocity: +{{N0}}"
+      ],
+      "translation": "残暴值: +{{N0}}",
+      "styleMappings": {
+        "Ferocity": "残暴值"
+      }
+    },
+    {
+      "source": [
+        "Speed: +{{N0}}"
+      ],
+      "translation": "速度: +{{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Foraging Wisdom Boost"
+      ],
+      "translation": "采伐智慧加成",
+      "styleMappings": {
+        "Foraging Wisdom Boost": "采伐智慧加成",
+        "Foraging Wisdom": "采伐智慧",
+        "Wisdom": "智慧",
+        "Foraging": "采伐"
+      }
+    },
+    {
+      "source": [
+        "Grants +{{N0}}☯ Foraging Wisdom."
+      ],
+      "translation": "提供 +{{N0}}☯ 采伐智慧.",
+      "styleMappings": {
+        "☯ Foraging Wisdom": "☯ 采伐智慧",
+        "Grants": "提供",
+        "Foraging Wisdom": "采伐智慧",
+        "Wisdom": "智慧",
+        "Foraging": "采伐"
+      }
+    },
+    {
+      "source": [
+        "Tree Hugger"
+      ],
+      "translation": "抱树人",
+      "styleMappings": {
+        "Tree Hugger": "抱树人",
+        "Tree": "树"
+      }
+    },
+    {
+      "source": [
+        "Foraging minions work {{N0}}% faster",
+        "while on your island"
+      ],
+      "translation": "在你的岛上时,采伐仆从工作速度加快 {{N0}}%",
+      "styleMappings": {
+        "Foraging minions": "采伐仆从",
+        "faster": "加快",
+        "Foraging": "采伐",
+        "minions": "仆从",
+        "work": "工作"
+      }
+    },
+    {
+      "source": [
+        "Tree Essence"
+      ],
+      "translation": "树木精华",
+      "styleMappings": {
+        "Tree Essence": "树木精华"
+      }
+    },
+    {
+      "source": [
+        "Gain a {{N0}}% chance to get exp from",
+        "breaking a log"
+      ],
+      "translation": "破坏原木时有 {{N0}}% 几率获得经验",
+      "styleMappings": {
+        "chance": "几率",
+        "Gain": "获得",
+        "chance to": "几率"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY PET"
+      ],
+      "translation": "传说 宠物",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Ocelot": "豹猫",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

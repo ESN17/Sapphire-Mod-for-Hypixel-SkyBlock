@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "id": "GOLDEN_BELT",
+  "_original_name": "Golden Belt",
+  "_original_lore": [
+    "Rift Time: +100s",
+    "Intelligence: +10",
+    "Speed: +4",
+    "",
+    "Ability: Gravity Falls ",
+    "Increases your total  Rift Time by",
+    "5% but it goes down 3% faster.",
+    "",
+    "Monster melee attacks reduce 1 less",
+    " Rift Time.",
+    "",
+    "Right-click to equip!",
+    "",
+    "LEGENDARY BELT"
+  ],
+  "name": "金腰带",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Rift Time: {{N0}}s"
+      ],
+      "translation": "裂隙时间: {{N0}}秒",
+      "styleMappings": {
+        "Rift Time": "裂隙时间",
+        "{{N0}}s": "{{N0}}秒",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Ability: Gravity Falls "
+      ],
+      "translation": "能力:重力坠落 ",
+      "styleMappings": {
+        "Ability": "能力",
+        "Gravity": "重力"
+      }
+    },
+    {
+      "source": [
+        "Increases your total  Rift Time by",
+        "{{N0}} but it goes down {{N1}} faster."
+      ],
+      "translation": "将你的总  裂隙时间增加 {{N0}},但下降速度加快 {{N1}}.",
+      "styleMappings": {
+        "Increases": "增加",
+        "Rift Time": "裂隙时间",
+        "faster": "加快",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "Monster melee attacks reduce {{N0}} less",
+        " Rift Time."
+      ],
+      "translation": "怪物近战攻击减少 {{N0}} 点  裂隙时间.",
+      "styleMappings": {
+        "Rift Time": "裂隙时间",
+        "Monster": "怪物",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "Right-click to equip!"
+      ],
+      "translation": "右键点击装备!",
+      "styleMappings": {
+        "Right-click to equip!": "右键点击装备!",
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY BELT"
+      ],
+      "translation": "传说 腰带",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Belt": "腰带"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

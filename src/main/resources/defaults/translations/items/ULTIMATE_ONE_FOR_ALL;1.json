@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "id": "ULTIMATE_ONE_FOR_ALL;1",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "One For All I",
+    "Removes all other enchants but",
+    "increases your weapon damage by",
+    "500%.",
+    "",
+    "You can only have 1 Ultimate",
+    "Enchantment on an item!",
+    "",
+    "▲ One For All cannot be combined!",
+    "",
+    "Sources:",
+    " - Catacombs (I)",
+    " - Bazaar (I)",
+    "",
+    "Applied To:",
+    " - Sword",
+    " - Longsword",
+    "",
+    "Requirements:",
+    " - Enchanting Level 38",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "One For All I"
+      ],
+      "translation": "孤注一掷 I",
+      "styleMappings": {
+        "One For All": "孤注一掷",
+        "One For All I": "孤注一掷 I"
+      }
+    },
+    {
+      "source": [
+        "Removes all other enchants but",
+        "increases your weapon damage by",
+        "{{N0}}."
+      ],
+      "translation": "移除所有其他附魔,但使你的武器伤害提高 {{N0}}.",
+      "styleMappings": {
+        "weapon damage": "武器伤害",
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "You can only have {{N0}} Ultimate",
+        "Enchantment on an item!"
+      ],
+      "translation": "一件物品上只能拥有 {{N0}} 个终极附魔!",
+      "styleMappings": {
+        "Ultimate Enchantment": "终极附魔",
+        "item": "物品",
+        "Enchantment": "附魔"
+      }
+    },
+    {
+      "source": [
+        "▲ One For All cannot be combined!"
+      ],
+      "translation": "▲ 孤注一掷无法合并!",
+      "styleMappings": {
+        "One For All": "孤注一掷"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Catacombs (I)",
+        " - Bazaar (I)"
+      ],
+      "translation": " - 地牢 (I)  - 集市 (I)",
+      "styleMappings": {
+        "Catacombs": "地牢",
+        "Bazaar": "集市",
+        "I": "I"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Sword",
+        " - Longsword"
+      ],
+      "translation": " - 剑  - 长剑",
+      "styleMappings": {
+        "Sword": "剑",
+        "Longsword": "长剑"
+      }
+    },
+    {
+      "source": [
+        "Requirements:"
+      ],
+      "translation": "需求:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchanting Level {{N0}}"
+      ],
+      "translation": " - 附魔等级 {{N0}}",
+      "styleMappings": {
+        "Enchanting Level": "附魔等级"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

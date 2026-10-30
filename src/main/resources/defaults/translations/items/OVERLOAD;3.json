@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": "OVERLOAD;3",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Overload III",
+    "Increases  Crit Damage by 3% and",
+    " Crit Chance by 3%. Having a",
+    "Critical chance above 100% grants a",
+    "chance to perform a Mega Critical Hit",
+    "dealing 30% extra damage.",
+    "",
+    "Sources:",
+    " - Catacombs (I-V)",
+    " - Bazaar (I-V)",
+    "",
+    "Applied To:",
+    " - Bow",
+    "",
+    "Requirements:",
+    " - Enchanting Level 33",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Overload III"
+      ],
+      "translation": "超载 III",
+      "styleMappings": {
+        "Overload": "超载",
+        "III": "III"
+      }
+    },
+    {
+      "source": [
+        "Increases  Crit Damage by {{N0}} and",
+        " Crit Chance by {{N1}}. Having a",
+        "Critical chance above {{N2}} grants a",
+        "chance to perform a Mega Critical Hit",
+        "dealing {{N3}} extra damage."
+      ],
+      "translation": "将  暴击伤害提高 {{N0}},将  暴击概率提高 {{N1}}.暴击概率高于 {{N2}} 时,有几率发动超级暴击,造成 {{N3}} 额外伤害.",
+      "styleMappings": {
+        "Mega Critical Hit": "超级暴击",
+        " Crit Damage": " 暴击伤害",
+        " Crit Chance": " 暴击概率",
+        "chance to": "几率",
+        "chance": "概率",
+        "damage": "伤害",
+        "Crit Damage": "暴击伤害",
+        "Crit Chance": "暴击概率",
+        "Damage": "伤害",
+        "Critical": "暴击"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Catacombs (I-V)",
+        " - Bazaar (I-V)"
+      ],
+      "translation": " - 地牢 (一至五)  - 集市 (一至五)",
+      "styleMappings": {
+        "Catacombs": "地牢",
+        "Bazaar": "集市",
+        "I-V": "一至五"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Bow"
+      ],
+      "translation": " - 弓",
+      "styleMappings": {
+        "Bow": "弓"
+      }
+    },
+    {
+      "source": [
+        "Requirements:"
+      ],
+      "translation": "需求:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchanting Level {{N0}}"
+      ],
+      "translation": " - 附魔等级 {{N0}}",
+      "styleMappings": {
+        "Enchanting Level": "附魔等级"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "id": "MINOS_CHAMPION_MONSTER",
+  "_original_name": "Minos Champion (Mythological Creature)",
+  "_original_lore": [
+    "The Minos Champion is one of the rare mobs",
+    "in the Mythological Ritual, and can only be",
+    "found by using a epic or legendary Griffin Pet.",
+    "It gains roughly 3 to 4% of a damage buff for each second",
+    "it's lived for, capping at 600%, which is when it despawns.",
+    "While alive, it can attack using a sword or a bow, if",
+    "the Champion is unable to reach a player, it will spawn",
+    "a lighting strike on the player once, similary",
+    "to the Gaia Construct.",
+    "",
+    "Mob Types: ✿ Mythological, ✰ Humanoid",
+    "❤ Health:",
+    "[Griffin] 2,000,000 ❤",
+    "[Griffin] 12,000,000 ❤",
+    "",
+    "EPIC"
+  ],
+  "name": "弥诺斯勇士 (神话生物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Minos Champion is one of the rare mobs",
+        "in the Mythological Ritual, and can only be",
+        "found by using a epic or legendary Griffin Pet."
+      ],
+      "translation": "弥诺斯勇士是神话仪式中的稀有怪物之一,只能通过使用史诗或传说狮鹫宠物来找到.",
+      "styleMappings": {
+        "Mythological Ritual": "神话仪式",
+        "Minos Champion": "弥诺斯勇士",
+        "Griffin Pet": "狮鹫宠物",
+        "rare mobs": "稀有怪物",
+        "rare": "稀有",
+        "Pet": "宠物",
+        "Griffin": "狮鹫",
+        "mobs": "怪物",
+        "Champion": "勇士",
+        "Mythological": "神话",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "It gains roughly {{N0}} to {{N1}} of a damage buff for each second",
+        "it's lived for, capping at {{N2}}, which is when it despawns."
+      ],
+      "translation": "它每存活一秒便获得约 {{N0}} 至 {{N1}} 的伤害加成,上限为 {{N2}},达到上限后便会消失.",
+      "styleMappings": {
+        "damage": "伤害",
+        "second": "秒",
+        "for": "获得"
+      }
+    },
+    {
+      "source": [
+        "While alive, it can attack using a sword or a bow, if",
+        "the Champion is unable to reach a player, it will spawn",
+        "a lighting strike on the player once, similary",
+        "to the Gaia Construct."
+      ],
+      "translation": "存活期间,它可以使用剑或弓攻击,如果勇士无法接近玩家,它会像盖亚构造体一样对玩家召唤一次闪电打击.",
+      "styleMappings": {
+        "Champion": "勇士",
+        "player": "玩家",
+        "Construct": "构造体"
+      }
+    },
+    {
+      "source": [
+        "Mob Types: ✿ Mythological, ✰ Humanoid"
+      ],
+      "translation": "怪物类型: ✿ 神话, ✰ 人形",
+      "styleMappings": {
+        "Mythological": "神话",
+        "Humanoid": "人形",
+        "Mob Types": "怪物类型",
+        "Mob Types:": "怪物类型:"
+      }
+    },
+    {
+      "source": [
+        "❤ Health:"
+      ],
+      "translation": "❤ 生命值:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "[Griffin] {{N0}} ❤",
+        "[Griffin] {{N1}} ❤"
+      ],
+      "translation": "[狮鹫] {{N0}} ❤ [狮鹫] {{N1}} ❤",
+      "styleMappings": {
+        "Griffin": "狮鹫"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mythological Creature": "神话生物",
+    "Minos Champion": "弥诺斯勇士",
+    "Champion": "勇士"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

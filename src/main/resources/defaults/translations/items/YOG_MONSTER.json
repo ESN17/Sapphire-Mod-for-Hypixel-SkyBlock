@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "YOG_MONSTER",
+  "_original_name": "Yog (Monster)",
+  "_original_lore": [
+    "Born in the depths, risen from",
+    "magma",
+    "",
+    "Mob Types: ⚂ Cubic, ♨ Infernal, ⛏ Subterranean",
+    "❤ Health: 35,000"
+  ],
+  "name": "尤格 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Born in the depths, risen from",
+        "magma"
+      ],
+      "translation": "生于深渊,自岩浆中崛起",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Mob Types: ⚂ Cubic, ♨ Infernal, ⛏ Subterranean"
+      ],
+      "translation": "生物类型: ⚂ 立方体, ♨ 炼狱, ⛏ 地下",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Cubic": "立方体",
+        "Infernal": "炼狱",
+        "Subterranean": "地下"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

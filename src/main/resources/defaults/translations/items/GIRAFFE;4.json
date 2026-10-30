@@ -1,0 +1,165 @@
+{
+  "schemaVersion": 1,
+  "id": "GIRAFFE;4",
+  "_original_name": "[Lvl {LVL}] Giraffe",
+  "_original_lore": [
+    "Foraging Pet",
+    "",
+    "Health: +{HEALTH}",
+    "Crit Chance: +{CRIT_CHANCE}%",
+    "Swing Range: +{SWING_RANGE}",
+    "",
+    "Good Heart",
+    "Grants +{0} Health Regen",
+    "",
+    "Higher Ground",
+    "Increases your  Crit Damage and",
+    " Strength by {1}% for every",
+    "0.1 Swing Range over 3 (up to",
+    "6)",
+    "",
+    "Long Neck",
+    "Increases your melee damage by",
+    "{2}% if you are more than 3 blocks",
+    "away from the target",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "LEGENDARY PET"
+  ],
+  "name": "[等级 {LVL}] 长颈鹿",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Foraging Pet"
+      ],
+      "translation": "采伐宠物",
+      "styleMappings": {
+        "Foraging Pet": "采伐宠物",
+        "Pet": "宠物",
+        "Foraging": "采伐"
+      }
+    },
+    {
+      "source": [
+        "Health: +{{N0}}"
+      ],
+      "translation": "生命值: +{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Crit Chance: +{{N0}}%"
+      ],
+      "translation": "暴击几率: +{{N0}}%",
+      "styleMappings": {
+        "Crit Chance": "暴击几率"
+      }
+    },
+    {
+      "source": [
+        "Swing Range: +{{N0}}"
+      ],
+      "translation": "攻击范围: +{{N0}}",
+      "styleMappings": {
+        "Swing Range": "攻击范围"
+      }
+    },
+    {
+      "source": [
+        "Good Heart"
+      ],
+      "translation": "善良之心",
+      "styleMappings": {
+        "Good Heart": "善良之心"
+      }
+    },
+    {
+      "source": [
+        "Grants +{{N0}} Health Regen"
+      ],
+      "translation": "提供 +{{N0}} 生命回复",
+      "styleMappings": {
+        "Health Regen": "生命回复",
+        "Grants": "提供",
+        "Health": "生命",
+        "Regen": "回复"
+      }
+    },
+    {
+      "source": [
+        "Higher Ground"
+      ],
+      "translation": "居高临下",
+      "styleMappings": {
+        "Higher Ground": "居高临下"
+      }
+    },
+    {
+      "source": [
+        "Increases your  Crit Damage and",
+        " Strength by {{N0}}% for every",
+        "{{N1}} Swing Range over {{N2}} (up to",
+        "{{N3}})"
+      ],
+      "translation": "每超出 {{N2}} 的 {{N1}} 挥击范围,便使你的  暴击伤害和  力量提高 {{N0}}%(最高 {{N3}})",
+      "styleMappings": {
+        " Crit Damage": " 暴击伤害",
+        "Swing Range": "挥击范围",
+        " Strength": " 力量",
+        "Crit Damage": "暴击伤害",
+        "Strength": "力量",
+        "Damage": "伤害",
+        "Swing": "挥击"
+      }
+    },
+    {
+      "source": [
+        "Long Neck"
+      ],
+      "translation": "长脖子",
+      "styleMappings": {
+        "Long Neck": "长脖子"
+      }
+    },
+    {
+      "source": [
+        "Increases your melee damage by",
+        "{{N0}}% if you are more than {{N1}} blocks",
+        "away from the target"
+      ],
+      "translation": "若你与目标距离超过 {{N1}} 格,则你的近战伤害提高 {{N0}}%",
+      "styleMappings": {
+        "melee damage": "近战伤害",
+        "blocks": "格",
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY PET"
+      ],
+      "translation": "传说 宠物",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Giraffe": "长颈鹿",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

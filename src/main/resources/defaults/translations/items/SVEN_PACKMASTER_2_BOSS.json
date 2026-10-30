@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "SVEN_PACKMASTER_2_BOSS",
+  "_original_name": "Sven Packmaster II (Boss)",
+  "_original_lore": [
+    "Strong",
+    "",
+    "Health: 40,000❤",
+    "Damage: 80 per second",
+    "True damage: 10 per second",
+    "",
+    "Agile",
+    "The wolf is small and fast, making",
+    "it hard to hit.",
+    "",
+    "True Damage",
+    "Ignores your defense. Very painful."
+  ],
+  "name": "斯文狼王 II (首领)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Strong"
+      ],
+      "translation": "强力",
+      "styleMappings": {
+        "Strong": "强力"
+      }
+    },
+    {
+      "source": [
+        "Health: {{N0}}❤"
+      ],
+      "translation": "生命值: {{N0}}❤",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Damage: {{N0}} per second"
+      ],
+      "translation": "伤害: 每秒 {{N0}}",
+      "styleMappings": {
+        "per second": "每秒",
+        "Damage": "伤害",
+        "second": "秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "True damage: {{N0}} per second"
+      ],
+      "translation": "真实伤害: 每秒 {{N0}}",
+      "styleMappings": {
+        "per second": "每秒",
+        "damage": "伤害",
+        "True": "真实",
+        "second": "秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Agile",
+        "The wolf is small and fast, making",
+        "it hard to hit."
+      ],
+      "translation": "敏捷 这只狼又小又快,很难击中.",
+      "styleMappings": {
+        "Agile": "敏捷",
+        "hit": "击中"
+      }
+    },
+    {
+      "source": [
+        "True Damage",
+        "Ignores your defense. Very painful."
+      ],
+      "translation": "真实伤害 无视你的防御.非常痛苦.",
+      "styleMappings": {
+        "True Damage": "真实伤害",
+        "defense": "防御",
+        "Damage": "伤害",
+        "True": "真实"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sven Packmaster": "斯文狼王",
+    "Boss": "首领",
+    "II": "II"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

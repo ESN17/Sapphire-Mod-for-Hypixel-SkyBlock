@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "BLESSED_BAIT",
+  "_original_name": "Blessed Bait",
+  "_original_lore": [
+    "Fishing Bait",
+    "Consumes on Catch",
+    "",
+    "Increases the chance for Treasure",
+    "catches to be GREAT or",
+    "OUTSTANDING by 50%.",
+    "",
+    "UNCOMMON BAIT"
+  ],
+  "name": "祝福鱼饵",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Fishing Bait",
+        "Consumes on Catch"
+      ],
+      "translation": "钓鱼鱼饵 钓起时消耗",
+      "styleMappings": {
+        "Consumes on Catch": "钓起时消耗",
+        "Fishing Bait": "钓鱼鱼饵",
+        "Fishing": "钓鱼",
+        "Bait": "鱼饵"
+      }
+    },
+    {
+      "source": [
+        "Increases the chance for Treasure",
+        "catches to be GREAT or",
+        "OUTSTANDING by {{N0}}."
+      ],
+      "translation": "使宝藏钓获为极佳或卓越的几率提高 {{N0}}.",
+      "styleMappings": {
+        "OUTSTANDING": "卓越",
+        "Treasure": "宝藏",
+        "chance": "几率",
+        "GREAT": "极佳"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON BAIT"
+      ],
+      "translation": "罕见鱼饵",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Blessed": "祝福",
+    "Bait": "鱼饵"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

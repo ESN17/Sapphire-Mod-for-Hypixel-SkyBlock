@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "SEA_GUARDIAN_SC",
+  "_original_name": "Sea Guardian (Sea Creature)",
+  "_original_lore": [
+    "The Sea Guardian is a Common sea creature that",
+    "spawns while fishing after unlocking Fishing level",
+    "V. He is small but powerful. ",
+    "",
+    "Mob Types: ⚓ Aquatic, ♃ Arcane",
+    "❤ Health: 5,000",
+    "",
+    "COMMON"
+  ],
+  "name": "海守卫 (海怪)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Sea Guardian is a Common sea creature that",
+        "spawns while fishing after unlocking Fishing level",
+        "V. He is small but powerful. "
+      ],
+      "translation": "海守卫是一种普通海怪,在解锁钓鱼 V 级后钓鱼时生成.它体型虽小,但实力强大. ",
+      "styleMappings": {
+        "Fishing level V": "钓鱼 V 级",
+        "Guardian": "守卫",
+        "fishing": "钓鱼",
+        "Common": "普通",
+        "Fishing": "钓鱼"
+      }
+    },
+    {
+      "source": [
+        "Mob Types: ⚓ Aquatic, ♃ Arcane"
+      ],
+      "translation": "生物类型: ⚓ 水生, ♃ 奥术",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Aquatic": "水生",
+        "Arcane": "奥术"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sea Creature": "海怪",
+    "Guardian": "守卫",
+    "(Sea Creature)": "(海怪)"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

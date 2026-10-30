@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": "CANDY_CORN",
+  "_original_name": "Candy Corn",
+  "_original_lore": [
+    "Reforge Stone",
+    "Combinable in Anvil",
+    "",
+    "Applies the Candied reforge when",
+    "combined with Armor.",
+    "",
+    "Grants the following stats that scale",
+    "with the item's rarity:",
+    "  Health",
+    "  Defense",
+    "",
+    "Candied Bonus",
+    "Mobs are 1% more likely to drop",
+    "candy during the Spooky Festival.",
+    "",
+    "Right-click to view rarity scaling!",
+    "",
+    "UNCOMMON REFORGE STONE"
+  ],
+  "name": "玉米糖",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Reforge Stone",
+        "Combinable in Anvil"
+      ],
+      "translation": "洗练石 可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Reforge Stone": "洗练石",
+        "Anvil": "铁砧",
+        "Reforge": "洗练"
+      }
+    },
+    {
+      "source": [
+        "Applies the Candied reforge when",
+        "combined with Armor."
+      ],
+      "translation": "与盔甲结合时,应用糖渍洗练.",
+      "styleMappings": {
+        "Candied": "糖渍",
+        "Armor": "盔甲",
+        "reforge": "洗练",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Grants the following stats that scale"
+      ],
+      "translation": "提供以下随物品稀有度提升的属性:",
+      "styleMappings": {
+        "Grants": "提供",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "with the item's rarity:"
+      ],
+      "translation": "物品稀有度提升的属性:",
+      "styleMappings": {
+        "item": "物品",
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "  Health",
+        "  Defense"
+      ],
+      "translation": "   生命值   防御",
+      "styleMappings": {
+        " Defense": " 防御",
+        "Health": "生命值",
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Candied Bonus",
+        "Mobs are {{N0}} more likely to drop",
+        "candy during the Spooky Festival."
+      ],
+      "translation": "糖渍加成 在万圣节活动期间,怪物掉落糖果的概率提高 {{N0}}.",
+      "styleMappings": {
+        "Spooky Festival": "万圣节活动",
+        "Candied Bonus": "糖渍加成",
+        "Mobs": "怪物",
+        "Bonus": "加成",
+        "Spooky": "万圣节",
+        "Candied": "糖渍"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view rarity scaling!"
+      ],
+      "translation": "右键查看各稀有度的属性!",
+      "styleMappings": {
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON REFORGE STONE"
+      ],
+      "translation": "罕见 洗练 石",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

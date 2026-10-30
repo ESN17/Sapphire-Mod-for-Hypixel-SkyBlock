@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "MINING_1_TRAVEL_SCROLL",
+  "_original_name": "Travel Scroll to the Gold Mine",
+  "_original_lore": [
+    "Consume this item to add its",
+    "destination to your Fast Travel",
+    "options.",
+    "",
+    "Island: Gold Mine",
+    "Teleport: Spawn",
+    "",
+    "RARE TRAVEL SCROLL"
+  ],
+  "name": "金矿传送卷轴",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consume this item to add its",
+        "destination to your Fast Travel",
+        "options."
+      ],
+      "translation": "消耗此物品,将其目的地添加到你的快速旅行选项中.",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Island: Gold Mine"
+      ],
+      "translation": "岛屿:金矿",
+      "styleMappings": {
+        "Gold Mine": "金矿",
+        "Island": "岛屿",
+        "Gold": "金"
+      }
+    },
+    {
+      "source": [
+        "Teleport: Spawn"
+      ],
+      "translation": "传送: 生成",
+      "styleMappings": {
+        "Teleport": "传送",
+        "Spawn": "生成"
+      }
+    },
+    {
+      "source": [
+        "RARE TRAVEL SCROLL"
+      ],
+      "translation": "稀有传送卷轴",
+      "styleMappings": {
+        "RARE TRAVEL SCROLL": "稀有传送卷轴",
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Gold Mine": "金矿",
+    "Gold": "金"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

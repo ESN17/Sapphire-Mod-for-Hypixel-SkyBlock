@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "DUECES_BUILDER_CLAY",
+  "_original_name": "The Builder's Clay",
+  "_original_lore": [
+    "A block that was used to build",
+    "the world around you.",
+    "",
+    "To: Eisengolem",
+    "From: [ADMIN] Dueces",
+    "",
+    "Edition #1",
+    "January 2022",
+    "",
+    "This item can be reforged!",
+    "SPECIAL HELMET"
+  ],
+  "name": "建筑师的黏土",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A block that was used to build",
+        "the world around you."
+      ],
+      "translation": "一块曾用于建造你周围世界的方块.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "To: Eisengolem"
+      ],
+      "translation": "收件人: 铁傀儡",
+      "styleMappings": {
+        "Eisengolem": "铁傀儡"
+      }
+    },
+    {
+      "source": [
+        "From: [ADMIN] Dueces"
+      ],
+      "translation": "发件人: [管理员] 杜塞斯",
+      "styleMappings": {
+        "[ADMIN] Dueces": "[管理员] 杜塞斯"
+      }
+    },
+    {
+      "source": [
+        "Edition #{{N0}}",
+        "January {{N1}}"
+      ],
+      "translation": "第 {{N0}} 版 一月 {{N1}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL HELMET"
+      ],
+      "translation": "特殊头盔",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

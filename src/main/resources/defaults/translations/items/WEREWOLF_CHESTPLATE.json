@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "WEREWOLF_CHESTPLATE",
+  "_original_name": "Werewolf Chestplate",
+  "_original_lore": [
+    "Defense: +240",
+    "Ferocity: +10",
+    "Intelligence: +50",
+    "",
+    "Full Set Bonus: Regenerative Howl (0/4)",
+    "Upon activating  Ferocity gain 50",
+    "Defense for 5s (up to 10 stacks).",
+    "",
+    "This item can be reforged!",
+    "LEGENDARY CHESTPLATE"
+  ],
+  "name": "狼人胸甲",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Ferocity: {{N0}}"
+      ],
+      "translation": "残暴值: {{N0}}",
+      "styleMappings": {
+        "Ferocity": "残暴值"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Regenerative Howl ({{N0}}/{{N1}})"
+      ],
+      "translation": "套装奖励:再生嚎叫 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Full Set Bonus: Regenerative Howl": "套装奖励:再生嚎叫",
+        "Full Set Bonus": "套装奖励"
+      }
+    },
+    {
+      "source": [
+        "Upon activating  Ferocity gain {{N0}}",
+        "Defense for {{N1}}s (up to {{N2}} stacks)."
+      ],
+      "translation": "激活 残暴值时获得 {{N0}} 防御,持续 {{N1}} 秒(最多 {{N2}} 层).",
+      "styleMappings": {
+        " Defense": " 防御",
+        "Ferocity": "残暴值",
+        "for": "持续",
+        "Defense": "防御",
+        "{{N1}}s": "{{N1}} 秒",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY CHESTPLATE"
+      ],
+      "translation": "传说 胸甲",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Chestplate": "胸甲"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

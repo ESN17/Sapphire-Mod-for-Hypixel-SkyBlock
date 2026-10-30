@@ -1,0 +1,145 @@
+{
+  "schemaVersion": 1,
+  "id": "VENOMOUS;7",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Venomous VII",
+    "Reduces the target's walk speed by",
+    "20% and deals +2% of your damage",
+    "per second per hit, stacking globally",
+    "up to 40 hits. Lasts 5s.",
+    "",
+    "Sources:",
+    " - Enchantment Table (I-V)",
+    " - Experiments (VI)",
+    " - Bazaar (VI)",
+    " - Fateful Stinger (VII)",
+    "",
+    "Applied To:",
+    " - Sword",
+    " - Longsword",
+    " - Gauntlet",
+    "",
+    "Requirements:",
+    " - Enchanting Level 17",
+    "",
+    "EPIC"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Venomous VII"
+      ],
+      "translation": "剧毒 VII",
+      "styleMappings": {
+        "Venomous": "剧毒"
+      }
+    },
+    {
+      "source": [
+        "Reduces the target's walk speed by",
+        "{{N0}} and deals {{N1}} of your damage",
+        "per second per hit, stacking globally",
+        "up to {{N2}} hits. Lasts {{N3}}s."
+      ],
+      "translation": "使目标行走速度降低 {{N0}},每次命中每秒造成你伤害的 {{N1}},全局叠加最多 {{N2}} 次命中.持续 {{N3}} 秒.",
+      "styleMappings": {
+        "per second": "每秒",
+        "walk speed": "行走速度",
+        "damage": "伤害",
+        "{{N3}}s": "{{N3}} 秒",
+        "speed": "速度",
+        "hit": "命中",
+        "second": "秒",
+        "Lasts": "持续",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchantment Table (I-V)",
+        " - Experiments (VI)",
+        " - Bazaar (VI)",
+        " - Fateful Stinger (VII)"
+      ],
+      "translation": " - 附魔台 (一至五级)  - 实验 (六级)  - 集市 (六级)  - 宿命毒刺 (七级)",
+      "styleMappings": {
+        "Enchantment Table": "附魔台",
+        "Fateful Stinger": "宿命毒刺",
+        "Experiments": "实验",
+        "Bazaar": "集市",
+        "I-V": "一至五级",
+        "VI": "六",
+        "Enchantment": "附魔"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Sword",
+        " - Longsword",
+        " - Gauntlet"
+      ],
+      "translation": " - 剑  - 长剑  - 护手",
+      "styleMappings": {
+        "Sword": "剑",
+        "Longsword": "长剑",
+        "Gauntlet": "护手"
+      }
+    },
+    {
+      "source": [
+        "Requirements:"
+      ],
+      "translation": "需求:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchanting Level {{N0}}"
+      ],
+      "translation": " - 附魔等级 {{N0}}",
+      "styleMappings": {
+        "Enchanting Level": "附魔等级"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

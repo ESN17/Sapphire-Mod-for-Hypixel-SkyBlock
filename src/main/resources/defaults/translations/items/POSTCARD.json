@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "id": "POSTCARD",
+  "_original_name": "Postcard",
+  "_original_lore": [
+    "When placed on your island, it will",
+    "inspire your minions with the belief",
+    "that they too, might one day be given",
+    "the choice to leave if they work",
+    "hard enough.",
+    "",
+    "All minions on your island will work 5%",
+    "faster.",
+    "",
+    "Your Inferno Minion II sent you a",
+    "stunning image featuring a towering",
+    "mountain on a very, very distant",
+    "island.",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "明信片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "When placed on your island, it will",
+        "inspire your minions with the belief",
+        "that they too, might one day be given",
+        "the choice to leave if they work",
+        "hard enough."
+      ],
+      "translation": "放置在你的岛屿上时,它会激励你的仆从,让它们相信只要足够努力,有朝一日或许也能获得离开的选择.",
+      "styleMappings": {
+        "minions": "仆从",
+        "island": "岛屿上"
+      }
+    },
+    {
+      "source": [
+        "All minions on your island will work {{N0}}",
+        "faster."
+      ],
+      "translation": "你岛屿上的所有仆从工作速度提高 {{N0}}.",
+      "styleMappings": {
+        "minions": "仆从",
+        "island": "岛屿上",
+        "work": "工作"
+      }
+    },
+    {
+      "source": [
+        "Your Inferno Minion II sent you a",
+        "stunning image featuring a towering",
+        "mountain on a very, very distant",
+        "island."
+      ],
+      "translation": "你的炼狱仆从 II 给你寄来了一张绝美照片,画面中是一座位于极其遥远岛屿上的高耸山峰.",
+      "styleMappings": {
+        "Inferno Minion II": "炼狱仆从 II",
+        "II": "II",
+        "island": "岛屿上",
+        "Minion": "仆从",
+        "Inferno": "炼狱"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Postcard": "明信片"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

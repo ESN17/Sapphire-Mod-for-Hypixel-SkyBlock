@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "id": "LILY_PAD_GENERATOR_6",
+  "_original_name": "Lily Pad Minion VI",
+  "_original_lore": [
+    "Place this minion and it will start",
+    "generating and harvesting lily pads.",
+    "Requires water nearby. Minions also",
+    "work when you are offline!",
+    "",
+    "Time Between Actions: 29.5s",
+    "Max Storage: 576",
+    "Resources Generated: 0",
+    "",
+    "RARE"
+  ],
+  "name": "睡莲仆从 VI",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Place this minion and it will start",
+        "generating and harvesting lily pads."
+      ],
+      "translation": "放置此仆从后,它会开始生成并采集睡莲.",
+      "styleMappings": {
+        "minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "Requires water nearby. Minions also",
+        "work when you are offline!"
+      ],
+      "translation": "需要附近有水.仆从在你离线时也会工作!",
+      "styleMappings": {
+        "Requires": "需要",
+        "Minions": "仆从",
+        "work": "工作",
+        "when": "时",
+        "water": "水"
+      }
+    },
+    {
+      "source": [
+        "Time Between Actions: {{N0}}s"
+      ],
+      "translation": "行动间隔:{{N0}}秒",
+      "styleMappings": {
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "Max Storage: {{N0}}"
+      ],
+      "translation": "最大存储:{{N0}}",
+      "styleMappings": {
+        "Max": "最大"
+      }
+    },
+    {
+      "source": [
+        "Resources Generated: {{N0}}"
+      ],
+      "translation": "产出资源:{{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Lily Pad Minion": "睡莲仆从",
+    "Minion": "仆从"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

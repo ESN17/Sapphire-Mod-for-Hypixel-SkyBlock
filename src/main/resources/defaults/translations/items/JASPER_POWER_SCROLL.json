@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "JASPER_POWER_SCROLL",
+  "_original_name": "Jasper Power Scroll",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Gain +10 Strength for 5s when using your",
+    "RIGHT CLICK Item Ability.",
+    "",
+    "Can be combined with any item with a RIGHT",
+    "CLICK Item Ability at an anvil.",
+    "",
+    "EPIC"
+  ],
+  "name": "碧玉能量卷轴",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}} Strength for {{N1}}s when using your",
+        "RIGHT CLICK Item Ability."
+      ],
+      "translation": "使用右键点击物品能力时,获得 {{N0}} 力量,持续 {{N1}} 秒。",
+      "styleMappings": {
+        "Item Ability": "物品能力",
+        "RIGHT CLICK": "右键点击",
+        " Strength": " 力量",
+        "Gain": "获得",
+        "for": "持续",
+        "{{N1}}s": "{{N1}} 秒",
+        "Ability": "能力",
+        "Strength": "力量",
+        "Item": "物品",
+        "CLICK": "点击",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Can be combined with any item with a RIGHT",
+        "CLICK Item Ability at an anvil."
+      ],
+      "translation": "可在铁砧中与任何拥有右键点击物品能力的物品合成.",
+      "styleMappings": {
+        "item": "物品",
+        "RIGHT CLICK": "右键点击",
+        "Item Ability": "物品能力",
+        "anvil": "铁砧",
+        "Ability": "能力",
+        "Item": "物品",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Jasper": "碧玉"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

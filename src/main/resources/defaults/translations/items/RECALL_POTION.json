@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "RECALL_POTION",
+  "_original_name": "Recall Potion",
+  "_original_lore": [
+    "A mystical and glowing elixir imbued",
+    "with special abilities from another",
+    "dimension.",
+    "",
+    "Ability: Ancient Recall  RIGHT CLICK",
+    "When in the Crystal Hollows allows you to save",
+    "and warp back to a saved location.",
+    "",
+    "EPIC"
+  ],
+  "name": "回溯药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A mystical and glowing elixir imbued",
+        "with special abilities from another",
+        "dimension."
+      ],
+      "translation": "一瓶蕴含异次元特殊能力的神秘发光药剂.",
+      "styleMappings": {
+        "special": "特殊"
+      }
+    },
+    {
+      "source": [
+        "Ability: Ancient Recall  RIGHT CLICK"
+      ],
+      "translation": "能力:远古回溯  右键点击",
+      "styleMappings": {
+        "Ancient Recall": "远古回溯",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "能力",
+        "Ancient": "远古",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "When in the Crystal Hollows allows you to save",
+        "and warp back to a saved location."
+      ],
+      "translation": "在水晶洞窟中时,允许你保存并传送回已保存的位置.",
+      "styleMappings": {
+        "Crystal Hollows": "水晶洞窟",
+        "saved location": "已保存的位置",
+        "warp": "传送",
+        "Crystal": "水晶",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

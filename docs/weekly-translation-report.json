@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-21",
+  "features": {
+    "scoreboard": "复用 344 条地名词典，处理额外图标、不可见字符和大小写；保留时间原样",
+    "auction_and_bazaar": "补充成交、出价、领取、托管、取消、限制与失败提示；保留玩家名、金额和交互样式",
+    "in_game_editor": "/sapphire → 修改翻译，或 /sapphire edit；搜索、修改、新建、保存重载与自动备份",
+    "mining_events": "矮人矿洞、水晶洞窟/核心、冰晶隧道的活动、委托、寒冷、尸体和奖励提示",
+    "tablist": "渲染时翻译行、页眉和页脚；跳过真实玩家名",
+    "pet_items": "携带物品标题、名称与效果，复用物品 ID 对应词典",
+    "enchantments": "修复效果行被误识别为附魔标题的问题，覆盖 763 级附魔效果样例",
+    "deepseek_revision": "以既有中文为基础校对全部 8937 项物品，16851 个去重名称/说明单元；保留 NPC 名、命令、网址及数值记号"
+  },
+  "coverage": {
+    "items": 8937,
+    "revised_units": 16851,
+    "system_rules": 890,
+    "tab_labels": 100,
+    "locations": 344,
+    "enchantment_level_fixtures": 763,
+    "pet_item_fixtures": 42
+  },
+  "neu": {
+    "revision": "20a302457375ddfd7005e192486ac86781729b0a",
+    "added": [],
+    "changed": [
+      "ENCHANTED_SHEARS.json",
+      "ENSNARED_SNAIL.json",
+      "OBSCURE_ENDING.json",
+      "REINFORCED_CHISEL.json",
+      "SCORCHED_POWER_CRYSTAL.json",
+      "SOLAR_PANEL.json",
+      "TYASHOI_ALCHEMIST_NPC.json",
+      "VARGUL_NPC.json",
+      "WET_PUMPKIN.json"
+    ],
+    "removed": []
+  },
+  "validation": {
+    "tests": {
+      "tests": 436,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 1
+    },
+    "style_audit_failures": 0,
+    "content_audit_failures": 0,
+    "effect_fixture_gaps": 0,
+    "credential_scan_matches": 0,
+    "offline_smokes": {
+      "client": "build/sapphire-release-smoke-20261021/logs/latest.log",
+      "editor_ui": "build/sapphire-release-ui-20261021/logs/latest.log"
+    }
+  },
+  "api_usage_tokens": {
+    "prompt_tokens": 2696106,
+    "completion_tokens": 1045436,
+    "total_tokens": 3741542,
+    "prompt_cache_hit_tokens": 219114,
+    "prompt_cache_miss_tokens": 2476992
+  },
+  "artifact": {
+    "path": "D:\\Sapphire-source\\build\\libs\\sapphire-1.0.0.jar",
+    "bytes": 8770582,
+    "sha256": "f7f560fba1bc0aac386347e1ce357a9b07f7930acf66b8d470b62de042fc2f75"
+  },
+  "sources": [
+    "https://github.com/NotEnoughUpdates/NotEnoughUpdates-REPO/tree/20a302457375ddfd7005e192486ac86781729b0a",
+    "https://github.com/hannibal002/SkyHanni/blob/beta/src/main/java/at/hannibal2/skyhanni/features/chat/ChatFilter.kt",
+    "https://github.com/hannibal002/SkyHanni/blob/beta/src/main/java/at/hannibal2/skyhanni/features/chat/ShortenCoins.kt",
+    "https://github.com/hannibal002/SkyHanni/blob/beta/src/main/java/at/hannibal2/skyhanni/features/inventory/bazaar/BazaarOrderApi.kt",
+    "https://github.com/hannibal002/SkyHanni/blob/beta/src/main/java/at/hannibal2/skyhanni/features/mining/eventtracker/MiningEventTracker.kt",
+    "https://github.com/hannibal002/SkyHanni/blob/beta/src/main/java/at/hannibal2/skyhanni/data/model/TabWidget.kt"
+  ],
+  "limits": [
+    "系统提示覆盖已查到的公开句式及兼容变体，不等于已进入服务器逐条触发验证。",
+    "审计中 50 条自定义旧模板缺少对应的公开彩色原文，使用纯文本校验；其余按现有 NEU 彩色样例验证。",
+    "玩家自己修改过的旧词典不会被自动升级覆盖。"
+  ]
+}

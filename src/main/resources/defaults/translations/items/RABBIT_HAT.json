@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "id": "RABBIT_HAT",
+  "_original_name": "Rabbit Hat",
+  "_original_lore": [
+    "Intelligence: +5",
+    "Speed: +5",
+    "",
+    "Grants Jump Boost IV while equipped.",
+    "",
+    "This item can be reforged!",
+    "UNCOMMON HELMET"
+  ],
+  "name": "兔子帽",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Grants Jump Boost IV while equipped."
+      ],
+      "translation": "装备时获得跳跃提升 IV.",
+      "styleMappings": {
+        "Jump Boost IV": "跳跃提升 IV",
+        "Grants": "获得",
+        "equipped": "装备"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON HELMET"
+      ],
+      "translation": "罕见 头盔",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Rabbit": "兔子",
+    "Rabbit Hat": "兔子帽"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

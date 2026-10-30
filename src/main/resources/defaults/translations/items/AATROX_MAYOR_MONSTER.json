@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "AATROX_MAYOR_MONSTER",
+  "_original_name": "Aatrox (Mayor)",
+  "_original_lore": [
+    "Candidate",
+    "",
+    "Slayer XP Buff",
+    "Earn 25% more Slayer XP.",
+    "",
+    "Pathfinder",
+    "Gain rare drops 20% more",
+    "often.",
+    "",
+    "SLASHED Pricing",
+    "Starting slayer quests is",
+    "half price."
+  ],
+  "name": "Aatrox (市长)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Candidate"
+      ],
+      "translation": "候选人",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Slayer XP Buff",
+        "Earn {{N0}} more Slayer XP."
+      ],
+      "translation": "杀手经验加成 获得 {{N0}} 更多杀手经验.",
+      "styleMappings": {
+        "Slayer XP Buff": "杀手经验加成",
+        "Slayer XP": "杀手经验",
+        "more": "更多",
+        "Slayer": "杀手"
+      }
+    },
+    {
+      "source": [
+        "Pathfinder",
+        "Gain rare drops {{N0}} more",
+        "often."
+      ],
+      "translation": "探路者 稀有掉落物获取概率提高 {{N0}}.",
+      "styleMappings": {
+        "Pathfinder": "探路者",
+        "rare": "稀有"
+      }
+    },
+    {
+      "source": [
+        "SLASHED Pricing",
+        "Starting slayer quests is",
+        "half price."
+      ],
+      "translation": "半价定价 开启猎手任务只需半价.",
+      "styleMappings": {
+        "SLASHED Pricing": "半价定价",
+        "half price": "半价"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mayor": "市长"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

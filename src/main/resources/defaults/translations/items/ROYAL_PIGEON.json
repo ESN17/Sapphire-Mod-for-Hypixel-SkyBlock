@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "id": "ROYAL_PIGEON",
+  "_original_name": "Royal Pigeon",
+  "_original_lore": [
+    "Ability: Seek the King  RIGHT CLICK",
+    "Reach out to the King and open the",
+    "Commissions menu.",
+    "Cooldown: 5s",
+    "",
+    "* Co-op Soulbound *",
+    "LEGENDARY"
+  ],
+  "name": "皇家鸽子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Seek the King  RIGHT CLICK"
+      ],
+      "translation": "技能: 寻找国王  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Reach out to the King and open the",
+        "Commissions menu."
+      ],
+      "translation": "联系国王并打开委托菜单.",
+      "styleMappings": {
+        "Commissions": "委托"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Royal": "皇家"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

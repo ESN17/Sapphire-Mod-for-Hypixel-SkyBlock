@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_RESISTANCE;8",
+  "_original_name": "Resistance VIII Potion",
+  "_original_lore": [
+    "",
+    "Resistance VIII (3:00)",
+    "Increases  Defense by +60.",
+    "",
+    "EPIC"
+  ],
+  "name": "抗性 VIII 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Resistance VIII ({{N0}}:{{N1}})"
+      ],
+      "translation": "抗性 VIII ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Resistance VIII": "抗性 VIII",
+        "Resistance": "抗性"
+      }
+    },
+    {
+      "source": [
+        "Increases  Defense by {{N0}}."
+      ],
+      "translation": "增加  防御力 {{N0}}.",
+      "styleMappings": {
+        "Increases": "增加",
+        " Defense": " 防御",
+        "Defense": "防御力"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Resistance VIII": "抗性 VIII",
+    "Resistance": "抗性"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

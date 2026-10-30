@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "CAULDRON",
+  "_original_name": "Cauldron",
+  "_original_lore": [
+    "Furniture",
+    "Halloween Cosmetic",
+    "",
+    "This exclusive Halloween cosmetic",
+    "can be placed on your island or",
+    "traded.",
+    "",
+    "COMMON"
+  ],
+  "name": "炼药锅",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Furniture",
+        "Halloween Cosmetic"
+      ],
+      "translation": "家具 万圣节装饰",
+      "styleMappings": {
+        "Furniture": "家具",
+        "Halloween": "万圣节"
+      }
+    },
+    {
+      "source": [
+        "This exclusive Halloween cosmetic",
+        "can be placed on your island or",
+        "traded."
+      ],
+      "translation": "这款专属万圣节装饰可放置在你的岛屿上或进行交易.",
+      "styleMappings": {
+        "Halloween": "万圣节",
+        "island": "岛屿上"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

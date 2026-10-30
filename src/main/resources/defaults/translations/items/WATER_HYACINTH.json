@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "id": "WATER_HYACINTH",
+  "_original_name": "Water Hyacinth",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "When applied to armor, increases its",
+    "Forest Pledge level by 1!",
+    "Can be applied once.",
+    "Requires Forest Pledge V!",
+    "",
+    "The Torrid is born when a water",
+    "hyacinth blooms for the first time.",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "水葫芦",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "When applied to armor, increases its",
+        "Forest Pledge level by {{N0}}!"
+      ],
+      "translation": "应用于盔甲时,将其森林誓约等级提高 {{N0}}!",
+      "styleMappings": {
+        "Forest Pledge": "森林誓约",
+        "Forest": "森林"
+      }
+    },
+    {
+      "source": [
+        "Can be applied once."
+      ],
+      "translation": "只能应用一次.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Requires Forest Pledge V!"
+      ],
+      "translation": "需要森林誓约 V!",
+      "styleMappings": {
+        "Forest Pledge V": "森林誓约 V",
+        "Requires": "需要",
+        "Forest": "森林",
+        "Forest Pledge": "森林誓约"
+      }
+    },
+    {
+      "source": [
+        "The Torrid is born when a water",
+        "hyacinth blooms for the first time."
+      ],
+      "translation": "当水葫芦第一次绽放时,炽热者便诞生了.",
+      "styleMappings": {
+        "when": "时",
+        "water": "水"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Water Hyacinth": "水葫芦"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

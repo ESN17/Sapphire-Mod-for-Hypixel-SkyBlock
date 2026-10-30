@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "SAULS_RECOMMENDATION",
+  "_original_name": "Saul's Recommendation",
+  "_original_lore": [
+    "Give this letter to Mort to",
+    "gain access to enter The",
+    "Catacombs on your own!",
+    "",
+    "* Soulbound *",
+    "LEGENDARY"
+  ],
+  "name": "索尔的推荐信",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Give this letter to Mort to",
+        "gain access to enter The",
+        "Catacombs on your own!"
+      ],
+      "translation": "将这封信交给 Mort,即可自行进入 地牢!",
+      "styleMappings": {
+        "The Catacombs": "地牢",
+        "Catacombs": "地牢"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

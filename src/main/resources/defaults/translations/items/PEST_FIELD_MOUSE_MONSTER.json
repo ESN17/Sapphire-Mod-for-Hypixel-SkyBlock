@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "PEST_FIELD_MOUSE_MONSTER",
+  "_original_name": "Field Mouse (Pest)",
+  "_original_lore": [
+    "A shy little fellow!",
+    "",
+    "❤ Health: 600"
+  ],
+  "name": "田鼠 (害虫)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A shy little fellow!"
+      ],
+      "translation": "一只害羞的小家伙!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Pest": "害虫"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

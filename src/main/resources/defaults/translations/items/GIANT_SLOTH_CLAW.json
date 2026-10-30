@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "GIANT_SLOTH_CLAW",
+  "_original_name": "Giant Sloth Claw",
+  "_original_lore": [
+    "Use at Kat to upgrade Sloth Pets",
+    "from Epic to Legendary.",
+    "",
+    "LEGENDARY PET ITEM"
+  ],
+  "name": "巨型树懒爪",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Use at Kat to upgrade Sloth Pets",
+        "from Epic to Legendary."
+      ],
+      "translation": "在 Kat 处使用,可将树懒宠物从史诗升级为传说.",
+      "styleMappings": {
+        "Sloth Pets": "树懒宠物",
+        "Legendary": "传说",
+        "upgrade": "升级",
+        "Epic": "史诗",
+        "Kat": "Kat",
+        "Pets": "宠物",
+        "Sloth": "树懒"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY PET ITEM"
+      ],
+      "translation": "传说 宠物物品",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Giant": "巨型",
+    "Sloth": "树懒"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

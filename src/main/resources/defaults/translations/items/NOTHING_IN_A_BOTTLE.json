@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "NOTHING_IN_A_BOTTLE",
+  "_original_name": "Nothing-in-a-Bottle",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "An empty bottle. Something in the",
+    "back of your mind tells you it would",
+    "be really useful to store a Scatha in",
+    "it.",
+    "",
+    "Yep, looks like nothing's in there.",
+    "Who'd have thought?",
+    "",
+    "X Rift-Transferable X",
+    "UNCOMMON"
+  ],
+  "name": "瓶中无物",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "An empty bottle. Something in the",
+        "back of your mind tells you it would",
+        "be really useful to store a Scatha in",
+        "it."
+      ],
+      "translation": "一个空瓶子.你脑海深处有个声音告诉你,用它来装一只史卡沙会非常有用.",
+      "styleMappings": {
+        "Scatha": "史卡沙"
+      }
+    },
+    {
+      "source": [
+        "Yep, looks like nothing's in there."
+      ],
+      "translation": "没错,看起来里面什么都没有.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Who'd have thought?"
+      ],
+      "translation": "谁能想到呢?",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "X Rift-Transferable X"
+      ],
+      "translation": "X 可转移至裂隙 X",
+      "styleMappings": {
+        "Rift-Transferable": "可转移至裂隙",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

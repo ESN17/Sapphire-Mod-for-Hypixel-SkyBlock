@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "ATTRIBUTE_SHARD_ATOMIZED_GLACITE;1",
+  "_original_name": "Stalagmight Shard",
+  "_original_lore": [
+    "Atomized Glacite I",
+    "Gain +1% extra Glacite Powder.",
+    "",
+    "You can Syphon this shard from",
+    "your Hunting Box.",
+    "",
+    "Right-click to send to Hunting Box!",
+    "Shift Right-click to move all!",
+    "",
+    "❣ Requires Hunting Skill 10.",
+    "RARE COMBAT SHARD (ID R51)"
+  ],
+  "name": "石笋巨力碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Atomized Glacite I"
+      ],
+      "translation": "原子化冰川石 I",
+      "styleMappings": {
+        "Atomized Glacite": "原子化冰川石",
+        "I": "I"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}} extra Glacite Powder."
+      ],
+      "translation": "额外获得 {{N0}} 冰川粉末.",
+      "styleMappings": {
+        "Glacite Powder": "冰川粉末",
+        "Gain": "获得",
+        "Glacite": "冰川",
+        "Powder": "粉末"
+      }
+    },
+    {
+      "source": [
+        "You can Syphon this shard from",
+        "your Hunting Box."
+      ],
+      "translation": "你可以从狩猎箱中吸取此碎片.",
+      "styleMappings": {
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to send to Hunting Box!"
+      ],
+      "translation": "右键点击发送至狩猎箱!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Shift Right-click to move all!"
+      ],
+      "translation": "潜行键 右键点击全部移动!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "all": "全部"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Hunting Skill {{N0}}."
+      ],
+      "translation": "❣ 需要狩猎技能 {{N0}}.",
+      "styleMappings": {
+        "Hunting Skill": "狩猎技能",
+        "Requires": "需要",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "RARE COMBAT SHARD (ID R{{N0}})"
+      ],
+      "translation": "稀有战斗碎片 (ID R{{N0}})",
+      "styleMappings": {
+        "RARE": "稀有",
+        "COMBAT SHARD": "战斗碎片"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shard": "碎片"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

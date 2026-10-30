@@ -1,0 +1,253 @@
+{
+  "schemaVersion": 1,
+  "id": "MAGIC_8_BALL",
+  "_original_name": "Magic 8 Ball",
+  "_original_lore": [
+    "Farming Fortune: +50",
+    "Farming Wisdom: +1",
+    "Accessory Power: +12",
+    "",
+    "Every SkyBlock Season, the Magic 8",
+    "Ball will grant one of the following",
+    "bonuses:",
+    "",
+    "✦ It is certain.",
+    "    +25 Farming Fortune",
+    "    +1☯ Farming Wisdom",
+    "✧ Reply hazy, try again.",
+    "    +25 Foraging Fortune",
+    "    +1☯ Foraging Wisdom",
+    "✧ Don't count on it.",
+    "    +25 Mining Fortune",
+    "    +1☯ Mining Wisdom",
+    "✧ As I see it, yes.",
+    "    +25 Fishing Speed",
+    "    +1☯ Fishing Wisdom",
+    "✧ My sources say no.",
+    "    +25 Strength",
+    "    +1☯ Combat Wisdom",
+    "",
+    "Works while in Accessory Bag!",
+    "EPIC ACCESSORY"
+  ],
+  "name": "魔法 8 球",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Farming Fortune: {{N0}}"
+      ],
+      "translation": "农业幸运: {{N0}}",
+      "styleMappings": {
+        "Farming Fortune": "农业幸运",
+        "Fortune": "幸运",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "Farming Wisdom: {{N0}}"
+      ],
+      "translation": "农业智慧: {{N0}}",
+      "styleMappings": {
+        "Farming Wisdom": "农业智慧",
+        "Wisdom": "智慧",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "Accessory Power: {{N0}}"
+      ],
+      "translation": "饰品能量: {{N0}}",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "Every SkyBlock Season, the Magic {{N0}}",
+        "Ball will grant one of the following",
+        "bonuses:"
+      ],
+      "translation": "每个空岛生存季节,魔法 {{N0}} 球会提供以下一种加成:",
+      "styleMappings": {
+        "SkyBlock Season": "空岛生存季节",
+        "Magic {{N0}} Ball": "魔法 {{N0}} 球"
+      }
+    },
+    {
+      "source": [
+        "✦ It is certain."
+      ],
+      "translation": "✦ 肯定如此.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "    {{N0}} Farming Fortune"
+      ],
+      "translation": "    {{N0}} 农业幸运",
+      "styleMappings": {
+        "Farming Fortune": "农业幸运",
+        "Fortune": "幸运",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "    {{N0}}☯ Farming Wisdom"
+      ],
+      "translation": "    {{N0}}☯ 农业智慧",
+      "styleMappings": {
+        "Farming Wisdom": "农业智慧",
+        "Wisdom": "智慧",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "✧ Reply hazy, try again."
+      ],
+      "translation": "✧ 答案模糊,再试一次.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "    {{N0}} Foraging Fortune"
+      ],
+      "translation": "    {{N0}} 采伐幸运",
+      "styleMappings": {
+        "Foraging Fortune": "采伐幸运",
+        " Foraging Fortune": " 采伐幸运",
+        "Fortune": "幸运",
+        "Foraging": "采伐"
+      }
+    },
+    {
+      "source": [
+        "    {{N0}}☯ Foraging Wisdom"
+      ],
+      "translation": "    {{N0}}☯ 采伐智慧",
+      "styleMappings": {
+        "Foraging Wisdom": "采伐智慧",
+        "☯ Foraging Wisdom": "☯ 采伐智慧",
+        "Wisdom": "智慧",
+        "Foraging": "采伐"
+      }
+    },
+    {
+      "source": [
+        "✧ Don't count on it."
+      ],
+      "translation": "✧ 别指望了.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "    {{N0}} Mining Fortune"
+      ],
+      "translation": "    {{N0}} 采矿幸运",
+      "styleMappings": {
+        "Mining Fortune": "采矿幸运",
+        "Mining": "采矿",
+        "Fortune": "幸运",
+        " Mining Fortune": " 采矿幸运"
+      }
+    },
+    {
+      "source": [
+        "    {{N0}}☯ Mining Wisdom"
+      ],
+      "translation": "    {{N0}}☯ 采矿智慧",
+      "styleMappings": {
+        "Mining Wisdom": "采矿智慧",
+        "Mining": "采矿",
+        "Wisdom": "智慧"
+      }
+    },
+    {
+      "source": [
+        "✧ As I see it, yes."
+      ],
+      "translation": "✧ 依我看,是的.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "    {{N0}} Fishing Speed"
+      ],
+      "translation": "    {{N0}} 钓鱼速度",
+      "styleMappings": {
+        "Fishing Speed": "钓鱼速度",
+        "Fishing": "钓鱼",
+        "Speed": "速度",
+        " Fishing Speed": " 钓鱼速度"
+      }
+    },
+    {
+      "source": [
+        "    {{N0}}☯ Fishing Wisdom"
+      ],
+      "translation": "    {{N0}}☯ 钓鱼智慧",
+      "styleMappings": {
+        "Fishing Wisdom": "钓鱼智慧",
+        "Fishing": "钓鱼",
+        "Wisdom": "智慧"
+      }
+    },
+    {
+      "source": [
+        "✧ My sources say no."
+      ],
+      "translation": "✧ 我的消息说不行.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "    {{N0}} Strength"
+      ],
+      "translation": "    {{N0}} 力量",
+      "styleMappings": {
+        "Strength": "力量",
+        " Strength": " 力量"
+      }
+    },
+    {
+      "source": [
+        "    {{N0}}☯ Combat Wisdom"
+      ],
+      "translation": "    {{N0}}☯ 战斗智慧",
+      "styleMappings": {
+        "Combat Wisdom": "战斗智慧",
+        "Combat": "战斗",
+        "Wisdom": "智慧"
+      }
+    },
+    {
+      "source": [
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "放在饰品袋中即可生效!",
+      "styleMappings": {
+        "Accessory Bag": "饰品袋",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "EPIC ACCESSORY"
+      ],
+      "translation": "史诗饰品",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Magic {{N0}} Ball": "魔法 {{N0}} 球"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

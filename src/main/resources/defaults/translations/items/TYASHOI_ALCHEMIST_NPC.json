@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "TYASHOI_ALCHEMIST_NPC",
+  "_original_name": "Tyashoi Alchemist (NPC)",
+  "_original_lore": [
+    "Only appears during The Great Spook",
+    "in October."
+  ],
+  "name": "Tyashoi Alchemist (人物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Only appears during Great Spook in October."
+      ],
+      "translation": "仅在十月的大万圣节期间出现.",
+      "styleMappings": {
+        "Great Spook": "大万圣节"
+      }
+    },
+    {
+      "source": [
+        "Only appears during The Great Spook in October."
+      ],
+      "translation": "仅在十月的大万圣节期间出现.",
+      "styleMappings": {
+        "Great Spook": "大万圣节",
+        "The Great Spook": "大万圣节",
+        "October": "十月"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Alchemist": "Alchemist",
+    "(NPC)": "(人物)",
+    "Tyashoi": "Tyashoi"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

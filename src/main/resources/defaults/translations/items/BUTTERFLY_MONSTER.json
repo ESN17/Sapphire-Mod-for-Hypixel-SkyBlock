@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "BUTTERFLY_MONSTER",
+  "_original_name": "Butterfly (Monster)",
+  "_original_lore": [
+    "Beautiful critters that",
+    "around harmlessly in Fairy",
+    "regions",
+    "",
+    "Mob Types: ♃ Arcane, ✈ Airborne, ⛏ Subterranean",
+    "❤ Health: 100"
+  ],
+  "name": "蝴蝶 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Beautiful critters that",
+        "around harmlessly in Fairy",
+        "regions"
+      ],
+      "translation": "在仙灵区域无害地四处飞舞的美丽小生物",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Mob Types: ♃ Arcane, ✈ Airborne, ⛏ Subterranean"
+      ],
+      "translation": "生物类型: ♃ 奥术, ✈ 空中, ⛏ 地下",
+      "styleMappings": {
+        "Subterranean": "地下",
+        "Mob Types:": "生物类型:",
+        "Airborne": "空中",
+        "Arcane": "奥术"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

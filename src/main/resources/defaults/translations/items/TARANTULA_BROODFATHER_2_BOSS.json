@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "TARANTULA_BROODFATHER_2_BOSS",
+  "_original_name": "Tarantula Broodfather II (Boss)",
+  "_original_lore": [
+    "Strong",
+    "",
+    "Health: 30,000❤",
+    "Damage: 55 per second",
+    "",
+    "Backstab",
+    "Occasionally leaps behind you. Attacks",
+    "from behind deal +30% Damage.",
+    "",
+    "Noxious Paralysis",
+    "Reduces your  Vitality by 15% and ",
+    "Speed by 10%."
+  ],
+  "name": "狼蛛育母 II (首领)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Strong"
+      ],
+      "translation": "强力",
+      "styleMappings": {
+        "Strong": "强力"
+      }
+    },
+    {
+      "source": [
+        "Health: {{N0}}❤"
+      ],
+      "translation": "生命值: {{N0}}❤",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Damage: {{N0}} per second"
+      ],
+      "translation": "伤害: 每秒 {{N0}}",
+      "styleMappings": {
+        "per second": "每秒",
+        "Damage": "伤害",
+        "second": "秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Backstab"
+      ],
+      "translation": "背刺",
+      "styleMappings": {
+        "Backstab": "背刺"
+      }
+    },
+    {
+      "source": [
+        "Occasionally leaps behind you. Attacks",
+        "from behind deal {{N0}} Damage."
+      ],
+      "translation": "偶尔跃至你身后.从背后发起的攻击造成 {{N0}} 伤害.",
+      "styleMappings": {
+        "deal": "造成",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Noxious Paralysis"
+      ],
+      "translation": "剧毒麻痹",
+      "styleMappings": {
+        "Noxious Paralysis": "剧毒麻痹"
+      }
+    },
+    {
+      "source": [
+        "Reduces your  Vitality by {{N0}} and ",
+        "Speed by {{N1}}."
+      ],
+      "translation": "使你的  生命恢复降低 {{N0}}, 速度降低 {{N1}}.",
+      "styleMappings": {
+        "Vitality": "生命恢复",
+        "Speed": "速度",
+        " Speed": " 速度"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Tarantula": "狼蛛",
+    "Boss": "首领",
+    "II": "II",
+    "Tarantula Broodfather": "狼蛛育母"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

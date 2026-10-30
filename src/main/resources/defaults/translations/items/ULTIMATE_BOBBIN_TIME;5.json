@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 1,
+  "id": "ULTIMATE_BOBBIN_TIME;5",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Bobbin' Time V",
+    "Increases all Fishing Stats and  Magic Find by",
+    "1.0% per fishing bobber within 30 blocks, up to",
+    "5 bobbers.",
+    "",
+    "You can only have 1 Ultimate",
+    "Enchantment on an item!",
+    "",
+    "Sources:",
+    " - Fishing (III)",
+    " - Bazaar (III-V)",
+    "",
+    "Applied To:",
+    " - Armor",
+    "",
+    "Requirements:",
+    " - Enchanting Level 24",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Bobbin' Time V"
+      ],
+      "translation": "浮漂时刻 V",
+      "styleMappings": {
+        "Bobbin' Time": "浮漂时刻",
+        "Bobbin' Time V": "浮漂时刻 V"
+      }
+    },
+    {
+      "source": [
+        "Increases all Fishing Stats and  Magic Find by",
+        "{{N0}} per fishing bobber within {{N1}} blocks, up to",
+        "{{N2}} bobbers."
+      ],
+      "translation": "使 {{N1}} 格内每个钓鱼浮漂提升所有钓鱼属性和  稀有物品概率加成 {{N0}},最多 {{N2}} 个浮漂.",
+      "styleMappings": {
+        "Fishing Stats": "钓鱼属性",
+        " Magic Find": " 稀有物品概率加成",
+        "{{N1}} blocks": "{{N1}} 格",
+        "blocks": "格",
+        "Fishing": "钓鱼",
+        "Magic Find": "稀有物品概率加成",
+        "fishing": "钓鱼",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "You can only have {{N0}} Ultimate",
+        "Enchantment on an item!"
+      ],
+      "translation": "一件物品上只能拥有 {{N0}} 个终极附魔!",
+      "styleMappings": {
+        "Ultimate Enchantment": "终极附魔",
+        "item": "物品",
+        "Enchantment": "附魔"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Fishing (III)",
+        " - Bazaar (III-V)"
+      ],
+      "translation": " - 钓鱼 (III)  - 集市 (III至V)",
+      "styleMappings": {
+        "Fishing": "钓鱼",
+        "Bazaar": "集市",
+        "III": "III"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Armor"
+      ],
+      "translation": " - 盔甲",
+      "styleMappings": {
+        "Armor": "盔甲"
+      }
+    },
+    {
+      "source": [
+        "Requirements:"
+      ],
+      "translation": "需求:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchanting Level {{N0}}"
+      ],
+      "translation": " - 附魔等级 {{N0}}",
+      "styleMappings": {
+        "Enchanting Level": "附魔等级"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

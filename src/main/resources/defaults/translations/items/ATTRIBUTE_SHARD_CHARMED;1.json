@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "ATTRIBUTE_SHARD_CHARMED;1",
+  "_original_name": "Naga Shard",
+  "_original_lore": [
+    "Charmed I",
+    "Grants +0.05 ❣ Charm Chance.",
+    "",
+    "You can Syphon this shard from",
+    "your Hunting Box.",
+    "",
+    "Right-click to send to Hunting Box!",
+    "Shift Right-click to move all!",
+    "",
+    "❣ Requires Hunting Skill 20.",
+    "LEGENDARY WATER SHARD (ID L11)"
+  ],
+  "name": "娜迦碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Charmed I"
+      ],
+      "translation": "魅惑 I",
+      "styleMappings": {
+        "I": "I"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} ❣ Charm Chance."
+      ],
+      "translation": "获得 {{N0}} ❣ 魅惑几率.",
+      "styleMappings": {
+        "Grants": "获得",
+        "Charm Chance": "魅惑几率"
+      }
+    },
+    {
+      "source": [
+        "You can Syphon this shard from",
+        "your Hunting Box."
+      ],
+      "translation": "你可以从狩猎箱中吸取此碎片.",
+      "styleMappings": {
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to send to Hunting Box!"
+      ],
+      "translation": "右键点击发送至狩猎箱!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Shift Right-click to move all!"
+      ],
+      "translation": "潜行键 右键点击全部移动!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "all": "全部"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Hunting Skill {{N0}}."
+      ],
+      "translation": "❣ 需要狩猎技能 {{N0}}.",
+      "styleMappings": {
+        "Hunting Skill": "狩猎技能",
+        "Requires": "需要",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY WATER SHARD (ID L{{N0}})"
+      ],
+      "translation": "传说水域碎片 (ID L{{N0}})",
+      "styleMappings": {
+        "LEGENDARY WATER SHARD": "传说水域碎片",
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shard": "碎片"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

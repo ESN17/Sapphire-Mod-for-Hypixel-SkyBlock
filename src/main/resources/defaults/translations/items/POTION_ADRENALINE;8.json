@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_ADRENALINE;8",
+  "_original_name": "Adrenaline VIII Potion",
+  "_original_lore": [
+    "",
+    "Adrenaline VIII (3:00)",
+    "Grants +300 of absorption and +40",
+    " Speed.",
+    "",
+    "EPIC"
+  ],
+  "name": "肾上腺素 VIII 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Adrenaline VIII ({{N0}}:{{N1}})"
+      ],
+      "translation": "肾上腺素 VIII ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Adrenaline VIII": "肾上腺素 VIII"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} of absorption and {{N1}}",
+        " Speed."
+      ],
+      "translation": "提供 {{N0}} 点伤害吸收和 {{N1}}  速度.",
+      "styleMappings": {
+        " Speed": " 速度",
+        "Grants": "提供",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Adrenaline VIII": "肾上腺素 VIII"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

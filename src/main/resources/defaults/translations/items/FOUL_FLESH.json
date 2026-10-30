@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "FOUL_FLESH",
+  "_original_name": "Foul Flesh",
+  "_original_lore": [
+    "Minion Fuel",
+    "Brewing Ingredient",
+    "",
+    "Increases the speed of",
+    "your minion by 90% for 5",
+    "hours!",
+    "",
+    "RARE"
+  ],
+  "name": "腐肉",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Minion Fuel",
+        "Brewing Ingredient"
+      ],
+      "translation": "仆从燃料 酿造材料",
+      "styleMappings": {
+        "Brewing Ingredient": "酿造材料",
+        "Minion Fuel": "仆从燃料",
+        "Fuel": "燃料",
+        "Minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "Increases the speed of",
+        "your minion by {{N0}} for {{N1}}",
+        "hours!"
+      ],
+      "translation": "仆从的工作速度提高 {{N0}},持续 {{N1}} 小时!",
+      "styleMappings": {
+        "minion": "仆从",
+        "speed": "速度",
+        "for": "持续",
+        "hours": "小时"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Foul Flesh": "腐肉"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "RAINY_DAY_RUNE;3",
+  "_original_name": "◆ Rainy Day Rune III",
+  "_original_lore": [
+    "Requires level 0",
+    "Helmet",
+    "",
+    "Nothin' like a rainy summer day.",
+    "Lightning included. Obtained from the",
+    "Taylor 2024 Summer Bundle.",
+    "",
+    "Apply this rune to helmet or fuse",
+    "two together at the Runic Pedestal!",
+    "",
+    "LEGENDARY COSMETIC"
+  ],
+  "name": "◆ 雨天符文 III",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Requires level {{N0}}",
+        "Helmet"
+      ],
+      "translation": "需要等级 {{N0}} 头盔",
+      "styleMappings": {
+        "Requires": "需要",
+        "Helmet": "头盔"
+      }
+    },
+    {
+      "source": [
+        "Nothin' like a rainy summer day."
+      ],
+      "translation": "没有什么比得上雨天的夏日.",
+      "styleMappings": {
+        "day": "天"
+      }
+    },
+    {
+      "source": [
+        "Lightning included. Obtained from the",
+        "Taylor {{N0}} Summer Bundle."
+      ],
+      "translation": "包含闪电.从 Taylor {{N0}} 夏日礼包中获得.",
+      "styleMappings": {
+        "Summer Bundle": "夏日礼包",
+        "Summer": "夏日"
+      }
+    },
+    {
+      "source": [
+        "Apply this rune to helmet or fuse",
+        "two together at the Runic Pedestal!"
+      ],
+      "translation": "将此符文应用于头盔,或在符文基座上将两个融合!",
+      "styleMappings": {
+        "Runic Pedestal": "符文基座",
+        "Runic": "符文"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY COSMETIC"
+      ],
+      "translation": "传说外观",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Rune III": "符文 III",
+    "III": "III"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

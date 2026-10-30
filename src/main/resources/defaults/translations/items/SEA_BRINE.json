@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "SEA_BRINE",
+  "_original_name": "Sea Brine",
+  "_original_lore": [
+    "Dropped by the Brineling in Torrhus",
+    "Canyon.",
+    "",
+    "Highly concentrated saltwater,",
+    "between three to eight times saltier",
+    "than seawater.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "海盐水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Dropped by the Brineling in Torrhus",
+        "Canyon."
+      ],
+      "translation": "由托鲁斯峡谷中的盐水幼灵掉落.",
+      "styleMappings": {
+        "Brineling": "盐水幼灵",
+        "Torrhus Canyon": "托鲁斯峡谷"
+      }
+    },
+    {
+      "source": [
+        "Highly concentrated saltwater,",
+        "between three to eight times saltier",
+        "than seawater."
+      ],
+      "translation": "高度浓缩的盐水,咸度是海水的三到八倍.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

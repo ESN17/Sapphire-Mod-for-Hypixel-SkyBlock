@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "TEDS_CONTACT_BAKED_IN_BREAD",
+  "_original_name": "Ted's Contact Baked In Bread",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Consume this item to get Feast Chef",
+    "Ted as an Abiphone contact!",
+    "",
+    "Players with Feast Chef Ted as a",
+    "contact can call him to find out what",
+    "in-season crop drops Seasoning 10%",
+    "more often!",
+    "",
+    "Right-click to consume!",
+    "",
+    "EPIC"
+  ],
+  "name": "Ted 的联系方式烤进面包里",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Consume this item to get Feast Chef",
+        "Ted as an Abiphone contact!"
+      ],
+      "translation": "消耗此物品以将 Feast Chef Ted 添加为阿比手机联系人!",
+      "styleMappings": {
+        "item": "物品",
+        "Feast Chef Ted": "Feast Chef Ted",
+        "Abiphone contact": "阿比手机联系人"
+      }
+    },
+    {
+      "source": [
+        "Players with Feast Chef Ted as a",
+        "contact can call him to find out what",
+        "in-season crop drops Seasoning {{N0}}",
+        "more often!"
+      ],
+      "translation": "拥有 Feast Chef Ted 作为联系人的玩家可以致电他,以了解当季作物掉落调味料的几率提高 {{N0}} 的是哪一种!",
+      "styleMappings": {
+        "Feast Chef Ted": "Feast Chef Ted",
+        "Seasoning": "调味料"
+      }
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

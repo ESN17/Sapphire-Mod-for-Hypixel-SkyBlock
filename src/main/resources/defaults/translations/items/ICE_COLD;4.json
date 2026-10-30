@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": "ICE_COLD;4",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Ice Cold IV",
+    "Grants +4 Cold Resistance.",
+    "",
+    "Sources:",
+    " - Frozen Corpses (I)",
+    " - Bazaar (I-V)",
+    "",
+    "Applied To:",
+    " - Armor",
+    "",
+    "Requirements:",
+    " - Enchanting Level 30",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Ice Cold IV"
+      ],
+      "translation": "冰寒 IV",
+      "styleMappings": {
+        "Ice Cold": "冰寒",
+        "Ice": "冰"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Cold Resistance."
+      ],
+      "translation": "提供 {{N0}} 寒冷抗性.",
+      "styleMappings": {
+        "Cold Resistance": "寒冷抗性",
+        "Grants": "提供",
+        "Resistance": "抗性",
+        "Cold": "寒冷"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Frozen Corpses (I)",
+        " - Bazaar (I-V)"
+      ],
+      "translation": " - 冰冻尸体 (一)  - 集市 (一至五)",
+      "styleMappings": {
+        "Frozen Corpses": "冰冻尸体",
+        "Bazaar": "集市",
+        "I-V": "一至五",
+        "I": "一",
+        "Frozen": "冰冻"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Armor"
+      ],
+      "translation": " - 盔甲",
+      "styleMappings": {
+        "Armor": "盔甲"
+      }
+    },
+    {
+      "source": [
+        "Requirements:"
+      ],
+      "translation": "需求:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchanting Level {{N0}}"
+      ],
+      "translation": " - 附魔等级 {{N0}}",
+      "styleMappings": {
+        "Enchanting Level": "附魔等级"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

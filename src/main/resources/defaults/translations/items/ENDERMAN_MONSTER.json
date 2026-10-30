@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "ENDERMAN_MONSTER",
+  "_original_name": "Enderman (Monster)",
+  "_original_lore": [
+    "Not your mother's endermen.",
+    "",
+    "❤ Health: 160 - 9,000"
+  ],
+  "name": "末影人 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Not your mother's endermen."
+      ],
+      "translation": "可不是你妈那种末影人.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}} - {{N1}}"
+      ],
+      "translation": "❤ 生命值: {{N0}} - {{N1}}",
+      "styleMappings": {
+        "Health": "生命值",
+        "-": "-"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Enderman": "末影人",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

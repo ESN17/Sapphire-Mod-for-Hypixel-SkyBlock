@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "STARRED_VENOMS_TOUCH",
+  "_original_name": " Venom's Touch",
+  "_original_lore": [
+    "Damage: +370",
+    "Strength: +180",
+    "",
+    "Fires a volley of 5 arrows. Arrows",
+    "apply venom to all enemies hit dealing",
+    "2 Damage every second for 3",
+    "seconds.",
+    "",
+    "This item is Arachnal !",
+    "",
+    "This item can be reforged!",
+    "EPIC BOW"
+  ],
+  "name": " 剧毒之触",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Fires a volley of {{N0}} arrows. Arrows",
+        "apply venom to all enemies hit dealing",
+        "{{N1}} Damage every second for {{N2}}",
+        "seconds."
+      ],
+      "translation": "发射一轮 {{N0}} 支箭.箭矢会使所有命中的敌人中毒,每秒造成 {{N1}} 伤害,持续 {{N2}} 秒.",
+      "styleMappings": {
+        " Damage": " 伤害",
+        "for": "持续",
+        "Damage": "伤害",
+        "seconds": "秒",
+        "hit": "命中",
+        "enemies": "敌人",
+        "second": "秒"
+      }
+    },
+    {
+      "source": [
+        "This item is Arachnal !"
+      ],
+      "translation": "此物品是蛛形纲的 !",
+      "styleMappings": {
+        "item": "物品",
+        "Arachnal": "蛛形"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "EPIC BOW"
+      ],
+      "translation": "史诗 弓",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

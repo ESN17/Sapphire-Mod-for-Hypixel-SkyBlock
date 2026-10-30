@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "id": "OCEANDY",
+  "_original_name": "Oceandy",
+  "_original_lore": [
+    "Hunting Tool",
+    "",
+    "Grants 1.25❣ Charm Chance towards",
+    "Sea Creatures.",
+    "Duration: 12h",
+    "",
+    "Left-click to consume!",
+    "",
+    "RARE SALT"
+  ],
+  "name": "海洋糖盐",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Hunting Tool"
+      ],
+      "translation": "狩猎工具",
+      "styleMappings": {
+        "Hunting Tool": "狩猎工具"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}❣ Charm Chance towards",
+        "Sea Creatures."
+      ],
+      "translation": "对海洋生物提供 {{N0}}❣ 魅惑几率.",
+      "styleMappings": {
+        "Sea Creatures": "海洋生物",
+        "Charm Chance": "魅惑几率",
+        "Grants": "提供"
+      }
+    },
+    {
+      "source": [
+        "Duration: {{N0}}h"
+      ],
+      "translation": "持续时间: {{N0}}小时",
+      "styleMappings": {
+        "Duration": "持续时间",
+        "{{N0}}h": "{{N0}}小时"
+      }
+    },
+    {
+      "source": [
+        "Left-click to consume!"
+      ],
+      "translation": "左键点击饮用!",
+      "styleMappings": {
+        "Left-click": "左键点击"
+      }
+    },
+    {
+      "source": [
+        "RARE SALT"
+      ],
+      "translation": "稀有盐",
+      "styleMappings": {
+        "RARE SALT": "稀有盐",
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

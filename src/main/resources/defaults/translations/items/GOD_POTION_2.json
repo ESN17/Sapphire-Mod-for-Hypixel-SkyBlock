@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "GOD_POTION_2",
+  "_original_name": "God Potion",
+  "_original_lore": [
+    "Consume this potion to receive an",
+    "assortment of positive potion effects!",
+    "",
+    "Duration: 28h 48m",
+    "  +12h Default",
+    "  +12h Alchemy Level",
+    "  x1.2 Parrot Pet",
+    "",
+    "The duration of God Potions can be stacked!",
+    "",
+    "Right-click to consume!",
+    "",
+    "SPECIAL"
+  ],
+  "name": "神药",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consume this potion to receive an",
+        "assortment of positive potion effects!"
+      ],
+      "translation": "饮用此药水可获得多种正面药水效果!",
+      "styleMappings": {
+        "potion effects": "药水效果"
+      }
+    },
+    {
+      "source": [
+        "Duration: {{N0}}h {{N1}}m"
+      ],
+      "translation": "持续时间: {{N0}}小时 {{N1}}分钟",
+      "styleMappings": {
+        "Duration": "持续时间",
+        "{{N0}}h": "{{N0}}小时",
+        "{{N1}}m": "{{N1}}分钟"
+      }
+    },
+    {
+      "source": [
+        "  {{N0}}h Default",
+        "  {{N1}}h Alchemy Level",
+        "  x{{N2}} Parrot Pet"
+      ],
+      "translation": "  {{N0}} 小时 默认   {{N1}} 小时 酿造等级   x{{N2}} 鹦鹉宠物",
+      "styleMappings": {
+        "Alchemy Level": "酿造等级",
+        "Parrot Pet": "鹦鹉宠物",
+        "Default": "默认",
+        "{{N0}}h": "{{N0}} 小时",
+        "{{N1}}h": "{{N1}} 小时",
+        "Pet": "宠物",
+        "Parrot": "鹦鹉"
+      }
+    },
+    {
+      "source": [
+        "The duration of God Potions can be stacked!"
+      ],
+      "translation": "神药水的持续时间可以叠加!",
+      "styleMappings": {
+        "God Potions": "神药水",
+        "Potions": "药水"
+      }
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "id": "SPIDER_BOOTS",
+  "_original_name": "Spider's Boots",
+  "_original_lore": [
+    "Defense: +45",
+    "Intelligence: +50",
+    "Speed: +5",
+    "",
+    "Ability: Double Jump  DOUBLE TAP JUMP",
+    "Allows you to double jump mid air!",
+    "Mana Cost: 50",
+    "",
+    "This item is Arachnal !",
+    "",
+    "This item can be reforged!",
+    "RARE BOOTS"
+  ],
+  "name": "蜘蛛之靴",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Ability: Double Jump  DOUBLE TAP JUMP"
+      ],
+      "translation": "技能:二段跳  双击跳跃",
+      "styleMappings": {
+        "Ability: Double Jump": "技能:二段跳",
+        "DOUBLE TAP JUMP": "双击跳跃",
+        "Ability": "技能",
+        "Double Jump": "二段跳"
+      }
+    },
+    {
+      "source": [
+        "Allows you to double jump mid air!"
+      ],
+      "translation": "允许你在空中进行二段跳!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "This item is Arachnal !"
+      ],
+      "translation": "此物品是蛛形纲的 !",
+      "styleMappings": {
+        "item": "物品",
+        "Arachnal": "蛛形"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "RARE BOOTS"
+      ],
+      "translation": "稀有靴子",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Spider": "蜘蛛",
+    "Boots": "靴"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

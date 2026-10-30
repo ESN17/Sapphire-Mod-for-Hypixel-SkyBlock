@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "HORSEMAN_CANDLE",
+  "_original_name": "Horseman's Candle",
+  "_original_lore": [
+    "Used to summon the Headless",
+    "Horseman. This item can only be used",
+    "at night!",
+    "",
+    "Can be spawned in:",
+    "Graveyard",
+    "Wilderness",
+    "",
+    "EPIC"
+  ],
+  "name": "无头骑士蜡烛",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Used to summon the Headless",
+        "Horseman. This item can only be used",
+        "at night!"
+      ],
+      "translation": "用于召唤无头骑士.此物品只能在夜间使用!",
+      "styleMappings": {
+        "night": "夜间",
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Can be spawned in:"
+      ],
+      "translation": "可生成于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Graveyard",
+        "Wilderness"
+      ],
+      "translation": "墓园 荒野",
+      "styleMappings": {
+        "Graveyard": "墓园",
+        "Wilderness": "荒野"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

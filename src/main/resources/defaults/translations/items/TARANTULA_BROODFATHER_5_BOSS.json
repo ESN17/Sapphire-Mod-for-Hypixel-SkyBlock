@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "id": "TARANTULA_BROODFATHER_5_BOSS",
+  "_original_name": "Tarantula Broodfather V (Boss)",
+  "_original_lore": [
+    "Excruciating",
+    "",
+    "Health: 10,000,000❤",
+    "Damage: 2,200 per second",
+    "",
+    "Backstab",
+    "Occasionally leaps behind you. Attacks",
+    "from behind deal +80% Damage.",
+    "",
+    "Noxious Paralysis",
+    "Reduces your  Vitality by 75%,  Speed",
+    "by 75%, and disables Absorption.",
+    "",
+    "Web of Lies",
+    "The boss begins to heal and spews",
+    "webbing along the ground, disabling",
+    "teleportation abilities until they are",
+    "cleared, and spawns 4 egg sacs in the",
+    "air. Destroy them before they hatch into",
+    "minions!",
+    "",
+    "Bat Barrage",
+    "Releases a horde of evil bats. Take 0.2%",
+    "Max ❤ per second for each bat alive.",
+    "",
+    "Til Death Do Us Part",
+    "Calls out to the Primordial Broodmother,",
+    "who will awaken and fuse with the",
+    "Broodfather, creating the Conjoined",
+    "Brood. The Brood has 2x  Health and ",
+    "Damage but only uses passive abilities."
+  ],
+  "name": "狼蛛育母 V (首领)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Excruciating"
+      ],
+      "translation": "极度痛苦",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Health: {{N0}}❤"
+      ],
+      "translation": "生命值: {{N0}}❤",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Damage: {{N0}} per second"
+      ],
+      "translation": "伤害: 每秒 {{N0}}",
+      "styleMappings": {
+        "per second": "每秒",
+        "Damage": "伤害",
+        "second": "秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Backstab"
+      ],
+      "translation": "背刺",
+      "styleMappings": {
+        "Backstab": "背刺"
+      }
+    },
+    {
+      "source": [
+        "Occasionally leaps behind you. Attacks",
+        "from behind deal {{N0}} Damage."
+      ],
+      "translation": "偶尔跃至你身后.从背后发起的攻击造成 {{N0}} 伤害.",
+      "styleMappings": {
+        "deal": "造成",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Noxious Paralysis"
+      ],
+      "translation": "剧毒麻痹",
+      "styleMappings": {
+        "Noxious Paralysis": "剧毒麻痹"
+      }
+    },
+    {
+      "source": [
+        "Reduces your  Vitality by {{N0}},  Speed",
+        "by {{N1}}, and disables Absorption."
+      ],
+      "translation": "使你的  生命恢复降低 {{N0}}, 速度降低 {{N1}},并禁用吸收.",
+      "styleMappings": {
+        "Absorption": "吸收",
+        "Vitality": "生命恢复",
+        " Speed": " 速度",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Web of Lies",
+        "The boss begins to heal and spews",
+        "webbing along the ground, disabling",
+        "teleportation abilities until they are",
+        "cleared, and spawns {{N0}} egg sacs in the",
+        "air. Destroy them before they hatch into",
+        "minions!"
+      ],
+      "translation": "谎言蛛网 首领开始治疗,并沿地面喷吐蛛网,禁用传送能力直到被清除,同时在半空中生成 {{N0}} 个卵囊.在它们孵化成仆从前摧毁它们!",
+      "styleMappings": {
+        "Web of Lies": "谎言蛛网",
+        "teleportation": "传送",
+        "minions": "仆从"
+      }
+    },
+    {
+      "source": [
+        "Bat Barrage",
+        "Releases a horde of evil bats. Take {{N0}}",
+        "Max ❤ per second for each bat alive."
+      ],
+      "translation": "蝙蝠弹幕 释放一群邪恶蝙蝠.每只存活的蝙蝠使你每秒失去 {{N0}} 最大 ❤.",
+      "styleMappings": {
+        "Bat Barrage": "蝙蝠弹幕",
+        "per second": "每秒",
+        "Max": "最大",
+        "Bat": "蝙蝠",
+        "second": "秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Til Death Do Us Part",
+        "Calls out to the Primordial Broodmother,",
+        "who will awaken and fuse with the",
+        "Broodfather, creating the Conjoined",
+        "Brood. The Brood has {{N0}}x  Health and ",
+        "Damage but only uses passive abilities."
+      ],
+      "translation": "至死不渝 呼唤原初育母蜘蛛,它将苏醒并与育母之父融合,形成连体育母.育母拥有 {{N0}}倍  生命值和  伤害,但只使用被动能力.",
+      "styleMappings": {
+        "Til Death Do Us Part": "至死不渝",
+        " Damage": " 伤害",
+        "passive": "被动",
+        "Health": "生命值",
+        "Damage": "伤害",
+        "{{N0}}x": "{{N0}}倍",
+        " Health": " 生命"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Tarantula": "狼蛛",
+    "Boss": "首领",
+    "Tarantula Broodfather": "狼蛛育母"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

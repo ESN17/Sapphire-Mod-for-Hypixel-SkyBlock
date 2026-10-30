@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "id": "MAGMA_NECKLACE",
+  "_original_name": "Magma Necklace",
+  "_original_lore": [
+    "Health: +15",
+    "",
+    "Ability: Cube Fanatic ",
+    "Gain 10% more Magma Cream when",
+    "killing Magma Cubes.",
+    "",
+    "Right-click to equip!",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Combat Skill 22.",
+    "RARE NECKLACE"
+  ],
+  "name": "岩浆项链",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Ability: Cube Fanatic "
+      ],
+      "translation": "能力: 方块狂热者 ",
+      "styleMappings": {
+        "Ability": "能力"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}} more Magma Cream when",
+        "killing Magma Cubes."
+      ],
+      "translation": "击杀岩浆怪时获得 {{N0}} 更多岩浆膏.",
+      "styleMappings": {
+        "Magma Cream": "岩浆膏",
+        "Magma Cubes": "岩浆怪",
+        "Gain": "获得",
+        "more": "更多",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Right-click to equip!"
+      ],
+      "translation": "右键点击装备!",
+      "styleMappings": {
+        "Right-click to equip!": "右键点击装备!",
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "RARE NECKLACE"
+      ],
+      "translation": "稀有 项链",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Necklace": "项链"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 1,
+  "id": "ENDERMITE;5",
+  "_original_name": "[Lvl {LVL}] Endermite",
+  "_original_lore": [
+    "Mining Pet",
+    "",
+    "Intelligence: +{INTELLIGENCE}",
+    "Pet Luck: +{PET_LUCK}",
+    "",
+    "More Stonks",
+    "Gain more exp orbs for breaking end",
+    "stone and gain a +{0}% chance to get",
+    "an extra block dropped",
+    "",
+    "Daily Commuter",
+    "Transmission Abilities cost {1}% less",
+    "mana",
+    "",
+    "Mite Bait",
+    "Gain a {2}% chance to dig up a bonus",
+    "Nest Endermite per +1 Pet Luck",
+    "(Stacks above 100%)",
+    "",
+    "Sacrificer",
+    "Increases the odds of rolling for",
+    "bonus items in the Draconic Altar by",
+    "{3}%.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "MYTHIC PET"
+  ],
+  "name": "[等级 {LVL}] 末影螨",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mining Pet"
+      ],
+      "translation": "采矿宠物",
+      "styleMappings": {
+        "Mining": "采矿",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: +{{N0}}"
+      ],
+      "translation": "智力: +{{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Pet Luck: +{{N0}}"
+      ],
+      "translation": "宠物幸运: +{{N0}}",
+      "styleMappings": {
+        "Pet Luck": "宠物幸运",
+        "Pet": "宠物",
+        "Luck": "幸运"
+      }
+    },
+    {
+      "source": [
+        "More Stonks"
+      ],
+      "translation": "更多收益",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Gain more exp orbs for breaking end",
+        "stone and gain a +{{N0}}% chance to get",
+        "an extra block dropped"
+      ],
+      "translation": "破坏末地石时获得更多经验球,并有 +{{N0}}% 概率额外掉落一个方块",
+      "styleMappings": {
+        "chance to": "概率",
+        "Gain": "获得",
+        "more": "更多",
+        "for": "获得",
+        "chance": "概率",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "Daily Commuter"
+      ],
+      "translation": "每日通勤",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Transmission Abilities cost {{N0}}% less",
+        "mana"
+      ],
+      "translation": "传送技能消耗的法力减少 {{N0}}%",
+      "styleMappings": {
+        "Transmission Abilities": "传送技能",
+        "mana": "法力",
+        "Transmission": "传送"
+      }
+    },
+    {
+      "source": [
+        "Mite Bait"
+      ],
+      "translation": "螨虫诱饵",
+      "styleMappings": {
+        "Mite": "螨虫"
+      }
+    },
+    {
+      "source": [
+        "Gain a {{N0}}% chance to dig up a bonus",
+        "Nest Endermite per {{N1}} Pet Luck",
+        "(Stacks above {{N2}})"
+      ],
+      "translation": "每 {{N1}} 宠物幸运有 {{N0}}% 概率挖出额外巢穴末影螨 (超过 {{N2}} 层叠加)",
+      "styleMappings": {
+        "Nest Endermite": "巢穴末影螨",
+        "{{N1}} Pet Luck": "{{N1}} 宠物幸运",
+        "(Stacks above {{N2}})": "(超过 {{N2}} 层叠加)",
+        "chance to": "概率",
+        "Pet Luck": "宠物幸运",
+        "Pet": "宠物",
+        "chance": "概率",
+        "Luck": "幸运",
+        "Endermite": "末影螨",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Sacrificer"
+      ],
+      "translation": "献祭者",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Increases the odds of rolling for",
+        "bonus items in the Draconic Altar by",
+        "{{N0}}%."
+      ],
+      "translation": "将龙祭坛中额外物品的抽取概率提高 {{N0}}%.",
+      "styleMappings": {
+        "Draconic Altar": "龙祭坛",
+        "items": "物品",
+        "Altar": "祭坛",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "MYTHIC PET"
+      ],
+      "translation": "神话 宠物",
+      "styleMappings": {
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Endermite": "末影螨",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

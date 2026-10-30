@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "VERY_SCIENTIFIC_PAPER",
+  "_original_name": "Very Scientific Paper",
+  "_original_lore": [
+    "Authored, peer-reviewed and",
+    "published by Kay.",
+    "",
+    "RARE"
+  ],
+  "name": "非常科学的论文",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Authored, peer-reviewed and",
+        "published by Kay."
+      ],
+      "translation": "由 Kay 撰写、同行评审并发表.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "id": "TROPHY_LINE",
+  "_original_name": "Trophy Line",
+  "_original_lore": [
+    "Grants +5 Trophy Chance.",
+    "",
+    "Talk to Roddy in the Backwater",
+    "Bayou to apply this Line to a Fishing",
+    "Rod.",
+    "",
+    "❣ Requires Fishing Skill 20.",
+    "❣ Requires Lotus Collection IX.",
+    "RARE ROD PART"
+  ],
+  "name": "奖杯钓线",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Grants {{N0}} Trophy Chance."
+      ],
+      "translation": "提供 {{N0}} 奖杯概率.",
+      "styleMappings": {
+        "Trophy Chance": "奖杯概率",
+        "Grants": "提供",
+        "Trophy": "奖杯"
+      }
+    },
+    {
+      "source": [
+        "Talk to Roddy in the Backwater",
+        "Bayou to apply this Line to a Fishing",
+        "Rod."
+      ],
+      "translation": "与静水河湾的 Roddy 交谈,将此钓线应用到钓鱼竿上.",
+      "styleMappings": {
+        "Backwater Bayou": "静水河湾",
+        "Fishing Rod": "钓鱼竿",
+        "Roddy": "Roddy",
+        "Line": "钓线",
+        "Fishing": "钓鱼",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Fishing Skill {{N0}}."
+      ],
+      "translation": "❣ 需要钓鱼技能 {{N0}}.",
+      "styleMappings": {
+        "Fishing Skill": "钓鱼技能",
+        "Requires": "需要",
+        "Fishing": "钓鱼",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Lotus Collection IX."
+      ],
+      "translation": "❣ 需要莲花收藏 IX.",
+      "styleMappings": {
+        "Requires": "需要",
+        "Lotus": "莲花",
+        "Collection": "收藏"
+      }
+    },
+    {
+      "source": [
+        "RARE ROD PART"
+      ],
+      "translation": "稀有鱼竿部件",
+      "styleMappings": {
+        "RARE ROD PART": "稀有鱼竿部件",
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Line": "钓线",
+    "Trophy": "奖杯"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

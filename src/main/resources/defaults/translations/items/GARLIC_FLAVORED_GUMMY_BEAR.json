@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "GARLIC_FLAVORED_GUMMY_BEAR",
+  "_original_name": "Perma-Jelled Garlic-Flavored Re-Heated Gummy Polar Bear",
+  "_original_lore": [
+    "Gain +5 Combat Exp from mob kills in",
+    "the Rift.",
+    "",
+    "☠ Requires Vampire Slayer 3.",
+    "Works while in Accessory Bag!",
+    "EPIC ACCESSORY"
+  ],
+  "name": "永久凝胶蒜香复热北极熊软糖",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gain {{N0}} Combat Exp from mob kills in",
+        "the Rift."
+      ],
+      "translation": "在裂隙中击杀怪物可获得 {{N0}} 战斗经验.",
+      "styleMappings": {
+        "Combat Exp": "战斗经验",
+        "kills": "击杀",
+        "Gain": "获得",
+        "Rift": "裂隙",
+        "Combat": "战斗",
+        "Exp": "经验"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Vampire Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要吸血鬼杀手 {{N0}}.",
+      "styleMappings": {
+        "Vampire Slayer": "吸血鬼杀手",
+        "Requires": "需要",
+        "Slayer": "杀手",
+        "Vampire": "吸血鬼"
+      }
+    },
+    {
+      "source": [
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "放在饰品袋中即可生效!",
+      "styleMappings": {
+        "Accessory Bag": "饰品袋",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "EPIC ACCESSORY"
+      ],
+      "translation": "史诗饰品",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Polar Bear": "北极熊"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

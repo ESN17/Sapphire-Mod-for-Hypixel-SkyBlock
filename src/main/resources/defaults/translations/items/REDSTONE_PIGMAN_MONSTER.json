@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "REDSTONE_PIGMAN_MONSTER",
+  "_original_name": "Redstone Pigman (Monster)",
+  "_original_lore": [
+    "These pigmen will defend their",
+    "redstone to the death",
+    "",
+    "Mob Type: ༕ Undead",
+    "❤ Health: 250"
+  ],
+  "name": "红石猪人 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "These pigmen will defend their",
+        "redstone to the death"
+      ],
+      "translation": "这些猪人会誓死保卫它们的红石",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Mob Type: ༕ Undead"
+      ],
+      "translation": "生物类型: ༕ 亡灵",
+      "styleMappings": {
+        "Mob Type": "生物类型",
+        "Undead": "亡灵"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Pigman": "猪人",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

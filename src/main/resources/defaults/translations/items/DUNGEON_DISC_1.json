@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "id": "DUNGEON_DISC_1",
+  "_original_name": "Dungeon Disc",
+  "_original_lore": [
+    "Place this inside a jukebox to play a",
+    "dungeon song!",
+    "",
+    "Dungeon Drama",
+    "  By ShinkoNet",
+    "",
+    "EPIC"
+  ],
+  "name": "地牢唱片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Place this inside a jukebox to play a",
+        "dungeon song!"
+      ],
+      "translation": "将其放入唱片机以播放地牢歌曲!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Dungeon Drama"
+      ],
+      "translation": "地牢戏剧",
+      "styleMappings": {
+        "Dungeon": "地牢"
+      }
+    },
+    {
+      "source": [
+        "  By ShinkoNet"
+      ],
+      "translation": "  作者 辛科网",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Dungeon": "地牢"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

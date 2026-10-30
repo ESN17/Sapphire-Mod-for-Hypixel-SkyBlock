@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "FROGS_SPIRIT_SCROLL",
+  "_original_name": "Frog's Spirit",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Applies the Leapfrog Ability when",
+    "combined with Canopy Sandals, Fig",
+    "Striders, or Helix Boots.",
+    "",
+    "Ability: Leapfrog  DOUBLE TAP JUMP",
+    "Grants you the abilities of a Frog",
+    "while on Foraging Islands, allowing",
+    "you to Double Jump.",
+    "Mana Cost: 25",
+    "",
+    "UNCOMMON ABILITY SCROLL"
+  ],
+  "name": "青蛙之魂",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Applies the Leapfrog Ability when",
+        "combined with Canopy Sandals, Fig",
+        "Striders, or Helix Boots."
+      ],
+      "translation": "与树冠凉鞋、无花果行者或螺旋靴子组合时,赋予跳蛙能力.",
+      "styleMappings": {
+        "Leapfrog Ability": "跳蛙能力",
+        "Canopy Sandals": "树冠凉鞋",
+        "Fig Striders": "无花果行者",
+        "Helix Boots": "螺旋靴子",
+        "Ability": "能力",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Ability: Leapfrog  DOUBLE TAP JUMP"
+      ],
+      "translation": "能力: 跳蛙  双击跳跃",
+      "styleMappings": {
+        "Ability: Leapfrog": "能力: 跳蛙",
+        "DOUBLE TAP JUMP": "双击跳跃",
+        "Ability": "能力"
+      }
+    },
+    {
+      "source": [
+        "Grants you the abilities of a Frog",
+        "while on Foraging Islands, allowing",
+        "you to Double Jump."
+      ],
+      "translation": "在采伐岛屿上时赋予你青蛙的能力,使你能够二段跳.",
+      "styleMappings": {
+        "Foraging Islands": "采伐岛屿",
+        "Double Jump": "二段跳",
+        "Frog": "青蛙",
+        "Foraging": "采伐"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON ABILITY SCROLL"
+      ],
+      "translation": "罕见能力卷轴",
+      "styleMappings": {
+        "UNCOMMON ABILITY SCROLL": "罕见能力卷轴",
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Frog": "青蛙"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "KUUDRA_SHOP_ITEM",
+  "_original_name": "Open Shop",
+  "_original_lore": [
+    "Ability: Open Shop RIGHT CLICK",
+    "Open the Perk Menu so you can make",
+    "upgrades!",
+    "",
+    "SPECIAL"
+  ],
+  "name": "打开商店",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Open Shop RIGHT CLICK"
+      ],
+      "translation": "能力: 打开商店 右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Open Shop": "打开商店",
+        "Ability": "能力",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Open the Perk Menu so you can make",
+        "upgrades!"
+      ],
+      "translation": "打开增益菜单以进行升级!",
+      "styleMappings": {
+        "Perk Menu": "增益菜单"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Open Shop": "打开商店"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

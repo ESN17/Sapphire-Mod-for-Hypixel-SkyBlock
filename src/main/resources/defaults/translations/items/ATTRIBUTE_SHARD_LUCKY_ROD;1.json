@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "id": "ATTRIBUTE_SHARD_LUCKY_ROD;1",
+  "_original_name": "Moray Eel Shard",
+  "_original_lore": [
+    "Lucky Rod I",
+    "Fish Treasure Shards are +1%",
+    "easier to find.",
+    "",
+    "You can Syphon this shard from",
+    "your Hunting Box.",
+    "",
+    "Right-click to send to Hunting Box!",
+    "Shift Right-click to move all!",
+    "",
+    "❣ Requires Hunting Skill 15.",
+    "EPIC WATER SHARD (ID E11)"
+  ],
+  "name": "海鳗碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Lucky Rod I"
+      ],
+      "translation": "幸运钓竿 I",
+      "styleMappings": {
+        "Lucky": "幸运",
+        "I": "I"
+      }
+    },
+    {
+      "source": [
+        "Fish Treasure Shards are {{N0}}",
+        "easier to find."
+      ],
+      "translation": "鱼类宝藏碎片更容易找到 {{N0}}.",
+      "styleMappings": {
+        "Fish Treasure Shards": "鱼类宝藏碎片",
+        "Treasure": "宝藏",
+        "Fish": "鱼"
+      }
+    },
+    {
+      "source": [
+        "You can Syphon this shard from",
+        "your Hunting Box."
+      ],
+      "translation": "你可以从狩猎箱中吸取此碎片.",
+      "styleMappings": {
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to send to Hunting Box!"
+      ],
+      "translation": "右键点击发送至狩猎箱!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Shift Right-click to move all!"
+      ],
+      "translation": "潜行键 右键点击全部移动!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "all": "全部"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Hunting Skill {{N0}}."
+      ],
+      "translation": "❣ 需要狩猎技能 {{N0}}.",
+      "styleMappings": {
+        "Hunting Skill": "狩猎技能",
+        "Requires": "需要",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC WATER SHARD (ID E{{N0}})"
+      ],
+      "translation": "史诗水域碎片 (ID 伊{{N0}})",
+      "styleMappings": {
+        "EPIC WATER SHARD": "史诗水域碎片",
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shard": "碎片"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

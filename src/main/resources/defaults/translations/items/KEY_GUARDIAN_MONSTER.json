@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "KEY_GUARDIAN_MONSTER",
+  "_original_name": "Key Guardian (Monster)",
+  "_original_lore": [
+    "Mob Types: ༕ Undead, ⛏ Subterranean",
+    "❤ Health: 250,000",
+    "❁ Damage: 100"
+  ],
+  "name": "钥匙守卫 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mob Types: ༕ Undead, ⛏ Subterranean"
+      ],
+      "translation": "生物类型: ༕ 亡灵, ⛏ 地下",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Undead": "亡灵",
+        "Subterranean": "地下"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "❁ Damage: {{N0}}"
+      ],
+      "translation": "❁ 伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Guardian": "守卫",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

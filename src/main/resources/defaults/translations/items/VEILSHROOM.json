@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "VEILSHROOM",
+  "_original_name": "Veilshroom",
+  "_original_lore": [
+    "It hides from the light, shrouded in",
+    "mystery.",
+    "",
+    "Complete Visitor Beth's quest to",
+    "Analyze this crop!",
+    "",
+    "COMMON MUTATION"
+  ],
+  "name": "面纱菇",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "It hides from the light, shrouded in",
+        "mystery."
+      ],
+      "translation": "它躲避光线,笼罩在神秘之中.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Complete Visitor Beth's quest to",
+        "Analyze this crop!"
+      ],
+      "translation": "完成访客 Beth 的任务来分析这种作物!",
+      "styleMappings": {
+        "Visitor": "访客",
+        "Beth's": "Beth 的",
+        "Analyze": "分析"
+      }
+    },
+    {
+      "source": [
+        "COMMON MUTATION"
+      ],
+      "translation": "普通变异",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

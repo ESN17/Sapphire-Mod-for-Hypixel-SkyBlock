@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "NOT_CHICKEN_MONSTER",
+  "_original_name": "Not Chicken (Monster)",
+  "_original_lore": [
+    "Shoot with Berberis Blowgun to kill.",
+    "Found near the Dreadfarm in the Rift.",
+    "",
+    "❤ Health: 3"
+  ],
+  "name": "不是鸡 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Shoot with Berberis Blowgun to kill."
+      ],
+      "translation": "用小檗吹箭射击以击杀.",
+      "styleMappings": {
+        "Berberis Blowgun": "小檗吹箭"
+      }
+    },
+    {
+      "source": [
+        "Found near the Dreadfarm in the Rift."
+      ],
+      "translation": "在裂隙的惊惧农场附近发现.",
+      "styleMappings": {
+        "Dreadfarm": "惊惧农场",
+        "the Rift": "裂隙",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Chicken": "鸡",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

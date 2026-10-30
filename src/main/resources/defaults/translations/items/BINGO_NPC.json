@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "BINGO_NPC",
+  "_original_name": "Bingo (NPC)",
+  "_original_lore": [
+    "Only appears during the Bingo event ",
+    "at the first seven days of every month"
+  ],
+  "name": "Bingo (人物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Only appears during the Bingo event ",
+        "at the first seven days of every month"
+      ],
+      "translation": "仅在每月前七天的宾果活动期间出现",
+      "styleMappings": {
+        "Bingo": "宾果",
+        "first": "前",
+        "days": "天"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(NPC)": "(人物)"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

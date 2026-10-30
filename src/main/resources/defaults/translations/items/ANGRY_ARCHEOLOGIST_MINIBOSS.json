@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "ANGRY_ARCHEOLOGIST_MINIBOSS",
+  "_original_name": "Angry Archaeologist (Miniboss)",
+  "_original_lore": [
+    "Angered by what he's found",
+    "below.",
+    "",
+    "❤ Health: 20,000 - 900,000",
+    "❤ Health (MM) : 1,000,000 - 12,000,000"
+  ],
+  "name": "愤怒的考古学家 (小首领)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Angered by what he's found",
+        "below."
+      ],
+      "translation": "因在下方发现的东西而愤怒.",
+      "styleMappings": {
+        "Angered": "愤怒",
+        "s": "现"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}} - {{N1}}"
+      ],
+      "translation": "❤ 生命值: {{N0}} - {{N1}}",
+      "styleMappings": {
+        "Health": "生命值",
+        "-": "-"
+      }
+    },
+    {
+      "source": [
+        "❤ Health (MM) : {{N0}} - {{N1}}"
+      ],
+      "translation": "❤ 生命值 (MM) : {{N0}} - {{N1}}",
+      "styleMappings": {
+        "Health": "生命值",
+        "-": "-"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Archaeologist": "考古学家",
+    "(Miniboss)": "(小首领)",
+    "Miniboss": "小首领"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

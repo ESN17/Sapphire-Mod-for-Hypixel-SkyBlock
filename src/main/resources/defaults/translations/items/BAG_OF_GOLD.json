@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "BAG_OF_GOLD",
+  "_original_name": "Bag of Gold",
+  "_original_lore": [
+    "A thank you present from a grateful",
+    "person in the Crimson Isle.",
+    "",
+    "* Soulbound *",
+    "RARE"
+  ],
+  "name": "金袋",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A thank you present from a grateful"
+      ],
+      "translation": "来自一位心怀感激之人的谢礼,",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "person in the Crimson Isle."
+      ],
+      "translation": "他身处绯红之岛.",
+      "styleMappings": {
+        "Crimson Isle": "绯红之岛"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Gold": "金"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

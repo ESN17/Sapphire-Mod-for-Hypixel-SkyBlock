@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "id": "PUMPKIN_DICER_3",
+  "_original_name": "Pumpkin Dicer Mk. III",
+  "_original_lore": [
+    "Farming Tool",
+    "",
+    "Pumpkin Fortune: +4",
+    "Farming Wisdom: +1",
+    "",
+    "\"III is better than the II version\" -",
+    "CEO of PumpkinDicer LLC.",
+    "",
+    "Level 1 -> 2   (0/1k)",
+    "                          0%",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Farming Skill 20.",
+    "❣ Requires Garden Level 4.",
+    "EPIC FARMING TOOL"
+  ],
+  "name": "南瓜切丁机 III 型",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Farming Tool"
+      ],
+      "translation": "农具",
+      "styleMappings": {
+        "Farming Tool": "农具"
+      }
+    },
+    {
+      "source": [
+        "Pumpkin Fortune: {{N0}}"
+      ],
+      "translation": "南瓜幸运:{{N0}}",
+      "styleMappings": {
+        "Pumpkin Fortune": "南瓜幸运",
+        "Pumpkin": "南瓜",
+        "Fortune": "幸运"
+      }
+    },
+    {
+      "source": [
+        "Farming Wisdom: {{N0}}"
+      ],
+      "translation": "农业智慧: {{N0}}",
+      "styleMappings": {
+        "Farming Wisdom": "农业智慧",
+        "Wisdom": "智慧",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "\"III is better than the II version\" -",
+        "CEO of PumpkinDicer LLC."
+      ],
+      "translation": "\"III 比 II 版本更好\" - 南瓜切割机有限责任公司的首席执行官.",
+      "styleMappings": {
+        "II": "II",
+        "III": "III"
+      }
+    },
+    {
+      "source": [
+        "Level {{N0}} -> {{N1}}   ({{N2}}/{{N3}}k)",
+        "                          {{N4}}"
+      ],
+      "translation": "等级 {{N0}} -> {{N1}}   ({{N2}}/{{N3}}千)                           {{N4}}",
+      "styleMappings": {
+        "Level": "等级",
+        "{{N3}}k": "{{N3}}千"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Farming Skill {{N0}}."
+      ],
+      "translation": "❣ 需要农业技能 {{N0}}.",
+      "styleMappings": {
+        "Farming Skill": "农业技能",
+        "Requires": "需要",
+        "Farming": "农业",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Garden Level {{N0}}."
+      ],
+      "translation": "❣ 需要花园等级 {{N0}}.",
+      "styleMappings": {
+        "Garden Level": "花园等级",
+        "Requires": "需要",
+        "Garden": "花园"
+      }
+    },
+    {
+      "source": [
+        "EPIC FARMING TOOL"
+      ],
+      "translation": "史诗农业工具",
+      "styleMappings": {
+        "EPIC FARMING TOOL": "史诗农业工具",
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Pumpkin": "南瓜",
+    "III": "III"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

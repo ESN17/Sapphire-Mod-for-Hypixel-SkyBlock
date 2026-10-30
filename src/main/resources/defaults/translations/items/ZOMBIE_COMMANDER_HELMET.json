@@ -1,0 +1,142 @@
+{
+  "schemaVersion": 1,
+  "id": "ZOMBIE_COMMANDER_HELMET",
+  "_original_name": "Zombie Commander Helmet",
+  "_original_lore": [
+    "Gear Score: 133",
+    "Health: +39",
+    "Defense: +22",
+    "Strength: +8",
+    "Intelligence: +4",
+    "",
+    "Full Set Bonus: Training (0/4)",
+    "Every 50 Zombies killed gives the",
+    "wearer +5  Health while wearing",
+    "the set. Max 500.",
+    "",
+    "This item is Undead ༕!",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Catacombs Skill 18.",
+    "EPIC DUNGEON HELMET"
+  ],
+  "name": "僵尸指挥官头盔",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Training ({{N0}}/{{N1}})"
+      ],
+      "translation": "套装效果: 训练 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Full Set Bonus: Training": "套装效果: 训练",
+        "Full Set Bonus": "套装效果"
+      }
+    },
+    {
+      "source": [
+        "Every {{N0}} Zombies killed gives the",
+        "wearer {{N1}}  Health while wearing",
+        "the set. Max {{N2}}."
+      ],
+      "translation": "穿戴该套装时,每击杀 {{N0}} 只僵尸为穿戴者提供 {{N1}}   生命.上限 {{N2}}.",
+      "styleMappings": {
+        "Zombies killed": "只僵尸",
+        "Health": "生命",
+        "Max": "上限",
+        " Health": " 生命",
+        "Zombies": "僵尸"
+      }
+    },
+    {
+      "source": [
+        "This item is Undead ༕!"
+      ],
+      "translation": "该物品为亡灵 ༕!",
+      "styleMappings": {
+        "item": "物品",
+        "Undead": "亡灵"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Catacombs Skill {{N0}}."
+      ],
+      "translation": "❣ 需要地牢技能 {{N0}}.",
+      "styleMappings": {
+        "Requires": "需要",
+        "Catacombs": "地牢",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC DUNGEON HELMET"
+      ],
+      "translation": "史诗 地牢 头盔",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Helmet": "头盔",
+    "Zombie": "僵尸"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

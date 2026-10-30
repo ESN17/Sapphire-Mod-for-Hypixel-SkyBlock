@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "id": "BASE_GRIFFIN_UPGRADE_STONE",
+  "_original_name": "Base Griffin Upgrade Stone",
+  "_original_lore": [
+    "Base component to upgrade your",
+    "Griffin's rarity.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "COMMON"
+  ],
+  "name": "基础狮鹫升级石",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Base component to upgrade your",
+        "Griffin's rarity."
+      ],
+      "translation": "用于提升狮鹫稀有度的基础材料.",
+      "styleMappings": {
+        "Griffin": "狮鹫",
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Griffin": "狮鹫"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

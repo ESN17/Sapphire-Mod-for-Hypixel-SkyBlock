@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "GARDEN_SCYTHE",
+  "_original_name": "Garden Scythe",
+  "_original_lore": [
+    "Cleans a 5x5 area of grass, leaves",
+    "and flowers.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "花园镰刀",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Cleans a {{N0}}x{{N1}} area of grass, leaves",
+        "and flowers."
+      ],
+      "translation": "清理 {{N0}}乘{{N1}} 区域内的草、树叶和花.",
+      "styleMappings": {
+        "area of grass, leaves": "区域内的草、树叶",
+        "and flowers": "和花",
+        "Cleans": "清理",
+        "{{N0}}x{{N1}}": "{{N0}}乘{{N1}}"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Garden": "花园"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

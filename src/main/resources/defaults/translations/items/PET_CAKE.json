@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "PET_CAKE",
+  "_original_name": "Pet Cake",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Feeding this to your pets gives them",
+    "a boost of 10,000 Exp!",
+    "",
+    "Right-click on your summoned pet to",
+    "feed it!",
+    "",
+    "COMMON"
+  ],
+  "name": "宠物蛋糕",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Feeding this to your pets gives them",
+        "a boost of {{N0}} Exp!"
+      ],
+      "translation": "将其喂给宠物可使其获得 {{N0}} 经验加成!",
+      "styleMappings": {
+        "boost": "加成",
+        "Exp": "经验"
+      }
+    },
+    {
+      "source": [
+        "Right-click on your summoned pet to"
+      ],
+      "translation": "右键点击你召唤的宠物以",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "feed it!"
+      ],
+      "translation": "喂它!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Pet": "宠物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

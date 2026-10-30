@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "PRICKLY_KISS",
+  "_original_name": "Prickly Kiss",
+  "_original_lore": [
+    "Bring 3,000 of these to Carrolyn in",
+    "Scarleton on the Crimson Isle to",
+    "permanently gain +5 Health and",
+    "+12 Wild Rose Fortune.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "尖刺之吻",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Bring {{N0}} of these to Carrolyn in",
+        "Scarleton on the Crimson Isle to",
+        "permanently gain {{N1}} Health and",
+        "{{N2}} Wild Rose Fortune."
+      ],
+      "translation": "将 {{N0}} 个交给绯红之岛上斯卡雷顿的 Carrolyn,以永久获得 {{N1}} 生命和 {{N2}} 野玫瑰幸运.",
+      "styleMappings": {
+        "Wild Rose Fortune": "野玫瑰幸运",
+        "Crimson Isle": "绯红之岛",
+        "permanently": "永久",
+        "Scarleton": "斯卡雷顿",
+        "Carrolyn": "Carrolyn",
+        " Health": " 生命",
+        "Health": "生命",
+        "Fortune": "幸运",
+        "Wild Rose": "野玫瑰",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

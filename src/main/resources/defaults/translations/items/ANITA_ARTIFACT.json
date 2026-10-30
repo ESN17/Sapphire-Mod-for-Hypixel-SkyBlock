@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "ANITA_ARTIFACT",
+  "_original_name": "Anita's Artifact",
+  "_original_lore": [
+    "Accessory Power: +8",
+    "",
+    "Grants a random +25 Farming",
+    "Fortune stat during Jacob's Farming",
+    "Contest.",
+    "",
+    "Works while in Accessory Bag!",
+    "RARE ACCESSORY"
+  ],
+  "name": "Anita的神器",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Accessory Power: {{N0}}"
+      ],
+      "translation": "饰品能量: {{N0}}",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "Grants a random {{N0}} Farming",
+        "Fortune stat during Jacob's Farming",
+        "Contest."
+      ],
+      "translation": "在雅各布的农业竞赛期间随机获得 {{N0}} 农业幸运属性.",
+      "styleMappings": {
+        "Jacob's Farming Contest": "雅各布的农业竞赛",
+        "Farming Fortune": "农业幸运",
+        "Grants": "获得",
+        "Fortune": "幸运",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "放在饰品袋中即可生效!",
+      "styleMappings": {
+        "Accessory Bag": "饰品袋",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "RARE ACCESSORY"
+      ],
+      "translation": "稀有饰品",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Artifact": "神器"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

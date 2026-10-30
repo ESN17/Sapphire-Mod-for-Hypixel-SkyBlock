@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "LAMP_BLUE",
+  "_original_name": "Blue Lamp",
+  "_original_lore": [
+    "Decorate your island with this",
+    "eco-friendly lamp!",
+    "",
+    "COMMON"
+  ],
+  "name": "蓝色台灯",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Decorate your island with this",
+        "eco-friendly lamp!"
+      ],
+      "translation": "用这盏环保台灯装饰你的岛屿!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Blue": "蓝色"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

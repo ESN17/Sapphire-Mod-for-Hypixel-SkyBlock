@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": "ATTRIBUTE_SHARD_CROP_BUG;1",
+  "_original_name": "Beetle Shard",
+  "_original_lore": [
+    "Crop Bug I",
+    "Grants +1  Overbloom which",
+    "increases your chances of dropping",
+    "RARE CROPS.",
+    "",
+    "You can Syphon this shard from",
+    "your Hunting Box.",
+    "",
+    "Right-click to send to Hunting Box!",
+    "Shift Right-click to move all!",
+    "",
+    "❣ Requires Hunting Skill 10.",
+    "RARE FOREST SHARD (ID R16)"
+  ],
+  "name": "甲虫碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Crop Bug I"
+      ],
+      "translation": "作物害虫 I",
+      "styleMappings": {
+        "Crop": "作物",
+        "I": "I"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}  Overbloom which",
+        "increases your chances of dropping"
+      ],
+      "translation": "获得 {{N0}}   稀有作物概率加成,可提高你掉落",
+      "styleMappings": {
+        "Overbloom": "稀有作物概率加成",
+        "Grants": "获得"
+      }
+    },
+    {
+      "source": [
+        "RARE CROPS."
+      ],
+      "translation": "稀有作物.",
+      "styleMappings": {
+        "RARE CROPS": "稀有作物",
+        "RARE": "稀有"
+      }
+    },
+    {
+      "source": [
+        "You can Syphon this shard from",
+        "your Hunting Box."
+      ],
+      "translation": "你可以从狩猎箱中吸取此碎片.",
+      "styleMappings": {
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to send to Hunting Box!"
+      ],
+      "translation": "右键点击发送至狩猎箱!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Shift Right-click to move all!"
+      ],
+      "translation": "潜行键 右键点击全部移动!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "all": "全部"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Hunting Skill {{N0}}."
+      ],
+      "translation": "❣ 需要狩猎技能 {{N0}}.",
+      "styleMappings": {
+        "Hunting Skill": "狩猎技能",
+        "Requires": "需要",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "RARE FOREST SHARD (ID R{{N0}})"
+      ],
+      "translation": "稀有森林碎片 (ID R{{N0}})",
+      "styleMappings": {
+        "RARE FOREST SHARD": "稀有森林碎片",
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shard": "碎片",
+    "Beetle": "甲虫"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

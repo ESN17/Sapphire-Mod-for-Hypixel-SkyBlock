@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "ATTRIBUTE_SHARD_ROTTEN_PICKAXE;1",
+  "_original_name": "Miner Zombie Shard",
+  "_original_lore": [
+    "Rotten Pickaxe I",
+    "Grants +3  Mining Speed.",
+    "",
+    "You can Syphon this shard from",
+    "your Hunting Box.",
+    "",
+    "Right-click to send to Hunting Box!",
+    "Shift Right-click to move all!",
+    "",
+    "COMMON COMBAT SHARD (ID C36)"
+  ],
+  "name": "矿工僵尸碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Rotten Pickaxe I"
+      ],
+      "translation": "腐朽镐 I",
+      "styleMappings": {
+        "I": "I",
+        "Pickaxe": "镐"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}  Mining Speed."
+      ],
+      "translation": "提供 {{N0}}  采矿速度.",
+      "styleMappings": {
+        "Mining Speed": "采矿速度",
+        "Grants": "提供",
+        "Mining": "采矿",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "You can Syphon this shard from",
+        "your Hunting Box."
+      ],
+      "translation": "你可以从狩猎箱中吸取此碎片.",
+      "styleMappings": {
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to send to Hunting Box!"
+      ],
+      "translation": "右键点击发送至狩猎箱!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Shift Right-click to move all!"
+      ],
+      "translation": "潜行键 右键点击全部移动!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "all": "全部"
+      }
+    },
+    {
+      "source": [
+        "COMMON COMBAT SHARD (ID C{{N0}})"
+      ],
+      "translation": "普通战斗碎片 (ID C{{N0}})",
+      "styleMappings": {
+        "COMMON COMBAT SHARD": "普通战斗碎片",
+        "COMMON": "普通",
+        "COMBAT SHARD": "战斗碎片"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shard": "碎片",
+    "Zombie": "僵尸"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

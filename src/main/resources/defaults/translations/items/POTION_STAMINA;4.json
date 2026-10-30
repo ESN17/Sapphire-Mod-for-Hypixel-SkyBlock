@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_STAMINA;4",
+  "_original_name": "Stamina IV Potion",
+  "_original_lore": [
+    "",
+    "Stamina IV",
+    "Instantly heals for +515 and a",
+    "grants a 200 ✎ Mana boost.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "耐力 IV 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Stamina IV",
+        "Instantly heals for {{N0}} and a",
+        "grants a {{N1}} ✎ Mana boost."
+      ],
+      "translation": "耐力 IV 立即恢复 {{N0}} 点生命,并给予 {{N1}} ✎ 法力加成.",
+      "styleMappings": {
+        "Stamina IV": "耐力 IV",
+        "Instantly heals for": "立即恢复",
+        "grants a": "给予",
+        "Mana": "法力",
+        "boost": "加成"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Stamina IV": "耐力 IV"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

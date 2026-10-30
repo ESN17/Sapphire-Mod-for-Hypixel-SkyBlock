@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "TIME_GUN",
+  "_original_name": "Time Gun",
+  "_original_lore": [
+    "Ability: Quantum Projection  RIGHT CLICK",
+    "Aim at Timite Ores to wackify their time.",
+    "Mana Cost: 2",
+    "",
+    "RARE"
+  ],
+  "name": "时间枪",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Quantum Projection  RIGHT CLICK"
+      ],
+      "translation": "技能:量子投影  右键点击",
+      "styleMappings": {
+        "Ability: Quantum Projection": "技能:量子投影",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击",
+        "Quantum": "量子"
+      }
+    },
+    {
+      "source": [
+        "Aim at Timite Ores to wackify their time."
+      ],
+      "translation": "瞄准时光石矿石以扭曲它们的时间.",
+      "styleMappings": {
+        "Timite Ores": "时光石矿石",
+        "Timite": "时光石",
+        "Ores": "矿石"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

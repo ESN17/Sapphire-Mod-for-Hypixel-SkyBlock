@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "ECHOLOCATOR",
+  "_original_name": "Echolocator",
+  "_original_lore": [
+    "When held during the Spooky",
+    "Festival, this compass points towards",
+    "the nearest Mega Bat. Happy hunting!",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "回声定位器",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "When held during the Spooky",
+        "Festival, this compass points towards",
+        "the nearest Mega Bat. Happy hunting!"
+      ],
+      "translation": "在万圣节活动期间手持时,此指南针会指向最近的巨型蝙蝠.狩猎愉快!",
+      "styleMappings": {
+        "Spooky Festival": "万圣节活动",
+        "Mega Bat": "巨型蝙蝠",
+        "hunting": "狩猎",
+        "Bat": "蝙蝠",
+        "Spooky": "万圣节"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

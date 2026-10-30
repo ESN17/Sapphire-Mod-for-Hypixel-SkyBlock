@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "BURNINGSOUL_DEMON_MINIBOSS",
+  "_original_name": "Burningsoul Demon (Miniboss)",
+  "_original_lore": [
+    "The Burningsoul Demon is a Inferno Demonlord",
+    "Miniboss that very rarely spawns after killing a",
+    "Blaze during Inferno Demonlord Tier IV Quests.",
+    "",
+    "❤ Health: 50,000,000"
+  ],
+  "name": "焚魂恶魔 (小首领)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Burningsoul Demon is a Inferno Demonlord",
+        "Miniboss that very rarely spawns after killing a",
+        "Blaze during Inferno Demonlord Tier IV Quests."
+      ],
+      "translation": "焚魂恶魔是一种炼狱恶魔领主小首领,在炼狱恶魔领主 IV 阶任务中击杀烈焰人有极低概率生成.",
+      "styleMappings": {
+        "Inferno Demonlord": "炼狱恶魔领主",
+        "Miniboss": "小首领",
+        "Inferno": "炼狱"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Miniboss)": "(小首领)",
+    "Burningsoul Demon (Miniboss)": "焚魂恶魔 (小首领)",
+    "Miniboss": "小首领"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

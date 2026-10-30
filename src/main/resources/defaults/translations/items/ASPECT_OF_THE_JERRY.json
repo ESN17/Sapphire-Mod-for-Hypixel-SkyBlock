@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "id": "ASPECT_OF_THE_JERRY",
+  "_original_name": "Aspect of the Jerry",
+  "_original_lore": [
+    "Damage: +1",
+    "",
+    "Ability: Parley  RIGHT CLICK",
+    "Channel your inner Jerry.",
+    "Cooldown: 5s",
+    "",
+    "This item can be reforged!",
+    "COMMON SWORD"
+  ],
+  "name": "杰瑞之刃",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Ability: Parley  RIGHT CLICK"
+      ],
+      "translation": "技能: 谈判  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "Parley": "谈判",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Channel your inner Jerry."
+      ],
+      "translation": "释放你内心的杰瑞.",
+      "styleMappings": {
+        "Jerry": "杰瑞"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "COMMON SWORD"
+      ],
+      "translation": "普通剑",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Aspect of the Jerry": "杰瑞之刃",
+    "Jerry": "杰瑞"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

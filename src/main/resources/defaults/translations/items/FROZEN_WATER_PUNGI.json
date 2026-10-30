@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "FROZEN_WATER_PUNGI",
+  "_original_name": "Frozen Water Pungi",
+  "_original_lore": [
+    "Ability: Snake Taming  HOLD RIGHT CLICK",
+    "Aim at a Living Metal Snake to deeply",
+    "calm it, allowing another player to",
+    "mine it.",
+    "",
+    "EPIC"
+  ],
+  "name": "冰冻水笛",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Snake Taming  HOLD RIGHT CLICK"
+      ],
+      "translation": "技能: 驯蛇  长按右键点击",
+      "styleMappings": {
+        "Ability: Snake Taming": "技能: 驯蛇",
+        "HOLD RIGHT CLICK": "长按右键点击",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Aim at a Living Metal Snake to deeply",
+        "calm it, allowing another player to",
+        "mine it."
+      ],
+      "translation": "瞄准一条活体金属蛇使其深度平静,让另一名玩家可以挖掘它.",
+      "styleMappings": {
+        "Living Metal Snake": "活体金属蛇",
+        "another player": "另一名玩家",
+        "player": "玩家"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Frozen": "冰冻"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

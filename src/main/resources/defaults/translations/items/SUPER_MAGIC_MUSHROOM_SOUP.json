@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "id": "SUPER_MAGIC_MUSHROOM_SOUP",
+  "_original_name": "Mystical Mushroom Soup",
+  "_original_lore": [
+    "Consuming this soup on your private",
+    "island or garden allows the player",
+    "to fly for 200 minutes.",
+    "",
+    "Leaving the island will pause the",
+    "effect!",
+    "",
+    "RARE"
+  ],
+  "name": "神秘蘑菇汤",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consuming this soup on your private",
+        "island or garden allows the player",
+        "to fly for {{N0}} minutes."
+      ],
+      "translation": "在你的私人岛屿或花园中饮用此汤,可让玩家飞行 {{N0}} 分钟.",
+      "styleMappings": {
+        "private island": "私人岛屿",
+        "minutes": "分钟",
+        "player": "玩家",
+        "fly": "飞行"
+      }
+    },
+    {
+      "source": [
+        "Leaving the island will pause the",
+        "effect!"
+      ],
+      "translation": "离开岛屿将暂停该效果!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mystical Mushroom Soup": "神秘蘑菇汤",
+    "Mushroom": "蘑菇"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

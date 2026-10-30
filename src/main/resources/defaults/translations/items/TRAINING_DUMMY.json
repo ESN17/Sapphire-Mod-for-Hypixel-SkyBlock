@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "TRAINING_DUMMY",
+  "_original_name": "Training Dummy",
+  "_original_lore": [
+    "Places a Training Dummy that can be",
+    "used to test out weapons and other",
+    "damage sources. A Training Dummy",
+    "can take the form of almost any mob.",
+    "Right-click to access its settings.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "训练假人",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Places a Training Dummy that can be",
+        "used to test out weapons and other",
+        "damage sources. A Training Dummy",
+        "can take the form of almost any mob."
+      ],
+      "translation": "放置一个训练假人,可用于测试武器和其他伤害来源.训练假人几乎可以呈现为任何生物的外观.",
+      "styleMappings": {
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Right-click to access its settings."
+      ],
+      "translation": "右键点击以访问其设置.",
+      "styleMappings": {
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

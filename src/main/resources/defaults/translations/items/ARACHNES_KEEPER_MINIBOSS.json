@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ARACHNES_KEEPER_MINIBOSS",
+  "_original_name": "Arachne's Keeper (Miniboss)",
+  "_original_lore": [
+    "Keeper of Arachne",
+    "",
+    "❤ Health: 100,000"
+  ],
+  "name": "阿拉克妮守卫 (小首领)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Keeper of Arachne"
+      ],
+      "translation": "阿拉克妮的守护者",
+      "styleMappings": {
+        "Arachne": "阿拉克妮"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Miniboss)": "(小首领)",
+    "Arachne": "阿拉克妮",
+    "Arachne's Keeper (Miniboss)": "阿拉克妮守卫 (小首领)",
+    "Miniboss": "小首领"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

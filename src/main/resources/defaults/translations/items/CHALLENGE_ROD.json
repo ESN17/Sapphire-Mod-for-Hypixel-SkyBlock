@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "id": "CHALLENGE_ROD",
+  "_original_name": "Challenging Rod",
+  "_original_lore": [
+    "Damage: +75",
+    "Strength: +75",
+    "Fishing Speed: +35",
+    "Sea Creature Chance: +2%",
+    "Treasure Chance: +0.5%",
+    "",
+    "ථ Hook NONE",
+    "ꨃ Line NONE",
+    "࿉ Sinker NONE",
+    "",
+    "Talk to Roddy in the Backwater",
+    "Bayou to apply parts to this rod.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Fishing Skill 5.",
+    "UNCOMMON FISHING ROD"
+  ],
+  "name": "挑战之竿",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Fishing Speed: {{N0}}"
+      ],
+      "translation": "钓鱼速度: {{N0}}",
+      "styleMappings": {
+        "Fishing Speed": "钓鱼速度",
+        "Fishing": "钓鱼",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Sea Creature Chance: {{N0}}"
+      ],
+      "translation": "海洋生物概率:{{N0}}",
+      "styleMappings": {
+        "Sea Creature Chance": "海洋生物概率",
+        "Sea Creature": "海洋生物"
+      }
+    },
+    {
+      "source": [
+        "Treasure Chance: {{N0}}"
+      ],
+      "translation": "宝藏概率: {{N0}}",
+      "styleMappings": {
+        "Treasure Chance": "宝藏概率",
+        "Treasure": "宝藏"
+      }
+    },
+    {
+      "source": [
+        "ථ Hook NONE",
+        "ꨃ Line NONE",
+        "࿉ Sinker NONE"
+      ],
+      "translation": "ථ 鱼钩 无 ꨃ 鱼线 无 ࿉ 沉子 无",
+      "styleMappings": {
+        "Sinker": "沉子",
+        "Hook": "鱼钩",
+        "Line": "鱼线",
+        "NONE": "无"
+      }
+    },
+    {
+      "source": [
+        "Talk to Roddy in the Backwater",
+        "Bayou to apply parts to this rod."
+      ],
+      "translation": "与静水河湾的 Roddy 交谈,为这根钓竿安装部件.",
+      "styleMappings": {
+        "Roddy": "Roddy",
+        "Backwater Bayou": "静水河湾",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Fishing Skill {{N0}}."
+      ],
+      "translation": "❣ 需要钓鱼技能 {{N0}}.",
+      "styleMappings": {
+        "Fishing Skill": "钓鱼技能",
+        "Requires": "需要",
+        "Fishing": "钓鱼",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON FISHING ROD"
+      ],
+      "translation": "罕见钓鱼竿",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

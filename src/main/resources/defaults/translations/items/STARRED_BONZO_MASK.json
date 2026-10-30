@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": "STARRED_BONZO_MASK",
+  "_original_name": " Bonzo's Mask",
+  "_original_lore": [
+    "Gear Score: 400",
+    "Health: +125",
+    "Defense: +100",
+    "Intelligence: +150",
+    "",
+    "Ability: Clownin' Around ",
+    "Instead of dying, gain damage",
+    "immunity and +20  Strength for 3s",
+    "and fully replenish your health. The",
+    "cooldown and Strength bonus you",
+    "receive improve based on your",
+    "Dungeoneering Skill level. This ability",
+    "only works while in The Catacombs!",
+    "Cooldown: 360s",
+    "",
+    "This item can be reforged!",
+    "❣ Requires The Catacombs Floor I Completion.",
+    "RARE DUNGEON HELMET"
+  ],
+  "name": " 邦佐的面具",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Ability: Clownin' Around "
+      ],
+      "translation": "技能: 小丑作乐 ",
+      "styleMappings": {
+        "Ability": "技能",
+        "Clownin' Around": "小丑作乐"
+      }
+    },
+    {
+      "source": [
+        "Instead of dying, gain damage",
+        "immunity and {{N0}}  Strength for {{N1}}s",
+        "and fully replenish your health. The",
+        "cooldown and Strength bonus you",
+        "receive improve based on your",
+        "Dungeoneering Skill level. This ability",
+        "only works while in The Catacombs!"
+      ],
+      "translation": "濒死时免于死亡,获得伤害免疫和 {{N0}}  力量,持续 {{N1}} 秒,并恢复全部生命值.冷却时间和力量加成随你的地牢技能等级提升.此技能仅在地牢内生效!",
+      "styleMappings": {
+        " Strength": " 力量",
+        "Strength": "力量",
+        "Dungeoneering Skill": "地牢技能",
+        "The Catacombs": "地牢",
+        "cooldown": "冷却",
+        "immunity": "免疫",
+        "ability": "技能",
+        "{{N1}}s": "{{N1}} 秒",
+        "damage": "伤害",
+        "health": "生命值",
+        "for": "持续",
+        "Catacombs": "地牢",
+        "Skill": "技能",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires The Catacombs Floor I Completion."
+      ],
+      "translation": "❣ 需要通关地牢第 I 层.",
+      "styleMappings": {
+        "The Catacombs": "地牢",
+        "Requires": "需要",
+        "I": "I",
+        "Catacombs": "地牢"
+      }
+    },
+    {
+      "source": [
+        "RARE DUNGEON HELMET"
+      ],
+      "translation": "稀有 地牢 头盔",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mask": "面具",
+    "Bonzo": "邦佐",
+    "Bonzo's Mask": "邦佐的面具"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

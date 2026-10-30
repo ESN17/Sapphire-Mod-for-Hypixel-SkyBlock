@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "id": "MOSQUITO;1",
+  "_original_name": "[Lvl {LVL}] Mosquito",
+  "_original_lore": [
+    "Farming Pet",
+    "",
+    "Speed: +{SPEED}",
+    "Bonus Pest Chance: +{BONUS_PEST_CHANCE}%",
+    "",
+    "Smooth Jazz",
+    "Pest Vinyls are {0}% more effective.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "UNCOMMON PET"
+  ],
+  "name": "[等级 {LVL}] 蚊子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Farming Pet"
+      ],
+      "translation": "耕作宠物",
+      "styleMappings": {
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Speed: +{{N0}}"
+      ],
+      "translation": "速度: +{{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Bonus Pest Chance: +{{N0}}%"
+      ],
+      "translation": "额外害虫概率: +{{N0}}%",
+      "styleMappings": {
+        "Bonus Pest Chance": "额外害虫概率",
+        "Pest": "害虫"
+      }
+    },
+    {
+      "source": [
+        "Smooth Jazz"
+      ],
+      "translation": "丝滑爵士",
+      "styleMappings": {
+        "Smooth Jazz": "丝滑爵士"
+      }
+    },
+    {
+      "source": [
+        "Pest Vinyls are {{N0}}% more effective."
+      ],
+      "translation": "害虫唱片效果提升 {{N0}}%.",
+      "styleMappings": {
+        "Pest Vinyls": "害虫唱片",
+        "Pest": "害虫"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON PET"
+      ],
+      "translation": "罕见 宠物",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mosquito": "蚊子",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

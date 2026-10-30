@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "SPINOSAURUS;4",
+  "_original_name": "[Lvl {LVL}] Spinosaurus",
+  "_original_lore": [
+    "Fishing Pet",
+    "",
+    "Fishing Speed: +{FISHING_SPEED}",
+    "Sea Creature Chance: +{SEA_CREATURE_CHANCE}",
+    "Trophy Chance: +{TROPHY_CHANCE}",
+    "",
+    "Sharp Attitude",
+    "Sea Creatures spawn with {0}% of",
+    "their maximum health missing.",
+    "",
+    "Pursuit",
+    "Increases the chance of catching",
+    "GOLD and DIAMOND tier Trophy",
+    "Fish by {1}%.",
+    "",
+    "Adaptive Predator",
+    "Increases this pet's base stats by",
+    "{2}% during any Weather.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "LEGENDARY PET"
+  ],
+  "name": "[等级 {LVL}] 棘龙",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Fishing Pet"
+      ],
+      "translation": "钓鱼宠物",
+      "styleMappings": {
+        "Fishing": "钓鱼",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Fishing Speed: +{{N0}}"
+      ],
+      "translation": "钓鱼速度: +{{N0}}",
+      "styleMappings": {
+        "Fishing Speed": "钓鱼速度",
+        "Fishing": "钓鱼",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Sea Creature Chance: +{{N0}}"
+      ],
+      "translation": "海洋生物概率: +{{N0}}",
+      "styleMappings": {
+        "Sea Creature Chance": "海洋生物概率",
+        "Sea Creature": "海洋生物"
+      }
+    },
+    {
+      "source": [
+        "Trophy Chance: +{{N0}}"
+      ],
+      "translation": "奖杯概率: +{{N0}}",
+      "styleMappings": {
+        "Trophy Chance": "奖杯概率",
+        "Trophy": "奖杯"
+      }
+    },
+    {
+      "source": [
+        "Sharp Attitude"
+      ],
+      "translation": "尖锐姿态",
+      "styleMappings": {
+        "Sharp Attitude": "尖锐姿态"
+      }
+    },
+    {
+      "source": [
+        "Sea Creatures spawn with {{N0}}% of",
+        "their maximum health missing."
+      ],
+      "translation": "海洋生物生成时缺失 {{N0}}% 的最大生命值.",
+      "styleMappings": {
+        "Sea Creatures": "海洋生物",
+        "health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Pursuit"
+      ],
+      "translation": "追击",
+      "styleMappings": {
+        "Pursuit": "追击"
+      }
+    },
+    {
+      "source": [
+        "Increases the chance of catching",
+        "GOLD and DIAMOND tier Trophy",
+        "Fish by {{N0}}%."
+      ],
+      "translation": "将钓到黄金和钻石级奖杯鱼的几率提高 {{N0}}%.",
+      "styleMappings": {
+        "Trophy Fish": "奖杯鱼",
+        "DIAMOND": "钻石",
+        "chance": "几率",
+        "GOLD": "黄金",
+        "Trophy": "奖杯",
+        "Fish": "鱼"
+      }
+    },
+    {
+      "source": [
+        "Adaptive Predator"
+      ],
+      "translation": "适应性掠食者",
+      "styleMappings": {
+        "Adaptive Predator": "适应性掠食者"
+      }
+    },
+    {
+      "source": [
+        "Increases this pet's base stats by",
+        "{{N0}}% during any Weather."
+      ],
+      "translation": "在任何天气期间,将此宠物的基础属性提高 {{N0}}%.",
+      "styleMappings": {
+        "Weather": "天气",
+        "stats": "属性",
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY PET"
+      ],
+      "translation": "传说 宠物",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Lvl": "等级",
+    "Spinosaurus": "棘龙"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "REVENANT_HORROR_5_BOSS",
+  "_original_name": "Revenant Horror V (Boss)",
+  "_original_lore": [
+    "Excruciating",
+    "",
+    "Health: 10,000,000❤",
+    "Damage: 2,400 per second",
+    "",
+    "Redemption",
+    "Heals rapidly and is immune to magic",
+    "damage.",
+    "",
+    "Explosive Assault",
+    "Throws explosive TNT.",
+    "",
+    "Thermonuclear",
+    "Charges up and releases a massive",
+    "explosion."
+  ],
+  "name": "亡魂恐魔 V (首领)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Excruciating"
+      ],
+      "translation": "极度痛苦",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Health: {{N0}}❤"
+      ],
+      "translation": "生命值: {{N0}}❤",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Damage: {{N0}} per second"
+      ],
+      "translation": "伤害: 每秒 {{N0}}",
+      "styleMappings": {
+        "per second": "每秒",
+        "Damage": "伤害",
+        "second": "秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Redemption",
+        "Heals rapidly and is immune to magic",
+        "damage."
+      ],
+      "translation": "救赎 快速治疗,且免疫魔法伤害.",
+      "styleMappings": {
+        "Redemption": "救赎",
+        "damage": "伤害",
+        "immune": "免疫"
+      }
+    },
+    {
+      "source": [
+        "Explosive Assault",
+        "Throws explosive TNT."
+      ],
+      "translation": "爆炸突袭 投掷爆炸TNT.",
+      "styleMappings": {
+        "Explosive Assault": "爆炸突袭"
+      }
+    },
+    {
+      "source": [
+        "Thermonuclear",
+        "Charges up and releases a massive",
+        "explosion."
+      ],
+      "translation": "热核 蓄力并释放巨大爆炸.",
+      "styleMappings": {
+        "Thermonuclear": "热核"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Boss": "首领",
+    "Revenant Horror": "亡魂恐魔"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

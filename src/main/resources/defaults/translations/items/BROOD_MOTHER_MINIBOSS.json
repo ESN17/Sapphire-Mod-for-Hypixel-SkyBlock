@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "BROOD_MOTHER_MINIBOSS",
+  "_original_name": "Broodmother (Miniboss)",
+  "_original_lore": [
+    "The Broodmother,",
+    "is a hostile Miniboss that can be found in the ",
+    "Spider's Den. It looks and acts like a regular spider, ",
+    "but upon death, it spawns Cave Spiders and drops ",
+    "the Spider Talisman. ",
+    "",
+    "❤ Health: 1,000,000"
+  ],
+  "name": "育母蜘蛛 (小首领)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Broodmother,",
+        "is a hostile Miniboss that can be found in the ",
+        "Spider's Den. It looks and acts like a regular spider, ",
+        "but upon death, it spawns Cave Spiders and drops ",
+        "the Spider Talisman. "
+      ],
+      "translation": "育母蜘蛛是一种敌对的小首领,出没于蜘蛛巢穴.它的外形和行为与普通蜘蛛无异,但死亡时会生成洞穴蜘蛛并掉落蜘蛛护符.",
+      "styleMappings": {
+        "Spider Talisman": "蜘蛛护符",
+        "The Broodmother": "育母蜘蛛",
+        "Spider's Den": "蜘蛛巢穴",
+        "Miniboss": "小首领",
+        "death": "死亡",
+        "Talisman": "护符",
+        "Spider": "蜘蛛",
+        "Spiders": "蜘蛛",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Miniboss)": "(小首领)",
+    "Broodmother (Miniboss)": "育母蜘蛛 (小首领)",
+    "Miniboss": "小首领"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "id": "AGARIMOO_ARTIFACT",
+  "_original_name": "Agarimoo Artifact",
+  "_original_lore": [
+    "Fishing Speed: +3",
+    "Farming Wisdom: +1",
+    "Fishing Wisdom: +1",
+    "Accessory Power: +8",
+    "",
+    "Works while in Accessory Bag!",
+    "RARE ACCESSORY"
+  ],
+  "name": "伞菇牛神器",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Fishing Speed: {{N0}}"
+      ],
+      "translation": "钓鱼速度: {{N0}}",
+      "styleMappings": {
+        "Fishing Speed": "钓鱼速度",
+        "Fishing": "钓鱼",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Farming Wisdom: {{N0}}"
+      ],
+      "translation": "农业智慧: {{N0}}",
+      "styleMappings": {
+        "Farming Wisdom": "农业智慧",
+        "Wisdom": "智慧",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "Fishing Wisdom: {{N0}}"
+      ],
+      "translation": "钓鱼智慧: {{N0}}",
+      "styleMappings": {
+        "Fishing Wisdom": "钓鱼智慧",
+        "Fishing": "钓鱼",
+        "Wisdom": "智慧"
+      }
+    },
+    {
+      "source": [
+        "Accessory Power: {{N0}}"
+      ],
+      "translation": "饰品能量: {{N0}}",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "放在饰品袋中即可生效!",
+      "styleMappings": {
+        "Accessory Bag": "饰品袋",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "RARE ACCESSORY"
+      ],
+      "translation": "稀有饰品",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Artifact": "神器"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

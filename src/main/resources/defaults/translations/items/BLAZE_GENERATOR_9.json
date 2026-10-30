@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "id": "BLAZE_GENERATOR_9",
+  "_original_name": "Blaze Minion IX",
+  "_original_lore": [
+    "Place this minion and it will start",
+    "generating and slaying Blazes!",
+    "Minions also work when you are",
+    "offline!",
+    "",
+    "Time Between Actions: 21s",
+    "Max Storage: 768",
+    "Resources Generated: 0",
+    "",
+    "RARE"
+  ],
+  "name": "烈焰人仆从 IX",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Place this minion and it will start",
+        "generating and slaying Blazes!"
+      ],
+      "translation": "放置此仆从后,它将开始生成并击杀烈焰人!",
+      "styleMappings": {
+        "minion": "仆从",
+        "Blazes": "烈焰人"
+      }
+    },
+    {
+      "source": [
+        "Minions also work when you are",
+        "offline!"
+      ],
+      "translation": "你离线时仆从也会继续工作!",
+      "styleMappings": {
+        "Minions": "仆从",
+        "work": "工作",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Time Between Actions: {{N0}}s"
+      ],
+      "translation": "行动间隔:{{N0}}秒",
+      "styleMappings": {
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "Max Storage: {{N0}}"
+      ],
+      "translation": "最大存储:{{N0}}",
+      "styleMappings": {
+        "Max": "最大"
+      }
+    },
+    {
+      "source": [
+        "Resources Generated: {{N0}}"
+      ],
+      "translation": "产出资源:{{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Minion": "仆从"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

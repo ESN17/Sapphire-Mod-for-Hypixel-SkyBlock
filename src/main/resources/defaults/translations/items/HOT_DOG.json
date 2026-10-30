@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "HOT_DOG",
+  "_original_name": "Hot Dog",
+  "_original_lore": [
+    "Deposit on Joey's plate.",
+    "",
+    "* Soulbound *",
+    "COMMON"
+  ],
+  "name": "热狗",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Deposit on Joey's plate."
+      ],
+      "translation": "放到 Joe 的盘子里.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

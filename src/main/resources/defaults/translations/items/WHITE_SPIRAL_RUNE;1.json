@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "WHITE_SPIRAL_RUNE;1",
+  "_original_name": "◆ White Spiral Rune I",
+  "_original_lore": [
+    "Requires level 6",
+    "Bows",
+    "",
+    "Show your elegance with white",
+    "spiraling arrows!",
+    "",
+    "Apply this rune to bows or fuse two",
+    "together at the Runic Pedestal!",
+    "",
+    "UNCOMMON COSMETIC"
+  ],
+  "name": "◆ 白色螺旋符文 I",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Requires level {{N0}}",
+        "Bows"
+      ],
+      "translation": "需要弓等级 {{N0}}",
+      "styleMappings": {
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Show your elegance with white",
+        "spiraling arrows!"
+      ],
+      "translation": "用白色螺旋箭矢展现你的优雅!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Apply this rune to bows or fuse two",
+        "together at the Runic Pedestal!"
+      ],
+      "translation": "将此符文应用于弓,或在符文基座上将两个符文融合!",
+      "styleMappings": {
+        "Runic Pedestal": "符文基座",
+        "Runic": "符文"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON COSMETIC"
+      ],
+      "translation": "罕见 外观",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Rune I": "符文 I",
+    "White": "白色"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

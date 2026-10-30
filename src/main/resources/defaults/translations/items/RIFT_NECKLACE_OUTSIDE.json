@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 1,
+  "id": "RIFT_NECKLACE_OUTSIDE",
+  "_original_name": "Rift Necklace",
+  "_original_lore": [
+    "Health: +150",
+    "Defense: +30",
+    "Strength: +25",
+    "Intelligence: +85",
+    "Magic Find: +8",
+    "Combat Wisdom: +1",
+    "Farming Wisdom: +1",
+    "Enchanting Wisdom: +1",
+    "",
+    "A very powerful piece of equipment",
+    "originating from the Rift Dimension.",
+    "",
+    "Becomes more powerful as you fill",
+    "the Rift Gallery.",
+    "Secured: 8/8 Timecharms",
+    "",
+    "Right-click to equip!",
+    "",
+    "This item can be reforged!",
+    "* Soulbound *",
+    "LEGENDARY NECKLACE"
+  ],
+  "name": "裂隙项链",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Magic Find: {{N0}}"
+      ],
+      "translation": "稀有物品概率加成: {{N0}}",
+      "styleMappings": {
+        "Magic Find": "稀有物品概率加成"
+      }
+    },
+    {
+      "source": [
+        "Combat Wisdom: {{N0}}"
+      ],
+      "translation": "战斗智慧: {{N0}}",
+      "styleMappings": {
+        "Combat Wisdom": "战斗智慧",
+        "Combat": "战斗",
+        "Wisdom": "智慧"
+      }
+    },
+    {
+      "source": [
+        "Farming Wisdom: {{N0}}"
+      ],
+      "translation": "农业智慧: {{N0}}",
+      "styleMappings": {
+        "Farming Wisdom": "农业智慧",
+        "Wisdom": "智慧",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "Enchanting Wisdom: {{N0}}"
+      ],
+      "translation": "附魔智慧: {{N0}}",
+      "styleMappings": {
+        "Enchanting Wisdom": "附魔智慧",
+        "Wisdom": "智慧"
+      }
+    },
+    {
+      "source": [
+        "A very powerful piece of equipment",
+        "originating from the Rift Dimension."
+      ],
+      "translation": "一件来自裂隙维度的强大装备.",
+      "styleMappings": {
+        "Rift Dimension": "裂隙维度",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "Becomes more powerful as you fill",
+        "the Rift Gallery."
+      ],
+      "translation": "随着你填充裂隙展馆而变得更加强大.",
+      "styleMappings": {
+        "Rift Gallery": "裂隙展馆",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "Secured: {{N0}}/{{N1}} Timecharms"
+      ],
+      "translation": "已收集: {{N0}}/{{N1}} 时间护符",
+      "styleMappings": {
+        "Timecharms": "时间护符"
+      }
+    },
+    {
+      "source": [
+        "Right-click to equip!"
+      ],
+      "translation": "右键点击装备!",
+      "styleMappings": {
+        "Right-click to equip!": "右键点击装备!",
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY NECKLACE"
+      ],
+      "translation": "传说 项链",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Rift Necklace": "裂隙项链",
+    "Necklace": "项链",
+    "Rift": "裂隙"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

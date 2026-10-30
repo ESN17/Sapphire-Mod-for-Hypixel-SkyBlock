@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "id": "MIDAS_STAFF",
+  "_original_name": "Midas Staff",
+  "_original_lore": [
+    "Damage: +130",
+    "Strength: +150",
+    "Intelligence: +50",
+    "",
+    "Ability: Molten Wave  RIGHT CLICK",
+    "Cast a wave of molten gold in the direction",
+    "you are facing! Deals up to 12,000 damage.",
+    "Mana Cost: 500",
+    "Cooldown: 1s",
+    "",
+    "Ability: Greed ",
+    "The ability damage bonus of this item",
+    "is dependent on the price paid for it",
+    "at the Dark Auction!",
+    "The maximum bonus of this item is",
+    "26,000 if the bid was 100,000,000",
+    "Coins or higher!",
+    "",
+    "This item can be reforged!",
+    "LEGENDARY SWORD"
+  ],
+  "name": "米达斯法杖",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Ability: Molten Wave  RIGHT CLICK"
+      ],
+      "translation": "技能:熔岩波  右键点击",
+      "styleMappings": {
+        "Molten Wave": "熔岩波",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Cast a wave of molten gold in the direction",
+        "you are facing! Deals up to {{N0}} damage."
+      ],
+      "translation": "朝你面对的方向释放一道熔金波!最多造成 {{N0}} 伤害.",
+      "styleMappings": {
+        "damage": "伤害",
+        "Deals": "造成",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "Ability: Greed "
+      ],
+      "translation": "技能: 贪婪 ",
+      "styleMappings": {
+        "Ability: Greed": "技能: 贪婪",
+        "Ability": "技能"
+      }
+    },
+    {
+      "source": [
+        "The ability damage bonus of this item",
+        "is dependent on the price paid for it",
+        "at the Dark Auction!"
+      ],
+      "translation": "该物品的能力伤害加成取决于在暗黑拍卖行中为其支付的价格!",
+      "styleMappings": {
+        "ability damage bonus": "能力伤害加成",
+        "Dark Auction": "暗黑拍卖行",
+        "item": "物品",
+        "damage": "伤害",
+        "Auction": "拍卖"
+      }
+    },
+    {
+      "source": [
+        "The maximum bonus of this item is",
+        "{{N0}} if the bid was {{N1}}",
+        "Coins or higher!"
+      ],
+      "translation": "如果出价为 {{N1}} 金币或更高, 该物品的最大加成为 {{N0}}!",
+      "styleMappings": {
+        "Coins": "金币",
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY SWORD"
+      ],
+      "translation": "传说剑",
+      "styleMappings": {
+        "LEGENDARY": "传说",
+        "LEGENDARY SWORD": "传说剑"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Midas Staff": "米达斯法杖"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_name_revision": "2026-10-17-slayer-rpg"
+}

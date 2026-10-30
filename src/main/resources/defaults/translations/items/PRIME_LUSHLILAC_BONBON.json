@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "id": "PRIME_LUSHLILAC_BONBON",
+  "_original_name": "Prime Lushlilac Bonbon",
+  "_original_lore": [
+    "Hunting Tool",
+    "",
+    "Grants 0.75❣ Charm Chance.",
+    "Duration: 18h",
+    "",
+    "Left-click to consume!",
+    "",
+    "UNCOMMON SALT"
+  ],
+  "name": "上等繁茂丁香糖果",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Hunting Tool"
+      ],
+      "translation": "狩猎工具",
+      "styleMappings": {
+        "Hunting Tool": "狩猎工具"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}❣ Charm Chance."
+      ],
+      "translation": "给予 {{N0}}❣ 魅力几率.",
+      "styleMappings": {
+        "Charm Chance": "魅力几率",
+        "Grants": "给予",
+        "Charm": "魅力"
+      }
+    },
+    {
+      "source": [
+        "Duration: {{N0}}h"
+      ],
+      "translation": "持续时间: {{N0}}小时",
+      "styleMappings": {
+        "Duration": "持续时间",
+        "{{N0}}h": "{{N0}}小时"
+      }
+    },
+    {
+      "source": [
+        "Left-click to consume!"
+      ],
+      "translation": "左键点击饮用!",
+      "styleMappings": {
+        "Left-click": "左键点击"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON SALT"
+      ],
+      "translation": "罕见盐",
+      "styleMappings": {
+        "UNCOMMON SALT": "罕见盐",
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

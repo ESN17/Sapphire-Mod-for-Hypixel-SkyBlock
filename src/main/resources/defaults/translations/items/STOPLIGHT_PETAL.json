@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "STOPLIGHT_PETAL",
+  "_original_name": "Stoplight Petal",
+  "_original_lore": [
+    "This flower switches between green",
+    "and red as you try to harvest it.",
+    "Break it when it's green, but don't",
+    "touch it when it turns red or it'll",
+    "wither!",
+    "",
+    "Complete Visitor Beth's quest to",
+    "Analyze this crop!",
+    "",
+    "EPIC MUTATION"
+  ],
+  "name": "红绿灯花瓣",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "This flower switches between green",
+        "and red as you try to harvest it."
+      ],
+      "translation": "这朵花在你尝试采集时会在绿色和红色之间切换.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Break it when it's green, but don't",
+        "touch it when it turns red or it'll",
+        "wither!"
+      ],
+      "translation": "在它变绿时破坏它,但当它变红时不要碰它,否则它会枯萎!",
+      "styleMappings": {
+        "Break": "破坏",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Complete Visitor Beth's quest to",
+        "Analyze this crop!"
+      ],
+      "translation": "完成访客 Beth 的任务来分析这种作物!",
+      "styleMappings": {
+        "Visitor": "访客",
+        "Beth's": "Beth 的",
+        "Analyze": "分析"
+      }
+    },
+    {
+      "source": [
+        "EPIC MUTATION"
+      ],
+      "translation": "史诗变异",
+      "styleMappings": {
+        "EPIC MUTATION": "史诗变异",
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

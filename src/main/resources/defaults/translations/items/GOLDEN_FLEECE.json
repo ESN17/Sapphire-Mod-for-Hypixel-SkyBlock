@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": "GOLDEN_FLEECE",
+  "_original_name": "Golden Fleece",
+  "_original_lore": [
+    "True Defense: +10",
+    "Strength: +20",
+    "Crit Damage: +15%",
+    "",
+    "Grants +5 Magic Find on ",
+    "Mythological mobs.",
+    "",
+    "Ability: Empyrean Intuition ",
+    "Grants +15 Tracking on Griffin",
+    "Burrows.",
+    "",
+    "Right-click to equip!",
+    "",
+    "This item can be reforged!",
+    "LEGENDARY CLOAK"
+  ],
+  "name": "金羊毛",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "True Defense: {{N0}}"
+      ],
+      "translation": "真实防御: {{N0}}",
+      "styleMappings": {
+        "True Defense": "真实防御",
+        "Defense": "防御",
+        "True": "真实"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: {{N0}}"
+      ],
+      "translation": "暴击伤害:{{N0}}",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Magic Find on ",
+        "Mythological mobs."
+      ],
+      "translation": "对 神话生物提供 {{N0}} 稀有物品概率加成.",
+      "styleMappings": {
+        " Mythological": " 神话生物",
+        " Magic Find": " 稀有物品概率加成",
+        "Grants": "提供",
+        "Mythological": "神话生物",
+        "Magic Find": "稀有物品概率加成",
+        "mobs": "生物"
+      }
+    },
+    {
+      "source": [
+        "Ability: Empyrean Intuition "
+      ],
+      "translation": "能力: 苍穹直觉 ",
+      "styleMappings": {
+        "Ability": "能力"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Tracking on Griffin",
+        "Burrows."
+      ],
+      "translation": "对狮鹫洞穴提供 {{N0}} 追踪.",
+      "styleMappings": {
+        "Griffin Burrows": "狮鹫洞穴",
+        "Tracking": "追踪",
+        "Grants": "提供",
+        "Griffin": "狮鹫"
+      }
+    },
+    {
+      "source": [
+        "Right-click to equip!"
+      ],
+      "translation": "右键点击装备!",
+      "styleMappings": {
+        "Right-click to equip!": "右键点击装备!",
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY CLOAK"
+      ],
+      "translation": "传说 披风",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

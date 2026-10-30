@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 1,
+  "id": "GOBLIN_HELMET",
+  "_original_name": "Goblin Helmet",
+  "_original_lore": [
+    "Health: +70",
+    "Intelligence: -1",
+    "Mining Speed: +10",
+    "Mining Fortune: +4",
+    "Gemstones: [] []",
+    "",
+    "Full Set Bonus: Smart Miner (0/4)",
+    "Converts your Intelligence into",
+    "Mining Speed. +1 Mining Speed for",
+    "every 15 Intelligence removed.",
+    "",
+    "This item can be reforged!",
+    "RARE HELMET"
+  ],
+  "name": "哥布林头盔",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Mining Speed: {{N0}}"
+      ],
+      "translation": "采矿速度: {{N0}}",
+      "styleMappings": {
+        "Mining Speed": "采矿速度",
+        "Mining": "采矿",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Mining Fortune: {{N0}}"
+      ],
+      "translation": "采矿幸运: {{N0}}",
+      "styleMappings": {
+        "Mining Fortune": "采矿幸运",
+        "Mining": "采矿",
+        "Fortune": "幸运"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [] []"
+      ],
+      "translation": "宝石: [] []",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "": "",
+        "Gemstones": "宝石",
+        "] [": "] ["
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Smart Miner ({{N0}}/{{N1}})"
+      ],
+      "translation": "全套加成: 智能矿工 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Full Set Bonus: Smart Miner": "全套加成: 智能矿工",
+        "Full Set Bonus": "全套加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Converts your Intelligence into",
+        "Mining Speed. {{N0}} Mining Speed for",
+        "every {{N1}} Intelligence removed."
+      ],
+      "translation": "将你的智力转化为采矿速度.每移除 {{N1}} 智力,获得 {{N0}} 采矿速度.",
+      "styleMappings": {
+        " Intelligence": " 智力",
+        " Mining Speed": " 采矿速度",
+        "Intelligence": "智力",
+        "Mining Speed": "采矿速度",
+        "Converts": "转化为",
+        "removed": "移除",
+        "for": "获得",
+        "Mining": "采矿",
+        "Speed": "速度",
+        "into": "转化为"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "RARE HELMET"
+      ],
+      "translation": "稀有头盔",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Goblin Helmet": "哥布林头盔",
+    "Helmet": "头盔",
+    "Goblin": "哥布林"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

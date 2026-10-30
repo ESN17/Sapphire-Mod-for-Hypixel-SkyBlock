@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "PUZZLE_CUBE",
+  "_original_name": "Puzzle Cube",
+  "_original_lore": [
+    "Ability: Puzzle  RIGHT CLICK",
+    "Lets you solve a puzzle.",
+    "",
+    "Puzzles Solved: 187",
+    "",
+    "Purchased by: [MVP+] DungeonHub",
+    "Purchased for: 6,000,000,000 coins",
+    "",
+    "Auction #15",
+    "Bid #3",
+    "February 2025",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "谜题方块",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Puzzle  RIGHT CLICK"
+      ],
+      "translation": "能力: 谜题  右键点击",
+      "styleMappings": {
+        "Ability: Puzzle": "能力: 谜题",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "能力",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Lets you solve a puzzle."
+      ],
+      "translation": "让你解开一个谜题.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Puzzles Solved: {{N0}}"
+      ],
+      "translation": "已解谜题: {{N0}}",
+      "styleMappings": {
+        "Puzzles Solved": "已解谜题"
+      }
+    },
+    {
+      "source": [
+        "Purchased by: [MVP+] DungeonHub"
+      ],
+      "translation": "购买者: [最有价值玩家+] 地牢枢纽",
+      "styleMappings": {
+        "Purchased by:": "购买者:",
+        "MVP": "最有价值玩家"
+      }
+    },
+    {
+      "source": [
+        "Purchased for: {{N0}} coins"
+      ],
+      "translation": "购买价格: {{N0}} 硬币",
+      "styleMappings": {
+        "Purchased for": "购买价格",
+        "coins": "硬币"
+      }
+    },
+    {
+      "source": [
+        "Auction #{{N0}}",
+        "Bid #{{N1}}",
+        "February {{N2}}"
+      ],
+      "translation": "拍卖 #{{N0}} 出价 #{{N1}} 二月 {{N2}}",
+      "styleMappings": {
+        "February": "二月",
+        "Auction": "拍卖",
+        "Bid": "出价"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

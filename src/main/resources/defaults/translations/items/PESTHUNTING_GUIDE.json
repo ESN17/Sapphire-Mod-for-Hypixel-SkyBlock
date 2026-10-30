@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "PESTHUNTING_GUIDE",
+  "_original_name": "A Beginner's Guide to Pesthunting",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "When applied to armor, increases its",
+    "Pesterminator level by 1!",
+    "Can be applied once.",
+    "Requires Pesterminator V!",
+    "",
+    "An old, well-used handbook detailing",
+    "how to wrangle various pest types.",
+    "Many of these pests don't seem to",
+    "exist anymore - looks like someone",
+    "did a good job!",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "害虫猎手入门指南",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "When applied to armor, increases its",
+        "Pesterminator level by {{N0}}!"
+      ],
+      "translation": "应用于盔甲时, 将其害虫克星等级提高 {{N0}}!",
+      "styleMappings": {
+        "Pesterminator": "害虫克星"
+      }
+    },
+    {
+      "source": [
+        "Can be applied once."
+      ],
+      "translation": "只能应用一次.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Requires Pesterminator V!"
+      ],
+      "translation": "需要害虫克星 V!",
+      "styleMappings": {
+        "Requires": "需要",
+        "Pesterminator": "害虫克星"
+      }
+    },
+    {
+      "source": [
+        "An old, well-used handbook detailing",
+        "how to wrangle various pest types."
+      ],
+      "translation": "一本陈旧且翻阅多次的手册, 详细记载了如何对付各种害虫.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Many of these pests don't seem to",
+        "exist anymore - looks like someone",
+        "did a good job!"
+      ],
+      "translation": "这些害虫中许多似乎已不复存在 - 看来有人干得不错!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "A Beginner's Guide to Pesthunting": "害虫猎手入门指南"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

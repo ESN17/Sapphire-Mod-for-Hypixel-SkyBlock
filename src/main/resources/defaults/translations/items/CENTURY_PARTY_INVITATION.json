@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": "CENTURY_PARTY_INVITATION",
+  "_original_name": "Century Party Invitation",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Click on a player while holding this",
+    "item to add their SkyBlock Level",
+    "color to this item.",
+    "",
+    "Find one of each SkyBlock Level",
+    "color to permanently consume this",
+    "item and permanently gain +1☯ Social",
+    "Wisdom and 250,000 Coins.",
+    "",
+    "Level colors missing:",
+    "[0] - [39] Gray",
+    "[40] - [79] White",
+    "[80] - [119] Yellow",
+    "[120] - [159] Green",
+    "[160] - [199] Dark Green",
+    "[200] - [239] Aqua",
+    "[240] - [279] Cyan",
+    "[280] - [319] Blue",
+    "[320] - [359] Pink",
+    "[360] - [399] Purple",
+    "[400] - [439] Gold",
+    "[440] - [479] Red",
+    "[480]+ Dark Red",
+    "",
+    "You may only gain the bonus once!",
+    "",
+    "RARE"
+  ],
+  "name": "世纪派对邀请函",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Click on a player while holding this",
+        "item to add their SkyBlock Level",
+        "color to this item."
+      ],
+      "translation": "手持此物品时点击玩家,将其空岛生存等级颜色添加到此物品上.",
+      "styleMappings": {
+        "SkyBlock Level": "空岛生存等级",
+        "player": "玩家",
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Find one of each SkyBlock Level",
+        "color to permanently consume this",
+        "item and permanently gain {{N0}}☯ Social",
+        "Wisdom and {{N1}} Coins."
+      ],
+      "translation": "集齐每种空岛生存等级颜色后,此物品将被永久消耗,并永久获得 {{N0}}☯ 社交智慧 和 {{N1}} 硬币.",
+      "styleMappings": {
+        "SkyBlock Level": "空岛生存等级",
+        "Social Wisdom": "社交智慧",
+        "permanently": "永久",
+        "Coins": "硬币",
+        "item": "物品",
+        "Wisdom": "智慧",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "Level colors missing:"
+      ],
+      "translation": "缺少的等级颜色:",
+      "styleMappings": {
+        "Level": "等级"
+      }
+    },
+    {
+      "source": [
+        "[{{N0}}] - [{{N1}}] Gray",
+        "[{{N2}}] - [{{N3}}] White",
+        "[{{N4}}] - [{{N5}}] Yellow",
+        "[{{N6}}] - [{{N7}}] Green",
+        "[{{N8}}] - [{{N9}}] Dark Green",
+        "[{{N10}}] - [{{N11}}] Aqua",
+        "[{{N12}}] - [{{N13}}] Cyan",
+        "[{{N14}}] - [{{N15}}] Blue",
+        "[{{N16}}] - [{{N17}}] Pink",
+        "[{{N18}}] - [{{N19}}] Purple",
+        "[{{N20}}] - [{{N21}}] Gold",
+        "[{{N22}}] - [{{N23}}] Red"
+      ],
+      "translation": "[{{N0}}] - [{{N1}}] 灰色 [{{N2}}] - [{{N3}}] 白色 [{{N4}}] - [{{N5}}] 黄色 [{{N6}}] - [{{N7}}] 绿色 [{{N8}}] - [{{N9}}] 深绿色 [{{N10}}] - [{{N11}}] 水蓝色 [{{N12}}] - [{{N13}}] 青色 [{{N14}}] - [{{N15}}] 蓝色 [{{N16}}] - [{{N17}}] 粉色 [{{N18}}] - [{{N19}}] 紫色 [{{N20}}] - [{{N21}}] 金色 [{{N22}}] - [{{N23}}] 红色",
+      "styleMappings": {
+        "Dark Green": "深绿色",
+        "Purple": "紫色",
+        "Yellow": "黄色",
+        "Gold": "金色",
+        "Green": "绿色",
+        "White": "白色",
+        "Aqua": "水蓝色",
+        "Blue": "蓝色",
+        "Cyan": "青色",
+        "Gray": "灰色",
+        "Pink": "粉色",
+        "Red": "红色",
+        "-": "-",
+        "[": "["
+      }
+    },
+    {
+      "source": [
+        "[{{N0}}]+ Dark Red"
+      ],
+      "translation": "[{{N0}}]+ 深红色",
+      "styleMappings": {
+        "Dark Red": "深红色",
+        "[": "[",
+        "Red": "红色"
+      }
+    },
+    {
+      "source": [
+        "You may only gain the bonus once!"
+      ],
+      "translation": "你只能获得一次该奖励!",
+      "styleMappings": {
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

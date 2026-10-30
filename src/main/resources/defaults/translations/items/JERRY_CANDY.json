@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "id": "JERRY_CANDY",
+  "_original_name": "Jerry Candy",
+  "_original_lore": [
+    "Right-click to consume and",
+    "gain the Jerry Effect (20:00):",
+    " +100 Health",
+    " +20 Strength",
+    " +2 Ferocity",
+    " +100 Intelligence",
+    " +3 Magic Find",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "杰瑞 糖果",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Right-click to consume and"
+      ],
+      "translation": "右键点击以消耗并",
+      "styleMappings": {
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "gain the Jerry Effect ({{N0}}:{{N1}}):"
+      ],
+      "translation": "获得 杰瑞效应 ({{N0}}:{{N1}}):",
+      "styleMappings": {
+        "Jerry Effect": "杰瑞效应",
+        "Jerry": "杰瑞",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        " {{N0}} Health",
+        " {{N1}} Strength",
+        " {{N2}} Ferocity",
+        " {{N3}} Intelligence",
+        " {{N4}} Magic Find"
+      ],
+      "translation": " {{N0}} 生命值  {{N1}} 力量  {{N2}} 残暴值  {{N3}} 智力  {{N4}} 稀有物品概率加成",
+      "styleMappings": {
+        "Intelligence": "智力",
+        " Magic Find": " 稀有物品概率加成",
+        " Strength": " 力量",
+        "Ferocity": "残暴值",
+        "Health": "生命值",
+        "": "",
+        " Health": " 生命",
+        "Strength": "力量",
+        "Magic Find": "稀有物品概率加成",
+        " Intelligence": " 智力"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Candy": "糖果",
+    "Jerry": "杰瑞"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

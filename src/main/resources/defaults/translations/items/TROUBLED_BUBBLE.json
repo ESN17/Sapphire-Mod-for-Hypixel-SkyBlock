@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "id": "TROUBLED_BUBBLE",
+  "_original_name": "Troubled Bubble",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "When applied to a fishing rod,",
+    "increases its Piscary level by 1!",
+    "Can be applied once.",
+    "Requires Piscary VI!",
+    "",
+    "Something is troubling this bubble,",
+    "perhaps the lingering threat of the",
+    "Wiki-Tiki.",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "浑浊气泡",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "When applied to a fishing rod,",
+        "increases its Piscary level by {{N0}}!"
+      ],
+      "translation": "应用于钓鱼竿时,使其渔获等级提高 {{N0}}!",
+      "styleMappings": {
+        "Piscary": "渔获",
+        "fishing": "钓鱼"
+      }
+    },
+    {
+      "source": [
+        "Can be applied once."
+      ],
+      "translation": "只能应用一次.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Requires Piscary VI!"
+      ],
+      "translation": "需要渔获 VI!",
+      "styleMappings": {
+        "Requires": "需要",
+        "Piscary VI": "渔获 VI",
+        "Piscary": "渔获"
+      }
+    },
+    {
+      "source": [
+        "Something is troubling this bubble,",
+        "perhaps the lingering threat of the",
+        "Wiki-Tiki."
+      ],
+      "translation": "有什么东西在困扰这个气泡,也许是维基提基挥之不去的威胁.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Troubled Bubble": "浑浊气泡"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

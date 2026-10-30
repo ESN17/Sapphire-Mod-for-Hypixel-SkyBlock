@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "CHOCONUT",
+  "_original_name": "Choconut",
+  "_original_lore": [
+    "Its shell is tough, but inside, it's",
+    "filled with pure chocolate.",
+    "",
+    "Complete Visitor Beth's quest to",
+    "Analyze this crop!",
+    "",
+    "COMMON MUTATION"
+  ],
+  "name": "巧克力椰",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Its shell is tough, but inside, it's",
+        "filled with pure chocolate."
+      ],
+      "translation": "它的外壳坚硬,但里面装满了纯巧克力.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Complete Visitor Beth's quest to",
+        "Analyze this crop!"
+      ],
+      "translation": "完成访客 Beth 的任务来分析这种作物!",
+      "styleMappings": {
+        "Visitor": "访客",
+        "Beth's": "Beth 的",
+        "Analyze": "分析"
+      }
+    },
+    {
+      "source": [
+        "COMMON MUTATION"
+      ],
+      "translation": "普通变异",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

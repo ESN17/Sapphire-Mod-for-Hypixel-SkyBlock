@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "SHEEP_ANIMAL",
+  "_original_name": "Sheep (Animal)",
+  "_original_lore": [
+    "Sheep in Hypixel Skyblock are just the classic",
+    "peaceful animal like in vanilla. They can be found",
+    "on The Farming Islands.",
+    "",
+    "❤ Health: 50"
+  ],
+  "name": "绵羊 (动物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Sheep in Hypixel Skyblock are just the classic",
+        "peaceful animal like in vanilla. They can be found",
+        "on The Farming Islands."
+      ],
+      "translation": "海像素空岛中的绵羊就像原版中经典的和平动物一样.它们可以在农业群岛上找到.",
+      "styleMappings": {
+        "peaceful animal": "和平动物",
+        "Farming": "农业",
+        "Hypixel": "海像素"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sheep (Animal)": "绵羊 (动物)",
+    "Animal": "动物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "id": "SPELL_POWDER",
+  "_original_name": "Spell Powder",
+  "_original_lore": [
+    "Looks like Sulphur, smells like",
+    "Sulphur... Suspicious.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "EPIC"
+  ],
+  "name": "咒术粉末",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Looks like Sulphur, smells like",
+        "Sulphur... Suspicious."
+      ],
+      "translation": "看起来像硫磺,闻起来像硫磺... 可疑.",
+      "styleMappings": {
+        "Sulphur": "硫磺",
+        "Suspicious": "可疑"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Powder": "粉末"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "CANDY_ARTIFACT",
+  "_original_name": "Candy Artifact",
+  "_original_lore": [
+    "Accessory Power: +12",
+    "",
+    "Increases the drop chance of",
+    "candies from mobs by 15% during the",
+    "Spooky Festival.",
+    "",
+    "Works while in Accessory Bag!",
+    "EPIC ACCESSORY"
+  ],
+  "name": "糖果神器",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Accessory Power: {{N0}}"
+      ],
+      "translation": "饰品能量: {{N0}}",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "Increases the drop chance of",
+        "candies from mobs by {{N0}} during the",
+        "Spooky Festival."
+      ],
+      "translation": "在万圣节活动期间,怪物掉落糖果的概率提高 {{N0}}.",
+      "styleMappings": {
+        "Spooky Festival": "万圣节活动",
+        "mobs": "怪物",
+        "chance": "概率",
+        "Spooky": "万圣节"
+      }
+    },
+    {
+      "source": [
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "放在饰品袋中即可生效!",
+      "styleMappings": {
+        "Accessory Bag": "饰品袋",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "EPIC ACCESSORY"
+      ],
+      "translation": "史诗饰品",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Candy": "糖果",
+    "Artifact": "神器"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "SUPER_COMPACTOR_3000",
+  "_original_name": "Super Compactor 3000",
+  "_original_lore": [
+    "Minion Upgrade",
+    "",
+    "This item can be used as a minion",
+    "upgrade. This will automatically turn",
+    "materials that a minion produces into",
+    "their enchanted form when there",
+    "are enough resources in the",
+    "minion's storage.",
+    "",
+    "RARE"
+  ],
+  "name": "超级压缩器 3000",
+  "lore": {
+    "Minion Upgrade": "仆从升级组件",
+    "RARE": "稀有"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "This item can be used as a minion",
+        "upgrade. This will automatically turn",
+        "materials that a minion produces into",
+        "their enchanted form when there",
+        "are enough resources in the",
+        "minion's storage."
+      ],
+      "translation": "可用作仆从升级组件.仆从储存的材料数量足够时,会自动将其合成为附魔形态.",
+      "styleMappings": {
+        "minion": "仆从",
+        "automatically": "自动",
+        "upgrade": "升级",
+        "when": "时",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Minion Upgrade"
+      ],
+      "translation": "仆从升级组件",
+      "styleMappings": {
+        "Minion Upgrade": "仆从升级",
+        "Minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "This item can be used as a minion"
+      ],
+      "translation": "此物品可作为仆从",
+      "styleMappings": {
+        "item": "物品",
+        "minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "upgrade. This will automatically turn",
+        "materials that a minion produces into",
+        "their enchanted form when there",
+        "are enough resources in the",
+        "minion's storage."
+      ],
+      "translation": "升级.当仆从的存储中有足够资源时,会自动将仆从产出的材料转化为其附魔形式.",
+      "styleMappings": {
+        "automatically": "自动",
+        "upgrade": "升级",
+        "minion": "仆从",
+        "into": "转化为",
+        "when": "时",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "WINTER_DISC",
+  "_original_name": "Winter Disc",
+  "_original_lore": [
+    "Place this inside a jukebox to play a",
+    "winter song!",
+    "",
+    "Let Them Eat Cake",
+    "  By ShinkoNet",
+    "",
+    "RARE"
+  ],
+  "name": "冬季唱片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Place this inside a jukebox to play a",
+        "winter song!"
+      ],
+      "translation": "将此放入唱片机以播放冬季歌曲!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Let Them Eat Cake"
+      ],
+      "translation": "让他们吃蛋糕",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "  By ShinkoNet"
+      ],
+      "translation": "  作者 辛科网",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Winter": "冬季"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

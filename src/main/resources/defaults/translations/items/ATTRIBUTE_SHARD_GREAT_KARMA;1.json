@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "id": "ATTRIBUTE_SHARD_GREAT_KARMA;1",
+  "_original_name": "Lizard King Shard",
+  "_original_lore": [
+    "Great Karma I",
+    "Grants +1  Hunting Fortune",
+    "towards RARE Attributes.",
+    "",
+    "You can Syphon this shard from",
+    "your Hunting Box.",
+    "",
+    "Right-click to send to Hunting Box!",
+    "Shift Right-click to move all!",
+    "",
+    "❣ Requires Hunting Skill 10.",
+    "RARE WATER SHARD (ID R8)"
+  ],
+  "name": "蜥蜴王碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Great Karma I"
+      ],
+      "translation": "大善业 I",
+      "styleMappings": {
+        "Great Karma I": "大善业 I"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}  Hunting Fortune",
+        "towards RARE Attributes."
+      ],
+      "translation": "对稀有属性给予 {{N0}}  狩猎幸运.",
+      "styleMappings": {
+        "Hunting Fortune": "狩猎幸运",
+        "RARE": "稀有",
+        "Grants": "给予",
+        "Fortune": "幸运"
+      }
+    },
+    {
+      "source": [
+        "You can Syphon this shard from",
+        "your Hunting Box."
+      ],
+      "translation": "你可以从狩猎箱中吸取此碎片.",
+      "styleMappings": {
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to send to Hunting Box!"
+      ],
+      "translation": "右键点击发送至狩猎箱!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Shift Right-click to move all!"
+      ],
+      "translation": "潜行键 右键点击全部移动!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "all": "全部"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Hunting Skill {{N0}}."
+      ],
+      "translation": "❣ 需要狩猎技能 {{N0}}.",
+      "styleMappings": {
+        "Hunting Skill": "狩猎技能",
+        "Requires": "需要",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "RARE WATER SHARD (ID R{{N0}})"
+      ],
+      "translation": "稀有水生碎片 (ID 阿{{N0}})",
+      "styleMappings": {
+        "RARE WATER SHARD": "稀有水生碎片",
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shard": "碎片"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

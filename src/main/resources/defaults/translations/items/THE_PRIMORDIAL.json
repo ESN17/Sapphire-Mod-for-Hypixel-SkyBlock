@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "id": "THE_PRIMORDIAL",
+  "_original_name": "The Primordial",
+  "_original_lore": [
+    "Strength: +15",
+    "Crit Damage: +20%",
+    "",
+    "Ability: Forced Metamorphosis ",
+    "When killing a Slayer Boss or Slayer Miniboss,",
+    "have a 10% chance to cocoon them!",
+    "Cocooned enemies will quickly hatch, and can be",
+    "killed again.",
+    "",
+    "An eye torn from the Primordial Brood sits dead",
+    "center, patiently observing. Are you truly the",
+    "one in control here?",
+    "",
+    "Right-click to equip!",
+    "",
+    "This item can be reforged!",
+    "☠ Requires Spider Slayer 8.",
+    "LEGENDARY BELT"
+  ],
+  "name": "原初之物",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: {{N0}}"
+      ],
+      "translation": "暴击伤害:{{N0}}",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Ability: Forced Metamorphosis "
+      ],
+      "translation": "能力: 强制蜕变 ",
+      "styleMappings": {
+        "Ability: Forced Metamorphosis": "能力: 强制蜕变",
+        "Ability": "能力"
+      }
+    },
+    {
+      "source": [
+        "When killing a Slayer Boss or Slayer Miniboss,",
+        "have a {{N0}} chance to cocoon them!"
+      ],
+      "translation": "击杀杀手首领或杀手小首领时,有 {{N0}} 概率将其结茧!",
+      "styleMappings": {
+        "Slayer Miniboss": "杀手小首领",
+        "Slayer Boss": "杀手首领",
+        "chance to": "概率",
+        "Boss": "首领",
+        "Miniboss": "小首领",
+        "chance": "概率",
+        "Slayer": "杀手"
+      }
+    },
+    {
+      "source": [
+        "Cocooned enemies will quickly hatch, and can be",
+        "killed again."
+      ],
+      "translation": "被结茧的敌人会迅速孵化,并可再次被击杀.",
+      "styleMappings": {
+        "enemies": "敌人"
+      }
+    },
+    {
+      "source": [
+        "An eye torn from the Primordial Brood sits dead",
+        "center, patiently observing. Are you truly the",
+        "one in control here?"
+      ],
+      "translation": "一只从原初之巢撕下的眼睛端坐正中,耐心地注视着.你真的是这里掌控一切的人吗?",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to equip!"
+      ],
+      "translation": "右键点击装备!",
+      "styleMappings": {
+        "Right-click to equip!": "右键点击装备!",
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Spider Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要蜘蛛杀手 {{N0}}.",
+      "styleMappings": {
+        "Spider Slayer": "蜘蛛杀手",
+        "Requires": "需要",
+        "Spider": "蜘蛛",
+        "Slayer": "杀手"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY BELT"
+      ],
+      "translation": "传说 腰带",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Primordial": "原初之物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

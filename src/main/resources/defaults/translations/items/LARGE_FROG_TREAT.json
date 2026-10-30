@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "LARGE_FROG_TREAT",
+  "_original_name": "Large Frog Treat",
+  "_original_lore": [
+    "Use at Kat to upgrade Frog Pets",
+    "from Rare to Epic.",
+    "",
+    "EPIC"
+  ],
+  "name": "大型青蛙零食",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Use at Kat to upgrade Frog Pets",
+        "from Rare to Epic."
+      ],
+      "translation": "在 Kat 处使用,将青蛙宠物从稀有升级为史诗.",
+      "styleMappings": {
+        "Frog Pets": "青蛙宠物",
+        "upgrade": "升级",
+        "Epic": "史诗",
+        "Rare": "稀有",
+        "Kat": "Kat",
+        "Pets": "宠物",
+        "Frog": "青蛙"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Frog": "青蛙"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

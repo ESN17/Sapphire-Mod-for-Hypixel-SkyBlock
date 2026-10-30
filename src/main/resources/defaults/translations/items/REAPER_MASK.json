@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 1,
+  "id": "REAPER_MASK",
+  "_original_name": "Reaper Mask",
+  "_original_lore": [
+    "Health: +150",
+    "Defense: +100",
+    "Intelligence: +100",
+    "Vitality: +60",
+    "Mending: +60",
+    "Gemstones: [] []",
+    "",
+    "Ability: Evil Incarnate ",
+    "While wearing:",
+    "• Zombie Armor triggers on all hits.",
+    "• Store 2 extra necromancer souls.",
+    "• Summon 2 more necromancy mobs.",
+    "",
+    "This item is Undead !",
+    "",
+    "This item can be reforged!",
+    "☠ Requires Zombie Slayer 7.",
+    "LEGENDARY HELMET"
+  ],
+  "name": "死神面具",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Vitality: {{N0}}"
+      ],
+      "translation": "生命恢复: {{N0}}",
+      "styleMappings": {
+        "Vitality": "生命恢复"
+      }
+    },
+    {
+      "source": [
+        "Mending: {{N0}}"
+      ],
+      "translation": "修复:{{N0}}",
+      "styleMappings": {
+        "Mending": "修复"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [] []"
+      ],
+      "translation": "宝石: [] []",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "] []": "] []",
+        "[": "[",
+        "Gemstones": "宝石",
+        "] [": "] ["
+      }
+    },
+    {
+      "source": [
+        "Ability: Evil Incarnate "
+      ],
+      "translation": "能力: 邪恶化身 ",
+      "styleMappings": {
+        "Ability: Evil Incarnate": "能力: 邪恶化身",
+        "Ability": "能力"
+      }
+    },
+    {
+      "source": [
+        "While wearing:"
+      ],
+      "translation": "穿戴时:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "• Zombie Armor triggers on all hits."
+      ],
+      "translation": "• 僵尸护甲在所有攻击时触发.",
+      "styleMappings": {
+        "Zombie Armor": "僵尸护甲",
+        "Armor": "护甲",
+        "Zombie": "僵尸"
+      }
+    },
+    {
+      "source": [
+        "• Store {{N0}} extra necromancer souls."
+      ],
+      "translation": "• 额外储存 {{N0}} 个死灵法师灵魂.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "• Summon {{N0}} more necromancy mobs."
+      ],
+      "translation": "• 额外召唤 {{N0}} 个死灵生物.",
+      "styleMappings": {
+        "more": "额外",
+        "mobs": "生物"
+      }
+    },
+    {
+      "source": [
+        "This item is Undead !"
+      ],
+      "translation": "此物品属于亡灵 !",
+      "styleMappings": {
+        "Undead": "亡灵",
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Zombie Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要僵尸杀手 {{N0}}.",
+      "styleMappings": {
+        "Zombie Slayer": "僵尸杀手",
+        "Requires": "需要",
+        "Zombie": "僵尸",
+        "Slayer": "杀手"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY HELMET"
+      ],
+      "translation": "传说 头盔",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mask": "面具",
+    "Reaper Mask": "死神面具"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

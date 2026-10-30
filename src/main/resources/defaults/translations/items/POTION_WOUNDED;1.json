@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_WOUNDED;1",
+  "_original_name": "Wounded I Potion",
+  "_original_lore": [
+    "",
+    "Wounded I (3:00)",
+    "Reduces 25% of healing.",
+    "",
+    "COMMON"
+  ],
+  "name": "创伤 I 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Wounded I ({{N0}}:{{N1}})"
+      ],
+      "translation": "创伤 I ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Wounded I": "创伤 I"
+      }
+    },
+    {
+      "source": [
+        "Reduces {{N0}} of healing."
+      ],
+      "translation": "降低 {{N0}} 的治疗效果.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Wounded I": "创伤 I"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

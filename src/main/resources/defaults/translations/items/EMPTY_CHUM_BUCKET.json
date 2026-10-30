@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "EMPTY_CHUM_BUCKET",
+  "_original_name": "Empty Chum Bucket",
+  "_original_lore": [
+    "Place it down next to water.",
+    "",
+    "Sea Creatures slain nearby will drop",
+    "+1 Chum.",
+    "Up to +4 total from buckets!",
+    "",
+    "COMMON"
+  ],
+  "name": "空诱饵桶",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Place it down next to water."
+      ],
+      "translation": "把它放在水边.",
+      "styleMappings": {
+        "water": "水"
+      }
+    },
+    {
+      "source": [
+        "Sea Creatures slain nearby will drop",
+        "{{N0}} Chum."
+      ],
+      "translation": "附近被击杀的海洋生物会掉落 {{N0}} 个鱼饵.",
+      "styleMappings": {
+        "Sea Creatures": "海洋生物",
+        "Chum": "鱼饵"
+      }
+    },
+    {
+      "source": [
+        "Up to {{N0}} total from buckets!"
+      ],
+      "translation": "从桶中最多可获得 {{N0}} 个!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Chum": "诱饵"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

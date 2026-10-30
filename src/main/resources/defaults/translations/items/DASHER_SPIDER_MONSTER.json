@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "id": "DASHER_SPIDER_MONSTER",
+  "_original_name": "Dasher Spider (Monster)",
+  "_original_lore": [
+    "The Dasher Spider is one of the types of spiders",
+    "found in the Spider's Den. It launches itself",
+    "towards the player, damaging them in the process.",
+    "",
+    "❤ Health: 170 - 900"
+  ],
+  "name": "冲刺蜘蛛 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Dasher Spider is one of the types of spiders",
+        "found in the Spider's Den. It launches itself",
+        "towards the player, damaging them in the process."
+      ],
+      "translation": "冲刺蜘蛛是蜘蛛巢穴中发现的蜘蛛种类之一.它会朝玩家冲去,并在过程中造成伤害.",
+      "styleMappings": {
+        "Dasher Spider": "冲刺蜘蛛",
+        "Spider's Den": "蜘蛛巢穴",
+        "player": "玩家",
+        "Spider": "蜘蛛",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}} - {{N1}}"
+      ],
+      "translation": "❤ 生命值: {{N0}} - {{N1}}",
+      "styleMappings": {
+        "Health": "生命值",
+        "-": "-"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Dasher Spider": "冲刺蜘蛛",
+    "(Monster)": "(怪物)",
+    "Spider": "蜘蛛",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

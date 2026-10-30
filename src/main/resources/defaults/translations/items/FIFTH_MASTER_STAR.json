@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "FIFTH_MASTER_STAR",
+  "_original_name": "Fifth Master Star",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Upgrade a Dungeon Item's Master",
+    "Stars from ➍➜➎, increasing all",
+    "stats by an additional +5% in Master",
+    "Mode!",
+    "",
+    "EPIC DUNGEON ITEM"
+  ],
+  "name": "第五大师之星",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Upgrade a Dungeon Item's Master",
+        "Stars from ➍➜➎, increasing all",
+        "stats by an additional {{N0}} in Master",
+        "Mode!"
+      ],
+      "translation": "将地牢物品的大师之星从 ➍➜➎ 升级,在大师模式中额外增加 {{N0}} 所有属性!",
+      "styleMappings": {
+        "Dungeon Item": "地牢物品",
+        "Master Stars": "大师之星",
+        "Master Mode": "大师模式",
+        "additional": "额外",
+        "stats": "属性",
+        "➍": "➍",
+        "Item": "物品",
+        "Dungeon": "地牢",
+        "Master": "大师"
+      }
+    },
+    {
+      "source": [
+        "EPIC DUNGEON ITEM"
+      ],
+      "translation": "史诗 地牢物品",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Master": "大师"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

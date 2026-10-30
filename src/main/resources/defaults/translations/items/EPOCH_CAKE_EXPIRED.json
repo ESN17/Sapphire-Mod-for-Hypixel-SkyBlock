@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "id": "EPOCH_CAKE_EXPIRED",
+  "_original_name": "Long-Expired Century Cake",
+  "_original_lore": [
+    "Furniture",
+    "",
+    "Furniture can be placed on your",
+    "world. Some furniture is interactable",
+    "while some are purely cosmetic.",
+    "",
+    "Invite your friends to share a slice",
+    "of cake! Eating this cake grants +5",
+    "Sweep for 48 hours.",
+    "",
+    "Obtained in Year 500.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "过期已久的世纪蛋糕",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Furniture"
+      ],
+      "translation": "家具",
+      "styleMappings": {
+        "Furniture": "家具"
+      }
+    },
+    {
+      "source": [
+        "Furniture can be placed on your",
+        "world. Some furniture is interactable",
+        "while some are purely cosmetic."
+      ],
+      "translation": "家具可以放置在你的世界中.部分家具可以互动,部分则纯粹是装饰.",
+      "styleMappings": {
+        "Furniture": "家具"
+      }
+    },
+    {
+      "source": [
+        "Invite your friends to share a slice",
+        "of cake! Eating this cake grants {{N0}}",
+        "Sweep for {{N1}} hours."
+      ],
+      "translation": "邀请你的朋友来分享一块蛋糕!食用此蛋糕可获得 {{N0}} 横扫,持续 {{N1}} 小时.",
+      "styleMappings": {
+        "Sweep": "横扫",
+        "hours": "小时",
+        "for": "持续"
+      }
+    },
+    {
+      "source": [
+        "Obtained in Year {{N0}}."
+      ],
+      "translation": "于第 {{N0}} 年获得.",
+      "styleMappings": {
+        "Year {{N0}}": "第 {{N0}} 年",
+        "Year": "年"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Century Cake": "世纪蛋糕"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": "MELON_JUICE_MIXIN",
+  "_original_name": "Melon Juice Mixin",
+  "_original_lore": [
+    "Brewing Ingredient",
+    "",
+    "Mixins provide a buff that can be",
+    "added to God Potions in a brewing",
+    "stand and lasts for the full duration.",
+    "",
+    "Grants +15 Farming Fortune",
+    "",
+    "Duration: 36h 0m",
+    "",
+    "The duration of Mixins can be stacked!",
+    "",
+    "Right-click to consume!",
+    "(Requires active Booster Cookie)",
+    "",
+    "RARE"
+  ],
+  "name": "西瓜汁混合剂",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Brewing Ingredient"
+      ],
+      "translation": "酿造材料",
+      "styleMappings": {
+        "Brewing Ingredient": "酿造材料"
+      }
+    },
+    {
+      "source": [
+        "Mixins provide a buff that can be",
+        "added to God Potions in a brewing",
+        "stand and lasts for the full duration."
+      ],
+      "translation": "添加剂提供一种增益,可在酿造台中添加到神药水中,并持续完整时长.",
+      "styleMappings": {
+        "God Potions": "神药水",
+        "lasts": "持续",
+        "for": "持续",
+        "Potions": "药水"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Farming Fortune"
+      ],
+      "translation": "提供 {{N0}} 农业幸运",
+      "styleMappings": {
+        "Farming Fortune": "农业幸运",
+        "Grants": "提供",
+        "Fortune": "幸运",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "Duration: {{N0}}h {{N1}}m"
+      ],
+      "translation": "持续时间: {{N0}}小时 {{N1}}分钟",
+      "styleMappings": {
+        "Duration": "持续时间",
+        "{{N0}}h": "{{N0}}小时",
+        "{{N1}}m": "{{N1}}分钟"
+      }
+    },
+    {
+      "source": [
+        "The duration of Mixins can be stacked!"
+      ],
+      "translation": "添加剂的持续时间可以叠加!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "(Requires active Booster Cookie)"
+      ],
+      "translation": "(需要激活的增益曲奇)",
+      "styleMappings": {
+        "Booster Cookie": "增益曲奇",
+        "Requires": "需要",
+        "Cookie": "曲奇"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Melon": "西瓜"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

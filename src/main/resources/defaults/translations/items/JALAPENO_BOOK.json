@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "JALAPENO_BOOK",
+  "_original_name": "Jalapeno Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Combine this Book in an Anvil with a",
+    "deployable to gain a small but",
+    "permanent stat boost!",
+    "",
+    "EPIC"
+  ],
+  "name": "墨西哥辣椒书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Combine this Book in an Anvil with a",
+        "deployable to gain a small but",
+        "permanent stat boost!"
+      ],
+      "translation": "在铁砧中将此书与一个可部署物结合,以获得少量但永久的属性提升!",
+      "styleMappings": {
+        "Anvil": "铁砧",
+        "deployable": "可部署物",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

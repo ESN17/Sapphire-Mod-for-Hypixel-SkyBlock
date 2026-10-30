@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "COMBO_MANIA_TALISMAN",
+  "_original_name": "Combo Mania",
+  "_original_lore": [
+    "Ability: Combo Mania ",
+    "Combos in the Time Chamber take +0.5",
+    "seconds to expire.",
+    "",
+    "UNCOMMON ACCESSORY"
+  ],
+  "name": "连击狂热",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Combo Mania "
+      ],
+      "translation": "能力:连击狂热 ",
+      "styleMappings": {
+        "Ability": "能力",
+        "Combo": "连击"
+      }
+    },
+    {
+      "source": [
+        "Combos in the Time Chamber take {{N0}}",
+        "seconds to expire."
+      ],
+      "translation": "时间密室中的连击需要 {{N0}} 秒才会过期.",
+      "styleMappings": {
+        "Time Chamber": "时间密室",
+        "seconds": "秒",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON ACCESSORY"
+      ],
+      "translation": "罕见 饰品",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Combo": "连击"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

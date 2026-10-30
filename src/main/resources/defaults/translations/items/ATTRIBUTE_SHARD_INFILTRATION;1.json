@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "id": "ATTRIBUTE_SHARD_INFILTRATION;1",
+  "_original_name": "Earthworm Shard",
+  "_original_lore": [
+    "Infiltration I",
+    "Grants +3  Farming Fortune if",
+    "your Garden Plot currently has a ",
+    "Pest in it.",
+    "",
+    "You can Syphon this shard from",
+    "your Hunting Box.",
+    "",
+    "Right-click to send to Hunting Box!",
+    "Shift Right-click to move all!",
+    "",
+    "❣ Requires Hunting Skill 5.",
+    "UNCOMMON FOREST SHARD (ID U40)"
+  ],
+  "name": "蚯蚓碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Infiltration I"
+      ],
+      "translation": "渗透 I",
+      "styleMappings": {
+        "I": "I"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}  Farming Fortune if",
+        "your Garden Plot currently has a ",
+        "Pest in it."
+      ],
+      "translation": "如果你的花园地块当前有  害虫,则获得 {{N0}}  农业幸运.",
+      "styleMappings": {
+        "Farming Fortune": "农业幸运",
+        "Garden": "花园",
+        "Grants": "获得",
+        "Pest": "害虫",
+        "Fortune": "幸运",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "You can Syphon this shard from",
+        "your Hunting Box."
+      ],
+      "translation": "你可以从狩猎箱中吸取此碎片.",
+      "styleMappings": {
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to send to Hunting Box!"
+      ],
+      "translation": "右键点击发送至狩猎箱!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Shift Right-click to move all!"
+      ],
+      "translation": "潜行键 右键点击全部移动!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "all": "全部"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Hunting Skill {{N0}}."
+      ],
+      "translation": "❣ 需要狩猎技能 {{N0}}.",
+      "styleMappings": {
+        "Hunting Skill": "狩猎技能",
+        "Requires": "需要",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON FOREST SHARD (ID U{{N0}})"
+      ],
+      "translation": "罕见森林碎片 (ID 优{{N0}})",
+      "styleMappings": {
+        "UNCOMMON FOREST SHARD": "罕见森林碎片",
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Earthworm": "蚯蚓",
+    "Shard": "碎片"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

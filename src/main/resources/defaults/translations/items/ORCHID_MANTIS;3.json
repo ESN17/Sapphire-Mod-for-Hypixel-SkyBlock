@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "id": "ORCHID_MANTIS;3",
+  "_original_name": "[Lvl {LVL}] Orchid Mantis",
+  "_original_lore": [
+    "Farming Pet",
+    "",
+    "Speed: +{SPEED}",
+    "Overbloom: +{OVERBLOOM}",
+    "",
+    "Intelligent Specimen",
+    "Earn +{0}% more Farming Tool Exp.",
+    "",
+    "Swift Sickles",
+    "Convert every 3  Speed you have",
+    "above 100 into +{1} Farming",
+    "Fortune.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "EPIC PET"
+  ],
+  "name": "[等级 {LVL}] 兰花螳螂",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Farming Pet"
+      ],
+      "translation": "耕作宠物",
+      "styleMappings": {
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Speed: +{{N0}}"
+      ],
+      "translation": "速度: +{{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Overbloom: +{{N0}}"
+      ],
+      "translation": "稀有作物概率加成: +{{N0}}",
+      "styleMappings": {
+        "Overbloom": "稀有作物概率加成"
+      }
+    },
+    {
+      "source": [
+        "Intelligent Specimen"
+      ],
+      "translation": "智能标本",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Earn +{{N0}}% more Farming Tool Exp."
+      ],
+      "translation": "获得 +{{N0}}% 额外农具经验.",
+      "styleMappings": {
+        "more": "额外",
+        "Farming Tool": "农具",
+        "Exp": "经验"
+      }
+    },
+    {
+      "source": [
+        "Swift Sickles"
+      ],
+      "translation": "迅捷镰刀",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Convert every {{N0}}  Speed you have",
+        "above {{N1}} into +{{N2}} Farming",
+        "Fortune."
+      ],
+      "translation": "每拥有 {{N0}} 速度,将超过 {{N1}} 的部分转化为 +{{N2}} 农业财富.",
+      "styleMappings": {
+        "Farming Fortune": "农业财富",
+        "Convert": "转化",
+        " Speed": " 速度",
+        "Speed": "速度",
+        "Farming": "农业",
+        "into": "转化为"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "EPIC PET"
+      ],
+      "translation": "史诗 宠物",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

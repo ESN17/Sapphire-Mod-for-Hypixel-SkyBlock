@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "POORLY_WRAPPED_ROCK",
+  "_original_name": "Poorly Wrapped Rock",
+  "_original_lore": [
+    "Quest Item",
+    "",
+    "Bring it to Juliette in The Park.",
+    "",
+    "Uneven, unkempt, disjointed, and",
+    "that's just the guy who wrapped it!",
+    "",
+    "* Co-op Soulbound *",
+    "COMMON"
+  ],
+  "name": "包装拙劣的石头",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Quest Item"
+      ],
+      "translation": "任务物品",
+      "styleMappings": {
+        "Item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Bring it to Juliette in The Park."
+      ],
+      "translation": "把它带给公园的 Juliette.",
+      "styleMappings": {
+        "Juliette": "Juliette",
+        "The Park": "公园"
+      }
+    },
+    {
+      "source": [
+        "Uneven, unkempt, disjointed, and",
+        "that's just the guy who wrapped it!"
+      ],
+      "translation": "凹凸不平、杂乱无章、支离破碎,而这还只是包装它的人!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

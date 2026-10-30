@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "ROCK_THE_FISH",
+  "_original_name": "Rock the Fish",
+  "_original_lore": [
+    "Don't take me for granite.",
+    "",
+    "SPECIAL"
+  ],
+  "name": "石头鱼",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Don't take me for granite."
+      ],
+      "translation": "别把我当成花岗岩.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fish": "鱼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

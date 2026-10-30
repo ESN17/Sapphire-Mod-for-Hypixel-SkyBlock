@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "VINYL_RODENT_REVOLUTION",
+  "_original_name": "Rodent Revolution Vinyl",
+  "_original_lore": [
+    "Place in a Chirping Stereo to play",
+    "funky tunes for  Pests.",
+    "",
+    "When playing, this vinyl attracts Rat",
+    "Pests.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "啮齿革命唱片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Place in a Chirping Stereo to play",
+        "funky tunes for  Pests."
+      ],
+      "translation": "放入鸣叫音响中,为  害虫播放动感音乐.",
+      "styleMappings": {
+        "Chirping Stereo": "鸣叫音响",
+        " Pests": " 害虫",
+        "Pests": "害虫"
+      }
+    },
+    {
+      "source": [
+        "When playing, this vinyl attracts Rat",
+        "Pests."
+      ],
+      "translation": "播放时,这张唱片会吸引老鼠害虫.",
+      "styleMappings": {
+        "Rat Pests": "老鼠害虫",
+        "Pests": "害虫"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Vinyl": "唱片"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "id": "ATTRIBUTE_SHARD_GLOSSY_FORTUNE;1",
+  "_original_name": "Scatha Shard",
+  "_original_lore": [
+    "Glossy Fortune I",
+    "Increases your chance of finding",
+    "Glossy Gemstones during Mining",
+    "Fiestas by +1%. Effects are doubled",
+    "if you have a Fiesta Flask active!",
+    "",
+    "You can Syphon this shard from",
+    "your Hunting Box.",
+    "",
+    "Right-click to send to Hunting Box!",
+    "Shift Right-click to move all!",
+    "",
+    "❣ Requires Hunting Skill 15.",
+    "EPIC COMBAT SHARD (ID E60)"
+  ],
+  "name": "史卡沙碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Glossy Fortune I"
+      ],
+      "translation": "光泽幸运 I",
+      "styleMappings": {
+        "Fortune": "幸运",
+        "I": "I"
+      }
+    },
+    {
+      "source": [
+        "Increases your chance of finding",
+        "Glossy Gemstones during Mining",
+        "Fiestas by {{N0}}. Effects are doubled",
+        "if you have a Fiesta Flask active!"
+      ],
+      "translation": "在采矿狂欢期间,找到光泽宝石的概率提高{{N0}}.若你激活了狂欢药瓶,效果翻倍!",
+      "styleMappings": {
+        "Glossy Gemstones": "光泽宝石",
+        "Mining Fiestas": "采矿狂欢",
+        "Fiesta Flask": "狂欢药瓶",
+        "doubled": "翻倍",
+        "Mining": "采矿",
+        "Gemstones": "宝石",
+        "chance": "概率"
+      }
+    },
+    {
+      "source": [
+        "You can Syphon this shard from",
+        "your Hunting Box."
+      ],
+      "translation": "你可以从狩猎箱中吸取此碎片.",
+      "styleMappings": {
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to send to Hunting Box!"
+      ],
+      "translation": "右键点击发送至狩猎箱!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Shift Right-click to move all!"
+      ],
+      "translation": "潜行键 右键点击全部移动!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "all": "全部"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Hunting Skill {{N0}}."
+      ],
+      "translation": "❣ 需要狩猎技能 {{N0}}.",
+      "styleMappings": {
+        "Hunting Skill": "狩猎技能",
+        "Requires": "需要",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC COMBAT SHARD (ID E{{N0}})"
+      ],
+      "translation": "史诗战斗碎片 (ID 伊{{N0}})",
+      "styleMappings": {
+        "EPIC": "史诗",
+        "COMBAT SHARD": "战斗碎片"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shard": "碎片",
+    "Scatha": "史卡沙"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "ARMOR_SHOWCASE",
+  "_original_name": "Armor Stand",
+  "_original_lore": [
+    "Furniture",
+    "Item Showcase",
+    "Storage",
+    "",
+    "This armor showcase lets you show",
+    "off a full set of armor, plus a single",
+    "weapon (sword, pickaxe, or axe).",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "盔甲架",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Furniture",
+        "Item Showcase",
+        "Storage"
+      ],
+      "translation": "家具 物品展示 存储",
+      "styleMappings": {
+        "Furniture": "家具",
+        "Item": "物品"
+      }
+    },
+    {
+      "source": [
+        "This armor showcase lets you show",
+        "off a full set of armor, plus a single",
+        "weapon (sword, pickaxe, or axe)."
+      ],
+      "translation": "这个盔甲展示架可以展示一整套盔甲,外加一件武器(剑、镐或斧).",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Armor": "盔甲"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

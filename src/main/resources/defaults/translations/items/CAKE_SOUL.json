@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "id": "CAKE_SOUL",
+  "_original_name": "Cake Soul (Random Color)",
+  "_original_lore": [
+    "Quickly click on a player several",
+    "times while holding this item to",
+    "capture their Soul in it!",
+    "",
+    "Capturing a soul will soulbind this item.",
+    "",
+    "MYTHIC"
+  ],
+  "name": "蛋糕灵魂 (随机颜色)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Quickly click on a player several",
+        "times while holding this item to",
+        "capture their Soul in it!"
+      ],
+      "translation": "手持此物品时快速点击一名玩家数次,即可将其灵魂捕获其中!",
+      "styleMappings": {
+        "player": "玩家",
+        "item": "物品",
+        "Soul": "灵魂"
+      }
+    },
+    {
+      "source": [
+        "Capturing a soul will soulbind this item."
+      ],
+      "translation": "捕获灵魂后,此物品将灵魂绑定.",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "MYTHIC"
+      ],
+      "translation": "神话",
+      "styleMappings": {
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Random Color)": "(随机颜色)",
+    "Cake Soul": "蛋糕灵魂",
+    "Soul": "灵魂"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "id": "TRIO_CONTACTS_ADDON",
+  "_original_name": "Abiphone Contacts Trio",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Permanently adds +3 contact slots",
+    "to your Abiphone plan, usable with",
+    "any current and future Abiphones",
+    "you own.",
+    "",
+    "Up to 25 of these may be used.",
+    "",
+    "Right-click to consume!",
+    "",
+    "SPECIAL"
+  ],
+  "name": "阿比手机联系人三件套",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Permanently adds {{N0}} contact slots",
+        "to your Abiphone plan, usable with",
+        "any current and future Abiphones",
+        "you own."
+      ],
+      "translation": "永久为你的阿比手机套餐增加 {{N0}} 个联系人槽位,适用于你拥有的任何现有及未来的阿比手机.",
+      "styleMappings": {
+        "Abiphone": "阿比手机",
+        "Abiphones": "阿比手机"
+      }
+    },
+    {
+      "source": [
+        "Up to {{N0}} of these may be used."
+      ],
+      "translation": "最多可使用 {{N0}} 个.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Abiphone Contacts": "阿比手机联系人"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

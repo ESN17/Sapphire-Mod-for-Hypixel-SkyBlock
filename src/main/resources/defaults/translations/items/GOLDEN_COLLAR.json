@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "GOLDEN_COLLAR",
+  "_original_name": "Golden Collar",
+  "_original_lore": [
+    "Commemorates your participation in",
+    "the Pet Care Expansion city project.",
+    "",
+    "Earned by: [MVP+] whalker",
+    "Total Contributions: 20",
+    "Edition #10",
+    "December 9, 2023",
+    "",
+    "Memento acquirer name becomes",
+    "hidden if traded.",
+    "",
+    "SPECIAL MEMENTO"
+  ],
+  "name": "金色项圈",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Commemorates your participation in",
+        "the Pet Care Expansion city project."
+      ],
+      "translation": "纪念你参与了宠物护理扩展城市项目.",
+      "styleMappings": {
+        "Pet Care Expansion": "宠物护理扩展",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Earned by: [MVP+] whalker"
+      ],
+      "translation": "获得者: [尊贵贵宾+] 沃尔克",
+      "styleMappings": {
+        "MVP": "尊贵贵宾",
+        "whalker": "沃尔克"
+      }
+    },
+    {
+      "source": [
+        "Total Contributions: {{N0}}"
+      ],
+      "translation": "总贡献: {{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Edition #{{N0}}",
+        "December {{N1}}, {{N2}}"
+      ],
+      "translation": "第 {{N0}} 版 {{N1}} 月 {{N2}} 日",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Memento acquirer name becomes",
+        "hidden if traded."
+      ],
+      "translation": "纪念品获得者名称在交易后将被隐藏.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "SPECIAL MEMENTO"
+      ],
+      "translation": "特殊纪念品",
+      "styleMappings": {
+        "SPECIAL MEMENTO": "特殊纪念品",
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

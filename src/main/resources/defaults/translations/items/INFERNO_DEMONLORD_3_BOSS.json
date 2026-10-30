@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "id": "INFERNO_DEMONLORD_3_BOSS",
+  "_original_name": "Inferno Demonlord III (Boss)",
+  "_original_lore": [
+    "Challenging",
+    "",
+    "Health: 45,000,000❤",
+    "Demons damage: 15,000/s",
+    "Demons health: 5,000,000❤",
+    "",
+    "Immolate",
+    "Passive",
+    "Deals 100 + 20% of your max ❤",
+    "as true damage every second.",
+    "",
+    "Hellion Shield",
+    "Passive",
+    "Match the attunement on your",
+    "dagger to damage the boss.",
+    "",
+    "Demonsplit",
+    "At 66% HP and 33% HP",
+    "Splits into two powerful demons.",
+    "",
+    "Fire Pillars",
+    "Starting at 66% HP",
+    "Spawns fire pillars.",
+    "Destroy them or die.",
+    "",
+    "DDR Apocalypse",
+    "Starting at 33% HP",
+    "Spawns dangerous fire pits which",
+    "you need to dodge."
+  ],
+  "name": "炼狱恶魔领主 III (首领)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Challenging"
+      ],
+      "translation": "挑战性",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Health: {{N0}}❤"
+      ],
+      "translation": "生命值: {{N0}}❤",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Demons damage: {{N0}}/s"
+      ],
+      "translation": "恶魔伤害: {{N0}}/秒",
+      "styleMappings": {
+        "damage": "伤害",
+        "s": "秒"
+      }
+    },
+    {
+      "source": [
+        "Demons health: {{N0}}❤"
+      ],
+      "translation": "恶魔生命值: {{N0}}❤",
+      "styleMappings": {
+        "health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Immolate"
+      ],
+      "translation": "献祭",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Passive",
+        "Deals {{N0}} + {{N1}} of your max ❤",
+        "as true damage every second."
+      ],
+      "translation": "被动 每秒对你造成你最大 ❤ 的 {{N0}} + {{N1}} 真实伤害.",
+      "styleMappings": {
+        "of your max": "最大",
+        "Passive": "被动",
+        "damage": "伤害",
+        "second": "秒",
+        "Deals": "造成",
+        "true": "真实",
+        "max": "最大"
+      }
+    },
+    {
+      "source": [
+        "Hellion Shield",
+        "Passive",
+        "Match the attunement on your",
+        "dagger to damage the boss."
+      ],
+      "translation": "地狱之盾 被动 使你的匕首上的调谐与首领匹配以造成伤害.",
+      "styleMappings": {
+        "Hellion Shield": "地狱之盾",
+        "Passive": "被动",
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Demonsplit",
+        "At {{N0}} HP and {{N1}} HP",
+        "Splits into two powerful demons."
+      ],
+      "translation": "恶魔分裂 在 {{N0}} 生命值和 {{N1}} 生命值时分裂成两个强大的恶魔.",
+      "styleMappings": {
+        "Demonsplit": "恶魔分裂",
+        "HP": "生命值",
+        "Splits into two powerful demons.": "分裂成两个强大的恶魔."
+      }
+    },
+    {
+      "source": [
+        "Fire Pillars",
+        "Starting at {{N0}} HP",
+        "Spawns fire pillars."
+      ],
+      "translation": "火柱 从 {{N0}} 生命值开始 生成火柱.",
+      "styleMappings": {
+        "Spawns fire pillars.": "生成火柱.",
+        "Fire Pillars": "火柱",
+        "HP": "生命值",
+        "fire": "火"
+      }
+    },
+    {
+      "source": [
+        "Destroy them or die."
+      ],
+      "translation": "摧毁它们,否则就会死.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "DDR Apocalypse",
+        "Starting at {{N0}} HP",
+        "Spawns dangerous fire pits which",
+        "you need to dodge."
+      ],
+      "translation": "舞力全开天启 生命值降至 {{N0}} 时 生成危险的火坑,你需要躲避.",
+      "styleMappings": {
+        "DDR Apocalypse": "舞力全开天启",
+        "Starting at {{N0}} HP": "生命值降至 {{N0}} 时",
+        "fire": "火",
+        "HP": "生命值",
+        "dangerous": "危险的"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Inferno Demonlord": "炼狱恶魔领主",
+    "Boss": "首领",
+    "III": "III",
+    "Inferno": "炼狱"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

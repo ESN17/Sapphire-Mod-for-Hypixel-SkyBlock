@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_ADRENALINE;2",
+  "_original_name": "Adrenaline II Potion",
+  "_original_lore": [
+    "",
+    "Adrenaline II (3:00)",
+    "Grants +40 of absorption and +10 ",
+    "Speed.",
+    "",
+    "COMMON"
+  ],
+  "name": "肾上腺素 II 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Adrenaline II ({{N0}}:{{N1}})"
+      ],
+      "translation": "肾上腺素 II ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "II": "II"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} of absorption and {{N1}} ",
+        "Speed."
+      ],
+      "translation": "提供 {{N0}} 点伤害吸收和 {{N1}}  速度.",
+      "styleMappings": {
+        " Speed": " 速度",
+        "Grants": "提供",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "II": "II"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_WATER_BREATHING;3",
+  "_original_name": "Water Breathing III Potion",
+  "_original_lore": [
+    "",
+    "Water Breathing III (3:00)",
+    "Grants a 45% chance of not taking",
+    "drowning damage.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "水肺药水 III",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Water Breathing III ({{N0}}:{{N1}})"
+      ],
+      "translation": "水肺 III ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Water Breathing III": "水肺 III",
+        "III": "III"
+      }
+    },
+    {
+      "source": [
+        "Grants a {{N0}} chance of not taking",
+        "drowning damage."
+      ],
+      "translation": "有 {{N0}} 概率不受溺水伤害.",
+      "styleMappings": {
+        "damage": "伤害",
+        "chance": "概率"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "III": "III"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

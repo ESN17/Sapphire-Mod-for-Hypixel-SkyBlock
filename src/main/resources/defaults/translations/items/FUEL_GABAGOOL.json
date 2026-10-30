@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "FUEL_GABAGOOL",
+  "_original_name": "Fuel Gabagool",
+  "_original_lore": [
+    "Feed Wisp pets, tier up into Heavy",
+    "Gabagool or craft Inferno minion",
+    "fuel.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "RARE"
+  ],
+  "name": "燃料加巴古尔",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Feed Wisp pets, tier up into Heavy",
+        "Gabagool or craft Inferno minion",
+        "fuel."
+      ],
+      "translation": "喂养幽灵宠物,升级为重型加巴古尔,或制作炼狱仆从燃料.",
+      "styleMappings": {
+        "Inferno minion fuel": "炼狱仆从燃料",
+        "Heavy Gabagool": "重型加巴古尔",
+        "Wisp pets": "幽灵宠物",
+        "minion": "仆从",
+        "Inferno": "炼狱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fuel": "燃料",
+    "Fuel Gabagool": "燃料加巴古尔"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

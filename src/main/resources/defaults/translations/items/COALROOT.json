@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "id": "COALROOT",
+  "_original_name": "Coalroot",
+  "_original_lore": [
+    "Machine Fuel",
+    "",
+    "Adds +5,000 Fuel to a refuelable",
+    "machine.",
+    "",
+    "A smoldering root that oddly can",
+    "also be used as fuel.",
+    "",
+    "Complete Visitor Beth's quest to",
+    "Analyze this crop!",
+    "",
+    "UNCOMMON MUTATION"
+  ],
+  "name": "煤根",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Machine Fuel"
+      ],
+      "translation": "机器燃料",
+      "styleMappings": {
+        "Machine Fuel": "机器燃料",
+        "Fuel": "燃料"
+      }
+    },
+    {
+      "source": [
+        "Adds {{N0}} Fuel to a refuelable",
+        "machine."
+      ],
+      "translation": "为可补充燃料的机器添加 {{N0}} 燃料.",
+      "styleMappings": {
+        "Adds": "添加",
+        "Fuel": "燃料",
+        "to a refuelable machine": "为可补充燃料的机器"
+      }
+    },
+    {
+      "source": [
+        "A smoldering root that oddly can",
+        "also be used as fuel."
+      ],
+      "translation": "一根闷烧的根,奇怪的是它也能用作燃料.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Complete Visitor Beth's quest to",
+        "Analyze this crop!"
+      ],
+      "translation": "完成访客 Beth 的任务来分析这种作物!",
+      "styleMappings": {
+        "Visitor": "访客",
+        "Beth's": "Beth 的",
+        "Analyze": "分析"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON MUTATION"
+      ],
+      "translation": "罕见变异",
+      "styleMappings": {
+        "UNCOMMON MUTATION": "罕见变异",
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "TEST_BUCKET_PLEASE_IGNORE",
+  "_original_name": "Test Bucket Please Ignore",
+  "_original_lore": [
+    "True Defense: +0.5",
+    "",
+    "Was it all a test?",
+    "",
+    "* Soulbound *",
+    "X Rift-Transferable X",
+    "Works while in Accessory Bag!",
+    "UNCOMMON ACCESSORY"
+  ],
+  "name": "测试桶请忽略",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "True Defense: {{N0}}"
+      ],
+      "translation": "真实防御: {{N0}}",
+      "styleMappings": {
+        "True Defense": "真实防御",
+        "Defense": "防御",
+        "True": "真实"
+      }
+    },
+    {
+      "source": [
+        "Was it all a test?"
+      ],
+      "translation": "这一切都只是一场测试吗?",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "X Rift-Transferable X",
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "X 裂隙可转移 X 放在饰品袋中时生效!",
+      "styleMappings": {
+        "Works while in Accessory Bag!": "放在饰品袋中时生效!",
+        "Rift-Transferable": "裂隙可转移",
+        "Accessory Bag": "饰品袋",
+        "Rift": "裂隙",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON ACCESSORY"
+      ],
+      "translation": "罕见 饰品",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

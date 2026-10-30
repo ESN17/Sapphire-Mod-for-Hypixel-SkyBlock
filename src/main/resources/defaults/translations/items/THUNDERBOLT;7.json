@@ -1,0 +1,156 @@
+{
+  "schemaVersion": 1,
+  "id": "THUNDERBOLT;7",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Thunderbolt VII",
+    "Every 3 hits on a monster, strike",
+    "lightning, dealing 30% of the hit's",
+    "damage to up to 10 monsters within 2",
+    "blocks.",
+    "",
+    "Sources:",
+    " - Enchantment Table (I-V)",
+    " - Experiments (VI-VII)",
+    " - Bazaar (VI-VII)",
+    "",
+    "Applied To:",
+    " - Sword",
+    " - Longsword",
+    " - Gauntlet",
+    "",
+    "Requirements:",
+    " - Enchanting Level 20",
+    "",
+    "Conflicts:",
+    " - Thunderlord",
+    "",
+    "EPIC"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Thunderbolt VII"
+      ],
+      "translation": "雷电群击 VII",
+      "styleMappings": {
+        "Thunderbolt": "雷电群击"
+      }
+    },
+    {
+      "source": [
+        "Every {{N0}} hits on a monster, strike",
+        "lightning, dealing {{N1}} of the hit's",
+        "damage to up to {{N2}} monsters within {{N3}}",
+        "blocks."
+      ],
+      "translation": "对怪物每命中 {{N0}} 次,召唤闪电,对 {{N3}} 格内最多 {{N2}} 个怪物造成该次命中伤害的 {{N1}}.",
+      "styleMappings": {
+        "lightning": "闪电",
+        "blocks": "格",
+        "damage": "伤害",
+        "hit": "命中",
+        "monsters": "怪物"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchantment Table (I-V)",
+        " - Experiments (VI-VII)",
+        " - Bazaar (VI-VII)"
+      ],
+      "translation": " - 附魔台 (I-V)  - 实验 (VI-VII)  - 集市 (VI-VII)",
+      "styleMappings": {
+        "Enchantment Table": "附魔台",
+        "Experiments": "实验",
+        "Bazaar": "集市",
+        "I-V": "I-V",
+        "Enchantment": "附魔"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Sword",
+        " - Longsword",
+        " - Gauntlet"
+      ],
+      "translation": " - 剑  - 长剑  - 护手",
+      "styleMappings": {
+        "Sword": "剑",
+        "Longsword": "长剑",
+        "Gauntlet": "护手"
+      }
+    },
+    {
+      "source": [
+        "Requirements:"
+      ],
+      "translation": "需求:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchanting Level {{N0}}"
+      ],
+      "translation": " - 附魔等级 {{N0}}",
+      "styleMappings": {
+        "Enchanting Level": "附魔等级"
+      }
+    },
+    {
+      "source": [
+        "Conflicts:"
+      ],
+      "translation": "冲突:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Thunderlord"
+      ],
+      "translation": " - 雷神",
+      "styleMappings": {
+        "Thunderlord": "雷神"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

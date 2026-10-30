@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_NIGHT_VISION;1",
+  "_original_name": "Night Vision I Potion",
+  "_original_lore": [
+    "",
+    "Night Vision I (3:00)",
+    "Grants greater visibility at night.",
+    "",
+    "COMMON"
+  ],
+  "name": "夜视 I 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Night Vision I ({{N0}}:{{N1}})"
+      ],
+      "translation": "夜视 I ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Night Vision I": "夜视 I",
+        "Night Vision": "夜视"
+      }
+    },
+    {
+      "source": [
+        "Grants greater visibility at night."
+      ],
+      "translation": "在夜间获得更清晰的视野.",
+      "styleMappings": {
+        "Grants": "获得",
+        "night": "夜间"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Night Vision I": "夜视 I",
+    "Night Vision": "夜视"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

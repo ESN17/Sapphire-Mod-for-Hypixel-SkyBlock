@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "id": "PARROT_MASK",
+  "_original_name": "Parrot Mask",
+  "_original_lore": [
+    "Health: +1",
+    "",
+    "Ability: Party Flock ",
+    "Nearby players within 20 blocks gain",
+    "+1 Strength for each upgrade of",
+    "your Intimidation Accessory.",
+    "",
+    "Squawk, squawk!",
+    "",
+    "This item can be reforged!",
+    "RARE CARNIVAL MASK"
+  ],
+  "name": "鹦鹉面具",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Ability: Party Flock "
+      ],
+      "translation": "能力: 派对鸟群 ",
+      "styleMappings": {
+        "Ability": "能力"
+      }
+    },
+    {
+      "source": [
+        "Nearby players within {{N0}} blocks gain",
+        "{{N1}} Strength for each upgrade of",
+        "your Intimidation Accessory."
+      ],
+      "translation": "附近 {{N0}} 格内的玩家根据你的威慑饰品每级升级获得 {{N1}} 力量.",
+      "styleMappings": {
+        "Intimidation Accessory": "威慑饰品",
+        " Strength": " 力量",
+        "upgrade": "升级",
+        "Nearby": "附近",
+        "blocks": "格",
+        "Strength": "力量",
+        "for": "获得",
+        "gain": "获得",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "Squawk, squawk!"
+      ],
+      "translation": "嘎嘎, 嘎嘎!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "RARE CARNIVAL MASK"
+      ],
+      "translation": "稀有嘉年华面具",
+      "styleMappings": {
+        "RARE CARNIVAL MASK": "稀有嘉年华面具",
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mask": "面具",
+    "Parrot": "鹦鹉"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

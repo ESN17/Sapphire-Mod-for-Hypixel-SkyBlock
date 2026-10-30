@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "SHADOW_WARP_SCROLL",
+  "_original_name": "Shadow Warp",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Applies the Shadow Warp Ability when",
+    "combined with a Necron's Blade",
+    "variant.",
+    "",
+    "Ability: Shadow Warp  RIGHT CLICK",
+    "Creates a spatial distortion 10",
+    "blocks ahead of you that sucks all",
+    "enemies around it. Use this ability",
+    "again within 5 seconds to detonate",
+    "the warp and deal 35,375.8 damage",
+    "to enemies near it.",
+    "Mana Cost: 300",
+    "Cooldown: 10s",
+    "",
+    "EPIC DUNGEON ABILITY SCROLL"
+  ],
+  "name": "暗影扭曲",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Applies the Shadow Warp Ability when",
+        "combined with a Necron's Blade",
+        "variant."
+      ],
+      "translation": "与奈克隆之刃变体结合时,附加暗影扭曲技能.",
+      "styleMappings": {
+        "Shadow Warp Ability": "暗影扭曲技能",
+        "Necron's Blade": "奈克隆之刃",
+        "Ability": "技能",
+        "Necron": "奈克隆",
+        "when": "时",
+        "Necron's": "奈克隆",
+        "Shadow Warp": "暗影扭曲"
+      }
+    },
+    {
+      "source": [
+        "Ability: Shadow Warp  RIGHT CLICK"
+      ],
+      "translation": "技能: 暗影扭曲  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Shadow Warp": "暗影扭曲",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Creates a spatial distortion {{N0}}",
+        "blocks ahead of you that sucks all",
+        "enemies around it. Use this ability",
+        "again within {{N1}} seconds to detonate",
+        "the warp and deal {{N2}} damage",
+        "to enemies near it."
+      ],
+      "translation": "在你前方 {{N0}} 格处制造一个空间扭曲,将周围的敌人全部吸入.在 {{N1}} 秒内再次使用此技能可引爆扭曲,对附近敌人造成 {{N2}} 伤害.",
+      "styleMappings": {
+        "ability": "技能",
+        "seconds": "秒",
+        "blocks": "格",
+        "damage": "伤害",
+        "deal": "造成",
+        "all": "全部",
+        "enemies": "敌人"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "EPIC DUNGEON ABILITY SCROLL"
+      ],
+      "translation": "史诗地牢能力卷轴",
+      "styleMappings": {
+        "EPIC DUNGEON ABILITY SCROLL": "史诗地牢能力卷轴",
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shadow Warp": "暗影扭曲"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": "GOLD_BONZO_HEAD",
+  "_original_name": "Golden Bonzo Head",
+  "_original_lore": [
+    "Gear Score: 45",
+    "Health: +20",
+    "Defense: +10",
+    "Strength: +5",
+    "",
+    "Obtained from killing Bonzo in The",
+    "Catacombs lots of times. Grants 2x",
+    "stats on The Catacombs Floor I.",
+    "",
+    "Involved in the dark arts due to his",
+    "parents' insistence. Originally worked",
+    "as a Circus clown.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires The Catacombs Floor I Completion.",
+    "* Co-op Soulbound *",
+    "SPECIAL DUNGEON HELMET"
+  ],
+  "name": "金色邦佐头",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Obtained from killing Bonzo in The",
+        "Catacombs lots of times. Grants {{N0}}x",
+        "stats on The Catacombs Floor I."
+      ],
+      "translation": "多次在地牢中击杀邦佐获得.在地牢第一层提供 {{N0}}倍属性.",
+      "styleMappings": {
+        "The Catacombs Floor I": "地牢第一层",
+        "The Catacombs": "地牢",
+        "Bonzo": "邦佐",
+        "stats": "属性",
+        "{{N0}}x": "{{N0}}倍",
+        "Catacombs": "地牢"
+      }
+    },
+    {
+      "source": [
+        "Involved in the dark arts due to his",
+        "parents' insistence. Originally worked",
+        "as a Circus clown."
+      ],
+      "translation": "因父母的坚持而涉足黑魔法.最初是一名马戏团小丑.",
+      "styleMappings": {
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires The Catacombs Floor I Completion."
+      ],
+      "translation": "❣ 需要通关地牢第 I 层.",
+      "styleMappings": {
+        "The Catacombs": "地牢",
+        "Requires": "需要",
+        "I": "I",
+        "Catacombs": "地牢"
+      }
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL DUNGEON HELMET"
+      ],
+      "translation": "特殊地牢头盔",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Bonzo": "邦佐"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

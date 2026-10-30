@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "COAL",
+  "_original_name": "Coal",
+  "_original_lore": [
+    "Minion Fuel",
+    "Brewing Ingredient",
+    "Collection Item",
+    "",
+    "Increases the speed of",
+    "your minion by 5% for 30",
+    "minutes!",
+    "",
+    "COMMON ORE"
+  ],
+  "name": "煤炭",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Minion Fuel",
+        "Brewing Ingredient",
+        "Collection Item"
+      ],
+      "translation": "仆从燃料 酿造材料 收藏物品",
+      "styleMappings": {
+        "Brewing Ingredient": "酿造材料",
+        "Collection Item": "收藏物品",
+        "Minion Fuel": "仆从燃料",
+        "Collection": "收藏",
+        "Item": "物品",
+        "Fuel": "燃料",
+        "Minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "Increases the speed of",
+        "your minion by {{N0}} for {{N1}}",
+        "minutes!"
+      ],
+      "translation": "使你的仆从速度提高 {{N0}},持续 {{N1}} 分钟!",
+      "styleMappings": {
+        "minutes": "分钟",
+        "minion": "仆从",
+        "speed": "速度",
+        "for": "持续"
+      }
+    },
+    {
+      "source": [
+        "COMMON ORE"
+      ],
+      "translation": "普通 矿物",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

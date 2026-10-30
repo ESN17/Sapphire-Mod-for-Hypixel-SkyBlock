@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "CHLORONITE",
+  "_original_name": "Chloronite",
+  "_original_lore": [
+    "A plant that hardens into a shining",
+    "green gemstone as it matures, ready",
+    "to be mined.",
+    "",
+    "Complete Visitor Beth's quest to",
+    "Analyze this crop!",
+    "",
+    "RARE MUTATION"
+  ],
+  "name": "氯石",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A plant that hardens into a shining",
+        "green gemstone as it matures, ready",
+        "to be mined."
+      ],
+      "translation": "一种植物,成熟后会硬化成闪亮的绿色宝石,可供开采.",
+      "styleMappings": {
+        "plant": "植物"
+      }
+    },
+    {
+      "source": [
+        "Complete Visitor Beth's quest to",
+        "Analyze this crop!"
+      ],
+      "translation": "完成访客 Beth 的任务来分析这种作物!",
+      "styleMappings": {
+        "Visitor": "访客",
+        "Beth's": "Beth 的",
+        "Analyze": "分析"
+      }
+    },
+    {
+      "source": [
+        "RARE MUTATION"
+      ],
+      "translation": "稀有突变",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

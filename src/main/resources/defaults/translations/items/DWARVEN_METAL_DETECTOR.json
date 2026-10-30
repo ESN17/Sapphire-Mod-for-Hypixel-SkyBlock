@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "DWARVEN_METAL_DETECTOR",
+  "_original_name": "Metal Detector",
+  "_original_lore": [
+    "Used to find lost Dwarven treasures",
+    "in the Mines of Divan. The Metal",
+    "Detector beeps louder and faster",
+    "the closer you are to a buried",
+    "treasure.",
+    "",
+    "SPECIAL"
+  ],
+  "name": "金属探测器",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Used to find lost Dwarven treasures",
+        "in the Mines of Divan. The Metal",
+        "Detector beeps louder and faster",
+        "the closer you are to a buried",
+        "treasure."
+      ],
+      "translation": "用于在迪万矿坑中寻找失落的矮人宝藏.离埋藏的宝藏越近,金属探测器的哔哔声就越响、越快.",
+      "styleMappings": {
+        "Mines of Divan": "迪万矿坑",
+        "treasure": "宝藏",
+        "Divan": "迪万",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

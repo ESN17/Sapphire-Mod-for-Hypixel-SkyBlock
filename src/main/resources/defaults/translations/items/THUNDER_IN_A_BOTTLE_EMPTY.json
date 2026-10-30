@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "THUNDER_IN_A_BOTTLE_EMPTY",
+  "_original_name": "Empty Thunder Bottle",
+  "_original_lore": [
+    "This bottle is empty, I wonder if",
+    "there is a way to charge it up...",
+    "",
+    "Charge: 0/50,000",
+    "",
+    "EPIC"
+  ],
+  "name": "空雷霆瓶",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "This bottle is empty, I wonder if",
+        "there is a way to charge it up..."
+      ],
+      "translation": "这个瓶子是空的,我想知道是否有办法给它充能...",
+      "styleMappings": {
+        "charge": "充能"
+      }
+    },
+    {
+      "source": [
+        "Charge: {{N0}}/{{N1}}"
+      ],
+      "translation": "充能: {{N0}}/{{N1}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Thunder": "雷霆"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

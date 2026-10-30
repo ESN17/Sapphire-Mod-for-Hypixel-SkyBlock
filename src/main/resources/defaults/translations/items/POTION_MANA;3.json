@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_MANA;3",
+  "_original_name": "Mana III Potion",
+  "_original_lore": [
+    "",
+    "Mana III (3:00)",
+    "Grants +3 ✎ Mana per second.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "法力 III 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mana III ({{N0}}:{{N1}})"
+      ],
+      "translation": "法力 III ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Mana III": "法力 III",
+        "III": "III",
+        "Mana": "法力"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} ✎ Mana per second."
+      ],
+      "translation": "每秒提供 {{N0}} ✎ 法力.",
+      "styleMappings": {
+        "per second": "每秒",
+        "Grants": "提供",
+        "Mana": "法力",
+        "second": "秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mana III": "法力 III",
+    "III": "III",
+    "Mana": "法力"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

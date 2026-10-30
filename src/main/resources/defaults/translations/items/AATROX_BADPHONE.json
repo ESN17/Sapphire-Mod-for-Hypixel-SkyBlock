@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "id": "AATROX_BADPHONE",
+  "_original_name": "Maddox Badphone",
+  "_original_lore": [
+    "Ability: Wasssaaaaa?  RIGHT CLICK",
+    "Instantly calls Maddox!",
+    "",
+    "☠ Requires Wolf Slayer 3.",
+    "☠ Requires Vampire Slayer 2.",
+    "* Co-op Soulbound *",
+    "RARE"
+  ],
+  "name": "Maddox 坏电话",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Wasssaaaaa?  RIGHT CLICK"
+      ],
+      "translation": "技能: 什么情况?  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Instantly calls Maddox!"
+      ],
+      "translation": "立即呼叫马多克斯!",
+      "styleMappings": {
+        "Maddox": "马多克斯"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Wolf Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要狼杀手 {{N0}}.",
+      "styleMappings": {
+        "Wolf Slayer": "狼杀手",
+        "Requires": "需要",
+        "Slayer": "杀手",
+        "Wolf": "狼"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Vampire Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要吸血鬼杀手 {{N0}}.",
+      "styleMappings": {
+        "Vampire Slayer": "吸血鬼杀手",
+        "Requires": "需要",
+        "Slayer": "杀手",
+        "Vampire": "吸血鬼"
+      }
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Maddox": "Maddox",
+    "Badphone": "坏电话"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "id": "SINGING_FISH",
+  "_original_name": "Singing Fish",
+  "_original_lore": [
+    "Obtained during the 1st Carnival for",
+    "achieving a high score in Catch a",
+    "Fish!",
+    "",
+    "Player: Eisengolem",
+    "Position: #10",
+    "Score: 5,175",
+    "",
+    "* Co-op Soulbound *",
+    "SPECIAL"
+  ],
+  "name": "歌唱鱼",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Obtained during the {{N0}}st Carnival for",
+        "achieving a high score in Catch a",
+        "Fish!"
+      ],
+      "translation": "在第 {{N0}} 届嘉年华期间,在钓鱼比赛中获得高分即可获得!",
+      "styleMappings": {
+        "Catch a Fish": "钓鱼比赛",
+        "high score": "高分",
+        "Carnival": "嘉年华",
+        "for": "获得",
+        "Fish": "鱼"
+      }
+    },
+    {
+      "source": [
+        "Player: Eisengolem"
+      ],
+      "translation": "玩家: 铁傀儡",
+      "styleMappings": {
+        "Player": "玩家",
+        "Eisengolem": "铁傀儡"
+      }
+    },
+    {
+      "source": [
+        "Position: #{{N0}}"
+      ],
+      "translation": "排名: #{{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Score: {{N0}}"
+      ],
+      "translation": "得分: {{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fish": "鱼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

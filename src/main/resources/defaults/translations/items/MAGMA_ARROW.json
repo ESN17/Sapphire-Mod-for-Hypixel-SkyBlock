@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "MAGMA_ARROW",
+  "_original_name": "Magma Arrow",
+  "_original_lore": [
+    "Damage: +40",
+    "Crit Chance: +10%",
+    "",
+    "Stats added when shot!",
+    "EPIC ARROW"
+  ],
+  "name": "岩浆箭",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Crit Chance: {{N0}}"
+      ],
+      "translation": "暴击率: {{N0}}",
+      "styleMappings": {
+        "Crit Chance": "暴击率"
+      }
+    },
+    {
+      "source": [
+        "Stats added when shot!"
+      ],
+      "translation": "射出时添加属性!",
+      "styleMappings": {
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "EPIC ARROW"
+      ],
+      "translation": "史诗箭",
+      "styleMappings": {
+        "EPIC ARROW": "史诗箭",
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Magma Arrow": "岩浆箭"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "id": "DEAD_CAT_DETECTOR",
+  "_original_name": "Dead Cat Detector",
+  "_original_lore": [
+    "Ability: Meownar  RIGHT CLICK",
+    "Ping the Rift for parts of",
+    "Montezuma's soul.",
+    "Cooldown: 9s",
+    "",
+    "Found: 9/9 Soul Pieces",
+    "",
+    "RARE"
+  ],
+  "name": "死猫探测器",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Meownar  RIGHT CLICK"
+      ],
+      "translation": "技能: 喵纳  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Ping the Rift for parts of",
+        "Montezuma's soul."
+      ],
+      "translation": "在裂隙中探测蒙特祖玛灵魂的碎片.",
+      "styleMappings": {
+        "Rift": "裂隙",
+        "Montezuma": "蒙特祖玛"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "Found: {{N0}}/{{N1}} Soul Pieces"
+      ],
+      "translation": "已找到: {{N0}}/{{N1}} 灵魂碎片",
+      "styleMappings": {
+        "Soul Pieces": "灵魂碎片",
+        "Soul": "灵魂"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

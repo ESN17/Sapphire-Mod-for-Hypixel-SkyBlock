@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "FRACTURED_MONTEZUMA_SOUL;3",
+  "_original_name": "[Lvl 100] Montezuma",
+  "_original_lore": [
+    "Fractured Soul Pet",
+    "",
+    "Found: 6/9 Soul Pieces",
+    "",
+    "Rift Time: +100s",
+    "Mana Regen: +12%",
+    "",
+    "Nine Lives",
+    "Gain +15ф Rift Time per",
+    "soul piece.",
+    "",
+    "Trickery",
+    "Gain +2 Mana Regen per",
+    "soul piece found.",
+    "",
+    "EPIC PET"
+  ],
+  "name": "[等级 100] 蒙特祖玛",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Fractured Soul Pet"
+      ],
+      "translation": "碎裂灵魂宠物",
+      "styleMappings": {
+        "Pet": "宠物",
+        "Soul": "灵魂",
+        "Fractured Soul Pet": "碎裂灵魂宠物"
+      }
+    },
+    {
+      "source": [
+        "Found: {{N0}}/{{N1}} Soul Pieces"
+      ],
+      "translation": "已找到: {{N0}}/{{N1}} 灵魂碎片",
+      "styleMappings": {
+        "Soul Pieces": "灵魂碎片",
+        "Soul": "灵魂"
+      }
+    },
+    {
+      "source": [
+        "Rift Time: {{N0}}s"
+      ],
+      "translation": "裂隙时间: {{N0}}秒",
+      "styleMappings": {
+        "Rift Time": "裂隙时间",
+        "{{N0}}s": "{{N0}}秒",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "Mana Regen: {{N0}}"
+      ],
+      "translation": "法力回复: {{N0}}",
+      "styleMappings": {
+        "Mana Regen": "法力回复",
+        "Mana": "法力",
+        "Regen": "回复"
+      }
+    },
+    {
+      "source": [
+        "Nine Lives"
+      ],
+      "translation": "九命",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Gain {{N0}}ф Rift Time per",
+        "soul piece."
+      ],
+      "translation": "每块灵魂碎片获得 {{N0}}ф 裂隙时间.",
+      "styleMappings": {
+        "Rift Time": "裂隙时间",
+        "Gain": "获得",
+        "Rift": "裂隙",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Trickery"
+      ],
+      "translation": "诡计",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Gain {{N0}} Mana Regen per",
+        "soul piece found."
+      ],
+      "translation": "每找到一块灵魂碎片获得 {{N0}} 法力回复.",
+      "styleMappings": {
+        "Mana Regen": "法力回复",
+        "Gain": "获得",
+        "Mana": "法力",
+        "Regen": "回复",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "EPIC PET"
+      ],
+      "translation": "史诗 宠物",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Montezuma": "蒙特祖玛",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

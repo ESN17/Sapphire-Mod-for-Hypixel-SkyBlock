@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "ATTRIBUTE_SHARD_AIRBORNE_RULER;1",
+  "_original_name": "Bluebird Shard",
+  "_original_lore": [
+    "Airborne Ruler I",
+    "Grants +3% more  Damage against",
+    " Airborne mobs.",
+    "",
+    "You can Syphon this shard from",
+    "your Hunting Box.",
+    "",
+    "Right-click to send to Hunting Box!",
+    "Shift Right-click to move all!",
+    "",
+    "UNCOMMON FOREST SHARD (ID U46)"
+  ],
+  "name": "蓝鸟碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Airborne Ruler I"
+      ],
+      "translation": "空中霸主 I",
+      "styleMappings": {
+        "Airborne": "空中",
+        "I": "I"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} more  Damage against",
+        " Airborne mobs."
+      ],
+      "translation": "对  空中生物造成 {{N0}} 点额外 伤害.",
+      "styleMappings": {
+        "Airborne mobs": "空中生物",
+        " Damage": " 伤害",
+        "more": "额外",
+        "Grants": "造成",
+        "Damage": "伤害",
+        "mobs": "生物",
+        "Airborne": "空中",
+        "mobs.": "伤害."
+      }
+    },
+    {
+      "source": [
+        "You can Syphon this shard from",
+        "your Hunting Box."
+      ],
+      "translation": "你可以从狩猎箱中吸取此碎片.",
+      "styleMappings": {
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to send to Hunting Box!"
+      ],
+      "translation": "右键点击发送至狩猎箱!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Shift Right-click to move all!"
+      ],
+      "translation": "潜行键 右键点击全部移动!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "all": "全部"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON FOREST SHARD (ID U{{N0}})"
+      ],
+      "translation": "罕见森林碎片 (ID 优{{N0}})",
+      "styleMappings": {
+        "UNCOMMON FOREST SHARD": "罕见森林碎片",
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shard": "碎片"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

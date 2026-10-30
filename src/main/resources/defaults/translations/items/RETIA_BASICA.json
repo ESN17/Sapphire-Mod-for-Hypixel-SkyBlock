@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "RETIA_BASICA",
+  "_original_name": "Small Huntrap",
+  "_original_lore": [
+    "Hunting Tool",
+    "",
+    "Ability: Retentio  RIGHT CLICK",
+    "Hunting Traps can be placed near",
+    "the spawn location of a Shard",
+    "creature, with time it will eventually",
+    "catch it.",
+    "",
+    "Fundamentum artis venandi.",
+    "",
+    "COMMON TRAP"
+  ],
+  "name": "小型狩猎陷阱",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Hunting Tool"
+      ],
+      "translation": "狩猎工具",
+      "styleMappings": {
+        "Hunting Tool": "狩猎工具"
+      }
+    },
+    {
+      "source": [
+        "Ability: Retentio  RIGHT CLICK"
+      ],
+      "translation": "能力: 滞留  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "能力",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Hunting Traps can be placed near",
+        "the spawn location of a Shard",
+        "creature, with time it will eventually",
+        "catch it."
+      ],
+      "translation": "狩猎陷阱可以放置在碎片生物的生成点附近,随时间推移最终会将其捕获.",
+      "styleMappings": {
+        "Hunting Traps": "狩猎陷阱",
+        "Shard": "碎片"
+      }
+    },
+    {
+      "source": [
+        "Fundamentum artis venandi."
+      ],
+      "translation": "狩猎之术的基础.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "COMMON TRAP"
+      ],
+      "translation": "普通陷阱",
+      "styleMappings": {
+        "COMMON TRAP": "普通陷阱",
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

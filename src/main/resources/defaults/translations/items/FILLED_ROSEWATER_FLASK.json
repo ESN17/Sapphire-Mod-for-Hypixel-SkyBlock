@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "id": "FILLED_ROSEWATER_FLASK",
+  "_original_name": "Filled Rosewater Flask",
+  "_original_lore": [
+    "Consume to grow crops within the",
+    "Greenhouse by 4 Growth Stages.",
+    "",
+    "Aged Like Fine Wine",
+    "Consuming this grants permanent",
+    "+1 Farming Fortune.",
+    "",
+    "You may consume 5 of these before",
+    "they lose their magical energy.",
+    "",
+    "Co-op wide 2h cooldown.",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "装满的玫瑰水壶",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consume to grow crops within the",
+        "Greenhouse by {{N0}} Growth Stages."
+      ],
+      "translation": "饮用后使温室内的作物生长 {{N0}} 个生长阶段.",
+      "styleMappings": {
+        "Growth Stages": "生长阶段",
+        "Greenhouse": "温室",
+        "crops": "作物",
+        "Growth": "生长"
+      }
+    },
+    {
+      "source": [
+        "Aged Like Fine Wine"
+      ],
+      "translation": "陈年佳酿",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Consuming this grants permanent",
+        "{{N0}} Farming Fortune."
+      ],
+      "translation": "饮用后永久获得 {{N0}} 农业幸运.",
+      "styleMappings": {
+        "Farming Fortune": "农业幸运",
+        "Fortune": "幸运",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "You may consume {{N0}} of these before",
+        "they lose their magical energy."
+      ],
+      "translation": "在失去魔法能量前,你最多可饮用 {{N0}} 个.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Co-op wide {{N0}}h cooldown."
+      ],
+      "translation": "合作模式共享 {{N0}}小时冷却时间.",
+      "styleMappings": {
+        "cooldown": "冷却",
+        "{{N0}}h": "{{N0}}小时"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "id": "ATTRIBUTE_SHARD_ELUSIVE_RULER;1",
+  "_original_name": "Queen Ant Shard",
+  "_original_lore": [
+    "Elusive Ruler I",
+    "Grants +3% more  Damage against",
+    " Elusive mobs.",
+    "",
+    "You can Syphon this shard from",
+    "your Hunting Box.",
+    "",
+    "Right-click to send to Hunting Box!",
+    "Shift Right-click to move all!",
+    "",
+    "❣ Requires Hunting Skill 5.",
+    "UNCOMMON FOREST SHARD (ID U79)"
+  ],
+  "name": "蚁后碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Elusive Ruler I"
+      ],
+      "translation": "稀有统治者 I",
+      "styleMappings": {
+        "Elusive": "稀有",
+        "I": "I"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} more  Damage against",
+        " Elusive mobs."
+      ],
+      "translation": "对  稀有生物造成 {{N0}} 更多 伤害.",
+      "styleMappings": {
+        " Damage": " 伤害",
+        "Elusive": "稀有",
+        "mobs": "生物",
+        "Grants": "造成",
+        "more": "更多",
+        "Damage": "伤害",
+        "mobs.": "伤害."
+      }
+    },
+    {
+      "source": [
+        "You can Syphon this shard from",
+        "your Hunting Box."
+      ],
+      "translation": "你可以从狩猎箱中吸取此碎片.",
+      "styleMappings": {
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to send to Hunting Box!"
+      ],
+      "translation": "右键点击发送至狩猎箱!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Shift Right-click to move all!"
+      ],
+      "translation": "潜行键 右键点击全部移动!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "all": "全部"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Hunting Skill {{N0}}."
+      ],
+      "translation": "❣ 需要狩猎技能 {{N0}}.",
+      "styleMappings": {
+        "Hunting Skill": "狩猎技能",
+        "Requires": "需要",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON FOREST SHARD (ID U{{N0}})"
+      ],
+      "translation": "罕见森林碎片 (ID 优{{N0}})",
+      "styleMappings": {
+        "UNCOMMON FOREST SHARD": "罕见森林碎片",
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shard": "碎片"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

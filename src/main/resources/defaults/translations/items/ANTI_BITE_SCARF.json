@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "id": "ANTI_BITE_SCARF",
+  "_original_name": "Anti-Bite Scarf",
+  "_original_lore": [
+    "Rift Time: +100s",
+    "Hearts: +1",
+    "Intelligence: +20",
+    "",
+    "Ability: Helmets All The Way Around ",
+    "Regain +2ф when killing a monster.",
+    "",
+    "If you would take ❤ damage, take",
+    "0.3❤ less.",
+    "",
+    "☠ Requires Vampire Slayer 1.",
+    "LEGENDARY HELMET"
+  ],
+  "name": "防咬围巾",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Rift Time: {{N0}}s"
+      ],
+      "translation": "裂隙时间: {{N0}}秒",
+      "styleMappings": {
+        "Rift Time": "裂隙时间",
+        "{{N0}}s": "{{N0}}秒",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "Hearts: {{N0}}"
+      ],
+      "translation": "生命值: {{N0}}",
+      "styleMappings": {
+        "Hearts": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Ability: Helmets All The Way Around "
+      ],
+      "translation": "技能: 头盔环绕",
+      "styleMappings": {
+        "Ability": "技能",
+        "Helmets All The Way Around": "头盔环绕"
+      }
+    },
+    {
+      "source": [
+        "Regain {{N0}}ф when killing a monster."
+      ],
+      "translation": "击杀怪物时恢复 {{N0}}ф.",
+      "styleMappings": {
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "If you would take ❤ damage, take",
+        "{{N0}}❤ less."
+      ],
+      "translation": "若你即将受到 ❤ 伤害,则少受 {{N0}}❤.",
+      "styleMappings": {
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Vampire Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要吸血鬼杀手 {{N0}}.",
+      "styleMappings": {
+        "Vampire Slayer": "吸血鬼杀手",
+        "Requires": "需要",
+        "Slayer": "杀手",
+        "Vampire": "吸血鬼"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY HELMET"
+      ],
+      "translation": "传说 头盔",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Scarf": "围巾"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

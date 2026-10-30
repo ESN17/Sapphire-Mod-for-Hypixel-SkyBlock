@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "id": "VINYL_DYNAMITES",
+  "_original_name": "DynaMITES Vinyl",
+  "_original_lore": [
+    "Place in a Chirping Stereo to play",
+    "funky tunes for  Pests.",
+    "",
+    "When playing, this vinyl attracts Mite",
+    "Pests.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "戴纳麦茨唱片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Place in a Chirping Stereo to play",
+        "funky tunes for  Pests."
+      ],
+      "translation": "放入鸣叫音响中,为  害虫播放动感音乐.",
+      "styleMappings": {
+        "Chirping Stereo": "鸣叫音响",
+        " Pests": " 害虫",
+        "Pests": "害虫"
+      }
+    },
+    {
+      "source": [
+        "When playing, this vinyl attracts Mite",
+        "Pests."
+      ],
+      "translation": "播放时,这张唱片会吸引螨虫害虫.",
+      "styleMappings": {
+        "Mite Pests": "螨虫害虫",
+        "Mite": "螨虫",
+        "Pests": "害虫"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Vinyl": "唱片"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

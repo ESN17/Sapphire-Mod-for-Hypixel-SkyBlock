@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "SPORE_HARVESTER",
+  "_original_name": "Spore Harvester",
+  "_original_lore": [
+    "A magically imbued axe used by",
+    "Mages to carefully harvest Brown",
+    "Mushrooms in the Crimson Isle.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "孢子收割者",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A magically imbued axe used by",
+        "Mages to carefully harvest Brown",
+        "Mushrooms in the Crimson Isle."
+      ],
+      "translation": "一把被魔法灌注的斧头,法师用它来在绯红之岛中小心地收割棕色蘑菇.",
+      "styleMappings": {
+        "Mages": "法师",
+        "Brown Mushrooms": "棕色蘑菇",
+        "Crimson Isle": "绯红之岛",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

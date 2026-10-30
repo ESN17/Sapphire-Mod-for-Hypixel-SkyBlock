@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "SHADEVINE",
+  "_original_name": "Shadevine",
+  "_original_lore": [
+    "Tough and tangled, it grows where",
+    "few others can.",
+    "",
+    "Complete Visitor Beth's quest to",
+    "Analyze this crop!",
+    "",
+    "COMMON MUTATION"
+  ],
+  "name": "影藤",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Tough and tangled, it grows where",
+        "few others can."
+      ],
+      "translation": "坚韧而缠绕,它生长在其他植物难以存活的地方.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Complete Visitor Beth's quest to",
+        "Analyze this crop!"
+      ],
+      "translation": "完成访客 Beth 的任务来分析这种作物!",
+      "styleMappings": {
+        "Visitor": "访客",
+        "Beth's": "Beth 的",
+        "Analyze": "分析"
+      }
+    },
+    {
+      "source": [
+        "COMMON MUTATION"
+      ],
+      "translation": "普通变异",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

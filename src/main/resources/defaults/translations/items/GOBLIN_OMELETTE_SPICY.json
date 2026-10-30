@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "id": "GOBLIN_OMELETTE_SPICY",
+  "_original_name": "Spicy Goblin Omelette",
+  "_original_lore": [
+    "Drill Part",
+    "",
+    "Earn +20% Powder from all sources.",
+    "",
+    "Put this item in the Upgrade Module",
+    "slot of a Drill at a Drill Mechanic!",
+    "",
+    "May cause infections",
+    "",
+    "❣ Requires Heart of the Mountain Tier 5.",
+    "RARE"
+  ],
+  "name": "辣味哥布林煎蛋卷",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Drill Part"
+      ],
+      "translation": "钻头部件",
+      "styleMappings": {
+        "Drill Part": "钻头部件",
+        "Drill": "钻头"
+      }
+    },
+    {
+      "source": [
+        "Earn {{N0}} Powder from all sources."
+      ],
+      "translation": "从所有来源获得 {{N0}} 粉末.",
+      "styleMappings": {
+        "Powder": "粉末"
+      }
+    },
+    {
+      "source": [
+        "Put this item in the Upgrade Module",
+        "slot of a Drill at a Drill Mechanic!"
+      ],
+      "translation": "将此物品放入钻机技工处钻机的升级模块槽位!",
+      "styleMappings": {
+        "Drill Mechanic": "钻机技工",
+        "Upgrade Module": "升级模块",
+        "item": "物品",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "May cause infections"
+      ],
+      "translation": "可能引起感染",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "❣ Requires Heart of the Mountain Tier {{N0}}."
+      ],
+      "translation": "❣ 需要山峰之心等级 {{N0}}.",
+      "styleMappings": {
+        "Heart of the Mountain Tier": "山峰之心等级",
+        "Requires": "需要",
+        "Heart of the Mountain": "山峰之心"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Goblin": "哥布林"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

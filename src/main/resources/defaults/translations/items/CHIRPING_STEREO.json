@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "CHIRPING_STEREO",
+  "_original_name": "Chirping Stereo",
+  "_original_lore": [
+    "Can be used at SkyMart to upgrade",
+    "the InfiniVacuum™ to the",
+    "InfiniVacuum™ Hooverius, which",
+    "applies the Stereo Harmony ability.",
+    "",
+    "While nobody is sure who came up",
+    "with the genius design, everyone",
+    "agrees that they are one of the",
+    "true engineering greats.",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "鸣叫音响",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Can be used at SkyMart to upgrade",
+        "the InfiniVacuum™ to the",
+        "InfiniVacuum™ Hooverius, which",
+        "applies the Stereo Harmony ability."
+      ],
+      "translation": "可在 SkyMart 使用,将无限吸尘器™ 升级为无限真空™ 胡佛里乌斯,后者会应用立体声和声能力.",
+      "styleMappings": {
+        "SkyMart": "SkyMart",
+        "InfiniVacuum™": "无限吸尘器™",
+        "InfiniVacuum™ Hooverius": "无限真空™ 胡佛里乌斯",
+        "upgrade": "升级",
+        "Stereo Harmony": "立体声和声"
+      }
+    },
+    {
+      "source": [
+        "While nobody is sure who came up",
+        "with the genius design, everyone",
+        "agrees that they are one of the",
+        "true engineering greats."
+      ],
+      "translation": "虽然没人确定这个天才设计出自谁手,但所有人都认同它是真正的工程杰作之一.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Chirping Stereo": "鸣叫音响"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

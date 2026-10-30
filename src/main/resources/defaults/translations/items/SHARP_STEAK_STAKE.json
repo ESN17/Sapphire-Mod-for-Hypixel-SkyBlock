@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "SHARP_STEAK_STAKE",
+  "_original_name": "Super Sharp 'n Stabby Steak Stake",
+  "_original_lore": [
+    "Ability: A bit of Impalement  LEFT CLICK",
+    "Stab a Vampire at 20%❤ to instantly",
+    "vanquish it.",
+    "(Does not actually hurt the vampire)",
+    "",
+    "Ability: Bloodcrave ",
+    "After vanquishing a Vampire, your",
+    "next hit will deal 2x  Damage and",
+    "your next Vampire kill will award 1.5x",
+    "Combat Exp.",
+    "",
+    "This item can be reforged!",
+    "☠ Requires Vampire Slayer 3.",
+    "EPIC SWORD"
+  ],
+  "name": "嗜血穿心桩",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: A bit of Impalement  LEFT CLICK"
+      ],
+      "translation": "技能:一点穿刺  左键点击",
+      "styleMappings": {
+        "LEFT CLICK": "左键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Stab a Vampire at {{N0}}❤ to instantly",
+        "vanquish it."
+      ],
+      "translation": "在 {{N0}}❤ 处刺中吸血鬼即可将其瞬间消灭.",
+      "styleMappings": {
+        "Vampire": "吸血鬼"
+      }
+    },
+    {
+      "source": [
+        "(Does not actually hurt the vampire)"
+      ],
+      "translation": "(实际上不会伤害吸血鬼)",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Ability: Bloodcrave "
+      ],
+      "translation": "技能:嗜血 ",
+      "styleMappings": {
+        "Ability": "技能"
+      }
+    },
+    {
+      "source": [
+        "After vanquishing a Vampire, your",
+        "next hit will deal {{N0}}x  Damage and",
+        "your next Vampire kill will award {{N1}}x",
+        "Combat Exp."
+      ],
+      "translation": "消灭吸血鬼后,你的下一次攻击将造成 {{N0}}倍 伤害,且下一次击杀吸血鬼将获得 {{N1}}倍 战斗经验.",
+      "styleMappings": {
+        "Combat Exp": "战斗经验",
+        " Damage": " 伤害",
+        "Vampire": "吸血鬼",
+        "deal": "造成",
+        "hit": "攻击",
+        "Damage": "伤害",
+        "{{N0}}x": "{{N0}}倍",
+        "{{N1}}x": "{{N1}}倍",
+        "Combat": "战斗",
+        "Exp": "经验"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Vampire Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要吸血鬼杀手 {{N0}}.",
+      "styleMappings": {
+        "Vampire Slayer": "吸血鬼杀手",
+        "Requires": "需要",
+        "Slayer": "杀手",
+        "Vampire": "吸血鬼"
+      }
+    },
+    {
+      "source": [
+        "EPIC SWORD"
+      ],
+      "translation": "史诗 剑",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Super Sharp 'n Stabby Steak Stake": "嗜血穿心桩",
+    "Steak Stake": "尖刺签"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback",
+  "_reviewed_name_revision": "2026-10-17-slayer-rpg"
+}

@@ -1,0 +1,200 @@
+{
+  "schemaVersion": 1,
+  "id": "ENTROPY_SUPPRESSOR",
+  "_original_name": "Entropy Suppressor",
+  "_original_lore": [
+    "Reforge Stone",
+    "Combinable in Anvil",
+    "",
+    "Applies the Coldfused reforge when",
+    "combined with a Melee Weapon.",
+    "",
+    "Can be used with Blaze Slayer",
+    "daggers.",
+    "",
+    "Grants the following stats that scale",
+    "with the item's rarity:",
+    "  Strength",
+    "  Crit Damage",
+    "  Magic Find",
+    "",
+    "Coldfused Bonus",
+    "While a Wisp Pet is active:",
+    "+75 Strength",
+    "+55 Crit Damage",
+    "",
+    "Deal +1 Damage to Fire Pillars. Breaking one",
+    "grants +30 True Defense and +15% ",
+    "Damage for 60s.",
+    "",
+    "Right-click to view rarity scaling!",
+    "",
+    "❣ Requires Mining Skill 20.",
+    "",
+    "EPIC REFORGE STONE"
+  ],
+  "name": "熵抑制器",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Reforge Stone",
+        "Combinable in Anvil"
+      ],
+      "translation": "洗练石 可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Reforge Stone": "洗练石",
+        "Anvil": "铁砧",
+        "Reforge": "洗练"
+      }
+    },
+    {
+      "source": [
+        "Applies the Coldfused reforge when",
+        "combined with a Melee Weapon."
+      ],
+      "translation": "与近战武器结合时,应用寒融洗练.",
+      "styleMappings": {
+        "Melee Weapon": "近战武器",
+        "Coldfused": "寒融",
+        "reforge": "洗练",
+        "Weapon": "武器",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Can be used with Blaze Slayer",
+        "daggers."
+      ],
+      "translation": "可用于烈焰人杀手匕首.",
+      "styleMappings": {
+        "Blaze Slayer": "烈焰人杀手",
+        "Slayer": "杀手"
+      }
+    },
+    {
+      "source": [
+        "Grants the following stats that scale"
+      ],
+      "translation": "提供以下随物品稀有度提升的属性:",
+      "styleMappings": {
+        "Grants": "提供",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "with the item's rarity:"
+      ],
+      "translation": "物品稀有度提升的属性:",
+      "styleMappings": {
+        "item": "物品",
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "  Strength",
+        "  Crit Damage",
+        "  Magic Find"
+      ],
+      "translation": "   力量  暴击伤害  稀有物品概率加成",
+      "styleMappings": {
+        " Crit Damage": " 暴击伤害",
+        " Magic Find": " 稀有物品概率加成",
+        "Crit Damage": "暴击伤害",
+        "Strength": "力量",
+        "Damage": "伤害",
+        "Magic Find": "稀有物品概率加成"
+      }
+    },
+    {
+      "source": [
+        "Coldfused Bonus"
+      ],
+      "translation": "寒融加成",
+      "styleMappings": {
+        "Coldfused Bonus": "寒融加成",
+        "Bonus": "加成",
+        "Coldfused": "寒融"
+      }
+    },
+    {
+      "source": [
+        "While a Wisp Pet is active:"
+      ],
+      "translation": "当幽灵宠物激活时:",
+      "styleMappings": {
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "{{N0}} Strength",
+        "{{N1}} Crit Damage"
+      ],
+      "translation": "{{N0}} 力量 {{N1}} 暴击伤害",
+      "styleMappings": {
+        " Crit Damage": " 暴击伤害",
+        " Strength": " 力量",
+        "Crit Damage": "暴击伤害",
+        "Strength": "力量",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Deal {{N0}} Damage to Fire Pillars. Breaking one",
+        "grants {{N1}} True Defense and {{N2}} ",
+        "Damage for {{N3}}s."
+      ],
+      "translation": "对火柱造成 {{N0}} 伤害.击碎一根火柱可获得 {{N1}} 真实防御和 {{N2}} 伤害,持续 {{N3}}秒.",
+      "styleMappings": {
+        "True Defense": "真实防御",
+        " Damage": " 伤害",
+        "s": "一",
+        "Damage": "伤害",
+        "{{N3}}s": "{{N3}}秒",
+        "for": "持续",
+        "Defense": "防御",
+        "Deal": "造成",
+        "Fire Pillars": "火柱",
+        "True": "真实"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view rarity scaling!"
+      ],
+      "translation": "右键查看各稀有度的属性!",
+      "styleMappings": {
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Mining Skill {{N0}}."
+      ],
+      "translation": "❣ 需要采矿技能 {{N0}}.",
+      "styleMappings": {
+        "Mining Skill": "采矿技能",
+        "Requires": "需要",
+        "Mining": "采矿",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC REFORGE STONE"
+      ],
+      "translation": "史诗洗练石",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

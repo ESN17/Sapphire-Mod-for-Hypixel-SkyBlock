@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "DETECTIVE_SCANNER",
+  "_original_name": "Detective Scanner",
+  "_original_lore": [
+    "Ability: Detect!  RIGHT CLICK",
+    "Investigate a clue or abnormality.",
+    "Mana Cost: 10",
+    "Cooldown: 4s",
+    "",
+    "RARE"
+  ],
+  "name": "侦探扫描仪",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Detect!  RIGHT CLICK"
+      ],
+      "translation": "技能: 侦测!  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Investigate a clue or abnormality."
+      ],
+      "translation": "调查线索或异常现象.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

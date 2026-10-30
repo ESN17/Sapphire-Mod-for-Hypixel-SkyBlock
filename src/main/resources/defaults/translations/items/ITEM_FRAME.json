@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "ITEM_FRAME",
+  "_original_name": "Item Frame",
+  "_original_lore": [
+    "COMMON"
+  ],
+  "name": "物品展示框",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Item": "物品"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

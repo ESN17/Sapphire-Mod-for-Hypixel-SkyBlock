@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "id": "FROG_MASK",
+  "_original_name": "Frog Mask",
+  "_original_lore": [
+    "Health: +7",
+    "Foraging Fortune: +7",
+    "Speed: +7",
+    "",
+    "Ability: Stick Around ",
+    "Every SkyBlock day, a random region",
+    "in The Park is selected. While in that",
+    "region, gain:",
+    "+20 Foraging Fortune",
+    "+5☯ Foraging Wisdom",
+    "",
+    "Today's region: Jungle Island",
+    "",
+    "Ribbit, ribbit!",
+    "",
+    "This item can be reforged!",
+    "EPIC CARNIVAL MASK"
+  ],
+  "name": "青蛙面具",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Foraging Fortune: {{N0}}"
+      ],
+      "translation": "采伐幸运: {{N0}}",
+      "styleMappings": {
+        "Foraging Fortune": "采伐幸运",
+        "Fortune": "幸运",
+        "Foraging": "采伐"
+      }
+    },
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Ability: Stick Around "
+      ],
+      "translation": "能力: 黏住不放 ",
+      "styleMappings": {
+        "Ability: Stick Around": "能力: 黏住不放",
+        "Ability": "能力"
+      }
+    },
+    {
+      "source": [
+        "Every SkyBlock day, a random region",
+        "in The Park is selected. While in that"
+      ],
+      "translation": "每个空岛生存日,公园中的一个随机区域会被选中.在该",
+      "styleMappings": {
+        "SkyBlock": "空岛生存",
+        "The Park": "公园"
+      }
+    },
+    {
+      "source": [
+        "region, gain:"
+      ],
+      "translation": "区域内时,获得:",
+      "styleMappings": {
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "{{N0}} Foraging Fortune"
+      ],
+      "translation": "{{N0}} 采伐幸运",
+      "styleMappings": {
+        " Foraging Fortune": " 采伐幸运",
+        "Fortune": "幸运",
+        "Foraging": "采伐",
+        "Foraging Fortune": "采伐幸运"
+      }
+    },
+    {
+      "source": [
+        "{{N0}}☯ Foraging Wisdom"
+      ],
+      "translation": "{{N0}}☯ 采伐智慧",
+      "styleMappings": {
+        "☯ Foraging Wisdom": "☯ 采伐智慧",
+        "Foraging Wisdom": "采伐智慧",
+        "Wisdom": "智慧",
+        "Foraging": "采伐"
+      }
+    },
+    {
+      "source": [
+        "Today's region: Jungle Island"
+      ],
+      "translation": "今日区域: 丛林岛",
+      "styleMappings": {
+        "Today's region:": "今日区域:",
+        "Jungle Island": "丛林岛",
+        "Jungle": "丛林"
+      }
+    },
+    {
+      "source": [
+        "Ribbit, ribbit!"
+      ],
+      "translation": "呱呱,呱呱!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "EPIC CARNIVAL MASK"
+      ],
+      "translation": "史诗嘉年华面具",
+      "styleMappings": {
+        "EPIC CARNIVAL MASK": "史诗嘉年华面具",
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mask": "面具",
+    "Frog": "青蛙"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

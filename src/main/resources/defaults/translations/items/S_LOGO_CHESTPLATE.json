@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "S_LOGO_CHESTPLATE",
+  "_original_name": "W Logo",
+  "_original_lore": [
+    "Intelligence: +32",
+    "",
+    "This item can be reforged!",
+    "MYTHIC CHESTPLATE"
+  ],
+  "name": "双优标志",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "MYTHIC CHESTPLATE"
+      ],
+      "translation": "神话 胸甲",
+      "styleMappings": {
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {
+    "W Logo": "双优标志"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "BASKET_OF_SEEDS",
+  "_original_name": "Basket of Seeds",
+  "_original_lore": [
+    "Ability: Seed Storage  LEFT CLICK",
+    "Place seeds in the basket.",
+    "",
+    "Ability: Farmer's Delight  RIGHT CLICK",
+    "Automatically seed a row of farmland.",
+    "",
+    "EPIC"
+  ],
+  "name": "种子篮",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Seed Storage  LEFT CLICK"
+      ],
+      "translation": "技能: 种子存储  左键点击",
+      "styleMappings": {
+        "Ability: Seed Storage": "技能: 种子存储",
+        "LEFT CLICK": "左键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Place seeds in the basket."
+      ],
+      "translation": "将种子放入篮子中.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Ability: Farmer's Delight  RIGHT CLICK"
+      ],
+      "translation": "能力: 农夫之乐  右键点击",
+      "styleMappings": {
+        "Ability: Farmer's Delight": "能力: 农夫之乐",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "能力",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Automatically seed a row of farmland."
+      ],
+      "translation": "自动为一排耕地播种.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Basket of Seeds": "种子篮"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

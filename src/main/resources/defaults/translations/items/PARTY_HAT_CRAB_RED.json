@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "PARTY_HAT_CRAB_RED",
+  "_original_name": "Red Crab Hat of Celebration",
+  "_original_lore": [
+    "Magic Find: +1",
+    "Accessory Power: +3",
+    "",
+    "Ability: Party Time! ",
+    "Gain +1 Intelligence while on your",
+    "head for each SkyBlock year you've",
+    "been playing.",
+    "",
+    "Obtained: 2020",
+    "",
+    "Works while in Accessory Bag!",
+    "SPECIAL HATCESSORY"
+  ],
+  "name": "红色庆典蟹帽",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Magic Find: {{N0}}"
+      ],
+      "translation": "稀有物品概率加成: {{N0}}",
+      "styleMappings": {
+        "Magic Find": "稀有物品概率加成"
+      }
+    },
+    {
+      "source": [
+        "Accessory Power: {{N0}}"
+      ],
+      "translation": "饰品能量: {{N0}}",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "Ability: Party Time! "
+      ],
+      "translation": "技能: 派对时间!",
+      "styleMappings": {
+        "Ability": "技能",
+        "Party Time!": "派对时间!"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}} Intelligence while on your",
+        "head for each SkyBlock year you've",
+        "been playing."
+      ],
+      "translation": "戴在头上时,每玩过一个空岛生存年份获得 {{N0}} 智力.",
+      "styleMappings": {
+        "Intelligence": "智力",
+        "SkyBlock": "空岛生存",
+        "Gain": "获得",
+        "": "",
+        "for": "获得",
+        " Intelligence": " 智力",
+        "year": "年"
+      }
+    },
+    {
+      "source": [
+        "Obtained: {{N0}}"
+      ],
+      "translation": "获取方式: {{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "放在饰品袋中即可生效!",
+      "styleMappings": {
+        "Accessory Bag": "饰品袋",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL HATCESSORY"
+      ],
+      "translation": "特殊帽子饰品",
+      "styleMappings": {
+        "SPECIAL HATCESSORY": "特殊帽子饰品",
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Red Crab Hat of Celebration": "红色庆典蟹帽",
+    "Red": "红色"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

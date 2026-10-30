@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "id": "TYRANNOSAURUS;4",
+  "_original_name": "[Lvl {LVL}] T-Rex",
+  "_original_lore": [
+    "Combat Pet",
+    "",
+    "Strength: +{STRENGTH}",
+    "Crit Chance: +{CRIT_CHANCE}%",
+    "Ferocity: +{FEROCITY}",
+    "",
+    "Close Combat",
+    "Deal {0}% more damage to enemies",
+    "within 1.5 blocks.",
+    "",
+    "Ferocious Roar",
+    "Attacks have a {1}% chance to stun",
+    "the target (10s cooldown).",
+    "",
+    "Tyrant",
+    "Combat stats granted by pet items on",
+    "this pet are increased by {2}%.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "LEGENDARY PET"
+  ],
+  "name": "[等级 {LVL}] 霸王龙",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combat Pet"
+      ],
+      "translation": "战斗宠物",
+      "styleMappings": {
+        "Combat Pet": "战斗宠物",
+        "Combat": "战斗",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Strength: +{{N0}}"
+      ],
+      "translation": "力量: +{{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Crit Chance: +{{N0}}%"
+      ],
+      "translation": "暴击几率: +{{N0}}%",
+      "styleMappings": {
+        "Crit Chance": "暴击几率"
+      }
+    },
+    {
+      "source": [
+        "Ferocity: +{{N0}}"
+      ],
+      "translation": "残暴值: +{{N0}}",
+      "styleMappings": {
+        "Ferocity": "残暴值"
+      }
+    },
+    {
+      "source": [
+        "Close Combat"
+      ],
+      "translation": "近身战斗",
+      "styleMappings": {
+        "Combat": "战斗"
+      }
+    },
+    {
+      "source": [
+        "Deal {{N0}}% more damage to enemies",
+        "within {{N1}} blocks."
+      ],
+      "translation": "对 {{N1}} 格内的敌人造成 {{N0}}% 额外伤害.",
+      "styleMappings": {
+        "blocks": "格",
+        "damage": "伤害",
+        "more": "额外",
+        "enemies": "敌人",
+        "Deal": "造成"
+      }
+    },
+    {
+      "source": [
+        "Ferocious Roar"
+      ],
+      "translation": "凶猛咆哮",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Attacks have a {{N0}}% chance to stun",
+        "the target ({{N1}}s cooldown)."
+      ],
+      "translation": "攻击有 {{N0}}% 几率眩晕目标({{N1}}秒 冷却).",
+      "styleMappings": {
+        "chance to stun the target": "几率眩晕目标",
+        "cooldown": "冷却",
+        "{{N1}}s": "{{N1}}秒",
+        "chance": "几率",
+        "chance to": "几率"
+      }
+    },
+    {
+      "source": [
+        "Tyrant"
+      ],
+      "translation": "暴君",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Combat stats granted by pet items on",
+        "this pet are increased by {{N0}}%."
+      ],
+      "translation": "此宠物身上的宠物物品提供的战斗属性提高 {{N0}}%.",
+      "styleMappings": {
+        "Combat": "战斗",
+        "stats": "属性",
+        "pet": "宠物",
+        "items": "物品"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY PET"
+      ],
+      "translation": "传说 宠物",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "T-Rex": "霸王龙",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

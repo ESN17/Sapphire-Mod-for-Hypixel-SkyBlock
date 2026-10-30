@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "DUNGEON_CHEST_KEY",
+  "_original_name": "Dungeon Chest Key",
+  "_original_lore": [
+    "Allows you to open an additional",
+    "treasure chest at the end of a",
+    "dungeon!",
+    "",
+    "RARE DUNGEON ITEM"
+  ],
+  "name": "地牢宝箱钥匙",
+  "lore": {
+    "RARE DUNGEON ITEM": "稀有地牢物品"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "Allows you to open an additional",
+        "treasure chest at the end of a",
+        "dungeon!"
+      ],
+      "translation": "允许你在完成地牢后额外开启一个宝箱!",
+      "styleMappings": {
+        "additional": "额外"
+      }
+    },
+    {
+      "source": [
+        "RARE DUNGEON ITEM"
+      ],
+      "translation": "稀有 地牢物品",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Dungeon": "地牢"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

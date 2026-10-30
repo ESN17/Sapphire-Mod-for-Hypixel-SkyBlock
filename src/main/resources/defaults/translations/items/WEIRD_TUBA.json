@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "WEIRD_TUBA",
+  "_original_name": "Weird Tuba",
+  "_original_lore": [
+    "Ability: Howl  RIGHT CLICK",
+    "You and 4 nearby players gain:",
+    " +30 Strength",
+    " +30 Speed",
+    "for 20 seconds.",
+    "Effect doesn't stack.",
+    "Mana Cost: 150",
+    "Cooldown: 20s",
+    "",
+    "☠ Requires Wolf Slayer 5.",
+    "X Rift-Transferable X",
+    "RARE"
+  ],
+  "name": "奇怪的长号",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Howl  RIGHT CLICK"
+      ],
+      "translation": "技能:嚎叫  右键点击",
+      "styleMappings": {
+        "Ability: Howl": "技能:嚎叫",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "You and {{N0}} nearby players gain:"
+      ],
+      "translation": "你和 {{N0}} 名附近玩家获得:",
+      "styleMappings": {
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        " {{N0}} Strength",
+        " {{N1}} Speed",
+        "for {{N2}} seconds."
+      ],
+      "translation": " {{N0}} 力量  {{N1}} 速度,持续 {{N2}} 秒.",
+      "styleMappings": {
+        " Strength": " 力量",
+        "seconds": "秒",
+        " Speed": " 速度",
+        "for": "持续",
+        "Strength": "力量",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Effect doesn't stack."
+      ],
+      "translation": "效果不叠加.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Wolf Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要狼杀手 {{N0}}.",
+      "styleMappings": {
+        "Wolf Slayer": "狼杀手",
+        "Requires": "需要",
+        "Slayer": "杀手",
+        "Wolf": "狼"
+      }
+    },
+    {
+      "source": [
+        "X Rift-Transferable X"
+      ],
+      "translation": "X 可转移至裂隙 X",
+      "styleMappings": {
+        "Rift-Transferable": "可转移至裂隙",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

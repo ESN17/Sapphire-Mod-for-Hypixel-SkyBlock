@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "MINOTAUR_MONSTER",
+  "_original_name": "Minotaur (Mythological Creature)",
+  "_original_lore": [
+    "The Minotaur is a rare mob in the Mythological",
+    "Ritual. It will attack at melee range, and can",
+    "throw an axe at you, temporarily slowing down",
+    "your healing speed. It has a special mechanic",
+    "called Bleed that allows it to do more damage.",
+    "It increases by 1 every time it hits you, and",
+    "increases by 3 every time its axe hits you.",
+    "",
+    "Mob Types: ✿ Mythological, ✰ Humanoid",
+    "❤ Health:",
+    "[Griffin] 1,500,000 ❤",
+    "[Griffin] 8,000,000 ❤",
+    "[Griffin] 15,500,000 ❤",
+    "",
+    "RARE"
+  ],
+  "name": "弥诺陶洛斯 (神话生物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Minotaur is a rare mob in the Mythological",
+        "Ritual. It will attack at melee range, and can",
+        "throw an axe at you, temporarily slowing down",
+        "your healing speed. It has a special mechanic",
+        "called Bleed that allows it to do more damage."
+      ],
+      "translation": "弥诺陶洛斯是神话仪式中的稀有怪物.它会进行近战攻击,并能向你投掷斧头,暂时降低你的治疗速度.它有一个名为流血的特殊机制,使其能造成更多伤害.",
+      "styleMappings": {
+        "Mythological Ritual": "神话仪式",
+        "special": "特殊",
+        "damage": "伤害",
+        "speed": "速度",
+        "rare": "稀有",
+        "Minotaur": "弥诺陶洛斯",
+        "more": "更多",
+        "Mythological": "神话",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "It increases by {{N0}} every time it hits you, and",
+        "increases by {{N1}} every time its axe hits you."
+      ],
+      "translation": "它每次击中你都会提升 {{N0}},其斧头每次击中你都会提升 {{N1}}.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Mob Types: ✿ Mythological, ✰ Humanoid"
+      ],
+      "translation": "怪物类型: ✿ 神话, ✰ 人形",
+      "styleMappings": {
+        "Mythological": "神话",
+        "Humanoid": "人形",
+        "Mob Types": "怪物类型",
+        "Mob Types:": "怪物类型:"
+      }
+    },
+    {
+      "source": [
+        "❤ Health:"
+      ],
+      "translation": "❤ 生命值:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "[Griffin] {{N0}} ❤",
+        "[Griffin] {{N1}} ❤",
+        "[Griffin] {{N2}} ❤"
+      ],
+      "translation": "[狮鹫] {{N0}} ❤ [狮鹫] {{N1}} ❤ [狮鹫] {{N2}} ❤",
+      "styleMappings": {
+        "Griffin": "狮鹫"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mythological Creature": "神话生物",
+    "Minotaur": "弥诺陶洛斯"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

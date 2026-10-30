@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_HEALING;1",
+  "_original_name": "Healing I Potion",
+  "_original_lore": [
+    "",
+    "Healing I (0:05)",
+    "Heals for +5 every second.",
+    "",
+    "COMMON"
+  ],
+  "name": "治疗 I 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Healing I ({{N0}}:{{N1}})"
+      ],
+      "translation": "治疗 I ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Healing I": "治疗 I"
+      }
+    },
+    {
+      "source": [
+        "Heals for {{N0}} every second."
+      ],
+      "translation": "每秒恢复 {{N0}} 生命.",
+      "styleMappings": {
+        "second": "秒"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Healing I": "治疗 I"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

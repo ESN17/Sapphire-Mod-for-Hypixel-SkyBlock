@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "SEA_EMPEROR_SC",
+  "_original_name": "The Loch Emperor (Sea Creature)",
+  "_original_lore": [
+    "The Loch Emperor is a Sea Creature that can",
+    "appear while fishing once a player's fishing",
+    "level is 20 or higher. ",
+    "",
+    "Mob Types: ⚓ Aquatic, 🦴 Skeletal, ♃ Arcan",
+    "❤ Health: 800,000",
+    "❁ Damage: 100",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "洛克帝王 (海怪)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Loch Emperor is a Sea Creature that can",
+        "appear while fishing once a player's fishing",
+        "level is {{N0}} or higher. "
+      ],
+      "translation": "洛克帝王是一种海怪,当玩家钓鱼等级达到 {{N0}} 或更高时钓鱼可能生成. ",
+      "styleMappings": {
+        "Sea Creature": "海怪",
+        "fishing": "钓鱼",
+        "player": "玩家",
+        "s": "一"
+      }
+    },
+    {
+      "source": [
+        "Mob Types: ⚓ Aquatic, 🦴 Skeletal, ♃ Arcan"
+      ],
+      "translation": "生物类型: ⚓ 水生, 🦴 骷髅, ♃ 奥术",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Skeletal": "骷髅",
+        "Aquatic": "水生",
+        "Arcan": "奥术"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "❁ Damage: {{N0}}"
+      ],
+      "translation": "❁ 伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sea Creature": "海怪",
+    "(Sea Creature)": "(海怪)"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

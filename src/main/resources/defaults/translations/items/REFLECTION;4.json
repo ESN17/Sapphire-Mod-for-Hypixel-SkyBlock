@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "id": "REFLECTION;4",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Reflection IV",
+    "Grants +8 Intelligence.",
+    "Grants +4 True Defense.",
+    "When damaged by an arrow, deal 20x your",
+    " Intelligence to its shooter.",
+    "",
+    "Sources:",
+    " - Rift Mirrorverse (I-V)",
+    " - Bazaar (I-V)",
+    "",
+    "Applied To:",
+    " - Chestplate",
+    "",
+    "Requirements:",
+    " - Enchanting Level 24",
+    "",
+    "Conflicts:",
+    " - Thorns",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Reflection IV"
+      ],
+      "translation": "映照 IV",
+      "styleMappings": {
+        "Reflection": "映照"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Intelligence."
+      ],
+      "translation": "获得 {{N0}} 智力.",
+      "styleMappings": {
+        "Intelligence": "智力",
+        "Grants": "获得",
+        "": "",
+        " Intelligence": " 智力"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} True Defense."
+      ],
+      "translation": "提供 {{N0}} 真实防御.",
+      "styleMappings": {
+        "True Defense": "真实防御",
+        "Grants": "提供",
+        "Defense": "防御",
+        "True": "真实"
+      }
+    },
+    {
+      "source": [
+        "When damaged by an arrow, deal {{N0}}x your",
+        " Intelligence to its shooter."
+      ],
+      "translation": "被箭矢击中时,对射击者造成相当于你  智力 {{N0}}x 的伤害.",
+      "styleMappings": {
+        "Intelligence": "智力",
+        "deal": "造成",
+        "": "",
+        " Intelligence": " 智力"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Rift Mirrorverse (I-V)",
+        " - Bazaar (I-V)"
+      ],
+      "translation": " - 裂隙镜像世界 (一至五)  - 集市 (一至五)",
+      "styleMappings": {
+        "Rift Mirrorverse": "裂隙镜像世界",
+        "Bazaar": "集市",
+        "I-V": "一至五",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Chestplate"
+      ],
+      "translation": " - 胸甲",
+      "styleMappings": {
+        "Chestplate": "胸甲"
+      }
+    },
+    {
+      "source": [
+        "Requirements:"
+      ],
+      "translation": "需求:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchanting Level {{N0}}"
+      ],
+      "translation": " - 附魔等级 {{N0}}",
+      "styleMappings": {
+        "Enchanting Level": "附魔等级"
+      }
+    },
+    {
+      "source": [
+        "Conflicts:"
+      ],
+      "translation": "冲突:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Thorns"
+      ],
+      "translation": " - 荆棘",
+      "styleMappings": {
+        "Thorns": "荆棘"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

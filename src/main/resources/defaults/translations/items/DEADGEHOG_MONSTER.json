@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "DEADGEHOG_MONSTER",
+  "_original_name": "Deadgehog (Monster)",
+  "_original_lore": [
+    "Found near the Black Lagoon",
+    "in the Rift.",
+    "",
+    "Shoots terrifying arrows that deal",
+    "9sф Damage.",
+    "",
+    "Also has a melee attack that deals",
+    "2sф Damage.",
+    "",
+    "❤ Health: 150"
+  ],
+  "name": "死刺猬 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Found near the Black Lagoon",
+        "in the Rift."
+      ],
+      "translation": "在裂隙中的黑水潭附近被发现.",
+      "styleMappings": {
+        "Black Lagoon": "黑水潭",
+        "the Rift": "裂隙",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "Shoots terrifying arrows that deal",
+        "{{N0}}sф Damage."
+      ],
+      "translation": "射出造成 {{N0}}sф 伤害的恐怖箭矢.",
+      "styleMappings": {
+        "Shoots": "射出",
+        "deal": "造成",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Also has a melee attack that deals",
+        "{{N0}}sф Damage."
+      ],
+      "translation": "同时拥有造成 {{N0}}sф 伤害的近战攻击.",
+      "styleMappings": {
+        "that deals": "造成",
+        "Damage": "伤害",
+        "Also": "同时"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

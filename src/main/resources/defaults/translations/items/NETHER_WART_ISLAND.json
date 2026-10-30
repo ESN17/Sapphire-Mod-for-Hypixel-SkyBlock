@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "NETHER_WART_ISLAND",
+  "_original_name": "Nether Wart Island",
+  "_original_lore": [
+    "Place this in your private world to",
+    "spawn a Nether Wart island!",
+    "",
+    "COMMON"
+  ],
+  "name": "地狱疣岛",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Place this in your private world to",
+        "spawn a Nether Wart island!"
+      ],
+      "translation": "将其放置在你的私人世界中以生成一座地狱疣岛!",
+      "styleMappings": {
+        "Nether Wart": "地狱疣"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Nether Wart": "地狱疣"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

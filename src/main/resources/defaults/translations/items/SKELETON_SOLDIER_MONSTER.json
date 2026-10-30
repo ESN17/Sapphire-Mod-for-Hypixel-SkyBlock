@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "SKELETON_SOLDIER_MONSTER",
+  "_original_name": "Skeleton Soldier (Monster)",
+  "_original_lore": [
+    "Defenders of the Catacombs.",
+    "",
+    "❤ Health: 31,000 - 750,000",
+    "❤ Health (MM) : 1,600,000 - 28,000,000"
+  ],
+  "name": "骷髅士兵 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Defenders of the Catacombs."
+      ],
+      "translation": "地牢的守卫者.",
+      "styleMappings": {
+        "Catacombs": "地牢",
+        "the Catacombs": "地牢"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}} - {{N1}}"
+      ],
+      "translation": "❤ 生命值: {{N0}} - {{N1}}",
+      "styleMappings": {
+        "Health": "生命值",
+        "-": "-"
+      }
+    },
+    {
+      "source": [
+        "❤ Health (MM) : {{N0}} - {{N1}}"
+      ],
+      "translation": "❤ 生命值 (MM) : {{N0}} - {{N1}}",
+      "styleMappings": {
+        "Health": "生命值",
+        "-": "-"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Skeleton Soldier": "骷髅士兵",
+    "(Monster)": "(怪物)",
+    "Skeleton": "骷髅",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

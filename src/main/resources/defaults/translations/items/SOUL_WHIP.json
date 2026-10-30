@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": "SOUL_WHIP",
+  "_original_name": "Soul Whip",
+  "_original_lore": [
+    "Damage: +145",
+    "Strength: +175",
+    "Gemstones: [⚔]",
+    "",
+    "Deals 2x damage to Sea Creatures.",
+    "",
+    "Ability: Flay  RIGHT CLICK",
+    "Flay your whip in an arc, dealing your melee",
+    "damage to all enemies in its path.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Fishing Skill 26.",
+    "EPIC SWORD"
+  ],
+  "name": "灵魂鞭",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [⚔]"
+      ],
+      "translation": "宝石: [⚔]",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石"
+      }
+    },
+    {
+      "source": [
+        "Deals {{N0}}x damage to Sea Creatures."
+      ],
+      "translation": "对海洋生物造成 {{N0}} 倍伤害.",
+      "styleMappings": {
+        "Sea Creatures": "海洋生物",
+        "damage": "伤害",
+        "Deals": "造成",
+        "{{N0}}x": "{{N0}} 倍"
+      }
+    },
+    {
+      "source": [
+        "Ability: Flay  RIGHT CLICK"
+      ],
+      "translation": "技能: 鞭击  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Flay your whip in an arc, dealing your melee",
+        "damage to all enemies in its path."
+      ],
+      "translation": "以弧线挥动你的鞭子,对路径上的所有敌人造成近战伤害.",
+      "styleMappings": {
+        "melee damage": "近战伤害",
+        "damage": "伤害",
+        "enemies": "敌人",
+        "to all enemies in its path": "对路径上的所有敌人"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Fishing Skill {{N0}}."
+      ],
+      "translation": "❣ 需要钓鱼技能 {{N0}}.",
+      "styleMappings": {
+        "Fishing Skill": "钓鱼技能",
+        "Requires": "需要",
+        "Fishing": "钓鱼",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC SWORD"
+      ],
+      "translation": "史诗 剑",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Soul": "灵魂"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

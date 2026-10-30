@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "id": "GLOWING_MUSHROOM_CAVE_TRAVEL_SCROLL",
+  "_original_name": "Travel Scroll to the Glowing Mushroom Cave",
+  "_original_lore": [
+    "Consume this item to add its",
+    "destination to your Fast Travel",
+    "options.",
+    "",
+    "Island: Mushroom Desert",
+    "Teleport: Glowing Mushroom Cave",
+    "",
+    "RARE TRAVEL SCROLL"
+  ],
+  "name": "发光蘑菇洞穴传送卷轴",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consume this item to add its",
+        "destination to your Fast Travel",
+        "options."
+      ],
+      "translation": "消耗此物品,将其目的地添加到你的快速旅行选项中.",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Island: Mushroom Desert"
+      ],
+      "translation": "岛屿: 蘑菇沙漠",
+      "styleMappings": {
+        "Mushroom Desert": "蘑菇沙漠",
+        "Island": "岛屿",
+        "Desert": "沙漠",
+        "Mushroom": "蘑菇"
+      }
+    },
+    {
+      "source": [
+        "Teleport: Glowing Mushroom Cave"
+      ],
+      "translation": "传送: 发光蘑菇洞穴",
+      "styleMappings": {
+        "Glowing Mushroom Cave": "发光蘑菇洞穴",
+        "Teleport": "传送",
+        "Mushroom": "蘑菇",
+        "Glowing": "发光",
+        "Glowing Mushroom": "发光蘑菇"
+      }
+    },
+    {
+      "source": [
+        "RARE TRAVEL SCROLL"
+      ],
+      "translation": "稀有传送卷轴",
+      "styleMappings": {
+        "RARE TRAVEL SCROLL": "稀有传送卷轴",
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Glowing Mushroom Cave": "发光蘑菇洞穴",
+    "Mushroom": "蘑菇",
+    "Glowing": "发光",
+    "Glowing Mushroom": "发光蘑菇"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

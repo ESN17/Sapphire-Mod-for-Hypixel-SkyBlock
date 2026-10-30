@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "LAVATEARS_RUNE;3",
+  "_original_name": "◆ Lavatears Rune III",
+  "_original_lore": [
+    "Requires level 25",
+    "Bows",
+    "",
+    "Obtained very rarely from slaying",
+    "Inferno Demonlord.",
+    "",
+    "Apply this rune to bows or fuse two",
+    "together at the Runic Pedestal!",
+    "",
+    "LEGENDARY COSMETIC"
+  ],
+  "name": "◆ 岩浆之泪符文 III",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Requires level {{N0}}",
+        "Bows"
+      ],
+      "translation": "需要弓等级 {{N0}}",
+      "styleMappings": {
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Obtained very rarely from slaying",
+        "Inferno Demonlord."
+      ],
+      "translation": "击杀炼狱魔王时有极低概率获得.",
+      "styleMappings": {
+        "Inferno Demonlord": "炼狱魔王",
+        "Inferno": "炼狱"
+      }
+    },
+    {
+      "source": [
+        "Apply this rune to bows or fuse two",
+        "together at the Runic Pedestal!"
+      ],
+      "translation": "将此符文应用于弓,或在符文基座上将两个符文融合!",
+      "styleMappings": {
+        "Runic Pedestal": "符文基座",
+        "Runic": "符文"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY COSMETIC"
+      ],
+      "translation": "传说外观",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Rune III": "符文 III",
+    "III": "III"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

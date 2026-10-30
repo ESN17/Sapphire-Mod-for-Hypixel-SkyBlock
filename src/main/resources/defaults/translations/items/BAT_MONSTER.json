@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "BAT_MONSTER",
+  "_original_name": "Bat (Monster)",
+  "_original_lore": [
+    "The Bat is a Mob that can be spawned from the",
+    "Roofed Forest Island's Bat Crystal during the night.",
+    "",
+    "❤ Health: 100"
+  ],
+  "name": "蝙蝠 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Bat is a Mob that can be spawned from the",
+        "Roofed Forest Island's Bat Crystal during the night."
+      ],
+      "translation": "蝙蝠是一种生物,可在夜间从黑森林岛屿的蝙蝠水晶中生成.",
+      "styleMappings": {
+        "Crystal": "水晶",
+        "night": "夜间",
+        "Bat": "蝙蝠",
+        "s": "一",
+        "Roofed Forest": "黑森林",
+        "Island": "岛屿",
+        "Forest": "森林"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Bat": "蝙蝠",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

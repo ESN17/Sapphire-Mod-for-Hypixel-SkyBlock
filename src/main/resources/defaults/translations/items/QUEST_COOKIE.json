@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "id": "QUEST_COOKIE",
+  "_original_name": "Booster Cookie (Quest)",
+  "_original_lore": [
+    "Consume to gain the Cookie Buff for",
+    "4 days:",
+    "",
+    "‣ Ability to gain Bits!",
+    "‣ +25☯ on all Wisdom stats",
+    "‣ +15 Magic Find",
+    "‣ Keep coins on death",
+    "‣ Permafly on private islands and gardens",
+    "‣ Quick access to some menus using their",
+    "respective commands:",
+    "  /ah, /bazaar, /bank, /accessorybag,",
+    "  /fishingbag, /timepocket, /anvil, /hex,",
+    "  /etable, /potionbag, and /quiver",
+    "‣ Sell items directly to the trades and cookie menu",
+    "‣ AFK immunity on your island and garden",
+    "‣ Toggle specific potion effects",
+    "‣ Link your items in chat using /show",
+    "‣ Insta-sell your Material stash to the Bazaar",
+    "‣ Increases Chocolate Factory production by +0.25x",
+    "‣ Allows consuming Mixins directly from your inventory",
+    "‣ Call Abiphone Contacts with /call",
+    "",
+    "Reward for completing the Safety Quest! (Untradable)",
+    "",
+    "* Soulbound *",
+    "LEGENDARY"
+  ],
+  "name": "增益曲奇 (任务)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consume to gain the Cookie Buff for"
+      ],
+      "translation": "食用以获得曲奇增益,持续",
+      "styleMappings": {
+        "Cookie Buff": "曲奇增益",
+        "for": "持续",
+        "Cookie": "曲奇",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "{{N0}} days:"
+      ],
+      "translation": "{{N0}} 天:",
+      "styleMappings": {
+        "days": "天"
+      }
+    },
+    {
+      "source": [
+        "‣ Ability to gain Bits!"
+      ],
+      "translation": "‣ 可以获得比特!",
+      "styleMappings": {
+        "Bits": "比特",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "‣ {{N0}}☯ on all Wisdom stats",
+        "‣ {{N1}} Magic Find",
+        "‣ Keep coins on death",
+        "‣ Permafly on private islands and gardens",
+        "‣ Quick access to some menus using their"
+      ],
+      "translation": "‣ 所有智慧属性 {{N0}}☯ ‣ {{N1}} 稀有物品概率加成 ‣ 死亡时保留金币 ‣ 在私人岛屿和花园中永久飞行 ‣ 使用对应命令快速访问部分菜单",
+      "styleMappings": {
+        "Magic Find": "稀有物品概率加成",
+        "Permafly": "永久飞行",
+        "Wisdom": "智慧",
+        "coins": "金币",
+        "death": "死亡",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "respective commands:"
+      ],
+      "translation": "对应命令:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "  /ah, /bazaar, /bank, /accessorybag,",
+        "  /fishingbag, /timepocket, /anvil, /hex,",
+        "  /etable, /potionbag, and /quiver",
+        "‣ Sell items directly to the trades and cookie menu",
+        "‣ AFK immunity on your island and garden",
+        "‣ Toggle specific potion effects",
+        "‣ Link your items in chat using /show",
+        "‣ Insta-sell your Material stash to the Bazaar",
+        "‣ Increases Chocolate Factory production by {{N0}}x",
+        "‣ Allows consuming Mixins directly from your inventory",
+        "‣ Call Abiphone Contacts with /call"
+      ],
+      "translation": "  /ah, /bazaar, /bank, /accessorybag,   /fishingbag, /timepocket, /anvil, /hex,   /etable, /potionbag, 和 /quiver ‣ 直接将物品出售给交易和曲奇菜单 ‣ 在你的岛屿和花园中挂机时免踢出 ‣ 单独开关指定药水效果 ‣ 使用 /show 在聊天中展示物品 ‣ 将材料暂存区中的物品立即出售至集市 ‣ 巧克力工厂产量提高 {{N0}} 倍 ‣ 可直接从背包中消耗混合剂 ‣ 使用 /call 呼叫阿比手机联系人",
+      "styleMappings": {
+        "Abiphone Contacts": "阿比手机联系人",
+        "Chocolate Factory": "巧克力工厂",
+        "potion effects": "药水效果",
+        "/accessorybag": "/accessorybag",
+        "/fishingbag": "/fishingbag",
+        "/timepocket": "/timepocket",
+        "/potionbag": "/potionbag",
+        "immunity": "免踢出",
+        "/bazaar": "/bazaar",
+        "/etable": "/etable",
+        "/quiver": "/quiver",
+        "/anvil": "/anvil",
+        "Bazaar": "集市",
+        "Mixins": "混合剂",
+        "/bank": "/bank",
+        "/call": "/call",
+        "/show": "/show",
+        "/hex": "/hex",
+        "/ah": "/ah",
+        "{{N0}}x": "{{N0}} 倍",
+        "items": "物品",
+        "Chocolate": "巧克力"
+      }
+    },
+    {
+      "source": [
+        "Reward for completing the Safety Quest! (Untradable)"
+      ],
+      "translation": "完成安全任务的奖励! (不可交易)",
+      "styleMappings": {
+        "Untradable": "不可交易"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Booster Cookie": "增益曲奇",
+    "(Quest)": "(任务)",
+    "Cookie": "曲奇"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

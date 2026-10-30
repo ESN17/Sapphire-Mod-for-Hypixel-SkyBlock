@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "id": "SILK_TOUCH;1",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Silk Touch I",
+    "Allows you to collect normally",
+    "unobtainable block drops.",
+    "",
+    "Source:",
+    " - Enchantment Table (I)",
+    "",
+    "Applied To:",
+    " - Tools",
+    "",
+    "Conflicts:",
+    " - Fortune",
+    " - Smelting Touch",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Silk Touch I"
+      ],
+      "translation": "精准采集 I",
+      "styleMappings": {
+        "Silk Touch": "精准采集",
+        "Silk Touch I": "精准采集 I"
+      }
+    },
+    {
+      "source": [
+        "Allows you to collect normally",
+        "unobtainable block drops."
+      ],
+      "translation": "允许你收集通常无法获得的方块掉落物.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Source:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchantment Table (I)"
+      ],
+      "translation": " - 附魔台 (I)",
+      "styleMappings": {
+        "Enchantment Table": "附魔台",
+        "I": "I",
+        "Enchantment": "附魔"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Tools"
+      ],
+      "translation": " - 工具",
+      "styleMappings": {
+        "Tools": "工具"
+      }
+    },
+    {
+      "source": [
+        "Conflicts:"
+      ],
+      "translation": "冲突:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Fortune"
+      ],
+      "translation": " - 时运",
+      "styleMappings": {
+        "Fortune": "时运"
+      }
+    },
+    {
+      "source": [
+        " - Smelting Touch"
+      ],
+      "translation": " - 自动熔炼",
+      "styleMappings": {
+        "Smelting Touch": "自动熔炼"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

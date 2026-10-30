@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "id": "EMERALD_ARMOR_LEGGINGS",
+  "_original_name": "Emerald Armor Leggings",
+  "_original_lore": [
+    "Defense: +75",
+    "",
+    "Full Set Bonus: Tank (0/4)",
+    "Increases  Health by +1 and ",
+    "Defense by +1 for every 3,000",
+    "Emeralds in your collection. Max 350",
+    "each.",
+    "",
+    "This item can be reforged!",
+    "EPIC LEGGINGS"
+  ],
+  "name": "绿宝石护腿",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Tank ({{N0}}/{{N1}})"
+      ],
+      "translation": "全套加成: 坦克 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Full Set Bonus": "全套加成",
+        "Tank": "坦克",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Increases  Health by {{N0}} and ",
+        "Defense by {{N1}} for every {{N2}}",
+        "Emeralds in your collection. Max {{N3}}",
+        "each."
+      ],
+      "translation": "你收藏中每有 {{N2}} 个绿宝石, 就增加 {{N0}}  生命值和 {{N1}}  防御力.每项最多 {{N3}}.",
+      "styleMappings": {
+        "Increases": "增加",
+        " Defense": " 防御",
+        "Emeralds": "绿宝石",
+        "Health": "生命值",
+        "Max": "最多",
+        " Health": " 生命"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "EPIC LEGGINGS"
+      ],
+      "translation": "史诗护腿",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Leggings": "护腿"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

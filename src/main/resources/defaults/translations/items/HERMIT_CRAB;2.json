@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "id": "HERMIT_CRAB;2",
+  "_original_name": "[Lvl {LVL}] Hermit Crab",
+  "_original_lore": [
+    "Fishing Pet",
+    "",
+    "Defense: +{DEFENSE}",
+    "Fishing Speed: +{FISHING_SPEED}",
+    "Sea Creature Chance: +{SEA_CREATURE_CHANCE}%",
+    "",
+    "Comfort Zone",
+    "Grants +{0} Fishing Speed for 30s",
+    "upon catching Treasure.",
+    "",
+    "Seafloor Scalper",
+    "Treasure catches are {1}% more",
+    "likely to be GREAT or OUTSTANDING.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "RARE PET"
+  ],
+  "name": "[等级 {LVL}] 寄居蟹",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Fishing Pet"
+      ],
+      "translation": "钓鱼宠物",
+      "styleMappings": {
+        "Fishing": "钓鱼",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Defense: +{{N0}}"
+      ],
+      "translation": "防御力: +{{N0}}",
+      "styleMappings": {
+        "Defense": "防御力"
+      }
+    },
+    {
+      "source": [
+        "Fishing Speed: +{{N0}}"
+      ],
+      "translation": "钓鱼速度: +{{N0}}",
+      "styleMappings": {
+        "Fishing Speed": "钓鱼速度",
+        "Fishing": "钓鱼",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Sea Creature Chance: +{{N0}}%"
+      ],
+      "translation": "海怪概率: +{{N0}}%",
+      "styleMappings": {
+        "Sea Creature Chance": "海怪概率",
+        "Sea Creature": "海怪"
+      }
+    },
+    {
+      "source": [
+        "Comfort Zone"
+      ],
+      "translation": "舒适区",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants +{{N0}} Fishing Speed for {{N1}}s",
+        "upon catching Treasure."
+      ],
+      "translation": "钓到宝藏时获得 +{{N0}} 钓鱼速度,持续 {{N1}} 秒.",
+      "styleMappings": {
+        "Fishing Speed": "钓鱼速度",
+        "Treasure": "宝藏",
+        "Grants": "获得",
+        "for": "持续",
+        "{{N1}}s": "{{N1}} 秒",
+        "Fishing": "钓鱼",
+        "Speed": "速度",
+        " Fishing Speed": " 钓鱼速度"
+      }
+    },
+    {
+      "source": [
+        "Seafloor Scalper"
+      ],
+      "translation": "海床剥皮者",
+      "styleMappings": {
+        "Seafloor Scalper": "海床剥皮者"
+      }
+    },
+    {
+      "source": [
+        "Treasure catches are {{N0}}% more",
+        "likely to be GREAT or OUTSTANDING."
+      ],
+      "translation": "宝藏钓获为 极佳 或 卓越 的概率提高 {{N0}}%.",
+      "styleMappings": {
+        "OUTSTANDING": "卓越",
+        "Treasure": "宝藏",
+        "GREAT": "极佳"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "RARE PET"
+      ],
+      "translation": "稀有 宠物",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Hermit Crab": "寄居蟹",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

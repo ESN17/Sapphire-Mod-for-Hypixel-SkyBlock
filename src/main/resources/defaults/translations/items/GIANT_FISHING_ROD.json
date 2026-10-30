@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "GIANT_FISHING_ROD",
+  "_original_name": "Giant Fishing Rod",
+  "_original_lore": [
+    "Double Hook Chance: +10%",
+    "",
+    "Purchased by: [YOUTUBE] Nullzee",
+    "Purchased for: 666,666,666  coins",
+    "",
+    "Auction #1",
+    "Bid #1",
+    "July 2022",
+    "",
+    "ථ Hook NONE",
+    "ꨃ Line NONE",
+    "࿉ Sinker NONE",
+    "",
+    "Talk to Roddy in the Backwater",
+    "Bayou to apply parts to this rod.",
+    "",
+    "This item can be reforged!",
+    "LEGENDARY FISHING ROD"
+  ],
+  "name": "巨型钓鱼竿",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Double Hook Chance: {{N0}}"
+      ],
+      "translation": "双钩概率: {{N0}}",
+      "styleMappings": {
+        "Double Hook Chance": "双钩概率"
+      }
+    },
+    {
+      "source": [
+        "Purchased by: [YOUTUBE] Nullzee"
+      ],
+      "translation": "购买者: [油管] 纳尔齐",
+      "styleMappings": {
+        "Purchased by:": "购买者:",
+        "Nullzee": "纳尔齐",
+        "YOUTUBE": "油管"
+      }
+    },
+    {
+      "source": [
+        "Purchased for: {{N0}}  coins"
+      ],
+      "translation": "购买价格: {{N0}} 硬币",
+      "styleMappings": {
+        "Purchased for": "购买价格",
+        "coins": "硬币"
+      }
+    },
+    {
+      "source": [
+        "Auction #{{N0}}",
+        "Bid #{{N1}}",
+        "July {{N2}}"
+      ],
+      "translation": "拍卖 #{{N0}} 出价 #{{N1}} 七月 {{N2}}",
+      "styleMappings": {
+        "Auction": "拍卖",
+        "July": "七月",
+        "Bid": "出价"
+      }
+    },
+    {
+      "source": [
+        "ථ Hook NONE",
+        "ꨃ Line NONE",
+        "࿉ Sinker NONE"
+      ],
+      "translation": "ථ 鱼钩 无 ꨃ 鱼线 无 ࿉ 沉子 无",
+      "styleMappings": {
+        "Sinker": "沉子",
+        "Hook": "鱼钩",
+        "Line": "鱼线",
+        "NONE": "无"
+      }
+    },
+    {
+      "source": [
+        "Talk to Roddy in the Backwater",
+        "Bayou to apply parts to this rod."
+      ],
+      "translation": "与静水河湾的 Roddy 交谈,为这根钓竿安装部件.",
+      "styleMappings": {
+        "Roddy": "Roddy",
+        "Backwater Bayou": "静水河湾",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY FISHING ROD"
+      ],
+      "translation": "传说钓鱼竿",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fishing Rod": "钓鱼竿",
+    "Giant": "巨型",
+    "Fishing": "钓鱼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

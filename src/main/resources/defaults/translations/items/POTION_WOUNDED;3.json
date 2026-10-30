@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_WOUNDED;3",
+  "_original_name": "Wounded III Potion",
+  "_original_lore": [
+    "",
+    "Wounded III (3:00)",
+    "Reduces 75% of healing.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "创伤 III 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Wounded III ({{N0}}:{{N1}})"
+      ],
+      "translation": "创伤 III ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Wounded III": "创伤 III",
+        "III": "III"
+      }
+    },
+    {
+      "source": [
+        "Reduces {{N0}} of healing."
+      ],
+      "translation": "降低 {{N0}} 的治疗效果.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Wounded III": "创伤 III",
+    "III": "III"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

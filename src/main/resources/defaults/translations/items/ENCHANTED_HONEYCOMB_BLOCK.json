@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "ENCHANTED_HONEYCOMB_BLOCK",
+  "_original_name": "Enchanted Honeycomb Block",
+  "_original_lore": [
+    "Collection Item",
+    "",
+    "A solid chunk of sweet-smelling",
+    "honey. Its smell attracts all sorts of",
+    "critters.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "RARE"
+  ],
+  "name": "附魔蜜脾块",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Collection Item"
+      ],
+      "translation": "收藏品",
+      "styleMappings": {
+        "Collection": "收藏"
+      }
+    },
+    {
+      "source": [
+        "A solid chunk of sweet-smelling",
+        "honey. Its smell attracts all sorts of",
+        "critters."
+      ],
+      "translation": "一大块散发着甜香的蜂蜜.它的气味会吸引各种小生物.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Honeycomb": "蜜脾"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

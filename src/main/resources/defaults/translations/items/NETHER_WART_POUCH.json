@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "id": "NETHER_WART_POUCH",
+  "_original_name": "Nether Wart Basket",
+  "_original_lore": [
+    "Ability: Nether Wart Storage  LEFT CLICK",
+    "Place nether wart in the pouch.",
+    "",
+    "Ability: Alchemist's Bliss  RIGHT CLICK",
+    "Automatically plant nether wart on a",
+    "row of soul sand.",
+    "",
+    "RARE"
+  ],
+  "name": "地狱疣收纳篮",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Nether Wart Storage  LEFT CLICK"
+      ],
+      "translation": "能力:下界疣存储  左键点击",
+      "styleMappings": {
+        "Nether Wart": "下界疣",
+        "LEFT CLICK": "左键点击",
+        "Ability": "能力",
+        "CLICK": "点击",
+        "Nether": "下界"
+      }
+    },
+    {
+      "source": [
+        "Place nether wart in the pouch."
+      ],
+      "translation": "将下界疣放入袋中.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Ability: Alchemist's Bliss  RIGHT CLICK"
+      ],
+      "translation": "能力:炼金术士的极乐  右键点击",
+      "styleMappings": {
+        "Alchemist's": "炼金术士的",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "能力",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Automatically plant nether wart on a",
+        "row of soul sand."
+      ],
+      "translation": "自动在一排灵魂沙上种植下界疣.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Nether Wart": "地狱疣"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

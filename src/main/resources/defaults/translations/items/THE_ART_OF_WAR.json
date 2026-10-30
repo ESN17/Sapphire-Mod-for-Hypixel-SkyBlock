@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "id": "THE_ART_OF_WAR",
+  "_original_name": "The Art of War",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Grants +5 Strength when applied",
+    "to a weapon. Can only be applied to",
+    "an item once.",
+    "",
+    "In the midst of chaos, there is also",
+    "opportunity.",
+    " - Sun Tzu",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "孙子兵法",
+  "lore": {
+    "Combinable in Anvil": "可在铁砧中合成",
+    "LEGENDARY": "传说"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "Grants {strength} Strength when applied",
+        "to a weapon. Can only be applied to",
+        "an item once."
+      ],
+      "translation": "用于武器时,提供 {strength} 力量.每件物品只能使用一次.",
+      "styleMappings": {
+        "Strength": "力量",
+        "item": "物品",
+        "Grants": "提供",
+        " Strength": " 力量",
+        "strength": "力量",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "In the midst of chaos, there is also",
+        "opportunity.",
+        " - Sun Tzu"
+      ],
+      "translation": "乱局之中,亦藏机遇. - 孙子",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Strength when applied",
+        "to a weapon. Can only be applied to",
+        "an item once."
+      ],
+      "translation": "用于武器时,提供 {{N0}} 力量.每件物品只能使用一次.",
+      "styleMappings": {
+        " Strength": " 力量",
+        "Grants": "提供",
+        "item": "物品",
+        "Strength": "力量",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "In the midst of chaos, there is also",
+        "opportunity."
+      ],
+      "translation": "混乱之中,亦有机遇.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Sun Tzu"
+      ],
+      "translation": " - 孙子",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Strength": "力量"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

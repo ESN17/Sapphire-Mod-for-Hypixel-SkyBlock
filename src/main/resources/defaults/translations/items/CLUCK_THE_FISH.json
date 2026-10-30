@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "CLUCK_THE_FISH",
+  "_original_name": "Cluck the Fish",
+  "_original_lore": [
+    "Cluck cluck bkaawwk. Puk Puk Pukaaak!",
+    "",
+    "SPECIAL"
+  ],
+  "name": "鱼咯咯",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Cluck cluck bkaawwk. Puk Puk Pukaaak!"
+      ],
+      "translation": "咯咯咯嘎啊啊.噗噗噗嘎啊啊!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Cluck the Fish": "鱼咯咯",
+    "Fish": "鱼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

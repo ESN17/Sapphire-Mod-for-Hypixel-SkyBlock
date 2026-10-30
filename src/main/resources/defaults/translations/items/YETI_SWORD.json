@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "id": "YETI_SWORD",
+  "_original_name": "Yeti Sword",
+  "_original_lore": [
+    "Damage: +150",
+    "Strength: +170",
+    "Intelligence: +50",
+    "Gemstones: [] []",
+    "",
+    "Ability: Terrain Toss  RIGHT CLICK",
+    "Throws a chunk of terrain in the direction you",
+    "are facing! Deals up to 15,000 damage.",
+    "Mana Cost: 250",
+    "Cooldown: 1s",
+    "",
+    "This item can be reforged!",
+    "LEGENDARY SWORD"
+  ],
+  "name": "雪人之剑",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [] []"
+      ],
+      "translation": "宝石: [] []",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "": "",
+        "Gemstones": "宝石",
+        "] [": "] ["
+      }
+    },
+    {
+      "source": [
+        "Ability: Terrain Toss  RIGHT CLICK"
+      ],
+      "translation": "技能: 地形投掷  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击",
+        "Toss": "投掷"
+      }
+    },
+    {
+      "source": [
+        "Throws a chunk of terrain in the direction you",
+        "are facing! Deals up to {{N0}} damage."
+      ],
+      "translation": "朝你面向的方向投掷一块地形!最多造成 {{N0}} 伤害.",
+      "styleMappings": {
+        "damage": "伤害",
+        "Deals": "造成",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY SWORD"
+      ],
+      "translation": "传说剑",
+      "styleMappings": {
+        "LEGENDARY": "传说",
+        "LEGENDARY SWORD": "传说剑"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sword": "剑",
+    "Yeti Sword": "雪人之剑",
+    "Yeti": "雪人"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

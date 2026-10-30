@@ -1,0 +1,179 @@
+{
+  "schemaVersion": 1,
+  "id": "WILL_O_WISP",
+  "_original_name": "Will-o'-wisp",
+  "_original_lore": [
+    "Mining Deployable",
+    "",
+    "Ability: Deploy  RIGHT CLICK",
+    "Place an orb for 5m buffing up to 10",
+    "players within 30 blocks.",
+    "Affects all players inside a Glacite",
+    "Mineshaft, regardless of distance.",
+    "Mana Cost: 50% of max",
+    "",
+    "Orb Buff: Will-o'-wisp",
+    "• Grants +100 Mining Speed.",
+    "• Grants +25 Mining Fortune.",
+    "• Grants +20 Heat Resistance.",
+    "• Grants +10 Cold Resistance.",
+    "• Grants +2.5 Gemstone Spread.",
+    "",
+    "Only one deployable buff applies.",
+    "",
+    "❣ Requires Heart of the Mountain Tier 10.",
+    "LEGENDARY DEPLOYABLE"
+  ],
+  "name": "鬼火",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mining Deployable"
+      ],
+      "translation": "采矿部署物",
+      "styleMappings": {
+        "Mining": "采矿"
+      }
+    },
+    {
+      "source": [
+        "Ability: Deploy  RIGHT CLICK"
+      ],
+      "translation": "技能: 部署  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Place an orb for {{N0}}m buffing up to {{N1}}",
+        "players within {{N2}} blocks."
+      ],
+      "translation": "放置一颗持续 {{N0}}分钟的能量珠,为 {{N2}} 格内最多 {{N1}} 名玩家提供增益.",
+      "styleMappings": {
+        "blocks": "格",
+        "for": "持续",
+        "m": "分钟",
+        "{{N0}}m": "{{N0}}分钟"
+      }
+    },
+    {
+      "source": [
+        "Affects all players inside a Glacite",
+        "Mineshaft, regardless of distance."
+      ],
+      "translation": "影响冰晶矿井内的所有玩家,无论距离远近.",
+      "styleMappings": {
+        "Glacite Mineshaft": "冰晶矿井"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}} of max"
+      ],
+      "translation": "魔力消耗:最大魔力的 {{N0}}",
+      "styleMappings": {
+        "of max": "最大魔力",
+        "max": "最大",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "Orb Buff: Will-o'-wisp"
+      ],
+      "translation": "宝珠增益: 鬼火",
+      "styleMappings": {
+        "Orb": "宝珠"
+      }
+    },
+    {
+      "source": [
+        "• Grants {{N0}} Mining Speed."
+      ],
+      "translation": "• 提供 {{N0}} 采矿速度.",
+      "styleMappings": {
+        "Mining Speed": "采矿速度",
+        "Grants": "提供",
+        "Mining": "采矿",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "• Grants {{N0}} Mining Fortune."
+      ],
+      "translation": "• 提供 {{N0}} 采矿幸运.",
+      "styleMappings": {
+        "Mining Fortune": "采矿幸运",
+        "Grants": "提供",
+        "Mining": "采矿",
+        "Fortune": "幸运",
+        " Mining Fortune": " 采矿幸运"
+      }
+    },
+    {
+      "source": [
+        "• Grants {{N0}} Heat Resistance."
+      ],
+      "translation": "• 提供 {{N0}} 抗热性.",
+      "styleMappings": {
+        "Heat Resistance": "抗热性",
+        "Grants": "提供"
+      }
+    },
+    {
+      "source": [
+        "• Grants {{N0}} Cold Resistance."
+      ],
+      "translation": "• 提供 {{N0}} 抗寒性.",
+      "styleMappings": {
+        "Cold Resistance": "抗寒性",
+        "Grants": "提供"
+      }
+    },
+    {
+      "source": [
+        "• Grants {{N0}} Gemstone Spread."
+      ],
+      "translation": "• 提供 {{N0}} 宝石扩散.",
+      "styleMappings": {
+        "Gemstone Spread": "宝石扩散",
+        "Grants": "提供",
+        "Gemstone": "宝石"
+      }
+    },
+    {
+      "source": [
+        "Only one deployable buff applies."
+      ],
+      "translation": "部署类增益同时只能生效一种.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "❣ Requires Heart of the Mountain Tier {{N0}}."
+      ],
+      "translation": "❣ 需要山峰之心等级 {{N0}}.",
+      "styleMappings": {
+        "Heart of the Mountain Tier": "山峰之心等级",
+        "Requires": "需要",
+        "Heart of the Mountain": "山峰之心"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY DEPLOYABLE"
+      ],
+      "translation": "传说 部署物",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

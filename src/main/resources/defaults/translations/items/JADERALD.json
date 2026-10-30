@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "id": "JADERALD",
+  "_original_name": "Jaderald",
+  "_original_lore": [
+    "Reforge Stone",
+    "Combinable in Anvil",
+    "",
+    "Applies the Jaded reforge when",
+    "combined with Armor.",
+    "",
+    "Extremely rare stone, only found in",
+    "the Crystal Hollows.",
+    "",
+    "Grants the following stats that scale",
+    "with the item's rarity:",
+    "  Mining Speed",
+    "  Mining Fortune",
+    "",
+    "Right-click to view rarity scaling!",
+    "",
+    "❣ Requires Mining Skill 30.",
+    "",
+    "EPIC REFORGE STONE"
+  ],
+  "name": "翡翠石",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Reforge Stone",
+        "Combinable in Anvil"
+      ],
+      "translation": "洗练石 可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Reforge Stone": "洗练石",
+        "Anvil": "铁砧",
+        "Reforge": "洗练"
+      }
+    },
+    {
+      "source": [
+        "Applies the Jaded reforge when",
+        "combined with Armor."
+      ],
+      "translation": "与盔甲结合时施加翡翠洗练.",
+      "styleMappings": {
+        "Jaded": "翡翠",
+        "reforge": "洗练",
+        "Armor": "盔甲",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Extremely rare stone, only found in",
+        "the Crystal Hollows."
+      ],
+      "translation": "极其稀有的石头,仅能在水晶洞窟中找到.",
+      "styleMappings": {
+        "the Crystal Hollows": "水晶洞窟",
+        "rare": "稀有",
+        "Crystal": "水晶",
+        "Crystal Hollows": "水晶洞窟",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Grants the following stats that scale"
+      ],
+      "translation": "提供以下随物品稀有度提升的属性:",
+      "styleMappings": {
+        "Grants": "提供",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "with the item's rarity:"
+      ],
+      "translation": "物品稀有度提升的属性:",
+      "styleMappings": {
+        "item": "物品",
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "  Mining Speed",
+        "  Mining Fortune"
+      ],
+      "translation": "   采矿速度   采矿幸运",
+      "styleMappings": {
+        "Mining Fortune": "采矿幸运",
+        "Mining Speed": "采矿速度",
+        "Mining": "采矿",
+        "Fortune": "幸运",
+        "Speed": "速度",
+        " Mining Fortune": " 采矿幸运"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view rarity scaling!"
+      ],
+      "translation": "右键查看各稀有度的属性!",
+      "styleMappings": {
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Mining Skill {{N0}}."
+      ],
+      "translation": "❣ 需要采矿技能 {{N0}}.",
+      "styleMappings": {
+        "Mining Skill": "采矿技能",
+        "Requires": "需要",
+        "Mining": "采矿",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC REFORGE STONE"
+      ],
+      "translation": "史诗洗练石",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

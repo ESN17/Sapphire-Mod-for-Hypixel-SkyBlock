@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "FROG_PRINCE_SC",
+  "_original_name": "Frog Prince (Sea Creature)",
+  "_original_lore": [
+    "Mob Types: ⚓ Aquatic, ☮ Animal, ❃ Elusive",
+    "",
+    "MYTHIC"
+  ],
+  "name": "青蛙王子 (海怪)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mob Types: ⚓ Aquatic, ☮ Animal, ❃ Elusive"
+      ],
+      "translation": "生物类型: ⚓ 水生, ☮ 动物, ❃ 难以捕捉",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Aquatic": "水生",
+        "Animal": "动物",
+        "Elusive": "难以捕捉"
+      }
+    },
+    {
+      "source": [
+        "MYTHIC"
+      ],
+      "translation": "神话",
+      "styleMappings": {
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sea Creature": "海怪",
+    "(Sea Creature)": "(海怪)",
+    "Frog": "青蛙"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

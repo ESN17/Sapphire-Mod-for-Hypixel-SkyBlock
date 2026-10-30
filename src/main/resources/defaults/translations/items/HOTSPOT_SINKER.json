@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "HOTSPOT_SINKER",
+  "_original_name": "Hotspot Sinker",
+  "_original_lore": [
+    "Increases the bonuses of Fishing",
+    "Hotspots by 100%.",
+    "",
+    "Talk to Roddy in the Backwater",
+    "Bayou to apply this Sinker to a",
+    "Fishing Rod.",
+    "",
+    "❣ Requires Fishing Skill 20.",
+    "RARE ROD PART"
+  ],
+  "name": "热点沉子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Increases the bonuses of Fishing",
+        "Hotspots by {{N0}}."
+      ],
+      "translation": "将钓鱼热点的加成提高 {{N0}}.",
+      "styleMappings": {
+        "Fishing Hotspots": "钓鱼热点",
+        "Fishing": "钓鱼",
+        "Hotspots": "热点"
+      }
+    },
+    {
+      "source": [
+        "Talk to Roddy in the Backwater",
+        "Bayou to apply this Sinker to a",
+        "Fishing Rod."
+      ],
+      "translation": "与静水河湾的 Roddy 交谈,将此沉子应用到钓鱼竿上.",
+      "styleMappings": {
+        "Backwater Bayou": "静水河湾",
+        "Fishing Rod": "钓鱼竿",
+        "Sinker": "沉子",
+        "Roddy": "Roddy",
+        "Fishing": "钓鱼",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Fishing Skill {{N0}}."
+      ],
+      "translation": "❣ 需要钓鱼技能 {{N0}}.",
+      "styleMappings": {
+        "Fishing Skill": "钓鱼技能",
+        "Requires": "需要",
+        "Fishing": "钓鱼",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "RARE ROD PART"
+      ],
+      "translation": "稀有鱼竿部件",
+      "styleMappings": {
+        "RARE ROD PART": "稀有鱼竿部件",
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sinker": "沉子",
+    "Hotspot": "热点"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

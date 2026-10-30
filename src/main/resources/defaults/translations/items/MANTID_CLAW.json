@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "id": "MANTID_CLAW",
+  "_original_name": "Mantid Claw",
+  "_original_lore": [
+    "Reforge Stone",
+    "Combinable in Anvil",
+    "",
+    "Applies the Mantid reforge when",
+    "combined with Armor.",
+    "",
+    "Grants the following stats that scale",
+    "with the item's rarity:",
+    "  Bonus Pest Chance",
+    "  Farming Fortune",
+    "",
+    "Mantid Bonus",
+    "Grants +0.25 Bonus Pest Chance",
+    "per  Pest killed for 10 minutes.",
+    "Caps at 5 Bonus Pest Chance.",
+    "",
+    "Right-click to view rarity scaling!",
+    "",
+    "❣ Requires Mining Skill 22.",
+    "",
+    "EPIC REFORGE STONE"
+  ],
+  "name": "螳螂爪",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Reforge Stone",
+        "Combinable in Anvil"
+      ],
+      "translation": "洗练石 可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Reforge Stone": "洗练石",
+        "Anvil": "铁砧",
+        "Reforge": "洗练"
+      }
+    },
+    {
+      "source": [
+        "Applies the Mantid reforge when",
+        "combined with Armor."
+      ],
+      "translation": "与护甲结合时应用螳螂洗练.",
+      "styleMappings": {
+        "Mantid": "螳螂",
+        "Armor": "护甲",
+        "reforge": "洗练",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Grants the following stats that scale"
+      ],
+      "translation": "提供以下随物品稀有度提升的属性:",
+      "styleMappings": {
+        "Grants": "提供",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "with the item's rarity:"
+      ],
+      "translation": "物品稀有度提升的属性:",
+      "styleMappings": {
+        "item": "物品",
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "  Bonus Pest Chance",
+        "  Farming Fortune"
+      ],
+      "translation": "    额外害虫概率   农业幸运",
+      "styleMappings": {
+        "Bonus Pest Chance": "额外害虫概率",
+        "Farming Fortune": "农业幸运",
+        "Pest": "害虫",
+        "Fortune": "幸运",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "Mantid Bonus",
+        "Grants {{N0}} Bonus Pest Chance",
+        "per  Pest killed for {{N1}} minutes."
+      ],
+      "translation": "螳螂加成 每击杀  只害虫,在 {{N1}} 分钟内获得 {{N0}} 额外害虫概率.",
+      "styleMappings": {
+        "Bonus Pest Chance": "额外害虫概率",
+        "Mantid Bonus": "螳螂加成",
+        "minutes": "分钟",
+        "Grants": "获得",
+        "Pest": "害虫",
+        "for": "获得",
+        "Bonus": "加成",
+        "Mantid": "螳螂",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Caps at {{N0}} Bonus Pest Chance."
+      ],
+      "translation": "上限为 {{N0}} 额外害虫概率.",
+      "styleMappings": {
+        "Bonus Pest Chance": "额外害虫概率",
+        "Pest": "害虫"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view rarity scaling!"
+      ],
+      "translation": "右键查看各稀有度的属性!",
+      "styleMappings": {
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Mining Skill {{N0}}."
+      ],
+      "translation": "❣ 需要采矿技能 {{N0}}.",
+      "styleMappings": {
+        "Mining Skill": "采矿技能",
+        "Requires": "需要",
+        "Mining": "采矿",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC REFORGE STONE"
+      ],
+      "translation": "史诗洗练石",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mantid": "螳螂"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

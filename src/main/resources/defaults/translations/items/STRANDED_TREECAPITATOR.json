@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "id": "STRANDED_TREECAPITATOR",
+  "_original_name": "Stranded Treecapitator",
+  "_original_lore": [
+    "Gemstones: [☘] [☘]",
+    "",
+    "A forceful Gold Axe which can break",
+    "a large amount of logs in a single hit!",
+    "Only available for Stranded players.",
+    "Cooldown: 2s",
+    "",
+    "This item can be reforged!",
+    "EPIC AXE"
+  ],
+  "name": "孤岛伐木机",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gemstones: [☘] [☘]"
+      ],
+      "translation": "宝石: [☘] [☘]",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石",
+        "] [": "] ["
+      }
+    },
+    {
+      "source": [
+        "A forceful Gold Axe which can break",
+        "a large amount of logs in a single hit!"
+      ],
+      "translation": "一把强力的金斧,一击即可砍倒大量原木!",
+      "styleMappings": {
+        "Gold": "金",
+        "Axe": "斧"
+      }
+    },
+    {
+      "source": [
+        "Only available for Stranded players."
+      ],
+      "translation": "仅限孤岛模式玩家使用.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "EPIC AXE"
+      ],
+      "translation": "史诗 斧",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

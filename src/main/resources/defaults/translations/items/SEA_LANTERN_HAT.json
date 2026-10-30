@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "SEA_LANTERN_HAT",
+  "_original_name": "Sea Lantern Hat",
+  "_original_lore": [
+    "Minion Upgrade",
+    "",
+    "Breathe 5x as long underwater when",
+    "wearing!",
+    "",
+    "This item can be reforged!",
+    "UNCOMMON HELMET"
+  ],
+  "name": "海晶灯帽",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Minion Upgrade"
+      ],
+      "translation": "仆从升级组件",
+      "styleMappings": {
+        "Minion Upgrade": "仆从升级",
+        "Minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "Breathe {{N0}}x as long underwater when",
+        "wearing!"
+      ],
+      "translation": "穿戴时水下呼吸时间延长 {{N0}}倍!",
+      "styleMappings": {
+        "underwater": "水下",
+        "{{N0}}x": "{{N0}}倍",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON HELMET"
+      ],
+      "translation": "罕见 头盔",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

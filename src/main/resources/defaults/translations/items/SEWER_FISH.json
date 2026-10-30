@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "SEWER_FISH",
+  "_original_name": "Sewer Fish",
+  "_original_lore": [
+    "Where did you find these? They stink!",
+    "",
+    "* Co-op Soulbound *",
+    "UNCOMMON"
+  ],
+  "name": "下水道鱼",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Where did you find these? They stink!"
+      ],
+      "translation": "你从哪儿找到这些的?它们好臭!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fish": "鱼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

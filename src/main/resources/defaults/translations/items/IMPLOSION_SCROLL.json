@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": "IMPLOSION_SCROLL",
+  "_original_name": "Implosion",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Applies the Implosion Ability when",
+    "combined with a Necron's Blade",
+    "variant.",
+    "",
+    "Ability: Implosion  RIGHT CLICK",
+    "Deals 35,375.8 damage to nearby",
+    "enemies.",
+    "Mana Cost: 300",
+    "Cooldown: 10s",
+    "",
+    "EPIC DUNGEON ABILITY SCROLL"
+  ],
+  "name": "聚爆",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Applies the Implosion Ability when",
+        "combined with a Necron's Blade",
+        "variant."
+      ],
+      "translation": "与奈克隆之刃变体结合时赋予聚爆能力.",
+      "styleMappings": {
+        "Implosion Ability": "聚爆能力",
+        "Necron's Blade": "奈克隆之刃",
+        "Ability": "能力",
+        "Necron": "奈克隆",
+        "when": "时",
+        "Implosion": "聚爆",
+        "Necron's": "奈克隆"
+      }
+    },
+    {
+      "source": [
+        "Ability: Implosion  RIGHT CLICK"
+      ],
+      "translation": "能力: 聚爆  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Implosion": "聚爆",
+        "Ability": "能力",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Deals {{N0}} damage to nearby",
+        "enemies."
+      ],
+      "translation": "对附近敌人造成 {{N0}} 伤害.",
+      "styleMappings": {
+        "damage to nearby enemies.": "伤害.",
+        "Deals": "造成",
+        "damage": "伤害",
+        "enemies": "敌人"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "EPIC DUNGEON ABILITY SCROLL"
+      ],
+      "translation": "史诗地牢能力卷轴",
+      "styleMappings": {
+        "EPIC DUNGEON ABILITY SCROLL": "史诗地牢能力卷轴",
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Implosion": "聚爆"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

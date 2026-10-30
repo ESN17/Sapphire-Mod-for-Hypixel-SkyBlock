@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "UNSTABLE_ENDER_DRAGON_BOSS",
+  "_original_name": "Unstable Ender Dragon (Boss)",
+  "_original_lore": [
+    "❤ Health: 9,000.000"
+  ],
+  "name": "不稳定末影龙 (首领)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Ender Dragon": "末影龙",
+    "Boss": "首领",
+    "Dragon": "龙",
+    "Ender": "末影"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

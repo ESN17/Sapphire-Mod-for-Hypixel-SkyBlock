@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "REAPER_PEPPER",
+  "_original_name": "Reaper Pepper",
+  "_original_lore": [
+    "Consume this dangerous pepper to",
+    "permanently gain +1 Health and",
+    "+1 Cold Resistance.",
+    "",
+    "You may eat up to 5 peppers before",
+    "it's considered truly dangerous.",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "收割者辣椒",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consume this dangerous pepper to",
+        "permanently gain {{N0}} Health and",
+        "{{N1}} Cold Resistance."
+      ],
+      "translation": "食用这颗危险的辣椒,永久获得 {{N0}} 生命和 {{N1}} 寒冷抗性.",
+      "styleMappings": {
+        "Cold Resistance": "寒冷抗性",
+        "permanently": "永久",
+        "dangerous": "危险的",
+        " Health": " 生命",
+        "Health": "生命",
+        "Resistance": "抗性",
+        "Cold": "寒冷",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "You may eat up to {{N0}} peppers before",
+        "it's considered truly dangerous."
+      ],
+      "translation": "你最多可以食用 {{N0}} 颗辣椒,超过后才会被视为真正危险.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

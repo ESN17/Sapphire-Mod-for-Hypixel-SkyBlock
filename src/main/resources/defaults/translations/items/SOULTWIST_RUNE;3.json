@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "id": "SOULTWIST_RUNE;3",
+  "_original_name": "◆ Soultwist Rune III",
+  "_original_lore": [
+    "Requires level 10",
+    "Weapons",
+    "",
+    "Obtained rarely from slaying a",
+    "Vampire slayer boss.",
+    "",
+    "Apply this rune to weapons or fuse",
+    "two together at the Runic Pedestal!",
+    "",
+    "X Rift-Transferable X",
+    "EPIC COSMETIC"
+  ],
+  "name": "◆ 灵魂扭曲符文 III",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Requires level {{N0}}",
+        "Weapons"
+      ],
+      "translation": "需要等级 {{N0}} 武器",
+      "styleMappings": {
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Obtained rarely from slaying a",
+        "Vampire slayer boss."
+      ],
+      "translation": "击杀吸血鬼杀手首领时稀有获得.",
+      "styleMappings": {
+        "Vampire": "吸血鬼"
+      }
+    },
+    {
+      "source": [
+        "Apply this rune to weapons or fuse",
+        "two together at the Runic Pedestal!"
+      ],
+      "translation": "将此符文应用于武器,或在符文基座上将两个符文融合!",
+      "styleMappings": {
+        "Runic Pedestal": "符文基座",
+        "Runic": "符文"
+      }
+    },
+    {
+      "source": [
+        "X Rift-Transferable X"
+      ],
+      "translation": "X 可跨裂隙转移 X",
+      "styleMappings": {
+        "Rift-Transferable": "可跨裂隙转移",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "EPIC COSMETIC"
+      ],
+      "translation": "史诗外观",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Rune III": "符文 III",
+    "III": "III"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

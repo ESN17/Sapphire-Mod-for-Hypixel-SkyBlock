@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "ALCHEMIST_RECIPE",
+  "_original_name": "Alchemist Recipe",
+  "_original_lore": [
+    "Obtained during the 2023 Alchemist",
+    "experiments!",
+    "",
+    "Edition #466",
+    "",
+    "Unlocks the Great Spook Potion in",
+    "the Tyashoi Alchemist's shop.",
+    "",
+    "* Soulbound *",
+    "EPIC"
+  ],
+  "name": "炼金配方",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Obtained during the {{N0}} Alchemist",
+        "experiments!"
+      ],
+      "translation": "在 {{N0}} 炼金实验中获得!",
+      "styleMappings": {
+        "Alchemist": "炼金"
+      }
+    },
+    {
+      "source": [
+        "Edition #{{N0}}"
+      ],
+      "translation": "版本 #{{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Unlocks the Great Spook Potion in",
+        "the Tyashoi Alchemist's shop."
+      ],
+      "translation": "在 Tyashoi Alchemist 的商店中解锁大万圣节药水.",
+      "styleMappings": {
+        "Alchemist": "Alchemist",
+        "Great Spook": "大万圣节",
+        "Tyashoi": "Tyashoi",
+        "Alchemist's": "Alchemist 的",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Alchemist": "炼金"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

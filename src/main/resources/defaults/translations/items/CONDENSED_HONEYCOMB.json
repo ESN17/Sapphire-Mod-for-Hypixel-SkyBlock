@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "CONDENSED_HONEYCOMB",
+  "_original_name": "Condensed Honeycomb",
+  "_original_lore": [
+    "A solid chunk of sweet-smelling",
+    "honey. Its smell attracts all sorts of",
+    "critters.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "RARE"
+  ],
+  "name": "浓缩蜜脾",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A solid chunk of sweet-smelling",
+        "honey. Its smell attracts all sorts of",
+        "critters."
+      ],
+      "translation": "一大块散发着甜香的蜂蜜.它的气味会吸引各种小生物.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Honeycomb": "蜜脾"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

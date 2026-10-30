@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "id": "ARACHNE_HELMET",
+  "_original_name": "Arachne's Helmet",
+  "_original_lore": [
+    "Health: +55",
+    "Defense: +40",
+    "",
+    "Tiered Bonus: Arachne's Faithful (0/8)",
+    "Grants +5 Health and +5 Defense.",
+    "",
+    "This item is Arachnal !",
+    "",
+    "This item can be reforged!",
+    "* Co-op Soulbound *",
+    "RARE HELMET"
+  ],
+  "name": "阿拉克妮头盔",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Tiered Bonus: Arachne's Faithful ({{N0}}/{{N1}})"
+      ],
+      "translation": "分级加成: 阿拉克妮的信仰 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Tiered Bonus": "分级加成",
+        "Arachne": "阿拉克妮",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Health and {{N1}} Defense."
+      ],
+      "translation": "提供 {{N0}} 生命值和 {{N1}} 防御.",
+      "styleMappings": {
+        " Defense": " 防御",
+        "Grants": "提供",
+        "Health": "生命值",
+        " Health": " 生命",
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "This item is Arachnal !"
+      ],
+      "translation": "此物品是蛛形纲的 !",
+      "styleMappings": {
+        "item": "物品",
+        "Arachnal": "蛛形"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "RARE HELMET"
+      ],
+      "translation": "稀有头盔",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Helmet": "头盔",
+    "Arachne": "阿拉克妮"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

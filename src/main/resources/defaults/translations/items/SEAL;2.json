@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "id": "SEAL;2",
+  "_original_name": "[Lvl {LVL}] Seal",
+  "_original_lore": [
+    "Fishing Pet",
+    "",
+    "Fishing Speed: +{FISHING_SPEED}",
+    "Sea Creature Chance: +{SEA_CREATURE_CHANCE}%",
+    "Treasure Chance: +{TREASURE_CHANCE}%",
+    "",
+    "Showboater",
+    "Increases your chance of catching",
+    "Bouncy Beach Balls and Giant Bouncy",
+    "Beach Balls during the Year of the",
+    "Seal by {0}%.",
+    "",
+    "Peak Performance",
+    "Gain a {1}% chance to materialize",
+    "some Treasure Bait in your",
+    "inventory upon catching Treasure.",
+    "Materializes Golden Bait instead",
+    "during the Year of the Seal.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "RARE PET"
+  ],
+  "name": "[等级 {LVL}] 海豹",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Fishing Pet"
+      ],
+      "translation": "钓鱼宠物",
+      "styleMappings": {
+        "Fishing": "钓鱼",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Fishing Speed: +{{N0}}"
+      ],
+      "translation": "钓鱼速度: +{{N0}}",
+      "styleMappings": {
+        "Fishing Speed": "钓鱼速度",
+        "Fishing": "钓鱼",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Sea Creature Chance: +{{N0}}%"
+      ],
+      "translation": "海怪概率: +{{N0}}%",
+      "styleMappings": {
+        "Sea Creature Chance": "海怪概率",
+        "Sea Creature": "海怪"
+      }
+    },
+    {
+      "source": [
+        "Treasure Chance: +{{N0}}%"
+      ],
+      "translation": "宝藏概率: +{{N0}}%",
+      "styleMappings": {
+        "Treasure Chance": "宝藏概率",
+        "Treasure": "宝藏"
+      }
+    },
+    {
+      "source": [
+        "Showboater"
+      ],
+      "translation": "爱现",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Increases your chance of catching",
+        "Bouncy Beach Balls and Giant Bouncy",
+        "Beach Balls during the Year of the",
+        "Seal by {{N0}}%."
+      ],
+      "translation": "在海豹之年期间,提高你钓到弹跳沙滩球和巨型弹跳沙滩球的概率 {{N0}}%.",
+      "styleMappings": {
+        "Giant Bouncy Beach Balls": "巨型弹跳沙滩球",
+        "Bouncy Beach Balls": "弹跳沙滩球",
+        "Year of the Seal": "海豹之年",
+        "Giant": "巨型",
+        "chance": "概率",
+        "Seal": "海豹",
+        "Year": "年"
+      }
+    },
+    {
+      "source": [
+        "Peak Performance"
+      ],
+      "translation": "巅峰表现",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Gain a {{N0}}% chance to materialize",
+        "some Treasure Bait in your",
+        "inventory upon catching Treasure."
+      ],
+      "translation": "钓到宝藏时,有 {{N0}}% 的概率在你的物品栏中生成一些宝藏诱饵.",
+      "styleMappings": {
+        "Treasure Bait": "宝藏诱饵",
+        "chance to": "概率",
+        "Treasure": "宝藏",
+        "chance": "概率"
+      }
+    },
+    {
+      "source": [
+        "Materializes Golden Bait instead",
+        "during the Year of the Seal."
+      ],
+      "translation": "在海豹之年期间改为生成金鱼饵.",
+      "styleMappings": {
+        "Year of the Seal": "海豹之年",
+        "Golden Bait": "金鱼饵",
+        "Bait": "鱼饵",
+        "Seal": "海豹",
+        "Year": "年"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "RARE PET"
+      ],
+      "translation": "稀有 宠物",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Seal": "海豹",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

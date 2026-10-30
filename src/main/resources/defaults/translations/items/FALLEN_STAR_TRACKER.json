@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "FALLEN_STAR_TRACKER",
+  "_original_name": "Fallen Star Lozenge",
+  "_original_lore": [
+    "Ability: Rezonate  RIGHT CLICK",
+    "Leads you to the nearest Fallen Star while in",
+    "the Dwarven Mines.",
+    "Mana Cost: 18",
+    "",
+    "EPIC"
+  ],
+  "name": "陨星含片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Rezonate  RIGHT CLICK"
+      ],
+      "translation": "技能: 共鸣  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Leads you to the nearest Fallen Star while in",
+        "the Dwarven Mines."
+      ],
+      "translation": "在矮人矿坑中时,引导你前往最近的陨星.",
+      "styleMappings": {
+        "Fallen Star": "陨星",
+        "Dwarven Mines": "矮人矿坑",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fallen Star": "陨星"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

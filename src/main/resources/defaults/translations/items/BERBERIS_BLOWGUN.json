@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "BERBERIS_BLOWGUN",
+  "_original_name": "Berberis Blowgun",
+  "_original_lore": [
+    "Ability: Swhooomp  RIGHT CLICK",
+    "Shoot an arrow. Doesn't deal damage. Except",
+    "to chickens and Puffs.",
+    "Mana Cost: 5",
+    "",
+    "RARE"
+  ],
+  "name": "小檗吹箭",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Swhooomp  RIGHT CLICK"
+      ],
+      "translation": "技能: 嗖嗖飞  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Shoot an arrow. Doesn't deal damage. Except",
+        "to chickens and Puffs."
+      ],
+      "translation": "射出一支箭.不造成伤害.除了对鸡和河豚.",
+      "styleMappings": {
+        "deal": "造成",
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Berberis Blowgun": "小檗吹箭"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

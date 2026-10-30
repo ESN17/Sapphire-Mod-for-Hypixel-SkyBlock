@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "SPIRIT_RUNE;3",
+  "_original_name": "◆ Spirit Rune III",
+  "_original_lore": [
+    "Requires level 12",
+    "Weapons",
+    "",
+    "Obtained rarely from slaying Sven",
+    "Packmaster.",
+    "",
+    "Apply this rune to weapons or fuse",
+    "two together at the Runic Pedestal!",
+    "",
+    "RARE COSMETIC"
+  ],
+  "name": "◆ 灵魂符文 III",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Requires level {{N0}}",
+        "Weapons"
+      ],
+      "translation": "需要等级 {{N0}} 武器",
+      "styleMappings": {
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Obtained rarely from slaying Sven",
+        "Packmaster."
+      ],
+      "translation": "击杀斯文狼王时稀有掉落.",
+      "styleMappings": {
+        "Sven Packmaster": "斯文狼王"
+      }
+    },
+    {
+      "source": [
+        "Apply this rune to weapons or fuse",
+        "two together at the Runic Pedestal!"
+      ],
+      "translation": "将此符文应用于武器,或在符文基座上将两个符文融合!",
+      "styleMappings": {
+        "Runic Pedestal": "符文基座",
+        "Runic": "符文"
+      }
+    },
+    {
+      "source": [
+        "RARE COSMETIC"
+      ],
+      "translation": "稀有 外观",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Rune III": "符文 III",
+    "Spirit": "灵魂",
+    "III": "III"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

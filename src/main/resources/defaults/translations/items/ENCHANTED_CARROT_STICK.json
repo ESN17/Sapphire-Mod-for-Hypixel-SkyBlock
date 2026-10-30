@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "ENCHANTED_CARROT_STICK",
+  "_original_name": "Enchanted Carrot on a Stick",
+  "_original_lore": [
+    "Increases the speed of the",
+    "creature you are riding when holding.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "附魔胡萝卜钓竿",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Increases the speed of the",
+        "creature you are riding when holding."
+      ],
+      "translation": "手持时提高你所骑乘生物的速度.",
+      "styleMappings": {
+        "speed": "速度",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Carrot": "胡萝卜"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

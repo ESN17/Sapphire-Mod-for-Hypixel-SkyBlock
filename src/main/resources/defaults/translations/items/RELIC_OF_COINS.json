@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "RELIC_OF_COINS",
+  "_original_name": "Relic of Coins",
+  "_original_lore": [
+    "Accessory Power: +12",
+    "",
+    "A lot of coins start appearing",
+    "around you occasionally on public",
+    "islands. You may even pick up a",
+    "Stock of Stonks!",
+    "",
+    "Works while in Accessory Bag!",
+    "EPIC ACCESSORY"
+  ],
+  "name": "金币圣物",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Accessory Power: {{N0}}"
+      ],
+      "translation": "饰品能量: {{N0}}",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "A lot of coins start appearing",
+        "around you occasionally on public",
+        "islands. You may even pick up a",
+        "Stock of Stonks!"
+      ],
+      "translation": "在公共岛屿上,你周围偶尔会出现大量金币.你甚至可能捡到股票凭证!",
+      "styleMappings": {
+        "Stock of Stonks": "股票凭证",
+        "coins": "金币"
+      }
+    },
+    {
+      "source": [
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "放在饰品袋中即可生效!",
+      "styleMappings": {
+        "Accessory Bag": "饰品袋",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "EPIC ACCESSORY"
+      ],
+      "translation": "史诗饰品",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Coins": "金币",
+    "Relic": "圣物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

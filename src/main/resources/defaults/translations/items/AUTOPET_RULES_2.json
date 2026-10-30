@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "AUTOPET_RULES_2",
+  "_original_name": "Autopet Rules 2-Pack",
+  "_original_lore": [
+    "Adds +2 rules to your Autopet!",
+    "",
+    "The Autopet allows you to",
+    "automatically equip pets",
+    "depending on rules you choose.",
+    "",
+    "Hold and click to consume!",
+    "",
+    "Find the Autopet in your Pets",
+    "menu after unlocking at least 1",
+    "rule.",
+    "",
+    "SPECIAL"
+  ],
+  "name": "自动宠物规则 2 件套",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Adds {{N0}} rules to your Autopet!"
+      ],
+      "translation": "为你的自动宠物添加 {{N0}} 条规则!",
+      "styleMappings": {
+        "Adds": "添加",
+        "Autopet": "自动宠物"
+      }
+    },
+    {
+      "source": [
+        "The Autopet allows you to",
+        "automatically equip pets",
+        "depending on rules you choose."
+      ],
+      "translation": "自动宠物允许你根据所选规则自动装备宠物.",
+      "styleMappings": {
+        "Autopet": "自动宠物",
+        "automatically": "自动"
+      }
+    },
+    {
+      "source": [
+        "Hold and click to consume!"
+      ],
+      "translation": "按住并点击以消耗!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Find the Autopet in your Pets",
+        "menu after unlocking at least {{N0}}",
+        "rule."
+      ],
+      "translation": "解锁至少 {{N0}} 条规则后,可在宠物菜单中找到自动宠物.",
+      "styleMappings": {
+        "Autopet": "自动宠物",
+        "Pets": "宠物"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Autopet": "自动宠物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

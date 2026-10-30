@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "SUMMONING_EYE",
+  "_original_name": "Summoning Eye",
+  "_original_lore": [
+    "Minion Upgrade",
+    "",
+    "Use this at the Ender Altar in the",
+    "Dragon's Nest to summon Ender",
+    "Dragons!",
+    "",
+    "EPIC"
+  ],
+  "name": "召唤之眼",
+  "lore": {
+    "Minion Upgrade": "仆从升级组件",
+    "EPIC": "史诗"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "Use this at the Ender Altar in the",
+        "Dragon's Nest to summon Ender",
+        "Dragons!"
+      ],
+      "translation": "在龙巢的末影祭坛使用,可召唤末影龙!",
+      "styleMappings": {
+        "Dragon's Nest": "龙巢",
+        "Ender Altar": "末影祭坛",
+        "Dragon": "龙",
+        "Altar": "祭坛",
+        "Dragons": "龙",
+        "Ender": "末影",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Minion Upgrade"
+      ],
+      "translation": "仆从升级组件",
+      "styleMappings": {
+        "Minion Upgrade": "仆从升级",
+        "Minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Dragon's Nest": "龙巢",
+    "Ender Altar": "末影祭坛",
+    "Summoning Eye": "召唤之眼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_PET_LUCK;2",
+  "_original_name": "Pet Luck II Potion",
+  "_original_lore": [
+    "",
+    "Pet Luck II (3:00)",
+    "Gain +10% chance to find pets and",
+    "craft higher tier pets.",
+    "",
+    "COMMON"
+  ],
+  "name": "宠物幸运 II 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Pet Luck II ({{N0}}:{{N1}})"
+      ],
+      "translation": "宠物幸运 II ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Pet Luck II": "宠物幸运 II",
+        "II": "II",
+        "Pet": "宠物",
+        "Pet Luck": "宠物幸运",
+        "Luck": "幸运"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}} chance to find pets and",
+        "craft higher tier pets."
+      ],
+      "translation": "获得 {{N0}} 概率找到宠物并合成更高等级的宠物.",
+      "styleMappings": {
+        "chance to find": "概率找到",
+        "Gain": "获得",
+        "chance": "概率",
+        "chance to": "概率"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Pet Luck II": "宠物幸运 II",
+    "II": "II",
+    "Pet": "宠物",
+    "Pet Luck": "宠物幸运",
+    "Luck": "幸运"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

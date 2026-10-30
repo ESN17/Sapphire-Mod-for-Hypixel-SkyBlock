@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "FORTUNE;3",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Fortune III",
+    "Grants +30 ☘ Mining",
+    "Fortune, which increases your",
+    "chance for multiple drops.",
+    "",
+    "Sources:",
+    " - Enchantment Table (I-III)",
+    " - Bazaar (IV)",
+    " - Crystal Nucleus (IV)",
+    "",
+    "Applied To:",
+    " - Pickaxe",
+    " - Drill",
+    " - Gauntlet",
+    "",
+    "Conflicts:",
+    " - Silk Touch",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Fortune III"
+      ],
+      "translation": "时运 III",
+      "styleMappings": {
+        "Fortune": "时运",
+        "III": "III"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} ☘ Mining",
+        "Fortune, which increases your",
+        "chance for multiple drops."
+      ],
+      "translation": "提供 {{N0}} ☘ 采矿幸运,可提高你获得多份掉落物的概率.",
+      "styleMappings": {
+        "Mining Fortune": "采矿幸运",
+        "for": "获得",
+        "Mining": "采矿",
+        "Fortune": "幸运",
+        "chance": "概率"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchantment Table (I-III)",
+        " - Bazaar (IV)",
+        " - Crystal Nucleus (IV)"
+      ],
+      "translation": " - 附魔台 (I-III)  - 集市 (IV)  - 水晶核心 (IV)",
+      "styleMappings": {
+        "Enchantment Table": "附魔台",
+        "Crystal Nucleus": "水晶核心",
+        "Bazaar": "集市",
+        "I-III": "I-III",
+        "III": "III",
+        "Crystal": "水晶",
+        "Enchantment": "附魔"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Pickaxe",
+        " - Drill",
+        " - Gauntlet"
+      ],
+      "translation": " - 镐  - 钻头  - 护手",
+      "styleMappings": {
+        "Gauntlet": "护手",
+        "Drill": "钻头",
+        "Pickaxe": "镐"
+      }
+    },
+    {
+      "source": [
+        "Conflicts:"
+      ],
+      "translation": "冲突:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Silk Touch"
+      ],
+      "translation": " - 精准采集",
+      "styleMappings": {
+        "Silk Touch": "精准采集"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

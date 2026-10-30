@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "id": "ENCHANTED_BOOK_BUNDLE_REFLECTION",
+  "_original_name": "Enchanted Book Bundle",
+  "_original_lore": [
+    "Reflection I",
+    "Grants +2 Intelligence.",
+    "Grants +1 True Defense.",
+    "When damaged by an arrow, deal 2x your",
+    " Intelligence to its shooter.",
+    "",
+    "Right-click to open this bundle",
+    "containing 3 enchanted",
+    "books.",
+    "",
+    "* Soulbound *",
+    "X Rift-Transferable X",
+    "UNCOMMON"
+  ],
+  "name": "附魔书捆",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Reflection I",
+        "Grants {{N0}} Intelligence."
+      ],
+      "translation": "反射 I 提供 {{N0}} 智力.",
+      "styleMappings": {
+        "Intelligence": "智力",
+        "Reflection I": "反射 I",
+        "Grants": "提供",
+        "": "",
+        " Intelligence": " 智力"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} True Defense."
+      ],
+      "translation": "提供 {{N0}} 真实防御.",
+      "styleMappings": {
+        "True Defense": "真实防御",
+        "Grants": "提供",
+        "Defense": "防御",
+        "True": "真实"
+      }
+    },
+    {
+      "source": [
+        "When damaged by an arrow, deal {{N0}}x your",
+        " Intelligence to its shooter."
+      ],
+      "translation": "被箭矢击中时,对射击者造成相当于你  智力 {{N0}}x 的伤害.",
+      "styleMappings": {
+        "Intelligence": "智力",
+        "deal": "造成",
+        "": "",
+        " Intelligence": " 智力"
+      }
+    },
+    {
+      "source": [
+        "Right-click to open this bundle"
+      ],
+      "translation": "右键点击打开此包裹",
+      "styleMappings": {
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "containing {{N0}} enchanted",
+        "books."
+      ],
+      "translation": "内含 {{N0}} 本附魔书.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "X Rift-Transferable X"
+      ],
+      "translation": "X 可转移至裂隙 X",
+      "styleMappings": {
+        "Rift-Transferable": "可转移至裂隙",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "PERFECT_CHESTPLATE_9",
+  "_original_name": "Perfect Chestplate - Tier IX",
+  "_original_lore": [
+    "Defense: +320",
+    "Gemstones: [] [] []",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "This item can be reforged!",
+    "LEGENDARY CHESTPLATE"
+  ],
+  "name": "完美胸甲 - IX 阶",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [] [] []"
+      ],
+      "translation": "宝石: [] [] []",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石",
+        "] [": "] ["
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY CHESTPLATE"
+      ],
+      "translation": "传说 胸甲",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Chestplate": "胸甲",
+    "Perfect": "完美"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

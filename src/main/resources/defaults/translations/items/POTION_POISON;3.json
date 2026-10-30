@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_POISON;3",
+  "_original_name": "Poison III Potion",
+  "_original_lore": [
+    "",
+    "Poison III (3:00)",
+    "Deals 40 damage per second.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "中毒 III 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Poison III ({{N0}}:{{N1}})"
+      ],
+      "translation": "中毒 III ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Poison III": "中毒 III",
+        "III": "III"
+      }
+    },
+    {
+      "source": [
+        "Deals {{N0}} damage per second."
+      ],
+      "translation": "每秒造成 {{N0}} 伤害.",
+      "styleMappings": {
+        "per second": "每秒",
+        "damage": "伤害",
+        "Deals": "造成",
+        "second": "秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Poison III": "中毒 III",
+    "III": "III"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

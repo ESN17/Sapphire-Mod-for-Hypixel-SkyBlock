@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "ELEPHANT;0",
+  "_original_name": "[Lvl {LVL}] Elephant",
+  "_original_lore": [
+    "Farming Pet",
+    "",
+    "Health: +{HEALTH}",
+    "Intelligence: +{INTELLIGENCE}",
+    "",
+    "Stomp",
+    "Gain {0} Defense for every 100 ",
+    "Speed.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "COMMON PET"
+  ],
+  "name": "[等级 {LVL}] 大象",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Farming Pet"
+      ],
+      "translation": "耕作宠物",
+      "styleMappings": {
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Health: +{{N0}}"
+      ],
+      "translation": "生命值: +{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: +{{N0}}"
+      ],
+      "translation": "智力: +{{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Stomp"
+      ],
+      "translation": "重踏",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Gain {{N0}} Defense for every {{N1}} ",
+        "Speed."
+      ],
+      "translation": "每 {{N1}}  速度获得 {{N0}} 防御.",
+      "styleMappings": {
+        " Defense": " 防御",
+        " Speed": " 速度",
+        "Gain": "获得",
+        "Defense": "防御",
+        "for": "获得",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "COMMON PET"
+      ],
+      "translation": "普通 宠物",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Elephant": "大象",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

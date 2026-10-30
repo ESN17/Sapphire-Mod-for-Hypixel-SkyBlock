@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "id": "BAT_PERSON_TALISMAN",
+  "_original_name": "Bat Person Talisman",
+  "_original_lore": [
+    "Accessory Power: +3",
+    "",
+    "Gain +2  Defense,  Strength, and",
+    " Intelligence for each bat you",
+    "have summoned.",
+    "",
+    "Works with Spirit Sceptre, Witch Mask,",
+    "and the Bat Pet!",
+    "",
+    "Works while in Accessory Bag!",
+    "COMMON ACCESSORY"
+  ],
+  "name": "蝙蝠人护符",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Accessory Power: {{N0}}"
+      ],
+      "translation": "饰品能量: {{N0}}",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}}  Defense,  Strength, and",
+        " Intelligence for each bat you",
+        "have summoned."
+      ],
+      "translation": "每召唤一只蝙蝠,获得 {{N0}}  防御、 力量和 智力.",
+      "styleMappings": {
+        "Intelligence": "智力",
+        " Strength": " 力量",
+        " Defense": " 防御",
+        "Gain": "获得",
+        "": "",
+        "Defense": "防御",
+        "Strength": "力量",
+        "for": "获得"
+      }
+    },
+    {
+      "source": [
+        "Works with Spirit Sceptre, Witch Mask,",
+        "and the Bat Pet!"
+      ],
+      "translation": "可与灵魂权杖、女巫面具和蝙蝠宠物配合使用!",
+      "styleMappings": {
+        "Spirit Sceptre": "灵魂权杖",
+        "Witch Mask": "女巫面具",
+        "Bat Pet": "蝙蝠宠物",
+        "Pet": "宠物",
+        "Spirit": "灵魂",
+        "Bat": "蝙蝠",
+        "Mask": "面具"
+      }
+    },
+    {
+      "source": [
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "放在饰品袋中即可生效!",
+      "styleMappings": {
+        "Accessory Bag": "饰品袋",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "COMMON ACCESSORY"
+      ],
+      "translation": "普通饰品",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Bat": "蝙蝠",
+    "Talisman": "护符"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "AGARICUS_SOUP",
+  "_original_name": "Agaricus Soup",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Consume to gain Speed I for 60s.",
+    "Cooldown: 60s",
+    "",
+    "Right-click to consume!",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "伞菇汤",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Consume to gain Speed I for {{N0}}s."
+      ],
+      "translation": "食用后获得速度 I,持续 {{N0}}秒.",
+      "styleMappings": {
+        "Speed I": "速度 I",
+        "for": "持续",
+        "{{N0}}s": "{{N0}}秒",
+        "Speed": "速度",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

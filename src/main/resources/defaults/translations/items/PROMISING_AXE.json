@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "id": "PROMISING_AXE",
+  "_original_name": "Promising Axe",
+  "_original_lore": [
+    "Damage: +25",
+    "",
+    "Gains Efficiency I after breaking 50",
+    "blocks!",
+    "",
+    "Blocks Broken: 0",
+    "",
+    "This item can be reforged!",
+    "UNCOMMON AXE"
+  ],
+  "name": "潜力斧",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Gains Efficiency I after breaking {{N0}}",
+        "blocks!"
+      ],
+      "translation": "破坏 {{N0}} 个方块后获得效率 I!",
+      "styleMappings": {
+        "Efficiency I": "效率 I",
+        "blocks": "方块",
+        "Gains": "获得",
+        "Efficiency": "效率"
+      }
+    },
+    {
+      "source": [
+        "Blocks Broken: {{N0}}"
+      ],
+      "translation": "已破坏方块:{{N0}}",
+      "styleMappings": {
+        "Blocks": "方块"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON AXE"
+      ],
+      "translation": "罕见 斧",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Axe": "斧"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

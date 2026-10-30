@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "CRYPT_GHOUL_MONSTER",
+  "_original_name": "Crypt Ghoul (Monster)",
+  "_original_lore": [
+    "The Crypt Ghoul is a mob added in the Slayer",
+    "update. It is a hostile zombie type mob that's",
+    "a bit tougher than regular zombies.",
+    "",
+    "❤ Health: 2,000"
+  ],
+  "name": "墓穴食尸鬼 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Crypt Ghoul is a mob added in the Slayer",
+        "update. It is a hostile zombie type mob that's",
+        "a bit tougher than regular zombies."
+      ],
+      "translation": "墓穴食尸鬼是杀手更新中加入的怪物.它是一种敌对僵尸类怪物,比普通僵尸稍强一些.",
+      "styleMappings": {
+        "Slayer": "杀手",
+        "Ghoul": "食尸鬼",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Ghoul": "食尸鬼",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

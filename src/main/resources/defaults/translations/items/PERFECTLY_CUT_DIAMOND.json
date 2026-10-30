@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "PERFECTLY_CUT_DIAMOND",
+  "_original_name": "Perfectly Cut Diamond",
+  "_original_lore": [
+    "An outstanding find. While few are",
+    "known to exist, even fewer have",
+    "been successfully retrieved.",
+    "",
+    "Used in an anvil to upgrade Perfect",
+    "Armor to Tier XIII.",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "完美切割钻石",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "An outstanding find. While few are",
+        "known to exist, even fewer have",
+        "been successfully retrieved."
+      ],
+      "translation": "一项非凡的发现.已知存在的寥寥无几,成功取回的更是少之又少.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Used in an anvil to upgrade Perfect"
+      ],
+      "translation": "在铁砧中用于将完美",
+      "styleMappings": {
+        "anvil": "铁砧",
+        "Perfect": "完美"
+      }
+    },
+    {
+      "source": [
+        "Armor to Tier XIII."
+      ],
+      "translation": "护甲升级至 XIII 阶.",
+      "styleMappings": {
+        "Armor": "护甲"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

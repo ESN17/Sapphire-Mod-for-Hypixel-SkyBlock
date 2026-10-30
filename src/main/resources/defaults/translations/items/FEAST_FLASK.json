@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "FEAST_FLASK",
+  "_original_name": "Feast Flask",
+  "_original_lore": [
+    "A cup of soup from the Communal",
+    "Stew.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "EPIC"
+  ],
+  "name": "盛宴瓶",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A cup of soup from the Communal",
+        "Stew."
+      ],
+      "translation": "一杯来自公共炖锅的汤.",
+      "styleMappings": {
+        "Communal Stew": "公共炖锅"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Feast": "盛宴"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

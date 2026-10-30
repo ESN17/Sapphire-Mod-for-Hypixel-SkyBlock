@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "DIVAN_ALLOY",
+  "_original_name": "Divan's Alloy",
+  "_original_lore": [
+    "The legendary Divan explored where",
+    "no other man has set foot, and came",
+    "back with this incredibly rare alloy.",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "迪万合金",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The legendary Divan explored where",
+        "no other man has set foot, and came",
+        "back with this incredibly rare alloy."
+      ],
+      "translation": "传说中的迪万探索了无人踏足之地,带回了这种极其稀有的合金.",
+      "styleMappings": {
+        "rare": "稀有",
+        "Divan": "迪万"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Divan": "迪万"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

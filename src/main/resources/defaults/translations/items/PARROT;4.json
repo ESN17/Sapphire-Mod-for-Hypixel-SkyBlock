@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "PARROT;4",
+  "_original_name": "[Lvl {LVL}] Parrot",
+  "_original_lore": [
+    "Alchemy Pet",
+    "",
+    "Crit Damage: +{CRIT_DAMAGE}%",
+    "Intelligence: +{INTELLIGENCE}",
+    "",
+    "Flamboyant",
+    "Adds {0} levels to intimidation",
+    "accessories",
+    "",
+    "Repeat",
+    "Boosts potions duration by {1}%.",
+    "",
+    "Bird Discourse",
+    "Gives +{2} Strength to players",
+    "within 20 blocks",
+    "Doesn't stack",
+    "",
+    "Parrot Feather Infusion",
+    "When summoned or in your Pets menu,",
+    "boost the duration of consumed God",
+    "Potions and Mixins by {3}%.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "LEGENDARY PET"
+  ],
+  "name": "[等级 {LVL}] 鹦鹉",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Alchemy Pet"
+      ],
+      "translation": "炼金宠物",
+      "styleMappings": {
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: +{{N0}}%"
+      ],
+      "translation": "暴击伤害: +{{N0}}%",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: +{{N0}}"
+      ],
+      "translation": "智力: +{{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Flamboyant"
+      ],
+      "translation": "华丽",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Adds {{N0}} levels to intimidation",
+        "accessories"
+      ],
+      "translation": "为威慑饰品增加 {{N0}} 等级",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Repeat"
+      ],
+      "translation": "重复",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Boosts potions duration by {{N0}}%."
+      ],
+      "translation": "药水持续时间提升 {{N0}}%.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Bird Discourse"
+      ],
+      "translation": "鸟类论述",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Gives +{{N0}} Strength to players",
+        "within {{N1}} blocks",
+        "Doesn't stack"
+      ],
+      "translation": "为 {{N1}} 格内的玩家提供 +{{N0}} 力量 不叠加",
+      "styleMappings": {
+        "+{{N0}} Strength": "+{{N0}} 力量",
+        "Doesn't stack": "不叠加",
+        "blocks": "格",
+        "Strength": "力量",
+        "Gives": "提供",
+        " Strength": " 力量"
+      }
+    },
+    {
+      "source": [
+        "Parrot Feather Infusion"
+      ],
+      "translation": "鹦鹉羽毛灌注",
+      "styleMappings": {
+        "Feather": "羽毛",
+        "Parrot": "鹦鹉"
+      }
+    },
+    {
+      "source": [
+        "When summoned or in your Pets menu,",
+        "boost the duration of consumed God",
+        "Potions and Mixins by {{N0}}%."
+      ],
+      "translation": "召唤时或位于宠物菜单中时, 使已使用的神药水和混合剂的持续时间提升 {{N0}}%.",
+      "styleMappings": {
+        "God Potions": "神药水",
+        "Mixins": "混合剂",
+        "Pets": "宠物",
+        "Potions": "药水"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY PET"
+      ],
+      "translation": "传说 宠物",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Parrot": "鹦鹉",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

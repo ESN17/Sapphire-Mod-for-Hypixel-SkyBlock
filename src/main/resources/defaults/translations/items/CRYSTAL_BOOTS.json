@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "id": "CRYSTAL_BOOTS",
+  "_original_name": "Crystal Boots",
+  "_original_lore": [
+    "Defense: +15",
+    "Intelligence: +60",
+    "",
+    "Full Set Bonus: Refraction (0/4)",
+    "The stats of this armor change from",
+    "0 to 200% depending on the current",
+    "light level.",
+    "",
+    "Current Light Level",
+    "0 (0%)",
+    "",
+    "This item can be reforged!",
+    "EPIC BOOTS"
+  ],
+  "name": "水晶靴子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Refraction ({{N0}}/{{N1}})"
+      ],
+      "translation": "全套加成: 折射 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Full Set Bonus": "全套加成",
+        "Refraction": "折射",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "The stats of this armor change from",
+        "{{N0}} to {{N1}} depending on the current",
+        "light level."
+      ],
+      "translation": "这套盔甲的属性会根据当前光照等级在 {{N0}} 到 {{N1}} 之间变化.",
+      "styleMappings": {
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "Current Light Level",
+        "{{N0}} ({{N1}})"
+      ],
+      "translation": "当前光照等级 {{N0}} ({{N1}})",
+      "styleMappings": {
+        "Level": "等级"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "EPIC BOOTS"
+      ],
+      "translation": "史诗靴子",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Crystal": "水晶",
+    "Boots": "靴子"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

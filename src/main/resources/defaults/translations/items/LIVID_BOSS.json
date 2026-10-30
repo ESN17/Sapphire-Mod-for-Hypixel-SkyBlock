@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "LIVID_BOSS",
+  "_original_name": "Livid (Boss)",
+  "_original_lore": [
+    "Livid is the boss of Floor 5 of the Catacombs. He is a",
+    "'Master Necromancer' and has only one phase. In this",
+    "phase he makes eight clones of himself. Each with",
+    "different abilities. The player must kill the",
+    "true livid to complete the boss fight.",
+    "",
+    "❤ Health: 7,000.000",
+    "❤ Health (MM): 600.000.000"
+  ],
+  "name": "利维德 (首领)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Livid is the boss of Floor {{N0}} of the Catacombs. He is a",
+        "'Master Necromancer' and has only one phase. In this",
+        "phase he makes eight clones of himself. Each with",
+        "different abilities. The player must kill the",
+        "true livid to complete the boss fight."
+      ],
+      "translation": "利维德是地牢第 {{N0}} 层的首领.他是一名'死灵大师',只有一个阶段.在这个阶段中,他会制造八个自己的分身,每个分身都有不同的能力.玩家必须杀死真正的利维德才能完成这场首领战.",
+      "styleMappings": {
+        "Master Necromancer": "死灵大师",
+        "Catacombs": "地牢",
+        "player": "玩家",
+        "the Catacombs": "地牢",
+        "Master": "大师",
+        "Livid": "利维德"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "❤ Health (MM): {{N0}}.{{N1}}"
+      ],
+      "translation": "❤ 生命值 (MM): {{N0}}.{{N1}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Livid": "利维德",
+    "Boss": "首领"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

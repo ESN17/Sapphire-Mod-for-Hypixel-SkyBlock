@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "id": "FLAME;2",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Flame II",
+    "Arrows ignite your enemies for",
+    "4s.",
+    "",
+    "Source:",
+    " - Enchantment Table (I-II)",
+    "",
+    "Applied To:",
+    " - Bow",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Flame II"
+      ],
+      "translation": "火矢 II",
+      "styleMappings": {
+        "Flame": "火矢",
+        "Flame II": "火矢 II",
+        "II": "II"
+      }
+    },
+    {
+      "source": [
+        "Arrows ignite your enemies for",
+        "{{N0}}s."
+      ],
+      "translation": "箭矢会点燃你的敌人 {{N0}} 秒.",
+      "styleMappings": {
+        "ignite": "点燃",
+        "{{N0}}s": "{{N0}} 秒",
+        "enemies": "敌人"
+      }
+    },
+    {
+      "source": [
+        "Source:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchantment Table (I-II)"
+      ],
+      "translation": " - 附魔台 (一-二)",
+      "styleMappings": {
+        "Enchantment Table": "附魔台",
+        "II": "二",
+        "Enchantment": "附魔"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Bow"
+      ],
+      "translation": " - 弓",
+      "styleMappings": {
+        "Bow": "弓"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

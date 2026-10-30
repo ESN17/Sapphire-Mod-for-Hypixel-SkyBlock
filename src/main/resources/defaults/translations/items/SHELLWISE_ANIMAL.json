@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "SHELLWISE_ANIMAL",
+  "_original_name": "Shellwise (Animal)",
+  "_original_lore": [
+    "Mob Types: ⸙ Woodland, ⚓ Aquatic, ☮ Animal",
+    "❤ Health: 1,000 - 1,500"
+  ],
+  "name": "壳智者 (动物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mob Types: ⸙ Woodland, ⚓ Aquatic, ☮ Animal"
+      ],
+      "translation": "生物类型: ⸙ 林地, ⚓ 水生, ☮ 动物",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Woodland": "林地",
+        "Aquatic": "水生",
+        "Animal": "动物"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}} - {{N1}}"
+      ],
+      "translation": "❤ 生命值: {{N0}} - {{N1}}",
+      "styleMappings": {
+        "Health": "生命值",
+        "-": "-"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Animal": "动物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

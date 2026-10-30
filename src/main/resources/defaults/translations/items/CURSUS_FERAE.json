@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "CURSUS_FERAE",
+  "_original_name": "Reinforced Huntaxe - Cursus",
+  "_original_lore": [
+    "Hunting Tool",
+    "",
+    "Damage: +15",
+    "",
+    "Ability: Absorptio  RIGHT CLICK",
+    "This weapon lets you absorb 15% of",
+    "the basic combat stats of any",
+    "weapon.",
+    "",
+    "Ability: Vis Temperata ",
+    "Each strike of this weapon has its",
+    "damage capped at 25% of the",
+    "enemy's max Health. This weapon",
+    "cannot cause a fatal blow.",
+    "",
+    "Fera fugit, cursus sequitur.",
+    "",
+    "This item can be reforged!",
+    "RARE AXE"
+  ],
+  "name": "强化狩猎斧 - 库尔苏斯",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Hunting Tool"
+      ],
+      "translation": "狩猎工具",
+      "styleMappings": {
+        "Hunting Tool": "狩猎工具"
+      }
+    },
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Ability: Absorptio  RIGHT CLICK"
+      ],
+      "translation": "技能:吸收  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "This weapon lets you absorb {{N0}} of",
+        "the basic combat stats of any",
+        "weapon."
+      ],
+      "translation": "此武器可让你吸收任意武器 {{N0}} 的基础战斗属性.",
+      "styleMappings": {
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "Ability: Vis Temperata "
+      ],
+      "translation": "技能:温和之力 ",
+      "styleMappings": {
+        "Ability": "技能"
+      }
+    },
+    {
+      "source": [
+        "Each strike of this weapon has its",
+        "damage capped at {{N0}} of the",
+        "enemy's max Health. This weapon",
+        "cannot cause a fatal blow."
+      ],
+      "translation": "此武器的每次攻击伤害上限为敌人最大生命值的 {{N0}}.此武器无法造成致命一击.",
+      "styleMappings": {
+        "damage": "伤害",
+        "s": "一"
+      }
+    },
+    {
+      "source": [
+        "Fera fugit, cursus sequitur."
+      ],
+      "translation": "野兽逃逸,赛道紧随.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "RARE AXE"
+      ],
+      "translation": "稀有 斧",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Reinforced Huntaxe": "强化狩猎斧",
+    "Reinforced": "强化"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

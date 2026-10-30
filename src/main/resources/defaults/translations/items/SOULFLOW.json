@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "SOULFLOW",
+  "_original_name": "Soulflow",
+  "_original_lore": [
+    "Collection Item",
+    "",
+    "Hold and right-click to consume,",
+    "gaining +160⸎ Soulflow!",
+    "",
+    "RARE"
+  ],
+  "name": "灵魂流",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Collection Item"
+      ],
+      "translation": "收藏品",
+      "styleMappings": {
+        "Collection": "收藏"
+      }
+    },
+    {
+      "source": [
+        "Hold and right-click to consume,",
+        "gaining {{N0}}⸎ Soulflow!"
+      ],
+      "translation": "按住并右键点击以消耗,获得 {{N0}}⸎ 灵魂流!",
+      "styleMappings": {
+        "Soulflow": "灵魂流"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Soulflow": "灵魂流"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

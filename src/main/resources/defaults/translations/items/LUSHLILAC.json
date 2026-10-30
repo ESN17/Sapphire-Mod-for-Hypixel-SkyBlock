@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "id": "LUSHLILAC",
+  "_original_name": "Lushlilac",
+  "_original_lore": [
+    "Hunting Tool",
+    "Collection Item",
+    "",
+    "Grants 0.5❣ Charm Chance.",
+    "Duration: 8h",
+    "",
+    "Left-click to consume!",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "UNCOMMON SALT"
+  ],
+  "name": "繁茂丁香",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Hunting Tool",
+        "Collection Item"
+      ],
+      "translation": "狩猎工具收藏物品",
+      "styleMappings": {
+        "Collection Item": "收藏物品",
+        "Hunting Tool": "狩猎工具",
+        "Collection": "收藏",
+        "Item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}❣ Charm Chance."
+      ],
+      "translation": "给予 {{N0}}❣ 魅力几率.",
+      "styleMappings": {
+        "Charm Chance": "魅力几率",
+        "Grants": "给予",
+        "Charm": "魅力"
+      }
+    },
+    {
+      "source": [
+        "Duration: {{N0}}h"
+      ],
+      "translation": "持续时间: {{N0}}小时",
+      "styleMappings": {
+        "Duration": "持续时间",
+        "{{N0}}h": "{{N0}}小时"
+      }
+    },
+    {
+      "source": [
+        "Left-click to consume!"
+      ],
+      "translation": "左键点击饮用!",
+      "styleMappings": {
+        "Left-click": "左键点击"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "UNCOMMON SALT"
+      ],
+      "translation": "罕见盐",
+      "styleMappings": {
+        "UNCOMMON SALT": "罕见盐",
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

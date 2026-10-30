@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "id": "JUJU_SHORTBOW",
+  "_original_name": "Juju Shortbow",
+  "_original_lore": [
+    "Damage: +310",
+    "Strength: +40",
+    "Crit Chance: +10%",
+    "Crit Damage: +110%",
+    "Shot Cooldown: 0.5s",
+    "",
+    "Hits 3 mobs on impact.",
+    "Can damage endermen.",
+    "",
+    "Shortbow: Instantly shoots!",
+    "",
+    "This item can be reforged!",
+    "☠ Requires Enderman Slayer 5.",
+    "EPIC BOW"
+  ],
+  "name": "朱朱短弓",
+  "lore": {
+    "Damage: {value}": "伤害:{value}",
+    "Strength: {value}": "力量:{value}",
+    "Crit Chance: {value}": "暴击率:{value}",
+    "Crit Damage: {value}": "暴击伤害:{value}",
+    "Shot Cooldown: {value}s": "射击间隔:{value}秒",
+    "Hits {count} mobs on impact.": "命中时攻击 {count} 个生物.",
+    "Can damage endermen.": "可以伤害末影人.",
+    "Shortbow: Instantly shoots!": "短弓:即时射击!",
+    "This item can be reforged!": "此物品可以洗练!",
+    "☠ Requires Enderman Slayer {level}.": "☠ 需要末影人杀手 {level}.",
+    "EPIC BOW": "史诗 弓",
+    "Damage: {value} ({bonus})": "伤害:{value} ({bonus})",
+    "Strength: {value} ({bonus})": "力量:{value} ({bonus})",
+    "Crit Chance: {value} ({bonus})": "暴击率:{value} ({bonus})",
+    "Crit Damage: {value} ({bonus})": "暴击伤害:{value} ({bonus})"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Crit Chance: {{N0}}"
+      ],
+      "translation": "暴击率: {{N0}}",
+      "styleMappings": {
+        "Crit Chance": "暴击率"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: {{N0}}"
+      ],
+      "translation": "暴击伤害:{{N0}}",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Shot Cooldown: {{N0}}s"
+      ],
+      "translation": "射击间隔:{{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "Hits {{N0}} mobs on impact."
+      ],
+      "translation": "命中时攻击 {{N0}} 个生物.",
+      "styleMappings": {
+        "mobs": "生物"
+      }
+    },
+    {
+      "source": [
+        "Can damage endermen."
+      ],
+      "translation": "可以伤害末影人.",
+      "styleMappings": {
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Shortbow: Instantly shoots!"
+      ],
+      "translation": "短弓: 即时射击!",
+      "styleMappings": {
+        "Shortbow": "短弓"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Enderman Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要末影人杀手 {{N0}}.",
+      "styleMappings": {
+        "Enderman Slayer": "末影人杀手",
+        "Requires": "需要",
+        "Slayer": "杀手",
+        "Enderman": "末影人"
+      }
+    },
+    {
+      "source": [
+        "EPIC BOW"
+      ],
+      "translation": "史诗 弓",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Strength": "力量",
+    "Crit Chance": "暴击率",
+    "Crit Damage": "暴击伤害",
+    "s": "秒",
+    "Enderman Slayer": "末影人杀手",
+    "Shortbow": "短弓"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

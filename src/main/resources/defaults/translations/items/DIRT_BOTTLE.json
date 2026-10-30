@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": "DIRT_BOTTLE",
+  "_original_name": "Dirt Bottle",
+  "_original_lore": [
+    "Reforge Stone",
+    "Combinable in Anvil",
+    "",
+    "Applies the Dirty reforge when",
+    "combined with a Melee Weapon or",
+    "Fishing Rod.",
+    "",
+    "Grants the following stats that scale",
+    "with the item's rarity:",
+    "  Strength",
+    "  Attack Speed",
+    "  Ferocity",
+    "",
+    "Right-click to view rarity scaling!",
+    "",
+    "❣ Requires Mining Skill 10.",
+    "",
+    "UNCOMMON REFORGE STONE"
+  ],
+  "name": "泥土瓶",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Reforge Stone",
+        "Combinable in Anvil"
+      ],
+      "translation": "洗练石 可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Reforge Stone": "洗练石",
+        "Anvil": "铁砧",
+        "Reforge": "洗练"
+      }
+    },
+    {
+      "source": [
+        "Applies the Dirty reforge when",
+        "combined with a Melee Weapon or",
+        "Fishing Rod."
+      ],
+      "translation": "与近战武器或钓鱼竿结合时,施加脏污洗练.",
+      "styleMappings": {
+        "Melee Weapon": "近战武器",
+        "Fishing Rod": "钓鱼竿",
+        "reforge": "洗练",
+        "Dirty": "脏污",
+        "Fishing": "钓鱼",
+        "Weapon": "武器",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Grants the following stats that scale"
+      ],
+      "translation": "提供以下随物品稀有度提升的属性:",
+      "styleMappings": {
+        "Grants": "提供",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "with the item's rarity:"
+      ],
+      "translation": "物品稀有度提升的属性:",
+      "styleMappings": {
+        "item": "物品",
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "  Strength",
+        "  Attack Speed",
+        "  Ferocity"
+      ],
+      "translation": "   力量  攻击速度   残暴值",
+      "styleMappings": {
+        " Attack Speed": " 攻击速度",
+        "Ferocity": "残暴值",
+        "Strength": "力量",
+        "Speed": "速度",
+        "Attack Speed": "攻击速度"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view rarity scaling!"
+      ],
+      "translation": "右键查看各稀有度的属性!",
+      "styleMappings": {
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Mining Skill {{N0}}."
+      ],
+      "translation": "❣ 需要采矿技能 {{N0}}.",
+      "styleMappings": {
+        "Mining Skill": "采矿技能",
+        "Requires": "需要",
+        "Mining": "采矿",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON REFORGE STONE"
+      ],
+      "translation": "罕见 洗练 石",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

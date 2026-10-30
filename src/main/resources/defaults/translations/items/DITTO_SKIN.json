@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "id": "DITTO_SKIN",
+  "_original_name": "Ditto Skin",
+  "_original_lore": [
+    "Spawn an NPC with the captured skin.",
+    "",
+    "Ability: Copycat  RIGHT CLICK",
+    "Click on a player to copy their skin",
+    "to a placeable NPC.",
+    "Cooldown: 10s",
+    "",
+    "Requires Ⓑ Bingo Rank IV!",
+    "EPIC COSMETIC"
+  ],
+  "name": "百变怪皮肤",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Spawn an NPC with the captured skin."
+      ],
+      "translation": "生成一个带有已捕获皮肤的人物.",
+      "styleMappings": {
+        "Spawn": "生成"
+      }
+    },
+    {
+      "source": [
+        "Ability: Copycat  RIGHT CLICK"
+      ],
+      "translation": "技能:模仿  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Click on a player to copy their skin",
+        "to a placeable NPC."
+      ],
+      "translation": "点击一名玩家,将其皮肤复制到可放置的人物上.",
+      "styleMappings": {
+        "player": "玩家"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "Requires Ⓑ Bingo Rank IV!"
+      ],
+      "translation": "需要 Ⓑ 宾果等级 IV!",
+      "styleMappings": {
+        "Bingo Rank IV": "宾果等级 IV",
+        "Requires": "需要",
+        "Bingo": "宾果"
+      }
+    },
+    {
+      "source": [
+        "EPIC COSMETIC"
+      ],
+      "translation": "史诗外观",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

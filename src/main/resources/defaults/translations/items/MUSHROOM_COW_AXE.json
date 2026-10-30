@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "MUSHROOM_COW_AXE",
+  "_original_name": "Advanced Mooshroom Axe",
+  "_original_lore": [
+    "Damage: +20",
+    "",
+    "Mooshrooms killed with this drop 2",
+    "additional Red Mushroom and Leather.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Farming Skill 15.",
+    "UNCOMMON SWORD"
+  ],
+  "name": "高级哞菇斧",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Mooshrooms killed with this drop {{N0}}",
+        "additional Red Mushroom and Leather."
+      ],
+      "translation": "用此斧击杀哞菇时额外掉落 {{N0}} 个红色蘑菇和皮革.",
+      "styleMappings": {
+        "Red Mushroom": "红色蘑菇",
+        "Mooshrooms": "哞菇",
+        "additional": "额外",
+        "Leather": "皮革",
+        "Mushroom": "蘑菇"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Farming Skill {{N0}}."
+      ],
+      "translation": "❣ 需要农业技能 {{N0}}.",
+      "styleMappings": {
+        "Farming Skill": "农业技能",
+        "Requires": "需要",
+        "Farming": "农业",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON SWORD"
+      ],
+      "translation": "罕见剑",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Axe": "斧"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": "ZOMBIE_KNIGHT_LEGGINGS",
+  "_original_name": "Zombie Knight Leggings",
+  "_original_lore": [
+    "Gear Score: 195",
+    "Defense: +85",
+    "Strength: +15",
+    "Speed: +5",
+    "",
+    "Full Set Bonus: Zombie Knight (0/4)",
+    "Gains +50 Defense when used with",
+    "the Zombie Knight Sword",
+    "",
+    "This item is Undead ༕!",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Catacombs Skill 14.",
+    "EPIC DUNGEON LEGGINGS"
+  ],
+  "name": "僵尸骑士护腿",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Zombie Knight ({{N0}}/{{N1}})"
+      ],
+      "translation": "套装效果: 僵尸骑士 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Full Set Bonus": "套装效果",
+        "Zombie Knight": "僵尸骑士",
+        "Zombie": "僵尸"
+      }
+    },
+    {
+      "source": [
+        "Gains {{N0}} Defense when used with",
+        "the Zombie Knight Sword"
+      ],
+      "translation": "与僵尸骑士剑一同使用时获得 {{N0}} 防御",
+      "styleMappings": {
+        "Zombie Knight Sword": "僵尸骑士剑",
+        " Defense": " 防御",
+        "Gains": "获得",
+        "Defense": "防御",
+        "Zombie": "僵尸",
+        "Sword": "剑",
+        "when": "时",
+        "Zombie Knight": "僵尸骑士"
+      }
+    },
+    {
+      "source": [
+        "This item is Undead ༕!"
+      ],
+      "translation": "该物品为亡灵 ༕!",
+      "styleMappings": {
+        "item": "物品",
+        "Undead": "亡灵"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Catacombs Skill {{N0}}."
+      ],
+      "translation": "❣ 需要地牢技能 {{N0}}.",
+      "styleMappings": {
+        "Requires": "需要",
+        "Catacombs": "地牢",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC DUNGEON LEGGINGS"
+      ],
+      "translation": "史诗地牢护腿",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Zombie Knight": "僵尸骑士",
+    "Leggings": "护腿",
+    "Zombie": "僵尸"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

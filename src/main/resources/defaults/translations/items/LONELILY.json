@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "LONELILY",
+  "_original_name": "Lonelily",
+  "_original_lore": [
+    "A delicate flower that only blooms",
+    "when left alone, thriving in the",
+    "stillness of its own space.",
+    "",
+    "Complete Visitor Beth's quest to",
+    "Analyze this crop!",
+    "",
+    "COMMON MUTATION"
+  ],
+  "name": "孤百合",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A delicate flower that only blooms",
+        "when left alone, thriving in the",
+        "stillness of its own space."
+      ],
+      "translation": "一朵娇嫩的花,只有在独处时才会绽放,在属于自己的静谧空间中茁壮成长.",
+      "styleMappings": {
+        "when": "时",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Complete Visitor Beth's quest to",
+        "Analyze this crop!"
+      ],
+      "translation": "完成访客 Beth 的任务来分析这种作物!",
+      "styleMappings": {
+        "Visitor": "访客",
+        "Beth's": "Beth 的",
+        "Analyze": "分析"
+      }
+    },
+    {
+      "source": [
+        "COMMON MUTATION"
+      ],
+      "translation": "普通变异",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

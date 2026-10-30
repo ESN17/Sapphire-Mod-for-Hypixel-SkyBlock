@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "BLADESOUL_MINIBOSS",
+  "_original_name": "Bladesoul (Miniboss)",
+  "_original_lore": [
+    "They also call themselves \"the",
+    "Twins\".",
+    "",
+    "❤ Health: 50,000,000"
+  ],
+  "name": "剑魂 (小头目)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "They also call themselves \"the",
+        "Twins\"."
+      ],
+      "translation": "他们也自称\"双子\".",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Miniboss": "小头目",
+    "(Miniboss)": "(小头目)"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "ISOPOD_HUSK",
+  "_original_name": "Isopod Husk",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Consume this item to permanently",
+    "gain +1 Respiration.",
+    "",
+    "You can only consume 5 of this item",
+    "before the scratching at the back",
+    "of your throat becomes too much to",
+    "ignore.",
+    "",
+    "Right-click to consume!",
+    "",
+    "EPIC"
+  ],
+  "name": "等足虫壳",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Consume this item to permanently",
+        "gain {{N0}} Respiration."
+      ],
+      "translation": "消耗此物品以永久获得 {{N0}} 水下呼吸.",
+      "styleMappings": {
+        "Respiration": "水下呼吸",
+        "permanently": "永久",
+        "item": "物品",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "You can only consume {{N0}} of this item",
+        "before the scratching at the back",
+        "of your throat becomes too much to",
+        "ignore."
+      ],
+      "translation": "你最多只能消耗 {{N0}} 个此物品,之后喉咙深处的瘙痒将变得难以忽视.",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "GARDEN_SACK",
+  "_original_name": "Garden Sack",
+  "_original_lore": [
+    "Holds items commonly found in the",
+    "Garden! Items you pickup go directly",
+    "into your sacks.",
+    "",
+    "Capacity: 20,160 of each item",
+    "Multiple sacks sum their capacity!",
+    "",
+    "Right Click to open!",
+    "",
+    "EPIC SACK"
+  ],
+  "name": "花园收纳袋",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Holds items commonly found in the",
+        "Garden! Items you pickup go directly",
+        "into your sacks."
+      ],
+      "translation": "存放花园中常见的物品!你拾取的物品会直接进入你的收纳袋.",
+      "styleMappings": {
+        "Garden": "花园",
+        "items": "物品",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Capacity: {{N0}} of each item"
+      ],
+      "translation": "容量: 每种物品 {{N0}} 个",
+      "styleMappings": {
+        "Capacity": "容量",
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Multiple sacks sum their capacity!"
+      ],
+      "translation": "多个袋子会叠加其容量!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right Click to open!"
+      ],
+      "translation": "右键点击打开!",
+      "styleMappings": {
+        "Click to open!": "点击打开!",
+        "Right Click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "EPIC SACK"
+      ],
+      "translation": "史诗收纳袋",
+      "styleMappings": {
+        "EPIC SACK": "史诗收纳袋",
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Garden": "花园"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

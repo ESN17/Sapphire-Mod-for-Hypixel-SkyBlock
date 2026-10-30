@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "REFINED_BOTTLE_OF_JYRRE",
+  "_original_name": "Refined Bottle of Jyrre",
+  "_original_lore": [
+    "Consume to gain +300 Intelligence",
+    "for 60m!",
+    "",
+    "Aged Like Fine Jyrre",
+    "Consuming this grants permanent",
+    "+1 Intelligence.",
+    "",
+    "You may consume 5 of these before",
+    "they lose their magical energy.",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "精炼 杰瑞 瓶",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consume to gain {{N0}} Intelligence",
+        "for {{N1}}m!"
+      ],
+      "translation": "饮用后获得 {{N0}} 智力,持续 {{N1}} 分钟!",
+      "styleMappings": {
+        "Intelligence": "智力",
+        "for": "持续",
+        "": "",
+        "{{N1}}m": "{{N1}} 分钟",
+        " Intelligence": " 智力",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "Aged Like Fine Jyrre"
+      ],
+      "translation": "陈年杰瑞佳酿",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Consuming this grants permanent",
+        "{{N0}} Intelligence."
+      ],
+      "translation": "饮用后永久获得 {{N0}} 智力.",
+      "styleMappings": {
+        "Intelligence": "智力",
+        "": "",
+        " Intelligence": " 智力"
+      }
+    },
+    {
+      "source": [
+        "You may consume {{N0}} of these before",
+        "they lose their magical energy."
+      ],
+      "translation": "在失去魔法能量前,你最多可饮用 {{N0}} 个.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Refined": "精炼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

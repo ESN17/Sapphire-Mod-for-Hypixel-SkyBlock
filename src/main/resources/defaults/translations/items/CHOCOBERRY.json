@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "CHOCOBERRY",
+  "_original_name": "Chocoberry",
+  "_original_lore": [
+    "It looks incredibly tasty, taking a",
+    "small bite wouldn't hurt the plant,",
+    "right? Right?",
+    "",
+    "Complete Visitor Beth's quest to",
+    "Analyze this crop!",
+    "",
+    "UNCOMMON MUTATION"
+  ],
+  "name": "巧克力浆果",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "It looks incredibly tasty, taking a",
+        "small bite wouldn't hurt the plant,",
+        "right? Right?"
+      ],
+      "translation": "它看起来极其美味,轻轻咬一小口应该不会伤到植物吧?对吧?",
+      "styleMappings": {
+        "plant": "植物"
+      }
+    },
+    {
+      "source": [
+        "Complete Visitor Beth's quest to",
+        "Analyze this crop!"
+      ],
+      "translation": "完成访客 Beth 的任务来分析这种作物!",
+      "styleMappings": {
+        "Visitor": "访客",
+        "Beth's": "Beth 的",
+        "Analyze": "分析"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON MUTATION"
+      ],
+      "translation": "罕见变异",
+      "styleMappings": {
+        "UNCOMMON MUTATION": "罕见变异",
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

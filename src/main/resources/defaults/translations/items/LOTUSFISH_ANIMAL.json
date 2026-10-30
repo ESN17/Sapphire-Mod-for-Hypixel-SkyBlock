@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "LOTUSFISH_ANIMAL",
+  "_original_name": "Lotusfish (Animal)",
+  "_original_lore": [
+    "Named by the first man to discover",
+    "the island, this species is endemic to",
+    "the Atoll.",
+    "",
+    "Mob Types: ⚓ Aquatic, ☮ Animal",
+    "❤ Health: 250"
+  ],
+  "name": "莲花鱼 (动物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Named by the first man to discover",
+        "the island, this species is endemic to",
+        "the Atoll."
+      ],
+      "translation": "由发现该岛的第一人命名,此物种为环礁特有.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Mob Types: ⚓ Aquatic, ☮ Animal"
+      ],
+      "translation": "生物类型: ⚓ 水生, ☮ 动物",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Aquatic": "水生",
+        "Animal": "动物"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Animal": "动物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

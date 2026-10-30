@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "id": "ANCIENT_ELEVATOR",
+  "_original_name": "Ancient Elevator",
+  "_original_lore": [
+    "Manual operation.",
+    "",
+    "To: [ADMIN] Minikloon",
+    "From: [ADMIN] Minikloon",
+    "",
+    "Edition #1",
+    "September 2020",
+    "",
+    "X Rift-Transferable X",
+    "SPECIAL"
+  ],
+  "name": "远古电梯",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Manual operation."
+      ],
+      "translation": "手动操作.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "To: [ADMIN] Minikloon"
+      ],
+      "translation": "收件人: [管理员] Minikloon",
+      "styleMappings": {
+        "[ADMIN] Minikloon": "[管理员] Minikloon"
+      }
+    },
+    {
+      "source": [
+        "From: [ADMIN] Minikloon"
+      ],
+      "translation": "发件人: [管理员] Minikloon",
+      "styleMappings": {
+        "[ADMIN] Minikloon": "[管理员] Minikloon"
+      }
+    },
+    {
+      "source": [
+        "Edition #{{N0}}",
+        "September {{N1}}"
+      ],
+      "translation": "第 {{N0}} 版 九月 {{N1}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "X Rift-Transferable X"
+      ],
+      "translation": "X 可转移至裂隙 X",
+      "styleMappings": {
+        "Rift-Transferable": "可转移至裂隙",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Ancient": "远古"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

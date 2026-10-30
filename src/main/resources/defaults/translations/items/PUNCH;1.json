@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "id": "PUNCH;1",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Punch I",
+    "Increases arrow knockback by",
+    "3 blocks.",
+    "",
+    "Source:",
+    " - Enchantment Table (I-II)",
+    "",
+    "Applied To:",
+    " - Bow",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Punch I"
+      ],
+      "translation": "冲击 I",
+      "styleMappings": {
+        "Punch": "冲击"
+      }
+    },
+    {
+      "source": [
+        "Increases arrow knockback by",
+        "{{N0}} blocks."
+      ],
+      "translation": "使箭矢击退距离增加 {{N0}} 格.",
+      "styleMappings": {
+        "Increases": "增加",
+        "knockback": "击退",
+        "blocks": "格"
+      }
+    },
+    {
+      "source": [
+        "Source:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchantment Table (I-II)"
+      ],
+      "translation": " - 附魔台 (一-二)",
+      "styleMappings": {
+        "Enchantment Table": "附魔台",
+        "II": "二",
+        "Enchantment": "附魔"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Bow"
+      ],
+      "translation": " - 弓",
+      "styleMappings": {
+        "Bow": "弓"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

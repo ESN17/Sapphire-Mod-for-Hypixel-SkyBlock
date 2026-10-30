@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "id": "ARMADILLO_MASK",
+  "_original_name": "Armadillo Mask",
+  "_original_lore": [
+    "Health: +1",
+    "",
+    "Ability: Soiling! Soiling! Soiling! ",
+    "Grants +50 Block Fortune.",
+    "",
+    "What does the Armadillo say?!",
+    "",
+    "This item can be reforged!",
+    "RARE CARNIVAL MASK"
+  ],
+  "name": "穿山甲面具",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Ability: Soiling! Soiling! Soiling! "
+      ],
+      "translation": "技能:弄脏!弄脏!弄脏! ",
+      "styleMappings": {
+        "Ability": "技能"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Block Fortune."
+      ],
+      "translation": "提供 {{N0}} 方块幸运.",
+      "styleMappings": {
+        "Block Fortune": "方块幸运",
+        "Grants": "提供",
+        "Fortune": "幸运"
+      }
+    },
+    {
+      "source": [
+        "What does the Armadillo say?!"
+      ],
+      "translation": "穿山甲会说什么?!",
+      "styleMappings": {
+        "Armadillo": "穿山甲"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "RARE CARNIVAL MASK"
+      ],
+      "translation": "稀有嘉年华面具",
+      "styleMappings": {
+        "RARE CARNIVAL MASK": "稀有嘉年华面具",
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Armadillo Mask": "穿山甲面具",
+    "Armadillo": "穿山甲",
+    "Mask": "面具"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

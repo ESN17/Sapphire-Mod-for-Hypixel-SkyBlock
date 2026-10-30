@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "POWDER_GHAST_MONSTER",
+  "_original_name": "Powder Ghast (Monster)",
+  "_original_lore": [
+    "The Powder Ghast is a mob that spawns,",
+    "randomly in Dwarven Mines. It's not a part of the regular cycle,",
+    "and instead is a random occurrence. The Powder Ghast can spawn",
+    "in one of the following locations: Divan's Gateway,",
+    "Rampart's Quarry, Cliffside Veinsand Forge Basin. ",
+    "The Powder Ghast is immune to melee damage. Players will receive,",
+    "60 Mithril Powder for every hit that lands on its hitbox.",
+    "",
+    "Mob Types: ⚂ Cubic, ✈ Airborne, ⛨ Shielded",
+    "❤ Health: 50(hits)"
+  ],
+  "name": "火药恶魂 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Powder Ghast is a mob that spawns,",
+        "randomly in Dwarven Mines. It's not a part of the regular cycle,",
+        "and instead is a random occurrence. The Powder Ghast can spawn"
+      ],
+      "translation": "粉末恶魂是一种随机生成于矮人矿坑的怪物.它不属于常规循环,而是随机出现.粉末恶魂可以生成",
+      "styleMappings": {
+        "s": "现",
+        "Dwarven Mines": "矮人矿坑",
+        "spawn": "出现",
+        "Powder": "粉末"
+      }
+    },
+    {
+      "source": [
+        "in one of the following locations: Divan's Gateway,"
+      ],
+      "translation": "位于以下地点之一: 迪万之门,",
+      "styleMappings": {
+        "Divan's Gateway": "迪万之门",
+        "Divan": "迪万"
+      }
+    },
+    {
+      "source": [
+        "Rampart's Quarry, Cliffside Veinsand Forge Basin. "
+      ],
+      "translation": "壁垒采石场、崖边矿脉和熔炉盆地.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "The Powder Ghast is immune to melee damage. Players will receive,",
+        "{{N0}} Mithril Powder for every hit that lands on its hitbox."
+      ],
+      "translation": "粉末恶魂免疫近战伤害.玩家每次命中其判定箱将获得 {{N0}} 秘银粉末.",
+      "styleMappings": {
+        "Mithril Powder": "秘银粉末",
+        "melee damage": "近战伤害",
+        "immune": "免疫",
+        "damage": "伤害",
+        "for": "获得",
+        "hit": "命中",
+        "Mithril": "秘银",
+        "Powder": "粉末"
+      }
+    },
+    {
+      "source": [
+        "Mob Types: ⚂ Cubic, ✈ Airborne, ⛨ Shielded"
+      ],
+      "translation": "生物类型: ⚂ 立方体, ✈ 空中, ⛨ 护盾",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Airborne": "空中",
+        "Shielded": "护盾",
+        "Cubic": "立方体"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}(hits)"
+      ],
+      "translation": "❤ 生命值: {{N0}}(次)",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Powder Ghast": "火药恶魂",
+    "(Monster)": "(怪物)",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

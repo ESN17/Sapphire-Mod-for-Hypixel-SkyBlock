@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "id": "PLANT_DIAGNOSTICS_TOOL",
+  "_original_name": "Plant Diagnostics Tool",
+  "_original_lore": [
+    "Ability: Analyze  RIGHT CLICK",
+    "View the detailed properties of a",
+    "plant inside the Greenhouse.",
+    "",
+    "Ability: Sanity Check  LEFT CLICK",
+    "Click a block in your Greenhouse to",
+    "find out what Mutations can grow",
+    "there.",
+    "",
+    "RARE"
+  ],
+  "name": "植物诊断工具",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Analyze  RIGHT CLICK"
+      ],
+      "translation": "能力:分析  右键点击",
+      "styleMappings": {
+        "Ability: Analyze": "能力:分析",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "能力",
+        "Analyze": "分析",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "View the detailed properties of a",
+        "plant inside the Greenhouse."
+      ],
+      "translation": "查看温室中植物的详细属性.",
+      "styleMappings": {
+        "Greenhouse": "温室",
+        "plant": "植物"
+      }
+    },
+    {
+      "source": [
+        "Ability: Sanity Check  LEFT CLICK"
+      ],
+      "translation": "能力:理智检查  左键点击",
+      "styleMappings": {
+        "Ability: Sanity Check": "能力:理智检查",
+        "LEFT CLICK": "左键点击",
+        "Ability": "能力",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Click a block in your Greenhouse to",
+        "find out what Mutations can grow",
+        "there."
+      ],
+      "translation": "点击温室中的一个方块,查看那里可以生长哪些突变.",
+      "styleMappings": {
+        "Greenhouse": "温室",
+        "Mutations": "突变"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

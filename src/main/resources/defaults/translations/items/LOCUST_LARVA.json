@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "LOCUST_LARVA",
+  "_original_name": "Locust Larva",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Consume this while on your Garden",
+    "to add +1 Pest to your vacuum bag.",
+    "",
+    "Right-click to consume!",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "蝗虫幼虫",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Consume this while on your Garden",
+        "to add {{N0}} Pest to your vacuum bag."
+      ],
+      "translation": "在花园中食用,可为你的真空袋添加 {{N0}} 只害虫.",
+      "styleMappings": {
+        "Garden": "花园",
+        "Pest": "害虫"
+      }
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Locust": "蝗虫"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

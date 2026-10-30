@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "id": "DIAMOND_NECRON_HEAD",
+  "_original_name": "Diamond Necron Head",
+  "_original_lore": [
+    "Gear Score: 420",
+    "Health: +220",
+    "Defense: +80",
+    "Strength: +40",
+    "",
+    "Obtained from killing Maxor, Storm,",
+    "Goldor, and Necron in The Catacombs",
+    "lots of times. Grants 2x stats on The",
+    "Catacombs Floor VII.",
+    "",
+    "Disciples of the Wither King. Inherited",
+    "the Catacombs eons ago. Never",
+    "defeated, feared by anything living",
+    "AND dead.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Maxor, Storm, Goldor, and Necron",
+    "Collection 7.",
+    "* Co-op Soulbound *",
+    "SPECIAL DUNGEON HELMET"
+  ],
+  "name": "钻石死灵头颅",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Obtained from killing Maxor, Storm,",
+        "Goldor, and Necron in The Catacombs",
+        "lots of times. Grants {{N0}}x stats on The",
+        "Catacombs Floor VII."
+      ],
+      "translation": "多次在地牢中击杀麦克瑟、风暴、戈尔多和奈克隆获得.在地牢第七层提供 {{N0}}倍属性.",
+      "styleMappings": {
+        "Maxor, Storm, Goldor, and Necron": "麦克瑟、风暴、戈尔多和奈克隆",
+        "The Catacombs Floor VII": "地牢第七层",
+        "The Catacombs": "地牢",
+        "stats": "属性",
+        "{{N0}}x": "{{N0}}倍",
+        "Catacombs": "地牢",
+        "Storm": "风暴",
+        "Necron": "奈克隆",
+        "Goldor": "戈尔多",
+        "Maxor": "麦克瑟"
+      }
+    },
+    {
+      "source": [
+        "Disciples of the Wither King. Inherited",
+        "the Catacombs eons ago. Never",
+        "defeated, feared by anything living",
+        "AND dead."
+      ],
+      "translation": "凋灵之王的门徒.很久以前继承了地牢.从未被击败,无论生者还是亡者都畏惧他们.",
+      "styleMappings": {
+        "Disciples of the Wither King": "凋灵之王的门徒",
+        "the Catacombs": "地牢",
+        "Catacombs": "地牢",
+        "Wither": "凋灵"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Maxor, Storm, Goldor, and Necron"
+      ],
+      "translation": "❣ 需要麦克瑟、风暴、戈尔多和奈克隆",
+      "styleMappings": {
+        "Requires Maxor, Storm, Goldor, and Necron": "需要麦克瑟、风暴、戈尔多和奈克隆",
+        "Requires": "需要",
+        "Storm": "风暴",
+        "Necron": "奈克隆",
+        "Maxor, Storm, Goldor, and Necron": "麦克瑟、风暴、戈尔多和奈克隆",
+        "Goldor": "戈尔多",
+        "Maxor": "麦克瑟"
+      }
+    },
+    {
+      "source": [
+        "Collection {{N0}}."
+      ],
+      "translation": "收藏 {{N0}}.",
+      "styleMappings": {
+        "Collection": "收藏"
+      }
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL DUNGEON HELMET"
+      ],
+      "translation": "特殊地牢头盔",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Necron": "死灵",
+    "Diamond Necron Head": "钻石死灵头颅"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "HEAVY_BOOTS",
+  "_original_name": "Heavy Boots",
+  "_original_lore": [
+    "Gear Score: 124",
+    "Defense: +57",
+    "Speed: -5",
+    "",
+    "Full Set Bonus: Vindicate (0/4)",
+    "Grants +1 walk speed for every 50",
+    "defense that you have.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Catacombs Skill 2.",
+    "RARE DUNGEON BOOTS"
+  ],
+  "name": "重型靴子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Vindicate ({{N0}}/{{N1}})"
+      ],
+      "translation": "全套加成: 辩护 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Full Set Bonus": "全套加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} walk speed for every {{N1}}",
+        "defense that you have."
+      ],
+      "translation": "每拥有 {{N1}} 点防御,获得 {{N0}} 行走速度.",
+      "styleMappings": {
+        "walk speed": "行走速度",
+        "defense": "防御",
+        "Grants": "获得",
+        "speed": "速度",
+        "for": "获得"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Catacombs Skill {{N0}}."
+      ],
+      "translation": "❣ 需要地牢技能 {{N0}}.",
+      "styleMappings": {
+        "Requires": "需要",
+        "Catacombs": "地牢",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "RARE DUNGEON BOOTS"
+      ],
+      "translation": "稀有地牢靴子",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Boots": "靴子"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

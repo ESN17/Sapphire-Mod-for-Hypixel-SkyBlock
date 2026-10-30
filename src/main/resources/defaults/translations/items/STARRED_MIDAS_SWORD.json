@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "STARRED_MIDAS_SWORD",
+  "_original_name": " Midas' Sword",
+  "_original_lore": [
+    "Damage: +170",
+    "Gemstones: [] [⚔]",
+    "",
+    "Ability: Greed ",
+    "The strength and damage bonus of",
+    "this item is dependent on the price",
+    "paid for it at the Dark Auction!",
+    "The maximum bonus of this item is 225",
+    "if the bid was 250,000,000 Coins or",
+    "higher!",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Combat Skill 20.",
+    "LEGENDARY SWORD"
+  ],
+  "name": " 米达斯之剑",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [] [⚔]"
+      ],
+      "translation": "宝石: [] [⚔]",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石",
+        "] [": "] ["
+      }
+    },
+    {
+      "source": [
+        "Ability: Greed "
+      ],
+      "translation": "技能: 贪婪 ",
+      "styleMappings": {
+        "Ability: Greed": "技能: 贪婪",
+        "Ability": "技能"
+      }
+    },
+    {
+      "source": [
+        "The strength and damage bonus of",
+        "this item is dependent on the price",
+        "paid for it at the Dark Auction!"
+      ],
+      "translation": "该物品的力量和伤害加成取决于在暗黑拍卖行中为其支付的价格!",
+      "styleMappings": {
+        "Dark Auction": "暗黑拍卖行",
+        "strength": "力量",
+        "damage": "伤害",
+        "item": "物品",
+        "Auction": "拍卖"
+      }
+    },
+    {
+      "source": [
+        "The maximum bonus of this item is {{N0}}",
+        "if the bid was {{N1}} Coins or",
+        "higher!"
+      ],
+      "translation": "如果出价为 {{N1}} 金币或更高, 该物品的最大加成为 {{N0}}!",
+      "styleMappings": {
+        "Coins": "金币",
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY SWORD"
+      ],
+      "translation": "传说剑",
+      "styleMappings": {
+        "LEGENDARY": "传说",
+        "LEGENDARY SWORD": "传说剑"
+      }
+    }
+  ],
+  "styleMappings": {
+    " Midas' Sword": " 米达斯之剑",
+    "Sword": "剑",
+    "Midas' Sword": "米达斯之剑"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_name_revision": "2026-10-17-slayer-rpg"
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "WOODEN_BAIT",
+  "_original_name": "Wooden Bait",
+  "_original_lore": [
+    "Fishing Bait",
+    "Consumes on Catch",
+    "",
+    "Ensures your next GOOD CATCH",
+    "hooks a Rare Fish Shard.",
+    "Will not be consumed if no Rare",
+    "Shards are available to catch.",
+    "",
+    "UNCOMMON BAIT"
+  ],
+  "name": "木质鱼饵",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Fishing Bait",
+        "Consumes on Catch"
+      ],
+      "translation": "钓鱼鱼饵 钓起时消耗",
+      "styleMappings": {
+        "Consumes on Catch": "钓起时消耗",
+        "Fishing Bait": "钓鱼鱼饵",
+        "Fishing": "钓鱼",
+        "Bait": "鱼饵"
+      }
+    },
+    {
+      "source": [
+        "Ensures your next GOOD CATCH",
+        "hooks a Rare Fish Shard."
+      ],
+      "translation": "确保你的下一次 优质捕获 钓上稀有鱼类碎片.",
+      "styleMappings": {
+        "Rare Fish Shard": "稀有鱼类碎片",
+        "GOOD CATCH": "优质捕获",
+        "Shard": "碎片",
+        "Fish": "鱼",
+        "Rare": "稀有"
+      }
+    },
+    {
+      "source": [
+        "Will not be consumed if no Rare",
+        "Shards are available to catch."
+      ],
+      "translation": "若没有可捕获的稀有碎片,则不会被消耗.",
+      "styleMappings": {
+        "Rare Shards": "稀有碎片",
+        "Rare": "稀有"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON BAIT"
+      ],
+      "translation": "罕见鱼饵",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Bait": "鱼饵"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "SKYBLOCK_SILVERFISH",
+  "_original_name": "Silverfish (Rift)",
+  "_original_lore": [
+    "Used for NEU NPC-Shops",
+    "Can be collected with the",
+    "Turbomax Vacuum Cleaner.",
+    "",
+    "a SPECIAL a"
+  ],
+  "name": "蠹虫 (裂隙)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Used for NEU NPC-Shops",
+        "Can be collected with the",
+        "Turbomax Vacuum Cleaner."
+      ],
+      "translation": "用于物品百科人物商店 可用涡轮增压吸尘器收集.",
+      "styleMappings": {
+        "Turbomax Vacuum Cleaner": "涡轮增压吸尘器",
+        "Shops": "商店"
+      }
+    },
+    {
+      "source": [
+        "a SPECIAL a"
+      ],
+      "translation": "一个 特殊 一个",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Rift": "裂隙",
+    "Silverfish": "蠹虫"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

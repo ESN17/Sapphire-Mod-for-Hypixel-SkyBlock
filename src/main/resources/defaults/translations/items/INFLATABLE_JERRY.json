@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "INFLATABLE_JERRY",
+  "_original_name": "Inflatable Jerry",
+  "_original_lore": [
+    "May it be a light to you in dark",
+    "places, when all other lights go out.",
+    "",
+    "Dungeons only!",
+    "",
+    "COMMON DUNGEON ITEM"
+  ],
+  "name": "充气杰瑞",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "May it be a light to you in dark",
+        "places, when all other lights go out."
+      ],
+      "translation": "愿它在黑暗中为你照亮前路,当所有其他光芒都熄灭之时.",
+      "styleMappings": {
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Dungeons only!"
+      ],
+      "translation": "仅限地牢使用!",
+      "styleMappings": {
+        "Dungeons": "地牢"
+      }
+    },
+    {
+      "source": [
+        "COMMON DUNGEON ITEM"
+      ],
+      "translation": "普通 地牢 物品",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Jerry": "杰瑞"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

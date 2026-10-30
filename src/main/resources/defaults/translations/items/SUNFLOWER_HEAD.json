@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "id": "SUNFLOWER_HEAD",
+  "_original_name": "Sunflower Head",
+  "_original_lore": [
+    "Farming Fortune: +10",
+    "",
+    "Ability: Sparkle  RIGHT CLICK",
+    "Spread happiness to someone one sparkle at",
+    "a time.",
+    "Cooldown: 5s",
+    "",
+    "This item can be reforged!",
+    "UNCOMMON HELMET"
+  ],
+  "name": "向日葵头",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Farming Fortune: {{N0}}"
+      ],
+      "translation": "农业幸运: {{N0}}",
+      "styleMappings": {
+        "Farming Fortune": "农业幸运",
+        "Fortune": "幸运",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "Ability: Sparkle  RIGHT CLICK"
+      ],
+      "translation": "技能: 闪耀  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "Sparkle": "闪耀",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Spread happiness to someone one sparkle at",
+        "a time."
+      ],
+      "translation": "一次一点闪光,将快乐传递给他人.",
+      "styleMappings": {
+        "sparkle": "闪光"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON HELMET"
+      ],
+      "translation": "罕见 头盔",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sunflower": "向日葵"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

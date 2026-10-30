@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "DYE_BLACK_OPAL",
+  "_original_name": "Black Opal Dye",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Animates the color of an armor piece",
+    "between #0B1C5D and #0E1B5C!",
+    "",
+    "This dye also displays a special",
+    "particle effect when equipped!",
+    "",
+    "MYTHIC DYE"
+  ],
+  "name": "黑欧泊染料",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Animates the color of an armor piece",
+        "between #{{N0}}B{{N1}}C{{N2}}D and #{{N3}}E{{N4}}B{{N5}}C!"
+      ],
+      "translation": "使一件盔甲的颜色在 #{{N0}}B{{N1}}C{{N2}}D 和 #{{N3}}E{{N4}}B{{N5}}C 之间渐变!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "This dye also displays a special",
+        "particle effect when equipped!"
+      ],
+      "translation": "装备此染料时还会显示特殊的粒子效果!",
+      "styleMappings": {
+        "special particle effect": "特殊的粒子效果",
+        "equipped": "装备",
+        "special": "特殊",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "MYTHIC DYE"
+      ],
+      "translation": "神话染料",
+      "styleMappings": {
+        "MYTHIC DYE": "神话染料",
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Opal": "欧泊"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

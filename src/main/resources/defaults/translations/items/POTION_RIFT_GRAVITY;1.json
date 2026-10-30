@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_RIFT_GRAVITY;1",
+  "_original_name": "Gravity I Splash Potion",
+  "_original_lore": [
+    "",
+    "Gravity I (10:00)",
+    "Increases Gravity around you,",
+    "spawning Puffs more often.",
+    "",
+    "COMMON"
+  ],
+  "name": "重力 I 喷溅药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gravity I ({{N0}}:{{N1}})"
+      ],
+      "translation": "重力 I ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Gravity I": "重力 I",
+        "Gravity": "重力"
+      }
+    },
+    {
+      "source": [
+        "Increases Gravity around you,",
+        "spawning Puffs more often."
+      ],
+      "translation": "增加你周围的重力,更频繁地生成浮团.",
+      "styleMappings": {
+        "Increases": "增加",
+        "Gravity": "重力",
+        "Puffs": "浮团"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Gravity I": "重力 I",
+    "Splash Potion": "喷溅药水",
+    "Gravity": "重力"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

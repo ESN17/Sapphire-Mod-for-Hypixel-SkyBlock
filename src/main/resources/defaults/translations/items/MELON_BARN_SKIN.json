@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "MELON_BARN_SKIN",
+  "_original_name": "Melon Barn Skin",
+  "_original_lore": [
+    "Consume this item to unlock the Melon",
+    "Barn Skin on The Garden!",
+    "",
+    "Click to consume!",
+    "",
+    "LEGENDARY COSMETIC"
+  ],
+  "name": "西瓜谷仓皮肤",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consume this item to unlock the Melon",
+        "Barn Skin on The Garden!"
+      ],
+      "translation": "消耗此物品以在花园解锁西瓜谷仓皮肤!",
+      "styleMappings": {
+        "Melon Barn Skin": "西瓜谷仓皮肤",
+        "The Garden": "花园",
+        "item": "物品",
+        "Garden": "花园",
+        "Melon": "西瓜",
+        "Barn Skin": "谷仓皮肤"
+      }
+    },
+    {
+      "source": [
+        "Click to consume!"
+      ],
+      "translation": "点击消耗!",
+      "styleMappings": {
+        "Click to consume!": "点击消耗!"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY COSMETIC"
+      ],
+      "translation": "传说外观",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Melon Barn Skin": "西瓜谷仓皮肤",
+    "Melon": "西瓜",
+    "Barn Skin": "谷仓皮肤"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

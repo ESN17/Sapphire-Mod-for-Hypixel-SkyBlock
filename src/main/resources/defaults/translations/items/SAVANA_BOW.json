@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "SAVANA_BOW",
+  "_original_name": "Savanna Bow",
+  "_original_lore": [
+    "Damage: +50",
+    "",
+    "All damage dealt with this bow is",
+    "doubled.",
+    "",
+    "This item can be reforged!",
+    "UNCOMMON BOW"
+  ],
+  "name": "热带草原弓",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "All damage dealt with this bow is",
+        "doubled."
+      ],
+      "translation": "使用此弓造成的所有伤害翻倍.",
+      "styleMappings": {
+        "doubled": "翻倍",
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON BOW"
+      ],
+      "translation": "罕见 弓",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Bow": "弓",
+    "Savanna": "热带草原"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

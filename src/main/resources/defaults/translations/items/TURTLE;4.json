@@ -1,0 +1,190 @@
+{
+  "schemaVersion": 1,
+  "id": "TURTLE;4",
+  "_original_name": "[Lvl {LVL}] Turtle",
+  "_original_lore": [
+    "Combat Pet",
+    "",
+    "Health: +{HEALTH}",
+    "Defense: +{DEFENSE}",
+    "True Defense: +{TRUE_DEFENSE}",
+    "",
+    "Turtle Tactics",
+    "Gain +{0}%  Defense and an",
+    "additional +10%  Defense when",
+    "standing still.",
+    "",
+    "Genius Amniote",
+    "Grants +{1}%  Defense to 4",
+    "players within 50 blocks of you.",
+    "",
+    "Unflippable",
+    "Gain immunity to knockback",
+    "",
+    "Turtle Shell",
+    "When under 40% maximum HP, you take",
+    "{2}% less damage. Gain +{3}",
+    "Vitality after taking 10 hits.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "LEGENDARY PET"
+  ],
+  "name": "[等级 {LVL}] 乌龟",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combat Pet"
+      ],
+      "translation": "战斗宠物",
+      "styleMappings": {
+        "Combat Pet": "战斗宠物",
+        "Combat": "战斗",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Health: +{{N0}}"
+      ],
+      "translation": "生命值: +{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: +{{N0}}"
+      ],
+      "translation": "防御力: +{{N0}}",
+      "styleMappings": {
+        "Defense": "防御力"
+      }
+    },
+    {
+      "source": [
+        "True Defense: +{{N0}}"
+      ],
+      "translation": "真实防御: +{{N0}}",
+      "styleMappings": {
+        "True Defense": "真实防御",
+        "Defense": "防御",
+        "True": "真实"
+      }
+    },
+    {
+      "source": [
+        "Turtle Tactics"
+      ],
+      "translation": "乌龟战术",
+      "styleMappings": {
+        "Turtle Tactics": "乌龟战术",
+        "Turtle": "乌龟"
+      }
+    },
+    {
+      "source": [
+        "Gain +{{N0}}%  Defense and an",
+        "additional {{N1}}  Defense when",
+        "standing still."
+      ],
+      "translation": "获得 +{{N0}}%  防御力,站立不动时额外获得 {{N1}}  防御力.",
+      "styleMappings": {
+        "additional": "额外",
+        " Defense": " 防御力",
+        "Gain": "获得",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Genius Amniote"
+      ],
+      "translation": "天才羊膜动物",
+      "styleMappings": {
+        "Genius Amniote": "天才羊膜动物"
+      }
+    },
+    {
+      "source": [
+        "Grants +{{N0}}%  Defense to {{N1}}",
+        "players within {{N2}} blocks of you."
+      ],
+      "translation": "为你周围 {{N2}} 格内的 {{N1}} 名玩家提供 +{{N0}}% 防御力.",
+      "styleMappings": {
+        " Defense": " 防御",
+        "Grants": "提供",
+        "blocks": "格",
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Unflippable"
+      ],
+      "translation": "无法掀翻",
+      "styleMappings": {
+        "Unflippable": "无法掀翻"
+      }
+    },
+    {
+      "source": [
+        "Gain immunity to knockback"
+      ],
+      "translation": "免疫击退",
+      "styleMappings": {
+        "immunity": "免疫",
+        "knockback": "击退"
+      }
+    },
+    {
+      "source": [
+        "Turtle Shell"
+      ],
+      "translation": "龟壳",
+      "styleMappings": {
+        "Turtle Shell": "龟壳"
+      }
+    },
+    {
+      "source": [
+        "When under {{N0}} maximum HP, you take",
+        "{{N1}}% less damage. Gain +{{N2}}",
+        "Vitality after taking {{N3}} hits."
+      ],
+      "translation": "当生命值低于 {{N0}} 时,你受到的伤害减少 {{N1}}%.受到 {{N3}} 次攻击后获得 +{{N2}} 生命回复.",
+      "styleMappings": {
+        "+{{N2}} Vitality": "+{{N2}} 生命回复",
+        "Vitality": "生命回复",
+        "damage": "伤害",
+        "Gain": "获得",
+        "HP": "生命值",
+        "less damage": "伤害减少"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY PET"
+      ],
+      "translation": "传说 宠物",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Turtle": "乌龟",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

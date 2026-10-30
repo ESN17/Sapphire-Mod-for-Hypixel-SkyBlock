@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "JUNGLE_KEY",
+  "_original_name": "Jungle Key",
+  "_original_lore": [
+    "Used to open the entrance to the",
+    "Jungle Temple.",
+    "",
+    "EPIC"
+  ],
+  "name": "丛林钥匙",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Used to open the entrance to the",
+        "Jungle Temple."
+      ],
+      "translation": "用于打开丛林神庙的入口.",
+      "styleMappings": {
+        "Jungle Temple": "丛林神庙",
+        "entrance": "入口",
+        "Jungle": "丛林"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Jungle": "丛林"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

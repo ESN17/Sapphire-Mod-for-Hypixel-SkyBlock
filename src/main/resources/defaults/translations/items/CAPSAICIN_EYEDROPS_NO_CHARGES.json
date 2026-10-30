@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "CAPSAICIN_EYEDROPS_NO_CHARGES",
+  "_original_name": "Capsaicin Eyedrops",
+  "_original_lore": [
+    "Right-click on an Inferno minion with",
+    "this item to boost its chances of",
+    "creating unique drops from",
+    "Hypergolic fuel by 30% for 24 hours.",
+    "",
+    "RARE"
+  ],
+  "name": "辣椒素眼药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Right-click on an Inferno minion with"
+      ],
+      "translation": "手持此物品右键点击地狱仆从,",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "this item to boost its chances of",
+        "creating unique drops from",
+        "Hypergolic fuel by {{N0}} for {{N1}} hours."
+      ],
+      "translation": "以将其从高能燃料中产生独特掉落物的几率提升 {{N0}},持续 {{N1}} 小时.",
+      "styleMappings": {
+        "Hypergolic": "高能",
+        "unique": "独特",
+        "hours": "小时",
+        "for": "持续"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "STOCK_OF_STONKS",
+  "_original_name": "Stock of Stonks",
+  "_original_lore": [
+    "Can be traded in to Liz when Diaz is",
+    "Mayor for special items!",
+    "",
+    "Started as a shady venture by an",
+    "estranged comrade of Diaz's. She",
+    "later adopted it herself for",
+    "personal use to fuel her candidacy.",
+    "",
+    "EPIC"
+  ],
+  "name": "股票凭证",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Can be traded in to Liz when Diaz is",
+        "Mayor for special items!"
+      ],
+      "translation": "当迪亚兹担任市长时,可向莉兹兑换特殊物品!",
+      "styleMappings": {
+        "special items": "特殊物品",
+        "Mayor": "市长",
+        "Diaz": "迪亚兹",
+        "Liz": "莉兹",
+        "items": "物品",
+        "special": "特殊",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Started as a shady venture by an",
+        "estranged comrade of Diaz's. She",
+        "later adopted it herself for",
+        "personal use to fuel her candidacy."
+      ],
+      "translation": "最初是迪亚兹一位疏远同僚的灰色生意.她后来将其据为己用,为自己的竞选造势.",
+      "styleMappings": {
+        "s": "一",
+        "Diaz": "迪亚兹"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Stock of Stonks": "股票凭证"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

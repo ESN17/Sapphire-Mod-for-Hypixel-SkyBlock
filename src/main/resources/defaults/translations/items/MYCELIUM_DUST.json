@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "MYCELIUM_DUST",
+  "_original_name": "Mycelium Dust",
+  "_original_lore": [
+    "Instantly grows crops and saplings",
+    "in a 3x3 square.",
+    "",
+    "RARE"
+  ],
+  "name": "菌丝体粉末",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Instantly grows crops and saplings",
+        "in a {{N0}}x{{N1}} square."
+      ],
+      "translation": "立即催熟 {{N0}}乘{{N1}} 范围内的作物和树苗.",
+      "styleMappings": {
+        "crops": "作物"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

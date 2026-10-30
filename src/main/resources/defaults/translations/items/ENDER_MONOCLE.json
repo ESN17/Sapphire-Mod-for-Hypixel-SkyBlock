@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "id": "ENDER_MONOCLE",
+  "_original_name": "Ender Monocle",
+  "_original_lore": [
+    "Combine x9 of this item at the",
+    "Thaumaturgist in the Hub to unlock the",
+    "Sighted power.",
+    "",
+    "At 250 Accessory Power:",
+    "+347.11 Intelligence",
+    "",
+    "Unique Power Bonus:",
+    "+3 Ability Damage",
+    "",
+    "❣ Requires Combat Skill 15.",
+    "",
+    "RARE POWER STONE"
+  ],
+  "name": "末影单片眼镜",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combine x{{N0}} of this item at the",
+        "Thaumaturgist in the Hub to unlock the",
+        "Sighted power."
+      ],
+      "translation": "在中心岛的奇术师居所处合成 {{N0}}x 个此物品以解锁有视之力.",
+      "styleMappings": {
+        "Thaumaturgist": "奇术师居所",
+        "Sighted": "有视",
+        "item": "物品",
+        "Hub": "中心岛",
+        "to unlock the": "以解锁",
+        "Combine": "合成",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "At {{N0}} Accessory Power:"
+      ],
+      "translation": "在 {{N0}} 饰品能量时:",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "{{N0}} Intelligence"
+      ],
+      "translation": "{{N0}} 智力",
+      "styleMappings": {
+        "Intelligence": "智力",
+        "": "",
+        " Intelligence": " 智力"
+      }
+    },
+    {
+      "source": [
+        "Unique Power Bonus:"
+      ],
+      "translation": "独特能量加成:",
+      "styleMappings": {
+        "Unique Power Bonus": "独特能量加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "{{N0}} Ability Damage"
+      ],
+      "translation": "{{N0}} 技能伤害",
+      "styleMappings": {
+        "Ability Damage": "技能伤害",
+        "Ability": "技能",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "RARE POWER STONE"
+      ],
+      "translation": "稀有能量石",
+      "styleMappings": {
+        "RARE POWER STONE": "稀有能量石",
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Ender": "末影"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

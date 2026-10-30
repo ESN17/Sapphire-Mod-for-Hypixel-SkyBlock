@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "HIGHLITE",
+  "_original_name": "Highlite",
+  "_original_lore": [
+    "This is what happens when time does",
+    "a victory lap.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "X Rift-Exportable X",
+    "Loses motes value when crossing",
+    "dimensions.",
+    "EPIC"
+  ],
+  "name": "高阶时光石",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "This is what happens when time does",
+        "a victory lap."
+      ],
+      "translation": "这就是时间绕场庆祝一圈的后果.",
+      "styleMappings": {
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "X Rift-Exportable X",
+        "Loses motes value when crossing",
+        "dimensions."
+      ],
+      "translation": "X 可带出裂隙 X 穿越维度时会损失裂隙尘埃价值.",
+      "styleMappings": {
+        "Rift-Exportable": "可带出裂隙",
+        "Rift": "裂隙",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

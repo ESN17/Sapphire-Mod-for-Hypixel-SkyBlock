@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "GIANT_FROG_TREAT",
+  "_original_name": "Giant Frog Treat",
+  "_original_lore": [
+    "Use at Kat to upgrade Frog Pets",
+    "from Epic to Legendary.",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "巨型青蛙零食",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Use at Kat to upgrade Frog Pets",
+        "from Epic to Legendary."
+      ],
+      "translation": "在 Kat 处使用,可将青蛙宠物从史诗升级为传说.",
+      "styleMappings": {
+        "Frog Pets": "青蛙宠物",
+        "Legendary": "传说",
+        "upgrade": "升级",
+        "Epic": "史诗",
+        "Kat": "Kat",
+        "Pets": "宠物",
+        "Frog": "青蛙"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Frog": "青蛙",
+    "Giant": "巨型"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

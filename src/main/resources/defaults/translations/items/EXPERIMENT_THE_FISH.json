@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "EXPERIMENT_THE_FISH",
+  "_original_name": "Experiment the Fish",
+  "_original_lore": [
+    "Fish me once, shame on you. Fish me",
+    "twice, shame on me.",
+    "",
+    "SPECIAL"
+  ],
+  "name": "实验鱼",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Fish me once, shame on you. Fish me",
+        "twice, shame on me."
+      ],
+      "translation": "钓我一次,是你的错.钓我两次,是我的错.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fish": "鱼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

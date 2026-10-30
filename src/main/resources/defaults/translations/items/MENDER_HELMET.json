@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "id": "MENDER_HELMET",
+  "_original_name": "Mender Helmet",
+  "_original_lore": [
+    "Gear Score: 80",
+    "Health: +80",
+    "",
+    "Grants +50 Mending while in",
+    "Dungeons.",
+    "",
+    "This item can be reforged!",
+    "RARE DUNGEON HELMET"
+  ],
+  "name": "修补者头盔",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Mending while in",
+        "Dungeons."
+      ],
+      "translation": "在地牢中提供 {{N0}} 修补.",
+      "styleMappings": {
+        "Dungeons": "地牢",
+        "Mending": "修补",
+        "Grants": "提供"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "RARE DUNGEON HELMET"
+      ],
+      "translation": "稀有 地牢 头盔",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Helmet": "头盔",
+    "Mender Helmet": "修补者头盔"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

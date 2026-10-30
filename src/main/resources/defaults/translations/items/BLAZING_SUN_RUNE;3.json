@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "BLAZING_SUN_RUNE;3",
+  "_original_name": "◆ Blazing Sun Rune III",
+  "_original_lore": [
+    "Requires level 0",
+    "Helmet",
+    "",
+    "The Blazing Sun conquers all.",
+    "Obtained from the Taylor 2025",
+    "Summer Bundle.",
+    "",
+    "Apply this rune to helmet or fuse",
+    "two together at the Runic Pedestal!",
+    "",
+    "LEGENDARY COSMETIC"
+  ],
+  "name": "◆ 炽阳符文 III",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Requires level {{N0}}",
+        "Helmet"
+      ],
+      "translation": "需要等级 {{N0}} 头盔",
+      "styleMappings": {
+        "Requires": "需要",
+        "Helmet": "头盔"
+      }
+    },
+    {
+      "source": [
+        "The Blazing Sun conquers all."
+      ],
+      "translation": "炽阳征服一切.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Obtained from the Taylor {{N0}}",
+        "Summer Bundle."
+      ],
+      "translation": "从 Taylor {{N0}} 夏日礼包中获得.",
+      "styleMappings": {
+        "Summer Bundle": "夏日礼包",
+        "Summer": "夏日"
+      }
+    },
+    {
+      "source": [
+        "Apply this rune to helmet or fuse",
+        "two together at the Runic Pedestal!"
+      ],
+      "translation": "将此符文应用于头盔,或在符文基座上将两个融合!",
+      "styleMappings": {
+        "Runic Pedestal": "符文基座",
+        "Runic": "符文"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY COSMETIC"
+      ],
+      "translation": "传说外观",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Rune III": "符文 III",
+    "III": "III"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "RIFT_STRENGTH_ELIXIR",
+  "_original_name": "Strength Elixir",
+  "_original_lore": [
+    "Grants Strength (10:00), granting",
+    "+3 Rift Damage.",
+    "",
+    "RARE"
+  ],
+  "name": "力量药剂",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Grants Strength ({{N0}}:{{N1}}), granting"
+      ],
+      "translation": "给予力量 ({{N0}}:{{N1}}),提供",
+      "styleMappings": {
+        "Grants": "给予",
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "{{N0}} Rift Damage."
+      ],
+      "translation": "{{N0}} 裂隙伤害.",
+      "styleMappings": {
+        "Rift Damage": "裂隙伤害",
+        "Damage": "伤害",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Strength": "力量"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "CHYME",
+  "_original_name": "Chyme",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Feeding this to your pets gives them",
+    "a boost of 90,000 Exp!",
+    "",
+    "Right-click on your summoned pet to",
+    "feed it!",
+    "",
+    "RARE"
+  ],
+  "name": "食糜",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Feeding this to your pets gives them",
+        "a boost of {{N0}} Exp!"
+      ],
+      "translation": "将其喂给宠物可使其获得 {{N0}} 经验加成!",
+      "styleMappings": {
+        "boost": "加成",
+        "Exp": "经验"
+      }
+    },
+    {
+      "source": [
+        "Right-click on your summoned pet to"
+      ],
+      "translation": "右键点击你召唤的宠物以",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "feed it!"
+      ],
+      "translation": "喂它!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "MYTHOS_FRAGMENT",
+  "_original_name": "Mythos Fragment",
+  "_original_lore": [
+    "Drops rarely from Griffin Burrows",
+    "during Diana's Mythological Ritual.",
+    "",
+    "A splendid shard that was buried in",
+    "the earth by someone a long, long",
+    "time ago.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "RARE"
+  ],
+  "name": "神话碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Drops rarely from Griffin Burrows",
+        "during Diana's Mythological Ritual."
+      ],
+      "translation": "在 Diana 的神话仪式期间,有较低概率从狮鹫洞穴掉落.",
+      "styleMappings": {
+        "Mythological Ritual": "神话仪式",
+        "Griffin Burrows": "狮鹫洞穴",
+        "Griffin": "狮鹫",
+        "Mythological": "神话"
+      }
+    },
+    {
+      "source": [
+        "A splendid shard that was buried in",
+        "the earth by someone a long, long",
+        "time ago."
+      ],
+      "translation": "一块华丽的碎片,很久很久以前被某人埋入地下.",
+      "styleMappings": {
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

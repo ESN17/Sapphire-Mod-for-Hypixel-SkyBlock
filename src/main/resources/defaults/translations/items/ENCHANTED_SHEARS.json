@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "id": "ENCHANTED_SHEARS",
+  "_original_name": "Enchanted Shears",
+  "_original_lore": [
+    "Minion Upgrade",
+    "",
+    "This item can be used as a minion",
+    "upgrade for sheep generators. This",
+    "will automatically shear sheep for",
+    "you as they spawn.",
+    "",
+    "COMMON SHEARS"
+  ],
+  "name": "附魔剪刀",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "This item can be used as a"
+      ],
+      "translation": "该物品可用作",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "minion upgrade for sheep",
+        "generators. This will",
+        "automatically shear sheep for",
+        "you as they spawn."
+      ],
+      "translation": "绵羊生成器的仆从升级.绵羊生成时会自动为你剪羊毛.",
+      "styleMappings": {
+        "automatically shear sheep for": "自动为你剪羊毛",
+        "minion upgrade for sheep": "绵羊生成器的仆从升级",
+        "you as they spawn": "绵羊生成时",
+        "minion": "仆从",
+        "automatically": "自动",
+        "upgrade": "升级"
+      }
+    },
+    {
+      "source": [
+        "COMMON SHEARS"
+      ],
+      "translation": "普通剪刀",
+      "styleMappings": {
+        "COMMON SHEARS": "普通剪刀",
+        "COMMON": "普通"
+      }
+    },
+    {
+      "source": [
+        "Minion Upgrade"
+      ],
+      "translation": "仆从升级",
+      "styleMappings": {
+        "Minion Upgrade": "仆从升级",
+        "Minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "This item can be used as a minion upgrade for sheep generators. This will automatically shear sheep for you as they spawn."
+      ],
+      "translation": "此物品可作为绵羊生成器的仆从升级使用.它会在绵羊生成时自动为你剪羊毛.",
+      "styleMappings": {
+        "item": "物品",
+        "minion": "仆从",
+        "automatically": "自动",
+        "upgrade": "升级",
+        "automatically shear sheep for": "自动为你剪羊毛",
+        "minion upgrade for sheep": "绵羊生成器的仆从升级",
+        "you as they spawn": "绵羊生成时"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shears": "剪刀"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

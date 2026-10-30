@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "ULTIMATE_CARROT_CANDY_UPGRADE",
+  "_original_name": "Ultimate Carrot Candy Upgrade",
+  "_original_lore": [
+    "Craft with Superb Carrot Candies",
+    "efficiently to have them grant",
+    "1,500,000 pet Exp.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "SPECIAL"
+  ],
+  "name": "终极胡萝卜糖升级",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Craft with Superb Carrot Candies",
+        "efficiently to have them grant",
+        "{{N0}} pet Exp."
+      ],
+      "translation": "与顶级胡萝卜糖高效合成,使其提供 {{N0}} 宠物经验.",
+      "styleMappings": {
+        "Superb Carrot Candies": "顶级胡萝卜糖",
+        "Exp": "经验",
+        "pet": "宠物",
+        "Carrot": "胡萝卜"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Ultimate Carrot Candy": "终极胡萝卜糖",
+    "Carrot": "胡萝卜",
+    "Carrot Candy": "胡萝卜糖"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "GIFT_THE_FISH",
+  "_original_name": "Gift the Fish",
+  "_original_lore": [
+    "I'm empty inside.",
+    "",
+    "SPECIAL"
+  ],
+  "name": "礼物鱼",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "I'm empty inside."
+      ],
+      "translation": "我内心空虚.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fish": "鱼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

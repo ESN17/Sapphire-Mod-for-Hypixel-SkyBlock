@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "ATOLL_CROAKER_SC",
+  "_original_name": "Atoll Croaker (Sea Creature)",
+  "_original_lore": [
+    "What a curious little fellow.",
+    "",
+    "Mob Types: ⚓ Aquatic, ☮ Animal",
+    "❤ Health: 15,000",
+    "",
+    "COMMON"
+  ],
+  "name": "环礁鸣蛙 (海怪)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "What a curious little fellow."
+      ],
+      "translation": "多么好奇的小家伙.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Mob Types: ⚓ Aquatic, ☮ Animal"
+      ],
+      "translation": "生物类型: ⚓ 水生, ☮ 动物",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Aquatic": "水生",
+        "Animal": "动物"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sea Creature": "海怪",
+    "(Sea Creature)": "(海怪)"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

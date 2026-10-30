@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "WEATHER_NODE",
+  "_original_name": "Weather Node",
+  "_original_lore": [
+    "Change the weather on your private",
+    "island.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "天气节点",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Change the weather on your private",
+        "island."
+      ],
+      "translation": "改变你私人岛屿上的天气.",
+      "styleMappings": {
+        "private island": "私人岛屿",
+        "island": "岛屿上"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Weather": "天气"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

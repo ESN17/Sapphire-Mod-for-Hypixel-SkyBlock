@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "id": "VOIDWALKER_KATANA",
+  "_original_name": "Voidwalker Katana",
+  "_original_lore": [
+    "Damage: +105",
+    "Strength: +40",
+    "Crit Damage: +15%",
+    "",
+    "Deal +150% damage to Endermen.",
+    "Receive 3% less damage from",
+    "Endermen when held.",
+    "",
+    "This item can be reforged!",
+    "UNCOMMON SWORD"
+  ],
+  "name": "踏虚太刀",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: {{N0}}"
+      ],
+      "translation": "暴击伤害:{{N0}}",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Deal {{N0}} damage to Endermen."
+      ],
+      "translation": "对末影人造成 {{N0}} 伤害.",
+      "styleMappings": {
+        "Endermen": "末影人",
+        "damage": "伤害",
+        "Deal": "造成"
+      }
+    },
+    {
+      "source": [
+        "Receive {{N0}} less damage from",
+        "Endermen when held."
+      ],
+      "translation": "持有时受到末影人的伤害减少 {{N0}}.",
+      "styleMappings": {
+        "less damage": "伤害减少",
+        "Endermen": "末影人",
+        "damage": "伤害",
+        "when": "时",
+        "Receive": "受到"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON SWORD"
+      ],
+      "translation": "罕见剑",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Voidwalker Katana": "踏虚太刀"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_name_revision": "2026-10-17-slayer-rpg"
+}

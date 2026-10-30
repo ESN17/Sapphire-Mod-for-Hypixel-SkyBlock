@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "id": "COCOA_GENERATOR_10",
+  "_original_name": "Cocoa Beans Minion X",
+  "_original_lore": [
+    "Place this minion and it will start",
+    "generating and harvesting cocoa",
+    "beans. Requires jungle logs nearby",
+    "so cocoa can be placed, or air",
+    "nearby so jungle logs can be",
+    "placed. Minions also work when you",
+    "are offline!",
+    "",
+    "Time Between Actions: 18s",
+    "Max Storage: 960",
+    "Resources Generated: 0",
+    "",
+    "RARE"
+  ],
+  "name": "可可豆仆从 X",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Place this minion and it will start",
+        "generating and harvesting cocoa",
+        "beans. Requires jungle logs nearby",
+        "so cocoa can be placed, or air",
+        "nearby so jungle logs can be",
+        "placed. Minions also work when you",
+        "are offline!"
+      ],
+      "translation": "放置此仆从后,它就会开始生成并收获可可豆.附近需要丛林原木才能放置可可果,或需要空气才能放置丛林原木.你离线时仆从也会继续工作!",
+      "styleMappings": {
+        "Requires": "需要",
+        "minion": "仆从",
+        "Minions": "仆从",
+        "work": "工作",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Time Between Actions: {{N0}}s"
+      ],
+      "translation": "行动间隔:{{N0}}秒",
+      "styleMappings": {
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "Max Storage: {{N0}}"
+      ],
+      "translation": "最大存储:{{N0}}",
+      "styleMappings": {
+        "Max": "最大"
+      }
+    },
+    {
+      "source": [
+        "Resources Generated: {{N0}}"
+      ],
+      "translation": "产出资源:{{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Cocoa Beans": "可可豆",
+    "Minion": "仆从"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

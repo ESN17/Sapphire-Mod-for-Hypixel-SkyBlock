@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "id": "SALMON_HAT_CELEBRATION",
+  "_original_name": "Salmon Hat",
+  "_original_lore": [
+    "Strength: +15",
+    "Speed: +2",
+    "Respiration: +75",
+    "",
+    "Respiration V",
+    "Grants +75 Respiration, which",
+    "increases the amount of time you",
+    "can stay under water.",
+    "",
+    "Ability: Water Burst  SNEAK",
+    "When wearing the full set, grants the",
+    "wearer with the ability to burst",
+    "forward when sneaking in water.",
+    "Mana Cost: 20",
+    "",
+    "This item can be reforged!",
+    "COMMON HELMET"
+  ],
+  "name": "鲑鱼帽",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Respiration: {{N0}}"
+      ],
+      "translation": "水下呼吸: {{N0}}",
+      "styleMappings": {
+        "Respiration": "水下呼吸"
+      }
+    },
+    {
+      "source": [
+        "Respiration V",
+        "Grants {{N0}} Respiration, which",
+        "increases the amount of time you",
+        "can stay under water."
+      ],
+      "translation": "水下呼吸 V 提供 {{N0}} 水下呼吸,可延长你在水下的停留时间.",
+      "styleMappings": {
+        "Respiration V": "水下呼吸 V",
+        "Respiration": "水下呼吸",
+        "Grants": "提供",
+        "increases the amount of time you": "可延长你",
+        "water": "水"
+      }
+    },
+    {
+      "source": [
+        "Ability: Water Burst  SNEAK"
+      ],
+      "translation": "技能: 水花迸发  潜行",
+      "styleMappings": {
+        "Ability": "技能",
+        "Water Burst": "水花迸发",
+        "SNEAK": "潜行"
+      }
+    },
+    {
+      "source": [
+        "When wearing the full set, grants the",
+        "wearer with the ability to burst",
+        "forward when sneaking in water."
+      ],
+      "translation": "穿戴全套时,使穿戴者在水中潜行时能够向前迸发.",
+      "styleMappings": {
+        "burst forward": "向前迸发",
+        "sneaking": "潜行",
+        "when": "时",
+        "water": "水"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "COMMON HELMET"
+      ],
+      "translation": "普通头盔",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

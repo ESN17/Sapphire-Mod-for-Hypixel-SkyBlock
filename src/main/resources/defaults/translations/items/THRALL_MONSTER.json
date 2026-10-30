@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "THRALL_MONSTER",
+  "_original_name": "Thrall (Monster)",
+  "_original_lore": [
+    "❤ Health: 190"
+  ],
+  "name": "奴仆 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

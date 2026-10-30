@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "DUNGEON_DISC_3",
+  "_original_name": "Watcher Disc",
+  "_original_lore": [
+    "Place this inside a jukebox to play a",
+    "dungeon song!",
+    "",
+    "The Watcher",
+    "  By ShinkoNet",
+    "",
+    "EPIC"
+  ],
+  "name": "观察者唱片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Place this inside a jukebox to play a",
+        "dungeon song!"
+      ],
+      "translation": "将其放入唱片机以播放地牢歌曲!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "The Watcher"
+      ],
+      "translation": "观察者",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "  By ShinkoNet"
+      ],
+      "translation": "  作者 辛科网",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

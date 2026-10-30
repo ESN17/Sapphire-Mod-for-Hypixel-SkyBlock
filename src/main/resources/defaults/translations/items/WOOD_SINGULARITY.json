@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "WOOD_SINGULARITY",
+  "_original_name": "Wood Singularity",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "When applied to an Axe, grants +25",
+    "Foraging Fortune.",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "木头奇点",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "When applied to an Axe, grants {{N0}}",
+        "Foraging Fortune."
+      ],
+      "translation": "应用于斧头时,提供 {{N0}} 采伐幸运.",
+      "styleMappings": {
+        " Foraging Fortune": " 采伐幸运",
+        "Axe": "斧头",
+        "Foraging Fortune": "采伐幸运",
+        "Fortune": "幸运",
+        "Foraging": "采伐"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

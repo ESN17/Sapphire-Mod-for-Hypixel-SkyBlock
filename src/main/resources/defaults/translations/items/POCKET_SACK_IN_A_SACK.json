@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "POCKET_SACK_IN_A_SACK",
+  "_original_name": "Pocket Sack-in-a-Sack",
+  "_original_lore": [
+    "Combine this item in an anvil with any",
+    "sack to increase its capacity by",
+    "+200% its original capacity.",
+    "",
+    "This item can be combined with a sack",
+    "up to three times!",
+    "",
+    "It's a pocket sack, to be stitched",
+    "inside another sack!",
+    "",
+    "SPECIAL"
+  ],
+  "name": "便携袋中袋",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combine this item in an anvil with any",
+        "sack to increase its capacity by",
+        "{{N0}} its original capacity."
+      ],
+      "translation": "在铁砧中将此物品与任意袋子结合,使其容量增加原容量的 {{N0}}.",
+      "styleMappings": {
+        "original": "原",
+        "anvil": "铁砧",
+        "item": "物品",
+        "sack": "袋子"
+      }
+    },
+    {
+      "source": [
+        "This item can be combined with a sack"
+      ],
+      "translation": "此物品可与袋子结合",
+      "styleMappings": {
+        "item": "物品",
+        "sack": "袋子"
+      }
+    },
+    {
+      "source": [
+        "up to three times!"
+      ],
+      "translation": "最多三次!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "It's a pocket sack, to be stitched",
+        "inside another sack!"
+      ],
+      "translation": "这是一个口袋袋,可以缝在另一个袋子里面!",
+      "styleMappings": {
+        "sack": "袋子"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "DWARVEN_OS_METALLIC_MINIS",
+  "_original_name": "Dwarven O's Metallic Minis",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "The first 5 times you consume this,",
+    "gain a permanent +2 Dwarven Metal",
+    "Fortune.",
+    "",
+    "Right-click to consume!",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "矮人的金属迷你酒",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "The first {{N0}} times you consume this,",
+        "gain a permanent {{N1}} Dwarven Metal",
+        "Fortune."
+      ],
+      "translation": "前 {{N0}} 次食用时,获得永久 {{N1}} 矮人金属幸运.",
+      "styleMappings": {
+        "Dwarven Metal Fortune": "矮人金属幸运",
+        "first": "前",
+        "Fortune": "幸运",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_name_revision": "2026-10-17-user-request"
+}

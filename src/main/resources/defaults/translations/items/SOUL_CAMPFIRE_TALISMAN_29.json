@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "SOUL_CAMPFIRE_TALISMAN_29",
+  "_original_name": "Soul Campfire God Badge IX",
+  "_original_lore": [
+    "Mending: +10",
+    "Accessory Power: +16",
+    "",
+    "Grants +30 Defense while burning.",
+    "",
+    "Trial of Blue Flames 30",
+    "\"Fire guy!\"",
+    "",
+    "* Soulbound *",
+    "Works while in Accessory Bag!",
+    "LEGENDARY ACCESSORY"
+  ],
+  "name": "灵魂营火之神徽章 IX",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mending: {{N0}}"
+      ],
+      "translation": "修复:{{N0}}",
+      "styleMappings": {
+        "Mending": "修复"
+      }
+    },
+    {
+      "source": [
+        "Accessory Power: {{N0}}"
+      ],
+      "translation": "饰品能量: {{N0}}",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Defense while burning."
+      ],
+      "translation": "燃烧时提供 {{N0}} 防御.",
+      "styleMappings": {
+        " Defense": " 防御",
+        "Grants": "提供",
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Trial of Blue Flames {{N0}}",
+        "\"Fire guy!\""
+      ],
+      "translation": "蓝焰试炼 {{N0}} \"火人!\"",
+      "styleMappings": {
+        "Trial of Blue Flames": "蓝焰试炼"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "放在饰品袋中即可生效!",
+      "styleMappings": {
+        "Accessory Bag": "饰品袋",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY ACCESSORY"
+      ],
+      "translation": "传说饰品",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Soul": "灵魂"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

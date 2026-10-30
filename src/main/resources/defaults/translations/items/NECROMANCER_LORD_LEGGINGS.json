@@ -1,0 +1,142 @@
+{
+  "schemaVersion": 1,
+  "id": "NECROMANCER_LORD_LEGGINGS",
+  "_original_name": "Necromancer Lord Leggings",
+  "_original_lore": [
+    "Gear Score: 720",
+    "Health: +250",
+    "Defense: +220",
+    "Intelligence: +10",
+    "Gemstones: [⚔]",
+    "",
+    "Full Set Bonus: Soul Whisper (0/4)",
+    "Increase the damage of your",
+    "necromancer summoned mobs by 20%.",
+    "",
+    "Allows the wearer to store and",
+    "summon an additional 1 souls in their",
+    "necromancer weapon.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires The Catacombs Floor VI Completion.",
+    "LEGENDARY DUNGEON LEGGINGS"
+  ],
+  "name": "死灵法师领主护腿",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [⚔]"
+      ],
+      "translation": "宝石: [⚔]",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Soul Whisper ({{N0}}/{{N1}})"
+      ],
+      "translation": "套装奖励:灵魂低语 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Full Set Bonus": "套装奖励",
+        "Soul Whisper": "灵魂低语",
+        "Soul": "灵魂"
+      }
+    },
+    {
+      "source": [
+        "Increase the damage of your",
+        "necromancer summoned mobs by {{N0}}."
+      ],
+      "translation": "使你召唤的死灵生物造成的伤害提高 {{N0}}.",
+      "styleMappings": {
+        "damage": "伤害",
+        "mobs": "生物"
+      }
+    },
+    {
+      "source": [
+        "Allows the wearer to store and",
+        "summon an additional {{N0}} souls in their",
+        "necromancer weapon."
+      ],
+      "translation": "允许穿戴者在死灵法师武器中额外储存并召唤 {{N0}} 个灵魂.",
+      "styleMappings": {
+        "additional": "额外"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires The Catacombs Floor VI Completion."
+      ],
+      "translation": "❣ 需要通关地牢第 VI 层.",
+      "styleMappings": {
+        "The Catacombs": "地牢",
+        "Requires": "需要",
+        "Catacombs": "地牢"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY DUNGEON LEGGINGS"
+      ],
+      "translation": "传说地牢护腿",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Leggings": "护腿"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

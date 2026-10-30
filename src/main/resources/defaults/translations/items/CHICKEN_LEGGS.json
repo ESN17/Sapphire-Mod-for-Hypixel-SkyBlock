@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "CHICKEN_LEGGS",
+  "_original_name": "Chicken Leggs",
+  "_original_lore": [
+    "Rift Time: +35s",
+    "",
+    "Sometimes you pretend to be a",
+    "dolphin, sometimes a chicken. Cluck",
+    "cluck!",
+    "",
+    "RARE LEGGINGS"
+  ],
+  "name": "鸡腿裤",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Rift Time: {{N0}}s"
+      ],
+      "translation": "裂隙时间: {{N0}}秒",
+      "styleMappings": {
+        "Rift Time": "裂隙时间",
+        "{{N0}}s": "{{N0}}秒",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "Sometimes you pretend to be a",
+        "dolphin, sometimes a chicken. Cluck",
+        "cluck!"
+      ],
+      "translation": "有时你假装自己是海豚,有时又假装是鸡.咯咯哒!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE LEGGINGS"
+      ],
+      "translation": "稀有 护腿",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Chicken": "鸡"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "id": "EMPTY_CHUMCAP_BUCKET",
+  "_original_name": "Empty Chumcap Bucket",
+  "_original_lore": [
+    "Place it down next to water.",
+    "",
+    "Sea Creatures slain nearby will drop",
+    "+1 Chum.",
+    "Up to +4 total from buckets!",
+    "",
+    "You gain a good chance to fish up",
+    "an Agarimoo Sea Creature.",
+    "You and other nearby fishers gain",
+    "+4 Fishing Speed.",
+    "Up to +16 from buckets!",
+    "",
+    "❣ Requires Fishing Skill 15.",
+    "UNCOMMON"
+  ],
+  "name": "空鱼饵菇桶",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Place it down next to water."
+      ],
+      "translation": "把它放在水边.",
+      "styleMappings": {
+        "water": "水"
+      }
+    },
+    {
+      "source": [
+        "Sea Creatures slain nearby will drop",
+        "{{N0}} Chum."
+      ],
+      "translation": "附近被击杀的海洋生物会掉落 {{N0}} 个鱼饵.",
+      "styleMappings": {
+        "Sea Creatures": "海洋生物",
+        "Chum": "鱼饵"
+      }
+    },
+    {
+      "source": [
+        "Up to {{N0}} total from buckets!"
+      ],
+      "translation": "从桶中最多可获得 {{N0}} 个!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "You gain a good chance to fish up",
+        "an Agarimoo Sea Creature."
+      ],
+      "translation": "你有很大几率钓上一只阿加里穆海洋生物.",
+      "styleMappings": {
+        "Agarimoo": "阿加里穆",
+        "Sea Creature": "海洋生物",
+        "chance": "几率",
+        "chance to": "几率"
+      }
+    },
+    {
+      "source": [
+        "You and other nearby fishers gain",
+        "{{N0}} Fishing Speed."
+      ],
+      "translation": "你和其他附近的钓鱼者获得 {{N0}} 钓鱼速度.",
+      "styleMappings": {
+        "Fishing Speed": "钓鱼速度",
+        "Fishing": "钓鱼",
+        "Speed": "速度",
+        " Fishing Speed": " 钓鱼速度",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "Up to {{N0}} from buckets!"
+      ],
+      "translation": "从桶中最多可获得 {{N0}}!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "❣ Requires Fishing Skill {{N0}}."
+      ],
+      "translation": "❣ 需要钓鱼技能 {{N0}}.",
+      "styleMappings": {
+        "Fishing Skill": "钓鱼技能",
+        "Requires": "需要",
+        "Fishing": "钓鱼",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": "VOODOO_DOLL_WILTED",
+  "_original_name": "Jinxed Voodoo Doll",
+  "_original_lore": [
+    "Ability: Acupuncture  RIGHT CLICK",
+    "Shoot arrows from every direction around",
+    "the targeted monster.",
+    "",
+    "Monsters hit by at least one arrow are slowed",
+    "and receive 2,222 damage/s for 12s.",
+    "Mana Cost: 180",
+    "Cooldown: 3s",
+    "",
+    "Who do you voodoo?",
+    "",
+    "☠ Requires Zombie Slayer 5.",
+    "EPIC"
+  ],
+  "name": "厄运巫毒娃娃",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Acupuncture  RIGHT CLICK"
+      ],
+      "translation": "技能: 针灸  右键点击",
+      "styleMappings": {
+        "Ability: Acupuncture": "技能: 针灸",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Shoot arrows from every direction around",
+        "the targeted monster."
+      ],
+      "translation": "从目标怪物周围的各个方向射出箭矢.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Monsters hit by at least one arrow are slowed",
+        "and receive {{N0}} damage/s for {{N1}}s."
+      ],
+      "translation": "被至少一支箭命中的怪物会被减速,并在 {{N1}} 秒内受到 {{N0}} 伤害/秒.",
+      "styleMappings": {
+        "damage": "伤害",
+        "{{N1}}s": "{{N1}} 秒",
+        "hit": "命中",
+        "Monsters": "怪物"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "Who do you voodoo?"
+      ],
+      "translation": "你要对谁施巫毒?",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "☠ Requires Zombie Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要僵尸杀手 {{N0}}.",
+      "styleMappings": {
+        "Zombie Slayer": "僵尸杀手",
+        "Requires": "需要",
+        "Zombie": "僵尸",
+        "Slayer": "杀手"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Jinxed Voodoo Doll": "厄运巫毒娃娃",
+    "Voodoo Doll": "巫毒娃娃"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

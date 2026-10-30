@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 1,
+  "id": "SKELETOR_BOOTS",
+  "_original_name": "Skeletor Boots",
+  "_original_lore": [
+    "Gear Score: 83",
+    "Health: +13",
+    "Defense: +20",
+    "Crit Chance: +2%",
+    "Crit Damage: +20%",
+    "",
+    "Full Set Bonus: Skeletor (0/4)",
+    "Grants +1 Strength and +1 Crit",
+    "Damage for every 10 Skeletor kills",
+    "",
+    "Each piece grants a 1 second",
+    "cooldown reduction on bone plating!",
+    "",
+    "This item is Undead ༕!",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Catacombs Skill 15.",
+    "EPIC DUNGEON BOOTS"
+  ],
+  "name": "骷髅王靴子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Crit Chance: {{N0}}"
+      ],
+      "translation": "暴击率: {{N0}}",
+      "styleMappings": {
+        "Crit Chance": "暴击率"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: {{N0}}"
+      ],
+      "translation": "暴击伤害:{{N0}}",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Skeletor ({{N0}}/{{N1}})"
+      ],
+      "translation": "全套加成: 骷髅王 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Full Set Bonus": "全套加成",
+        "Skeletor": "骷髅王",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Strength and {{N1}} Crit",
+        "Damage for every {{N2}} Skeletor kills"
+      ],
+      "translation": "每击杀 {{N2}} 个骷髅王,获得 {{N0}} 力量 和 {{N1}} 暴击伤害",
+      "styleMappings": {
+        "Skeletor kills": "骷髅王",
+        " Crit Damage": " 暴击伤害",
+        " Strength": " 力量",
+        "Grants": "获得",
+        "Crit Damage": "暴击伤害",
+        "Strength": "力量",
+        "for": "获得",
+        "Damage": "伤害",
+        "kills": "击杀",
+        "Skeletor": "骷髅王"
+      }
+    },
+    {
+      "source": [
+        "Each piece grants a {{N0}} second",
+        "cooldown reduction on bone plating!"
+      ],
+      "translation": "每件装备使骨甲冷却时间减少 {{N0}} 秒!",
+      "styleMappings": {
+        "cooldown reduction": "冷却时间减少",
+        "second": "秒",
+        "cooldown": "冷却"
+      }
+    },
+    {
+      "source": [
+        "This item is Undead ༕!"
+      ],
+      "translation": "该物品为亡灵 ༕!",
+      "styleMappings": {
+        "item": "物品",
+        "Undead": "亡灵"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Catacombs Skill {{N0}}."
+      ],
+      "translation": "❣ 需要地牢技能 {{N0}}.",
+      "styleMappings": {
+        "Requires": "需要",
+        "Catacombs": "地牢",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC DUNGEON BOOTS"
+      ],
+      "translation": "史诗地牢靴子",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Boots": "靴子",
+    "Skeletor": "骷髅王"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

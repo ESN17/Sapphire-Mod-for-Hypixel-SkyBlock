@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "COMPOST",
+  "_original_name": "Compost",
+  "_original_lore": [
+    "Can be spread across a Garden plot",
+    "with a Sprayonator or used in Pest",
+    "Traps.",
+    "",
+    "Attracts: Earthworm, Mosquito",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "堆肥",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Can be spread across a Garden plot",
+        "with a Sprayonator or used in Pest",
+        "Traps."
+      ],
+      "translation": "可用喷雾器撒在花园地块上,或用于害虫陷阱.",
+      "styleMappings": {
+        "Sprayonator": "喷雾器",
+        "Pest Traps": "害虫陷阱",
+        "Garden": "花园",
+        "Pest": "害虫"
+      }
+    },
+    {
+      "source": [
+        "Attracts: Earthworm, Mosquito"
+      ],
+      "translation": "吸引:蚯蚓、蚊子",
+      "styleMappings": {
+        "Earthworm": "蚯蚓",
+        "Mosquito": "蚊子",
+        "Attracts": "吸引"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Compost": "堆肥"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

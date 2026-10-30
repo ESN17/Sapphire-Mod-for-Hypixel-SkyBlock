@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_MINING_XP_BOOST;3",
+  "_original_name": "Mining XP Boost III Potion",
+  "_original_lore": [
+    "",
+    "Mining XP Boost III (36:00)",
+    "Grants +20☯ Mining Wisdom.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "采矿经验加成 III 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mining XP Boost III ({{N0}}:{{N1}})"
+      ],
+      "translation": "采矿经验加成 III ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Mining XP Boost III": "采矿经验加成 III",
+        "III": "III",
+        "Mining": "采矿"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}☯ Mining Wisdom."
+      ],
+      "translation": "提供 {{N0}}☯ 采矿智慧.",
+      "styleMappings": {
+        "Mining Wisdom": "采矿智慧",
+        "Grants": "提供",
+        "Mining": "采矿",
+        "Wisdom": "智慧"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mining XP Boost III": "采矿经验加成 III",
+    "III": "III",
+    "Mining": "采矿"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

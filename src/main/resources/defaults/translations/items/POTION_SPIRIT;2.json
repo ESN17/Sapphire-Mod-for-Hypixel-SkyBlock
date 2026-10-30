@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_SPIRIT;2",
+  "_original_name": "Spirit II Potion",
+  "_original_lore": [
+    "",
+    "Spirit II (3:00)",
+    "Grants +20  Speed and +20% ",
+    "Crit Damage.",
+    "",
+    "COMMON"
+  ],
+  "name": "灵魂 II 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Spirit II ({{N0}}:{{N1}})"
+      ],
+      "translation": "灵魂 II ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Spirit II": "灵魂 II",
+        "II": "II",
+        "Spirit": "灵魂"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}  Speed and {{N1}} ",
+        "Crit Damage."
+      ],
+      "translation": "获得 {{N0}}  速度与 {{N1}}  暴击伤害.",
+      "styleMappings": {
+        " Crit Damage": " 暴击伤害",
+        " Speed": " 速度",
+        "Grants": "获得",
+        "Speed": "速度",
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Spirit II": "灵魂 II",
+    "II": "II",
+    "Spirit": "灵魂"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

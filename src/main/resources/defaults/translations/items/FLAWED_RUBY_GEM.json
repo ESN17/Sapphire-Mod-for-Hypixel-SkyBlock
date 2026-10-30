@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "FLAWED_RUBY_GEM",
+  "_original_name": " Flawed Ruby Gemstone",
+  "_original_lore": [
+    "Collection Item",
+    "",
+    "A slightly better version of Ruby,",
+    "but it could still use some work.",
+    "",
+    "Some say that when harnessed",
+    "properly, it can give its owner extra",
+    " Health.",
+    "",
+    "UNCOMMON GEMSTONE"
+  ],
+  "name": " 瑕疵红宝石",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Collection Item"
+      ],
+      "translation": "收藏品",
+      "styleMappings": {
+        "Collection Item": "收藏品"
+      }
+    },
+    {
+      "source": [
+        "A slightly better version of Ruby,",
+        "but it could still use some work."
+      ],
+      "translation": "品质稍有提升的红宝石,但仍需进一步打磨.",
+      "styleMappings": {
+        "Ruby": "红宝石"
+      }
+    },
+    {
+      "source": [
+        "Some say that when harnessed",
+        "properly, it can give its owner extra",
+        " Health."
+      ],
+      "translation": "据说,运用得当时,它能为持有者提供额外的  生命值.",
+      "styleMappings": {
+        "harnessed properly": "运用得当",
+        " Health": " 生命值"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON GEMSTONE"
+      ],
+      "translation": "罕见宝石",
+      "styleMappings": {
+        "UNCOMMON": "罕见",
+        "GEMSTONE": "宝石"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Flawed": "瑕疵",
+    "Ruby Gemstone": "红宝石"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

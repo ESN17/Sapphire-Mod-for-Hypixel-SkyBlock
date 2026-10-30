@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "id": "CRUX_TALISMAN_3",
+  "_original_name": "Crux Artifact",
+  "_original_lore": [
+    "Rift Time: +35s",
+    "Intelligence: +5",
+    "",
+    "Defeat crux mobs to gain +5 Rift Time and",
+    "+5 Crux Fortune per kill milestone.",
+    "Crux Fortune boosts the chance for",
+    "bonus crux drops.",
+    "",
+    "Kill Milestones",
+    "  - Shy: 0/10 kills",
+    "",
+    "Works while in Accessory Bag!",
+    "RARE ACCESSORY"
+  ],
+  "name": "核心神器",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Rift Time: {{N0}}s"
+      ],
+      "translation": "裂隙时间: {{N0}}秒",
+      "styleMappings": {
+        "Rift Time": "裂隙时间",
+        "{{N0}}s": "{{N0}}秒",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Defeat crux mobs to gain {{N0}} Rift Time and",
+        "{{N1}} Crux Fortune per kill milestone."
+      ],
+      "translation": "击败核心怪物,每达成一个击杀里程碑可获得 {{N0}} 裂隙时间与 {{N1}} 核心幸运.",
+      "styleMappings": {
+        "Crux Fortune": "核心幸运",
+        "Rift Time": "裂隙时间",
+        "mobs": "怪物",
+        "Fortune": "幸运",
+        "Rift": "裂隙",
+        "per": "每",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "Crux Fortune boosts the chance for",
+        "bonus crux drops."
+      ],
+      "translation": "核心幸运提升额外核心掉落的概率.",
+      "styleMappings": {
+        "Crux Fortune": "核心幸运",
+        "Fortune": "幸运",
+        "chance": "概率"
+      }
+    },
+    {
+      "source": [
+        "Kill Milestones"
+      ],
+      "translation": "击杀里程碑",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "  - Shy: {{N0}}/{{N1}} kills"
+      ],
+      "translation": "  - 羞怯者: {{N0}}/{{N1}} 击杀",
+      "styleMappings": {
+        "Shy": "羞怯者",
+        "kills": "击杀"
+      }
+    },
+    {
+      "source": [
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "放在饰品袋中即可生效!",
+      "styleMappings": {
+        "Accessory Bag": "饰品袋",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "RARE ACCESSORY"
+      ],
+      "translation": "稀有饰品",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Artifact": "神器"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

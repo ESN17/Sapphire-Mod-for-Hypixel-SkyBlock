@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": "GLACITE_GOLEM;1",
+  "_original_name": "[Lvl {LVL}] Glacite Golem",
+  "_original_lore": [
+    "Mining Pet",
+    "",
+    "Cold Resistance: +{COLD_RESISTANCE}",
+    "Mining Speed: +{MINING_SPEED}",
+    "",
+    "Powder-powered",
+    "Gain {0}% more Glacite Powder from",
+    "most sources.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "UNCOMMON PET"
+  ],
+  "name": "[等级 {LVL}] 冰晶傀儡",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mining Pet"
+      ],
+      "translation": "采矿宠物",
+      "styleMappings": {
+        "Mining": "采矿",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Cold Resistance: +{{N0}}"
+      ],
+      "translation": "寒冷抗性: +{{N0}}",
+      "styleMappings": {
+        "Cold Resistance": "寒冷抗性",
+        "Resistance": "抗性",
+        "Cold": "寒冷"
+      }
+    },
+    {
+      "source": [
+        "Mining Speed: +{{N0}}"
+      ],
+      "translation": "采矿速度: +{{N0}}",
+      "styleMappings": {
+        "Mining Speed": "采矿速度",
+        "Mining": "采矿",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Powder-powered"
+      ],
+      "translation": "粉末驱动",
+      "styleMappings": {
+        "Powder-powered": "粉末驱动",
+        "Powder": "粉末"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}}% more Glacite Powder from",
+        "most sources."
+      ],
+      "translation": "从大多数来源获得 {{N0}}% 更多冰川粉末.",
+      "styleMappings": {
+        "Glacite Powder": "冰川粉末",
+        "Gain": "获得",
+        "most": "大多数",
+        "more": "更多",
+        "Glacite": "冰川",
+        "Powder": "粉末"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON PET"
+      ],
+      "translation": "罕见 宠物",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Golem": "傀儡",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": "DIVAN_POWDER_COATING",
+  "_original_name": "Divan's Powder Coating",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "When applied to Armor of Divan,",
+    "grants +10 Mining Fortune.",
+    "",
+    "When applied to a drill, grants",
+    "+500 Mining Speed.",
+    "",
+    "When applied to Powder of the Many,",
+    "upgrades it to Powder of the People.",
+    "",
+    "Can only be applied to an item once.",
+    "",
+    "A recreation of the coating found on",
+    "Divan's tools from his greatest",
+    "expeditions.",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "迪万的粉末涂层",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "When applied to Armor of Divan,",
+        "grants {{N0}} Mining Fortune."
+      ],
+      "translation": "应用于迪万盔甲时,提供 {{N0}} 采矿幸运.",
+      "styleMappings": {
+        "Armor of Divan": "迪万盔甲",
+        "Mining Fortune": "采矿幸运",
+        "Mining": "采矿",
+        "Armor": "盔甲",
+        "Fortune": "幸运",
+        "Divan": "迪万",
+        " Mining Fortune": " 采矿幸运"
+      }
+    },
+    {
+      "source": [
+        "When applied to a drill, grants",
+        "{{N0}} Mining Speed."
+      ],
+      "translation": "应用于钻头时,提供 {{N0}} 采矿速度.",
+      "styleMappings": {
+        "Mining Speed": "采矿速度",
+        "Mining": "采矿",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "When applied to Powder of the Many,",
+        "upgrades it to Powder of the People."
+      ],
+      "translation": "用于众人之尘时,将其升级为万民之尘.",
+      "styleMappings": {
+        "Powder of the Many": "众人之尘",
+        "Powder of the People": "万民之尘"
+      }
+    },
+    {
+      "source": [
+        "Can only be applied to an item once."
+      ],
+      "translation": "每件物品只能使用一次.",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "A recreation of the coating found on",
+        "Divan's tools from his greatest",
+        "expeditions."
+      ],
+      "translation": "重现了迪万在其最伟大远征中所用工具上的涂层.",
+      "styleMappings": {
+        "Divan": "迪万",
+        "s": "现"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Divan's Powder Coating": "迪万的粉末涂层",
+    "Powder": "粉末",
+    "Divan": "迪万"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

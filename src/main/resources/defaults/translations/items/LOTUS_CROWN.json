@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "id": "LOTUS_CROWN",
+  "_original_name": "Lotus Crown",
+  "_original_lore": [
+    "Consumed on use",
+    "",
+    "Pet Items can boost pets in many",
+    "powerful ways! A pet can only hold",
+    "one Pet Item, but you can swap it at",
+    "any time!",
+    "The pet must be visible to apply the item!",
+    "",
+    "Trophies are +10% more likely to be",
+    "DIAMOND.",
+    "",
+    "Right-click on your summoned pet to",
+    "give it this item!",
+    "",
+    "A splendid, yet tiny crown; just",
+    "about the right size for your pet!",
+    "",
+    "LEGENDARY PET ITEM"
+  ],
+  "name": "莲花王冠",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumed on use"
+      ],
+      "translation": "使用后消耗",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Pet Items can boost pets in many",
+        "powerful ways! A pet can only hold",
+        "one Pet Item, but you can swap it at",
+        "any time!"
+      ],
+      "translation": "宠物道具能以多种方式强化宠物.每只宠物只能携带一件宠物道具,但你可以随时更换!",
+      "styleMappings": {
+        "Pet Items": "宠物道具",
+        "swap": "更换",
+        "powerful ways": "方式",
+        "any time": "随时",
+        "one": "一件",
+        "pet": "宠物",
+        "Pet": "宠物",
+        "Pet Item": "宠物道具"
+      }
+    },
+    {
+      "source": [
+        "The pet must be visible to apply the item!"
+      ],
+      "translation": "宠物必须处于可见状态才能使用此物品!",
+      "styleMappings": {
+        "pet": "宠物",
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Trophies are {{N0}} more likely to be",
+        "DIAMOND."
+      ],
+      "translation": "奖杯有 {{N0}} 的概率成为钻石.",
+      "styleMappings": {
+        "Trophies": "奖杯",
+        "DIAMOND": "钻石"
+      }
+    },
+    {
+      "source": [
+        "Right-click on your summoned pet to"
+      ],
+      "translation": "右键点击你召唤的宠物以",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "give it this item!"
+      ],
+      "translation": "给予它此物品!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "A splendid, yet tiny crown; just",
+        "about the right size for your pet!"
+      ],
+      "translation": "一顶华丽却小巧的王冠;大小刚好适合你的宠物!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY PET ITEM"
+      ],
+      "translation": "传说 宠物物品",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Lotus": "莲花"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

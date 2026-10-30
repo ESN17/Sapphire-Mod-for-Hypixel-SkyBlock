@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "id": "SKELETON_GRUNT_BOOTS",
+  "_original_name": "Skeleton Grunt Boots",
+  "_original_lore": [
+    "Gear Score: 80",
+    "Health: +23",
+    "Defense: +20",
+    "Crit Damage: +15%",
+    "",
+    "Increase the damage you deal with",
+    "arrows by 5%.",
+    "",
+    "This item is Undead ༕!",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Catacombs Skill 1.",
+    "EPIC DUNGEON BOOTS"
+  ],
+  "name": "骷髅新兵靴子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: {{N0}}"
+      ],
+      "translation": "暴击伤害:{{N0}}",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Increase the damage you deal with",
+        "arrows by {{N0}}."
+      ],
+      "translation": "使你用箭造成的伤害提高 {{N0}}.",
+      "styleMappings": {
+        "damage": "伤害",
+        "deal": "造成"
+      }
+    },
+    {
+      "source": [
+        "This item is Undead ༕!"
+      ],
+      "translation": "该物品为亡灵 ༕!",
+      "styleMappings": {
+        "item": "物品",
+        "Undead": "亡灵"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Catacombs Skill {{N0}}."
+      ],
+      "translation": "❣ 需要地牢技能 {{N0}}.",
+      "styleMappings": {
+        "Requires": "需要",
+        "Catacombs": "地牢",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC DUNGEON BOOTS"
+      ],
+      "translation": "史诗地牢靴子",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Skeleton Grunt Boots": "骷髅新兵靴子",
+    "Skeleton": "骷髅",
+    "Skeleton Grunt": "骷髅新兵"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "SPIDER_EGG",
+  "_original_name": "Spider Egg",
+  "_original_lore": [
+    "Drops sometimes from  Arthropod",
+    "mobs during the Year of the Witch!",
+    "",
+    "Bring to Alcina in the Hub to craft it",
+    "into Stews!",
+    "",
+    "* Soulbound *",
+    "RARE"
+  ],
+  "name": "蜘蛛卵",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Drops sometimes from  Arthropod",
+        "mobs during the Year of the Witch!"
+      ],
+      "translation": "在女巫之年期间有概率从  节肢动物怪物掉落!",
+      "styleMappings": {
+        "Year of the Witch": "女巫之年",
+        "Arthropod": "节肢动物",
+        "mobs": "怪物",
+        "Year": "年"
+      }
+    },
+    {
+      "source": [
+        "Bring to Alcina in the Hub to craft it",
+        "into Stews!"
+      ],
+      "translation": "带到中心岛的 Alcina 处,将其制作成炖菜!",
+      "styleMappings": {
+        "Alcina": "Alcina",
+        "Hub": "中心岛",
+        "Stews": "炖菜",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Spider": "蜘蛛"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

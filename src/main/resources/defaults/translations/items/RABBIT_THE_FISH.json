@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "RABBIT_THE_FISH",
+  "_original_name": "Rabbit the Fish",
+  "_original_lore": [
+    "Mmm, oh I lom chomlate so mumch!",
+    "I...cam't get enoumgh of it! It's the",
+    "bemst, the absolutme bemst!",
+    "My...chomlate...",
+    "",
+    "SPECIAL"
+  ],
+  "name": "鱼兔",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mmm, oh I lom chomlate so mumch!"
+      ],
+      "translation": "嗯,我太喜欢巧克力了!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "I...cam't get enoumgh of it! It's the",
+        "bemst, the absolutme bemst!"
+      ],
+      "translation": "我……吃不够!它是最棒的,绝对是最棒的!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "My...chomlate..."
+      ],
+      "translation": "我的……巧克力……",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fish": "鱼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

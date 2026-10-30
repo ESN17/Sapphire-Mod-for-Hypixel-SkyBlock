@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": "DRAGON_HUNTER;2",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Gravity II",
+    "Increases damage dealt to ✈",
+    "Airborne mobs by 10%.",
+    "",
+    "Sources:",
+    " - Enchantment Table (I-V)",
+    " - Pearl Dealer (VI)",
+    " - Bazaar (VI)",
+    "",
+    "Applied To:",
+    " - Sword",
+    " - Longsword",
+    " - Gauntlet",
+    " - Bow",
+    "",
+    "Requirements:",
+    " - Enchanting Level 16",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Gravity II"
+      ],
+      "translation": "重力 II",
+      "styleMappings": {
+        "Gravity": "重力",
+        "II": "II"
+      }
+    },
+    {
+      "source": [
+        "Increases damage dealt to ✈",
+        "Airborne mobs by {{N0}}."
+      ],
+      "translation": "对 ✈ 空中生物造成的伤害提高 {{N0}}.",
+      "styleMappings": {
+        "Airborne mobs": "空中生物",
+        "damage": "伤害",
+        "mobs": "生物",
+        "Airborne": "空中"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchantment Table (I-V)",
+        " - Pearl Dealer (VI)",
+        " - Bazaar (VI)"
+      ],
+      "translation": " - 附魔台 (一至五级)  - 珍珠商人 (六级)  - 集市 (六级)",
+      "styleMappings": {
+        "Enchantment Table": "附魔台",
+        "Pearl Dealer": "珍珠商人",
+        "Bazaar": "集市",
+        "VI": "六",
+        "Enchantment": "附魔"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Sword",
+        " - Longsword",
+        " - Gauntlet",
+        " - Bow"
+      ],
+      "translation": " - 剑  - 长剑  - 护手  - 弓",
+      "styleMappings": {
+        "Sword": "剑",
+        "Longsword": "长剑",
+        "Gauntlet": "护手",
+        "Bow": "弓"
+      }
+    },
+    {
+      "source": [
+        "Requirements:"
+      ],
+      "translation": "需求:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchanting Level {{N0}}"
+      ],
+      "translation": " - 附魔等级 {{N0}}",
+      "styleMappings": {
+        "Enchanting Level": "附魔等级"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

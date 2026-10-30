@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "BLACKSMITH_PLUS",
+  "_original_name": "Blacksmith+",
+  "_original_lore": [
+    "Furniture",
+    "",
+    "Opens the Anvil menu!",
+    "",
+    "COMMON"
+  ],
+  "name": "铁匠台+",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Furniture"
+      ],
+      "translation": "家具",
+      "styleMappings": {
+        "Furniture": "家具"
+      }
+    },
+    {
+      "source": [
+        "Opens the Anvil menu!"
+      ],
+      "translation": "打开铁砧菜单!",
+      "styleMappings": {
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "GRAPPLING_HOOK",
+  "_original_name": "Grappling Hook",
+  "_original_lore": [
+    "Travel around in style using this",
+    "Grappling Hook.",
+    "2 Second Cooldown",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "抓钩",
+  "lore": {
+    "{duration} Second Cooldown": "冷却时间:{duration} 秒",
+    "UNCOMMON": "罕见"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "Travel around in style using this",
+        "Grappling Hook."
+      ],
+      "translation": "用这把抓钩潇洒地穿行四方.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "{{N0}} Second Cooldown"
+      ],
+      "translation": "冷却时间:{{N0}} 秒",
+      "styleMappings": {
+        "Cooldown": "冷却"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

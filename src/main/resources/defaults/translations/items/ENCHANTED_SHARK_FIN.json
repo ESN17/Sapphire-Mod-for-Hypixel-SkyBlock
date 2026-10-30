@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "ENCHANTED_SHARK_FIN",
+  "_original_name": "Enchanted Shark Fin",
+  "_original_lore": [
+    "Collection Item",
+    "",
+    "A razor-sharp shark fin designed to",
+    "craft powerful items.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "EPIC"
+  ],
+  "name": "附魔鲨鱼鳍",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Collection Item"
+      ],
+      "translation": "收藏品",
+      "styleMappings": {
+        "Collection": "收藏"
+      }
+    },
+    {
+      "source": [
+        "A razor-sharp shark fin designed to",
+        "craft powerful items."
+      ],
+      "translation": "锋利无比的鲨鱼鳍,可用于制作强力物品.",
+      "styleMappings": {
+        "A razor-sharp shark fin": "锋利无比的鲨鱼鳍",
+        "craft powerful items": "制作强力物品",
+        "items": "物品"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shark": "鲨鱼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

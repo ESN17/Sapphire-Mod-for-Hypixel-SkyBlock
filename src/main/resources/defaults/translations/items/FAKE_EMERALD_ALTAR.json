@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "FAKE_EMERALD_ALTAR",
+  "_original_name": "Fake Emerald Altar",
+  "_original_lore": [
+    "Quest Item",
+    "",
+    "Bring it to Juliette in The Park.",
+    "",
+    "Can't bring the girl to the altar?",
+    "Bring the altar to the girl!",
+    "",
+    "* Co-op Soulbound *",
+    "UNCOMMON"
+  ],
+  "name": "假绿宝石祭坛",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Quest Item"
+      ],
+      "translation": "任务物品",
+      "styleMappings": {
+        "Item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Bring it to Juliette in The Park."
+      ],
+      "translation": "把它带给公园的 Juliette.",
+      "styleMappings": {
+        "Juliette": "Juliette",
+        "The Park": "公园"
+      }
+    },
+    {
+      "source": [
+        "Can't bring the girl to the altar?"
+      ],
+      "translation": "没法把姑娘带到祭坛?",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Bring the altar to the girl!"
+      ],
+      "translation": "那就把祭坛带给姑娘!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Altar": "祭坛"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

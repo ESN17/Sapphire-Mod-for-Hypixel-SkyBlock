@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "RAIDER_AXE",
+  "_original_name": "Raider Sword",
+  "_original_lore": [
+    "Damage: +80",
+    "Strength: +50",
+    "",
+    "Earn +20 coins from monster kills (Level 10+ only)",
+    "",
+    "+1 Damage per 500 kills",
+    "Max +35",
+    "Kills: 0",
+    "",
+    "+1 Strength per 500 wood",
+    "Sums wood collections, max +100",
+    "Wood collections: 0",
+    "",
+    "This item can be reforged!",
+    "RARE SWORD"
+  ],
+  "name": "掠夺者之剑",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Earn {{N0}} coins from monster kills (Level {{N1}}+ only)"
+      ],
+      "translation": "击杀等级 {{N1}}+ 的怪物获得 {{N0}} 硬币",
+      "styleMappings": {
+        "Level": "等级",
+        "coins": "硬币",
+        "kills": "击杀"
+      }
+    },
+    {
+      "source": [
+        "{{N0}} Damage per {{N1}} kills",
+        "Max {{N2}}"
+      ],
+      "translation": "每 {{N1}} 击杀造成 {{N0}} 伤害 最大 {{N2}}",
+      "styleMappings": {
+        "Damage": "伤害",
+        "kills": "击杀",
+        "Max": "最大",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Kills: {{N0}}"
+      ],
+      "translation": "击杀数: {{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "{{N0}} Strength per {{N1}} wood",
+        "Sums wood collections, max {{N2}}"
+      ],
+      "translation": "每 {{N1}} 个木头提供 {{N0}} 力量 累计木头收藏,最多 {{N2}}",
+      "styleMappings": {
+        "Sums wood collections, max": "累计木头收藏,最多",
+        " Strength": " 力量",
+        "wood": "木头",
+        "Strength": "力量",
+        "collections": "收藏",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Wood collections: {{N0}}"
+      ],
+      "translation": "木头收藏: {{N0}}",
+      "styleMappings": {
+        "collections": "收藏"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "RARE SWORD"
+      ],
+      "translation": "稀有剑",
+      "styleMappings": {
+        "RARE": "稀有",
+        "RARE SWORD": "稀有剑"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sword": "剑"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "VERY_MOLDY_BREAD",
+  "_original_name": "Very Moldy Bread",
+  "_original_lore": [
+    "Consume to gain +30☯ Farming",
+    "Wisdom for 60m!",
+    "",
+    "Aged Like Fine Mold",
+    "Consuming this grants permanent",
+    "+1☯ Farming Wisdom.",
+    "",
+    "You may consume 5 of these before",
+    "they lose their magical energy.",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "极霉面包",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consume to gain {{N0}}☯ Farming",
+        "Wisdom for {{N1}}m!"
+      ],
+      "translation": "食用后获得 {{N0}}☯ 农业智慧,持续 {{N1}} 分钟!",
+      "styleMappings": {
+        "Farming Wisdom": "农业智慧",
+        "for": "持续",
+        "{{N1}}m": "{{N1}} 分钟",
+        "Wisdom": "智慧",
+        "Farming": "农业",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "Aged Like Fine Mold"
+      ],
+      "translation": "如美霉般陈年",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Consuming this grants permanent",
+        "{{N0}}☯ Farming Wisdom."
+      ],
+      "translation": "食用后永久获得 {{N0}}☯ 农业智慧.",
+      "styleMappings": {
+        "Farming Wisdom": "农业智慧",
+        "Wisdom": "智慧",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "You may consume {{N0}} of these before",
+        "they lose their magical energy."
+      ],
+      "translation": "在失去魔法能量前,你最多可饮用 {{N0}} 个.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

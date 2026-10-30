@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "BUSTED_BELT_BUCKLE",
+  "_original_name": "Busted Belt Buckle",
+  "_original_lore": [
+    "A piece of Junk. Bring it to Junker",
+    "Joel!",
+    "",
+    "Somehow still intact, but covered in",
+    "moss.",
+    "",
+    "RARE"
+  ],
+  "name": "破损的腰带扣",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A piece of Junk. Bring it to Junker",
+        "Joel!"
+      ],
+      "translation": "一件垃圾.把它带给 Junker Joel!",
+      "styleMappings": {
+        "Junk": "垃圾",
+        "Junker Joel": "Junker Joel"
+      }
+    },
+    {
+      "source": [
+        "Somehow still intact, but covered in",
+        "moss."
+      ],
+      "translation": "不知为何仍然完好,但覆满了苔藓.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Belt": "腰带",
+    "Busted Belt Buckle": "破损的腰带扣"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

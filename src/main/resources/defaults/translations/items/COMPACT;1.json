@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "COMPACT;1",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Compact I",
+    "Gain +1☯ Mining Wisdom and a",
+    "0.25% chance to drop an",
+    "enchanted item.",
+    "",
+    "Break 100 blocks for Tier II",
+    "Break 500 blocks for Tier III",
+    "Break 1,5k blocks for Tier IV",
+    "Break 5k blocks for Tier V",
+    "Break 15k blocks for Tier VI",
+    "Break 50k blocks for Tier VII",
+    "Break 150k blocks for Tier VIII",
+    "Break 500k blocks for Tier IX",
+    "Break 1M blocks for Tier X",
+    "",
+    "▲ Compact cannot be combined!",
+    "",
+    "Sources:",
+    " - Community Shop (I)",
+    " - Bazaar (I)",
+    "",
+    "Applied To:",
+    " - Pickaxe",
+    " - Drill",
+    " - Gauntlet",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Compact I"
+      ],
+      "translation": "紧凑 I",
+      "styleMappings": {
+        "Compact": "紧凑"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}}☯ Mining Wisdom and a",
+        "{{N1}} chance to drop an",
+        "enchanted item."
+      ],
+      "translation": "获得 {{N0}}☯ 采矿智慧和 {{N1}} 掉落附魔物品的几率.",
+      "styleMappings": {
+        "Mining Wisdom": "采矿智慧",
+        "chance": "几率",
+        "Gain": "获得",
+        "item": "物品",
+        "Mining": "采矿",
+        "chance to": "几率",
+        "Wisdom": "智慧"
+      }
+    },
+    {
+      "source": [
+        "Break {{N0}} blocks for Tier II",
+        "Break {{N1}} blocks for Tier III",
+        "Break {{N2}},{{N3}}k blocks for Tier IV",
+        "Break {{N4}}k blocks for Tier V",
+        "Break {{N5}}k blocks for Tier VI",
+        "Break {{N6}}k blocks for Tier VII",
+        "Break {{N7}}k blocks for Tier VIII",
+        "Break {{N8}}k blocks for Tier IX",
+        "Break {{N9}}M blocks for Tier X"
+      ],
+      "translation": "破坏 {{N0}} 个方块达到 II 级 破坏 {{N1}} 个方块达到 III 级 破坏 {{N2}},{{N3}}千个方块达到 IV 级 破坏 {{N4}}千个方块达到 V 级 破坏 {{N5}}千个方块达到 VI 级 破坏 {{N6}}千个方块达到 VII 级 破坏 {{N7}}千个方块达到 VIII 级 破坏 {{N8}}千个方块达到 IX 级 破坏 {{N9}}百万个方块达到 X 级",
+      "styleMappings": {
+        "blocks": "方块",
+        "{{N2}},{{N3}}k": "{{N2}},{{N3}}千",
+        "{{N4}}k": "{{N4}}千",
+        "{{N5}}k": "{{N5}}千",
+        "{{N6}}k": "{{N6}}千",
+        "{{N7}}k": "{{N7}}千",
+        "{{N8}}k": "{{N8}}千",
+        "{{N9}}M": "{{N9}}百万",
+        "Break": "破坏",
+        "{{N3}}k": "{{N3}}千",
+        "II": "II",
+        "III": "III"
+      }
+    },
+    {
+      "source": [
+        "▲ Compact cannot be combined!"
+      ],
+      "translation": "▲ 紧凑无法合并!",
+      "styleMappings": {
+        "Compact": "紧凑"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Community Shop (I)",
+        " - Bazaar (I)"
+      ],
+      "translation": " - 社区商店 (I)  - 集市 (I)",
+      "styleMappings": {
+        "Community Shop": "社区商店",
+        "Bazaar": "集市",
+        "I": "I"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Pickaxe",
+        " - Drill",
+        " - Gauntlet"
+      ],
+      "translation": " - 镐  - 钻头  - 护手",
+      "styleMappings": {
+        "Gauntlet": "护手",
+        "Drill": "钻头",
+        "Pickaxe": "镐"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

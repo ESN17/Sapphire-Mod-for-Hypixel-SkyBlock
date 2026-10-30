@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "id": "SHEEP;4",
+  "_original_name": "[Lvl {LVL}] Sheep",
+  "_original_lore": [
+    "Alchemy Pet",
+    "",
+    "Intelligence: +{INTELLIGENCE}",
+    "Ability Damage: +{ABILITY_DAMAGE}%",
+    "",
+    "Mana Saver",
+    "Reduces the mana cost of abilities by",
+    "{0}%.",
+    "",
+    "Overheal",
+    "Gives a {1}% shield after not taking",
+    "damage for 10s",
+    "",
+    "Dungeon Wizard",
+    "Increases your total mana by {2}%",
+    "while in dungeons",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "LEGENDARY PET"
+  ],
+  "name": "[等级 {LVL}] 绵羊",
+  "lore": {
+    "Alchemy Pet": "炼金宠物",
+    "Intelligence: {value}": "智力:{value}",
+    "Ability Damage: {value}": "技能伤害:{value}",
+    "Mana Saver": "节省魔力",
+    "Overheal": "过量治疗",
+    "Dungeon Wizard": "地牢巫师",
+    "Right-click to add this pet to your pet menu!": "右键将此宠物添加到宠物菜单!",
+    "LEGENDARY PET": "传说宠物",
+    "Intelligence: {value} ({bonus})": "智力:{value} ({bonus})",
+    "Ability Damage: {value} ({bonus})": "技能伤害:{value} ({bonus})"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "Reduces the mana cost of abilities by",
+        "{reduction}."
+      ],
+      "translation": "技能的魔力消耗降低 {reduction}.",
+      "styleMappings": {
+        "abilities": "技能"
+      }
+    },
+    {
+      "source": [
+        "Gives a {shield} shield after not taking",
+        "damage for {duration}s"
+      ],
+      "translation": "连续 {duration}秒未受到伤害后,获得 {shield} 的护盾.",
+      "styleMappings": {
+        "s": "秒",
+        "{duration}s": "{duration}秒",
+        "damage": "伤害",
+        "for": "获得"
+      }
+    },
+    {
+      "source": [
+        "Increases your total mana by {mana}",
+        "while in dungeons"
+      ],
+      "translation": "在地牢中,魔力总量提高 {mana}.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Alchemy Pet"
+      ],
+      "translation": "炼金宠物",
+      "styleMappings": {
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: +{{N0}}"
+      ],
+      "translation": "智力: +{{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Ability Damage: +{{N0}}%"
+      ],
+      "translation": "技能伤害: +{{N0}}%",
+      "styleMappings": {
+        "Ability Damage": "技能伤害",
+        "Ability": "技能",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Mana Saver"
+      ],
+      "translation": "节省魔力",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Reduces the mana cost of abilities by",
+        "{{N0}}%."
+      ],
+      "translation": "技能的法力消耗降低 {{N0}}%.",
+      "styleMappings": {
+        "abilities": "技能",
+        "mana": "法力"
+      }
+    },
+    {
+      "source": [
+        "Overheal"
+      ],
+      "translation": "过量治疗",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Gives a {{N0}}% shield after not taking",
+        "damage for {{N1}}s"
+      ],
+      "translation": "在 {{N1}}秒内未受到伤害后获得 {{N0}}% 护盾",
+      "styleMappings": {
+        "damage": "伤害",
+        "{{N1}}s": "{{N1}}秒",
+        "for": "获得"
+      }
+    },
+    {
+      "source": [
+        "Dungeon Wizard"
+      ],
+      "translation": "地牢巫师",
+      "styleMappings": {
+        "Dungeon": "地牢"
+      }
+    },
+    {
+      "source": [
+        "Increases your total mana by {{N0}}%",
+        "while in dungeons"
+      ],
+      "translation": "在地牢中使你的总法力提高 {{N0}}%",
+      "styleMappings": {
+        "mana": "法力"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY PET"
+      ],
+      "translation": "传说 宠物",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Intelligence": "智力",
+    "Damage": "伤害",
+    "s": "秒",
+    "Dungeon": "地牢",
+    "Sheep": "绵羊",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

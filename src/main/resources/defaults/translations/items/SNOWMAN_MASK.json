@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "SNOWMAN_MASK",
+  "_original_name": "Snowman Mask",
+  "_original_lore": [
+    "Health: +10",
+    "",
+    "Ability: Feelin' Festive ",
+    "Gain +10% more Coins and Skill XP",
+    "from Gifts.",
+    "",
+    "Also comes with a hat!",
+    "Very stylish.",
+    "",
+    "This item can be reforged!",
+    "RARE CARNIVAL MASK"
+  ],
+  "name": "雪人面具",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Ability: Feelin' Festive "
+      ],
+      "translation": "能力: 节日气氛 ",
+      "styleMappings": {
+        "Ability": "能力",
+        "Festive": "节日"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}} more Coins and Skill XP",
+        "from Gifts."
+      ],
+      "translation": "从礼物中获得 {{N0}} 更多硬币和技能经验.",
+      "styleMappings": {
+        "Skill XP": "技能经验",
+        "Coins": "硬币",
+        "Gifts": "礼物",
+        "Gain": "获得",
+        "more": "更多",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "Also comes with a hat!"
+      ],
+      "translation": "还附带一顶帽子!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Very stylish."
+      ],
+      "translation": "非常时尚.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "RARE CARNIVAL MASK"
+      ],
+      "translation": "稀有嘉年华面具",
+      "styleMappings": {
+        "RARE CARNIVAL MASK": "稀有嘉年华面具",
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Snowman Mask": "雪人面具",
+    "Mask": "面具",
+    "Snowman": "雪人"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

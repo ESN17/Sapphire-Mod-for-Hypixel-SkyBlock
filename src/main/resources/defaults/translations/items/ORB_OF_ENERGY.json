@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "ORB_OF_ENERGY",
+  "_original_name": "Orb of Energy",
+  "_original_lore": [
+    "According to Professor Selta they",
+    "are 9V batteries and can supply",
+    "about 50mA of current. Professor",
+    "Selta is currently in a mental asylum.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "RARE"
+  ],
+  "name": "能量球",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "According to Professor Selta they",
+        "are {{N0}}V batteries and can supply",
+        "about {{N1}}mA of current. Professor",
+        "Selta is currently in a mental asylum."
+      ],
+      "translation": "根据塞尔塔教授的说法,它们是 {{N0}}伏电池,可提供约 {{N1}}毫安的电流.塞尔塔教授目前正在精神病院.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

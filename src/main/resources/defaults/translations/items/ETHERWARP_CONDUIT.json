@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "id": "ETHERWARP_CONDUIT",
+  "_original_name": "Etherwarp Conduit",
+  "_original_lore": [
+    "Ability: Ether Transmission  RIGHT CLICK",
+    "Teleport to your targeted block up",
+    "to 57 blocks away.",
+    "Soulflow Cost: 1",
+    "Mana Cost: 180",
+    "",
+    "☠ Requires Enderman Slayer 7.",
+    "EPIC"
+  ],
+  "name": "以太传送导管",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Ether Transmission  RIGHT CLICK"
+      ],
+      "translation": "技能: 以太传送  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "Transmission": "传送",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Teleport to your targeted block up",
+        "to {{N0}} blocks away."
+      ],
+      "translation": "传送到你瞄准的方块,最远 {{N0}} 格.",
+      "styleMappings": {
+        "blocks": "格",
+        "Teleport": "传送",
+        "block": "格"
+      }
+    },
+    {
+      "source": [
+        "Soulflow Cost: {{N0}}"
+      ],
+      "translation": "灵魂流消耗: {{N0}}",
+      "styleMappings": {
+        "Soulflow Cost": "灵魂流消耗",
+        "Soulflow": "灵魂流"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Enderman Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要末影人杀手 {{N0}}.",
+      "styleMappings": {
+        "Enderman Slayer": "末影人杀手",
+        "Requires": "需要",
+        "Slayer": "杀手",
+        "Enderman": "末影人"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

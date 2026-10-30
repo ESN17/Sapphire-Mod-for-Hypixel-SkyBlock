@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "FAKE_SHURIKEN",
+  "_original_name": "Extremely Real Shuriken",
+  "_original_lore": [
+    "Can be thrown at Enemies to tag",
+    "them. Grants +5%  Magic Find when",
+    "a tagged Enemy is killed.",
+    "Cooldown: 1s",
+    "",
+    "X Rift-Transferable X",
+    "RARE"
+  ],
+  "name": "极其真实的飞镖",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Can be thrown at Enemies to tag",
+        "them. Grants {{N0}}  Magic Find when",
+        "a tagged Enemy is killed."
+      ],
+      "translation": "可投向敌人进行标记.击杀被标记的敌人时获得 {{N0}}   稀有物品概率加成.",
+      "styleMappings": {
+        "Enemies": "敌人",
+        "Enemy": "敌人",
+        "Magic Find": "稀有物品概率加成",
+        " Magic Find": " 稀有物品概率加成",
+        "is killed": "击杀",
+        "Grants": "获得",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "X Rift-Transferable X"
+      ],
+      "translation": "X 可转移至裂隙 X",
+      "styleMappings": {
+        "Rift-Transferable": "可转移至裂隙",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "id": "HORNS_OF_TORMENT",
+  "_original_name": "Horns of Torment",
+  "_original_lore": [
+    "Combine x9 of this item at the",
+    "Thaumaturgist in the Hub to unlock the",
+    "Demonic power.",
+    "",
+    "At 250 Accessory Power:",
+    "+53.22 Strength",
+    "+267.28 Intelligence",
+    "",
+    "Unique Power Bonus:",
+    "+50 Crit Damage",
+    "",
+    "❣ Requires Combat Skill 25.",
+    "",
+    "EPIC POWER STONE"
+  ],
+  "name": "折磨之角",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combine x{{N0}} of this item at the",
+        "Thaumaturgist in the Hub to unlock the",
+        "Demonic power."
+      ],
+      "translation": "在中心岛的奇术师居所处合成 {{N0}} 个此物品以解锁恶魔之力.",
+      "styleMappings": {
+        "Thaumaturgist": "奇术师居所",
+        "Demonic": "恶魔",
+        "item": "物品",
+        "Hub": "中心岛",
+        "to unlock the": "以解锁",
+        "Combine": "合成",
+        "in the": "的",
+        "x{{N0}}": "{{N0}} 个"
+      }
+    },
+    {
+      "source": [
+        "At {{N0}} Accessory Power:"
+      ],
+      "translation": "在 {{N0}} 饰品能量时:",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "{{N0}} Strength",
+        "{{N1}} Intelligence"
+      ],
+      "translation": "{{N0}} 力量 {{N1}} 智力",
+      "styleMappings": {
+        "Intelligence": "智力",
+        " Strength": " 力量",
+        "": "",
+        "Strength": "力量",
+        " Intelligence": " 智力"
+      }
+    },
+    {
+      "source": [
+        "Unique Power Bonus:"
+      ],
+      "translation": "独特能量加成:",
+      "styleMappings": {
+        "Unique Power Bonus": "独特能量加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "{{N0}} Crit Damage"
+      ],
+      "translation": "{{N0}} 暴击伤害",
+      "styleMappings": {
+        " Crit Damage": " 暴击伤害",
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC POWER STONE"
+      ],
+      "translation": "史诗力量之石",
+      "styleMappings": {
+        "EPIC POWER STONE": "史诗力量之石",
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

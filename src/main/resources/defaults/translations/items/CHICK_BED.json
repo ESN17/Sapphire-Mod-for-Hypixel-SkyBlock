@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "id": "CHICK_BED",
+  "_original_name": "Little Chick Bed",
+  "_original_lore": [
+    "Furniture",
+    "Easter Cosmetic",
+    "Spawnpoint",
+    "",
+    "This exclusive Easter cosmetic can",
+    "be placed on your island or traded.",
+    "",
+    "EPIC"
+  ],
+  "name": "小鸡床",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Furniture",
+        "Easter Cosmetic",
+        "Spawnpoint"
+      ],
+      "translation": "家具 复活节装饰 生成点",
+      "styleMappings": {
+        "Easter Cosmetic": "复活节装饰",
+        "Spawnpoint": "生成点",
+        "Furniture": "家具",
+        "Easter": "复活节"
+      }
+    },
+    {
+      "source": [
+        "This exclusive Easter cosmetic can",
+        "be placed on your island or traded."
+      ],
+      "translation": "这款专属复活节装饰可以放置在你的岛屿上或进行交易.",
+      "styleMappings": {
+        "Easter": "复活节",
+        "island": "岛屿上"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

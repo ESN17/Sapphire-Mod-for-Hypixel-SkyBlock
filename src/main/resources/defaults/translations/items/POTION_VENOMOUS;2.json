@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_VENOMOUS;2",
+  "_original_name": "Venomous II Potion",
+  "_original_lore": [
+    "",
+    "Venomous II (3:00)",
+    "Grants -10  Speed and deals 10",
+    "damage per second.",
+    "",
+    "COMMON"
+  ],
+  "name": "剧毒 II 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Venomous II ({{N0}}:{{N1}})"
+      ],
+      "translation": "剧毒 II ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Venomous II": "剧毒 II",
+        "II": "II",
+        "Venomous": "剧毒"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}  Speed and deals {{N1}}",
+        "damage per second."
+      ],
+      "translation": "提供 {{N0}}  速度,并每秒造成 {{N1}} 伤害.",
+      "styleMappings": {
+        "per second": "每秒",
+        " Speed": " 速度",
+        "Grants": "提供",
+        "damage": "伤害",
+        "Speed": "速度",
+        "second": "秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Venomous II": "剧毒 II",
+    "II": "II",
+    "Venomous": "剧毒"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

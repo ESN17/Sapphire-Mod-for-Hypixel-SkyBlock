@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "TREASURE_BAIT",
+  "_original_name": "Treasure Bait",
+  "_original_lore": [
+    "Fishing Bait",
+    "Consumes on Catch",
+    "",
+    "Grants +10 Fishing Speed and +2",
+    "Treasure Chance.",
+    "",
+    "RARE BAIT"
+  ],
+  "name": "宝藏诱饵",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Fishing Bait",
+        "Consumes on Catch"
+      ],
+      "translation": "钓鱼鱼饵 钓起时消耗",
+      "styleMappings": {
+        "Consumes on Catch": "钓起时消耗",
+        "Fishing Bait": "钓鱼鱼饵",
+        "Fishing": "钓鱼",
+        "Bait": "鱼饵"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Fishing Speed and {{N1}}",
+        "Treasure Chance."
+      ],
+      "translation": "提供 {{N0}} 钓鱼速度 和 {{N1}} 宝藏概率.",
+      "styleMappings": {
+        "Treasure Chance": "宝藏概率",
+        "Fishing Speed": "钓鱼速度",
+        "Grants": "提供",
+        "Fishing": "钓鱼",
+        "Treasure": "宝藏",
+        "Speed": "速度",
+        " Fishing Speed": " 钓鱼速度"
+      }
+    },
+    {
+      "source": [
+        "RARE BAIT"
+      ],
+      "translation": "稀有 鱼饵",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Treasure": "宝藏",
+    "Treasure Bait": "宝藏诱饵"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

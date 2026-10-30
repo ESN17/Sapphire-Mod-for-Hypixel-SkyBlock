@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "id": "GRUNGLE",
+  "_original_name": "Drone Mod: Grungle",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Can be applied to Precursor Drone",
+    "to grant it +50 Foraging Fortune",
+    "and unlock the Grungle perk.",
+    "",
+    "Grungle",
+    "When Foraging, you can now ONLY",
+    "throw your Foraging Axe, but the",
+    "Throwing Axe Penalty is reduced by",
+    "0-100%.",
+    "Chances scale with pet level.",
+    "",
+    "Right-click on your summoned",
+    "Precursor Drone to give it this item!",
+    "",
+    "EPIC PET ITEM"
+  ],
+  "name": "无人机改装: 格朗格尔",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Can be applied to Precursor Drone",
+        "to grant it {{N0}} Foraging Fortune",
+        "and unlock the Grungle perk."
+      ],
+      "translation": "可应用于先遣无人机,使其获得 {{N0}} 采伐幸运并解锁格朗格尔技能.",
+      "styleMappings": {
+        " Foraging Fortune": " 采伐幸运",
+        "Precursor Drone": "先遣无人机",
+        "Grungle": "格朗格尔",
+        "Fortune": "幸运",
+        "Foraging": "采伐",
+        "Foraging Fortune": "采伐幸运"
+      }
+    },
+    {
+      "source": [
+        "Grungle"
+      ],
+      "translation": "格朗格尔",
+      "styleMappings": {
+        "Grungle": "格朗格尔"
+      }
+    },
+    {
+      "source": [
+        "When Foraging, you can now ONLY",
+        "throw your Foraging Axe, but the",
+        "Throwing Axe Penalty is reduced by",
+        "{{N0}}-{{N1}}."
+      ],
+      "translation": "采伐时,你现在只能投掷你的采伐斧,但投掷斧惩罚降低 {{N0}}-{{N1}}.",
+      "styleMappings": {
+        "Throwing Axe Penalty": "投掷斧惩罚",
+        "Foraging Axe": "采伐斧",
+        "Foraging": "采伐",
+        "ONLY": "只能",
+        "Axe": "斧",
+        "Throwing Axe": "投掷斧"
+      }
+    },
+    {
+      "source": [
+        "Chances scale with pet level."
+      ],
+      "translation": "概率随宠物等级提升.",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Right-click on your summoned"
+      ],
+      "translation": "右键点击你召唤的",
+      "styleMappings": {
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "Precursor Drone to give it this item!"
+      ],
+      "translation": "先驱者无人机,将此物品给予它!",
+      "styleMappings": {
+        "Precursor Drone": "先驱者无人机",
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "EPIC PET ITEM"
+      ],
+      "translation": "史诗 宠物 物品",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Grungle": "格朗格尔"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

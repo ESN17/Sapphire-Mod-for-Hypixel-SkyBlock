@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "id": "SELF_RECURSIVE_PICKAXE",
+  "_original_name": "Self-Recursive Pickaxe",
+  "_original_lore": [
+    "Rift Damage: +5",
+    "Speed: +2",
+    "",
+    "Allows you to break living metal ore",
+    "and, potentially, living metal faces.",
+    "",
+    "Regens 4 Mana on hit.",
+    "",
+    "RARE SWORD"
+  ],
+  "name": "自递归镐",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Rift Damage: {{N0}}"
+      ],
+      "translation": "裂隙伤害: {{N0}}",
+      "styleMappings": {
+        "Rift Damage": "裂隙伤害",
+        "Damage": "伤害",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Allows you to break living metal ore",
+        "and, potentially, living metal faces."
+      ],
+      "translation": "允许你挖掘活体金属矿石,并有可能挖掘活体金属面.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Regens {{N0}} Mana on hit."
+      ],
+      "translation": "命中时回复 {{N0}} 法力.",
+      "styleMappings": {
+        "Mana": "法力",
+        "hit": "命中"
+      }
+    },
+    {
+      "source": [
+        "RARE SWORD"
+      ],
+      "translation": "稀有剑",
+      "styleMappings": {
+        "RARE": "稀有",
+        "RARE SWORD": "稀有剑"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Pickaxe": "镐"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

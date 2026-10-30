@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "BARRY_RIFT_NPC",
+  "_original_name": "Barry (Rift NPC)",
+  "_original_lore": [
+    "Chief Prime Minister",
+    "Head of Cabinet",
+    "Premier Leader of SkyBlock"
+  ],
+  "name": "Barry (裂隙人物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Chief Prime Minister"
+      ],
+      "translation": "首席首相",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Head of Cabinet"
+      ],
+      "translation": "内阁首脑",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Premier Leader of SkyBlock"
+      ],
+      "translation": "空岛生存最高领袖",
+      "styleMappings": {
+        "SkyBlock": "空岛生存"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Rift NPC)": "(裂隙人物)",
+    "Rift": "裂隙"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

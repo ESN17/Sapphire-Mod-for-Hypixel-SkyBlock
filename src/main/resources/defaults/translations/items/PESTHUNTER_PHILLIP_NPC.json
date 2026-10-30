@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "PESTHUNTER_PHILLIP_NPC",
+  "_original_name": "Pesthunter Phillip (NPC)",
+  "_original_lore": [
+    "Using Pests as currency, purchase",
+    "a variety of bits 'n bobs that Phillip",
+    "has held onto over the years!"
+  ],
+  "name": "害虫猎手 Phillip (人物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Using Pests as currency, purchase",
+        "a variety of bits 'n bobs that Phillip",
+        "has held onto over the years!"
+      ],
+      "translation": "使用害虫作为货币, 购买菲利普多年来积攒的各种小玩意儿!",
+      "styleMappings": {
+        "Pests": "害虫",
+        "years": "年",
+        "Phillip": "菲利普"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Pesthunter Phillip": "害虫猎手 Phillip",
+    "(NPC)": "(人物)"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

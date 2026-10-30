@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "DYE_LUCKY",
+  "_original_name": "Lucky Dye",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Animates the color of an armor piece",
+    "between #87FF37 and #006944!",
+    "",
+    "MYTHIC DYE"
+  ],
+  "name": "幸运染料",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Animates the color of an armor piece",
+        "between #{{N0}}FF{{N1}} and #{{N2}}!"
+      ],
+      "translation": "使盔甲部件的颜色在 #{{N0}}FF{{N1}} 和 #{{N2}} 之间渐变!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "MYTHIC DYE"
+      ],
+      "translation": "神话染料",
+      "styleMappings": {
+        "MYTHIC DYE": "神话染料",
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Lucky": "幸运"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

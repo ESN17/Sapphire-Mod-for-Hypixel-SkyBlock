@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "VOIDCRAZED_MANIAC_MINIBOSS",
+  "_original_name": "Voidcrazed Maniac (Miniboss)",
+  "_original_lore": [
+    "The Voidling Maniac is a Enderman Slayer",
+    "Miniboss that very rarely spawns after killing a",
+    "Enderman during Voidgloom Seraph Tier IV Quests.",
+    "",
+    "❤ Health: 75,000,000"
+  ],
+  "name": "虚空狂乱者 (小头目)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Voidling Maniac is a Enderman Slayer",
+        "Miniboss that very rarely spawns after killing a",
+        "Enderman during Voidgloom Seraph Tier IV Quests."
+      ],
+      "translation": "虚空狂乱者是末影人杀手小首领,在虚空幽暗炽天使 IV 阶任务中击杀末影人后有极低概率生成.",
+      "styleMappings": {
+        "Voidgloom Seraph Tier IV Quests": "虚空幽暗炽天使 IV 阶任务",
+        "Enderman Slayer": "末影人杀手",
+        "Enderman": "末影人",
+        "Miniboss": "小首领",
+        "Slayer": "杀手",
+        "Voidgloom Seraph": "虚空幽暗炽天使",
+        "Slayer Miniboss": "杀手小首领"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Miniboss": "小头目",
+    "(Miniboss)": "(小头目)"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

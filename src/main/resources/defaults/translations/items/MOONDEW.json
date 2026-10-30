@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "MOONDEW",
+  "_original_name": "Moondew",
+  "_original_lore": [
+    "Can be placed in a Pest Trap.",
+    "",
+    "Attracts: Lunar Moth",
+    "",
+    "EPIC"
+  ],
+  "name": "月露",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Can be placed in a Pest Trap."
+      ],
+      "translation": "可放入害虫陷阱.",
+      "styleMappings": {
+        "Pest Trap": "害虫陷阱",
+        "Pest": "害虫"
+      }
+    },
+    {
+      "source": [
+        "Attracts: Lunar Moth"
+      ],
+      "translation": "吸引:月神蛾",
+      "styleMappings": {
+        "Lunar Moth": "月神蛾",
+        "Attracts": "吸引"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Moondew": "月露"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

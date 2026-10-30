@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "TOXIC_ARROW_POISON",
+  "_original_name": "Toxic Arrow Poison",
+  "_original_lore": [
+    "Consumed on arrow shot",
+    "Arrows deal an additional 10% of",
+    "damage as poison and reduce",
+    "healing by 24% over 4 seconds.",
+    "",
+    "UNCOMMON ARROW POISON"
+  ],
+  "name": "剧毒箭毒",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumed on arrow shot",
+        "Arrows deal an additional {{N0}} of",
+        "damage as poison and reduce",
+        "healing by {{N1}} over {{N2}} seconds."
+      ],
+      "translation": "射箭时消耗 箭矢额外造成 {{N0}} 点毒素伤害,并在 {{N2}} 秒内降低 {{N1}} 点治疗量.",
+      "styleMappings": {
+        "Consumed on arrow shot": "射箭时消耗",
+        "additional": "额外",
+        "seconds": "秒",
+        "damage": "伤害",
+        "poison": "毒素",
+        "deal": "造成"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON ARROW POISON"
+      ],
+      "translation": "罕见箭毒",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

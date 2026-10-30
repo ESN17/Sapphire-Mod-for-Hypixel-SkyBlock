@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "id": "STARLIGHT_HELMET",
+  "_original_name": "Starlight Helmet",
+  "_original_lore": [
+    "Health: +25",
+    "Defense: +25",
+    "Intelligence: +45",
+    "",
+    "Full Set Bonus: Starpower (0/4)",
+    "Increases the duration of Starfall",
+    "by 2x and its range by +1.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Combat Skill 8.",
+    "RARE HELMET"
+  ],
+  "name": "星光头盔",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Starpower ({{N0}}/{{N1}})"
+      ],
+      "translation": "全套效果:星能 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Full Set Bonus: Starpower": "全套效果:星能",
+        "Full Set Bonus": "全套效果"
+      }
+    },
+    {
+      "source": [
+        "Increases the duration of Starfall",
+        "by {{N0}}x and its range by {{N1}}."
+      ],
+      "translation": "使星陨的持续时间延长 {{N0}} 倍,范围扩大 {{N1}}.",
+      "styleMappings": {
+        "Starfall": "星陨",
+        "{{N0}}x": "{{N0}} 倍"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "RARE HELMET"
+      ],
+      "translation": "稀有头盔",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Starlight Helmet": "星光头盔",
+    "Helmet": "头盔"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "MOBY_DUCK",
+  "_original_name": "Moby-Duck",
+  "_original_lore": [
+    "Consume to boost your ☯ Fishing",
+    "Wisdom for 60m.",
+    "",
+    "Keep this item in your inventory to",
+    "increase the bonus up to +30☯",
+    "Fishing Wisdom, at which point the item",
+    "evolves!",
+    "",
+    "Current Bonus: +0☯ Fishing Wisdom",
+    "",
+    "A series of tales following a fellow",
+    "named Moby and his waterfowl best",
+    "friend. Who would be so egregious as",
+    "to thrust such a literary",
+    "masterpiece into the sea?",
+    "",
+    "RARE"
+  ],
+  "name": "莫比鸭",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consume to boost your ☯ Fishing",
+        "Wisdom for {{N0}}m."
+      ],
+      "translation": "食用后,提升你的 ☯ 钓鱼智慧,持续 {{N0}}分钟.",
+      "styleMappings": {
+        "Fishing Wisdom": "钓鱼智慧",
+        "for": "持续",
+        "{{N0}}m": "{{N0}}分钟",
+        "Fishing": "钓鱼",
+        "Wisdom": "智慧"
+      }
+    },
+    {
+      "source": [
+        "Keep this item in your inventory to",
+        "increase the bonus up to {{N0}}☯",
+        "Fishing Wisdom, at which point the item",
+        "evolves!"
+      ],
+      "translation": "将此物品保留在物品栏中,可将加成提升至 {{N0}}☯ 钓鱼智慧,达到该值后物品将进化!",
+      "styleMappings": {
+        "Fishing Wisdom": "钓鱼智慧",
+        "evolves": "进化",
+        "item": "物品",
+        "Fishing": "钓鱼",
+        "Wisdom": "智慧"
+      }
+    },
+    {
+      "source": [
+        "Current Bonus: {{N0}}☯ Fishing Wisdom"
+      ],
+      "translation": "当前加成:{{N0}}☯ 钓鱼智慧",
+      "styleMappings": {
+        "Current Bonus:": "当前加成:",
+        "Fishing Wisdom": "钓鱼智慧",
+        "Fishing": "钓鱼",
+        "Bonus": "加成",
+        "Wisdom": "智慧"
+      }
+    },
+    {
+      "source": [
+        "A series of tales following a fellow",
+        "named Moby and his waterfowl best",
+        "friend. Who would be so egregious as",
+        "to thrust such a literary",
+        "masterpiece into the sea?"
+      ],
+      "translation": "一系列故事,讲述一个名叫 Moby 的家伙和他最好的水禽朋友.谁会如此过分,把这样一部文学杰作扔进海里?",
+      "styleMappings": {
+        "Moby": "Moby"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

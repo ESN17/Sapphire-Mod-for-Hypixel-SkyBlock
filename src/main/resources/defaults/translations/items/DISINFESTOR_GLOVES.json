@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "DISINFESTOR_GLOVES",
+  "_original_name": "Disinfestor Gloves",
+  "_original_lore": [
+    "Rift Time: +30s",
+    "",
+    "Right-click to equip!",
+    "",
+    "RARE GLOVES"
+  ],
+  "name": "除虫手套",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Rift Time: {{N0}}s"
+      ],
+      "translation": "裂隙时间: {{N0}}秒",
+      "styleMappings": {
+        "Rift Time": "裂隙时间",
+        "{{N0}}s": "{{N0}}秒",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "Right-click to equip!"
+      ],
+      "translation": "右键点击装备!",
+      "styleMappings": {
+        "Right-click to equip!": "右键点击装备!",
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "RARE GLOVES"
+      ],
+      "translation": "稀有 手套",
+      "styleMappings": {
+        "GLOVES": "手套",
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Gloves": "手套"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

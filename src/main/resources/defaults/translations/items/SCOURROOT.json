@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "SCOURROOT",
+  "_original_name": "Scourroot",
+  "_original_lore": [
+    "Bitter to the core, as if cursed by",
+    "the soil.",
+    "",
+    "Complete Visitor Beth's quest to",
+    "Analyze this crop!",
+    "",
+    "COMMON MUTATION"
+  ],
+  "name": "灾祸根",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Bitter to the core, as if cursed by",
+        "the soil."
+      ],
+      "translation": "苦到骨子里,仿佛被土壤诅咒.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Complete Visitor Beth's quest to",
+        "Analyze this crop!"
+      ],
+      "translation": "完成访客 Beth 的任务来分析这种作物!",
+      "styleMappings": {
+        "Visitor": "访客",
+        "Beth's": "Beth 的",
+        "Analyze": "分析"
+      }
+    },
+    {
+      "source": [
+        "COMMON MUTATION"
+      ],
+      "translation": "普通变异",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Scourroot": "灾祸根"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

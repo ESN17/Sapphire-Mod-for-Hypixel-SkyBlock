@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "SOGGYBUD",
+  "_original_name": "Soggybud",
+  "_original_lore": [
+    "A plant that drinks it all in, then",
+    "expands like a water balloon.",
+    "",
+    "Complete Visitor Beth's quest to",
+    "Analyze this crop!",
+    "",
+    "RARE MUTATION"
+  ],
+  "name": "水淹芽",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A plant that drinks it all in, then",
+        "expands like a water balloon."
+      ],
+      "translation": "一种把水全部喝下,然后像水气球一样膨胀的植物.",
+      "styleMappings": {
+        "plant": "植物",
+        "all": "全部",
+        "water": "水"
+      }
+    },
+    {
+      "source": [
+        "Complete Visitor Beth's quest to",
+        "Analyze this crop!"
+      ],
+      "translation": "完成访客 Beth 的任务来分析这种作物!",
+      "styleMappings": {
+        "Visitor": "访客",
+        "Beth's": "Beth 的",
+        "Analyze": "分析"
+      }
+    },
+    {
+      "source": [
+        "RARE MUTATION"
+      ],
+      "translation": "稀有突变",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

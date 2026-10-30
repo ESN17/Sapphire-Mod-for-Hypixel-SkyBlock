@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "BIOFUEL",
+  "_original_name": "Biofuel",
+  "_original_lore": [
+    "Machine Fuel",
+    "",
+    "Adds +3,000 Fuel to a refuelable",
+    "machine.",
+    "",
+    "100% renewable energy!",
+    "",
+    "RARE"
+  ],
+  "name": "生物燃料",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Machine Fuel"
+      ],
+      "translation": "机器燃料",
+      "styleMappings": {
+        "Machine Fuel": "机器燃料",
+        "Fuel": "燃料"
+      }
+    },
+    {
+      "source": [
+        "Adds {{N0}} Fuel to a refuelable",
+        "machine."
+      ],
+      "translation": "为可补充燃料的机器添加 {{N0}} 燃料.",
+      "styleMappings": {
+        "Adds": "添加",
+        "Fuel": "燃料",
+        "to a refuelable machine": "为可补充燃料的机器"
+      }
+    },
+    {
+      "source": [
+        "{{N0}} renewable energy!"
+      ],
+      "translation": "{{N0}} 可再生能源!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

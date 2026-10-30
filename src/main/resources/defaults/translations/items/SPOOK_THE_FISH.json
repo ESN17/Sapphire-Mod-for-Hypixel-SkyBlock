@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "SPOOK_THE_FISH",
+  "_original_name": "Spook the Fish",
+  "_original_lore": [
+    "This fish lurks in the darkness below",
+    "the Main Lobby during the Halloween",
+    "season.",
+    "",
+    "SPECIAL"
+  ],
+  "name": "幽灵鱼",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "This fish lurks in the darkness below",
+        "the Main Lobby during the Halloween",
+        "season."
+      ],
+      "translation": "这条鱼在万圣节期间潜伏在主大厅下方的黑暗中.",
+      "styleMappings": {
+        "Halloween": "万圣节",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fish": "鱼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

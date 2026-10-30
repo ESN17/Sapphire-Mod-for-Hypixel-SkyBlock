@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_RESISTANCE;1",
+  "_original_name": "Resistance I Potion",
+  "_original_lore": [
+    "",
+    "Resistance I (3:00)",
+    "Increases  Defense by +5.",
+    "",
+    "COMMON"
+  ],
+  "name": "抗性 I 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Resistance I ({{N0}}:{{N1}})"
+      ],
+      "translation": "抗性 I ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Resistance I": "抗性 I",
+        "Resistance": "抗性"
+      }
+    },
+    {
+      "source": [
+        "Increases  Defense by {{N0}}."
+      ],
+      "translation": "增加  防御力 {{N0}}.",
+      "styleMappings": {
+        "Increases": "增加",
+        " Defense": " 防御",
+        "Defense": "防御力"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Resistance I": "抗性 I",
+    "Resistance": "抗性"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

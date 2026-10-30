@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "JINGLE_BELLS",
+  "_original_name": "Jingle Bells",
+  "_original_lore": [
+    "Ability: Jingle Bells  RIGHT CLICK",
+    "Angers all monsters in a 10 block",
+    "range, consuming 50% of your max",
+    "mana and causing them to run",
+    "towards you.",
+    "Cooldown: 1s",
+    "",
+    "* Co-op Soulbound *",
+    "RARE"
+  ],
+  "name": "铃儿响叮当",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Jingle Bells  RIGHT CLICK"
+      ],
+      "translation": "技能: 铃儿响叮当  右键点击",
+      "styleMappings": {
+        "Ability: Jingle Bells": "技能: 铃儿响叮当",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Angers all monsters in a {{N0}} block",
+        "range, consuming {{N1}} of your max",
+        "mana and causing them to run",
+        "towards you."
+      ],
+      "translation": "激怒 {{N0}} 格范围内的所有怪物,消耗你最大法力值的 {{N1}},并使它们朝你跑来.",
+      "styleMappings": {
+        "of your max": "最大",
+        "monsters": "怪物",
+        "block": "格",
+        "mana": "法力",
+        "max": "最大"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

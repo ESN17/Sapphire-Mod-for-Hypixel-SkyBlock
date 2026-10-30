@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_INVISIBILITY;1",
+  "_original_name": "Invisibility I Potion",
+  "_original_lore": [
+    "",
+    "Invisibility I (3:00)",
+    "Grants invisibility from players and",
+    "mobs.",
+    "",
+    "COMMON"
+  ],
+  "name": "隐身 I 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Invisibility I ({{N0}}:{{N1}})"
+      ],
+      "translation": "隐身 I ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Invisibility I": "隐身 I"
+      }
+    },
+    {
+      "source": [
+        "Grants invisibility from players and",
+        "mobs."
+      ],
+      "translation": "使玩家和生物无法看到你.",
+      "styleMappings": {
+        "mobs": "生物"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Invisibility I": "隐身 I"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

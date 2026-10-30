@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "ARACHNES_BROOD_MONSTER",
+  "_original_name": "Arachne's Brood (Monster)",
+  "_original_lore": [
+    "Arachne's Brood is a mob spawned",
+    "in waves by Arachne when she falls",
+    "below 50% and 25% of her health",
+    "",
+    "❤ Health: 10,000 - 100,000"
+  ],
+  "name": "阿拉克妮的巢群 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Arachne's Brood is a mob spawned",
+        "in waves by Arachne when she falls",
+        "below {{N0}} and {{N1}} of her health"
+      ],
+      "translation": "阿拉克妮之嗣是阿拉克妮在生命值降至 {{N0}} 和 {{N1}} 以下时成波生成的怪物",
+      "styleMappings": {
+        "Arachne": "阿拉克妮",
+        "health": "生命值",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}} - {{N1}}"
+      ],
+      "translation": "❤ 生命值: {{N0}} - {{N1}}",
+      "styleMappings": {
+        "Health": "生命值",
+        "-": "-"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Arachne": "阿拉克妮",
+    "Monster": "怪物",
+    "Brood": "巢群"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

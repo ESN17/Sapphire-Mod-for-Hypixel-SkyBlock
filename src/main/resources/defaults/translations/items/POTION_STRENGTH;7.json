@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_STRENGTH;7",
+  "_original_name": "Strength VII Potion",
+  "_original_lore": [
+    "",
+    "Strength VII (3:00)",
+    "Increases  Strength by 60.",
+    "",
+    "EPIC"
+  ],
+  "name": "力量 VII 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Strength VII ({{N0}}:{{N1}})"
+      ],
+      "translation": "力量 VII ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Strength VII": "力量 VII",
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Increases  Strength by {{N0}}."
+      ],
+      "translation": "增加  力量 {{N0}}.",
+      "styleMappings": {
+        " Strength": " 力量",
+        "Increases": "增加",
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Strength VII": "力量 VII",
+    "Strength": "力量"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

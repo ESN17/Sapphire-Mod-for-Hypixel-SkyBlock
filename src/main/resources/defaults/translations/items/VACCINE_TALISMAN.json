@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "VACCINE_TALISMAN",
+  "_original_name": "Vaccine Talisman",
+  "_original_lore": [
+    "Accessory Power: +3",
+    "",
+    "Reduces the effect of poison by 10%.",
+    "",
+    "Works while in Accessory Bag!",
+    "COMMON ACCESSORY"
+  ],
+  "name": "疫苗护符",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Accessory Power: {{N0}}"
+      ],
+      "translation": "饰品能量: {{N0}}",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "Reduces the effect of poison by {{N0}}."
+      ],
+      "translation": "使中毒效果降低 {{N0}}.",
+      "styleMappings": {
+        "poison": "中毒"
+      }
+    },
+    {
+      "source": [
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "放在饰品袋中即可生效!",
+      "styleMappings": {
+        "Accessory Bag": "饰品袋",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "COMMON ACCESSORY"
+      ],
+      "translation": "普通饰品",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Talisman": "护符"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

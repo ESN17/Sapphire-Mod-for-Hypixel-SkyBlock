@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "PLANTBOY_ADVANCE",
+  "_original_name": "PlantBoy Advance",
+  "_original_lore": [
+    "This plant loves a good challenge.",
+    "Every time you harvest it, it'll",
+    "challenge you to a quick game. Win,",
+    "and it thrives. Lose, though, and it's",
+    "game over for this little guy.",
+    "",
+    "Complete Visitor Beth's quest to",
+    "Analyze this crop!",
+    "",
+    "EPIC MUTATION"
+  ],
+  "name": "植物男孩 进阶版",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "This plant loves a good challenge."
+      ],
+      "translation": "这株植物喜欢挑战.",
+      "styleMappings": {
+        "plant": "植物"
+      }
+    },
+    {
+      "source": [
+        "Every time you harvest it, it'll",
+        "challenge you to a quick game. Win,",
+        "and it thrives. Lose, though, and it's",
+        "game over for this little guy."
+      ],
+      "translation": "每次你收获它时,它都会挑战你玩一局快速游戏.赢了,它就会茁壮成长.但如果输了,这个小家伙就完蛋了.",
+      "styleMappings": {
+        "s": "一"
+      }
+    },
+    {
+      "source": [
+        "Complete Visitor Beth's quest to",
+        "Analyze this crop!"
+      ],
+      "translation": "完成访客 Beth 的任务来分析这种作物!",
+      "styleMappings": {
+        "Visitor": "访客",
+        "Beth's": "Beth 的",
+        "Analyze": "分析"
+      }
+    },
+    {
+      "source": [
+        "EPIC MUTATION"
+      ],
+      "translation": "史诗变异",
+      "styleMappings": {
+        "EPIC MUTATION": "史诗变异",
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

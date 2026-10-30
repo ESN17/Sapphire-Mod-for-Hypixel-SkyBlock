@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "id": "SHIMMERING_LIGHT_TROUSERS",
+  "_original_name": "Shimmering Light Trousers",
+  "_original_lore": [
+    "Health: +120",
+    "Defense: +100",
+    "Intelligence: +100",
+    "Gemstones: [⚔]",
+    "",
+    "Tiered Bonus: Shimmer (0/4)",
+    "Increases all Experience Orbs",
+    "gained from monsters and ores by",
+    "200%.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Combat Skill 22.",
+    "RARE LEGGINGS"
+  ],
+  "name": "微光长裤",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [⚔]"
+      ],
+      "translation": "宝石: [⚔]",
+      "styleMappings": {
+        "Gemstones": "宝石",
+        "[": "[",
+        "Gemstones:": "宝石:"
+      }
+    },
+    {
+      "source": [
+        "Tiered Bonus: Shimmer ({{N0}}/{{N1}})"
+      ],
+      "translation": "分级加成: 微光 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Tiered Bonus": "分级加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Increases all Experience Orbs",
+        "gained from monsters and ores by",
+        "{{N0}}."
+      ],
+      "translation": "从怪物和矿石获得的所有经验球增加 {{N0}}.",
+      "styleMappings": {
+        "Experience Orbs": "经验球",
+        "Increases": "增加",
+        "monsters": "怪物",
+        "Experience": "经验"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "RARE LEGGINGS"
+      ],
+      "translation": "稀有 护腿",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

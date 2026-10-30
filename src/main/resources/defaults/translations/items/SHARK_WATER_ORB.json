@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "SHARK_WATER_ORB",
+  "_original_name": "Shark Water Orb",
+  "_original_lore": [
+    "A disgusting ball of mushed shark",
+    "matter.",
+    "",
+    "Are those teeth sticking out?",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "鲨鱼水球",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A disgusting ball of mushed shark",
+        "matter."
+      ],
+      "translation": "一团令人作呕的鲨鱼碎肉.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Are those teeth sticking out?"
+      ],
+      "translation": "那些是露出来的牙齿吗?",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shark": "鲨鱼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

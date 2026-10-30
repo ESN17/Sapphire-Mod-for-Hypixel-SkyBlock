@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "id": "POCKET_SIZED_IGLOO",
+  "_original_name": "Pocket-sized Igloo",
+  "_original_lore": [
+    "Use at Kat to upgrade Baby Yeti Pets",
+    "to Mythic rarity.",
+    "",
+    "Though far too small to be habitable,",
+    "it reminds a certain creature of",
+    "home.",
+    "",
+    "MYTHIC"
+  ],
+  "name": "口袋大小的冰屋",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Use at Kat to upgrade Baby Yeti Pets",
+        "to Mythic rarity."
+      ],
+      "translation": "在 Kat 处使用,将雪人宠物升级至神话稀有度.",
+      "styleMappings": {
+        "Baby Yeti Pets": "雪人宠物",
+        "upgrade": "升级",
+        "Mythic": "神话",
+        "rarity": "稀有度",
+        "Kat": "Kat",
+        "Pets": "宠物",
+        "Yeti": "雪人"
+      }
+    },
+    {
+      "source": [
+        "Though far too small to be habitable,",
+        "it reminds a certain creature of",
+        "home."
+      ],
+      "translation": "虽然太小无法居住,但它让某种生物想起了家.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "MYTHIC"
+      ],
+      "translation": "神话",
+      "styleMappings": {
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

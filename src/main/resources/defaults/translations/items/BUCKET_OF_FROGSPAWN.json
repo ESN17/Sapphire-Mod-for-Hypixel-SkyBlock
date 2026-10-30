@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "BUCKET_OF_FROGSPAWN",
+  "_original_name": "Frogspawn Bucket",
+  "_original_lore": [
+    "Use at Kat to upgrade Frog Pets",
+    "from Legendary to Mythic.",
+    "",
+    "Who cares about massive frogs when",
+    "you can have lots of tiny ones?",
+    "",
+    "MYTHIC"
+  ],
+  "name": "蛙卵桶",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Use at Kat to upgrade Frog Pets",
+        "from Legendary to Mythic."
+      ],
+      "translation": "在 Kat 处使用,可将青蛙宠物从传说升级为神话.",
+      "styleMappings": {
+        "Frog Pets": "青蛙宠物",
+        "Legendary": "传说",
+        "upgrade": "升级",
+        "Mythic": "神话",
+        "Kat": "Kat",
+        "Pets": "宠物",
+        "Frog": "青蛙"
+      }
+    },
+    {
+      "source": [
+        "Who cares about massive frogs when",
+        "you can have lots of tiny ones?"
+      ],
+      "translation": "既然能拥有一大堆小青蛙,谁还在乎巨型青蛙呢?",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "MYTHIC"
+      ],
+      "translation": "神话",
+      "styleMappings": {
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

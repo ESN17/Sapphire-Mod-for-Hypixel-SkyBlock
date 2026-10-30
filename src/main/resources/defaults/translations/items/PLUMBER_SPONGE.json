@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "id": "PLUMBER_SPONGE",
+  "_original_name": "Plumber's Sponge",
+  "_original_lore": [
+    "Instructions:",
+    " 1. Place on water.",
+    " 2. Drains other water.",
+    " 3. Double-bill client.",
+    "",
+    "Thanks Plumber Joe!",
+    "",
+    "Also works with lava and floating liquids!",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "水管工的海绵",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Instructions:"
+      ],
+      "translation": "使用说明:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " {{N0}}. Place on water."
+      ],
+      "translation": " {{N0}}. 放置在水上.",
+      "styleMappings": {
+        "Place on water.": "放置在水上.",
+        "water": "水"
+      }
+    },
+    {
+      "source": [
+        " {{N0}}. Drains other water."
+      ],
+      "translation": " {{N0}}. 排干其他水.",
+      "styleMappings": {
+        "Drains other water.": "排干其他水.",
+        "water": "水"
+      }
+    },
+    {
+      "source": [
+        " {{N0}}. Double-bill client."
+      ],
+      "translation": " {{N0}}. 双倍账单客户.",
+      "styleMappings": {
+        "Double-bill client.": "双倍账单客户."
+      }
+    },
+    {
+      "source": [
+        "Thanks Plumber Joe!"
+      ],
+      "translation": "感谢 Plumber Joe!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Also works with lava and floating liquids!"
+      ],
+      "translation": "对熔岩和漂浮液体同样有效!",
+      "styleMappings": {
+        "lava": "熔岩"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sponge": "海绵"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

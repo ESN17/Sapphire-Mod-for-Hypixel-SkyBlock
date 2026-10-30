@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "id": "ZORROS_CAPE",
+  "_original_name": "Zorro's Cape",
+  "_original_lore": [
+    "Strength: +10",
+    "Ferocity: +2",
+    "Farming Fortune: +10",
+    "Farming Wisdom: +1",
+    "",
+    "The stats of this Cape double ",
+    "during Jacob's Farming Contest.",
+    "Additionally, you have a 20% chance",
+    "to obtain an extra medal from",
+    "contests.",
+    "",
+    "Not all Rabbits wear capes.",
+    "",
+    "Right-click to equip!",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Zorro in Hoppity's Collection.",
+    "LEGENDARY CLOAK"
+  ],
+  "name": "佐罗的披风",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Ferocity: {{N0}}"
+      ],
+      "translation": "残暴值: {{N0}}",
+      "styleMappings": {
+        "Ferocity": "残暴值"
+      }
+    },
+    {
+      "source": [
+        "Farming Fortune: {{N0}}"
+      ],
+      "translation": "农业幸运: {{N0}}",
+      "styleMappings": {
+        "Farming Fortune": "农业幸运",
+        "Fortune": "幸运",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "Farming Wisdom: {{N0}}"
+      ],
+      "translation": "农业智慧: {{N0}}",
+      "styleMappings": {
+        "Farming Wisdom": "农业智慧",
+        "Wisdom": "智慧",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "The stats of this Cape double ",
+        "during Jacob's Farming Contest."
+      ],
+      "translation": "在 Jacob 的农业竞赛期间, 这件披风的属性翻倍.",
+      "styleMappings": {
+        "double": "翻倍",
+        "Jacob's Farming Contest": "Jacob 的农业竞赛",
+        "stats": "属性",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "Additionally, you have a {{N0}} chance",
+        "to obtain an extra medal from",
+        "contests."
+      ],
+      "translation": "此外, 你有 {{N0}} 的几率从竞赛中获得一枚额外奖牌.",
+      "styleMappings": {
+        "chance": "几率",
+        "chance to": "几率"
+      }
+    },
+    {
+      "source": [
+        "Not all Rabbits wear capes."
+      ],
+      "translation": "并非所有兔子都披披风.",
+      "styleMappings": {
+        "Rabbits": "兔子"
+      }
+    },
+    {
+      "source": [
+        "Right-click to equip!"
+      ],
+      "translation": "右键点击装备!",
+      "styleMappings": {
+        "Right-click to equip!": "右键点击装备!",
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Zorro in Hoppity's Collection."
+      ],
+      "translation": "❣ 需要在 Hoppity 的收藏中拥有佐罗.",
+      "styleMappings": {
+        "Hoppity's Collection": "Hoppity 的收藏",
+        "Requires": "需要",
+        "Zorro": "佐罗",
+        "Collection": "收藏",
+        "Hoppity's": "Hoppity 的",
+        "Hoppity": "Hoppity"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY CLOAK"
+      ],
+      "translation": "传说 披风",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Zorro": "佐罗"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

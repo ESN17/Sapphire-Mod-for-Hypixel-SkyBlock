@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "BALLOON_SNAKE",
+  "_original_name": "Balloon Snake",
+  "_original_lore": [
+    "Health: +10",
+    "Intelligence: +10",
+    "",
+    "Grants Jump Boost II while equipped.",
+    "",
+    "Right-click to equip!",
+    "",
+    "This item can be reforged!",
+    "❣ Requires The Catacombs Floor I Completion.",
+    "RARE DUNGEON NECKLACE"
+  ],
+  "name": "气球蛇",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Grants Jump Boost II while equipped."
+      ],
+      "translation": "装备时给予跳跃提升 II.",
+      "styleMappings": {
+        "Jump Boost II": "跳跃提升 II",
+        "equipped": "装备",
+        "Grants": "给予",
+        "II": "II"
+      }
+    },
+    {
+      "source": [
+        "Right-click to equip!"
+      ],
+      "translation": "右键点击装备!",
+      "styleMappings": {
+        "Right-click to equip!": "右键点击装备!",
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires The Catacombs Floor I Completion."
+      ],
+      "translation": "❣ 需要通关地牢第 I 层.",
+      "styleMappings": {
+        "The Catacombs": "地牢",
+        "Requires": "需要",
+        "I": "I",
+        "Catacombs": "地牢"
+      }
+    },
+    {
+      "source": [
+        "RARE DUNGEON NECKLACE"
+      ],
+      "translation": "稀有 地牢 项链",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

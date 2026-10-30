@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "id": "WITHER_SKELETON;2",
+  "_original_name": "[Lvl {LVL}] Wither Skeleton",
+  "_original_lore": [
+    "Mining Pet",
+    "",
+    "Defense: +{DEFENSE}",
+    "Strength: +{STRENGTH}",
+    "Crit Chance: +{CRIT_CHANCE}%",
+    "Crit Damage: +{CRIT_DAMAGE}%",
+    "Intelligence: +{INTELLIGENCE}",
+    "",
+    "Stronger Bones",
+    "Take {0}% less damage from ",
+    "Skeletal mobs.",
+    "",
+    "Wither Blood",
+    "Deal {1}% more damage to  Wither",
+    "mobs.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "RARE PET"
+  ],
+  "name": "[等级 {LVL}] 凋零骷髅",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mining Pet"
+      ],
+      "translation": "采矿宠物",
+      "styleMappings": {
+        "Mining": "采矿",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Defense: +{{N0}}"
+      ],
+      "translation": "防御力: +{{N0}}",
+      "styleMappings": {
+        "Defense": "防御力"
+      }
+    },
+    {
+      "source": [
+        "Strength: +{{N0}}"
+      ],
+      "translation": "力量: +{{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Crit Chance: +{{N0}}%"
+      ],
+      "translation": "暴击几率: +{{N0}}%",
+      "styleMappings": {
+        "Crit Chance": "暴击几率"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: +{{N0}}%"
+      ],
+      "translation": "暴击伤害: +{{N0}}%",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: +{{N0}}"
+      ],
+      "translation": "智力: +{{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Stronger Bones"
+      ],
+      "translation": "强健骨骼",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Take {{N0}}% less damage from ",
+        "Skeletal mobs."
+      ],
+      "translation": "受到  骷髅生物的伤害减少 {{N0}}%.",
+      "styleMappings": {
+        "less damage": "伤害减少",
+        "Skeletal": "骷髅",
+        "mobs": "生物",
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Wither Blood"
+      ],
+      "translation": "凋零之血",
+      "styleMappings": {
+        "Wither": "凋零"
+      }
+    },
+    {
+      "source": [
+        "Deal {{N0}}% more damage to  Wither",
+        "mobs."
+      ],
+      "translation": "对  凋零生物造成 {{N0}}% 额外伤害.",
+      "styleMappings": {
+        "Wither": "凋零",
+        "damage": "伤害",
+        "mobs": "生物",
+        "more": "额外",
+        "Deal": "造成",
+        "mobs.": "伤害."
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "RARE PET"
+      ],
+      "translation": "稀有 宠物",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Skeleton": "骷髅",
+    "Wither": "凋零",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

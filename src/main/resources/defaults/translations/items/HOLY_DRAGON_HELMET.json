@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": "HOLY_DRAGON_HELMET",
+  "_original_name": "Holy Dragon Helmet",
+  "_original_lore": [
+    "Health: +110",
+    "Defense: +110",
+    "Mending: +10",
+    "Gemstones: []",
+    "",
+    "Full Set Bonus: Holy Blood (0/4)",
+    "Grants +75 Health Regen to you",
+    "and all players within 10 blocks.",
+    "Effect only applies once!",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Combat Skill 16.",
+    "LEGENDARY HELMET"
+  ],
+  "name": "圣龙头盔",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Mending: {{N0}}"
+      ],
+      "translation": "修复:{{N0}}",
+      "styleMappings": {
+        "Mending": "修复"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: []"
+      ],
+      "translation": "宝石: []",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Holy Blood ({{N0}}/{{N1}})"
+      ],
+      "translation": "全套加成: 圣血 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Full Set Bonus": "全套加成",
+        "Holy Blood": "圣血",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Health Regen to you",
+        "and all players within {{N1}} blocks."
+      ],
+      "translation": "为你和 {{N1}} 格内的所有玩家提供 {{N0}} 生命回复.",
+      "styleMappings": {
+        "Health Regen": "生命回复",
+        "Grants": "提供",
+        "blocks": "格",
+        "Health": "生命",
+        "Regen": "回复"
+      }
+    },
+    {
+      "source": [
+        "Effect only applies once!"
+      ],
+      "translation": "效果仅生效一次!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY HELMET"
+      ],
+      "translation": "传说 头盔",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Dragon Helmet": "龙头盔",
+    "Holy Dragon Helmet": "圣龙头盔",
+    "Dragon": "龙",
+    "Helmet": "头盔"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

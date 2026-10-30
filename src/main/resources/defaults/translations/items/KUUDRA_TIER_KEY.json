@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "KUUDRA_TIER_KEY",
+  "_original_name": "Kuudra Key",
+  "_original_lore": [
+    "Used to unlock the reward chest in",
+    "the Basic Tier of the Kuudra fight.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "* Co-op Soulbound *",
+    "RARE"
+  ],
+  "name": "库德拉 钥匙",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Used to unlock the reward chest in",
+        "the Basic Tier of the Kuudra fight."
+      ],
+      "translation": "用于解锁库德拉战斗基础难度中的奖励宝箱.",
+      "styleMappings": {
+        "Kuudra": "库德拉",
+        "reward": "奖励",
+        "Basic": "基础",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Kuudra": "库德拉"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

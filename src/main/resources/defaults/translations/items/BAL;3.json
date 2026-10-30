@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 1,
+  "id": "BAL;3",
+  "_original_name": "[Lvl {LVL}] Bal",
+  "_original_lore": [
+    "Mining Pet",
+    "",
+    "Heat Resistance: +{HEAT_RESISTANCE}",
+    "Mining Fortune: +{MINING_FORTUNE}",
+    "",
+    "Furnace",
+    "Grants +{0} Pristine while in the",
+    "Magma Fields.",
+    "",
+    "Dispersion",
+    "While in the Crystal Hollows, killing",
+    "mobs reduces your  Heat by {1}.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "EPIC PET"
+  ],
+  "name": "[等级 {LVL}] 巴尔",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mining Pet"
+      ],
+      "translation": "采矿宠物",
+      "styleMappings": {
+        "Mining": "采矿",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Heat Resistance: +{{N0}}"
+      ],
+      "translation": "抗热性: +{{N0}}",
+      "styleMappings": {
+        "Heat Resistance": "抗热性"
+      }
+    },
+    {
+      "source": [
+        "Mining Fortune: +{{N0}}"
+      ],
+      "translation": "采矿幸运: +{{N0}}",
+      "styleMappings": {
+        "Mining Fortune": "采矿幸运",
+        "Mining": "采矿",
+        "Fortune": "幸运"
+      }
+    },
+    {
+      "source": [
+        "Furnace"
+      ],
+      "translation": "熔炉",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants +{{N0}} Pristine while in the",
+        "Magma Fields."
+      ],
+      "translation": "在岩浆原野时提供 +{{N0}} 提纯.",
+      "styleMappings": {
+        "Magma Fields": "岩浆原野",
+        "Pristine": "提纯",
+        "Grants": "提供"
+      }
+    },
+    {
+      "source": [
+        "Dispersion"
+      ],
+      "translation": "驱散",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "While in the Crystal Hollows, killing",
+        "mobs reduces your  Heat by {{N0}}."
+      ],
+      "translation": "在水晶洞窟时,击杀怪物会使你的  热量降低 {{N0}}.",
+      "styleMappings": {
+        "Crystal Hollows": "水晶洞窟",
+        "Heat": "热量",
+        "mobs": "怪物",
+        "Crystal": "水晶",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "EPIC PET"
+      ],
+      "translation": "史诗 宠物",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Lvl": "等级",
+    "Bal": "巴尔"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

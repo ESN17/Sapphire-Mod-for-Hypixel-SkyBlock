@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "TIME_KNIFE",
+  "_original_name": "Time Shuriken",
+  "_original_lore": [
+    "Can be thrown at Sun Gecko to",
+    "upkeep your combo.",
+    "",
+    "Why are you reading this? Go fight",
+    "Sun Gecko!",
+    "",
+    "* Soulbound *",
+    "SPECIAL SWORD"
+  ],
+  "name": "时间手里剑",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Can be thrown at Sun Gecko to",
+        "upkeep your combo."
+      ],
+      "translation": "可以扔向太阳壁虎来维持你的连击.",
+      "styleMappings": {
+        "Sun Gecko": "太阳壁虎",
+        "Sun": "太阳"
+      }
+    },
+    {
+      "source": [
+        "Why are you reading this? Go fight",
+        "Sun Gecko!"
+      ],
+      "translation": "你为什么在看这个?快去打太阳壁虎!",
+      "styleMappings": {
+        "Sun Gecko": "太阳壁虎",
+        "Sun": "太阳"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL SWORD"
+      ],
+      "translation": "特殊 剑",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

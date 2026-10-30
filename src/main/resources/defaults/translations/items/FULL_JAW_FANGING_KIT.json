@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "id": "FULL_JAW_FANGING_KIT",
+  "_original_name": "Full-Jaw Fanging Kit",
+  "_original_lore": [
+    "Reforge Stone",
+    "Combinable in Anvil",
+    "",
+    "Applies the Fanged reforge when",
+    "combined with a Melee Weapon.",
+    "",
+    "Fangs! Very menacing.",
+    "",
+    "Grants the following stats that scale",
+    "with the item's rarity:",
+    "  Strength",
+    "  Crit Chance",
+    "  Attack Speed",
+    "  Vitality",
+    "",
+    "Fanged Bonus",
+    "Every 7th melee hit on a mob deals",
+    "+100%  Damage.",
+    "",
+    "Right-click to view rarity scaling!",
+    "",
+    "❣ Requires Mining Skill 13.",
+    "",
+    "RARE REFORGE STONE"
+  ],
+  "name": "全颚尖牙套件",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Reforge Stone",
+        "Combinable in Anvil"
+      ],
+      "translation": "洗练石 可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Reforge Stone": "洗练石",
+        "Anvil": "铁砧",
+        "Reforge": "洗练"
+      }
+    },
+    {
+      "source": [
+        "Applies the Fanged reforge when",
+        "combined with a Melee Weapon."
+      ],
+      "translation": "与近战武器结合时施加尖牙洗练.",
+      "styleMappings": {
+        "Melee Weapon": "近战武器",
+        "reforge": "洗练",
+        "Fanged": "尖牙",
+        "Weapon": "武器",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Fangs! Very menacing."
+      ],
+      "translation": "尖牙!非常吓人.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants the following stats that scale"
+      ],
+      "translation": "提供以下随物品稀有度提升的属性:",
+      "styleMappings": {
+        "Grants": "提供",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "with the item's rarity:"
+      ],
+      "translation": "物品稀有度提升的属性:",
+      "styleMappings": {
+        "item": "物品",
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "  Strength",
+        "  Crit Chance",
+        "  Attack Speed",
+        "  Vitality"
+      ],
+      "translation": "    力量   暴击几率   攻击速度   生命",
+      "styleMappings": {
+        " Attack Speed": " 攻击速度",
+        "Crit Chance": "暴击几率",
+        "Vitality": "生命",
+        "Strength": "力量",
+        "Speed": "速度",
+        "Attack Speed": "攻击速度",
+        " Crit Chance": " 暴击几率"
+      }
+    },
+    {
+      "source": [
+        "Fanged Bonus",
+        "Every {{N0}}th melee hit on a mob deals",
+        "{{N1}}  Damage."
+      ],
+      "translation": "尖牙加成 每第 {{N0}} 次近战命中生物时造成 {{N1}}   伤害.",
+      "styleMappings": {
+        "Fanged Bonus": "尖牙加成",
+        " Damage": " 伤害",
+        "hit": "命中",
+        "Damage": "伤害",
+        "Bonus": "加成",
+        "Fanged": "尖牙"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view rarity scaling!"
+      ],
+      "translation": "右键查看各稀有度的属性!",
+      "styleMappings": {
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Mining Skill {{N0}}."
+      ],
+      "translation": "❣ 需要采矿技能 {{N0}}.",
+      "styleMappings": {
+        "Mining Skill": "采矿技能",
+        "Requires": "需要",
+        "Mining": "采矿",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "RARE REFORGE STONE"
+      ],
+      "translation": "稀有 洗练石",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

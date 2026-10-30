@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "id": "MOODY_GRAPPLESHOT",
+  "_original_name": "Moody Grappleshot",
+  "_original_lore": [
+    "Ability: Big Pull  RIGHT CLICK",
+    "Throw a hook to grab and pull blazes and",
+    "certain other  Airborne mobs.",
+    "",
+    "Pulling a mob multiplies its damage taken by 2x",
+    "and stops it from flying.",
+    "Mana Cost: 30",
+    "Cooldown: 1s",
+    "",
+    "EPIC"
+  ],
+  "name": "阴郁抓钩",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Big Pull  RIGHT CLICK"
+      ],
+      "translation": "技能:强力拉拽  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Throw a hook to grab and pull blazes and",
+        "certain other  Airborne mobs."
+      ],
+      "translation": "投出钩爪,抓住并拉拽烈焰人以及其他某些  空中怪物.",
+      "styleMappings": {
+        "Airborne": "空中",
+        "mobs": "怪物",
+        "Airborne mobs": "空中怪物"
+      }
+    },
+    {
+      "source": [
+        "Pulling a mob multiplies its damage taken by {{N0}}x",
+        "and stops it from flying."
+      ],
+      "translation": "拉拽怪物会使其受到的伤害乘以 {{N0}} 倍,并阻止其飞行.",
+      "styleMappings": {
+        "damage": "伤害",
+        "{{N0}}x": "{{N0}} 倍"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "GLUE_ARROW",
+  "_original_name": "Glue Arrow",
+  "_original_lore": [
+    "Damage: +15",
+    "",
+    "Passive: Stuck in goo",
+    "Prevents victims from walking for",
+    "1.5s when hit.",
+    "6s cooldown per victim",
+    "",
+    "❣ Requires Combat Skill 24.",
+    "☠ Requires Spider Slayer 3.",
+    "❣ Requires Target Practice III.",
+    "Stats added when shot!",
+    "RARE ARROW"
+  ],
+  "name": "黏胶箭",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Passive: Stuck in goo"
+      ],
+      "translation": "被动: 黏着黏液",
+      "styleMappings": {
+        "Passive": "被动"
+      }
+    },
+    {
+      "source": [
+        "Prevents victims from walking for",
+        "{{N0}}s when hit."
+      ],
+      "translation": "命中后使目标 {{N0}} 秒内无法行走.",
+      "styleMappings": {
+        "walking": "行走",
+        "{{N0}}s": "{{N0}} 秒",
+        "hit": "命中"
+      }
+    },
+    {
+      "source": [
+        "{{N0}}s cooldown per victim"
+      ],
+      "translation": "每个目标 {{N0}} 秒冷却",
+      "styleMappings": {
+        "cooldown": "冷却",
+        "{{N0}}s": "{{N0}} 秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Spider Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要蜘蛛杀手 {{N0}}.",
+      "styleMappings": {
+        "Spider Slayer": "蜘蛛杀手",
+        "Requires": "需要",
+        "Spider": "蜘蛛",
+        "Slayer": "杀手"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Target Practice III."
+      ],
+      "translation": "❣ 需要靶场练习 III.",
+      "styleMappings": {
+        "Target Practice III": "靶场练习 III",
+        "Requires": "需要",
+        "III": "III"
+      }
+    },
+    {
+      "source": [
+        "Stats added when shot!"
+      ],
+      "translation": "射出时添加属性!",
+      "styleMappings": {
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "RARE ARROW"
+      ],
+      "translation": "稀有箭",
+      "styleMappings": {
+        "RARE ARROW": "稀有箭",
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

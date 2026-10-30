@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "id": "SHARK_SCALE_LEGGINGS",
+  "_original_name": "Shark Scale Leggings",
+  "_original_lore": [
+    "Health: +175",
+    "Defense: +150",
+    "Sea Creature Chance: +2.5%",
+    "Gemstones: [⚔] [⚔] []",
+    "",
+    "Full Set Bonus: Absorb (0/4)",
+    "Doubles your  Defense while in",
+    "water.",
+    "",
+    "Tiered Bonus: Festival Fisher (0/4)",
+    "Grants a +0% chance to catch",
+    "Sharks during the Fishing Festival.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Fishing Skill 24.",
+    "LEGENDARY LEGGINGS"
+  ],
+  "name": "鲨鱼鳞护腿",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Sea Creature Chance: {{N0}}"
+      ],
+      "translation": "海洋生物概率:{{N0}}",
+      "styleMappings": {
+        "Sea Creature Chance": "海洋生物概率",
+        "Sea Creature": "海洋生物"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [⚔] [⚔] []"
+      ],
+      "translation": "宝石: [⚔] [⚔] []",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石",
+        "] [": "] ["
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Absorb ({{N0}}/{{N1}})"
+      ],
+      "translation": "全套加成:吸收 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Full Set Bonus": "全套加成",
+        "Absorb": "吸收",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Doubles your  Defense while in",
+        "water."
+      ],
+      "translation": "在水中时使你的  防御翻倍.",
+      "styleMappings": {
+        "Defense": "防御",
+        "Doubles": "翻倍",
+        "water": "水"
+      }
+    },
+    {
+      "source": [
+        "Tiered Bonus: Festival Fisher ({{N0}}/{{N1}})"
+      ],
+      "translation": "分级加成: 节日渔夫 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Tiered Bonus": "分级加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Grants a {{N0}} chance to catch",
+        "Sharks during the Fishing Festival."
+      ],
+      "translation": "在钓鱼节期间有 {{N0}} 的几率钓到鲨鱼.",
+      "styleMappings": {
+        "Fishing Festival": "钓鱼节",
+        "Sharks": "鲨鱼",
+        "chance": "几率",
+        "Fishing": "钓鱼",
+        "chance to": "几率"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Fishing Skill {{N0}}."
+      ],
+      "translation": "❣ 需要钓鱼技能 {{N0}}.",
+      "styleMappings": {
+        "Fishing Skill": "钓鱼技能",
+        "Requires": "需要",
+        "Fishing": "钓鱼",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY LEGGINGS"
+      ],
+      "translation": "传说 护腿",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shark": "鲨鱼",
+    "Leggings": "护腿"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

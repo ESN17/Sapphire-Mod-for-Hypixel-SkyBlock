@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "id": "GEMSTONE_FUEL_TANK",
+  "_original_name": "Gemstone Fuel Tank",
+  "_original_lore": [
+    "Drill Part",
+    "",
+    "50,000 Max Fuel Capacity",
+    "-6% Pickaxe Ability Cooldown",
+    "",
+    "Put this item in the Fuel Tank slot of",
+    "a Drill at a Drill Mechanic!",
+    "",
+    "❣ Requires Heart of the Mountain Tier 7.",
+    "RARE"
+  ],
+  "name": "宝石燃料箱",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Drill Part"
+      ],
+      "translation": "钻头部件",
+      "styleMappings": {
+        "Drill Part": "钻头部件",
+        "Drill": "钻头"
+      }
+    },
+    {
+      "source": [
+        "{{N0}} Max Fuel Capacity",
+        "{{N1}} Pickaxe Ability Cooldown"
+      ],
+      "translation": "{{N0}} 最大燃料容量 {{N1}} 镐子技能冷却",
+      "styleMappings": {
+        "Pickaxe Ability Cooldown": "镐子技能冷却",
+        "Max Fuel Capacity": "最大燃料容量",
+        "Ability": "技能",
+        "Max": "最大",
+        "Cooldown": "冷却",
+        "Pickaxe Ability": "镐子技能",
+        "Capacity": "容量",
+        "Fuel": "燃料",
+        "Pickaxe": "镐"
+      }
+    },
+    {
+      "source": [
+        "Put this item in the Fuel Tank slot of",
+        "a Drill at a Drill Mechanic!"
+      ],
+      "translation": "将此物品放入钻头技师的钻头燃料箱槽位中!",
+      "styleMappings": {
+        "Drill Mechanic": "钻头技师",
+        "Fuel Tank": "燃料箱",
+        "Drill": "钻头",
+        "item": "物品",
+        "Fuel": "燃料",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Heart of the Mountain Tier {{N0}}."
+      ],
+      "translation": "❣ 需要山峰之心等级 {{N0}}.",
+      "styleMappings": {
+        "Heart of the Mountain Tier": "山峰之心等级",
+        "Requires": "需要",
+        "Heart of the Mountain": "山峰之心"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fuel Tank": "燃料箱",
+    "Gemstone": "宝石",
+    "Fuel": "燃料"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

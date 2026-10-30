@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "DARK_GOGGLES",
+  "_original_name": "Dark Goggles",
+  "_original_lore": [
+    "Gear Score: 100",
+    "Intelligence: +150",
+    "Ability Damage: +25%",
+    "",
+    "This item can be reforged!",
+    "RARE DUNGEON HELMET"
+  ],
+  "name": "暗黑护目镜",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Ability Damage: {{N0}}"
+      ],
+      "translation": "技能伤害: {{N0}}",
+      "styleMappings": {
+        "Ability Damage": "技能伤害",
+        "Ability": "技能",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "RARE DUNGEON HELMET"
+      ],
+      "translation": "稀有 地牢 头盔",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Dark Goggles": "暗黑护目镜"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

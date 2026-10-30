@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "id": "JELLYFISH;4",
+  "_original_name": "[Lvl {LVL}] Jellyfish",
+  "_original_lore": [
+    "Alchemy Pet",
+    "",
+    "Health: +{HEALTH}",
+    "Health Regen: +{HEALTH_REGEN}",
+    "",
+    "Radiant Scyphozoa",
+    "While in dungeons, reduces the mana",
+    "cost of Power Orbs by {0}%.",
+    "",
+    "Stored Energy",
+    "While in dungeons, for every 2,000",
+    "HP you heal teammates the cooldown",
+    "of Wish is reduced by {1}s, up to",
+    "30s.",
+    "",
+    "Powerful Potions",
+    "While in dungeons, increase the",
+    "effectiveness of Dungeon Potions by",
+    "{2}%.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "LEGENDARY PET"
+  ],
+  "name": "[等级 {LVL}] 水母",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Alchemy Pet"
+      ],
+      "translation": "炼金宠物",
+      "styleMappings": {
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Health: +{{N0}}"
+      ],
+      "translation": "生命值: +{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Health Regen: +{{N0}}"
+      ],
+      "translation": "生命恢复:+{{N0}}",
+      "styleMappings": {
+        "Health Regen": "生命恢复",
+        "Health": "生命",
+        "Regen": "恢复"
+      }
+    },
+    {
+      "source": [
+        "Radiant Scyphozoa"
+      ],
+      "translation": "光辉钵水母",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "While in dungeons, reduces the mana",
+        "cost of Power Orbs by {{N0}}%."
+      ],
+      "translation": "在地牢中时,将能量球的法力消耗降低 {{N0}}%.",
+      "styleMappings": {
+        "mana": "法力"
+      }
+    },
+    {
+      "source": [
+        "Stored Energy"
+      ],
+      "translation": "储存能量",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "While in dungeons, for every {{N0}}",
+        "HP you heal teammates the cooldown",
+        "of Wish is reduced by {{N1}}s, up to",
+        "{{N2}}s."
+      ],
+      "translation": "在地牢中时,你每为队友恢复 {{N0}} 生命值,祈愿的冷却时间就减少 {{N1}} 秒,最多减少 {{N2}} 秒。",
+      "styleMappings": {
+        "cooldown": "冷却",
+        "{{N1}}s": "{{N1}} 秒",
+        "{{N2}}s": "{{N2}} 秒",
+        "Wish": "祈愿",
+        "HP": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Powerful Potions"
+      ],
+      "translation": "强力药水",
+      "styleMappings": {
+        "Potions": "药水"
+      }
+    },
+    {
+      "source": [
+        "While in dungeons, increase the",
+        "effectiveness of Dungeon Potions by",
+        "{{N0}}%."
+      ],
+      "translation": "在地牢中时,将地牢药水的效果提高 {{N0}}%.",
+      "styleMappings": {
+        "Potions": "药水",
+        "Dungeon": "地牢"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY PET"
+      ],
+      "translation": "传说 宠物",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Jellyfish": "水母",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

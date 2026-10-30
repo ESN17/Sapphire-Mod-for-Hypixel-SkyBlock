@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "WEAPON_RACK",
+  "_original_name": "Weapon Rack",
+  "_original_lore": [
+    "Furniture",
+    "Item Showcase",
+    "Storage",
+    "",
+    "This weapon rack lets you show off",
+    "4 weapons (swords, pickaxes, or",
+    "axes).",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "武器架",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Furniture",
+        "Item Showcase",
+        "Storage"
+      ],
+      "translation": "家具 物品展示 存储",
+      "styleMappings": {
+        "Furniture": "家具",
+        "Item": "物品"
+      }
+    },
+    {
+      "source": [
+        "This weapon rack lets you show off",
+        "{{N0}} weapons (swords, pickaxes, or",
+        "axes)."
+      ],
+      "translation": "这个武器架可以让你展示 {{N0}} 件武器(剑、镐或斧).",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Weapon": "武器"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

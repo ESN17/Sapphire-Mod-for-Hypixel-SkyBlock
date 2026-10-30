@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_RESISTANCE;7",
+  "_original_name": "Resistance VII Potion",
+  "_original_lore": [
+    "",
+    "Resistance VII (3:00)",
+    "Increases  Defense by +50.",
+    "",
+    "EPIC"
+  ],
+  "name": "抗性 VII 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Resistance VII ({{N0}}:{{N1}})"
+      ],
+      "translation": "抗性 VII ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Resistance VII": "抗性 VII",
+        "Resistance": "抗性"
+      }
+    },
+    {
+      "source": [
+        "Increases  Defense by {{N0}}."
+      ],
+      "translation": "增加  防御力 {{N0}}.",
+      "styleMappings": {
+        "Increases": "增加",
+        " Defense": " 防御",
+        "Defense": "防御力"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Resistance VII": "抗性 VII",
+    "Resistance": "抗性"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": "AIMING;2",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Dragon Tracer II",
+    "Arrows home towards dragons if",
+    "they are within 4 blocks.",
+    "",
+    "Source:",
+    " - Enchantment Table (I-V)",
+    "",
+    "Applied To:",
+    " - Bow",
+    "",
+    "Requirements:",
+    " - Enchanting Level 8",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Dragon Tracer II"
+      ],
+      "translation": "龙之追踪 II",
+      "styleMappings": {
+        "Dragon Tracer": "龙之追踪",
+        "II": "II",
+        "Dragon": "龙"
+      }
+    },
+    {
+      "source": [
+        "Arrows home towards dragons if",
+        "they are within {{N0}} blocks."
+      ],
+      "translation": "箭矢会追踪 {{N0}} 格范围内的龙.",
+      "styleMappings": {
+        "blocks": "格"
+      }
+    },
+    {
+      "source": [
+        "Source:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchantment Table (I-V)"
+      ],
+      "translation": " - 附魔台 (一至五级)",
+      "styleMappings": {
+        "Enchantment Table": "附魔台",
+        "I-V": "一至五级",
+        "Enchantment": "附魔"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Bow"
+      ],
+      "translation": " - 弓",
+      "styleMappings": {
+        "Bow": "弓"
+      }
+    },
+    {
+      "source": [
+        "Requirements:"
+      ],
+      "translation": "需求:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchanting Level {{N0}}"
+      ],
+      "translation": " - 附魔等级 {{N0}}",
+      "styleMappings": {
+        "Enchanting Level": "附魔等级"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

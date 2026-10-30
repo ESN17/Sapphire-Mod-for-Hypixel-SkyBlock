@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "ZEALOT_BRUISER_MONSTER",
+  "_original_name": "Zealot Bruiser (Monster)",
+  "_original_lore": [
+    "❤ Health: 65,000"
+  ],
+  "name": "末地战士打手 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Zealot Bruiser": "末地战士打手",
+    "(Monster)": "(怪物)",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

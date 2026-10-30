@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "id": "GREAT_SPOOK_STAFF",
+  "_original_name": "Great Spook Staff",
+  "_original_lore": [
+    "Fear: +10",
+    "",
+    "Ability: Spooker LEFT CLICK",
+    "Will spook other players with a scary message when you",
+    "punch them while wearing full Great Spook Armor.",
+    "Cooldown: 1m",
+    "",
+    "Ability: Spook  RIGHT CLICK",
+    "Will make you appear as a Dead Bush to other",
+    "players.",
+    "Cooldown: 15s",
+    "",
+    "Obtained during the Alchemist",
+    "experiments!",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "大万圣节法杖",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Fear: {{N0}}"
+      ],
+      "translation": "恐惧: {{N0}}",
+      "styleMappings": {
+        "Fear": "恐惧"
+      }
+    },
+    {
+      "source": [
+        "Ability: Spooker LEFT CLICK"
+      ],
+      "translation": "技能: 惊吓 左键点击",
+      "styleMappings": {
+        "LEFT CLICK": "左键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Will spook other players with a scary message when you",
+        "punch them while wearing full Great Spook Armor."
+      ],
+      "translation": "穿戴全套大万圣节盔甲时,拳击其他玩家会发送一条恐怖消息吓唬他们.",
+      "styleMappings": {
+        "Great Spook Armor": "大万圣节盔甲",
+        "punch": "拳击",
+        "scary": "恐怖",
+        "spook": "吓唬",
+        "Great Spook": "大万圣节",
+        "Armor": "盔甲",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}m"
+      ],
+      "translation": "冷却: {{N0}}分钟",
+      "styleMappings": {
+        "Cooldown": "冷却",
+        "{{N0}}m": "{{N0}}分钟"
+      }
+    },
+    {
+      "source": [
+        "Ability: Spook  RIGHT CLICK"
+      ],
+      "translation": "技能: 惊吓  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Will make you appear as a Dead Bush to other",
+        "players."
+      ],
+      "translation": "会让你在其他玩家眼中变成枯萎的灌木.",
+      "styleMappings": {
+        "Dead Bush": "枯萎的灌木"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "Obtained during the Alchemist",
+        "experiments!"
+      ],
+      "translation": "在 Alchemist 实验期间获得!",
+      "styleMappings": {
+        "Alchemist": "Alchemist"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Great Spook": "大万圣节",
+    "Great Spook Staff": "大万圣节法杖"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

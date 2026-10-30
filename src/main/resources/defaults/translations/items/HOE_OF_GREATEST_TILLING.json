@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "HOE_OF_GREATEST_TILLING",
+  "_original_name": "Hoe of Greatest Tilling",
+  "_original_lore": [
+    "Tills a row of farmland. The perfect",
+    "accessory to the Basket of Seeds!",
+    "",
+    "❣ Requires Farming Skill 10.",
+    "EPIC"
+  ],
+  "name": "顶级耕地锄",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Tills a row of farmland. The perfect",
+        "accessory to the Basket of Seeds!"
+      ],
+      "translation": "耕作一整排农田.种子篮的完美饰品!",
+      "styleMappings": {
+        "Basket of Seeds": "种子篮",
+        "perfect": "完美"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Farming Skill {{N0}}."
+      ],
+      "translation": "❣ 需要农业技能 {{N0}}.",
+      "styleMappings": {
+        "Farming Skill": "农业技能",
+        "Requires": "需要",
+        "Farming": "农业",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

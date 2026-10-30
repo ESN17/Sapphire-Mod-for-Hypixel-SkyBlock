@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_WEAKNESS;7",
+  "_original_name": "Weakness VII Potion",
+  "_original_lore": [
+    "",
+    "Weakness VII (3:00)",
+    "Reduces  Damage when attacking",
+    "enemies by 40.",
+    "",
+    "EPIC"
+  ],
+  "name": "虚弱 VII 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Weakness VII ({{N0}}:{{N1}})"
+      ],
+      "translation": "虚弱 VII ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Weakness VII": "虚弱 VII"
+      }
+    },
+    {
+      "source": [
+        "Reduces  Damage when attacking",
+        "enemies by {{N0}}."
+      ],
+      "translation": "攻击敌人时降低 伤害 {{N0}}.",
+      "styleMappings": {
+        " Damage": " 伤害",
+        "Damage": "伤害",
+        "enemies": "敌人",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Weakness VII": "虚弱 VII"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

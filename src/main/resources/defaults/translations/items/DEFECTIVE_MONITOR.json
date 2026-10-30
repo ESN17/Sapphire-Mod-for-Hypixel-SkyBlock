@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "DEFECTIVE_MONITOR",
+  "_original_name": "Defective Monitor",
+  "_original_lore": [
+    "Rift Time: +60s",
+    "Intelligence: +6",
+    "",
+    "Obtained from a Kloon who doesn't",
+    "seem too stable.",
+    "",
+    "EPIC ACCESSORY"
+  ],
+  "name": "故障显示器",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Rift Time: {{N0}}s"
+      ],
+      "translation": "裂隙时间: {{N0}}秒",
+      "styleMappings": {
+        "Rift Time": "裂隙时间",
+        "{{N0}}s": "{{N0}}秒",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Obtained from a Kloon who doesn't",
+        "seem too stable."
+      ],
+      "translation": "从一个似乎不太稳定的克伦处获得.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC ACCESSORY"
+      ],
+      "translation": "史诗饰品",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

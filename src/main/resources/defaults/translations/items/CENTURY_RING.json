@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "id": "CENTURY_RING",
+  "_original_name": "Ring of the Century",
+  "_original_lore": [
+    "Accessory Power: +5",
+    "",
+    "Increases your chances of finding",
+    "Cake Souls when eating Century",
+    "Cakes by 2%.",
+    "",
+    "What's better than a party? A party",
+    "with free goodies and an accessory",
+    "upgrade!",
+    "",
+    "Works while in Accessory Bag!",
+    "UNCOMMON ACCESSORY"
+  ],
+  "name": "世纪戒指",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Accessory Power: {{N0}}"
+      ],
+      "translation": "饰品能量: {{N0}}",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "Increases your chances of finding",
+        "Cake Souls when eating Century",
+        "Cakes by {{N0}}."
+      ],
+      "translation": "食用世纪蛋糕时,找到蛋糕灵魂的概率增加 {{N0}}.",
+      "styleMappings": {
+        "Century Cakes": "世纪蛋糕",
+        "Cake Souls": "蛋糕灵魂",
+        "Increases": "增加",
+        "Souls": "灵魂",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "What's better than a party? A party",
+        "with free goodies and an accessory",
+        "upgrade!"
+      ],
+      "translation": "有什么比派对更好?一个免费送好东西还有饰品升级的派对!",
+      "styleMappings": {
+        "upgrade": "升级",
+        "s": "一"
+      }
+    },
+    {
+      "source": [
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "放在饰品袋中即可生效!",
+      "styleMappings": {
+        "Accessory Bag": "饰品袋",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON ACCESSORY"
+      ],
+      "translation": "罕见 饰品",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Ring": "戒指"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

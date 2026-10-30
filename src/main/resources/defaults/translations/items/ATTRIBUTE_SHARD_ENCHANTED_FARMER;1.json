@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "id": "ATTRIBUTE_SHARD_ENCHANTED_FARMER;1",
+  "_original_name": "Mosquito Shard",
+  "_original_lore": [
+    "Enchanted Farmer I",
+    "Grants a +0.001% chance to find an",
+    "Enchanted Crop while Farming.",
+    "",
+    "You can Syphon this shard from",
+    "your Hunting Box.",
+    "",
+    "Right-click to send to Hunting Box!",
+    "Shift Right-click to move all!",
+    "",
+    "❣ Requires Hunting Skill 5.",
+    "UNCOMMON FOREST SHARD (ID U103)"
+  ],
+  "name": "蚊子碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Enchanted Farmer I"
+      ],
+      "translation": "附魔农夫 I",
+      "styleMappings": {
+        "I": "I"
+      }
+    },
+    {
+      "source": [
+        "Grants a {{N0}} chance to find an",
+        "Enchanted Crop while Farming."
+      ],
+      "translation": "耕种时有 {{N0}} 几率找到一个附魔作物.",
+      "styleMappings": {
+        "Enchanted Crop": "附魔作物",
+        "Farming": "耕种",
+        "chance": "几率",
+        "chance to": "几率",
+        "Crop": "作物"
+      }
+    },
+    {
+      "source": [
+        "You can Syphon this shard from",
+        "your Hunting Box."
+      ],
+      "translation": "你可以从狩猎箱中吸取此碎片.",
+      "styleMappings": {
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to send to Hunting Box!"
+      ],
+      "translation": "右键点击发送至狩猎箱!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Shift Right-click to move all!"
+      ],
+      "translation": "潜行键 右键点击全部移动!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "all": "全部"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Hunting Skill {{N0}}."
+      ],
+      "translation": "❣ 需要狩猎技能 {{N0}}.",
+      "styleMappings": {
+        "Hunting Skill": "狩猎技能",
+        "Requires": "需要",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON FOREST SHARD (ID U{{N0}})"
+      ],
+      "translation": "罕见森林碎片 (ID 优{{N0}})",
+      "styleMappings": {
+        "UNCOMMON FOREST SHARD": "罕见森林碎片",
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mosquito": "蚊子",
+    "Shard": "碎片"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

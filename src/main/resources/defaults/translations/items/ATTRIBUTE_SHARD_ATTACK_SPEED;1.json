@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": "ATTRIBUTE_SHARD_ATTACK_SPEED;1",
+  "_original_name": "Inferno Demonlord Shard",
+  "_original_lore": [
+    "Attack Speed I",
+    "Grants +1  Attack Speed.",
+    "",
+    "You can Syphon this shard from",
+    "your Hunting Box.",
+    "",
+    "Right-click to send to Hunting Box!",
+    "Shift Right-click to move all!",
+    "",
+    "❣ Requires Hunting Skill 15.",
+    "EPIC COMBAT SHARD (ID E48)"
+  ],
+  "name": "炼狱魔王碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Attack Speed I"
+      ],
+      "translation": "攻击速度 I",
+      "styleMappings": {
+        "Attack Speed I": "攻击速度 I",
+        "Speed I": "速度 I",
+        "Speed": "速度",
+        "Attack Speed": "攻击速度"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}  Attack Speed."
+      ],
+      "translation": "提供 {{N0}}  攻击速度.",
+      "styleMappings": {
+        " Attack Speed": " 攻击速度",
+        "Grants": "提供",
+        "Speed": "速度",
+        "Attack Speed": "攻击速度"
+      }
+    },
+    {
+      "source": [
+        "You can Syphon this shard from",
+        "your Hunting Box."
+      ],
+      "translation": "你可以从狩猎箱中吸取此碎片.",
+      "styleMappings": {
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to send to Hunting Box!"
+      ],
+      "translation": "右键点击发送至狩猎箱!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Shift Right-click to move all!"
+      ],
+      "translation": "潜行键 右键点击全部移动!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "all": "全部"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Hunting Skill {{N0}}."
+      ],
+      "translation": "❣ 需要狩猎技能 {{N0}}.",
+      "styleMappings": {
+        "Hunting Skill": "狩猎技能",
+        "Requires": "需要",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC COMBAT SHARD (ID E{{N0}})"
+      ],
+      "translation": "史诗战斗碎片 (ID 伊{{N0}})",
+      "styleMappings": {
+        "EPIC": "史诗",
+        "COMBAT SHARD": "战斗碎片"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shard": "碎片",
+    "Inferno Demonlord": "炼狱魔王",
+    "Inferno": "炼狱"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

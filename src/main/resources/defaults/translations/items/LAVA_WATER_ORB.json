@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "LAVA_WATER_ORB",
+  "_original_name": "Lava Water Orb",
+  "_original_lore": [
+    "Extremely hot to the touch.",
+    "",
+    "Shouldn't this be steam..?",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "熔岩水球",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Extremely hot to the touch."
+      ],
+      "translation": "摸起来极其烫手.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Shouldn't this be steam..?"
+      ],
+      "translation": "这不该是蒸汽吗..?",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Lava": "熔岩"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

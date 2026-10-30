@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_DAMAGE;3",
+  "_original_name": "Damage III Potion",
+  "_original_lore": [
+    "",
+    "Damage III",
+    "Instantly deals 100 damage.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "伤害 III 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage III",
+        "Instantly deals {{N0}} damage."
+      ],
+      "translation": "伤害 III 立即造成 {{N0}} 伤害.",
+      "styleMappings": {
+        "Instantly deals": "立即造成",
+        "Damage III": "伤害 III",
+        "damage": "伤害",
+        "III": "III",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Damage III": "伤害 III",
+    "III": "III",
+    "Damage": "伤害"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

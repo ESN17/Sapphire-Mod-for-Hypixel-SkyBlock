@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "id": "BUDGET_HOPPER",
+  "_original_name": "Budget Hopper",
+  "_original_lore": [
+    "Minion Shipping",
+    "",
+    "This item can be placed inside any",
+    "minion. Automatically sells generated",
+    "items when the minion has no space.",
+    "Items are sold for 50% of their",
+    "selling price.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "简易漏斗",
+  "lore": {
+    "Minion Shipping": "仆从出货装置",
+    "UNCOMMON": "罕见"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "This item can be placed inside any",
+        "minion. Automatically sells generated",
+        "items when the minion has no space.",
+        "Items are sold for {price} of their",
+        "selling price."
+      ],
+      "translation": "可放入任意仆从.储存空间已满时,以售价的 {price} 自动出售产出物品.",
+      "styleMappings": {
+        "items": "物品",
+        "item": "物品",
+        "minion": "仆从",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Minion Shipping"
+      ],
+      "translation": "仆从出货装置",
+      "styleMappings": {
+        "Minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "This item can be placed inside any"
+      ],
+      "translation": "此物品可放入任意",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "minion. Automatically sells generated",
+        "items when the minion has no space."
+      ],
+      "translation": "仆从中.当仆从没有空间时,自动出售其产出的物品.",
+      "styleMappings": {
+        "minion": "仆从",
+        "items": "物品",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Items are sold for {{N0}} of their",
+        "selling price."
+      ],
+      "translation": "物品以其售价的 {{N0}} 出售.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

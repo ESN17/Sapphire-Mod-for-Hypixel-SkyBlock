@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 1,
+  "id": "BAT;5",
+  "_original_name": "[Lvl {LVL}] Bat",
+  "_original_lore": [
+    "Mining Pet",
+    "",
+    "Intelligence: +{INTELLIGENCE}",
+    "Speed: +{SPEED}",
+    "Sea Creature Chance: +{SEA_CREATURE_CHANCE}",
+    "",
+    "Candy Lover",
+    "Increases drop chance of candies",
+    "from mobs by {0}%.",
+    "",
+    "Nightmare",
+    "During night, gain {1}  Intelligence,",
+    "{2}  Speed, and Night Vision.",
+    "",
+    "Wings of Steel",
+    "Deals +{3}% damage to Spooky",
+    "enemies during the Spooky Festival.",
+    "",
+    "Sonar",
+    "Grants a +{4}% chance to catch",
+    "Spooky Sea Creatures during the",
+    "Spooky Festival.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "MYTHIC PET"
+  ],
+  "name": "[等级 {LVL}] 蝙蝠",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mining Pet"
+      ],
+      "translation": "采矿宠物",
+      "styleMappings": {
+        "Mining": "采矿",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: +{{N0}}"
+      ],
+      "translation": "智力: +{{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Speed: +{{N0}}"
+      ],
+      "translation": "速度: +{{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Sea Creature Chance: +{{N0}}"
+      ],
+      "translation": "海洋生物概率: +{{N0}}",
+      "styleMappings": {
+        "Sea Creature Chance": "海洋生物概率",
+        "Sea Creature": "海洋生物"
+      }
+    },
+    {
+      "source": [
+        "Candy Lover"
+      ],
+      "translation": "糖果爱好者",
+      "styleMappings": {
+        "Candy Lover": "糖果爱好者",
+        "Candy": "糖果"
+      }
+    },
+    {
+      "source": [
+        "Increases drop chance of candies",
+        "from mobs by {{N0}}%."
+      ],
+      "translation": "使怪物掉落糖果的概率提高 {{N0}}%.",
+      "styleMappings": {
+        "mobs": "怪物",
+        "chance": "概率"
+      }
+    },
+    {
+      "source": [
+        "Nightmare"
+      ],
+      "translation": "梦魇",
+      "styleMappings": {
+        "Nightmare": "梦魇"
+      }
+    },
+    {
+      "source": [
+        "During night, gain {{N0}}  Intelligence,",
+        "{{N1}}  Speed, and Night Vision."
+      ],
+      "translation": "夜间获得 {{N0}}  智力、{{N1}}  速度和夜视.",
+      "styleMappings": {
+        "Intelligence": "智力",
+        "Night Vision": "夜视",
+        " Speed": " 速度",
+        "night": "夜间",
+        "": "",
+        "Speed": "速度",
+        " Intelligence": " 智力",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "Wings of Steel"
+      ],
+      "translation": "钢铁之翼",
+      "styleMappings": {
+        "Wings of Steel": "钢铁之翼"
+      }
+    },
+    {
+      "source": [
+        "Deals +{{N0}}% damage to Spooky",
+        "enemies during the Spooky Festival."
+      ],
+      "translation": "在幽灵节期间对幽灵敌人造成 +{{N0}}% 伤害.",
+      "styleMappings": {
+        "Spooky Festival": "幽灵节",
+        "Spooky": "幽灵",
+        "damage": "伤害",
+        "Deals": "造成",
+        "enemies": "敌人"
+      }
+    },
+    {
+      "source": [
+        "Sonar"
+      ],
+      "translation": "声呐",
+      "styleMappings": {
+        "Sonar": "声呐"
+      }
+    },
+    {
+      "source": [
+        "Grants a +{{N0}}% chance to catch",
+        "Spooky Sea Creatures during the",
+        "Spooky Festival."
+      ],
+      "translation": "在幽灵节期间,获得 +{{N0}}% 的几率捕捉幽灵海洋生物.",
+      "styleMappings": {
+        "Spooky Sea Creatures": "幽灵海洋生物",
+        "Spooky Festival": "幽灵节",
+        "Grants": "获得",
+        "chance": "几率",
+        "Sea Creatures": "海洋生物",
+        "chance to": "几率",
+        "Spooky": "幽灵"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "MYTHIC PET"
+      ],
+      "translation": "神话 宠物",
+      "styleMappings": {
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Bat": "蝙蝠",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

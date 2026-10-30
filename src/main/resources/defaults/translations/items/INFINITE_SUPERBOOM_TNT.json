@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "INFINITE_SUPERBOOM_TNT",
+  "_original_name": "Infinityboom TNT",
+  "_original_lore": [
+    "Instantly breaks weak walls. Can be",
+    "used to blow up Crypts in The",
+    "Catacombs and Crystal Hollows.",
+    "",
+    "Cooldown: 2s",
+    "",
+    "EPIC"
+  ],
+  "name": "无限爆炸TNT",
+  "lore": {
+    "Cooldown: {value}s": "冷却时间:{value}秒",
+    "EPIC": "史诗"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "Instantly breaks weak walls. Can be",
+        "used to blow up Crypts in The",
+        "Catacombs and Crystal Hollows."
+      ],
+      "translation": "瞬间破坏脆弱墙壁,也可炸毁地牢与水晶洞窟中的墓穴.",
+      "styleMappings": {
+        "Crystal Hollows": "水晶洞窟",
+        "The Catacombs": "地牢",
+        "Crypts": "墓穴",
+        "Catacombs": "地牢",
+        "Crystal": "水晶"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Crystal Hollows": "水晶洞窟",
+    "The Catacombs": "地牢",
+    "s": "秒"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "DECENT_BOW",
+  "_original_name": "Decent Bow",
+  "_original_lore": [
+    "Damage: +45",
+    "",
+    "This item can be reforged!",
+    "UNCOMMON BOW"
+  ],
+  "name": "尚可的弓",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON BOW"
+      ],
+      "translation": "罕见 弓",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Bow": "弓"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

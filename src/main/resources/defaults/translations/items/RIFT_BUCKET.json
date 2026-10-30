@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "RIFT_BUCKET",
+  "_original_name": "Plumber's Bucket",
+  "_original_lore": [
+    "Instructions:",
+    " 1. Empty water bucket.",
+    " 2. Do it again because it's infinite.",
+    " 3. Triple-bill client.",
+    "",
+    "Thanks Plumber Joe!",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "水管工的水桶",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Instructions:"
+      ],
+      "translation": "使用说明:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " {{N0}}. Empty water bucket."
+      ],
+      "translation": " {{N0}}. 空水桶.",
+      "styleMappings": {
+        "Empty water bucket.": "空水桶.",
+        "water": "水"
+      }
+    },
+    {
+      "source": [
+        " {{N0}}. Do it again because it's infinite."
+      ],
+      "translation": " {{N0}}. 再做一次,因为它是无限的.",
+      "styleMappings": {
+        "Do it again because it's infinite.": "再做一次,因为它是无限的."
+      }
+    },
+    {
+      "source": [
+        " {{N0}}. Triple-bill client."
+      ],
+      "translation": " {{N0}}. 三倍账单客户.",
+      "styleMappings": {
+        "Triple-bill client.": "三倍账单客户."
+      }
+    },
+    {
+      "source": [
+        "Thanks Plumber Joe!"
+      ],
+      "translation": "感谢 Plumber Joe!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Plumber's Bucket": "水管工的水桶"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

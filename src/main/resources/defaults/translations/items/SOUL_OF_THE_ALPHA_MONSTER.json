@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "SOUL_OF_THE_ALPHA_MONSTER",
+  "_original_name": "Soul of the Alpha (Monster)",
+  "_original_lore": [
+    "The Soul of the Alpha is a Wolf mob found in the",
+    "Howling Cave, with 31,150 health. It deals True",
+    "Damage and drops 0-1 bones, 1 or 2 jungle",
+    "wood, or very rarely (1/200 drop rate), a ",
+    "Weak Wolf Catalyst. ",
+    "",
+    "Mob Types: ☮ Animal, ♃ Arcane",
+    "❤ Health: 31.150"
+  ],
+  "name": "阿尔法之魂 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Soul of the Alpha is a Wolf mob found in the",
+        "Howling Cave, with {{N0}} health. It deals True",
+        "Damage and drops {{N1}}-{{N2}} bones, {{N3}} or {{N4}} jungle",
+        "wood, or very rarely ({{N5}}/{{N6}} drop rate), a ",
+        "Weak Wolf Catalyst. "
+      ],
+      "translation": "阿尔法之魂是出没于嚎叫洞穴的狼类怪物,拥有 {{N0}} 生命值.它会造成真实伤害,并掉落 {{N1}}-{{N2}} 根骨头、{{N3}} 或 {{N4}} 个丛林原木,或极低概率({{N5}}/{{N6}} 掉落率)掉落一个弱狼催化剂.",
+      "styleMappings": {
+        "Weak Wolf Catalyst": "弱狼催化剂",
+        "Howling Cave": "嚎叫洞穴",
+        "True Damage": "真实伤害",
+        "health": "生命值",
+        "Wolf": "狼",
+        "Damage": "伤害",
+        "True": "真实",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Mob Types: ☮ Animal, ♃ Arcane"
+      ],
+      "translation": "生物类型: ☮ 动物, ♃ 奥术",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Animal": "动物",
+        "Arcane": "奥术"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

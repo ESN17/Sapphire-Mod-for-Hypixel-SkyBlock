@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "id": "WRAPPED_GIFT_FOR_JULIETTE",
+  "_original_name": "Secret Gift for Juliette",
+  "_original_lore": [
+    "Quest Item",
+    "",
+    "Bring it to Juliette in The Park.",
+    "",
+    "A well-wrapped present that's hot to",
+    "the touch.",
+    "",
+    "* Co-op Soulbound *",
+    "EPIC"
+  ],
+  "name": "给 Juliette 的秘密礼物",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Quest Item"
+      ],
+      "translation": "任务物品",
+      "styleMappings": {
+        "Item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Bring it to Juliette in The Park."
+      ],
+      "translation": "把它带给公园的 Juliette.",
+      "styleMappings": {
+        "Juliette": "Juliette",
+        "The Park": "公园"
+      }
+    },
+    {
+      "source": [
+        "A well-wrapped present that's hot to",
+        "the touch."
+      ],
+      "translation": "一个包装精美的礼物,摸起来很烫.",
+      "styleMappings": {
+        "s": "一",
+        "A": "一"
+      }
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Juliette": "Juliette"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "NOCTILUME",
+  "_original_name": "Noctilume",
+  "_original_lore": [
+    "A delicate flower that needs just",
+    "the right balance of day and night,",
+    "changing colors to show when it's",
+    "craving more light or darkness.",
+    "",
+    "Complete Visitor Beth's quest to",
+    "Analyze this crop!",
+    "",
+    "RARE MUTATION"
+  ],
+  "name": "夜光花",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A delicate flower that needs just",
+        "the right balance of day and night,",
+        "changing colors to show when it's",
+        "craving more light or darkness."
+      ],
+      "translation": "一种娇嫩的花朵,需要昼夜恰到好处的平衡,会改变颜色来显示它何时渴望更多光照或黑暗.",
+      "styleMappings": {
+        "s": "一",
+        "more": "更多",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Complete Visitor Beth's quest to",
+        "Analyze this crop!"
+      ],
+      "translation": "完成访客 Beth 的任务来分析这种作物!",
+      "styleMappings": {
+        "Visitor": "访客",
+        "Beth's": "Beth 的",
+        "Analyze": "分析"
+      }
+    },
+    {
+      "source": [
+        "RARE MUTATION"
+      ],
+      "translation": "稀有突变",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

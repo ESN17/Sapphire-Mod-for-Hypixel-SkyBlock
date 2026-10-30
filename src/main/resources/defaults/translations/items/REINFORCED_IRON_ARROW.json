@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "REINFORCED_IRON_ARROW",
+  "_original_name": "Reinforced Iron Arrow",
+  "_original_lore": [
+    "Damage: +5",
+    "",
+    "❣ Requires Combat Skill 4.",
+    "❣ Requires Target Practice I.",
+    "Stats added when shot!",
+    "COMMON ARROW"
+  ],
+  "name": "强化铁箭",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Target Practice I."
+      ],
+      "translation": "❣ 需要 目标练习 I.",
+      "styleMappings": {
+        "Target Practice I": "目标练习 I",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Stats added when shot!"
+      ],
+      "translation": "射出时添加属性!",
+      "styleMappings": {
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "COMMON ARROW"
+      ],
+      "translation": "普通箭",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Reinforced Iron Arrow": "强化铁箭",
+    "Reinforced": "强化"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

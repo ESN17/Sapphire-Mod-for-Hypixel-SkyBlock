@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "id": "DYE_CHOCOLATE",
+  "_original_name": "Chocolate Dye",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Changes the color of an armor piece",
+    "to #7B3F00!",
+    "",
+    "EPIC DYE"
+  ],
+  "name": "巧克力染料",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Changes the color of an armor piece",
+        "to #{{N0}}B{{N1}}F{{N2}}!"
+      ],
+      "translation": "将一件盔甲的颜色改为 #{{N0}}B{{N1}}F{{N2}}!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC DYE"
+      ],
+      "translation": "史诗染料",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Chocolate": "巧克力"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

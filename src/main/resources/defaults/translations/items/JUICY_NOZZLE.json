@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "JUICY_NOZZLE",
+  "_original_name": "Juicy Nozzle",
+  "_original_lore": [
+    "Can be used at SkyMart to upgrade",
+    "the Sprayonator to the Juicy",
+    "Sprayonator.",
+    "",
+    "RARE"
+  ],
+  "name": "多汁喷嘴",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Can be used at SkyMart to upgrade",
+        "the Sprayonator to the Juicy",
+        "Sprayonator."
+      ],
+      "translation": "可在 SkyMart 使用,将喷雾器升级为多汁喷洒器.",
+      "styleMappings": {
+        "Juicy Sprayonator": "多汁喷洒器",
+        "Sprayonator": "喷雾器",
+        "SkyMart": "SkyMart",
+        "upgrade": "升级",
+        "Juicy": "多汁"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Juicy Nozzle": "多汁喷嘴",
+    "Juicy": "多汁"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

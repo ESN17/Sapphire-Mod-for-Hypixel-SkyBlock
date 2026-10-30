@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "GLACITE",
+  "_original_name": "Glacite",
+  "_original_lore": [
+    "Collection Item",
+    "",
+    "An unnatural, nigh-unbreakable",
+    "material. Of those unlucky few who",
+    "have discovered where it originates,",
+    "none have lived to tell the tale.",
+    "",
+    "COMMON DWARVEN METAL"
+  ],
+  "name": "冰川石",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Collection Item"
+      ],
+      "translation": "收藏品",
+      "styleMappings": {
+        "Collection": "收藏"
+      }
+    },
+    {
+      "source": [
+        "An unnatural, nigh-unbreakable",
+        "material. Of those unlucky few who",
+        "have discovered where it originates,",
+        "none have lived to tell the tale."
+      ],
+      "translation": "一种非自然的、几乎坚不可摧的材料.那些不幸发现其来源的少数人,无一幸存讲述此事.",
+      "styleMappings": {
+        "where": "可"
+      }
+    },
+    {
+      "source": [
+        "COMMON DWARVEN METAL"
+      ],
+      "translation": "普通矮人金属",
+      "styleMappings": {
+        "COMMON DWARVEN METAL": "普通矮人金属",
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Glacite": "冰川石"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

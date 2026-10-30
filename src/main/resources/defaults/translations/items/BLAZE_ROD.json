@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "BLAZE_ROD",
+  "_original_name": "Blaze Rod",
+  "_original_lore": [
+    "Collection Item",
+    "",
+    "COMMON"
+  ],
+  "name": "烈焰棒",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Collection Item"
+      ],
+      "translation": "收藏品",
+      "styleMappings": {
+        "Collection": "收藏"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Blaze": "烈焰",
+    "Blaze Rod": "烈焰棒"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

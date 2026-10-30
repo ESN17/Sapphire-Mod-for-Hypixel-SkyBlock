@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_RESISTANCE;6",
+  "_original_name": "Resistance VI Potion",
+  "_original_lore": [
+    "",
+    "Resistance VI (3:00)",
+    "Increases  Defense by +40.",
+    "",
+    "RARE"
+  ],
+  "name": "抗性 VI 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Resistance VI ({{N0}}:{{N1}})"
+      ],
+      "translation": "抗性 VI ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Resistance VI": "抗性 VI",
+        "Resistance": "抗性"
+      }
+    },
+    {
+      "source": [
+        "Increases  Defense by {{N0}}."
+      ],
+      "translation": "增加  防御力 {{N0}}.",
+      "styleMappings": {
+        "Increases": "增加",
+        " Defense": " 防御",
+        "Defense": "防御力"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Resistance VI": "抗性 VI",
+    "Resistance": "抗性"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

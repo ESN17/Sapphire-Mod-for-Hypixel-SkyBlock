@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "id": "ULTIMATE_INFERNO;1",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Inferno I",
+    "Every 10th hit on a mob",
+    "spawns an inferno which traps",
+    "the mob and deals 125% of",
+    "your last hit.",
+    "",
+    "You can only have 1 Ultimate",
+    "Enchantment on an item!",
+    "",
+    "Sources:",
+    " - Kuudra (I-V)",
+    " - Bazaar (I-V)",
+    "",
+    "Applied To:",
+    " - Fishing Rod",
+    " - Sword",
+    " - Longsword",
+    " - Axe",
+    " - Bow",
+    " - Gauntlet",
+    "",
+    "Requirements:",
+    " - Enchanting Level 37",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Inferno I"
+      ],
+      "translation": "炼狱 I",
+      "styleMappings": {
+        "Inferno": "炼狱"
+      }
+    },
+    {
+      "source": [
+        "Every {{N0}}th hit on a mob",
+        "spawns an inferno which traps",
+        "the mob and deals {{N1}} of",
+        "your last hit."
+      ],
+      "translation": "每第 {{N0}} 次命中生物会生成一个炼狱,困住该生物并造成你上次命中的 {{N1}}.",
+      "styleMappings": {
+        "hit": "命中"
+      }
+    },
+    {
+      "source": [
+        "You can only have {{N0}} Ultimate",
+        "Enchantment on an item!"
+      ],
+      "translation": "一件物品上只能拥有 {{N0}} 个终极附魔!",
+      "styleMappings": {
+        "Ultimate Enchantment": "终极附魔",
+        "item": "物品",
+        "Enchantment": "附魔"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Kuudra (I-V)",
+        " - Bazaar (I-V)"
+      ],
+      "translation": " - 库德拉 (I-V)  - 集市 (I-V)",
+      "styleMappings": {
+        "Bazaar": "集市",
+        "Kuudra": "库德拉",
+        "I-V": "I-V"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Fishing Rod",
+        " - Sword",
+        " - Longsword",
+        " - Axe",
+        " - Bow",
+        " - Gauntlet"
+      ],
+      "translation": " - 钓鱼竿  - 剑  - 长剑  - 斧  - 弓  - 护手",
+      "styleMappings": {
+        "Fishing Rod": "钓鱼竿",
+        "Longsword": "长剑",
+        "Gauntlet": "护手",
+        "Sword": "剑",
+        "Axe": "斧",
+        "Bow": "弓",
+        "Fishing": "钓鱼"
+      }
+    },
+    {
+      "source": [
+        "Requirements:"
+      ],
+      "translation": "需求:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchanting Level {{N0}}"
+      ],
+      "translation": " - 附魔等级 {{N0}}",
+      "styleMappings": {
+        "Enchanting Level": "附魔等级"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

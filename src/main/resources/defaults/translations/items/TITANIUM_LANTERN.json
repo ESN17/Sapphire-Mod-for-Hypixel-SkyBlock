@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "id": "TITANIUM_LANTERN",
+  "_original_name": "Titanium Lantern",
+  "_original_lore": [
+    "Mining Deployable",
+    "",
+    "Ability: Deploy  RIGHT CLICK",
+    "Place an orb for 5m buffing up to 5",
+    "players within 30 blocks.",
+    "Mana Cost: 50% of max",
+    "",
+    "Orb Buff: Titanium Lantern",
+    "• Grants +60 Mining Speed.",
+    "• Grants +15 Mining Fortune.",
+    "• Grants +5 Heat Resistance.",
+    "",
+    "Only one deployable buff applies.",
+    "",
+    "❣ Requires Heart of the Mountain Tier 5.",
+    "RARE DEPLOYABLE"
+  ],
+  "name": "钛灯笼",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mining Deployable"
+      ],
+      "translation": "采矿部署物",
+      "styleMappings": {
+        "Mining": "采矿"
+      }
+    },
+    {
+      "source": [
+        "Ability: Deploy  RIGHT CLICK"
+      ],
+      "translation": "技能: 部署  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Place an orb for {{N0}}m buffing up to {{N1}}",
+        "players within {{N2}} blocks."
+      ],
+      "translation": "放置一颗持续 {{N0}}分钟的能量珠,为 {{N2}} 格内最多 {{N1}} 名玩家提供增益.",
+      "styleMappings": {
+        "blocks": "格",
+        "for": "持续",
+        "m": "分钟",
+        "{{N0}}m": "{{N0}}分钟"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}} of max"
+      ],
+      "translation": "魔力消耗:最大魔力的 {{N0}}",
+      "styleMappings": {
+        "of max": "最大魔力",
+        "max": "最大",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "Orb Buff: Titanium Lantern"
+      ],
+      "translation": "宝珠增益: 钛灯笼",
+      "styleMappings": {
+        "Titanium": "钛",
+        "Orb": "宝珠"
+      }
+    },
+    {
+      "source": [
+        "• Grants {{N0}} Mining Speed."
+      ],
+      "translation": "• 提供 {{N0}} 采矿速度.",
+      "styleMappings": {
+        "Mining Speed": "采矿速度",
+        "Grants": "提供",
+        "Mining": "采矿",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "• Grants {{N0}} Mining Fortune."
+      ],
+      "translation": "• 提供 {{N0}} 采矿幸运.",
+      "styleMappings": {
+        "Mining Fortune": "采矿幸运",
+        "Grants": "提供",
+        "Mining": "采矿",
+        "Fortune": "幸运",
+        " Mining Fortune": " 采矿幸运"
+      }
+    },
+    {
+      "source": [
+        "• Grants {{N0}} Heat Resistance."
+      ],
+      "translation": "• 提供 {{N0}} 抗热性.",
+      "styleMappings": {
+        "Heat Resistance": "抗热性",
+        "Grants": "提供"
+      }
+    },
+    {
+      "source": [
+        "Only one deployable buff applies."
+      ],
+      "translation": "部署类增益同时只能生效一种.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "❣ Requires Heart of the Mountain Tier {{N0}}."
+      ],
+      "translation": "❣ 需要山峰之心等级 {{N0}}.",
+      "styleMappings": {
+        "Heart of the Mountain Tier": "山峰之心等级",
+        "Requires": "需要",
+        "Heart of the Mountain": "山峰之心"
+      }
+    },
+    {
+      "source": [
+        "RARE DEPLOYABLE"
+      ],
+      "translation": "稀有 部署物",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Titanium": "钛"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

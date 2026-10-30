@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 1,
+  "id": "GIANTS_SWORD",
+  "_original_name": "Giant's Sword",
+  "_original_lore": [
+    "Gear Score: 600",
+    "Damage: +500",
+    "Swing Range: +1",
+    "Gemstones: [] []",
+    "",
+    "Ability: Giant's Slam  RIGHT CLICK",
+    "Slam your sword into the ground dealing",
+    "100,000 damage to nearby enemies.",
+    "Mana Cost: 100",
+    "Cooldown: 30s",
+    "",
+    "This item can be reforged!",
+    "❣ Requires The Catacombs Floor VI Completion.",
+    "LEGENDARY DUNGEON LONGSWORD"
+  ],
+  "name": "巨人剑",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Swing Range: {{N0}}"
+      ],
+      "translation": "挥砍范围: {{N0}}",
+      "styleMappings": {
+        "Swing Range": "挥砍范围"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [] []"
+      ],
+      "translation": "宝石: [] []",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石",
+        "] [": "] ["
+      }
+    },
+    {
+      "source": [
+        "Ability: Giant's Slam  RIGHT CLICK"
+      ],
+      "translation": "技能: 巨人猛击  右键点击",
+      "styleMappings": {
+        "Giant's Slam": "巨人猛击",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Slam your sword into the ground dealing",
+        "{{N0}} damage to nearby enemies."
+      ],
+      "translation": "将你的剑猛砸入地面,对附近敌人造成 {{N0}} 伤害.",
+      "styleMappings": {
+        "Slam your sword into the ground dealing": "将你的剑猛砸入地面,对附近敌人造成",
+        "damage to nearby enemies.": "伤害.",
+        "damage": "伤害",
+        "enemies": "敌人"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires The Catacombs Floor VI Completion."
+      ],
+      "translation": "❣ 需要通关地牢第 VI 层.",
+      "styleMappings": {
+        "The Catacombs": "地牢",
+        "Requires": "需要",
+        "Catacombs": "地牢"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY DUNGEON LONGSWORD"
+      ],
+      "translation": "传说 地牢 长剑",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sword": "剑"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

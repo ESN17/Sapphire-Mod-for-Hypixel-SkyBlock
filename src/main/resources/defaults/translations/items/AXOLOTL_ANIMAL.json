@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "AXOLOTL_ANIMAL",
+  "_original_name": "Axolotl (Animal)",
+  "_original_lore": [
+    "The Axolotl is a passive mob that can be found on Galatea."
+  ],
+  "name": "美西螈 (动物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Axolotl is a passive mob that can be found on Galatea."
+      ],
+      "translation": "美西螈是一种被动生物,可在加拉蒂亚找到.",
+      "styleMappings": {
+        "Galatea": "加拉蒂亚",
+        "passive": "被动"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Animal": "动物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

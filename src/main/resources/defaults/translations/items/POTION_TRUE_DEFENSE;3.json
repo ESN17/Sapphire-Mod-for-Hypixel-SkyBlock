@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_TRUE_DEFENSE;3",
+  "_original_name": "True Resistance III Potion",
+  "_original_lore": [
+    "",
+    "True Resistance III (3:00)",
+    "Gain +15 True Defense.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "真实抗性 III 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "True Resistance III ({{N0}}:{{N1}})"
+      ],
+      "translation": "真实抗性 III ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Resistance III": "抗性 III",
+        "True": "真实",
+        "III": "III",
+        "Resistance": "抗性"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}} True Defense."
+      ],
+      "translation": "获得 {{N0}} 真实防御.",
+      "styleMappings": {
+        "True Defense": "真实防御",
+        "Gain": "获得",
+        "Defense": "防御",
+        "True": "真实"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Resistance III": "抗性 III",
+    "True": "真实",
+    "III": "III",
+    "Resistance": "抗性"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

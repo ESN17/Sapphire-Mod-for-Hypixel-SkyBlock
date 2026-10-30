@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "LM_EGG_CAP",
+  "_original_name": "Living Metal Capspawn",
+  "_original_lore": [
+    "Ability: Spawn  RIGHT CLICK",
+    "Spawns a living metal autoarmor which can be",
+    "assimilated into your own armor.",
+    "",
+    "RARE"
+  ],
+  "name": "活体金属头盔生成器",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Spawn  RIGHT CLICK"
+      ],
+      "translation": "能力: 生成  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "能力",
+        "Spawn": "生成",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Spawns a living metal autoarmor which can be",
+        "assimilated into your own armor."
+      ],
+      "translation": "生成一个活体金属自动装甲,可被同化进你自己的盔甲中.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

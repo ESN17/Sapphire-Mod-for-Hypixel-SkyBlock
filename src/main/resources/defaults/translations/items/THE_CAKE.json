@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "THE_CAKE",
+  "_original_name": "The Cake",
+  "_original_lore": [
+    "There is no cake.",
+    "",
+    "* Soulbound *",
+    "SPECIAL"
+  ],
+  "name": "蛋糕",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "There is no cake."
+      ],
+      "translation": "这里没有蛋糕.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

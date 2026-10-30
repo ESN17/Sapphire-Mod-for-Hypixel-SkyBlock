@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "VOLCANIC_STONEFISH_BRONZE",
+  "_original_name": "Volcanic Stonefish BRONZE",
+  "_original_lore": [
+    "Found in the Blazing Volcano.",
+    "",
+    "Bring this to Odger at the top of the",
+    "Blazing Volcano.",
+    "",
+    "* Soulbound *",
+    "RARE TROPHY"
+  ],
+  "name": "火山石鱼 青铜",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Found in the Blazing Volcano."
+      ],
+      "translation": "在炽焰火山中发现.",
+      "styleMappings": {
+        "Blazing Volcano": "炽焰火山"
+      }
+    },
+    {
+      "source": [
+        "Bring this to Odger at the top of the",
+        "Blazing Volcano."
+      ],
+      "translation": "将此物交给炽焰火山顶部的 Odger.",
+      "styleMappings": {
+        "Blazing Volcano": "炽焰火山",
+        "Odger": "Odger"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "RARE TROPHY"
+      ],
+      "translation": "稀有奖杯",
+      "styleMappings": {
+        "RARE TROPHY": "稀有奖杯",
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "BRONZE": "青铜",
+    "Volcanic Stonefish": "火山石鱼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

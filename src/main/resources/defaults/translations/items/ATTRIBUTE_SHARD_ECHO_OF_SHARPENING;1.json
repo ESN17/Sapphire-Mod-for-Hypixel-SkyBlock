@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "ATTRIBUTE_SHARD_ECHO_OF_SHARPENING;1",
+  "_original_name": "Gecko Shard",
+  "_original_lore": [
+    "Echo of Sharpening I",
+    "Your Sharpening Attributes are +2%",
+    "stronger.",
+    "",
+    "You can Syphon this shard from",
+    "your Hunting Box.",
+    "",
+    "Right-click to send to Hunting Box!",
+    "Shift Right-click to move all!",
+    "",
+    "❣ Requires Hunting Skill 10.",
+    "RARE FOREST SHARD (ID R61)"
+  ],
+  "name": "壁虎碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Echo of Sharpening I"
+      ],
+      "translation": "磨砺回响 I",
+      "styleMappings": {
+        "I": "I"
+      }
+    },
+    {
+      "source": [
+        "Your Sharpening Attributes are {{N0}}",
+        "stronger."
+      ],
+      "translation": "你的磨砺属性提高 {{N0}}.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "You can Syphon this shard from",
+        "your Hunting Box."
+      ],
+      "translation": "你可以从狩猎箱中吸取此碎片.",
+      "styleMappings": {
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to send to Hunting Box!"
+      ],
+      "translation": "右键点击发送至狩猎箱!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Shift Right-click to move all!"
+      ],
+      "translation": "潜行键 右键点击全部移动!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "all": "全部"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Hunting Skill {{N0}}."
+      ],
+      "translation": "❣ 需要狩猎技能 {{N0}}.",
+      "styleMappings": {
+        "Hunting Skill": "狩猎技能",
+        "Requires": "需要",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "RARE FOREST SHARD (ID R{{N0}})"
+      ],
+      "translation": "稀有森林碎片 (ID R{{N0}})",
+      "styleMappings": {
+        "RARE FOREST SHARD": "稀有森林碎片",
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shard": "碎片"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

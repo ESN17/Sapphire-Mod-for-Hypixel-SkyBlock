@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "POISON_SAMPLE",
+  "_original_name": "Poison Sample",
+  "_original_lore": [
+    "Dropped from Slimes, but only the",
+    "especially toxic ones!",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "毒液样本",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Dropped from Slimes, but only the",
+        "especially toxic ones!"
+      ],
+      "translation": "由史莱姆掉落,但只有特别有毒的那些才会掉落!",
+      "styleMappings": {
+        "Slimes": "史莱姆"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "HONEY_JAR",
+  "_original_name": "Honey Jar",
+  "_original_lore": [
+    "Can be spread across a Garden plot",
+    "with a Sprayonator or used in Pest",
+    "Traps.",
+    "",
+    "Attracts: Moth, Cricket",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "蜜罐",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Can be spread across a Garden plot",
+        "with a Sprayonator or used in Pest",
+        "Traps."
+      ],
+      "translation": "可用喷雾器撒在花园地块上,或用于害虫陷阱.",
+      "styleMappings": {
+        "Sprayonator": "喷雾器",
+        "Pest Traps": "害虫陷阱",
+        "Garden": "花园",
+        "Pest": "害虫"
+      }
+    },
+    {
+      "source": [
+        "Attracts: Moth, Cricket"
+      ],
+      "translation": "吸引: 飞蛾, 蟋蟀",
+      "styleMappings": {
+        "Moth": "飞蛾",
+        "Cricket": "蟋蟀",
+        "Attracts": "吸引"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Honey Jar": "蜜罐"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

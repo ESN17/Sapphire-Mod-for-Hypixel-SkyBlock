@@ -1,0 +1,172 @@
+{
+  "schemaVersion": 1,
+  "id": "FIERY_HOLLOW_CHESTPLATE",
+  "_original_name": "Fiery Hollow Chestplate",
+  "_original_lore": [
+    "Health: +488",
+    "Defense: +137",
+    "Intelligence: +170",
+    "Mending: +10",
+    "Speed: +10",
+    "Gemstones: [⚔] [⚔]",
+    "",
+    "Tiered Bonus: Spirit (0/4)",
+    "Every 3s, up to 5 nearby player's attacks",
+    "grant 1 stack of ⚶ Spirit. (Max 30 Stacks)",
+    "Lose 1 after 4s of not gaining a stack.",
+    "",
+    "Stacks can be used with a Hollow Wand to cast",
+    "spells.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Combat Skill 37.",
+    "❣ Requires Kuudra Fiery Tier Completion.",
+    "LEGENDARY CHESTPLATE"
+  ],
+  "name": "炽焰虚空胸甲",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Mending: {{N0}}"
+      ],
+      "translation": "修复:{{N0}}",
+      "styleMappings": {
+        "Mending": "修复"
+      }
+    },
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [⚔] [⚔]"
+      ],
+      "translation": "宝石: [⚔] [⚔]",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石",
+        "] [": "] ["
+      }
+    },
+    {
+      "source": [
+        "Tiered Bonus: Spirit ({{N0}}/{{N1}})"
+      ],
+      "translation": "分级加成:灵魂 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Tiered Bonus": "分级加成",
+        "Spirit": "灵魂",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Every {{N0}}s, up to {{N1}} nearby player's attacks",
+        "grant {{N2}} stack of ⚶ Spirit. (Max {{N3}} Stacks)",
+        "Lose {{N4}} after {{N5}}s of not gaining a stack."
+      ],
+      "translation": "每 {{N0}} 秒,最多 {{N1}} 名附近玩家的攻击会给予 {{N2}} 层 ⚶ 灵魂.(上限 {{N3}} 层) 若 {{N5}} 秒内未获得层数则失去 {{N4}}.",
+      "styleMappings": {
+        "(Max {{N3}} Stacks) Lose {{N4}} after {{N5}}s of not gaining a stack.": "(上限 {{N3}} 层) 若 {{N5}} 秒内未获得层数则失去 {{N4}}.",
+        "⚶ Spirit": "⚶ 灵魂",
+        "player": "玩家",
+        "{{N0}}s": "{{N0}} 秒",
+        "{{N5}}s": "{{N5}} 秒",
+        "(Max": "(上限",
+        "Spirit": "灵魂"
+      }
+    },
+    {
+      "source": [
+        "Stacks can be used with a Hollow Wand to cast",
+        "spells."
+      ],
+      "translation": "层数可与空洞法杖配合用于施放法术。",
+      "styleMappings": {
+        "Hollow Wand": "空洞法杖",
+        "Wand": "法杖"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Kuudra Fiery Tier Completion."
+      ],
+      "translation": "❣ 需要完成库德拉炽焰难度.",
+      "styleMappings": {
+        "Kuudra Fiery Tier Completion": "库德拉炽焰难度",
+        "Requires": "需要",
+        "Kuudra": "库德拉"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY CHESTPLATE"
+      ],
+      "translation": "传说 胸甲",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Chestplate": "胸甲"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

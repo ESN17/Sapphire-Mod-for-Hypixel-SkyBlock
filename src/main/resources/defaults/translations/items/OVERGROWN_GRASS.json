@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": "OVERGROWN_GRASS",
+  "_original_name": "Overgrown Grass",
+  "_original_lore": [
+    "Reforge Stone",
+    "Combinable in Anvil",
+    "",
+    "Applies the Mossy reforge when",
+    "combined with Armor.",
+    "",
+    "Grants the following stats that scale",
+    "with the item's rarity:",
+    "  Farming Fortune",
+    "  Speed",
+    "",
+    "Right-click to view rarity scaling!",
+    "",
+    "❣ Requires Mining Skill 23.",
+    "",
+    "EPIC REFORGE STONE"
+  ],
+  "name": "蔓生草",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Reforge Stone",
+        "Combinable in Anvil"
+      ],
+      "translation": "洗练石 可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Reforge Stone": "洗练石",
+        "Anvil": "铁砧",
+        "Reforge": "洗练"
+      }
+    },
+    {
+      "source": [
+        "Applies the Mossy reforge when",
+        "combined with Armor."
+      ],
+      "translation": "与盔甲结合时应用苔藓洗练.",
+      "styleMappings": {
+        "Mossy": "苔藓",
+        "Armor": "盔甲",
+        "reforge": "洗练",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Grants the following stats that scale"
+      ],
+      "translation": "提供以下随物品稀有度提升的属性:",
+      "styleMappings": {
+        "Grants": "提供",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "with the item's rarity:"
+      ],
+      "translation": "物品稀有度提升的属性:",
+      "styleMappings": {
+        "item": "物品",
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "  Farming Fortune",
+        "  Speed"
+      ],
+      "translation": "   农业幸运  速度",
+      "styleMappings": {
+        "Farming Fortune": "农业幸运",
+        " Speed": " 速度",
+        "Fortune": "幸运",
+        "Farming": "农业",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view rarity scaling!"
+      ],
+      "translation": "右键查看各稀有度的属性!",
+      "styleMappings": {
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Mining Skill {{N0}}."
+      ],
+      "translation": "❣ 需要采矿技能 {{N0}}.",
+      "styleMappings": {
+        "Mining Skill": "采矿技能",
+        "Requires": "需要",
+        "Mining": "采矿",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC REFORGE STONE"
+      ],
+      "translation": "史诗洗练石",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

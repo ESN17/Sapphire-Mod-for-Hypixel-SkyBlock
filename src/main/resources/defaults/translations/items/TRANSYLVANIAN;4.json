@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "id": "TRANSYLVANIAN;4",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Transylvanian IV",
+    "Heal 2❤/s per enemy within 10",
+    "blocks, up to 20❤/s.",
+    "",
+    "Sources:",
+    " - Hemovibe Collection (IV)",
+    " - Bazaar (IV-V)",
+    "",
+    "Applied To:",
+    " - Helmet",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Transylvanian IV"
+      ],
+      "translation": "血族 IV",
+      "styleMappings": {
+        "Transylvanian": "血族"
+      }
+    },
+    {
+      "source": [
+        "Heal {{N0}}❤/s per enemy within {{N1}}",
+        "blocks, up to {{N2}}❤/s."
+      ],
+      "translation": "每个 {{N1}} 格内的敌人为你治疗 {{N0}}❤/秒,最多 {{N2}}❤/秒.",
+      "styleMappings": {
+        "blocks": "格",
+        "Heal": "治疗",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Hemovibe Collection (IV)",
+        " - Bazaar (IV-V)"
+      ],
+      "translation": " - 血振收藏 (IV)  - 集市 (IV-V)",
+      "styleMappings": {
+        "Bazaar": "集市",
+        "Collection": "收藏",
+        "IV-V": "IV-V"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Helmet"
+      ],
+      "translation": " - 头盔",
+      "styleMappings": {
+        "Helmet": "头盔"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

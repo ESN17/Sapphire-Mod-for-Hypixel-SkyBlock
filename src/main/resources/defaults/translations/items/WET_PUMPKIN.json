@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "WET_PUMPKIN",
+  "_original_name": "Wet Pumpkin",
+  "_original_lore": [
+    "A squishy moist mess.",
+    "",
+    "* Co-op Soulbound *",
+    "EPIC"
+  ],
+  "name": "湿南瓜",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A squishy moist mess."
+      ],
+      "translation": "一团湿软黏糊的东西.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    },
+    {
+      "source": [
+        "* Co-op Soulbound * EPIC"
+      ],
+      "translation": "* 合作灵魂绑定 * 史诗",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定",
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Pumpkin": "南瓜"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

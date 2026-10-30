@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "DYE_PURE_WHITE",
+  "_original_name": "Pure White Dye",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Changes the color of an armor piece",
+    "to #FFFFFF!",
+    "",
+    "EPIC DYE"
+  ],
+  "name": "纯白染料",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Changes the color of an armor piece",
+        "to #FFFFFF!"
+      ],
+      "translation": "将盔甲部件的颜色改为 #FFFFFF!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC DYE"
+      ],
+      "translation": "史诗染料",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

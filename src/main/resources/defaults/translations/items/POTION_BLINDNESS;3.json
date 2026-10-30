@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_BLINDNESS;3",
+  "_original_name": "Blindness III Potion",
+  "_original_lore": [
+    "",
+    "Blindness III (0:03)",
+    "Grants blindness to the affected",
+    "player.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "失明 III 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Blindness III ({{N0}}:{{N1}})"
+      ],
+      "translation": "失明 III ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "III": "III"
+      }
+    },
+    {
+      "source": [
+        "Grants blindness to the affected",
+        "player."
+      ],
+      "translation": "使受影响的玩家失明.",
+      "styleMappings": {
+        "player": "玩家"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "III": "III"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

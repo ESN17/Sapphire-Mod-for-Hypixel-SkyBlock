@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "OLD_WOLF_MONSTER",
+  "_original_name": "Old Wolf (Monster)",
+  "_original_lore": [
+    "Wolves older than the island",
+    "itself.",
+    "",
+    "❤ Health: 15,000"
+  ],
+  "name": "老狼 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Wolves older than the island",
+        "itself."
+      ],
+      "translation": "比这座岛本身还要古老的狼.",
+      "styleMappings": {
+        "Wolves": "狼"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Wolf": "狼",
+    "Wolf (Monster)": "狼 (怪物)",
+    "(Monster)": "(怪物)",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

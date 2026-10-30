@@ -1,0 +1,145 @@
+{
+  "schemaVersion": 1,
+  "id": "RAGNAROCK_AXE",
+  "_original_name": "Ragnarock",
+  "_original_lore": [
+    "Damage: +200",
+    "Strength: +100",
+    "Gemstones: [⚔]",
+    "",
+    "Ability: Ragnarock  RIGHT CLICK",
+    "Begin a channel.",
+    "After not taking damage for 3s, gain 1.5x this",
+    "weapon's  Strength for 10s.",
+    "Mana Cost: 500",
+    "Cooldown: 20s",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Combat Skill 22.",
+    "RARE SWORD"
+  ],
+  "name": "诸神黄昏",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [⚔]"
+      ],
+      "translation": "宝石: [⚔]",
+      "styleMappings": {
+        "Gemstones": "宝石",
+        "[": "[",
+        "Gemstones:": "宝石:"
+      }
+    },
+    {
+      "source": [
+        "Ability: Ragnarock  RIGHT CLICK"
+      ],
+      "translation": "技能: 诸神黄昏  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ragnarock": "诸神黄昏",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Begin a channel."
+      ],
+      "translation": "开始引导.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "After not taking damage for {{N0}}s, gain {{N1}}x this",
+        "weapon's  Strength for {{N2}}s."
+      ],
+      "translation": "在 {{N0}} 秒内未受到伤害后,获得该武器 {{N1}} 倍  力量,持续 {{N2}} 秒。",
+      "styleMappings": {
+        " Strength": " 力量",
+        "damage": "伤害",
+        "Strength": "力量",
+        "{{N0}}s": "{{N0}} 秒",
+        "{{N1}}x": "{{N1}} 倍",
+        "{{N2}}s": "{{N2}} 秒",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "RARE SWORD"
+      ],
+      "translation": "稀有剑",
+      "styleMappings": {
+        "RARE": "稀有",
+        "RARE SWORD": "稀有剑"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Ragnarock": "诸神黄昏"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

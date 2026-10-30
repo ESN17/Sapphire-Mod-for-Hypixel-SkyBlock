@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "SUBLIME_SILK",
+  "_original_name": "Sublime Silk",
+  "_original_lore": [
+    "Dropped by the Silkbreeze in",
+    "Torrhus Canyon.",
+    "",
+    "A type of silk woven by the",
+    "Silkbreeze. It's so soft that it",
+    "practically trickles through your",
+    "fingers as you hold it.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "EPIC"
+  ],
+  "name": "卓越丝绸",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Dropped by the Silkbreeze in",
+        "Torrhus Canyon."
+      ],
+      "translation": "由托鲁斯峡谷的丝风掉落.",
+      "styleMappings": {
+        "Silkbreeze": "丝风",
+        "Torrhus Canyon": "托鲁斯峡谷"
+      }
+    },
+    {
+      "source": [
+        "A type of silk woven by the",
+        "Silkbreeze. It's so soft that it",
+        "practically trickles through your",
+        "fingers as you hold it."
+      ],
+      "translation": "一种由丝风编织的丝绸.它柔软得拿在手里几乎会从指缝间流走.",
+      "styleMappings": {
+        "Silkbreeze": "丝风",
+        "s": "一"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

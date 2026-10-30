@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "SHENS_RINGALIA",
+  "_original_name": "Shen's Ringalia",
+  "_original_lore": [
+    "Rift Time: +50s",
+    "",
+    "No matter the place or when, anyone",
+    "marked by Shen will gain control.",
+    "",
+    "Right-click to equip!",
+    "",
+    "* Soulbound *",
+    "LEGENDARY BRACELET"
+  ],
+  "name": "沈 的戒指",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Rift Time: {{N0}}s"
+      ],
+      "translation": "裂隙时间: {{N0}}秒",
+      "styleMappings": {
+        "Rift Time": "裂隙时间",
+        "{{N0}}s": "{{N0}}秒",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "No matter the place or when, anyone",
+        "marked by Shen will gain control."
+      ],
+      "translation": "无论何时何地,被沈标记的人将获得控制权.",
+      "styleMappings": {
+        "Shen": "沈",
+        "when": "时",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "Right-click to equip!"
+      ],
+      "translation": "右键点击装备!",
+      "styleMappings": {
+        "Right-click to equip!": "右键点击装备!",
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY BRACELET"
+      ],
+      "translation": "传说手镯",
+      "styleMappings": {
+        "LEGENDARY BRACELET": "传说手镯",
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shen's Ringalia": "沈 的戒指",
+    "Shen": "沈"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

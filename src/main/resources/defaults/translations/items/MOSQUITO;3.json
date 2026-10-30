@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "id": "MOSQUITO;3",
+  "_original_name": "[Lvl {LVL}] Mosquito",
+  "_original_lore": [
+    "Farming Pet",
+    "",
+    "Speed: +{SPEED}",
+    "Bonus Pest Chance: +{BONUS_PEST_CHANCE}%",
+    "",
+    "Smooth Jazz",
+    "Pest Vinyls are {0}% more effective.",
+    "",
+    "Buzzin' Barterer",
+    "Gain +{1} Sugar Cane Fortune for",
+    "every unique visitor you've served",
+    "in The Garden.",
+    "Your Bonus: 1.7 Sugar Cane Fortune",
+    "Capped at 175 Fortune",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "EPIC PET"
+  ],
+  "name": "[等级 {LVL}] 蚊子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Farming Pet"
+      ],
+      "translation": "耕作宠物",
+      "styleMappings": {
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Speed: +{{N0}}"
+      ],
+      "translation": "速度: +{{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Bonus Pest Chance: +{{N0}}%"
+      ],
+      "translation": "额外害虫概率: +{{N0}}%",
+      "styleMappings": {
+        "Bonus Pest Chance": "额外害虫概率",
+        "Pest": "害虫"
+      }
+    },
+    {
+      "source": [
+        "Smooth Jazz"
+      ],
+      "translation": "丝滑爵士",
+      "styleMappings": {
+        "Smooth Jazz": "丝滑爵士"
+      }
+    },
+    {
+      "source": [
+        "Pest Vinyls are {{N0}}% more effective."
+      ],
+      "translation": "害虫唱片效果提升 {{N0}}%.",
+      "styleMappings": {
+        "Pest Vinyls": "害虫唱片",
+        "Pest": "害虫"
+      }
+    },
+    {
+      "source": [
+        "Buzzin' Barterer"
+      ],
+      "translation": "嗡嗡交易者",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Gain +{{N0}} Sugar Cane Fortune for",
+        "every unique visitor you've served",
+        "in The Garden."
+      ],
+      "translation": "你在花园中招待过的每位独特访客都会为你提供 +{{N0}} 甘蔗幸运值.",
+      "styleMappings": {
+        "Sugar Cane Fortune": "甘蔗幸运值",
+        "The Garden": "花园",
+        "unique": "独特",
+        "Garden": "花园",
+        "Fortune": "幸运",
+        "Sugar Cane": "甘蔗"
+      }
+    },
+    {
+      "source": [
+        "Your Bonus: {{N0}} Sugar Cane Fortune"
+      ],
+      "translation": "你的加成: {{N0}} 甘蔗幸运值",
+      "styleMappings": {
+        "Sugar Cane Fortune": "甘蔗幸运值",
+        "Bonus": "加成",
+        "Fortune": "幸运",
+        "Sugar Cane": "甘蔗"
+      }
+    },
+    {
+      "source": [
+        "Capped at {{N0}} Fortune"
+      ],
+      "translation": "上限为 {{N0}} 幸运值",
+      "styleMappings": {
+        "Fortune": "幸运"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "EPIC PET"
+      ],
+      "translation": "史诗 宠物",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mosquito": "蚊子",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

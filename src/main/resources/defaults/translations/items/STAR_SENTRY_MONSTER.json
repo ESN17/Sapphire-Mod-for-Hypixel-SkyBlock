@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "id": "STAR_SENTRY_MONSTER",
+  "_original_name": "Star Sentry (Monster)",
+  "_original_lore": [
+    "The Star Sentry is a mob that spawns near",
+    "fallen star in the Dwarven Mines (random event).",
+    "The Star Sentry takes 1 health per hit.",
+    "Fallen Star Event spawns in one of the ",
+    "following locations: Royal Mines, Far Reserve,",
+    "Goblin Burrows, Upper Mines, Rampart's Quarry,",
+    "Great Ice Wall and the Cliffside Veins.",
+    "",
+    "Mob Types: ♃ Arcane, ⚙ Construct, ⛨ Shielded",
+    "❤ Health: 10"
+  ],
+  "name": "星哨兵 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Star Sentry is a mob that spawns near",
+        "fallen star in the Dwarven Mines (random event)."
+      ],
+      "translation": "星哨兵是一种会在矮人矿坑的坠落之星附近生成的怪物(随机事件).",
+      "styleMappings": {
+        "Dwarven Mines": "矮人矿坑",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "The Star Sentry takes {{N0}} health per hit."
+      ],
+      "translation": "星哨兵每次受击损失 {{N0}} 生命值.",
+      "styleMappings": {
+        "health": "生命值",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Fallen Star Event spawns in one of the "
+      ],
+      "translation": "坠落之星事件会在以下地点之一生成: ",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "following locations: Royal Mines, Far Reserve,"
+      ],
+      "translation": "皇家矿坑、远郊矿区、",
+      "styleMappings": {
+        "Royal": "皇家"
+      }
+    },
+    {
+      "source": [
+        "Goblin Burrows, Upper Mines, Rampart's Quarry,",
+        "Great Ice Wall and the Cliffside Veins."
+      ],
+      "translation": "哥布林洞穴、上层矿坑、壁垒采石场、巨冰之墙以及峭壁矿脉.",
+      "styleMappings": {
+        "Goblin": "哥布林",
+        "Ice": "冰",
+        "Goblin Burrows": "哥布林洞穴"
+      }
+    },
+    {
+      "source": [
+        "Mob Types: ♃ Arcane, ⚙ Construct, ⛨ Shielded"
+      ],
+      "translation": "怪物类型: ♃ 奥术, ⚙ 构装, ⛨ 护盾",
+      "styleMappings": {
+        "Arcane": "奥术",
+        "Construct": "构装",
+        "Shielded": "护盾",
+        "Mob Types": "怪物类型",
+        "Mob Types:": "怪物类型:"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "SCAVENGER;1",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Scavenger I",
+    "Scavenge 0.3 Coins per monster",
+    "level on kill.",
+    "",
+    "Sources:",
+    " - Enchantment Table (I-III)",
+    " - Season of Jerry (IV)",
+    " - Experiments (IV-V)",
+    " - Bazaar (IV-V)",
+    " - Catacombs (V)",
+    " - Golden Bounty (VI)",
+    "",
+    "Applied To:",
+    " - Sword",
+    " - Longsword",
+    " - Gauntlet",
+    "",
+    "Requirements:",
+    " - Enchanting Level 1",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Scavenger I"
+      ],
+      "translation": "拾荒者 I",
+      "styleMappings": {
+        "Scavenger": "拾荒者"
+      }
+    },
+    {
+      "source": [
+        "Scavenge {{N0}} Coins per monster",
+        "level on kill."
+      ],
+      "translation": "击杀时每级怪物等级拾取 {{N0}} 硬币.",
+      "styleMappings": {
+        "Coins": "硬币",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchantment Table (I-III)",
+        " - Season of Jerry (IV)",
+        " - Experiments (IV-V)",
+        " - Bazaar (IV-V)",
+        " - Catacombs (V)",
+        " - Golden Bounty (VI)"
+      ],
+      "translation": " - 附魔台 (I-III)  - 杰瑞季 (IV)  - 实验 (IV-V)  - 集市 (IV-V)  - 地牢 (V)  - 黄金赏金 (VI)",
+      "styleMappings": {
+        "Enchantment Table": "附魔台",
+        "Season of Jerry": "杰瑞季",
+        "Golden Bounty": "黄金赏金",
+        "Experiments": "实验",
+        "Catacombs": "地牢",
+        "Bazaar": "集市",
+        "I-III": "I-III",
+        "III": "III",
+        "Jerry": "杰瑞",
+        "Enchantment": "附魔",
+        "IV-V": "IV-V"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Sword",
+        " - Longsword",
+        " - Gauntlet"
+      ],
+      "translation": " - 剑  - 长剑  - 护手",
+      "styleMappings": {
+        "Sword": "剑",
+        "Longsword": "长剑",
+        "Gauntlet": "护手"
+      }
+    },
+    {
+      "source": [
+        "Requirements:"
+      ],
+      "translation": "需求:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchanting Level {{N0}}"
+      ],
+      "translation": " - 附魔等级 {{N0}}",
+      "styleMappings": {
+        "Enchanting Level": "附魔等级"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

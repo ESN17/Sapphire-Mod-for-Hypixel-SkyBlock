@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "DYE_PORTAL",
+  "_original_name": "Portal Dye",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Animates the color of an armor piece",
+    "between #5909C1 and #D412F0!",
+    "",
+    "This dye also displays a special",
+    "particle effect when equipped!",
+    "",
+    "MYTHIC DYE"
+  ],
+  "name": "传送门染料",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Animates the color of an armor piece",
+        "between #{{N0}}C{{N1}} and #D{{N2}}F{{N3}}!"
+      ],
+      "translation": "使盔甲部件的颜色在 #{{N0}}C{{N1}} 和 #D{{N2}}F{{N3}} 之间渐变!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "This dye also displays a special",
+        "particle effect when equipped!"
+      ],
+      "translation": "装备此染料时还会显示特殊的粒子效果!",
+      "styleMappings": {
+        "special particle effect": "特殊的粒子效果",
+        "equipped": "装备",
+        "special": "特殊",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "MYTHIC DYE"
+      ],
+      "translation": "神话染料",
+      "styleMappings": {
+        "MYTHIC DYE": "神话染料",
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

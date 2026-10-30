@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "id": "SKELETON_HELMET",
+  "_original_name": "Skeleton's Helmet",
+  "_original_lore": [
+    "Defense: +75",
+    "",
+    "Ability: Bone Shield ",
+    "A Bone Shield will surround you,",
+    "nullifying damage you take but",
+    "consuming a bone in the process.",
+    "Bones regenerate every 30 seconds.",
+    "",
+    "This item can be reforged!",
+    "RARE HELMET"
+  ],
+  "name": "骷髅头盔",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Ability: Bone Shield "
+      ],
+      "translation": "技能: 骨盾 ",
+      "styleMappings": {
+        "Ability: Bone Shield": "技能: 骨盾",
+        "Ability": "技能"
+      }
+    },
+    {
+      "source": [
+        "A Bone Shield will surround you,",
+        "nullifying damage you take but",
+        "consuming a bone in the process."
+      ],
+      "translation": "骨盾会环绕在你周围,抵消你受到的伤害,但会消耗一根骨头.",
+      "styleMappings": {
+        "damage": "伤害",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Bones regenerate every {{N0}} seconds."
+      ],
+      "translation": "骨头每 {{N0}} 秒再生.",
+      "styleMappings": {
+        "seconds": "秒"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "RARE HELMET"
+      ],
+      "translation": "稀有头盔",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Skeleton's Helmet": "骷髅头盔",
+    "Helmet": "头盔",
+    "Skeleton": "骷髅"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

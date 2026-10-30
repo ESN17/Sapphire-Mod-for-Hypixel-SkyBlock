@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "KUUDRA_BURNING_TIER_KEY",
+  "_original_name": "Burning Kuudra Key",
+  "_original_lore": [
+    "Used to unlock the reward chest in",
+    "the Burning Tier of the Kuudra fight.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "* Co-op Soulbound *",
+    "EPIC"
+  ],
+  "name": "燃烧 库德拉 钥匙",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Used to unlock the reward chest in",
+        "the Burning Tier of the Kuudra fight."
+      ],
+      "translation": "用于解锁库德拉之战燃烧阶级的奖励宝箱.",
+      "styleMappings": {
+        "Kuudra": "库德拉",
+        "reward": "奖励",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Kuudra": "库德拉"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

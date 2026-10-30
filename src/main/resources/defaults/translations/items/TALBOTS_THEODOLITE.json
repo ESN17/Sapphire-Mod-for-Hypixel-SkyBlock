@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "TALBOTS_THEODOLITE",
+  "_original_name": "Talbot's Theodolite",
+  "_original_lore": [
+    "Ability: Track  RIGHT CLICK",
+    "Indicates the approximate height difference",
+    "and angle between you and your tracked mob.",
+    "Mana Cost: 100",
+    "Cooldown: 10s",
+    "",
+    "RARE"
+  ],
+  "name": "Talbot 的经纬仪",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Track  RIGHT CLICK"
+      ],
+      "translation": "技能: 追踪  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Indicates the approximate height difference",
+        "and angle between you and your tracked mob."
+      ],
+      "translation": "显示你与你追踪的生物之间的大致高度差和角度.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

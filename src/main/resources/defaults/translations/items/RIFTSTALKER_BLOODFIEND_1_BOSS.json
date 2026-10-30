@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "RIFTSTALKER_BLOODFIEND_1_BOSS",
+  "_original_name": "Riftstalker Bloodfiend I (Boss)",
+  "_original_lore": [
+    "Beginner",
+    "",
+    "Health: 625❤",
+    "Damage: 0.5 per second",
+    "",
+    "Has 3 abilities over 3",
+    "phases!"
+  ],
+  "name": "裂隙潜行者 血魔 I (首领)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Beginner"
+      ],
+      "translation": "新手",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Health: {{N0}}❤"
+      ],
+      "translation": "生命值: {{N0}}❤",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Damage: {{N0}} per second"
+      ],
+      "translation": "伤害: 每秒 {{N0}}",
+      "styleMappings": {
+        "per second": "每秒",
+        "Damage": "伤害",
+        "second": "秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Has {{N0}} abilities over {{N1}}",
+        "phases!"
+      ],
+      "translation": "在 {{N1}} 个阶段中拥有 {{N0}} 个技能!",
+      "styleMappings": {
+        "abilities": "技能",
+        "phases": "阶段",
+        "Has": "拥有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Boss": "首领",
+    "I": "I"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

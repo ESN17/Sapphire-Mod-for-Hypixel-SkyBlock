@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "ATTRIBUTE_SHARD_BLAZING;1",
+  "_original_name": "Flare Shard",
+  "_original_lore": [
+    "Infernal Ruler I",
+    "Grants +3% more  Damage against",
+    " Infernal mobs.",
+    "",
+    "You can Syphon this shard from",
+    "your Hunting Box.",
+    "",
+    "Right-click to send to Hunting Box!",
+    "Shift Right-click to move all!",
+    "",
+    "EPIC COMBAT SHARD (ID E18)"
+  ],
+  "name": "耀斑碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Infernal Ruler I"
+      ],
+      "translation": "炼狱统治者 I",
+      "styleMappings": {
+        "Infernal Ruler I": "炼狱统治者 I",
+        "Infernal": "炼狱"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} more  Damage against",
+        " Infernal mobs."
+      ],
+      "translation": "对  炼狱生物造成 {{N0}} 点额外 伤害.",
+      "styleMappings": {
+        "Infernal": "炼狱",
+        " Damage": " 伤害",
+        "mobs": "生物",
+        "more": "额外",
+        "Grants": "造成",
+        "Damage": "伤害",
+        "mobs.": "伤害."
+      }
+    },
+    {
+      "source": [
+        "You can Syphon this shard from",
+        "your Hunting Box."
+      ],
+      "translation": "你可以从狩猎箱中吸取此碎片.",
+      "styleMappings": {
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to send to Hunting Box!"
+      ],
+      "translation": "右键点击发送至狩猎箱!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Shift Right-click to move all!"
+      ],
+      "translation": "潜行键 右键点击全部移动!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "all": "全部"
+      }
+    },
+    {
+      "source": [
+        "EPIC COMBAT SHARD (ID E{{N0}})"
+      ],
+      "translation": "史诗战斗碎片 (ID 伊{{N0}})",
+      "styleMappings": {
+        "EPIC": "史诗",
+        "COMBAT SHARD": "战斗碎片"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shard": "碎片"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

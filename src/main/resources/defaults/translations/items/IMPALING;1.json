@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 1,
+  "id": "IMPALING;1",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Impaling I",
+    "Increases damage dealt to ⚓",
+    "Aquatic mobs by 5%.",
+    "",
+    "Source:",
+    " - Enchantment Table (I-V)",
+    "",
+    "Applied To:",
+    " - Fishing Rod",
+    " - Sword",
+    " - Longsword",
+    " - Gauntlet",
+    " - Bow",
+    "",
+    "Requirements:",
+    " - Enchanting Level 12",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Impaling I"
+      ],
+      "translation": "穿刺 I",
+      "styleMappings": {
+        "Impaling": "穿刺"
+      }
+    },
+    {
+      "source": [
+        "Increases damage dealt to ⚓",
+        "Aquatic mobs by {{N0}}."
+      ],
+      "translation": "对 ⚓ 水生怪物造成的伤害提高 {{N0}}.",
+      "styleMappings": {
+        "damage": "伤害",
+        "mobs": "怪物",
+        "Aquatic": "水生"
+      }
+    },
+    {
+      "source": [
+        "Source:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchantment Table (I-V)"
+      ],
+      "translation": " - 附魔台 (一至五级)",
+      "styleMappings": {
+        "Enchantment Table": "附魔台",
+        "I-V": "一至五级",
+        "Enchantment": "附魔"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Fishing Rod",
+        " - Sword",
+        " - Longsword",
+        " - Gauntlet",
+        " - Bow"
+      ],
+      "translation": " - 钓鱼竿  - 剑  - 长剑  - 护手  - 弓",
+      "styleMappings": {
+        "Fishing Rod": "钓鱼竿",
+        "Longsword": "长剑",
+        "Gauntlet": "护手",
+        "Sword": "剑",
+        "Bow": "弓",
+        "Fishing": "钓鱼"
+      }
+    },
+    {
+      "source": [
+        "Requirements:"
+      ],
+      "translation": "需求:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchanting Level {{N0}}"
+      ],
+      "translation": " - 附魔等级 {{N0}}",
+      "styleMappings": {
+        "Enchanting Level": "附魔等级"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

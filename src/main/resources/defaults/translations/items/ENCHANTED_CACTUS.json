@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "ENCHANTED_CACTUS",
+  "_original_name": "Enchanted Cactus",
+  "_original_lore": [
+    "Brewing Ingredient",
+    "Collection Item",
+    "",
+    "RARE"
+  ],
+  "name": "附魔仙人掌",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Brewing Ingredient",
+        "Collection Item"
+      ],
+      "translation": "酿造材料收藏物品",
+      "styleMappings": {
+        "Brewing Ingredient": "酿造材料",
+        "Collection Item": "收藏物品",
+        "Collection": "收藏",
+        "Item": "物品"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Cactus": "仙人掌"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

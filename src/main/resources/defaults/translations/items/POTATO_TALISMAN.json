@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "POTATO_TALISMAN",
+  "_original_name": "Potato Talisman",
+  "_original_lore": [
+    "Speed: +1",
+    "Accessory Power: +3",
+    "",
+    "Your potato minions farm 5% faster",
+    "while wearing on your island.",
+    "",
+    "Forged by the Potato King after",
+    "winning the Great Potato War.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "Works while in Accessory Bag!",
+    "COMMON ACCESSORY"
+  ],
+  "name": "马铃薯护符",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Accessory Power: {{N0}}"
+      ],
+      "translation": "饰品能量: {{N0}}",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "Your potato minions farm {{N0}} faster",
+        "while wearing on your island."
+      ],
+      "translation": "戴在你的岛屿上时,你的马铃薯仆从耕作速度提升 {{N0}}.",
+      "styleMappings": {
+        "minions": "仆从",
+        "island": "岛屿上",
+        "faster": "提升"
+      }
+    },
+    {
+      "source": [
+        "Forged by the Potato King after",
+        "winning the Great Potato War."
+      ],
+      "translation": "马铃薯王在赢得马铃薯大战后锻造而成.",
+      "styleMappings": {
+        "Potato": "马铃薯"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "放在饰品袋中即可生效!",
+      "styleMappings": {
+        "Accessory Bag": "饰品袋",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "COMMON ACCESSORY"
+      ],
+      "translation": "普通饰品",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Talisman": "护符",
+    "Potato": "马铃薯"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

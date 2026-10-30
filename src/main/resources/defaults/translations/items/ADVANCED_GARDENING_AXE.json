@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "ADVANCED_GARDENING_AXE",
+  "_original_name": "Advanced Gardening Axe",
+  "_original_lore": [
+    "Farming Fortune: +15",
+    "Gemstones: []",
+    "",
+    "Replenish I",
+    "Upon breaking crops, nether wart,",
+    "cocoa, wild rose, or sunflower,",
+    "automatically replant from materials",
+    "in your inventory.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Garden Level 6.",
+    "RARE FARMING TOOL"
+  ],
+  "name": "高级园艺斧",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Farming Fortune: {{N0}}"
+      ],
+      "translation": "农业幸运: {{N0}}",
+      "styleMappings": {
+        "Farming Fortune": "农业幸运",
+        "Fortune": "幸运",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: []"
+      ],
+      "translation": "宝石: []",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石"
+      }
+    },
+    {
+      "source": [
+        "Replenish I",
+        "Upon breaking crops, nether wart,",
+        "cocoa, wild rose, or sunflower,",
+        "automatically replant from materials",
+        "in your inventory."
+      ],
+      "translation": "补种 I 破坏作物、下界疣、可可、野玫瑰或向日葵时, 自动从你的物品栏中的材料重新种植.",
+      "styleMappings": {
+        "Upon breaking crops, nether wart,": "破坏作物、下界疣",
+        "automatically": "自动",
+        "Replenish I": "补种 I",
+        "crops": "作物"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Garden Level {{N0}}."
+      ],
+      "translation": "❣ 需要花园等级 {{N0}}.",
+      "styleMappings": {
+        "Garden Level": "花园等级",
+        "Requires": "需要",
+        "Garden": "花园"
+      }
+    },
+    {
+      "source": [
+        "RARE FARMING TOOL"
+      ],
+      "translation": "稀有农业工具",
+      "styleMappings": {
+        "RARE FARMING TOOL": "稀有农业工具",
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Axe": "斧"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

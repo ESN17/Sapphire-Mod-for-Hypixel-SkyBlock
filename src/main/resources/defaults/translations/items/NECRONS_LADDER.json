@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": "NECRONS_LADDER",
+  "_original_name": "Necron's Ladder",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "While in your inventory, counts the",
+    "number of Necron's Handles that",
+    "you obtain from Dungeon Chests.",
+    "",
+    "If you obtain 3 handles you can",
+    "consume this item to permanently gain:",
+    " +1 Health",
+    " +1 Intelligence",
+    " +1 Magic Find",
+    "",
+    "Handles obtained: 0/3",
+    "",
+    "You may only gain this bonus once!",
+    "",
+    "RARE"
+  ],
+  "name": "奈克隆的梯子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "While in your inventory, counts the",
+        "number of Necron's Handles that",
+        "you obtain from Dungeon Chests."
+      ],
+      "translation": "放在物品栏中时,统计你从地牢宝箱中获得的奈克隆手柄数量.",
+      "styleMappings": {
+        "Necron's Handles": "奈克隆手柄",
+        "Dungeon Chests": "地牢宝箱",
+        "Dungeon": "地牢",
+        "Necron": "奈克隆",
+        "Necron's": "奈克隆"
+      }
+    },
+    {
+      "source": [
+        "If you obtain {{N0}} handles you can"
+      ],
+      "translation": "如果你获得 {{N0}} 个手柄,你可以",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "consume this item to permanently gain:"
+      ],
+      "translation": "消耗此物品以永久获得:",
+      "styleMappings": {
+        "permanently": "永久",
+        "item": "物品",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        " {{N0}} Health",
+        " {{N1}} Intelligence",
+        " {{N2}} Magic Find"
+      ],
+      "translation": " {{N0}} 生命值  {{N1}} 智力  {{N2}} 稀有物品概率加成",
+      "styleMappings": {
+        "Intelligence": "智力",
+        " Magic Find": " 稀有物品概率加成",
+        "Health": "生命值",
+        "": "",
+        "Magic Find": "稀有物品概率加成",
+        " Health": " 生命",
+        " Intelligence": " 智力"
+      }
+    },
+    {
+      "source": [
+        "Handles obtained: {{N0}}/{{N1}}"
+      ],
+      "translation": "已获得手柄:{{N0}}/{{N1}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "You may only gain this bonus once!"
+      ],
+      "translation": "此加成只能获得一次!",
+      "styleMappings": {
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Necron": "奈克隆",
+    "Necron's": "奈克隆"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

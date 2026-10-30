@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "BINGO_CARD",
+  "_original_name": "Bingo Card",
+  "_original_lore": [
+    "Obtained during the 18th Bingo Event",
+    "during May 2023 for completing the",
+    "entire Bingo Card!",
+    "",
+    "Player: Eisengolem",
+    "Playtime: 15h",
+    "",
+    "* Co-op Soulbound *",
+    "SPECIAL"
+  ],
+  "name": "宾果卡",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Obtained during the {{N0}}th Bingo Event",
+        "during May {{N1}} for completing the",
+        "entire Bingo Card!"
+      ],
+      "translation": "在 {{N0}} 届宾果活动期间,于五月 {{N1}} 完成整张宾果卡获得!",
+      "styleMappings": {
+        "Bingo Event": "宾果活动",
+        "Bingo Card": "宾果卡",
+        "May": "五月",
+        "for": "获得",
+        "Bingo": "宾果"
+      }
+    },
+    {
+      "source": [
+        "Player: Eisengolem"
+      ],
+      "translation": "玩家: 铁傀儡",
+      "styleMappings": {
+        "Player": "玩家",
+        "Eisengolem": "铁傀儡"
+      }
+    },
+    {
+      "source": [
+        "Playtime: {{N0}}h"
+      ],
+      "translation": "游戏时长: {{N0}}小时",
+      "styleMappings": {
+        "Playtime": "游戏时长",
+        "{{N0}}h": "{{N0}}小时"
+      }
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Bingo": "宾果",
+    "Bingo Card": "宾果卡"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

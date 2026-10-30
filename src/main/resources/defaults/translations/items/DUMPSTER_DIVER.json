@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "id": "DUMPSTER_DIVER",
+  "_original_name": "Dumpster Diver Helmet Skin",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Item skins give your gear a fresh",
+    "new look! Apply them just like an",
+    "enchant book using the anvil.",
+    "",
+    "This skin can be applied to Diver's",
+    "Mask and Abyssal Helmet.",
+    "",
+    "This skin is swappable between 20",
+    "dumpster divin' variants!",
+    "",
+    "MYTHIC COSMETIC"
+  ],
+  "name": "垃圾潜水员头盔皮肤",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Item skins give your gear a fresh",
+        "new look! Apply them just like an",
+        "enchant book using the anvil."
+      ],
+      "translation": "物品皮肤能让你的装备焕然一新!像附魔书一样在铁砧上使用即可.",
+      "styleMappings": {
+        "fresh new look": "焕然一新",
+        "enchant book": "附魔书",
+        "Item skins": "物品皮肤",
+        "anvil": "铁砧",
+        "Item": "物品"
+      }
+    },
+    {
+      "source": [
+        "This skin can be applied to Diver's",
+        "Mask and Abyssal Helmet."
+      ],
+      "translation": "该皮肤可用于潜水员面具和深渊头盔.",
+      "styleMappings": {
+        "Abyssal Helmet": "深渊头盔",
+        "Diver's Mask": "潜水员面具",
+        "Helmet": "头盔",
+        "Mask": "面具"
+      }
+    },
+    {
+      "source": [
+        "This skin is swappable between {{N0}}",
+        "dumpster divin' variants!"
+      ],
+      "translation": "该皮肤可在 {{N0}} 种垃圾潜水员变体之间切换!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "MYTHIC COSMETIC"
+      ],
+      "translation": "神话 外观",
+      "styleMappings": {
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Helmet": "头盔"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

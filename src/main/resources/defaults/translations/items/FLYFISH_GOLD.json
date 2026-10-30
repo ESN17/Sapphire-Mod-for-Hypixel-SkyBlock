@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "id": "FLYFISH_GOLD",
+  "_original_name": "Flyfish GOLD",
+  "_original_lore": [
+    "Caught from 8 blocks above.",
+    "Found in the Blazing Volcano.",
+    "",
+    "Bring this to Odger at the top of the",
+    "Blazing Volcano.",
+    "",
+    "* Soulbound *",
+    "UNCOMMON TROPHY"
+  ],
+  "name": "飞鱼 金",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Caught from {{N0}} blocks above."
+      ],
+      "translation": "从上方 {{N0}} 格处钓获.",
+      "styleMappings": {
+        "blocks": "格"
+      }
+    },
+    {
+      "source": [
+        "Found in the Blazing Volcano."
+      ],
+      "translation": "在炽焰火山中发现.",
+      "styleMappings": {
+        "Blazing Volcano": "炽焰火山"
+      }
+    },
+    {
+      "source": [
+        "Bring this to Odger at the top of the",
+        "Blazing Volcano."
+      ],
+      "translation": "将此物交给炽焰火山顶部的 Odger.",
+      "styleMappings": {
+        "Blazing Volcano": "炽焰火山",
+        "Odger": "Odger"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON TROPHY"
+      ],
+      "translation": "罕见奖杯",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "GOLD": "金"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

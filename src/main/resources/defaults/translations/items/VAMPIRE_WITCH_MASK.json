@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": "VAMPIRE_WITCH_MASK",
+  "_original_name": "Vampire Witch Mask",
+  "_original_lore": [
+    "Health: +132",
+    "Defense: +222",
+    "",
+    "Ability: Bat Swarm ",
+    "Summons two bats that will follow you",
+    "and attack nearby enemies, dealing",
+    "3,000 damage upon exploding. Your",
+    "bats will not spawn on your island.",
+    "",
+    "Ability: Rejuvenate ",
+    "While wearing, drains 5 health per",
+    "second from all monsters within 8",
+    "blocks.",
+    "",
+    "This item can be reforged!",
+    "EPIC HELMET"
+  ],
+  "name": "吸血鬼女巫面具",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Ability: Bat Swarm "
+      ],
+      "translation": "能力: 蝙蝠群 ",
+      "styleMappings": {
+        "Ability: Bat Swarm": "能力: 蝙蝠群",
+        "Ability": "能力",
+        "Bat": "蝙蝠"
+      }
+    },
+    {
+      "source": [
+        "Summons two bats that will follow you",
+        "and attack nearby enemies, dealing",
+        "{{N0}} damage upon exploding. Your",
+        "bats will not spawn on your island."
+      ],
+      "translation": "召唤两只蝙蝠跟随你并攻击附近的敌人,爆炸时造成 {{N0}} 伤害.你的蝙蝠不会在你的岛屿生成.",
+      "styleMappings": {
+        "damage": "伤害",
+        "enemies": "敌人"
+      }
+    },
+    {
+      "source": [
+        "Ability: Rejuvenate "
+      ],
+      "translation": "能力: 恢复 ",
+      "styleMappings": {
+        "Ability": "能力",
+        "Rejuvenate": "恢复"
+      }
+    },
+    {
+      "source": [
+        "While wearing, drains {{N0}} health per",
+        "second from all monsters within {{N1}}",
+        "blocks."
+      ],
+      "translation": "佩戴时,每秒从 {{N1}} 格范围内的所有怪物身上吸取 {{N0}} 生命值.",
+      "styleMappings": {
+        "per second": "每秒",
+        "monsters": "怪物",
+        "blocks": "格",
+        "health": "生命值",
+        "second": "秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "EPIC HELMET"
+      ],
+      "translation": "史诗头盔",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mask": "面具",
+    "Vampire": "吸血鬼",
+    "Witch Mask": "女巫面具"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

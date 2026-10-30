@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "id": "FINNS_FOCACCIA",
+  "_original_name": "Finn's Focaccia",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Effect: +5 Overbloom.",
+    "Duration: Until Event End",
+    "Effects are only active during",
+    "Grand Feast.",
+    "",
+    "Right-click to consume!",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "芬恩的佛卡夏",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Effect: {{N0}} Overbloom."
+      ],
+      "translation": "效果:{{N0}} 稀有作物概率加成.",
+      "styleMappings": {
+        "Overbloom": "稀有作物概率加成"
+      }
+    },
+    {
+      "source": [
+        "Duration: Until Event End"
+      ],
+      "translation": "持续时间:直到活动结束",
+      "styleMappings": {
+        "Duration": "持续时间",
+        "Until Event End": "直到活动结束"
+      }
+    },
+    {
+      "source": [
+        "Effects are only active during",
+        "Grand Feast."
+      ],
+      "translation": "效果仅在盛大宴会期间生效.",
+      "styleMappings": {
+        "Grand Feast": "盛大宴会"
+      }
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Finn": "芬恩"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

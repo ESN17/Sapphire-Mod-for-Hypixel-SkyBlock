@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "SLIME_MONSTER",
+  "_original_name": "Slime (Monster)",
+  "_original_lore": [
+    "World's loudest creatures.",
+    "",
+    "❤ Health: 80 - 566"
+  ],
+  "name": "史莱姆 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "World's loudest creatures."
+      ],
+      "translation": "世界上最吵闹的生物.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}} - {{N1}}"
+      ],
+      "translation": "❤ 生命值: {{N0}} - {{N1}}",
+      "styleMappings": {
+        "Health": "生命值",
+        "-": "-"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

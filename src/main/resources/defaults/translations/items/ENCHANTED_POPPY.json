@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "id": "ENCHANTED_POPPY",
+  "_original_name": "Enchanted Poppy",
+  "_original_lore": [
+    "Machine Fuel",
+    "Collection Item",
+    "",
+    "Adds +1,024 Fuel to a refuelable",
+    "machine.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "附魔虞美人",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Machine Fuel",
+        "Collection Item"
+      ],
+      "translation": "机器燃料 收藏物品",
+      "styleMappings": {
+        "Collection Item": "收藏物品",
+        "Machine Fuel": "机器燃料",
+        "Collection": "收藏",
+        "Item": "物品",
+        "Fuel": "燃料"
+      }
+    },
+    {
+      "source": [
+        "Adds {{N0}} Fuel to a refuelable",
+        "machine."
+      ],
+      "translation": "为可补充燃料的机器添加 {{N0}} 燃料.",
+      "styleMappings": {
+        "Adds": "添加",
+        "Fuel": "燃料",
+        "to a refuelable machine": "为可补充燃料的机器"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

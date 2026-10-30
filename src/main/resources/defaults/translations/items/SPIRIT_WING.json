@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "SPIRIT_WING",
+  "_original_name": "Spirit Wing",
+  "_original_lore": [
+    "Spirits of bats often take refuge in",
+    "their own wings. They sometimes grow",
+    "in power and gain tremendous",
+    "magical properties.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "EPIC DUNGEON ITEM"
+  ],
+  "name": "灵魂之翼",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Spirits of bats often take refuge in",
+        "their own wings. They sometimes grow",
+        "in power and gain tremendous",
+        "magical properties."
+      ],
+      "translation": "蝙蝠的灵魂常躲藏在自己的翅膀中.它们有时会变得更强,并获得强大的魔法属性.",
+      "styleMappings": {
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC DUNGEON ITEM"
+      ],
+      "translation": "史诗 地牢物品",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Spirit": "灵魂"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

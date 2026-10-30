@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "GREAT_WHITE_SHARK_SC",
+  "_original_name": "Great White Shark (Sea Creature)",
+  "_original_lore": [
+    "Mob Types: ⚓ Aquatic, ☮ Animal, ❃ Elusive",
+    "❤ Health: 1,500,000",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "大白鲨 (海怪)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mob Types: ⚓ Aquatic, ☮ Animal, ❃ Elusive"
+      ],
+      "translation": "生物类型: ⚓ 水生, ☮ 动物, ❃ 难以捕捉",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Aquatic": "水生",
+        "Animal": "动物",
+        "Elusive": "难以捕捉"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sea Creature": "海怪",
+    "(Sea Creature)": "(海怪)"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

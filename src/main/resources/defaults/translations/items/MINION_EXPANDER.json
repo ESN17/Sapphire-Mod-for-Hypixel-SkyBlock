@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "id": "MINION_EXPANDER",
+  "_original_name": "Minion Expander",
+  "_original_lore": [
+    "Minion Upgrade",
+    "",
+    "This item can be used as a minion",
+    "upgrade. Increases the effective",
+    "radius of the minion by 1 extra block.",
+    "",
+    "Increases the speed of your minion",
+    "by 5%.",
+    "",
+    "RARE"
+  ],
+  "name": "仆从扩展器",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Minion Upgrade"
+      ],
+      "translation": "仆从升级组件",
+      "styleMappings": {
+        "Minion Upgrade": "仆从升级",
+        "Minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "This item can be used as a minion"
+      ],
+      "translation": "此物品可作为仆从",
+      "styleMappings": {
+        "item": "物品",
+        "minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "upgrade. Increases the effective",
+        "radius of the minion by {{N0}} extra block."
+      ],
+      "translation": "升级.将仆从的有效半径增加 {{N0}} 个额外方块.",
+      "styleMappings": {
+        "upgrade": "升级",
+        "Increases": "增加",
+        "minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "Increases the speed of your minion",
+        "by {{N0}}."
+      ],
+      "translation": "使你的仆从速度提高 {{N0}}.",
+      "styleMappings": {
+        "minion": "仆从",
+        "speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Minion": "仆从"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

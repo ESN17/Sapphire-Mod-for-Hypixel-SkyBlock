@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "id": "GLOWSTONE_GAUNTLET",
+  "_original_name": "Glowstone Gauntlet",
+  "_original_lore": [
+    "Intelligence: +10",
+    "Mining Fortune: +5",
+    "",
+    "Right-click to equip!",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Combat Skill 22.",
+    "RARE GLOVES"
+  ],
+  "name": "荧石护手",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Mining Fortune: {{N0}}"
+      ],
+      "translation": "采矿幸运: {{N0}}",
+      "styleMappings": {
+        "Mining Fortune": "采矿幸运",
+        "Mining": "采矿",
+        "Fortune": "幸运"
+      }
+    },
+    {
+      "source": [
+        "Right-click to equip!"
+      ],
+      "translation": "右键点击装备!",
+      "styleMappings": {
+        "Right-click to equip!": "右键点击装备!",
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "RARE GLOVES"
+      ],
+      "translation": "稀有 手套",
+      "styleMappings": {
+        "GLOVES": "手套",
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Gauntlet": "护手"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

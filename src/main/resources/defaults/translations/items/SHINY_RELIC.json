@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "SHINY_RELIC",
+  "_original_name": "Shiny Relic #1-7",
+  "_original_lore": [
+    "A perfect replica of the Shiny",
+    "Relic deposited on the Blood God",
+    "Shrine following the Dante",
+    "fight.",
+    "",
+    "Exceedingly rare item!",
+    "",
+    "Found by: IIIIIII",
+    "Date: 1111-11-ee",
+    "",
+    "SPECIAL MEMENTO"
+  ],
+  "name": "闪亮圣物 #1-7",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A perfect replica of the Shiny",
+        "Relic deposited on the Blood God",
+        "Shrine following the Dante",
+        "fight."
+      ],
+      "translation": "在 Dante 之战后供奉于血神祭坛的闪亮圣物的完美复制品.",
+      "styleMappings": {
+        "Shiny Relic": "闪亮圣物",
+        "perfect": "完美",
+        "Blood God Shrine": "血神祭坛",
+        "Relic": "圣物"
+      }
+    },
+    {
+      "source": [
+        "Exceedingly rare item!"
+      ],
+      "translation": "极其稀有的物品!",
+      "styleMappings": {
+        "rare": "稀有",
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Found by: IIIIIII"
+      ],
+      "translation": "发现者:IIIIIII",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Date: {{N0}}-{{N1}}-ee"
+      ],
+      "translation": "日期: {{N0}}-{{N1}}-日",
+      "styleMappings": {
+        "Date:": "日期:",
+        "ee": "日"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL MEMENTO"
+      ],
+      "translation": "特殊纪念品",
+      "styleMappings": {
+        "SPECIAL MEMENTO": "特殊纪念品",
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shiny Relic": "闪亮圣物",
+    "Relic": "圣物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

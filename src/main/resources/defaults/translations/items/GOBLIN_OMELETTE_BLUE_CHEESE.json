@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "id": "GOBLIN_OMELETTE_BLUE_CHEESE",
+  "_original_name": "Blue Cheese Goblin Omelette",
+  "_original_lore": [
+    "Drill Part",
+    "",
+    "Adds +1 Level to all of your",
+    "unlocked Heart of the Mountain perks.",
+    "",
+    "Put this item in the Upgrade Module",
+    "slot of a Drill at a Drill Mechanic!",
+    "",
+    "May cause illness",
+    "",
+    "❣ Requires Heart of the Mountain Tier 5.",
+    "RARE"
+  ],
+  "name": "蓝纹奶酪哥布林煎蛋卷",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Drill Part"
+      ],
+      "translation": "钻头部件",
+      "styleMappings": {
+        "Drill Part": "钻头部件",
+        "Drill": "钻头"
+      }
+    },
+    {
+      "source": [
+        "Adds {{N0}} Level to all of your",
+        "unlocked Heart of the Mountain perks."
+      ],
+      "translation": "为你所有已解锁的山峰之心技能增加 {{N0}} 等级.",
+      "styleMappings": {
+        "Level": "等级",
+        "Heart of the Mountain": "山峰之心"
+      }
+    },
+    {
+      "source": [
+        "Put this item in the Upgrade Module",
+        "slot of a Drill at a Drill Mechanic!"
+      ],
+      "translation": "将此物品放入钻机技工处钻机的升级模块槽位!",
+      "styleMappings": {
+        "Drill Mechanic": "钻机技工",
+        "Upgrade Module": "升级模块",
+        "item": "物品",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "May cause illness"
+      ],
+      "translation": "可能导致疾病",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "❣ Requires Heart of the Mountain Tier {{N0}}."
+      ],
+      "translation": "❣ 需要山峰之心等级 {{N0}}.",
+      "styleMappings": {
+        "Heart of the Mountain Tier": "山峰之心等级",
+        "Requires": "需要",
+        "Heart of the Mountain": "山峰之心"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Goblin": "哥布林"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "id": "AATROX_BATPHONE",
+  "_original_name": "Maddox Batphone",
+  "_original_lore": [
+    "Ability: Whassup?  RIGHT CLICK",
+    "Lets you call Maddox, when he's not busy.",
+    "",
+    "☠ Requires Wolf Slayer 3.",
+    "* Co-op Soulbound *",
+    "X Rift-Transferable X",
+    "UNCOMMON"
+  ],
+  "name": "Maddox 蝙蝠电话",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Whassup?  RIGHT CLICK"
+      ],
+      "translation": "技能: 咋啦?  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Lets you call Maddox, when he's not busy."
+      ],
+      "translation": "可在马多克斯不忙时呼叫他.",
+      "styleMappings": {
+        "Maddox": "马多克斯",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Wolf Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要狼杀手 {{N0}}.",
+      "styleMappings": {
+        "Wolf Slayer": "狼杀手",
+        "Requires": "需要",
+        "Slayer": "杀手",
+        "Wolf": "狼"
+      }
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "X Rift-Transferable X"
+      ],
+      "translation": "X 可转移至裂隙 X",
+      "styleMappings": {
+        "Rift-Transferable": "可转移至裂隙",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Maddox": "Maddox",
+    "Batphone": "蝙蝠电话"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

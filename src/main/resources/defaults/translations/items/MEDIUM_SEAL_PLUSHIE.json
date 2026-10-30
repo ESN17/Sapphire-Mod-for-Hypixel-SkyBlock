@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "MEDIUM_SEAL_PLUSHIE",
+  "_original_name": "Medium Seal Plushie",
+  "_original_lore": [
+    "Use at Kat to upgrade Seal Pets",
+    "from Uncommon to Rare.",
+    "",
+    "RARE PET ITEM"
+  ],
+  "name": "中型海豹玩偶",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Use at Kat to upgrade Seal Pets",
+        "from Uncommon to Rare."
+      ],
+      "translation": "在 Kat 处将海豹宠物从罕见升级为稀有.",
+      "styleMappings": {
+        "Seal Pets": "海豹宠物",
+        "Uncommon": "罕见",
+        "upgrade": "升级",
+        "Rare": "稀有",
+        "Kat": "Kat",
+        "Pets": "宠物",
+        "Seal": "海豹"
+      }
+    },
+    {
+      "source": [
+        "RARE PET ITEM"
+      ],
+      "translation": "稀有宠物物品",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Seal": "海豹"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "GOLDEN_DANTE_STATUE",
+  "_original_name": "Golden Dante Statue",
+  "_original_lore": [
+    "Spawn a statue of Dante.",
+    "",
+    "Requires Ⓑ Bingo Rank II!",
+    "EPIC COSMETIC"
+  ],
+  "name": "但丁金像",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Spawn a statue of Dante."
+      ],
+      "translation": "生成一座 Dante 雕像.",
+      "styleMappings": {
+        "Spawn": "生成"
+      }
+    },
+    {
+      "source": [
+        "Requires Ⓑ Bingo Rank II!"
+      ],
+      "translation": "需要 Ⓑ 宾果等级 II!",
+      "styleMappings": {
+        "Bingo Rank II": "宾果等级 II",
+        "Requires": "需要",
+        "II": "II",
+        "Bingo": "宾果"
+      }
+    },
+    {
+      "source": [
+        "EPIC COSMETIC"
+      ],
+      "translation": "史诗外观",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

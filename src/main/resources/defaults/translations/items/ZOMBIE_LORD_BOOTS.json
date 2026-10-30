@@ -1,0 +1,145 @@
+{
+  "schemaVersion": 1,
+  "id": "ZOMBIE_LORD_BOOTS",
+  "_original_name": "Zombie Lord Boots",
+  "_original_lore": [
+    "Gear Score: 119",
+    "Health: +45",
+    "Defense: +19",
+    "Strength: +7",
+    "Intelligence: +7",
+    "",
+    "Full Set Bonus: Dungeon Lord (0/4)",
+    "Gains +10 Strength and +10",
+    "Defense every minute spent in the",
+    "Dungeon.",
+    "",
+    "This item is Undead ༕!",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Catacombs Skill 25.",
+    "EPIC DUNGEON BOOTS"
+  ],
+  "name": "僵尸领主靴子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Dungeon Lord ({{N0}}/{{N1}})"
+      ],
+      "translation": "全套加成: 地牢领主 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Full Set Bonus: Dungeon Lord": "全套加成: 地牢领主",
+        "Full Set Bonus": "全套加成",
+        "Bonus": "加成",
+        "Dungeon": "地牢"
+      }
+    },
+    {
+      "source": [
+        "Gains {{N0}} Strength and {{N1}}",
+        "Defense every minute spent in the",
+        "Dungeon."
+      ],
+      "translation": "在地牢中每度过一分钟,获得 {{N0}} 力量和 {{N1}} 防御.",
+      "styleMappings": {
+        " Strength": " 力量",
+        " Defense": " 防御",
+        "Dungeon": "地牢",
+        "Gains": "获得",
+        "Strength": "力量",
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "This item is Undead ༕!"
+      ],
+      "translation": "该物品为亡灵 ༕!",
+      "styleMappings": {
+        "item": "物品",
+        "Undead": "亡灵"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Catacombs Skill {{N0}}."
+      ],
+      "translation": "❣ 需要地牢技能 {{N0}}.",
+      "styleMappings": {
+        "Requires": "需要",
+        "Catacombs": "地牢",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC DUNGEON BOOTS"
+      ],
+      "translation": "史诗地牢靴子",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Zombie": "僵尸",
+    "Boots": "靴子"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

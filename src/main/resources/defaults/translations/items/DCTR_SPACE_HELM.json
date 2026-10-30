@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "id": "DCTR_SPACE_HELM",
+  "_original_name": "Space Helmet",
+  "_original_lore": [
+    "A rare space helmet forged from",
+    "shards of moon glass.",
+    "",
+    "To: [ADMIN] Dctr",
+    "From: [ADMIN] Dctr",
+    "",
+    "Edition #1",
+    "December 2020",
+    "",
+    "This item can be reforged!",
+    "SPECIAL HELMET"
+  ],
+  "name": "太空头盔",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A rare space helmet forged from",
+        "shards of moon glass."
+      ],
+      "translation": "一顶由月玻璃碎片锻造而成的稀有太空头盔.",
+      "styleMappings": {
+        "rare": "稀有"
+      }
+    },
+    {
+      "source": [
+        "To: [ADMIN] Dctr"
+      ],
+      "translation": "收件人: [管理员] 博士",
+      "styleMappings": {
+        "[ADMIN] Dctr": "[管理员] 博士"
+      }
+    },
+    {
+      "source": [
+        "From: [ADMIN] Dctr"
+      ],
+      "translation": "发件人: [管理员] 博士",
+      "styleMappings": {
+        "[ADMIN] Dctr": "[管理员] 博士"
+      }
+    },
+    {
+      "source": [
+        "Edition #{{N0}}",
+        "December {{N1}}"
+      ],
+      "translation": "第 {{N0}} 版 {{N1}} 月",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL HELMET"
+      ],
+      "translation": "特殊头盔",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Helmet": "头盔"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

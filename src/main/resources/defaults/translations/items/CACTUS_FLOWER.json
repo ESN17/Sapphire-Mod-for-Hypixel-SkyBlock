@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "CACTUS_FLOWER",
+  "_original_name": "Cactus Flower",
+  "_original_lore": [
+    "Dropped rarely from Cactus during",
+    "the Harvest Feast event.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "仙人掌花",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Dropped rarely from Cactus during",
+        "the Harvest Feast event."
+      ],
+      "translation": "在丰收盛宴活动期间从仙人掌中稀有掉落.",
+      "styleMappings": {
+        "Harvest Feast": "丰收盛宴",
+        "Cactus": "仙人掌",
+        "Feast": "盛宴"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Cactus": "仙人掌"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

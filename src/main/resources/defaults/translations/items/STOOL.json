@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "STOOL",
+  "_original_name": "Stool",
+  "_original_lore": [
+    "Furniture",
+    "Seat",
+    "",
+    "This simple stool can be sat on by a",
+    "player.",
+    "",
+    "COMMON"
+  ],
+  "name": "凳子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Furniture",
+        "Seat"
+      ],
+      "translation": "家具座位",
+      "styleMappings": {
+        "Furniture Seat": "家具座位",
+        "Furniture": "家具"
+      }
+    },
+    {
+      "source": [
+        "This simple stool can be sat on by a",
+        "player."
+      ],
+      "translation": "这个简单的凳子可以让玩家坐下.",
+      "styleMappings": {
+        "player": "玩家"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

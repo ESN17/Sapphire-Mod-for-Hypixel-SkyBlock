@@ -1,0 +1,233 @@
+{
+  "schemaVersion": 1,
+  "id": "JADE_DRAGON;4",
+  "_original_name": "[Lvl {LVL}] Jade Dragon",
+  "_original_lore": [
+    "Foraging Pet",
+    "",
+    "Strength: +{STRENGTH}",
+    "Magic Find: +{MAGIC_FIND}",
+    "Foraging Fortune: +{FORAGING_FORTUNE}",
+    "",
+    "Forest Power",
+    "Adds {0} Strength and {1} Speed",
+    "to all your Axes.",
+    "",
+    "Jade Scale",
+    "Grants 15 Foraging Fortune and",
+    "4 Sweep for every digit in your",
+    "Mangrove Collection.",
+    "(Max 10M collection)",
+    "",
+    "Dragon's Pride",
+    "Grants 1 Foraging Fortune per 5",
+    "Sweep.",
+    "",
+    "Apex Predator",
+    "Increase your total  Sweep by",
+    "0.1% for every Maxed out Attribute",
+    "you unlocked.",
+    "",
+    "Symbiosis",
+    "If you own a level 200 Jade Dragon,",
+    "grants +4 Foraging Fortune for",
+    "every other unique maxed Foraging",
+    "Pet that you own.",
+    "",
+    "LEGENDARY PET"
+  ],
+  "name": "[等级 {LVL}] 翡翠龙",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Foraging Pet"
+      ],
+      "translation": "采伐宠物",
+      "styleMappings": {
+        "Foraging Pet": "采伐宠物",
+        "Pet": "宠物",
+        "Foraging": "采伐"
+      }
+    },
+    {
+      "source": [
+        "Strength: +{{N0}}"
+      ],
+      "translation": "力量: +{{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Magic Find: +{{N0}}"
+      ],
+      "translation": "稀有物品概率加成: +{{N0}}",
+      "styleMappings": {
+        "Magic Find": "稀有物品概率加成"
+      }
+    },
+    {
+      "source": [
+        "Foraging Fortune: +{{N0}}"
+      ],
+      "translation": "采伐幸运: +{{N0}}",
+      "styleMappings": {
+        "Foraging Fortune": "采伐幸运",
+        "Fortune": "幸运",
+        "Foraging": "采伐"
+      }
+    },
+    {
+      "source": [
+        "Forest Power"
+      ],
+      "translation": "森林之力",
+      "styleMappings": {
+        "Forest": "森林"
+      }
+    },
+    {
+      "source": [
+        "Adds {{N0}} Strength and {{N1}} Speed",
+        "to all your Axes."
+      ],
+      "translation": "为你的所有斧头增加 {{N0}} 力量 和 {{N1}} 速度.",
+      "styleMappings": {
+        " Strength": " 力量",
+        " Speed": " 速度",
+        "Axes": "斧头",
+        "Strength": "力量",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Jade Scale"
+      ],
+      "translation": "翡翠鳞片",
+      "styleMappings": {
+        "Jade": "翡翠"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Foraging Fortune and",
+        "{{N1}} Sweep for every digit in your",
+        "Mangrove Collection."
+      ],
+      "translation": "你的红树收藏中每有一位数字,就提供 {{N0}} 采伐幸运 和 {{N1}} 扫荡.",
+      "styleMappings": {
+        "Mangrove Collection": "红树收藏",
+        " Foraging Fortune": " 采伐幸运",
+        "Grants": "提供",
+        "Sweep": "扫荡",
+        "Collection": "收藏",
+        "Fortune": "幸运",
+        "Foraging": "采伐",
+        "Foraging Fortune": "采伐幸运"
+      }
+    },
+    {
+      "source": [
+        "(Max {{N0}}M collection)"
+      ],
+      "translation": "(最大 {{N0}}M 收藏)",
+      "styleMappings": {
+        "Max": "最大",
+        "M collection)": "M 收藏)"
+      }
+    },
+    {
+      "source": [
+        "Dragon's Pride"
+      ],
+      "translation": "龙之骄傲",
+      "styleMappings": {
+        "Dragon": "龙"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Foraging Fortune per {{N1}}",
+        "Sweep."
+      ],
+      "translation": "每 {{N1}} 扫荡提供 {{N0}} 采伐幸运.",
+      "styleMappings": {
+        " Foraging Fortune": " 采伐幸运",
+        "Grants": "提供",
+        "Sweep": "扫荡",
+        "Fortune": "幸运",
+        "Foraging": "采伐",
+        "Foraging Fortune": "采伐幸运",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Apex Predator"
+      ],
+      "translation": "顶级掠食者",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Increase your total  Sweep by",
+        "{{N0}} for every Maxed out Attribute",
+        "you unlocked."
+      ],
+      "translation": "每解锁一个满级属性,你的总 扫荡增加 {{N0}}.",
+      "styleMappings": {
+        "Sweep": "扫荡",
+        "Attribute": "属性"
+      }
+    },
+    {
+      "source": [
+        "Symbiosis"
+      ],
+      "translation": "共生",
+      "styleMappings": {
+        "Symbiosis": "共生"
+      }
+    },
+    {
+      "source": [
+        "If you own a level {{N0}} Jade Dragon,",
+        "grants {{N1}} Foraging Fortune for",
+        "every other unique maxed Foraging",
+        "Pet that you own."
+      ],
+      "translation": "如果你拥有一只 {{N0}} 级的 Jade Dragon,每拥有一只其他独特的满级采伐宠物,就获得 {{N1}} 采伐幸运.",
+      "styleMappings": {
+        " Foraging Fortune": " 采伐幸运",
+        "Foraging Pet": "采伐宠物",
+        "Dragon": "Dragon",
+        "unique": "独特",
+        "Jade Dragon": "Jade Dragon",
+        "for": "获得",
+        "Pet": "宠物",
+        "Fortune": "幸运",
+        "Foraging": "采伐",
+        "Foraging Fortune": "采伐幸运"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY PET"
+      ],
+      "translation": "传说 宠物",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Jade Dragon": "翡翠龙",
+    "Lvl": "等级",
+    "Dragon": "龙",
+    "Jade": "翡翠"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

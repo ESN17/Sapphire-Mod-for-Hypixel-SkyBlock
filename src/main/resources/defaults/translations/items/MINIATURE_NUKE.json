@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "MINIATURE_NUKE",
+  "_original_name": "Miniature Nuke",
+  "_original_lore": [
+    "A miniature nuke capable of massive",
+    "destruction.",
+    "",
+    "Ability: Detonate RIGHT CLICK",
+    "Detonate the Nuke, dealing 80.0% max",
+    "health true damage to all enemies in",
+    "a 20 block radius.",
+    "",
+    "SPECIAL DEPLOYABLE"
+  ],
+  "name": "微型核弹",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A miniature nuke capable of massive",
+        "destruction."
+      ],
+      "translation": "一枚能够造成大规模破坏的微型核弹.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Ability: Detonate RIGHT CLICK"
+      ],
+      "translation": "技能: 引爆 右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Detonate": "引爆",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Detonate the Nuke, dealing {{N0}} max",
+        "health true damage to all enemies in",
+        "a {{N1}} block radius."
+      ],
+      "translation": "引爆核弹,对 {{N1}} 格半径内的所有敌人造成 {{N0}} 最大生命值真实伤害.",
+      "styleMappings": {
+        "Detonate": "引爆",
+        "damage": "伤害",
+        "health": "生命值",
+        "block": "格",
+        "true": "真实",
+        "max": "最大",
+        "enemies": "敌人"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL DEPLOYABLE"
+      ],
+      "translation": "特殊 部署物",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

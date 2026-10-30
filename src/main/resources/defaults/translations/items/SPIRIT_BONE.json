@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "SPIRIT_BONE",
+  "_original_name": "Spirit Bone",
+  "_original_lore": [
+    "A Wolf Spirit is attached to this bone.",
+    "Wolf Spirits always come back to",
+    "their masters.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "EPIC DUNGEON ITEM"
+  ],
+  "name": "灵魂之骨",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A Wolf Spirit is attached to this bone."
+      ],
+      "translation": "一根狼灵附着在这块骨头上.",
+      "styleMappings": {
+        "Wolf": "狼"
+      }
+    },
+    {
+      "source": [
+        "Wolf Spirits always come back to",
+        "their masters."
+      ],
+      "translation": "狼灵总会回到它们的主人身边.",
+      "styleMappings": {
+        "Wolf": "狼"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC DUNGEON ITEM"
+      ],
+      "translation": "史诗 地牢物品",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Spirit": "灵魂"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "DYE_BEACH",
+  "_original_name": "Beach Dye",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Animates the color of an armor piece",
+    "between #43ECC6 and #57ECC7!",
+    "",
+    "MYTHIC DYE"
+  ],
+  "name": "海滩染料",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Animates the color of an armor piece",
+        "between #{{N0}}ECC{{N1}} and #{{N2}}ECC{{N3}}!"
+      ],
+      "translation": "使一件盔甲的颜色在 #{{N0}}ECC{{N1}} 和 #{{N2}}ECC{{N3}} 之间渐变!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "MYTHIC DYE"
+      ],
+      "translation": "神话染料",
+      "styleMappings": {
+        "MYTHIC DYE": "神话染料",
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

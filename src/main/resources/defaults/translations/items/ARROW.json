@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "ARROW",
+  "_original_name": "Flint Arrow",
+  "_original_lore": [
+    "Damage: +1",
+    "",
+    "Stats added when shot!",
+    "COMMON ARROW"
+  ],
+  "name": "燧石箭",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Stats added when shot!"
+      ],
+      "translation": "射出时添加属性!",
+      "styleMappings": {
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "COMMON ARROW"
+      ],
+      "translation": "普通箭",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

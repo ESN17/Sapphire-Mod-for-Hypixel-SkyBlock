@@ -1,0 +1,224 @@
+{
+  "schemaVersion": 1,
+  "id": "DRAGON_HORN",
+  "_original_name": "Dragon Horn",
+  "_original_lore": [
+    "Reforge Stone",
+    "Combinable in Anvil",
+    "",
+    "Applies the Renowned reforge when",
+    "combined with Armor.",
+    "",
+    "Grants the following stats that scale",
+    "with the item's rarity:",
+    "  Health",
+    "  Defense",
+    "  Strength",
+    "  Crit Chance",
+    "  Crit Damage",
+    "  Attack Speed",
+    "  Intelligence",
+    "  Speed",
+    "",
+    "Renowned Bonus",
+    "Grants +1%  Magic Find and +1% to",
+    "ALL Combat Stats.",
+    "",
+    "Right-click to view rarity scaling!",
+    "",
+    "❣ Requires Mining Skill 25.",
+    "",
+    "EPIC REFORGE STONE"
+  ],
+  "name": "龙角",
+  "lore": {
+    "Reforge Stone": "洗练石",
+    "Combinable in Anvil": "可在铁砧中合成",
+    "  Health": "   生命值",
+    "  Defense": "   防御",
+    "  Strength": "  力量",
+    "  Crit Chance": "   暴击率",
+    "  Crit Damage": "  暴击伤害",
+    "  Attack Speed": "   攻击速度",
+    "  Intelligence": "   智力",
+    "  Speed": "   速度",
+    "Renowned Bonus": "盛名加成",
+    "Right-click to view rarity scaling!": "右键查看各稀有度的属性!",
+    "EPIC REFORGE STONE": "史诗 洗练石"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "Applies the Renowned reforge when",
+        "combined with Armor."
+      ],
+      "translation": "与盔甲合成后,赋予盛名洗练.",
+      "styleMappings": {
+        "Renowned": "盛名",
+        "reforge": "洗练",
+        "Armor": "盔甲"
+      }
+    },
+    {
+      "source": [
+        "Grants the following stats that scale",
+        "with the item's rarity:"
+      ],
+      "translation": "提供以下属性,数值随物品稀有度提升:",
+      "styleMappings": {
+        "Grants": "提供",
+        "rarity": "稀有度",
+        "stats": "属性",
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Grants {find}  Magic Find and {stats} to",
+        "ALL Combat Stats."
+      ],
+      "translation": "获得 {find}   稀有物品概率加成,所有战斗属性提高 {stats}.",
+      "styleMappings": {
+        "Combat Stats": "战斗属性",
+        "Magic Find": "稀有物品概率加成",
+        " Magic Find": " 稀有物品概率加成",
+        "Grants": "获得",
+        "ALL": "所有",
+        "stats": "属性",
+        "Combat": "战斗"
+      }
+    },
+    {
+      "source": [
+        "Reforge Stone",
+        "Combinable in Anvil"
+      ],
+      "translation": "洗练石 可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Reforge Stone": "洗练石",
+        "Anvil": "铁砧",
+        "Reforge": "洗练"
+      }
+    },
+    {
+      "source": [
+        "Grants the following stats that scale"
+      ],
+      "translation": "提供以下随物品稀有度提升的属性:",
+      "styleMappings": {
+        "Grants": "提供",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "with the item's rarity:"
+      ],
+      "translation": "物品稀有度提升的属性:",
+      "styleMappings": {
+        "item": "物品",
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "  Health",
+        "  Defense",
+        "  Strength",
+        "  Crit Chance",
+        "  Crit Damage",
+        "  Attack Speed",
+        "  Intelligence",
+        "  Speed"
+      ],
+      "translation": "  生命   防御   力量   暴击几率   暴击伤害   攻击速度   智力   速度",
+      "styleMappings": {
+        " Attack Speed": " 攻击速度",
+        " Crit Damage": " 暴击伤害",
+        "Intelligence": "智力",
+        "Crit Chance": "暴击几率",
+        " Strength": " 力量",
+        " Defense": " 防御",
+        " Health": " 生命",
+        " Speed": " 速度",
+        "": "",
+        " Crit Chance": " 暴击几率",
+        " Intelligence": " 智力",
+        "Health": "生命",
+        "Defense": "防御",
+        "Crit Damage": "暴击伤害",
+        "Strength": "力量",
+        "Damage": "伤害",
+        "Speed": "速度",
+        "Attack Speed": "攻击速度"
+      }
+    },
+    {
+      "source": [
+        "Renowned Bonus",
+        "Grants {{N0}}  Magic Find and {{N1}} to",
+        "ALL Combat Stats."
+      ],
+      "translation": "盛名加成 提供 {{N0}}  稀有物品概率加成,以及 {{N1}} 点所有战斗属性.",
+      "styleMappings": {
+        "Renowned Bonus": "盛名加成",
+        "Combat Stats": "战斗属性",
+        " Magic Find": " 稀有物品概率加成",
+        "Grants": "提供",
+        "ALL": "所有",
+        "Combat": "战斗",
+        "Bonus": "加成",
+        "Magic Find": "稀有物品概率加成",
+        "Renowned": "盛名"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view rarity scaling!"
+      ],
+      "translation": "右键查看各稀有度的属性!",
+      "styleMappings": {
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Mining Skill {{N0}}."
+      ],
+      "translation": "❣ 需要采矿技能 {{N0}}.",
+      "styleMappings": {
+        "Mining Skill": "采矿技能",
+        "Requires": "需要",
+        "Mining": "采矿",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC REFORGE STONE"
+      ],
+      "translation": "史诗洗练石",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Renowned": "盛名",
+    "Armor": "盔甲",
+    "Health": "生命值",
+    "Defense": "防御",
+    "Strength": "力量",
+    "Crit Chance": "暴击率",
+    "Crit Damage": "暴击伤害",
+    "Attack Speed": "攻击速度",
+    "Intelligence": "智力",
+    "Speed": "速度",
+    "Combat Stats": "战斗属性",
+    "Magic Find": "稀有物品概率加成",
+    "Mining Skill": "采矿等级",
+    "Dragon": "龙"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

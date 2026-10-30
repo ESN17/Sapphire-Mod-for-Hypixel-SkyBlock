@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "AGARICUS_CAP_CAP",
+  "_original_name": "Agaricus Cap Cap",
+  "_original_lore": [
+    "Rift Time: +50s",
+    "Intelligence: +15",
+    "",
+    "Ability: Helmets All The Way Down ",
+    "Regain +2ф when killing a monster.",
+    "",
+    "RARE HELMET"
+  ],
+  "name": "伞菌帽帽",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Rift Time: {{N0}}s"
+      ],
+      "translation": "裂隙时间: {{N0}}秒",
+      "styleMappings": {
+        "Rift Time": "裂隙时间",
+        "{{N0}}s": "{{N0}}秒",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Ability: Helmets All The Way Down "
+      ],
+      "translation": "能力: 一路头盔到底 ",
+      "styleMappings": {
+        "Ability": "能力",
+        "Helmets All The Way Down": "一路头盔到底"
+      }
+    },
+    {
+      "source": [
+        "Regain {{N0}}ф when killing a monster."
+      ],
+      "translation": "击杀怪物时恢复 {{N0}}ф.",
+      "styleMappings": {
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "RARE HELMET"
+      ],
+      "translation": "稀有头盔",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

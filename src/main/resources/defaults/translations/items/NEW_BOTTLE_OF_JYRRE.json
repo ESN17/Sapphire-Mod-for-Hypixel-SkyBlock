@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "NEW_BOTTLE_OF_JYRRE",
+  "_original_name": "Bottle of Jyrre",
+  "_original_lore": [
+    "Consume to boost your ",
+    "Intelligence for 60m.",
+    "",
+    "Keep this item in your inventory to",
+    "increase the bonus up to +300",
+    "Intelligence, at which point the item",
+    "evolves!",
+    "",
+    "Current Bonus: +0 Intelligence",
+    "",
+    "RARE"
+  ],
+  "name": "杰瑞之瓶",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consume to boost your ",
+        "Intelligence for {{N0}}m."
+      ],
+      "translation": "饮用后,在 {{N0}} 分钟内提升你的  智力.",
+      "styleMappings": {
+        "Intelligence": "智力",
+        "": "",
+        "{{N0}}m": "{{N0}} 分钟",
+        " Intelligence": " 智力"
+      }
+    },
+    {
+      "source": [
+        "Keep this item in your inventory to",
+        "increase the bonus up to {{N0}}",
+        "Intelligence, at which point the item",
+        "evolves!"
+      ],
+      "translation": "将此物品保留在物品栏中,可将加成提升至 {{N0}}​ 智力,届时该物品将会进化!",
+      "styleMappings": {
+        "Intelligence": "智力",
+        "evolves": "进化",
+        "": "",
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Current Bonus: {{N0}} Intelligence"
+      ],
+      "translation": "当前加成: {{N0}} 智力",
+      "styleMappings": {
+        "Current Bonus:": "当前加成:",
+        "Intelligence": "智力",
+        "": "",
+        "Bonus": "加成",
+        " Intelligence": " 智力"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

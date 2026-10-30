@@ -1,0 +1,172 @@
+{
+  "schemaVersion": 1,
+  "id": "SILVERFISH;4",
+  "_original_name": "[Lvl {LVL}] Silverfish",
+  "_original_lore": [
+    "Mining Pet",
+    "",
+    "Defense: +{DEFENSE}",
+    "Mining Fortune: +{MINING_FORTUNE}",
+    "",
+    "Magnetic",
+    "Earn +{0}% more Exp when mining.",
+    "",
+    "Experienced Burrower",
+    "Grants +{1}☯ Mining Wisdom.",
+    "",
+    "Dexterity",
+    "Grants +{2} Mining Speed and",
+    "permanent Haste {3}.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "LEGENDARY PET"
+  ],
+  "name": "[等级 {LVL}] 蠹虫",
+  "lore": {
+    "Mining Pet": "采矿宠物",
+    "Defense: {value}": "防御:{value}",
+    "Mining Fortune: {value}": "挖掘时运:{value}",
+    "Magnetic": "磁力",
+    "Earn {experience} more Exp when mining.": "挖矿时获得的经验提高 {experience}.",
+    "Experienced Burrower": "老练掘地者",
+    "Grants {wisdom}☯ Mining Wisdom.": "获得 {wisdom}☯ 采矿智慧.",
+    "Dexterity": "灵巧",
+    "Right-click to add this pet to your pet menu!": "右键将此宠物添加到宠物菜单!",
+    "LEGENDARY PET": "传说宠物",
+    "Defense: {value} ({bonus})": "防御:{value} ({bonus})",
+    "Mining Fortune: {value} ({bonus})": "挖掘时运:{value} ({bonus})"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "Grants {speed} Mining Speed and",
+        "permanent Haste {level}."
+      ],
+      "translation": "获得 {speed} 挖掘速度和永久急迫 {level}.",
+      "styleMappings": {
+        "Mining Speed": "挖掘速度",
+        "Haste": "急迫",
+        "Grants": "获得",
+        "speed": "速度",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Mining Pet"
+      ],
+      "translation": "采矿宠物",
+      "styleMappings": {
+        "Mining": "采矿",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Defense: +{{N0}}"
+      ],
+      "translation": "防御力: +{{N0}}",
+      "styleMappings": {
+        "Defense": "防御力"
+      }
+    },
+    {
+      "source": [
+        "Mining Fortune: +{{N0}}"
+      ],
+      "translation": "采矿幸运: +{{N0}}",
+      "styleMappings": {
+        "Mining Fortune": "采矿幸运",
+        "Mining": "采矿",
+        "Fortune": "幸运"
+      }
+    },
+    {
+      "source": [
+        "Magnetic"
+      ],
+      "translation": "磁力",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Earn +{{N0}}% more Exp when mining."
+      ],
+      "translation": "挖掘时获得 +{{N0}}% 更多经验.",
+      "styleMappings": {
+        "Exp": "经验",
+        "more": "更多",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Experienced Burrower"
+      ],
+      "translation": "老练掘地者",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants +{{N0}}☯ Mining Wisdom."
+      ],
+      "translation": "提供 +{{N0}}☯ 采矿智慧.",
+      "styleMappings": {
+        "Mining Wisdom": "采矿智慧",
+        "Grants": "提供",
+        "Mining": "采矿",
+        "Wisdom": "智慧"
+      }
+    },
+    {
+      "source": [
+        "Dexterity"
+      ],
+      "translation": "灵巧",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants +{{N0}} Mining Speed and",
+        "permanent Haste {{N1}}."
+      ],
+      "translation": "提供 +{{N0}} 采矿速度和永久急迫 {{N1}}.",
+      "styleMappings": {
+        "Mining Speed": "采矿速度",
+        "Grants": "提供",
+        "Haste": "急迫",
+        "Mining": "采矿",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY PET"
+      ],
+      "translation": "传说 宠物",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Defense": "防御",
+    "Mining Fortune": "挖掘时运",
+    "Mining Wisdom": "采矿智慧",
+    "Mining Speed": "挖掘速度",
+    "Haste": "急迫",
+    "Silverfish": "蠹虫",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

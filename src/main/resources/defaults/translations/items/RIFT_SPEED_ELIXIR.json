@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "RIFT_SPEED_ELIXIR",
+  "_original_name": "Speed Elixir",
+  "_original_lore": [
+    "Grants Speed I (5:00)",
+    "",
+    "RARE"
+  ],
+  "name": "速度药剂",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Grants Speed I ({{N0}}:{{N1}})"
+      ],
+      "translation": "给予速度 I ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Speed I": "速度 I",
+        "Grants": "给予",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Speed": "速度"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

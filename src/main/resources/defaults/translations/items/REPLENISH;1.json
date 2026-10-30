@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "id": "REPLENISH;1",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Replenish I",
+    "Upon breaking crops, nether wart,",
+    "cocoa, wild rose, or sunflower,",
+    "automatically replant from materials",
+    "in your inventory.",
+    "",
+    "Sources:",
+    " - Bazaar (I)",
+    " - Cocoa Beans Collection (I)",
+    "",
+    "Applied To:",
+    " - Farming Tool",
+    "",
+    "Requirements:",
+    " - Enchanting Level 7",
+    "",
+    "RARE"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Replenish I"
+      ],
+      "translation": "自动补种 I",
+      "styleMappings": {
+        "Replenish": "自动补种"
+      }
+    },
+    {
+      "source": [
+        "Upon breaking crops, nether wart,",
+        "cocoa, wild rose, or sunflower,",
+        "automatically replant from materials",
+        "in your inventory."
+      ],
+      "translation": "破坏作物、下界疣、可可豆、野玫瑰或向日葵时, 自动从你的物品栏中的材料重新种植.",
+      "styleMappings": {
+        "Upon breaking crops, nether wart,": "破坏作物、下界疣",
+        "automatically": "自动",
+        "crops": "作物"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Bazaar (I)",
+        " - Cocoa Beans Collection (I)"
+      ],
+      "translation": " - 集市 (I)  - 可可豆收藏 (I)",
+      "styleMappings": {
+        "Cocoa Beans Collection": "可可豆收藏",
+        "Bazaar": "集市",
+        "I": "I",
+        "Collection": "收藏",
+        "Cocoa Beans": "可可豆"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Farming Tool"
+      ],
+      "translation": " - 农业工具",
+      "styleMappings": {
+        "Farming Tool": "农业工具",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "Requirements:"
+      ],
+      "translation": "需求:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchanting Level {{N0}}"
+      ],
+      "translation": " - 附魔等级 {{N0}}",
+      "styleMappings": {
+        "Enchanting Level": "附魔等级"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_KNOCKBACK;4",
+  "_original_name": "Knockback IV Potion",
+  "_original_lore": [
+    "",
+    "Knockback IV (3:00)",
+    "Damaging enemies deals 80% more",
+    "knockback.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "击退 IV 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Knockback IV ({{N0}}:{{N1}})"
+      ],
+      "translation": "击退 IV ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Knockback IV": "击退 IV"
+      }
+    },
+    {
+      "source": [
+        "Damaging enemies deals {{N0}} more",
+        "knockback."
+      ],
+      "translation": "攻击敌人时造成 {{N0}} 额外击退.",
+      "styleMappings": {
+        "Damaging enemies deals": "攻击敌人时造成",
+        "knockback": "击退",
+        "more": "额外",
+        "enemies": "敌人"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Knockback IV": "击退 IV"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

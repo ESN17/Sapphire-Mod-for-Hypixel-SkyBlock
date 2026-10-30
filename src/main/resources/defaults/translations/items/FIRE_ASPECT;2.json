@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "FIRE_ASPECT;2",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Fire Aspect II",
+    "Ignites your enemies for 4s,",
+    "dealing 6% of your damage",
+    "per second.",
+    "",
+    "Sources:",
+    " - Enchantment Table (I-II)",
+    " - Inferno Demonlord (III)",
+    " - Bazaar (III)",
+    "",
+    "Applied To:",
+    " - Sword",
+    " - Longsword",
+    " - Gauntlet",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Fire Aspect II"
+      ],
+      "translation": "火焰附加 II",
+      "styleMappings": {
+        "Fire Aspect": "火焰附加",
+        "II": "II",
+        "Fire": "火焰"
+      }
+    },
+    {
+      "source": [
+        "Ignites your enemies for {{N0}}s,",
+        "dealing {{N1}} of your damage",
+        "per second."
+      ],
+      "translation": "点燃你的敌人 {{N0}} 秒, 每秒造成你伤害的 {{N1}}.",
+      "styleMappings": {
+        "per second": "每秒",
+        "damage": "伤害",
+        "{{N0}}s": "{{N0}} 秒",
+        "enemies": "敌人",
+        "second": "秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchantment Table (I-II)",
+        " - Inferno Demonlord (III)",
+        " - Bazaar (III)"
+      ],
+      "translation": " - 附魔台 (一至二)  - 炼狱魔王 (三)  - 集市 (三)",
+      "styleMappings": {
+        "Enchantment Table": "附魔台",
+        "Inferno Demonlord": "炼狱魔王",
+        "Bazaar": "集市",
+        "II": "二",
+        "Enchantment": "附魔",
+        "Inferno": "炼狱"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Sword",
+        " - Longsword",
+        " - Gauntlet"
+      ],
+      "translation": " - 剑  - 长剑  - 护手",
+      "styleMappings": {
+        "Sword": "剑",
+        "Longsword": "长剑",
+        "Gauntlet": "护手"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

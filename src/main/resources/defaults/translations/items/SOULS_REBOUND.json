@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "id": "SOULS_REBOUND",
+  "_original_name": "Souls Rebound",
+  "_original_lore": [
+    "Damage: +450",
+    "",
+    "Your arrows mark enemies you hit",
+    "for 5 seconds. Marked Enemies don't",
+    "take damage from you, once the mark",
+    "expires the target will receive a",
+    "burst of damage equal to all the",
+    "damage dealt during the mark",
+    "increased by up to 10%.",
+    "",
+    "This item is Arachnal !",
+    "",
+    "This item can be reforged!",
+    "EPIC BOW"
+  ],
+  "name": "灵魂回响",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Your arrows mark enemies you hit",
+        "for {{N0}} seconds. Marked Enemies don't",
+        "take damage from you, once the mark",
+        "expires the target will receive a",
+        "burst of damage equal to all the",
+        "damage dealt during the mark",
+        "increased by up to {{N1}}."
+      ],
+      "translation": "你的箭矢会标记命中的敌人 {{N0}} 秒.被标记的敌人不会受到你的伤害,标记结束后目标将受到一次爆发伤害,数值等于标记期间造成的所有伤害,最多提升 {{N1}}.",
+      "styleMappings": {
+        "seconds": "秒",
+        "damage": "伤害",
+        "hit": "命中",
+        "enemies": "敌人",
+        "damage from": "造成的",
+        "Enemies": "敌人"
+      }
+    },
+    {
+      "source": [
+        "This item is Arachnal !"
+      ],
+      "translation": "此物品是蛛形纲的 !",
+      "styleMappings": {
+        "item": "物品",
+        "Arachnal": "蛛形"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "EPIC BOW"
+      ],
+      "translation": "史诗 弓",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Souls": "灵魂"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

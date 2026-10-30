@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "SKELETON_KEY",
+  "_original_name": "Skeleton Key",
+  "_original_lore": [
+    "Can be used to open backpacks with",
+    "a Skeleton lock held by Frozen",
+    "Corpses in the Glacite Mineshafts.",
+    "",
+    "Forged by the finest Dwarven",
+    "Blacksmith around. The name would",
+    "come to be quite ironic.",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "骷髅钥匙",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Can be used to open backpacks with",
+        "a Skeleton lock held by Frozen",
+        "Corpses in the Glacite Mineshafts."
+      ],
+      "translation": "可用于打开冰晶矿井中冰冻尸体持有的骷髅锁背包.",
+      "styleMappings": {
+        "Glacite Mineshafts": "冰晶矿井",
+        "Frozen Corpses": "冰冻尸体",
+        "Skeleton": "骷髅",
+        "Mineshafts": "矿井",
+        "Frozen": "冰冻",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Forged by the finest Dwarven",
+        "Blacksmith around. The name would",
+        "come to be quite ironic."
+      ],
+      "translation": "由最优秀的矮人铁匠锻造.这个名字后来变得相当讽刺.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Skeleton Key": "骷髅钥匙",
+    "Skeleton": "骷髅"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

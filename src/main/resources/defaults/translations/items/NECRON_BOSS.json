@@ -1,0 +1,145 @@
+{
+  "schemaVersion": 1,
+  "id": "NECRON_BOSS",
+  "_original_name": "Necron (Boss)",
+  "_original_lore": [
+    "Necron is the boss of Floor 7 of the Catacombs. He is",
+    "a 'Wither Lord' and has 4 phases. In the 1st he must be",
+    "killed after being frozen by Energy Crystals. In the 2nd he",
+    "must be crushed with Pillars. In the 3rd the Player must solve",
+    "terminals and must be killed again normally in the 4th.",
+    "",
+    "Maxor:",
+    "❤ Health: 100.000.000",
+    "❤ Health (MM): 800.000.000",
+    "❈ Defense (MM): 1.000",
+    "",
+    "Storm:",
+    "❤ Health: 400.000.000",
+    "❤ Health (MM): 1.000.000.000",
+    "❈ Defense (MM): 1.200",
+    "",
+    "Goldor:",
+    "❤ Health: 750.000.000",
+    "❤ Health (MM): 1.200.000.000",
+    "❈ Defense (MM): 1.800",
+    "",
+    "Necron:",
+    "❤ Health: 1.000.000.000",
+    "❤ Health (MM): 1.400.000.000",
+    "❈ Defense (MM): 2.100",
+    "",
+    "Withered Dragon (MM):",
+    "❤ Health: 900.000.000",
+    "❈ Defense: 3.700"
+  ],
+  "name": "奈克隆 (首领)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Necron is the boss of Floor {{N0}} of the Catacombs. He is",
+        "a 'Wither Lord' and has {{N1}} phases. In the {{N2}}st he must be",
+        "killed after being frozen by Energy Crystals. In the {{N3}}nd he",
+        "must be crushed with Pillars. In the {{N4}}rd the Player must solve",
+        "terminals and must be killed again normally in the {{N5}}th."
+      ],
+      "translation": "奈克隆是地牢第 {{N0}} 层的首领.他是一位“凋灵领主”,拥有 {{N1}} 个阶段.在第 {{N2}} 阶段,他必须先被能量水晶冻结才能被击杀.在第 {{N3}} 阶段,他必须被柱子压碎.在第 {{N4}} 阶段,玩家必须破解终端,然后在第 {{N5}} 阶段再次正常击杀他.",
+      "styleMappings": {
+        "Catacombs": "地牢",
+        "Necron": "奈克隆",
+        "Player": "玩家",
+        "Wither": "凋灵",
+        "the Catacombs": "地牢",
+        "phases": "阶段",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Maxor:"
+      ],
+      "translation": "麦克瑟:",
+      "styleMappings": {
+        "Maxor": "麦克瑟"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}.{{N1}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}.{{N1}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "❤ Health (MM): {{N0}}.{{N1}}"
+      ],
+      "translation": "❤ 生命值 (MM): {{N0}}.{{N1}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "❈ Defense (MM): {{N0}}"
+      ],
+      "translation": "❈ 防御 (MM):{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Storm:"
+      ],
+      "translation": "风暴:",
+      "styleMappings": {
+        "Storm": "风暴"
+      }
+    },
+    {
+      "source": [
+        "Goldor:"
+      ],
+      "translation": "戈尔多:",
+      "styleMappings": {
+        "Goldor": "戈尔多"
+      }
+    },
+    {
+      "source": [
+        "Necron:"
+      ],
+      "translation": "奈克隆:",
+      "styleMappings": {
+        "Necron": "奈克隆"
+      }
+    },
+    {
+      "source": [
+        "Withered Dragon (MM):"
+      ],
+      "translation": "凋灵龙 (MM):",
+      "styleMappings": {
+        "Withered Dragon": "凋灵龙",
+        "Dragon": "龙"
+      }
+    },
+    {
+      "source": [
+        "❈ Defense: {{N0}}"
+      ],
+      "translation": "❈ 防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Necron": "奈克隆",
+    "Boss": "首领"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

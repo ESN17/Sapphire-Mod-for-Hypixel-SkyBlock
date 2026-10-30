@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "id": "EXPENSIVE_TOY",
+  "_original_name": "Expensive Toy",
+  "_original_lore": [
+    "Commemorates your participation in",
+    "the Winter 2023 event.",
+    "",
+    "Earned by: [MVP+] efefury",
+    "Edition #25",
+    "November 28th 2023",
+    "",
+    "Memento acquirer name becomes",
+    "hidden if traded.",
+    "",
+    "This toy is said to bring",
+    "extraordinary luck and prosperity",
+    "to its owner. But remember, with",
+    "great power comes an even greater",
+    "price tag.",
+    "",
+    "SPECIAL MEMENTO"
+  ],
+  "name": "昂贵玩具",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Commemorates your participation in",
+        "the Winter {{N0}} event."
+      ],
+      "translation": "纪念你参与冬季 {{N0}} 活动.",
+      "styleMappings": {
+        "Winter": "冬季",
+        "event.": "活动."
+      }
+    },
+    {
+      "source": [
+        "Earned by: [MVP+] efefury"
+      ],
+      "translation": "获得者: [尊贵贵宾+] 艾菲弗瑞",
+      "styleMappings": {
+        "MVP": "尊贵贵宾",
+        "efefury": "艾菲弗瑞"
+      }
+    },
+    {
+      "source": [
+        "Edition #{{N0}}",
+        "November {{N1}}th {{N2}}"
+      ],
+      "translation": "第 {{N0}} 版 {{N1}} 月 {{N2}} 日",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Memento acquirer name becomes",
+        "hidden if traded."
+      ],
+      "translation": "纪念品获得者名称在交易后会被隐藏.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "This toy is said to bring",
+        "extraordinary luck and prosperity",
+        "to its owner. But remember, with",
+        "great power comes an even greater",
+        "price tag."
+      ],
+      "translation": "据说这个玩具能给主人带来非凡的运气和财富.但请记住,能力越大,代价也越大.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "SPECIAL MEMENTO"
+      ],
+      "translation": "特殊纪念品",
+      "styleMappings": {
+        "SPECIAL MEMENTO": "特殊纪念品",
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

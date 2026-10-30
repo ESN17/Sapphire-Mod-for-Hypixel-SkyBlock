@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "id": "SALMON_MASK",
+  "_original_name": "Salmon Mask",
+  "_original_lore": [
+    "Health: +1",
+    "",
+    "Ability: Slippery Slope ",
+    "Gain +10 Speed and +10 Fishing",
+    "Speed while in water.",
+    "",
+    "Not to be confused with Salmon Hat.",
+    "",
+    "This item can be reforged!",
+    "UNCOMMON CARNIVAL MASK"
+  ],
+  "name": "鲑鱼面具",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Ability: Slippery Slope "
+      ],
+      "translation": "技能: 滑溜斜坡 ",
+      "styleMappings": {
+        "Ability": "技能",
+        "Slippery Slope": "滑溜斜坡"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}} Speed and {{N1}} Fishing",
+        "Speed while in water."
+      ],
+      "translation": "在水中时获得 {{N0}} 速度 和 {{N1}} 钓鱼速度.",
+      "styleMappings": {
+        "Fishing Speed": "钓鱼速度",
+        " Speed": " 速度",
+        "Gain": "获得",
+        "Speed": "速度",
+        "Fishing": "钓鱼",
+        " Fishing Speed": " 钓鱼速度",
+        "water": "水"
+      }
+    },
+    {
+      "source": [
+        "Not to be confused with Salmon Hat."
+      ],
+      "translation": "不要与鲑鱼帽混淆.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON CARNIVAL MASK"
+      ],
+      "translation": "罕见 嘉年华面具",
+      "styleMappings": {
+        "UNCOMMON CARNIVAL MASK": "罕见 嘉年华面具",
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mask": "面具"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

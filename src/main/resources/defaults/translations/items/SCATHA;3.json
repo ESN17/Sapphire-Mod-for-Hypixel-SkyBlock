@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "SCATHA;3",
+  "_original_name": "[Lvl {LVL}] Scatha",
+  "_original_lore": [
+    "Mining Pet",
+    "",
+    "Mining Speed: +{MINING_SPEED}",
+    "Mining Fortune: +{MINING_FORTUNE}",
+    "",
+    "Burrowing",
+    "Grants a +{0}% chance to find",
+    "Treasure Chests while mining.",
+    "",
+    "Drill Infusion",
+    "Grants +{1} Gemstone Fortune to",
+    "Drills.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "EPIC PET"
+  ],
+  "name": "[等级 {LVL}] 史卡沙",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mining Pet"
+      ],
+      "translation": "采矿宠物",
+      "styleMappings": {
+        "Mining": "采矿",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Mining Speed: +{{N0}}"
+      ],
+      "translation": "采矿速度: +{{N0}}",
+      "styleMappings": {
+        "Mining Speed": "采矿速度",
+        "Mining": "采矿",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Mining Fortune: +{{N0}}"
+      ],
+      "translation": "采矿幸运: +{{N0}}",
+      "styleMappings": {
+        "Mining Fortune": "采矿幸运",
+        "Mining": "采矿",
+        "Fortune": "幸运"
+      }
+    },
+    {
+      "source": [
+        "Burrowing"
+      ],
+      "translation": "掘地",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants a +{{N0}}% chance to find",
+        "Treasure Chests while mining."
+      ],
+      "translation": "挖矿时有 +{{N0}}% 的几率发现宝藏箱.",
+      "styleMappings": {
+        "Treasure Chests": "宝藏箱",
+        "chance": "几率",
+        "chance to": "几率",
+        "Treasure": "宝藏"
+      }
+    },
+    {
+      "source": [
+        "Drill Infusion"
+      ],
+      "translation": "钻头注能",
+      "styleMappings": {
+        "Drill": "钻头"
+      }
+    },
+    {
+      "source": [
+        "Grants +{{N0}} Gemstone Fortune to",
+        "Drills."
+      ],
+      "translation": "为钻头提供 +{{N0}} 宝石幸运.",
+      "styleMappings": {
+        "Gemstone Fortune": "宝石幸运",
+        "Drills": "钻头",
+        "Grants": "提供",
+        "Gemstone": "宝石",
+        "Fortune": "幸运"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "EPIC PET"
+      ],
+      "translation": "史诗 宠物",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Scatha": "史卡沙",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

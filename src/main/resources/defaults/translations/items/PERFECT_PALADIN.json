@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "id": "PERFECT_PALADIN",
+  "_original_name": "Paladin Perfect Helmet Skin",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Item skins give your gear a fresh",
+    "new look! Apply them just like an",
+    "enchant book using the anvil.",
+    "",
+    "This skin can be applied to any tier",
+    "of Perfect Helmet.",
+    "",
+    "This skin will allow you to swap",
+    "between 20 powerful paladin themed",
+    "colors!",
+    "",
+    "LEGENDARY COSMETIC"
+  ],
+  "name": "圣骑士完美头盔皮肤",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Item skins give your gear a fresh",
+        "new look! Apply them just like an",
+        "enchant book using the anvil."
+      ],
+      "translation": "物品皮肤能让你的装备焕然一新!像附魔书一样在铁砧上使用即可.",
+      "styleMappings": {
+        "fresh new look": "焕然一新",
+        "enchant book": "附魔书",
+        "Item skins": "物品皮肤",
+        "anvil": "铁砧",
+        "Item": "物品"
+      }
+    },
+    {
+      "source": [
+        "This skin can be applied to any tier",
+        "of Perfect Helmet."
+      ],
+      "translation": "该皮肤可应用于任意阶级的完美头盔.",
+      "styleMappings": {
+        "Perfect Helmet": "完美头盔",
+        "Helmet": "头盔",
+        "This skin can be applied to": "该皮肤可应用于",
+        "Perfect": "完美"
+      }
+    },
+    {
+      "source": [
+        "This skin will allow you to swap",
+        "between {{N0}} powerful paladin themed",
+        "colors!"
+      ],
+      "translation": "该皮肤可让你在 {{N0}} 种炫酷的圣骑士主题颜色之间切换!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "LEGENDARY COSMETIC"
+      ],
+      "translation": "传说外观",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Perfect Helmet": "完美头盔",
+    "Helmet": "头盔",
+    "Perfect": "完美"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

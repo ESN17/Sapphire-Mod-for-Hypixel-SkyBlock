@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 1,
+  "id": "SPIRIT_DECOY",
+  "_original_name": "Spirit Stone",
+  "_original_lore": [
+    "Reforge Stone",
+    "Combinable in Anvil",
+    "",
+    "Applies the Spiritual reforge when",
+    "combined with a Bow.",
+    "",
+    "As light as a feather, and you can",
+    "almost see through it. Some people",
+    "say looking at it for too long can",
+    "change your personality.",
+    "",
+    "Grants the following stats that scale",
+    "with the item's rarity:",
+    "  Strength",
+    "  Crit Chance",
+    "  Crit Damage",
+    "",
+    "Spiritual Bonus",
+    "Killing an enemy has a 10% chance to",
+    "spawn a Spirit Decoy while in ",
+    "Dungeons.",
+    "",
+    "Right-click to view rarity scaling!",
+    "",
+    "❣ Requires Mining Skill 24.",
+    "",
+    "EPIC REFORGE STONE"
+  ],
+  "name": "灵魂之石",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Reforge Stone",
+        "Combinable in Anvil"
+      ],
+      "translation": "洗练石 可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Reforge Stone": "洗练石",
+        "Anvil": "铁砧",
+        "Reforge": "洗练"
+      }
+    },
+    {
+      "source": [
+        "Applies the Spiritual reforge when",
+        "combined with a Bow."
+      ],
+      "translation": "与弓结合时,为其应用灵魂洗练.",
+      "styleMappings": {
+        "Spiritual": "灵魂",
+        "Bow": "弓",
+        "reforge": "洗练",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "As light as a feather, and you can",
+        "almost see through it. Some people",
+        "say looking at it for too long can",
+        "change your personality."
+      ],
+      "translation": "轻如鸿毛,几乎可以看穿它.有人说盯着它看太久会改变你的性格.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants the following stats that scale"
+      ],
+      "translation": "提供以下随物品稀有度提升的属性:",
+      "styleMappings": {
+        "Grants": "提供",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "with the item's rarity:"
+      ],
+      "translation": "物品稀有度提升的属性:",
+      "styleMappings": {
+        "item": "物品",
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "  Strength",
+        "  Crit Chance",
+        "  Crit Damage"
+      ],
+      "translation": "    力量    暴击几率   暴击伤害",
+      "styleMappings": {
+        " Crit Damage": " 暴击伤害",
+        "Crit Chance": "暴击几率",
+        "Crit Damage": "暴击伤害",
+        "Strength": "力量",
+        "Damage": "伤害",
+        " Crit Chance": " 暴击几率"
+      }
+    },
+    {
+      "source": [
+        "Spiritual Bonus",
+        "Killing an enemy has a {{N0}} chance to",
+        "spawn a Spirit Decoy while in ",
+        "Dungeons."
+      ],
+      "translation": "灵魂加成 击杀敌人时有 {{N0}} 概率在  地牢中生成一个灵魂诱饵.",
+      "styleMappings": {
+        "Spiritual Bonus": "灵魂加成",
+        "chance to": "概率",
+        "Dungeons": "地牢",
+        "Spirit": "灵魂",
+        "Bonus": "加成",
+        "chance": "概率",
+        "Spiritual": "灵魂"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view rarity scaling!"
+      ],
+      "translation": "右键查看各稀有度的属性!",
+      "styleMappings": {
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Mining Skill {{N0}}."
+      ],
+      "translation": "❣ 需要采矿技能 {{N0}}.",
+      "styleMappings": {
+        "Mining Skill": "采矿技能",
+        "Requires": "需要",
+        "Mining": "采矿",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC REFORGE STONE"
+      ],
+      "translation": "史诗洗练石",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Spirit": "灵魂"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

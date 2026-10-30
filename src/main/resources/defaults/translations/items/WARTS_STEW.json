@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "WARTS_STEW",
+  "_original_name": "Mushroom & Warts Stew",
+  "_original_lore": [
+    "Quest Item",
+    "",
+    "Bring it to Juliette in The Park.",
+    "",
+    "Made with love, and an array of",
+    "slightly more questionable",
+    "ingredients.",
+    "",
+    "* Co-op Soulbound *",
+    "RARE"
+  ],
+  "name": "蘑菇与疣炖菜",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Quest Item"
+      ],
+      "translation": "任务物品",
+      "styleMappings": {
+        "Item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Bring it to Juliette in The Park."
+      ],
+      "translation": "把它带给公园的 Juliette.",
+      "styleMappings": {
+        "Juliette": "Juliette",
+        "The Park": "公园"
+      }
+    },
+    {
+      "source": [
+        "Made with love, and an array of",
+        "slightly more questionable",
+        "ingredients."
+      ],
+      "translation": "用爱制成,以及一系列略显可疑的原料.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mushroom": "蘑菇"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

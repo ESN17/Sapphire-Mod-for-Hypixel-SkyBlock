@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "GLASSCORN",
+  "_original_name": "Glasscorn",
+  "_original_lore": [
+    "This delicate, crystal-like corn",
+    "needs to be handled with care. If not",
+    "harvested at the right time, it will",
+    "shatter into a million pieces.",
+    "",
+    "Complete Visitor Beth's quest to",
+    "Analyze this crop!",
+    "",
+    "LEGENDARY MUTATION"
+  ],
+  "name": "玻璃玉米",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "This delicate, crystal-like corn",
+        "needs to be handled with care. If not",
+        "harvested at the right time, it will",
+        "shatter into a million pieces."
+      ],
+      "translation": "这种精致的水晶状玉米需要小心处理.如果不在正确的时间收获,它会碎成一百万片.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Complete Visitor Beth's quest to",
+        "Analyze this crop!"
+      ],
+      "translation": "完成访客 Beth 的任务来分析这种作物!",
+      "styleMappings": {
+        "Visitor": "访客",
+        "Beth's": "Beth 的",
+        "Analyze": "分析"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY MUTATION"
+      ],
+      "translation": "传说突变",
+      "styleMappings": {
+        "LEGENDARY MUTATION": "传说突变",
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

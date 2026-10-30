@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "id": "BRAIN_FOOD",
+  "_original_name": "Brain Food",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Consume this item to permanently",
+    "gain +1 Tracking.",
+    "",
+    "You can only consume 5 of this item",
+    "before the information overload",
+    "starts to cause you physical pain.",
+    "",
+    "Is it called brain food because it's",
+    "good for the brain, or because it's",
+    "made of them?",
+    "",
+    "Right-click to consume!",
+    "",
+    "EPIC"
+  ],
+  "name": "脑餐",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Consume this item to permanently",
+        "gain {{N0}} Tracking."
+      ],
+      "translation": "消耗此物品可永久获得 {{N0}} 追踪.",
+      "styleMappings": {
+        "permanently": "永久",
+        "Tracking": "追踪",
+        "item": "物品",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "You can only consume {{N0}} of this item",
+        "before the information overload",
+        "starts to cause you physical pain."
+      ],
+      "translation": "你只能消耗 {{N0}} 个此物品,之后信息过载会开始让你感到身体疼痛.",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Is it called brain food because it's",
+        "good for the brain, or because it's",
+        "made of them?"
+      ],
+      "translation": "它叫脑餐是因为对大脑有益,还是因为它就是由大脑制成的?",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

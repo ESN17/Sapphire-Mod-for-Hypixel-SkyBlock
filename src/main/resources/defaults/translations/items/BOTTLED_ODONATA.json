@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "BOTTLED_ODONATA",
+  "_original_name": "Bottled Odonata",
+  "_original_lore": [
+    "There's an Odonata in there!",
+    "Look:",
+    "+---------------+",
+    "| ██████████ |",
+    "| ██████████ |",
+    "| ██████████ |",
+    "| ██████████ |",
+    "| ██████████ |",
+    "| ██████████ |",
+    "+---------------+",
+    "",
+    "RARE"
+  ],
+  "name": "瓶装蜻蜓",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "There's an Odonata in there!"
+      ],
+      "translation": "里面有一只蜻蜓!",
+      "styleMappings": {
+        "Odonata": "蜻蜓",
+        "s": "一"
+      }
+    },
+    {
+      "source": [
+        "Look:"
+      ],
+      "translation": "看:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Odonata": "蜻蜓"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

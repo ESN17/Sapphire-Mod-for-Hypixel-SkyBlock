@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "SEA_LUMIES",
+  "_original_name": "Sea Lumies",
+  "_original_lore": [
+    "Collection Item",
+    "",
+    "Luminous wonders from the ocean's",
+    "depths, lighting up the watery abyss.",
+    "",
+    "COMMON"
+  ],
+  "name": "海泡菜",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Collection Item"
+      ],
+      "translation": "收藏品",
+      "styleMappings": {
+        "Collection": "收藏"
+      }
+    },
+    {
+      "source": [
+        "Luminous wonders from the ocean's",
+        "depths, lighting up the watery abyss."
+      ],
+      "translation": "来自海洋深处的发光奇物,照亮幽暗的水下深渊.",
+      "styleMappings": {
+        "Luminous wonders": "发光奇物",
+        "ocean's": "海洋",
+        "depths": "深处"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

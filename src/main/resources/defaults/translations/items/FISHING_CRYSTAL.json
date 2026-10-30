@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "FISHING_CRYSTAL",
+  "_original_name": "Fishing Crystal",
+  "_original_lore": [
+    "Can be placed on your Private Island.",
+    "",
+    "While placed down, nearby water can",
+    "have Prismarine Shards and",
+    "Crystals fished out of it.",
+    "",
+    "Effective Radius: 15",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "钓鱼水晶",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Can be placed on your Private Island."
+      ],
+      "translation": "可放置在你的私人岛屿上.",
+      "styleMappings": {
+        "Private Island": "私人岛屿",
+        "Island": "岛屿"
+      }
+    },
+    {
+      "source": [
+        "While placed down, nearby water can",
+        "have Prismarine Shards and",
+        "Crystals fished out of it."
+      ],
+      "translation": "放置后,附近的水域中可以钓出海晶碎片和水晶.",
+      "styleMappings": {
+        "water": "水"
+      }
+    },
+    {
+      "source": [
+        "Effective Radius: {{N0}}"
+      ],
+      "translation": "有效半径: {{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fishing": "钓鱼",
+    "Crystal": "水晶"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

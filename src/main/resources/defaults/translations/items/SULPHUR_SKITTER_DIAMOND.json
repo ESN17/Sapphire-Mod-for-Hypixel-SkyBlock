@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "SULPHUR_SKITTER_DIAMOND",
+  "_original_name": "Sulphur Skitter DIAMOND",
+  "_original_lore": [
+    "Caught near Sulphur blocks.",
+    "",
+    "Bring this to Odger at the top of the",
+    "Blazing Volcano.",
+    "",
+    "* Soulbound *",
+    "COMMON TROPHY"
+  ],
+  "name": "硫磺跃行者 钻石",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Caught near Sulphur blocks."
+      ],
+      "translation": "在硫磺块附近钓到.",
+      "styleMappings": {
+        "Sulphur": "硫磺"
+      }
+    },
+    {
+      "source": [
+        "Bring this to Odger at the top of the",
+        "Blazing Volcano."
+      ],
+      "translation": "将此物交给炽焰火山顶部的 Odger.",
+      "styleMappings": {
+        "Blazing Volcano": "炽焰火山",
+        "Odger": "Odger"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "COMMON TROPHY"
+      ],
+      "translation": "普通奖杯",
+      "styleMappings": {
+        "COMMON TROPHY": "普通奖杯",
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sulphur Skitter": "硫磺跃行者",
+    "DIAMOND": "钻石",
+    "Sulphur": "硫磺"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

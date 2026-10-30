@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "GIANT_HONEY_DIPPER",
+  "_original_name": "Giant Honey Dipper",
+  "_original_lore": [
+    "Use at Kat to upgrade Bee Pets from",
+    "Epic to Legendary.",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "巨型蜂蜜勺",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Use at Kat to upgrade Bee Pets from",
+        "Epic to Legendary."
+      ],
+      "translation": "在 Kat 处使用,可将蜜蜂宠物从史诗升级为传说.",
+      "styleMappings": {
+        "Legendary": "传说",
+        "Bee Pets": "蜜蜂宠物",
+        "upgrade": "升级",
+        "Epic": "史诗",
+        "Kat": "Kat",
+        "Pets": "宠物",
+        "Bee": "蜜蜂"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Giant": "巨型"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

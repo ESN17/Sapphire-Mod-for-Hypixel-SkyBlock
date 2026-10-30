@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "id": "CONNECT_FOUR",
+  "_original_name": "Four in a Row",
+  "_original_lore": [
+    "Click another player to initiate a",
+    "game of Four in a Row!",
+    "",
+    "❣ Requires Social Skill 7.",
+    "UNCOMMON"
+  ],
+  "name": "四子棋",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Click another player to initiate a",
+        "game of Four in a Row!"
+      ],
+      "translation": "点击另一名玩家来开始一局四子棋!",
+      "styleMappings": {
+        "another player": "另一名玩家",
+        "player": "玩家"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Social Skill {{N0}}."
+      ],
+      "translation": "❣ 需要社交技能 {{N0}}.",
+      "styleMappings": {
+        "Requires": "需要",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

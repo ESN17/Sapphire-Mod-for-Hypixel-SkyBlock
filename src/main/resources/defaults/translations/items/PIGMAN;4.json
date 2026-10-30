@@ -1,0 +1,165 @@
+{
+  "schemaVersion": 1,
+  "id": "PIGMAN;4",
+  "_original_name": "[Lvl {LVL}] Pigman",
+  "_original_lore": [
+    "Combat Pet",
+    "",
+    "Defense: +{DEFENSE}",
+    "Strength: +{STRENGTH}",
+    "Ferocity: +{FEROCITY}",
+    "",
+    "Bacon Farmer",
+    "Pig minions work {0}% faster while on",
+    "your island",
+    "",
+    "Pork Master",
+    "Buffs the Pigman Sword by {1} ",
+    "Damage and {2}  Strength.",
+    "",
+    "Giant Slayer",
+    "Deal +50% damage to monsters Level",
+    "50+ and +75% damage to monsters",
+    "Level 100+.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "LEGENDARY PET"
+  ],
+  "name": "[等级 {LVL}] 猪人",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combat Pet"
+      ],
+      "translation": "战斗宠物",
+      "styleMappings": {
+        "Combat Pet": "战斗宠物",
+        "Combat": "战斗",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Defense: +{{N0}}"
+      ],
+      "translation": "防御力: +{{N0}}",
+      "styleMappings": {
+        "Defense": "防御力"
+      }
+    },
+    {
+      "source": [
+        "Strength: +{{N0}}"
+      ],
+      "translation": "力量: +{{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Ferocity: +{{N0}}"
+      ],
+      "translation": "残暴值: +{{N0}}",
+      "styleMappings": {
+        "Ferocity": "残暴值"
+      }
+    },
+    {
+      "source": [
+        "Bacon Farmer"
+      ],
+      "translation": "培根农夫",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Pig minions work {{N0}}% faster while on",
+        "your island"
+      ],
+      "translation": "猪仆从在你的岛上工作时速度加快 {{N0}}%",
+      "styleMappings": {
+        "Pig minions": "猪仆从",
+        "faster": "加快",
+        "Pig": "猪",
+        "minions": "仆从",
+        "work": "工作"
+      }
+    },
+    {
+      "source": [
+        "Pork Master"
+      ],
+      "translation": "猪肉大师",
+      "styleMappings": {
+        "Master": "大师"
+      }
+    },
+    {
+      "source": [
+        "Buffs the Pigman Sword by {{N0}} ",
+        "Damage and {{N1}}  Strength."
+      ],
+      "translation": "使猪人剑的 伤害提高 {{N0}} , 力量提高 {{N1}} .",
+      "styleMappings": {
+        "Pigman Sword": "猪人剑",
+        "Strength": "力量",
+        "Damage": "伤害",
+        " Strength": " 力量",
+        " Damage": " 伤害",
+        "Sword": "剑",
+        "Pigman": "猪人"
+      }
+    },
+    {
+      "source": [
+        "Giant Slayer"
+      ],
+      "translation": "巨人杀手",
+      "styleMappings": {
+        "Giant Slayer": "巨人杀手",
+        "Slayer": "杀手"
+      }
+    },
+    {
+      "source": [
+        "Deal {{N0}} damage to monsters Level",
+        "{{N1}}+ and {{N2}} damage to monsters",
+        "Level {{N3}}+."
+      ],
+      "translation": "对等级 {{N1}}+ 的怪物造成 {{N0}} 伤害,对等级 {{N3}}+ 的怪物造成 {{N2}} 伤害.",
+      "styleMappings": {
+        "monsters": "怪物",
+        "damage": "伤害",
+        "Level": "等级",
+        "Deal": "造成"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY PET"
+      ],
+      "translation": "传说 宠物",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Pigman": "猪人",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

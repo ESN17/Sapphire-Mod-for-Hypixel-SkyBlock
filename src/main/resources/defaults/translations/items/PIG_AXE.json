@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "PIG_AXE",
+  "_original_name": "Advanced Pig Axe",
+  "_original_lore": [
+    "Damage: +20",
+    "",
+    "Pigs killed with this drop 2 additional",
+    "Raw Porkchop.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Farming Skill 15.",
+    "UNCOMMON SWORD"
+  ],
+  "name": "高级猪斧",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Pigs killed with this drop {{N0}} additional",
+        "Raw Porkchop."
+      ],
+      "translation": "用此斧击杀猪时额外掉落 {{N0}} 个生猪排.",
+      "styleMappings": {
+        "Pigs": "猪",
+        "additional": "额外",
+        "Raw Porkchop": "生猪排"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Farming Skill {{N0}}."
+      ],
+      "translation": "❣ 需要农业技能 {{N0}}.",
+      "styleMappings": {
+        "Farming Skill": "农业技能",
+        "Requires": "需要",
+        "Farming": "农业",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON SWORD"
+      ],
+      "translation": "罕见剑",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Axe": "斧",
+    "Pig": "猪"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

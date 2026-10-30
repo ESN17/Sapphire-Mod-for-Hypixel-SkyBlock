@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "id": "ATTRIBUTE_SHARD_TITANOBOA_TRACKER;1",
+  "_original_name": "Water Snake Shard",
+  "_original_lore": [
+    "Titanoboa Tracker I",
+    "Grants +0.5  Tracking towards",
+    "Titanoboa.",
+    "",
+    "You can Syphon this shard from",
+    "your Hunting Box.",
+    "",
+    "Right-click to send to Hunting Box!",
+    "Shift Right-click to move all!",
+    "",
+    "❣ Requires Hunting Skill 5.",
+    "UNCOMMON WATER SHARD (ID U50)"
+  ],
+  "name": "水蛇碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Titanoboa Tracker I"
+      ],
+      "translation": "泰坦巨蟒追踪 I",
+      "styleMappings": {
+        "Titanoboa": "泰坦巨蟒",
+        "I": "I"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}  Tracking towards",
+        "Titanoboa."
+      ],
+      "translation": "对泰坦巨蟒提供 {{N0}}  追踪.",
+      "styleMappings": {
+        "Grants": "提供",
+        "Tracking": "追踪",
+        "Titanoboa": "泰坦巨蟒"
+      }
+    },
+    {
+      "source": [
+        "You can Syphon this shard from",
+        "your Hunting Box."
+      ],
+      "translation": "你可以从狩猎箱中吸取此碎片.",
+      "styleMappings": {
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to send to Hunting Box!"
+      ],
+      "translation": "右键点击发送至狩猎箱!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Shift Right-click to move all!"
+      ],
+      "translation": "潜行键 右键点击全部移动!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "all": "全部"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Hunting Skill {{N0}}."
+      ],
+      "translation": "❣ 需要狩猎技能 {{N0}}.",
+      "styleMappings": {
+        "Hunting Skill": "狩猎技能",
+        "Requires": "需要",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON WATER SHARD (ID U{{N0}})"
+      ],
+      "translation": "罕见水域碎片 (ID 优{{N0}})",
+      "styleMappings": {
+        "UNCOMMON WATER SHARD": "罕见水域碎片",
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shard": "碎片"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

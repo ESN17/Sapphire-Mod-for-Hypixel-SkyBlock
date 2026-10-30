@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "ENDER_SLAYER;4",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Ender Slayer IV",
+    "Increases damage dealt to  Ender",
+    "mobs by 20%.",
+    "",
+    "Sources:",
+    " - Enchantment Table (I-V)",
+    " - Pearl Dealer (VI)",
+    " - Bazaar (VI)",
+    " - End Stone Idol (VII)",
+    "",
+    "Applied To:",
+    " - Sword",
+    " - Longsword",
+    " - Gauntlet",
+    "",
+    "Requirements:",
+    " - Enchanting Level 11",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Ender Slayer IV"
+      ],
+      "translation": "末影杀手 IV",
+      "styleMappings": {
+        "Ender Slayer": "末影杀手",
+        "Ender": "末影",
+        "Slayer": "杀手"
+      }
+    },
+    {
+      "source": [
+        "Increases damage dealt to  Ender",
+        "mobs by {{N0}}."
+      ],
+      "translation": "对  末影生物造成的伤害提高 {{N0}}.",
+      "styleMappings": {
+        "damage": "伤害",
+        "Ender": "末影",
+        "mobs": "生物"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchantment Table (I-V)",
+        " - Pearl Dealer (VI)",
+        " - Bazaar (VI)",
+        " - End Stone Idol (VII)"
+      ],
+      "translation": " - 附魔台 (I-V)  - 珍珠商人 (VI)  - 集市 (VI)  - 末地石神像 (VII)",
+      "styleMappings": {
+        "Enchantment Table": "附魔台",
+        "End Stone Idol": "末地石神像",
+        "Pearl Dealer": "珍珠商人",
+        "Bazaar": "集市",
+        "I-V": "I-V",
+        "End": "末地",
+        "Enchantment": "附魔",
+        "End Stone": "末地石"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Sword",
+        " - Longsword",
+        " - Gauntlet"
+      ],
+      "translation": " - 剑  - 长剑  - 护手",
+      "styleMappings": {
+        "Sword": "剑",
+        "Longsword": "长剑",
+        "Gauntlet": "护手"
+      }
+    },
+    {
+      "source": [
+        "Requirements:"
+      ],
+      "translation": "需求:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchanting Level {{N0}}"
+      ],
+      "translation": " - 附魔等级 {{N0}}",
+      "styleMappings": {
+        "Enchanting Level": "附魔等级"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

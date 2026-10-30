@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "id": "ABSORB;1",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Absorb I",
+    "Grants +1☯ Foraging Wisdom and",
+    "+2 Foraging Fortune.",
+    "1k logs to tier up!",
+    "",
+    "Break 1k Logs for Tier II",
+    "Break 5k Logs for Tier III",
+    "Break 25k Logs for Tier IV",
+    "Break 100k Logs for Tier V",
+    "Break 300k Logs for Tier VI",
+    "Break 1.5M Logs for Tier VII",
+    "Break 5M Logs for Tier VIII",
+    "Break 10M Logs for Tier IX",
+    "Break 25M Logs for Tier X",
+    "",
+    "▲ Absorb cannot be combined!",
+    "",
+    "Sources:",
+    " - Community Shop (I)",
+    " - Bazaar (I)",
+    "",
+    "Applied To:",
+    " - Axe",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Absorb I"
+      ],
+      "translation": "吸收 I",
+      "styleMappings": {
+        "Absorb": "吸收"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}☯ Foraging Wisdom and",
+        "{{N1}} Foraging Fortune."
+      ],
+      "translation": "提供 {{N0}}☯ 采伐智慧 和 {{N1}} 采伐幸运.",
+      "styleMappings": {
+        " Foraging Fortune": " 采伐幸运",
+        "☯ Foraging Wisdom": "☯ 采伐智慧",
+        "Grants": "提供",
+        "Foraging Wisdom": "采伐智慧",
+        "Fortune": "幸运",
+        "Wisdom": "智慧",
+        "Foraging": "采伐",
+        "Foraging Fortune": "采伐幸运"
+      }
+    },
+    {
+      "source": [
+        "{{N0}}k logs to tier up!"
+      ],
+      "translation": "{{N0}}千原木即可升级!",
+      "styleMappings": {
+        "{{N0}}k": "{{N0}}千"
+      }
+    },
+    {
+      "source": [
+        "Break {{N0}}k Logs for Tier II",
+        "Break {{N1}}k Logs for Tier III",
+        "Break {{N2}}k Logs for Tier IV",
+        "Break {{N3}}k Logs for Tier V",
+        "Break {{N4}}k Logs for Tier VI",
+        "Break {{N5}}M Logs for Tier VII",
+        "Break {{N6}}M Logs for Tier VIII",
+        "Break {{N7}}M Logs for Tier IX",
+        "Break {{N8}}M Logs for Tier X"
+      ],
+      "translation": "破坏 {{N0}}千原木达到 II 级 破坏 {{N1}}千原木达到 III 级 破坏 {{N2}}千原木达到 IV 级 破坏 {{N3}}千原木达到 V 级 破坏 {{N4}}千原木达到 VI 级 破坏 {{N5}}百万原木达到 VII 级 破坏 {{N6}}百万原木达到 VIII 级 破坏 {{N7}}百万原木达到 IX 级 破坏 {{N8}}百万原木达到 X 级",
+      "styleMappings": {
+        "Logs": "原木",
+        "{{N0}}k": "{{N0}}千",
+        "{{N1}}k": "{{N1}}千",
+        "{{N2}}k": "{{N2}}千",
+        "{{N3}}k": "{{N3}}千",
+        "{{N4}}k": "{{N4}}千",
+        "{{N5}}M": "{{N5}}百万",
+        "{{N6}}M": "{{N6}}百万",
+        "{{N7}}M": "{{N7}}百万",
+        "{{N8}}M": "{{N8}}百万",
+        "II": "II",
+        "III": "III",
+        "Break": "破坏"
+      }
+    },
+    {
+      "source": [
+        "▲ Absorb cannot be combined!"
+      ],
+      "translation": "▲ 吸收无法合并!",
+      "styleMappings": {
+        "Absorb": "吸收"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Community Shop (I)",
+        " - Bazaar (I)"
+      ],
+      "translation": " - 社区商店 (I)  - 集市 (I)",
+      "styleMappings": {
+        "Community Shop": "社区商店",
+        "Bazaar": "集市",
+        "I": "I"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Axe"
+      ],
+      "translation": " - 斧",
+      "styleMappings": {
+        "Axe": "斧"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

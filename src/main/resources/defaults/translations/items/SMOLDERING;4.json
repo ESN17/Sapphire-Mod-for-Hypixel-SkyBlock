@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 1,
+  "id": "SMOLDERING;4",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Smoldering IV",
+    "Increases damage dealt to ♨",
+    "Infernal mobs by 20%.",
+    "",
+    "Sources:",
+    " - Smoldering Blazes (I)",
+    " - Bazaar (I-V)",
+    "",
+    "Applied To:",
+    " - Sword",
+    " - Longsword",
+    " - Gauntlet",
+    " - Bow",
+    "",
+    "Requirements:",
+    " - Enchanting Level 23",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Smoldering IV"
+      ],
+      "translation": "闷燃 IV",
+      "styleMappings": {
+        "Smoldering": "闷燃"
+      }
+    },
+    {
+      "source": [
+        "Increases damage dealt to ♨",
+        "Infernal mobs by {{N0}}."
+      ],
+      "translation": "对 ♨ 炼狱生物的伤害提高 {{N0}}.",
+      "styleMappings": {
+        "Infernal": "炼狱",
+        "damage": "伤害",
+        "mobs": "生物"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Smoldering Blazes (I)",
+        " - Bazaar (I-V)"
+      ],
+      "translation": " - 阴燃烈焰 (一)  - 集市 (一至五)",
+      "styleMappings": {
+        "Smoldering Blazes": "阴燃烈焰",
+        "Bazaar": "集市",
+        "I-V": "一至五",
+        "I": "一",
+        "Smoldering": "阴燃"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Sword",
+        " - Longsword",
+        " - Gauntlet",
+        " - Bow"
+      ],
+      "translation": " - 剑  - 长剑  - 护手  - 弓",
+      "styleMappings": {
+        "Sword": "剑",
+        "Longsword": "长剑",
+        "Gauntlet": "护手",
+        "Bow": "弓"
+      }
+    },
+    {
+      "source": [
+        "Requirements:"
+      ],
+      "translation": "需求:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchanting Level {{N0}}"
+      ],
+      "translation": " - 附魔等级 {{N0}}",
+      "styleMappings": {
+        "Enchanting Level": "附魔等级"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

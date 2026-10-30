@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "VITAMIN_DEATH",
+  "_original_name": "Vitamin Death",
+  "_original_lore": [
+    "Combine x9 of this item at the",
+    "Thaumaturgist in the Hub to unlock the",
+    "Healthy power.",
+    "",
+    "At 250 Accessory Power:",
+    "+323.97 Health",
+    "",
+    "Unique Power Bonus:",
+    "+200 Health",
+    "",
+    "❣ Requires Combat Skill 30.",
+    "",
+    "LEGENDARY POWER STONE"
+  ],
+  "name": "亡灵维生素",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combine x{{N0}} of this item at the",
+        "Thaumaturgist in the Hub to unlock the",
+        "Healthy power."
+      ],
+      "translation": "在中心岛的奇术师居所处组合 x{{N0}} 个此物品,以解锁健康能量.",
+      "styleMappings": {
+        "Thaumaturgist": "奇术师居所",
+        "Healthy": "健康",
+        "item": "物品",
+        "Hub": "中心岛",
+        "to unlock the": "以解锁",
+        "in the": "的",
+        "power.": "能量.",
+        "x{{N0}}": "{{N0}} 个"
+      }
+    },
+    {
+      "source": [
+        "At {{N0}} Accessory Power:"
+      ],
+      "translation": "在 {{N0}} 饰品能量时:",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "{{N0}} Health"
+      ],
+      "translation": "{{N0}} 生命值",
+      "styleMappings": {
+        " Health": " 生命"
+      }
+    },
+    {
+      "source": [
+        "Unique Power Bonus:"
+      ],
+      "translation": "独特能量加成:",
+      "styleMappings": {
+        "Unique Power Bonus": "独特能量加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY POWER STONE"
+      ],
+      "translation": "传说能量石",
+      "styleMappings": {
+        "LEGENDARY POWER STONE": "传说能量石",
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

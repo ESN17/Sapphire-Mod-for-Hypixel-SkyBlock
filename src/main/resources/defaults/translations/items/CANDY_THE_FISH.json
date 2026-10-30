@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "CANDY_THE_FISH",
+  "_original_name": "Candy the Fish",
+  "_original_lore": [
+    "Fish flavored.",
+    "",
+    "SPECIAL"
+  ],
+  "name": "糖果鱼",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Fish flavored."
+      ],
+      "translation": "鱼味.",
+      "styleMappings": {
+        "Fish": "鱼"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Candy": "糖果",
+    "Fish": "鱼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

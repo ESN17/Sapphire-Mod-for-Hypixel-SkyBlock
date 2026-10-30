@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "id": "DUNGEON_TRAP",
+  "_original_name": "Trap",
+  "_original_lore": [
+    "Place an explosive trap that",
+    "triggers when mobs walk over it",
+    "dealing 20,000-250,000 damage",
+    "based on the dungeon floor you are",
+    "on.",
+    "",
+    "Dungeons only!",
+    "",
+    "UNCOMMON DUNGEON ITEM"
+  ],
+  "name": "陷阱",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Place an explosive trap that",
+        "triggers when mobs walk over it",
+        "dealing {{N0}}-{{N1}} damage",
+        "based on the dungeon floor you are",
+        "on."
+      ],
+      "translation": "放置一个爆炸陷阱,当怪物走过时触发,根据你所在的地牢层数造成 {{N0}}-{{N1}} 伤害.",
+      "styleMappings": {
+        "damage": "伤害",
+        "mobs": "怪物",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Dungeons only!"
+      ],
+      "translation": "仅限地牢使用!",
+      "styleMappings": {
+        "Dungeons": "地牢"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON DUNGEON ITEM"
+      ],
+      "translation": "罕见 地牢 物品",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

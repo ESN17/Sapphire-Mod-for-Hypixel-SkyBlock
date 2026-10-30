@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "id": "ATTRIBUTE_SHARD_QUARTZ_SPEED;1",
+  "_original_name": "Quartzfang Shard",
+  "_original_lore": [
+    "Quartz Speed I",
+    "Grants +10  Mining Speed while any",
+    "Weather is active.",
+    "",
+    "You can Syphon this shard from",
+    "your Hunting Box.",
+    "",
+    "Right-click to send to Hunting Box!",
+    "Shift Right-click to move all!",
+    "",
+    "❣ Requires Hunting Skill 10.",
+    "RARE COMBAT SHARD (ID R33)"
+  ],
+  "name": "石英牙碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Quartz Speed I"
+      ],
+      "translation": "石英速度 I",
+      "styleMappings": {
+        "Speed I": "速度 I",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}  Mining Speed while any",
+        "Weather is active."
+      ],
+      "translation": "任意天气激活时提供 {{N0}}  采矿速度.",
+      "styleMappings": {
+        "Mining Speed": "采矿速度",
+        "Weather": "天气",
+        "Grants": "提供",
+        "Mining": "采矿",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "You can Syphon this shard from",
+        "your Hunting Box."
+      ],
+      "translation": "你可以从狩猎箱中吸取此碎片.",
+      "styleMappings": {
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to send to Hunting Box!"
+      ],
+      "translation": "右键点击发送至狩猎箱!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Shift Right-click to move all!"
+      ],
+      "translation": "潜行键 右键点击全部移动!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "all": "全部"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Hunting Skill {{N0}}."
+      ],
+      "translation": "❣ 需要狩猎技能 {{N0}}.",
+      "styleMappings": {
+        "Hunting Skill": "狩猎技能",
+        "Requires": "需要",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "RARE COMBAT SHARD (ID R{{N0}})"
+      ],
+      "translation": "稀有战斗碎片 (ID R{{N0}})",
+      "styleMappings": {
+        "RARE": "稀有",
+        "COMBAT SHARD": "战斗碎片"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shard": "碎片"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

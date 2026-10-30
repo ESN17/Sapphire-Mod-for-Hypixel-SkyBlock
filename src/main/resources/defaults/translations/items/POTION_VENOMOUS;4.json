@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_VENOMOUS;4",
+  "_original_name": "Venomous IV Potion",
+  "_original_lore": [
+    "",
+    "Venomous IV (3:00)",
+    "Grants -20  Speed and deals 20",
+    "damage per second.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "剧毒 IV 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Venomous IV ({{N0}}:{{N1}})"
+      ],
+      "translation": "剧毒 IV ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Venomous IV": "剧毒 IV",
+        "Venomous": "剧毒"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}  Speed and deals {{N1}}",
+        "damage per second."
+      ],
+      "translation": "提供 {{N0}}  速度,并每秒造成 {{N1}} 伤害.",
+      "styleMappings": {
+        "per second": "每秒",
+        " Speed": " 速度",
+        "Grants": "提供",
+        "damage": "伤害",
+        "Speed": "速度",
+        "second": "秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Venomous IV": "剧毒 IV",
+    "Venomous": "剧毒"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

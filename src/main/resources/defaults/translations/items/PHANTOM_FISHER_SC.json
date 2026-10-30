@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "PHANTOM_FISHER_SC",
+  "_original_name": "Phantom Fisher (Sea Creature)",
+  "_original_lore": [
+    "Mob Types: ⚓ Aquatic, ☽ Spooky, ❃ Elusive",
+    "❤ Health: 1,000,000",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "幻影渔夫 (海怪)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mob Types: ⚓ Aquatic, ☽ Spooky, ❃ Elusive"
+      ],
+      "translation": "生物类型: ⚓ 水生, ☽ 幽灵, ❃ 难以捉摸",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Aquatic": "水生",
+        "Spooky": "幽灵",
+        "Elusive": "难以捉摸"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sea Creature": "海怪",
+    "(Sea Creature)": "(海怪)"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

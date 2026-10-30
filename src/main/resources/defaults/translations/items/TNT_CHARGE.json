@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "TNT_CHARGE",
+  "_original_name": "TNT Charge",
+  "_original_lore": [
+    "A powerful charge, capable of",
+    "damaging Kuudra's tentacles!",
+    "EPIC"
+  ],
+  "name": "TNT包",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A powerful charge, capable of",
+        "damaging Kuudra's tentacles!"
+      ],
+      "translation": "一种强力的炸药,能够伤害库德拉的触手!",
+      "styleMappings": {
+        "Kuudra's": "库德拉的",
+        "Kuudra": "库德拉"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

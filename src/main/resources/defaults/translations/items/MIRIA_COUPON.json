@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "MIRIA_COUPON",
+  "_original_name": "Miria's Coupon",
+  "_original_lore": [
+    "Can be spent in Miria's Shop!",
+    "",
+    "RARE"
+  ],
+  "name": "米莉亚的优惠券",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Can be spent in Miria's Shop!"
+      ],
+      "translation": "可在米莉亚的商店中使用!",
+      "styleMappings": {
+        "Miria's Shop": "米莉亚的商店"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Miria's Coupon": "米莉亚的优惠券"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

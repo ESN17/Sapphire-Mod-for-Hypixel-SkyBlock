@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "CHICKEN_ANIMAL",
+  "_original_name": "Chicken (Animal)",
+  "_original_lore": [
+    "Chickens can be found at the Barn and drop",
+    "feathers, raw chicken and experience. They",
+    "are required to unlock the Raw Chicken and ",
+    "Feather collection. ",
+    "",
+    "❤ Health: 50"
+  ],
+  "name": "鸡 (动物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Chickens can be found at the Barn and drop",
+        "feathers, raw chicken and experience. They",
+        "are required to unlock the Raw Chicken and ",
+        "Feather collection. "
+      ],
+      "translation": "鸡可以在农庄找到,掉落羽毛、生鸡肉和经验.它们是解锁生鸡肉和羽毛收藏的必要条件.",
+      "styleMappings": {
+        "Barn": "农庄",
+        "Feather": "羽毛",
+        "Chicken": "鸡",
+        "Chickens": "鸡",
+        "Raw Chicken": "生鸡肉"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Chicken": "鸡",
+    "Animal": "动物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

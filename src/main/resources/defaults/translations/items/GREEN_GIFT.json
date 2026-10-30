@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "GREEN_GIFT",
+  "_original_name": "Green Gift",
+  "_original_lore": [
+    "Click a stranger while holding to gift!",
+    "Both players get the rewards!",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "绿色礼物",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Click a stranger while holding to gift!"
+      ],
+      "translation": "手持时点击一名陌生人即可赠送!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Both players get the rewards!"
+      ],
+      "translation": "双方都能获得奖励!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Green": "绿色"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

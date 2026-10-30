@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "id": "PERSONAL_COMPACTOR_7000",
+  "_original_name": "Personal Compactor 7000",
+  "_original_lore": [
+    "Accessory Power: +16",
+    "",
+    "Automatically turns certain materials",
+    "in your inventory into their",
+    "enchanted form.",
+    "",
+    "Right-click to configure!",
+    "",
+    "Does not grant Carpentry XP!",
+    "",
+    "Works while in Accessory Bag!",
+    "LEGENDARY ACCESSORY"
+  ],
+  "name": "个人压缩器 7000",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Accessory Power: {{N0}}"
+      ],
+      "translation": "饰品能量: {{N0}}",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "Automatically turns certain materials",
+        "in your inventory into their",
+        "enchanted form."
+      ],
+      "translation": "自动将背包中的特定材料合成为附魔形态.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to configure!"
+      ],
+      "translation": "右键进行设置!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Does not grant Carpentry XP!"
+      ],
+      "translation": "不提供木工经验!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "放在饰品袋中即可生效!",
+      "styleMappings": {
+        "Accessory Bag": "饰品袋",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY ACCESSORY"
+      ],
+      "translation": "传说饰品",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

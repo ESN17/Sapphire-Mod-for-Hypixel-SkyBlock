@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "RUSTY_SPOON",
+  "_original_name": "Rusty Spoon",
+  "_original_lore": [
+    "Tetanus Chance: +1%",
+    "Determination: +2",
+    "",
+    "The tried and true tool in an escape",
+    "artist's arsenal.",
+    "",
+    "SPECIAL MEMENTO"
+  ],
+  "name": "生锈的勺子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Tetanus Chance: {{N0}}"
+      ],
+      "translation": "破伤风概率: {{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Determination: {{N0}}"
+      ],
+      "translation": "决心: {{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "The tried and true tool in an escape",
+        "artist's arsenal."
+      ],
+      "translation": "逃脱大师军械库中久经考验的可靠工具.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "SPECIAL MEMENTO"
+      ],
+      "translation": "特殊纪念品",
+      "styleMappings": {
+        "SPECIAL MEMENTO": "特殊纪念品",
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

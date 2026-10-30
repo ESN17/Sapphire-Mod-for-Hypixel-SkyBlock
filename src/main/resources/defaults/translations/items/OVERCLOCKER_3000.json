@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "OVERCLOCKER_3000",
+  "_original_name": "Overclocker 3000",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Permanently increases the maximum",
+    "level of a Farming Tool by +1.",
+    "",
+    "Can be applied up to 10 times.",
+    "Requires tool level 40+ to apply.",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "超频器 3000",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Permanently increases the maximum",
+        "level of a Farming Tool by {{N0}}."
+      ],
+      "translation": "永久将农业工具的等级上限提高 {{N0}}.",
+      "styleMappings": {
+        "Farming Tool": "农业工具",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "Can be applied up to {{N0}} times."
+      ],
+      "translation": "最多可应用 {{N0}} 次.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Requires tool level {{N0}}+ to apply."
+      ],
+      "translation": "需要工具等级 {{N0}}+ 才能应用.",
+      "styleMappings": {
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

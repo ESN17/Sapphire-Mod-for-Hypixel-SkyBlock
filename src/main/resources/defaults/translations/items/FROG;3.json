@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "id": "FROG;3",
+  "_original_name": "[Lvl {LVL}] Frog",
+  "_original_lore": [
+    "Foraging Pet",
+    "",
+    "Speed: +{SPEED}",
+    "Fishing Speed: +{FISHING_SPEED}",
+    "Respiration: +{RESPIRATION}",
+    "Sweep: +{SWEEP}",
+    "",
+    "Hop",
+    "Grants {0} Foraging Fortune for",
+    "20s every time you jump. Gain Jump",
+    "Boost IV while on Foraging Islands.",
+    "",
+    "Happy Tree Friends",
+    "Grants {1} Foraging Fortune for",
+    "every other Frog Pet on the island,",
+    "up to 10 frogs.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "EPIC PET"
+  ],
+  "name": "[等级 {LVL}] 青蛙",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Foraging Pet"
+      ],
+      "translation": "采伐宠物",
+      "styleMappings": {
+        "Foraging Pet": "采伐宠物",
+        "Pet": "宠物",
+        "Foraging": "采伐"
+      }
+    },
+    {
+      "source": [
+        "Speed: +{{N0}}"
+      ],
+      "translation": "速度: +{{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Fishing Speed: +{{N0}}"
+      ],
+      "translation": "钓鱼速度: +{{N0}}",
+      "styleMappings": {
+        "Fishing Speed": "钓鱼速度",
+        "Fishing": "钓鱼",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Respiration: +{{N0}}"
+      ],
+      "translation": "呼吸: +{{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Sweep: +{{N0}}"
+      ],
+      "translation": "扫击: +{{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Hop"
+      ],
+      "translation": "跳跃",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants {{N0}} Foraging Fortune for",
+        "{{N1}}s every time you jump. Gain Jump",
+        "Boost IV while on Foraging Islands."
+      ],
+      "translation": "每次跳跃时,提供 {{N0}} 采伐幸运,持续 {{N1}} 秒.在采伐岛屿上获得跳跃提升 IV.",
+      "styleMappings": {
+        " Foraging Fortune": " 采伐幸运",
+        "Foraging Islands": "采伐岛屿",
+        "Jump Boost IV": "跳跃提升 IV",
+        "Gain": "获得",
+        "for": "持续",
+        "{{N1}}s": "{{N1}} 秒",
+        "Fortune": "幸运",
+        "Foraging": "采伐",
+        "Foraging Fortune": "采伐幸运"
+      }
+    },
+    {
+      "source": [
+        "Happy Tree Friends"
+      ],
+      "translation": "快乐树朋友",
+      "styleMappings": {
+        "Tree": "树"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Foraging Fortune for",
+        "every other Frog Pet on the island,",
+        "up to {{N1}} frogs."
+      ],
+      "translation": "岛上每有一只其他青蛙宠物,就提供 {{N0}} 采伐幸运,最多计算 {{N1}} 只青蛙.",
+      "styleMappings": {
+        " Foraging Fortune": " 采伐幸运",
+        "Frog Pet": "青蛙宠物",
+        "Grants": "提供",
+        "Pet": "宠物",
+        "Fortune": "幸运",
+        "Foraging": "采伐",
+        "Frog": "青蛙",
+        "Foraging Fortune": "采伐幸运"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "EPIC PET"
+      ],
+      "translation": "史诗 宠物",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Frog": "青蛙",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

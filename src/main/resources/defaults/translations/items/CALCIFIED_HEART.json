@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "id": "CALCIFIED_HEART",
+  "_original_name": "Calcified Heart",
+  "_original_lore": [
+    "Reforge Stone",
+    "Combinable in Anvil",
+    "",
+    "Applies the Calcified reforge when",
+    "combined with Armor.",
+    "",
+    "Grants the following stats that scale",
+    "with the item's rarity:",
+    "  Defense",
+    "  Fishing Speed",
+    "",
+    "Calcified Bonus",
+    "Grants +25 Defense towards Sea",
+    "Creatures.",
+    "",
+    "Right-click to view rarity scaling!",
+    "",
+    "A cold and hardened heart that was",
+    "once brimming with eager love.",
+    "",
+    "RARE REFORGE STONE"
+  ],
+  "name": "钙化之心",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Reforge Stone",
+        "Combinable in Anvil"
+      ],
+      "translation": "洗练石 可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Reforge Stone": "洗练石",
+        "Anvil": "铁砧",
+        "Reforge": "洗练"
+      }
+    },
+    {
+      "source": [
+        "Applies the Calcified reforge when",
+        "combined with Armor."
+      ],
+      "translation": "与盔甲结合时,应用钙化洗练.",
+      "styleMappings": {
+        "Calcified": "钙化",
+        "Armor": "盔甲",
+        "reforge": "洗练",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Grants the following stats that scale"
+      ],
+      "translation": "提供以下随物品稀有度提升的属性:",
+      "styleMappings": {
+        "Grants": "提供",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "with the item's rarity:"
+      ],
+      "translation": "物品稀有度提升的属性:",
+      "styleMappings": {
+        "item": "物品",
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "  Defense",
+        "  Fishing Speed"
+      ],
+      "translation": "   防御   钓鱼速度",
+      "styleMappings": {
+        "Fishing Speed": "钓鱼速度",
+        "Defense": "防御",
+        "Fishing": "钓鱼",
+        "Speed": "速度",
+        " Fishing Speed": " 钓鱼速度"
+      }
+    },
+    {
+      "source": [
+        "Calcified Bonus",
+        "Grants {{N0}} Defense towards Sea",
+        "Creatures."
+      ],
+      "translation": "钙化加成 对海洋生物提供 {{N0}} 防御.",
+      "styleMappings": {
+        "Calcified Bonus": "钙化加成",
+        "Sea Creatures": "海洋生物",
+        " Defense": " 防御",
+        "Grants": "提供",
+        "Defense": "防御",
+        "Bonus": "加成",
+        "Calcified": "钙化"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view rarity scaling!"
+      ],
+      "translation": "右键查看各稀有度的属性!",
+      "styleMappings": {
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "A cold and hardened heart that was",
+        "once brimming with eager love."
+      ],
+      "translation": "一颗冰冷而坚硬的心,曾经充满热切的爱情.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE REFORGE STONE"
+      ],
+      "translation": "稀有 洗练石",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Calcified Heart": "钙化之心",
+    "Calcified": "钙化"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

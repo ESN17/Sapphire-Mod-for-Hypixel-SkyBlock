@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "MAGIC_RUNE;1",
+  "_original_name": "◆ Magical Rune I",
+  "_original_lore": [
+    "Requires level 12",
+    "Bows",
+    "",
+    "Your arrows have a magical shine!",
+    "",
+    "Apply this rune to bows or fuse two",
+    "together at the Runic Pedestal!",
+    "",
+    "RARE COSMETIC"
+  ],
+  "name": "◆ 魔法符文 I",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Requires level {{N0}}",
+        "Bows"
+      ],
+      "translation": "需要弓等级 {{N0}}",
+      "styleMappings": {
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Your arrows have a magical shine!"
+      ],
+      "translation": "你的箭矢带有魔法光芒!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Apply this rune to bows or fuse two",
+        "together at the Runic Pedestal!"
+      ],
+      "translation": "将此符文应用于弓,或在符文基座上将两个符文融合!",
+      "styleMappings": {
+        "Runic Pedestal": "符文基座",
+        "Runic": "符文"
+      }
+    },
+    {
+      "source": [
+        "RARE COSMETIC"
+      ],
+      "translation": "稀有 外观",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Rune I": "符文 I"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

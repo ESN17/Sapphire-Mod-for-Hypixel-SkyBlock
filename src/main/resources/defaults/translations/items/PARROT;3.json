@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "id": "PARROT;3",
+  "_original_name": "[Lvl {LVL}] Parrot",
+  "_original_lore": [
+    "Alchemy Pet",
+    "",
+    "Crit Damage: +{CRIT_DAMAGE}%",
+    "Intelligence: +{INTELLIGENCE}",
+    "",
+    "Flamboyant",
+    "Adds {0} levels to intimidation",
+    "accessories",
+    "",
+    "Repeat",
+    "Boosts potions duration by {1}%.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "EPIC PET"
+  ],
+  "name": "[等级 {LVL}] 鹦鹉",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Alchemy Pet"
+      ],
+      "translation": "炼金宠物",
+      "styleMappings": {
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: +{{N0}}%"
+      ],
+      "translation": "暴击伤害: +{{N0}}%",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: +{{N0}}"
+      ],
+      "translation": "智力: +{{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Flamboyant"
+      ],
+      "translation": "华丽",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Adds {{N0}} levels to intimidation",
+        "accessories"
+      ],
+      "translation": "为威慑饰品增加 {{N0}} 等级",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Repeat"
+      ],
+      "translation": "重复",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Boosts potions duration by {{N0}}%."
+      ],
+      "translation": "药水持续时间提升 {{N0}}%.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "EPIC PET"
+      ],
+      "translation": "史诗 宠物",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Parrot": "鹦鹉",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "BLAZE;2",
+  "_original_name": "[Lvl {LVL}] Blaze",
+  "_original_lore": [
+    "Combat Pet",
+    "",
+    "Defense: +{DEFENSE}",
+    "Intelligence: +{INTELLIGENCE}",
+    "",
+    "Nether Embodiment",
+    "Increases Combat and Miscellaneous",
+    "stats by {0}% while on the Crimson",
+    "Isle.",
+    "",
+    "Bling Armor",
+    "Upgrades Blaze Armor stats and",
+    "ability by {1}%.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "RARE PET"
+  ],
+  "name": "[等级 {LVL}] 烈焰人",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combat Pet"
+      ],
+      "translation": "战斗宠物",
+      "styleMappings": {
+        "Combat Pet": "战斗宠物",
+        "Combat": "战斗",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Defense: +{{N0}}"
+      ],
+      "translation": "防御力: +{{N0}}",
+      "styleMappings": {
+        "Defense": "防御力"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: +{{N0}}"
+      ],
+      "translation": "智力: +{{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Nether Embodiment"
+      ],
+      "translation": "下界化身",
+      "styleMappings": {
+        "Nether Embodiment": "下界化身",
+        "Nether": "下界"
+      }
+    },
+    {
+      "source": [
+        "Increases Combat and Miscellaneous",
+        "stats by {{N0}}% while on the Crimson",
+        "Isle."
+      ],
+      "translation": "在绯红之岛时,战斗和杂项属性提高 {{N0}}%.",
+      "styleMappings": {
+        "Combat": "战斗",
+        "Miscellaneous": "杂项",
+        "Crimson Isle": "绯红之岛",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "Bling Armor"
+      ],
+      "translation": "闪亮盔甲",
+      "styleMappings": {
+        "Bling Armor": "闪亮盔甲",
+        "Armor": "盔甲"
+      }
+    },
+    {
+      "source": [
+        "Upgrades Blaze Armor stats and",
+        "ability by {{N0}}%."
+      ],
+      "translation": "将烈焰盔甲的属性和能力提升 {{N0}}%.",
+      "styleMappings": {
+        "Blaze Armor": "烈焰盔甲",
+        "stats": "属性",
+        "Armor": "盔甲",
+        "Blaze": "烈焰"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "RARE PET"
+      ],
+      "translation": "稀有 宠物",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

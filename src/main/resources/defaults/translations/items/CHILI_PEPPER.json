@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "CHILI_PEPPER",
+  "_original_name": "Chili Pepper",
+  "_original_lore": [
+    "Collection Item",
+    "",
+    "It's red hot, but green!",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "辣椒",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Collection Item"
+      ],
+      "translation": "收藏品",
+      "styleMappings": {
+        "Collection": "收藏"
+      }
+    },
+    {
+      "source": [
+        "It's red hot, but green!"
+      ],
+      "translation": "它红得发烫,却是绿色的!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

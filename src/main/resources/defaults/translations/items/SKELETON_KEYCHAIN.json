@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "id": "SKELETON_KEYCHAIN",
+  "_original_name": "Skeleton Keychain",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Consume to unhook the keychain",
+    "containing 16x Skeleton Key.",
+    "",
+    "Fred the Foreman's contribution to",
+    "the Year 500 Raffle.",
+    "",
+    "Right-click to consume!",
+    "",
+    "* Soulbound *",
+    "LEGENDARY"
+  ],
+  "name": "骷髅钥匙链",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Consume to unhook the keychain",
+        "containing {{N0}}x Skeleton Key."
+      ],
+      "translation": "消耗以取下装有 {{N0}} 个骷髅钥匙的钥匙链.",
+      "styleMappings": {
+        "Skeleton Key": "骷髅钥匙",
+        "Skeleton": "骷髅",
+        "{{N0}}x": "{{N0}} 个"
+      }
+    },
+    {
+      "source": [
+        "Fred the Foreman's contribution to",
+        "the Year {{N0}} Raffle."
+      ],
+      "translation": "工头弗雷德对第 {{N0}} 年抽奖的贡献.",
+      "styleMappings": {
+        "Year": "年"
+      }
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Skeleton Keychain": "骷髅钥匙链",
+    "Skeleton": "骷髅"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

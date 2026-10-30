@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "id": "CORRUPTION;3",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Corruption III",
+    "Gain a 3% chance to spawn a",
+    "Corrupted Sea Creature.",
+    "",
+    "Sources:",
+    " - Crafting Recipe (I)",
+    " - Bazaar (I-V)",
+    "",
+    "Applied To:",
+    " - Fishing Rod",
+    "",
+    "Requirements:",
+    " - Enchanting Level 25",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Corruption III"
+      ],
+      "translation": "腐化 III",
+      "styleMappings": {
+        "Corruption": "腐化",
+        "III": "III"
+      }
+    },
+    {
+      "source": [
+        "Gain a {{N0}} chance to spawn a",
+        "Corrupted Sea Creature."
+      ],
+      "translation": "有 {{N0}} 概率生成一只腐化海怪.",
+      "styleMappings": {
+        "Corrupted Sea Creature": "腐化海怪",
+        "chance to": "概率",
+        "chance": "概率",
+        "Sea Creature": "海怪",
+        "Corrupted": "腐化"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Crafting Recipe (I)",
+        " - Bazaar (I-V)"
+      ],
+      "translation": " - 合成配方 (I)  - 集市 (I-V)",
+      "styleMappings": {
+        "Crafting Recipe": "合成配方",
+        "Bazaar": "集市",
+        "I-V": "I-V",
+        "I": "I"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Fishing Rod"
+      ],
+      "translation": " - 钓鱼竿",
+      "styleMappings": {
+        "Fishing Rod": "钓鱼竿",
+        "Fishing": "钓鱼"
+      }
+    },
+    {
+      "source": [
+        "Requirements:"
+      ],
+      "translation": "需求:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchanting Level {{N0}}"
+      ],
+      "translation": " - 附魔等级 {{N0}}",
+      "styleMappings": {
+        "Enchanting Level": "附魔等级"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

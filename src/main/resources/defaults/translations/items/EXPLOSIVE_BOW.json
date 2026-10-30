@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "id": "EXPLOSIVE_BOW",
+  "_original_name": "Explosive Bow",
+  "_original_lore": [
+    "Damage: +100",
+    "Strength: +20",
+    "",
+    "Ability: Explosive Shot ",
+    "Creates an explosion on impact!",
+    "Every Monster caught in this",
+    "explosion takes the full damage of",
+    "the weapon!",
+    "Acts as Superboom TNT!",
+    "",
+    "This item can be reforged!",
+    "EPIC BOW"
+  ],
+  "name": "爆炸弓",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Ability: Explosive Shot "
+      ],
+      "translation": "技能: 爆炸射击 ",
+      "styleMappings": {
+        "Ability": "技能"
+      }
+    },
+    {
+      "source": [
+        "Creates an explosion on impact!"
+      ],
+      "translation": "命中时产生爆炸!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Every Monster caught in this",
+        "explosion takes the full damage of",
+        "the weapon!"
+      ],
+      "translation": "爆炸范围内的每个怪物都会受到武器的全额伤害!",
+      "styleMappings": {
+        "Monster": "怪物",
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Acts as Superboom TNT!"
+      ],
+      "translation": "可当作超级爆炸TNT使用!",
+      "styleMappings": {
+        "Superboom TNT": "超级爆炸TNT"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "EPIC BOW"
+      ],
+      "translation": "史诗 弓",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Bow": "弓"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "LOTUS_GUARDIAN_SC",
+  "_original_name": "Lotus Guardian (Sea Creature)",
+  "_original_lore": [
+    "Lies dormant on the ocean floor of",
+    "the Lotus Atoll.",
+    "",
+    "Mob Types: ⚓ Aquatic, ⚙ Construct",
+    "❤ Health: 25,000",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "莲花守卫 (海怪)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Lies dormant on the ocean floor of",
+        "the Lotus Atoll."
+      ],
+      "translation": "蛰伏在莲花环礁的海底.",
+      "styleMappings": {
+        "Lotus Atoll": "莲花环礁",
+        "Lotus": "莲花"
+      }
+    },
+    {
+      "source": [
+        "Mob Types: ⚓ Aquatic, ⚙ Construct"
+      ],
+      "translation": "生物类型: ⚓ 水生, ⚙ 构装",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Aquatic": "水生",
+        "Construct": "构装"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sea Creature": "海怪",
+    "Guardian": "守卫",
+    "Lotus": "莲花",
+    "(Sea Creature)": "(海怪)"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

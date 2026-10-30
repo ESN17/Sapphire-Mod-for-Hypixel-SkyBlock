@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "id": "HELIANTHUS_FLORAL",
+  "_original_name": "Floral Helianthus Helmet Skin",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Item skins give your gear a fresh",
+    "new look! Apply them just like an",
+    "enchant book using the anvil.",
+    "",
+    "This skin can be applied to",
+    "Helianthus Helmet.",
+    "",
+    "This skin will allow you to swap",
+    "between 20 beautiful flower themed",
+    "colors!",
+    "",
+    "LEGENDARY COSMETIC"
+  ],
+  "name": "花艺向阳花头盔皮肤",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Item skins give your gear a fresh",
+        "new look! Apply them just like an",
+        "enchant book using the anvil."
+      ],
+      "translation": "物品皮肤能让你的装备焕然一新!像附魔书一样在铁砧上使用即可.",
+      "styleMappings": {
+        "fresh new look": "焕然一新",
+        "enchant book": "附魔书",
+        "Item skins": "物品皮肤",
+        "anvil": "铁砧",
+        "Item": "物品"
+      }
+    },
+    {
+      "source": [
+        "This skin can be applied to",
+        "Helianthus Helmet."
+      ],
+      "translation": "该皮肤可应用于向阳花头盔.",
+      "styleMappings": {
+        "Helianthus Helmet": "向阳花头盔",
+        "Helmet": "头盔",
+        "This skin can be applied to": "该皮肤可应用于"
+      }
+    },
+    {
+      "source": [
+        "This skin will allow you to swap",
+        "between {{N0}} beautiful flower themed",
+        "colors!"
+      ],
+      "translation": "该皮肤可让你在 {{N0}} 种美丽的花卉主题颜色之间切换!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "LEGENDARY COSMETIC"
+      ],
+      "translation": "传说外观",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Helianthus Helmet": "向阳花头盔",
+    "Helmet": "头盔"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

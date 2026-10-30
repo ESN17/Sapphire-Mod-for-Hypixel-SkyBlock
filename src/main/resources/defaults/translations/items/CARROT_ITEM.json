@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "CARROT_ITEM",
+  "_original_name": "Carrot",
+  "_original_lore": [
+    "Collection Item",
+    "",
+    "COMMON"
+  ],
+  "name": "胡萝卜",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Collection Item"
+      ],
+      "translation": "收藏品",
+      "styleMappings": {
+        "Collection": "收藏"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Carrot": "胡萝卜"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "id": "DIVAN_PENDANT",
+  "_original_name": "Pendant of Divan",
+  "_original_lore": [
+    "Mining Speed: +100",
+    "Mining Fortune: +25",
+    "Cold Resistance: +10",
+    "Gemstones: [] []",
+    "",
+    "Tiered Bonus: Legacy (0/1)",
+    "Grants +0.25 Pristine and +2.5",
+    "Gemstone Spread while inside the",
+    "Glacite Mineshafts.",
+    "",
+    "An item treasured by the greatest",
+    "Dwarf who ever lived. Why would he",
+    "leave it behind?",
+    "",
+    "Right-click to equip!",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Heart of the Mountain Tier 10.",
+    "LEGENDARY NECKLACE"
+  ],
+  "name": "迪万吊坠",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mining Speed: {{N0}}"
+      ],
+      "translation": "采矿速度: {{N0}}",
+      "styleMappings": {
+        "Mining Speed": "采矿速度",
+        "Mining": "采矿",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Mining Fortune: {{N0}}"
+      ],
+      "translation": "采矿幸运: {{N0}}",
+      "styleMappings": {
+        "Mining Fortune": "采矿幸运",
+        "Mining": "采矿",
+        "Fortune": "幸运"
+      }
+    },
+    {
+      "source": [
+        "Cold Resistance: {{N0}}"
+      ],
+      "translation": "抗寒: {{N0}}",
+      "styleMappings": {
+        "Cold Resistance": "抗寒"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [] []"
+      ],
+      "translation": "宝石: [] []",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石",
+        "] [": "] ["
+      }
+    },
+    {
+      "source": [
+        "Tiered Bonus: Legacy ({{N0}}/{{N1}})"
+      ],
+      "translation": "套装加成: 传承 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Tiered Bonus": "套装加成",
+        "Legacy": "传承",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Pristine and {{N1}}",
+        "Gemstone Spread while inside the",
+        "Glacite Mineshafts."
+      ],
+      "translation": "在冰晶矿井内时,获得 {{N0}} 提纯 和 {{N1}} 宝石扩散.",
+      "styleMappings": {
+        "Glacite Mineshafts": "冰晶矿井",
+        "Gemstone Spread": "宝石扩散",
+        "Pristine": "提纯",
+        "Grants": "获得",
+        "Gemstone": "宝石",
+        "Mineshafts": "矿井"
+      }
+    },
+    {
+      "source": [
+        "An item treasured by the greatest",
+        "Dwarf who ever lived. Why would he",
+        "leave it behind?"
+      ],
+      "translation": "有史以来最伟大的矮人所珍视的物品.他为何会将它留下?",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Right-click to equip!"
+      ],
+      "translation": "右键点击装备!",
+      "styleMappings": {
+        "Right-click to equip!": "右键点击装备!",
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Heart of the Mountain Tier {{N0}}."
+      ],
+      "translation": "❣ 需要山峰之心等级 {{N0}}.",
+      "styleMappings": {
+        "Heart of the Mountain Tier": "山峰之心等级",
+        "Requires": "需要",
+        "Heart of the Mountain": "山峰之心"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY NECKLACE"
+      ],
+      "translation": "传说 项链",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Divan": "迪万"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

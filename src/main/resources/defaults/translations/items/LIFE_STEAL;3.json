@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "LIFE_STEAL;3",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Life Steal III",
+    "Heal 7.2❤ every time you hit a mob.",
+    "",
+    "Sources:",
+    " - Enchantment Table (I-III)",
+    " - Spooky Festival (IV)",
+    " - Experiments (IV-V)",
+    " - Bazaar (IV-V)",
+    "",
+    "Applied To:",
+    " - Sword",
+    " - Longsword",
+    " - Gauntlet",
+    "",
+    "Requirements:",
+    " - Enchanting Level 5",
+    "",
+    "Conflicts:",
+    " - Drain",
+    " - Mana Steal",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Life Steal III"
+      ],
+      "translation": "生命窃取 III",
+      "styleMappings": {
+        "Life Steal": "生命窃取",
+        "III": "III"
+      }
+    },
+    {
+      "source": [
+        "Heal {{N0}}❤ every time you hit a mob."
+      ],
+      "translation": "每次攻击生物时恢复 {{N0}}❤ 生命值.",
+      "styleMappings": {
+        "Heal": "恢复",
+        "hit": "攻击"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchantment Table (I-III)",
+        " - Spooky Festival (IV)",
+        " - Experiments (IV-V)",
+        " - Bazaar (IV-V)"
+      ],
+      "translation": " - 附魔台 (一至三)  - 万圣节活动 (四)  - 实验 (四至五)  - 集市 (四至五)",
+      "styleMappings": {
+        "Enchantment Table": "附魔台",
+        "Spooky Festival": "万圣节活动",
+        "Experiments": "实验",
+        "Bazaar": "集市",
+        "I-III": "一至三",
+        "Spooky": "万圣节",
+        "Enchantment": "附魔",
+        "IV-V": "四至五"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Sword",
+        " - Longsword",
+        " - Gauntlet"
+      ],
+      "translation": " - 剑  - 长剑  - 护手",
+      "styleMappings": {
+        "Sword": "剑",
+        "Longsword": "长剑",
+        "Gauntlet": "护手"
+      }
+    },
+    {
+      "source": [
+        "Requirements:"
+      ],
+      "translation": "需求:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchanting Level {{N0}}"
+      ],
+      "translation": " - 附魔等级 {{N0}}",
+      "styleMappings": {
+        "Enchanting Level": "附魔等级"
+      }
+    },
+    {
+      "source": [
+        "Conflicts:"
+      ],
+      "translation": "冲突:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Drain"
+      ],
+      "translation": " - 汲取",
+      "styleMappings": {
+        "Drain": "汲取"
+      }
+    },
+    {
+      "source": [
+        " - Mana Steal"
+      ],
+      "translation": " - 魔力窃取",
+      "styleMappings": {
+        "Mana Steal": "魔力窃取"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

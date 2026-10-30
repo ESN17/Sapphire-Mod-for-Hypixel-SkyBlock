@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_FORAGING_XP_BOOST;3",
+  "_original_name": "Foraging XP Boost III Potion",
+  "_original_lore": [
+    "",
+    "Foraging XP Boost III (36:00)",
+    "Grants +20☯ Foraging Wisdom.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "采伐经验加成 III 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Foraging XP Boost III ({{N0}}:{{N1}})"
+      ],
+      "translation": "采伐经验加成 III ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Foraging XP Boost III": "采伐经验加成 III",
+        "III": "III",
+        "Foraging": "采伐"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}☯ Foraging Wisdom."
+      ],
+      "translation": "获得 {{N0}}☯ 采伐智慧.",
+      "styleMappings": {
+        "☯ Foraging Wisdom": "☯ 采伐智慧",
+        "Grants": "获得",
+        "Foraging Wisdom": "采伐智慧",
+        "Wisdom": "智慧",
+        "Foraging": "采伐"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Foraging XP Boost III": "采伐经验加成 III",
+    "III": "III",
+    "Foraging": "采伐"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "DESERT_ISLAND",
+  "_original_name": "Desert Island",
+  "_original_lore": [
+    "Place this in your private world to",
+    "spawn a Desert island!",
+    "",
+    "COMMON"
+  ],
+  "name": "沙漠岛屿",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Place this in your private world to",
+        "spawn a Desert island!"
+      ],
+      "translation": "将此物放置在你的私人世界中,即可生成一座沙漠岛屿!",
+      "styleMappings": {
+        "Desert": "沙漠"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Island": "岛屿",
+    "Desert": "沙漠"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

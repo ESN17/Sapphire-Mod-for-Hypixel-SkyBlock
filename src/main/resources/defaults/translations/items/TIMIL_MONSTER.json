@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "TIMIL_MONSTER",
+  "_original_name": "Timil (Monster)",
+  "_original_lore": [
+    "Mob Types:  Aquatic,  Critter,  Timid",
+    "",
+    "Spooks at the slightest change in",
+    "water pressure.",
+    "",
+    "❤ Health: 50",
+    "",
+    "Hunted in Torrhus Canyon."
+  ],
+  "name": "提米尔 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mob Types:  Aquatic,  Critter,  Timid"
+      ],
+      "translation": "生物类型:  水生,  小动物,  胆小",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Aquatic": "水生",
+        "Critter": "小动物",
+        "Timid": "胆小",
+        " Critter": " 小动物"
+      }
+    },
+    {
+      "source": [
+        "Spooks at the slightest change in",
+        "water pressure."
+      ],
+      "translation": "水压稍有变化就会受惊.",
+      "styleMappings": {
+        "water": "水"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Hunted in Torrhus Canyon."
+      ],
+      "translation": "在托鲁斯峡谷中狩猎.",
+      "styleMappings": {
+        "Torrhus Canyon": "托鲁斯峡谷"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

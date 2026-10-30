@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "SMALL_SLOTH_CLAW",
+  "_original_name": "Small Sloth Claw",
+  "_original_lore": [
+    "Use at Kat to upgrade Sloth Pets",
+    "from Common to Uncommon.",
+    "",
+    "UNCOMMON PET ITEM"
+  ],
+  "name": "小型树懒爪",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Use at Kat to upgrade Sloth Pets",
+        "from Common to Uncommon."
+      ],
+      "translation": "在 Kat 处使用,将树懒宠物从普通升级为罕见.",
+      "styleMappings": {
+        "Sloth Pets": "树懒宠物",
+        "Uncommon": "罕见",
+        "upgrade": "升级",
+        "Common": "普通",
+        "Kat": "Kat",
+        "Pets": "宠物",
+        "Sloth": "树懒"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON PET ITEM"
+      ],
+      "translation": "罕见 宠物 物品",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sloth": "树懒"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

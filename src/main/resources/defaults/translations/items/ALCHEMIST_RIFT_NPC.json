@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "ALCHEMIST_RIFT_NPC",
+  "_original_name": "Alchemist (Rift NPC)",
+  "_original_lore": [
+    "A Quest NPC that gives out",
+    "the Anti-Morph Potion."
+  ],
+  "name": "Alchemist (裂隙人物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A Quest NPC that gives out",
+        "the Anti-Morph Potion."
+      ],
+      "translation": "发放反变形药水的任务人物.",
+      "styleMappings": {
+        "Anti-Morph Potion": "反变形药水"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Rift NPC)": "(裂隙人物)",
+    "Alchemist": "Alchemist",
+    "Rift": "裂隙"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

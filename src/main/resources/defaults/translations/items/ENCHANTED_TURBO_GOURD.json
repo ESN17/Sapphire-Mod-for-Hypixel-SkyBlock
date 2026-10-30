@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "id": "ENCHANTED_TURBO_GOURD",
+  "_original_name": "Enchanted Turbo Gourd",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "When applied to Farming Tool,",
+    "increases ALL Turbo-Crop VI",
+    "enchantments to Turbo-Crop VII.",
+    "Requires at least one Turbo-Crop VI",
+    "enchantment!",
+    "",
+    "MYTHIC"
+  ],
+  "name": "附魔涡轮南瓜",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "When applied to Farming Tool,",
+        "increases ALL Turbo-Crop VI",
+        "enchantments to Turbo-Crop VII."
+      ],
+      "translation": "应用于农具时, 将所有涡轮作物 VI 附魔提升至涡轮作物 VII.",
+      "styleMappings": {
+        "Farming Tool": "农具",
+        "Turbo-Crop VI": "涡轮作物 VI",
+        "Turbo-Crop VII": "涡轮作物 VII",
+        "ALL": "所有",
+        "Crop": "作物"
+      }
+    },
+    {
+      "source": [
+        "Requires at least one Turbo-Crop VI",
+        "enchantment!"
+      ],
+      "translation": "需要至少一个涡轮作物 VI 附魔!",
+      "styleMappings": {
+        "Turbo-Crop VI": "涡轮作物 VI",
+        "Requires": "需要",
+        "Crop": "作物"
+      }
+    },
+    {
+      "source": [
+        "MYTHIC"
+      ],
+      "translation": "神话",
+      "styleMappings": {
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Enchanted Turbo Gourd": "附魔涡轮南瓜"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

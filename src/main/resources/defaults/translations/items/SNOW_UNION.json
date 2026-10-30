@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "id": "SNOW_UNION",
+  "_original_name": "Snow Union I",
+  "_original_lore": [
+    "Place this minion and it will start",
+    "generating and shoveling snow!",
+    "Requires an open area to place",
+    "snow. Minions also work when you are",
+    "offline!",
+    "",
+    "However, it seems like this minion is",
+    "on strike.",
+    "",
+    "Time Between Actions: FOREVER!",
+    "Max Storage: 64",
+    "Resources Generated: 0",
+    "",
+    "Obtained from the A Honk and Seek",
+    "Adventure event during April Fools.",
+    "",
+    "SPECIAL"
+  ],
+  "name": "雪地工会 I",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Place this minion and it will start",
+        "generating and shoveling snow!"
+      ],
+      "translation": "放置此仆从后,它就会开始生成并铲雪!",
+      "styleMappings": {
+        "minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "Requires an open area to place",
+        "snow. Minions also work when you are",
+        "offline!"
+      ],
+      "translation": "需要一片开阔区域来放置雪.仆从在你离线时也会工作!",
+      "styleMappings": {
+        "Minions": "仆从",
+        "Requires": "需要",
+        "work": "工作",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "However, it seems like this minion is",
+        "on strike."
+      ],
+      "translation": "不过,这个仆从似乎正在罢工.",
+      "styleMappings": {
+        "minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "Time Between Actions: FOREVER!"
+      ],
+      "translation": "行动间隔:永远!",
+      "styleMappings": {
+        "FOREVER!": "永远!"
+      }
+    },
+    {
+      "source": [
+        "Max Storage: {{N0}}"
+      ],
+      "translation": "最大存储:{{N0}}",
+      "styleMappings": {
+        "Max": "最大"
+      }
+    },
+    {
+      "source": [
+        "Resources Generated: {{N0}}"
+      ],
+      "translation": "产出资源:{{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Obtained from the A Honk and Seek",
+        "Adventure event during April Fools."
+      ],
+      "translation": "在愚人节期间的鸣笛寻宝冒险活动中获得.",
+      "styleMappings": {
+        "A Honk and Seek Adventure": "鸣笛寻宝冒险"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "I": "I"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

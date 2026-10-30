@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": "SNIPE;2",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Snipe II",
+    "Arrows deal +2% damage for",
+    "every 10 blocks travelled.",
+    "",
+    "Sources:",
+    " - Enchantment Table (I-III)",
+    " - Experiments (IV)",
+    " - Bazaar (IV)",
+    "",
+    "Applied To:",
+    " - Bow",
+    "",
+    "Requirements:",
+    " - Enchanting Level 6",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Snipe II"
+      ],
+      "translation": "狙击 II",
+      "styleMappings": {
+        "Snipe": "狙击",
+        "II": "II"
+      }
+    },
+    {
+      "source": [
+        "Arrows deal {{N0}} damage for",
+        "every {{N1}} blocks travelled."
+      ],
+      "translation": "箭矢每飞行 {{N1}} 格造成 {{N0}} 伤害.",
+      "styleMappings": {
+        "blocks": "格",
+        "damage": "伤害",
+        "deal": "造成"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchantment Table (I-III)",
+        " - Experiments (IV)",
+        " - Bazaar (IV)"
+      ],
+      "translation": " - 附魔台 (I-III)  - 实验 (IV)  - 集市 (IV)",
+      "styleMappings": {
+        "Enchantment Table": "附魔台",
+        "Experiments": "实验",
+        "Bazaar": "集市",
+        "I-III": "I-III",
+        "III": "III",
+        "Enchantment": "附魔"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Bow"
+      ],
+      "translation": " - 弓",
+      "styleMappings": {
+        "Bow": "弓"
+      }
+    },
+    {
+      "source": [
+        "Requirements:"
+      ],
+      "translation": "需求:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchanting Level {{N0}}"
+      ],
+      "translation": " - 附魔等级 {{N0}}",
+      "styleMappings": {
+        "Enchanting Level": "附魔等级"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

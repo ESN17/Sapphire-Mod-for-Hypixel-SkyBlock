@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "SPIDER_JOCKEY_MONSTER",
+  "_original_name": "Spider Jockey (Monster)",
+  "_original_lore": [
+    "The Skeletons have been",
+    "controlling Spiders since the",
+    "dawn of minekind.",
+    "",
+    "❤ Health: 280"
+  ],
+  "name": "蜘蛛骑士 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Skeletons have been",
+        "controlling Spiders since the",
+        "dawn of minekind."
+      ],
+      "translation": "自矿类诞生之初,骷髅便一直操控着蜘蛛.",
+      "styleMappings": {
+        "Spiders": "蜘蛛"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Spider": "蜘蛛",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

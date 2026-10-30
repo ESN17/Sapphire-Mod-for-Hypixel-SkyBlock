@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "PARK_CAVE_TRAVEL_SCROLL",
+  "_original_name": "Travel Scroll to Howling Cave",
+  "_original_lore": [
+    "Consume this item to add its",
+    "destination to your Fast Travel",
+    "options.",
+    "",
+    "Requires MVP+ to consume!",
+    "",
+    "Island: The Park",
+    "Teleport: Howling Cave",
+    "",
+    "EPIC TRAVEL SCROLL"
+  ],
+  "name": "嚎叫洞穴传送卷轴",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consume this item to add its",
+        "destination to your Fast Travel",
+        "options."
+      ],
+      "translation": "消耗此物品,将其目的地添加到你的快速旅行选项中.",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Requires MVP+ to consume!"
+      ],
+      "translation": "需要 尊贵贵宾+ 才能使用!",
+      "styleMappings": {
+        "MVP": "尊贵贵宾",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Island: The Park"
+      ],
+      "translation": "岛屿: 公园",
+      "styleMappings": {
+        "Island": "岛屿",
+        "The Park": "公园"
+      }
+    },
+    {
+      "source": [
+        "Teleport: Howling Cave"
+      ],
+      "translation": "传送: 嚎叫洞穴",
+      "styleMappings": {
+        "Howling Cave": "嚎叫洞穴",
+        "Teleport": "传送"
+      }
+    },
+    {
+      "source": [
+        "EPIC TRAVEL SCROLL"
+      ],
+      "translation": "史诗传送卷轴",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Howling Cave": "嚎叫洞穴"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

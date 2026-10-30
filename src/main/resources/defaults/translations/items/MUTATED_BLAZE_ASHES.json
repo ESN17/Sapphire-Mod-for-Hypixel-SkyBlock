@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "MUTATED_BLAZE_ASHES",
+  "_original_name": "Mutated Blaze Ashes",
+  "_original_lore": [
+    "Blazes are ephemeral creatures,",
+    "constantly consuming themselves.",
+    "Their ashes are said to bring good",
+    "fortune.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "RARE"
+  ],
+  "name": "变异烈焰灰烬",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Blazes are ephemeral creatures,",
+        "constantly consuming themselves."
+      ],
+      "translation": "烈焰人是转瞬即逝的生物, 不断消耗自身.",
+      "styleMappings": {
+        "Blazes": "烈焰人"
+      }
+    },
+    {
+      "source": [
+        "Their ashes are said to bring good",
+        "fortune."
+      ],
+      "translation": "据说它们的灰烬能带来好运.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Blaze": "烈焰"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

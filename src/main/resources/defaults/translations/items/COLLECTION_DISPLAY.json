@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "COLLECTION_DISPLAY",
+  "_original_name": "Collection Display",
+  "_original_lore": [
+    "Show off your collection progress!",
+    "",
+    "UNCOMMON COSMETIC"
+  ],
+  "name": "收藏展示",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Show off your collection progress!"
+      ],
+      "translation": "炫耀你的收藏进度!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "UNCOMMON COSMETIC"
+      ],
+      "translation": "罕见 外观",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Collection": "收藏"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

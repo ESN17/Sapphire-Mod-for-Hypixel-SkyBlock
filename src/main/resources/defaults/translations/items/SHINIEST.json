@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "SHINIEST",
+  "_original_name": "Shiniest",
+  "_original_lore": [
+    "Purchased from Agatha's Shop!",
+    "",
+    "Its vibrant green glow perfectly",
+    "matches the scales of the Jade",
+    "Dragon. A symbol of new beginnings",
+    "and unimaginable power.",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "最闪亮",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Purchased from Agatha's Shop!"
+      ],
+      "translation": "购自 Agatha 的商店!",
+      "styleMappings": {
+        "Agatha's Shop": "Agatha 的商店"
+      }
+    },
+    {
+      "source": [
+        "Its vibrant green glow perfectly",
+        "matches the scales of the Jade",
+        "Dragon. A symbol of new beginnings",
+        "and unimaginable power."
+      ],
+      "translation": "它那鲜艳的绿色光芒与翡翠龙的鳞片完美相配.象征着新的开始与难以想象的力量.",
+      "styleMappings": {
+        "Jade Dragon": "翡翠龙",
+        "Dragon": "龙",
+        "Jade": "翡翠"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

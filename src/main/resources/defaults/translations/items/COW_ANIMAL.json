@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "COW_ANIMAL",
+  "_original_name": "Cow (Animal)",
+  "_original_lore": [
+    "Cows are an animal in Hypixel Skyblock. Cows can",
+    "be found at the Barn and are required to unlock",
+    "the Leather Collection. Cows can also be spawned",
+    "with the use of a Cow Minion. ",
+    "",
+    "❤ Health: 50"
+  ],
+  "name": "牛 (动物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Cows are an animal in Hypixel Skyblock. Cows can",
+        "be found at the Barn and are required to unlock",
+        "the Leather Collection. Cows can also be spawned",
+        "with the use of a Cow Minion. "
+      ],
+      "translation": "牛是海像素空岛生存中的一种动物.牛可以在农庄找到,是解锁皮革收藏所必需的.牛也可以使用牛仆从生成. ",
+      "styleMappings": {
+        "Leather Collection": "皮革收藏",
+        "Cow Minion": "牛仆从",
+        "Barn": "农庄",
+        "Cows": "牛",
+        "Collection": "收藏",
+        "Leather": "皮革",
+        "Minion": "仆从",
+        "Hypixel": "海像素"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Animal": "动物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

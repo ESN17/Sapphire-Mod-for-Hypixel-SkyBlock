@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_ALCHEMY_XP_BOOST;3",
+  "_original_name": "Alchemy XP Boost III Potion",
+  "_original_lore": [
+    "",
+    "Alchemy XP Boost III (36:00)",
+    "Grants +20☯ Alchemy Wisdom.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "炼金经验加成 III 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Alchemy XP Boost III ({{N0}}:{{N1}})"
+      ],
+      "translation": "炼金经验加成 III ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Alchemy XP Boost III": "炼金经验加成 III",
+        "III": "III"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}☯ Alchemy Wisdom."
+      ],
+      "translation": "获得 {{N0}}☯ 炼金智慧.",
+      "styleMappings": {
+        "Alchemy Wisdom": "炼金智慧",
+        "Grants": "获得",
+        "Wisdom": "智慧"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Alchemy XP Boost III": "炼金经验加成 III",
+    "III": "III"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

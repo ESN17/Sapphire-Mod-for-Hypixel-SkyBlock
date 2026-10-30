@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "id": "PRISMARINE_BOW",
+  "_original_name": "Prismarine Bow",
+  "_original_lore": [
+    "Damage: +50",
+    "Strength: +25",
+    "",
+    "Ability: Arrow Infusion  ON SHOOT",
+    "Consumes Prismarine Shards in your",
+    "Inventory or Quiver which can harm",
+    "sea creatures and deal +300%",
+    "damage to Squids, Guardians and",
+    "Elder Guardians.",
+    "",
+    "This item can be reforged!",
+    "UNCOMMON BOW"
+  ],
+  "name": "海晶石弓",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Ability: Arrow Infusion  ON SHOOT"
+      ],
+      "translation": "技能: 箭矢灌注  射击时",
+      "styleMappings": {
+        "Ability: Arrow Infusion": "技能: 箭矢灌注",
+        "ON SHOOT": "射击时",
+        "Ability": "技能"
+      }
+    },
+    {
+      "source": [
+        "Consumes Prismarine Shards in your",
+        "Inventory or Quiver which can harm",
+        "sea creatures and deal {{N0}}",
+        "damage to Squids, Guardians and",
+        "Elder Guardians."
+      ],
+      "translation": "消耗你背包或箭袋中的海晶石碎片,可伤害海洋生物,并对鱿鱼、守卫者和远古守卫者造成 {{N0}} 伤害.",
+      "styleMappings": {
+        "Prismarine Shards": "海晶石碎片",
+        "Elder Guardians": "远古守卫者",
+        "Guardians": "守卫者",
+        "Inventory": "背包",
+        "Quiver": "箭袋",
+        "Squids": "鱿鱼",
+        "deal": "造成",
+        "damage": "伤害",
+        "Prismarine": "海晶石"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON BOW"
+      ],
+      "translation": "罕见 弓",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Prismarine Bow": "海晶石弓",
+    "Bow": "弓",
+    "Prismarine": "海晶石"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

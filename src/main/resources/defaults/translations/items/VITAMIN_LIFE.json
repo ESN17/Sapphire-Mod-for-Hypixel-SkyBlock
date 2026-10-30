@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "id": "VITAMIN_LIFE",
+  "_original_name": "Vitamin Life",
+  "_original_lore": [
+    "Power Stone",
+    "",
+    "Combine 99,999,999x of this stone at",
+    "Maxwell to permanently unlock the",
+    "Unhealthy power.",
+    "",
+    "At 250 Accessory Power:",
+    "-324 Health",
+    "",
+    "Unique Power Bonus:",
+    "-200 Health",
+    "",
+    "Requires Combat Skill Level MCCXII!",
+    "",
+    "Obtained from the A Honk and Seek",
+    "Adventure event during April Fools.",
+    "",
+    "SPECIAL POWER STONE"
+  ],
+  "name": "维生素生命",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Power Stone"
+      ],
+      "translation": "能量石",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Combine {{N0}}x of this stone at",
+        "Maxwell to permanently unlock the",
+        "Unhealthy power."
+      ],
+      "translation": "在 Maxwell 处组合 {{N0}} 个此石头,以永久解锁不健康能量.",
+      "styleMappings": {
+        "permanently": "永久",
+        "Unhealthy": "不健康",
+        "Maxwell": "Maxwell",
+        "power.": "能量.",
+        "{{N0}}x": "{{N0}} 个"
+      }
+    },
+    {
+      "source": [
+        "At {{N0}} Accessory Power:"
+      ],
+      "translation": "在 {{N0}} 饰品能量时:",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "{{N0}} Health"
+      ],
+      "translation": "{{N0}} 生命值",
+      "styleMappings": {
+        " Health": " 生命"
+      }
+    },
+    {
+      "source": [
+        "Unique Power Bonus:"
+      ],
+      "translation": "独特能量加成:",
+      "styleMappings": {
+        "Unique Power Bonus": "独特能量加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Requires Combat Skill Level MCCXII!"
+      ],
+      "translation": "需要战斗技能等级 MCCXII!",
+      "styleMappings": {
+        "Combat Skill Level MCCXII": "战斗技能等级 MCCXII",
+        "Requires": "需要",
+        "Combat Skill": "战斗技能",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "Obtained from the A Honk and Seek",
+        "Adventure event during April Fools."
+      ],
+      "translation": "在愚人节期间的鸣笛寻宝冒险活动中获得.",
+      "styleMappings": {
+        "A Honk and Seek Adventure": "鸣笛寻宝冒险"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL POWER STONE"
+      ],
+      "translation": "特殊能量石",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

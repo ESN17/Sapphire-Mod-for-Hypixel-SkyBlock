@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "id": "FROZEN_BAIT",
+  "_original_name": "Frozen Bait",
+  "_original_lore": [
+    "Fishing Bait",
+    "Consumes on Catch",
+    "",
+    "Grants +50 Fishing Speed.",
+    "Grants +8 Sea Creature Chance.",
+    "",
+    "Can only be used in Jerry's",
+    "Workshop.",
+    "",
+    "RARE BAIT"
+  ],
+  "name": "冰冻鱼饵",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Fishing Bait",
+        "Consumes on Catch"
+      ],
+      "translation": "钓鱼鱼饵 钓起时消耗",
+      "styleMappings": {
+        "Consumes on Catch": "钓起时消耗",
+        "Fishing Bait": "钓鱼鱼饵",
+        "Fishing": "钓鱼",
+        "Bait": "鱼饵"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Fishing Speed."
+      ],
+      "translation": "提供 {{N0}} 钓鱼速度.",
+      "styleMappings": {
+        "Fishing Speed": "钓鱼速度",
+        "Grants": "提供",
+        "Fishing": "钓鱼",
+        "Speed": "速度",
+        " Fishing Speed": " 钓鱼速度"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Sea Creature Chance."
+      ],
+      "translation": "提供 {{N0}} 海怪概率.",
+      "styleMappings": {
+        "Sea Creature Chance": "海怪概率",
+        "Grants": "提供",
+        "Sea Creature": "海怪"
+      }
+    },
+    {
+      "source": [
+        "Can only be used in Jerry's",
+        "Workshop."
+      ],
+      "translation": "只能在杰瑞的工坊使用.",
+      "styleMappings": {
+        "Jerry's Workshop": "杰瑞的工坊",
+        "Jerry": "杰瑞"
+      }
+    },
+    {
+      "source": [
+        "RARE BAIT"
+      ],
+      "translation": "稀有 鱼饵",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Frozen": "冰冻",
+    "Bait": "鱼饵"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

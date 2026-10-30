@@ -1,0 +1,214 @@
+{
+  "schemaVersion": 1,
+  "id": "LION;4",
+  "_original_name": "[Lvl {LVL}] Lion",
+  "_original_lore": [
+    "Foraging Pet",
+    "",
+    "Strength: +{STRENGTH}",
+    "Ferocity: +{FEROCITY}",
+    "Speed: +{SPEED}",
+    "",
+    "Primal Force",
+    "Adds +{0}  Damage and +{1} ",
+    "Strength to your weapons.",
+    "",
+    "First Pounce",
+    "First Strike, Triple-Strike, and",
+    "Combo are {2}% more effective.",
+    "",
+    "King of the Jungle",
+    "Deal +{3}%  Damage against mobs",
+    "that have attacked you.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "LEGENDARY PET"
+  ],
+  "name": "[等级 {LVL}] 狮子",
+  "lore": {
+    "Foraging Pet": "采伐宠物",
+    "Strength: {value}": "力量:{value}",
+    "Ferocity: {value}": "残暴值:{value}",
+    "Speed: {value}": "速度:{value}",
+    "Primal Force": "原始之力",
+    "First Pounce": "先发猛扑",
+    "King of the Jungle": "丛林之王",
+    "Right-click to add this pet to your pet menu!": "右键将此宠物添加到宠物菜单!",
+    "LEGENDARY PET": "传说宠物",
+    "Strength: {value} ({bonus})": "力量:{value} ({bonus})",
+    "Speed: {value} ({bonus})": "速度:{value} ({bonus})",
+    "Ferocity: {value} ({bonus})": "残暴值:{value} ({bonus})"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "Adds {damage}  Damage and {strength} ",
+        "Strength to your weapons."
+      ],
+      "translation": "为你的武器增加 {damage}  伤害和 {strength}  力量.",
+      "styleMappings": {
+        "Strength": "力量",
+        "Damage": "伤害",
+        " Strength": " 力量",
+        " Damage": " 伤害",
+        "damage": "伤害",
+        "strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "First Strike, Triple-Strike, and",
+        "Combo are {bonus} more effective."
+      ],
+      "translation": "一次打击,三重打击和连击的效果提高 {bonus}.",
+      "styleMappings": {
+        "First Strike": "一次打击",
+        "Triple-Strike": "三重打击",
+        "Combo": "连击"
+      }
+    },
+    {
+      "source": [
+        "Deal {damage}  Damage against mobs",
+        "that have attacked you."
+      ],
+      "translation": "对攻击过你的怪物造成 {damage}  伤害.",
+      "styleMappings": {
+        "Damage": "伤害",
+        " Damage": " 伤害",
+        "mobs": "怪物",
+        "damage": "伤害",
+        "Deal": "造成"
+      }
+    },
+    {
+      "source": [
+        "Foraging Pet"
+      ],
+      "translation": "采伐宠物",
+      "styleMappings": {
+        "Foraging Pet": "采伐宠物",
+        "Pet": "宠物",
+        "Foraging": "采伐"
+      }
+    },
+    {
+      "source": [
+        "Strength: +{{N0}}"
+      ],
+      "translation": "力量: +{{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Ferocity: +{{N0}}"
+      ],
+      "translation": "残暴值: +{{N0}}",
+      "styleMappings": {
+        "Ferocity": "残暴值"
+      }
+    },
+    {
+      "source": [
+        "Speed: +{{N0}}"
+      ],
+      "translation": "速度: +{{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Primal Force"
+      ],
+      "translation": "原始之力",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Adds +{{N0}}  Damage and +{{N1}} ",
+        "Strength to your weapons."
+      ],
+      "translation": "为你的武器增加 +{{N0}}  伤害和 +{{N1}}  力量.",
+      "styleMappings": {
+        " Strength": " 力量",
+        " Damage": " 伤害",
+        "Strength": "力量",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "First Pounce"
+      ],
+      "translation": "先发猛扑",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "First Strike, Triple-Strike, and",
+        "Combo are {{N0}}% more effective."
+      ],
+      "translation": "一次打击,三重打击和连击的效果提高 {{N0}}%.",
+      "styleMappings": {
+        "First Strike": "一次打击",
+        "Triple-Strike": "三重打击",
+        "Combo": "连击"
+      }
+    },
+    {
+      "source": [
+        "King of the Jungle"
+      ],
+      "translation": "丛林之王",
+      "styleMappings": {
+        "Jungle": "丛林"
+      }
+    },
+    {
+      "source": [
+        "Deal +{{N0}}%  Damage against mobs",
+        "that have attacked you."
+      ],
+      "translation": "对攻击过你的怪物造成 +{{N0}}%  伤害.",
+      "styleMappings": {
+        " Damage": " 伤害",
+        "mobs": "怪物",
+        "Damage": "伤害",
+        "Deal": "造成"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY PET"
+      ],
+      "translation": "传说 宠物",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Strength": "力量",
+    "Ferocity": "残暴值",
+    "Speed": "速度",
+    "Damage": "伤害",
+    "Combo": "连击",
+    "Lion": "狮子",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

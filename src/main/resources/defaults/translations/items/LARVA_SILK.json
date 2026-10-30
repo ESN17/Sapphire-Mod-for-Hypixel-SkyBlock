@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "LARVA_SILK",
+  "_original_name": "Larva Silk",
+  "_original_lore": [
+    "Click two ledge blocks with this item",
+    "to setup a Silkwire.",
+    "",
+    "May the larvas which died for it rest",
+    "in pieces.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "幼虫丝",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Click two ledge blocks with this item",
+        "to setup a Silkwire."
+      ],
+      "translation": "用此物品点击两个边缘方块以架设丝线.",
+      "styleMappings": {
+        "Silkwire": "丝线",
+        "blocks": "方块",
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "May the larvas which died for it rest",
+        "in pieces."
+      ],
+      "translation": "愿为此而死的幼虫安息.",
+      "styleMappings": {
+        "larvas": "幼虫"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Larva Silk": "幼虫丝"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

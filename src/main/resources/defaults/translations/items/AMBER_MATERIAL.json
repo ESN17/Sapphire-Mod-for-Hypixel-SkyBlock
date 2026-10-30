@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "id": "AMBER_MATERIAL",
+  "_original_name": "Amber Material",
+  "_original_lore": [
+    "Reforge Stone",
+    "Combinable in Anvil",
+    "",
+    "Applies the Ambered reforge when",
+    "combined with a Mining Tool.",
+    "",
+    "Put a bunch of Amber together and",
+    "it'll make more Amber - Throin the",
+    "Forger.",
+    "",
+    "Grants the following stats that scale",
+    "with the item's rarity:",
+    "  Mining Speed",
+    "",
+    "Ambered Bonus",
+    "Find Goblins from mining 40% more",
+    "often.",
+    "",
+    "Right-click to view rarity scaling!",
+    "",
+    "❣ Requires Mining Skill 30.",
+    "",
+    "EPIC REFORGE STONE"
+  ],
+  "name": "琥珀材料",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Reforge Stone",
+        "Combinable in Anvil"
+      ],
+      "translation": "洗练石 可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Reforge Stone": "洗练石",
+        "Anvil": "铁砧",
+        "Reforge": "洗练"
+      }
+    },
+    {
+      "source": [
+        "Applies the Ambered reforge when",
+        "combined with a Mining Tool."
+      ],
+      "translation": "与采矿工具合成时,应用琥珀洗练.",
+      "styleMappings": {
+        "Mining Tool": "采矿工具",
+        "Ambered": "琥珀",
+        "reforge": "洗练",
+        "Mining": "采矿",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Put a bunch of Amber together and",
+        "it'll make more Amber - Throin the",
+        "Forger."
+      ],
+      "translation": "把一堆琥珀放在一起,它就会变成更多琥珀 - 锻造师斯罗因.",
+      "styleMappings": {
+        "Amber": "琥珀",
+        "more": "更多"
+      }
+    },
+    {
+      "source": [
+        "Grants the following stats that scale"
+      ],
+      "translation": "提供以下随物品稀有度提升的属性:",
+      "styleMappings": {
+        "Grants": "提供",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "with the item's rarity:"
+      ],
+      "translation": "物品稀有度提升的属性:",
+      "styleMappings": {
+        "item": "物品",
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "  Mining Speed"
+      ],
+      "translation": "    采矿速度",
+      "styleMappings": {
+        "Mining Speed": "采矿速度",
+        "Mining": "采矿",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Ambered Bonus",
+        "Find Goblins from mining {{N0}} more",
+        "often."
+      ],
+      "translation": "琥珀加成 采矿时找到哥布林的频率提高 {{N0}}.",
+      "styleMappings": {
+        "Ambered Bonus": "琥珀加成",
+        "Goblins": "哥布林",
+        "Ambered": "琥珀",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view rarity scaling!"
+      ],
+      "translation": "右键查看各稀有度的属性!",
+      "styleMappings": {
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Mining Skill {{N0}}."
+      ],
+      "translation": "❣ 需要采矿技能 {{N0}}.",
+      "styleMappings": {
+        "Mining Skill": "采矿技能",
+        "Requires": "需要",
+        "Mining": "采矿",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC REFORGE STONE"
+      ],
+      "translation": "史诗洗练石",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Amber": "琥珀"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

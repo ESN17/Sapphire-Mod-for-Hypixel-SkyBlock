@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": "EDIBLE_MACE",
+  "_original_name": "Edible Mace",
+  "_original_lore": [
+    "Damage: +125",
+    "Strength: +25",
+    "",
+    "Ability: ME SMASH HEAD  RIGHT CLICK",
+    "Your next attack deals double damage and",
+    "weakens  Animal mobs, making them deal -35%",
+    "damage for 30 seconds.",
+    "Debuff doesn't stack.",
+    "Mana Cost: 100",
+    "",
+    "This item can be reforged!",
+    "☠ Requires Wolf Slayer 5.",
+    "RARE SWORD"
+  ],
+  "name": "可食用钉头锤",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Ability: ME SMASH HEAD  RIGHT CLICK"
+      ],
+      "translation": "技能:我砸头  右键点击",
+      "styleMappings": {
+        "ME SMASH HEAD": "我砸头",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Your next attack deals double damage and",
+        "weakens  Animal mobs, making them deal {{N0}}",
+        "damage for {{N1}} seconds."
+      ],
+      "translation": "你的下一次攻击造成双倍伤害,并削弱  动物类怪物,使其在 {{N1}} 秒内造成 {{N0}} 伤害.",
+      "styleMappings": {
+        "double damage": "双倍伤害",
+        "seconds": "秒",
+        "Animal": "动物",
+        "damage": "伤害",
+        "mobs": "怪物",
+        "deal": "造成",
+        "double": "双倍",
+        " Animal": " 动物",
+        "making": "使其"
+      }
+    },
+    {
+      "source": [
+        "Debuff doesn't stack."
+      ],
+      "translation": "减益效果不叠加.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Wolf Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要狼杀手 {{N0}}.",
+      "styleMappings": {
+        "Wolf Slayer": "狼杀手",
+        "Requires": "需要",
+        "Slayer": "杀手",
+        "Wolf": "狼"
+      }
+    },
+    {
+      "source": [
+        "RARE SWORD"
+      ],
+      "translation": "稀有剑",
+      "styleMappings": {
+        "RARE": "稀有",
+        "RARE SWORD": "稀有剑"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

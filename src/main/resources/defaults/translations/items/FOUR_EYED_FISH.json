@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "FOUR_EYED_FISH",
+  "_original_name": "Four-Eyed Fish",
+  "_original_lore": [
+    "Consumed on use",
+    "",
+    "This pet item may only be used on a",
+    "Griffin pet.",
+    "",
+    "Gain +2,000 coins when digging up",
+    "any Griffin Burrow.",
+    "",
+    "Grants +13 Magic Find and +55",
+    "Defense.",
+    "",
+    "Right-click on your summoned pet to",
+    "give it this item!",
+    "",
+    "EPIC PET ITEM"
+  ],
+  "name": "四眼鱼",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumed on use"
+      ],
+      "translation": "使用后消耗",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "This pet item may only be used on a",
+        "Griffin pet."
+      ],
+      "translation": "此宠物物品只能用于狮鹫宠物.",
+      "styleMappings": {
+        "Griffin": "狮鹫",
+        "item": "物品",
+        "pet": "宠物",
+        "pet item": "宠物物品"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}} coins when digging up",
+        "any Griffin Burrow."
+      ],
+      "translation": "挖掘任何狮鹫巢穴时获得 {{N0}} 硬币.",
+      "styleMappings": {
+        "Griffin Burrow": "狮鹫巢穴",
+        "coins": "硬币",
+        "Gain": "获得",
+        "Griffin": "狮鹫",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Magic Find and {{N1}}",
+        "Defense."
+      ],
+      "translation": "提供 {{N0}} 稀有物品概率加成和 {{N1}} 防御.",
+      "styleMappings": {
+        " Magic Find": " 稀有物品概率加成",
+        " Defense": " 防御",
+        "Grants": "提供",
+        "Defense": "防御",
+        "Magic Find": "稀有物品概率加成"
+      }
+    },
+    {
+      "source": [
+        "Right-click on your summoned pet to"
+      ],
+      "translation": "右键点击你召唤的宠物以",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "give it this item!"
+      ],
+      "translation": "给予它此物品!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "EPIC PET ITEM"
+      ],
+      "translation": "史诗 宠物 物品",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Four-Eyed Fish": "四眼鱼",
+    "Fish": "鱼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

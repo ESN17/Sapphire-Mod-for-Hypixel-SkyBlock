@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "id": "HOLY_ICE",
+  "_original_name": "Holy Ice",
+  "_original_lore": [
+    "Ability: Splash Yo Face  RIGHT CLICK",
+    "For the next 1.5s, reduce ❤ damage taken by",
+    "80%.",
+    "Mana Cost: 20",
+    "Cooldown: 4s",
+    "",
+    "☠ Requires Vampire Slayer 1.",
+    "RARE"
+  ],
+  "name": "圣冰",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Splash Yo Face  RIGHT CLICK"
+      ],
+      "translation": "技能: 水花溅脸  右键点击",
+      "styleMappings": {
+        "Splash Yo Face": "水花溅脸",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "For the next {{N0}}s, reduce ❤ damage taken by",
+        "{{N1}}."
+      ],
+      "translation": "在接下来的 {{N0}} 秒内,减少 {{N1}} 点 ❤ 伤害.",
+      "styleMappings": {
+        "damage": "伤害",
+        "{{N0}}s": "{{N0}} 秒"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Vampire Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要吸血鬼杀手 {{N0}}.",
+      "styleMappings": {
+        "Vampire Slayer": "吸血鬼杀手",
+        "Requires": "需要",
+        "Slayer": "杀手",
+        "Vampire": "吸血鬼"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Ice": "冰"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

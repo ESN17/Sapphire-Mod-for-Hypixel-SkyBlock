@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "AMBER_CRYSTAL",
+  "_original_name": "Amber Crystal",
+  "_original_lore": [
+    "Energetic crystal found deep in the",
+    "Crystal Hollows.",
+    "",
+    "Some say that it can be infused with",
+    "gemstones, and it is rumored to",
+    "unlock treasure.",
+    "",
+    "SPECIAL"
+  ],
+  "name": "琥珀水晶",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Energetic crystal found deep in the",
+        "Crystal Hollows."
+      ],
+      "translation": "在水晶洞窟深处发现的高能水晶.",
+      "styleMappings": {
+        "Crystal Hollows": "水晶洞窟",
+        "Crystal": "水晶",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Some say that it can be infused with",
+        "gemstones, and it is rumored to",
+        "unlock treasure."
+      ],
+      "translation": "有人说它可以注入宝石,据传还能解锁宝藏.",
+      "styleMappings": {
+        "gemstones": "宝石",
+        "treasure": "宝藏"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Amber": "琥珀",
+    "Crystal": "水晶"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

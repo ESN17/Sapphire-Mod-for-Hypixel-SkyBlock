@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "SCRIBE_MONSTER",
+  "_original_name": "Scribe (Monster)",
+  "_original_lore": [
+    "❤ Health: 130"
+  ],
+  "name": "抄写员 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Scribe (Monster)": "抄写员 (怪物)",
+    "(Monster)": "(怪物)",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_FISHING_XP_BOOST;2",
+  "_original_name": "Fishing XP Boost II Potion",
+  "_original_lore": [
+    "",
+    "Fishing XP Boost II (24:00)",
+    "Grants +10☯ Fishing Wisdom.",
+    "",
+    "COMMON"
+  ],
+  "name": "钓鱼经验加成 II 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Fishing XP Boost II ({{N0}}:{{N1}})"
+      ],
+      "translation": "钓鱼经验加成 II ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Fishing XP Boost II": "钓鱼经验加成 II",
+        "II": "II",
+        "Fishing": "钓鱼",
+        "Fishing XP": "钓鱼经验"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}☯ Fishing Wisdom."
+      ],
+      "translation": "获得 {{N0}}☯ 钓鱼智慧.",
+      "styleMappings": {
+        "Fishing Wisdom": "钓鱼智慧",
+        "Grants": "获得",
+        "Fishing": "钓鱼",
+        "Wisdom": "智慧"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fishing XP Boost II": "钓鱼经验加成 II",
+    "II": "II",
+    "Fishing": "钓鱼",
+    "Fishing XP": "钓鱼经验"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

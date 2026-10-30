@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "id": "WITHER_SHIELD_SCROLL",
+  "_original_name": "Wither Shield",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Applies the Wither Shield Ability when",
+    "combined with a Necron's Blade",
+    "variant.",
+    "",
+    "Ability: Wither Shield  RIGHT CLICK",
+    "Reduces damage taken by 10% for 5",
+    "seconds. Also grants an absorption",
+    "shield that scales based on your",
+    "Catacombs Level.",
+    "Mana Cost: 150",
+    "Vitality Cost: 50",
+    "Cooldown: 10s",
+    "",
+    "EPIC DUNGEON ABILITY SCROLL"
+  ],
+  "name": "凋零护盾",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Applies the Wither Shield Ability when",
+        "combined with a Necron's Blade",
+        "variant."
+      ],
+      "translation": "与奈克隆之刃变体结合时施加凋零护盾能力.",
+      "styleMappings": {
+        "Wither Shield Ability": "凋零护盾能力",
+        "Necron's Blade": "奈克隆之刃",
+        "Ability": "能力",
+        "Wither": "凋零",
+        "Necron": "奈克隆",
+        "when": "时",
+        "Necron's": "奈克隆",
+        "Wither Shield": "凋零护盾"
+      }
+    },
+    {
+      "source": [
+        "Ability: Wither Shield  RIGHT CLICK"
+      ],
+      "translation": "能力: 凋零护盾  右键点击",
+      "styleMappings": {
+        "Wither Shield": "凋零护盾",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "能力",
+        "Wither": "凋零",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Reduces damage taken by {{N0}} for {{N1}}",
+        "seconds. Also grants an absorption",
+        "shield that scales based on your",
+        "Catacombs Level."
+      ],
+      "translation": "在 {{N1}} 秒内减少 {{N0}} 受到的伤害.还会根据你的地牢等级提供吸收护盾.",
+      "styleMappings": {
+        "Catacombs Level": "地牢等级",
+        "seconds": "秒",
+        "damage": "伤害",
+        "Catacombs": "地牢"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "Vitality Cost: {{N0}}"
+      ],
+      "translation": "活力消耗:{{N0}}",
+      "styleMappings": {
+        "Vitality": "活力"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "EPIC DUNGEON ABILITY SCROLL"
+      ],
+      "translation": "史诗地牢能力卷轴",
+      "styleMappings": {
+        "EPIC DUNGEON ABILITY SCROLL": "史诗地牢能力卷轴",
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Wither Shield": "凋零护盾",
+    "Wither": "凋零"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

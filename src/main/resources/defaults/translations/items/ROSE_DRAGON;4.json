@@ -1,0 +1,211 @@
+{
+  "schemaVersion": 1,
+  "id": "ROSE_DRAGON;4",
+  "_original_name": "[Lvl {LVL}] Rose Dragon",
+  "_original_lore": [
+    "Farming Pet",
+    "",
+    "Speed: +{SPEED}",
+    "Farming Fortune: +{FARMING_FORTUNE}",
+    "",
+    "Garden Power",
+    "Grants +{0} Farming Fortune per",
+    "Farming level.",
+    "",
+    "Rosy Scales",
+    "Grants +{1} Farming Fortune and",
+    "+{2} Speed per Crop Milestone.",
+    "",
+    "Dragon's Gluttony",
+    "Grants +{3} Overbloom.",
+    "",
+    "Spiritual Perfection",
+    "Gain {4}% more Copper from Garden",
+    "Visitors and from analyzing Mutations.",
+    "",
+    "Symbiosis",
+    "If you own a level 200 Rose Dragon,",
+    "grants +3 Farming Fortune for",
+    "every other unique maxed Farming",
+    "Pet that you own.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "LEGENDARY PET"
+  ],
+  "name": "[等级 {LVL}] 玫瑰龙",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Farming Pet"
+      ],
+      "translation": "耕作宠物",
+      "styleMappings": {
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Speed: +{{N0}}"
+      ],
+      "translation": "速度: +{{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Farming Fortune: +{{N0}}"
+      ],
+      "translation": "农业幸运: +{{N0}}",
+      "styleMappings": {
+        "Farming Fortune": "农业幸运",
+        "Fortune": "幸运",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "Garden Power"
+      ],
+      "translation": "花园之力",
+      "styleMappings": {
+        "Garden": "花园"
+      }
+    },
+    {
+      "source": [
+        "Grants +{{N0}} Farming Fortune per",
+        "Farming level."
+      ],
+      "translation": "每级农业技能等级提供 +{{N0}} 农业幸运.",
+      "styleMappings": {
+        "Farming Fortune": "农业幸运",
+        "Farming": "农业",
+        "Grants": "提供",
+        "Fortune": "幸运",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Rosy Scales"
+      ],
+      "translation": "玫瑰鳞片",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants +{{N0}} Farming Fortune and",
+        "+{{N1}} Speed per Crop Milestone."
+      ],
+      "translation": "每个作物里程碑提供 +{{N0}} 农业幸运和 +{{N1}} 速度.",
+      "styleMappings": {
+        "Farming Fortune": "农业幸运",
+        "Crop Milestone": "作物里程碑",
+        " Speed": " 速度",
+        "Grants": "提供",
+        "Speed": "速度",
+        "Fortune": "幸运",
+        "Crop": "作物",
+        "Farming": "农业",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Dragon's Gluttony"
+      ],
+      "translation": "巨龙暴食",
+      "styleMappings": {
+        "Dragon": "龙"
+      }
+    },
+    {
+      "source": [
+        "Grants +{{N0}} Overbloom."
+      ],
+      "translation": "提供 +{{N0}} 稀有作物概率加成.",
+      "styleMappings": {
+        "Grants": "提供",
+        "Overbloom": "稀有作物概率加成"
+      }
+    },
+    {
+      "source": [
+        "Spiritual Perfection"
+      ],
+      "translation": "灵性完美",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Gain {{N0}}% more Copper from Garden",
+        "Visitors and from analyzing Mutations."
+      ],
+      "translation": "从花园访客处以及分析突变中获得 {{N0}}% 更多铜.",
+      "styleMappings": {
+        "Garden Visitors": "花园访客",
+        "Mutations": "突变",
+        "Copper": "铜",
+        "more": "更多",
+        "Gain": "获得",
+        "Garden": "花园",
+        "Visitors": "访客"
+      }
+    },
+    {
+      "source": [
+        "Symbiosis"
+      ],
+      "translation": "共生",
+      "styleMappings": {
+        "Symbiosis": "共生"
+      }
+    },
+    {
+      "source": [
+        "If you own a level {{N0}} Rose Dragon,",
+        "grants {{N1}} Farming Fortune for",
+        "every other unique maxed Farming",
+        "Pet that you own."
+      ],
+      "translation": "如果你拥有一只 {{N0}} 级玫瑰龙,则每拥有一只其他独特的满级农业宠物,就提供 {{N1}} 农业幸运.",
+      "styleMappings": {
+        "Farming Fortune": "农业幸运",
+        "Farming Pet": "农业宠物",
+        "Rose Dragon": "玫瑰龙",
+        "unique": "独特",
+        "Dragon": "龙",
+        "Pet": "宠物",
+        "Fortune": "幸运",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY PET"
+      ],
+      "translation": "传说 宠物",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Rose Dragon": "玫瑰龙",
+    "Lvl": "等级",
+    "Dragon": "龙"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

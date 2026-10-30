@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "KINDLEHEART_DEMON_MINIBOSS",
+  "_original_name": "Kindleheart Demon (Miniboss)",
+  "_original_lore": [
+    "The Kindleheart Demon is a Inferno Demonlord",
+    "Miniboss that very rarely spawns after killing a",
+    "Blaze during Inferno Demonlord Tier IV Quests.",
+    "",
+    "❤ Health: 17,500,000"
+  ],
+  "name": "燃心恶魔 (小头目)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Kindleheart Demon is a Inferno Demonlord",
+        "Miniboss that very rarely spawns after killing a",
+        "Blaze during Inferno Demonlord Tier IV Quests."
+      ],
+      "translation": "燃心恶魔是地狱恶魔领主小首领,在地狱恶魔领主 IV 阶任务中击杀烈焰人后有极低概率生成.",
+      "styleMappings": {
+        "Miniboss": "小首领"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Miniboss": "小头目",
+    "(Miniboss)": "(小头目)"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

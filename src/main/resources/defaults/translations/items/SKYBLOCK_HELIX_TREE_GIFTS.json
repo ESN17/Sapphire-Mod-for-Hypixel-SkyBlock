@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "SKYBLOCK_HELIX_TREE_GIFTS",
+  "_original_name": "Helix Tree Gifts",
+  "_original_lore": [
+    "Used for NEU Recipes",
+    "",
+    "a SPECIAL a"
+  ],
+  "name": "螺旋树礼物",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Used for NEU Recipes"
+      ],
+      "translation": "用于物品百科配方",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "a SPECIAL a"
+      ],
+      "translation": "一个 特殊 一个",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Gifts": "礼物",
+    "Tree": "树"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

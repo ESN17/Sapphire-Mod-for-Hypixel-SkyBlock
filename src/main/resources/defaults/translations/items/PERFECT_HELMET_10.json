@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "id": "PERFECT_HELMET_10",
+  "_original_name": "Perfect Helmet - Tier X",
+  "_original_lore": [
+    "Defense: +290",
+    "Gemstones: [] [] []",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "This item can be reforged!",
+    "LEGENDARY HELMET"
+  ],
+  "name": "完美头盔 - 阶级 X",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [] [] []"
+      ],
+      "translation": "宝石: [] [] []",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石",
+        "] [": "] ["
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY HELMET"
+      ],
+      "translation": "传说 头盔",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Perfect Helmet": "完美头盔",
+    "Helmet": "头盔",
+    "Perfect": "完美"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

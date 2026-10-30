@@ -1,0 +1,198 @@
+{
+  "schemaVersion": 1,
+  "id": "SOS_FLARE",
+  "_original_name": "SOS Flare",
+  "_original_lore": [
+    "Ability: Deploy  RIGHT CLICK",
+    "Shoot the flare up in the sky for 3m",
+    "buffing up to 8 players within 40",
+    "blocks.",
+    "Vitality Cost: 10",
+    "Mana Cost: 250",
+    "Cooldown: 10s",
+    "",
+    "Flare Buff: SOS Flare",
+    "• Grants +125% base mana regen.",
+    "• Gain +25 Vitality.",
+    "• Gain +30 True Defense.",
+    "• Heal 50❤ per second while on the",
+    "Crimson Isle and Kuudra.",
+    "• Gain +10 Ferocity.",
+    "• Gain +5 Attack Speed.",
+    "",
+    "Only one deployable buff applies.",
+    "",
+    "☠ Requires Blaze Slayer 7.",
+    "EPIC DEPLOYABLE"
+  ],
+  "name": "紧急求救信号弹",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Deploy  RIGHT CLICK"
+      ],
+      "translation": "技能: 部署  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Shoot the flare up in the sky for {{N0}}m",
+        "buffing up to {{N1}} players within {{N2}}",
+        "blocks."
+      ],
+      "translation": "向天空发射信号弹,持续 {{N0}} 分钟,为 {{N2}} 格内的至多 {{N1}} 名玩家提供增益.",
+      "styleMappings": {
+        "blocks": "格",
+        "for": "持续",
+        "{{N0}}m": "{{N0}} 分钟",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Vitality Cost: {{N0}}"
+      ],
+      "translation": "活力消耗:{{N0}}",
+      "styleMappings": {
+        "Vitality": "活力"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "Flare Buff: SOS Flare"
+      ],
+      "translation": "信号弹增益: 紧急求救信号弹",
+      "styleMappings": {
+        "Flare Buff: SOS Flare": "信号弹增益: 紧急求救信号弹",
+        "Flare Buff": "信号弹增益"
+      }
+    },
+    {
+      "source": [
+        "• Grants {{N0}} base mana regen."
+      ],
+      "translation": "• 提供 {{N0}} 基础法力回复.",
+      "styleMappings": {
+        "base mana regen.": "基础法力回复.",
+        "Grants": "提供",
+        "mana": "法力"
+      }
+    },
+    {
+      "source": [
+        "• Gain {{N0}} Vitality."
+      ],
+      "translation": "• 获得 {{N0}} 生命.",
+      "styleMappings": {
+        "Vitality.": "生命.",
+        "Gain": "获得",
+        "Vitality": "生命"
+      }
+    },
+    {
+      "source": [
+        "• Gain {{N0}} True Defense."
+      ],
+      "translation": "• 获得 {{N0}} 真实防御.",
+      "styleMappings": {
+        "True Defense": "真实防御",
+        "Gain": "获得",
+        "Defense": "防御",
+        "True": "真实"
+      }
+    },
+    {
+      "source": [
+        "• Heal {{N0}}❤ per second while on the",
+        "Crimson Isle and Kuudra."
+      ],
+      "translation": "• 在绯红之岛和库德拉上时每秒恢复 {{N0}}❤.",
+      "styleMappings": {
+        "Crimson Isle": "绯红之岛",
+        "per second": "每秒",
+        "Kuudra": "库德拉",
+        "Heal": "恢复",
+        "second": "秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "• Gain {{N0}} Ferocity."
+      ],
+      "translation": "• 获得 {{N0}} 残暴值.",
+      "styleMappings": {
+        "Gain": "获得",
+        "Ferocity": "残暴值"
+      }
+    },
+    {
+      "source": [
+        "• Gain {{N0}} Attack Speed."
+      ],
+      "translation": "• 获得 {{N0}} 攻击速度.",
+      "styleMappings": {
+        " Attack Speed": " 攻击速度",
+        "Gain": "获得",
+        "Attack Speed": "攻击速度",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Only one deployable buff applies."
+      ],
+      "translation": "部署类增益同时只能生效一种.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "☠ Requires Blaze Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要 烈焰人杀手 {{N0}}.",
+      "styleMappings": {
+        "Blaze Slayer": "烈焰人杀手",
+        "Requires": "需要",
+        "Slayer": "杀手"
+      }
+    },
+    {
+      "source": [
+        "EPIC DEPLOYABLE"
+      ],
+      "translation": "史诗 部署物",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

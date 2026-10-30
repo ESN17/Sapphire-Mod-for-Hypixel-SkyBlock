@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "BEE_SALIVA",
+  "_original_name": "Bee Saliva",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Consume this item to permanently",
+    "gain +1 Foraging Fortune.",
+    "",
+    "You can only consume 5 of this item",
+    "before the scratching at the back",
+    "of your throat becomes too much to",
+    "ignore.",
+    "",
+    "Right-click to consume!",
+    "",
+    "EPIC"
+  ],
+  "name": "蜜蜂唾液",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Consume this item to permanently",
+        "gain {{N0}} Foraging Fortune."
+      ],
+      "translation": "消耗此物品以永久获得 {{N0}} 采伐幸运.",
+      "styleMappings": {
+        " Foraging Fortune": " 采伐幸运",
+        "permanently": "永久",
+        "item": "物品",
+        "Fortune": "幸运",
+        "Foraging": "采伐",
+        "Foraging Fortune": "采伐幸运",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "You can only consume {{N0}} of this item",
+        "before the scratching at the back",
+        "of your throat becomes too much to",
+        "ignore."
+      ],
+      "translation": "你最多只能消耗 {{N0}} 个此物品,之后喉咙深处的瘙痒将变得难以忽视.",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Bee": "蜜蜂"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

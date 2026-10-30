@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "LUDLETH_NPC",
+  "_original_name": "Ludleth (NPC)",
+  "_original_lore": [
+    "Only appears after completing their",
+    "offer in The Garden.",
+    "",
+    "Garden Requirements:",
+    "- Garden XV (15)",
+    "- 100 Visitors served"
+  ],
+  "name": "Ludleth (人物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Only appears after completing their",
+        "offer in The Garden."
+      ],
+      "translation": "仅在完成其在花园的委托后出现.",
+      "styleMappings": {
+        "The Garden": "花园",
+        "Garden": "花园"
+      }
+    },
+    {
+      "source": [
+        "Garden Requirements:"
+      ],
+      "translation": "花园要求:",
+      "styleMappings": {
+        "Garden": "花园"
+      }
+    },
+    {
+      "source": [
+        "- Garden XV ({{N0}})",
+        "- {{N1}} Visitors served"
+      ],
+      "translation": "- 花园 XV ({{N0}}) - 已服务 {{N1}} 位访客",
+      "styleMappings": {
+        "Visitors served": "已服务",
+        "Garden XV": "花园 XV",
+        "Garden": "花园",
+        "Visitors": "访客"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(NPC)": "(人物)"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

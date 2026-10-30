@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "STONE_SWORD",
+  "_original_name": "Stone Sword",
+  "_original_lore": [
+    "Damage: +25",
+    "",
+    "This item can be reforged!",
+    "COMMON SWORD"
+  ],
+  "name": "石剑",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "COMMON SWORD"
+      ],
+      "translation": "普通剑",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sword": "剑"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

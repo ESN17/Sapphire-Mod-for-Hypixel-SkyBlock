@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "COLOSSAL_EXP_BOTTLE_UPGRADE",
+  "_original_name": "Colossal Experience Bottle Upgrade",
+  "_original_lore": [
+    "Craft with a Titanic Experience Bottle",
+    "to double the experience it contains.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "SPECIAL"
+  ],
+  "name": "巨型经验瓶升级",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Craft with a Titanic Experience Bottle",
+        "to double the experience it contains."
+      ],
+      "translation": "与巨型经验瓶一起合成,使其包含的经验翻倍.",
+      "styleMappings": {
+        "Titanic Experience Bottle": "巨型经验瓶",
+        "double": "翻倍",
+        "Experience": "经验"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Experience": "经验"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

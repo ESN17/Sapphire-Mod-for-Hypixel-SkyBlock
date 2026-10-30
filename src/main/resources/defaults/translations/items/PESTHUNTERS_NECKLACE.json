@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "id": "PESTHUNTERS_NECKLACE",
+  "_original_name": "Pesthunter's Necklace",
+  "_original_lore": [
+    "Bonus Pest Chance: +5%",
+    "",
+    "Decreases the spawn cooldown of ",
+    "Pests by 10%.",
+    "",
+    "Tiered Bonus: Eradicator (0/4)",
+    "Grants +0 Farming Fortune when",
+    "vacuuming up  Pests",
+    "",
+    "Right-click to equip!",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Garden Level 5.",
+    "RARE NECKLACE"
+  ],
+  "name": "害虫猎手项链",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Bonus Pest Chance: {{N0}}"
+      ],
+      "translation": "额外害虫概率: {{N0}}",
+      "styleMappings": {
+        "Bonus Pest Chance": "额外害虫概率",
+        "Pest": "害虫"
+      }
+    },
+    {
+      "source": [
+        "Decreases the spawn cooldown of ",
+        "Pests by {{N0}}."
+      ],
+      "translation": "使  害虫的生成冷却时间减少 {{N0}}.",
+      "styleMappings": {
+        "cooldown": "冷却",
+        " Pests": " 害虫",
+        "Pests": "害虫"
+      }
+    },
+    {
+      "source": [
+        "Tiered Bonus: Eradicator ({{N0}}/{{N1}})"
+      ],
+      "translation": "分级加成: 根除者 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Tiered Bonus": "分级加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Farming Fortune when",
+        "vacuuming up  Pests"
+      ],
+      "translation": "用吸尘器吸取  害虫时提供 {{N0}} 农业幸运",
+      "styleMappings": {
+        "Farming Fortune": "农业幸运",
+        " Pests": " 害虫",
+        "Grants": "提供",
+        "Pests": "害虫",
+        "Fortune": "幸运",
+        "Farming": "农业",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Right-click to equip!"
+      ],
+      "translation": "右键点击装备!",
+      "styleMappings": {
+        "Right-click to equip!": "右键点击装备!",
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Garden Level {{N0}}."
+      ],
+      "translation": "❣ 需要花园等级 {{N0}}.",
+      "styleMappings": {
+        "Garden Level": "花园等级",
+        "Requires": "需要",
+        "Garden": "花园"
+      }
+    },
+    {
+      "source": [
+        "RARE NECKLACE"
+      ],
+      "translation": "稀有 项链",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Necklace": "项链"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

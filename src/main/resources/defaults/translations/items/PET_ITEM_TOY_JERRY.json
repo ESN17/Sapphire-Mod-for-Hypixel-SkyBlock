@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "PET_ITEM_TOY_JERRY",
+  "_original_name": "Jerry 3D Glasses",
+  "_original_lore": [
+    "Use at Kat to upgrade Jerry Pets to",
+    "Mythic rarity.",
+    "",
+    "MYTHIC"
+  ],
+  "name": "杰瑞 3D 眼镜",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Use at Kat to upgrade Jerry Pets to",
+        "Mythic rarity."
+      ],
+      "translation": "在 Kat 处使用以将杰瑞宠物升级至神话稀有度.",
+      "styleMappings": {
+        "Jerry Pets": "杰瑞宠物",
+        "upgrade": "升级",
+        "Mythic": "神话",
+        "rarity": "稀有度",
+        "Kat": "Kat",
+        "Jerry": "杰瑞",
+        "Pets": "宠物"
+      }
+    },
+    {
+      "source": [
+        "MYTHIC"
+      ],
+      "translation": "神话",
+      "styleMappings": {
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Jerry": "杰瑞"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

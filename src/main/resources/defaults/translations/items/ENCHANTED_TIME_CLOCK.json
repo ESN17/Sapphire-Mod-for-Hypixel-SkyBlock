@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "ENCHANTED_TIME_CLOCK",
+  "_original_name": "Enchanted Clock",
+  "_original_lore": [
+    "Ability: Time Warp  RIGHT CLICK",
+    "Advance Time by 1 hour!",
+    "Cooldown: 48 hours",
+    "",
+    "Impacts your Minions, Chocolate",
+    "Factory, Aging Items, Kat, Fann,",
+    "Greenhouse, and The Forge.",
+    "",
+    "❣ Requires Gold Ingot Collection X.",
+    "LEGENDARY"
+  ],
+  "name": "附魔时钟",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Time Warp  RIGHT CLICK"
+      ],
+      "translation": "技能: 时间扭曲  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Advance Time by {{N0}} hour!"
+      ],
+      "translation": "推进时间 {{N0}} 小时!",
+      "styleMappings": {
+        "hour": "小时"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}} hours"
+      ],
+      "translation": "冷却: {{N0}} 小时",
+      "styleMappings": {
+        "Cooldown": "冷却",
+        "hours": "小时"
+      }
+    },
+    {
+      "source": [
+        "Impacts your Minions, Chocolate",
+        "Factory, Aging Items, Kat, Fann,",
+        "Greenhouse, and The Forge."
+      ],
+      "translation": "影响你的仆从、巧克力工厂、老化物品、Kat、Fann、温室和锻造所.",
+      "styleMappings": {
+        "Chocolate Factory": "巧克力工厂",
+        "Greenhouse": "温室",
+        "Minions": "仆从",
+        "Kat": "Kat",
+        "The Forge": "锻造所",
+        "Chocolate": "巧克力",
+        "Forge": "锻造所"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Gold Ingot Collection X."
+      ],
+      "translation": "❣ 需要金锭收藏 X.",
+      "styleMappings": {
+        "Gold Ingot Collection X": "金锭收藏 X",
+        "Requires": "需要",
+        "Collection": "收藏",
+        "Gold": "金"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

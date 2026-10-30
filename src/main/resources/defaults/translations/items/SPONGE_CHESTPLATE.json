@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "id": "SPONGE_CHESTPLATE",
+  "_original_name": "Sponge Chestplate",
+  "_original_lore": [
+    "Defense: +150",
+    "Sea Creature Chance: +2%",
+    "Gemstones: []",
+    "",
+    "Full Set Bonus: Absorb (0/4)",
+    "Doubles your  Defense while in",
+    "water.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Fishing Skill 17.",
+    "EPIC CHESTPLATE"
+  ],
+  "name": "海绵胸甲",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Sea Creature Chance: {{N0}}"
+      ],
+      "translation": "海洋生物概率:{{N0}}",
+      "styleMappings": {
+        "Sea Creature Chance": "海洋生物概率",
+        "Sea Creature": "海洋生物"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: []"
+      ],
+      "translation": "宝石: []",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Absorb ({{N0}}/{{N1}})"
+      ],
+      "translation": "全套加成:吸收 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Full Set Bonus": "全套加成",
+        "Absorb": "吸收",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Doubles your  Defense while in",
+        "water."
+      ],
+      "translation": "在水中时使你的  防御翻倍.",
+      "styleMappings": {
+        "Defense": "防御",
+        "Doubles": "翻倍",
+        "water": "水"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Fishing Skill {{N0}}."
+      ],
+      "translation": "❣ 需要钓鱼技能 {{N0}}.",
+      "styleMappings": {
+        "Fishing Skill": "钓鱼技能",
+        "Requires": "需要",
+        "Fishing": "钓鱼",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC CHESTPLATE"
+      ],
+      "translation": "史诗胸甲",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Chestplate": "胸甲",
+    "Sponge": "海绵"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

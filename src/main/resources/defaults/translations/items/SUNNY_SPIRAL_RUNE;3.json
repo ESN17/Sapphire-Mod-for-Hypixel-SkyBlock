@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "SUNNY_SPIRAL_RUNE;3",
+  "_original_name": "◆ Sunny Spiral Rune III",
+  "_original_lore": [
+    "Requires level 0",
+    "Chestplates",
+    "",
+    "The heat of the sun orbits you!",
+    "Obtained from the Taylor Summer",
+    "Bundle.",
+    "",
+    "Apply this rune to chestplates or",
+    "fuse two together at the Runic",
+    "Pedestal!",
+    "",
+    "LEGENDARY COSMETIC"
+  ],
+  "name": "◆ 阳光螺旋符文 III",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Requires level {{N0}}",
+        "Chestplates"
+      ],
+      "translation": "需要等级 {{N0}} 胸甲",
+      "styleMappings": {
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "The heat of the sun orbits you!"
+      ],
+      "translation": "太阳的热力环绕着你!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Obtained from the Taylor Summer",
+        "Bundle."
+      ],
+      "translation": "从 Taylor 夏日礼包中获得.",
+      "styleMappings": {
+        "Summer Bundle": "夏日礼包",
+        "Summer": "夏日"
+      }
+    },
+    {
+      "source": [
+        "Apply this rune to chestplates or",
+        "fuse two together at the Runic",
+        "Pedestal!"
+      ],
+      "translation": "将此符文应用于胸甲,或在符文基座上将两个符文融合!",
+      "styleMappings": {
+        "Runic Pedestal": "符文基座",
+        "Runic": "符文"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY COSMETIC"
+      ],
+      "translation": "传说外观",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Rune III": "符文 III",
+    "Sunny": "阳光",
+    "III": "III"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

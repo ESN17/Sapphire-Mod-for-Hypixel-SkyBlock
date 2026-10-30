@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "id": "ORNAMENTAL_RUNE;3",
+  "_original_name": "◆ Ornamental Rune III",
+  "_original_lore": [
+    "Requires level 0",
+    "Chestplates",
+    "",
+    "Display wonderful ornaments all",
+    "around your person! Obtained from",
+    "Fire Sales.",
+    "",
+    "Apply this rune to chestplates or",
+    "fuse two together at the Runic",
+    "Pedestal!",
+    "",
+    "LEGENDARY COSMETIC"
+  ],
+  "name": "◆ 装饰符文 III",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Requires level {{N0}}",
+        "Chestplates"
+      ],
+      "translation": "需要等级 {{N0}} 胸甲",
+      "styleMappings": {
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Display wonderful ornaments all",
+        "around your person! Obtained from",
+        "Fire Sales."
+      ],
+      "translation": "在你周身展示华丽的装饰!从限时特卖获得.",
+      "styleMappings": {
+        "Fire Sales": "限时特卖"
+      }
+    },
+    {
+      "source": [
+        "Apply this rune to chestplates or",
+        "fuse two together at the Runic",
+        "Pedestal!"
+      ],
+      "translation": "将此符文应用于胸甲,或在符文基座上将两个符文融合!",
+      "styleMappings": {
+        "Runic Pedestal": "符文基座",
+        "Runic": "符文"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY COSMETIC"
+      ],
+      "translation": "传说外观",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Rune III": "符文 III",
+    "III": "III"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

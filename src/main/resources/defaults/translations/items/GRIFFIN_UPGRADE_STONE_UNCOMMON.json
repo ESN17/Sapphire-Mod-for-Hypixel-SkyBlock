@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "GRIFFIN_UPGRADE_STONE_UNCOMMON",
+  "_original_name": "Uncommon Griffin Upgrade Stone",
+  "_original_lore": [
+    "Use at Kat to upgrade Griffin Pets",
+    "from Common to Uncommon.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "罕见狮鹫升级石",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Use at Kat to upgrade Griffin Pets",
+        "from Common to Uncommon."
+      ],
+      "translation": "在 Kat 处使用,将狮鹫宠物从普通升级为罕见.",
+      "styleMappings": {
+        "Common": "普通",
+        "Uncommon": "罕见",
+        "Kat": "Kat",
+        "Pets": "宠物",
+        "upgrade": "升级",
+        "Griffin Pets": "狮鹫宠物",
+        "Griffin": "狮鹫"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Uncommon": "罕见",
+    "Griffin": "狮鹫"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

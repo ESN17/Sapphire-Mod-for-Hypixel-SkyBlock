@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "GLYPH_CONCLAMATUS",
+  "_original_name": "Conclamatus Glyph",
+  "_original_lore": [
+    "A scroll ingrained with an ancient",
+    "symbol.",
+    "",
+    "If the pattern is mimicked with a",
+    "powerful artifact, it may be possible",
+    "to cast a Warding Spell.",
+    "",
+    "EPIC"
+  ],
+  "name": "咒唤符文",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A scroll ingrained with an ancient",
+        "symbol."
+      ],
+      "translation": "一卷刻有古老符号的卷轴.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "If the pattern is mimicked with a",
+        "powerful artifact, it may be possible",
+        "to cast a Warding Spell."
+      ],
+      "translation": "若用强大的神器复现此图案,或许就能施放守护法术.",
+      "styleMappings": {
+        "powerful artifact": "强大的神器",
+        "Warding Spell": "守护法术"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

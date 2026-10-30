@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "id": "MOUND_OF_SEAGRASS",
+  "_original_name": "Mound of Seagrass",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Consume this item to permanently",
+    "gain +1 Pressure Resistance.",
+    "",
+    "You can only consume 5 of these",
+    "little guys before the guilt becomes",
+    "too severe.",
+    "",
+    "Nessie's favorite food. She has a lot",
+    "of favorite foods.",
+    "",
+    "Right-click to consume!",
+    "",
+    "EPIC"
+  ],
+  "name": "海草堆",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Consume this item to permanently",
+        "gain {{N0}} Pressure Resistance."
+      ],
+      "translation": "消耗此物品以永久获得 {{N0}} 抗压性.",
+      "styleMappings": {
+        "Pressure Resistance": "抗压性",
+        "permanently": "永久",
+        "item": "物品",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "You can only consume {{N0}} of these",
+        "little guys before the guilt becomes",
+        "too severe."
+      ],
+      "translation": "你最多只能消耗 {{N0}} 个这样的小家伙,再多良心就过不去了.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Nessie's favorite food. She has a lot",
+        "of favorite foods."
+      ],
+      "translation": "内西最爱的食物.她有很多最爱的食物.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

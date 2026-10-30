@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "SUSPICIOUS_STEW",
+  "_original_name": "Suspicious Stew",
+  "_original_lore": [
+    "Comes with a Health Disclaimer:",
+    "\"Expired in the year 87. Do not",
+    "consume.\" ඞ",
+    "",
+    "RARE"
+  ],
+  "name": "谜之炖菜",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Comes with a Health Disclaimer:"
+      ],
+      "translation": "附带健康免责声明:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "\"Expired in the year {{N0}}. Do not",
+        "consume.\" ඞ"
+      ],
+      "translation": "\"已在 {{N0}} 年过期.请勿食用.\" ඞ",
+      "styleMappings": {
+        "year": "年"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Suspicious": "可疑"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

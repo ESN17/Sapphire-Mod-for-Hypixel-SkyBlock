@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "SEASHINE_ANIMAL",
+  "_original_name": "Seashine (Animal)",
+  "_original_lore": [
+    "Shines brightly no matter the",
+    "weather.",
+    "",
+    "Mob Types: ⚓ Aquatic, ☮ Animal, ❃ Elusive",
+    "❤ Health: 1,000"
+  ],
+  "name": "海光 (动物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Shines brightly no matter the",
+        "weather."
+      ],
+      "translation": "无论天气如何都闪耀明亮.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Mob Types: ⚓ Aquatic, ☮ Animal, ❃ Elusive"
+      ],
+      "translation": "生物类型: ⚓ 水生, ☮ 动物, ❃ 难以捕捉",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Aquatic": "水生",
+        "Animal": "动物",
+        "Elusive": "难以捕捉"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Animal": "动物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,174 @@
+{
+  "schemaVersion": 1,
+  "id": "ITEM_SPIRIT_BOW",
+  "_original_name": "Spirit Shortbow",
+  "_original_lore": [
+    "Gear Score: 350",
+    "Damage: +210",
+    "Strength: +100",
+    "Shot Cooldown: 0.75s",
+    "",
+    "Deals +2% damage to  Undead Mobs",
+    "for every 1% of your missing health.",
+    "",
+    "Spirit Item: When turned into a ghost,",
+    "this item becomes a Ghost Ability.",
+    "",
+    "Spirit Ability: Spirit Bomb ",
+    "Shoots a spirit that deals 8000",
+    "damage on impact.",
+    "",
+    "Shortbow: Instantly shoots!",
+    "",
+    "This item can be reforged!",
+    "❣ Requires The Catacombs Floor IV Completion.",
+    "LEGENDARY DUNGEON BOW"
+  ],
+  "name": "灵魂短弓",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Shot Cooldown: {{N0}}s"
+      ],
+      "translation": "射击间隔:{{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "Deals {{N0}} damage to  Undead Mobs",
+        "for every {{N1}} of your missing health."
+      ],
+      "translation": "你每损失 {{N1}} 生命值,对  亡灵生物造成 {{N0}} 伤害.",
+      "styleMappings": {
+        "Deals": "造成",
+        "damage": "伤害",
+        "Undead": "亡灵",
+        "health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Spirit Item: When turned into a ghost,"
+      ],
+      "translation": "灵魂物品: 变成幽灵时,",
+      "styleMappings": {
+        "Spirit Item": "灵魂物品",
+        "Item": "物品",
+        "Spirit": "灵魂"
+      }
+    },
+    {
+      "source": [
+        "this item becomes a Ghost Ability."
+      ],
+      "translation": "此物品会变为幽灵技能.",
+      "styleMappings": {
+        "Ghost Ability": "幽灵技能",
+        "item": "物品",
+        "Ability": "技能",
+        "Ghost": "幽灵"
+      }
+    },
+    {
+      "source": [
+        "Spirit Ability: Spirit Bomb "
+      ],
+      "translation": "灵魂技能:灵魂炸弹 ",
+      "styleMappings": {
+        "Spirit Ability": "灵魂技能",
+        "Spirit Bomb": "灵魂炸弹",
+        "Ability": "技能",
+        "Spirit": "灵魂"
+      }
+    },
+    {
+      "source": [
+        "Shoots a spirit that deals {{N0}}",
+        "damage on impact."
+      ],
+      "translation": "射出一个灵魂,命中时造成 {{N0}} 伤害.",
+      "styleMappings": {
+        "Shoots": "射出",
+        "that deals": "造成",
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Shortbow: Instantly shoots!"
+      ],
+      "translation": "短弓: 即时射击!",
+      "styleMappings": {
+        "Shortbow": "短弓"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires The Catacombs Floor IV Completion."
+      ],
+      "translation": "❣ 需要完成地牢第四层.",
+      "styleMappings": {
+        "Requires The Catacombs Floor IV Completion.": "需要完成地牢第四层.",
+        "Requires": "需要",
+        "The Catacombs": "地牢",
+        "Catacombs": "地牢",
+        "The Catacombs Floor IV": "地牢第四层"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY DUNGEON BOW"
+      ],
+      "translation": "传说地牢弓",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shortbow": "短弓",
+    "Spirit": "灵魂"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

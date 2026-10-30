@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "PRISMAPUMP",
+  "_original_name": "Prismapump",
+  "_original_lore": [
+    "Ability: Pipeline  RIGHT CLICK",
+    "When used, pumps water in the direction the",
+    "player was facing.",
+    "",
+    "RARE"
+  ],
+  "name": "海晶泵",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Pipeline  RIGHT CLICK"
+      ],
+      "translation": "能力: 管道  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Pipeline": "管道",
+        "Ability": "能力",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "When used, pumps water in the direction the",
+        "player was facing."
+      ],
+      "translation": "使用时,朝玩家面朝的方向抽水.",
+      "styleMappings": {
+        "player": "玩家",
+        "in the": "的",
+        "water": "水"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Prismapump": "海晶泵"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

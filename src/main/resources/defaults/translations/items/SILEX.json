@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "SILEX",
+  "_original_name": "Sharp Rock",
+  "_original_lore": [
+    "A sharp rock with sturdy",
+    "construction.",
+    "",
+    "* Co-op Soulbound *",
+    "COMMON"
+  ],
+  "name": "锋利岩石",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A sharp rock with sturdy",
+        "construction."
+      ],
+      "translation": "一块结构坚固的锋利岩石.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Rock": "岩石"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

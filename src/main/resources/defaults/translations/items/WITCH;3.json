@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "id": "WITCH;3",
+  "_original_name": "[Lvl {LVL}] Witch",
+  "_original_lore": [
+    "Alchemy Pet",
+    "",
+    "Intelligence: +{INTELLIGENCE}",
+    "Alchemy Wisdom: +{ALCHEMY_WISDOM}",
+    "",
+    "Toil and Trouble",
+    "Increases your chance of dropping",
+    "Ingredients during the Year of the",
+    "Witch by {0}%.",
+    "",
+    "Alchemism",
+    "Reduces how long Potions take to",
+    "brew by {1}%.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "EPIC PET"
+  ],
+  "name": "[等级 {LVL}] 女巫",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Alchemy Pet"
+      ],
+      "translation": "炼金宠物",
+      "styleMappings": {
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: +{{N0}}"
+      ],
+      "translation": "智力: +{{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Alchemy Wisdom: +{{N0}}"
+      ],
+      "translation": "炼金智慧: +{{N0}}",
+      "styleMappings": {
+        "Alchemy Wisdom": "炼金智慧",
+        "Wisdom": "智慧"
+      }
+    },
+    {
+      "source": [
+        "Toil and Trouble"
+      ],
+      "translation": "辛劳与麻烦",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Increases your chance of dropping",
+        "Ingredients during the Year of the",
+        "Witch by {{N0}}%."
+      ],
+      "translation": "在女巫之年期间,提高你掉落材料的概率 {{N0}}%.",
+      "styleMappings": {
+        "Year of the Witch": "女巫之年",
+        "Ingredients": "材料",
+        "chance": "概率",
+        "Year": "年"
+      }
+    },
+    {
+      "source": [
+        "Alchemism"
+      ],
+      "translation": "炼金术",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Reduces how long Potions take to",
+        "brew by {{N0}}%."
+      ],
+      "translation": "减少药水酿造所需时间 {{N0}}%.",
+      "styleMappings": {
+        "Potions": "药水"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "EPIC PET"
+      ],
+      "translation": "史诗 宠物",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

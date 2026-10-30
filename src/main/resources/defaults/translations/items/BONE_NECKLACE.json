@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 1,
+  "id": "BONE_NECKLACE",
+  "_original_name": "Bone Necklace",
+  "_original_lore": [
+    "Defense: +35",
+    "Crit Chance: +3%",
+    "",
+    "Ability: Gladiator's Will ",
+    "Gain +3 Defense for each enemy",
+    "within 10 blocks up to +30 Defense.",
+    "Range increases to 30 blocks and",
+    "the cap increases to +60 Defense",
+    "when you play as a Tank in dungeons.",
+    "",
+    "Increases the range of your",
+    "Diversion passive by 15 blocks.",
+    "",
+    "Right-click to equip!",
+    "",
+    "This item can be reforged!",
+    "❣ Requires The Catacombs Floor IV Completion.",
+    "EPIC DUNGEON NECKLACE"
+  ],
+  "name": "骨项链",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Crit Chance: {{N0}}"
+      ],
+      "translation": "暴击率: {{N0}}",
+      "styleMappings": {
+        "Crit Chance": "暴击率"
+      }
+    },
+    {
+      "source": [
+        "Ability: Gladiator's Will "
+      ],
+      "translation": "技能: 角斗士之志 ",
+      "styleMappings": {
+        "Ability": "技能",
+        "Gladiator's Will": "角斗士之志"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}} Defense for each enemy",
+        "within {{N1}} blocks up to {{N2}} Defense."
+      ],
+      "translation": "每个 {{N1}} 格范围内的敌人使你获得 {{N0}} 防御力,最多 {{N2}} 防御力.",
+      "styleMappings": {
+        "for each enemy within": "每个",
+        "blocks up to": "格范围内的敌人使你获得",
+        " Defense": " 防御",
+        "for": "获得",
+        "blocks": "格",
+        "Gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "Range increases to {{N0}} blocks and",
+        "the cap increases to {{N1}} Defense",
+        "when you play as a Tank in dungeons."
+      ],
+      "translation": "在地牢中作为坦克游玩时,范围提升至 {{N0}} 格,上限提升至 {{N1}} 防御力.",
+      "styleMappings": {
+        " Defense": " 防御",
+        "blocks": "格",
+        "Tank": "坦克",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Increases the range of your",
+        "Diversion passive by {{N0}} blocks."
+      ],
+      "translation": "使你的转移被动范围提升 {{N0}} 格.",
+      "styleMappings": {
+        "Diversion": "转移",
+        "passive": "被动",
+        "blocks": "格"
+      }
+    },
+    {
+      "source": [
+        "Right-click to equip!"
+      ],
+      "translation": "右键点击装备!",
+      "styleMappings": {
+        "Right-click to equip!": "右键点击装备!",
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires The Catacombs Floor IV Completion."
+      ],
+      "translation": "❣ 需要完成地牢第四层.",
+      "styleMappings": {
+        "Requires The Catacombs Floor IV Completion.": "需要完成地牢第四层.",
+        "Requires": "需要",
+        "The Catacombs": "地牢",
+        "Catacombs": "地牢",
+        "The Catacombs Floor IV": "地牢第四层"
+      }
+    },
+    {
+      "source": [
+        "EPIC DUNGEON NECKLACE"
+      ],
+      "translation": "史诗 地牢 项链",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Necklace": "项链"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

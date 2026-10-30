@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "id": "BOUNCY_BOOTS",
+  "_original_name": "Bouncy Boots",
+  "_original_lore": [
+    "Gear Score: 75",
+    "Health: +55",
+    "Crit Chance: +5%",
+    "",
+    "Full Set Bonus: Bouncing Arrow (0/4)",
+    "Your arrows have a 25% chance to",
+    "bounce to another target after it",
+    "hits something.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Catacombs Skill 12.",
+    "RARE DUNGEON BOOTS"
+  ],
+  "name": "弹跳靴子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Crit Chance: {{N0}}"
+      ],
+      "translation": "暴击率: {{N0}}",
+      "styleMappings": {
+        "Crit Chance": "暴击率"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Bouncing Arrow ({{N0}}/{{N1}})"
+      ],
+      "translation": "全套加成: 弹跳箭 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Bouncing Arrow": "弹跳箭",
+        "Full Set Bonus": "全套加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Your arrows have a {{N0}} chance to",
+        "bounce to another target after it",
+        "hits something."
+      ],
+      "translation": "你的箭矢命中目标后有 {{N0}} 概率弹跳到另一个目标.",
+      "styleMappings": {
+        "hits something": "命中目标",
+        "chance to": "概率",
+        "chance": "概率",
+        "hits": "命中"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Catacombs Skill {{N0}}."
+      ],
+      "translation": "❣ 需要地牢技能 {{N0}}.",
+      "styleMappings": {
+        "Requires": "需要",
+        "Catacombs": "地牢",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "RARE DUNGEON BOOTS"
+      ],
+      "translation": "稀有地牢靴子",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Boots": "靴子"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

@@ -1,0 +1,199 @@
+{
+  "schemaVersion": 1,
+  "id": "HYPERION",
+  "_original_name": "Hyperion",
+  "_original_lore": [
+    "Gear Score: 615",
+    "Damage: +260",
+    "Strength: +150",
+    "Ferocity: +30",
+    "Intelligence: +350",
+    "Gemstones: [] [⚔]",
+    "",
+    "Deals +50% damage to  Wither mobs.",
+    "Grants +1  Damage and +2 ",
+    "Intelligence per Catacombs level.",
+    "",
+    "Right-click to use your class ability!",
+    "",
+    "This item can be reforged!",
+    "❣ Requires The Catacombs Floor VII Completion.",
+    "LEGENDARY DUNGEON SWORD"
+  ],
+  "name": "海伯利安神剑",
+  "lore": {
+    "Gear Score: {value}": "装备评分:{value}",
+    "Damage: {value}": "伤害:{value}",
+    "Strength: {value}": "力量:{value}",
+    "Ferocity: {value}": "残暴值:{value}",
+    "Intelligence: {value}": "智力:{value}",
+    "Gemstones: {text}": "宝石槽:{text}",
+    "Deals {damage} damage to  Wither mobs.": "对  凋灵生物造成 {damage} 伤害.",
+    "Right-click to use your class ability!": "右键使用职业技能!",
+    "This item can be reforged!": "此物品可以洗练!",
+    "❣ Requires The Catacombs Floor VII Completion.": "❣ 需要通关地牢第 VII 层.",
+    "LEGENDARY DUNGEON SWORD": "传说 地牢剑",
+    "Damage: {value} ({bonus})": "伤害:{value} ({bonus})",
+    "Strength: {value} ({bonus})": "力量:{value} ({bonus})",
+    "Intelligence: {value} ({bonus})": "智力:{value} ({bonus})",
+    "Ferocity: {value} ({bonus})": "残暴值:{value} ({bonus})",
+    "Gear Score: {value} ({bonus})": "装备评分:{value} ({bonus})"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "Grants {damage}  Damage and {intelligence} ",
+        "Intelligence per Catacombs level."
+      ],
+      "translation": "地牢每提升一级,获得 {damage}  伤害和 {intelligence}  智力.",
+      "styleMappings": {
+        "Damage": "伤害",
+        "Intelligence": "智力",
+        "Catacombs": "地牢",
+        " Damage": " 伤害",
+        "Grants": "获得",
+        "damage": "伤害",
+        " Intelligence": " 智力",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Ferocity: {{N0}}"
+      ],
+      "translation": "残暴值: {{N0}}",
+      "styleMappings": {
+        "Ferocity": "残暴值"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [] [⚔]"
+      ],
+      "translation": "宝石: [] [⚔]",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "": "",
+        "Gemstones": "宝石",
+        "] [": "] ["
+      }
+    },
+    {
+      "source": [
+        "Deals {{N0}} damage to  Wither mobs."
+      ],
+      "translation": "对 凋灵生物造成 {{N0}} 伤害.",
+      "styleMappings": {
+        "Wither": "凋灵",
+        "damage": "伤害",
+        "Deals": "造成",
+        "mobs": "生物",
+        "mobs.": "伤害."
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}  Damage and {{N1}} ",
+        "Intelligence per Catacombs level."
+      ],
+      "translation": "地牢每提升一级,获得 {{N0}} 伤害和 {{N1}}  智力.",
+      "styleMappings": {
+        "Intelligence": "智力",
+        "Catacombs": "地牢",
+        " Damage": " 伤害",
+        "Grants": "获得",
+        "": "",
+        "Damage": "伤害",
+        " Intelligence": " 智力",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Right-click to use your class ability!"
+      ],
+      "translation": "右键使用职业技能!",
+      "styleMappings": {
+        "ability": "技能"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires The Catacombs Floor VII Completion."
+      ],
+      "translation": "❣ 需要通关地牢第 VII 层.",
+      "styleMappings": {
+        "The Catacombs": "地牢",
+        "Requires": "需要",
+        "Catacombs": "地牢"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY DUNGEON SWORD"
+      ],
+      "translation": "传说地牢剑",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Damage": "伤害",
+    "Strength": "力量",
+    "Ferocity": "残暴值",
+    "Intelligence": "智力",
+    "Wither": "凋灵",
+    "Catacombs": "地牢",
+    "The Catacombs": "地牢",
+    "Hyperion": "海伯利安神剑"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

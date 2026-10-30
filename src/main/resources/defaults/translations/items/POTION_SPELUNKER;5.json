@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_SPELUNKER;5",
+  "_original_name": "Spelunker V Potion",
+  "_original_lore": [
+    "",
+    "Spelunker V (3:00)",
+    "Grants 25  Mining Fortune.",
+    "",
+    "RARE"
+  ],
+  "name": "洞穴探险 V 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Spelunker V ({{N0}}:{{N1}})"
+      ],
+      "translation": "洞穴探险 V ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Spelunker V": "洞穴探险 V"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}  Mining Fortune."
+      ],
+      "translation": "获得 {{N0}}   采矿幸运.",
+      "styleMappings": {
+        "Mining Fortune": "采矿幸运",
+        "Grants": "获得",
+        "Mining": "采矿",
+        "Fortune": "幸运",
+        " Mining Fortune": " 采矿幸运"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Spelunker V": "洞穴探险 V"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

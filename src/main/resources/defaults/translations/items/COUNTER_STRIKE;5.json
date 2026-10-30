@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "COUNTER_STRIKE;5",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Counter-Strike V",
+    "Gain +10 Defense for 7s on the",
+    "first hit from an enemy.",
+    "",
+    "Sources:",
+    " - Dark Auction (V)",
+    " - Bazaar (V)",
+    "",
+    "Applied To:",
+    " - Chestplate",
+    "",
+    "Requirements:",
+    " - Enchanting Level 22",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Counter-Strike V"
+      ],
+      "translation": "反击 V",
+      "styleMappings": {
+        "Counter-Strike": "反击",
+        "Counter-Strike V": "反击 V"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}} Defense for {{N1}}s on the",
+        "first hit from an enemy."
+      ],
+      "translation": "受到敌人首次攻击时,获得 {{N0}} 防御,持续 {{N1}} 秒.",
+      "styleMappings": {
+        " Defense": " 防御",
+        "Gain": "获得",
+        "for": "持续",
+        "hit": "攻击",
+        "{{N1}}s": "{{N1}} 秒",
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Dark Auction (V)",
+        " - Bazaar (V)"
+      ],
+      "translation": " - 暗黑拍卖行 (V)  - 集市 (V)",
+      "styleMappings": {
+        "Dark Auction": "暗黑拍卖行",
+        "Bazaar": "集市",
+        "Auction": "拍卖"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Chestplate"
+      ],
+      "translation": " - 胸甲",
+      "styleMappings": {
+        "Chestplate": "胸甲"
+      }
+    },
+    {
+      "source": [
+        "Requirements:"
+      ],
+      "translation": "需求:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchanting Level {{N0}}"
+      ],
+      "translation": " - 附魔等级 {{N0}}",
+      "styleMappings": {
+        "Enchanting Level": "附魔等级"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

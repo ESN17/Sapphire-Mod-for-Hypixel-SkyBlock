@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "HASTE_BLOCK",
+  "_original_name": "Haste Block",
+  "_original_lore": [
+    "Gives +100  Speed when standing",
+    "on top of this block.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "急速方块",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gives {{N0}}  Speed when standing",
+        "on top of this block."
+      ],
+      "translation": "站在此方块顶部时提供 {{N0}}  速度.",
+      "styleMappings": {
+        " Speed": " 速度",
+        "Speed": "速度",
+        "when": "时",
+        "Gives": "提供"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Haste Block": "急速方块"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

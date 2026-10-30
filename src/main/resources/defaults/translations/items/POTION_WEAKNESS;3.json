@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_WEAKNESS;3",
+  "_original_name": "Weakness III Potion",
+  "_original_lore": [
+    "",
+    "Weakness III (3:00)",
+    "Reduces  Damage when attacking",
+    "enemies by 15.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "虚弱药水 III",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Weakness III ({{N0}}:{{N1}})"
+      ],
+      "translation": "虚弱 III ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Weakness III": "虚弱 III",
+        "III": "III"
+      }
+    },
+    {
+      "source": [
+        "Reduces  Damage when attacking",
+        "enemies by {{N0}}."
+      ],
+      "translation": "攻击敌人时降低 伤害 {{N0}}.",
+      "styleMappings": {
+        " Damage": " 伤害",
+        "Damage": "伤害",
+        "enemies": "敌人",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "III": "III"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

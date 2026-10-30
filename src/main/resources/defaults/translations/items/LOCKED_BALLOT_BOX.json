@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "id": "LOCKED_BALLOT_BOX",
+  "_original_name": "Locked Ballot Box",
+  "_original_lore": [
+    "Commemorates your participation in",
+    "the Community Center Refurbishment",
+    "city project.",
+    "",
+    "Earned by: [MVP+] CalMWolfs",
+    "Total Contributions: 20",
+    "Edition #6",
+    "March 23, 2024",
+    "",
+    "Memento acquirer name becomes",
+    "hidden if traded.",
+    "",
+    "SPECIAL MEMENTO"
+  ],
+  "name": "已锁定的投票箱",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Commemorates your participation in",
+        "the Community Center Refurbishment",
+        "city project."
+      ],
+      "translation": "纪念你参与了社区中心翻新城市项目.",
+      "styleMappings": {
+        "Community Center Refurbishment": "社区中心翻新"
+      }
+    },
+    {
+      "source": [
+        "Earned by: [MVP+] CalMWolfs"
+      ],
+      "translation": "获得者: [尊贵贵宾+] 卡尔姆沃尔夫斯",
+      "styleMappings": {
+        "MVP": "尊贵贵宾",
+        "CalMWolfs": "卡尔姆沃尔夫斯"
+      }
+    },
+    {
+      "source": [
+        "Total Contributions: {{N0}}"
+      ],
+      "translation": "总贡献: {{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Edition #{{N0}}",
+        "March {{N1}}, {{N2}}"
+      ],
+      "translation": "第 {{N0}} 版 {{N1}}月{{N2}}日",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Memento acquirer name becomes",
+        "hidden if traded."
+      ],
+      "translation": "纪念品获得者名称在交易后将被隐藏.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "SPECIAL MEMENTO"
+      ],
+      "translation": "特殊纪念品",
+      "styleMappings": {
+        "SPECIAL MEMENTO": "特殊纪念品",
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

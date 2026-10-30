@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "id": "STARRED_THORNS_BOOTS",
+  "_original_name": " Spirit Boots",
+  "_original_lore": [
+    "Gear Score: 340",
+    "Health: +150",
+    "Defense: +50",
+    "Strength: +35",
+    "Intelligence: +50",
+    "Speed: +35",
+    "",
+    "Ability: Spirit Glide ",
+    "Press and hold Sneak to fly around",
+    "as a spirit.",
+    "Mana Cost: 250",
+    "Cooldown: 60s",
+    "",
+    "This item can be reforged!",
+    "❣ Requires The Catacombs Floor IV Completion.",
+    "LEGENDARY DUNGEON BOOTS"
+  ],
+  "name": " 灵魂靴子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Ability: Spirit Glide "
+      ],
+      "translation": "能力: 灵魂滑翔 ",
+      "styleMappings": {
+        "Spirit Glide": "灵魂滑翔",
+        "Ability": "能力",
+        "Spirit": "灵魂"
+      }
+    },
+    {
+      "source": [
+        "Press and hold Sneak to fly around",
+        "as a spirit."
+      ],
+      "translation": "按住潜行以灵魂形态飞行.",
+      "styleMappings": {
+        "fly": "飞行"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires The Catacombs Floor IV Completion."
+      ],
+      "translation": "❣ 需要完成地牢第四层.",
+      "styleMappings": {
+        "Requires The Catacombs Floor IV Completion.": "需要完成地牢第四层.",
+        "Requires": "需要",
+        "The Catacombs": "地牢",
+        "Catacombs": "地牢",
+        "The Catacombs Floor IV": "地牢第四层"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY DUNGEON BOOTS"
+      ],
+      "translation": "传说地牢靴子",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Spirit": "灵魂",
+    "Boots": "靴子"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

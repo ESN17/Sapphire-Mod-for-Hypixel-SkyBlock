@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_MAGIC_FIND;4",
+  "_original_name": "Magic Find IV Potion",
+  "_original_lore": [
+    "",
+    "Magic Find IV (3:00)",
+    "Gain +75% chance to find rare items",
+    "from monsters and bosses.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "稀有物品概率加成 IV 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Magic Find IV ({{N0}}:{{N1}})"
+      ],
+      "translation": "稀有物品概率加成 IV ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Magic Find IV": "稀有物品概率加成 IV",
+        "Magic Find": "稀有物品概率加成"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}} chance to find rare items",
+        "from monsters and bosses."
+      ],
+      "translation": "获得 {{N0}} 概率从怪物和首领身上找到稀有物品.",
+      "styleMappings": {
+        "chance to find rare items": "概率从怪物和首领身上找到稀有物品",
+        "Gain": "获得",
+        "rare": "稀有",
+        "items": "物品",
+        "chance": "概率",
+        "chance to": "概率",
+        "bosses": "首领",
+        "monsters": "怪物"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Magic Find IV": "稀有物品概率加成 IV",
+    "Magic Find": "稀有物品概率加成"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

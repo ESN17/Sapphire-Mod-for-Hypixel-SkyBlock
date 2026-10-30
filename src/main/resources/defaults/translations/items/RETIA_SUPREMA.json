@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "id": "RETIA_SUPREMA",
+  "_original_name": "Astral Huntrap",
+  "_original_lore": [
+    "Hunting Tool",
+    "",
+    "Ability: Retentio  RIGHT CLICK",
+    "Hunting Traps can be placed near",
+    "the spawn location of a Shard",
+    "creature, with time it will eventually",
+    "catch it.",
+    "",
+    "Ability: Suprema ",
+    "Reduces the time to capture by 50%.",
+    "",
+    "Suprema inter retia, nulla praeda",
+    "elabitur.",
+    "",
+    "❣ Requires Hunting Skill 20.",
+    "LEGENDARY TRAP"
+  ],
+  "name": "星界猎捕陷阱",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Hunting Tool"
+      ],
+      "translation": "狩猎工具",
+      "styleMappings": {
+        "Hunting Tool": "狩猎工具"
+      }
+    },
+    {
+      "source": [
+        "Ability: Retentio  RIGHT CLICK"
+      ],
+      "translation": "能力: 滞留  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "能力",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Hunting Traps can be placed near",
+        "the spawn location of a Shard",
+        "creature, with time it will eventually",
+        "catch it."
+      ],
+      "translation": "狩猎陷阱可以放置在碎片生物的生成点附近,随时间推移最终会将其捕获.",
+      "styleMappings": {
+        "Hunting Traps": "狩猎陷阱",
+        "Shard": "碎片"
+      }
+    },
+    {
+      "source": [
+        "Ability: Suprema "
+      ],
+      "translation": "能力: 至高",
+      "styleMappings": {
+        "Ability": "能力",
+        "Suprema": "至高"
+      }
+    },
+    {
+      "source": [
+        "Reduces the time to capture by {{N0}}."
+      ],
+      "translation": "将捕获时间缩短 {{N0}}.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Suprema inter retia, nulla praeda",
+        "elabitur."
+      ],
+      "translation": "至高之网,无猎可逃.",
+      "styleMappings": {
+        "Suprema": "至高"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Hunting Skill {{N0}}."
+      ],
+      "translation": "❣ 需要狩猎技能 {{N0}}.",
+      "styleMappings": {
+        "Hunting Skill": "狩猎技能",
+        "Requires": "需要",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY TRAP"
+      ],
+      "translation": "传说陷阱",
+      "styleMappings": {
+        "LEGENDARY TRAP": "传说陷阱",
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_STRENGTH;5",
+  "_original_name": "Strength V Potion",
+  "_original_lore": [
+    "",
+    "Strength V (3:00)",
+    "Increases  Strength by 40.",
+    "",
+    "RARE"
+  ],
+  "name": "力量 V 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Strength V ({{N0}}:{{N1}})"
+      ],
+      "translation": "力量 V ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Strength V": "力量 V",
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Increases  Strength by {{N0}}."
+      ],
+      "translation": "增加  力量 {{N0}}.",
+      "styleMappings": {
+        " Strength": " 力量",
+        "Increases": "增加",
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Strength V": "力量 V",
+    "Strength": "力量"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

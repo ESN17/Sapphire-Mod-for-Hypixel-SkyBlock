@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_JUMP_BOOST;3",
+  "_original_name": "Jump Boost III Potion",
+  "_original_lore": [
+    "",
+    "Jump Boost III (3:00)",
+    "Increases your jump height to 3.2",
+    "blocks.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "跳跃提升 III 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Jump Boost III ({{N0}}:{{N1}})"
+      ],
+      "translation": "跳跃提升 III ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Jump Boost III": "跳跃提升 III",
+        "III": "III"
+      }
+    },
+    {
+      "source": [
+        "Increases your jump height to {{N0}}",
+        "blocks."
+      ],
+      "translation": "将你的跳跃高度提升至 {{N0}} 格.",
+      "styleMappings": {
+        "blocks": "格"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Jump Boost III": "跳跃提升 III",
+    "III": "III"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

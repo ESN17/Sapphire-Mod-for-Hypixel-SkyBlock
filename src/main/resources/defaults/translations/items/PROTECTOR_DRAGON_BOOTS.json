@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "id": "PROTECTOR_DRAGON_BOOTS",
+  "_original_name": "Protector Dragon Boots",
+  "_original_lore": [
+    "Health: +60",
+    "Defense: +115",
+    "Gemstones: []",
+    "",
+    "Full Set Bonus: Protective Blood (0/4)",
+    "Increases the defense of each",
+    "armor piece by +1%  Defense for",
+    "each missing percent of HP.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Combat Skill 16.",
+    "LEGENDARY BOOTS"
+  ],
+  "name": "保护龙靴子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: []"
+      ],
+      "translation": "宝石: []",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Protective Blood ({{N0}}/{{N1}})"
+      ],
+      "translation": "全套加成: 保护之血 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Protective Blood": "保护之血",
+        "Full Set Bonus": "全套加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Increases the defense of each",
+        "armor piece by {{N0}}  Defense for",
+        "each missing percent of HP."
+      ],
+      "translation": "每损失百分之一的生命值,每件护甲的防御提高 {{N0}}  防御.",
+      "styleMappings": {
+        " Defense": " 防御",
+        "defense": "防御",
+        "HP": "生命值",
+        "armor piece": "护甲",
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY BOOTS"
+      ],
+      "translation": "传说 靴子",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Protector Dragon Boots": "保护龙靴子",
+    "Dragon": "龙"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

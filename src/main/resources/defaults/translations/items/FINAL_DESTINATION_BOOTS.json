@@ -1,0 +1,193 @@
+{
+  "schemaVersion": 1,
+  "id": "FINAL_DESTINATION_BOOTS",
+  "_original_name": "Final Destination Boots",
+  "_original_lore": [
+    "Health: +100",
+    "Defense: +100",
+    "Intelligence: +100",
+    "",
+    "Full Set Bonus: Vivacious Darkness (0/4)",
+    "Costs 2⸎ Soulflow per 5s in combat",
+    "while sneaking:",
+    "⁍ +30 Strength",
+    "⁍ +20 Attack Speed",
+    "⁍ +10 Speed",
+    "⁍ Multiply  Intelligence by 1.25x",
+    "⁍ +200 Ferocity against Endermen",
+    "⁍ +100% damage against Endermen",
+    "",
+    "Piece Bonus: Enderman Bulwark",
+    "Kill Endermen to accumulate defense",
+    "against them.",
+    "Piece Bonus: +0",
+    "Next Upgrade: +20 (0/100)",
+    "",
+    "This item can be reforged!",
+    "☠ Requires Enderman Slayer 3.",
+    "LEGENDARY BOOTS"
+  ],
+  "name": "终末之地靴子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Vivacious Darkness ({{N0}}/{{N1}})"
+      ],
+      "translation": "全套加成:生机暗影 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Full Set Bonus": "全套加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Costs {{N0}}⸎ Soulflow per {{N1}}s in combat"
+      ],
+      "translation": "战斗中每 {{N1}}秒消耗 {{N0}}⸎ 灵魂流",
+      "styleMappings": {
+        "Soulflow": "灵魂流",
+        "{{N1}}s": "{{N1}}秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "while sneaking:"
+      ],
+      "translation": "潜行时:",
+      "styleMappings": {
+        "sneaking": "潜行"
+      }
+    },
+    {
+      "source": [
+        "⁍ {{N0}} Strength",
+        "⁍ {{N1}} Attack Speed",
+        "⁍ {{N2}} Speed",
+        "⁍ Multiply  Intelligence by {{N3}}x",
+        "⁍ {{N4}} Ferocity against Endermen",
+        "⁍ {{N5}} damage against Endermen"
+      ],
+      "translation": "⁍ {{N0}} 力量 ⁍ {{N1}} 攻击速度 ⁍ {{N2}} 速度 ⁍ 将  智力乘以 {{N3}}倍 ⁍ 对末影人 {{N4}} 残暴值 ⁍ 对末影人 {{N5}} 伤害",
+      "styleMappings": {
+        " Attack Speed": " 攻击速度",
+        "Intelligence": "智力",
+        " Strength": " 力量",
+        "Endermen": "末影人",
+        "Ferocity": "残暴值",
+        " Speed": " 速度",
+        "damage": "伤害",
+        "": "",
+        "{{N3}}x": "{{N3}}倍",
+        "Strength": "力量",
+        "Speed": "速度",
+        "Attack Speed": "攻击速度",
+        " Intelligence": " 智力"
+      }
+    },
+    {
+      "source": [
+        "Piece Bonus: Enderman Bulwark"
+      ],
+      "translation": "部件加成:末影人壁垒",
+      "styleMappings": {
+        "Piece Bonus": "部件加成",
+        "Enderman": "末影人",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Kill Endermen to accumulate defense",
+        "against them."
+      ],
+      "translation": "击杀末影人以累积对其的防御.",
+      "styleMappings": {
+        "Endermen": "末影人",
+        "defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Piece Bonus: {{N0}}"
+      ],
+      "translation": "部件加成:{{N0}}",
+      "styleMappings": {
+        "Piece Bonus": "部件加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Next Upgrade: {{N0}} ({{N1}}/{{N2}})"
+      ],
+      "translation": "下次升级: {{N0}} ({{N1}}/{{N2}})",
+      "styleMappings": {
+        "Next Upgrade": "下次升级"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Enderman Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要末影人杀手 {{N0}}.",
+      "styleMappings": {
+        "Enderman Slayer": "末影人杀手",
+        "Requires": "需要",
+        "Slayer": "杀手",
+        "Enderman": "末影人"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY BOOTS"
+      ],
+      "translation": "传说 靴子",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Boots": "靴子"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

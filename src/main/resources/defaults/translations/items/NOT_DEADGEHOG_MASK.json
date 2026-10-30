@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "NOT_DEADGEHOG_MASK",
+  "_original_name": "Not-Dead-Gehog Mask",
+  "_original_lore": [
+    "Rift Time: +30s",
+    "Intelligence: +15",
+    "",
+    "Ability: Helmets All The Way Up ",
+    "Regain +1ф when killing a monster.",
+    "",
+    "UNCOMMON HELMET"
+  ],
+  "name": "未死刺猬面具",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Rift Time: {{N0}}s"
+      ],
+      "translation": "裂隙时间: {{N0}}秒",
+      "styleMappings": {
+        "Rift Time": "裂隙时间",
+        "{{N0}}s": "{{N0}}秒",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Ability: Helmets All The Way Up "
+      ],
+      "translation": "能力:头盔一路向上 ",
+      "styleMappings": {
+        "Ability": "能力"
+      }
+    },
+    {
+      "source": [
+        "Regain {{N0}}ф when killing a monster."
+      ],
+      "translation": "击杀怪物时恢复 {{N0}}ф.",
+      "styleMappings": {
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON HELMET"
+      ],
+      "translation": "罕见 头盔",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mask": "面具"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

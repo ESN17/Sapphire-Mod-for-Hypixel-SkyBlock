@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "ASHFANG_MINIBOSS",
+  "_original_name": "Ashfang (Miniboss)",
+  "_original_lore": [
+    "They also call themselves \"the",
+    "Twins\".",
+    "",
+    "❤ Health: 50,000,000"
+  ],
+  "name": "灰烬之牙 (小首领)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "They also call themselves \"the",
+        "Twins\"."
+      ],
+      "translation": "他们也自称\"双子\".",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Miniboss": "小首领",
+    "(Miniboss)": "(小首领)"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

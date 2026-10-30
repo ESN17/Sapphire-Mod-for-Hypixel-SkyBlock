@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "SUNFLOWER_OIL",
+  "_original_name": "Sunflower Oil",
+  "_original_lore": [
+    "Machine Fuel",
+    "",
+    "Adds +20,000 Fuel to a refuelable",
+    "machine.",
+    "",
+    "Can be used in your daily diet or in",
+    "heavy machinery.",
+    "",
+    "RARE"
+  ],
+  "name": "向日葵油",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Machine Fuel"
+      ],
+      "translation": "机器燃料",
+      "styleMappings": {
+        "Machine Fuel": "机器燃料",
+        "Fuel": "燃料"
+      }
+    },
+    {
+      "source": [
+        "Adds {{N0}} Fuel to a refuelable",
+        "machine."
+      ],
+      "translation": "为可补充燃料的机器添加 {{N0}} 燃料.",
+      "styleMappings": {
+        "Adds": "添加",
+        "Fuel": "燃料",
+        "to a refuelable machine": "为可补充燃料的机器"
+      }
+    },
+    {
+      "source": [
+        "Can be used in your daily diet or in",
+        "heavy machinery."
+      ],
+      "translation": "可用于日常饮食或重型机械.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sunflower": "向日葵"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

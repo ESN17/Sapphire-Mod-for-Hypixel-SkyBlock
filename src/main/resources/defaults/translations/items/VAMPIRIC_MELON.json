@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "VAMPIRIC_MELON",
+  "_original_name": "Vampiric Melon",
+  "_original_lore": [
+    "Perfect ingredient for a healing",
+    "melon.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "吸血西瓜",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Perfect ingredient for a healing",
+        "melon."
+      ],
+      "translation": "治疗西瓜的完美材料.",
+      "styleMappings": {
+        "Perfect": "完美"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Melon": "西瓜"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

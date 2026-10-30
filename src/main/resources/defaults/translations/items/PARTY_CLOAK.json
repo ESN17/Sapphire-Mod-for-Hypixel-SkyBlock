@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "PARTY_CLOAK",
+  "_original_name": "Party Cloak",
+  "_original_lore": [
+    "Tiered Bonus: Carnival Craze (0/5)",
+    "Gain +4% more Carnival Tokens.",
+    "",
+    "Right-click to equip!",
+    "",
+    "This item can be reforged!",
+    "UNCOMMON CLOAK"
+  ],
+  "name": "派对披风",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Tiered Bonus: Carnival Craze ({{N0}}/{{N1}})"
+      ],
+      "translation": "分级加成: 嘉年华狂热 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Tiered Bonus": "分级加成",
+        "Carnival": "嘉年华",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}} more Carnival Tokens."
+      ],
+      "translation": "额外获得 {{N0}} 个嘉年华代币.",
+      "styleMappings": {
+        "Carnival Tokens": "嘉年华代币",
+        "Gain": "获得",
+        "more": "额外",
+        "Carnival": "嘉年华",
+        "Tokens": "代币"
+      }
+    },
+    {
+      "source": [
+        "Right-click to equip!"
+      ],
+      "translation": "右键点击装备!",
+      "styleMappings": {
+        "Right-click to equip!": "右键点击装备!",
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON CLOAK"
+      ],
+      "translation": "罕见 披风",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Cloak": "披风"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

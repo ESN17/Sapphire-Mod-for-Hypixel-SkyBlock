@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "HARDENED_DIAMOND_LEGGINGS",
+  "_original_name": "Hardened Diamond Leggings",
+  "_original_lore": [
+    "Defense: +95",
+    "",
+    "This item can be reforged!",
+    "RARE LEGGINGS"
+  ],
+  "name": "硬化钻石护腿",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "RARE LEGGINGS"
+      ],
+      "translation": "稀有 护腿",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Leggings": "护腿"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

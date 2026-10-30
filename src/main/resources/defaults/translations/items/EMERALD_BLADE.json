@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "EMERALD_BLADE",
+  "_original_name": "Emerald Blade",
+  "_original_lore": [
+    "Damage: +130",
+    "",
+    "A powerful blade made from pure",
+    "Emeralds. This blade becomes",
+    "stronger as you carry more coins in",
+    "your purse (Capped at 2B coins)",
+    "",
+    "Receive Curse of Greed when striking,",
+    "CANCELLING any effect modifying your coins",
+    "loss on death!",
+    "",
+    "Current Damage Bonus: 0.0",
+    "",
+    "This item can be reforged!",
+    "EPIC SWORD"
+  ],
+  "name": "绿宝石之刃",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "A powerful blade made from pure",
+        "Emeralds. This blade becomes",
+        "stronger as you carry more coins in",
+        "your purse (Capped at {{N0}}B coins)"
+      ],
+      "translation": "由纯绿宝石打造而成的强力刀刃.你携带的硬币越多,这把刀刃就越强(上限为 {{N0}}十亿 硬币)",
+      "styleMappings": {
+        "Emeralds": "绿宝石",
+        "coins": "硬币",
+        "(Capped at {{N0}}B coins)": "(上限为 {{N0}}十亿 硬币)"
+      }
+    },
+    {
+      "source": [
+        "Receive Curse of Greed when striking,",
+        "CANCELLING any effect modifying your coins",
+        "loss on death!"
+      ],
+      "translation": "攻击时获得贪婪诅咒,取消任何影响你死亡时硬币损失的效果!",
+      "styleMappings": {
+        "Curse of Greed": "贪婪诅咒",
+        "CANCELLING": "取消",
+        "coins": "硬币",
+        "death": "死亡",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Current Damage Bonus: {{N0}}"
+      ],
+      "translation": "当前伤害加成: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "EPIC SWORD"
+      ],
+      "translation": "史诗 剑",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

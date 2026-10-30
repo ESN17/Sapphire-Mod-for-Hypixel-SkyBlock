@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "id": "ENCHANTED_BOOK_BUNDLE_BIG_BRAIN",
+  "_original_name": "Enchanted Book Bundle",
+  "_original_lore": [
+    "Big Brain III",
+    "Grants +15 Intelligence.",
+    "",
+    "Right-click to open this bundle",
+    "containing 5 enchanted",
+    "books.",
+    "",
+    "* Soulbound *",
+    "UNCOMMON"
+  ],
+  "name": "附魔书捆",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Big Brain III",
+        "Grants {{N0}} Intelligence."
+      ],
+      "translation": "大脑袋 III 提供 {{N0}} 智力.",
+      "styleMappings": {
+        "Big Brain III": "大脑袋 III",
+        "Intelligence": "智力",
+        "Grants": "提供",
+        "": "",
+        "III": "III",
+        "Big Brain": "大脑",
+        " Intelligence": " 智力"
+      }
+    },
+    {
+      "source": [
+        "Right-click to open this bundle"
+      ],
+      "translation": "右键点击打开此包裹",
+      "styleMappings": {
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "containing {{N0}} enchanted",
+        "books."
+      ],
+      "translation": "内含 {{N0}} 本附魔书.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "id": "FIESTA_FLASK",
+  "_original_name": "Fiesta Flask",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Grants +25%  Mining Fortune while",
+    "Mayor Cole's Mining Fiesta perk is",
+    "active.",
+    "Duration: 60m",
+    "",
+    "Right-click to consume!",
+    "",
+    "* Soulbound *",
+    "LEGENDARY"
+  ],
+  "name": "狂欢药瓶",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants {{N0}}  Mining Fortune while",
+        "Mayor Cole's Mining Fiesta perk is",
+        "active."
+      ],
+      "translation": "当市长科尔采矿狂欢增益激活时,获得 {{N0}}   采矿幸运.",
+      "styleMappings": {
+        "Mining Fortune": "采矿幸运",
+        "Mining Fiesta": "采矿狂欢",
+        "Mayor Cole's": "市长科尔",
+        "Grants": "获得",
+        "Mayor": "市长",
+        "Mining": "采矿",
+        "Fortune": "幸运",
+        " Mining Fortune": " 采矿幸运"
+      }
+    },
+    {
+      "source": [
+        "Duration: {{N0}}m"
+      ],
+      "translation": "持续时间: {{N0}}分钟",
+      "styleMappings": {
+        "Duration": "持续时间",
+        "{{N0}}m": "{{N0}}分钟"
+      }
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fiesta Flask": "狂欢药瓶"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

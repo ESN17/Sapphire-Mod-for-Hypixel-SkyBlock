@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "SMITE;6",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Smite VI",
+    "Increases damage dealt to ☠ Wither,",
+    "༕ Undead and 🦴 Skeletal mobs by",
+    "40%.",
+    "",
+    "Sources:",
+    " - Enchantment Table (I-V)",
+    " - Bazaar (VI)",
+    " - Catacombs (VII)",
+    " - Severed Hand (VII)",
+    "",
+    "Applied To:",
+    " - Sword",
+    " - Longsword",
+    " - Gauntlet",
+    "",
+    "RARE"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Smite VI"
+      ],
+      "translation": "亡灵杀手 VI",
+      "styleMappings": {
+        "Smite": "亡灵杀手"
+      }
+    },
+    {
+      "source": [
+        "Increases damage dealt to ☠ Wither,",
+        "༕ Undead and 🦴 Skeletal mobs by",
+        "{{N0}}."
+      ],
+      "translation": "对 ☠ 凋灵、༕ 亡灵和 🦴 骷髅生物的伤害提高 {{N0}}.",
+      "styleMappings": {
+        "Skeletal": "骷髅",
+        "Undead": "亡灵",
+        "Wither": "凋灵",
+        "damage": "伤害",
+        "mobs": "生物"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchantment Table (I-V)",
+        " - Bazaar (VI)",
+        " - Catacombs (VII)",
+        " - Severed Hand (VII)"
+      ],
+      "translation": " - 附魔台 (一至五)  - 集市 (六)  - 地牢 (七)  - 断手 (七)",
+      "styleMappings": {
+        "Enchantment Table": "附魔台",
+        "Severed Hand": "断手",
+        "Catacombs": "地牢",
+        "Bazaar": "集市",
+        "I-V": "一至五",
+        "VI": "六",
+        "Enchantment": "附魔"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Sword",
+        " - Longsword",
+        " - Gauntlet"
+      ],
+      "translation": " - 剑  - 长剑  - 护手",
+      "styleMappings": {
+        "Sword": "剑",
+        "Longsword": "长剑",
+        "Gauntlet": "护手"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

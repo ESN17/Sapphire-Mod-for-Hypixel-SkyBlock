@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "FREE_SPIDER",
+  "_original_name": "Free Spider",
+  "_original_lore": [
+    "Free at last!",
+    "",
+    "* Co-op Soulbound *",
+    "EPIC"
+  ],
+  "name": "自由蜘蛛",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Free at last!"
+      ],
+      "translation": "终于自由了!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Spider": "蜘蛛"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

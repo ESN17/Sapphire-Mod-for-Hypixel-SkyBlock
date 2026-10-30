@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "id": "CHALLENGER_CHESTPLATE",
+  "_original_name": "Challenger's Chestplate",
+  "_original_lore": [
+    "Health: +80",
+    "Defense: +40",
+    "Strength: +25",
+    "",
+    "Ability: Mythos' Might ",
+    "Grants 2x this armor's stats while in",
+    "The Hub during Diana's Mythological",
+    "Ritual.",
+    "",
+    "Tiered Bonus: Unearthed (0/8)",
+    "Reduces damage taken from ",
+    "Mythological mobs by 0%.",
+    "",
+    "This item can be reforged!",
+    "EPIC CHESTPLATE"
+  ],
+  "name": "挑战者胸甲",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Ability: Mythos' Might "
+      ],
+      "translation": "能力:神话之力 ",
+      "styleMappings": {
+        "Mythos' Might": "神话之力",
+        "Ability": "能力"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}x this armor's stats while in",
+        "The Hub during Diana's Mythological",
+        "Ritual."
+      ],
+      "translation": "在 Diana 的神话仪式期间身处中心岛时,使此盔甲的属性变为 {{N0}} 倍.",
+      "styleMappings": {
+        "Mythological Ritual": "神话仪式",
+        "The Hub": "中心岛",
+        "stats": "属性",
+        "{{N0}}x": "{{N0}} 倍",
+        "Hub": "中心岛",
+        "Mythological": "神话"
+      }
+    },
+    {
+      "source": [
+        "Tiered Bonus: Unearthed ({{N0}}/{{N1}})"
+      ],
+      "translation": "分级加成:出土 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Tiered Bonus": "分级加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Reduces damage taken from ",
+        "Mythological mobs by {{N0}}."
+      ],
+      "translation": "减少来自  ​ 神话生物造成的伤害 {{N0}}.",
+      "styleMappings": {
+        " Mythological": " 神话生物",
+        "damage": "伤害",
+        "Mythological": "神话生物",
+        "mobs": "生物"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "EPIC CHESTPLATE"
+      ],
+      "translation": "史诗胸甲",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Chestplate": "胸甲"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

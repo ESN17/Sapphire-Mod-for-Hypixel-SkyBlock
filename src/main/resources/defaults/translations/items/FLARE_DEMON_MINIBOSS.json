@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "FLARE_DEMON_MINIBOSS",
+  "_original_name": "Flare Demon (Miniboss)",
+  "_original_lore": [
+    "The Flare Demon is a Inferno Demonlord",
+    "Miniboss that very rarely spawns after killing a",
+    "Blaze during Inferno Demonlord Tier III Quests.",
+    "",
+    "❤ Health: 9,000,000"
+  ],
+  "name": "耀斑恶魔 (小首领)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Flare Demon is a Inferno Demonlord",
+        "Miniboss that very rarely spawns after killing a",
+        "Blaze during Inferno Demonlord Tier III Quests."
+      ],
+      "translation": "耀斑恶魔是炼狱恶魔领主小首领,在炼狱恶魔领主 III 阶任务中击杀烈焰人有极低概率生成.",
+      "styleMappings": {
+        "Inferno Demonlord": "炼狱恶魔领主",
+        "Tier III Quests": "III 阶任务",
+        "Miniboss": "小首领",
+        "Blaze": "烈焰人",
+        "III": "III",
+        "Inferno": "炼狱"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Miniboss)": "(小首领)",
+    "Miniboss": "小首领"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

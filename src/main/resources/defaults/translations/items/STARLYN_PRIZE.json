@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "STARLYN_PRIZE",
+  "_original_name": "Agatha's Prize",
+  "_original_lore": [
+    "Used to purchase certain items from",
+    "Agatha's Shop!",
+    "",
+    "RARE"
+  ],
+  "name": "阿加莎的奖品",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Used to purchase certain items from",
+        "Agatha's Shop!"
+      ],
+      "translation": "用于在 Agatha 的商店中购买特定物品!",
+      "styleMappings": {
+        "Agatha's Shop": "Agatha 的商店",
+        "items": "物品"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

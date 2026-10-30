@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "BLOOD_STAINED_COINS",
+  "_original_name": "Blood-Stained Coins",
+  "_original_lore": [
+    "This is probably not what they meant",
+    "by \"blood money\".",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "RARE"
+  ],
+  "name": "血染硬币",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "This is probably not what they meant",
+        "by \"blood money\"."
+      ],
+      "translation": "这大概不是他们所说的\"血钱\".",
+      "styleMappings": {
+        "blood money": "血钱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Coins": "硬币"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "VISITORS_GRATITUDE",
+  "_original_name": "Visitors' Gratitude",
+  "_original_lore": [
+    "You made someone smile today! ❤",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "COMMON"
+  ],
+  "name": "访客的谢意",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "You made someone smile today! ❤"
+      ],
+      "translation": "你今天让某人露出了笑容! ❤",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Visitors": "访客"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

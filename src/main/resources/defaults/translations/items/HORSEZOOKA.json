@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "HORSEZOOKA",
+  "_original_name": "Horsezooka",
+  "_original_lore": [
+    "Ability: Shoot  RIGHT CLICK",
+    "Launches a horse to clear out hay.",
+    "Mana Cost: 1",
+    "",
+    "EPIC"
+  ],
+  "name": "马匹发射器",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Shoot  RIGHT CLICK"
+      ],
+      "translation": "技能:射击  右键点击",
+      "styleMappings": {
+        "Ability: Shoot": "技能:射击",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Launches a horse to clear out hay."
+      ],
+      "translation": "发射一匹马以清除干草.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

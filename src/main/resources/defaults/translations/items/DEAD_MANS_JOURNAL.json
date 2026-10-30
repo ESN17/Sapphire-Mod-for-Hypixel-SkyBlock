@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "DEAD_MANS_JOURNAL",
+  "_original_name": "Dead Man's Journal",
+  "_original_lore": [
+    "A soggy journal that you retrieved",
+    "from the Great Glacite Lake.",
+    "",
+    "Right-click to view!",
+    "",
+    "* Soulbound *",
+    "EPIC"
+  ],
+  "name": "亡者日志",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A soggy journal that you retrieved",
+        "from the Great Glacite Lake."
+      ],
+      "translation": "一本你从冰晶大湖中捞出的湿透的日志.",
+      "styleMappings": {
+        "Great Glacite Lake": "冰晶大湖"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view!"
+      ],
+      "translation": "右键点击查看!",
+      "styleMappings": {
+        "Right-click to view!": "右键点击查看!",
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "LAGOON_LEECH_MONSTER",
+  "_original_name": "Lagoon Leech (Monster)",
+  "_original_lore": [
+    "Found in the Black Lagoon.",
+    "",
+    "❤ Health: 80"
+  ],
+  "name": "泻湖水蛭 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Found in the Black Lagoon."
+      ],
+      "translation": "可在黑水潭中找到.",
+      "styleMappings": {
+        "Black Lagoon": "黑水潭"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

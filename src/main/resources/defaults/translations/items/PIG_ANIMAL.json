@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "PIG_ANIMAL",
+  "_original_name": "Pig (Animal)",
+  "_original_lore": [
+    "Pigs are passive mobs that can be found at the",
+    "Barn and they drop raw porkchops and experience. ",
+    "",
+    "❤ Health: 50"
+  ],
+  "name": "猪 (动物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Pigs are passive mobs that can be found at the",
+        "Barn and they drop raw porkchops and experience. "
+      ],
+      "translation": "猪是被动生物,可以在农庄找到,它们会掉落生猪排和经验. ",
+      "styleMappings": {
+        "Barn": "农庄",
+        "mobs": "生物",
+        "passive": "被动",
+        "Pigs": "猪"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Animal": "动物",
+    "Pig": "猪"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

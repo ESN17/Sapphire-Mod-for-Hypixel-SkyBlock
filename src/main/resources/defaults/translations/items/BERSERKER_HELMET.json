@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "id": "BERSERKER_HELMET",
+  "_original_name": "Berserker Helmet",
+  "_original_lore": [
+    "Strength: +35",
+    "Crit Damage: +35%",
+    "Gemstones: [⚔]",
+    "",
+    "Tiered Bonus: Berserk (0/4)",
+    "Reduces your health and defense by",
+    "half and reduces the cost of",
+    "health-consuming abilities by 20%.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Combat Skill 22.",
+    "EPIC HELMET"
+  ],
+  "name": "狂战士头盔",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: {{N0}}"
+      ],
+      "translation": "暴击伤害:{{N0}}",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [⚔]"
+      ],
+      "translation": "宝石: [⚔]",
+      "styleMappings": {
+        "Gemstones": "宝石",
+        "[": "[",
+        "Gemstones:": "宝石:"
+      }
+    },
+    {
+      "source": [
+        "Tiered Bonus: Berserk ({{N0}}/{{N1}})"
+      ],
+      "translation": "分级加成: 狂战士 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Tiered Bonus": "分级加成",
+        "Berserk": "狂战士",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Reduces your health and defense by",
+        "half and reduces the cost of",
+        "health-consuming abilities by {{N0}}."
+      ],
+      "translation": "使你的生命值和防御力减半,并使消耗生命值的技能消耗降低 {{N0}}.",
+      "styleMappings": {
+        "health-consuming abilities": "消耗生命值的技能",
+        "defense": "防御",
+        "health": "生命值",
+        "half": "减半",
+        "abilities": "技能"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC HELMET"
+      ],
+      "translation": "史诗头盔",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Berserker Helmet": "狂战士头盔",
+    "Helmet": "头盔"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

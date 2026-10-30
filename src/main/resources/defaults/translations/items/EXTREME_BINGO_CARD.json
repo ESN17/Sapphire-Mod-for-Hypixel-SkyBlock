@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "id": "EXTREME_BINGO_CARD",
+  "_original_name": "Extreme Bingo Card (Extreme Bingo #1)",
+  "_original_lore": [
+    "Obtained during the 1st",
+    "Extreme Bingo Event during",
+    "December 2022 for completing",
+    "the entire Bingo Card!",
+    "",
+    "Player: Eisengolem",
+    "Playtime: 69h",
+    "",
+    "* Co-op Soulbound *",
+    "SPECIAL"
+  ],
+  "name": "极限宾果卡 (极限宾果 #1)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Obtained during the {{N0}}st",
+        "Extreme Bingo Event during",
+        "December {{N1}} for completing",
+        "the entire Bingo Card!"
+      ],
+      "translation": "在 {{N1}} 年十二月的第 {{N0}} 届极限宾果活动中完成整张宾果卡获得!",
+      "styleMappings": {
+        "Extreme Bingo Event": "极限宾果活动",
+        "December": "十二月",
+        "Bingo": "宾果",
+        "Bingo Card": "宾果卡",
+        "for": "获得",
+        "Bingo Event": "宾果活动"
+      }
+    },
+    {
+      "source": [
+        "Player: Eisengolem"
+      ],
+      "translation": "玩家: 铁傀儡",
+      "styleMappings": {
+        "Player": "玩家",
+        "Eisengolem": "铁傀儡"
+      }
+    },
+    {
+      "source": [
+        "Playtime: {{N0}}h"
+      ],
+      "translation": "游戏时长: {{N0}}小时",
+      "styleMappings": {
+        "Playtime": "游戏时长",
+        "{{N0}}h": "{{N0}}小时"
+      }
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Bingo": "宾果",
+    "Bingo Card": "宾果卡"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

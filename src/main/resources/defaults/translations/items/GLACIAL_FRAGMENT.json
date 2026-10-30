@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "GLACIAL_FRAGMENT",
+  "_original_name": "Glacial Fragment",
+  "_original_lore": [
+    "A small piece of a giant glacier.",
+    "Doesn't ever melt.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "EPIC"
+  ],
+  "name": "冰川碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A small piece of a giant glacier."
+      ],
+      "translation": "一块巨大冰川的小碎片.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Doesn't ever melt."
+      ],
+      "translation": "永远不会融化.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Glacial": "冰川"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

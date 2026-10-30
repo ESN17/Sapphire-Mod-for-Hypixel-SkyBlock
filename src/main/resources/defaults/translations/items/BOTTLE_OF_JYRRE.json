@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "BOTTLE_OF_JYRRE",
+  "_original_name": "Lost Bottle of Jyrre",
+  "_original_lore": [
+    "Provides a boost to your ",
+    "Intelligence! The longer this item",
+    "stays in your inventory, the more",
+    "intelligent you will be after drinking",
+    "it. Must be kept in your inventory at",
+    "all times!",
+    "",
+    "Intelligence Bonus: 0",
+    "Duration: 10 Minutes",
+    "",
+    "COMMON"
+  ],
+  "name": "遗失的 杰瑞 之瓶",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Provides a boost to your ",
+        "Intelligence! The longer this item",
+        "stays in your inventory, the more",
+        "intelligent you will be after drinking",
+        "it. Must be kept in your inventory at",
+        "all times!"
+      ],
+      "translation": "提升你的   智力! 此物品在你的物品栏中停留的时间越长,喝下后你就越聪明.必须始终将其保留在物品栏中!",
+      "styleMappings": {
+        "Intelligence": "智力",
+        "": "",
+        "item": "物品",
+        " Intelligence": " 智力"
+      }
+    },
+    {
+      "source": [
+        "Intelligence Bonus: {{N0}}"
+      ],
+      "translation": "智力加成: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Duration: {{N0}} Minutes"
+      ],
+      "translation": "持续时间: {{N0}} 分钟",
+      "styleMappings": {
+        "Duration": "持续时间",
+        "Minutes": "分钟"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

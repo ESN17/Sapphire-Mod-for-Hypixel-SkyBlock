@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "id": "ZOMBIE_ARTIFACT",
+  "_original_name": "Zombie Artifact",
+  "_original_lore": [
+    "Accessory Power: +8",
+    "",
+    "Reduces the damage taken from ",
+    "Undead mobs by 15%.",
+    "",
+    "☠ Requires Zombie Slayer 7.",
+    "Works while in Accessory Bag!",
+    "RARE ACCESSORY"
+  ],
+  "name": "僵尸神器",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Accessory Power: {{N0}}"
+      ],
+      "translation": "饰品能量: {{N0}}",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "Reduces the damage taken from ",
+        "Undead mobs by {{N0}}."
+      ],
+      "translation": "受到   亡灵怪物的伤害降低 {{N0}}.",
+      "styleMappings": {
+        "Undead": "亡灵",
+        "damage": "伤害",
+        "mobs": "怪物"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Zombie Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要僵尸杀手 {{N0}}.",
+      "styleMappings": {
+        "Zombie Slayer": "僵尸杀手",
+        "Requires": "需要",
+        "Zombie": "僵尸",
+        "Slayer": "杀手"
+      }
+    },
+    {
+      "source": [
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "放在饰品袋中即可生效!",
+      "styleMappings": {
+        "Accessory Bag": "饰品袋",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "RARE ACCESSORY"
+      ],
+      "translation": "稀有饰品",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Zombie": "僵尸",
+    "Artifact": "神器"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

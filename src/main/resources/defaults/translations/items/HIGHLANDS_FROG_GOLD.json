@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "HIGHLANDS_FROG_GOLD",
+  "_original_name": "Highlands Frog GOLD",
+  "_original_lore": [
+    "Found in the Lotus Highlands.",
+    "",
+    "Bring this to Researcher Ribery on",
+    "the Lotus Atoll.",
+    "",
+    "* Soulbound *",
+    "EPIC TROPHY"
+  ],
+  "name": "高地蛙 金",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Found in the Lotus Highlands."
+      ],
+      "translation": "在莲花高地发现.",
+      "styleMappings": {
+        "Lotus Highlands": "莲花高地",
+        "Lotus": "莲花"
+      }
+    },
+    {
+      "source": [
+        "Bring this to Researcher Ribery on",
+        "the Lotus Atoll."
+      ],
+      "translation": "将此物交给莲花环礁上的 Researcher Ribery.",
+      "styleMappings": {
+        "Researcher Ribery": "Researcher Ribery",
+        "Lotus Atoll": "莲花环礁",
+        "Lotus": "莲花"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "EPIC TROPHY"
+      ],
+      "translation": "史诗奖杯",
+      "styleMappings": {
+        "EPIC TROPHY": "史诗奖杯",
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Highlands Frog": "高地蛙",
+    "GOLD": "金"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

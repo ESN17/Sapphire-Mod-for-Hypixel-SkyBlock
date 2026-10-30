@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "GIANT_ISOPOD_SC",
+  "_original_name": "Giant Isopod (Sea Creature)",
+  "_original_lore": [
+    "Mob Types:  Aquatic,  Arthropod,  Elusive",
+    "",
+    "And you thought the Giant Water",
+    "Bugs were big...",
+    "",
+    "❤ Health: 500,000",
+    "",
+    "Fished up on Torrhus Canyon."
+  ],
+  "name": "巨型等足虫 (海怪)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mob Types:  Aquatic,  Arthropod,  Elusive"
+      ],
+      "translation": "生物类型:  水生,  节肢,  稀有",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Arthropod": "节肢",
+        "Aquatic": "水生",
+        "Elusive": "稀有"
+      }
+    },
+    {
+      "source": [
+        "And you thought the Giant Water",
+        "Bugs were big..."
+      ],
+      "translation": "你还以为巨型水蝽已经够大了...",
+      "styleMappings": {
+        "Giant": "巨型"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Fished up on Torrhus Canyon."
+      ],
+      "translation": "在托鲁斯峡谷钓到.",
+      "styleMappings": {
+        "Torrhus Canyon": "托鲁斯峡谷"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sea Creature": "海怪",
+    "Giant": "巨型",
+    "(Sea Creature)": "(海怪)",
+    "Giant Isopod": "巨型等足虫"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

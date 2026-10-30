@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "id": "PEST_CRICKET_MONSTER",
+  "_original_name": "Cricket (Pest)",
+  "_original_lore": [
+    "Usually just a hop, skip, and a",
+    "jump away.",
+    "",
+    "Attracted to Honey Jar.",
+    "",
+    "❤ Health: 600"
+  ],
+  "name": "蟋蟀 (害虫)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Usually just a hop, skip, and a",
+        "jump away."
+      ],
+      "translation": "通常就在一跳、一蹦、一跃之外.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Attracted to Honey Jar."
+      ],
+      "translation": "被蜂蜜罐吸引.",
+      "styleMappings": {
+        "Honey Jar": "蜂蜜罐"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Pest": "害虫",
+    "Cricket": "蟋蟀"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

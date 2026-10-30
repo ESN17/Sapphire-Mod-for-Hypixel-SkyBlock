@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "PIG_MASK",
+  "_original_name": "Pig Mask",
+  "_original_lore": [
+    "Speed: +1",
+    "",
+    "Wear this mask to show your support",
+    "for the Dante resistance.",
+    "",
+    "Cosmetic item!",
+    "",
+    "This item can be reforged!",
+    "LEGENDARY HELMET"
+  ],
+  "name": "猪面具",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Wear this mask to show your support",
+        "for the Dante resistance."
+      ],
+      "translation": "戴上这个面具,表达你对但丁抵抗军的支持.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Cosmetic item!"
+      ],
+      "translation": "装饰性物品!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY HELMET"
+      ],
+      "translation": "传说 头盔",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mask": "面具",
+    "Pig": "猪"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "id": "MINER_OUTFIT_BOOTS",
+  "_original_name": "Prospecting Boots",
+  "_original_lore": [
+    "Defense: +15",
+    "Mining Speed: +15",
+    "",
+    "Full Set Bonus: Beginner's Boost (0/4)",
+    "Grants +40 Mining Speed.",
+    "",
+    "This item can be reforged!",
+    "UNCOMMON BOOTS"
+  ],
+  "name": "勘探靴子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Mining Speed: {{N0}}"
+      ],
+      "translation": "采矿速度: {{N0}}",
+      "styleMappings": {
+        "Mining Speed": "采矿速度",
+        "Mining": "采矿",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Beginner's Boost ({{N0}}/{{N1}})"
+      ],
+      "translation": "全套加成: 新手增益 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Beginner's Boost": "新手增益",
+        "Full Set Bonus": "全套加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Mining Speed."
+      ],
+      "translation": "提供 {{N0}} 采矿速度.",
+      "styleMappings": {
+        "Mining Speed": "采矿速度",
+        "Grants": "提供",
+        "Mining": "采矿",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON BOOTS"
+      ],
+      "translation": "罕见 靴子",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Boots": "靴子"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

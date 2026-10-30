@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "id": "DRAGON_SHORTBOW",
+  "_original_name": "Dragon Shortbow",
+  "_original_lore": [
+    "Damage: +120",
+    "Strength: +40",
+    "Crit Chance: +15%",
+    "Crit Damage: +50%",
+    "Shot Cooldown: 0.5s",
+    "",
+    "Dragon Tracer V",
+    "Arrows home towards dragons if",
+    "they are within 10 blocks.",
+    "",
+    "Some of your enchantments require",
+    "a higher Enchanting level!",
+    "",
+    "Ability: Dragon Stalker ",
+    "Deal 15% bonus damage to Dragons.",
+    "",
+    "Shortbow: Instantly shoots!",
+    "",
+    "This item can be reforged!",
+    "* Co-op Soulbound *",
+    "EPIC BOW"
+  ],
+  "name": "龙短弓",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Crit Chance: {{N0}}"
+      ],
+      "translation": "暴击率: {{N0}}",
+      "styleMappings": {
+        "Crit Chance": "暴击率"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: {{N0}}"
+      ],
+      "translation": "暴击伤害:{{N0}}",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Shot Cooldown: {{N0}}s"
+      ],
+      "translation": "射击间隔:{{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "Dragon Tracer V",
+        "Arrows home towards dragons if",
+        "they are within {{N0}} blocks."
+      ],
+      "translation": "龙追踪 V 箭矢会追踪 {{N0}} 格范围内的龙.",
+      "styleMappings": {
+        "Dragon Tracer V": "龙追踪 V",
+        "blocks": "格",
+        "Dragon": "龙"
+      }
+    },
+    {
+      "source": [
+        "Some of your enchantments require",
+        "a higher Enchanting level!"
+      ],
+      "translation": "你的部分附魔需要更高的附魔等级!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Ability: Dragon Stalker "
+      ],
+      "translation": "能力: 龙猎手 ",
+      "styleMappings": {
+        "Ability: Dragon Stalker": "能力: 龙猎手",
+        "Ability": "能力",
+        "Dragon": "龙"
+      }
+    },
+    {
+      "source": [
+        "Deal {{N0}} bonus damage to Dragons."
+      ],
+      "translation": "对龙造成 {{N0}} 额外伤害.",
+      "styleMappings": {
+        "Dragons": "龙",
+        "damage": "伤害",
+        "Deal": "造成"
+      }
+    },
+    {
+      "source": [
+        "Shortbow: Instantly shoots!"
+      ],
+      "translation": "短弓: 即时射击!",
+      "styleMappings": {
+        "Shortbow": "短弓"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "EPIC BOW"
+      ],
+      "translation": "史诗 弓",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Dragon Shortbow": "龙短弓",
+    "Dragon": "龙",
+    "Shortbow": "短弓"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

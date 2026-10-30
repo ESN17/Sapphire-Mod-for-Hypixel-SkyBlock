@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "id": "BAT_PERSON_HELMET",
+  "_original_name": "Bat Person Helmet",
+  "_original_lore": [
+    "Defense: +15",
+    "",
+    "All Combat Stats on this armor piece",
+    "are multiplied by 2x at night, or by",
+    "3x during the Spooky Festival!",
+    "Additionally, it gives a +5% chance to",
+    "get Candy from mobs during the",
+    "event.",
+    "",
+    "Full Set Bonus: Bat Powers Activate!",
+    "Upgrades your grappling hook and",
+    "turns you into a true vigilante!",
+    "Grants a +5% chance to find rare",
+    "Candy.",
+    "",
+    "You are the hero this world needs.",
+    "",
+    "This item can be reforged!",
+    "LEGENDARY HELMET"
+  ],
+  "name": "蝙蝠人头盔",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "All Combat Stats on this armor piece",
+        "are multiplied by {{N0}}x at night, or by",
+        "{{N1}}x during the Spooky Festival!"
+      ],
+      "translation": "该护甲部件上的所有战斗属性在夜间乘以 {{N0}}倍,或在幽灵节期间乘以 {{N1}}倍!",
+      "styleMappings": {
+        "Spooky Festival": "幽灵节",
+        "Combat Stats": "战斗属性",
+        "night": "夜间",
+        "{{N0}}x": "{{N0}}倍",
+        "{{N1}}x": "{{N1}}倍",
+        "Combat": "战斗",
+        "Spooky": "幽灵",
+        "armor piece": "护甲"
+      }
+    },
+    {
+      "source": [
+        "Additionally, it gives a {{N0}} chance to",
+        "get Candy from mobs during the",
+        "event."
+      ],
+      "translation": "此外,它使你在活动期间从怪物身上获得糖果的几率提高 {{N0}}.",
+      "styleMappings": {
+        "chance": "几率",
+        "Candy": "糖果",
+        "mobs": "怪物",
+        "chance to": "几率"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Bat Powers Activate!"
+      ],
+      "translation": "全套加成: 蝙蝠之力激活!",
+      "styleMappings": {
+        "Full Set Bonus": "全套加成",
+        "Activate": "激活",
+        "Bat": "蝙蝠",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Upgrades your grappling hook and",
+        "turns you into a true vigilante!"
+      ],
+      "translation": "升级你的抓钩,让你成为真正的义警!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants a {{N0}} chance to find rare",
+        "Candy."
+      ],
+      "translation": "获得 {{N0}} 几率找到稀有糖果.",
+      "styleMappings": {
+        "Grants": "获得",
+        "chance": "几率",
+        "Candy": "糖果",
+        "rare": "稀有",
+        "chance to": "几率"
+      }
+    },
+    {
+      "source": [
+        "You are the hero this world needs."
+      ],
+      "translation": "你就是这个世界需要的英雄.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY HELMET"
+      ],
+      "translation": "传说 头盔",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Bat Person Helmet": "蝙蝠人头盔",
+    "Helmet": "头盔",
+    "Bat": "蝙蝠"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

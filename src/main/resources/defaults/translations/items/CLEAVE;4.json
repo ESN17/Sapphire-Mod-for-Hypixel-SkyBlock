@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "id": "CLEAVE;4",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Cleave IV",
+    "Deals 20% of your damage",
+    "dealt to other monsters within",
+    "4.2 blocks of the target.",
+    "",
+    "Sources:",
+    " - Enchantment Table (I-V)",
+    " - Experiments (VI)",
+    " - Bazaar (VI)",
+    "",
+    "Applied To:",
+    " - Sword",
+    " - Longsword",
+    " - Gauntlet",
+    "",
+    "Requirements:",
+    " - Enchanting Level 4",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Cleave IV"
+      ],
+      "translation": "横扫之刃 IV",
+      "styleMappings": {
+        "Cleave": "横扫之刃"
+      }
+    },
+    {
+      "source": [
+        "Deals {{N0}} of your damage",
+        "dealt to other monsters within",
+        "{{N1}} blocks of the target."
+      ],
+      "translation": "对目标 {{N1}} 格范围内的其他怪物造成你伤害的 {{N0}}.",
+      "styleMappings": {
+        "monsters": "怪物",
+        "blocks": "格",
+        "damage": "伤害",
+        "Deals": "造成"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchantment Table (I-V)",
+        " - Experiments (VI)",
+        " - Bazaar (VI)"
+      ],
+      "translation": " - 附魔台 (I-V)  - 实验 (VI)  - 集市 (VI)",
+      "styleMappings": {
+        "Enchantment Table": "附魔台",
+        "Experiments": "实验",
+        "Bazaar": "集市",
+        "I-V": "I-V",
+        "Enchantment": "附魔"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Sword",
+        " - Longsword",
+        " - Gauntlet"
+      ],
+      "translation": " - 剑  - 长剑  - 护手",
+      "styleMappings": {
+        "Sword": "剑",
+        "Longsword": "长剑",
+        "Gauntlet": "护手"
+      }
+    },
+    {
+      "source": [
+        "Requirements:"
+      ],
+      "translation": "需求:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchanting Level {{N0}}"
+      ],
+      "translation": " - 附魔等级 {{N0}}",
+      "styleMappings": {
+        "Enchanting Level": "附魔等级"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

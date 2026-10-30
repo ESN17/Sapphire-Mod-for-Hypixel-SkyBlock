@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "id": "RUNAANS_BOW",
+  "_original_name": "Runaan's Bow",
+  "_original_lore": [
+    "Damage: +160",
+    "Strength: +50",
+    "",
+    "Ability: Triple Shot ",
+    "Shoots 3 arrows at a time! The 2",
+    "extra arrows deal 40% of the",
+    "damage and home to targets.",
+    "",
+    "This item can be reforged!",
+    "LEGENDARY BOW"
+  ],
+  "name": "卢安之弓",
+  "lore": {
+    "Damage: {value}": "伤害:{value}",
+    "Strength: {value}": "力量:{value}",
+    "Ability: Triple Shot ": "技能: 三重射击 ",
+    "This item can be reforged!": "此物品可以洗练!",
+    "LEGENDARY BOW": "传说 弓",
+    "Damage: {value} ({bonus})": "伤害:{value} ({bonus})",
+    "Strength: {value} ({bonus})": "力量:{value} ({bonus})"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "Shoots {count} arrows at a time! The {extra}",
+        "extra arrows deal {damage} of the",
+        "damage and home to targets."
+      ],
+      "translation": "一次射出 {count} 支箭!额外的 {extra} 支箭会追踪目标,造成 {damage} 的伤害.",
+      "styleMappings": {
+        "damage": "伤害",
+        "deal": "造成",
+        "Shoots": "射出"
+      }
+    },
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Ability: Triple Shot "
+      ],
+      "translation": "技能: 三重射击 ",
+      "styleMappings": {
+        "Ability": "技能"
+      }
+    },
+    {
+      "source": [
+        "Shoots {{N0}} arrows at a time! The {{N1}}",
+        "extra arrows deal {{N2}} of the",
+        "damage and home to targets."
+      ],
+      "translation": "一次射出 {{N0}} 支箭!额外的 {{N1}} 支箭会追踪目标,造成 {{N2}} 的伤害.",
+      "styleMappings": {
+        "Shoots": "射出",
+        "deal": "造成",
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY BOW"
+      ],
+      "translation": "传说 弓",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Damage": "伤害",
+    "Strength": "力量",
+    "Bow": "弓"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

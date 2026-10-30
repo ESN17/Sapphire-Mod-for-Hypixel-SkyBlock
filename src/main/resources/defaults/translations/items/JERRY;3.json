@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "id": "JERRY;3",
+  "_original_name": "[Lvl {LVL}] Jerry",
+  "_original_lore": [
+    "Combat Pet",
+    "",
+    "Intelligence: -{INTELLIGENCE}",
+    "",
+    "Jerry",
+    "Gain 50% chance to deal your",
+    "regular damage",
+    "",
+    "Jerry",
+    "Gain 100% chance to receive a",
+    "normal amount of drops from mobs",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "EPIC PET"
+  ],
+  "name": "[等级 {LVL}] 杰瑞",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combat Pet"
+      ],
+      "translation": "战斗宠物",
+      "styleMappings": {
+        "Combat Pet": "战斗宠物",
+        "Combat": "战斗",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: -{{N0}}"
+      ],
+      "translation": "智力:-{{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Jerry"
+      ],
+      "translation": "杰瑞",
+      "styleMappings": {
+        "Jerry": "杰瑞"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}} chance to deal your",
+        "regular damage"
+      ],
+      "translation": "获得 {{N0}} 几率造成你的普通伤害",
+      "styleMappings": {
+        "chance": "几率",
+        "damage": "伤害",
+        "Gain": "获得",
+        "deal": "造成",
+        "chance to": "几率"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}} chance to receive a",
+        "normal amount of drops from mobs"
+      ],
+      "translation": "获得 {{N0}} 几率从怪物身上获得正常数量的掉落物",
+      "styleMappings": {
+        "chance": "几率",
+        "mobs": "怪物",
+        "Gain": "获得",
+        "chance to": "几率"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "EPIC PET"
+      ],
+      "translation": "史诗 宠物",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Jerry": "杰瑞",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

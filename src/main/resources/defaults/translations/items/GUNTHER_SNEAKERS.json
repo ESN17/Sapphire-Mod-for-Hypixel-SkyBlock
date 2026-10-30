@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "GUNTHER_SNEAKERS",
+  "_original_name": "Gunther's Sneakers",
+  "_original_lore": [
+    "Rift Time: +30s",
+    "Speed: +4",
+    "",
+    "RARE BOOTS"
+  ],
+  "name": "Gunther的运动鞋",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Rift Time: {{N0}}s"
+      ],
+      "translation": "裂隙时间: {{N0}}秒",
+      "styleMappings": {
+        "Rift Time": "裂隙时间",
+        "{{N0}}s": "{{N0}}秒",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "RARE BOOTS"
+      ],
+      "translation": "稀有靴子",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

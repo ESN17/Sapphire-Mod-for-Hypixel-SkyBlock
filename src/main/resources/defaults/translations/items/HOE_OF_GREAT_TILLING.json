@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "HOE_OF_GREAT_TILLING",
+  "_original_name": "Hoe of Great Tilling",
+  "_original_lore": [
+    "Tills a 3x3 area of farmland at a time.",
+    "",
+    "❣ Requires Farming Skill 2.",
+    "UNCOMMON"
+  ],
+  "name": "优良耕地锄",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Tills a {{N0}}x{{N1}} area of farmland at a time."
+      ],
+      "translation": "每次可耕地 {{N0}}乘{{N1}} 区域.",
+      "styleMappings": {
+        "{{N0}}x{{N1}}": "{{N0}}乘{{N1}}"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Farming Skill {{N0}}."
+      ],
+      "translation": "❣ 需要农业技能 {{N0}}.",
+      "styleMappings": {
+        "Farming Skill": "农业技能",
+        "Requires": "需要",
+        "Farming": "农业",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

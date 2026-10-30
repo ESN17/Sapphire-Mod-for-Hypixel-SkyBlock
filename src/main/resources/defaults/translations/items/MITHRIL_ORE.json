@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "MITHRIL_ORE",
+  "_original_name": "Mithril",
+  "_original_lore": [
+    "Brewing Ingredient",
+    "Collection Item",
+    "",
+    "\"The Man called it \"true-silver\" while",
+    "the Dwarves, who loved it above all",
+    "things, had their own, secret name",
+    "for it.\"",
+    "",
+    "COMMON DWARVEN METAL"
+  ],
+  "name": "秘银",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Brewing Ingredient",
+        "Collection Item"
+      ],
+      "translation": "酿造材料收藏物品",
+      "styleMappings": {
+        "Brewing Ingredient": "酿造材料",
+        "Collection Item": "收藏物品",
+        "Collection": "收藏",
+        "Item": "物品"
+      }
+    },
+    {
+      "source": [
+        "\"The Man called it \"true-silver\" while",
+        "the Dwarves, who loved it above all",
+        "things, had their own, secret name",
+        "for it.\""
+      ],
+      "translation": "\"人类称之为\"真银\",而矮人视其为至爱,对它有着自己秘密的称呼.\"",
+      "styleMappings": {
+        "Dwarves": "矮人"
+      }
+    },
+    {
+      "source": [
+        "COMMON DWARVEN METAL"
+      ],
+      "translation": "普通矮人金属",
+      "styleMappings": {
+        "COMMON DWARVEN METAL": "普通矮人金属",
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mithril": "秘银"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

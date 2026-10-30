@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "id": "MEDIUM_POCKET_BLACK_HOLE",
+  "_original_name": "Medium Pocket Black Hole",
+  "_original_lore": [
+    "Hunting Tool",
+    "",
+    "Ability: Black Hole  RIGHT CLICK",
+    "Place the Black Hole for 180s, and",
+    "it'll start pulling low HP monsters",
+    "towards it.",
+    "Cooldown: 2s",
+    "",
+    "Harness the power of Gravity!",
+    "",
+    "Monsters below 10% HP can even get",
+    "their Shard captured!",
+    "",
+    "Ability: Blessing from the Dark ",
+    "Grants 2.5 Hunting Fortune on",
+    "Combat Shards caught with this Black",
+    "Hole!",
+    "",
+    "RARE DEPLOYABLE"
+  ],
+  "name": "中型便携黑洞",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Hunting Tool"
+      ],
+      "translation": "狩猎工具",
+      "styleMappings": {
+        "Hunting Tool": "狩猎工具"
+      }
+    },
+    {
+      "source": [
+        "Ability: Black Hole  RIGHT CLICK"
+      ],
+      "translation": "技能:黑洞  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Black Hole": "黑洞",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Place the Black Hole for {{N0}}s, and",
+        "it'll start pulling low HP monsters",
+        "towards it."
+      ],
+      "translation": "放置黑洞 {{N0}} 秒,它会开始将低血量怪物拉向它.",
+      "styleMappings": {
+        "Black Hole": "黑洞",
+        "monsters": "怪物",
+        "low HP": "低血量",
+        "{{N0}}s": "{{N0}} 秒"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "Harness the power of Gravity!"
+      ],
+      "translation": "驾驭重力的力量!",
+      "styleMappings": {
+        "Gravity": "重力"
+      }
+    },
+    {
+      "source": [
+        "Monsters below {{N0}} HP can even get",
+        "their Shard captured!"
+      ],
+      "translation": "血量低于 {{N0}} 的怪物甚至可以被捕获碎片!",
+      "styleMappings": {
+        "Monsters": "怪物",
+        "Shard": "碎片"
+      }
+    },
+    {
+      "source": [
+        "Ability: Blessing from the Dark "
+      ],
+      "translation": "能力:黑暗祝福 ",
+      "styleMappings": {
+        "Blessing from the Dark": "黑暗祝福",
+        "Ability": "能力",
+        "Blessing": "祝福"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Hunting Fortune on",
+        "Combat Shards caught with this Black",
+        "Hole!"
+      ],
+      "translation": "用此黑洞捕获的战斗碎片获得 {{N0}} 狩猎幸运!",
+      "styleMappings": {
+        "Hunting Fortune": "狩猎幸运",
+        "Combat Shards": "战斗碎片",
+        "Black Hole": "黑洞",
+        "Grants": "获得",
+        "Combat": "战斗",
+        "Fortune": "幸运"
+      }
+    },
+    {
+      "source": [
+        "RARE DEPLOYABLE"
+      ],
+      "translation": "稀有 部署物",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Black Hole": "黑洞"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

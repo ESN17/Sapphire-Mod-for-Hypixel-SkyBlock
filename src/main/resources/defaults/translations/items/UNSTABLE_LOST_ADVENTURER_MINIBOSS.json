@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "UNSTABLE_LOST_ADVENTURER_MINIBOSS",
+  "_original_name": "Unstable Lost Adventurer (Miniboss)",
+  "_original_lore": [
+    "Long lost to the depths of the",
+    "Catacombs.",
+    "",
+    "❤ Health: 60,000 - 7,000,000",
+    "❤ Health (MM) : 8,000,000 - 160,000,000"
+  ],
+  "name": "不稳定迷失冒险者 (小首领)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Long lost to the depths of the",
+        "Catacombs."
+      ],
+      "translation": "早已迷失在地牢深处.",
+      "styleMappings": {
+        "Catacombs": "地牢",
+        "depths": "深处",
+        "the Catacombs": "地牢"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}} - {{N1}}"
+      ],
+      "translation": "❤ 生命值: {{N0}} - {{N1}}",
+      "styleMappings": {
+        "Health": "生命值",
+        "-": "-"
+      }
+    },
+    {
+      "source": [
+        "❤ Health (MM) : {{N0}} - {{N1}}"
+      ],
+      "translation": "❤ 生命值 (MM) : {{N0}} - {{N1}}",
+      "styleMappings": {
+        "Health": "生命值",
+        "-": "-"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Miniboss)": "(小首领)",
+    "Miniboss": "小首领"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

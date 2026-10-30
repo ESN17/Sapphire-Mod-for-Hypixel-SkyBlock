@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "TUNING_FORK",
+  "_original_name": "Tuning Fork",
+  "_original_lore": [
+    "Left-Click: Pick tune!",
+    "Right-Click Note Block: Tune it!",
+    "",
+    "Tuning: C#",
+    "",
+    "Earned from perfecting Pachelbel on",
+    "the personal harp.",
+    "",
+    "RARE"
+  ],
+  "name": "音叉",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Left-Click: Pick tune!"
+      ],
+      "translation": "左键点击: 选择音调!",
+      "styleMappings": {
+        "Left-Click": "左键点击",
+        "Pick tune!": "选择音调!"
+      }
+    },
+    {
+      "source": [
+        "Right-Click Note Block: Tune it!"
+      ],
+      "translation": "右键点击音符盒: 调音!",
+      "styleMappings": {
+        "Right-Click Note Block": "右键点击音符盒",
+        "Tune it!": "调音!",
+        "Right-Click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "Tuning: C#"
+      ],
+      "translation": "音调: C#",
+      "styleMappings": {
+        "Tuning": "音调"
+      }
+    },
+    {
+      "source": [
+        "Earned from perfecting Pachelbel on",
+        "the personal harp."
+      ],
+      "translation": "在私人竖琴上完美演奏帕赫贝尔后获得.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

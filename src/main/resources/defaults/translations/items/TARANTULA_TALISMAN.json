@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "id": "TARANTULA_TALISMAN",
+  "_original_name": "Tarantula Talisman",
+  "_original_lore": [
+    "Accessory Power: +12",
+    "",
+    "Every 10th melee hit on the same",
+    "enemy deals +10% damage.",
+    "",
+    "☠ Requires Spider Slayer 6.",
+    "Works while in Accessory Bag!",
+    "EPIC ACCESSORY"
+  ],
+  "name": "狼蛛护符",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Accessory Power: {{N0}}"
+      ],
+      "translation": "饰品能量: {{N0}}",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "Every {{N0}}th melee hit on the same",
+        "enemy deals {{N1}} damage."
+      ],
+      "translation": "对同一敌人的每第 {{N0}} 次近战攻击造成 {{N1}} 伤害.",
+      "styleMappings": {
+        "melee hit": "近战攻击",
+        "damage": "伤害",
+        "hit": "攻击"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Spider Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要蜘蛛杀手 {{N0}}.",
+      "styleMappings": {
+        "Spider Slayer": "蜘蛛杀手",
+        "Requires": "需要",
+        "Spider": "蜘蛛",
+        "Slayer": "杀手"
+      }
+    },
+    {
+      "source": [
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "放在饰品袋中即可生效!",
+      "styleMappings": {
+        "Accessory Bag": "饰品袋",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "EPIC ACCESSORY"
+      ],
+      "translation": "史诗饰品",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Tarantula": "狼蛛",
+    "Talisman": "护符"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

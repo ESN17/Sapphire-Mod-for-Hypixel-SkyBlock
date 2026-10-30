@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "id": "SUNS_GRASP",
+  "_original_name": "Sun's Grasp",
+  "_original_lore": [
+    "Farming Fortune: +12",
+    "",
+    "While breaking crops with your fist:",
+    "  Grants x2  Overbloom",
+    "  Capped at 500 Farming Fortune",
+    "  Crops automatically replanted",
+    "",
+    "A farmer of legend, said to be born",
+    "of the sun’s grace itself. With bare",
+    "hands he cultivated the earth, and",
+    "from his harvests baked humble",
+    "bread bowls, gifted only to those",
+    "held close to his heart.",
+    "",
+    "Right-click to equip!",
+    "",
+    "This item can be reforged!",
+    "LEGENDARY GLOVES"
+  ],
+  "name": "太阳之握",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Farming Fortune: {{N0}}"
+      ],
+      "translation": "农业幸运: {{N0}}",
+      "styleMappings": {
+        "Farming Fortune": "农业幸运",
+        "Fortune": "幸运",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "While breaking crops with your fist:"
+      ],
+      "translation": "用拳头破坏作物时:",
+      "styleMappings": {
+        "crops": "作物"
+      }
+    },
+    {
+      "source": [
+        "  Grants x{{N0}}  Overbloom",
+        "  Capped at {{N1}} Farming Fortune",
+        "  Crops automatically replanted"
+      ],
+      "translation": "  获得 {{N0}} 倍  稀有作物概率加成   上限为 {{N1}} 农业幸运   作物自动补种",
+      "styleMappings": {
+        "Farming Fortune": "农业幸运",
+        "automatically": "自动",
+        "Overbloom": "稀有作物概率加成",
+        "Grants": "获得",
+        "Crops": "作物",
+        "Fortune": "幸运",
+        "Farming": "农业",
+        "x{{N0}}": "{{N0}} 倍"
+      }
+    },
+    {
+      "source": [
+        "A farmer of legend, said to be born",
+        "of the sun’s grace itself. With bare",
+        "hands he cultivated the earth, and",
+        "from his harvests baked humble",
+        "bread bowls, gifted only to those",
+        "held close to his heart."
+      ],
+      "translation": "传说中的农夫,据说诞生于太阳的恩泽本身.他赤手耕作大地,用收获的作物烤制朴素的碗装面包,只赠予他心中珍视之人.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to equip!"
+      ],
+      "translation": "右键点击装备!",
+      "styleMappings": {
+        "Right-click to equip!": "右键点击装备!",
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY GLOVES"
+      ],
+      "translation": "传说手套",
+      "styleMappings": {
+        "LEGENDARY": "传说",
+        "GLOVES": "手套"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sun": "太阳"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

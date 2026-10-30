@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "AQUA_AFFINITY;1",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Aqua Affinity I",
+    "Increases your underwater mining",
+    "rate.",
+    "",
+    "Source:",
+    " - Enchantment Table (I)",
+    "",
+    "Applied To:",
+    " - Helmet",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Aqua Affinity I"
+      ],
+      "translation": "水下速掘 I",
+      "styleMappings": {
+        "Aqua Affinity": "水下速掘",
+        "Aqua Affinity I": "水下速掘 I"
+      }
+    },
+    {
+      "source": [
+        "Increases your underwater mining",
+        "rate."
+      ],
+      "translation": "提高你的水下挖掘速度.",
+      "styleMappings": {
+        "underwater": "水下"
+      }
+    },
+    {
+      "source": [
+        "Source:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchantment Table (I)"
+      ],
+      "translation": " - 附魔台 (I)",
+      "styleMappings": {
+        "Enchantment Table": "附魔台",
+        "I": "I",
+        "Enchantment": "附魔"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Helmet"
+      ],
+      "translation": " - 头盔",
+      "styleMappings": {
+        "Helmet": "头盔"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

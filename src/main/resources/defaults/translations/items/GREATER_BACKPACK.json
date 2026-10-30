@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "GREATER_BACKPACK",
+  "_original_name": "Greater Backpack",
+  "_original_lore": [
+    "A bag with 36 slots which can be",
+    "placed in your Storage Menu to",
+    "store additional items.",
+    "",
+    "EPIC"
+  ],
+  "name": "高级背包",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A bag with {{N0}} slots which can be",
+        "placed in your Storage Menu to",
+        "store additional items."
+      ],
+      "translation": "一个有 {{N0}} 个格子的背包,可放入你的存储菜单以存放额外物品.",
+      "styleMappings": {
+        "additional": "额外",
+        "items": "物品"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Greater Backpack": "高级背包"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

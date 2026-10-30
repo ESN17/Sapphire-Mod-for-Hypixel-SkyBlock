@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "id": "PORTABLE_CAMPFIRE",
+  "_original_name": "Portable Campfire",
+  "_original_lore": [
+    "Can be placed down in the Glacite",
+    "Tunnels.",
+    "",
+    "Interacting with a campfire belonging",
+    "to you or another player will reduce",
+    "your ❄ Cold by 50.",
+    "",
+    "Each campfire can only be",
+    "interacted with once, and you can",
+    "only place one campfire every 5",
+    "minutes.",
+    "",
+    "Consumed on use!",
+    "",
+    "RARE"
+  ],
+  "name": "便携营火",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Can be placed down in the Glacite",
+        "Tunnels."
+      ],
+      "translation": "可放置在冰川矿道中.",
+      "styleMappings": {
+        "Glacite Tunnels": "冰川矿道",
+        "Glacite": "冰川"
+      }
+    },
+    {
+      "source": [
+        "Interacting with a campfire belonging",
+        "to you or another player will reduce",
+        "your ❄ Cold by {{N0}}."
+      ],
+      "translation": "与属于你或其他玩家的营火互动,可减少 {{N0}} 点 ❄ 寒冷.",
+      "styleMappings": {
+        "player": "玩家",
+        "Cold": "寒冷",
+        "❄ Cold": "❄ 寒冷"
+      }
+    },
+    {
+      "source": [
+        "Each campfire can only be",
+        "interacted with once, and you can",
+        "only place one campfire every {{N0}}",
+        "minutes."
+      ],
+      "translation": "每个营火只能互动一次,且每 {{N0}} 分钟只能放置一个营火.",
+      "styleMappings": {
+        "minutes": "分钟"
+      }
+    },
+    {
+      "source": [
+        "Consumed on use!"
+      ],
+      "translation": "使用后消耗!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "SMOLDERING_BLAZE_MONSTER",
+  "_original_name": "Smoldering Blaze (Monster)",
+  "_original_lore": [
+    "They started the fire.",
+    "",
+    "❤ Health: 2,000,000"
+  ],
+  "name": "阴燃烈焰 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "They started the fire."
+      ],
+      "translation": "火是他们放的.",
+      "styleMappings": {
+        "fire": "火"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Smoldering Blaze (Monster)": "阴燃烈焰 (怪物)",
+    "(Monster)": "(怪物)",
+    "Blaze": "烈焰",
+    "Monster": "怪物",
+    "Smoldering": "阴燃"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

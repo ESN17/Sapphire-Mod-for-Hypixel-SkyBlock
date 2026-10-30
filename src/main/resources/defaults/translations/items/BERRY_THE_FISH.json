@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "BERRY_THE_FISH",
+  "_original_name": "Berry the Fish",
+  "_original_lore": [
+    "One berry a day. Yeah.",
+    "",
+    "SPECIAL"
+  ],
+  "name": "浆果鱼",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "One berry a day. Yeah."
+      ],
+      "translation": "每天一颗浆果.没错.",
+      "styleMappings": {
+        "day": "天"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fish": "鱼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

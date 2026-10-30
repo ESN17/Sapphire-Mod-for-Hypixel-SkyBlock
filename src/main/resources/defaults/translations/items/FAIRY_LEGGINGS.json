@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "id": "FAIRY_LEGGINGS",
+  "_original_name": "Fairy's Trousers",
+  "_original_lore": [
+    "Health: +1",
+    "Defense: +1",
+    "Intelligence: -1",
+    "Speed: +10",
+    "",
+    "Full Set Bonus: Fairy's Outfit (0/4)",
+    "Gain 1❤ per Fairy Soul.",
+    "You found: 1 Fairy Soul",
+    "",
+    "This item can be reforged!",
+    "RARE LEGGINGS"
+  ],
+  "name": "仙女长裤",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Fairy's Outfit ({{N0}}/{{N1}})"
+      ],
+      "translation": "套装奖励: 仙女套装 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Fairy's Outfit": "仙女套装",
+        "Full Set Bonus": "套装奖励"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}}❤ per Fairy Soul."
+      ],
+      "translation": "每个仙女之魂获得 {{N0}}❤.",
+      "styleMappings": {
+        "Fairy Soul": "仙女之魂",
+        "Gain": "获得",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "You found: {{N0}} Fairy Soul"
+      ],
+      "translation": "你找到了: {{N0}} 个仙女之魂",
+      "styleMappings": {
+        "Fairy Soul": "仙女之魂"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "RARE LEGGINGS"
+      ],
+      "translation": "稀有 护腿",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

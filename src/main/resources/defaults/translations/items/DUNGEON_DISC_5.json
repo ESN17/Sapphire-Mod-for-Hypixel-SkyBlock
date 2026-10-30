@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "id": "DUNGEON_DISC_5",
+  "_original_name": "Necron Disc",
+  "_original_lore": [
+    "Place this inside a jukebox to play a",
+    "dungeon song!",
+    "",
+    "Necron Doom",
+    "  By ShinkoNet",
+    "",
+    "EPIC"
+  ],
+  "name": "奈克隆唱片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Place this inside a jukebox to play a",
+        "dungeon song!"
+      ],
+      "translation": "将其放入唱片机以播放地牢歌曲!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Necron Doom"
+      ],
+      "translation": "奈克隆末日",
+      "styleMappings": {
+        "Necron": "奈克隆"
+      }
+    },
+    {
+      "source": [
+        "  By ShinkoNet"
+      ],
+      "translation": "  作者 辛科网",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Necron": "奈克隆"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

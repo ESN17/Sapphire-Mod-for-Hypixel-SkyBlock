@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "REVENANT_CHAMPION_MINIBOSS",
+  "_original_name": "Revenant Champion (Miniboss)",
+  "_original_lore": [
+    "The Revenant Champion is a Revenant Horror/Zombie",
+    "Slayer Miniboss that has a small chance to be",
+    "spawned when a player with an active Revenant Horror",
+    "Tier IV Quest Kills a Zombie. ",
+    "",
+    "❤ Health: 90,000"
+  ],
+  "name": "亡魂勇士 (小首领)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Revenant Champion is a Revenant Horror/Zombie",
+        "Slayer Miniboss that has a small chance to be",
+        "spawned when a player with an active Revenant Horror",
+        "Tier IV Quest Kills a Zombie. "
+      ],
+      "translation": "亡魂勇士是亡魂恐魔/僵尸杀手小首领,当拥有进行中的亡魂恐魔 IV 阶任务的玩家击杀僵尸时,有小概率生成. ",
+      "styleMappings": {
+        "Revenant Horror/Zombie Slayer": "亡魂恐魔/僵尸杀手",
+        "Revenant Champion": "亡魂勇士",
+        "Revenant Horror": "亡魂恐魔",
+        "Tier IV Quest": "IV 阶任务",
+        "chance to": "概率",
+        "Miniboss": "小首领",
+        "Zombie": "僵尸",
+        "player": "玩家",
+        "Champion": "勇士",
+        "chance": "概率",
+        "Slayer": "杀手",
+        "Zombie Slayer": "僵尸杀手",
+        "when": "时",
+        "Revenant Horror/Zombie Slayer Miniboss": "亡魂恐魔/僵尸杀手小首领",
+        "Slayer Miniboss": "杀手小首领"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Revenant Champion": "亡魂勇士",
+    "(Miniboss)": "(小首领)",
+    "Champion": "勇士",
+    "Miniboss": "小首领"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

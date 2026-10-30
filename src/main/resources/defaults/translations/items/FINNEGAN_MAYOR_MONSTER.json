@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": "FINNEGAN_MAYOR_MONSTER",
+  "_original_name": "Finnegan (Mayor)",
+  "_original_lore": [
+    "Candidate",
+    "",
+    "Pest Eradicator",
+    "The duration of Pesthunter",
+    "Phillip's ☘ Farming Fortune bonus",
+    "is now 60m. Decreases the spawn",
+    "cooldown of Pests by 20%.",
+    "",
+    "Grand Feast",
+    "Finnegan upgrades the Harvest",
+    "Feast into the Grand Feast, making",
+    "it last a full SkyBlock year. Also",
+    "opens the Grand Bakery, where",
+    "Kernels can be spent on more",
+    "exclusive items.",
+    "",
+    "GOATed",
+    "Jacob's Farming Contest brackets",
+    "include 10% more players",
+    "each.",
+    "",
+    "Blooming Business",
+    "All Garden Visitors reward Fine",
+    "Flour and +10% Copper for",
+    "accepting offers. Invites 5 unique",
+    "visitors to your Garden and makes",
+    "higher rarity visitors 20% more",
+    "likely to show up."
+  ],
+  "name": "Finnegan (市长)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Candidate"
+      ],
+      "translation": "候选人",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Pest Eradicator",
+        "The duration of Pesthunter",
+        "Phillip's ☘ Farming Fortune bonus",
+        "is now {{N0}}m. Decreases the spawn",
+        "cooldown of Pests by {{N1}}."
+      ],
+      "translation": "害虫根除者 Pesthunter Phillip 的 ☘ 农业幸运加成持续时间现在为 {{N0}} 分钟.害虫的生成冷却时间减少 {{N1}}.",
+      "styleMappings": {
+        "Pesthunter Phillip's": "Pesthunter Phillip 的",
+        "Farming Fortune": "农业幸运",
+        "Pest Eradicator": "害虫根除者",
+        "cooldown": "冷却",
+        "Pests": "害虫",
+        "{{N0}}m": "{{N0}} 分钟",
+        "Pest": "害虫",
+        "Fortune": "幸运",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "Grand Feast",
+        "Finnegan upgrades the Harvest",
+        "Feast into the Grand Feast, making",
+        "it last a full SkyBlock year. Also",
+        "opens the Grand Bakery, where",
+        "Kernels can be spent on more",
+        "exclusive items."
+      ],
+      "translation": "盛大丰收节 Finnegan 将丰收节升级为盛大丰收节,使其持续整个空岛生存年.同时开放大烘焙坊,可花费谷粒兑换更多专属物品.",
+      "styleMappings": {
+        "Grand Feast": "盛大丰收节",
+        "Harvest Feast": "丰收节",
+        "Grand Bakery": "大烘焙坊",
+        "Kernels": "谷粒",
+        "Finnegan upgrades the": "Finnegan 将"
+      }
+    },
+    {
+      "source": [
+        "GOATed",
+        "Jacob's Farming Contest brackets",
+        "include {{N0}} more players",
+        "each."
+      ],
+      "translation": "顶尖 Jacob 的农业竞赛各档位各多容纳 {{N0}} 名玩家.",
+      "styleMappings": {
+        "Jacob's Farming Contest": "Jacob 的农业竞赛",
+        "GOATed": "顶尖",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "Blooming Business",
+        "All Garden Visitors reward Fine",
+        "Flour and {{N0}} Copper for",
+        "accepting offers. Invites {{N1}} unique",
+        "visitors to your Garden and makes",
+        "higher rarity visitors {{N2}} more",
+        "likely to show up."
+      ],
+      "translation": "繁荣生意 所有花园访客在接受报价时奖励精制面粉和 {{N0}} 铜,邀请 {{N1}} 名独特访客来到你的花园,并使更高稀有度的访客出现概率提高 {{N2}}.",
+      "styleMappings": {
+        "Blooming Business": "繁荣生意",
+        "Garden Visitors": "花园访客",
+        "Fine Flour": "精制面粉",
+        "Copper": "铜",
+        "Garden": "花园",
+        "rarity": "稀有度",
+        "reward": "奖励",
+        "unique": "独特",
+        "Visitors": "访客"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mayor": "市长"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

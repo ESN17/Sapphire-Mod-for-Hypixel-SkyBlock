@@ -1,0 +1,211 @@
+{
+  "schemaVersion": 1,
+  "id": "TITANIUM_DRILL_2",
+  "_original_name": "Titanium Drill DR-X455",
+  "_original_lore": [
+    "Breaking Power 8",
+    "",
+    "Damage: +75",
+    "Mining Speed: +900",
+    "Mining Fortune: +40",
+    "Gemstones: []",
+    "",
+    "Fuel Tank: Not Installed",
+    "Increases fuel capacity with part",
+    "installed.",
+    "",
+    "Drill Engine: Not Installed",
+    "Increases  Mining Speed with part",
+    "installed.",
+    "",
+    "Upgrade Module: Not Installed",
+    "Applies a passive upgrade with part",
+    "installed.",
+    "",
+    "Apply Drill Parts to this Drill by",
+    "talking to a Drill Mechanic!",
+    "",
+    "Fuel: 3,000/3k",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Heart of the Mountain Tier 5.",
+    "EPIC DRILL"
+  ],
+  "name": "钛钻头 DR-X455",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Breaking Power {{N0}}"
+      ],
+      "translation": "破坏力 {{N0}}",
+      "styleMappings": {
+        "Breaking Power": "破坏力"
+      }
+    },
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Mining Speed: {{N0}}"
+      ],
+      "translation": "采矿速度: {{N0}}",
+      "styleMappings": {
+        "Mining Speed": "采矿速度",
+        "Mining": "采矿",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Mining Fortune: {{N0}}"
+      ],
+      "translation": "采矿幸运: {{N0}}",
+      "styleMappings": {
+        "Mining Fortune": "采矿幸运",
+        "Mining": "采矿",
+        "Fortune": "幸运"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: []"
+      ],
+      "translation": "宝石: []",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石"
+      }
+    },
+    {
+      "source": [
+        "Fuel Tank: Not Installed"
+      ],
+      "translation": "燃料箱: 未安装",
+      "styleMappings": {
+        "Not Installed": "未安装",
+        "Fuel Tank": "燃料箱",
+        "Fuel": "燃料"
+      }
+    },
+    {
+      "source": [
+        "Increases fuel capacity with part",
+        "installed."
+      ],
+      "translation": "安装部件后增加燃料容量.",
+      "styleMappings": {
+        "Increases": "增加"
+      }
+    },
+    {
+      "source": [
+        "Drill Engine: Not Installed"
+      ],
+      "translation": "钻头引擎: 未安装",
+      "styleMappings": {
+        "Not Installed": "未安装",
+        "Drill Engine": "钻头引擎",
+        "Drill": "钻头"
+      }
+    },
+    {
+      "source": [
+        "Increases  Mining Speed with part",
+        "installed."
+      ],
+      "translation": "安装部件后增加  采矿速度.",
+      "styleMappings": {
+        "Mining Speed": "采矿速度",
+        "Increases": "增加",
+        "Mining": "采矿",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Upgrade Module: Not Installed"
+      ],
+      "translation": "升级模块: 未安装",
+      "styleMappings": {
+        "Upgrade Module": "升级模块",
+        "Not Installed": "未安装"
+      }
+    },
+    {
+      "source": [
+        "Applies a passive upgrade with part",
+        "installed."
+      ],
+      "translation": "安装部件后提供被动升级.",
+      "styleMappings": {
+        "upgrade": "升级",
+        "passive": "被动"
+      }
+    },
+    {
+      "source": [
+        "Apply Drill Parts to this Drill by",
+        "talking to a Drill Mechanic!"
+      ],
+      "translation": "与钻头机械师交谈,为这把钻头安装钻头部件!",
+      "styleMappings": {
+        "Drill Mechanic": "钻头机械师",
+        "Drill": "钻头"
+      }
+    },
+    {
+      "source": [
+        "Fuel: {{N0}}/{{N1}}k"
+      ],
+      "translation": "燃料: {{N0}}/{{N1}}千",
+      "styleMappings": {
+        "Fuel": "燃料",
+        "{{N1}}k": "{{N1}}千"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Heart of the Mountain Tier {{N0}}."
+      ],
+      "translation": "❣ 需要山峰之心等级 {{N0}}.",
+      "styleMappings": {
+        "Heart of the Mountain Tier": "山峰之心等级",
+        "Requires": "需要",
+        "Heart of the Mountain": "山峰之心"
+      }
+    },
+    {
+      "source": [
+        "EPIC DRILL"
+      ],
+      "translation": "史诗 钻头",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Titanium": "钛",
+    "Drill": "钻头",
+    "DR-X455": "DR-X455"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

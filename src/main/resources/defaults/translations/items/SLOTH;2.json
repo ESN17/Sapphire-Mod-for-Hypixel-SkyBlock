@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "SLOTH;2",
+  "_original_name": "[Lvl {LVL}] Sloth",
+  "_original_lore": [
+    "Foraging Pet",
+    "",
+    "Sweep: +{SWEEP}",
+    "Foraging Fortune: +{FORAGING_FORTUNE}",
+    "",
+    "Slow Start",
+    "Every 60s, your next cut gains",
+    "+{0} Sweep and +{1} Foraging",
+    "Fortune.",
+    "",
+    "Stronk Arm",
+    "Gains +{2} Sweep and +{3}",
+    "Foraging Fortune on Axe throws.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "RARE PET"
+  ],
+  "name": "[等级 {LVL}] 树懒",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Foraging Pet"
+      ],
+      "translation": "采伐宠物",
+      "styleMappings": {
+        "Foraging Pet": "采伐宠物",
+        "Pet": "宠物",
+        "Foraging": "采伐"
+      }
+    },
+    {
+      "source": [
+        "Sweep: +{{N0}}"
+      ],
+      "translation": "扫击: +{{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Foraging Fortune: +{{N0}}"
+      ],
+      "translation": "采伐幸运: +{{N0}}",
+      "styleMappings": {
+        "Foraging Fortune": "采伐幸运",
+        "Fortune": "幸运",
+        "Foraging": "采伐"
+      }
+    },
+    {
+      "source": [
+        "Slow Start"
+      ],
+      "translation": "缓慢起步",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Every {{N0}}s, your next cut gains",
+        "+{{N1}} Sweep and +{{N2}} Foraging",
+        "Fortune."
+      ],
+      "translation": "每 {{N0}} 秒,你的下一次砍伐获得 +{{N1}} 采伐范围和 +{{N2}} 采伐幸运.",
+      "styleMappings": {
+        " Foraging Fortune": " 采伐幸运",
+        " Sweep": " 采伐",
+        "s": "秒",
+        "Foraging Fortune": "采伐幸运",
+        "Sweep": "采伐",
+        "{{N0}}s": "{{N0}} 秒",
+        "Fortune": "幸运",
+        "Foraging": "采伐"
+      }
+    },
+    {
+      "source": [
+        "Stronk Arm"
+      ],
+      "translation": "强壮手臂",
+      "styleMappings": {
+        "Stronk Arm": "强壮手臂"
+      }
+    },
+    {
+      "source": [
+        "Gains +{{N0}} Sweep and +{{N1}}",
+        "Foraging Fortune on Axe throws."
+      ],
+      "translation": "斧头投掷时获得 +{{N0}} 采伐范围和 +{{N1}} 采伐幸运.",
+      "styleMappings": {
+        " Foraging Fortune": " 采伐幸运",
+        " Sweep": " 采伐",
+        "Gains": "获得",
+        "Axe": "斧头",
+        "Foraging Fortune": "采伐幸运",
+        "Sweep": "采伐",
+        "Fortune": "幸运",
+        "Foraging": "采伐"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "RARE PET"
+      ],
+      "translation": "稀有 宠物",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sloth": "树懒",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

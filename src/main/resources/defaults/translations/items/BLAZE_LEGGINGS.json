@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "id": "BLAZE_LEGGINGS",
+  "_original_name": "Blaze Leggings",
+  "_original_lore": [
+    "Defense: +130",
+    "Strength: +30",
+    "Speed: +2",
+    "Gemstones: []",
+    "",
+    "Full Set Bonus: Blazing Aura (0/4)",
+    "Damages mobs within 5 blocks for 3%",
+    "of their max  Health per second.",
+    "",
+    "Max 500 damage/s",
+    "Blaze Rod Collection: 0",
+    "+100 per 5,000 rods",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Combat Skill 22.",
+    "EPIC LEGGINGS"
+  ],
+  "name": "烈焰人护腿",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: []"
+      ],
+      "translation": "宝石: []",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Blazing Aura ({{N0}}/{{N1}})"
+      ],
+      "translation": "全套加成: 烈焰光环 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Full Set Bonus": "全套加成",
+        "Blazing Aura": "烈焰光环",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Damages mobs within {{N0}} blocks for {{N1}}",
+        "of their max  Health per second."
+      ],
+      "translation": "每秒对 {{N0}} 格内的怪物造成其最大  生命值 {{N1}} 的伤害.",
+      "styleMappings": {
+        "per second": "每秒",
+        "Health": "生命值",
+        "blocks": "格",
+        "mobs": "怪物",
+        "max": "最大",
+        " Health": " 生命",
+        "second": "秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Max {{N0}} damage/s"
+      ],
+      "translation": "每秒最大 {{N0}} 伤害",
+      "styleMappings": {
+        "damage": "伤害",
+        "Max": "最大",
+        "s": "秒"
+      }
+    },
+    {
+      "source": [
+        "Blaze Rod Collection: {{N0}}"
+      ],
+      "translation": "烈焰棒收藏: {{N0}}",
+      "styleMappings": {
+        "Collection": "收藏",
+        "Blaze": "烈焰",
+        "Blaze Rod": "烈焰棒"
+      }
+    },
+    {
+      "source": [
+        "{{N0}} per {{N1}} rods"
+      ],
+      "translation": "每 {{N1}} 根烈焰棒 {{N0}}",
+      "styleMappings": {
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC LEGGINGS"
+      ],
+      "translation": "史诗护腿",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Leggings": "护腿"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

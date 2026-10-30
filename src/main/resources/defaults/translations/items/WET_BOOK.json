@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "WET_BOOK",
+  "_original_name": "Wet Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "When applied to Fishing Rods, grants",
+    "+1 Fishing Speed.",
+    "",
+    "This can be applied to an item up to",
+    "5 times!",
+    "",
+    "EPIC"
+  ],
+  "name": "湿书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "When applied to Fishing Rods, grants",
+        "{{N0}} Fishing Speed."
+      ],
+      "translation": "应用于钓鱼竿时,提供 {{N0}} 钓鱼速度.",
+      "styleMappings": {
+        "Fishing Speed": "钓鱼速度",
+        "Fishing": "钓鱼",
+        "Speed": "速度",
+        " Fishing Speed": " 钓鱼速度"
+      }
+    },
+    {
+      "source": [
+        "This can be applied to an item up to",
+        "{{N0}} times!"
+      ],
+      "translation": "每件物品最多可使用 {{N0}} 次!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Wet Book": "湿书"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

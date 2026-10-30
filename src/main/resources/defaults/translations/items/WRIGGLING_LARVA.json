@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "id": "WRIGGLING_LARVA",
+  "_original_name": "Wriggling Larva",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Consume this wriggling, disgusting",
+    "larva to permanently gain +2",
+    "Bonus Pest Chance.",
+    "",
+    "You can consume up to 5 larvae",
+    "before the sight of them makes you",
+    "too sick to consume more.",
+    "",
+    "Right-click to consume!",
+    "",
+    "EPIC"
+  ],
+  "name": "扭动幼虫",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Consume this wriggling, disgusting",
+        "larva to permanently gain {{N0}}",
+        "Bonus Pest Chance."
+      ],
+      "translation": "食用这条扭动、恶心的幼虫,永久获得 {{N0}} 稀有害虫概率加成.",
+      "styleMappings": {
+        "Bonus Pest Chance": "稀有害虫概率加成",
+        "permanently": "永久",
+        "Bonus": "加成",
+        "Pest": "害虫",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "You can consume up to {{N0}} larvae",
+        "before the sight of them makes you",
+        "too sick to consume more."
+      ],
+      "translation": "你最多可以食用 {{N0}} 条幼虫,之后光是看到它们就会让你恶心到无法再吃.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

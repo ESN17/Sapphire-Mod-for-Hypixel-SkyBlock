@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "BINGBOW",
+  "_original_name": "Bingbow",
+  "_original_lore": [
+    "Damage: +210",
+    "Strength: +100",
+    "Shot Cooldown: 0.5s",
+    "",
+    "Your arrows have a 20% chance to",
+    "bounce to another target after it",
+    "hits something. (max 2 bounces)",
+    "",
+    "Shortbow: Instantly shoots!",
+    "",
+    "This item can be reforged!",
+    "* Soulbound *",
+    "EPIC BOW"
+  ],
+  "name": "宾果弓",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Shot Cooldown: {{N0}}s"
+      ],
+      "translation": "射击间隔:{{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "Your arrows have a {{N0}} chance to",
+        "bounce to another target after it",
+        "hits something. (max {{N1}} bounces)"
+      ],
+      "translation": "你的箭矢命中目标后有 {{N0}} 概率弹射到另一个目标. (最多 {{N1}} 次弹射)",
+      "styleMappings": {
+        "bounce to another target": "弹射到另一个目标",
+        "hits something": "命中目标",
+        "chance to": "概率",
+        "bounces": "次弹射",
+        "(max": "(最多",
+        "chance": "概率",
+        "hits": "命中"
+      }
+    },
+    {
+      "source": [
+        "Shortbow: Instantly shoots!"
+      ],
+      "translation": "短弓: 即时射击!",
+      "styleMappings": {
+        "Shortbow": "短弓"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "EPIC BOW"
+      ],
+      "translation": "史诗 弓",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

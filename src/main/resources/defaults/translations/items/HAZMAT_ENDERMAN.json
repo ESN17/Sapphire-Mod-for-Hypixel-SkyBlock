@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "id": "HAZMAT_ENDERMAN",
+  "_original_name": "Hazmat Enderman",
+  "_original_lore": [
+    "Combine x9 of this item at the",
+    "Thaumaturgist in the Hub to unlock the",
+    "Slender power.",
+    "",
+    "At 250 Accessory Power:",
+    "+80.99 Health",
+    "+57.85 Defense",
+    "+57.85 Strength",
+    "+57.85 Crit Damage",
+    "+10.41 Attack Speed",
+    "+86.78 Intelligence",
+    "+5.79 Speed",
+    "",
+    "Unique Power Bonus:",
+    "+100 Defense",
+    "+50 Strength",
+    "",
+    "❣ Requires Combat Skill 30.",
+    "",
+    "LEGENDARY POWER STONE"
+  ],
+  "name": "防化末影人",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combine x{{N0}} of this item at the",
+        "Thaumaturgist in the Hub to unlock the",
+        "Slender power."
+      ],
+      "translation": "在中心岛的奇术师居所处合成 x{{N0}} 个此物品以解锁纤细之力.",
+      "styleMappings": {
+        "Thaumaturgist": "奇术师居所",
+        "Slender": "纤细",
+        "item": "物品",
+        "Hub": "中心岛",
+        "to unlock the": "以解锁",
+        "Combine": "合成",
+        "in the": "的",
+        "x{{N0}}": "{{N0}} 个"
+      }
+    },
+    {
+      "source": [
+        "At {{N0}} Accessory Power:"
+      ],
+      "translation": "在 {{N0}} 饰品能量时:",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "{{N0}} Health",
+        "{{N1}} Defense",
+        "{{N2}} Strength",
+        "{{N3}} Crit Damage"
+      ],
+      "translation": "{{N0}} 生命 {{N1}} 防御 {{N2}} 力量 {{N3}} 暴击伤害",
+      "styleMappings": {
+        " Crit Damage": " 暴击伤害",
+        " Strength": " 力量",
+        " Defense": " 防御",
+        " Health": " 生命",
+        "Crit Damage": "暴击伤害",
+        "Health": "生命",
+        "Defense": "防御",
+        "Strength": "力量",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "{{N0}} Attack Speed"
+      ],
+      "translation": "{{N0}} 攻击速度",
+      "styleMappings": {
+        " Attack Speed": " 攻击速度",
+        "Speed": "速度",
+        "Attack Speed": "攻击速度"
+      }
+    },
+    {
+      "source": [
+        "{{N0}} Intelligence",
+        "{{N1}} Speed"
+      ],
+      "translation": "{{N0}} 智力 {{N1}} 速度",
+      "styleMappings": {
+        "Intelligence": "智力",
+        " Speed": " 速度",
+        "": "",
+        "Speed": "速度",
+        " Intelligence": " 智力"
+      }
+    },
+    {
+      "source": [
+        "Unique Power Bonus:"
+      ],
+      "translation": "独特能量加成:",
+      "styleMappings": {
+        "Unique Power Bonus": "独特能量加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "{{N0}} Defense",
+        "{{N1}} Strength"
+      ],
+      "translation": "{{N0}} 防御 {{N1}} 力量",
+      "styleMappings": {
+        " Strength": " 力量",
+        " Defense": " 防御",
+        "Defense": "防御",
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY POWER STONE"
+      ],
+      "translation": "传说能量石",
+      "styleMappings": {
+        "LEGENDARY POWER STONE": "传说能量石",
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Enderman": "末影人"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

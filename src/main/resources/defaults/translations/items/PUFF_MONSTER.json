@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "PUFF_MONSTER",
+  "_original_name": "Puff (Monster)",
+  "_original_lore": [
+    "A mob located in the Rift Mountaintop",
+    "",
+    "❤ Health: 100"
+  ],
+  "name": "河豚 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A mob located in the Rift Mountaintop"
+      ],
+      "translation": "位于裂隙山顶的生物",
+      "styleMappings": {
+        "Rift Mountaintop": "裂隙山顶",
+        "Rift": "裂隙",
+        "the Rift": "裂隙",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Puff": "河豚",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

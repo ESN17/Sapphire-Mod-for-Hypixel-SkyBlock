@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "ATTRIBUTE_SHARD_SKY_HIGH;1",
+  "_original_name": "Murderwing Shard",
+  "_original_lore": [
+    "Sky High I",
+    "Increases the distance you can fall",
+    "before taking fall damage by +0.5",
+    "blocks.",
+    "",
+    "You can Syphon this shard from",
+    "your Hunting Box.",
+    "",
+    "Right-click to send to Hunting Box!",
+    "Shift Right-click to move all!",
+    "",
+    "❣ Requires Hunting Skill 15.",
+    "EPIC FOREST SHARD (ID E19)"
+  ],
+  "name": "杀戮之翼碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Sky High I"
+      ],
+      "translation": "高空 I",
+      "styleMappings": {
+        "I": "I"
+      }
+    },
+    {
+      "source": [
+        "Increases the distance you can fall",
+        "before taking fall damage by {{N0}}",
+        "blocks."
+      ],
+      "translation": "受到摔落伤害前可下落的高度增加 {{N0}} 格.",
+      "styleMappings": {
+        "Increases": "增加",
+        "blocks": "格",
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "You can Syphon this shard from",
+        "your Hunting Box."
+      ],
+      "translation": "你可以从狩猎箱中吸取此碎片.",
+      "styleMappings": {
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to send to Hunting Box!"
+      ],
+      "translation": "右键点击发送至狩猎箱!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Shift Right-click to move all!"
+      ],
+      "translation": "潜行键 右键点击全部移动!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "all": "全部"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Hunting Skill {{N0}}."
+      ],
+      "translation": "❣ 需要狩猎技能 {{N0}}.",
+      "styleMappings": {
+        "Hunting Skill": "狩猎技能",
+        "Requires": "需要",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC FOREST SHARD (ID E{{N0}})"
+      ],
+      "translation": "史诗森林碎片 (ID 伊{{N0}})",
+      "styleMappings": {
+        "EPIC FOREST SHARD": "史诗森林碎片",
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shard": "碎片"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

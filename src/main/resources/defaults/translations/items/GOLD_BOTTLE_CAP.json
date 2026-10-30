@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "id": "GOLD_BOTTLE_CAP",
+  "_original_name": "Gold Bottle Cap",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "When applied to a fishing rod,",
+    "increases its Luck of the Sea level",
+    "by 1!",
+    "Can be applied once.",
+    "Requires Luck of the Sea VI!",
+    "",
+    "One man's trash is, indeed, another",
+    "man's treasure.",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "金瓶盖",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "When applied to a fishing rod,",
+        "increases its Luck of the Sea level",
+        "by {{N0}}!"
+      ],
+      "translation": "用于钓鱼竿时,将其海之幸运等级提高 {{N0}}!",
+      "styleMappings": {
+        "Luck of the Sea": "海之幸运",
+        "fishing": "钓鱼",
+        "Luck": "幸运"
+      }
+    },
+    {
+      "source": [
+        "Can be applied once."
+      ],
+      "translation": "只能应用一次.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Requires Luck of the Sea VI!"
+      ],
+      "translation": "需要海之幸运 VI!",
+      "styleMappings": {
+        "Luck of the Sea VI": "海之幸运 VI",
+        "Requires": "需要",
+        "Luck": "幸运",
+        "Luck of the Sea": "海之幸运"
+      }
+    },
+    {
+      "source": [
+        "One man's trash is, indeed, another",
+        "man's treasure."
+      ],
+      "translation": "一个人的垃圾,确实是另一个人的宝藏.",
+      "styleMappings": {
+        "treasure": "宝藏",
+        "s": "一"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Gold Bottle Cap": "金瓶盖",
+    "Gold": "金"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

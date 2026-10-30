@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "id": "WRIGGLEWORM",
+  "_original_name": "Wriggleworm",
+  "_original_lore": [
+    "Quest Item",
+    "",
+    "Can be placed in the Birdfeeder to",
+    "attract Birds.",
+    "",
+    "Some odd-looking worm, and it's still",
+    "alive!",
+    "",
+    "This item will vanish from your",
+    "inventory after leaving the Critter",
+    "Safari!",
+    "",
+    "SPECIAL"
+  ],
+  "name": "扭动虫",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Quest Item"
+      ],
+      "translation": "任务物品",
+      "styleMappings": {
+        "Item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Can be placed in the Birdfeeder to",
+        "attract Birds."
+      ],
+      "translation": "可放入喂鸟器以吸引鸟类.",
+      "styleMappings": {
+        "Birdfeeder": "喂鸟器",
+        "Birds": "鸟类"
+      }
+    },
+    {
+      "source": [
+        "Some odd-looking worm, and it's still",
+        "alive!"
+      ],
+      "translation": "一条长相古怪的虫子,而且它还活着!",
+      "styleMappings": {
+        "s": "一"
+      }
+    },
+    {
+      "source": [
+        "This item will vanish from your"
+      ],
+      "translation": "此物品将在你离开",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "inventory after leaving the Critter",
+        "Safari!"
+      ],
+      "translation": "小兽狩猎区后从物品栏中消失!",
+      "styleMappings": {
+        "Critter Safari": "小兽狩猎区",
+        "Critter": "小兽"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

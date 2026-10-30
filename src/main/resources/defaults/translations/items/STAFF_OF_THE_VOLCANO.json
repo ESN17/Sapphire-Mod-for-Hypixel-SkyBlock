@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": "STAFF_OF_THE_VOLCANO",
+  "_original_name": "Staff of the Volcano",
+  "_original_lore": [
+    "Damage: +60",
+    "Intelligence: +150",
+    "",
+    "Ability: Explode  RIGHT CLICK",
+    "Creates an explosion around you dealing",
+    "24,000 damage and setting all mobs on fire in",
+    "a 4 block radius over 1s.",
+    "Mana Cost: 100",
+    "Health Cost: 1,000",
+    "Cooldown: 30s",
+    "",
+    "❣ Requires Combat Skill 22.",
+    "RARE WAND"
+  ],
+  "name": "火山之杖",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Ability: Explode  RIGHT CLICK"
+      ],
+      "translation": "技能: 爆炸  右键点击",
+      "styleMappings": {
+        "Ability: Explode": "技能: 爆炸",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Creates an explosion around you dealing",
+        "{{N0}} damage and setting all mobs on fire in",
+        "a {{N1}} block radius over {{N2}}s."
+      ],
+      "translation": "在你周围制造爆炸,造成 {{N0}} 伤害,并使 {{N1}} 格半径内的所有怪物着火,持续 {{N2}} 秒.",
+      "styleMappings": {
+        "damage": "伤害",
+        "block": "格",
+        "fire": "着火",
+        "mobs": "怪物",
+        "{{N2}}s": "{{N2}} 秒"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "Health Cost: {{N0}}"
+      ],
+      "translation": "生命消耗:{{N0}}",
+      "styleMappings": {
+        "Health Cost": "生命消耗",
+        "Health": "生命"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "RARE WAND"
+      ],
+      "translation": "稀有 魔杖",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

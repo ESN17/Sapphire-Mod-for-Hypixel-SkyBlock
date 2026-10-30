@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "ZOMBIE_SOLDIER_HELMET",
+  "_original_name": "Zombie Soldier Helmet",
+  "_original_lore": [
+    "Gear Score: 112",
+    "Health: +21",
+    "Defense: +43",
+    "",
+    "Full Set Bonus: Shoal (0/4)",
+    "Gain +30 Defense for each Zombie",
+    "Soldier Set within 30 blocks.",
+    "",
+    "This item is Undead ༕!",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Catacombs Skill 9.",
+    "EPIC DUNGEON HELMET"
+  ],
+  "name": "僵尸士兵头盔",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Shoal ({{N0}}/{{N1}})"
+      ],
+      "translation": "套装效果: 鱼群 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Full Set Bonus": "套装效果",
+        "Shoal": "鱼群"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}} Defense for each Zombie",
+        "Soldier Set within {{N1}} blocks."
+      ],
+      "translation": "每件 {{N1}} 格内的僵尸士兵套装提供 {{N0}} 防御.",
+      "styleMappings": {
+        "Zombie Soldier Set": "僵尸士兵套装",
+        " Defense": " 防御",
+        "blocks": "格",
+        "Defense": "防御",
+        "Zombie": "僵尸"
+      }
+    },
+    {
+      "source": [
+        "This item is Undead ༕!"
+      ],
+      "translation": "该物品为亡灵 ༕!",
+      "styleMappings": {
+        "item": "物品",
+        "Undead": "亡灵"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Catacombs Skill {{N0}}."
+      ],
+      "translation": "❣ 需要地牢技能 {{N0}}.",
+      "styleMappings": {
+        "Requires": "需要",
+        "Catacombs": "地牢",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC DUNGEON HELMET"
+      ],
+      "translation": "史诗 地牢 头盔",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Helmet": "头盔",
+    "Zombie": "僵尸"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

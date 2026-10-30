@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "FRAGRANCED_BROWN_MUSHROOM_PASTE",
+  "_original_name": "\"Fragranced\" Brown Mushroom \"Paste\"",
+  "_original_lore": [
+    "Give this item to a Visitor for no",
+    "reward, scaring them off for 24h.",
+    "Max 2 Visitors",
+    "",
+    "RARE"
+  ],
+  "name": "\"芳香\" 棕色蘑菇 \"酱\"",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Give this item to a Visitor for no",
+        "reward, scaring them off for {{N0}}h."
+      ],
+      "translation": "将此物品无偿交给访客,将其吓跑 {{N0}}小时。",
+      "styleMappings": {
+        "Visitor": "访客",
+        "item": "物品",
+        "{{N0}}h": "{{N0}}小时"
+      }
+    },
+    {
+      "source": [
+        "Max {{N0}} Visitors"
+      ],
+      "translation": "最多 {{N0}} 位访客",
+      "styleMappings": {
+        "Max": "最多",
+        "Visitors": "访客"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Brown Mushroom": "棕色蘑菇",
+    "\"Fragranced\"": "\"芳香\"",
+    "\"Paste\"": "\"酱\"",
+    "Mushroom": "蘑菇"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

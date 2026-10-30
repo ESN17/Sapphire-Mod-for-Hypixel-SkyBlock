@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "FLINT_SHOVEL",
+  "_original_name": "Flint Shovel",
+  "_original_lore": [
+    "Minion Upgrade",
+    "",
+    "Grants a 100% chance of receiving",
+    "flint from gravel.",
+    "",
+    "This item can be also used as a",
+    "minion upgrade to allow gravel",
+    "minions to always receive flint.",
+    "",
+    "COMMON SHOVEL"
+  ],
+  "name": "燧石铲",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Minion Upgrade"
+      ],
+      "translation": "仆从升级组件",
+      "styleMappings": {
+        "Minion Upgrade": "仆从升级",
+        "Minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "Grants a {{N0}} chance of receiving",
+        "flint from gravel."
+      ],
+      "translation": "有 {{N0}} 概率从沙砾中获得燧石.",
+      "styleMappings": {
+        "Grants": "获得",
+        "chance": "概率"
+      }
+    },
+    {
+      "source": [
+        "This item can be also used as a"
+      ],
+      "translation": "该物品还可作为",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "minion upgrade to allow gravel",
+        "minions to always receive flint."
+      ],
+      "translation": "仆从升级,使沙砾仆从始终获得燧石.",
+      "styleMappings": {
+        "upgrade": "升级",
+        "minion": "仆从",
+        "minions": "仆从"
+      }
+    },
+    {
+      "source": [
+        "COMMON SHOVEL"
+      ],
+      "translation": "普通铲子",
+      "styleMappings": {
+        "COMMON SHOVEL": "普通铲子",
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

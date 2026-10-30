@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "MUSHROOM_BIOME_STICK",
+  "_original_name": "Mushroom Biome Stick",
+  "_original_lore": [
+    "Allows you to change the biome at",
+    "the targeted block on your private",
+    "island to Mushroom Island.",
+    "",
+    "Right-click to use or Left-click to",
+    "change the radius it effects.",
+    "",
+    "Selected Radius: 3",
+    "",
+    "COMMON"
+  ],
+  "name": "蘑菇生物群系法杖",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Allows you to change the biome at",
+        "the targeted block on your private",
+        "island to Mushroom Island."
+      ],
+      "translation": "允许你将私人岛屿上目标方块的生物群系改为蘑菇岛.",
+      "styleMappings": {
+        "Mushroom Island": "蘑菇岛",
+        "private island": "私人岛屿",
+        "targeted block": "目标方块",
+        "island": "岛屿上",
+        "Island": "岛屿",
+        "Mushroom": "蘑菇"
+      }
+    },
+    {
+      "source": [
+        "Right-click to use or Left-click to"
+      ],
+      "translation": "右键点击使用,或左键点击",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Left-click": "左键点击"
+      }
+    },
+    {
+      "source": [
+        "change the radius it effects."
+      ],
+      "translation": "改变其影响半径.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Selected Radius: {{N0}}"
+      ],
+      "translation": "已选半径: {{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mushroom": "蘑菇"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

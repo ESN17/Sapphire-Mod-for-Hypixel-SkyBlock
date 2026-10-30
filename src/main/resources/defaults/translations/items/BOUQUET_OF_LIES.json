@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "id": "BOUQUET_OF_LIES",
+  "_original_name": "Bouquet of Lies",
+  "_original_lore": [
+    "Gear Score: 560",
+    "Damage: +220",
+    "Strength: +300",
+    "Crit Damage: +50%",
+    "Gemstones: []",
+    "",
+    "Ability: Petal Barrage  RIGHT CLICK",
+    "Fire a barrage of 3 roses that ricochets",
+    "between enemies, hitting up to 5 foes. For",
+    "every 10% of your health missing, your roses",
+    "deal 2% more damage.",
+    "Health Cost: 250",
+    "Cooldown: 1s",
+    "",
+    "This item can be reforged!",
+    "❣ Requires The Catacombs Floor VI Completion.",
+    "LEGENDARY DUNGEON SWORD"
+  ],
+  "name": "谎言花束",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: {{N0}}"
+      ],
+      "translation": "暴击伤害:{{N0}}",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: []"
+      ],
+      "translation": "宝石: []",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石"
+      }
+    },
+    {
+      "source": [
+        "Ability: Petal Barrage  RIGHT CLICK"
+      ],
+      "translation": "技能: 花瓣弹幕  右键点击",
+      "styleMappings": {
+        "Petal Barrage": "花瓣弹幕",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Fire a barrage of {{N0}} roses that ricochets",
+        "between enemies, hitting up to {{N1}} foes. For",
+        "every {{N2}} of your health missing, your roses",
+        "deal {{N3}} more damage."
+      ],
+      "translation": "发射一阵由 {{N0}} 朵玫瑰组成的弹幕, 在敌人之间弹射, 最多命中 {{N1}} 个敌人.你每损失 {{N2}} 生命值, 你的玫瑰就造成 {{N3}} 额外伤害.",
+      "styleMappings": {
+        "barrage": "弹幕",
+        "damage": "伤害",
+        "health": "生命值",
+        "roses": "玫瑰",
+        "deal": "造成",
+        "more": "额外",
+        "enemies": "敌人",
+        "foes": "敌人"
+      }
+    },
+    {
+      "source": [
+        "Health Cost: {{N0}}"
+      ],
+      "translation": "生命消耗:{{N0}}",
+      "styleMappings": {
+        "Health Cost": "生命消耗",
+        "Health": "生命"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires The Catacombs Floor VI Completion."
+      ],
+      "translation": "❣ 需要通关地牢第 VI 层.",
+      "styleMappings": {
+        "The Catacombs": "地牢",
+        "Requires": "需要",
+        "Catacombs": "地牢"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY DUNGEON SWORD"
+      ],
+      "translation": "传说地牢剑",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

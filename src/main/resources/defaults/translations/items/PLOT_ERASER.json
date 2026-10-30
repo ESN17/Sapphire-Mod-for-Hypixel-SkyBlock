@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "PLOT_ERASER",
+  "_original_name": "Plot Eraser",
+  "_original_lore": [
+    "Right-click while on a plot to",
+    "instantly clean it, saving you the",
+    "trouble of doing it yourself!",
+    "However, the Plot Eraser gets",
+    "comsumed in the process.",
+    "",
+    "RARE"
+  ],
+  "name": "地块清除器",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Right-click while on a plot to"
+      ],
+      "translation": "站在地块上时右键点击以",
+      "styleMappings": {
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "instantly clean it, saving you the",
+        "trouble of doing it yourself!"
+      ],
+      "translation": "立即清理它,省去你自己动手的麻烦!",
+      "styleMappings": {
+        "instantly clean": "立即清理"
+      }
+    },
+    {
+      "source": [
+        "However, the Plot Eraser gets",
+        "comsumed in the process."
+      ],
+      "translation": "然而,地块清除器会在此过程中被消耗.",
+      "styleMappings": {
+        "Plot Eraser": "地块清除器"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Plot Eraser": "地块清除器"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

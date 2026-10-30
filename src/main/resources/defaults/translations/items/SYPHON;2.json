@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 1,
+  "id": "SYPHON;2",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Drain II",
+    "Regen +1 Vitality every time you",
+    "hit a mob.",
+    "(1s Cooldown).",
+    "",
+    "Sources:",
+    " - Enchantment Table (I-III)",
+    " - Experiments (I-V)",
+    " - Bazaar (IV-V)",
+    " - Vargul (V)",
+    "",
+    "Applied To:",
+    " - Sword",
+    " - Longsword",
+    " - Gauntlet",
+    "",
+    "Requirements:",
+    " - Enchanting Level 15",
+    "",
+    "Conflicts:",
+    " - Life Steal",
+    " - Mana Steal",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Drain II"
+      ],
+      "translation": "汲取 II",
+      "styleMappings": {
+        "Drain": "汲取",
+        "II": "II"
+      }
+    },
+    {
+      "source": [
+        "Regen {{N0}} Vitality every time you",
+        "hit a mob."
+      ],
+      "translation": "每次击中怪物时回复 {{N0}} 活力.",
+      "styleMappings": {
+        " Vitality": " 活力",
+        "Regen": "回复",
+        "Vitality": "活力",
+        "hit": "击中"
+      }
+    },
+    {
+      "source": [
+        "({{N0}}s Cooldown)."
+      ],
+      "translation": "({{N0}}秒 冷却).",
+      "styleMappings": {
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchantment Table (I-III)",
+        " - Experiments (I-V)",
+        " - Bazaar (IV-V)",
+        " - Vargul (V)"
+      ],
+      "translation": " - 附魔台 (一至三)  - 实验 (一至五)  - 集市 (四至五)  - Vargul (五)",
+      "styleMappings": {
+        "Enchantment Table": "附魔台",
+        "Experiments": "实验",
+        "Bazaar": "集市",
+        "I-III": "一至三",
+        "I-V": "一至五",
+        "IV-V": "四至五",
+        "Enchantment": "附魔"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Sword",
+        " - Longsword",
+        " - Gauntlet"
+      ],
+      "translation": " - 剑  - 长剑  - 护手",
+      "styleMappings": {
+        "Sword": "剑",
+        "Longsword": "长剑",
+        "Gauntlet": "护手"
+      }
+    },
+    {
+      "source": [
+        "Requirements:"
+      ],
+      "translation": "需求:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchanting Level {{N0}}"
+      ],
+      "translation": " - 附魔等级 {{N0}}",
+      "styleMappings": {
+        "Enchanting Level": "附魔等级"
+      }
+    },
+    {
+      "source": [
+        "Conflicts:"
+      ],
+      "translation": "冲突:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Life Steal"
+      ],
+      "translation": " - 生命窃取",
+      "styleMappings": {
+        "Life Steal": "生命窃取"
+      }
+    },
+    {
+      "source": [
+        " - Mana Steal"
+      ],
+      "translation": " - 魔力窃取",
+      "styleMappings": {
+        "Mana Steal": "魔力窃取"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

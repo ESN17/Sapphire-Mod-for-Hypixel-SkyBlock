@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "GOLEM_HAT",
+  "_original_name": "Golem Hat",
+  "_original_lore": [
+    "Drops an iron ingot when you sneak!",
+    "Cooldown: 5s",
+    "",
+    "This item can be reforged!",
+    "COMMON HELMET"
+  ],
+  "name": "傀儡帽",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Drops an iron ingot when you sneak!"
+      ],
+      "translation": "潜行时掉落一个铁锭!",
+      "styleMappings": {
+        "iron ingot": "铁锭",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "COMMON HELMET"
+      ],
+      "translation": "普通头盔",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Golem": "傀儡"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

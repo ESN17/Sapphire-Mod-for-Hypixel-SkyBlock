@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "CAKE_COUNTER",
+  "_original_name": "Cake Counter",
+  "_original_lore": [
+    "Furniture",
+    "",
+    "Counts and displays the number of",
+    "century cakes eaten on your island.",
+    "",
+    "EPIC"
+  ],
+  "name": "蛋糕计数器",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Furniture"
+      ],
+      "translation": "家具",
+      "styleMappings": {
+        "Furniture": "家具"
+      }
+    },
+    {
+      "source": [
+        "Counts and displays the number of",
+        "century cakes eaten on your island."
+      ],
+      "translation": "统计并显示你岛上吃掉的世纪蛋糕数量.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Counter": "计数器"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

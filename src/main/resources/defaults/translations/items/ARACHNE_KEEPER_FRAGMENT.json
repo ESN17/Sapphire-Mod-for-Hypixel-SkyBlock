@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "ARACHNE_KEEPER_FRAGMENT",
+  "_original_name": "Arachne's Calling",
+  "_original_lore": [
+    "Place 4 of these at the Altar in",
+    "Arachne's Sanctuary to summon her.",
+    "",
+    "\"It's time.\" - Uninformed Spider",
+    "",
+    "RARE"
+  ],
+  "name": "阿拉克妮的召唤",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Place {{N0}} of these at the Altar in",
+        "Arachne's Sanctuary to summon her."
+      ],
+      "translation": "将 {{N0}} 个此物放置在阿拉克妮圣所的祭坛上以召唤她.",
+      "styleMappings": {
+        "Arachne's Sanctuary": "阿拉克妮圣所",
+        "Altar": "祭坛",
+        "Arachne": "阿拉克妮"
+      }
+    },
+    {
+      "source": [
+        "\"It's time.\" - Uninformed Spider"
+      ],
+      "translation": "\"时候到了.\" - 不知情的蜘蛛",
+      "styleMappings": {
+        "Uninformed Spider": "不知情的蜘蛛",
+        "\"It's time.\"": "\"时候到了.\"",
+        "Spider": "蜘蛛"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Arachne": "阿拉克妮"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

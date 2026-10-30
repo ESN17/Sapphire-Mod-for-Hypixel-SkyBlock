@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "id": "FEL_SWORD",
+  "_original_name": "Fel Sword",
+  "_original_lore": [
+    "Gear Score: 375",
+    "Damage: +190",
+    "Strength: +135",
+    "",
+    "Every 100 Kills with this sword",
+    "grants +1 Weapon Damage, up to 100",
+    "extra.",
+    "Current Kills: 0 (+0 Damage)",
+    "",
+    "Dungeon Healer Bonuses:",
+    "- Increases healing from your",
+    "Healing Circle by 10%.",
+    "- Reduces the cooldown of your Wish",
+    "Ultimate by 10 seconds.",
+    "",
+    "Right-click to use Class Ability!",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Catacombs Skill 20.",
+    "EPIC DUNGEON SWORD"
+  ],
+  "name": "魔煞之剑",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Every {{N0}} Kills with this sword",
+        "grants {{N1}} Weapon Damage, up to {{N2}}",
+        "extra."
+      ],
+      "translation": "使用此剑每击杀 {{N0}} 次,便获得 {{N1}} 武器伤害,最多额外获得 {{N2}}.",
+      "styleMappings": {
+        "Damage": "伤害",
+        "Weapon": "武器"
+      }
+    },
+    {
+      "source": [
+        "Current Kills: {{N0}} ({{N1}} Damage)"
+      ],
+      "translation": "当前击杀数: {{N0}} ({{N1}} 伤害)",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Dungeon Healer Bonuses:"
+      ],
+      "translation": "地牢治疗者加成:",
+      "styleMappings": {
+        "Dungeon Healer Bonuses": "地牢治疗者加成",
+        "Healer": "治疗者",
+        "Dungeon": "地牢"
+      }
+    },
+    {
+      "source": [
+        "- Increases healing from your",
+        "Healing Circle by {{N0}}."
+      ],
+      "translation": "- 使你的治疗圈提供的治疗量提高 {{N0}}.",
+      "styleMappings": {
+        "Healing Circle": "治疗圈"
+      }
+    },
+    {
+      "source": [
+        "- Reduces the cooldown of your Wish",
+        "Ultimate by {{N0}} seconds."
+      ],
+      "translation": "- 使你的许愿终极技能的冷却时间减少 {{N0}} 秒.",
+      "styleMappings": {
+        "Wish Ultimate": "许愿终极技能",
+        "cooldown": "冷却",
+        "seconds": "秒"
+      }
+    },
+    {
+      "source": [
+        "Right-click to use Class Ability!"
+      ],
+      "translation": "右键点击以使用职业能力!",
+      "styleMappings": {
+        "Class Ability": "职业能力",
+        "Right-click": "右键点击",
+        "Ability": "能力",
+        "Class": "职业"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Catacombs Skill {{N0}}."
+      ],
+      "translation": "❣ 需要地牢技能 {{N0}}.",
+      "styleMappings": {
+        "Requires": "需要",
+        "Catacombs": "地牢",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC DUNGEON SWORD"
+      ],
+      "translation": "史诗 地牢 剑",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sword": "剑"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

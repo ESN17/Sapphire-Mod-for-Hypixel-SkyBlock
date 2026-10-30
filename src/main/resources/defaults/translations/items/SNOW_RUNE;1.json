@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "SNOW_RUNE;1",
+  "_original_name": "◆ Snow Rune I",
+  "_original_lore": [
+    "Requires level 2",
+    "Weapons",
+    "",
+    "Freeze monsters to death!",
+    "",
+    "Apply this rune to weapons or fuse",
+    "two together at the Runic Pedestal!",
+    "",
+    "COMMON COSMETIC"
+  ],
+  "name": "◆ 雪符文 I",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Requires level {{N0}}",
+        "Weapons"
+      ],
+      "translation": "需要等级 {{N0}} 武器",
+      "styleMappings": {
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Freeze monsters to death!"
+      ],
+      "translation": "将怪物冻结至死!",
+      "styleMappings": {
+        "monsters": "怪物"
+      }
+    },
+    {
+      "source": [
+        "Apply this rune to weapons or fuse",
+        "two together at the Runic Pedestal!"
+      ],
+      "translation": "将此符文应用于武器,或在符文基座上将两个符文融合!",
+      "styleMappings": {
+        "Runic Pedestal": "符文基座",
+        "Runic": "符文"
+      }
+    },
+    {
+      "source": [
+        "COMMON COSMETIC"
+      ],
+      "translation": "普通 外观",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Rune I": "符文 I"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

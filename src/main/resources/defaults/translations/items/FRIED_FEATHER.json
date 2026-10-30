@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "FRIED_FEATHER",
+  "_original_name": "Fried Feather",
+  "_original_lore": [
+    "A greasy feather, somehow still in",
+    "one piece despite having been",
+    "doused in boiling-hot lava.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "炸羽毛",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A greasy feather, somehow still in",
+        "one piece despite having been",
+        "doused in boiling-hot lava."
+      ],
+      "translation": "一根油腻的羽毛,尽管被浸入滚烫的熔岩中,却不知怎地依然完好无损.",
+      "styleMappings": {
+        "lava": "熔岩"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Feather": "羽毛"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

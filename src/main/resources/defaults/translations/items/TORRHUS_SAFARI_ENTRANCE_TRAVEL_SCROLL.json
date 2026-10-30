@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "id": "TORRHUS_SAFARI_ENTRANCE_TRAVEL_SCROLL",
+  "_original_name": "Travel Scroll to Critter Safari Entrance",
+  "_original_lore": [
+    "Consume this item to add its",
+    "destination to your Fast Travel",
+    "options.",
+    "",
+    "Island: Torrhus Canyon",
+    "Teleport: Critter Safari Entrance",
+    "",
+    "RARE TRAVEL SCROLL"
+  ],
+  "name": "小兽狩猎区入口传送卷轴",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consume this item to add its",
+        "destination to your Fast Travel",
+        "options."
+      ],
+      "translation": "消耗此物品,将其目的地添加到你的快速旅行选项中.",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Island: Torrhus Canyon"
+      ],
+      "translation": "岛屿: 托鲁斯峡谷",
+      "styleMappings": {
+        "Island": "岛屿",
+        "Torrhus Canyon": "托鲁斯峡谷"
+      }
+    },
+    {
+      "source": [
+        "Teleport: Critter Safari Entrance"
+      ],
+      "translation": "传送: 小兽狩猎区入口",
+      "styleMappings": {
+        "Critter Safari Entrance": "小兽狩猎区入口",
+        "Teleport": "传送",
+        "Critter": "小兽",
+        "Critter Safari": "小兽狩猎区",
+        "Entrance": "入口"
+      }
+    },
+    {
+      "source": [
+        "RARE TRAVEL SCROLL"
+      ],
+      "translation": "稀有传送卷轴",
+      "styleMappings": {
+        "RARE TRAVEL SCROLL": "稀有传送卷轴",
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Critter Safari Entrance": "小兽狩猎区入口",
+    "Critter": "小兽",
+    "Critter Safari": "小兽狩猎区",
+    "Entrance": "入口"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

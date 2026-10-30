@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "id": "SPONGE_BELT",
+  "_original_name": "Sponge Belt",
+  "_original_lore": [
+    "Fishing Speed: +2",
+    "Trophy Chance: +1%",
+    "",
+    "Right-click to equip!",
+    "",
+    "This item can be reforged!",
+    "RARE BELT"
+  ],
+  "name": "海绵腰带",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Fishing Speed: {{N0}}"
+      ],
+      "translation": "钓鱼速度: {{N0}}",
+      "styleMappings": {
+        "Fishing Speed": "钓鱼速度",
+        "Fishing": "钓鱼",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Trophy Chance: {{N0}}"
+      ],
+      "translation": "奖杯概率:{{N0}}",
+      "styleMappings": {
+        "Trophy Chance": "奖杯概率",
+        "Trophy": "奖杯"
+      }
+    },
+    {
+      "source": [
+        "Right-click to equip!"
+      ],
+      "translation": "右键点击装备!",
+      "styleMappings": {
+        "Right-click to equip!": "右键点击装备!",
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "RARE BELT"
+      ],
+      "translation": "稀有腰带",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Belt": "腰带",
+    "Sponge": "海绵"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

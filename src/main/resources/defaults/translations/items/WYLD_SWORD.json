@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "WYLD_SWORD",
+  "_original_name": "Wyld Sword",
+  "_original_lore": [
+    "Rift Damage: +2",
+    "",
+    "Could become anything.",
+    "It's a wyldcard!",
+    "",
+    "UNCOMMON SWORD"
+  ],
+  "name": "荒野剑",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Rift Damage: {{N0}}"
+      ],
+      "translation": "裂隙伤害: {{N0}}",
+      "styleMappings": {
+        "Rift Damage": "裂隙伤害",
+        "Damage": "伤害",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "Could become anything."
+      ],
+      "translation": "可以变成任何东西.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "It's a wyldcard!"
+      ],
+      "translation": "这是一张万能牌!",
+      "styleMappings": {
+        "s": "一"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON SWORD"
+      ],
+      "translation": "罕见剑",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sword": "剑",
+    "Wyld Sword": "荒野剑"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

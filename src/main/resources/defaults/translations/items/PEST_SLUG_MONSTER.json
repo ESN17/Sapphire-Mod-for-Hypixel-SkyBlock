@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "id": "PEST_SLUG_MONSTER",
+  "_original_name": "Slug (Pest)",
+  "_original_lore": [
+    "Methodical in movement,",
+    "ineffective in survival.",
+    "",
+    "Attracted to Plant Matter.",
+    "",
+    "❤ Health: 600"
+  ],
+  "name": "蛞蝓 (害虫)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Methodical in movement,",
+        "ineffective in survival."
+      ],
+      "translation": "行动有条不紊,生存能力堪忧.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Attracted to Plant Matter."
+      ],
+      "translation": "被植物物质吸引.",
+      "styleMappings": {
+        "Plant Matter": "植物物质"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Pest": "害虫",
+    "Slug": "蛞蝓"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

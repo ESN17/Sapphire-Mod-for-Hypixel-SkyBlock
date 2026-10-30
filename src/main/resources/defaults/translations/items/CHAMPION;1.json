@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "id": "CHAMPION;1",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Champion I",
+    "Gain 3% extra Combat XP. The",
+    "2nd hit on a mob grants +1.4",
+    "coins & +7 exp orbs.",
+    "",
+    "Gain 50k Combat XP for Tier II",
+    "Gain 100k Combat XP for Tier III",
+    "Gain 250k Combat XP for Tier IV",
+    "Gain 500k Combat XP for Tier V",
+    "Gain 1m Combat XP for Tier VI",
+    "Gain 1,5m Combat XP for Tier VII",
+    "Gain 2m Combat XP for Tier VIII",
+    "Gain 2,5m Combat XP for Tier IX",
+    "Gain 3m Combat XP for Tier X",
+    "",
+    "▲ Champion cannot be combined!",
+    "",
+    "Sources:",
+    " - Community Shop (I)",
+    " - Bazaar (I)",
+    "",
+    "Applied To:",
+    " - Sword",
+    " - Longsword",
+    " - Gauntlet",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Champion I"
+      ],
+      "translation": "近战战斗专精 I",
+      "styleMappings": {
+        "Champion": "近战战斗专精"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}} extra Combat XP. The",
+        "{{N1}}nd hit on a mob grants {{N2}}",
+        "coins & {{N3}} exp orbs."
+      ],
+      "translation": "获得 {{N0}} 额外战斗经验.对生物的第 {{N1}} 次命中给予 {{N2}} 硬币和 {{N3}} 经验球.",
+      "styleMappings": {
+        "Combat XP": "战斗经验",
+        "coins": "硬币",
+        "Gain": "获得",
+        "hit": "命中",
+        "Combat": "战斗"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}}k Combat XP for Tier II",
+        "Gain {{N1}}k Combat XP for Tier III",
+        "Gain {{N2}}k Combat XP for Tier IV",
+        "Gain {{N3}}k Combat XP for Tier V",
+        "Gain {{N4}}m Combat XP for Tier VI",
+        "Gain {{N5}},{{N6}}m Combat XP for Tier VII",
+        "Gain {{N7}}m Combat XP for Tier VIII",
+        "Gain {{N8}},{{N9}}m Combat XP for Tier IX",
+        "Gain {{N10}}m Combat XP for Tier X"
+      ],
+      "translation": "II 级获得 {{N0}} 千战斗经验 III 级获得 {{N1}} 千战斗经验 IV 级获得 {{N2}} 千战斗经验 V 级获得 {{N3}} 千战斗经验 VI 级获得 {{N4}} 百万战斗经验 VII 级获得 {{N5}},{{N6}} 百万战斗经验 VIII 级获得 {{N7}} 百万战斗经验 IX 级获得 {{N8}},{{N9}} 百万战斗经验 X 级获得 {{N10}} 百万战斗经验",
+      "styleMappings": {
+        "Combat XP": "战斗经验",
+        "{{N5}},{{N6}}m": "{{N5}},{{N6}} 百万",
+        "{{N8}},{{N9}}m": "{{N8}},{{N9}} 百万",
+        "{{N10}}m": "{{N10}} 百万",
+        "{{N0}}k": "{{N0}} 千",
+        "{{N1}}k": "{{N1}} 千",
+        "{{N2}}k": "{{N2}} 千",
+        "{{N3}}k": "{{N3}} 千",
+        "{{N4}}m": "{{N4}} 百万",
+        "{{N7}}m": "{{N7}} 百万",
+        "Gain": "获得",
+        "II": "II",
+        "III": "III",
+        "Combat": "战斗",
+        "for": "获得"
+      }
+    },
+    {
+      "source": [
+        "▲ Champion cannot be combined!"
+      ],
+      "translation": "▲ 近战战斗专精无法合并!",
+      "styleMappings": {
+        "Champion": "近战战斗专精"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Community Shop (I)",
+        " - Bazaar (I)"
+      ],
+      "translation": " - 社区商店 (I)  - 集市 (I)",
+      "styleMappings": {
+        "Community Shop": "社区商店",
+        "Bazaar": "集市",
+        "I": "I"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Sword",
+        " - Longsword",
+        " - Gauntlet"
+      ],
+      "translation": " - 剑  - 长剑  - 护手",
+      "styleMappings": {
+        "Sword": "剑",
+        "Longsword": "长剑",
+        "Gauntlet": "护手"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,233 @@
+{
+  "schemaVersion": 1,
+  "id": "STONE_BLADE",
+  "_original_name": "Adaptive Blade",
+  "_original_lore": [
+    "Gear Score: 220",
+    "Damage: +170",
+    "Gemstones: [☤]",
+    "",
+    "As a weapon created by Scarf, it automatically",
+    "adapts to its user inside Dungeons.",
+    "",
+    "Berserk: +10 Damage, +75 Strength, +10",
+    "Speed",
+    "Healer: +10 Mending & tethered players and",
+    "players within 10 blocks are healed for 33%",
+    "of your Life Steal, Drain, and Vampirism healing.",
+    "Mage: +100 Intelligence, +10 Damage &",
+    "melee attacks restore 25% additional mana.",
+    "Tank: +100 Defense, +5 Vitality, +5 True",
+    "Defense",
+    "Archer: Your melee attacks cause enemies to",
+    "take 10% more damage from your arrows for",
+    "5 seconds.",
+    "",
+    "Right-click to use your class ability!",
+    "",
+    "This item can be reforged!",
+    "❣ Requires The Catacombs Floor II Completion.",
+    "EPIC DUNGEON SWORD"
+  ],
+  "name": "自适应之刃",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [☤]"
+      ],
+      "translation": "宝石: [☤]",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石"
+      }
+    },
+    {
+      "source": [
+        "As a weapon created by Scarf, it automatically",
+        "adapts to its user inside Dungeons."
+      ],
+      "translation": "作为斯卡夫打造的武器,它在地牢中会自动适应使用者.",
+      "styleMappings": {
+        "Scarf": "斯卡夫",
+        "Dungeons": "地牢",
+        "automatically": "自动"
+      }
+    },
+    {
+      "source": [
+        "Berserk: {{N0}} Damage, {{N1}} Strength, {{N2}}"
+      ],
+      "translation": "狂战士: {{N0}} 伤害, {{N1}} 力量, {{N2}}",
+      "styleMappings": {
+        " Strength": " 力量",
+        " Damage": " 伤害",
+        "Berserk": "狂战士",
+        "Strength": "力量",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Speed"
+      ],
+      "translation": "速度",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Healer: {{N0}} Mending & tethered players and"
+      ],
+      "translation": "治疗者: {{N0}} 治疗量与链接玩家和",
+      "styleMappings": {
+        "Healer": "治疗者",
+        "Mending": "治疗量"
+      }
+    },
+    {
+      "source": [
+        "players within {{N0}} blocks are healed for {{N1}}",
+        "of your Life Steal, Drain, and Vampirism healing."
+      ],
+      "translation": "{{N0}} 格内的玩家会恢复你生命窃取、汲取和吸血鬼主义治疗量的 {{N1}}.",
+      "styleMappings": {
+        "Life Steal": "生命窃取",
+        "Vampirism": "吸血鬼主义",
+        "blocks": "格",
+        "Drain": "汲取"
+      }
+    },
+    {
+      "source": [
+        "Mage: {{N0}} Intelligence, {{N1}} Damage &"
+      ],
+      "translation": "法师: {{N0}} 智力, {{N1}} 伤害 &",
+      "styleMappings": {
+        "Intelligence": "智力",
+        " Damage": " 伤害",
+        "Mage": "法师",
+        "": "",
+        "Damage": "伤害",
+        " Intelligence": " 智力"
+      }
+    },
+    {
+      "source": [
+        "melee attacks restore {{N0}} additional mana."
+      ],
+      "translation": "近战攻击额外恢复 {{N0}} 法力.",
+      "styleMappings": {
+        "additional": "额外",
+        "mana": "法力"
+      }
+    },
+    {
+      "source": [
+        "Tank: {{N0}} Defense, {{N1}} Vitality, {{N2}} True"
+      ],
+      "translation": "坦克: {{N0}} 防御, {{N1}} 活力, {{N2}} 真实",
+      "styleMappings": {
+        " Vitality": " 活力",
+        " Defense": " 防御",
+        "Tank": "坦克",
+        "True": "真实",
+        "Vitality": "活力",
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Defense"
+      ],
+      "translation": "防御",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Archer: Your melee attacks cause enemies to"
+      ],
+      "translation": "弓箭手: 你的近战攻击会使敌人",
+      "styleMappings": {
+        "Archer": "弓箭手",
+        "enemies": "敌人"
+      }
+    },
+    {
+      "source": [
+        "take {{N0}} more damage from your arrows for",
+        "{{N1}} seconds."
+      ],
+      "translation": "在 {{N1}} 秒内受到你的箭矢额外 {{N0}} 伤害.",
+      "styleMappings": {
+        "seconds": "秒",
+        "damage": "伤害",
+        "more": "额外"
+      }
+    },
+    {
+      "source": [
+        "Right-click to use your class ability!"
+      ],
+      "translation": "右键使用职业技能!",
+      "styleMappings": {
+        "ability": "技能"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires The Catacombs Floor II Completion."
+      ],
+      "translation": "❣ 需要完成地牢第II层。",
+      "styleMappings": {
+        "The Catacombs": "地牢",
+        "Requires": "需要",
+        "II": "II",
+        "Catacombs": "地牢"
+      }
+    },
+    {
+      "source": [
+        "EPIC DUNGEON SWORD"
+      ],
+      "translation": "史诗 地牢 剑",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

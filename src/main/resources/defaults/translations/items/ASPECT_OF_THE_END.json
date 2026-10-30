@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "ASPECT_OF_THE_END",
+  "_original_name": "Aspect of the End",
+  "_original_lore": [
+    "Damage: +100",
+    "Strength: +100",
+    "Gemstones: []",
+    "",
+    "Ability: Instant Transmission  RIGHT CLICK",
+    "Teleport 8 blocks ahead of you and",
+    "gain +50  Speed for 3 seconds.",
+    "Mana Cost: 50",
+    "",
+    "This item can be reforged!",
+    "RARE SWORD"
+  ],
+  "name": "末影之刃",
+  "lore": {
+    "This item can be reforged!": "此物品可以洗练!",
+    "RARE SWORD": "稀有剑",
+    "Damage: {value}": "伤害:{value}",
+    "Damage: {value} ({bonus})": "伤害:{value} ({bonus})",
+    "Strength: {value}": "力量:{value}",
+    "Strength: {value} ({bonus})": "力量:{value} ({bonus})",
+    "Gemstones: []": "宝石槽:[]",
+    "Ability: Instant Transmission  RIGHT CLICK": "技能:瞬间传送  右键点击",
+    "Mana Cost: {value}": "魔力消耗:{value}",
+    "Mana Cost: {value}": "魔力消耗:{value}"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "Teleport {distance} blocks ahead of you and",
+        "gain {speed}  Speed for {duration} seconds."
+      ],
+      "translation": "向前传送 {distance} 格,并获得 {speed}  速度,持续 {duration} 秒.",
+      "styleMappings": {
+        "blocks": "格",
+        "Speed": "速度",
+        "seconds": "秒",
+        "Teleport": "传送",
+        " Speed": " 速度",
+        "for": "持续",
+        "speed": "速度",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: []"
+      ],
+      "translation": "宝石槽:[]",
+      "styleMappings": {
+        "Gemstones": "宝石槽"
+      }
+    },
+    {
+      "source": [
+        "Ability: Instant Transmission  RIGHT CLICK"
+      ],
+      "translation": "技能:瞬间传送  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "Ability: Instant Transmission": "技能:瞬间传送",
+        "CLICK": "点击",
+        "Transmission": "传送"
+      }
+    },
+    {
+      "source": [
+        "Teleport {{N0}} blocks ahead of you and",
+        "gain {{N1}}  Speed for {{N2}} seconds."
+      ],
+      "translation": "向前传送 {{N0}} 格,并获得 {{N1}}  速度,持续 {{N2}} 秒.",
+      "styleMappings": {
+        "Teleport": "传送",
+        "seconds": "秒",
+        " Speed": " 速度",
+        "blocks": "格",
+        "for": "持续",
+        "Speed": "速度",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "RARE SWORD"
+      ],
+      "translation": "稀有剑",
+      "styleMappings": {
+        "RARE": "稀有",
+        "RARE SWORD": "稀有剑"
+      }
+    }
+  ],
+  "styleMappings": {
+    "RIGHT CLICK": "右键点击",
+    "blocks": "格",
+    "Speed": "速度",
+    "seconds": "秒",
+    "Aspect of the End": "末影之刃"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

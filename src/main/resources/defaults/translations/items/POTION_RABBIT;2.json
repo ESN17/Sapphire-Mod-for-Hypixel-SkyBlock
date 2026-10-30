@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_RABBIT;2",
+  "_original_name": "Rabbit II Potion",
+  "_original_lore": [
+    "",
+    "Rabbit II (3:00)",
+    "Grants Jump Boost I and +20 ",
+    "Speed.",
+    "",
+    "COMMON"
+  ],
+  "name": "兔子 II 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Rabbit II ({{N0}}:{{N1}})"
+      ],
+      "translation": "兔子 II ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Rabbit II": "兔子 II",
+        "II": "II",
+        "Rabbit": "兔子"
+      }
+    },
+    {
+      "source": [
+        "Grants Jump Boost I and {{N0}} ",
+        "Speed."
+      ],
+      "translation": "给予跳跃提升 I 和 {{N0}}  速度.",
+      "styleMappings": {
+        "Jump Boost I": "跳跃提升 I",
+        " Speed": " 速度",
+        "Grants": "给予",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Rabbit II": "兔子 II",
+    "II": "II",
+    "Rabbit": "兔子"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

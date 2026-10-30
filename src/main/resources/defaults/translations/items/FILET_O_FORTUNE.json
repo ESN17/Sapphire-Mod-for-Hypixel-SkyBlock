@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "FILET_O_FORTUNE",
+  "_original_name": "Filet O' Fortune",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Grants +20 Mining Fortune.",
+    "Duration: 60m",
+    "",
+    "Right-click to consume!",
+    "",
+    "❣ Requires Heart of the Mountain Tier 4.",
+    "RARE"
+  ],
+  "name": "财富鱼柳",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants {{N0}} Mining Fortune."
+      ],
+      "translation": "提供 {{N0}} 采矿幸运.",
+      "styleMappings": {
+        "Mining Fortune": "采矿幸运",
+        "Grants": "提供",
+        "Mining": "采矿",
+        "Fortune": "幸运",
+        " Mining Fortune": " 采矿幸运"
+      }
+    },
+    {
+      "source": [
+        "Duration: {{N0}}m"
+      ],
+      "translation": "持续时间: {{N0}}分钟",
+      "styleMappings": {
+        "Duration": "持续时间",
+        "{{N0}}m": "{{N0}}分钟"
+      }
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "❣ Requires Heart of the Mountain Tier {{N0}}."
+      ],
+      "translation": "❣ 需要山峰之心等级 {{N0}}.",
+      "styleMappings": {
+        "Heart of the Mountain Tier": "山峰之心等级",
+        "Requires": "需要",
+        "Heart of the Mountain": "山峰之心"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

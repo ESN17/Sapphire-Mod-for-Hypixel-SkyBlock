@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "id": "ATTRIBUTE_SHARD_MOSSY_BOX;1",
+  "_original_name": "Hideonleaf Shard",
+  "_original_lore": [
+    "Mossy Box I",
+    "Grants +5  Block Fortune.",
+    "",
+    "You can Syphon this shard from",
+    "your Hunting Box.",
+    "",
+    "Right-click to send to Hunting Box!",
+    "Shift Right-click to move all!",
+    "",
+    "COMMON FOREST SHARD (ID C10)"
+  ],
+  "name": "叶隐碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mossy Box I"
+      ],
+      "translation": "苔藓箱 I",
+      "styleMappings": {
+        "Mossy": "苔藓",
+        "I": "I"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}  Block Fortune."
+      ],
+      "translation": "给予 {{N0}}  方块幸运.",
+      "styleMappings": {
+        "Block Fortune": "方块幸运",
+        "Grants": "给予",
+        "Fortune": "幸运"
+      }
+    },
+    {
+      "source": [
+        "You can Syphon this shard from",
+        "your Hunting Box."
+      ],
+      "translation": "你可以从狩猎箱中吸取此碎片.",
+      "styleMappings": {
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to send to Hunting Box!"
+      ],
+      "translation": "右键点击发送至狩猎箱!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Shift Right-click to move all!"
+      ],
+      "translation": "潜行键 右键点击全部移动!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "all": "全部"
+      }
+    },
+    {
+      "source": [
+        "COMMON FOREST SHARD (ID C{{N0}})"
+      ],
+      "translation": "普通森林碎片 (ID C{{N0}})",
+      "styleMappings": {
+        "COMMON FOREST SHARD": "普通森林碎片",
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shard": "碎片"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

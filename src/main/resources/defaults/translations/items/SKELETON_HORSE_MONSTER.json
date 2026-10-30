@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "SKELETON_HORSE_MONSTER",
+  "_original_name": "Skeleton Horse (Monster)",
+  "_original_lore": [
+    "Skeleton Horse, (not to be confused with the,",
+    "Skeleton Horse Pet) is a mob that spawn during the",
+    "Thunder event from the Blood God Shrine.",
+    "",
+    "❤ Health: 35.000",
+    "Combat XP: 8",
+    "Coins per Kill: 1",
+    "",
+    "Possible Drops:",
+    "Uncommon Loot",
+    " ■ Enchanted Bone x128-256"
+  ],
+  "name": "骷髅马 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Skeleton Horse, (not to be confused with the,",
+        "Skeleton Horse Pet) is a mob that spawn during the",
+        "Thunder event from the Blood God Shrine."
+      ],
+      "translation": "骷髅马,(不要与骷髅马宠物混淆) 是一种在血神祭坛的雷霆事件期间生成的怪物.",
+      "styleMappings": {
+        "Skeleton Horse Pet": "骷髅马宠物",
+        "Blood God Shrine": "血神祭坛",
+        "Skeleton Horse": "骷髅马",
+        "Thunder": "雷霆",
+        "Pet": "宠物",
+        "Skeleton": "骷髅"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Combat XP: {{N0}}"
+      ],
+      "translation": "战斗经验: {{N0}}",
+      "styleMappings": {
+        "Combat XP": "战斗经验",
+        "Combat": "战斗"
+      }
+    },
+    {
+      "source": [
+        "Coins per Kill: {{N0}}"
+      ],
+      "translation": "每次击杀金币: {{N0}}",
+      "styleMappings": {
+        "Coins per Kill": "每次击杀金币",
+        "Coins": "金币",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Possible Drops:"
+      ],
+      "translation": "可能掉落物:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Uncommon Loot",
+        " ■ Enchanted Bone x{{N0}}-{{N1}}"
+      ],
+      "translation": "罕见战利品  ■ 附魔骨头 {{N0}}-{{N1}} 个",
+      "styleMappings": {
+        "Enchanted Bone": "附魔骨头",
+        "Uncommon Loot": "罕见战利品",
+        "Uncommon": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Skeleton Horse (Monster)": "骷髅马 (怪物)",
+    "(Monster)": "(怪物)",
+    "Skeleton": "骷髅",
+    "Monster": "怪物",
+    "Skeleton Horse": "骷髅马"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

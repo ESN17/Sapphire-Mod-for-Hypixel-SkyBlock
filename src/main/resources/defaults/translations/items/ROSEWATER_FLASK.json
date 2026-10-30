@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "id": "ROSEWATER_FLASK",
+  "_original_name": "Rosewater Flask",
+  "_original_lore": [
+    "Consume to grow crops within the",
+    "Greenhouse by several Growth",
+    "Stages.",
+    "",
+    "Keep this item in your inventory to",
+    "increase the bonus up to 4 Growth",
+    "Stages, at which point the item",
+    "evolves!",
+    "",
+    "Current Bonus: +0 Growth Stages",
+    "",
+    "Co-op wide 2h cooldown.",
+    "",
+    "RARE"
+  ],
+  "name": "玫瑰水壶",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consume to grow crops within the",
+        "Greenhouse by several Growth",
+        "Stages."
+      ],
+      "translation": "使用后使温室内的作物生长数个生长阶段.",
+      "styleMappings": {
+        "Greenhouse": "温室",
+        "Growth Stages": "生长阶段",
+        "crops": "作物",
+        "Growth": "生长"
+      }
+    },
+    {
+      "source": [
+        "Keep this item in your inventory to",
+        "increase the bonus up to {{N0}} Growth",
+        "Stages, at which point the item",
+        "evolves!"
+      ],
+      "translation": "将此物品保留在物品栏中,可将加成提升至最多 {{N0}} 生长阶段,届时物品将进化!",
+      "styleMappings": {
+        "Growth Stages": "生长阶段",
+        "evolves": "进化",
+        "item": "物品",
+        "Growth": "生长"
+      }
+    },
+    {
+      "source": [
+        "Current Bonus: {{N0}} Growth Stages"
+      ],
+      "translation": "当前加成:{{N0}} 生长阶段",
+      "styleMappings": {
+        "Current Bonus:": "当前加成:",
+        "Growth Stages": "生长阶段",
+        "Bonus": "加成",
+        "Growth": "生长"
+      }
+    },
+    {
+      "source": [
+        "Co-op wide {{N0}}h cooldown."
+      ],
+      "translation": "合作模式共享 {{N0}}小时冷却时间.",
+      "styleMappings": {
+        "cooldown": "冷却",
+        "{{N0}}h": "{{N0}}小时"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

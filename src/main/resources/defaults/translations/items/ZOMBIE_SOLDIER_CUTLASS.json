@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "id": "ZOMBIE_SOLDIER_CUTLASS",
+  "_original_name": "Zombie Soldier Cutlass",
+  "_original_lore": [
+    "Gear Score: 283",
+    "Damage: +52",
+    "Strength: +26",
+    "Attack Speed: +100%",
+    "",
+    "Ability: Love Tap ",
+    "Heals you for +10 Health when you hit an",
+    "entity while in Dungeons!",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Catacombs Skill 5.",
+    "RARE DUNGEON SWORD"
+  ],
+  "name": "僵尸士兵弯刀",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Attack Speed: {{N0}}"
+      ],
+      "translation": "攻击速度: {{N0}}",
+      "styleMappings": {
+        "Attack Speed": "攻击速度",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Ability: Love Tap "
+      ],
+      "translation": "技能: 爱之轻拍 ",
+      "styleMappings": {
+        "Ability": "技能",
+        "Love Tap": "爱之轻拍"
+      }
+    },
+    {
+      "source": [
+        "Heals you for {{N0}} Health when you hit an",
+        "entity while in Dungeons!"
+      ],
+      "translation": "在地牢中击中实体时为你恢复 {{N0}} 生命值!",
+      "styleMappings": {
+        "Dungeons": "地牢",
+        "Health": "生命值",
+        " Health": " 生命",
+        "hit": "击中",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Catacombs Skill {{N0}}."
+      ],
+      "translation": "❣ 需要地牢技能 {{N0}}.",
+      "styleMappings": {
+        "Requires": "需要",
+        "Catacombs": "地牢",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "RARE DUNGEON SWORD"
+      ],
+      "translation": "稀有 地牢剑",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Zombie": "僵尸"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

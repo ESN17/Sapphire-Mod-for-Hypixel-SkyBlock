@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "FROGCOIN",
+  "_original_name": "Frogcoin",
+  "_original_lore": [
+    "Throw this into the waters of the",
+    "Lotus Eater's Cave to gain",
+    "temporary stat bonuses while on the",
+    "Lotus Atoll!",
+    "",
+    "A small coin depicting a wrinkly,",
+    "bearded frog. Coins of this nature",
+    "are said to bring good luck when",
+    "thrown into small fountains or ponds.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "青蛙币",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Throw this into the waters of the",
+        "Lotus Eater's Cave to gain",
+        "temporary stat bonuses while on the",
+        "Lotus Atoll!"
+      ],
+      "translation": "将其投入食莲者洞穴的水中,即可在莲花环礁上获得临时属性加成!",
+      "styleMappings": {
+        "waters": "水中",
+        "Lotus Eater's Cave": "食莲者洞穴",
+        "Lotus Atoll": "莲花环礁",
+        "Lotus": "莲花",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "A small coin depicting a wrinkly,",
+        "bearded frog. Coins of this nature",
+        "are said to bring good luck when",
+        "thrown into small fountains or ponds."
+      ],
+      "translation": "一枚小硬币,上面刻着一只满脸皱纹、长着胡子的青蛙.据说这种硬币投入小喷泉或池塘中会带来好运.",
+      "styleMappings": {
+        "Coins": "硬币",
+        "coin": "硬币"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Frogcoin": "青蛙币"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

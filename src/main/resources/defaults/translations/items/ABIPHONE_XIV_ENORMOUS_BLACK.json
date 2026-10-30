@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "id": "ABIPHONE_XIV_ENORMOUS_BLACK",
+  "_original_name": "Abiphone XIV Black",
+  "_original_lore": [
+    "A device that can be used to contact",
+    "people! Click NPCs to add them to",
+    "your contacts!",
+    "",
+    "Features:",
+    " Maximum Contacts: 11",
+    " Maximum Discs: 25",
+    " Contacts Directory",
+    " Do Not Disturb Mode",
+    " Tic Tac Toe",
+    " Snake",
+    "",
+    "Right-click to open!",
+    "",
+    "EPIC"
+  ],
+  "name": "阿比手机 XIV 黑色",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A device that can be used to contact",
+        "people! Click NPCs to add them to",
+        "your contacts!"
+      ],
+      "translation": "一台可用于联系他人的设备! 点击人物将其加入联系人!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Features:"
+      ],
+      "translation": "功能:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " Maximum Contacts: {{N0}}"
+      ],
+      "translation": " 最大联系人: {{N0}}",
+      "styleMappings": {
+        "Maximum Contacts": "最大联系人"
+      }
+    },
+    {
+      "source": [
+        " Maximum Discs: {{N0}}"
+      ],
+      "translation": " 最大唱片数: {{N0}}",
+      "styleMappings": {
+        "Maximum Discs": "最大唱片数"
+      }
+    },
+    {
+      "source": [
+        " Contacts Directory",
+        " Do Not Disturb Mode",
+        " Tic Tac Toe",
+        " Snake"
+      ],
+      "translation": " 联系人目录  免打扰模式  井字棋  贪吃蛇",
+      "styleMappings": {
+        "Contacts Directory": "联系人目录",
+        "Do Not Disturb Mode": "免打扰模式",
+        "Tic Tac Toe": "井字棋",
+        "Snake": "贪吃蛇"
+      }
+    },
+    {
+      "source": [
+        "Right-click to open!"
+      ],
+      "translation": "右键点击打开!",
+      "styleMappings": {
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Abiphone": "阿比手机"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

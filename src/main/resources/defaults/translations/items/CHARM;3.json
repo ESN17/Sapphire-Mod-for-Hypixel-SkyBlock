@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": "CHARM;3",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Charm III",
+    "Increases the chance to catch",
+    "higher-tiered Trophies by 6%.",
+    "",
+    "Sources:",
+    " - Fishing (I-V)",
+    " - Bazaar (I-V)",
+    " - Chain of the End Times (VI)",
+    "",
+    "Applied To:",
+    " - Fishing Rod",
+    "",
+    "Requirements:",
+    " - Enchanting Level 25",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Charm III"
+      ],
+      "translation": "魅力 III",
+      "styleMappings": {
+        "Charm": "魅力",
+        "III": "III"
+      }
+    },
+    {
+      "source": [
+        "Increases the chance to catch",
+        "higher-tiered Trophies by {{N0}}."
+      ],
+      "translation": "使钓到更高等级奖杯的概率提高 {{N0}}.",
+      "styleMappings": {
+        "chance to": "概率",
+        "Trophies": "奖杯",
+        "chance": "概率"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Fishing (I-V)",
+        " - Bazaar (I-V)",
+        " - Chain of the End Times (VI)"
+      ],
+      "translation": " - 钓鱼 (一至五)  - 集市 (一至五)  - 末世之链 (六)",
+      "styleMappings": {
+        "Fishing": "钓鱼",
+        "I-V": "一至五",
+        "Bazaar": "集市",
+        "Chain of the End Times": "末世之链",
+        "VI": "六"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Fishing Rod"
+      ],
+      "translation": " - 钓鱼竿",
+      "styleMappings": {
+        "Fishing Rod": "钓鱼竿",
+        "Fishing": "钓鱼"
+      }
+    },
+    {
+      "source": [
+        "Requirements:"
+      ],
+      "translation": "需求:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchanting Level {{N0}}"
+      ],
+      "translation": " - 附魔等级 {{N0}}",
+      "styleMappings": {
+        "Enchanting Level": "附魔等级"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

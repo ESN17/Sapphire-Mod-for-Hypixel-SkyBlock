@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "id": "LEECH_SWORD",
+  "_original_name": "Leech Sword",
+  "_original_lore": [
+    "Regens 3 Mana on hit.",
+    "",
+    "This item can be reforged!",
+    "RARE SWORD"
+  ],
+  "name": "血蛭之剑",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Regens {{N0}} Mana on hit."
+      ],
+      "translation": "命中时回复 {{N0}} 法力.",
+      "styleMappings": {
+        "Mana": "法力",
+        "hit": "命中"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "RARE SWORD"
+      ],
+      "translation": "稀有剑",
+      "styleMappings": {
+        "RARE": "稀有",
+        "RARE SWORD": "稀有剑"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sword": "剑"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

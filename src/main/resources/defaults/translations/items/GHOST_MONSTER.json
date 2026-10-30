@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "GHOST_MONSTER",
+  "_original_name": "Ghost (Monster)",
+  "_original_lore": [
+    "Ghosts are powerful mobs that spawn in the",
+    "mist area of the Dwarven mines. They appear as",
+    "the outer part of charged creepers.",
+    "",
+    "Mob Types: ♃ Arcane, ⛏ Subterranean",
+    "❤ Health: 1,000,000",
+    "Coins: 0-1,000,000 (Pray RNGeusus)"
+  ],
+  "name": "幽灵 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ghosts are powerful mobs that spawn in the",
+        "mist area of the Dwarven mines. They appear as",
+        "the outer part of charged creepers."
+      ],
+      "translation": "幽灵是强大的怪物,生成于矮人矿坑的迷雾区域.它们看起来像充能苦力怕的外层.",
+      "styleMappings": {
+        "mobs": "怪物",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Mob Types: ♃ Arcane, ⛏ Subterranean"
+      ],
+      "translation": "怪物类型: ♃ 奥术, ⛏ 地下",
+      "styleMappings": {
+        "Arcane": "奥术",
+        "Subterranean": "地下",
+        "Mob Types": "怪物类型",
+        "Mob Types:": "怪物类型:"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Coins: {{N0}}-{{N1}} (Pray RNGeusus)"
+      ],
+      "translation": "金币: {{N0}}-{{N1}} (祈祷随机之神)",
+      "styleMappings": {
+        "Coins": "金币",
+        "Pray RNGeusus": "祈祷随机之神"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Ghost (Monster)": "幽灵 (怪物)",
+    "(Monster)": "(怪物)",
+    "Ghost": "幽灵",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

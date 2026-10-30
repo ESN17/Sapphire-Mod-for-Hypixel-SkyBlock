@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "id": "WARDEN_HELMET",
+  "_original_name": "Warden Helmet",
+  "_original_lore": [
+    "Health: +300",
+    "Defense: +100",
+    "",
+    "Ability: Brute Force ",
+    "Halves your +25 Speed but grants",
+    "+20% base weapon damage for every",
+    "+25 Speed.",
+    "",
+    "This item can be reforged!",
+    "☠ Requires Zombie Slayer 8.",
+    "LEGENDARY HELMET"
+  ],
+  "name": "典狱长头盔",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Ability: Brute Force "
+      ],
+      "translation": "技能:蛮力 ",
+      "styleMappings": {
+        "Ability": "技能",
+        "Brute Force": "蛮力"
+      }
+    },
+    {
+      "source": [
+        "Halves your {{N0}} Speed but grants",
+        "{{N1}} base weapon damage for every",
+        "{{N2}} Speed."
+      ],
+      "translation": "将你的 {{N0}} 速度减半,但每 {{N2}} 速度提供 {{N1}} 基础武器伤害.",
+      "styleMappings": {
+        "base weapon damage": "基础武器伤害",
+        " Speed": " 速度",
+        "Speed": "速度",
+        "damage": "伤害",
+        "weapon damage": "武器伤害"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Zombie Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要僵尸杀手 {{N0}}.",
+      "styleMappings": {
+        "Zombie Slayer": "僵尸杀手",
+        "Requires": "需要",
+        "Zombie": "僵尸",
+        "Slayer": "杀手"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY HELMET"
+      ],
+      "translation": "传说 头盔",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Helmet": "头盔",
+    "Warden Helmet": "典狱长头盔"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

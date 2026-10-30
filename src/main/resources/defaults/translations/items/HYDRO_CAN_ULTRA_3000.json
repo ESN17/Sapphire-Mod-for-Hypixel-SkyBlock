@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "id": "HYDRO_CAN_ULTRA_3000",
+  "_original_name": "HydroCan™ Ultra 3000",
+  "_original_lore": [
+    "Use it on plants in the Greenhouse",
+    "to keep them watered.",
+    "",
+    "Ability: Hydrate  HOLD RIGHT CLICK",
+    "Aim and hold in the direction of a",
+    "plant to water it. Dispenses 250",
+    "water per second.",
+    "",
+    "Ability: Fill  RIGHT CLICK",
+    "When aiming at a water source, fills",
+    "your can back up with water.",
+    "",
+    "Ability: Aquaburst ",
+    "Spreads water in a larger area at",
+    "once.",
+    "",
+    "Water: 0/10k",
+    "",
+    "RARE WATERING CAN"
+  ],
+  "name": "水力罐™ 超级 3000",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Use it on plants in the Greenhouse",
+        "to keep them watered."
+      ],
+      "translation": "对着温室中的植物使用,为其保持水分.",
+      "styleMappings": {
+        "Greenhouse": "温室",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Ability: Hydrate  HOLD RIGHT CLICK"
+      ],
+      "translation": "技能:补水  长按右键点击",
+      "styleMappings": {
+        "HOLD RIGHT CLICK": "长按右键点击",
+        "Ability": "技能",
+        "RIGHT CLICK": "右键点击",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Aim and hold in the direction of a",
+        "plant to water it. Dispenses {{N0}}",
+        "water per second."
+      ],
+      "translation": "瞄准并按住植物方向即可浇水.每秒释放 {{N0}} 水.",
+      "styleMappings": {
+        "per second": "每秒",
+        "plant": "植物",
+        "second": "秒",
+        "per": "每",
+        "water": "水"
+      }
+    },
+    {
+      "source": [
+        "Ability: Fill  RIGHT CLICK"
+      ],
+      "translation": "技能: 装填  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "When aiming at a water source, fills",
+        "your can back up with water."
+      ],
+      "translation": "瞄准水源时,将你的水壶重新装满水.",
+      "styleMappings": {
+        "water": "水"
+      }
+    },
+    {
+      "source": [
+        "Ability: Aquaburst "
+      ],
+      "translation": "技能: 水爆 ",
+      "styleMappings": {
+        "Ability": "技能"
+      }
+    },
+    {
+      "source": [
+        "Spreads water in a larger area at",
+        "once."
+      ],
+      "translation": "一次性在更大范围内洒水.",
+      "styleMappings": {
+        "water": "水"
+      }
+    },
+    {
+      "source": [
+        "Water: {{N0}}/{{N1}}k"
+      ],
+      "translation": "水: {{N0}}/{{N1}}千",
+      "styleMappings": {
+        "{{N1}}k": "{{N1}}千"
+      }
+    },
+    {
+      "source": [
+        "RARE WATERING CAN"
+      ],
+      "translation": "稀有洒水壶",
+      "styleMappings": {
+        "RARE WATERING CAN": "稀有洒水壶",
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

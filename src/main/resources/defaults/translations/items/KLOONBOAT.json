@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "KLOONBOAT",
+  "_original_name": "Kloonboat",
+  "_original_lore": [
+    "Drop this item to decrease your FPS.",
+    "Immune to dropping.",
+    "",
+    "To: [ADMIN] Minikloon",
+    "From: [ADMIN] Minikloon",
+    "",
+    "Edition #1",
+    "July 2020",
+    "",
+    "SPECIAL"
+  ],
+  "name": "克鲁恩小船",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Drop this item to decrease your FPS."
+      ],
+      "translation": "丢弃此物品可降低你的每秒帧数.",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Immune to dropping."
+      ],
+      "translation": "无法丢弃.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "To: [ADMIN] Minikloon"
+      ],
+      "translation": "收件人: [管理员] Minikloon",
+      "styleMappings": {
+        "[ADMIN] Minikloon": "[管理员] Minikloon"
+      }
+    },
+    {
+      "source": [
+        "From: [ADMIN] Minikloon"
+      ],
+      "translation": "发件人: [管理员] Minikloon",
+      "styleMappings": {
+        "[ADMIN] Minikloon": "[管理员] Minikloon"
+      }
+    },
+    {
+      "source": [
+        "Edition #{{N0}}",
+        "July {{N1}}"
+      ],
+      "translation": "第 #{{N0}} 版 {{N1}} 月",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

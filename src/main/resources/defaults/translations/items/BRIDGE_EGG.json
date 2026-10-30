@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "BRIDGE_EGG",
+  "_original_name": "Bridge Egg",
+  "_original_lore": [
+    "Creates a path of stone blocks as it",
+    "travels through the air!",
+    "",
+    "COMMON"
+  ],
+  "name": "桥梁蛋",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Creates a path of stone blocks as it",
+        "travels through the air!"
+      ],
+      "translation": "飞行途中生成一条石头方块路径!",
+      "styleMappings": {
+        "blocks": "方块"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Egg": "蛋"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

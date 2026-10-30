@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "BLOOD_DONOR_RING",
+  "_original_name": "Blood Donor Ring",
+  "_original_lore": [
+    "Health Regen: +2",
+    "Accessory Power: +5",
+    "",
+    "There's like 5 liters in you.",
+    "",
+    "X Rift-Transferable X",
+    "Works while in Accessory Bag!",
+    "UNCOMMON ACCESSORY"
+  ],
+  "name": "献血者戒指",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health Regen: {{N0}}"
+      ],
+      "translation": "生命回复: {{N0}}",
+      "styleMappings": {
+        "Health Regen": "生命回复",
+        "Health": "生命",
+        "Regen": "回复"
+      }
+    },
+    {
+      "source": [
+        "Accessory Power: {{N0}}"
+      ],
+      "translation": "饰品能量: {{N0}}",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "There's like {{N0}} liters in you."
+      ],
+      "translation": "你体内大概有 {{N0}} 升.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "X Rift-Transferable X",
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "X 可裂隙转移 X 在饰品袋中时生效!",
+      "styleMappings": {
+        "Works while in Accessory Bag!": "在饰品袋中时生效!",
+        "Rift-Transferable": "可裂隙转移",
+        "Accessory Bag": "饰品袋",
+        "Rift": "裂隙",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON ACCESSORY"
+      ],
+      "translation": "罕见 饰品",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Ring": "戒指"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

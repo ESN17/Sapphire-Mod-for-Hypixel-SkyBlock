@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "FANCY_FLOWER_POT",
+  "_original_name": "Flower Pot",
+  "_original_lore": [
+    "Furniture",
+    "",
+    "This cosmetic flower pot looks great",
+    "in a garden.",
+    "",
+    "COMMON"
+  ],
+  "name": "花盆",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Furniture"
+      ],
+      "translation": "家具",
+      "styleMappings": {
+        "Furniture": "家具"
+      }
+    },
+    {
+      "source": [
+        "This cosmetic flower pot looks great",
+        "in a garden."
+      ],
+      "translation": "这个装饰性花盆放在花园里很好看.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

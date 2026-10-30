@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "STEAMED_CHOCOLATE_FISH",
+  "_original_name": "Fish Chocolat à la Vapeur",
+  "_original_lore": [
+    "Give this dish to Hoppity to obtain his",
+    "Abiphone Contact.",
+    "",
+    "Savory fish with a chocolate twist.",
+    "Mwah! C'est magnifique, no?",
+    "",
+    "EPIC"
+  ],
+  "name": "清蒸巧克力鱼",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Give this dish to Hoppity to obtain his",
+        "Abiphone Contact."
+      ],
+      "translation": "将这道菜交给 Hoppity 以获得他的阿比手机联系方式.",
+      "styleMappings": {
+        "Hoppity": "Hoppity",
+        "Abiphone Contact": "阿比手机联系方式"
+      }
+    },
+    {
+      "source": [
+        "Savory fish with a chocolate twist."
+      ],
+      "translation": "带有巧克力风味的咸香鱼肉.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Mwah! C'est magnifique, no?"
+      ],
+      "translation": "么么! 真是绝妙,不是吗?",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fish": "鱼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

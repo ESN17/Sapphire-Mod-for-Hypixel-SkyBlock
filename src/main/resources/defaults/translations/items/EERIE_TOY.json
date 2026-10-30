@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "id": "EERIE_TOY",
+  "_original_name": "Eerie Toy",
+  "_original_lore": [
+    "Obtained during the 2023 Alchemist",
+    "experiments!",
+    "",
+    "Edition #331",
+    "",
+    "Turns your RARE Eerie Pet into its",
+    "LEGENDARY version.",
+    "",
+    "* Soulbound *",
+    "EPIC PET ITEM"
+  ],
+  "name": "诡异玩具",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Obtained during the {{N0}} Alchemist",
+        "experiments!"
+      ],
+      "translation": "在 {{N0}} 炼金实验中获得!",
+      "styleMappings": {
+        "Alchemist": "炼金"
+      }
+    },
+    {
+      "source": [
+        "Edition #{{N0}}"
+      ],
+      "translation": "版本 #{{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Turns your RARE Eerie Pet into its"
+      ],
+      "translation": "将你的稀有诡异宠物变为其",
+      "styleMappings": {
+        "RARE": "稀有",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY version."
+      ],
+      "translation": "传说版本.",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "EPIC PET ITEM"
+      ],
+      "translation": "史诗 宠物 物品",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "MUSHROOM_CHESTPLATE",
+  "_original_name": "Mushroom Chestplate",
+  "_original_lore": [
+    "Health: +10",
+    "Defense: +10",
+    "",
+    "Full Set Bonus: Night Affinity (0/4)",
+    "Grants the wearer permanent Night",
+    "Vision while worn.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Farming Skill 7.",
+    "COMMON CHESTPLATE"
+  ],
+  "name": "蘑菇胸甲",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Night Affinity ({{N0}}/{{N1}})"
+      ],
+      "translation": "全套效果: 夜之亲和 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Full Set Bonus": "全套效果",
+        "Night Affinity": "夜之亲和"
+      }
+    },
+    {
+      "source": [
+        "Grants the wearer permanent Night",
+        "Vision while worn."
+      ],
+      "translation": "穿戴时给予穿戴者永久夜视效果.",
+      "styleMappings": {
+        "Night Vision": "夜视",
+        "Grants": "给予"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Farming Skill {{N0}}."
+      ],
+      "translation": "❣ 需要农业技能 {{N0}}.",
+      "styleMappings": {
+        "Farming Skill": "农业技能",
+        "Requires": "需要",
+        "Farming": "农业",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "COMMON CHESTPLATE"
+      ],
+      "translation": "普通胸甲",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Chestplate": "胸甲",
+    "Mushroom": "蘑菇"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

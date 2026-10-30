@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "STORM_THE_FISH",
+  "_original_name": "Storm the Fish",
+  "_original_lore": [
+    "Be glad you'll never have to face me!",
+    "",
+    "SPECIAL DUNGEON ITEM"
+  ],
+  "name": "风暴鱼",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Be glad you'll never have to face me!"
+      ],
+      "translation": "庆幸你永远不必面对我!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "SPECIAL DUNGEON ITEM"
+      ],
+      "translation": "特殊地牢物品",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Storm": "风暴",
+    "Fish": "鱼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

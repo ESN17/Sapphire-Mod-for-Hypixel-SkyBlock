@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "DUNGEON_DISC_4",
+  "_original_name": "Old Disc",
+  "_original_lore": [
+    "Place this inside a jukebox to play a",
+    "dungeon song!",
+    "",
+    "The Wither King",
+    "  By ShinkoNet",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "旧唱片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Place this inside a jukebox to play a",
+        "dungeon song!"
+      ],
+      "translation": "将其放入唱片机以播放地牢歌曲!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "The Wither King"
+      ],
+      "translation": "凋灵之王",
+      "styleMappings": {
+        "Wither": "凋灵"
+      }
+    },
+    {
+      "source": [
+        "  By ShinkoNet"
+      ],
+      "translation": "  作者 辛科网",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

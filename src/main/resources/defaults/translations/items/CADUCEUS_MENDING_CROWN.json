@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "id": "CADUCEUS_MENDING_CROWN",
+  "_original_name": "Caduceus Mender Skin",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Item skins give your gear a fresh",
+    "new look! Apply them just like an",
+    "enchant book using the anvil.",
+    "",
+    "This skin can be applied to Mender",
+    "Helmet, Mender Fedora, and Mender",
+    "Crown.",
+    "",
+    "This skin is swappable between 5",
+    "snakelike variants!",
+    "",
+    "ULTIMATE COSMETIC"
+  ],
+  "name": "双蛇杖医者皮肤",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Item skins give your gear a fresh",
+        "new look! Apply them just like an",
+        "enchant book using the anvil."
+      ],
+      "translation": "物品皮肤能让你的装备焕然一新!像附魔书一样在铁砧上使用即可.",
+      "styleMappings": {
+        "fresh new look": "焕然一新",
+        "enchant book": "附魔书",
+        "Item skins": "物品皮肤",
+        "anvil": "铁砧",
+        "Item": "物品"
+      }
+    },
+    {
+      "source": [
+        "This skin can be applied to Mender",
+        "Helmet, Mender Fedora, and Mender",
+        "Crown."
+      ],
+      "translation": "此皮肤可应用于修补者头盔、修补者软呢帽和修补者王冠.",
+      "styleMappings": {
+        "Mender Helmet": "修补者头盔",
+        "Mender Fedora": "修补者软呢帽",
+        "Mender Crown": "修补者王冠",
+        "This skin can be applied to": "此皮肤可应用于",
+        "Helmet": "头盔",
+        "Crown": "头盔"
+      }
+    },
+    {
+      "source": [
+        "This skin is swappable between {{N0}}",
+        "snakelike variants!"
+      ],
+      "translation": "这款皮肤可在 {{N0}} 种蛇形变体之间切换!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "ULTIMATE COSMETIC"
+      ],
+      "translation": "终极外观",
+      "styleMappings": {}
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

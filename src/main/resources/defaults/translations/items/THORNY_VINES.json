@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "THORNY_VINES",
+  "_original_name": "Thorny Vines",
+  "_original_lore": [
+    "Minion Fuel",
+    "",
+    "Can be placed in a Flower Minion to",
+    "exclusively produce Wild Rose.",
+    "Increases the speed of your minion",
+    "by 20%. Unlimited Duration!",
+    "",
+    "RARE"
+  ],
+  "name": "荆棘藤蔓",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Minion Fuel"
+      ],
+      "translation": "仆从燃料",
+      "styleMappings": {
+        "Minion Fuel": "仆从燃料",
+        "Fuel": "燃料",
+        "Minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "Can be placed in a Flower Minion to",
+        "exclusively produce Wild Rose."
+      ],
+      "translation": "可放入花朵仆从,专门产出野玫瑰.",
+      "styleMappings": {
+        "Flower Minion": "花朵仆从",
+        "Wild Rose": "野玫瑰",
+        "Minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "Increases the speed of your minion",
+        "by {{N0}}. Unlimited Duration!"
+      ],
+      "translation": "仆从的工作速度提高 {{N0}},永久有效!",
+      "styleMappings": {
+        "minion": "仆从",
+        "speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Thorny": "荆棘"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

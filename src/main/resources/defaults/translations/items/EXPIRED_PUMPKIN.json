@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "EXPIRED_PUMPKIN",
+  "_original_name": "Expired Pumpkin",
+  "_original_lore": [
+    "Bring 3,000 of these to Carrolyn in",
+    "Scarleton on the Crimson Isle to",
+    "permanently gain +5 Health and",
+    "+12 Pumpkin Fortune.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "过期南瓜",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Bring {{N0}} of these to Carrolyn in",
+        "Scarleton on the Crimson Isle to",
+        "permanently gain {{N1}} Health and",
+        "{{N2}} Pumpkin Fortune."
+      ],
+      "translation": "将 {{N0}} 个此物品带给绯红之岛上斯卡雷顿的 Carrolyn,以永久获得 {{N1}} 生命和 {{N2}} 南瓜幸运.",
+      "styleMappings": {
+        "Pumpkin Fortune": "南瓜幸运",
+        "Crimson Isle": "绯红之岛",
+        "permanently": "永久",
+        "Scarleton": "斯卡雷顿",
+        "Carrolyn": "Carrolyn",
+        " Health": " 生命",
+        "Health": "生命",
+        "Pumpkin": "南瓜",
+        "Fortune": "幸运",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Pumpkin": "南瓜"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

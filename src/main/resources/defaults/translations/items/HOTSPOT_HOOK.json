@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "id": "HOTSPOT_HOOK",
+  "_original_name": "Hotspot Hook",
+  "_original_lore": [
+    "Grants a +20% chance to catch",
+    "Hotspot Sea Creatures while fishing",
+    "in a Hotspot.",
+    "",
+    "Talk to Roddy in the Backwater",
+    "Bayou to apply this Hook to a Fishing",
+    "Rod.",
+    "",
+    "❣ Requires Fishing Skill 20.",
+    "EPIC ROD PART"
+  ],
+  "name": "热点鱼钩",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Grants a {{N0}} chance to catch",
+        "Hotspot Sea Creatures while fishing",
+        "in a Hotspot."
+      ],
+      "translation": "在热点钓鱼时,有 {{N0}} 概率钓到热点海怪.",
+      "styleMappings": {
+        "Hotspot Sea Creatures": "热点海怪",
+        "chance to": "概率",
+        "Hotspot": "热点",
+        "fishing": "钓鱼",
+        "Sea Creatures": "海怪",
+        "chance": "概率"
+      }
+    },
+    {
+      "source": [
+        "Talk to Roddy in the Backwater",
+        "Bayou to apply this Hook to a Fishing",
+        "Rod."
+      ],
+      "translation": "与静水河湾的 Roddy 交谈,将此鱼钩应用到钓鱼竿上.",
+      "styleMappings": {
+        "Backwater Bayou": "静水河湾",
+        "Fishing Rod": "钓鱼竿",
+        "Roddy": "Roddy",
+        "Hook": "鱼钩",
+        "Fishing": "钓鱼",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Fishing Skill {{N0}}."
+      ],
+      "translation": "❣ 需要钓鱼技能 {{N0}}.",
+      "styleMappings": {
+        "Fishing Skill": "钓鱼技能",
+        "Requires": "需要",
+        "Fishing": "钓鱼",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC ROD PART"
+      ],
+      "translation": "史诗鱼竿部件",
+      "styleMappings": {
+        "EPIC ROD PART": "史诗鱼竿部件",
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Hook": "鱼钩",
+    "Hotspot": "热点"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

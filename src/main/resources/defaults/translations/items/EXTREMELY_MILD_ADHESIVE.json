@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": "EXTREMELY_MILD_ADHESIVE",
+  "_original_name": "Extremely Mild Adhesive",
+  "_original_lore": [
+    "Reforge Stone",
+    "Combinable in Anvil",
+    "",
+    "Applies the Sticky reforge when",
+    "combined with a Fishing Net.",
+    "",
+    "Grants the following stats that scale",
+    "with the item's rarity:",
+    "  Pull",
+    "",
+    "Sticky Bonus",
+    "Grants +2.5 Hunting Fortune",
+    "towards Water Shards.",
+    "",
+    "Right-click to view rarity scaling!",
+    "",
+    "❣ Requires Mining Skill 10.",
+    "",
+    "RARE REFORGE STONE"
+  ],
+  "name": "极温和粘合剂",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Reforge Stone",
+        "Combinable in Anvil"
+      ],
+      "translation": "洗练石 可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Reforge Stone": "洗练石",
+        "Anvil": "铁砧",
+        "Reforge": "洗练"
+      }
+    },
+    {
+      "source": [
+        "Applies the Sticky reforge when",
+        "combined with a Fishing Net."
+      ],
+      "translation": "与渔网结合时施加粘性洗练.",
+      "styleMappings": {
+        "Sticky": "粘性",
+        "Fishing Net": "渔网",
+        "reforge": "洗练",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Grants the following stats that scale"
+      ],
+      "translation": "提供以下随物品稀有度提升的属性:",
+      "styleMappings": {
+        "Grants": "提供",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "with the item's rarity:"
+      ],
+      "translation": "物品稀有度提升的属性:",
+      "styleMappings": {
+        "item": "物品",
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "  Pull"
+      ],
+      "translation": "    拉力",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Sticky Bonus",
+        "Grants {{N0}} Hunting Fortune",
+        "towards Water Shards."
+      ],
+      "translation": "粘性奖励 对水之碎片提供 {{N0}} 狩猎幸运.",
+      "styleMappings": {
+        "Hunting Fortune": "狩猎幸运",
+        "Sticky Bonus": "粘性奖励",
+        "Water Shards": "水之碎片",
+        "Grants": "提供",
+        "Fortune": "幸运",
+        "Sticky": "粘性"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view rarity scaling!"
+      ],
+      "translation": "右键查看各稀有度的属性!",
+      "styleMappings": {
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Mining Skill {{N0}}."
+      ],
+      "translation": "❣ 需要采矿技能 {{N0}}.",
+      "styleMappings": {
+        "Mining Skill": "采矿技能",
+        "Requires": "需要",
+        "Mining": "采矿",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "RARE REFORGE STONE"
+      ],
+      "translation": "稀有 洗练石",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

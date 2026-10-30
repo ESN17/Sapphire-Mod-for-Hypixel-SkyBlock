@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "WYLD_LEGGINGS",
+  "_original_name": "Wyld Leggings",
+  "_original_lore": [
+    "Rift Time: +15s",
+    "",
+    "UNCOMMON LEGGINGS"
+  ],
+  "name": "荒野护腿",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Rift Time: {{N0}}s"
+      ],
+      "translation": "裂隙时间: {{N0}}秒",
+      "styleMappings": {
+        "Rift Time": "裂隙时间",
+        "{{N0}}s": "{{N0}}秒",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON LEGGINGS"
+      ],
+      "translation": "罕见 护腿",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Leggings": "护腿"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

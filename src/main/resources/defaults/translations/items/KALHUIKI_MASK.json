@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "KALHUIKI_MASK",
+  "_original_name": "Kalhuiki Mask",
+  "_original_lore": [
+    "Health: +100",
+    "Defense: +50",
+    "",
+    "A ceremonial mask worn by the",
+    "members of the Kalhuiki Tribe.",
+    "",
+    "While wearing this mask, members of",
+    "the Kalhuiki Tribe will not attack you!",
+    "",
+    "This item can be reforged!",
+    "COMMON HELMET"
+  ],
+  "name": "卡尔胡伊基面具",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "A ceremonial mask worn by the",
+        "members of the Kalhuiki Tribe."
+      ],
+      "translation": "卡尔胡伊基部落成员佩戴的仪式面具.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "While wearing this mask, members of",
+        "the Kalhuiki Tribe will not attack you!"
+      ],
+      "translation": "佩戴此面具时,卡尔胡伊基部落成员不会攻击你!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "COMMON HELMET"
+      ],
+      "translation": "普通头盔",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mask": "面具"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

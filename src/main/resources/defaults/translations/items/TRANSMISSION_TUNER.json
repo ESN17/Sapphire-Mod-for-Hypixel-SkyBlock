@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "TRANSMISSION_TUNER",
+  "_original_name": "Transmission Tuner",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "When applied to an item offering a",
+    "Transmission ability, its ability range",
+    "is increased by +1. Can be applied",
+    "up to 4 times!",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "X Rift-Transferable X",
+    "EPIC"
+  ],
+  "name": "传送调谐器",
+  "lore": {
+    "Combinable in Anvil": "可在铁砧中合成",
+    "Right-click to view recipes!": "右键查看配方!",
+    "X Rift-Transferable X": "X 可转移至裂隙 X",
+    "EPIC": "史诗"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "When applied to an item offering a",
+        "Transmission ability, its ability range",
+        "is increased by {range}. Can be applied",
+        "up to {count} times!"
+      ],
+      "translation": "用于拥有传送技能的物品时,技能范围增加 {range}.最多可使用 {count} 次!",
+      "styleMappings": {
+        "item": "物品",
+        "ability": "技能",
+        "Transmission": "传送"
+      }
+    },
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "When applied to an item offering a",
+        "Transmission ability, its ability range",
+        "is increased by {{N0}}. Can be applied",
+        "up to {{N1}} times!"
+      ],
+      "translation": "用于拥有传送技能的物品时,技能范围增加 {{N0}}.最多可使用 {{N1}} 次!",
+      "styleMappings": {
+        "ability": "技能",
+        "item": "物品",
+        "Transmission": "传送"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "X Rift-Transferable X"
+      ],
+      "translation": "X 可转移至裂隙 X",
+      "styleMappings": {
+        "Rift-Transferable": "可转移至裂隙",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Rift-Transferable": "可转移至裂隙",
+    "Transmission": "传送"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

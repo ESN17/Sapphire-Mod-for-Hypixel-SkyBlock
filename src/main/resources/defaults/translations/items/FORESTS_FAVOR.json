@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "FORESTS_FAVOR",
+  "_original_name": "Forest's Favor",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "When applied to an item, increases its",
+    "Karma level by 1!",
+    "Can be applied once.",
+    "Requires Karma V!",
+    "",
+    "The will of the forest materializes",
+    "into this item, which it has bestowed",
+    "upon you. May fortune smile upon",
+    "thee, and may thy axe be ever-sharp.",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "森林恩惠",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "When applied to an item, increases its",
+        "Karma level by {{N0}}!"
+      ],
+      "translation": "应用于物品时,将其业力等级提高 {{N0}}!",
+      "styleMappings": {
+        "item": "物品",
+        "Karma": "业力"
+      }
+    },
+    {
+      "source": [
+        "Can be applied once."
+      ],
+      "translation": "只能应用一次.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Requires Karma V!"
+      ],
+      "translation": "需要业力 V!",
+      "styleMappings": {
+        "Requires": "需要",
+        "Karma V": "业力 V",
+        "Karma": "业力"
+      }
+    },
+    {
+      "source": [
+        "The will of the forest materializes",
+        "into this item, which it has bestowed",
+        "upon you. May fortune smile upon",
+        "thee, and may thy axe be ever-sharp."
+      ],
+      "translation": "森林的意志凝聚成此物品,并将其赐予了你.愿幸运眷顾你,愿你的斧头永远锋利.",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Forest's Favor": "森林恩惠",
+    "Forest": "森林"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

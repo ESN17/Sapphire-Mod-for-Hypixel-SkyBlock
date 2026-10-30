@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "DIFFICULT_ITEM",
+  "_original_name": "An Extremely Difficult Item For You To Find",
+  "_original_lore": [
+    "You found it!",
+    "",
+    "Obtained from the A Honk and Seek",
+    "Adventure event during April Fools.",
+    "",
+    "SPECIAL"
+  ],
+  "name": "一件极难找到的物品",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "You found it!"
+      ],
+      "translation": "你找到了它!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Obtained from the A Honk and Seek",
+        "Adventure event during April Fools."
+      ],
+      "translation": "在愚人节期间的鸣笛寻宝冒险活动中获得.",
+      "styleMappings": {
+        "A Honk and Seek Adventure": "鸣笛寻宝冒险"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Item": "物品"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

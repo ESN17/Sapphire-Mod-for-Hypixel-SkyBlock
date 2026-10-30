@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "KAT_FLOWER",
+  "_original_name": "Kat Flower",
+  "_original_lore": [
+    "Give this to Kat the Pet Sitter in",
+    "order to skip 1 day of wait time while",
+    "upgrading your pet!",
+    "",
+    "Right-click on Kat to use!",
+    "",
+    "SPECIAL"
+  ],
+  "name": "Kat 之花",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Give this to Kat the Pet Sitter in",
+        "order to skip {{N0}} day of wait time while",
+        "upgrading your pet!"
+      ],
+      "translation": "将此物交给宠物保姆 Kat,即可在升级宠物时跳过 {{N0}} 天等待时间!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "Pet Sitter": "宠物保姆",
+        "day": "天",
+        "pet": "宠物",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Right-click on Kat to use!"
+      ],
+      "translation": "右键点击 Kat 使用!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Kat": "Kat"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Kat": "Kat"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

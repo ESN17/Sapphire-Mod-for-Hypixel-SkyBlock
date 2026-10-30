@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "id": "MERCENARY_HELMET",
+  "_original_name": "Mercenary Helmet",
+  "_original_lore": [
+    "Health: +40",
+    "Defense: +40",
+    "Strength: +10",
+    "",
+    "Full Set Bonus: Death Tax (0/4)",
+    "Earn +5 coins and heal 20❤ each kill.",
+    "Only against level 10+ mobs!",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Combat Skill 8.",
+    "RARE HELMET"
+  ],
+  "name": "雇佣兵头盔",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Death Tax ({{N0}}/{{N1}})"
+      ],
+      "translation": "全套加成:死亡税 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Full Set Bonus": "全套加成",
+        "Death Tax": "死亡税",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Earn {{N0}} coins and heal {{N1}}❤ each kill."
+      ],
+      "translation": "每次击杀获得 {{N0}} 硬币并治疗 {{N1}}❤.",
+      "styleMappings": {
+        "coins": "硬币"
+      }
+    },
+    {
+      "source": [
+        "Only against level {{N0}}+ mobs!"
+      ],
+      "translation": "仅对 {{N0}}+ 级怪物有效!",
+      "styleMappings": {
+        "mobs": "怪物"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "RARE HELMET"
+      ],
+      "translation": "稀有头盔",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mercenary Helmet": "雇佣兵头盔",
+    "Helmet": "头盔"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

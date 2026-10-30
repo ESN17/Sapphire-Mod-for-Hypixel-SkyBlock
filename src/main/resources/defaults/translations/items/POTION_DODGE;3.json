@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_DODGE;3",
+  "_original_name": "Dodge III Potion",
+  "_original_lore": [
+    "",
+    "Dodge III (3:00)",
+    "Mob attacks have a 30% chance to",
+    "miss.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "闪避 III 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Dodge III ({{N0}}:{{N1}})"
+      ],
+      "translation": "闪避 III ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Dodge III": "闪避 III",
+        "III": "III"
+      }
+    },
+    {
+      "source": [
+        "Mob attacks have a {{N0}} chance to",
+        "miss."
+      ],
+      "translation": "生物攻击有 {{N0}} 概率未命中.",
+      "styleMappings": {
+        "Mob attacks have a": "生物攻击有",
+        "chance to": "概率",
+        "miss": "未命中",
+        "chance": "概率"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Dodge III": "闪避 III",
+    "III": "III"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

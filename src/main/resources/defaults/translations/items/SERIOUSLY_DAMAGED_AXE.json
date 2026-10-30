@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "SERIOUSLY_DAMAGED_AXE",
+  "_original_name": "Seriously Damaged Axe",
+  "_original_lore": [
+    "Damage: +10",
+    "Sweep: +10",
+    "Foraging Fortune: +5",
+    "",
+    "Ability: Throwing Axe  RIGHT CLICK",
+    "While on Foraging Islands, throw your Axe at a",
+    "tree! It will sweep 50% of the logs it normally",
+    "would!",
+    "Cooldown: 1s",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Foraging Skill 12.",
+    "UNCOMMON AXE"
+  ],
+  "name": "严重损坏的斧头",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Sweep: {{N0}}"
+      ],
+      "translation": "清扫:{{N0}}",
+      "styleMappings": {
+        "Sweep": "清扫"
+      }
+    },
+    {
+      "source": [
+        "Foraging Fortune: {{N0}}"
+      ],
+      "translation": "采伐幸运: {{N0}}",
+      "styleMappings": {
+        "Foraging Fortune": "采伐幸运",
+        "Fortune": "幸运",
+        "Foraging": "采伐"
+      }
+    },
+    {
+      "source": [
+        "Ability: Throwing Axe  RIGHT CLICK"
+      ],
+      "translation": "技能:投掷斧头  右键点击",
+      "styleMappings": {
+        "Throwing Axe": "投掷斧头",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "While on Foraging Islands, throw your Axe at a",
+        "tree! It will sweep {{N0}} of the logs it normally",
+        "would!"
+      ],
+      "translation": "在采伐群岛上时,将你的斧头掷向树木!它会扫过原本 {{N0}} 数量的原木!",
+      "styleMappings": {
+        "Foraging Islands": "采伐群岛",
+        "Foraging": "采伐"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Foraging Skill {{N0}}."
+      ],
+      "translation": "❣ 需要采伐技能 {{N0}}.",
+      "styleMappings": {
+        "Foraging Skill": "采伐技能",
+        "Requires": "需要",
+        "Foraging": "采伐",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON AXE"
+      ],
+      "translation": "罕见 斧",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

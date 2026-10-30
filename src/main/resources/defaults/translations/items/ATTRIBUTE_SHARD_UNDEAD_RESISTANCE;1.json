@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "ATTRIBUTE_SHARD_UNDEAD_RESISTANCE;1",
+  "_original_name": "Tank Zombie Shard",
+  "_original_lore": [
+    "Undead Resistance I",
+    "Grants +4  Defense against ",
+    "Undead mobs.",
+    "",
+    "You can Syphon this shard from",
+    "your Hunting Box.",
+    "",
+    "Right-click to send to Hunting Box!",
+    "Shift Right-click to move all!",
+    "",
+    "COMMON COMBAT SHARD (ID C18)"
+  ],
+  "name": "坦克僵尸碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Undead Resistance I"
+      ],
+      "translation": "亡灵抗性 I",
+      "styleMappings": {
+        "Resistance I": "抗性 I",
+        "Undead": "亡灵",
+        "Resistance": "抗性"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}  Defense against ",
+        "Undead mobs."
+      ],
+      "translation": "对  亡灵生物获得 {{N0}}  防御.",
+      "styleMappings": {
+        " Defense": " 防御",
+        "Grants": "获得",
+        "Undead": "亡灵",
+        "mobs": "生物",
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "You can Syphon this shard from",
+        "your Hunting Box."
+      ],
+      "translation": "你可以从狩猎箱中吸取此碎片.",
+      "styleMappings": {
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to send to Hunting Box!"
+      ],
+      "translation": "右键点击发送至狩猎箱!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Shift Right-click to move all!"
+      ],
+      "translation": "潜行键 右键点击全部移动!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "all": "全部"
+      }
+    },
+    {
+      "source": [
+        "COMMON COMBAT SHARD (ID C{{N0}})"
+      ],
+      "translation": "普通战斗碎片 (ID C{{N0}})",
+      "styleMappings": {
+        "COMMON COMBAT SHARD": "普通战斗碎片",
+        "COMMON": "普通",
+        "COMBAT SHARD": "战斗碎片"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Tank": "坦克",
+    "Shard": "碎片",
+    "Zombie": "僵尸"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

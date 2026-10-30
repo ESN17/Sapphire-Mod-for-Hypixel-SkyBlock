@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_REGENERATION;8",
+  "_original_name": "Regeneration VIII Potion",
+  "_original_lore": [
+    "",
+    "Regeneration VIII (0:45)",
+    "Grants +25 Health Regen.",
+    "",
+    "EPIC"
+  ],
+  "name": "再生 VIII 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Regeneration VIII ({{N0}}:{{N1}})"
+      ],
+      "translation": "再生 VIII ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Regeneration VIII": "再生 VIII"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Health Regen."
+      ],
+      "translation": "提供 {{N0}} 生命恢复.",
+      "styleMappings": {
+        "Health Regen": "生命恢复",
+        "Grants": "提供",
+        "Health": "生命",
+        "Regen": "恢复"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Regeneration VIII": "再生 VIII"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

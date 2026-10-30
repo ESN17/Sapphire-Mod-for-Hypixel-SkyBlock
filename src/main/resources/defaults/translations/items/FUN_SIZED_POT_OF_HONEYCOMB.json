@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "FUN_SIZED_POT_OF_HONEYCOMB",
+  "_original_name": "Fun-Sized Pot of Honeycomb",
+  "_original_lore": [
+    "Consumed on use",
+    "",
+    "Use on a Tree with an active Tree",
+    "Protection Order to lather it with",
+    "Honeycomb!",
+    "",
+    "After 60m, a unique  Critter will be",
+    "attracted to the Honeycomb!",
+    "Type of mob depends upon type of",
+    "tree lathered.",
+    "",
+    "Right-click to consume!",
+    "",
+    "❣ Requires Honeycomb Collection I.",
+    "UNCOMMON"
+  ],
+  "name": "趣味装蜂巢罐",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumed on use"
+      ],
+      "translation": "使用后消耗",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Use on a Tree with an active Tree",
+        "Protection Order to lather it with",
+        "Honeycomb!"
+      ],
+      "translation": "对带有生效树木保护令的树木使用,为其涂上蜜脾!",
+      "styleMappings": {
+        "Tree": "树木",
+        "Tree Protection Order": "树木保护令",
+        "Honeycomb": "蜜脾",
+        "Protection": "保护"
+      }
+    },
+    {
+      "source": [
+        "After {{N0}}m, a unique  Critter will be",
+        "attracted to the Honeycomb!"
+      ],
+      "translation": "{{N0}}分钟后,一只独特的  生物会被蜜脾吸引而来!",
+      "styleMappings": {
+        "Honeycomb": "蜜脾",
+        " Critter": " 生物",
+        "unique": "独特",
+        "{{N0}}m": "{{N0}}分钟",
+        "Critter": "生物"
+      }
+    },
+    {
+      "source": [
+        "Type of mob depends upon type of",
+        "tree lathered."
+      ],
+      "translation": "生物类型取决于所涂抹树木的类型.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "❣ Requires Honeycomb Collection I."
+      ],
+      "translation": "❣ 需要蜜脾收藏 I.",
+      "styleMappings": {
+        "Honeycomb Collection I": "蜜脾收藏 I",
+        "Requires": "需要",
+        "Collection": "收藏",
+        "Honeycomb": "蜜脾"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Honeycomb": "蜂巢"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "id": "CROW;2",
+  "_original_name": "[Lvl {LVL}] Crow",
+  "_original_lore": [
+    "Combat Pet",
+    "",
+    "Intelligence: +{INTELLIGENCE}",
+    "Ability Damage: +{ABILITY_DAMAGE}",
+    "",
+    "Quick Hands",
+    "Lowers the cooldown of your Weapon",
+    "abilities by {0}.",
+    "",
+    "Camouflage",
+    "After casting an ability, increase",
+    "your  Defense by +{1} for 20",
+    "seconds.",
+    "Capped at 500 Defense",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "RARE PET"
+  ],
+  "name": "[等级 {LVL}] 乌鸦",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combat Pet"
+      ],
+      "translation": "战斗宠物",
+      "styleMappings": {
+        "Combat Pet": "战斗宠物",
+        "Combat": "战斗",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: +{{N0}}"
+      ],
+      "translation": "智力: +{{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Ability Damage: +{{N0}}"
+      ],
+      "translation": "技能伤害: +{{N0}}",
+      "styleMappings": {
+        "Ability Damage": "技能伤害",
+        "Ability": "技能",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Quick Hands"
+      ],
+      "translation": "快手",
+      "styleMappings": {
+        "Quick Hands": "快手"
+      }
+    },
+    {
+      "source": [
+        "Lowers the cooldown of your Weapon",
+        "abilities by {{N0}}."
+      ],
+      "translation": "使你的武器技能冷却时间缩短 {{N0}}.",
+      "styleMappings": {
+        "abilities": "技能",
+        "cooldown": "冷却",
+        "Weapon": "武器"
+      }
+    },
+    {
+      "source": [
+        "Camouflage"
+      ],
+      "translation": "伪装",
+      "styleMappings": {
+        "Camouflage": "伪装"
+      }
+    },
+    {
+      "source": [
+        "After casting an ability, increase",
+        "your  Defense by +{{N0}} for {{N1}}",
+        "seconds."
+      ],
+      "translation": "施放技能后,使你的 防御提升 +{{N0}},持续 {{N1}} 秒.",
+      "styleMappings": {
+        " Defense": " 防御",
+        "ability": "技能",
+        "seconds": "秒",
+        "for": "持续",
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Capped at {{N0}} Defense"
+      ],
+      "translation": "防御上限为 {{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "RARE PET"
+      ],
+      "translation": "稀有 宠物",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Crow": "乌鸦",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_DAMAGE;7",
+  "_original_name": "Damage VII Potion",
+  "_original_lore": [
+    "",
+    "Damage VII",
+    "Instantly deals 400 damage.",
+    "",
+    "EPIC"
+  ],
+  "name": "伤害 VII 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage VII",
+        "Instantly deals {{N0}} damage."
+      ],
+      "translation": "伤害 VII 立即造成 {{N0}} 伤害.",
+      "styleMappings": {
+        "Instantly deals": "立即造成",
+        "Damage VII": "伤害 VII",
+        "damage": "伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Damage VII": "伤害 VII",
+    "Damage": "伤害"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

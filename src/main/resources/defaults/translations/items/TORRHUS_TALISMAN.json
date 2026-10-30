@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "TORRHUS_TALISMAN",
+  "_original_name": "Torrhus Talisman",
+  "_original_lore": [
+    "Helix Fortune: +5",
+    "Accessory Power: +3",
+    "",
+    "Works while in Accessory Bag!",
+    "COMMON ACCESSORY"
+  ],
+  "name": "托鲁斯护符",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Helix Fortune: {{N0}}"
+      ],
+      "translation": "螺旋幸运: {{N0}}",
+      "styleMappings": {
+        "Helix Fortune": "螺旋幸运",
+        "Fortune": "幸运"
+      }
+    },
+    {
+      "source": [
+        "Accessory Power: {{N0}}"
+      ],
+      "translation": "饰品能量: {{N0}}",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "放在饰品袋中即可生效!",
+      "styleMappings": {
+        "Accessory Bag": "饰品袋",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "COMMON ACCESSORY"
+      ],
+      "translation": "普通饰品",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Talisman": "护符"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

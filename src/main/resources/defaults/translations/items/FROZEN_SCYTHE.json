@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "FROZEN_SCYTHE",
+  "_original_name": "Frozen Scythe",
+  "_original_lore": [
+    "Damage: +80",
+    "",
+    "Ability: Ice Bolt  RIGHT CLICK",
+    "Shoots 1 Ice Bolt that deals 1,000 damage and",
+    "slows enemies hit for 5 seconds!",
+    "Mana Cost: 50",
+    "",
+    "This item can be reforged!",
+    "RARE SWORD"
+  ],
+  "name": "冰霜镰刀",
+  "lore": {
+    "Damage: {value}": "伤害:{value}",
+    "Ability: Ice Bolt  RIGHT CLICK": "技能:寒冰箭  右键点击",
+    "Mana Cost: {value}": "魔力消耗:{value}",
+    "This item can be reforged!": "此物品可以洗练!",
+    "RARE SWORD": "稀有剑",
+    "Damage: {value} ({bonus})": "伤害:{value} ({bonus})"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "Shoots {count} Ice Bolt that deals {damage} damage and",
+        "slows enemies hit for {duration} seconds!"
+      ],
+      "translation": "发射 {count} 支寒冰箭,造成 {damage} 点伤害,并使命中的敌人减速 {duration} 秒!",
+      "styleMappings": {
+        "seconds": "秒",
+        "slows enemies hit for": "命中的敌人减速",
+        "damage and": "点伤害,并使",
+        "that deals": "造成",
+        "Ice Bolt": "寒冰箭",
+        "damage": "伤害",
+        "hit": "命中",
+        "Ice": "冰",
+        "enemies": "敌人"
+      }
+    },
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Ability: Ice Bolt  RIGHT CLICK"
+      ],
+      "translation": "技能:寒冰箭  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "Ice": "冰",
+        "Ice Bolt": "寒冰箭",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Shoots {{N0}} Ice Bolt that deals {{N1}} damage and",
+        "slows enemies hit for {{N2}} seconds!"
+      ],
+      "translation": "发射 {{N0}} 支寒冰箭,造成 {{N1}} 点伤害,并使命中的敌人减速 {{N2}} 秒!",
+      "styleMappings": {
+        "slows enemies hit for": "命中的敌人减速",
+        "damage and": "点伤害,并使",
+        "that deals": "造成",
+        "seconds": "秒",
+        "Ice": "冰",
+        "Ice Bolt": "寒冰箭",
+        "damage": "伤害",
+        "hit": "命中",
+        "enemies": "敌人"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "RARE SWORD"
+      ],
+      "translation": "稀有剑",
+      "styleMappings": {
+        "RARE": "稀有",
+        "RARE SWORD": "稀有剑"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Damage": "伤害",
+    "RIGHT CLICK": "右键点击",
+    "seconds": "秒",
+    "Frozen": "冰霜"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

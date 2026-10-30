@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "ENCHANTED_CLOCK",
+  "_original_name": "Enchanted Clock",
+  "_original_lore": [
+    "Ability: Time Skip RIGHT CLICK",
+    "Advances the time of all minions",
+    "on your island by 1 hour",
+    "Cooldown: 50s",
+    "",
+    "ADMIN"
+  ],
+  "name": "附魔时钟",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Time Skip RIGHT CLICK"
+      ],
+      "translation": "技能: 时间跳跃 右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Time Skip": "时间跳跃",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Advances the time of all minions",
+        "on your island by {{N0}} hour"
+      ],
+      "translation": "将你岛上所有仆从的时间推进 {{N0}} 小时",
+      "styleMappings": {
+        "minions": "仆从",
+        "hour": "小时"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "ADMIN"
+      ],
+      "translation": "管理员",
+      "styleMappings": {}
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "GLOWING_MUSHROOM",
+  "_original_name": "Glowing Mushroom",
+  "_original_lore": [
+    "Did you hear the joke about fungus?",
+    "You won't like it, but it will grow on",
+    "you.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "发光蘑菇",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Did you hear the joke about fungus?"
+      ],
+      "translation": "你听过那个关于真菌的笑话吗?",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "You won't like it, but it will grow on",
+        "you."
+      ],
+      "translation": "你不会喜欢的,但它会慢慢长在你身上.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Glowing Mushroom": "发光蘑菇",
+    "Mushroom": "蘑菇",
+    "Glowing": "发光"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

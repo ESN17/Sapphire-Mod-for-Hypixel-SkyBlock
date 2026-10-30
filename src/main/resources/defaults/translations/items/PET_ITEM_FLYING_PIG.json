@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "id": "PET_ITEM_FLYING_PIG",
+  "_original_name": "Flying Pig",
+  "_original_lore": [
+    "Consumed on use",
+    "",
+    "This pet item may only be used on a",
+    "Pig pet.",
+    "",
+    "Grants +40 Potato Fortune and",
+    "+20 Speed.",
+    "",
+    "Right-click on your summoned pet to",
+    "give it this item!",
+    "",
+    "RARE PET ITEM"
+  ],
+  "name": "飞天猪",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumed on use"
+      ],
+      "translation": "使用后消耗",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "This pet item may only be used on a",
+        "Pig pet."
+      ],
+      "translation": "此宠物物品只能用于猪宠物.",
+      "styleMappings": {
+        "item": "物品",
+        "Pig": "猪",
+        "pet": "宠物",
+        "pet item": "宠物物品"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Potato Fortune and",
+        "{{N1}} Speed."
+      ],
+      "translation": "提供 {{N0}} 马铃薯幸运和 {{N1}} 速度.",
+      "styleMappings": {
+        "Potato Fortune": "马铃薯幸运",
+        " Speed": " 速度",
+        "Grants": "提供",
+        "Speed": "速度",
+        "Fortune": "幸运",
+        "Potato": "马铃薯"
+      }
+    },
+    {
+      "source": [
+        "Right-click on your summoned pet to"
+      ],
+      "translation": "右键点击你召唤的宠物以",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "give it this item!"
+      ],
+      "translation": "给予它此物品!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "RARE PET ITEM"
+      ],
+      "translation": "稀有宠物物品",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Pig": "猪"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

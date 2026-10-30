@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "TANK_DUNGEON_ABILITY_1",
+  "_original_name": "Stun Potion",
+  "_original_lore": [
+    "Ability: Stun Potion  RIGHT CLICK",
+    "Throw a potion which temporarily stuns all",
+    "monsters in a 10 block radius.",
+    "Cooldown: 20s",
+    "",
+    "UNCOMMON DUNGEON ITEM"
+  ],
+  "name": "眩晕药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Stun Potion  RIGHT CLICK"
+      ],
+      "translation": "技能: 眩晕药水  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Stun Potion": "眩晕药水",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Throw a potion which temporarily stuns all",
+        "monsters in a {{N0}} block radius."
+      ],
+      "translation": "投掷一瓶药水,暂时眩晕 {{N0}} 格半径内的所有怪物.",
+      "styleMappings": {
+        "monsters": "怪物",
+        "block": "格"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON DUNGEON ITEM"
+      ],
+      "translation": "罕见 地牢 物品",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Stun Potion": "眩晕药水"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

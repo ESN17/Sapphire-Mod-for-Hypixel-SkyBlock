@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "FUTURE_CALORIES",
+  "_original_name": "Future Calories Talisman",
+  "_original_lore": [
+    "Tracking: +0.5",
+    "Accessory Power: +3",
+    "",
+    "X Rift-Transferable X",
+    "Works while in Accessory Bag!",
+    "COMMON ACCESSORY"
+  ],
+  "name": "未来卡路里护符",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Tracking: {{N0}}"
+      ],
+      "translation": "追踪:{{N0}}",
+      "styleMappings": {
+        "Tracking": "追踪"
+      }
+    },
+    {
+      "source": [
+        "Accessory Power: {{N0}}"
+      ],
+      "translation": "饰品能量: {{N0}}",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "X Rift-Transferable X",
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "X 裂隙可转移 X 放在饰品袋中时生效!",
+      "styleMappings": {
+        "Works while in Accessory Bag!": "放在饰品袋中时生效!",
+        "Rift-Transferable": "裂隙可转移",
+        "Accessory Bag": "饰品袋",
+        "Rift": "裂隙",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "COMMON ACCESSORY"
+      ],
+      "translation": "普通饰品",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Talisman": "护符"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "STARFALL",
+  "_original_name": "Starfall",
+  "_original_lore": [
+    "No one knows how and when the",
+    "Starfall appeared. All we know is that",
+    "it was already there when the",
+    "Dwarves discovered the cavern.",
+    "",
+    "RARE"
+  ],
+  "name": "星陨",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "No one knows how and when the",
+        "Starfall appeared. All we know is that",
+        "it was already there when the",
+        "Dwarves discovered the cavern."
+      ],
+      "translation": "无人知晓星陨是何时、如何出现的.我们只知道,当矮人发现这座洞穴时,它就已经在那里了.",
+      "styleMappings": {
+        "Starfall": "星陨",
+        "Dwarves": "矮人",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Starfall": "星陨"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

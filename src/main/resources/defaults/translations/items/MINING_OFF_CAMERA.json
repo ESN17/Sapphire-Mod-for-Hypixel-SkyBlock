@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": "MINING_OFF_CAMERA",
+  "_original_name": "Drone Mod: Mining Off Camera",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Can be applied to Precursor Drone",
+    "to grant it +75 Mining Fortune and",
+    "unlock the Mining Off Camera perk.",
+    "",
+    "Mining Off Camera",
+    "When Mining, each collection",
+    "progress grants a 0.0005-0.005%",
+    "chance to drop a random enchanted",
+    "mining item.",
+    "Chances scale with pet level.",
+    "",
+    "Right-click on your summoned",
+    "Precursor Drone to give it this item!",
+    "",
+    "EPIC PET ITEM"
+  ],
+  "name": "无人机改装:离屏采矿",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Can be applied to Precursor Drone",
+        "to grant it {{N0}} Mining Fortune and",
+        "unlock the Mining Off Camera perk."
+      ],
+      "translation": "可应用于先遣无人机,使其获得 {{N0}} 采矿幸运,并解锁离屏采矿技能.",
+      "styleMappings": {
+        "Mining Off Camera": "离屏采矿",
+        "Precursor Drone": "先遣无人机",
+        "Mining Fortune": "采矿幸运",
+        "Mining": "采矿",
+        "Fortune": "幸运",
+        " Mining Fortune": " 采矿幸运"
+      }
+    },
+    {
+      "source": [
+        "Mining Off Camera"
+      ],
+      "translation": "离屏采矿",
+      "styleMappings": {
+        "Mining Off Camera": "离屏采矿",
+        "Mining": "采矿"
+      }
+    },
+    {
+      "source": [
+        "When Mining, each collection",
+        "progress grants a {{N0}}-{{N1}}",
+        "chance to drop a random enchanted",
+        "mining item."
+      ],
+      "translation": "采矿时,每次收藏进度都有 {{N0}}-{{N1}} 的几率掉落一件随机附魔采矿物品.",
+      "styleMappings": {
+        "mining item": "采矿物品",
+        "Mining": "采矿",
+        "chance": "几率",
+        "item": "物品",
+        "chance to": "几率"
+      }
+    },
+    {
+      "source": [
+        "Chances scale with pet level."
+      ],
+      "translation": "概率随宠物等级提升.",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Right-click on your summoned"
+      ],
+      "translation": "右键点击你召唤的",
+      "styleMappings": {
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "Precursor Drone to give it this item!"
+      ],
+      "translation": "先驱者无人机,将此物品给予它!",
+      "styleMappings": {
+        "Precursor Drone": "先驱者无人机",
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "EPIC PET ITEM"
+      ],
+      "translation": "史诗 宠物 物品",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mining Off Camera": "离屏采矿",
+    "Mining": "采矿"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "SHELLFRUIT",
+  "_original_name": "Shellfruit",
+  "_original_lore": [
+    "When the shell cracks open, sweet,",
+    "refreshing juice spills out, revealing",
+    "the fruit inside.",
+    "",
+    "Complete Visitor Beth's quest to",
+    "Analyze this crop!",
+    "",
+    "EPIC MUTATION"
+  ],
+  "name": "壳果",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "When the shell cracks open, sweet,",
+        "refreshing juice spills out, revealing",
+        "the fruit inside."
+      ],
+      "translation": "当外壳裂开时,甜美清爽的汁液溢出,露出里面的果实.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Complete Visitor Beth's quest to",
+        "Analyze this crop!"
+      ],
+      "translation": "完成访客 Beth 的任务来分析这种作物!",
+      "styleMappings": {
+        "Visitor": "访客",
+        "Beth's": "Beth 的",
+        "Analyze": "分析"
+      }
+    },
+    {
+      "source": [
+        "EPIC MUTATION"
+      ],
+      "translation": "史诗变异",
+      "styleMappings": {
+        "EPIC MUTATION": "史诗变异",
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

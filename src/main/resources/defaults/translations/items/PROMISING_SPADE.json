@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "PROMISING_SPADE",
+  "_original_name": "Promising Shovel",
+  "_original_lore": [
+    "Gains Efficiency I after breaking 10",
+    "blocks!",
+    "",
+    "Blocks Broken: 0",
+    "",
+    "UNCOMMON SHOVEL"
+  ],
+  "name": "蓄势待发铲",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gains Efficiency I after breaking {{N0}}",
+        "blocks!"
+      ],
+      "translation": "破坏 {{N0}} 个方块后获得效率 I!",
+      "styleMappings": {
+        "Efficiency I": "效率 I",
+        "blocks": "方块",
+        "Gains": "获得",
+        "Efficiency": "效率"
+      }
+    },
+    {
+      "source": [
+        "Blocks Broken: {{N0}}"
+      ],
+      "translation": "已破坏方块:{{N0}}",
+      "styleMappings": {
+        "Blocks": "方块"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON SHOVEL"
+      ],
+      "translation": "罕见铲子",
+      "styleMappings": {
+        "UNCOMMON SHOVEL": "罕见铲子",
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,175 @@
+{
+  "schemaVersion": 1,
+  "id": "SKYMART_TURBO_VACUUM",
+  "_original_name": "SkyMart Turbo Vacuum",
+  "_original_lore": [
+    "Damage: +150",
+    "Farming Fortune: +10",
+    "",
+    "Can be used to damage  Pests.",
+    "",
+    "Ability: Vacuum  HOLD RIGHT CLICK",
+    "Deals 150  Damage per second to",
+    "nearby  Pests.",
+    "",
+    "Ability: Pest Tracker  LEFT CLICK",
+    "Leads you in the direction of the",
+    "nearest  Pest.",
+    "Cooldown: 1s",
+    "",
+    "Vacuum Bag: 0 Pests",
+    "Vacuum  Pests in your Garden to",
+    "increase!",
+    "",
+    "❣ Requires Garden Level 5.",
+    "UNCOMMON VACUUM"
+  ],
+  "name": "天空商城涡轮吸尘器",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Farming Fortune: {{N0}}"
+      ],
+      "translation": "农业幸运: {{N0}}",
+      "styleMappings": {
+        "Farming Fortune": "农业幸运",
+        "Fortune": "幸运",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "Can be used to damage  Pests."
+      ],
+      "translation": "可用于伤害 害虫.",
+      "styleMappings": {
+        " Pests": " 害虫",
+        "damage": "伤害",
+        "Pests": "害虫"
+      }
+    },
+    {
+      "source": [
+        "Ability: Vacuum  HOLD RIGHT CLICK"
+      ],
+      "translation": "技能: 真空  按住右键点击",
+      "styleMappings": {
+        "HOLD RIGHT CLICK": "按住右键点击",
+        "Ability: Vacuum": "技能: 真空",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Deals {{N0}}  Damage per second to",
+        "nearby  Pests."
+      ],
+      "translation": "对附近的 害虫每秒造成 {{N0}}  伤害.",
+      "styleMappings": {
+        "per second": "每秒",
+        " Damage": " 伤害",
+        " Pests": " 害虫",
+        "Deals": "造成",
+        "Damage": "伤害",
+        "Pests": "害虫",
+        "second": "秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Ability: Pest Tracker  LEFT CLICK"
+      ],
+      "translation": "技能: 害虫追踪器  左键点击",
+      "styleMappings": {
+        "Ability: Pest Tracker": "技能: 害虫追踪器",
+        "LEFT CLICK": "左键点击",
+        "Ability": "技能",
+        "Pest": "害虫",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Leads you in the direction of the",
+        "nearest  Pest."
+      ],
+      "translation": "指引你前往最近的  害虫的方向.",
+      "styleMappings": {
+        "Pest": "害虫",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "Vacuum Bag: {{N0}} Pests"
+      ],
+      "translation": "真空袋: {{N0}} 害虫",
+      "styleMappings": {
+        "Vacuum Bag": "真空袋",
+        "Pests": "害虫"
+      }
+    },
+    {
+      "source": [
+        "Vacuum  Pests in your Garden to",
+        "increase!"
+      ],
+      "translation": "在花园中吸取  害虫以提升!",
+      "styleMappings": {
+        "Garden": "花园",
+        "Pests": "害虫",
+        "Vacuum": "吸取",
+        " Pests": " 害虫"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Garden Level {{N0}}."
+      ],
+      "translation": "❣ 需要花园等级 {{N0}}.",
+      "styleMappings": {
+        "Garden Level": "花园等级",
+        "Requires": "需要",
+        "Garden": "花园"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON VACUUM"
+      ],
+      "translation": "罕见吸尘器",
+      "styleMappings": {
+        "UNCOMMON VACUUM": "罕见吸尘器",
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "SkyMart": "天空商城"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

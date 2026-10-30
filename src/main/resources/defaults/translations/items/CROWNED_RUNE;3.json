@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "CROWNED_RUNE;3",
+  "_original_name": "◆ Crowned Rune III",
+  "_original_lore": [
+    "Requires level 0",
+    "Helmet",
+    "",
+    "Only befit for a ruler of this world.",
+    "Obtained from Fire Sales.",
+    "",
+    "Apply this rune to helmet or fuse",
+    "two together at the Runic Pedestal!",
+    "",
+    "LEGENDARY COSMETIC"
+  ],
+  "name": "◆ 加冕符文 III",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Requires level {{N0}}",
+        "Helmet"
+      ],
+      "translation": "需要等级 {{N0}} 头盔",
+      "styleMappings": {
+        "Requires": "需要",
+        "Helmet": "头盔"
+      }
+    },
+    {
+      "source": [
+        "Only befit for a ruler of this world."
+      ],
+      "translation": "唯有此界之主方配拥有.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Obtained from Fire Sales."
+      ],
+      "translation": "从限时抢购中获得.",
+      "styleMappings": {
+        "Fire Sales": "限时抢购"
+      }
+    },
+    {
+      "source": [
+        "Apply this rune to helmet or fuse",
+        "two together at the Runic Pedestal!"
+      ],
+      "translation": "将此符文应用于头盔,或在符文基座上将两个融合!",
+      "styleMappings": {
+        "Runic Pedestal": "符文基座",
+        "Runic": "符文"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY COSMETIC"
+      ],
+      "translation": "传说外观",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Crowned Rune III": "加冕符文 III",
+    "III": "III",
+    "Rune III": "符文 III"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

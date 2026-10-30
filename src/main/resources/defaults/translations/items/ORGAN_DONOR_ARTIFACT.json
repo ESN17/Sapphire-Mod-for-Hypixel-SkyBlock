@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "ORGAN_DONOR_ARTIFACT",
+  "_original_name": "Organ Donor Artifact",
+  "_original_lore": [
+    "Cold Resistance: +1.5",
+    "Accessory Power: +8",
+    "",
+    "Sends out a Ding when within 20",
+    "blocks of an unlooted Frozen Corpse!",
+    "",
+    "It's an opt-out system, after all.",
+    "",
+    "* Soulbound *",
+    "Works while in Accessory Bag!",
+    "RARE ACCESSORY"
+  ],
+  "name": "器官捐赠者神器",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Cold Resistance: {{N0}}"
+      ],
+      "translation": "抗寒: {{N0}}",
+      "styleMappings": {
+        "Cold Resistance": "抗寒"
+      }
+    },
+    {
+      "source": [
+        "Accessory Power: {{N0}}"
+      ],
+      "translation": "饰品能量: {{N0}}",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "Sends out a Ding when within {{N0}}",
+        "blocks of an unlooted Frozen Corpse!"
+      ],
+      "translation": "当距离未拾取的冰冻尸体 {{N0}} 格以内时,发出叮的一声!",
+      "styleMappings": {
+        "Frozen Corpse": "冰冻尸体",
+        "blocks": "格",
+        "Ding": "叮",
+        "Frozen": "冰冻",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "It's an opt-out system, after all."
+      ],
+      "translation": "毕竟这是个选择退出机制.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "放在饰品袋中即可生效!",
+      "styleMappings": {
+        "Accessory Bag": "饰品袋",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "RARE ACCESSORY"
+      ],
+      "translation": "稀有饰品",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Artifact": "神器"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "MEDIUM_FROG_TREAT",
+  "_original_name": "Medium Frog Treat",
+  "_original_lore": [
+    "Use at Kat to upgrade Frog Pets",
+    "from Uncommon to Rare.",
+    "",
+    "RARE"
+  ],
+  "name": "中型青蛙零食",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Use at Kat to upgrade Frog Pets",
+        "from Uncommon to Rare."
+      ],
+      "translation": "在 Kat 处将青蛙宠物从罕见升级为稀有.",
+      "styleMappings": {
+        "Frog Pets": "青蛙宠物",
+        "Uncommon": "罕见",
+        "upgrade": "升级",
+        "Rare": "稀有",
+        "Kat": "Kat",
+        "Pets": "宠物",
+        "Frog": "青蛙"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Frog": "青蛙"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

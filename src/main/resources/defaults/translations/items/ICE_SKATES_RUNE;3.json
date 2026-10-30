@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "ICE_SKATES_RUNE;3",
+  "_original_name": "◆ Ice Skates Rune III",
+  "_original_lore": [
+    "Requires level 0",
+    "Boots",
+    "",
+    "Shred that ice! Obtained from the",
+    "Taylor Winter 2023 Bundle.",
+    "",
+    "Apply this rune to boots or fuse two",
+    "together at the Runic Pedestal!",
+    "",
+    "LEGENDARY COSMETIC"
+  ],
+  "name": "◆ 冰刀符文 III",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Requires level {{N0}}",
+        "Boots"
+      ],
+      "translation": "需要等级 {{N0}} 靴子",
+      "styleMappings": {
+        "Requires": "需要",
+        "Boots": "靴子"
+      }
+    },
+    {
+      "source": [
+        "Shred that ice! Obtained from the",
+        "Taylor Winter {{N0}} Bundle."
+      ],
+      "translation": "碾碎那些冰块!从 Taylor 冬季 {{N0}} 礼包中获得.",
+      "styleMappings": {
+        "Winter": "冬季"
+      }
+    },
+    {
+      "source": [
+        "Apply this rune to boots or fuse two",
+        "together at the Runic Pedestal!"
+      ],
+      "translation": "将此符文应用于靴子,或在符文基座上将两个融合!",
+      "styleMappings": {
+        "Runic Pedestal": "符文基座",
+        "Runic": "符文"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY COSMETIC"
+      ],
+      "translation": "传说外观",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Rune III": "符文 III",
+    "Ice": "冰",
+    "III": "III"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

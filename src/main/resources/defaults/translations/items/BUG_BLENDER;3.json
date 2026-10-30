@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "id": "BUG_BLENDER;3",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Bug Blender III",
+    "Grants +60 Farming Fortune when",
+    "vacuuming  Pests.",
+    "",
+    "Sources:",
+    " - Crafting Recipe (I)",
+    " - Bazaar (I-V)",
+    "",
+    "Applied To:",
+    " - Vacuum",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Bug Blender III"
+      ],
+      "translation": "灭虫时运 III",
+      "styleMappings": {
+        "Bug Blender": "灭虫时运",
+        "III": "III"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Farming Fortune when",
+        "vacuuming  Pests."
+      ],
+      "translation": "在吸取  害虫时提供 {{N0}} 农业幸运.",
+      "styleMappings": {
+        "Farming Fortune": "农业幸运",
+        "Grants": "提供",
+        "Pests": "害虫",
+        " Pests": " 害虫",
+        "Fortune": "幸运",
+        "Farming": "农业",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Crafting Recipe (I)",
+        " - Bazaar (I-V)"
+      ],
+      "translation": " - 合成配方 (I)  - 集市 (I-V)",
+      "styleMappings": {
+        "Crafting Recipe": "合成配方",
+        "Bazaar": "集市",
+        "I-V": "I-V",
+        "I": "I"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Vacuum"
+      ],
+      "translation": " - 吸取",
+      "styleMappings": {
+        "Vacuum": "吸取"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "TOOL_EXP_CAPSULE",
+  "_original_name": "Tool Exp Capsule",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Grants +100,000 Exp to any of your",
+    "Farming Tools.",
+    "",
+    "RARE"
+  ],
+  "name": "工具经验胶囊",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Exp to any of your",
+        "Farming Tools."
+      ],
+      "translation": "为你的任意农业工具提供 {{N0}} 点经验.",
+      "styleMappings": {
+        "Farming Tools": "农业工具",
+        "Grants": "提供",
+        "Exp": "经验",
+        "Farming": "农业",
+        "Tools": "工具"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Exp": "经验"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

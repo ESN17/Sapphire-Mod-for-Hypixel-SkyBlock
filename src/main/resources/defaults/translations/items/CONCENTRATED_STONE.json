@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "CONCENTRATED_STONE",
+  "_original_name": "Concentrated Stone",
+  "_original_lore": [
+    "Collection Item",
+    "",
+    "The purest form of stone. How can",
+    "something so simple, be so heavy?",
+    "",
+    "RARE BLOCK"
+  ],
+  "name": "浓缩石头",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Collection Item"
+      ],
+      "translation": "收藏品",
+      "styleMappings": {
+        "Collection": "收藏"
+      }
+    },
+    {
+      "source": [
+        "The purest form of stone. How can",
+        "something so simple, be so heavy?"
+      ],
+      "translation": "最纯净的石头形态.如此简单的东西,怎么会如此沉重?",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE BLOCK"
+      ],
+      "translation": "稀有 方块",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Concentrated Stone": "浓缩石头"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

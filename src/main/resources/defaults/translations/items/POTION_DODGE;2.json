@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_DODGE;2",
+  "_original_name": "Dodge II Potion",
+  "_original_lore": [
+    "",
+    "Dodge II (3:00)",
+    "Mob attacks have a 20% chance to",
+    "miss.",
+    "",
+    "COMMON"
+  ],
+  "name": "闪避 II 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Dodge II ({{N0}}:{{N1}})"
+      ],
+      "translation": "闪避 II ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Dodge II": "闪避 II",
+        "II": "II"
+      }
+    },
+    {
+      "source": [
+        "Mob attacks have a {{N0}} chance to",
+        "miss."
+      ],
+      "translation": "生物攻击有 {{N0}} 概率未命中.",
+      "styleMappings": {
+        "Mob attacks have a": "生物攻击有",
+        "chance to": "概率",
+        "miss": "未命中",
+        "chance": "概率"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Dodge II": "闪避 II",
+    "II": "II"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

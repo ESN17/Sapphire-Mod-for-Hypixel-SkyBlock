@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "CHICKEN_HEAD",
+  "_original_name": "Chicken Hat",
+  "_original_lore": [
+    "Health: +20",
+    "",
+    "Lay eggs when you sneak! Has a",
+    "cooldown of 5 seconds. Also",
+    "reduces fall damage by 5%.",
+    "",
+    "This item can be reforged!",
+    "COMMON HELMET"
+  ],
+  "name": "鸡帽子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Lay eggs when you sneak! Has a",
+        "cooldown of {{N0}} seconds. Also",
+        "reduces fall damage by {{N1}}."
+      ],
+      "translation": "潜行时下蛋!冷却时间为 {{N0}} 秒.同时减少 {{N1}} 摔落伤害.",
+      "styleMappings": {
+        "cooldown": "冷却",
+        "seconds": "秒",
+        "damage": "伤害",
+        "when": "时",
+        "Also": "同时"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "COMMON HELMET"
+      ],
+      "translation": "普通头盔",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Chicken": "鸡"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

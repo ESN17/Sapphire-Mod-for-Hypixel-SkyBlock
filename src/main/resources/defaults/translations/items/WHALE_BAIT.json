@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "WHALE_BAIT",
+  "_original_name": "Whale Bait",
+  "_original_lore": [
+    "Fishing Bait",
+    "Consumes on Catch",
+    "",
+    "Grants +30 Fishing Speed and",
+    "increases your chance to catch",
+    "rare Sea Creatures.",
+    "",
+    "RARE BAIT"
+  ],
+  "name": "鲸鱼鱼饵",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Fishing Bait",
+        "Consumes on Catch"
+      ],
+      "translation": "钓鱼鱼饵 钓起时消耗",
+      "styleMappings": {
+        "Consumes on Catch": "钓起时消耗",
+        "Fishing Bait": "钓鱼鱼饵",
+        "Fishing": "钓鱼",
+        "Bait": "鱼饵"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Fishing Speed and",
+        "increases your chance to catch",
+        "rare Sea Creatures."
+      ],
+      "translation": "提供 {{N0}} 钓鱼速度,并提高你钓到稀有海洋生物的概率.",
+      "styleMappings": {
+        "rare Sea Creatures": "稀有海洋生物",
+        "Fishing Speed": "钓鱼速度",
+        "chance to": "概率",
+        "Grants": "提供",
+        "rare": "稀有",
+        "Fishing": "钓鱼",
+        "Sea Creatures": "海洋生物",
+        "chance": "概率",
+        "Speed": "速度",
+        " Fishing Speed": " 钓鱼速度"
+      }
+    },
+    {
+      "source": [
+        "RARE BAIT"
+      ],
+      "translation": "稀有 鱼饵",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Bait": "鱼饵"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

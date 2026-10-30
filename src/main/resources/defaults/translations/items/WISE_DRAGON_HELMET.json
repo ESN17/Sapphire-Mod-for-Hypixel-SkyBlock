@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "id": "WISE_DRAGON_HELMET",
+  "_original_name": "Wise Dragon Helmet",
+  "_original_lore": [
+    "Health: +70",
+    "Defense: +110",
+    "Intelligence: +125",
+    "Gemstones: []",
+    "",
+    "Full Set Bonus: Wise Blood (0/4)",
+    "Abilities have 2/3 of the mana cost.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Combat Skill 16.",
+    "LEGENDARY HELMET"
+  ],
+  "name": "智龙头盔",
+  "lore": {
+    "Health: {value}": "生命值:{value}",
+    "Defense: {value}": "防御:{value}",
+    "Intelligence: {value}": "智力:{value}",
+    "Gemstones: {text}": "宝石槽:{text}",
+    "Full Set Bonus: Wise Blood ({equipped}/{total})": "套装效果:智龙之血 ({equipped}/{total})",
+    "Abilities have {numerator}/{denominator} of the mana cost.": "技能的魔力消耗降为原来的 {numerator}/{denominator}.",
+    "This item can be reforged!": "此物品可以洗练!",
+    "LEGENDARY HELMET": "传说 头盔",
+    "Health: {value} ({bonus})": "生命值:{value} ({bonus})",
+    "Defense: {value} ({bonus})": "防御:{value} ({bonus})",
+    "Intelligence: {value} ({bonus})": "智力:{value} ({bonus})"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: []"
+      ],
+      "translation": "宝石: []",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "": "",
+        "Gemstones": "宝石"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Wise Blood ({{N0}}/{{N1}})"
+      ],
+      "translation": "套装效果:智龙之血 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Full Set Bonus": "套装效果"
+      }
+    },
+    {
+      "source": [
+        "Abilities have {{N0}}/{{N1}} of the mana cost."
+      ],
+      "translation": "技能的魔力消耗为原来的 {{N0}}/{{N1}}.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY HELMET"
+      ],
+      "translation": "传说 头盔",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Health": "生命值",
+    "Defense": "防御",
+    "Intelligence": "智力",
+    "Combat Skill": "战斗等级",
+    "Dragon Helmet": "龙头盔",
+    "Dragon": "龙",
+    "Helmet": "头盔",
+    "Wise Dragon Helmet": "智龙头盔"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

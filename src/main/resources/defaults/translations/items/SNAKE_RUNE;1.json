@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "SNAKE_RUNE;1",
+  "_original_name": "◆ Snake Rune I",
+  "_original_lore": [
+    "Requires level 21",
+    "Boots",
+    "",
+    "Obtained very rarely from slaying",
+    "the Revenant Horror.",
+    "",
+    "Apply this rune to boots or fuse two",
+    "together at the Runic Pedestal!",
+    "",
+    "LEGENDARY COSMETIC"
+  ],
+  "name": "◆ 蛇符文 I",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Requires level {{N0}}",
+        "Boots"
+      ],
+      "translation": "需要等级 {{N0}} 靴子",
+      "styleMappings": {
+        "Requires": "需要",
+        "Boots": "靴子"
+      }
+    },
+    {
+      "source": [
+        "Obtained very rarely from slaying",
+        "the Revenant Horror."
+      ],
+      "translation": "击杀亡魂恐魔时极低概率获得.",
+      "styleMappings": {
+        "Revenant Horror": "亡魂恐魔"
+      }
+    },
+    {
+      "source": [
+        "Apply this rune to boots or fuse two",
+        "together at the Runic Pedestal!"
+      ],
+      "translation": "将此符文应用于靴子,或在符文基座上将两个融合!",
+      "styleMappings": {
+        "Runic Pedestal": "符文基座",
+        "Runic": "符文"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY COSMETIC"
+      ],
+      "translation": "传说外观",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Rune I": "符文 I"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

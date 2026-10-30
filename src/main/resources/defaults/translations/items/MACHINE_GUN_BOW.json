@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "id": "MACHINE_GUN_BOW",
+  "_original_name": "Machine Gun Shortbow",
+  "_original_lore": [
+    "Gear Score: 105",
+    "Damage: +75",
+    "Strength: +20",
+    "Crit Damage: +12%",
+    "Shot Cooldown: 0.5s",
+    "",
+    "Ability: Rapid Fire  RIGHT CLICK",
+    "Shoots 5 Arrows per second for 8",
+    "seconds! Arrows deal 70% of what",
+    "they would normally deal.",
+    "Cooldown: 100s",
+    "",
+    "Shortbow: Instantly shoots!",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Catacombs Skill 2.",
+    "RARE DUNGEON BOW"
+  ],
+  "name": "机枪短弓",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: {{N0}}"
+      ],
+      "translation": "暴击伤害:{{N0}}",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Shot Cooldown: {{N0}}s"
+      ],
+      "translation": "射击间隔:{{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "Ability: Rapid Fire  RIGHT CLICK"
+      ],
+      "translation": "技能:速射  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Rapid Fire": "速射",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Shoots {{N0}} Arrows per second for {{N1}}",
+        "seconds! Arrows deal {{N2}} of what",
+        "they would normally deal."
+      ],
+      "translation": "每秒射出 {{N0}} 支箭,持续 {{N1}} 秒!箭矢造成其通常伤害的 {{N2}}。",
+      "styleMappings": {
+        "per second": "每秒",
+        "seconds": "秒",
+        "Shoots": "射出",
+        "for": "持续",
+        "deal": "造成",
+        "second": "秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "Shortbow: Instantly shoots!"
+      ],
+      "translation": "短弓: 瞬间射击!",
+      "styleMappings": {
+        "Shortbow": "短弓"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Catacombs Skill {{N0}}."
+      ],
+      "translation": "❣ 需要地牢技能 {{N0}}.",
+      "styleMappings": {
+        "Requires": "需要",
+        "Catacombs": "地牢",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "RARE DUNGEON BOW"
+      ],
+      "translation": "稀有 地牢 弓",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shortbow": "短弓"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

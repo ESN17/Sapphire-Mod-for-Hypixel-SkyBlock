@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "id": "FEAST_BURGER",
+  "_original_name": "Feast Burger with a Side of Deepfries",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Consume this item to permanently",
+    "gain +1 Overbloom.",
+    "",
+    "You can only consume 5 of these",
+    "before the texture just becomes",
+    "too unbearable.",
+    "",
+    "Straight from the counter of the",
+    "Fast Food Barn Skin!",
+    "",
+    "Right-click to consume!",
+    "",
+    "EPIC"
+  ],
+  "name": "配深炸薯条的盛宴汉堡",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Consume this item to permanently",
+        "gain {{N0}} Overbloom."
+      ],
+      "translation": "食用此物品以永久获得 {{N0}} 稀有作物概率加成.",
+      "styleMappings": {
+        "permanently": "永久",
+        "Overbloom": "稀有作物概率加成",
+        "item": "物品",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "You can only consume {{N0}} of these",
+        "before the texture just becomes",
+        "too unbearable."
+      ],
+      "translation": "你最多只能食用 {{N0}} 个,再多口感就实在难以忍受了.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Straight from the counter of the",
+        "Fast Food Barn Skin!"
+      ],
+      "translation": "直接来自快餐谷仓皮肤的吧台!",
+      "styleMappings": {
+        "Fast Food Barn Skin": "快餐谷仓皮肤",
+        "Barn Skin": "谷仓皮肤"
+      }
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Feast": "盛宴"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

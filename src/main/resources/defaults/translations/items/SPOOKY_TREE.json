@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "SPOOKY_TREE",
+  "_original_name": "Great Spook Tree",
+  "_original_lore": [
+    "Place this item on your island!",
+    "",
+    "Place ONE of this tree on your island,",
+    "and collect its fruits... rarely.",
+    "",
+    "EPIC"
+  ],
+  "name": "巨型幽灵树",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Place this item on your island!"
+      ],
+      "translation": "将此物品放置在你的岛屿上!",
+      "styleMappings": {
+        "island": "岛屿上",
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Place ONE of this tree on your island,",
+        "and collect its fruits... rarely."
+      ],
+      "translation": "将一棵这种树放在你的岛屿上,然后收集它的果实... 很少见.",
+      "styleMappings": {
+        "fruits": "果实",
+        "island": "岛屿上"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Tree": "树"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

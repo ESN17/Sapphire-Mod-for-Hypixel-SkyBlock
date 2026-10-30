@@ -1,0 +1,175 @@
+{
+  "schemaVersion": 1,
+  "id": "HELIANTHUS_BOOTS",
+  "_original_name": "Helianthus Boots",
+  "_original_lore": [
+    "Health: +140",
+    "Defense: +50",
+    "Bonus Pest Chance: +20%",
+    "Farming Fortune: +35",
+    "Speed: +6",
+    "Gemstones: [] []",
+    "",
+    "Tiered Bonus: Feast (0/4)",
+    "Combines the Tiered Bonuses of",
+    "wearing 0 pieces of the Tater Armor,",
+    "Cropie Armor, Squash Armor, and",
+    "Fermento Armor. Grants 0 Farming",
+    "Fortune.",
+    "",
+    "Ability: Farmer's Grace ",
+    "Grants immunity to trampling crops.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Farming Skill 50.",
+    "LEGENDARY BOOTS"
+  ],
+  "name": "向阳花靴子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Bonus Pest Chance: {{N0}}"
+      ],
+      "translation": "额外害虫概率: {{N0}}",
+      "styleMappings": {
+        "Bonus Pest Chance": "额外害虫概率",
+        "Pest": "害虫"
+      }
+    },
+    {
+      "source": [
+        "Farming Fortune: {{N0}}"
+      ],
+      "translation": "农业幸运: {{N0}}",
+      "styleMappings": {
+        "Farming Fortune": "农业幸运",
+        "Fortune": "幸运",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [] []"
+      ],
+      "translation": "宝石:[] []",
+      "styleMappings": {
+        "Gemstones": "宝石",
+        "[": "[",
+        "Gemstones:": "宝石:",
+        "] [": "] ["
+      }
+    },
+    {
+      "source": [
+        "Tiered Bonus: Feast ({{N0}}/{{N1}})"
+      ],
+      "translation": "套装加成:盛宴 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Tiered Bonus": "套装加成",
+        "Feast": "盛宴",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Combines the Tiered Bonuses of",
+        "wearing {{N0}} pieces of the Tater Armor,",
+        "Cropie Armor, Squash Armor, and",
+        "Fermento Armor. Grants {{N1}} Farming",
+        "Fortune."
+      ],
+      "translation": "结合穿戴 {{N0}} 件土豆盔甲、作物盔甲、西葫芦盔甲和酵母菌盔甲的分级加成.提供 {{N1}} 农业幸运.",
+      "styleMappings": {
+        "Farming Fortune": "农业幸运",
+        "pieces": "件",
+        "Armor": "盔甲",
+        "Grants": "提供",
+        "Fortune": "幸运",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "Ability: Farmer's Grace "
+      ],
+      "translation": "技能: 农夫恩泽 ",
+      "styleMappings": {
+        "Ability: Farmer's Grace": "技能: 农夫恩泽",
+        "Ability": "技能"
+      }
+    },
+    {
+      "source": [
+        "Grants immunity to trampling crops."
+      ],
+      "translation": "免疫踩踏作物.",
+      "styleMappings": {
+        "immunity": "免疫",
+        "crops": "作物"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Farming Skill {{N0}}."
+      ],
+      "translation": "❣ 需要农业技能 {{N0}}.",
+      "styleMappings": {
+        "Farming Skill": "农业技能",
+        "Requires": "需要",
+        "Farming": "农业",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY BOOTS"
+      ],
+      "translation": "传说 靴子",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Boots": "靴子"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

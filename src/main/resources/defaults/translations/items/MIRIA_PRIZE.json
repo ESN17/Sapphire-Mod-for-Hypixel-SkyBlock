@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "MIRIA_PRIZE",
+  "_original_name": "Miria's Prize",
+  "_original_lore": [
+    "Used to purchase certain items from",
+    "Miria's Shop!",
+    "",
+    "EPIC"
+  ],
+  "name": "米莉亚的奖品",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Used to purchase certain items from",
+        "Miria's Shop!"
+      ],
+      "translation": "用于从米莉亚的商店购买特定物品!",
+      "styleMappings": {
+        "Miria's Shop": "米莉亚的商店",
+        "items": "物品"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Miria's Prize": "米莉亚的奖品"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "END_PORTAL_FUMES_MIXIN",
+  "_original_name": "End Portal Fumes",
+  "_original_lore": [
+    "Brewing Ingredient",
+    "",
+    "Mixins provide a buff that can be",
+    "added to God Potions in a brewing",
+    "stand and lasts for the full duration.",
+    "",
+    "⸎ Soulflow conversions provide",
+    "+30% more  Overflow.",
+    "",
+    "Duration: 36h 0m",
+    "",
+    "The duration of Mixins can be stacked!",
+    "",
+    "Right-click to consume!",
+    "(Requires active Booster Cookie)",
+    "",
+    "☠ Requires Enderman Slayer 8.",
+    "RARE"
+  ],
+  "name": "末地传送门烟雾",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Brewing Ingredient"
+      ],
+      "translation": "酿造材料",
+      "styleMappings": {
+        "Brewing Ingredient": "酿造材料"
+      }
+    },
+    {
+      "source": [
+        "Mixins provide a buff that can be",
+        "added to God Potions in a brewing",
+        "stand and lasts for the full duration."
+      ],
+      "translation": "添加剂提供一种增益,可在酿造台中添加到神药水中,并持续完整时长.",
+      "styleMappings": {
+        "God Potions": "神药水",
+        "lasts": "持续",
+        "for": "持续",
+        "Potions": "药水"
+      }
+    },
+    {
+      "source": [
+        "⸎ Soulflow conversions provide",
+        "{{N0}} more  Overflow."
+      ],
+      "translation": "⸎ 灵魂流转换提供 {{N0}} 更多  溢流.",
+      "styleMappings": {
+        "Overflow": "溢流",
+        "Soulflow": "灵魂流",
+        "more": "更多"
+      }
+    },
+    {
+      "source": [
+        "Duration: {{N0}}h {{N1}}m"
+      ],
+      "translation": "持续时间: {{N0}}小时 {{N1}}分钟",
+      "styleMappings": {
+        "Duration": "持续时间",
+        "{{N0}}h": "{{N0}}小时",
+        "{{N1}}m": "{{N1}}分钟"
+      }
+    },
+    {
+      "source": [
+        "The duration of Mixins can be stacked!"
+      ],
+      "translation": "添加剂的持续时间可以叠加!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "(Requires active Booster Cookie)"
+      ],
+      "translation": "(需要激活的增益曲奇)",
+      "styleMappings": {
+        "Booster Cookie": "增益曲奇",
+        "Requires": "需要",
+        "Cookie": "曲奇"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Enderman Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要末影人杀手 {{N0}}.",
+      "styleMappings": {
+        "Enderman Slayer": "末影人杀手",
+        "Requires": "需要",
+        "Slayer": "杀手",
+        "Enderman": "末影人"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "End": "末地"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

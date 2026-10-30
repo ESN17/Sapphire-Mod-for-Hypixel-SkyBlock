@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "DYE_MANGO",
+  "_original_name": "Mango Dye",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Changes the color of an armor piece",
+    "to #FDBE02!",
+    "",
+    "LEGENDARY DYE"
+  ],
+  "name": "芒果染料",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Changes the color of an armor piece",
+        "to #FDBE{{N0}}!"
+      ],
+      "translation": "将盔甲部件的颜色改为 #FDBE{{N0}}!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "LEGENDARY DYE"
+      ],
+      "translation": "传说染料",
+      "styleMappings": {
+        "LEGENDARY DYE": "传说染料",
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mango": "芒果"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

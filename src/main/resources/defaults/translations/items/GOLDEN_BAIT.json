@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "id": "GOLDEN_BAIT",
+  "_original_name": "Golden Bait",
+  "_original_lore": [
+    "Fishing Bait",
+    "Consumes on Catch",
+    "",
+    "Grants +4 Treasure Chance.",
+    "",
+    "UNCOMMON BAIT"
+  ],
+  "name": "金鱼饵",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Fishing Bait",
+        "Consumes on Catch"
+      ],
+      "translation": "钓鱼鱼饵 钓起时消耗",
+      "styleMappings": {
+        "Consumes on Catch": "钓起时消耗",
+        "Fishing Bait": "钓鱼鱼饵",
+        "Fishing": "钓鱼",
+        "Bait": "鱼饵"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Treasure Chance."
+      ],
+      "translation": "提供 {{N0}} 宝藏概率.",
+      "styleMappings": {
+        "Treasure Chance": "宝藏概率",
+        "Grants": "提供",
+        "Treasure": "宝藏"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON BAIT"
+      ],
+      "translation": "罕见鱼饵",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Bait": "鱼饵",
+    "Golden Bait": "金鱼饵"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

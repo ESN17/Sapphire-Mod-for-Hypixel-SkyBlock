@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "BEDROCK",
+  "_original_name": "Bedrock",
+  "_original_lore": [
+    "I guess you have this now.",
+    "",
+    "* Co-op Soulbound *",
+    "LEGENDARY"
+  ],
+  "name": "基岩",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "I guess you have this now."
+      ],
+      "translation": "我猜你现在拥有这个了.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

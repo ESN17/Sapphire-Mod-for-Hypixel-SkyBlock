@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "FACTION_RABBIT_ASTER",
+  "_original_name": "Aster",
+  "_original_lore": [
+    "This is a Country Faction Rabbit!",
+    "",
+    "Grants +4 Chocolate and 0.004x",
+    "Chocolate per second to your",
+    "Chocolate Factory.",
+    "",
+    "Right click to add to your Factory!",
+    "",
+    "RARE RABBIT"
+  ],
+  "name": "紫菀",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "This is a Country Faction Rabbit!"
+      ],
+      "translation": "这是一只乡村阵营兔子!",
+      "styleMappings": {
+        "Rabbit": "兔子"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Chocolate and {{N1}}x",
+        "Chocolate per second to your",
+        "Chocolate Factory."
+      ],
+      "translation": "每秒为你的巧克力工厂提供 {{N0}} 巧克力和 {{N1}} 倍巧克力.",
+      "styleMappings": {
+        "Chocolate Factory": "巧克力工厂",
+        "per second": "每秒",
+        "Chocolate": "巧克力",
+        "{{N1}}x": "{{N1}} 倍",
+        "Grants": "提供",
+        "second": "秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Right click to add to your Factory!"
+      ],
+      "translation": "右键点击添加到你的工厂!",
+      "styleMappings": {
+        "Right click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "RARE RABBIT"
+      ],
+      "translation": "稀有兔子",
+      "styleMappings": {
+        "RARE RABBIT": "稀有兔子",
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

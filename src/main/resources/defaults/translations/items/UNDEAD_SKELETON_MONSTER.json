@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "UNDEAD_SKELETON_MONSTER",
+  "_original_name": "Undead Skeleton (Monster)",
+  "_original_lore": [
+    "Redundant name.",
+    "",
+    "❤ Health: 25,000 - 360,000",
+    "❤ Health (MM) : 4,500,000 - 12,800,000"
+  ],
+  "name": "亡灵骷髅 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Redundant name."
+      ],
+      "translation": "冗余名称.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}} - {{N1}}"
+      ],
+      "translation": "❤ 生命值: {{N0}} - {{N1}}",
+      "styleMappings": {
+        "Health": "生命值",
+        "-": "-"
+      }
+    },
+    {
+      "source": [
+        "❤ Health (MM) : {{N0}} - {{N1}}"
+      ],
+      "translation": "❤ 生命值 (MM) : {{N0}} - {{N1}}",
+      "styleMappings": {
+        "Health": "生命值",
+        "-": "-"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Skeleton": "骷髅",
+    "Undead": "亡灵",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

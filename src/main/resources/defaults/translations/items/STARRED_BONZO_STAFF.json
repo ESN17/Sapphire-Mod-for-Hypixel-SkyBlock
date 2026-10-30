@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": "STARRED_BONZO_STAFF",
+  "_original_name": " Bonzo's Staff",
+  "_original_lore": [
+    "Gear Score: 310",
+    "Damage: +160",
+    "Intelligence: +300",
+    "Gemstones: [] []",
+    "",
+    "Ability: Showtime  RIGHT CLICK",
+    "Shoots balloons that create a large explosion",
+    "on impact, dealing up to 1,100 damage.",
+    "Mana Cost: 90",
+    "",
+    "This item can be reforged!",
+    "❣ Requires The Catacombs Floor I Completion.",
+    "RARE DUNGEON SWORD"
+  ],
+  "name": " 邦佐的法杖",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [] []"
+      ],
+      "translation": "宝石: [] []",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "] []": "] []",
+        "[": "[",
+        "": "",
+        "Gemstones": "宝石",
+        "] [": "] ["
+      }
+    },
+    {
+      "source": [
+        "Ability: Showtime  RIGHT CLICK"
+      ],
+      "translation": "技能:好戏开场  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Shoots balloons that create a large explosion",
+        "on impact, dealing up to {{N0}} damage."
+      ],
+      "translation": "发射气球,命中后产生大范围爆炸,最多造成 {{N0}} 点伤害.",
+      "styleMappings": {
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires The Catacombs Floor I Completion."
+      ],
+      "translation": "❣ 需要通关地牢第 I 层.",
+      "styleMappings": {
+        "The Catacombs": "地牢",
+        "Requires": "需要",
+        "I": "I",
+        "Catacombs": "地牢"
+      }
+    },
+    {
+      "source": [
+        "RARE DUNGEON SWORD"
+      ],
+      "translation": "稀有 地牢剑",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Bonzo": "邦佐"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

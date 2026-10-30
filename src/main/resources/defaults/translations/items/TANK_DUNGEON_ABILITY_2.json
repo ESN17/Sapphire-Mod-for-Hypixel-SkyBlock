@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "TANK_DUNGEON_ABILITY_2",
+  "_original_name": "Absorption Potion",
+  "_original_lore": [
+    "Ability: Absorption Potion  RIGHT CLICK",
+    "Throw a potion which gives all teammates in a",
+    "10 block radius 200 HP worth of absorption",
+    "for 3 seconds.",
+    "Cooldown: 20s",
+    "",
+    "UNCOMMON DUNGEON ITEM"
+  ],
+  "name": "吸收药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Absorption Potion  RIGHT CLICK"
+      ],
+      "translation": "技能: 吸收药水  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Absorption": "吸收",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Throw a potion which gives all teammates in a",
+        "{{N0}} block radius {{N1}} HP worth of absorption",
+        "for {{N2}} seconds."
+      ],
+      "translation": "投掷一瓶药水,为 {{N0}} 格半径内的所有队友提供 {{N1}} 点生命值的吸收效果,持续 {{N2}} 秒.",
+      "styleMappings": {
+        "block": "格",
+        "HP": "生命值",
+        "for": "持续",
+        "seconds": "秒"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON DUNGEON ITEM"
+      ],
+      "translation": "罕见 地牢 物品",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Absorption": "吸收"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

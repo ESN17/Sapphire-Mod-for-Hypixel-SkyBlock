@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "id": "EXCEEDINGLY_COMFY_SNEAKERS",
+  "_original_name": "Exceedingly Comfy Sneakers",
+  "_original_lore": [
+    "Rift Time: +45s",
+    "Speed: +5",
+    "",
+    "Stay classy.",
+    "",
+    "EPIC BOOTS"
+  ],
+  "name": "极度舒适运动鞋",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Rift Time: {{N0}}s"
+      ],
+      "translation": "裂隙时间: {{N0}}秒",
+      "styleMappings": {
+        "Rift Time": "裂隙时间",
+        "{{N0}}s": "{{N0}}秒",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Stay classy."
+      ],
+      "translation": "保持优雅.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC BOOTS"
+      ],
+      "translation": "史诗靴子",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

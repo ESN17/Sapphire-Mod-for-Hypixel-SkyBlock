@@ -1,0 +1,145 @@
+{
+  "schemaVersion": 1,
+  "id": "DIAMOND_PROFESSOR_HEAD",
+  "_original_name": "Diamond Professor Head",
+  "_original_lore": [
+    "Gear Score: 200",
+    "Health: +100",
+    "Defense: +40",
+    "Strength: +20",
+    "",
+    "Obtained from killing The Professor",
+    "in The Catacombs lots of times.",
+    "Grants 2x stats on The Catacombs",
+    "Floor III.",
+    "",
+    "Despite his great technique, he failed",
+    "the Masters exam three times. Works",
+    "from 8 to 5. Cares about his",
+    "students.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires The Professor Collection 7.",
+    "* Co-op Soulbound *",
+    "SPECIAL DUNGEON HELMET"
+  ],
+  "name": "钻石教授头颅",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Obtained from killing The Professor",
+        "in The Catacombs lots of times."
+      ],
+      "translation": "多次击杀地牢中的教授获得.",
+      "styleMappings": {
+        "The Catacombs": "地牢",
+        "The Professor": "教授",
+        "Catacombs": "地牢"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}x stats on The Catacombs",
+        "Floor III."
+      ],
+      "translation": "在地牢第三层提供 {{N0}}倍属性.",
+      "styleMappings": {
+        "The Catacombs Floor III": "地牢第三层",
+        "Grants": "提供",
+        "stats": "属性",
+        "{{N0}}x": "{{N0}}倍",
+        "The Catacombs": "地牢",
+        "Catacombs": "地牢"
+      }
+    },
+    {
+      "source": [
+        "Despite his great technique, he failed",
+        "the Masters exam three times. Works",
+        "from {{N0}} to {{N1}}. Cares about his",
+        "students."
+      ],
+      "translation": "尽管技艺高超,他三次未能通过大师考试.工作时间为 {{N0}} 至 {{N1}}.关心他的学生.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires The Professor Collection {{N0}}."
+      ],
+      "translation": "❣ 需要教授收藏 {{N0}}.",
+      "styleMappings": {
+        "Requires The Professor Collection": "需要教授收藏",
+        "Requires": "需要",
+        "Collection": "收藏",
+        "The Professor": "教授"
+      }
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL DUNGEON HELMET"
+      ],
+      "translation": "特殊地牢头盔",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

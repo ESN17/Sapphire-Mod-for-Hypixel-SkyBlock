@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "TIMESTALK",
+  "_original_name": "Timestalk",
+  "_original_lore": [
+    "The timestalk is a mysterious plant",
+    "that defies time itself, starting fully",
+    "grown and slowly aging backwards.",
+    "",
+    "Complete Visitor Beth's quest to",
+    "Analyze this crop!",
+    "",
+    "LEGENDARY MUTATION"
+  ],
+  "name": "时茎",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The timestalk is a mysterious plant",
+        "that defies time itself, starting fully",
+        "grown and slowly aging backwards."
+      ],
+      "translation": "时茎是一种违逆时间本身的神秘植物,它从完全成熟开始,然后缓慢地逆生长.",
+      "styleMappings": {
+        "plant": "植物"
+      }
+    },
+    {
+      "source": [
+        "Complete Visitor Beth's quest to",
+        "Analyze this crop!"
+      ],
+      "translation": "完成访客 Beth 的任务来分析这种作物!",
+      "styleMappings": {
+        "Visitor": "访客",
+        "Beth's": "Beth 的",
+        "Analyze": "分析"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY MUTATION"
+      ],
+      "translation": "传说突变",
+      "styleMappings": {
+        "LEGENDARY MUTATION": "传说突变",
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

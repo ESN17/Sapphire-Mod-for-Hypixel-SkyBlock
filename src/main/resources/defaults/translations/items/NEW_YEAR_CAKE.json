@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "NEW_YEAR_CAKE",
+  "_original_name": "New Year Cake (Year 69)",
+  "_original_lore": [
+    "Given to every player as a",
+    "celebration for the 69th SkyBlock",
+    "year!",
+    "",
+    "SPECIAL"
+  ],
+  "name": "新年蛋糕(第 69 年)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Given to every player as a",
+        "celebration for the {{N0}}th SkyBlock",
+        "year!"
+      ],
+      "translation": "为庆祝第 {{N0}} 个空岛生存年,赠予每位玩家!",
+      "styleMappings": {
+        "SkyBlock": "空岛生存",
+        "player": "玩家",
+        "year": "年"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "New Year Cake ": "新年蛋糕",
+    "Year": "年",
+    "New Year Cake": "新年蛋糕"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

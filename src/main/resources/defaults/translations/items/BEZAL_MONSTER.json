@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "BEZAL_MONSTER",
+  "_original_name": "Bezal (Monster)",
+  "_original_lore": [
+    "They started the fire.",
+    "",
+    "❤ Health: 1,000,000"
+  ],
+  "name": "贝扎尔 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "They started the fire."
+      ],
+      "translation": "火是他们放的.",
+      "styleMappings": {
+        "fire": "火"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Bezal (Monster)": "贝扎尔 (怪物)",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

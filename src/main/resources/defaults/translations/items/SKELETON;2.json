@@ -1,0 +1,142 @@
+{
+  "schemaVersion": 1,
+  "id": "SKELETON;2",
+  "_original_name": "[Lvl {LVL}] Skeleton",
+  "_original_lore": [
+    "Combat Pet",
+    "",
+    "Crit Chance: +{CRIT_CHANCE}%",
+    "Crit Damage: +{CRIT_DAMAGE}%",
+    "",
+    "Bone Arrows",
+    "Increase arrow damage by {0}%",
+    "which is doubled while in dungeons",
+    "",
+    "Combo",
+    "Gain a combo stack for every bow hit",
+    "granting +3  Strength. Max {1}",
+    "stacks, stacks disappear after 8",
+    "seconds.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "RARE PET"
+  ],
+  "name": "[等级 {LVL}] 骷髅",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combat Pet"
+      ],
+      "translation": "战斗宠物",
+      "styleMappings": {
+        "Combat Pet": "战斗宠物",
+        "Combat": "战斗",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Crit Chance: +{{N0}}%"
+      ],
+      "translation": "暴击几率: +{{N0}}%",
+      "styleMappings": {
+        "Crit Chance": "暴击几率"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: +{{N0}}%"
+      ],
+      "translation": "暴击伤害: +{{N0}}%",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Bone Arrows"
+      ],
+      "translation": "骨箭",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Increase arrow damage by {{N0}}%",
+        "which is doubled while in dungeons"
+      ],
+      "translation": "箭矢伤害提高 {{N0}}%,在地牢中效果翻倍",
+      "styleMappings": {
+        "which is doubled while in dungeons": "在地牢中效果翻倍",
+        "Increase arrow damage by": "箭矢伤害提高",
+        "damage": "伤害",
+        "doubled": "翻倍",
+        "arrow damage": "箭矢伤害"
+      }
+    },
+    {
+      "source": [
+        "Combo"
+      ],
+      "translation": "连击",
+      "styleMappings": {
+        "Combo": "连击"
+      }
+    },
+    {
+      "source": [
+        "Gain a combo stack for every bow hit",
+        "granting {{N0}}  Strength. Max {{N1}}",
+        "stacks, stacks disappear after {{N2}}",
+        "seconds."
+      ],
+      "translation": "每次弓箭命中获得一层连击,提供 {{N0}}  力量.最多 {{N1}} 层,层数在 {{N2}} 秒后消失.",
+      "styleMappings": {
+        " Strength": " 力量",
+        "seconds": "秒",
+        "Gain": "获得",
+        "Max": "最多",
+        "Strength": "力量",
+        "for": "获得",
+        "hit": "命中"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "RARE PET"
+      ],
+      "translation": "稀有 宠物",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Skeleton": "骷髅",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

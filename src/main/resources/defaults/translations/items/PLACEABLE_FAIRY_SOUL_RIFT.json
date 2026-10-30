@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "PLACEABLE_FAIRY_SOUL_RIFT",
+  "_original_name": "Placeable Fairy Soul",
+  "_original_lore": [
+    "Place this fairy soul down on your",
+    "island so you and others can find it.",
+    "",
+    "X Rift-Transferable X",
+    "EPIC"
+  ],
+  "name": "可放置的仙女之魂",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Place this fairy soul down on your",
+        "island so you and others can find it."
+      ],
+      "translation": "将这个仙女之魂放置在你的岛屿上,让你和其他人都能找到它.",
+      "styleMappings": {
+        "island": "岛屿上"
+      }
+    },
+    {
+      "source": [
+        "X Rift-Transferable X"
+      ],
+      "translation": "X 可转移至裂隙 X",
+      "styleMappings": {
+        "Rift-Transferable": "可转移至裂隙",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fairy Soul": "仙女之魂"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

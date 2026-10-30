@@ -1,0 +1,212 @@
+{
+  "schemaVersion": 1,
+  "id": "FIREDUST_DAGGER",
+  "_original_name": "Firedust Dagger",
+  "_original_lore": [
+    "Damage: +90",
+    "Strength: +45",
+    "Crit Damage: +15%",
+    "Gemstones: [⚔]",
+    "",
+    "Deal 1.2x damage to  Infernal mobs.",
+    "Deal 1.1x damage to  Wither mobs.",
+    "Gain +15☯ Combat Wisdom against ",
+    "Infernal mobs.",
+    "",
+    "Ability: Attunement  RIGHT CLICK",
+    "Swap between Ashen and Auric mode in order",
+    "to attack through Hellion Shields.",
+    "",
+    "Attuned: Ashen",
+    "",
+    "Ability: Burning Vengeance ﬗ",
+    "On hit, repeat the last 8 hits of dealt",
+    "damage after 6s if the Hellion Shield",
+    "has switched attunement.",
+    "",
+    "This item can be reforged!",
+    "☠ Requires Blaze Slayer 2.",
+    "RARE SWORD"
+  ],
+  "name": "余烬之剑",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: {{N0}}"
+      ],
+      "translation": "暴击伤害:{{N0}}",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [⚔]"
+      ],
+      "translation": "宝石: [⚔]",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石"
+      }
+    },
+    {
+      "source": [
+        "Deal {{N0}}x damage to  Infernal mobs."
+      ],
+      "translation": "对  炼狱生物造成 {{N0}}倍伤害.",
+      "styleMappings": {
+        "Infernal": "炼狱",
+        "damage": "伤害",
+        "mobs": "生物",
+        "{{N0}}x": "{{N0}}倍",
+        "Deal": "造成",
+        "mobs.": "伤害."
+      }
+    },
+    {
+      "source": [
+        "Deal {{N0}}x damage to  Wither mobs."
+      ],
+      "translation": "对  凋灵生物造成 {{N0}}倍伤害.",
+      "styleMappings": {
+        "Wither": "凋灵",
+        "damage": "伤害",
+        "mobs": "生物",
+        "{{N0}}x": "{{N0}}倍",
+        "Deal": "造成",
+        "mobs.": "伤害."
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}}☯ Combat Wisdom against ",
+        "Infernal mobs."
+      ],
+      "translation": "对   炼狱生物获得 {{N0}}☯ 战斗智慧.",
+      "styleMappings": {
+        "Combat Wisdom": "战斗智慧",
+        "Infernal": "炼狱",
+        "Gain": "获得",
+        "mobs": "生物",
+        "Combat": "战斗",
+        "Wisdom": "智慧"
+      }
+    },
+    {
+      "source": [
+        "Ability: Attunement  RIGHT CLICK"
+      ],
+      "translation": "技能: 调谐  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Attunement": "调谐",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Swap between Ashen and Auric mode in order",
+        "to attack through Hellion Shields."
+      ],
+      "translation": "在灰烬和金光模式之间切换,以穿透地狱护盾进行攻击.",
+      "styleMappings": {
+        "Ashen": "灰烬",
+        "Auric": "金光",
+        "Hellion Shields": "地狱护盾"
+      }
+    },
+    {
+      "source": [
+        "Attuned: Ashen"
+      ],
+      "translation": "调谐: 灰烬",
+      "styleMappings": {
+        "Attuned": "调谐",
+        "Ashen": "灰烬"
+      }
+    },
+    {
+      "source": [
+        "Ability: Burning Vengeance ﬗ"
+      ],
+      "translation": "技能: 燃烧复仇 ﬗ",
+      "styleMappings": {
+        "Ability": "技能",
+        "Burning Vengeance": "燃烧复仇"
+      }
+    },
+    {
+      "source": [
+        "On hit, repeat the last {{N0}} hits of dealt",
+        "damage after {{N1}}s if the Hellion Shield",
+        "has switched attunement."
+      ],
+      "translation": "命中时,若地狱护盾已切换调谐,则在 {{N1}}秒后重复最后 {{N0}} 次造成的伤害.",
+      "styleMappings": {
+        "Hellion Shield": "地狱护盾",
+        "damage": "伤害",
+        "repeat": "重复",
+        "hits": "命中",
+        "{{N1}}s": "{{N1}}秒",
+        "hit": "命中"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Blaze Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要 烈焰人杀手 {{N0}}.",
+      "styleMappings": {
+        "Blaze Slayer": "烈焰人杀手",
+        "Requires": "需要",
+        "Slayer": "杀手"
+      }
+    },
+    {
+      "source": [
+        "RARE SWORD"
+      ],
+      "translation": "稀有剑",
+      "styleMappings": {
+        "RARE": "稀有",
+        "RARE SWORD": "稀有剑"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Firedust Dagger": "余烬之剑"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_name_revision": "2026-10-17-slayer-rpg"
+}

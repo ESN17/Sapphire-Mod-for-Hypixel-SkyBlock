@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_ABSORPTION;8",
+  "_original_name": "Absorption VIII Potion",
+  "_original_lore": [
+    "",
+    "Absorption VIII (3:00)",
+    "Grants +300 of absorption.",
+    "",
+    "EPIC"
+  ],
+  "name": "伤害吸收 VIII 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Absorption VIII ({{N0}}:{{N1}})"
+      ],
+      "translation": "伤害吸收 VIII ({{N0}}:{{N1}})",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants {{N0}} of absorption."
+      ],
+      "translation": "提供 {{N0}} 点伤害吸收.",
+      "styleMappings": {
+        "Grants": "提供"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

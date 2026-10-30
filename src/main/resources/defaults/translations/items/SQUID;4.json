@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": "SQUID;4",
+  "_original_name": "[Lvl {LVL}] Squid",
+  "_original_lore": [
+    "Fishing Pet",
+    "",
+    "Health: +{HEALTH}",
+    "Intelligence: +{INTELLIGENCE}",
+    "",
+    "More Ink",
+    "Gain a {0}% chance to get double",
+    "drops from squids",
+    "",
+    "Ink Specialty",
+    "Buffs the Ink Wand by {1}  Damage",
+    "and {2}  Strength.",
+    "",
+    "Fishing Wisdom Boost",
+    "Grants +{3}☯ Fishing Wisdom.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "LEGENDARY PET"
+  ],
+  "name": "[等级 {LVL}] 鱿鱼",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Fishing Pet"
+      ],
+      "translation": "钓鱼宠物",
+      "styleMappings": {
+        "Fishing": "钓鱼",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Health: +{{N0}}"
+      ],
+      "translation": "生命值: +{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: +{{N0}}"
+      ],
+      "translation": "智力: +{{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "More Ink"
+      ],
+      "translation": "更多墨汁",
+      "styleMappings": {
+        "More Ink": "更多墨汁"
+      }
+    },
+    {
+      "source": [
+        "Gain a {{N0}}% chance to get double",
+        "drops from squids"
+      ],
+      "translation": "有 {{N0}}% 概率从鱿鱼获得双倍掉落",
+      "styleMappings": {
+        "chance to": "概率",
+        "double": "双倍",
+        "Gain": "获得",
+        "chance": "概率"
+      }
+    },
+    {
+      "source": [
+        "Ink Specialty"
+      ],
+      "translation": "墨汁专精",
+      "styleMappings": {
+        "Ink Specialty": "墨汁专精"
+      }
+    },
+    {
+      "source": [
+        "Buffs the Ink Wand by {{N0}}  Damage",
+        "and {{N1}}  Strength."
+      ],
+      "translation": "使墨汁法杖的 伤害提高 {{N0}} , 力量提高 {{N1}} .",
+      "styleMappings": {
+        "Ink Wand": "墨汁法杖",
+        "Strength": "力量",
+        "Damage": "伤害",
+        " Strength": " 力量",
+        " Damage": " 伤害",
+        "Wand": "法杖"
+      }
+    },
+    {
+      "source": [
+        "Fishing Wisdom Boost"
+      ],
+      "translation": "钓鱼智慧加成",
+      "styleMappings": {
+        "Fishing Wisdom Boost": "钓鱼智慧加成",
+        "Fishing Wisdom": "钓鱼智慧",
+        "Fishing": "钓鱼",
+        "Wisdom": "智慧"
+      }
+    },
+    {
+      "source": [
+        "Grants +{{N0}}☯ Fishing Wisdom."
+      ],
+      "translation": "提供 +{{N0}}☯ 钓鱼智慧.",
+      "styleMappings": {
+        "Fishing Wisdom": "钓鱼智慧",
+        "Grants": "提供",
+        "Fishing": "钓鱼",
+        "Wisdom": "智慧"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY PET"
+      ],
+      "translation": "传说 宠物",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Squid": "鱿鱼",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

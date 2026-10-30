@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "JUMBO_BACKPACK_UPGRADE",
+  "_original_name": "Jumbo Backpack Upgrade",
+  "_original_lore": [
+    "Craft with a Greater Backpack to",
+    "upgrade it to 45 slots.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "SPECIAL"
+  ],
+  "name": "巨型背包升级",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Craft with a Greater Backpack to",
+        "upgrade it to {{N0}} slots."
+      ],
+      "translation": "与高级背包一起合成,可将其升级至 {{N0}} 格.",
+      "styleMappings": {
+        "Greater Backpack": "高级背包",
+        "upgrade": "升级"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

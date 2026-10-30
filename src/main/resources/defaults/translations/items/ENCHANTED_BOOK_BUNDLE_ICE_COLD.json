@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "ENCHANTED_BOOK_BUNDLE_ICE_COLD",
+  "_original_name": "Enchanted Book Bundle",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Consume to unwrap the bundle",
+    "containing 4x Ice Cold V Book.",
+    "",
+    "Frosty to the touch - wherever this",
+    "came from probably isn't a popular",
+    "summer vacation spot.",
+    "",
+    "Right-click to consume!",
+    "",
+    "* Soulbound *",
+    "LEGENDARY"
+  ],
+  "name": "附魔书捆",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Consume to unwrap the bundle",
+        "containing {{N0}}x Ice Cold V Book."
+      ],
+      "translation": "消耗以拆开内含 {{N0}}x 冰寒 V 附魔书的包裹.",
+      "styleMappings": {
+        "Ice Cold V Book": "冰寒 V 附魔书",
+        "Ice": "冰",
+        "Ice Cold": "冰寒"
+      }
+    },
+    {
+      "source": [
+        "Frosty to the touch - wherever this",
+        "came from probably isn't a popular",
+        "summer vacation spot."
+      ],
+      "translation": "触感冰凉——无论它来自哪里,那里大概都不是热门的避暑胜地.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

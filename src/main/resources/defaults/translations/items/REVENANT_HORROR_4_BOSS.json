@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "REVENANT_HORROR_4_BOSS",
+  "_original_name": "Revenant Horror IV (Boss)",
+  "_original_lore": [
+    "Deadly",
+    "",
+    "Health: 1,500,000❤",
+    "Damage: 400 per second",
+    "",
+    "Life Drain",
+    "Drains health every few seconds.",
+    "",
+    "Pestilence",
+    "Deals AOE damage every second,",
+    "shredding armor by 25%.",
+    "",
+    "Enrage",
+    "Gets real mad once in a while."
+  ],
+  "name": "亡魂恐魔 IV (首领)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Deadly"
+      ],
+      "translation": "致命",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Health: {{N0}}❤"
+      ],
+      "translation": "生命值: {{N0}}❤",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Damage: {{N0}} per second"
+      ],
+      "translation": "伤害: 每秒 {{N0}}",
+      "styleMappings": {
+        "per second": "每秒",
+        "Damage": "伤害",
+        "second": "秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Life Drain",
+        "Drains health every few seconds."
+      ],
+      "translation": "生命汲取 每隔几秒吸取生命值.",
+      "styleMappings": {
+        "Life Drain": "生命汲取",
+        "seconds": "秒",
+        "health": "生命值",
+        "Drain": "汲取"
+      }
+    },
+    {
+      "source": [
+        "Pestilence",
+        "Deals AOE damage every second,",
+        "shredding armor by {{N0}}."
+      ],
+      "translation": "瘟疫 每秒造成范围伤害,并削减 {{N0}} 点护甲.",
+      "styleMappings": {
+        "Pestilence": "瘟疫",
+        "Deals": "造成",
+        "damage": "伤害",
+        "second": "秒"
+      }
+    },
+    {
+      "source": [
+        "Enrage",
+        "Gets real mad once in a while."
+      ],
+      "translation": "激怒 偶尔会变得非常狂暴.",
+      "styleMappings": {
+        "Enrage": "激怒"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Boss": "首领",
+    "Revenant Horror": "亡魂恐魔"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

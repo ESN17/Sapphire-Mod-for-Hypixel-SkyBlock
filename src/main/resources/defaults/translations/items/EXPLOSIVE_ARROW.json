@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": "EXPLOSIVE_ARROW",
+  "_original_name": "Explosive Arrow",
+  "_original_lore": [
+    "Damage: +3",
+    "",
+    "Passive: Explosive",
+    "This arrow explodes after 2s or on",
+    "impact.",
+    "",
+    "The explosion deals the arrow's",
+    "damage split to mobs within 2.5 blocks.",
+    "",
+    "You will lose 10% of your  Health if",
+    "you are in the explosion.",
+    "",
+    "❣ Requires Combat Skill 23.",
+    "❣ Requires Coal Collection VII.",
+    "❣ Requires Target Practice III.",
+    "Stats added when shot!",
+    "RARE ARROW"
+  ],
+  "name": "爆炸箭",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Passive: Explosive"
+      ],
+      "translation": "被动:爆炸",
+      "styleMappings": {
+        "Passive": "被动"
+      }
+    },
+    {
+      "source": [
+        "This arrow explodes after {{N0}}s or on",
+        "impact."
+      ],
+      "translation": "此箭矢在 {{N0}} 秒后或命中时爆炸.",
+      "styleMappings": {
+        "{{N0}}s": "{{N0}} 秒"
+      }
+    },
+    {
+      "source": [
+        "The explosion deals the arrow's",
+        "damage split to mobs within {{N0}} blocks."
+      ],
+      "translation": "爆炸会将箭矢的伤害分摊给 {{N0}} 格范围内的怪物.",
+      "styleMappings": {
+        "blocks": "格",
+        "damage": "伤害",
+        "mobs": "怪物"
+      }
+    },
+    {
+      "source": [
+        "You will lose {{N0}} of your  Health if",
+        "you are in the explosion."
+      ],
+      "translation": "如果你身处爆炸范围内,你将失去 {{N0}} 点  生命值.",
+      "styleMappings": {
+        "Health": "生命值",
+        " Health": " 生命"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Coal Collection VII."
+      ],
+      "translation": "❣ 需要煤炭收藏 VII.",
+      "styleMappings": {
+        "Requires": "需要",
+        "Collection": "收藏"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Target Practice III."
+      ],
+      "translation": "❣ 需要靶场练习 III.",
+      "styleMappings": {
+        "Target Practice III": "靶场练习 III",
+        "Requires": "需要",
+        "III": "III"
+      }
+    },
+    {
+      "source": [
+        "Stats added when shot!"
+      ],
+      "translation": "射出时添加属性!",
+      "styleMappings": {
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "RARE ARROW"
+      ],
+      "translation": "稀有箭",
+      "styleMappings": {
+        "RARE ARROW": "稀有箭",
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

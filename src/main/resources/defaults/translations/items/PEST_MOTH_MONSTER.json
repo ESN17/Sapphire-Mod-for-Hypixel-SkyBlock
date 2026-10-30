@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "PEST_MOTH_MONSTER",
+  "_original_name": "Moth (Pest)",
+  "_original_lore": [
+    "Fluttering around a Garden near",
+    "you.",
+    "",
+    "Attracted to Honey Jar.",
+    "",
+    "❤ Health: 600"
+  ],
+  "name": "飞蛾 (害虫)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Fluttering around a Garden near",
+        "you."
+      ],
+      "translation": "在你附近的花园里翩翩飞舞.",
+      "styleMappings": {
+        "Garden": "花园"
+      }
+    },
+    {
+      "source": [
+        "Attracted to Honey Jar."
+      ],
+      "translation": "被蜂蜜罐吸引.",
+      "styleMappings": {
+        "Honey Jar": "蜂蜜罐"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Pest": "害虫",
+    "Moth": "飞蛾"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

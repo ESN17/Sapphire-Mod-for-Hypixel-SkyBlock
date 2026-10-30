@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "BLUE_WHALE;0",
+  "_original_name": "[Lvl {LVL}] Blue Whale",
+  "_original_lore": [
+    "Fishing Pet",
+    "",
+    "Health: +{HEALTH}",
+    "",
+    "Ingest",
+    "If you have any absorption active,",
+    "gain +{0}% Damage Reduction.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "COMMON PET"
+  ],
+  "name": "[等级 {LVL}] 蓝鲸",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Fishing Pet"
+      ],
+      "translation": "钓鱼宠物",
+      "styleMappings": {
+        "Fishing": "钓鱼",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Health: +{{N0}}"
+      ],
+      "translation": "生命值: +{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Ingest"
+      ],
+      "translation": "摄取",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "If you have any absorption active,",
+        "gain +{{N0}}% Damage Reduction."
+      ],
+      "translation": "如果你有任何吸收效果处于激活状态,获得 +{{N0}}% 伤害减免.",
+      "styleMappings": {
+        "Damage Reduction": "伤害减免",
+        "Damage": "伤害",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "COMMON PET"
+      ],
+      "translation": "普通 宠物",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Blue Whale": "蓝鲸",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

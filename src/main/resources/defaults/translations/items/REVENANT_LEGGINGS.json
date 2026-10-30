@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "id": "REVENANT_LEGGINGS",
+  "_original_name": "Revenant Leggings",
+  "_original_lore": [
+    "Health: +120",
+    "Defense: +50",
+    "",
+    "Full Set Bonus: Trolling The Reaper (0/3)",
+    "Healing Wands heal +50%.",
+    "Gain +100 against  Undead mobs.",
+    "",
+    "Piece Bonus: Zombie Bulwark",
+    "Kill Zombies to accumulate defense",
+    "against them.",
+    "Piece Bonus: +0",
+    "Next Upgrade: +20 (0/50)",
+    "",
+    "This item is Undead !",
+    "",
+    "This item can be reforged!",
+    "☠ Requires Zombie Slayer 4.",
+    "EPIC LEGGINGS"
+  ],
+  "name": "亡魂护腿",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Trolling The Reaper ({{N0}}/{{N1}})"
+      ],
+      "translation": "全套加成: 戏耍死神 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Full Set Bonus: Trolling The Reaper": "全套加成: 戏耍死神",
+        "Full Set Bonus": "全套加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Healing Wands heal {{N0}}."
+      ],
+      "translation": "治疗法杖治疗 {{N0}}.",
+      "styleMappings": {
+        "Healing Wands": "治疗法杖"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}} against  Undead mobs."
+      ],
+      "translation": "对  亡灵生物获得 {{N0}}.",
+      "styleMappings": {
+        "Undead": "亡灵",
+        "Gain": "获得",
+        "mobs": "生物"
+      }
+    },
+    {
+      "source": [
+        "Piece Bonus: Zombie Bulwark"
+      ],
+      "translation": "部件加成: 僵尸壁垒",
+      "styleMappings": {
+        "Piece Bonus: Zombie Bulwark": "部件加成: 僵尸壁垒",
+        "Bonus": "加成",
+        "Zombie": "僵尸",
+        "Piece Bonus": "部件加成"
+      }
+    },
+    {
+      "source": [
+        "Kill Zombies to accumulate defense",
+        "against them."
+      ],
+      "translation": "击杀僵尸以累积对其的防御.",
+      "styleMappings": {
+        "Zombies": "僵尸",
+        "defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Piece Bonus: {{N0}}"
+      ],
+      "translation": "部件加成:{{N0}}",
+      "styleMappings": {
+        "Piece Bonus": "部件加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Next Upgrade: {{N0}} ({{N1}}/{{N2}})"
+      ],
+      "translation": "下次升级: {{N0}} ({{N1}}/{{N2}})",
+      "styleMappings": {
+        "Next Upgrade": "下次升级"
+      }
+    },
+    {
+      "source": [
+        "This item is Undead !"
+      ],
+      "translation": "此物品属于亡灵 !",
+      "styleMappings": {
+        "Undead": "亡灵",
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Zombie Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要僵尸杀手 {{N0}}.",
+      "styleMappings": {
+        "Zombie Slayer": "僵尸杀手",
+        "Requires": "需要",
+        "Zombie": "僵尸",
+        "Slayer": "杀手"
+      }
+    },
+    {
+      "source": [
+        "EPIC LEGGINGS"
+      ],
+      "translation": "史诗护腿",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Leggings": "护腿"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

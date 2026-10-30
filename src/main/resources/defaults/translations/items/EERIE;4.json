@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "id": "EERIE;4",
+  "_original_name": "[Lvl {LVL}] Eerie",
+  "_original_lore": [
+    "Combat Pet",
+    "",
+    "Edition: #???",
+    "",
+    "Intelligence: +{INTELLIGENCE}",
+    "Speed: +{SPEED}",
+    "",
+    "Fearnesy",
+    "Fear from Great Spook Armor in",
+    "your wardrobe applies to you, even",
+    "if you aren't wearing it.",
+    "",
+    "Fearama",
+    "Increases damage dealt to Primal",
+    "Fears and Spooky Mobs by {0}% for",
+    "every Fear you have.",
+    "",
+    "Fearcreasing",
+    "Gives +{1} Fear for every 10 Primal",
+    "Fears killed, up to 150 Primal Fears.",
+    "Primal Fear Kills: (111/150)",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "* Soulbound *",
+    "LEGENDARY PET"
+  ],
+  "name": "[等级 {LVL}] 诡异",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combat Pet"
+      ],
+      "translation": "战斗宠物",
+      "styleMappings": {
+        "Combat Pet": "战斗宠物",
+        "Combat": "战斗",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Edition: #???"
+      ],
+      "translation": "版本: #???",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Intelligence: +{{N0}}"
+      ],
+      "translation": "智力: +{{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Speed: +{{N0}}"
+      ],
+      "translation": "速度: +{{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Fearnesy"
+      ],
+      "translation": "费尔内西",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Fear from Great Spook Armor in",
+        "your wardrobe applies to you, even",
+        "if you aren't wearing it."
+      ],
+      "translation": "衣柜中 大万圣节盔甲 提供的恐惧会作用于你,即使你并未穿戴它.",
+      "styleMappings": {
+        "Great Spook Armor": "大万圣节盔甲",
+        "wardrobe": "衣柜",
+        "Fear": "恐惧",
+        "Great Spook": "大万圣节",
+        "Armor": "盔甲"
+      }
+    },
+    {
+      "source": [
+        "Fearama"
+      ],
+      "translation": "恐惧狂潮",
+      "styleMappings": {
+        "Fearama": "恐惧狂潮"
+      }
+    },
+    {
+      "source": [
+        "Increases damage dealt to Primal",
+        "Fears and Spooky Mobs by {{N0}}% for",
+        "every Fear you have."
+      ],
+      "translation": "每拥有一点恐惧值, 对原初恐惧和惊悚生物造成的伤害提高 {{N0}}%.",
+      "styleMappings": {
+        "damage": "伤害",
+        "Fear": "恐惧值",
+        "Primal Fears": "原初恐惧"
+      }
+    },
+    {
+      "source": [
+        "Fearcreasing"
+      ],
+      "translation": "恐惧渐增",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Gives +{{N0}} Fear for every {{N1}} Primal",
+        "Fears killed, up to {{N2}} Primal Fears."
+      ],
+      "translation": "每击杀 {{N1}} 个原初恐惧获得 +{{N0}} 点恐惧值,最多计入 {{N2}} 个原初恐惧.",
+      "styleMappings": {
+        "Primal Fears": "原初恐惧",
+        "Fear": "恐惧值",
+        "for": "获得"
+      }
+    },
+    {
+      "source": [
+        "Primal Fear Kills: ({{N0}}/{{N1}})"
+      ],
+      "translation": "原初恐惧击杀数: ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Primal Fear Kills": "原初恐惧击杀数",
+        "Fear": "恐惧"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY PET"
+      ],
+      "translation": "传说 宠物",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

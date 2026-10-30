@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "id": "MAGNETIC_TALISMAN",
+  "_original_name": "Magnetic Talisman",
+  "_original_lore": [
+    "Accessory Power: +5",
+    "",
+    "Increase the item pick up range by",
+    "3x.",
+    "",
+    "Works while in Accessory Bag!",
+    "UNCOMMON ACCESSORY"
+  ],
+  "name": "磁力护符",
+  "lore": {
+    "Accessory Power: {value}": "饰品能量: {value}",
+    "Works while in Accessory Bag!": "放在饰品袋中即可生效!",
+    "UNCOMMON ACCESSORY": "罕见 饰品",
+    "Accessory Power: {value} ({bonus})": "饰品能量: {value} ({bonus})"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "Increase the item pick up range by",
+        "{multiplier}x."
+      ],
+      "translation": "物品拾取范围扩大至 {multiplier}倍.",
+      "styleMappings": {
+        "x": "倍",
+        "{multiplier}x": "{multiplier}倍",
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Accessory Power: {{N0}}"
+      ],
+      "translation": "饰品能量: {{N0}}",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "Increase the item pick up range by",
+        "{{N0}}x."
+      ],
+      "translation": "物品拾取范围扩大至 {{N0}}倍.",
+      "styleMappings": {
+        "item": "物品",
+        "x": "倍",
+        "{{N0}}x": "{{N0}}倍"
+      }
+    },
+    {
+      "source": [
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "放在饰品袋中即可生效!",
+      "styleMappings": {
+        "Accessory Bag": "饰品袋",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON ACCESSORY"
+      ],
+      "translation": "罕见 饰品",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "x": "倍",
+    "Talisman": "护符"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

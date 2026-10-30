@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "WATER_TROUGH",
+  "_original_name": "Water Trough",
+  "_original_lore": [
+    "Furniture",
+    "",
+    "An infinite source of water for",
+    "buckets and bottles.",
+    "",
+    "COMMON"
+  ],
+  "name": "水槽",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Furniture"
+      ],
+      "translation": "家具",
+      "styleMappings": {
+        "Furniture": "家具"
+      }
+    },
+    {
+      "source": [
+        "An infinite source of water for",
+        "buckets and bottles."
+      ],
+      "translation": "为桶和瓶子提供无限水源.",
+      "styleMappings": {
+        "water": "水"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

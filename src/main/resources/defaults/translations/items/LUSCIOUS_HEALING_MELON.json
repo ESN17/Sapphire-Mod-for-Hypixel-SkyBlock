@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "LUSCIOUS_HEALING_MELON",
+  "_original_name": "Luscious Healing Melon",
+  "_original_lore": [
+    "Ability: Succulence  RIGHT CLICK",
+    "Take a bite and heal 12❤.",
+    "Mana Cost: 50",
+    "",
+    "☠ Requires Vampire Slayer 4.",
+    "LEGENDARY"
+  ],
+  "name": "甘美治疗西瓜",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Succulence  RIGHT CLICK"
+      ],
+      "translation": "技能: 多汁 右键点击",
+      "styleMappings": {
+        "Ability: Succulence": "技能: 多汁",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Take a bite and heal {{N0}}❤."
+      ],
+      "translation": "咬一口并治疗 {{N0}}❤.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Vampire Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要吸血鬼杀手 {{N0}}.",
+      "styleMappings": {
+        "Vampire Slayer": "吸血鬼杀手",
+        "Requires": "需要",
+        "Slayer": "杀手",
+        "Vampire": "吸血鬼"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Melon": "西瓜"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

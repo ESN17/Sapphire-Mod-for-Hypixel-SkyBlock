@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": "MAGMA_CUBE;1",
+  "_original_name": "[Lvl {LVL}] Magma Cube",
+  "_original_lore": [
+    "Combat Pet",
+    "",
+    "Health: +{HEALTH}",
+    "Defense: +{DEFENSE}",
+    "Strength: +{STRENGTH}",
+    "",
+    "Slimy Minions",
+    "Slime and Magma Cube minions work",
+    "{0}% faster while on your island",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "UNCOMMON PET"
+  ],
+  "name": "[等级 {LVL}] 岩浆怪",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combat Pet"
+      ],
+      "translation": "战斗宠物",
+      "styleMappings": {
+        "Combat Pet": "战斗宠物",
+        "Combat": "战斗",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Health: +{{N0}}"
+      ],
+      "translation": "生命值: +{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: +{{N0}}"
+      ],
+      "translation": "防御力: +{{N0}}",
+      "styleMappings": {
+        "Defense": "防御力"
+      }
+    },
+    {
+      "source": [
+        "Strength: +{{N0}}"
+      ],
+      "translation": "力量: +{{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Slimy Minions"
+      ],
+      "translation": "黏滑仆从",
+      "styleMappings": {
+        "Slimy Minions": "黏滑仆从",
+        "Minions": "仆从"
+      }
+    },
+    {
+      "source": [
+        "Slime and Magma Cube minions work",
+        "{{N0}}% faster while on your island"
+      ],
+      "translation": "在你岛上时,史莱姆和岩浆怪仆从的工作速度提高 {{N0}}%",
+      "styleMappings": {
+        "Magma Cube": "岩浆怪",
+        "minions": "仆从",
+        "work": "工作"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON PET"
+      ],
+      "translation": "罕见 宠物",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Magma Cube": "岩浆怪",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

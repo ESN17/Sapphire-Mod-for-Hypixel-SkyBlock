@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "DUNGEON_DECOY",
+  "_original_name": "Decoy",
+  "_original_lore": [
+    "Runs around and draws attention",
+    "from nearby mobs, very handy for",
+    "creating a distraction!",
+    "",
+    "Dungeons only!",
+    "",
+    "UNCOMMON DUNGEON ITEM"
+  ],
+  "name": "诱饵",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Runs around and draws attention",
+        "from nearby mobs, very handy for",
+        "creating a distraction!"
+      ],
+      "translation": "四处奔跑并吸引附近怪物的注意力,非常适合制造干扰!",
+      "styleMappings": {
+        "mobs": "怪物"
+      }
+    },
+    {
+      "source": [
+        "Dungeons only!"
+      ],
+      "translation": "仅限地牢使用!",
+      "styleMappings": {
+        "Dungeons": "地牢"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON DUNGEON ITEM"
+      ],
+      "translation": "罕见 地牢 物品",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

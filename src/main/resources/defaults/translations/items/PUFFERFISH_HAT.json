@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "PUFFERFISH_HAT",
+  "_original_name": "Pufferfish Hat",
+  "_original_lore": [
+    "Health: +20",
+    "Strength: +10",
+    "",
+    "Ability: Spiky ",
+    "While wearing, your attacks have a",
+    "chance to deal 10 damage plus 20%",
+    "of your Strength to nearby enemies!",
+    "",
+    "This item can be reforged!",
+    "COMMON HELMET"
+  ],
+  "name": "河豚帽",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Ability: Spiky "
+      ],
+      "translation": "技能: 尖刺 ",
+      "styleMappings": {
+        "Ability": "技能",
+        "Spiky": "尖刺"
+      }
+    },
+    {
+      "source": [
+        "While wearing, your attacks have a",
+        "chance to deal {{N0}} damage plus {{N1}}",
+        "of your Strength to nearby enemies!"
+      ],
+      "translation": "穿戴时,你的攻击有概率对附近敌人造成 {{N0}} 伤害加上 {{N1}} 的力量伤害!",
+      "styleMappings": {
+        "{{N0}} damage plus {{N1}}": "{{N0}} 伤害加上 {{N1}}",
+        "Strength": "力量",
+        "damage": "伤害",
+        "deal": "造成",
+        "chance": "概率",
+        "chance to": "概率",
+        "enemies": "敌人"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "COMMON HELMET"
+      ],
+      "translation": "普通头盔",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Pufferfish Hat": "河豚帽",
+    "Pufferfish": "河豚"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

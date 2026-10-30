@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "GLOSSY_GEMSTONE",
+  "_original_name": "Glossy Gemstone",
+  "_original_lore": [
+    "Drops rarely from Gemstones while",
+    "Mayor Cole is in office.",
+    "",
+    "You can see thousands of glittering",
+    "reflections as you stare into its",
+    "intricate patterns. Maybe you should",
+    "stop gazing and keep mining...",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "EPIC"
+  ],
+  "name": "光泽宝石",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Drops rarely from Gemstones while",
+        "Mayor Cole is in office."
+      ],
+      "translation": "在 Cole 市长任职期间,有较低概率从宝石中掉落.",
+      "styleMappings": {
+        "Mayor Cole": "Cole 市长",
+        "Gemstones": "宝石",
+        "Mayor": "市长"
+      }
+    },
+    {
+      "source": [
+        "You can see thousands of glittering",
+        "reflections as you stare into its",
+        "intricate patterns. Maybe you should",
+        "stop gazing and keep mining..."
+      ],
+      "translation": "当你凝视其错综复杂的纹路时,你能看到成千上万闪烁的倒影.也许你该停止凝视,继续挖矿了...",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    },
+    {
+      "source": [
+        "Drops rarely from Gemstones while",
+        "Mayor Cole's Mining Fiesta is active."
+      ],
+      "translation": "在 Cole 市长的采矿狂欢期间,挖掘宝石有较低概率掉落.",
+      "styleMappings": {
+        "Gemstones": "宝石",
+        "Mayor Cole's": "Cole 市长的",
+        "Mining Fiesta": "采矿狂欢",
+        "Mayor": "市长",
+        "Mining": "采矿",
+        "Mayor Cole": "Cole 市长"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Gemstone": "宝石"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

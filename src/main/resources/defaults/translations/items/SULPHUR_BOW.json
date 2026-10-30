@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "id": "SULPHUR_BOW",
+  "_original_name": "Sulphur Bow",
+  "_original_lore": [
+    "Damage: +200",
+    "Strength: +100",
+    "Gemstones: [⚔]",
+    "",
+    "Ability: Arrow Infusion  ON SHOOT",
+    "Consumes 1 Sulphur from the",
+    "Inventory or Quiver to double the",
+    "damage per shot.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Combat Skill 22.",
+    "EPIC BOW"
+  ],
+  "name": "硫磺弓",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [⚔]"
+      ],
+      "translation": "宝石: [⚔]",
+      "styleMappings": {
+        "Gemstones": "宝石",
+        "[": "[",
+        "Gemstones:": "宝石:"
+      }
+    },
+    {
+      "source": [
+        "Ability: Arrow Infusion  ON SHOOT"
+      ],
+      "translation": "技能: 箭矢灌注  射击时",
+      "styleMappings": {
+        "Ability: Arrow Infusion": "技能: 箭矢灌注",
+        "ON SHOOT": "射击时",
+        "Ability": "技能"
+      }
+    },
+    {
+      "source": [
+        "Consumes {{N0}} Sulphur from the",
+        "Inventory or Quiver to double the",
+        "damage per shot."
+      ],
+      "translation": "从物品栏或箭袋中消耗 {{N0}} 硫磺,使每发伤害翻倍.",
+      "styleMappings": {
+        "Inventory": "物品栏",
+        "Sulphur": "硫磺",
+        "Quiver": "箭袋",
+        "damage": "伤害",
+        "double": "翻倍",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC BOW"
+      ],
+      "translation": "史诗 弓",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Bow": "弓",
+    "Sulphur": "硫磺"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "id": "MELON_DICER_2",
+  "_original_name": "Melon Dicer Mk. II",
+  "_original_lore": [
+    "Farming Tool",
+    "",
+    "Melon Slice Fortune: +4",
+    "Farming Wisdom: +1",
+    "",
+    "Same as the Melon Dicer Mk. I, just",
+    "better!",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "Level 1 -> 2   (0/1k)",
+    "                          0%",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Farming Skill 15.",
+    "❣ Requires Garden Level 6.",
+    "RARE FARMING TOOL"
+  ],
+  "name": "西瓜切割者 II",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Farming Tool"
+      ],
+      "translation": "农具",
+      "styleMappings": {
+        "Farming Tool": "农具"
+      }
+    },
+    {
+      "source": [
+        "Melon Slice Fortune: {{N0}}"
+      ],
+      "translation": "西瓜片幸运:{{N0}}",
+      "styleMappings": {
+        "Melon Slice Fortune": "西瓜片幸运",
+        "Fortune": "幸运",
+        "Melon": "西瓜",
+        "Melon Slice": "西瓜片"
+      }
+    },
+    {
+      "source": [
+        "Farming Wisdom: {{N0}}"
+      ],
+      "translation": "农业智慧: {{N0}}",
+      "styleMappings": {
+        "Farming Wisdom": "农业智慧",
+        "Wisdom": "智慧",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "Same as the Melon Dicer Mk. I, just",
+        "better!"
+      ],
+      "translation": "与西瓜切割者 I 相同,只是更好!",
+      "styleMappings": {
+        "Melon": "西瓜",
+        "I": "I"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Level {{N0}} -> {{N1}}   ({{N2}}/{{N3}}k)",
+        "                          {{N4}}"
+      ],
+      "translation": "等级 {{N0}} -> {{N1}}   ({{N2}}/{{N3}}千)                           {{N4}}",
+      "styleMappings": {
+        "Level": "等级",
+        "{{N3}}k": "{{N3}}千"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Farming Skill {{N0}}."
+      ],
+      "translation": "❣ 需要农业技能 {{N0}}.",
+      "styleMappings": {
+        "Farming Skill": "农业技能",
+        "Requires": "需要",
+        "Farming": "农业",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Garden Level {{N0}}."
+      ],
+      "translation": "❣ 需要花园等级 {{N0}}.",
+      "styleMappings": {
+        "Garden Level": "花园等级",
+        "Requires": "需要",
+        "Garden": "花园"
+      }
+    },
+    {
+      "source": [
+        "RARE FARMING TOOL"
+      ],
+      "translation": "稀有农业工具",
+      "styleMappings": {
+        "RARE FARMING TOOL": "稀有农业工具",
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Melon": "西瓜",
+    "II": "II"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

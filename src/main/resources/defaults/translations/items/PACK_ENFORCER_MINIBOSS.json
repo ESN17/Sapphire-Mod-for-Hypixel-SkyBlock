@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "PACK_ENFORCER_MINIBOSS",
+  "_original_name": "Pack Enforcer (Miniboss)",
+  "_original_lore": [
+    "The Pack Enforcer is a Sven Packmaster Miniboss",
+    "that has a small chance to be spawned upon killing",
+    "a Wolf During a Sven Packmaster Tier III Quest.",
+    "",
+    "❤ Health: 45,000"
+  ],
+  "name": "狼群执法者 (小首领)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Pack Enforcer is a Sven Packmaster Miniboss",
+        "that has a small chance to be spawned upon killing",
+        "a Wolf During a Sven Packmaster Tier III Quest."
+      ],
+      "translation": "狼群执法者是斯文狼王的小首领,在斯文狼王 III 级任务期间击杀狼时有小概率生成.",
+      "styleMappings": {
+        "Sven Packmaster": "斯文狼王",
+        "chance to": "概率",
+        "Miniboss": "小首领",
+        "III": "III",
+        "chance": "概率",
+        "Wolf": "狼"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Miniboss)": "(小首领)",
+    "Miniboss": "小首领"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

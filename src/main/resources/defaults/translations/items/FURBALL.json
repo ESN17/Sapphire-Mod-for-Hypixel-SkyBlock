@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "FURBALL",
+  "_original_name": "Furball",
+  "_original_lore": [
+    "Combine x9 of this item at the",
+    "Thaumaturgist in the Hub to unlock the",
+    "Itchy power.",
+    "",
+    "At 250 Accessory Power:",
+    "+69.42 Strength",
+    "+80.99 Crit Damage",
+    "+20.83 Attack Speed",
+    "+5.79 Speed",
+    "",
+    "Unique Power Bonus:",
+    "+15 Strength",
+    "+15 Crit Damage",
+    "",
+    "❣ Requires Combat Skill 20.",
+    "",
+    "RARE POWER STONE"
+  ],
+  "name": "毛球",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combine x{{N0}} of this item at the",
+        "Thaumaturgist in the Hub to unlock the",
+        "Itchy power."
+      ],
+      "translation": "在中心岛的奇术师居所处合成 x{{N0}} 个此物品以解锁瘙痒之力.",
+      "styleMappings": {
+        "Thaumaturgist": "奇术师居所",
+        "Itchy": "瘙痒",
+        "item": "物品",
+        "Hub": "中心岛",
+        "to unlock the": "以解锁",
+        "Combine": "合成",
+        "in the": "的",
+        "x{{N0}}": "{{N0}} 个"
+      }
+    },
+    {
+      "source": [
+        "At {{N0}} Accessory Power:"
+      ],
+      "translation": "在 {{N0}} 饰品能量时:",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "{{N0}} Strength",
+        "{{N1}} Crit Damage"
+      ],
+      "translation": "{{N0}} 力量 {{N1}} 暴击伤害",
+      "styleMappings": {
+        " Crit Damage": " 暴击伤害",
+        " Strength": " 力量",
+        "Crit Damage": "暴击伤害",
+        "Strength": "力量",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "{{N0}} Attack Speed"
+      ],
+      "translation": "{{N0}} 攻击速度",
+      "styleMappings": {
+        " Attack Speed": " 攻击速度",
+        "Speed": "速度",
+        "Attack Speed": "攻击速度"
+      }
+    },
+    {
+      "source": [
+        "{{N0}} Speed"
+      ],
+      "translation": "{{N0}} 速度",
+      "styleMappings": {
+        " Speed": " 速度",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Unique Power Bonus:"
+      ],
+      "translation": "独特能量加成:",
+      "styleMappings": {
+        "Unique Power Bonus": "独特能量加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "RARE POWER STONE"
+      ],
+      "translation": "稀有能量石",
+      "styleMappings": {
+        "RARE POWER STONE": "稀有能量石",
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "SPRAY_CAN",
+  "_original_name": "Spray Can",
+  "_original_lore": [
+    "Selected Spray: NONE",
+    "",
+    "Right-click on any wall of your",
+    "choice to spray.",
+    "",
+    "Left-click to access the Ink Manager",
+    "and Spray Selector.",
+    "",
+    "COMMON"
+  ],
+  "name": "喷漆罐",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Selected Spray: NONE"
+      ],
+      "translation": "已选喷漆: 无",
+      "styleMappings": {
+        "Selected Spray": "已选喷漆"
+      }
+    },
+    {
+      "source": [
+        "Right-click on any wall of your"
+      ],
+      "translation": "右键点击任意墙面",
+      "styleMappings": {
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "choice to spray."
+      ],
+      "translation": "进行喷涂.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Left-click to access the Ink Manager",
+        "and Spray Selector."
+      ],
+      "translation": "左键点击打开墨水管理器和喷漆选择器.",
+      "styleMappings": {
+        "Left-click": "左键点击",
+        "Ink Manager": "墨水管理器",
+        "Spray Selector": "喷漆选择器"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

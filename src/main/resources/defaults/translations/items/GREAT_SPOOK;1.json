@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": "GREAT_SPOOK;1",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Great Spook I",
+    "Grants +1 Fear on Great Spook",
+    "Armor.",
+    "",
+    "Source:",
+    " - Tyashoi Alchemist (I)",
+    "",
+    "Applied To:",
+    " - Armor",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Great Spook I"
+      ],
+      "translation": "大万圣节 I",
+      "styleMappings": {
+        "Great Spook": "大万圣节"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Fear on Great Spook",
+        "Armor."
+      ],
+      "translation": "为大万圣节盔甲提供 {{N0}} 恐惧.",
+      "styleMappings": {
+        "Great Spook Armor": "大万圣节盔甲",
+        "Grants": "提供",
+        "Fear": "恐惧",
+        "Great Spook": "大万圣节",
+        "Armor": "盔甲"
+      }
+    },
+    {
+      "source": [
+        "Source:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Tyashoi Alchemist (I)"
+      ],
+      "translation": " - Tyashoi Alchemist (I)",
+      "styleMappings": {
+        "Alchemist": "Alchemist",
+        "Tyashoi": "Tyashoi",
+        "I": "I"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Armor"
+      ],
+      "translation": " - 盔甲",
+      "styleMappings": {
+        "Armor": "盔甲"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

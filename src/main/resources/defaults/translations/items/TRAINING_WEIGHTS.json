@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "TRAINING_WEIGHTS",
+  "_original_name": "Training Weights",
+  "_original_lore": [
+    "The longer you hold this in your",
+    "inventory, the stronger you'll",
+    "become for 2 minutes after removing",
+    "it from your inventory! Max +50.",
+    "",
+    "Time Held: 0 Minutes",
+    "Strength Gain: +1",
+    "",
+    "UNCOMMON DUNGEON ITEM"
+  ],
+  "name": "训练负重",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The longer you hold this in your",
+        "inventory, the stronger you'll",
+        "become for {{N0}} minutes after removing",
+        "it from your inventory! Max {{N1}}."
+      ],
+      "translation": "此物品在你的物品栏中存放的时间越长,将其移出物品栏后你将在 {{N0}} 分钟内变得越强!上限 {{N1}}.",
+      "styleMappings": {
+        "minutes": "分钟",
+        "Max": "上限"
+      }
+    },
+    {
+      "source": [
+        "Time Held: {{N0}} Minutes"
+      ],
+      "translation": "持有时间: {{N0}} 分钟",
+      "styleMappings": {
+        "Minutes": "分钟"
+      }
+    },
+    {
+      "source": [
+        "Strength Gain: {{N0}}"
+      ],
+      "translation": "力量增益: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON DUNGEON ITEM"
+      ],
+      "translation": "罕见 地牢 物品",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

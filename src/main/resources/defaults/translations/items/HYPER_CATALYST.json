@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "HYPER_CATALYST",
+  "_original_name": "Hyper Catalyst",
+  "_original_lore": [
+    "Minion Fuel",
+    "",
+    "When in a minion, this increases the",
+    "number of resources created by 4x",
+    "for 6 hours!",
+    "",
+    "EPIC"
+  ],
+  "name": "超载催化剂",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Minion Fuel"
+      ],
+      "translation": "仆从燃料",
+      "styleMappings": {
+        "Minion Fuel": "仆从燃料",
+        "Fuel": "燃料",
+        "Minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "When in a minion, this increases the",
+        "number of resources created by {{N0}}x",
+        "for {{N1}} hours!"
+      ],
+      "translation": "放入仆从后,可在 {{N1}} 小时内使其产出的资源数量增加 {{N0}} 倍!",
+      "styleMappings": {
+        "minion": "仆从",
+        "hours": "小时",
+        "{{N0}}x": "{{N0}} 倍"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "id": "SHRIVELED_CORNEA",
+  "_original_name": "Shriveled Cornea",
+  "_original_lore": [
+    "Reforge Stone",
+    "Combinable in Anvil",
+    "",
+    "Applies the Bloodshot reforge when",
+    "combined with a Belt.",
+    "",
+    "Grants the following stats that scale",
+    "with the item's rarity:",
+    "  Strength",
+    "  Crit Chance",
+    "  Crit Damage",
+    "",
+    "Bloodshot Bonus",
+    "When killing an enemy, you have a",
+    "2.5% chance to cocoon them!",
+    "Cocooned enemies will quickly hatch,",
+    "and can be killed again.",
+    "(Cannot trigger in Dungeons, Kuudra,",
+    "or on Bosses).",
+    "",
+    "Right-click to view rarity scaling!",
+    "",
+    "❣ Requires Mining Skill 26.",
+    "",
+    "LEGENDARY REFORGE STONE"
+  ],
+  "name": "干瘪角膜",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Reforge Stone",
+        "Combinable in Anvil"
+      ],
+      "translation": "洗练石 可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Reforge Stone": "洗练石",
+        "Anvil": "铁砧",
+        "Reforge": "洗练"
+      }
+    },
+    {
+      "source": [
+        "Applies the Bloodshot reforge when",
+        "combined with a Belt."
+      ],
+      "translation": "与腰带结合时应用血丝洗练.",
+      "styleMappings": {
+        "Bloodshot": "血丝",
+        "Belt": "腰带",
+        "reforge": "洗练",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Grants the following stats that scale"
+      ],
+      "translation": "提供以下随物品稀有度提升的属性:",
+      "styleMappings": {
+        "Grants": "提供",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "with the item's rarity:"
+      ],
+      "translation": "物品稀有度提升的属性:",
+      "styleMappings": {
+        "item": "物品",
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "  Strength",
+        "  Crit Chance",
+        "  Crit Damage"
+      ],
+      "translation": "    力量    暴击几率   暴击伤害",
+      "styleMappings": {
+        " Crit Damage": " 暴击伤害",
+        "Crit Chance": "暴击几率",
+        "Crit Damage": "暴击伤害",
+        "Strength": "力量",
+        "Damage": "伤害",
+        " Crit Chance": " 暴击几率"
+      }
+    },
+    {
+      "source": [
+        "Bloodshot Bonus",
+        "When killing an enemy, you have a",
+        "{{N0}} chance to cocoon them!"
+      ],
+      "translation": "血丝加成 击杀敌人时,你有 {{N0}} 的几率将其结茧!",
+      "styleMappings": {
+        "Bloodshot Bonus": "血丝加成",
+        "chance": "几率",
+        "Bonus": "加成",
+        "chance to": "几率",
+        "Bloodshot": "血丝"
+      }
+    },
+    {
+      "source": [
+        "Cocooned enemies will quickly hatch,",
+        "and can be killed again."
+      ],
+      "translation": "被结茧的敌人会迅速孵化,并可再次被击杀.",
+      "styleMappings": {
+        "enemies": "敌人"
+      }
+    },
+    {
+      "source": [
+        "(Cannot trigger in Dungeons, Kuudra,",
+        "or on Bosses)."
+      ],
+      "translation": "(无法在地牢、库德拉或首领身上触发).",
+      "styleMappings": {
+        "Dungeons": "地牢",
+        "Kuudra": "库德拉"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view rarity scaling!"
+      ],
+      "translation": "右键查看各稀有度的属性!",
+      "styleMappings": {
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Mining Skill {{N0}}."
+      ],
+      "translation": "❣ 需要采矿技能 {{N0}}.",
+      "styleMappings": {
+        "Mining Skill": "采矿技能",
+        "Requires": "需要",
+        "Mining": "采矿",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY REFORGE STONE"
+      ],
+      "translation": "传说洗练石",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

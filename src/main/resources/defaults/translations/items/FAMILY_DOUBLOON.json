@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "FAMILY_DOUBLOON",
+  "_original_name": "Doubloon of the Family",
+  "_original_lore": [
+    "Just sell it, it's easy coins!",
+    "",
+    "A precious trinket from a powerful",
+    "member of The Family who doesn't",
+    "really need it anymore....",
+    "",
+    "X Rift-Transferable X",
+    "RARE"
+  ],
+  "name": "家族达布隆金币",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Just sell it, it's easy coins!"
+      ],
+      "translation": "直接卖掉吧,轻松赚金币!",
+      "styleMappings": {
+        "coins": "金币"
+      }
+    },
+    {
+      "source": [
+        "A precious trinket from a powerful",
+        "member of The Family who doesn't",
+        "really need it anymore...."
+      ],
+      "translation": "来自家族中一位权势成员的小饰品,他其实已经不再需要它了....",
+      "styleMappings": {
+        "The Family": "家族"
+      }
+    },
+    {
+      "source": [
+        "X Rift-Transferable X"
+      ],
+      "translation": "X 可转移至裂隙 X",
+      "styleMappings": {
+        "Rift-Transferable": "可转移至裂隙",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

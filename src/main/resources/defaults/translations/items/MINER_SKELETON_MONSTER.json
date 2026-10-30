@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "MINER_SKELETON_MONSTER",
+  "_original_name": "Miner Skeleton (Monster)",
+  "_original_lore": [
+    "These skeletons have crafted",
+    "gear from the diamonds around",
+    "them - resulting in a look both",
+    "fashionable and protective.",
+    "",
+    "Mob Type: 🦴 Skeletal",
+    "❤ Health: 250 - 300"
+  ],
+  "name": "矿工骷髅 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "These skeletons have crafted",
+        "gear from the diamonds around",
+        "them - resulting in a look both",
+        "fashionable and protective."
+      ],
+      "translation": "这些骷髅用周围的钻石打造了装备 - 既时尚又具有防护性.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Mob Type: 🦴 Skeletal"
+      ],
+      "translation": "生物类型: 🦴 骷髅",
+      "styleMappings": {
+        "Skeletal": "骷髅",
+        "Mob Type": "生物类型"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}} - {{N1}}"
+      ],
+      "translation": "❤ 生命值: {{N0}} - {{N1}}",
+      "styleMappings": {
+        "Health": "生命值",
+        "-": "-"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Skeleton": "骷髅",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

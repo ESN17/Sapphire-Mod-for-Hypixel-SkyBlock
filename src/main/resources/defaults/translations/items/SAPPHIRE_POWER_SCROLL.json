@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "id": "SAPPHIRE_POWER_SCROLL",
+  "_original_name": "Sapphire Power Scroll",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Gain +5 Mana when using your",
+    "RIGHT CLICK Item Ability. Has a 5s",
+    "cooldown.",
+    "",
+    "Can be combined with any item with a RIGHT",
+    "CLICK Item Ability at an anvil.",
+    "",
+    "EPIC"
+  ],
+  "name": "蓝宝石能量卷轴",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}} Mana when using your",
+        "RIGHT CLICK Item Ability. Has a {{N1}}s",
+        "cooldown."
+      ],
+      "translation": "使用右键点击物品能力时获得 {{N0}} 法力.冷却时间 {{N1}} 秒.",
+      "styleMappings": {
+        "Item Ability": "物品能力",
+        "RIGHT CLICK": "右键点击",
+        "cooldown": "冷却",
+        "Gain": "获得",
+        "Mana": "法力",
+        "": "",
+        "{{N1}}s": "{{N1}} 秒",
+        "Ability": "能力",
+        "Item": "物品",
+        "CLICK": "点击",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Can be combined with any item with a RIGHT",
+        "CLICK Item Ability at an anvil."
+      ],
+      "translation": "可在铁砧中与任何拥有右键点击物品能力的物品合成.",
+      "styleMappings": {
+        "item": "物品",
+        "RIGHT CLICK": "右键点击",
+        "Item Ability": "物品能力",
+        "anvil": "铁砧",
+        "Ability": "能力",
+        "Item": "物品",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sapphire": "蓝宝石"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

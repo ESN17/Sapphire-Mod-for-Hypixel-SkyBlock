@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "CINDERBAT_MONSTER",
+  "_original_name": "Cinderbat (Monster)",
+  "_original_lore": [
+    "❤ Health: 5.000.000"
+  ],
+  "name": "烬蝠 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "❤ Health: {{N0}}.{{N1}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}.{{N1}}",
+      "styleMappings": {}
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "RUNEBOOK",
+  "_original_name": "Runebook",
+  "_original_lore": [
+    "Accessory Power: +3",
+    "",
+    "Tracks a counter for each Runic",
+    "mob killed while in your accessory",
+    "bag or inventory.",
+    "",
+    "Increase rarity and gain +1☯",
+    "Runecrafting Wisdom for each digit",
+    "on the counter. (Max 4 digits)",
+    "",
+    "Counter: None yet!",
+    "",
+    "Works while in Accessory Bag!",
+    "COMMON ACCESSORY"
+  ],
+  "name": "符文之书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Accessory Power: {{N0}}"
+      ],
+      "translation": "饰品能量: {{N0}}",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "Tracks a counter for each Runic",
+        "mob killed while in your accessory",
+        "bag or inventory."
+      ],
+      "translation": "当位于饰品袋或物品栏中时,记录击杀的每种符文怪物的数量.",
+      "styleMappings": {
+        "Runic": "符文"
+      }
+    },
+    {
+      "source": [
+        "Increase rarity and gain {{N0}}☯",
+        "Runecrafting Wisdom for each digit",
+        "on the counter. (Max {{N1}} digits)"
+      ],
+      "translation": "提升稀有度,并根据计数上的每位数字获得 {{N0}}☯ 符文制作智慧.(最多 {{N1}} 位数字)",
+      "styleMappings": {
+        "Runecrafting Wisdom": "符文制作智慧",
+        "digits)": "位数字)",
+        "rarity": "稀有度",
+        "(Max": "(最多",
+        "Max": "最多",
+        "for": "获得",
+        "Wisdom": "智慧",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "Counter: None yet!"
+      ],
+      "translation": "计数器: 暂无!",
+      "styleMappings": {
+        "None yet!": "暂无!",
+        "Counter": "计数器"
+      }
+    },
+    {
+      "source": [
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "放在饰品袋中即可生效!",
+      "styleMappings": {
+        "Accessory Bag": "饰品袋",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "COMMON ACCESSORY"
+      ],
+      "translation": "普通饰品",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

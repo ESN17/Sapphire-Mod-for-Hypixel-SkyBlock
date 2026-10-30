@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_COLD_RESISTANCE;4",
+  "_original_name": "Cold Resistance IV Potion",
+  "_original_lore": [
+    "",
+    "Cold Resistance IV (3:00)",
+    "Gain +10 Cold Resistance.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "抗寒 IV 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Cold Resistance IV ({{N0}}:{{N1}})"
+      ],
+      "translation": "抗寒 IV ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Cold Resistance IV": "抗寒 IV",
+        "Cold Resistance": "抗寒"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}} Cold Resistance."
+      ],
+      "translation": "获得 {{N0}} 抗寒.",
+      "styleMappings": {
+        "Gain": "获得",
+        "Cold Resistance": "抗寒"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Cold Resistance IV": "抗寒 IV",
+    "Cold Resistance": "抗寒"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

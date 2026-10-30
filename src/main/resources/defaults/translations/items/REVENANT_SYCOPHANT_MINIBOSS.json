@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "REVENANT_SYCOPHANT_MINIBOSS",
+  "_original_name": "Revenant Sycophant (Miniboss)",
+  "_original_lore": [
+    "The Revenant Sycophant is a Revenant Horror/Zombie",
+    "Slayer Miniboss that has a small chance to be spawned",
+    "when a player with an active Revenant Horror Tier III+",
+    "Quest kills a Zombie.",
+    "",
+    "❤ Health: 24,000"
+  ],
+  "name": "亡魂谄媚者 (小首领)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Revenant Sycophant is a Revenant Horror/Zombie",
+        "Slayer Miniboss that has a small chance to be spawned",
+        "when a player with an active Revenant Horror Tier III+",
+        "Quest kills a Zombie."
+      ],
+      "translation": "亡魂谄媚者是一种亡魂恐魔/僵尸杀手小首领,当拥有激活的亡魂恐魔 III+ 阶任务的玩家击杀僵尸时,有小概率生成.",
+      "styleMappings": {
+        "Revenant Horror/Zombie Slayer Miniboss": "亡魂恐魔/僵尸杀手小首领",
+        "Revenant Horror Tier III": "亡魂恐魔 III",
+        "chance to": "概率",
+        "Zombie": "僵尸",
+        "player": "玩家",
+        "kills": "击杀",
+        "III": "III",
+        "Revenant Horror": "亡魂恐魔",
+        "Miniboss": "小首领",
+        "chance": "概率",
+        "Slayer": "杀手",
+        "Zombie Slayer": "僵尸杀手",
+        "when": "时",
+        "Revenant Horror/Zombie Slayer": "亡魂恐魔/僵尸杀手",
+        "Slayer Miniboss": "杀手小首领"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Miniboss)": "(小首领)",
+    "Miniboss": "小首领"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

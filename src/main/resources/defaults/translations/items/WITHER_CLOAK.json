@@ -1,0 +1,243 @@
+{
+  "schemaVersion": 1,
+  "id": "WITHER_CLOAK",
+  "_original_name": "Wither Cloak Sword",
+  "_original_lore": [
+    "Gear Score: 875",
+    "Defense: +250",
+    "Damage: +190",
+    "Strength: +135",
+    "",
+    "Ability: Creeper Veil  RIGHT CLICK",
+    "Spawns a layered veil that negates",
+    "damage for 10s, as follows:",
+    "",
+    "➤ Lose a layer on hit, consuming",
+    "30 Vitality and block up to 1,000",
+    "damage.",
+    "➤ The damage blocked scales with",
+    "your Dungeon Stat Boost while in The",
+    "Catacombs.",
+    "➤ When the damage exceeds a",
+    "layer's limit, another layer is",
+    "consumed, until all damage is",
+    "accounted for.",
+    "➤ When you run out of  Vitality,",
+    "consume all  Vitality and take slight",
+    "knockback.",
+    "➤ You cannot attack or regenerate",
+    " Vitality while the veil is up.",
+    "",
+    "RIGHT CLICK while active to",
+    "deactivate. Cooldown is halved on",
+    "deactivation.",
+    "Vitality Cost: 30",
+    "Cooldown: 10s",
+    "",
+    "This item can be reforged!",
+    "❣ Requires The Catacombs Floor VII Completion.",
+    "EPIC DUNGEON SWORD"
+  ],
+  "name": "凋灵斗篷剑",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Ability: Creeper Veil  RIGHT CLICK"
+      ],
+      "translation": "技能: 苦力怕帷幕  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "Creeper": "苦力怕",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Spawns a layered veil that negates"
+      ],
+      "translation": "生成一层层帷幕,可抵消",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "damage for {{N0}}s, as follows:"
+      ],
+      "translation": "{{N0}}秒内受到的伤害,具体如下:",
+      "styleMappings": {
+        "damage": "伤害",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "➤ Lose a layer on hit, consuming",
+        "{{N0}} Vitality and block up to {{N1}}",
+        "damage."
+      ],
+      "translation": "➤ 被击中时失去一层,消耗 {{N0}} 生命值并格挡最多 {{N1}} 点伤害.",
+      "styleMappings": {
+        " Vitality": " 生命值",
+        "damage": "伤害",
+        "block": "格挡",
+        "Vitality": "生命值",
+        "hit": "击中"
+      }
+    },
+    {
+      "source": [
+        "➤ The damage blocked scales with",
+        "your Dungeon Stat Boost while in The",
+        "Catacombs."
+      ],
+      "translation": "➤ 在地牢中时,格挡的伤害会根据你的地牢属性加成提升.",
+      "styleMappings": {
+        "Dungeon Stat Boost": "地牢属性加成",
+        "The Catacombs": "地牢",
+        "damage": "伤害",
+        "Catacombs": "地牢",
+        "Dungeon": "地牢"
+      }
+    },
+    {
+      "source": [
+        "➤ When the damage exceeds a",
+        "layer's limit, another layer is",
+        "consumed, until all damage is",
+        "accounted for."
+      ],
+      "translation": "➤ 当伤害超过一层的上限时,会消耗另一层,直到所有伤害都被抵消.",
+      "styleMappings": {
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "➤ When you run out of  Vitality,",
+        "consume all  Vitality and take slight",
+        "knockback."
+      ],
+      "translation": "➤ 当你的  生命值耗尽时,消耗所有  生命值并受到轻微击退.",
+      "styleMappings": {
+        " Vitality": " 生命值",
+        "knockback": "击退"
+      }
+    },
+    {
+      "source": [
+        "➤ You cannot attack or regenerate",
+        " Vitality while the veil is up."
+      ],
+      "translation": "➤ 帷幕存在期间,你无法攻击或恢复  生命值.",
+      "styleMappings": {
+        " Vitality": " 生命值",
+        "Vitality": "生命值"
+      }
+    },
+    {
+      "source": [
+        "RIGHT CLICK while active to",
+        "deactivate. Cooldown is halved on",
+        "deactivation."
+      ],
+      "translation": "激活时右键点击可解除.解除时冷却时间减半.",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Cooldown": "冷却",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Vitality Cost: {{N0}}"
+      ],
+      "translation": "活力消耗:{{N0}}",
+      "styleMappings": {
+        "Vitality": "活力"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires The Catacombs Floor VII Completion."
+      ],
+      "translation": "❣ 需要通关地牢第 VII 层.",
+      "styleMappings": {
+        "The Catacombs": "地牢",
+        "Requires": "需要",
+        "Catacombs": "地牢"
+      }
+    },
+    {
+      "source": [
+        "EPIC DUNGEON SWORD"
+      ],
+      "translation": "史诗 地牢 剑",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Wither": "凋灵",
+    "Sword": "剑"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

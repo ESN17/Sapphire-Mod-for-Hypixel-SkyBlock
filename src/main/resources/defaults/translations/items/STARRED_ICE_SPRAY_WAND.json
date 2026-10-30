@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "id": "STARRED_ICE_SPRAY_WAND",
+  "_original_name": " Ice Spray Wand",
+  "_original_lore": [
+    "Gear Score: 148",
+    "Damage: +60",
+    "Intelligence: +135",
+    "Gemstones: []",
+    "",
+    "Ability: Ice Spray  RIGHT CLICK",
+    "Produces a cone of ice in front of the caster",
+    "that deals 19,114.1 damage to mobs and",
+    "freezes them in place for 5 seconds! Frozen",
+    "mobs take 10% increased damage!",
+    "Mana Cost: 50",
+    "Cooldown: 5s",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Catacombs Skill 20.",
+    "RARE DUNGEON SWORD"
+  ],
+  "name": " 冰雾法杖",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: []"
+      ],
+      "translation": "宝石: []",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "": "",
+        "Gemstones": "宝石"
+      }
+    },
+    {
+      "source": [
+        "Ability: Ice Spray  RIGHT CLICK"
+      ],
+      "translation": "技能: 冰霜喷射  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "Ice": "冰",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Produces a cone of ice in front of the caster",
+        "that deals {{N0}} damage to mobs and",
+        "freezes them in place for {{N1}} seconds! Frozen",
+        "mobs take {{N2}} increased damage!"
+      ],
+      "translation": "在施法者前方生成一道冰锥,对怪物造成 {{N0}} 伤害,并将其冻结 {{N1}} 秒!被冻结的怪物受到的伤害提高 {{N2}}!",
+      "styleMappings": {
+        "that deals": "造成",
+        "seconds": "秒",
+        "damage": "伤害",
+        "mobs": "怪物"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Catacombs Skill {{N0}}."
+      ],
+      "translation": "❣ 需要地牢技能 {{N0}}.",
+      "styleMappings": {
+        "Requires": "需要",
+        "Catacombs": "地牢",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "RARE DUNGEON SWORD"
+      ],
+      "translation": "稀有 地牢剑",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Wand": "法杖",
+    "Ice": "冰"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

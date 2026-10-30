@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "REINDRAKE_SC",
+  "_original_name": "Reindrake (Sea Creature)",
+  "_original_lore": [
+    "The Reindrake is a Legendary mob unlocked from Fishing",
+    "level 35. It can only be fished on the Jerry Island.",
+    "",
+    "❤ Health: 2,500 (hits)",
+    "",
+    "MYTHIC"
+  ],
+  "name": "驯鹿龙 (海怪)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Reindrake is a Legendary mob unlocked from Fishing",
+        "level {{N0}}. It can only be fished on the Jerry Island."
+      ],
+      "translation": "复燃龙是一种从钓鱼等级 {{N0}} 解锁的传说怪物.只能在杰瑞岛钓到.",
+      "styleMappings": {
+        "Jerry Island": "杰瑞岛",
+        "Legendary": "传说",
+        "Fishing": "钓鱼",
+        "Jerry": "杰瑞"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}} (hits)"
+      ],
+      "translation": "❤ 生命值: {{N0}} (次)",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "MYTHIC"
+      ],
+      "translation": "神话",
+      "styleMappings": {
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sea Creature": "海怪",
+    "(Sea Creature)": "(海怪)"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

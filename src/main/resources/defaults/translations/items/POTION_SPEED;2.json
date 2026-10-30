@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_SPEED;2",
+  "_original_name": "Speed II Potion",
+  "_original_lore": [
+    "",
+    "Speed II (3:00)",
+    "Grants +10  Speed.",
+    "",
+    "COMMON"
+  ],
+  "name": "速度 II 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Speed II ({{N0}}:{{N1}})"
+      ],
+      "translation": "速度 II ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Speed II": "速度 II",
+        "II": "II",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}  Speed."
+      ],
+      "translation": "提供 {{N0}}  速度.",
+      "styleMappings": {
+        " Speed": " 速度",
+        "Grants": "提供",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Speed II Potion": "速度 II 药水",
+    "II": "II",
+    "Speed": "速度",
+    "Speed II": "速度 II"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "RANDOM_CENTURY_CAKE_PACK",
+  "_original_name": "Random Century Cake Bundle",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Consume to unwrap a randomized",
+    "assortment of 5 Century Cakes.",
+    "",
+    "Right-click to consume!",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "随机世纪蛋糕礼包",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Consume to unwrap a randomized",
+        "assortment of {{N0}} Century Cakes."
+      ],
+      "translation": "使用以拆开随机组合的 {{N0}} 个世纪蛋糕.",
+      "styleMappings": {
+        "Century Cakes": "世纪蛋糕"
+      }
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Century Cake": "世纪蛋糕"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

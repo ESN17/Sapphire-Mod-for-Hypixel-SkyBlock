@@ -1,0 +1,236 @@
+{
+  "schemaVersion": 1,
+  "id": "STARRED_ADAPTIVE_HELMET",
+  "_original_name": " Adaptive Helmet",
+  "_original_lore": [
+    "Gear Score: 313",
+    "Health: +120",
+    "Defense: +60",
+    "Strength: +15",
+    "Intelligence: +15",
+    "Gemstones: [⚔]",
+    "",
+    "Full Set Bonus: Efficient training (0/4)",
+    "Every 5 Catacombs levels, this armor piece",
+    "gains +2% stats.",
+    "",
+    "Grants additional bonuses based on your",
+    "selected dungeon class!",
+    "",
+    "Berserk: +20 Strength",
+    "Healer: +5 Mending, +40 Health",
+    "Mage: +50 Intelligence",
+    "Tank: +30 Defense and reduces damage",
+    "taken by 5% for each piece you have equipped",
+    "if you are hit by the same monster within 10",
+    "seconds.",
+    "Archer: +5 Crit Chance, +15 Crit Damage",
+    "",
+    "This item can be reforged!",
+    "❣ Requires The Catacombs Floor III Completion.",
+    "EPIC DUNGEON HELMET"
+  ],
+  "name": "  自适应头盔",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [⚔]"
+      ],
+      "translation": "宝石: [⚔]",
+      "styleMappings": {
+        "Gemstones": "宝石",
+        "[": "[",
+        "Gemstones:": "宝石:"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Efficient training ({{N0}}/{{N1}})"
+      ],
+      "translation": "全套加成: 高效训练 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Full Set Bonus: Efficient training": "全套加成: 高效训练",
+        "Full Set Bonus": "全套加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Every {{N0}} Catacombs levels, this armor piece",
+        "gains {{N1}} stats."
+      ],
+      "translation": "每 {{N0}} 级地牢等级, 该护甲部件获得 {{N1}} 属性.",
+      "styleMappings": {
+        "Catacombs": "地牢",
+        "stats": "属性",
+        "armor piece": "护甲"
+      }
+    },
+    {
+      "source": [
+        "Grants additional bonuses based on your",
+        "selected dungeon class!"
+      ],
+      "translation": "根据你选择的地牢职业提供额外加成!",
+      "styleMappings": {
+        "Grants": "提供",
+        "additional": "额外"
+      }
+    },
+    {
+      "source": [
+        "Berserk: {{N0}} Strength"
+      ],
+      "translation": "狂战士: {{N0}} 力量",
+      "styleMappings": {
+        " Strength": " 力量",
+        "Berserk": "狂战士",
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Healer: {{N0}} Mending, {{N1}} Health"
+      ],
+      "translation": "治疗者: {{N0}} 修复, {{N1}} 生命",
+      "styleMappings": {
+        " Health": " 生命",
+        "Mending": "修复",
+        "Healer": "治疗者",
+        "Health": "生命"
+      }
+    },
+    {
+      "source": [
+        "Mage: {{N0}} Intelligence"
+      ],
+      "translation": "法师: {{N0}} 智力",
+      "styleMappings": {
+        "Intelligence": "智力",
+        "Mage": "法师",
+        "": "",
+        " Intelligence": " 智力"
+      }
+    },
+    {
+      "source": [
+        "Tank: {{N0}} Defense and reduces damage"
+      ],
+      "translation": "坦克: {{N0}} 防御并减少伤害",
+      "styleMappings": {
+        " Defense": " 防御",
+        "damage": "伤害",
+        "Tank": "坦克",
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "taken by {{N0}} for each piece you have equipped",
+        "if you are hit by the same monster within {{N1}}",
+        "seconds."
+      ],
+      "translation": "如果你在 {{N1}} 秒内被同一只怪物击中, 每装备一件护甲部件受到的伤害减少 {{N0}}.",
+      "styleMappings": {
+        "equipped": "装备",
+        "seconds": "秒",
+        "hit": "击中"
+      }
+    },
+    {
+      "source": [
+        "Archer: {{N0}} Crit Chance, {{N1}} Crit Damage"
+      ],
+      "translation": "弓箭手: {{N0}} 暴击几率, {{N1}} 暴击伤害",
+      "styleMappings": {
+        " Crit Damage": " 暴击伤害",
+        "Crit Chance": "暴击几率",
+        "Archer": "弓箭手",
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害",
+        " Crit Chance": " 暴击几率"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires The Catacombs Floor III Completion."
+      ],
+      "translation": "❣ 需要完成地牢第III层。",
+      "styleMappings": {
+        "The Catacombs": "地牢",
+        "Requires": "需要",
+        "III": "III",
+        "Catacombs": "地牢"
+      }
+    },
+    {
+      "source": [
+        "EPIC DUNGEON HELMET"
+      ],
+      "translation": "史诗 地牢 头盔",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Helmet": "头盔"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

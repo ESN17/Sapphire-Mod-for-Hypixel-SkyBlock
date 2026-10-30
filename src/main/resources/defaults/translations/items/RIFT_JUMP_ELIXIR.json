@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "RIFT_JUMP_ELIXIR",
+  "_original_name": "Jump Elixir",
+  "_original_lore": [
+    "Grants Jump Boost I (0:20)",
+    "",
+    "RARE"
+  ],
+  "name": "跳跃药剂",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Grants Jump Boost I ({{N0}}:{{N1}})"
+      ],
+      "translation": "获得跳跃提升 I ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Grants": "获得",
+        "Jump Boost I": "跳跃提升 I"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Jump Elixir": "跳跃药剂"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

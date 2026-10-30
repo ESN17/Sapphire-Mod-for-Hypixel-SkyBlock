@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "id": "DULL_SHARK_TOOTH_NECKLACE",
+  "_original_name": "Dull Shark Tooth Necklace",
+  "_original_lore": [
+    "Strength: +4",
+    "Accessory Power: +5",
+    "",
+    "Grants +10% chance to get Shark",
+    "Teeth during Fishing Festivals.",
+    "",
+    "Works while in Accessory Bag!",
+    "UNCOMMON ACCESSORY"
+  ],
+  "name": "钝鲨鱼牙项链",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Accessory Power: {{N0}}"
+      ],
+      "translation": "饰品能量: {{N0}}",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} chance to get Shark",
+        "Teeth during Fishing Festivals."
+      ],
+      "translation": "在钓鱼节期间有 {{N0}} 概率获得鲨鱼牙.",
+      "styleMappings": {
+        "Fishing Festivals": "钓鱼节",
+        "chance to": "概率",
+        "Grants": "获得",
+        "Shark": "鲨鱼",
+        "Fishing": "钓鱼",
+        "chance": "概率"
+      }
+    },
+    {
+      "source": [
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "放在饰品袋中即可生效!",
+      "styleMappings": {
+        "Accessory Bag": "饰品袋",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON ACCESSORY"
+      ],
+      "translation": "罕见 饰品",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Necklace": "项链",
+    "Shark": "鲨鱼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

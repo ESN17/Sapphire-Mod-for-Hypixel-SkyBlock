@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "HAGGARD_SC",
+  "_original_name": "Haggard (Sea Creature)",
+  "_original_lore": [
+    "Mob Types:  Skeletal,  Aquatic",
+    "",
+    "An old soul who's ready for a fight!",
+    "",
+    "❤ Health: 10,000"
+  ],
+  "name": "哈加德 (海怪)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mob Types:  Skeletal,  Aquatic"
+      ],
+      "translation": "怪物类型:   骷髅,   水生",
+      "styleMappings": {
+        "Aquatic": "水生",
+        "Mob Types": "怪物类型",
+        "Skeletal": "骷髅",
+        "Mob Types:": "怪物类型:"
+      }
+    },
+    {
+      "source": [
+        "An old soul who's ready for a fight!"
+      ],
+      "translation": "一个准备好战斗的老灵魂!",
+      "styleMappings": {
+        "s": "一"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sea Creature": "海怪",
+    "(Sea Creature)": "(海怪)"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

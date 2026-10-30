@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "SNOWFLAKE_THE_FISH",
+  "_original_name": "Flake the Fish",
+  "_original_lore": [
+    "I'm a special snowflake.",
+    "",
+    "SPECIAL"
+  ],
+  "name": "鱼片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "I'm a special snowflake."
+      ],
+      "translation": "我是一片特别的雪花.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fish": "鱼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

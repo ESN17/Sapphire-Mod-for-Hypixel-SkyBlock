@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "TRUNK_POLISH",
+  "_original_name": "Trunk Polish",
+  "_original_lore": [
+    "Use at Kat to upgrade Elephant Pets",
+    "to Mythic rarity.",
+    "",
+    "MYTHIC"
+  ],
+  "name": "象鼻抛光剂",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Use at Kat to upgrade Elephant Pets",
+        "to Mythic rarity."
+      ],
+      "translation": "在 Kat 处使用,将大象宠物升级至神话稀有度.",
+      "styleMappings": {
+        "Elephant Pets": "大象宠物",
+        "upgrade": "升级",
+        "Mythic": "神话",
+        "rarity": "稀有度",
+        "Kat": "Kat",
+        "Pets": "宠物",
+        "Elephant": "大象"
+      }
+    },
+    {
+      "source": [
+        "MYTHIC"
+      ],
+      "translation": "神话",
+      "styleMappings": {
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

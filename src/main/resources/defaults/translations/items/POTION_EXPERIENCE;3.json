@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_EXPERIENCE;3",
+  "_original_name": "Experience III Potion",
+  "_original_lore": [
+    "",
+    "Experience III (3:00)",
+    "Gain 15% more experience orbs.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "经验 III 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Experience III ({{N0}}:{{N1}})"
+      ],
+      "translation": "经验 III ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Experience III": "经验 III",
+        "III": "III",
+        "Experience": "经验"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}} more experience orbs."
+      ],
+      "translation": "获得 {{N0}} 更多经验球.",
+      "styleMappings": {
+        "Gain": "获得",
+        "more": "更多"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Experience III": "经验 III",
+    "III": "III",
+    "Experience": "经验"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

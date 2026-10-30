@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": "BLESSED_FRUIT",
+  "_original_name": "Blessed Fruit",
+  "_original_lore": [
+    "Reforge Stone",
+    "Combinable in Anvil",
+    "",
+    "Applies the Blessed reforge when",
+    "combined with a Farming Tool.",
+    "",
+    "Grants the following stats that scale",
+    "with the item's rarity:",
+    "  Farming Fortune",
+    "  Speed",
+    " ☯ Farming Wisdom",
+    "",
+    "Blessed Bonus",
+    "You have a 0.25% chance to find",
+    "enchanted forms of items when",
+    "harvesting Crops.",
+    "",
+    "Right-click to view rarity scaling!",
+    "",
+    "❣ Requires Mining Skill 25.",
+    "",
+    "RARE REFORGE STONE"
+  ],
+  "name": "祝福果实",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Reforge Stone",
+        "Combinable in Anvil"
+      ],
+      "translation": "洗练石 可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Reforge Stone": "洗练石",
+        "Anvil": "铁砧",
+        "Reforge": "洗练"
+      }
+    },
+    {
+      "source": [
+        "Applies the Blessed reforge when",
+        "combined with a Farming Tool."
+      ],
+      "translation": "与农业工具结合时应用祝福洗练.",
+      "styleMappings": {
+        "Farming Tool": "农业工具",
+        "Blessed": "祝福",
+        "reforge": "洗练",
+        "Farming": "农业",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Grants the following stats that scale"
+      ],
+      "translation": "提供以下随物品稀有度提升的属性:",
+      "styleMappings": {
+        "Grants": "提供",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "with the item's rarity:"
+      ],
+      "translation": "物品稀有度提升的属性:",
+      "styleMappings": {
+        "item": "物品",
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "  Farming Fortune",
+        "  Speed",
+        " ☯ Farming Wisdom"
+      ],
+      "translation": "   农业幸运  速度  ☯ 农业智慧",
+      "styleMappings": {
+        "Farming Fortune": "农业幸运",
+        "Farming Wisdom": "农业智慧",
+        " Speed": " 速度",
+        "Fortune": "幸运",
+        "Wisdom": "智慧",
+        "Farming": "农业",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Blessed Bonus",
+        "You have a {{N0}} chance to find",
+        "enchanted forms of items when",
+        "harvesting Crops."
+      ],
+      "translation": "祝福加成 收获作物时,你有 {{N0}} 的几率找到物品的附魔形态.",
+      "styleMappings": {
+        "Blessed Bonus": "祝福加成",
+        "chance": "几率",
+        "Crops": "作物",
+        "items": "物品",
+        "Bonus": "加成",
+        "chance to": "几率",
+        "Blessed": "祝福",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view rarity scaling!"
+      ],
+      "translation": "右键查看各稀有度的属性!",
+      "styleMappings": {
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Mining Skill {{N0}}."
+      ],
+      "translation": "❣ 需要采矿技能 {{N0}}.",
+      "styleMappings": {
+        "Mining Skill": "采矿技能",
+        "Requires": "需要",
+        "Mining": "采矿",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "RARE REFORGE STONE"
+      ],
+      "translation": "稀有 洗练石",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Blessed Fruit": "祝福果实",
+    "Blessed": "祝福"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

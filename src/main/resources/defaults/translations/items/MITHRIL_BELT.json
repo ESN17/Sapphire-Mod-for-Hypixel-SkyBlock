@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "id": "MITHRIL_BELT",
+  "_original_name": "Mithril Belt",
+  "_original_lore": [
+    "Mining Speed: +20",
+    "Mining Fortune: +5",
+    "",
+    "Grants +5 Mining Fortune while",
+    "mining Mithril.",
+    "",
+    "Full Set Bonus: Dwarf Wannabe (0/4)",
+    "Grants +30 Mining Speed and +5",
+    "Mining Fortune while in the Dwarven",
+    "Mines.",
+    "",
+    "Right-click to equip!",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Heart of the Mountain Tier 2.",
+    "UNCOMMON BELT"
+  ],
+  "name": "秘银腰带",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mining Speed: {{N0}}"
+      ],
+      "translation": "采矿速度: {{N0}}",
+      "styleMappings": {
+        "Mining Speed": "采矿速度",
+        "Mining": "采矿",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Mining Fortune: {{N0}}"
+      ],
+      "translation": "采矿幸运: {{N0}}",
+      "styleMappings": {
+        "Mining Fortune": "采矿幸运",
+        "Mining": "采矿",
+        "Fortune": "幸运"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Mining Fortune while",
+        "mining Mithril."
+      ],
+      "translation": "挖掘秘银时获得 {{N0}} 采矿幸运.",
+      "styleMappings": {
+        "Mining Fortune": "采矿幸运",
+        "Mithril": "秘银",
+        "Grants": "获得",
+        "Mining": "采矿",
+        "Fortune": "幸运",
+        " Mining Fortune": " 采矿幸运"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Dwarf Wannabe ({{N0}}/{{N1}})"
+      ],
+      "translation": "全套加成:矮人梦想家 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Full Set Bonus: Dwarf Wannabe": "全套加成:矮人梦想家",
+        "Full Set Bonus": "全套加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Mining Speed and {{N1}}",
+        "Mining Fortune while in the Dwarven",
+        "Mines."
+      ],
+      "translation": "在矮人矿坑中时获得 {{N0}} 采矿速度和 {{N1}} 采矿幸运.",
+      "styleMappings": {
+        "Mining Fortune": "采矿幸运",
+        "Dwarven Mines": "矮人矿坑",
+        "Mining Speed": "采矿速度",
+        "Grants": "获得",
+        "Mining": "采矿",
+        "Fortune": "幸运",
+        "Speed": "速度",
+        " Mining Fortune": " 采矿幸运"
+      }
+    },
+    {
+      "source": [
+        "Right-click to equip!"
+      ],
+      "translation": "右键点击装备!",
+      "styleMappings": {
+        "Right-click to equip!": "右键点击装备!",
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Heart of the Mountain Tier {{N0}}."
+      ],
+      "translation": "❣ 需要山峰之心等级 {{N0}}.",
+      "styleMappings": {
+        "Heart of the Mountain Tier": "山峰之心等级",
+        "Requires": "需要",
+        "Heart of the Mountain": "山峰之心"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON BELT"
+      ],
+      "translation": "罕见 腰带",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Belt": "腰带",
+    "Mithril": "秘银"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

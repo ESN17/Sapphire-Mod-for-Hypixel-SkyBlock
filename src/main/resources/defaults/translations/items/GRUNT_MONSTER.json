@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "GRUNT_MONSTER",
+  "_original_name": "Grunt (Monster)",
+  "_original_lore": [
+    "Prepare for trouble!",
+    "",
+    "Mob Type: ✰ Humanoid",
+    "❤ Health: 153,000"
+  ],
+  "name": "步兵 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Prepare for trouble!"
+      ],
+      "translation": "准备迎接麻烦吧!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Mob Type: ✰ Humanoid"
+      ],
+      "translation": "生物类型: ✰ 人形",
+      "styleMappings": {
+        "Mob Type": "生物类型",
+        "Humanoid": "人形"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Grunt": "步兵",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

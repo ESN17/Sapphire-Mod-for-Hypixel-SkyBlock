@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "id": "DANTE_SPECIAL_MAYOR_MONSTER",
+  "_original_name": "Dante (Mayor)",
+  "_original_lore": [
+    "Special Candidate",
+    "",
+    "Order",
+    "Establish order.",
+    "",
+    "Security",
+    "Strengthen security.",
+    "",
+    "Freedom",
+    "Freedom from fear.",
+    "",
+    "This is a SPECIAL candidate!",
+    "It probably never appears again!"
+  ],
+  "name": "Dante (市长)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Special Candidate"
+      ],
+      "translation": "特殊候选人",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Order",
+        "Establish order."
+      ],
+      "translation": "秩序 建立秩序.",
+      "styleMappings": {
+        "Establish order.": "建立秩序.",
+        "Order": "秩序"
+      }
+    },
+    {
+      "source": [
+        "Security",
+        "Strengthen security."
+      ],
+      "translation": "安全 加强安保.",
+      "styleMappings": {
+        "Security": "安全"
+      }
+    },
+    {
+      "source": [
+        "Freedom",
+        "Freedom from fear."
+      ],
+      "translation": "自由 摆脱恐惧.",
+      "styleMappings": {
+        "Freedom from fear.": "摆脱恐惧.",
+        "Freedom": "自由"
+      }
+    },
+    {
+      "source": [
+        "This is a SPECIAL candidate!"
+      ],
+      "translation": "这是一位特殊候选人!",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    },
+    {
+      "source": [
+        "It probably never appears again!"
+      ],
+      "translation": "它可能再也不会出现了!",
+      "styleMappings": {}
+    }
+  ],
+  "styleMappings": {
+    "Mayor": "市长"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

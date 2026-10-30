@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "SHRIMP_THE_FISH",
+  "_original_name": "Shrimp the Fish",
+  "_original_lore": [
+    "I achieved nothing.",
+    "",
+    "SPECIAL"
+  ],
+  "name": "虾鱼",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "I achieved nothing."
+      ],
+      "translation": "我一事无成.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fish": "鱼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

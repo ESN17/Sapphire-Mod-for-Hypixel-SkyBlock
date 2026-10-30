@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "ATTRIBUTE_SHARD_TORRHUS_DIVER;1",
+  "_original_name": "Timil Shard",
+  "_original_lore": [
+    "Torrhus Diver I",
+    "Grants +0.5  Pressure Resistance",
+    "while on Torrhus Canyon.",
+    "",
+    "You can Syphon this shard from",
+    "your Hunting Box.",
+    "",
+    "Right-click to send to Hunting Box!",
+    "Shift Right-click to move all!",
+    "",
+    "COMMON WATER SHARD (ID C56)"
+  ],
+  "name": "提米尔碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Torrhus Diver I"
+      ],
+      "translation": "托鲁斯潜水者 I",
+      "styleMappings": {
+        "Torrhus Diver": "托鲁斯潜水者",
+        "I": "I"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}  Pressure Resistance",
+        "while on Torrhus Canyon."
+      ],
+      "translation": "在托鲁斯峡谷时提供 {{N0}}  压力抗性.",
+      "styleMappings": {
+        "Pressure Resistance": "压力抗性",
+        "Torrhus Canyon": "托鲁斯峡谷",
+        "Grants": "提供",
+        "Resistance": "抗性"
+      }
+    },
+    {
+      "source": [
+        "You can Syphon this shard from",
+        "your Hunting Box."
+      ],
+      "translation": "你可以从狩猎箱中吸取此碎片.",
+      "styleMappings": {
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to send to Hunting Box!"
+      ],
+      "translation": "右键点击发送至狩猎箱!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Shift Right-click to move all!"
+      ],
+      "translation": "潜行键 右键点击全部移动!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "all": "全部"
+      }
+    },
+    {
+      "source": [
+        "COMMON WATER SHARD (ID C{{N0}})"
+      ],
+      "translation": "普通水生碎片 (ID C{{N0}})",
+      "styleMappings": {
+        "COMMON WATER SHARD": "普通水生碎片",
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shard": "碎片"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "FARMING_TOOLKIT",
+  "_original_name": "Farming Toolkit",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Store all of your Farming Tools in",
+    "one convenient place and swap",
+    "between them with ease.",
+    "",
+    "Right-click to consume!",
+    "",
+    "❣ Requires Farming Skill 5.",
+    "RARE"
+  ],
+  "name": "农耕工具包",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Store all of your Farming Tools in",
+        "one convenient place and swap",
+        "between them with ease."
+      ],
+      "translation": "将所有农耕工具存放在一个便捷的地方,轻松切换使用.",
+      "styleMappings": {
+        "Tools": "工具"
+      }
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "❣ Requires Farming Skill {{N0}}."
+      ],
+      "translation": "❣ 需要农业技能 {{N0}}.",
+      "styleMappings": {
+        "Farming Skill": "农业技能",
+        "Requires": "需要",
+        "Farming": "农业",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

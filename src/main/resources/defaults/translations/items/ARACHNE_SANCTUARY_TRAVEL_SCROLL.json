@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "ARACHNE_SANCTUARY_TRAVEL_SCROLL",
+  "_original_name": "Travel Scroll to Arachne's Sanctuary",
+  "_original_lore": [
+    "Consume this item to add its",
+    "destination to your Fast Travel",
+    "options.",
+    "",
+    "Requires MVP+ to consume!",
+    "",
+    "Island: Spider's Den",
+    "Teleport: Arachne's Sanctuary",
+    "",
+    "EPIC TRAVEL SCROLL"
+  ],
+  "name": "通往阿拉克妮圣所的传送卷轴",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consume this item to add its",
+        "destination to your Fast Travel",
+        "options."
+      ],
+      "translation": "消耗此物品,将其目的地添加到你的快速旅行选项中.",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Requires MVP+ to consume!"
+      ],
+      "translation": "需要 尊贵贵宾+ 才能使用!",
+      "styleMappings": {
+        "MVP": "尊贵贵宾",
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Island: Spider's Den"
+      ],
+      "translation": "岛屿: 蜘蛛巢穴",
+      "styleMappings": {
+        "Spider's Den": "蜘蛛巢穴",
+        "Island": "岛屿",
+        "Spider": "蜘蛛"
+      }
+    },
+    {
+      "source": [
+        "Teleport: Arachne's Sanctuary"
+      ],
+      "translation": "传送: 阿拉克妮圣所",
+      "styleMappings": {
+        "Arachne's Sanctuary": "阿拉克妮圣所",
+        "Teleport": "传送",
+        "Arachne": "阿拉克妮"
+      }
+    },
+    {
+      "source": [
+        "EPIC TRAVEL SCROLL"
+      ],
+      "translation": "史诗传送卷轴",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Arachne's Sanctuary": "阿拉克妮圣所",
+    "Arachne": "阿拉克妮"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "TELEPORT_PAD",
+  "_original_name": "Teleport Pad",
+  "_original_lore": [
+    "Places a Teleport Pad down, allowing",
+    "you to teleport to any other",
+    "Teleport Pad on your private island!",
+    "Maximum of 56 per island.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "传送垫",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Places a Teleport Pad down, allowing",
+        "you to teleport to any other",
+        "Teleport Pad on your private island!"
+      ],
+      "translation": "放置一个传送垫,让你可以传送到私人岛屿上的任何其他传送垫!",
+      "styleMappings": {
+        "private island": "私人岛屿",
+        "Teleport Pad": "传送垫",
+        "island": "岛屿上",
+        "Teleport": "传送"
+      }
+    },
+    {
+      "source": [
+        "Maximum of {{N0}} per island."
+      ],
+      "translation": "每个岛屿最多 {{N0}} 个.",
+      "styleMappings": {
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Teleport Pad": "传送垫",
+    "Teleport": "传送"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

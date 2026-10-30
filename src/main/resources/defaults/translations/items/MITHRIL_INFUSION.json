@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "MITHRIL_INFUSION",
+  "_original_name": "Mithril Infusion",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "When applied to minions, permanently",
+    "increases minion speed by 10%.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "秘银注入",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "When applied to minions, permanently",
+        "increases minion speed by {{N0}}."
+      ],
+      "translation": "应用于仆从时,永久增加 {{N0}} 仆从速度.",
+      "styleMappings": {
+        "permanently": "永久",
+        "speed": "速度",
+        "minion": "仆从",
+        "minions": "仆从"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mithril": "秘银"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

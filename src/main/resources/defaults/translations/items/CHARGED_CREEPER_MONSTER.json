@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "CHARGED_CREEPER_MONSTER",
+  "_original_name": "Charged Creeper (Monster)",
+  "_original_lore": [
+    "Charged Creeper is a mob that spawn during the Thunder",
+    "event from the Blood God Shrine.",
+    "",
+    "❤ Health: 17,500"
+  ],
+  "name": "充能苦力怕 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Charged Creeper is a mob that spawn during the Thunder",
+        "event from the Blood God Shrine."
+      ],
+      "translation": "充能苦力怕是一种在血神祭坛的雷暴事件期间生成的怪物.",
+      "styleMappings": {
+        "Blood God Shrine": "血神祭坛",
+        "Charged Creeper": "充能苦力怕",
+        "Thunder": "雷暴",
+        "Creeper": "苦力怕"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Charged Creeper": "充能苦力怕",
+    "(Monster)": "(怪物)",
+    "Creeper": "苦力怕",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

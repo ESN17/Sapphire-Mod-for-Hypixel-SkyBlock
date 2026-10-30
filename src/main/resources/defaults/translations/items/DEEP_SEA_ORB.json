@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "DEEP_SEA_ORB",
+  "_original_name": "Deep Sea Orb",
+  "_original_lore": [
+    "Reforge Stone",
+    "Combinable in Anvil",
+    "",
+    "Applies the Submerged reforge when",
+    "combined with Armor.",
+    "",
+    "The smell of the deep sea attracts",
+    "sea monsters.",
+    "",
+    "Grants the following stats that scale",
+    "with the item's rarity:",
+    "  Crit Chance",
+    "  Fishing Speed",
+    "  Sea Creature Chance",
+    "",
+    "Right-click to view rarity scaling!",
+    "",
+    "EPIC REFORGE STONE"
+  ],
+  "name": "深海宝珠",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Reforge Stone",
+        "Combinable in Anvil"
+      ],
+      "translation": "洗练石 可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Reforge Stone": "洗练石",
+        "Anvil": "铁砧",
+        "Reforge": "洗练"
+      }
+    },
+    {
+      "source": [
+        "Applies the Submerged reforge when",
+        "combined with Armor."
+      ],
+      "translation": "与护甲结合时施加潮没洗练.",
+      "styleMappings": {
+        "Submerged": "潮没",
+        "Armor": "护甲",
+        "reforge": "洗练",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "The smell of the deep sea attracts",
+        "sea monsters."
+      ],
+      "translation": "深海的气味会吸引海怪.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants the following stats that scale"
+      ],
+      "translation": "提供以下随物品稀有度提升的属性:",
+      "styleMappings": {
+        "Grants": "提供",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "with the item's rarity:"
+      ],
+      "translation": "物品稀有度提升的属性:",
+      "styleMappings": {
+        "item": "物品",
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "  Crit Chance",
+        "  Fishing Speed",
+        "  Sea Creature Chance"
+      ],
+      "translation": "   暴击几率   钓鱼速度   海怪几率",
+      "styleMappings": {
+        "Sea Creature Chance": "海怪几率",
+        "Fishing Speed": "钓鱼速度",
+        "Crit Chance": "暴击几率",
+        "Fishing": "钓鱼",
+        "Speed": "速度",
+        "Sea Creature": "海怪",
+        " Fishing Speed": " 钓鱼速度"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view rarity scaling!"
+      ],
+      "translation": "右键查看各稀有度的属性!",
+      "styleMappings": {
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "EPIC REFORGE STONE"
+      ],
+      "translation": "史诗洗练石",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Orb": "宝珠"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

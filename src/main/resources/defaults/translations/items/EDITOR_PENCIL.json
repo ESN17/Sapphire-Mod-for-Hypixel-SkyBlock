@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "EDITOR_PENCIL",
+  "_original_name": "Editor's Pencil",
+  "_original_lore": [
+    "A truly remarkable pencil.",
+    "Refined, sharpened, and polished",
+    "over time.",
+    "",
+    "Given to those who went above and beyond.",
+    "",
+    "Awarded To: Unknown",
+    "From: Unknown",
+    "Date: 1st January 1970",
+    "",
+    "* Co-op Soulbound *",
+    "SPECIAL"
+  ],
+  "name": "编辑之笔",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A truly remarkable pencil."
+      ],
+      "translation": "一支真正非凡的铅笔.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Refined, sharpened, and polished",
+        "over time."
+      ],
+      "translation": "历经时间精炼、削尖与打磨.",
+      "styleMappings": {
+        "Refined": "精炼"
+      }
+    },
+    {
+      "source": [
+        "Given to those who went above and beyond."
+      ],
+      "translation": "授予那些超越期望之人.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Awarded To: Unknown"
+      ],
+      "translation": "授予:未知",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "From: Unknown"
+      ],
+      "translation": "来自:未知",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Date: {{N0}}st January {{N1}}"
+      ],
+      "translation": "日期: {{N0}}日一月 {{N1}}",
+      "styleMappings": {
+        "st January": "日一月",
+        "Date:": "日期:"
+      }
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

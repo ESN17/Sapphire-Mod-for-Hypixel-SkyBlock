@@ -1,0 +1,212 @@
+{
+  "schemaVersion": 1,
+  "id": "FERVOR_HELMET",
+  "_original_name": "Fervor Helmet",
+  "_original_lore": [
+    "Health: +180",
+    "Defense: +100",
+    "True Defense: +5",
+    "Intelligence: +15",
+    "Gemstones: [⚔] [⚔]",
+    "",
+    "Tiered Bonus: Fervor (0/4)",
+    "Every 1.5s, attacking a mob grants 1 stack of",
+    "҉ Fervor. Lose 1 stack after 4s of not gaining",
+    "a stack.",
+    " ",
+    "Ability: Ground Pound SNEAK",
+    "At 10 stacks, sneak to reset your stacks and",
+    "perform a Ground Pound dealing damage to",
+    "mobs within 6 blocks. (Damage scales with your",
+    "EHP, max 25M).",
+    " ",
+    "Full Set Bonus: Intimidate (0/4)",
+    "Attacking a mob has a 50% chance to direct",
+    "aggro from 3 mobs to you.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Combat Skill 22.",
+    "❣ Requires Kuudra Basic Tier Completion.",
+    "LEGENDARY HELMET"
+  ],
+  "name": "热诚头盔",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "True Defense: {{N0}}"
+      ],
+      "translation": "真实防御: {{N0}}",
+      "styleMappings": {
+        "True Defense": "真实防御",
+        "Defense": "防御",
+        "True": "真实"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [⚔] [⚔]"
+      ],
+      "translation": "宝石: [⚔] [⚔]",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石",
+        "] [": "] ["
+      }
+    },
+    {
+      "source": [
+        "Tiered Bonus: Fervor ({{N0}}/{{N1}})"
+      ],
+      "translation": "阶级加成:狂热 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Fervor": "狂热",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Every {{N0}}s, attacking a mob grants {{N1}} stack of",
+        "҉ Fervor. Lose {{N2}} stack after {{N3}}s of not gaining",
+        "a stack."
+      ],
+      "translation": "每 {{N0}} 秒,攻击怪物给予 {{N1}} 层 ҉ 狂热.若 {{N3}} 秒内未获得层数,则失去 {{N2}} 层.",
+      "styleMappings": {
+        "Lose {{N2}} stack after {{N3}}s of not gaining a stack.": "若 {{N3}} 秒内未获得层数,则失去 {{N2}} 层.",
+        "҉ Fervor": "҉ 狂热",
+        "{{N0}}s": "{{N0}} 秒",
+        "{{N3}}s": "{{N3}} 秒",
+        "Fervor": "狂热"
+      }
+    },
+    {
+      "source": [
+        "Ability: Ground Pound SNEAK"
+      ],
+      "translation": "技能: 重踏 潜行",
+      "styleMappings": {
+        "Ground Pound": "重踏",
+        "SNEAK": "潜行",
+        "Ability": "技能"
+      }
+    },
+    {
+      "source": [
+        "At {{N0}} stacks, sneak to reset your stacks and",
+        "perform a Ground Pound dealing damage to",
+        "mobs within {{N1}} blocks. (Damage scales with your",
+        "EHP, max {{N2}}M)."
+      ],
+      "translation": "达到 {{N0}} 层时,潜行以重置层数并发动一次震地重击,对 {{N1}} 格内的怪物造成伤害.(伤害随你的有效生命值提升,上限 {{N2}}M).",
+      "styleMappings": {
+        "Damage scales with your": "伤害随你的",
+        "Ground Pound": "震地重击",
+        "blocks": "格",
+        "damage": "伤害",
+        "mobs": "怪物",
+        "EHP": "有效生命值",
+        "max": "上限",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Intimidate ({{N0}}/{{N1}})"
+      ],
+      "translation": "全套加成:威吓 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Full Set Bonus": "全套加成",
+        "Intimidate": "威吓",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Attacking a mob has a {{N0}} chance to direct",
+        "aggro from {{N1}} mobs to you."
+      ],
+      "translation": "攻击怪物时有 {{N0}} 概率将 {{N1}} 只怪物的仇恨转移到你身上。",
+      "styleMappings": {
+        "chance to": "概率",
+        "mobs": "怪物",
+        "chance": "概率"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Kuudra Basic Tier Completion."
+      ],
+      "translation": "❣ 需要完成库德拉基础难度.",
+      "styleMappings": {
+        "Requires Kuudra Basic Tier Completion.": "需要完成库德拉基础难度.",
+        "Requires": "需要",
+        "Basic": "基础",
+        "Kuudra": "库德拉"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY HELMET"
+      ],
+      "translation": "传说 头盔",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Helmet": "头盔",
+    "Fervor Helmet": "热诚头盔"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

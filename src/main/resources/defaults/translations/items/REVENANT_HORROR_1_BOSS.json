@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "REVENANT_HORROR_1_BOSS",
+  "_original_name": "Revenant Horror I (Boss)",
+  "_original_lore": [
+    "Beginner",
+    "",
+    "Health: 500❤",
+    "Damage: 15 per second",
+    "",
+    "Life Drain",
+    "Drains health every few seconds."
+  ],
+  "name": "亡魂恐魔 I (首领)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Beginner"
+      ],
+      "translation": "新手",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Health: {{N0}}❤"
+      ],
+      "translation": "生命值: {{N0}}❤",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Damage: {{N0}} per second"
+      ],
+      "translation": "伤害: 每秒 {{N0}}",
+      "styleMappings": {
+        "per second": "每秒",
+        "Damage": "伤害",
+        "second": "秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Life Drain",
+        "Drains health every few seconds."
+      ],
+      "translation": "生命汲取 每隔几秒吸取生命值.",
+      "styleMappings": {
+        "Life Drain": "生命汲取",
+        "seconds": "秒",
+        "health": "生命值",
+        "Drain": "汲取"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Boss": "首领",
+    "I": "I",
+    "Revenant Horror": "亡魂恐魔"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "id": "FLEX_HELMET",
+  "_original_name": "Flex Helmet",
+  "_original_lore": [
+    "Costs 1,000 Coins per second to",
+    "wear.",
+    "",
+    "Worn: 0 seconds",
+    "",
+    "Left-click to pick animal!",
+    "",
+    "This item can be reforged!",
+    "X Rift-Transferable X",
+    "LEGENDARY HELMET"
+  ],
+  "name": "柔韧头盔",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Costs {{N0}} Coins per second to",
+        "wear."
+      ],
+      "translation": "佩戴时每秒消耗 {{N0}} 硬币.",
+      "styleMappings": {
+        "per second": "每秒",
+        "Coins": "硬币",
+        "second": "秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Worn: {{N0}} seconds"
+      ],
+      "translation": "已佩戴: {{N0}} 秒",
+      "styleMappings": {
+        "seconds": "秒"
+      }
+    },
+    {
+      "source": [
+        "Left-click to pick animal!"
+      ],
+      "translation": "左键点击选择动物!",
+      "styleMappings": {
+        "Left-click": "左键点击"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "X Rift-Transferable X"
+      ],
+      "translation": "X 可跨裂隙转移 X",
+      "styleMappings": {
+        "Rift-Transferable": "可跨裂隙转移",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY HELMET"
+      ],
+      "translation": "传说 头盔",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Helmet": "头盔"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

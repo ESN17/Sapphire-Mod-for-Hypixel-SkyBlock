@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "id": "BINGO_RELIC",
+  "_original_name": "Bingo Relic",
+  "_original_lore": [
+    "Accessory Power: +12",
+    "",
+    "B.I.N.G.O.",
+    "",
+    "Requires Ⓑ Bingo Rank IV!",
+    "Works while in Accessory Bag!",
+    "EPIC ACCESSORY"
+  ],
+  "name": "宾果圣物",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Accessory Power: {{N0}}"
+      ],
+      "translation": "饰品能量: {{N0}}",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "B.I.N.G.O."
+      ],
+      "translation": "宾果",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Requires Ⓑ Bingo Rank IV!"
+      ],
+      "translation": "需要 Ⓑ 宾果等级 IV!",
+      "styleMappings": {
+        "Bingo Rank IV": "宾果等级 IV",
+        "Requires": "需要",
+        "Bingo": "宾果"
+      }
+    },
+    {
+      "source": [
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "放在饰品袋中即可生效!",
+      "styleMappings": {
+        "Accessory Bag": "饰品袋",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "EPIC ACCESSORY"
+      ],
+      "translation": "史诗饰品",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Relic": "圣物",
+    "Bingo": "宾果"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

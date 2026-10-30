@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "HARMONIOUS_SURGERY_TOOLKIT",
+  "_original_name": "Harmonious Surgery Toolkit",
+  "_original_lore": [
+    "Rift Time: +10s",
+    "Speed: +2",
+    "",
+    "If you touch a larva which another",
+    "player touched, you both gain +1",
+    "Larva Silk once it is harvested.",
+    "",
+    "UNCOMMON ACCESSORY"
+  ],
+  "name": "和谐手术工具包",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Rift Time: {{N0}}s"
+      ],
+      "translation": "裂隙时间: {{N0}}秒",
+      "styleMappings": {
+        "Rift Time": "裂隙时间",
+        "{{N0}}s": "{{N0}}秒",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "If you touch a larva which another",
+        "player touched, you both gain {{N0}}",
+        "Larva Silk once it is harvested."
+      ],
+      "translation": "如果你触碰了另一名玩家触碰过的幼虫,收获时你们都会获得 {{N0}} 幼虫丝.",
+      "styleMappings": {
+        "another player": "另一名玩家",
+        "Larva Silk": "幼虫丝",
+        "player": "玩家",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON ACCESSORY"
+      ],
+      "translation": "罕见 饰品",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

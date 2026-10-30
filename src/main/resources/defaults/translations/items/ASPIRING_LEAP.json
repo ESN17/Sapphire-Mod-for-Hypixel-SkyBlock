@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "ASPIRING_LEAP",
+  "_original_name": "Aspiring Leap",
+  "_original_lore": [
+    "Ability: Aspiring Leap  RIGHT CLICK",
+    "Allows you to teleport to co-op members on",
+    "your private island or garden!",
+    "Cooldown: 5s",
+    "",
+    "EPIC DUNGEON ITEM"
+  ],
+  "name": "跃迁",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Aspiring Leap  RIGHT CLICK"
+      ],
+      "translation": "技能: 跃迁  右键点击",
+      "styleMappings": {
+        "Ability: Aspiring Leap": "技能: 跃迁",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Allows you to teleport to co-op members on",
+        "your private island or garden!"
+      ],
+      "translation": "允许你传送到私人岛屿或花园上的合作成员处!",
+      "styleMappings": {
+        "private island": "私人岛屿"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "EPIC DUNGEON ITEM"
+      ],
+      "translation": "史诗 地牢物品",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "id": "FLAWED_ONYX_GEM",
+  "_original_name": " Flawed Onyx Gemstone",
+  "_original_lore": [
+    "Collection Item",
+    "",
+    "A slightly better version of Onyx,",
+    "but it could still use some work.",
+    "",
+    "Some say that when harnessed",
+    "properly, it can give its owner extra",
+    " Crit Damage; others say it might",
+    "give bonus treasures.",
+    "",
+    "UNCOMMON GEMSTONE"
+  ],
+  "name": " 瑕疵缟玛瑙",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Collection Item"
+      ],
+      "translation": "收藏品",
+      "styleMappings": {
+        "Collection Item": "收藏品"
+      }
+    },
+    {
+      "source": [
+        "A slightly better version of Onyx,",
+        "but it could still use some work."
+      ],
+      "translation": "品质稍有提升的缟玛瑙,但仍需进一步打磨.",
+      "styleMappings": {
+        "Onyx": "缟玛瑙"
+      }
+    },
+    {
+      "source": [
+        "Some say that when harnessed",
+        "properly, it can give its owner extra",
+        " Crit Damage; others say it might",
+        "give bonus treasures."
+      ],
+      "translation": "据说,运用得当时,它能为持有者提供额外的  暴击伤害;也有人说它能带来额外宝藏.",
+      "styleMappings": {
+        "harnessed properly": "运用得当",
+        " Crit Damage": " 暴击伤害",
+        "bonus treasures": "额外宝藏"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON GEMSTONE"
+      ],
+      "translation": "罕见宝石",
+      "styleMappings": {
+        "UNCOMMON": "罕见",
+        "GEMSTONE": "宝石"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Flawed": "瑕疵",
+    "Onyx Gemstone": "缟玛瑙"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

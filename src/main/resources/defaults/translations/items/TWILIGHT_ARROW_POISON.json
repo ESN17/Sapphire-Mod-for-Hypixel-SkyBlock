@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "TWILIGHT_ARROW_POISON",
+  "_original_name": "Twilight Arrow Poison",
+  "_original_lore": [
+    "Consumed on arrow shot",
+    "Arrows apply a ᛤ poison that",
+    "increases all incoming damage by",
+    "1.1x for 20s.",
+    "",
+    "UNCOMMON ARROW POISON"
+  ],
+  "name": "暮光箭毒",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumed on arrow shot",
+        "Arrows apply a ᛤ poison that",
+        "increases all incoming damage by",
+        "{{N0}}x for {{N1}}s."
+      ],
+      "translation": "射箭时消耗 箭矢会施加 ᛤ 毒素,使受到的所有伤害提高 {{N0}}倍,持续 {{N1}}秒.",
+      "styleMappings": {
+        "increases all incoming damage by": "使受到的所有伤害提高",
+        "Consumed on arrow shot": "射箭时消耗",
+        "ᛤ poison": "ᛤ 毒素",
+        "for": "持续",
+        "{{N0}}x": "{{N0}}倍",
+        "{{N1}}s": "{{N1}}秒",
+        "damage": "伤害",
+        "poison": "毒素"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON ARROW POISON"
+      ],
+      "translation": "罕见箭毒",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

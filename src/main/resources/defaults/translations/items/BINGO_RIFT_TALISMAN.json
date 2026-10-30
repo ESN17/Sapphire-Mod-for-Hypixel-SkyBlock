@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "BINGO_RIFT_TALISMAN",
+  "_original_name": "Bingo Rift Talisman",
+  "_original_lore": [
+    "While on a Bingo profile, you may join",
+    "the Rift at no cost.",
+    "",
+    "* Soulbound *",
+    "Works while in Accessory Bag!",
+    "COMMON ACCESSORY"
+  ],
+  "name": "宾果裂隙护符",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "While on a Bingo profile, you may join",
+        "the Rift at no cost."
+      ],
+      "translation": "在宾果存档中,你可以免费进入裂隙.",
+      "styleMappings": {
+        "Bingo": "宾果",
+        "Rift": "裂隙",
+        "no cost": "免费"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "放在饰品袋中即可生效!",
+      "styleMappings": {
+        "Accessory Bag": "饰品袋",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "COMMON ACCESSORY"
+      ],
+      "translation": "普通饰品",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Bingo": "宾果",
+    "Rift": "裂隙",
+    "Talisman": "护符"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "SUPERBOOM_TNT",
+  "_original_name": "Superboom TNT",
+  "_original_lore": [
+    "Blows up cracked brick walls and",
+    "crypts, which are typically found in",
+    "Dungeons and the Crystal Hollows.",
+    "",
+    "RARE"
+  ],
+  "name": "超级爆炸TNT",
+  "lore": {
+    "RARE": "稀有"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "Blows up cracked brick walls and",
+        "crypts, which are typically found in",
+        "Dungeons and the Crystal Hollows."
+      ],
+      "translation": "炸毁地牢和水晶洞窟等地的裂纹砖墙与墓穴.",
+      "styleMappings": {
+        "Crystal Hollows": "水晶洞窟",
+        "Dungeons": "地牢",
+        "Crystal": "水晶"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Crystal Hollows": "水晶洞窟",
+    "Dungeons": "地牢",
+    "Superboom TNT": "超级爆炸TNT"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_name_revision": "2026-10-17-user-request"
+}

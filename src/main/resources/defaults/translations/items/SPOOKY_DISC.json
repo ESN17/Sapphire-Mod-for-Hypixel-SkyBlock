@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "SPOOKY_DISC",
+  "_original_name": "Spooky Disc",
+  "_original_lore": [
+    "Place this inside a jukebox to play a",
+    "spooky song!",
+    "",
+    "Hallow Hallow",
+    "  By ShinkoNet",
+    "",
+    "RARE"
+  ],
+  "name": "幽灵唱片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Place this inside a jukebox to play a",
+        "spooky song!"
+      ],
+      "translation": "将此物放入唱片机即可播放一首幽灵歌曲!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Hallow Hallow"
+      ],
+      "translation": "圣堂圣堂",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "  By ShinkoNet"
+      ],
+      "translation": "  作者 辛科网",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Spooky": "幽灵"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

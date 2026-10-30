@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "TREASURITE",
+  "_original_name": "Treasurite",
+  "_original_lore": [
+    "Origin unknown.",
+    "",
+    "EPIC"
+  ],
+  "name": "珍宝矿",
+  "lore": {
+    "Origin unknown.": "来历不明.",
+    "EPIC": "史诗"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "Origin unknown."
+      ],
+      "translation": "来历不明.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

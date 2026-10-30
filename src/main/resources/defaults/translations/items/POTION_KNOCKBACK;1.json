@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_KNOCKBACK;1",
+  "_original_name": "Knockback I Potion",
+  "_original_lore": [
+    "",
+    "Knockback I (3:00)",
+    "Damaging enemies deals 20% more",
+    "knockback.",
+    "",
+    "COMMON"
+  ],
+  "name": "击退 I 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Knockback I ({{N0}}:{{N1}})"
+      ],
+      "translation": "击退 I ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Knockback I": "击退 I"
+      }
+    },
+    {
+      "source": [
+        "Damaging enemies deals {{N0}} more",
+        "knockback."
+      ],
+      "translation": "攻击敌人时造成 {{N0}} 额外击退.",
+      "styleMappings": {
+        "Damaging enemies deals": "攻击敌人时造成",
+        "knockback": "击退",
+        "more": "额外",
+        "enemies": "敌人"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Knockback I": "击退 I"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

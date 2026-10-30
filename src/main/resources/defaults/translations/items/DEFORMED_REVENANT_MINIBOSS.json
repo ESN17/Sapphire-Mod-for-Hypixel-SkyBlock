@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "DEFORMED_REVENANT_MINIBOSS",
+  "_original_name": "Deformed Revenant (Miniboss)",
+  "_original_lore": [
+    "The Deformed Revenant is a Revenant Horror",
+    "Miniboss that very rarely spawns after killing a",
+    "Zombie during Revenant Horror Tier IV Quests.",
+    "",
+    "❤ Health: 360,000"
+  ],
+  "name": "畸形亡魂 (小首领)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Deformed Revenant is a Revenant Horror",
+        "Miniboss that very rarely spawns after killing a",
+        "Zombie during Revenant Horror Tier IV Quests."
+      ],
+      "translation": "畸形亡魂是一种亡魂恐魔小首领,在亡魂恐魔 IV 阶任务中击杀僵尸后有极低概率生成.",
+      "styleMappings": {
+        "Deformed Revenant": "畸形亡魂",
+        "Revenant Horror": "亡魂恐魔",
+        "Miniboss": "小首领",
+        "Zombie": "僵尸"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Miniboss": "小首领",
+    "Deformed Revenant": "畸形亡魂",
+    "(Miniboss)": "(小首领)"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

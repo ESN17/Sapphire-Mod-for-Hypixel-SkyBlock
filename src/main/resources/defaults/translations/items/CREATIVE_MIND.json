@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "CREATIVE_MIND",
+  "_original_name": "Creative Mind",
+  "_original_lore": [
+    "Original, visionary, inventive",
+    "and innovative! I would even add",
+    "ingenious, clever! A",
+    "masterpiece!",
+    "",
+    "This painting is a relic of",
+    "the past, the writing on the",
+    "back is unreadable.",
+    "",
+    "SPECIAL"
+  ],
+  "name": "创意头脑",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Original, visionary, inventive",
+        "and innovative! I would even add",
+        "ingenious, clever! A",
+        "masterpiece!"
+      ],
+      "translation": "原创、有远见、富有创意且新颖!我甚至要加上巧妙、聪明!一件杰作!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "This painting is a relic of",
+        "the past, the writing on the",
+        "back is unreadable."
+      ],
+      "translation": "这幅画是过去的圣物,背面的字迹已无法辨认.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Creative Mind": "创意头脑"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

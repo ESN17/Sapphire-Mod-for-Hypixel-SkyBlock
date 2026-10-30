@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "GAME_ANNIHILATOR",
+  "_original_name": "Game Annihilator",
+  "_original_lore": [
+    "This item was given to a player who",
+    "reported enough game-breaking",
+    "bugs to make the SkyBlock",
+    "developers cry.",
+    "",
+    "* Co-op Soulbound *",
+    "VERY SPECIAL"
+  ],
+  "name": "游戏毁灭者",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "This item was given to a player who",
+        "reported enough game-breaking",
+        "bugs to make the SkyBlock",
+        "developers cry."
+      ],
+      "translation": "此物品赠予了一位玩家,他报告的破坏游戏漏洞多到让空岛生存开发者都哭了.",
+      "styleMappings": {
+        "SkyBlock": "空岛生存",
+        "player": "玩家",
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "VERY SPECIAL"
+      ],
+      "translation": "极其特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

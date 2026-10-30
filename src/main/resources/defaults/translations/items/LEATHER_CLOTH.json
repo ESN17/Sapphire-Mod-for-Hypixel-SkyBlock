@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "LEATHER_CLOTH",
+  "_original_name": "Leather Cloth",
+  "_original_lore": [
+    "The origin of that leather is a well",
+    "kept secret.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "EPIC"
+  ],
+  "name": "皮革布料",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The origin of that leather is a well",
+        "kept secret."
+      ],
+      "translation": "这种皮革的来源是一个严守的秘密.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Leather": "皮革"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

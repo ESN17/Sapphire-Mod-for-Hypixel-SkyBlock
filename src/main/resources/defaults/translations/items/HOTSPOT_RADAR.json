@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "id": "HOTSPOT_RADAR",
+  "_original_name": "Hotspot Radar",
+  "_original_lore": [
+    "A radar that can be used to detect",
+    "active Fishing Hotspots. Some Sea",
+    "Creatures are exclusive to Hotspots.",
+    "",
+    "Ability: Hotspotter  RIGHT CLICK",
+    "Points towards the nearest Fishing Hotspot.",
+    "Cooldown: 2s",
+    "",
+    "RARE"
+  ],
+  "name": "热点雷达",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A radar that can be used to detect",
+        "active Fishing Hotspots. Some Sea",
+        "Creatures are exclusive to Hotspots."
+      ],
+      "translation": "可用于探测活跃钓鱼热点的雷达.部分海怪仅在热点出现.",
+      "styleMappings": {
+        "Fishing Hotspots": "钓鱼热点",
+        "Sea Creatures": "海怪",
+        "Hotspots": "热点",
+        "Fishing": "钓鱼"
+      }
+    },
+    {
+      "source": [
+        "Ability: Hotspotter  RIGHT CLICK"
+      ],
+      "translation": "技能:渔点探测  右键点击",
+      "styleMappings": {
+        "Ability: Hotspotter": "技能:渔点探测",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Points towards the nearest Fishing Hotspot."
+      ],
+      "translation": "指向最近的钓鱼热点.",
+      "styleMappings": {
+        "Fishing Hotspot": "钓鱼热点",
+        "Fishing": "钓鱼",
+        "Hotspot": "热点"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Hotspot": "热点"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

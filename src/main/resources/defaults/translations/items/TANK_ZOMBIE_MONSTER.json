@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "TANK_ZOMBIE_MONSTER",
+  "_original_name": "Tank Zombie (Monster)",
+  "_original_lore": [
+    "Hefty zombie.",
+    "",
+    "❤ Health: 1,500 - 14,000",
+    "❤ Health (MM) : 60,000 - 225,000"
+  ],
+  "name": "坦克僵尸 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Hefty zombie."
+      ],
+      "translation": "壮硕的僵尸.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}} - {{N1}}"
+      ],
+      "translation": "❤ 生命值: {{N0}} - {{N1}}",
+      "styleMappings": {
+        "Health": "生命值",
+        "-": "-"
+      }
+    },
+    {
+      "source": [
+        "❤ Health (MM) : {{N0}} - {{N1}}"
+      ],
+      "translation": "❤ 生命值 (MM) : {{N0}} - {{N1}}",
+      "styleMappings": {
+        "Health": "生命值",
+        "-": "-"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Zombie": "僵尸",
+    "Tank": "坦克",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

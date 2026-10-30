@@ -1,0 +1,146 @@
+{
+  "schemaVersion": 1,
+  "id": "PHOENIX;7",
+  "_original_name": "[Lvl {LVL}] Phoenix",
+  "_original_lore": [
+    "Combat Pet",
+    "",
+    "Strength: +{STRENGTH}",
+    "Intelligence: +{INTELLIGENCE}",
+    "",
+    "Rekindle",
+    "Before death, become immune and",
+    "gain {0}  Strength for {1} seconds",
+    "60s cooldown",
+    "",
+    "Fourth Flare",
+    "On 4th melee strike, ignite mobs,",
+    "dealing {2}x your  Crit Damage each",
+    "second for {3} seconds",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "SPECIAL PET"
+  ],
+  "name": "[等级 {LVL}] 凤凰",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combat Pet"
+      ],
+      "translation": "战斗宠物",
+      "styleMappings": {
+        "Combat Pet": "战斗宠物",
+        "Combat": "战斗",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Strength: +{{N0}}"
+      ],
+      "translation": "力量: +{{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: +{{N0}}"
+      ],
+      "translation": "智力: +{{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Rekindle"
+      ],
+      "translation": "重燃",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Before death, become immune and",
+        "gain {{N0}}  Strength for {{N1}} seconds",
+        "{{N2}}s cooldown"
+      ],
+      "translation": "死亡前,变为免疫并获得 {{N0}}  力量,持续 {{N1}} 秒 {{N2}} 秒冷却",
+      "styleMappings": {
+        " Strength": " 力量",
+        "cooldown": "冷却",
+        "seconds": "秒",
+        "immune": "免疫",
+        "death": "死亡",
+        "Before death": "死亡前",
+        "Strength": "力量",
+        "{{N2}}s": "{{N2}} 秒",
+        "gain": "获得",
+        "for": "持续"
+      }
+    },
+    {
+      "source": [
+        "Fourth Flare"
+      ],
+      "translation": "第四耀斑",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "On {{N0}}th melee strike, ignite mobs,",
+        "dealing {{N1}}x your  Crit Damage each",
+        "second for {{N2}} seconds"
+      ],
+      "translation": "第 {{N0}} 次近战攻击时,点燃怪物,每秒造成 {{N1}} 倍你的  暴击伤害,持续 {{N2}} 秒",
+      "styleMappings": {
+        " Crit Damage": " 暴击伤害",
+        "ignite": "点燃",
+        "mobs": "怪物",
+        "for": "持续",
+        "Crit Damage": "暴击伤害",
+        "{{N1}}x": "{{N1}} 倍",
+        "seconds": "秒",
+        "Damage": "伤害",
+        "second": "秒"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL PET"
+      ],
+      "translation": "特殊宠物",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Phoenix": "凤凰",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "NIGHT_SAVER",
+  "_original_name": "Night Saver",
+  "_original_lore": [
+    "Control the time on your private",
+    "island when paired with a Day Saver.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "夜之守护",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Control the time on your private",
+        "island when paired with a Day Saver."
+      ],
+      "translation": "与白昼保存器搭配使用时,可控制你私人岛屿上的时间.",
+      "styleMappings": {
+        "Day Saver": "白昼保存器",
+        "private island": "私人岛屿",
+        "island": "岛屿上",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Night Saver": "夜之守护"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

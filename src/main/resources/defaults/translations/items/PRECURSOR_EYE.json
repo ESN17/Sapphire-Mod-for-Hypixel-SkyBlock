@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": "PRECURSOR_EYE",
+  "_original_name": "Precursor Eye",
+  "_original_lore": [
+    "Gear Score: 877",
+    "Health: +222",
+    "Defense: +222",
+    "Intelligence: +222",
+    "Gemstones: [] []",
+    "",
+    "Ability: Eye Beam  SNEAK",
+    "Fire a laser in front of you dealing 4000",
+    "damage and costing 40 mana. The damage",
+    "increases by 100% every second for 5",
+    "seconds and the mana cost increases by 25%",
+    "every second. You can sneak again to",
+    "de-activate the laser.",
+    "",
+    "Mana is consumed on damage.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires The Catacombs Floor VI Completion.",
+    "LEGENDARY DUNGEON HELMET"
+  ],
+  "name": "先驱者之眼",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [] []"
+      ],
+      "translation": "宝石: [] []",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石",
+        "] [": "] ["
+      }
+    },
+    {
+      "source": [
+        "Ability: Eye Beam  SNEAK"
+      ],
+      "translation": "技能: 光束眼  潜行",
+      "styleMappings": {
+        "Ability": "技能",
+        "SNEAK": "潜行",
+        "Eye Beam": "光束眼"
+      }
+    },
+    {
+      "source": [
+        "Fire a laser in front of you dealing {{N0}}",
+        "damage and costing {{N1}} mana. The damage",
+        "increases by {{N2}} every second for {{N3}}",
+        "seconds and the mana cost increases by {{N4}}",
+        "every second. You can sneak again to",
+        "de-activate the laser."
+      ],
+      "translation": "在你面前发射一道激光,造成 {{N0}} 伤害并消耗 {{N1}} 法力.伤害每秒增加 {{N2}},持续 {{N3}} 秒,法力消耗每秒增加 {{N4}}.你可以再次潜行来关闭激光.",
+      "styleMappings": {
+        "damage": "伤害",
+        "mana": "法力",
+        "for": "持续",
+        "seconds": "秒",
+        "second": "秒"
+      }
+    },
+    {
+      "source": [
+        "Mana is consumed on damage."
+      ],
+      "translation": "造成伤害时消耗法力.",
+      "styleMappings": {
+        "Mana": "法力",
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires The Catacombs Floor VI Completion."
+      ],
+      "translation": "❣ 需要通关地牢第 VI 层.",
+      "styleMappings": {
+        "The Catacombs": "地牢",
+        "Requires": "需要",
+        "Catacombs": "地牢"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY DUNGEON HELMET"
+      ],
+      "translation": "传说 地牢 头盔",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Precursor Eye": "先驱者之眼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

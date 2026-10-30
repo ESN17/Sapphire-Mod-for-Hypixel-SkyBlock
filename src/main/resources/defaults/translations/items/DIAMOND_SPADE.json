@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "DIAMOND_SPADE",
+  "_original_name": "Diamond Shovel",
+  "_original_lore": [
+    "Damage: +30",
+    "",
+    "UNCOMMON SHOVEL"
+  ],
+  "name": "钻石锹",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON SHOVEL"
+      ],
+      "translation": "罕见铲子",
+      "styleMappings": {
+        "UNCOMMON SHOVEL": "罕见铲子",
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

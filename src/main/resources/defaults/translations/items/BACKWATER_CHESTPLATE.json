@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "BACKWATER_CHESTPLATE",
+  "_original_name": "Backwater Chestplate",
+  "_original_lore": [
+    "Health: +50",
+    "Defense: +25",
+    "Sea Creature Chance: +2%",
+    "Treasure Chance: +0.1%",
+    "",
+    "Tiered Bonus: Swamp Soldier (0/8)",
+    "Increases damage dealt to Sea",
+    "Creatures by 5%.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Fishing Skill 5.",
+    "UNCOMMON CHESTPLATE"
+  ],
+  "name": "死水胸甲",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Sea Creature Chance: {{N0}}"
+      ],
+      "translation": "海洋生物概率:{{N0}}",
+      "styleMappings": {
+        "Sea Creature Chance": "海洋生物概率",
+        "Sea Creature": "海洋生物"
+      }
+    },
+    {
+      "source": [
+        "Treasure Chance: {{N0}}"
+      ],
+      "translation": "宝藏概率: {{N0}}",
+      "styleMappings": {
+        "Treasure Chance": "宝藏概率",
+        "Treasure": "宝藏"
+      }
+    },
+    {
+      "source": [
+        "Tiered Bonus: Swamp Soldier ({{N0}}/{{N1}})"
+      ],
+      "translation": "分级加成: 沼泽士兵 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Swamp Soldier": "沼泽士兵",
+        "Tiered Bonus": "分级加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Increases damage dealt to Sea",
+        "Creatures by {{N0}}."
+      ],
+      "translation": "对海洋生物造成的伤害提高 {{N0}}.",
+      "styleMappings": {
+        "Sea Creatures": "海洋生物",
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Fishing Skill {{N0}}."
+      ],
+      "translation": "❣ 需要钓鱼技能 {{N0}}.",
+      "styleMappings": {
+        "Fishing Skill": "钓鱼技能",
+        "Requires": "需要",
+        "Fishing": "钓鱼",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON CHESTPLATE"
+      ],
+      "translation": "罕见 胸甲",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Chestplate": "胸甲"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

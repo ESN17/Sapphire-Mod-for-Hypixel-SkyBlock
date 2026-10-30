@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "FOSSIL_THE_FISH",
+  "_original_name": "Fossil the Fish",
+  "_original_lore": [
+    "Older than time itself yet never",
+    "changing, for he was born perfect.",
+    "",
+    "SPECIAL"
+  ],
+  "name": "化石鱼",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Older than time itself yet never",
+        "changing, for he was born perfect."
+      ],
+      "translation": "比时间本身更古老,却从未改变,因为他生来完美.",
+      "styleMappings": {
+        "perfect": "完美"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fish": "鱼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

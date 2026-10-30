@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "SPLITTER_SPIDER_MONSTER",
+  "_original_name": "Splitter Spider (Monster)",
+  "_original_lore": [
+    "The Splitter Spider is a spider that splits into two",
+    "silverfish upon death. They spawn in the Spider's",
+    "Den (Northwest of the Graveyard). ",
+    "",
+    "❤ Health: 160"
+  ],
+  "name": "分裂蜘蛛 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Splitter Spider is a spider that splits into two",
+        "silverfish upon death. They spawn in the Spider's",
+        "Den (Northwest of the Graveyard). "
+      ],
+      "translation": "分裂蜘蛛是一种蜘蛛,死亡时会分裂成两只蠹虫.它们生成在蜘蛛巢穴(墓园西北方).",
+      "styleMappings": {
+        "Spider's Den": "蜘蛛巢穴",
+        "death": "死亡",
+        "Spider": "蜘蛛",
+        "Graveyard": "墓园"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Spider": "蜘蛛",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

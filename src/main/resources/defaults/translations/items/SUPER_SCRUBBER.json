@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "id": "SUPER_SCRUBBER",
+  "_original_name": "Super Scrubber",
+  "_original_lore": [
+    "Consumed on use",
+    "",
+    "Can be used to remove Pet Items",
+    "from your active Pet. You will be",
+    "refunded the Pet Item.",
+    "",
+    "\"What is the benefit of outright",
+    "removing a pet item instead of",
+    "swapping it with another, you ask?",
+    "Well, uh, it...looks...nicer?\"",
+    "- Plumber Joe",
+    "",
+    "Right-click on your summoned pet to",
+    "remove its item!",
+    "",
+    "RARE"
+  ],
+  "name": "超级清洁器",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumed on use"
+      ],
+      "translation": "使用后消耗",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Can be used to remove Pet Items",
+        "from your active Pet. You will be",
+        "refunded the Pet Item."
+      ],
+      "translation": "可移除当前宠物装备的宠物道具.卸下的道具会退还给你.",
+      "styleMappings": {
+        "Pet Items": "宠物道具",
+        "Pet": "宠物",
+        "Pet Item": "道具"
+      }
+    },
+    {
+      "source": [
+        "\"What is the benefit of outright",
+        "removing a pet item instead of",
+        "swapping it with another, you ask?"
+      ],
+      "translation": "\"你问直接移除宠物道具而不是换成另一个有什么好处?",
+      "styleMappings": {
+        "pet": "宠物",
+        "item": "道具"
+      }
+    },
+    {
+      "source": [
+        "Well, uh, it...looks...nicer?\"",
+        "- Plumber Joe"
+      ],
+      "translation": "嗯,呃,它……看起来……更好看?\" - Plumber Joe",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click on your summoned pet to"
+      ],
+      "translation": "右键点击你召唤的宠物以",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "remove its item!"
+      ],
+      "translation": "移除它的物品!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "WITHER_SKELETON_MONSTER",
+  "_original_name": "Wither Skeleton (Monster)",
+  "_original_lore": [
+    "Keepers of the Crimson Isle.",
+    "",
+    "❤ Health: 300,000"
+  ],
+  "name": "凋零骷髅 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Keepers of the Crimson Isle."
+      ],
+      "translation": "绯红之岛的守护者.",
+      "styleMappings": {
+        "Crimson Isle": "绯红之岛"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Skeleton": "骷髅",
+    "Wither": "凋零",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

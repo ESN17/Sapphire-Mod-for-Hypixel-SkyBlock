@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "id": "SLUG;4",
+  "_original_name": "[Lvl {LVL}] Slug",
+  "_original_lore": [
+    "Farming Pet",
+    "",
+    "Defense: +{DEFENSE}",
+    "Intelligence: +{INTELLIGENCE}",
+    "",
+    "Slow and Steady",
+    "When fishing in the Crimson Isle,",
+    "Slugfish take {0}% less time to catch.",
+    "",
+    "Pest Friends",
+    "Grants +{1} Bonus Pest Chance.",
+    "",
+    "Repugnant Aroma",
+    "When farming in a plot affected by a",
+    "Sprayonator, gain +{2} Farming",
+    "Fortune.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "LEGENDARY PET"
+  ],
+  "name": "[等级 {LVL}] 蛞蝓",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Farming Pet"
+      ],
+      "translation": "耕作宠物",
+      "styleMappings": {
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Defense: +{{N0}}"
+      ],
+      "translation": "防御力: +{{N0}}",
+      "styleMappings": {
+        "Defense": "防御力"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: +{{N0}}"
+      ],
+      "translation": "智力: +{{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Slow and Steady"
+      ],
+      "translation": "缓慢而稳定",
+      "styleMappings": {
+        "Slow and Steady": "缓慢而稳定"
+      }
+    },
+    {
+      "source": [
+        "When fishing in the Crimson Isle,",
+        "Slugfish take {{N0}}% less time to catch."
+      ],
+      "translation": "在绯红之岛钓鱼时,蛞蝓鱼的上钩时间减少 {{N0}}%.",
+      "styleMappings": {
+        "Crimson Isle": "绯红之岛",
+        "Slugfish": "蛞蝓鱼",
+        "fishing": "钓鱼",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Pest Friends"
+      ],
+      "translation": "害虫之友",
+      "styleMappings": {
+        "Pest Friends": "害虫之友",
+        "Pest": "害虫"
+      }
+    },
+    {
+      "source": [
+        "Grants +{{N0}} Bonus Pest Chance."
+      ],
+      "translation": "提供 +{{N0}} 额外害虫概率.",
+      "styleMappings": {
+        "Bonus Pest Chance": "额外害虫概率",
+        "Grants": "提供",
+        "Pest": "害虫"
+      }
+    },
+    {
+      "source": [
+        "Repugnant Aroma"
+      ],
+      "translation": "刺鼻气味",
+      "styleMappings": {
+        "Repugnant Aroma": "刺鼻气味"
+      }
+    },
+    {
+      "source": [
+        "When farming in a plot affected by a",
+        "Sprayonator, gain +{{N0}} Farming",
+        "Fortune."
+      ],
+      "translation": "在受喷雾器影响的区域耕种时,获得 +{{N0}} 耕种幸运.",
+      "styleMappings": {
+        "Farming Fortune": "耕种幸运",
+        "Sprayonator": "喷雾器",
+        "Fortune": "幸运",
+        "Farming": "耕种",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY PET"
+      ],
+      "translation": "传说 宠物",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Slug": "蛞蝓",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

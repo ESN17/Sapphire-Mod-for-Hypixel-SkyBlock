@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": "COLE_MAYOR_MONSTER",
+  "_original_name": "Cole (Mayor)",
+  "_original_lore": [
+    "Candidate",
+    "",
+    "Prospection",
+    "Mining minions work 25% faster.",
+    "",
+    "Mining XP Buff",
+    "Get +60☯ Mining Wisdom on public",
+    "islands.",
+    "",
+    "Mining Fiesta",
+    "Gain +25☯ Mining Wisdom, +25% ",
+    "Mining Fortune, and collect Refined",
+    "Minerals and Glossy Gemstones",
+    "from mining!",
+    "",
+    "Molten Forge",
+    "Decrease the time it takes to",
+    "forge items by 25%."
+  ],
+  "name": "Cole (市长)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Candidate"
+      ],
+      "translation": "候选人",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Prospection"
+      ],
+      "translation": "勘探",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Mining minions work {{N0}} faster."
+      ],
+      "translation": "采矿仆从工作速度加快 {{N0}}.",
+      "styleMappings": {
+        "Mining minions": "采矿仆从",
+        "faster": "加快",
+        "Mining": "采矿",
+        "minions": "仆从",
+        "work": "工作"
+      }
+    },
+    {
+      "source": [
+        "Mining XP Buff"
+      ],
+      "translation": "采矿经验加成",
+      "styleMappings": {
+        "Mining": "采矿"
+      }
+    },
+    {
+      "source": [
+        "Get {{N0}}☯ Mining Wisdom on public",
+        "islands."
+      ],
+      "translation": "在公共岛屿上获得 {{N0}}☯ 采矿智慧.",
+      "styleMappings": {
+        "Mining Wisdom": "采矿智慧",
+        "Mining": "采矿",
+        "Wisdom": "智慧"
+      }
+    },
+    {
+      "source": [
+        "Mining Fiesta",
+        "Gain {{N0}}☯ Mining Wisdom, {{N1}} ",
+        "Mining Fortune, and collect Refined",
+        "Minerals and Glossy Gemstones",
+        "from mining!"
+      ],
+      "translation": "采矿狂欢 获得 {{N0}}☯ 采矿智慧、{{N1}}   采矿幸运,并通过采矿收集精炼矿物和光泽宝石!",
+      "styleMappings": {
+        "Glossy Gemstones": "光泽宝石",
+        "Refined Minerals": "精炼矿物",
+        "Mining Fortune": "采矿幸运",
+        "Mining Fiesta": "采矿狂欢",
+        "Mining Wisdom": "采矿智慧",
+        "Gain": "获得",
+        "Mining": "采矿",
+        "Gemstones": "宝石",
+        "Fortune": "幸运",
+        "Wisdom": "智慧",
+        "Refined": "精炼",
+        " Mining Fortune": " 采矿幸运"
+      }
+    },
+    {
+      "source": [
+        "Molten Forge"
+      ],
+      "translation": "熔火锻造",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Decrease the time it takes to",
+        "forge items by {{N0}}."
+      ],
+      "translation": "将锻造物品所需的时间减少 {{N0}}.",
+      "styleMappings": {
+        "forge": "锻造",
+        "items": "物品"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mayor": "市长"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

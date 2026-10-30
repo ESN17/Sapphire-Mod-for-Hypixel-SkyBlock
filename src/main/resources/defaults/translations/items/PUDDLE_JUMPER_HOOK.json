@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "PUDDLE_JUMPER_HOOK",
+  "_original_name": "Puddle Jumper Hook",
+  "_original_lore": [
+    "Increases the chance to catch a",
+    "Puddle Jumper by 400%.",
+    "",
+    "Talk to Roddy in the Backwater",
+    "Bayou to apply this Hook to a Fishing",
+    "Rod.",
+    "",
+    "❣ Requires Fishing Skill 25.",
+    "❣ Requires Lotus Collection VIII.",
+    "RARE ROD PART"
+  ],
+  "name": "水坑跳跃者钩",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Increases the chance to catch a",
+        "Puddle Jumper by {{N0}}."
+      ],
+      "translation": "增加 {{N0}} 捕获水坑跳跃者的概率.",
+      "styleMappings": {
+        "Puddle Jumper": "水坑跳跃者",
+        "Increases": "增加",
+        "chance to": "概率",
+        "chance": "概率"
+      }
+    },
+    {
+      "source": [
+        "Talk to Roddy in the Backwater",
+        "Bayou to apply this Hook to a Fishing",
+        "Rod."
+      ],
+      "translation": "与静水河湾的 Roddy 交谈,将此鱼钩应用到钓鱼竿上.",
+      "styleMappings": {
+        "Backwater Bayou": "静水河湾",
+        "Fishing Rod": "钓鱼竿",
+        "Roddy": "Roddy",
+        "Hook": "鱼钩",
+        "Fishing": "钓鱼",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Fishing Skill {{N0}}."
+      ],
+      "translation": "❣ 需要钓鱼技能 {{N0}}.",
+      "styleMappings": {
+        "Fishing Skill": "钓鱼技能",
+        "Requires": "需要",
+        "Fishing": "钓鱼",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Lotus Collection VIII."
+      ],
+      "translation": "❣ 需要莲花收藏 VIII.",
+      "styleMappings": {
+        "Lotus Collection VIII": "莲花收藏 VIII",
+        "Requires": "需要",
+        "Collection": "收藏",
+        "Lotus": "莲花"
+      }
+    },
+    {
+      "source": [
+        "RARE ROD PART"
+      ],
+      "translation": "稀有鱼竿部件",
+      "styleMappings": {
+        "RARE ROD PART": "稀有鱼竿部件",
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Puddle Jumper Hook": "水坑跳跃者钩",
+    "Puddle Jumper": "水坑跳跃者"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

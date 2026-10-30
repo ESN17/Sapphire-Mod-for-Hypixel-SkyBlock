@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "IRON_CHEST",
+  "_original_name": "Iron Chest+",
+  "_original_lore": [
+    "Furniture",
+    "Storage",
+    "",
+    "You can store three pages of items",
+    "in this chest!",
+    "",
+    "RARE"
+  ],
+  "name": "铁宝箱+",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Furniture",
+        "Storage"
+      ],
+      "translation": "家具存储",
+      "styleMappings": {
+        "Furniture": "家具"
+      }
+    },
+    {
+      "source": [
+        "You can store three pages of items",
+        "in this chest!"
+      ],
+      "translation": "你可以在这个箱子里存放三页物品!",
+      "styleMappings": {
+        "items": "物品"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

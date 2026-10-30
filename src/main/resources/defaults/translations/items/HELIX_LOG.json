@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "HELIX_LOG",
+  "_original_name": "Helix Log",
+  "_original_lore": [
+    "Collection Item",
+    "",
+    "A particularly resilient type of log",
+    "that, should they not know the",
+    "secret to cutting it, will outlast most",
+    "foragers.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "COMMON"
+  ],
+  "name": "螺旋原木",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Collection Item"
+      ],
+      "translation": "收藏品",
+      "styleMappings": {
+        "Collection": "收藏"
+      }
+    },
+    {
+      "source": [
+        "A particularly resilient type of log",
+        "that, should they not know the",
+        "secret to cutting it, will outlast most",
+        "foragers."
+      ],
+      "translation": "一种格外坚韧的原木,若不知晓砍伐它的秘诀,它将比大多数采伐者更长久.",
+      "styleMappings": {
+        "most": "大多数"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Helix Log": "螺旋原木"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "NOISY_PEARL",
+  "_original_name": "Noisy Pearl",
+  "_original_lore": [
+    "Lets you take pearl damage and",
+    "spawns Endermen when thrown on",
+    "The End.",
+    "",
+    "Obtained from the A Honk and Seek",
+    "Adventure event during April Fools.",
+    "",
+    "It's the background noise when you",
+    "talk on your Abiphone.",
+    "",
+    "SPECIAL"
+  ],
+  "name": "吵闹珍珠",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Lets you take pearl damage and",
+        "spawns Endermen when thrown on",
+        "The End."
+      ],
+      "translation": "让你受到珍珠伤害,并在末地投掷时生成末影人.",
+      "styleMappings": {
+        "Endermen": "末影人",
+        "The End": "末地",
+        "damage": "伤害",
+        "End": "末地",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Obtained from the A Honk and Seek",
+        "Adventure event during April Fools."
+      ],
+      "translation": "在愚人节期间的鸣笛寻宝冒险活动中获得.",
+      "styleMappings": {
+        "A Honk and Seek Adventure": "鸣笛寻宝冒险"
+      }
+    },
+    {
+      "source": [
+        "It's the background noise when you",
+        "talk on your Abiphone."
+      ],
+      "translation": "这是你用阿比手机通话时的背景噪音.",
+      "styleMappings": {
+        "Abiphone": "阿比手机",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

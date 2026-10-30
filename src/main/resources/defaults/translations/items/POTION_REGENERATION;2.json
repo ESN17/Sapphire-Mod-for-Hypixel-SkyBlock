@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_REGENERATION;2",
+  "_original_name": "Regeneration II Potion",
+  "_original_lore": [
+    "",
+    "Regeneration II (0:45)",
+    "Grants +5 Health Regen.",
+    "",
+    "COMMON"
+  ],
+  "name": "再生 II 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Regeneration II ({{N0}}:{{N1}})"
+      ],
+      "translation": "生命恢复 II ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Regeneration II": "生命恢复 II",
+        "II": "II",
+        "Regeneration": "生命恢复"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Health Regen."
+      ],
+      "translation": "提供 {{N0}} 生命恢复.",
+      "styleMappings": {
+        "Health Regen": "生命恢复",
+        "Grants": "提供",
+        "Health": "生命",
+        "Regen": "恢复"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "II": "II"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

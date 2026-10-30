@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "ETERNAL_FLAME_RING",
+  "_original_name": "Eternal Flame Ring",
+  "_original_lore": [
+    "A ring that calls you towards the",
+    "eternal flame of the pits of lava.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "永恒烈焰戒指",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A ring that calls you towards the",
+        "eternal flame of the pits of lava."
+      ],
+      "translation": "一枚将你引向熔岩深渊中永恒烈焰的戒指.",
+      "styleMappings": {
+        "lava": "熔岩"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Ring": "戒指"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

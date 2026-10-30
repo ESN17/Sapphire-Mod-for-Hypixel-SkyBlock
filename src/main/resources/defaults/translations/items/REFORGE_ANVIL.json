@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "id": "REFORGE_ANVIL",
+  "_original_name": "Reforge Anvil",
+  "_original_lore": [
+    "Legacy Item",
+    "",
+    "This item has had its functionality",
+    "merged with Anvils. Apply Reforge",
+    "Stones and other items with an Anvil!",
+    "",
+    "Can be sold in Shops for 2,000,000",
+    "Coins!",
+    "",
+    "EPIC"
+  ],
+  "name": "洗练铁砧",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Legacy Item"
+      ],
+      "translation": "遗留物品",
+      "styleMappings": {
+        "Item": "物品"
+      }
+    },
+    {
+      "source": [
+        "This item has had its functionality",
+        "merged with Anvils. Apply Reforge",
+        "Stones and other items with an Anvil!"
+      ],
+      "translation": "该物品的功能已并入铁砧.借助铁砧应用洗练石和其他物品!",
+      "styleMappings": {
+        "Reforge Stones": "洗练石",
+        "item": "物品",
+        "items": "物品",
+        "Reforge": "洗练",
+        "Anvils": "铁砧",
+        "with an Anvil": "借助铁砧"
+      }
+    },
+    {
+      "source": [
+        "Can be sold in Shops for {{N0}}",
+        "Coins!"
+      ],
+      "translation": "可在商店出售获得 {{N0}} 硬币!",
+      "styleMappings": {
+        "Coins": "硬币",
+        "Shops": "商店",
+        "for": "获得"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Anvil": "铁砧",
+    "Reforge": "洗练"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

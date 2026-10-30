@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 1,
+  "id": "MANA_FLUX_POWER_ORB",
+  "_original_name": "Mana Flux Power Orb",
+  "_original_lore": [
+    "Ability: Deploy  RIGHT CLICK",
+    "Place an orb for 1m buffing up to 5",
+    "players within 18 blocks.",
+    "Mana Cost: 50% of max",
+    "Vitality Cost: 50",
+    "",
+    "Orb Buff: Mana Flux",
+    "• Heal yourself for 40❤ per second.",
+    "• Heal others for 20❤ per second.",
+    "• Gain +50 Health Regen.",
+    "• Grants +50% base mana regen.",
+    "• Grants +10 Strength.",
+    "",
+    "Only one deployable buff applies.",
+    "",
+    "☠ Requires Wolf Slayer 6.",
+    "RARE DEPLOYABLE"
+  ],
+  "name": "法力涌流能量球",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Deploy  RIGHT CLICK"
+      ],
+      "translation": "技能: 部署  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Place an orb for {{N0}}m buffing up to {{N1}}",
+        "players within {{N2}} blocks."
+      ],
+      "translation": "放置一颗持续 {{N0}}分钟的能量珠,为 {{N2}} 格内最多 {{N1}} 名玩家提供增益.",
+      "styleMappings": {
+        "blocks": "格",
+        "for": "持续",
+        "m": "分钟",
+        "{{N0}}m": "{{N0}}分钟"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}} of max"
+      ],
+      "translation": "魔力消耗:最大魔力的 {{N0}}",
+      "styleMappings": {
+        "of max": "最大魔力",
+        "max": "最大",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "Vitality Cost: {{N0}}"
+      ],
+      "translation": "活力消耗:{{N0}}",
+      "styleMappings": {
+        "Vitality": "活力"
+      }
+    },
+    {
+      "source": [
+        "Orb Buff: Mana Flux"
+      ],
+      "translation": "能量球增益: 法力涌流",
+      "styleMappings": {
+        "Mana": "法力",
+        "Orb Buff": "能量球增益"
+      }
+    },
+    {
+      "source": [
+        "• Heal yourself for {{N0}}❤ per second."
+      ],
+      "translation": "• 每秒为自己恢复 {{N0}}❤.",
+      "styleMappings": {
+        "per second": "每秒",
+        "Heal": "恢复",
+        "second": "秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "• Heal others for {{N0}}❤ per second."
+      ],
+      "translation": "• 每秒为其他玩家恢复 {{N0}}❤.",
+      "styleMappings": {
+        "per second": "每秒",
+        "Heal": "恢复",
+        "second": "秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "• Gain {{N0}} Health Regen."
+      ],
+      "translation": "• 获得 {{N0}} 生命恢复.",
+      "styleMappings": {
+        "Health Regen": "生命恢复",
+        "Gain": "获得",
+        "Health": "生命",
+        "Regen": "恢复"
+      }
+    },
+    {
+      "source": [
+        "• Grants {{N0}} base mana regen."
+      ],
+      "translation": "• 提供 {{N0}} 基础法力回复.",
+      "styleMappings": {
+        "base mana regen.": "基础法力回复.",
+        "Grants": "提供",
+        "mana": "法力"
+      }
+    },
+    {
+      "source": [
+        "• Grants {{N0}} Strength."
+      ],
+      "translation": "• 提供 {{N0}} 力量.",
+      "styleMappings": {
+        " Strength": " 力量",
+        "Grants": "提供",
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Only one deployable buff applies."
+      ],
+      "translation": "部署类增益同时只能生效一种.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "☠ Requires Wolf Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要狼杀手 {{N0}}.",
+      "styleMappings": {
+        "Wolf Slayer": "狼杀手",
+        "Requires": "需要",
+        "Slayer": "杀手",
+        "Wolf": "狼"
+      }
+    },
+    {
+      "source": [
+        "RARE DEPLOYABLE"
+      ],
+      "translation": "稀有 部署物",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mana": "法力",
+    "Mana Flux Power Orb": "法力涌流能量球"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

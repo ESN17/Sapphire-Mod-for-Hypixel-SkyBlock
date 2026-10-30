@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "ABIPHONE_BASIC",
+  "_original_name": "Abiphone Basic",
+  "_original_lore": [
+    "A device that can be used to contact",
+    "people! Click NPCs to add them to",
+    "your contacts!",
+    "",
+    "Features:",
+    " Maximum Contacts: 6",
+    " Contacts Directory",
+    "",
+    "Right-click to open!",
+    "",
+    "COMMON"
+  ],
+  "name": "基础款手机",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A device that can be used to contact",
+        "people! Click NPCs to add them to",
+        "your contacts!"
+      ],
+      "translation": "一台可用于联系他人的设备! 点击人物将其加入联系人!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Features:"
+      ],
+      "translation": "功能:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " Maximum Contacts: {{N0}}"
+      ],
+      "translation": " 最大联系人: {{N0}}",
+      "styleMappings": {
+        "Maximum Contacts": "最大联系人"
+      }
+    },
+    {
+      "source": [
+        " Contacts Directory"
+      ],
+      "translation": " 联系人目录",
+      "styleMappings": {
+        "Contacts Directory": "联系人目录"
+      }
+    },
+    {
+      "source": [
+        "Right-click to open!"
+      ],
+      "translation": "右键点击打开!",
+      "styleMappings": {
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Abiphone": "手机",
+    "Basic": "基础"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

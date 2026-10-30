@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "CHICKZILLA_MONSTER",
+  "_original_name": "Chickzilla (Monster)",
+  "_original_lore": [
+    "The [Lv100] Chickzilla can be spawned once by ",
+    "speaking to Igrupan in Scarleton after reaching ",
+    "7,000 Mage Reputation and bringing him ",
+    "his 5 chickens back.",
+    "",
+    "❤ Health: 100.000.000"
+  ],
+  "name": "奇可兹拉 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The [Lv{{N0}}] Chickzilla can be spawned once by ",
+        "speaking to Igrupan in Scarleton after reaching ",
+        "{{N1}} Mage Reputation and bringing him ",
+        "his {{N2}} chickens back."
+      ],
+      "translation": "达到 {{N1}} 法师声望并将他的 {{N2}} 只鸡带回来后,与斯卡雷顿的 Igrupan 交谈即可召唤一次 [等级{{N0}}] 奇克兹拉。",
+      "styleMappings": {
+        "Mage Reputation": "法师声望",
+        "Chickzilla": "奇克兹拉",
+        "chickens": "只鸡",
+        "Scarleton": "斯卡雷顿",
+        "Mage": "法师"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}.{{N1}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}.{{N1}}",
+      "styleMappings": {}
+    }
+  ],
+  "styleMappings": {
+    "Chickzilla": "奇可兹拉",
+    "(Monster)": "(怪物)",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

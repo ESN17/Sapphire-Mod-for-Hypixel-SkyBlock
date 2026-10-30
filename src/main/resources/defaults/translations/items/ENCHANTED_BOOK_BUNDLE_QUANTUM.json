@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "id": "ENCHANTED_BOOK_BUNDLE_QUANTUM",
+  "_original_name": "Enchanted Book Bundle",
+  "_original_lore": [
+    "Quantum III",
+    "Grants +2.4 Vitality on weekdays",
+    "and +1.2☯ of a random Wisdom stat",
+    "on weekends.",
+    "",
+    "Right-click to open this bundle",
+    "containing 1 enchanted book.",
+    "",
+    "* Soulbound *",
+    "X Rift-Exportable X",
+    "Loses motes value when crossing",
+    "dimensions.",
+    "UNCOMMON"
+  ],
+  "name": "附魔书捆",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Quantum III",
+        "Grants {{N0}} Vitality on weekdays",
+        "and {{N1}}☯ of a random Wisdom stat",
+        "on weekends."
+      ],
+      "translation": "量子 III 在工作日提供 {{N0}} 生命回复,在周末提供 {{N1}}☯ 的随机智慧属性.",
+      "styleMappings": {
+        "Quantum III": "量子 III",
+        "Vitality": "生命回复",
+        "Wisdom": "智慧",
+        "Grants": "提供",
+        "III": "III",
+        "Quantum": "量子"
+      }
+    },
+    {
+      "source": [
+        "Right-click to open this bundle"
+      ],
+      "translation": "右键点击打开此包裹",
+      "styleMappings": {
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "containing {{N0}} enchanted book."
+      ],
+      "translation": "内含 {{N0}} 本附魔书.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "X Rift-Exportable X",
+        "Loses motes value when crossing",
+        "dimensions."
+      ],
+      "translation": "X 可带出裂隙 X 穿越维度时会损失裂隙尘埃价值.",
+      "styleMappings": {
+        "Rift-Exportable": "可带出裂隙",
+        "Rift": "裂隙",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

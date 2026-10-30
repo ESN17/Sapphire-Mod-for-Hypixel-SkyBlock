@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "id": "INFERNO_GENERATOR_2",
+  "_original_name": "Inferno Minion II",
+  "_original_lore": [
+    "Place this minion and it will start",
+    "generating and slaying Infernals!",
+    "Minions also work when you are",
+    "offline!",
+    "",
+    "Ability: Rising Celsius",
+    "Each Inferno minion increases the",
+    "speed of ALL Inferno minions by 18%,",
+    "up to 180%.",
+    "",
+    "Time Between Actions: 982s",
+    "Max Storage: 192",
+    "Resources Generated: 0",
+    "",
+    "RARE"
+  ],
+  "name": "炼狱仆从 II",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Place this minion and it will start",
+        "generating and slaying Infernals!"
+      ],
+      "translation": "放置此仆从后,它将开始生成并击杀炼狱生物!",
+      "styleMappings": {
+        "minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "Minions also work when you are",
+        "offline!"
+      ],
+      "translation": "你离线时仆从也会继续工作!",
+      "styleMappings": {
+        "Minions": "仆从",
+        "work": "工作",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Ability: Rising Celsius"
+      ],
+      "translation": "能力: 摄氏攀升",
+      "styleMappings": {
+        "Ability": "能力"
+      }
+    },
+    {
+      "source": [
+        "Each Inferno minion increases the",
+        "speed of ALL Inferno minions by {{N0}},",
+        "up to {{N1}}."
+      ],
+      "translation": "每个炼狱仆从使所有炼狱仆从的速度提高 {{N0}},最高 {{N1}}.",
+      "styleMappings": {
+        "speed": "速度",
+        "ALL": "所有",
+        "minion": "仆从",
+        "minions": "仆从",
+        "Inferno minions": "炼狱仆从",
+        "Inferno": "炼狱"
+      }
+    },
+    {
+      "source": [
+        "Time Between Actions: {{N0}}s"
+      ],
+      "translation": "行动间隔:{{N0}}秒",
+      "styleMappings": {
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "Max Storage: {{N0}}"
+      ],
+      "translation": "最大存储:{{N0}}",
+      "styleMappings": {
+        "Max": "最大"
+      }
+    },
+    {
+      "source": [
+        "Resources Generated: {{N0}}"
+      ],
+      "translation": "产出资源:{{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Inferno Minion II": "炼狱仆从 II",
+    "II": "II",
+    "Minion": "仆从",
+    "Inferno": "炼狱"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

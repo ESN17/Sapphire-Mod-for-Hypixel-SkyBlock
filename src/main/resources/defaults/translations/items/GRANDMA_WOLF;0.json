@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "id": "GRANDMA_WOLF;0",
+  "_original_name": "[Lvl {LVL}] Grandma Wolf",
+  "_original_lore": [
+    "Combat Pet",
+    "",
+    "Health: +{HEALTH}",
+    "Strength: +{STRENGTH}",
+    "",
+    "Kill Combo",
+    "Gain buffs for combo kills. Effects",
+    "stack as you increase your combo.",
+    "",
+    "5 Combo (lasts {0}s)",
+    "  +1%  Magic Find",
+    "10 Combo (lasts {1}s)",
+    "  +2 coins per kill",
+    "15 Combo (lasts {2}s)",
+    "  +1%  Magic Find",
+    "20 Combo (lasts {3}s)",
+    "  +5☯ Combat Wisdom",
+    "25 Combo (lasts {4}s)",
+    "  +1%  Magic Find",
+    "30 Combo (lasts {5}s)",
+    "  +2 coins per kill",
+    "",
+    "This pet's perks are active even",
+    "when the pet is not summoned!",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "* Soulbound *",
+    "COMMON PET"
+  ],
+  "name": "[等级 {LVL}] 狼外婆",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combat Pet"
+      ],
+      "translation": "战斗宠物",
+      "styleMappings": {
+        "Combat Pet": "战斗宠物",
+        "Combat": "战斗",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Health: +{{N0}}"
+      ],
+      "translation": "生命值: +{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Strength: +{{N0}}"
+      ],
+      "translation": "力量: +{{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Kill Combo"
+      ],
+      "translation": "击杀连击",
+      "styleMappings": {
+        "Kill Combo": "击杀连击",
+        "Combo": "连击"
+      }
+    },
+    {
+      "source": [
+        "Gain buffs for combo kills. Effects",
+        "stack as you increase your combo."
+      ],
+      "translation": "连击击杀可获得增益.连击数越高,效果越强.",
+      "styleMappings": {
+        "kills": "击杀",
+        "Gain": "获得",
+        "for": "获得"
+      }
+    },
+    {
+      "source": [
+        "{{N0}} Combo (lasts {{N1}}s)",
+        "  {{N2}}  Magic Find",
+        "{{N3}} Combo (lasts {{N4}}s)",
+        "  {{N5}} coins per kill",
+        "{{N6}} Combo (lasts {{N7}}s)",
+        "  {{N8}}  Magic Find",
+        "{{N9}} Combo (lasts {{N10}}s)",
+        "  {{N11}}☯ Combat Wisdom",
+        "{{N12}} Combo (lasts {{N13}}s)",
+        "  {{N14}}  Magic Find",
+        "{{N15}} Combo (lasts {{N16}}s)",
+        "  {{N17}} coins per kill"
+      ],
+      "translation": "{{N0}} 连击 (持续 {{N1}} 秒)   {{N2}}   稀有物品概率加成 {{N3}} 连击 (持续 {{N4}} 秒)   {{N5}} 金币/击杀 {{N6}} 连击 (持续 {{N7}} 秒)   {{N8}}   稀有物品概率加成 {{N9}} 连击 (持续 {{N10}} 秒)   {{N11}}☯ 战斗智慧 {{N12}} 连击 (持续 {{N13}} 秒)   {{N14}}   稀有物品概率加成 {{N15}} 连击 (持续 {{N16}} 秒)   {{N17}} 金币/击杀",
+      "styleMappings": {
+        "coins per kill": "金币/击杀",
+        "Combat Wisdom": "战斗智慧",
+        " Magic Find": " 稀有物品概率加成",
+        "Combo": "连击",
+        "lasts": "持续",
+        "{{N10}}s": "{{N10}} 秒",
+        "{{N13}}s": "{{N13}} 秒",
+        "{{N16}}s": "{{N16}} 秒",
+        "{{N1}}s": "{{N1}} 秒",
+        "{{N4}}s": "{{N4}} 秒",
+        "{{N7}}s": "{{N7}} 秒",
+        "Combat": "战斗",
+        "coins": "金币",
+        "Magic Find": "稀有物品概率加成",
+        "Wisdom": "智慧"
+      }
+    },
+    {
+      "source": [
+        "This pet's perks are active even",
+        "when the pet is not summoned!"
+      ],
+      "translation": "即使宠物未被召唤,此宠物的技能也会生效!",
+      "styleMappings": {
+        "This pet's perks are active even": "即使宠物未被召唤,此宠物的技能也会生效",
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "COMMON PET"
+      ],
+      "translation": "普通 宠物",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Grandma Wolf": "狼外婆",
+    "Lvl": "等级",
+    "Wolf": "狼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

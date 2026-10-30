@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "OBSCURE_ENDING",
+  "_original_name": "Obscure Ending",
+  "_original_lore": [
+    "Darkened by shadow.",
+    "",
+    "* Co-op Soulbound *",
+    "RARE"
+  ],
+  "name": "晦暗终章",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Darkened by shadow."
+      ],
+      "translation": "被暗影笼罩.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    },
+    {
+      "source": [
+        "* Co-op Soulbound * RARE"
+      ],
+      "translation": "* 合作灵魂绑定 * 稀有",
+      "styleMappings": {
+        "RARE": "稀有",
+        "Soulbound": "灵魂绑定"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

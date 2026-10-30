@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "GOLD_GIFT",
+  "_original_name": "Golden Gift",
+  "_original_lore": [
+    "It's a trophy!",
+    "",
+    "SPECIAL"
+  ],
+  "name": "金色礼物",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "It's a trophy!"
+      ],
+      "translation": "这是个奖杯!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "EMMETT_POINTER",
+  "_original_name": "Emmett Pointer",
+  "_original_lore": [
+    "Ability: Lazer RIGHT CLICK",
+    "Point something.",
+    "Cooldown: 2s",
+    "",
+    "He's not a vampire, he's a",
+    "scientist.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "埃米特指针",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Lazer RIGHT CLICK"
+      ],
+      "translation": "技能: 激光 右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "Lazer": "激光",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Point something."
+      ],
+      "translation": "指指点点.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "He's not a vampire, he's a",
+        "scientist."
+      ],
+      "translation": "他不是吸血鬼,他是科学家.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

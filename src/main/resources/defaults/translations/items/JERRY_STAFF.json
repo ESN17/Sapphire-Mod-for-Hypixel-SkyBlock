@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "id": "JERRY_STAFF",
+  "_original_name": "Jerry-chine Gun",
+  "_original_lore": [
+    "Damage: +80",
+    "Intelligence: +200",
+    "",
+    "Ability: Rapid-fire  RIGHT CLICK",
+    "Shoots a Jerry bullet, dealing 500",
+    "damage on impact and knocking you",
+    "back.",
+    "",
+    "Each shot costs +30 mana more than",
+    "the previous, resetting after 4s of",
+    "not firing.",
+    "",
+    "This item can be reforged!",
+    "EPIC SWORD"
+  ],
+  "name": "杰瑞-奇恩枪",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Ability: Rapid-fire  RIGHT CLICK"
+      ],
+      "translation": "技能: 速射  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Rapid-fire": "速射",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Shoots a Jerry bullet, dealing {{N0}}",
+        "damage on impact and knocking you",
+        "back."
+      ],
+      "translation": "发射一颗 杰瑞 子弹,命中时造成 {{N0}} 伤害并将你击退.",
+      "styleMappings": {
+        "damage": "伤害",
+        "Jerry": "杰瑞"
+      }
+    },
+    {
+      "source": [
+        "Each shot costs {{N0}} mana more than",
+        "the previous, resetting after {{N1}}s of",
+        "not firing."
+      ],
+      "translation": "每发射一次比上一次多消耗 {{N0}} 法力,停止射击 {{N1}} 秒后重置.",
+      "styleMappings": {
+        "mana": "法力",
+        "{{N1}}s": "{{N1}} 秒"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "EPIC SWORD"
+      ],
+      "translation": "史诗 剑",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Jerry": "杰瑞"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

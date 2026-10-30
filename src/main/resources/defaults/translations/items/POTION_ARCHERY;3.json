@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_ARCHERY;3",
+  "_original_name": "Archery III Potion",
+  "_original_lore": [
+    "",
+    "Archery III (3:00)",
+    "Increases bow damage by 50%.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "弓术 III 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Archery III ({{N0}}:{{N1}})"
+      ],
+      "translation": "弓术 III ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Archery III": "弓术 III",
+        "III": "III"
+      }
+    },
+    {
+      "source": [
+        "Increases bow damage by {{N0}}."
+      ],
+      "translation": "弓伤害提高 {{N0}}.",
+      "styleMappings": {
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Archery III": "弓术 III",
+    "III": "III"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

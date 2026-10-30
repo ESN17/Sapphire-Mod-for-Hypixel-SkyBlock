@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "OBFUSCATED_FISH_3_DIAMOND",
+  "_original_name": "Obfuscated-3 DIAMOND",
+  "_original_lore": [
+    "Caught with Obfuscated 2 Bait.",
+    "",
+    "Bring this to Odger at the top of the",
+    "Blazing Volcano.",
+    "",
+    "* Soulbound *",
+    "RARE TROPHY"
+  ],
+  "name": "混淆-3 钻石",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Caught with Obfuscated {{N0}} Bait."
+      ],
+      "translation": "使用混淆 {{N0}} 鱼饵钓获.",
+      "styleMappings": {
+        "Obfuscated": "混淆",
+        "Bait": "鱼饵"
+      }
+    },
+    {
+      "source": [
+        "Bring this to Odger at the top of the",
+        "Blazing Volcano."
+      ],
+      "translation": "将此物交给炽焰火山顶部的 Odger.",
+      "styleMappings": {
+        "Blazing Volcano": "炽焰火山",
+        "Odger": "Odger"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "RARE TROPHY"
+      ],
+      "translation": "稀有奖杯",
+      "styleMappings": {
+        "RARE TROPHY": "稀有奖杯",
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "DIAMOND": "钻石",
+    "Obfuscated": "混淆"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

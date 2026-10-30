@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "id": "ENCHANTED_EGG",
+  "_original_name": "Enchanted Egg",
+  "_original_lore": [
+    "Minion Upgrade",
+    "Collection Item",
+    "",
+    "This item can be used as a minion",
+    "upgrade for chicken minions.",
+    "Guarantees that each chicken will",
+    "drop an egg after they spawn.",
+    "",
+    "Can also be used to craft more",
+    "basic pets.",
+    "",
+    "RARE"
+  ],
+  "name": "附魔鸡蛋",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Minion Upgrade",
+        "Collection Item"
+      ],
+      "translation": "仆从升级 收藏物品",
+      "styleMappings": {
+        "Collection Item": "收藏物品",
+        "Minion Upgrade": "仆从升级",
+        "Collection": "收藏",
+        "Item": "物品",
+        "Minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "This item can be used as a minion"
+      ],
+      "translation": "此物品可作为仆从",
+      "styleMappings": {
+        "item": "物品",
+        "minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "upgrade for chicken minions."
+      ],
+      "translation": "鸡仆从的升级.",
+      "styleMappings": {
+        "upgrade": "升级",
+        "minions": "仆从"
+      }
+    },
+    {
+      "source": [
+        "Guarantees that each chicken will",
+        "drop an egg after they spawn."
+      ],
+      "translation": "保证每只鸡生成后都会掉落一个鸡蛋.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Can also be used to craft more",
+        "basic pets."
+      ],
+      "translation": "也可用于合成更基础的宠物.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Egg": "鸡蛋"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

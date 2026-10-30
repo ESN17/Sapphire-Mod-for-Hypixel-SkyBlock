@@ -1,0 +1,176 @@
+{
+  "schemaVersion": 1,
+  "id": "RADIANT_POWER_ORB",
+  "_original_name": "Radiant Power Orb",
+  "_original_lore": [
+    "Ability: Deploy  RIGHT CLICK",
+    "Place an orb for 1m buffing up to 5",
+    "players within 18 blocks.",
+    "Mana Cost: 50% of max",
+    "Vitality Cost: 50",
+    "",
+    "Orb Buff: Radiant",
+    "• Heal yourself for 30❤ per second.",
+    "• Heal others for 15❤ per second.",
+    "• Gain +25 Health Regen.",
+    "",
+    "Only one deployable buff applies.",
+    "",
+    "☠ Requires Wolf Slayer 2.",
+    "UNCOMMON DEPLOYABLE"
+  ],
+  "name": "光辉能量珠",
+  "lore": {
+    "Ability: Deploy  RIGHT CLICK": "技能:部署  右键点击",
+    "Mana Cost: {value} of max": "魔力消耗:最大魔力的 {value}",
+    "Vitality Cost: {value}": "活力消耗:{value}",
+    "Orb Buff: Radiant": "能量珠增益:光辉",
+    "• Heal yourself for {health}❤ per second.": "• 每秒为自己恢复 {health}❤.",
+    "• Heal others for {health}❤ per second.": "• 每秒为其他玩家恢复 {health}❤.",
+    "• Gain {regen} Health Regen.": "• 获得 {regen} 生命恢复.",
+    "Only one deployable buff applies.": "部署类增益同时只能生效一种.",
+    "☠ Requires Wolf Slayer {level}.": "☠ 需要狼杀手 {level}.",
+    "UNCOMMON DEPLOYABLE": "罕见 部署物"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "Place an orb for {duration}m buffing up to {players}",
+        "players within {range} blocks."
+      ],
+      "translation": "放置一颗持续 {duration}分钟的能量珠,为 {range} 格内最多 {players} 名玩家提供增益.",
+      "styleMappings": {
+        "blocks": "格",
+        "m": "分钟",
+        "{duration}m": "{duration}分钟",
+        "for": "持续"
+      }
+    },
+    {
+      "source": [
+        "Ability: Deploy  RIGHT CLICK"
+      ],
+      "translation": "技能: 部署  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Place an orb for {{N0}}m buffing up to {{N1}}",
+        "players within {{N2}} blocks."
+      ],
+      "translation": "放置一颗持续 {{N0}}分钟的能量珠,为 {{N2}} 格内最多 {{N1}} 名玩家提供增益.",
+      "styleMappings": {
+        "blocks": "格",
+        "for": "持续",
+        "m": "分钟",
+        "{{N0}}m": "{{N0}}分钟"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}} of max"
+      ],
+      "translation": "魔力消耗:最大魔力的 {{N0}}",
+      "styleMappings": {
+        "of max": "最大魔力",
+        "max": "最大",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "Vitality Cost: {{N0}}"
+      ],
+      "translation": "活力消耗:{{N0}}",
+      "styleMappings": {
+        "Vitality": "活力"
+      }
+    },
+    {
+      "source": [
+        "Orb Buff: Radiant"
+      ],
+      "translation": "能量珠增益:光辉",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "• Heal yourself for {{N0}}❤ per second."
+      ],
+      "translation": "• 每秒为自己恢复 {{N0}}❤.",
+      "styleMappings": {
+        "per second": "每秒",
+        "Heal": "恢复",
+        "second": "秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "• Heal others for {{N0}}❤ per second."
+      ],
+      "translation": "• 每秒为其他玩家恢复 {{N0}}❤.",
+      "styleMappings": {
+        "per second": "每秒",
+        "Heal": "恢复",
+        "second": "秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "• Gain {{N0}} Health Regen."
+      ],
+      "translation": "• 获得 {{N0}} 生命恢复.",
+      "styleMappings": {
+        "Health Regen": "生命恢复",
+        "Gain": "获得",
+        "Health": "生命",
+        "Regen": "恢复"
+      }
+    },
+    {
+      "source": [
+        "Only one deployable buff applies."
+      ],
+      "translation": "部署类增益同时只能生效一种.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "☠ Requires Wolf Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要狼杀手 {{N0}}.",
+      "styleMappings": {
+        "Wolf Slayer": "狼杀手",
+        "Requires": "需要",
+        "Slayer": "杀手",
+        "Wolf": "狼"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON DEPLOYABLE"
+      ],
+      "translation": "罕见 部署物",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "RIGHT CLICK": "右键点击",
+    "blocks": "格",
+    "m": "分钟",
+    "of max": "最大魔力",
+    "s": "秒",
+    "Health Regen": "生命恢复",
+    "Wolf Slayer": "狼杀手",
+    "Radiant Power Orb": "光辉能量珠"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

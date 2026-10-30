@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "id": "FLAMEBREAKER_HELMET",
+  "_original_name": "Ember Ash Helmet",
+  "_original_lore": [
+    "Mining Speed: +15",
+    "Mining Fortune: +5",
+    "",
+    "An old charred shadow of the real",
+    "thing leaving behind streaks of coal",
+    "on the wearer from its shoddy",
+    "construction.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Hard Stone Collection V.",
+    "* Co-op Soulbound *",
+    "UNCOMMON HELMET"
+  ],
+  "name": "余烬头盔",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mining Speed: {{N0}}"
+      ],
+      "translation": "采矿速度: {{N0}}",
+      "styleMappings": {
+        "Mining Speed": "采矿速度",
+        "Mining": "采矿",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Mining Fortune: {{N0}}"
+      ],
+      "translation": "采矿幸运: {{N0}}",
+      "styleMappings": {
+        "Mining Fortune": "采矿幸运",
+        "Mining": "采矿",
+        "Fortune": "幸运"
+      }
+    },
+    {
+      "source": [
+        "An old charred shadow of the real",
+        "thing leaving behind streaks of coal",
+        "on the wearer from its shoddy",
+        "construction."
+      ],
+      "translation": "真品的陈旧焦黑残影,因其粗劣的做工会在穿戴者身上留下煤痕.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Hard Stone Collection V."
+      ],
+      "translation": "❣ 需要硬化石头收藏 V.",
+      "styleMappings": {
+        "Hard Stone Collection V": "硬化石头收藏 V",
+        "Requires": "需要",
+        "Collection": "收藏",
+        "Hard Stone": "硬化石头"
+      }
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON HELMET"
+      ],
+      "translation": "罕见 头盔",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Helmet": "头盔"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

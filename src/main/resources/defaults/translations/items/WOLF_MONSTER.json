@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "WOLF_MONSTER",
+  "_original_name": "Wolf (Monster)",
+  "_original_lore": [
+    "Roaming the remains of a Castle",
+    "far from its best days.",
+    "",
+    "❤ Health: 250"
+  ],
+  "name": "狼 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Roaming the remains of a Castle",
+        "far from its best days."
+      ],
+      "translation": "游荡在一座早已不复当年辉煌的城堡废墟中.",
+      "styleMappings": {
+        "Castle": "城堡"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Wolf (Monster)": "狼 (怪物)",
+    "(Monster)": "(怪物)",
+    "Monster": "怪物",
+    "Wolf": "狼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

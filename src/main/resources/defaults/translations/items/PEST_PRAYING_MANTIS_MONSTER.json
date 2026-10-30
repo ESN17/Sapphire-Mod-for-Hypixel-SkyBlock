@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "id": "PEST_PRAYING_MANTIS_MONSTER",
+  "_original_name": "Praying Mantis (Pest)",
+  "_original_lore": [
+    "Strikes fast - *blink* - and it's",
+    "already gone.",
+    "",
+    "Attracted to Jelly.",
+    "",
+    "❤ Health: 600"
+  ],
+  "name": "螳螂 (害虫)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Strikes fast - *blink* - and it's",
+        "already gone."
+      ],
+      "translation": "出手极快 - *眨眼* - 它已经不见了.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Attracted to Jelly."
+      ],
+      "translation": "被果冻吸引.",
+      "styleMappings": {
+        "Jelly": "果冻"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Pest": "害虫",
+    "Praying Mantis": "螳螂"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

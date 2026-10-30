@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "RED_GIFT",
+  "_original_name": "Red Gift",
+  "_original_lore": [
+    "Click a stranger while holding to gift!",
+    "Both players get the rewards!",
+    "",
+    "RARE"
+  ],
+  "name": "红色礼物",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Click a stranger while holding to gift!"
+      ],
+      "translation": "手持时点击一名陌生人即可赠送!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Both players get the rewards!"
+      ],
+      "translation": "双方都能获得奖励!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Red": "红色"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

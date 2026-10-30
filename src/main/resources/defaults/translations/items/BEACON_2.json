@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "BEACON_2",
+  "_original_name": "Beacon II",
+  "_original_lore": [
+    "Tier: II",
+    "",
+    "Can be placed on your private island.",
+    "",
+    "Grants special buffs to the island",
+    "owners when powered by Power",
+    "Crystals obtained from the forge in",
+    "the Dwarven Mines.",
+    "",
+    "❣ Requires Any of the following:",
+    " - Heart of the Mountain Tier 2",
+    " - Stranded Profile",
+    ".",
+    "RARE"
+  ],
+  "name": "信标 II",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Tier: II"
+      ],
+      "translation": "等级: II",
+      "styleMappings": {
+        "II": "II"
+      }
+    },
+    {
+      "source": [
+        "Can be placed on your private island."
+      ],
+      "translation": "可放置在您的私人岛屿上.",
+      "styleMappings": {
+        "private island": "私人岛屿",
+        "island": "岛屿上"
+      }
+    },
+    {
+      "source": [
+        "Grants special buffs to the island",
+        "owners when powered by Power",
+        "Crystals obtained from the forge in",
+        "the Dwarven Mines."
+      ],
+      "translation": "当由矮人矿坑锻造所获得的能量水晶供能时,为岛屿所有者提供特殊增益.",
+      "styleMappings": {
+        "Power Crystals": "能量水晶",
+        "Dwarven Mines": "矮人矿坑",
+        "forge": "锻造",
+        "special": "特殊",
+        "when": "时",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Any of the following:"
+      ],
+      "translation": "❣ 需要以下任意一项:",
+      "styleMappings": {
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        " - Heart of the Mountain Tier {{N0}}",
+        " - Stranded Profile",
+        "."
+      ],
+      "translation": " - 山峰之心等级 {{N0}}  - 孤岛模式 .",
+      "styleMappings": {
+        "Heart of the Mountain Tier": "山峰之心等级",
+        "Stranded Profile": "孤岛模式",
+        "Heart of the Mountain": "山峰之心"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "II": "II"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

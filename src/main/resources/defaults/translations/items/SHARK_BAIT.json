@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "SHARK_BAIT",
+  "_original_name": "Shark Bait",
+  "_original_lore": [
+    "Fishing Bait",
+    "Consumes on Catch",
+    "",
+    "Grants a +20% chance to catch",
+    "Sharks during the Fishing Festival.",
+    "",
+    "UNCOMMON BAIT"
+  ],
+  "name": "鲨鱼诱饵",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Fishing Bait",
+        "Consumes on Catch"
+      ],
+      "translation": "钓鱼鱼饵 钓起时消耗",
+      "styleMappings": {
+        "Consumes on Catch": "钓起时消耗",
+        "Fishing Bait": "钓鱼鱼饵",
+        "Fishing": "钓鱼",
+        "Bait": "鱼饵"
+      }
+    },
+    {
+      "source": [
+        "Grants a {{N0}} chance to catch",
+        "Sharks during the Fishing Festival."
+      ],
+      "translation": "在钓鱼节期间有 {{N0}} 的几率钓到鲨鱼.",
+      "styleMappings": {
+        "Fishing Festival": "钓鱼节",
+        "Sharks": "鲨鱼",
+        "chance": "几率",
+        "Fishing": "钓鱼",
+        "chance to": "几率"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON BAIT"
+      ],
+      "translation": "罕见鱼饵",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shark": "鲨鱼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

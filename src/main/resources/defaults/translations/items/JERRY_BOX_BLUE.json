@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "JERRY_BOX_BLUE",
+  "_original_name": "Blue Jerry Box",
+  "_original_lore": [
+    "Obtained while Mayor Jerry is elected.",
+    "Contains coins, Skill XP and posh jerry items.",
+    "",
+    "Right-click to open!",
+    "",
+    "RARE"
+  ],
+  "name": "蓝色 杰瑞 礼盒",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Obtained while Mayor Jerry is elected."
+      ],
+      "translation": "在 杰瑞 当选市长期间获得.",
+      "styleMappings": {
+        "Mayor": "市长",
+        "Jerry": "杰瑞"
+      }
+    },
+    {
+      "source": [
+        "Contains coins, Skill XP and posh jerry items."
+      ],
+      "translation": "包含硬币、技能经验值和时髦的 杰瑞 物品.",
+      "styleMappings": {
+        "jerry items": "杰瑞 物品",
+        "Skill XP": "技能经验值",
+        "coins": "硬币",
+        "items": "物品",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "Right-click to open!"
+      ],
+      "translation": "右键点击打开!",
+      "styleMappings": {
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Blue": "蓝色",
+    "Jerry": "杰瑞"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

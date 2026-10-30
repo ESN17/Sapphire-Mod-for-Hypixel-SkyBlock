@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "id": "VANQUISHED_GHAST_CLOAK",
+  "_original_name": "Vanquished Ghast Cloak",
+  "_original_lore": [
+    "Health: +10",
+    "Defense: +10",
+    "",
+    "Ability: Blazing Restoration ",
+    "Restores +15 Health every second",
+    "while worn.",
+    "",
+    "Piece Bonus: Ghast Blaster",
+    "Kill Ghasts to accumulate  Defense.",
+    "Piece Bonus: +0",
+    "Next Upgrade: +1 (0/1,000)",
+    "",
+    "Right-click to equip!",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Combat Skill 22.",
+    "EPIC CLOAK"
+  ],
+  "name": "征服恶魂斗篷",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Ability: Blazing Restoration "
+      ],
+      "translation": "能力: 炽热恢复 ",
+      "styleMappings": {
+        "Ability": "能力",
+        "Blazing Restoration": "炽热恢复",
+        "Blazing": "炽热"
+      }
+    },
+    {
+      "source": [
+        "Restores {{N0}} Health every second",
+        "while worn."
+      ],
+      "translation": "穿戴时每秒恢复 {{N0}} 生命值.",
+      "styleMappings": {
+        "Health": "生命值",
+        "second": "秒",
+        " Health": " 生命"
+      }
+    },
+    {
+      "source": [
+        "Piece Bonus: Ghast Blaster"
+      ],
+      "translation": "部位加成: 恶魂爆破",
+      "styleMappings": {
+        "Ghast Blaster": "恶魂爆破",
+        "Piece Bonus": "部位加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Kill Ghasts to accumulate  Defense."
+      ],
+      "translation": "击杀恶魂以累积  ​  防御.",
+      "styleMappings": {
+        " Defense": " 防御",
+        "Ghasts": "恶魂",
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Piece Bonus: {{N0}}"
+      ],
+      "translation": "部件加成:{{N0}}",
+      "styleMappings": {
+        "Piece Bonus": "部件加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Next Upgrade: {{N0}} ({{N1}}/{{N2}})"
+      ],
+      "translation": "下次升级: {{N0}} ({{N1}}/{{N2}})",
+      "styleMappings": {
+        "Next Upgrade": "下次升级"
+      }
+    },
+    {
+      "source": [
+        "Right-click to equip!"
+      ],
+      "translation": "右键点击装备!",
+      "styleMappings": {
+        "Right-click to equip!": "右键点击装备!",
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC CLOAK"
+      ],
+      "translation": "史诗 披风",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

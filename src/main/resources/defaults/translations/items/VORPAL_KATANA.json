@@ -1,0 +1,212 @@
+{
+  "schemaVersion": 1,
+  "id": "VORPAL_KATANA",
+  "_original_name": "Vorpal Katana",
+  "_original_lore": [
+    "Damage: +190",
+    "Strength: +80",
+    "Crit Damage: +30%",
+    "Intelligence: +200",
+    "Gemstones: [] []",
+    "",
+    "Deal +250% damage to Endermen.",
+    "Receive 9% less damage from",
+    "Endermen when held.",
+    "Gain +30☯ Combat Wisdom against",
+    "Endermen.",
+    "",
+    "Ability: Soulcry  RIGHT CLICK",
+    "Gain +300 Ferocity against Endermen for 4s",
+    "Soulflow Cost: 1",
+    "Mana Cost: 200",
+    "Cooldown: 4s",
+    "",
+    "This item can be reforged!",
+    "☠ Requires Enderman Slayer 5.",
+    "EPIC SWORD"
+  ],
+  "name": "斩魄太刀",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: {{N0}}"
+      ],
+      "translation": "暴击伤害:{{N0}}",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [] []"
+      ],
+      "translation": "宝石: [] []",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "] []": "] []",
+        "[": "[",
+        "Gemstones": "宝石",
+        "] [": "] ["
+      }
+    },
+    {
+      "source": [
+        "Deal {{N0}} damage to Endermen."
+      ],
+      "translation": "对末影人造成 {{N0}} 伤害.",
+      "styleMappings": {
+        "Endermen": "末影人",
+        "damage": "伤害",
+        "Deal": "造成"
+      }
+    },
+    {
+      "source": [
+        "Receive {{N0}} less damage from",
+        "Endermen when held."
+      ],
+      "translation": "持有时受到末影人的伤害减少 {{N0}}.",
+      "styleMappings": {
+        "less damage": "伤害减少",
+        "Endermen": "末影人",
+        "damage": "伤害",
+        "when": "时",
+        "Receive": "受到"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}}☯ Combat Wisdom against",
+        "Endermen."
+      ],
+      "translation": "对末影人获得 {{N0}}☯ 战斗智慧.",
+      "styleMappings": {
+        "Combat Wisdom": "战斗智慧",
+        "Endermen": "末影人",
+        "Gain": "获得",
+        "Combat": "战斗",
+        "Wisdom": "智慧"
+      }
+    },
+    {
+      "source": [
+        "Ability: Soulcry  RIGHT CLICK"
+      ],
+      "translation": "技能: 灵魂哭喊  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}} Ferocity against Endermen for {{N1}}s"
+      ],
+      "translation": "对末影人获得 {{N0}} 残暴值,持续 {{N1}} 秒",
+      "styleMappings": {
+        "Gain": "获得",
+        "Ferocity": "残暴值",
+        "Endermen": "末影人",
+        "for": "持续",
+        "{{N1}}s": "{{N1}} 秒"
+      }
+    },
+    {
+      "source": [
+        "Soulflow Cost: {{N0}}"
+      ],
+      "translation": "灵魂流消耗: {{N0}}",
+      "styleMappings": {
+        "Soulflow Cost": "灵魂流消耗",
+        "Soulflow": "灵魂流"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Enderman Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要末影人杀手 {{N0}}.",
+      "styleMappings": {
+        "Enderman Slayer": "末影人杀手",
+        "Requires": "需要",
+        "Slayer": "杀手",
+        "Enderman": "末影人"
+      }
+    },
+    {
+      "source": [
+        "EPIC SWORD"
+      ],
+      "translation": "史诗 剑",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Vorpal Katana": "斩魄太刀"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback",
+  "_reviewed_name_revision": "2026-10-17-slayer-rpg"
+}

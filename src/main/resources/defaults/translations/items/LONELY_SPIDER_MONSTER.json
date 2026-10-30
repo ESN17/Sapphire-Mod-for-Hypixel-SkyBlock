@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "id": "LONELY_SPIDER_MONSTER",
+  "_original_name": "Lonely Spider (Monster)",
+  "_original_lore": [
+    "So lonely.",
+    "",
+    "❤ Health: 5,000 - 120,000",
+    "❤ Health (MM) : 140,000 - 2,000,000"
+  ],
+  "name": "孤独的蜘蛛 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "So lonely."
+      ],
+      "translation": "好孤独.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}} - {{N1}}"
+      ],
+      "translation": "❤ 生命值: {{N0}} - {{N1}}",
+      "styleMappings": {
+        "Health": "生命值",
+        "-": "-"
+      }
+    },
+    {
+      "source": [
+        "❤ Health (MM) : {{N0}} - {{N1}}"
+      ],
+      "translation": "❤ 生命值 (MM) : {{N0}} - {{N1}}",
+      "styleMappings": {
+        "Health": "生命值",
+        "-": "-"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Spider": "蜘蛛",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "id": "RUSTY_ANCHOR",
+  "_original_name": "Rusty Anchor",
+  "_original_lore": [
+    "Reforge Stone",
+    "Combinable in Anvil",
+    "",
+    "Applies the Treacherous reforge",
+    "when combined with a Fishing Rod.",
+    "",
+    "Grants the following stats that scale",
+    "with the item's rarity:",
+    "  Strength",
+    "  Sea Creature Chance",
+    "  Treasure Chance",
+    "",
+    "Treacherous Bonus",
+    "Earn +20% Ice Essence from",
+    "TREASURE catches.",
+    "",
+    "Right-click to view rarity scaling!",
+    "",
+    "RARE REFORGE STONE"
+  ],
+  "name": "生锈船锚",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Reforge Stone",
+        "Combinable in Anvil"
+      ],
+      "translation": "洗练石 可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Reforge Stone": "洗练石",
+        "Anvil": "铁砧",
+        "Reforge": "洗练"
+      }
+    },
+    {
+      "source": [
+        "Applies the Treacherous reforge",
+        "when combined with a Fishing Rod."
+      ],
+      "translation": "与钓鱼竿结合时应用 诡诈 洗练.",
+      "styleMappings": {
+        "Fishing Rod": "钓鱼竿",
+        "Treacherous": "诡诈",
+        "reforge": "洗练",
+        "Fishing": "钓鱼",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Grants the following stats that scale"
+      ],
+      "translation": "提供以下随物品稀有度提升的属性:",
+      "styleMappings": {
+        "Grants": "提供",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "with the item's rarity:"
+      ],
+      "translation": "物品稀有度提升的属性:",
+      "styleMappings": {
+        "item": "物品",
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "  Strength",
+        "  Sea Creature Chance",
+        "  Treasure Chance"
+      ],
+      "translation": "   力量   海怪概率   宝藏概率",
+      "styleMappings": {
+        "Sea Creature Chance": "海怪概率",
+        "Treasure Chance": "宝藏概率",
+        "Strength": "力量",
+        "Treasure": "宝藏",
+        "Sea Creature": "海怪"
+      }
+    },
+    {
+      "source": [
+        "Treacherous Bonus",
+        "Earn {{N0}} Ice Essence from",
+        "TREASURE catches."
+      ],
+      "translation": "诡诈 加成 从 宝藏 钓获中获得 {{N0}} 冰精华.",
+      "styleMappings": {
+        "Treacherous Bonus": "诡诈 加成",
+        "Ice Essence": "冰精华",
+        "TREASURE": "宝藏",
+        "Bonus": "加成",
+        "Ice": "冰",
+        "Treacherous": "诡诈"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view rarity scaling!"
+      ],
+      "translation": "右键查看各稀有度的属性!",
+      "styleMappings": {
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "RARE REFORGE STONE"
+      ],
+      "translation": "稀有 洗练石",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

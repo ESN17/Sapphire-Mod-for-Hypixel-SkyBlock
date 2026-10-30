@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "GRIFFIN_UPGRADE_STONE_RARE",
+  "_original_name": "Rare Griffin Upgrade Stone",
+  "_original_lore": [
+    "Use at Kat to upgrade Griffin Pets",
+    "from Uncommon to Rare.",
+    "",
+    "RARE"
+  ],
+  "name": "稀有狮鹫升级石",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Use at Kat to upgrade Griffin Pets",
+        "from Uncommon to Rare."
+      ],
+      "translation": "在 Kat 处使用,将狮鹫宠物从罕见升级为稀有.",
+      "styleMappings": {
+        "Uncommon": "罕见",
+        "Rare": "稀有",
+        "Kat": "Kat",
+        "Pets": "宠物",
+        "upgrade": "升级",
+        "Griffin Pets": "狮鹫宠物",
+        "Griffin": "狮鹫"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Rare": "稀有",
+    "Griffin": "狮鹫"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

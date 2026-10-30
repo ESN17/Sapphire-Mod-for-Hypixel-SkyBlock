@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "MATRIARCH_PARFUM",
+  "_original_name": "Matriarch's Perfume",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Consume to apply a pungent smell",
+    "upon yourself, confusing The",
+    "Matriarch in the Crimson Isle into",
+    "releasing new pearls.",
+    "",
+    "Can be used up to 4 times a day!",
+    "",
+    "Right-click to consume!",
+    "",
+    "SPECIAL"
+  ],
+  "name": "女族长的香水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Consume to apply a pungent smell",
+        "upon yourself, confusing The",
+        "Matriarch in the Crimson Isle into",
+        "releasing new pearls."
+      ],
+      "translation": "食用后使自身散发刺鼻气味,迷惑绯红之岛的女族长,使其释放新的珍珠.",
+      "styleMappings": {
+        "The Matriarch": "女族长",
+        "Crimson Isle": "绯红之岛",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Can be used up to {{N0}} times a day!"
+      ],
+      "translation": "每天最多可使用 {{N0}} 次!",
+      "styleMappings": {
+        "day": "天"
+      }
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_MANA;7",
+  "_original_name": "Mana VII Potion",
+  "_original_lore": [
+    "",
+    "Mana VII (3:00)",
+    "Grants +7 ✎ Mana per second.",
+    "",
+    "EPIC"
+  ],
+  "name": "法力 VII 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mana VII ({{N0}}:{{N1}})"
+      ],
+      "translation": "法力 VII ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Mana VII": "法力 VII",
+        "Mana": "法力"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} ✎ Mana per second."
+      ],
+      "translation": "每秒提供 {{N0}} ✎ 法力.",
+      "styleMappings": {
+        "per second": "每秒",
+        "Grants": "提供",
+        "Mana": "法力",
+        "second": "秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mana VII": "法力 VII",
+    "Mana": "法力"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

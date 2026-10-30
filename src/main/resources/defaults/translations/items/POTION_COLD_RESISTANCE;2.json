@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_COLD_RESISTANCE;2",
+  "_original_name": "Cold Resistance II Potion",
+  "_original_lore": [
+    "",
+    "Cold Resistance II (3:00)",
+    "Gain +5 Cold Resistance.",
+    "",
+    "COMMON"
+  ],
+  "name": "抗寒 II 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Cold Resistance II ({{N0}}:{{N1}})"
+      ],
+      "translation": "抗寒 II ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Cold Resistance II": "抗寒 II",
+        "II": "II",
+        "Cold Resistance": "抗寒"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}} Cold Resistance."
+      ],
+      "translation": "获得 {{N0}} 抗寒.",
+      "styleMappings": {
+        "Gain": "获得",
+        "Cold Resistance": "抗寒"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Cold Resistance II": "抗寒 II",
+    "II": "II",
+    "Cold Resistance": "抗寒"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

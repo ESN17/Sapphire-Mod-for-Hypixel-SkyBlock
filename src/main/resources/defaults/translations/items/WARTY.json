@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "WARTY",
+  "_original_name": "Warty",
+  "_original_lore": [
+    "Bring 3,000 of these to Carrolyn in",
+    "Scarleton on the Crimson Isle to",
+    "permanently gain +5 Health and",
+    "+12 Nether Wart Fortune.",
+    "",
+    "EPIC"
+  ],
+  "name": "疣猪",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Bring {{N0}} of these to Carrolyn in",
+        "Scarleton on the Crimson Isle to",
+        "permanently gain {{N1}} Health and",
+        "{{N2}} Nether Wart Fortune."
+      ],
+      "translation": "将 {{N0}} 个交给绯红之岛上斯卡雷顿的 Carrolyn,以永久获得 {{N1}} 生命和 {{N2}} 下界疣幸运.",
+      "styleMappings": {
+        "Nether Wart Fortune": "下界疣幸运",
+        "Crimson Isle": "绯红之岛",
+        "permanently": "永久",
+        "Scarleton": "斯卡雷顿",
+        "Carrolyn": "Carrolyn",
+        " Health": " 生命",
+        "Health": "生命",
+        "Fortune": "幸运",
+        "Nether Wart": "下界疣",
+        "Nether": "下界",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Warty": "疣猪"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

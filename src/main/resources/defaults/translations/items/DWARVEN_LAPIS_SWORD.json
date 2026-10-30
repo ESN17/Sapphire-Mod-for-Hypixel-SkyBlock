@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "DWARVEN_LAPIS_SWORD",
+  "_original_name": "Scavenged Lapis Sword",
+  "_original_lore": [
+    "Quest Item",
+    "",
+    "Bring to the Keeper of Lapis in the",
+    "Mines of Divan.",
+    "",
+    "SPECIAL"
+  ],
+  "name": "回收的青金石剑",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Quest Item"
+      ],
+      "translation": "任务物品",
+      "styleMappings": {
+        "Item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Bring to the Keeper of Lapis in the",
+        "Mines of Divan."
+      ],
+      "translation": "带给迪万矿坑的青金石守护者.",
+      "styleMappings": {
+        "Keeper of Lapis": "青金石守护者",
+        "Mines of Divan": "迪万矿坑",
+        "Divan": "迪万",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sword": "剑"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

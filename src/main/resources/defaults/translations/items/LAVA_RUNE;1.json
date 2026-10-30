@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "LAVA_RUNE;1",
+  "_original_name": "◆ Lava Rune I",
+  "_original_lore": [
+    "Requires level 3",
+    "Bows",
+    "",
+    "Shoot magma arrows!",
+    "",
+    "Apply this rune to bows or fuse two",
+    "together at the Runic Pedestal!",
+    "",
+    "COMMON COSMETIC"
+  ],
+  "name": "◆ 熔岩符文 I",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Requires level {{N0}}",
+        "Bows"
+      ],
+      "translation": "需要弓等级 {{N0}}",
+      "styleMappings": {
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Shoot magma arrows!"
+      ],
+      "translation": "射出岩浆箭!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Apply this rune to bows or fuse two",
+        "together at the Runic Pedestal!"
+      ],
+      "translation": "将此符文应用于弓,或在符文基座上将两个符文融合!",
+      "styleMappings": {
+        "Runic Pedestal": "符文基座",
+        "Runic": "符文"
+      }
+    },
+    {
+      "source": [
+        "COMMON COSMETIC"
+      ],
+      "translation": "普通 外观",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Rune I": "符文 I",
+    "Lava": "熔岩"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

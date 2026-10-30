@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "SCORNCLAW_BREW",
+  "_original_name": "Scornclaw Brew",
+  "_original_lore": [
+    "The perfect balance between",
+    "sweetness and bitterness, with a",
+    "strange bite to it.",
+    "",
+    "Right-click to consume",
+    "",
+    "COMMON"
+  ],
+  "name": "蔑爪酿剂",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The perfect balance between",
+        "sweetness and bitterness, with a",
+        "strange bite to it."
+      ],
+      "translation": "甜与苦的完美平衡,还带着一丝奇特的刺激感.",
+      "styleMappings": {
+        "perfect": "完美"
+      }
+    },
+    {
+      "source": [
+        "Right-click to consume"
+      ],
+      "translation": "右键点击饮用",
+      "styleMappings": {
+        "Right-click to consume": "右键点击饮用",
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Scornclaw Brew": "蔑爪酿剂"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

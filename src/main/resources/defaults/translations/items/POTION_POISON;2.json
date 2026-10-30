@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_POISON;2",
+  "_original_name": "Poison II Potion",
+  "_original_lore": [
+    "",
+    "Poison II (3:00)",
+    "Deals 20 damage per second.",
+    "",
+    "COMMON"
+  ],
+  "name": "中毒 II 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Poison II ({{N0}}:{{N1}})"
+      ],
+      "translation": "中毒 II ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Poison II": "中毒 II",
+        "II": "II"
+      }
+    },
+    {
+      "source": [
+        "Deals {{N0}} damage per second."
+      ],
+      "translation": "每秒造成 {{N0}} 伤害.",
+      "styleMappings": {
+        "per second": "每秒",
+        "damage": "伤害",
+        "Deals": "造成",
+        "second": "秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Poison II": "中毒 II",
+    "II": "II"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

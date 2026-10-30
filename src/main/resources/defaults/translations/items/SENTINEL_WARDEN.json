@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "id": "SENTINEL_WARDEN",
+  "_original_name": "Sentinel Warden Skin",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Item skins give your gear a fresh",
+    "new look! Apply them just like an",
+    "enchant book using the anvil.",
+    "",
+    "This skin can be applied to Warden",
+    "Helmet.",
+    "",
+    "Features!",
+    "▶ This skin is swappable between 8",
+    "variants, unlocked from Revenant",
+    "Horror Slayer XP!",
+    "▶ Modifies the look of your",
+    "Revenant Horror Boss.",
+    "",
+    "ULTIMATE COSMETIC"
+  ],
+  "name": "哨兵典狱长皮肤",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Item skins give your gear a fresh",
+        "new look! Apply them just like an",
+        "enchant book using the anvil."
+      ],
+      "translation": "物品皮肤能让你的装备焕然一新!像附魔书一样在铁砧上使用即可.",
+      "styleMappings": {
+        "fresh new look": "焕然一新",
+        "enchant book": "附魔书",
+        "Item skins": "物品皮肤",
+        "anvil": "铁砧",
+        "Item": "物品"
+      }
+    },
+    {
+      "source": [
+        "This skin can be applied to Warden",
+        "Helmet."
+      ],
+      "translation": "此皮肤可应用于典狱长头盔.",
+      "styleMappings": {
+        "Warden Helmet": "典狱长头盔",
+        "This skin can be applied to": "此皮肤可应用于",
+        "Helmet": "头盔"
+      }
+    },
+    {
+      "source": [
+        "Features!"
+      ],
+      "translation": "特色!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "▶ This skin is swappable between {{N0}}",
+        "variants, unlocked from Revenant",
+        "Horror Slayer XP!"
+      ],
+      "translation": "▶ 此皮肤可在 {{N0}} 变体之间切换,通过亡魂恐魔杀手经验解锁!",
+      "styleMappings": {
+        "This skin is swappable between": "此皮肤可在",
+        "Revenant Horror": "亡魂恐魔",
+        "Slayer XP": "杀手经验",
+        "Slayer": "杀手"
+      }
+    },
+    {
+      "source": [
+        "▶ Modifies the look of your",
+        "Revenant Horror Boss."
+      ],
+      "translation": "▶ 修改你的亡魂恐魔首领的外观.",
+      "styleMappings": {
+        "Revenant Horror": "亡魂恐魔",
+        "Boss": "首领"
+      }
+    },
+    {
+      "source": [
+        "ULTIMATE COSMETIC"
+      ],
+      "translation": "终极外观",
+      "styleMappings": {}
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

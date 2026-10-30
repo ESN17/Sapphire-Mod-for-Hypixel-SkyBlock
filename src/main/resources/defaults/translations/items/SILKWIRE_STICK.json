@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "SILKWIRE_STICK",
+  "_original_name": "Silkwire Stick",
+  "_original_lore": [
+    "Click on a Silkwire to attach to it,",
+    "pretending to fly.",
+    "",
+    "Once attached, CLICK to hitch",
+    "forward!",
+    "",
+    "RARE"
+  ],
+  "name": "丝线杖",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Click on a Silkwire to attach to it,",
+        "pretending to fly."
+      ],
+      "translation": "点击一根丝线以附着其上,假装飞行.",
+      "styleMappings": {
+        "Silkwire": "丝线",
+        "fly": "飞行"
+      }
+    },
+    {
+      "source": [
+        "Once attached, CLICK to hitch",
+        "forward!"
+      ],
+      "translation": "附着后,点击向前搭挂!",
+      "styleMappings": {
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Silkwire": "丝线"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

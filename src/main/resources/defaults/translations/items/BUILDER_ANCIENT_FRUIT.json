@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "BUILDER_ANCIENT_FRUIT",
+  "_original_name": "Ancient Fruit",
+  "_original_lore": [
+    "Decoration Item",
+    "",
+    "COMMON"
+  ],
+  "name": "远古果实",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Decoration Item"
+      ],
+      "translation": "装饰物品",
+      "styleMappings": {
+        "Item": "物品"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Ancient": "远古"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": "BOUNCY_ARROW",
+  "_original_name": "Bouncy Arrow",
+  "_original_lore": [
+    "Damage: +5",
+    "",
+    "Passive: Bouncy!",
+    "Arrows have a 50% chance to",
+    "bounce to another target.",
+    "Bounces up to 4 targets, each",
+    "bounce dealing 15% less damage.",
+    "",
+    "❣ Requires Combat Skill 20.",
+    "❣ Requires Slimeball Collection VII.",
+    "❣ Requires Target Practice II.",
+    "Stats added when shot!",
+    "RARE ARROW"
+  ],
+  "name": "弹跳箭",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Passive: Bouncy!"
+      ],
+      "translation": "被动: 弹跳!",
+      "styleMappings": {
+        "Passive": "被动"
+      }
+    },
+    {
+      "source": [
+        "Arrows have a {{N0}} chance to",
+        "bounce to another target."
+      ],
+      "translation": "箭矢有 {{N0}} 概率弹跳到另一个目标.",
+      "styleMappings": {
+        "chance to": "概率",
+        "chance": "概率"
+      }
+    },
+    {
+      "source": [
+        "Bounces up to {{N0}} targets, each",
+        "bounce dealing {{N1}} less damage."
+      ],
+      "translation": "最多弹跳 {{N0}} 个目标, 每次弹跳造成的伤害减少 {{N1}}.",
+      "styleMappings": {
+        "less damage": "伤害减少",
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Slimeball Collection VII."
+      ],
+      "translation": "❣ 需要黏液球收藏 VII.",
+      "styleMappings": {
+        "Slimeball Collection VII": "黏液球收藏 VII",
+        "Requires": "需要",
+        "Collection": "收藏"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Target Practice II."
+      ],
+      "translation": "❣ 需要靶场练习 II.",
+      "styleMappings": {
+        "Target Practice II": "靶场练习 II",
+        "Requires": "需要",
+        "II": "II"
+      }
+    },
+    {
+      "source": [
+        "Stats added when shot!"
+      ],
+      "translation": "射出时添加属性!",
+      "styleMappings": {
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "RARE ARROW"
+      ],
+      "translation": "稀有箭",
+      "styleMappings": {
+        "RARE ARROW": "稀有箭",
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

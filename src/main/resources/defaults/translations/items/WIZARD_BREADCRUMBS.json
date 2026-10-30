@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "WIZARD_BREADCRUMBS",
+  "_original_name": "Wizard's Breadcrumbs",
+  "_original_lore": [
+    "Ability: Future Footsteps RIGHT CLICK",
+    "Use while looking at yellow",
+    "particles in the world to mark",
+    "a path to take in the Rift.",
+    "",
+    "RARE"
+  ],
+  "name": "巫师的面包屑",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Future Footsteps RIGHT CLICK"
+      ],
+      "translation": "技能: 未来足迹 右键点击",
+      "styleMappings": {
+        "Ability: Future Footsteps": "技能: 未来足迹",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Use while looking at yellow",
+        "particles in the world to mark",
+        "a path to take in the Rift."
+      ],
+      "translation": "看向世界中的黄色粒子时使用,以标记在裂隙中要走的路径.",
+      "styleMappings": {
+        "yellow particles": "黄色粒子",
+        "Rift": "裂隙",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

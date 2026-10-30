@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "SLUGFISH_DIAMOND",
+  "_original_name": "Slugfish DIAMOND",
+  "_original_lore": [
+    "Bobber must be active for 20s.",
+    "",
+    "Bring this to Odger at the top of the",
+    "Blazing Volcano.",
+    "",
+    "* Soulbound *",
+    "UNCOMMON TROPHY"
+  ],
+  "name": "蛞蝓鱼 钻石",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Bobber must be active for {{N0}}s."
+      ],
+      "translation": "浮标必须保持活跃 {{N0}}秒。",
+      "styleMappings": {
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "Bring this to Odger at the top of the",
+        "Blazing Volcano."
+      ],
+      "translation": "将此物交给炽焰火山顶部的 Odger.",
+      "styleMappings": {
+        "Blazing Volcano": "炽焰火山",
+        "Odger": "Odger"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON TROPHY"
+      ],
+      "translation": "罕见奖杯",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Slugfish": "蛞蝓鱼",
+    "DIAMOND": "钻石"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

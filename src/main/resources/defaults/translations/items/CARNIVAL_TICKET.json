@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "CARNIVAL_TICKET",
+  "_original_name": "Carnival Ticket",
+  "_original_lore": [
+    "Used to play games at The Carnival",
+    "when Foxy is elected!",
+    "",
+    "It takes a while for Foxy to prepare",
+    "her Carnivals, but she's always",
+    "handing out Tickets to ramp up the",
+    "hype.",
+    "",
+    "* Co-op Soulbound *",
+    "UNCOMMON"
+  ],
+  "name": "嘉年华门票",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Used to play games at The Carnival",
+        "when Foxy is elected!"
+      ],
+      "translation": "用于在 Foxy 当选时在嘉年华玩游戏!",
+      "styleMappings": {
+        "The Carnival": "嘉年华",
+        "Foxy": "Foxy",
+        "Carnival": "嘉年华",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "It takes a while for Foxy to prepare",
+        "her Carnivals, but she's always",
+        "handing out Tickets to ramp up the",
+        "hype."
+      ],
+      "translation": "Foxy 需要一段时间来筹备她的嘉年华, 但她总是发放门票来炒热气氛.",
+      "styleMappings": {
+        "Foxy": "Foxy",
+        "s": "一"
+      }
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Carnival": "嘉年华"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

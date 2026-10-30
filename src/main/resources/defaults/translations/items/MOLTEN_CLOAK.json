@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": "MOLTEN_CLOAK",
+  "_original_name": "Molten Cloak",
+  "_original_lore": [
+    "Health: +30",
+    "Defense: +20",
+    "Strength: +20",
+    "",
+    "Tiered Bonus: Molten Core (0/4)",
+    "Gain 5% damage resistance while",
+    "fighting Kuudra.",
+    "",
+    "Right-click to equip!",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Combat Skill 22.",
+    "EPIC CLOAK"
+  ],
+  "name": "熔岩斗篷",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Tiered Bonus: Molten Core ({{N0}}/{{N1}})"
+      ],
+      "translation": "分级加成: 熔岩核心 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Tiered Bonus": "分级加成",
+        "Molten Core": "熔岩核心",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}} damage resistance while",
+        "fighting Kuudra."
+      ],
+      "translation": "与库德拉战斗时获得 {{N0}} 伤害抗性.",
+      "styleMappings": {
+        "Kuudra": "库德拉",
+        "damage": "伤害",
+        "Gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "Right-click to equip!"
+      ],
+      "translation": "右键点击装备!",
+      "styleMappings": {
+        "Right-click to equip!": "右键点击装备!",
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC CLOAK"
+      ],
+      "translation": "史诗 披风",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Molten Cloak": "熔岩斗篷"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

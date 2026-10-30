@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "ASPECT_OF_THE_JERRY_SIGNATURE",
+  "_original_name": "Aspect of the Jerry, Signature Edition",
+  "_original_lore": [
+    "Damage: +2",
+    "",
+    "Sharpness X",
+    "Increases melee damage dealt by 50%.",
+    "",
+    "Ability: Parley  RIGHT CLICK",
+    "Channel your inner Jerry.",
+    "Cooldown: 5s",
+    "",
+    "This item can be reforged!",
+    "UNCOMMON SWORD"
+  ],
+  "name": "杰瑞之刃, 签名版",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Sharpness X",
+        "Increases melee damage dealt by {{N0}}."
+      ],
+      "translation": "锋利 X 使近战伤害提高 {{N0}}.",
+      "styleMappings": {
+        "melee damage": "近战伤害",
+        "Sharpness X": "锋利 X",
+        "damage": "伤害",
+        "Sharpness": "锋利"
+      }
+    },
+    {
+      "source": [
+        "Ability: Parley  RIGHT CLICK"
+      ],
+      "translation": "技能: 谈判  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "Parley": "谈判",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Channel your inner Jerry."
+      ],
+      "translation": "释放你内心的杰瑞.",
+      "styleMappings": {
+        "Jerry": "杰瑞"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON SWORD"
+      ],
+      "translation": "罕见剑",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Aspect of the Jerry, Signature Edition": "杰瑞之刃, 签名版",
+    "Aspect of the Jerry": "杰瑞之刃",
+    "Jerry": "杰瑞"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

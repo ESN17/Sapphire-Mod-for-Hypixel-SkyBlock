@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "FRESHLY_BAKED_RING",
+  "_original_name": "Freshly Baked Ring",
+  "_original_lore": [
+    "Overbloom: +2",
+    "Accessory Power: +5",
+    "",
+    "This item has x2  Overbloom during",
+    "Feast events.",
+    "",
+    "Works while in Accessory Bag!",
+    "UNCOMMON ACCESSORY"
+  ],
+  "name": "新鲜出炉戒指",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Overbloom: {{N0}}"
+      ],
+      "translation": "稀有作物概率加成: {{N0}}",
+      "styleMappings": {
+        "Overbloom": "稀有作物概率加成"
+      }
+    },
+    {
+      "source": [
+        "Accessory Power: {{N0}}"
+      ],
+      "translation": "饰品能量: {{N0}}",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "This item has x{{N0}}  Overbloom during",
+        "Feast events."
+      ],
+      "translation": "在盛宴活动期间,此物品拥有 x{{N0}}  稀有作物概率加成.",
+      "styleMappings": {
+        "Feast events": "盛宴活动",
+        "Overbloom": "稀有作物概率加成",
+        "item": "物品",
+        "Feast": "盛宴"
+      }
+    },
+    {
+      "source": [
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "放在饰品袋中即可生效!",
+      "styleMappings": {
+        "Accessory Bag": "饰品袋",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON ACCESSORY"
+      ],
+      "translation": "罕见 饰品",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Ring": "戒指"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

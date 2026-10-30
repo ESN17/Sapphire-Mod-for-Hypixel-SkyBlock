@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "id": "OCTOPUS_TENDRIL",
+  "_original_name": "Octopus Tendril",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "When applied to a fishing rod,",
+    "increases its Spiked Hook level by 1!",
+    "Can be applied once.",
+    "Requires Spiked Hook VI!",
+    "",
+    "Sticks to the skin and is hard to pry",
+    "off.",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "章鱼触手",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "When applied to a fishing rod,",
+        "increases its Spiked Hook level by {{N0}}!"
+      ],
+      "translation": "应用于钓鱼竿时,将其尖刺钩等级提高 {{N0}}!",
+      "styleMappings": {
+        "Spiked Hook": "尖刺钩",
+        "fishing": "钓鱼",
+        "Spiked": "尖刺"
+      }
+    },
+    {
+      "source": [
+        "Can be applied once."
+      ],
+      "translation": "只能应用一次.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Requires Spiked Hook VI!"
+      ],
+      "translation": "需要尖刺钩 VI!",
+      "styleMappings": {
+        "Spiked Hook VI": "尖刺钩 VI",
+        "Requires": "需要",
+        "Spiked": "尖刺",
+        "Spiked Hook": "尖刺钩"
+      }
+    },
+    {
+      "source": [
+        "Sticks to the skin and is hard to pry",
+        "off."
+      ],
+      "translation": "紧贴皮肤,难以剥离.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Octopus Tendril": "章鱼触手"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

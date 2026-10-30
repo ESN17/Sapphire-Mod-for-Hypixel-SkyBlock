@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "ORANGE_CHESTPLATE",
+  "_original_name": "Orange Chestplate",
+  "_original_lore": [
+    "Rift Time: +45s",
+    "Intelligence: +5",
+    "Mana Regen: +10%",
+    "",
+    "EPIC CHESTPLATE"
+  ],
+  "name": "橙色胸甲",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Rift Time: {{N0}}s"
+      ],
+      "translation": "裂隙时间: {{N0}}秒",
+      "styleMappings": {
+        "Rift Time": "裂隙时间",
+        "{{N0}}s": "{{N0}}秒",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Mana Regen: {{N0}}"
+      ],
+      "translation": "法力回复: {{N0}}",
+      "styleMappings": {
+        "Mana Regen": "法力回复",
+        "Mana": "法力",
+        "Regen": "回复"
+      }
+    },
+    {
+      "source": [
+        "EPIC CHESTPLATE"
+      ],
+      "translation": "史诗胸甲",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Orange": "橙色",
+    "Chestplate": "胸甲"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

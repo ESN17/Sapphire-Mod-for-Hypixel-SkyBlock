@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "id": "ATTRIBUTE_SHARD_GREENHOUSE_SPEED;1",
+  "_original_name": "Timestalk Clone Shard",
+  "_original_lore": [
+    "Greenhouse Speed I",
+    "Grants +0.1% Growth Speed in your",
+    "Greenhouse.",
+    "",
+    "You can Syphon this shard from",
+    "your Hunting Box.",
+    "",
+    "Right-click to send to Hunting Box!",
+    "Shift Right-click to move all!",
+    "",
+    "❣ Requires Hunting Skill 20.",
+    "LEGENDARY COMBAT SHARD (ID L57)"
+  ],
+  "name": "时茎克隆碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Greenhouse Speed I"
+      ],
+      "translation": "温室速度 I",
+      "styleMappings": {
+        "Greenhouse Speed I": "温室速度 I",
+        "Speed I": "速度 I",
+        "Greenhouse": "温室",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Growth Speed in your",
+        "Greenhouse."
+      ],
+      "translation": "在你的温室中给予 {{N0}} 生长速度.",
+      "styleMappings": {
+        "Growth Speed": "生长速度",
+        "Greenhouse": "温室",
+        "Grants": "给予",
+        "Speed": "速度",
+        "Growth": "生长"
+      }
+    },
+    {
+      "source": [
+        "You can Syphon this shard from",
+        "your Hunting Box."
+      ],
+      "translation": "你可以从狩猎箱中吸取此碎片.",
+      "styleMappings": {
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to send to Hunting Box!"
+      ],
+      "translation": "右键点击发送至狩猎箱!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Shift Right-click to move all!"
+      ],
+      "translation": "潜行键 右键点击全部移动!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "all": "全部"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Hunting Skill {{N0}}."
+      ],
+      "translation": "❣ 需要狩猎技能 {{N0}}.",
+      "styleMappings": {
+        "Hunting Skill": "狩猎技能",
+        "Requires": "需要",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY COMBAT SHARD (ID L{{N0}})"
+      ],
+      "translation": "传说战斗碎片 (ID L{{N0}})",
+      "styleMappings": {
+        "LEGENDARY COMBAT SHARD": "传说战斗碎片",
+        "LEGENDARY": "传说",
+        "COMBAT SHARD": "战斗碎片"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shard": "碎片"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

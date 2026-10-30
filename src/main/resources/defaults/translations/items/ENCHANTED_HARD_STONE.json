@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "ENCHANTED_HARD_STONE",
+  "_original_name": "Enchanted Hard Stone",
+  "_original_lore": [
+    "Collection Item",
+    "",
+    "A refined form of heavy rock from",
+    "the darkest depths.",
+    "",
+    "UNCOMMON BLOCK"
+  ],
+  "name": "附魔硬化石头",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Collection Item"
+      ],
+      "translation": "收藏品",
+      "styleMappings": {
+        "Collection": "收藏"
+      }
+    },
+    {
+      "source": [
+        "A refined form of heavy rock from",
+        "the darkest depths."
+      ],
+      "translation": "一种来自最深处沉重岩石的精炼形态.",
+      "styleMappings": {
+        "depths": "深处"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON BLOCK"
+      ],
+      "translation": "罕见 方块",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Hard Stone": "硬化石头"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "id": "PLASTIC_SHOVEL",
+  "_original_name": "Plastic Shovel",
+  "_original_lore": [
+    "Obtained during the 1st Carnival for",
+    "achieving a high score in Fruit",
+    "Digging!",
+    "",
+    "Player: Eisengolem",
+    "Position: #10",
+    "Score: 5,175",
+    "",
+    "* Co-op Soulbound *",
+    "SPECIAL"
+  ],
+  "name": "塑料铲子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Obtained during the {{N0}}st Carnival for",
+        "achieving a high score in Fruit",
+        "Digging!"
+      ],
+      "translation": "在第 {{N0}} 届嘉年华期间,于水果挖掘中取得高分获得!",
+      "styleMappings": {
+        "Fruit Digging": "水果挖掘",
+        "high score": "高分",
+        "Carnival": "嘉年华",
+        "for": "获得"
+      }
+    },
+    {
+      "source": [
+        "Player: Eisengolem"
+      ],
+      "translation": "玩家: 铁傀儡",
+      "styleMappings": {
+        "Player": "玩家",
+        "Eisengolem": "铁傀儡"
+      }
+    },
+    {
+      "source": [
+        "Position: #{{N0}}"
+      ],
+      "translation": "排名: #{{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Score: {{N0}}"
+      ],
+      "translation": "得分: {{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shovel": "铲子"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

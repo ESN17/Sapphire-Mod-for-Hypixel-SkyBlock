@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "REPELLING_CANDLE",
+  "_original_name": "Repelling Candle",
+  "_original_lore": [
+    "Prevents unwanted monsters",
+    "from spawning on your island!",
+    "",
+    "Emits life-scarring aroma!",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "驱赶蜡烛",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Prevents unwanted monsters",
+        "from spawning on your island!"
+      ],
+      "translation": "阻止不受欢迎的怪物在你的岛屿上生成!",
+      "styleMappings": {
+        "monsters": "怪物",
+        "island": "岛屿上"
+      }
+    },
+    {
+      "source": [
+        "Emits life-scarring aroma!"
+      ],
+      "translation": "散发出令人终身难忘的气味!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

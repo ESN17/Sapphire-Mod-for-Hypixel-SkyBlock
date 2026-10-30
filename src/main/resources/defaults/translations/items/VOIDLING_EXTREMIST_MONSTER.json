@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "VOIDLING_EXTREMIST_MONSTER",
+  "_original_name": "Voidling Extremist (Monster)",
+  "_original_lore": [
+    "The top lieutenants of the void",
+    "heradldry.",
+    "",
+    "❤ Health: 8,000.000"
+  ],
+  "name": "虚空极端分子 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The top lieutenants of the void",
+        "heradldry."
+      ],
+      "translation": "虚空统治者的最高副官.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

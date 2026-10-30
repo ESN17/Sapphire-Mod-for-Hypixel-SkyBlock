@@ -1,0 +1,181 @@
+{
+  "schemaVersion": 1,
+  "id": "ELEPHANT;5",
+  "_original_name": "[Lvl {LVL}] Elephant",
+  "_original_lore": [
+    "Farming Pet",
+    "",
+    "Health: +{HEALTH}",
+    "Intelligence: +{INTELLIGENCE}",
+    "Farming Fortune: +{FARMING_FORTUNE}",
+    "",
+    "Stomp",
+    "Gain {0} Defense for every 100 ",
+    "Speed.",
+    "",
+    "Walking Fortress",
+    "Gain {1} Health for every 10 ",
+    "Defense.",
+    "",
+    "Trunk Efficiency",
+    "Grants +{2} Farming Fortune, which",
+    "increases your chance for multiple",
+    "drops.",
+    "",
+    "Abundant Harvest",
+    "Earn +{3}% Sowdust while farming.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "MYTHIC PET"
+  ],
+  "name": "[等级 {LVL}] 大象",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Farming Pet"
+      ],
+      "translation": "耕作宠物",
+      "styleMappings": {
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Health: +{{N0}}"
+      ],
+      "translation": "生命值: +{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: +{{N0}}"
+      ],
+      "translation": "智力: +{{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Farming Fortune: +{{N0}}"
+      ],
+      "translation": "农业幸运: +{{N0}}",
+      "styleMappings": {
+        "Farming Fortune": "农业幸运",
+        "Fortune": "幸运",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "Stomp"
+      ],
+      "translation": "重踏",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Gain {{N0}} Defense for every {{N1}} ",
+        "Speed."
+      ],
+      "translation": "每 {{N1}}  速度获得 {{N0}} 防御.",
+      "styleMappings": {
+        " Defense": " 防御",
+        " Speed": " 速度",
+        "Gain": "获得",
+        "Defense": "防御",
+        "for": "获得",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Walking Fortress"
+      ],
+      "translation": "行走堡垒",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Gain {{N0}} Health for every {{N1}} ",
+        "Defense."
+      ],
+      "translation": "每 {{N1}}  防御获得 {{N0}} 生命.",
+      "styleMappings": {
+        " Defense": " 防御",
+        " Health": " 生命",
+        "Gain": "获得",
+        "Health": "生命",
+        "Defense": "防御",
+        "for": "获得"
+      }
+    },
+    {
+      "source": [
+        "Trunk Efficiency"
+      ],
+      "translation": "象鼻效率",
+      "styleMappings": {
+        "Efficiency": "效率"
+      }
+    },
+    {
+      "source": [
+        "Grants +{{N0}} Farming Fortune, which",
+        "increases your chance for multiple",
+        "drops."
+      ],
+      "translation": "提供 +{{N0}} 农业幸运,提高你获得多份掉落物的概率.",
+      "styleMappings": {
+        "Farming Fortune": "农业幸运",
+        "for": "获得",
+        "Fortune": "幸运",
+        "chance": "概率",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "Abundant Harvest"
+      ],
+      "translation": "丰收",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Earn +{{N0}}% Sowdust while farming."
+      ],
+      "translation": "耕种时获得 +{{N0}}% 播种尘.",
+      "styleMappings": {
+        "Sowdust": "播种尘"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "MYTHIC PET"
+      ],
+      "translation": "神话 宠物",
+      "styleMappings": {
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Elephant": "大象",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

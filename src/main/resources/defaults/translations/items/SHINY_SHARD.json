@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "SHINY_SHARD",
+  "_original_name": "Shiny Token",
+  "_original_lore": [
+    "Drops from Shiny Pigs during the",
+    "Year of the Pig!",
+    "",
+    "Can be spent in the Year of the Pig",
+    "Shop!",
+    "",
+    "* Soulbound *",
+    "RARE"
+  ],
+  "name": "闪亮代币",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Drops from Shiny Pigs during the",
+        "Year of the Pig!"
+      ],
+      "translation": "在猪年期间由闪亮猪掉落!",
+      "styleMappings": {
+        "Year of the Pig": "猪年",
+        "Shiny Pigs": "闪亮猪",
+        "Pig": "猪",
+        "Pigs": "猪",
+        "Year": "年"
+      }
+    },
+    {
+      "source": [
+        "Can be spent in the Year of the Pig",
+        "Shop!"
+      ],
+      "translation": "可在猪年商店中使用!",
+      "styleMappings": {
+        "Year of the Pig Shop": "猪年商店",
+        "Pig": "猪",
+        "Year": "年",
+        "Year of the Pig": "猪年"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

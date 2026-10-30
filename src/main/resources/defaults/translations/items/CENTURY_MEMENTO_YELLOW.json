@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "CENTURY_MEMENTO_YELLOW",
+  "_original_name": "Cake Slice of the Century",
+  "_original_lore": [
+    "Commemorates the victory of the",
+    "BLUE team in the Year 400",
+    "celebrations.",
+    "",
+    "SPECIAL MEMENTO"
+  ],
+  "name": "世纪蛋糕切片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Commemorates the victory of the",
+        "BLUE team in the Year {{N0}}",
+        "celebrations."
+      ],
+      "translation": "纪念蓝队在 {{N0}} 年庆典中的胜利.",
+      "styleMappings": {
+        "BLUE": "蓝",
+        "Year {{N0}}": "{{N0}} 年",
+        "Year": "年",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL MEMENTO"
+      ],
+      "translation": "特殊纪念品",
+      "styleMappings": {
+        "SPECIAL MEMENTO": "特殊纪念品",
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

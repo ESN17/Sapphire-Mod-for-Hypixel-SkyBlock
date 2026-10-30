@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "id": "DEIFIC_SPADE",
+  "_original_name": "Deific Spade",
+  "_original_lore": [
+    "Use to reveal and dig up Griffin",
+    "Burrows in the hub while Diana's",
+    "Mythological Ritual is active.",
+    "",
+    "Maximum Burrow Chain Length: 8",
+    "",
+    "Burrows dug with this item may contain:",
+    " ● Monsters",
+    " ● Griffin Feathers",
+    " ● Coins",
+    " ● Mythos Fragments",
+    " ● Braided Griffin Feathers",
+    "",
+    "Ability: Echo  RIGHT CLICK",
+    "Show the way to the next or nearby Griffin",
+    "burrow.",
+    "Cooldown: 1s",
+    "",
+    "LEGENDARY "
+  ],
+  "name": "神性铲",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Use to reveal and dig up Griffin",
+        "Burrows in the hub while Diana's",
+        "Mythological Ritual is active."
+      ],
+      "translation": "在 Diana 的神话仪式激活期间,用于在中心岛中揭示并挖掘狮鹫洞穴.",
+      "styleMappings": {
+        "Mythological Ritual": "神话仪式",
+        "Griffin Burrows": "狮鹫洞穴",
+        "Griffin": "狮鹫",
+        "Mythological": "神话",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Maximum Burrow Chain Length: {{N0}}"
+      ],
+      "translation": "最大洞穴链长度: {{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Burrows dug with this item may contain:"
+      ],
+      "translation": "使用此物品挖出的洞穴可能包含:",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        " ● Monsters",
+        " ● Griffin Feathers",
+        " ● Coins",
+        " ● Mythos Fragments",
+        " ● Braided Griffin Feathers"
+      ],
+      "translation": " ● 怪物  ● 狮鹫羽毛  ● 硬币  ● 神话碎片  ● 编织狮鹫羽毛",
+      "styleMappings": {
+        "Braided Griffin Feathers": "编织狮鹫羽毛",
+        "Griffin Feathers": "狮鹫羽毛",
+        "Mythos Fragments": "神话碎片",
+        "Monsters": "怪物",
+        "Coins": "硬币",
+        "Griffin": "狮鹫"
+      }
+    },
+    {
+      "source": [
+        "Ability: Echo  RIGHT CLICK"
+      ],
+      "translation": "技能: 回声  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Show the way to the next or nearby Griffin",
+        "burrow."
+      ],
+      "translation": "显示通往下一个或附近狮鹫洞穴的路径.",
+      "styleMappings": {
+        "Griffin": "狮鹫"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY "
+      ],
+      "translation": "传说 ",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Deific Spade": "神性铲"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

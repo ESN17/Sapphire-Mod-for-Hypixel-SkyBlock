@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "HUB_WIZARD_TOWER_TRAVEL_SCROLL",
+  "_original_name": "Travel Scroll to the Wizard Tower",
+  "_original_lore": [
+    "Consume this item to add its",
+    "destination to your Fast Travel",
+    "options.",
+    "",
+    "Island: SkyBlock Hub",
+    "Teleport: Wizard Tower",
+    "",
+    "RARE TRAVEL SCROLL"
+  ],
+  "name": "巫师塔传送卷轴",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consume this item to add its",
+        "destination to your Fast Travel",
+        "options."
+      ],
+      "translation": "消耗此物品,将其目的地添加到你的快速旅行选项中.",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Island: SkyBlock Hub"
+      ],
+      "translation": "岛屿: 空岛生存中心岛",
+      "styleMappings": {
+        "SkyBlock Hub": "空岛生存中心岛",
+        "Island": "岛屿",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "Teleport: Wizard Tower"
+      ],
+      "translation": "传送: 巫师塔",
+      "styleMappings": {
+        "Teleport": "传送",
+        "Wizard Tower": "巫师塔"
+      }
+    },
+    {
+      "source": [
+        "RARE TRAVEL SCROLL"
+      ],
+      "translation": "稀有传送卷轴",
+      "styleMappings": {
+        "RARE TRAVEL SCROLL": "稀有传送卷轴",
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Wizard Tower": "巫师塔"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,372 @@
+[
+  {
+    "id": "ALCHEMISTS_STAFF",
+    "name": "§9The Alchemist's Staff",
+    "lore": [
+      "§6Ability: Coin Conversion  §e§lRIGHT CLICK",
+      "§7Spend coins to cast a projectile which deals",
+      "§c10,000 §7damage on hit and knocks enemies",
+      "§7back.",
+      "§8Coin Cost: §6100,000",
+      "",
+      "§4❣ §cRequires §aCombat Skill 22§c.",
+      "§8§l* §8Soulbound §8§l*",
+      "§9§lRARE WAND"
+    ]
+  },
+  {
+    "id": "ASPECT_OF_THE_DRAGON",
+    "name": "§6Aspect of the Dragons",
+    "lore": [
+      "§6Ability: Dragon Rage  §e§lRIGHT CLICK",
+      "§7All Monsters in front of you take §a12,000",
+      "§7damage. Hit monsters take large knockback."
+    ]
+  },
+  {
+    "id": "BAT_WAND",
+    "name": "§6Spirit Sceptre",
+    "lore": [
+      "§6Ability: Guided Bat  §e§lRIGHT CLICK",
+      "§7Shoots a guided spirit bat, following your aim",
+      "§7and exploding for §c2,000 §7damage."
+    ]
+  },
+  {
+    "id": "STARRED_BAT_WAND",
+    "name": "§6 Spirit Sceptre",
+    "lore": [
+      "§6Ability: Guided Bat  §e§lRIGHT CLICK",
+      "§7Shoots a guided spirit bat, following your aim",
+      "§7and exploding for §c2,250 §7damage."
+    ]
+  },
+  {
+    "id": "BINGO_BLASTER",
+    "name": "§5Bingo Blaster",
+    "lore": [
+      "§6Ability: Bingo Blast  §e§lRIGHT CLICK",
+      "§7Shoots out a piercing ray of",
+      "§7water that travels up to 15",
+      "§7blocks. Deals §c865.2 §7damage",
+      "§7to the first enemy hit. Damage",
+      "§7is halved for each subsequent",
+      "§7enemy hit."
+    ]
+  },
+  {
+    "id": "BONZO_STAFF",
+    "name": "§9Bonzo's Staff",
+    "lore": [
+      "§6Ability: Showtime  §e§lRIGHT CLICK",
+      "§7Shoots balloons that create a large explosion",
+      "§7on impact, dealing up to §c1,000 §7damage."
+    ]
+  },
+  {
+    "id": "STARRED_BONZO_STAFF",
+    "name": "§9 Bonzo's Staff",
+    "lore": [
+      "§6Ability: Showtime  §e§lRIGHT CLICK",
+      "§7Shoots balloons that create a large explosion",
+      "§7on impact, dealing up to §c1,100 §7damage."
+    ]
+  },
+  {
+    "id": "CELESTE_WAND",
+    "name": "§aCeleste Wand",
+    "lore": [
+      "§6Ability: Lightning Strike  §e§lRIGHT CLICK",
+      "§7Strikes lightning up to §f10 blocks §7away, dealing",
+      "§c40 §7damage to the nearest monster."
+    ]
+  },
+  {
+    "id": "CRYPT_DREADLORD_SWORD",
+    "name": "§9Dreadlord Sword",
+    "lore": [
+      "§6Ability: Dreadlord  §e§lRIGHT CLICK",
+      "§7Shoot a skull that deals §a504§7 damage."
+    ]
+  },
+  {
+    "id": "CRYPT_WITHERLORD_SWORD",
+    "name": "§5Crypt Witherlord Sword",
+    "lore": [
+      "§6Ability: Witherlord  §e§lRIGHT CLICK",
+      "§7Shoot 3 skulls each dealing §a304.5§7 Damage."
+    ]
+  },
+  {
+    "id": "EMBER_ROD",
+    "name": "§5Ember Rod",
+    "lore": [
+      "§6Ability: Fire Blast  §e§lRIGHT CLICK",
+      "§7Shoot 3 Fireballs which deal §c30§7 damage in",
+      "§7rapid succession in front of you!"
+    ]
+  },
+  {
+    "id": "FIRE_FURY_STAFF",
+    "name": "§5Fire Fury Staff",
+    "lore": [
+      "§6Ability: Firestorm  §e§lRIGHT CLICK",
+      "§7Shoots a projectile that on impact creates a",
+      "§7firestorm, dealing up to §c42,000 §7damage over",
+      "§710 seconds to mobs in a 7 block radius."
+    ]
+  },
+  {
+    "id": "FIRE_VEIL_WAND",
+    "name": "§5Fire Veil Wand",
+    "lore": [
+      "§6Ability: Fire Veil  §e§lRIGHT CLICK",
+      "§7Creates a veil of fire around you for §a5s§7,",
+      "§7dealing §c15,000 §7damage per second to mobs",
+      "§7within."
+    ]
+  },
+  {
+    "id": "FROZEN_SCYTHE",
+    "name": "§9Frozen Scythe",
+    "lore": [
+      "§6Ability: Ice Bolt  §e§lRIGHT CLICK",
+      "§7Shoots §a1 §7Ice Bolt that deals §c1,000 §7damage and",
+      "§7slows enemies hit for §a5 §7seconds!"
+    ]
+  },
+  {
+    "id": "GIANTS_SWORD",
+    "name": "§6Giant's Sword",
+    "lore": [
+      "§6Ability: Giant's Slam  §e§lRIGHT CLICK",
+      "§7Slam your sword into the ground dealing",
+      "§c100,000 §7damage to nearby enemies."
+    ]
+  },
+  {
+    "id": "GIANTS_EYE_SWORD",
+    "name": "§6Giant's Eye Sword",
+    "lore": [
+      "§6Ability: Eye Beam  §e§lRIGHT CLICK",
+      "§7Fire a laser in front of you",
+      "§7dealing §c4000 §7damage and",
+      "§7costing §b40 §7mana. The damage",
+      "§7increases by §c100% §7every",
+      "§7second for §b5 §7seconds and the",
+      "§7mana cost increases by §d25%",
+      "§d§7every second. You can",
+      "§7right-click again to de-activate",
+      "§7the laser. Damage of the laser",
+      "§7is increased by §cx1.5 §7while",
+      "§7wearing §6Precursor Eye§7.",
+      "",
+      "§7§8This item can be reforged!",
+      "§7§4❣ §cRequires §aMaster Mode",
+      "§aCatacombs Floor VI Completion§c.",
+      "§6§lLEGENDARY DUNGEON LONGSWORD"
+    ]
+  },
+  {
+    "id": "GLACIAL_SCYTHE",
+    "name": "§5Glacial Scythe",
+    "lore": [
+      "§6Ability: Ice Bolt  §e§lRIGHT CLICK",
+      "§7Shoots §a1 §7Ice Bolt that deals §c1,500 §7damage and",
+      "§7slows enemies hit for §a5 §7seconds! When hitting",
+      "§7the ground, also creates an explosion of §a3",
+      "§7blocks, dealing the same damage."
+    ]
+  },
+  {
+    "id": "STARRED_GLACIAL_SCYTHE",
+    "name": "§5 Glacial Scythe",
+    "lore": [
+      "§6Ability: Ice Bolt  §e§lRIGHT CLICK",
+      "§7Shoots §a1 §7Ice Bolt that deals §c1,700 §7damage and",
+      "§7slows enemies hit for §a5 §7seconds! When hitting",
+      "§7the ground, also creates an explosion of §a3",
+      "§7blocks, dealing the same damage."
+    ]
+  },
+  {
+    "id": "GOLEM_SWORD",
+    "name": "§9Golem Sword",
+    "lore": [
+      "§6Ability: Iron Punch  §e§lRIGHT CLICK",
+      "§7Punch the ground, damaging enemies in a",
+      "§7hexagon around you for §a250§7 base Magic",
+      "§7Damage."
+    ]
+  },
+  {
+    "id": "ICE_SPRAY_WAND",
+    "name": "§9Ice Spray Wand",
+    "lore": [
+      "§6Ability: Ice Spray  §e§lRIGHT CLICK",
+      "§7Produces a cone of ice in front of the caster",
+      "§7that deals §c17,000 §7damage to mobs and freezes",
+      "§7them in place for §e5 §7seconds! Frozen mobs",
+      "§7take §c10%§7 increased damage!"
+    ]
+  },
+  {
+    "id": "STARRED_ICE_SPRAY_WAND",
+    "name": "§9 Ice Spray Wand",
+    "lore": [
+      "§6Ability: Ice Spray  §e§lRIGHT CLICK",
+      "§7Produces a cone of ice in front of the caster",
+      "§7that deals §c19,114.1 §7damage to mobs and",
+      "§7freezes them in place for §e5 §7seconds! Frozen",
+      "§7mobs take §c10%§7 increased damage!"
+    ]
+  },
+  {
+    "id": "INK_WAND",
+    "name": "§5Ink Wand",
+    "lore": [
+      "§6Ability: Ink Bomb  §e§lRIGHT CLICK",
+      "§7Shoot an ink bomb in front of you dealing",
+      "§a10,000 §7damage and giving blindness!"
+    ]
+  },
+  {
+    "id": "JERRY_STAFF",
+    "name": "§5Jerry-chine Gun",
+    "lore": [
+      "§6Ability: Rapid-fire  §e§lRIGHT CLICK",
+      "§7Shoots a Jerry bullet, dealing §c500",
+      "§7damage on impact and knocking you",
+      "§7back.",
+      "",
+      "§7Each shot costs §3+30 mana §7more than",
+      "§7the previous, resetting after §a4s §7of",
+      "§7not firing.",
+      "",
+      "§8This item can be reforged!",
+      "§5§lEPIC SWORD"
+    ]
+  },
+  {
+    "id": "LEAPING_SWORD",
+    "name": "§5Leaping Sword",
+    "lore": [
+      "§6Ability: Leap  §e§lRIGHT CLICK",
+      "§7Leap into the air and deal §c350§7 damage to",
+      "§7nearby enemies upon landing on the ground.",
+      "§7Damaged enemies will also be frozen for §a1",
+      "§7second."
+    ]
+  },
+  {
+    "id": "MIDAS_STAFF",
+    "name": "§6Midas Staff",
+    "lore": [
+      "§6Ability: Molten Wave  §e§lRIGHT CLICK",
+      "§7Cast a wave of molten gold in the direction",
+      "§7you are facing! Deals up to §c12,000 §7damage."
+    ]
+  },
+  {
+    "id": "STARRED_MIDAS_STAFF",
+    "name": "§6 Midas Staff",
+    "lore": [
+      "§6Ability: Molten Wave  §e§lRIGHT CLICK",
+      "§7Cast a wave of molten gold in the direction",
+      "§7you are facing! Deals up to §c12,096.2 §7damage."
+    ]
+  },
+  {
+    "id": "PIGMAN_SWORD",
+    "name": "§6Pigman Sword",
+    "lore": [
+      "§6Ability: Burning Souls  §e§lRIGHT CLICK",
+      "§7Gain §a+75 Defense §7for §a5s§7 and cast vortex of",
+      "§7flames towards enemies, dealing up to §c30,000",
+      "§7over §a5§7 seconds."
+    ]
+  },
+  {
+    "id": "RUNIC_STAFF",
+    "name": "§6Aurora Staff",
+    "lore": [
+      "§6Ability: Runic Zap  §e§lRIGHT CLICK",
+      "§7Fires a beam of energy, hitting the",
+      "§7first enemy on its path for §c10,000§7.",
+      "§7Deals reduced damage past §a10",
+      "§7blocks."
+    ]
+  },
+  {
+    "id": "SILK_EDGE_SWORD",
+    "name": "§6Silk-Edge Sword",
+    "lore": [
+      "§6Ability: Leap  §e§lRIGHT CLICK",
+      "§7Leap into the air and deal §c400§7 damage to",
+      "§7nearby enemies upon landing on the ground.",
+      "§7Damaged enemies will also be frozen for §a1",
+      "§7second."
+    ]
+  },
+  {
+    "id": "STAFF_OF_THE_VOLCANO",
+    "name": "§9Staff of the Volcano",
+    "lore": [
+      "§6Ability: Explode  §e§lRIGHT CLICK",
+      "§7Creates an explosion around you dealing",
+      "§c24,000 §7damage and setting all mobs on fire in",
+      "§7a 4 block radius over §a1s§7."
+    ]
+  },
+  {
+    "id": "STARLIGHT_WAND",
+    "name": "§9Starlight Wand",
+    "lore": [
+      "§6Ability: Starfall  §e§lRIGHT CLICK",
+      "§7Shower stars in a §f3 blocks §7area for §a5s§7,",
+      "§7dealing §c300 §7damage per second to mobs within."
+    ]
+  },
+  {
+    "id": "VOODOO_DOLL",
+    "name": "§9Voodoo Doll",
+    "lore": [
+      "§6Ability: Acupuncture  §e§lRIGHT CLICK",
+      "§7Shoot arrows from every direction around",
+      "§7the targeted monster.",
+      "",
+      "§7Monsters hit by at least one arrow are slowed",
+      "§7and receive §c1,500 §7damage/s for §a10s§7."
+    ]
+  },
+  {
+    "id": "VOODOO_DOLL_WILTED",
+    "name": "§5Jinxed Voodoo Doll",
+    "lore": [
+      "§6Ability: Acupuncture  §e§lRIGHT CLICK",
+      "§7Shoot arrows from every direction around",
+      "§7the targeted monster.",
+      "",
+      "§7Monsters hit by at least one arrow are slowed",
+      "§7and receive §c2,222 §7damage/s for §a12s§7."
+    ]
+  },
+  {
+    "id": "YETI_SWORD",
+    "name": "§6Yeti Sword",
+    "lore": [
+      "§6Ability: Terrain Toss  §e§lRIGHT CLICK",
+      "§7Throws a chunk of terrain in the direction you",
+      "§7are facing! Deals up to §c15,000 §7damage."
+    ]
+  },
+  {
+    "id": "STARRED_YETI_SWORD",
+    "name": "§6 Yeti Sword",
+    "lore": [
+      "§6Ability: Terrain Toss  §e§lRIGHT CLICK",
+      "§7Throws a chunk of terrain in the direction you",
+      "§7are facing! Deals up to §c17,000 §7damage."
+    ]
+  }
+]

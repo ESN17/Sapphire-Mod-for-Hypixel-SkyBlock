@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "id": "SKELETON_HAT",
+  "_original_name": "Skeleton Hat",
+  "_original_lore": [
+    "Intelligence: +10",
+    "Speed: +2",
+    "",
+    "Your arrows have a 20% chance to",
+    "explode on impact dealing 50 base",
+    "Magic Damage to enemies within 8",
+    "blocks.",
+    "",
+    "This item can be reforged!",
+    "COMMON HELMET"
+  ],
+  "name": "骷髅帽",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Your arrows have a {{N0}} chance to",
+        "explode on impact dealing {{N1}} base",
+        "Magic Damage to enemies within {{N2}}",
+        "blocks."
+      ],
+      "translation": "你的箭有 {{N0}} 几率在命中时爆炸,对 {{N2}} 格内的敌人造成 {{N1}} 基础魔法伤害.",
+      "styleMappings": {
+        "base Magic Damage": "基础魔法伤害",
+        "blocks": "格",
+        "chance": "几率",
+        "Damage": "伤害",
+        "chance to": "几率",
+        "Magic Damage": "魔法伤害",
+        "enemies": "敌人"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "COMMON HELMET"
+      ],
+      "translation": "普通头盔",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Skeleton Hat": "骷髅帽",
+    "Skeleton": "骷髅"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "WITHER_BOW",
+  "_original_name": "Wither Bow",
+  "_original_lore": [
+    "Damage: +30",
+    "",
+    "Deals +100% damage to  Wither",
+    "mobs.",
+    "",
+    "This item can be reforged!",
+    "UNCOMMON BOW"
+  ],
+  "name": "凋零弓",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Deals {{N0}} damage to  Wither",
+        "mobs."
+      ],
+      "translation": "对  凋零怪物造成 {{N0}} 伤害.",
+      "styleMappings": {
+        "Wither": "凋零",
+        "damage": "伤害",
+        "Deals": "造成",
+        "mobs": "怪物",
+        "mobs.": "伤害."
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON BOW"
+      ],
+      "translation": "罕见 弓",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Wither": "凋零",
+    "Bow": "弓"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

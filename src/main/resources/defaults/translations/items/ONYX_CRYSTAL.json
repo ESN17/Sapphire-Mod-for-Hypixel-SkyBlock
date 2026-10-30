@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "ONYX_CRYSTAL",
+  "_original_name": "Onyx Crystal",
+  "_original_lore": [
+    "Extraordinary crystal found deep in",
+    "the Glacite Mineshafts.",
+    "",
+    "Some say that it can be infused with",
+    "gemstones, and holds the secrets to",
+    "a time long past.",
+    "",
+    "SPECIAL"
+  ],
+  "name": "缟玛瑙水晶",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Extraordinary crystal found deep in",
+        "the Glacite Mineshafts."
+      ],
+      "translation": "在冰晶矿井深处发现的非凡水晶.",
+      "styleMappings": {
+        "Glacite Mineshafts": "冰晶矿井",
+        "Mineshafts": "矿井",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Some say that it can be infused with",
+        "gemstones, and holds the secrets to",
+        "a time long past."
+      ],
+      "translation": "有人说它可以注入宝石,并蕴藏着遥远过去的秘密.",
+      "styleMappings": {
+        "gemstones": "宝石",
+        "time long past": "遥远过去"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Crystal": "水晶",
+    "Onyx": "缟玛瑙"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

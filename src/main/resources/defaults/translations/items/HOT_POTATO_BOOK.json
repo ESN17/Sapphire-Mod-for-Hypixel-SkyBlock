@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "id": "HOT_POTATO_BOOK",
+  "_original_name": "Hot Potato Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "When applied to armor, grants +2",
+    "Defense and +4 Health.",
+    "",
+    "When applied to weapons, grants",
+    "+2 Strength and +2 Damage.",
+    "",
+    "This can be applied to an item up to",
+    "10 times!",
+    "",
+    "EPIC"
+  ],
+  "name": "热马铃薯书",
+  "lore": {
+    "Combinable in Anvil": "可在铁砧中合成",
+    "EPIC": "史诗"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "When applied to armor, grants {defense}",
+        "Defense and {health} Health."
+      ],
+      "translation": "用于护甲时,提供 {defense} 防御和 {health} 生命值.",
+      "styleMappings": {
+        "Defense": "防御",
+        "Health": "生命值",
+        " Defense": " 防御",
+        " Health": " 生命",
+        "health": "生命值",
+        "defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "When applied to weapons, grants",
+        "{strength} Strength and {damage} Damage."
+      ],
+      "translation": "用于武器时,提供 {strength} 力量和 {damage} 伤害.",
+      "styleMappings": {
+        "Strength": "力量",
+        "Damage": "伤害",
+        " Strength": " 力量",
+        " Damage": " 伤害",
+        "damage": "伤害",
+        "strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "This can be applied to an item up to",
+        "{count} times!"
+      ],
+      "translation": "每件物品最多可使用 {count} 次!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "When applied to armor, grants {{N0}}",
+        "Defense and {{N1}} Health."
+      ],
+      "translation": "用于护甲时,提供 {{N0}} 防御和 {{N1}} 生命值.",
+      "styleMappings": {
+        " Defense": " 防御",
+        "Health": "生命值",
+        " Health": " 生命",
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "When applied to weapons, grants",
+        "{{N0}} Strength and {{N1}} Damage."
+      ],
+      "translation": "用于武器时,提供 {{N0}} 力量和 {{N1}} 伤害.",
+      "styleMappings": {
+        " Strength": " 力量",
+        " Damage": " 伤害",
+        "Strength": "力量",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "This can be applied to an item up to",
+        "{{N0}} times!"
+      ],
+      "translation": "每件物品最多可使用 {{N0}} 次!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Defense": "防御",
+    "Health": "生命值",
+    "Strength": "力量",
+    "Damage": "伤害",
+    "Hot Potato Book": "热马铃薯书",
+    "Potato": "马铃薯"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

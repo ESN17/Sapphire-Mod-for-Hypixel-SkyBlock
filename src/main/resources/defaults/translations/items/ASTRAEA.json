@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "id": "ASTRAEA",
+  "_original_name": "Astraea",
+  "_original_lore": [
+    "Gear Score: 985",
+    "Defense: +250",
+    "True Defense: +20",
+    "Damage: +270",
+    "Strength: +150",
+    "Ferocity: +30",
+    "Intelligence: +50",
+    "Gemstones: [☤] [⚔]",
+    "",
+    "Deals +50% damage to  Wither mobs.",
+    "Grants +1  Damage and +2 ",
+    "Defense per Catacombs level.",
+    "",
+    "Right-click to use your class ability!",
+    "",
+    "This item can be reforged!",
+    "❣ Requires The Catacombs Floor VII Completion.",
+    "LEGENDARY DUNGEON SWORD"
+  ],
+  "name": "阿斯特里亚神剑",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "True Defense: {{N0}}"
+      ],
+      "translation": "真实防御: {{N0}}",
+      "styleMappings": {
+        "True Defense": "真实防御",
+        "Defense": "防御",
+        "True": "真实"
+      }
+    },
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Ferocity: {{N0}}"
+      ],
+      "translation": "残暴值: {{N0}}",
+      "styleMappings": {
+        "Ferocity": "残暴值"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [☤] [⚔]"
+      ],
+      "translation": "宝石: [☤] [⚔]",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石",
+        "] [": "] ["
+      }
+    },
+    {
+      "source": [
+        "Deals {{N0}} damage to  Wither mobs."
+      ],
+      "translation": "对 凋灵生物造成 {{N0}} 伤害.",
+      "styleMappings": {
+        "Wither": "凋灵",
+        "damage": "伤害",
+        "Deals": "造成",
+        "mobs": "生物",
+        "mobs.": "伤害."
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}  Damage and {{N1}} ",
+        "Defense per Catacombs level."
+      ],
+      "translation": "每级地牢等级提供 {{N0}} 伤害和 {{N1}} 防御.",
+      "styleMappings": {
+        "Catacombs": "地牢",
+        " Defense": " 防御",
+        " Damage": " 伤害",
+        "Grants": "提供",
+        "Defense": "防御",
+        "Damage": "伤害",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Right-click to use your class ability!"
+      ],
+      "translation": "右键使用职业技能!",
+      "styleMappings": {
+        "ability": "技能"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires The Catacombs Floor VII Completion."
+      ],
+      "translation": "❣ 需要通关地牢第 VII 层.",
+      "styleMappings": {
+        "The Catacombs": "地牢",
+        "Requires": "需要",
+        "Catacombs": "地牢"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY DUNGEON SWORD"
+      ],
+      "translation": "传说地牢剑",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Astraea": "阿斯特里亚神剑"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

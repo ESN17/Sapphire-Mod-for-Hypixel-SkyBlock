@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "JACOBS_PARTICIPATION_MEDAL",
+  "_original_name": "Jacob's Participation Medal",
+  "_original_lore": [
+    "Minion Fuel",
+    "Legacy Item",
+    "",
+    "Use this as Fuel on ONE Farming",
+    "minion, and it will occasionally",
+    "generate Jacob's Tickets for 3d.",
+    "",
+    "A recreation of a medal Jacob used",
+    "to give out for his contests. They",
+    "are too popular now to be given out.",
+    "",
+    "EPIC"
+  ],
+  "name": "Jacob的参与奖章",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Minion Fuel",
+        "Legacy Item"
+      ],
+      "translation": "仆从燃料 旧版物品",
+      "styleMappings": {
+        "Legacy Item": "旧版物品",
+        "Minion Fuel": "仆从燃料",
+        "Item": "物品",
+        "Fuel": "燃料",
+        "Minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "Use this as Fuel on ONE Farming",
+        "minion, and it will occasionally",
+        "generate Jacob's Tickets for {{N0}}d."
+      ],
+      "translation": "将其作为燃料用于一个农业仆从,它会偶尔在 {{N0}} 天内产出 Jacob 的奖券。",
+      "styleMappings": {
+        "ONE Farming": "一个农业",
+        "minion": "仆从",
+        "Jacob's Tickets": "Jacob 的奖券",
+        "Fuel": "燃料",
+        "{{N0}}d": "{{N0}} 天",
+        "Farming": "农业",
+        "ONE": "一个"
+      }
+    },
+    {
+      "source": [
+        "A recreation of a medal Jacob used",
+        "to give out for his contests. They",
+        "are too popular now to be given out."
+      ],
+      "translation": "Jacob 过去为他的比赛颁发的奖章的复刻品.如今它们太受欢迎,已不再颁发.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

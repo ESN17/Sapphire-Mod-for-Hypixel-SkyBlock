@@ -1,0 +1,146 @@
+{
+  "schemaVersion": 1,
+  "id": "GAIA_CONSTRUCT_MONSTER",
+  "_original_name": "Gaia Construct (Mythological Creature)",
+  "_original_lore": [
+    "The Gaia Construct is a Mythological Creature",
+    "that can be found by using a rare or higher ",
+    "Griffin Pet. It deals True Knockback and ignores ",
+    "anti-knockback capabilities like Dwarf Turtle",
+    "Shelmet. It has three stages upon spawning:",
+    "",
+    "Stage 1: Damaged once every 6 hits, ",
+    "summons a little lightning.",
+    "Stage 2 (66% HP): Damaged once every 7 hits,",
+    "summons more lightning.               ",
+    "Stage 3 (33% HP): Damaged once every 8 hits,",
+    "summons the most lightning.",
+    "",
+    "Mob Types: ✿ Mythological, ⚙ Construct",
+    "❤ Health:",
+    "[Griffin/Griffin] 175,000 ❤",
+    "[Griffin] 650,000 ❤",
+    "[Griffin] 3,500,000 ❤",
+    "",
+    "RARE"
+  ],
+  "name": "盖亚造物 (神话生物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Gaia Construct is a Mythological Creature",
+        "that can be found by using a rare or higher ",
+        "Griffin Pet. It deals True Knockback and ignores ",
+        "anti-knockback capabilities like Dwarf Turtle"
+      ],
+      "translation": "盖亚构装体是一种神话生物,使用稀有或更高品质的狮鹫宠物即可遇到.它会造成真实击退,无视矮人龟壳盔等抗击退效果",
+      "styleMappings": {
+        "rare": "稀有",
+        "True Knockback": "真实击退",
+        "Mythological Creature": "神话生物",
+        "Griffin Pet": "狮鹫宠物",
+        "knockback": "击退",
+        "Pet": "宠物",
+        "Griffin": "狮鹫",
+        "True": "真实"
+      }
+    },
+    {
+      "source": [
+        "Shelmet. It has three stages upon spawning:"
+      ],
+      "translation": "矮人龟壳盔.它在生成时有三个阶段:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Stage {{N0}}: Damaged once every {{N1}} hits, "
+      ],
+      "translation": "阶段 {{N0}}:每 {{N1}} 次攻击受到一次伤害,",
+      "styleMappings": {
+        "Stage": "阶段"
+      }
+    },
+    {
+      "source": [
+        "summons a little lightning."
+      ],
+      "translation": "召唤少量闪电.",
+      "styleMappings": {
+        "lightning": "闪电"
+      }
+    },
+    {
+      "source": [
+        "Stage {{N0}} ({{N1}} HP): Damaged once every {{N2}} hits,"
+      ],
+      "translation": "阶段 {{N0}} ({{N1}} 生命值):每 {{N2}} 次攻击受到一次伤害,",
+      "styleMappings": {
+        "Stage": "阶段",
+        "HP": "生命值"
+      }
+    },
+    {
+      "source": [
+        "summons more lightning.               "
+      ],
+      "translation": "召唤更多闪电.",
+      "styleMappings": {
+        "lightning": "闪电",
+        "more": "更多"
+      }
+    },
+    {
+      "source": [
+        "summons the most lightning."
+      ],
+      "translation": "召唤最多闪电.",
+      "styleMappings": {
+        "lightning": "闪电"
+      }
+    },
+    {
+      "source": [
+        "Mob Types: ✿ Mythological, ⚙ Construct"
+      ],
+      "translation": "生物类型:✿ 神话,⚙ 构造体",
+      "styleMappings": {
+        "Mythological": "神话",
+        "Mob Types:": "生物类型:",
+        "Construct": "构造体"
+      }
+    },
+    {
+      "source": [
+        "❤ Health:"
+      ],
+      "translation": "❤ 生命值:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "[Griffin/Griffin] {{N0}} ❤",
+        "[Griffin] {{N1}} ❤",
+        "[Griffin] {{N2}} ❤"
+      ],
+      "translation": "[狮鹫/狮鹫] {{N0}} ❤ [狮鹫] {{N1}} ❤ [狮鹫] {{N2}} ❤",
+      "styleMappings": {
+        "Griffin": "狮鹫"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mythological Creature": "神话生物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

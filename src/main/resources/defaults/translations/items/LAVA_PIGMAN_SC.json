@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "LAVA_PIGMAN_SC",
+  "_original_name": "Lava Pigman (Sea Creature)",
+  "_original_lore": [
+    "Mob Types: ♆ Magmatic, ༕ Undead",
+    "❤ Health: 450,000",
+    "",
+    "EPIC"
+  ],
+  "name": "熔岩猪人 (海怪)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mob Types: ♆ Magmatic, ༕ Undead"
+      ],
+      "translation": "生物类型: ♆ 岩浆, ༕ 亡灵",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Magmatic": "岩浆",
+        "Undead": "亡灵"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sea Creature": "海怪",
+    "(Sea Creature)": "(海怪)",
+    "Pigman": "猪人",
+    "Lava": "熔岩"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

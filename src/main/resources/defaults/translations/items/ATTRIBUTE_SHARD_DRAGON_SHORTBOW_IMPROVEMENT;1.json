@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "id": "ATTRIBUTE_SHARD_DRAGON_SHORTBOW_IMPROVEMENT;1",
+  "_original_name": "Seer Shard",
+  "_original_lore": [
+    "Dragon Shortbow Improvement I",
+    "Your Dragon Shortbow gains +2%",
+    "more  Damage while in The End.",
+    "",
+    "You can Syphon this shard from",
+    "your Hunting Box.",
+    "",
+    "Right-click to send to Hunting Box!",
+    "Shift Right-click to move all!",
+    "",
+    "❣ Requires Hunting Skill 5.",
+    "UNCOMMON COMBAT SHARD (ID U15)"
+  ],
+  "name": "先知碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Dragon Shortbow Improvement I"
+      ],
+      "translation": "龙短弓强化 I",
+      "styleMappings": {
+        "Dragon Shortbow": "龙短弓",
+        "I": "I",
+        "Dragon": "龙",
+        "Shortbow": "短弓"
+      }
+    },
+    {
+      "source": [
+        "Your Dragon Shortbow gains {{N0}}",
+        "more  Damage while in The End."
+      ],
+      "translation": "在末地时,你的龙短弓获得 {{N0}} 更多  伤害.",
+      "styleMappings": {
+        "Dragon Shortbow": "龙短弓",
+        " Damage": " 伤害",
+        "The End": "末地",
+        "more": "更多",
+        "Dragon": "龙",
+        "Damage": "伤害",
+        "Shortbow": "短弓",
+        "End": "末地"
+      }
+    },
+    {
+      "source": [
+        "You can Syphon this shard from",
+        "your Hunting Box."
+      ],
+      "translation": "你可以从狩猎箱中吸取此碎片.",
+      "styleMappings": {
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to send to Hunting Box!"
+      ],
+      "translation": "右键点击发送至狩猎箱!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Shift Right-click to move all!"
+      ],
+      "translation": "潜行键 右键点击全部移动!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "all": "全部"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Hunting Skill {{N0}}."
+      ],
+      "translation": "❣ 需要狩猎技能 {{N0}}.",
+      "styleMappings": {
+        "Hunting Skill": "狩猎技能",
+        "Requires": "需要",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON COMBAT SHARD (ID U{{N0}})"
+      ],
+      "translation": "罕见战斗碎片 (ID U{{N0}})",
+      "styleMappings": {
+        "UNCOMMON COMBAT SHARD": "罕见战斗碎片",
+        "UNCOMMON": "罕见",
+        "COMBAT SHARD": "战斗碎片"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shard": "碎片"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

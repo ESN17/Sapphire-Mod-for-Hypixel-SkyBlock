@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "STRIDERSURFER_SC",
+  "_original_name": "Stridersurfer (Sea Creature)",
+  "_original_lore": [
+    "Ugliest crossover.",
+    "",
+    "Mob Types: ♆ Magmatic, ༕ Undead, ⸙ Woodland",
+    "❤ Health: 20,000",
+    "",
+    "RARE"
+  ],
+  "name": "踏浪者 (海洋生物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ugliest crossover."
+      ],
+      "translation": "最丑的联动.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Mob Types: ♆ Magmatic, ༕ Undead, ⸙ Woodland"
+      ],
+      "translation": "生物类型: ♆ 岩浆, ༕ 亡灵, ⸙ 林地",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Magmatic": "岩浆",
+        "Undead": "亡灵",
+        "Woodland": "林地"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Sea Creature)": "(海洋生物)",
+    "Sea Creature": "海洋生物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "REINFORCED_NETTING",
+  "_original_name": "Reinforced Netting",
+  "_original_lore": [
+    "Dropped by the Giant Isopod in",
+    "Torrhus Canyon.",
+    "",
+    "A massive, sturdy piece of netting",
+    "that would be more than strong",
+    "enough to catch most critters when",
+    "used as a net. Unfortunately, for",
+    "whoever owned it, the Giant Isopod is",
+    "a bit larger than your average",
+    "critter.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "强化网",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Dropped by the Giant Isopod in",
+        "Torrhus Canyon."
+      ],
+      "translation": "由托鲁斯峡谷的巨型等足虫掉落.",
+      "styleMappings": {
+        "Giant Isopod": "巨型等足虫",
+        "Torrhus Canyon": "托鲁斯峡谷",
+        "Giant": "巨型"
+      }
+    },
+    {
+      "source": [
+        "A massive, sturdy piece of netting",
+        "that would be more than strong",
+        "enough to catch most critters when",
+        "used as a net. Unfortunately, for",
+        "whoever owned it, the Giant Isopod is",
+        "a bit larger than your average",
+        "critter."
+      ],
+      "translation": "一块巨大而结实的网,用作网时足以捕获大多数生物.可惜对它的原主人来说,巨型等足虫比普通生物大了一点.",
+      "styleMappings": {
+        "Giant Isopod": "巨型等足虫",
+        "most": "大多数",
+        "Giant": "巨型",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Reinforced": "强化"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

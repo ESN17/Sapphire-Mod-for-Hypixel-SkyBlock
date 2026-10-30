@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "id": "CHICKEN;4",
+  "_original_name": "[Lvl {LVL}] Chicken",
+  "_original_lore": [
+    "Farming Pet",
+    "",
+    "Speed: +{SPEED}",
+    "Farming Fortune: +{FARMING_FORTUNE}",
+    "",
+    "Free Range",
+    "Grants +{0} Farming Fortune while",
+    "on Public Islands.",
+    "",
+    "Eggstra Loot",
+    "Chickens always drop an Egg when",
+    "killed. Grants a {1}% chance for",
+    "animals to drop an additional item.",
+    "",
+    "Light Feet",
+    "Reduces fall damage by {2}%.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "LEGENDARY PET"
+  ],
+  "name": "[等级 {LVL}] 鸡",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Farming Pet"
+      ],
+      "translation": "耕作宠物",
+      "styleMappings": {
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Speed: +{{N0}}"
+      ],
+      "translation": "速度: +{{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Farming Fortune: +{{N0}}"
+      ],
+      "translation": "农业幸运: +{{N0}}",
+      "styleMappings": {
+        "Farming Fortune": "农业幸运",
+        "Fortune": "幸运",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "Free Range"
+      ],
+      "translation": "自由放养",
+      "styleMappings": {
+        "Free Range": "自由放养"
+      }
+    },
+    {
+      "source": [
+        "Grants +{{N0}} Farming Fortune while",
+        "on Public Islands."
+      ],
+      "translation": "在公共岛屿上时提供 +{{N0}} 农业幸运.",
+      "styleMappings": {
+        "Farming Fortune": "农业幸运",
+        "Public Islands": "公共岛屿",
+        "Grants": "提供",
+        "Fortune": "幸运",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "Eggstra Loot"
+      ],
+      "translation": "蛋外战利品",
+      "styleMappings": {
+        "Eggstra Loot": "蛋外战利品"
+      }
+    },
+    {
+      "source": [
+        "Chickens always drop an Egg when",
+        "killed. Grants a {{N0}}% chance for",
+        "animals to drop an additional item."
+      ],
+      "translation": "鸡被击杀时总会掉落一个鸡蛋.有 {{N0}}% 的几率使动物掉落额外物品.",
+      "styleMappings": {
+        "additional": "额外",
+        "chance": "几率",
+        "item": "物品",
+        "Egg": "鸡蛋",
+        "Chickens": "鸡",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Light Feet"
+      ],
+      "translation": "轻盈脚步",
+      "styleMappings": {
+        "Light Feet": "轻盈脚步"
+      }
+    },
+    {
+      "source": [
+        "Reduces fall damage by {{N0}}%."
+      ],
+      "translation": "减少 {{N0}}% 摔落伤害.",
+      "styleMappings": {
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY PET"
+      ],
+      "translation": "传说 宠物",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Chicken": "鸡",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

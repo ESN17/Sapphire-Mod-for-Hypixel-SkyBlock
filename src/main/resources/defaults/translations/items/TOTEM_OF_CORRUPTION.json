@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "TOTEM_OF_CORRUPTION",
+  "_original_name": "Totem of Corruption",
+  "_original_lore": [
+    "Fishing Deployable",
+    "",
+    "Ability: Deploy  RIGHT CLICK",
+    "Place a totem down for 5m, buffing",
+    "only yourself within 30 blocks.",
+    "Mana Cost: 500",
+    "",
+    "Deployable Buff: Corrupted",
+    "• Sea Creatures you fish up will be",
+    "Corrupted.",
+    "Corrupted Sea Creatures may drop",
+    "an exclusive Trophy Fish.",
+    "",
+    "Only one deployable can be active at",
+    "a time.",
+    "",
+    "UNCOMMON DEPLOYABLE"
+  ],
+  "name": "腐化图腾",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Fishing Deployable"
+      ],
+      "translation": "钓鱼部署物",
+      "styleMappings": {
+        "Fishing": "钓鱼"
+      }
+    },
+    {
+      "source": [
+        "Ability: Deploy  RIGHT CLICK"
+      ],
+      "translation": "技能: 部署  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Place a totem down for {{N0}}m, buffing",
+        "only yourself within {{N1}} blocks."
+      ],
+      "translation": "放置一个图腾,持续 {{N0}} 分钟,仅增益 {{N1}} 格范围内的自己.",
+      "styleMappings": {
+        "blocks": "格",
+        "for": "持续",
+        "{{N0}}m": "{{N0}} 分钟"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "法力消耗: {{N0}}",
+      "styleMappings": {
+        "Mana": "法力",
+        "Mana Cost": "法力消耗"
+      }
+    },
+    {
+      "source": [
+        "Deployable Buff: Corrupted"
+      ],
+      "translation": "部署物增益: 腐化",
+      "styleMappings": {
+        "Corrupted": "腐化"
+      }
+    },
+    {
+      "source": [
+        "• Sea Creatures you fish up will be",
+        "Corrupted."
+      ],
+      "translation": "• 你钓上来的海洋生物将被腐化.",
+      "styleMappings": {
+        "Sea Creatures": "海洋生物",
+        "Corrupted": "腐化"
+      }
+    },
+    {
+      "source": [
+        "Corrupted Sea Creatures may drop",
+        "an exclusive Trophy Fish."
+      ],
+      "translation": "腐化的海洋生物可能掉落专属的奖杯鱼.",
+      "styleMappings": {
+        "Sea Creatures": "海洋生物",
+        "Trophy Fish": "奖杯鱼",
+        "Corrupted": "腐化",
+        "Trophy": "奖杯",
+        "Fish": "鱼"
+      }
+    },
+    {
+      "source": [
+        "Only one deployable can be active at",
+        "a time."
+      ],
+      "translation": "同一时间只能激活一个部署物.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "UNCOMMON DEPLOYABLE"
+      ],
+      "translation": "罕见 部署物",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Corruption": "腐化"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

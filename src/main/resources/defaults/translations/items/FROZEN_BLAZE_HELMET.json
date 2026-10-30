@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "id": "FROZEN_BLAZE_HELMET",
+  "_original_name": "Frozen Blaze Helmet",
+  "_original_lore": [
+    "Defense: +105",
+    "Strength: +40",
+    "Speed: +2",
+    "Gemstones: [] [⚔]",
+    "",
+    "Full Set Bonus: Frozen Blazing Aura (0/4)",
+    "Damages mobs in a 5 block range for",
+    "300 base damage + 3% of their max",
+    " Health every second and applies",
+    "Slowness I for 4 seconds.",
+    "",
+    "Max 500 damage/s",
+    "Blaze Rod Collection: 0",
+    "+100 per 5,000 rods",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Combat Skill 22.",
+    "LEGENDARY HELMET"
+  ],
+  "name": "冰霜烈焰头盔",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [] [⚔]"
+      ],
+      "translation": "宝石: [] [⚔]",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石",
+        "] [": "] ["
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Frozen Blazing Aura ({{N0}}/{{N1}})"
+      ],
+      "translation": "全套加成: 冰霜烈焰光环 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Frozen Blazing Aura": "冰霜烈焰光环",
+        "Full Set Bonus": "全套加成",
+        "Bonus": "加成",
+        "Frozen": "冰霜",
+        "Blazing Aura": "烈焰光环"
+      }
+    },
+    {
+      "source": [
+        "Damages mobs in a {{N0}} block range for",
+        "{{N1}} base damage + {{N2}} of their max",
+        " Health every second and applies",
+        "Slowness I for {{N3}} seconds."
+      ],
+      "translation": "每秒对 {{N0}} 格范围内的怪物造成 {{N1}} 基础伤害 + 其最大  生命值的 {{N2}},并施加 {{N3}} 秒的缓慢 I.",
+      "styleMappings": {
+        "Slowness I": "缓慢 I",
+        "Health": "生命值",
+        "damage": "伤害",
+        "block": "格",
+        "mobs": "怪物",
+        "max": "最大",
+        " Health": " 生命",
+        "seconds": "秒",
+        "second": "秒",
+        "Slowness": "缓慢"
+      }
+    },
+    {
+      "source": [
+        "Max {{N0}} damage/s"
+      ],
+      "translation": "每秒最大 {{N0}} 伤害",
+      "styleMappings": {
+        "damage": "伤害",
+        "Max": "最大",
+        "s": "秒"
+      }
+    },
+    {
+      "source": [
+        "Blaze Rod Collection: {{N0}}"
+      ],
+      "translation": "烈焰棒收藏: {{N0}}",
+      "styleMappings": {
+        "Collection": "收藏",
+        "Blaze": "烈焰",
+        "Blaze Rod": "烈焰棒"
+      }
+    },
+    {
+      "source": [
+        "{{N0}} per {{N1}} rods"
+      ],
+      "translation": "每 {{N1}} 根烈焰棒 {{N0}}",
+      "styleMappings": {
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY HELMET"
+      ],
+      "translation": "传说 头盔",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Helmet": "头盔",
+    "Frozen": "冰霜",
+    "Blaze": "烈焰",
+    "Frozen Blaze Helmet": "冰霜烈焰头盔"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

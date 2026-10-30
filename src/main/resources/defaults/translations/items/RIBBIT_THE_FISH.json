@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "RIBBIT_THE_FISH",
+  "_original_name": "Ribbit the Fish",
+  "_original_lore": [
+    "What does the fish say? Probably",
+    "not ribbit.",
+    "",
+    "❣ Requires Master Frog Collector.",
+    "* Soulbound *",
+    "SPECIAL"
+  ],
+  "name": "呱呱鱼",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "What does the fish say? Probably",
+        "not ribbit."
+      ],
+      "translation": "鱼会说什么?大概不是呱呱.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "❣ Requires Master Frog Collector."
+      ],
+      "translation": "❣ 需要青蛙大师收藏家.",
+      "styleMappings": {
+        "Requires": "需要",
+        "Frog": "青蛙",
+        "Master": "大师"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fish": "鱼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "id": "BINGHOE",
+  "_original_name": "Binghoe",
+  "_original_lore": [
+    "Farming Fortune: +25",
+    "",
+    "Dedication IV",
+    "Grants 2 Farming Fortune for",
+    "crops, multiplied by your Garden",
+    "milestone for that crop.",
+    "Delicate V",
+    "Avoids breaking stems and baby",
+    "crops.",
+    "Replenish I",
+    "Upon breaking crops, nether wart,",
+    "or cocoa, automatically replant from",
+    "materials in your inventory.",
+    "",
+    "Gives +3 Farming Fortune for each",
+    "SkyBlock Level (Max 25).",
+    "",
+    "This item can be reforged!",
+    "* Soulbound *",
+    "EPIC FARMING TOOL"
+  ],
+  "name": "宾果锄",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Farming Fortune: {{N0}}"
+      ],
+      "translation": "农业幸运: {{N0}}",
+      "styleMappings": {
+        "Farming Fortune": "农业幸运",
+        "Fortune": "幸运",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "Dedication IV",
+        "Grants {{N0}} Farming Fortune for",
+        "crops, multiplied by your Garden",
+        "milestone for that crop."
+      ],
+      "translation": "奉献 IV 为作物提供 {{N0}} 农业幸运,数值乘以你在花园中该作物的里程碑.",
+      "styleMappings": {
+        "milestone for that crop.": "该作物的里程碑.",
+        "Farming Fortune": "农业幸运",
+        "Dedication IV": "奉献 IV",
+        "Garden": "花园",
+        "Grants": "提供",
+        "crops": "作物",
+        "Fortune": "幸运",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "Delicate V",
+        "Avoids breaking stems and baby",
+        "crops."
+      ],
+      "translation": "精细 V 避免破坏茎和幼苗.",
+      "styleMappings": {
+        "Avoids breaking stems and baby": "避免破坏茎和幼苗",
+        "Delicate V": "精细 V",
+        "Delicate": "精细"
+      }
+    },
+    {
+      "source": [
+        "Replenish I",
+        "Upon breaking crops, nether wart,",
+        "or cocoa, automatically replant from",
+        "materials in your inventory."
+      ],
+      "translation": "补种 I 破坏作物、下界疣或可可豆时,自动从背包中的材料补种.",
+      "styleMappings": {
+        "or cocoa, automatically replant from": "或可可豆时,自动从",
+        "Upon breaking crops, nether wart,": "破坏作物、下界疣",
+        "materials in your inventory.": "背包中的材料补种.",
+        "Replenish I": "补种 I",
+        "automatically": "自动",
+        "crops": "作物"
+      }
+    },
+    {
+      "source": [
+        "Gives {{N0}} Farming Fortune for each",
+        "SkyBlock Level (Max {{N1}})."
+      ],
+      "translation": "每级空岛等级提供 {{N0}} 农业幸运 (最高 {{N1}}).",
+      "styleMappings": {
+        "Farming Fortune": "农业幸运",
+        "SkyBlock Level": "空岛等级",
+        "(Max": "(最高",
+        "SkyBlock": "空岛",
+        "Fortune": "幸运",
+        "Farming": "农业",
+        "Gives": "提供"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "EPIC FARMING TOOL"
+      ],
+      "translation": "史诗农业工具",
+      "styleMappings": {
+        "EPIC FARMING TOOL": "史诗农业工具",
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

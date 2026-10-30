@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "SEPIALOT_MONSTER",
+  "_original_name": "Sepialot (Monster)",
+  "_original_lore": [
+    "Mob Types:  Critter,  Timid,  Aquatic",
+    "",
+    "Though afraid of people, they get",
+    "along with the other denizens of",
+    "Torrhus.",
+    "",
+    "❤ Health: 500",
+    "",
+    "Hunted in Torrhus Springs."
+  ],
+  "name": "塞皮亚洛特 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mob Types:  Critter,  Timid,  Aquatic"
+      ],
+      "translation": "生物类型:   小动物,   胆怯,   水生",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Aquatic": "水生",
+        "Critter": "小动物",
+        "Timid": "胆怯",
+        " Critter": " 小动物"
+      }
+    },
+    {
+      "source": [
+        "Though afraid of people, they get",
+        "along with the other denizens of",
+        "Torrhus."
+      ],
+      "translation": "虽然害怕人类,但它们与托尔胡斯的其他居民相处融洽.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Hunted in Torrhus Springs."
+      ],
+      "translation": "在托鲁斯泉地中狩猎.",
+      "styleMappings": {
+        "Torrhus Springs": "托鲁斯泉地"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

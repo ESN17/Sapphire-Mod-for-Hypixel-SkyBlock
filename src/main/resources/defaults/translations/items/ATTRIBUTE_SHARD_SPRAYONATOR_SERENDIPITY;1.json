@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": "ATTRIBUTE_SHARD_SPRAYONATOR_SERENDIPITY;1",
+  "_original_name": "Rat Shard",
+  "_original_lore": [
+    "Sprayonator Serendipity I",
+    "Grants a +1% chance for  Pests to",
+    "drop an extra Sprayonator Material.",
+    "",
+    "You can Syphon this shard from",
+    "your Hunting Box.",
+    "",
+    "Right-click to send to Hunting Box!",
+    "Shift Right-click to move all!",
+    "",
+    "❣ Requires Hunting Skill 5.",
+    "UNCOMMON FOREST SHARD (ID U91)"
+  ],
+  "name": "老鼠碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Sprayonator Serendipity I"
+      ],
+      "translation": "喷雾器奇遇 I",
+      "styleMappings": {
+        "Sprayonator": "喷雾器",
+        "I": "I"
+      }
+    },
+    {
+      "source": [
+        "Grants a {{N0}} chance for  Pests to",
+        "drop an extra Sprayonator Material."
+      ],
+      "translation": "使  害虫有 {{N0}} 概率额外掉落一份喷雾器材料.",
+      "styleMappings": {
+        "Sprayonator Material": "喷雾器材料",
+        " Pests": " 害虫",
+        "chance": "概率",
+        "Sprayonator": "喷雾器",
+        "Pests": "害虫"
+      }
+    },
+    {
+      "source": [
+        "You can Syphon this shard from",
+        "your Hunting Box."
+      ],
+      "translation": "你可以从狩猎箱中吸取此碎片.",
+      "styleMappings": {
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to send to Hunting Box!"
+      ],
+      "translation": "右键点击发送至狩猎箱!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Shift Right-click to move all!"
+      ],
+      "translation": "潜行键 右键点击全部移动!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "all": "全部"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Hunting Skill {{N0}}."
+      ],
+      "translation": "❣ 需要狩猎技能 {{N0}}.",
+      "styleMappings": {
+        "Hunting Skill": "狩猎技能",
+        "Requires": "需要",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON FOREST SHARD (ID U{{N0}})"
+      ],
+      "translation": "罕见森林碎片 (ID 优{{N0}})",
+      "styleMappings": {
+        "UNCOMMON FOREST SHARD": "罕见森林碎片",
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shard": "碎片",
+    "Rat": "老鼠"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

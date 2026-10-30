@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_JUMP_BOOST;1",
+  "_original_name": "Jump Boost I Potion",
+  "_original_lore": [
+    "",
+    "Jump Boost I (3:00)",
+    "Increases your jump height to 1.9",
+    "blocks.",
+    "",
+    "COMMON"
+  ],
+  "name": "跳跃提升 I 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Jump Boost I ({{N0}}:{{N1}})"
+      ],
+      "translation": "跳跃提升 I ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Jump Boost I": "跳跃提升 I"
+      }
+    },
+    {
+      "source": [
+        "Increases your jump height to {{N0}}",
+        "blocks."
+      ],
+      "translation": "将你的跳跃高度提升至 {{N0}} 格.",
+      "styleMappings": {
+        "blocks": "格"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Jump Boost I": "跳跃提升 I"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "KUUDRA_FOLLOWER_ARTIFACT",
+  "_original_name": "Kuudra Follower Artifact",
+  "_original_lore": [
+    "Reduces damage taken from Kuudra",
+    "Followers by 50%.",
+    "",
+    "* Soulbound *",
+    "Works while in Accessory Bag!",
+    "EPIC ACCESSORY"
+  ],
+  "name": "库德拉 追随者神器",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Reduces damage taken from Kuudra",
+        "Followers by {{N0}}."
+      ],
+      "translation": "减少来自库德拉追随者的伤害 {{N0}}.",
+      "styleMappings": {
+        "Kuudra": "库德拉",
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "放在饰品袋中即可生效!",
+      "styleMappings": {
+        "Accessory Bag": "饰品袋",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "EPIC ACCESSORY"
+      ],
+      "translation": "史诗饰品",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Kuudra": "库德拉",
+    "Follower": "追随者",
+    "Artifact": "神器"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

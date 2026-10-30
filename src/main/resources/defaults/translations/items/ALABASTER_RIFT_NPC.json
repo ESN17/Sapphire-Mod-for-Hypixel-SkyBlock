@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "ALABASTER_RIFT_NPC",
+  "_original_name": "Alabaster (Rift NPC)",
+  "_original_lore": [
+    "An NPC that contributes to unlocking",
+    "the Rift Transfer Chest."
+  ],
+  "name": "Alabaster (裂隙人物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "An NPC that contributes to unlocking",
+        "the Rift Transfer Chest."
+      ],
+      "translation": "一位协助解锁裂隙转移箱的人物.",
+      "styleMappings": {
+        "Rift Transfer Chest": "裂隙转移箱",
+        "Rift": "裂隙",
+        "the Rift": "裂隙"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Rift NPC)": "(裂隙人物)",
+    "Rift": "裂隙"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

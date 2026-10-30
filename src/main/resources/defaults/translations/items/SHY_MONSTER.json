@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "SHY_MONSTER",
+  "_original_name": "Shy (Monster)",
+  "_original_lore": [
+    "A very shy boy, only found",
+    "in the Rift.",
+    "",
+    "❤ Health: 110"
+  ],
+  "name": "害羞 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A very shy boy, only found",
+        "in the Rift."
+      ],
+      "translation": "一个非常害羞的男孩,仅在裂隙中出现.",
+      "styleMappings": {
+        "the Rift": "裂隙",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

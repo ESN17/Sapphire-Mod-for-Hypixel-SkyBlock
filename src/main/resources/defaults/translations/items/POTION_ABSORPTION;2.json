@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_ABSORPTION;2",
+  "_original_name": "Absorption II Potion",
+  "_original_lore": [
+    "",
+    "Absorption II (3:00)",
+    "Grants +40 of absorption.",
+    "",
+    "COMMON"
+  ],
+  "name": "伤害吸收 II 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Absorption II ({{N0}}:{{N1}})"
+      ],
+      "translation": "伤害吸收 II ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "II": "II"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} of absorption."
+      ],
+      "translation": "提供 {{N0}} 点伤害吸收.",
+      "styleMappings": {
+        "Grants": "提供"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "II": "II"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

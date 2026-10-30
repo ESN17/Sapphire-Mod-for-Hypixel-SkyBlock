@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "RUSTY_SHIP_ENGINE",
+  "_original_name": "Rusty Ship Engine",
+  "_original_lore": [
+    "Quest Item",
+    "",
+    "Bring this item to Captain Baha in the",
+    "Fisherman's Hut.",
+    "",
+    "* Soulbound *",
+    "SPECIAL"
+  ],
+  "name": "生锈的船用引擎",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Quest Item"
+      ],
+      "translation": "任务物品",
+      "styleMappings": {
+        "Item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Bring this item to Captain Baha in the",
+        "Fisherman's Hut."
+      ],
+      "translation": "将此物品带给渔夫小屋的 Captain Baha.",
+      "styleMappings": {
+        "Fisherman's Hut": "渔夫小屋",
+        "Captain Baha": "Captain Baha",
+        "item": "物品",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Ship": "船"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

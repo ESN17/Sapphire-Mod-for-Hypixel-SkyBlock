@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "WHEEL_OF_FATE",
+  "_original_name": "Wheel of Fate",
+  "_original_lore": [
+    "Can be consumed inside a Kuudra",
+    "chest to reroll the Shard inside into",
+    "a higher rarity one.",
+    "",
+    "May the eternal luck of Kuudra be in your favor.",
+    "",
+    "RARE"
+  ],
+  "name": "命运之轮",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Can be consumed inside a Kuudra",
+        "chest to reroll the Shard inside into",
+        "a higher rarity one."
+      ],
+      "translation": "可在库德拉宝箱中消耗,将箱内的碎片重掷为更高稀有度的碎片.",
+      "styleMappings": {
+        "Kuudra": "库德拉",
+        "rarity": "稀有度",
+        "Shard": "碎片"
+      }
+    },
+    {
+      "source": [
+        "May the eternal luck of Kuudra be in your favor."
+      ],
+      "translation": "愿库德拉的永恒好运与你同在.",
+      "styleMappings": {
+        "Kuudra": "库德拉"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

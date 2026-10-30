@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "id": "SKYBLOCK_BENCH",
+  "_original_name": "Dark Oak Bench",
+  "_original_lore": [
+    "Furniture",
+    "Seat",
+    "",
+    "This stylized bench seats up to two",
+    "players.",
+    "",
+    "COMMON"
+  ],
+  "name": "深色橡木长椅",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Furniture",
+        "Seat"
+      ],
+      "translation": "家具座位",
+      "styleMappings": {
+        "Furniture Seat": "家具座位",
+        "Furniture": "家具"
+      }
+    },
+    {
+      "source": [
+        "This stylized bench seats up to two",
+        "players."
+      ],
+      "translation": "这款造型长椅最多可容纳两名玩家.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "id": "STRONG_DRAGON_LEGGINGS",
+  "_original_name": "Strong Dragon Leggings",
+  "_original_lore": [
+    "Health: +100",
+    "Defense: +140",
+    "Strength: +25",
+    "Gemstones: []",
+    "",
+    "Full Set Bonus: Strong Blood (0/4)",
+    "Improves Aspect of the End",
+    "⋗ +75 Damage",
+    "",
+    "Instant Transmission:",
+    "⋗ +2 teleport range",
+    "⋗ +3 seconds",
+    "⋗ +5 Strength on cast",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Combat Skill 16.",
+    "LEGENDARY LEGGINGS"
+  ],
+  "name": "强龙护腿",
+  "lore": {
+    "Health: {value}": "生命值:{value}",
+    "Defense: {value}": "防御:{value}",
+    "Strength: {value}": "力量:{value}",
+    "Gemstones: {text}": "宝石槽:{text}",
+    "Full Set Bonus: Strong Blood ({equipped}/{total})": "套装效果:强龙之血 ({equipped}/{total})",
+    "Improves Aspect of the End": "强化末影之刃",
+    "⋗ {damage} Damage": "⋗ {damage} 伤害",
+    "Instant Transmission:": "瞬间传送:",
+    "⋗ {range} teleport range": "⋗ 传送距离 {range}",
+    "⋗ {duration} seconds": "⋗ 持续时间 {duration} 秒",
+    "⋗ {strength} Strength on cast": "⋗ 施放时获得 {strength} 力量",
+    "This item can be reforged!": "此物品可以洗练!",
+    "LEGENDARY LEGGINGS": "传说 护腿",
+    "Strength: {value} ({bonus})": "力量:{value} ({bonus})",
+    "Health: {value} ({bonus})": "生命值:{value} ({bonus})",
+    "Defense: {value} ({bonus})": "防御:{value} ({bonus})"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: []"
+      ],
+      "translation": "宝石: []",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Strong Blood ({{N0}}/{{N1}})"
+      ],
+      "translation": "套装效果:强龙之血 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Full Set Bonus": "套装效果"
+      }
+    },
+    {
+      "source": [
+        "Improves Aspect of the End",
+        "⋗ {{N0}} Damage"
+      ],
+      "translation": "强化末影之刃 ⋗ {{N0}} 伤害",
+      "styleMappings": {
+        "Aspect of the End": "末影之刃",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Instant Transmission:"
+      ],
+      "translation": "瞬间传送:",
+      "styleMappings": {
+        "Transmission": "传送"
+      }
+    },
+    {
+      "source": [
+        "⋗ {{N0}} teleport range",
+        "⋗ {{N1}} seconds",
+        "⋗ {{N2}} Strength on cast"
+      ],
+      "translation": "⋗ {{N0}} 传送范围 ⋗ {{N1}} 秒 ⋗ 施放时获得 {{N2}} 力量",
+      "styleMappings": {
+        "teleport range": "传送范围",
+        " Strength": " 力量",
+        "on cast": "施放时获得",
+        "seconds": "秒",
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY LEGGINGS"
+      ],
+      "translation": "传说 护腿",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Health": "生命值",
+    "Defense": "防御",
+    "Strength": "力量",
+    "Aspect of the End": "末影之刃",
+    "Damage": "伤害",
+    "seconds": "秒",
+    "Combat Skill": "战斗等级",
+    "Leggings": "护腿",
+    "Dragon": "龙"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

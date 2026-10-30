@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "BAG_OF_CASH",
+  "_original_name": "Bag of Cash",
+  "_original_lore": [
+    "Sold to shops for 1,000,000 coins!",
+    "",
+    "RARE"
+  ],
+  "name": "现金袋",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Sold to shops for {{N0}} coins!"
+      ],
+      "translation": "出售给商店可获得 {{N0}} 硬币!",
+      "styleMappings": {
+        "coins": "硬币",
+        "for": "获得"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

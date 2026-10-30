@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "HALF_EATEN_MUSHROOM",
+  "_original_name": "Half-Eaten Mushroom",
+  "_original_lore": [
+    "Bring 3,000 of these to Carrolyn in",
+    "Scarleton on the Crimson Isle to",
+    "permanently gain +5 Health and",
+    "+12 Mushroom Fortune.",
+    "",
+    "Whatever was tasked with guarding",
+    "this valuable mushroom looks to have",
+    "gotten a little hungry.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "吃了一半的蘑菇",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Bring {{N0}} of these to Carrolyn in",
+        "Scarleton on the Crimson Isle to",
+        "permanently gain {{N1}} Health and",
+        "{{N2}} Mushroom Fortune."
+      ],
+      "translation": "将 {{N0}} 个交给绯红之岛上斯卡雷顿的 Carrolyn,可永久获得 {{N1}} 生命和 {{N2}} 蘑菇幸运.",
+      "styleMappings": {
+        "Mushroom Fortune": "蘑菇幸运",
+        "Crimson Isle": "绯红之岛",
+        "permanently": "永久",
+        "Scarleton": "斯卡雷顿",
+        "Carrolyn": "Carrolyn",
+        " Health": " 生命",
+        "Health": "生命",
+        "Fortune": "幸运",
+        "Mushroom": "蘑菇",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "Whatever was tasked with guarding",
+        "this valuable mushroom looks to have",
+        "gotten a little hungry."
+      ],
+      "translation": "负责看守这株珍贵蘑菇的家伙似乎有点饿了.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mushroom": "蘑菇"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

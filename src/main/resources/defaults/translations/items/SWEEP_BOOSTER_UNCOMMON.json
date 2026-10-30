@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "SWEEP_BOOSTER_UNCOMMON",
+  "_original_name": "Uncommon Sweep Booster Upgrade",
+  "_original_lore": [
+    "Booster",
+    "Combinable in Anvil",
+    "",
+    "Apply to an item with a Common Sweep",
+    "Booster to upgrade it to an",
+    "Uncommon Sweep Booster, which",
+    "increases the amount of  Sweep it",
+    "gives.",
+    "",
+    "UNCOMMON BOOSTER"
+  ],
+  "name": "罕见采伐加成升级",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Booster",
+        "Combinable in Anvil"
+      ],
+      "translation": "增益器可在铁砧中合成",
+      "styleMappings": {
+        "Booster Combinable in Anvil": "增益器可在铁砧中合成",
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Apply to an item with a Common Sweep",
+        "Booster to upgrade it to an",
+        "Uncommon Sweep Booster, which",
+        "increases the amount of  Sweep it",
+        "gives."
+      ],
+      "translation": "应用于带有普通采伐加成的物品,将其升级为罕见采伐加成,从而增加其提供的  采伐量.",
+      "styleMappings": {
+        "Uncommon Sweep Booster": "罕见采伐加成",
+        "Common Sweep Booster": "普通采伐加成",
+        "upgrade": "升级",
+        " Sweep": " 采伐",
+        "item": "物品",
+        "Sweep": "采伐",
+        "Common": "普通",
+        "Uncommon": "罕见"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON BOOSTER"
+      ],
+      "translation": "罕见增益器",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Uncommon Sweep Booster": "罕见采伐加成",
+    "Sweep": "采伐",
+    "Uncommon": "罕见"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

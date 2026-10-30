@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "id": "HORSE;4",
+  "_original_name": "[Lvl {LVL}] Horse",
+  "_original_lore": [
+    "Combat Pet",
+    "",
+    "Intelligence: +{INTELLIGENCE}",
+    "Speed: +{SPEED}",
+    "",
+    "High Stride",
+    "Grants permanent Jump Boost IV.",
+    "",
+    "Stampede",
+    "Mob kills grant a stack of +{0} ",
+    "Speed and +{1}  Strength for 5s.",
+    "(Max 20 stacks)",
+    "",
+    "Trample",
+    "After falling 20 or more blocks,",
+    "absorb your fall damage and deal",
+    "{2}% of your weapon's  Damage for",
+    "every block fallen to mobs within 3",
+    "blocks.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "LEGENDARY PET"
+  ],
+  "name": "[等级 {LVL}] 马",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combat Pet"
+      ],
+      "translation": "战斗宠物",
+      "styleMappings": {
+        "Combat Pet": "战斗宠物",
+        "Combat": "战斗",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: +{{N0}}"
+      ],
+      "translation": "智力: +{{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Speed: +{{N0}}"
+      ],
+      "translation": "速度: +{{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "High Stride"
+      ],
+      "translation": "高步",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants permanent Jump Boost IV."
+      ],
+      "translation": "永久获得跳跃提升 IV.",
+      "styleMappings": {
+        "Jump Boost IV": "跳跃提升 IV",
+        "Grants": "获得"
+      }
+    },
+    {
+      "source": [
+        "Stampede"
+      ],
+      "translation": "奔踏",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Mob kills grant a stack of +{{N0}} ",
+        "Speed and +{{N1}}  Strength for {{N2}}s."
+      ],
+      "translation": "击杀生物获得一层 +{{N0}}  速度 和 +{{N1}}  力量,持续 {{N2}} 秒.",
+      "styleMappings": {
+        " Strength": " 力量",
+        " Speed": " 速度",
+        "kills": "击杀",
+        "for": "持续",
+        "s": "一",
+        "{{N2}}s": "{{N2}} 秒",
+        "Strength": "力量",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "(Max {{N0}} stacks)"
+      ],
+      "translation": "(最多 {{N0}} 层)",
+      "styleMappings": {
+        "(Max": "(最多",
+        "Max": "最多"
+      }
+    },
+    {
+      "source": [
+        "Trample"
+      ],
+      "translation": "践踏",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "After falling {{N0}} or more blocks,",
+        "absorb your fall damage and deal",
+        "{{N1}}% of your weapon's  Damage for",
+        "every block fallen to mobs within {{N2}}",
+        "blocks."
+      ],
+      "translation": "下落 {{N0}} 格或更多后,吸收你的摔落伤害,并对 {{N2}} 格内的生物每下落一格造成你武器  伤害的 {{N1}}%.",
+      "styleMappings": {
+        " Damage": " 伤害",
+        "damage": "伤害",
+        "deal": "造成",
+        "mobs": "生物",
+        "s": "一",
+        "more": "更多",
+        "blocks": "格",
+        "Damage": "伤害",
+        "block": "格"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY PET"
+      ],
+      "translation": "传说 宠物",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

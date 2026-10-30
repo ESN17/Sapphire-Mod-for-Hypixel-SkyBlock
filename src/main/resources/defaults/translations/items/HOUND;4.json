@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "id": "HOUND;4",
+  "_original_name": "[Lvl {LVL}] Hound",
+  "_original_lore": [
+    "Combat Pet",
+    "",
+    "Strength: +{STRENGTH}",
+    "Attack Speed: +{BONUS_ATTACK_SPEED}%",
+    "Ferocity: +{FEROCITY}",
+    "Speed: +{SPEED}",
+    "",
+    "Scavenger",
+    "Gain +{0} coins per monster kill",
+    "",
+    "Finder",
+    "Increases the chance for monsters",
+    "to drop their armor by {1}%.",
+    "",
+    "Pack Slayer",
+    "Gain {2}x Combat XP against Wolves.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "LEGENDARY PET"
+  ],
+  "name": "[等级 {LVL}] 猎犬",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combat Pet"
+      ],
+      "translation": "战斗宠物",
+      "styleMappings": {
+        "Combat Pet": "战斗宠物",
+        "Combat": "战斗",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Strength: +{{N0}}"
+      ],
+      "translation": "力量: +{{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Attack Speed: +{{N0}}%"
+      ],
+      "translation": "攻击速度: +{{N0}}%",
+      "styleMappings": {
+        "Attack Speed": "攻击速度",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Ferocity: +{{N0}}"
+      ],
+      "translation": "残暴值: +{{N0}}",
+      "styleMappings": {
+        "Ferocity": "残暴值"
+      }
+    },
+    {
+      "source": [
+        "Speed: +{{N0}}"
+      ],
+      "translation": "速度: +{{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Scavenger"
+      ],
+      "translation": "拾荒者",
+      "styleMappings": {
+        "Scavenger": "拾荒者"
+      }
+    },
+    {
+      "source": [
+        "Gain +{{N0}} coins per monster kill"
+      ],
+      "translation": "每击杀一只怪物获得 +{{N0}} 硬币",
+      "styleMappings": {
+        "coins": "硬币",
+        "Gain": "获得",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Finder"
+      ],
+      "translation": "寻宝者",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Increases the chance for monsters",
+        "to drop their armor by {{N0}}%."
+      ],
+      "translation": "怪物掉落护甲的概率提高 {{N0}}%.",
+      "styleMappings": {
+        "monsters": "怪物",
+        "chance": "概率"
+      }
+    },
+    {
+      "source": [
+        "Pack Slayer"
+      ],
+      "translation": "兽群杀手",
+      "styleMappings": {
+        "Pack Slayer": "兽群杀手",
+        "Slayer": "杀手"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}}x Combat XP against Wolves."
+      ],
+      "translation": "对狼获得 {{N0}}倍战斗经验.",
+      "styleMappings": {
+        "Combat XP": "战斗经验",
+        "Wolves": "狼",
+        "{{N0}}x": "{{N0}}倍",
+        "Gain": "获得",
+        "Combat": "战斗"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY PET"
+      ],
+      "translation": "传说 宠物",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Hound": "猎犬",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

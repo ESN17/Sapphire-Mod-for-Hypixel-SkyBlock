@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "id": "TACTICIAN_MURDER_WEAPON",
+  "_original_name": "Tactician's Murder Weapon",
+  "_original_lore": [
+    "Rift Damage: +4",
+    "Speed: +2",
+    "",
+    "Regens 4 Mana on hit.",
+    "",
+    "Gain +2 for every Ramero",
+    "murdered with this sword.",
+    "Rameros murdered: 1",
+    "",
+    "RARE SWORD"
+  ],
+  "name": "战术家的谋杀武器",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Rift Damage: {{N0}}"
+      ],
+      "translation": "裂隙伤害: {{N0}}",
+      "styleMappings": {
+        "Rift Damage": "裂隙伤害",
+        "Damage": "伤害",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Regens {{N0}} Mana on hit."
+      ],
+      "translation": "命中时回复 {{N0}} 法力.",
+      "styleMappings": {
+        "Mana": "法力",
+        "hit": "命中"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}} for every Ramero",
+        "murdered with this sword."
+      ],
+      "translation": "每用这把剑谋杀一个拉梅罗,获得 {{N0}}.",
+      "styleMappings": {
+        "Gain": "获得",
+        "Ramero": "拉梅罗",
+        "for": "获得"
+      }
+    },
+    {
+      "source": [
+        "Rameros murdered: {{N0}}"
+      ],
+      "translation": "已谋杀的拉梅罗:{{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE SWORD"
+      ],
+      "translation": "稀有剑",
+      "styleMappings": {
+        "RARE": "稀有",
+        "RARE SWORD": "稀有剑"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Weapon": "武器"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

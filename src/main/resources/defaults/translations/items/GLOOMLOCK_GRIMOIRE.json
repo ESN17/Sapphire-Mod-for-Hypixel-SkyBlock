@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "GLOOMLOCK_GRIMOIRE",
+  "_original_name": "Gloomlock Grimoire",
+  "_original_lore": [
+    "Ability: Life Tap  LEFT CLICK",
+    "Convert 15⸎ Soulflow to gain up to 600",
+    "Overflow.",
+    "Health Cost: 800",
+    "Cooldown: 1s",
+    "",
+    "Ability: Extreme Measures  RIGHT CLICK",
+    "Heal for 1,000❤.",
+    "Vitality Cost: 45",
+    "",
+    "☠ Requires Enderman Slayer 5.",
+    "EPIC"
+  ],
+  "name": "暗锁导书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Life Tap  LEFT CLICK"
+      ],
+      "translation": "技能: 生命汲取  左键点击",
+      "styleMappings": {
+        "LEFT CLICK": "左键点击",
+        "Life Tap": "生命汲取",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Convert {{N0}}⸎ Soulflow to gain up to {{N1}}",
+        "Overflow."
+      ],
+      "translation": "转换 {{N0}}⸎ 灵魂流以获得最多 {{N1}} 溢出.",
+      "styleMappings": {
+        "Overflow": "溢出",
+        "Soulflow": "灵魂流",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "Health Cost: {{N0}}"
+      ],
+      "translation": "生命消耗:{{N0}}",
+      "styleMappings": {
+        "Health Cost": "生命消耗",
+        "Health": "生命"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "Ability: Extreme Measures  RIGHT CLICK"
+      ],
+      "translation": "技能: 极端措施  右键点击",
+      "styleMappings": {
+        "Extreme Measures": "极端措施",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Heal for {{N0}}❤."
+      ],
+      "translation": "治疗 {{N0}}❤.",
+      "styleMappings": {
+        "Heal": "治疗"
+      }
+    },
+    {
+      "source": [
+        "Vitality Cost: {{N0}}"
+      ],
+      "translation": "活力消耗:{{N0}}",
+      "styleMappings": {
+        "Vitality": "活力"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Enderman Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要末影人杀手 {{N0}}.",
+      "styleMappings": {
+        "Enderman Slayer": "末影人杀手",
+        "Requires": "需要",
+        "Slayer": "杀手",
+        "Enderman": "末影人"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

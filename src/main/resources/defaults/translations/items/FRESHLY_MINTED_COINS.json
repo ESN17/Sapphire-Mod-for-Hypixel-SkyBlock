@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "FRESHLY_MINTED_COINS",
+  "_original_name": "Freshly-Minted Coins",
+  "_original_lore": [
+    "Nothing beats the smell of fresh",
+    "Coins. Except for lots of things.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "RARE"
+  ],
+  "name": "新铸硬币",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Nothing beats the smell of fresh",
+        "Coins. Except for lots of things."
+      ],
+      "translation": "没什么比得上新鲜硬币的气味.除了很多东西.",
+      "styleMappings": {
+        "Coins": "硬币"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Coins": "硬币"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

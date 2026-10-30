@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 1,
+  "id": "BARRY_MAYOR_MONSTER",
+  "_original_name": "Barry (Retired Mayor)",
+  "_original_lore": [
+    "Candidate",
+    "",
+    "Magic XP Boost",
+    "Gain 15% more Enchanting",
+    "and Alchemy XP.",
+    "",
+    "Arcane Catalyst",
+    "Spells deal 15% increased",
+    "❁damage.",
+    "",
+    "Astral Negotiator",
+    "Enchanting and anvils",
+    "costs -15% less",
+    "experience.",
+    "",
+    "Secret Bonus",
+    "Gain +2 Clicks in Superpairs Experiments ",
+    "",
+    "Secret Bonus",
+    "All abilities cost 15% less ✎Mana",
+    "",
+    "Secret Bonus",
+    "Gain 1✯Magic Find for every year that",
+    "Barry has not been elected (max 20)"
+  ],
+  "name": "Barry (已退休市长)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Candidate"
+      ],
+      "translation": "候选人",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Magic XP Boost",
+        "Gain {{N0}} more Enchanting",
+        "and Alchemy XP."
+      ],
+      "translation": "魔法经验加成 获得 {{N0}} 更多附魔和炼金经验.",
+      "styleMappings": {
+        "Magic XP Boost": "魔法经验加成",
+        "Gain": "获得",
+        "more": "更多"
+      }
+    },
+    {
+      "source": [
+        "Arcane Catalyst",
+        "Spells deal {{N0}} increased",
+        "❁damage."
+      ],
+      "translation": "奥术催化剂法术造成 {{N0}} 额外 ❁伤害.",
+      "styleMappings": {
+        "Arcane Catalyst": "奥术催化剂",
+        "damage": "伤害",
+        "deal": "造成",
+        "Arcane": "奥术"
+      }
+    },
+    {
+      "source": [
+        "Astral Negotiator",
+        "Enchanting and anvils",
+        "costs {{N0}} less",
+        "experience."
+      ],
+      "translation": "星界谈判者 附魔和铁砧消耗的经验减少 {{N0}}.",
+      "styleMappings": {
+        "Astral Negotiator": "星界谈判者"
+      }
+    },
+    {
+      "source": [
+        "Secret Bonus",
+        "Gain {{N0}} Clicks in Superpairs Experiments "
+      ],
+      "translation": "秘密奖励 在超级配对实验中获得 {{N0}} 次点击 ",
+      "styleMappings": {
+        "Superpairs Experiments": "超级配对实验",
+        "Secret Bonus": "秘密奖励",
+        "Clicks": "次点击",
+        "Gain": "获得",
+        "Experiments": "实验",
+        "Superpairs": "超级配对"
+      }
+    },
+    {
+      "source": [
+        "Secret Bonus",
+        "All abilities cost {{N0}} less ✎Mana"
+      ],
+      "translation": "秘密奖励 所有技能消耗的 ✎法力减少 {{N0}}",
+      "styleMappings": {
+        "Secret Bonus": "秘密奖励",
+        "abilities": "技能",
+        "Mana": "法力"
+      }
+    },
+    {
+      "source": [
+        "Secret Bonus",
+        "Gain {{N0}}✯Magic Find for every year that",
+        "Barry has not been elected (max {{N1}})"
+      ],
+      "translation": "秘密奖励 每有一年 Barry 未当选,获得 {{N0}}✯稀有物品概率加成 (上限 {{N1}})",
+      "styleMappings": {
+        "Barry has not been elected": "Barry 未当选",
+        "for every year that": "每有一年",
+        "Secret Bonus": "秘密奖励",
+        "Magic Find": "稀有物品概率加成",
+        "(max": "(上限",
+        "Gain": "获得",
+        "for": "获得",
+        "Bonus": "加成",
+        "max": "上限",
+        "year": "年"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mayor": "市长"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

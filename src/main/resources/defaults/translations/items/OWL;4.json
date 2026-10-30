@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "id": "OWL;4",
+  "_original_name": "[Lvl {LVL}] Owl",
+  "_original_lore": [
+    "Taming Pet",
+    "",
+    "Training Refunds",
+    "The more coins you spend on Fann's",
+    "Sessions, the less coins they will",
+    "cost in the future. (Max 5% off).",
+    "",
+    "Next Milestone: 1% off",
+    "                     0/1M",
+    "",
+    "Efficient Trainer",
+    "Makes training sessions at Fann",
+    "more efficient when added into a",
+    "session.",
+    "",
+    "Increased EXP: +{0}% EXP",
+    "",
+    "Fast Learner",
+    "Passively grants +{1}☯ Taming",
+    "Wisdom.",
+    "",
+    "This pet's perks are active even",
+    "when the pet is not summoned!",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "LEGENDARY PET"
+  ],
+  "name": "[等级 {LVL}] 猫头鹰",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Taming Pet"
+      ],
+      "translation": "驯养宠物",
+      "styleMappings": {
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Training Refunds"
+      ],
+      "translation": "训练返利",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "The more coins you spend on Fann's",
+        "Sessions, the less coins they will",
+        "cost in the future. (Max {{N0}} off)."
+      ],
+      "translation": "你在 Fann 的课程上花费的金币越多,未来的费用就越低.(最多减免 {{N0}}).",
+      "styleMappings": {
+        "(Max": "(最多",
+        "off": "减免",
+        "Max": "最多",
+        "coins": "金币",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Next Milestone: {{N0}} off"
+      ],
+      "translation": "下一里程碑:减免 {{N0}}",
+      "styleMappings": {
+        "off": "减免"
+      }
+    },
+    {
+      "source": [
+        "                     {{N0}}/{{N1}}M"
+      ],
+      "translation": "                     {{N0}}/{{N1}}M",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Efficient Trainer"
+      ],
+      "translation": "高效训练师",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Makes training sessions at Fann",
+        "more efficient when added into a",
+        "session."
+      ],
+      "translation": "加入课程时,使 Fann 的训练课程更高效.",
+      "styleMappings": {
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Increased EXP: +{{N0}}% EXP"
+      ],
+      "translation": "经验加成: +{{N0}}% 经验",
+      "styleMappings": {
+        "+{{N0}}% EXP": "+{{N0}}% 经验",
+        "EXP": "经验"
+      }
+    },
+    {
+      "source": [
+        "Fast Learner"
+      ],
+      "translation": "快速学习",
+      "styleMappings": {
+        "Fast Learner": "快速学习"
+      }
+    },
+    {
+      "source": [
+        "Passively grants +{{N0}}☯ Taming",
+        "Wisdom."
+      ],
+      "translation": "被动提供 +{{N0}}☯ 驯养智慧.",
+      "styleMappings": {
+        "Taming Wisdom": "驯养智慧",
+        "Wisdom": "智慧"
+      }
+    },
+    {
+      "source": [
+        "This pet's perks are active even",
+        "when the pet is not summoned!"
+      ],
+      "translation": "即使宠物未被召唤,此宠物的技能也会生效!",
+      "styleMappings": {
+        "This pet's perks are active even": "即使宠物未被召唤,此宠物的技能也会生效",
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY PET"
+      ],
+      "translation": "传说 宠物",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Lvl": "等级",
+    "Owl": "猫头鹰"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

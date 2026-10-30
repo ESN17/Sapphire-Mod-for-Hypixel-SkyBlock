@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "id": "SMELTING_TOUCH;1",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Smelting Touch I",
+    "Automatically smelts broken",
+    "blocks into their smelted form.",
+    "",
+    "Source:",
+    " - Enchantment Table (I)",
+    "",
+    "Applied To:",
+    " - Shovel",
+    " - Pickaxe",
+    " - Axe",
+    " - Drill",
+    " - Gauntlet",
+    "",
+    "Conflicts:",
+    " - Silk Touch",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Smelting Touch I"
+      ],
+      "translation": "自动熔炼 I",
+      "styleMappings": {
+        "Smelting Touch": "自动熔炼"
+      }
+    },
+    {
+      "source": [
+        "Automatically smelts broken",
+        "blocks into their smelted form."
+      ],
+      "translation": "自动将破坏的方块熔炼为其熔炼产物.",
+      "styleMappings": {
+        "blocks": "方块"
+      }
+    },
+    {
+      "source": [
+        "Source:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchantment Table (I)"
+      ],
+      "translation": " - 附魔台 (I)",
+      "styleMappings": {
+        "Enchantment Table": "附魔台",
+        "I": "I",
+        "Enchantment": "附魔"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Shovel",
+        " - Pickaxe",
+        " - Axe",
+        " - Drill",
+        " - Gauntlet"
+      ],
+      "translation": " - 锹  - 镐  - 斧  - 钻头  - 护手",
+      "styleMappings": {
+        "Gauntlet": "护手",
+        "Drill": "钻头",
+        "Axe": "斧",
+        "Pickaxe": "镐"
+      }
+    },
+    {
+      "source": [
+        "Conflicts:"
+      ],
+      "translation": "冲突:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Silk Touch"
+      ],
+      "translation": " - 精准采集",
+      "styleMappings": {
+        "Silk Touch": "精准采集"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": "LOUDMOUTH_BASS",
+  "_original_name": "Loudmouth Bass",
+  "_original_lore": [
+    "Right-click a player holding a",
+    "Loudmouth Bass to engage in a duel!",
+    "The heavier your bass is, the more",
+    "likely it is to win!",
+    "",
+    "The winning bass will consume the",
+    "other and grow heavier.",
+    "",
+    "If your bass is consumed, you",
+    "receive some Fish Food and Social",
+    "XP as compensation, scaling with",
+    "bass weight.",
+    "",
+    "Current weight: 1 lb",
+    "Upgrades rarity in 49 lbs",
+    "",
+    "COMMON"
+  ],
+  "name": "大嘴鲈鱼",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Right-click a player holding a"
+      ],
+      "translation": "手持大嘴鲈鱼右键点击一名玩家,",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "player": "玩家"
+      }
+    },
+    {
+      "source": [
+        "Loudmouth Bass to engage in a duel!"
+      ],
+      "translation": "大嘴鲈鱼发起决斗!",
+      "styleMappings": {
+        "Loudmouth Bass": "大嘴鲈鱼"
+      }
+    },
+    {
+      "source": [
+        "The heavier your bass is, the more",
+        "likely it is to win!"
+      ],
+      "translation": "你的鲈鱼越重,获胜的几率就越大!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "The winning bass will consume the",
+        "other and grow heavier."
+      ],
+      "translation": "获胜的鲈鱼会吞噬另一条并变得更重.",
+      "styleMappings": {
+        "consume": "吞噬"
+      }
+    },
+    {
+      "source": [
+        "If your bass is consumed, you",
+        "receive some Fish Food and Social",
+        "XP as compensation, scaling with",
+        "bass weight."
+      ],
+      "translation": "如果你的鲈鱼被吞噬,你将获得一些鱼食和社交经验作为补偿,数量随鲈鱼重量而定.",
+      "styleMappings": {
+        "Fish Food": "鱼食",
+        "Social XP": "社交经验",
+        "Fish": "鱼"
+      }
+    },
+    {
+      "source": [
+        "Current weight: {{N0}} lb"
+      ],
+      "translation": "当前重量:{{N0}} 磅",
+      "styleMappings": {
+        "Current weight:": "当前重量:",
+        "{{N0}} lb": "{{N0}} 磅"
+      }
+    },
+    {
+      "source": [
+        "Upgrades rarity in {{N0}} lbs"
+      ],
+      "translation": "在 {{N0}} 磅时提升稀有度",
+      "styleMappings": {
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Loudmouth Bass": "大嘴鲈鱼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

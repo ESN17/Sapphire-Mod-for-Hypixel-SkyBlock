@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_POISON;4",
+  "_original_name": "Poison IV Potion",
+  "_original_lore": [
+    "",
+    "Poison IV (3:00)",
+    "Deals 60 damage per second.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "中毒 IV 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Poison IV ({{N0}}:{{N1}})"
+      ],
+      "translation": "中毒 IV ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Poison IV": "中毒 IV"
+      }
+    },
+    {
+      "source": [
+        "Deals {{N0}} damage per second."
+      ],
+      "translation": "每秒造成 {{N0}} 伤害.",
+      "styleMappings": {
+        "per second": "每秒",
+        "damage": "伤害",
+        "Deals": "造成",
+        "second": "秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Poison IV": "中毒 IV"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

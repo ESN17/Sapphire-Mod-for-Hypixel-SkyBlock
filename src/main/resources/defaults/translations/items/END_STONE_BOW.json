@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "END_STONE_BOW",
+  "_original_name": "End Stone Bow",
+  "_original_lore": [
+    "Damage: +140",
+    "",
+    "Ability: Extreme Focus  LEFT CLICK",
+    "Consumes all your mana, and your next hit will",
+    "deal that much more damage!",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Combat Skill 15.",
+    "EPIC BOW"
+  ],
+  "name": "末地石弓",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Ability: Extreme Focus  LEFT CLICK"
+      ],
+      "translation": "技能:极限专注  左键点击",
+      "styleMappings": {
+        "Ability: Extreme Focus": "技能:极限专注",
+        "LEFT CLICK": "左键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Consumes all your mana, and your next hit will",
+        "deal that much more damage!"
+      ],
+      "translation": "消耗你所有的法力,你的下一次攻击将造成等量的额外伤害!",
+      "styleMappings": {
+        "mana": "法力",
+        "hit": "攻击",
+        "deal": "造成",
+        "more": "额外",
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC BOW"
+      ],
+      "translation": "史诗 弓",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Bow": "弓",
+    "End": "末地",
+    "End Stone": "末地石"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

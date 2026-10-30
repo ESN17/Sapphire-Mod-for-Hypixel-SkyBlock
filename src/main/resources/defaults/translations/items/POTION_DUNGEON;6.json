@@ -1,0 +1,176 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_DUNGEON;6",
+  "_original_name": "Dungeon VI Potion",
+  "_original_lore": [
+    "",
+    "Regeneration IV (40:00)",
+    "Grants +10 Health Regen.",
+    "",
+    "Strength IV (40:00)",
+    "Increases  Strength by 30.",
+    "",
+    "Critical III (40:00)",
+    "Increases  Crit Chance by 20% and",
+    " Crit Damage by 30%.",
+    "",
+    "Speed III (40:00)",
+    "Grants +15  Speed.",
+    "",
+    "Resistance IV (40:00)",
+    "Increases  Defense by +20.",
+    "",
+    "Archery III (40:00)",
+    "Increases bow damage by 50%.",
+    "",
+    "RARE"
+  ],
+  "name": "地牢 VI 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Regeneration IV ({{N0}}:{{N1}})"
+      ],
+      "translation": "生命恢复 IV ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Regeneration IV": "生命恢复 IV",
+        "Regeneration": "生命恢复"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Health Regen."
+      ],
+      "translation": "提供 {{N0}} 生命恢复.",
+      "styleMappings": {
+        "Health Regen": "生命恢复",
+        "Grants": "提供",
+        "Health": "生命",
+        "Regen": "恢复"
+      }
+    },
+    {
+      "source": [
+        "Strength IV ({{N0}}:{{N1}})"
+      ],
+      "translation": "力量 IV ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Strength IV": "力量 IV",
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Increases  Strength by {{N0}}."
+      ],
+      "translation": "增加  力量 {{N0}}.",
+      "styleMappings": {
+        " Strength": " 力量",
+        "Increases": "增加",
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Critical III ({{N0}}:{{N1}})"
+      ],
+      "translation": "暴击 III ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Critical III": "暴击 III",
+        "III": "III",
+        "Critical": "暴击"
+      }
+    },
+    {
+      "source": [
+        "Increases  Crit Chance by {{N0}} and",
+        " Crit Damage by {{N1}}."
+      ],
+      "translation": "增加  暴击几率 {{N0}},增加 暴击伤害 {{N1}}.",
+      "styleMappings": {
+        " Crit Damage": " 暴击伤害",
+        "Crit Chance": "暴击几率",
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害",
+        "Increases": "增加",
+        " Crit Chance": " 暴击几率"
+      }
+    },
+    {
+      "source": [
+        "Speed III ({{N0}}:{{N1}})"
+      ],
+      "translation": "速度 III ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Speed III": "速度 III",
+        "III": "III",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}  Speed."
+      ],
+      "translation": "提供 {{N0}}  速度.",
+      "styleMappings": {
+        " Speed": " 速度",
+        "Grants": "提供",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Resistance IV ({{N0}}:{{N1}})"
+      ],
+      "translation": "抗性 IV ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Resistance IV": "抗性 IV",
+        "Resistance": "抗性"
+      }
+    },
+    {
+      "source": [
+        "Increases  Defense by {{N0}}."
+      ],
+      "translation": "增加  防御力 {{N0}}.",
+      "styleMappings": {
+        "Increases": "增加",
+        " Defense": " 防御",
+        "Defense": "防御力"
+      }
+    },
+    {
+      "source": [
+        "Archery III ({{N0}}:{{N1}})"
+      ],
+      "translation": "弓术 III ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Archery III": "弓术 III",
+        "III": "III"
+      }
+    },
+    {
+      "source": [
+        "Increases bow damage by {{N0}}."
+      ],
+      "translation": "弓伤害提高 {{N0}}.",
+      "styleMappings": {
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Dungeon": "地牢"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

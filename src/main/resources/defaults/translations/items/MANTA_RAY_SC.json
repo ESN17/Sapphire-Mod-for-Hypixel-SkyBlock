@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "MANTA_RAY_SC",
+  "_original_name": "Manta Ray (Sea Creature)",
+  "_original_lore": [
+    "Mob Types: ⚓ Aquatic, ☮ Animal",
+    "",
+    "EPIC"
+  ],
+  "name": "蝠鲼 (海怪)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mob Types: ⚓ Aquatic, ☮ Animal"
+      ],
+      "translation": "生物类型: ⚓ 水生, ☮ 动物",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Aquatic": "水生",
+        "Animal": "动物"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sea Creature": "海怪",
+    "(Sea Creature)": "(海怪)"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

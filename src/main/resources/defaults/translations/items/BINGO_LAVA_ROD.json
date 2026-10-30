@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": "BINGO_LAVA_ROD",
+  "_original_name": "Bingo Lava Rod",
+  "_original_lore": [
+    "Lava Rod",
+    "",
+    "Damage: +100",
+    "Strength: +100",
+    "Fishing Speed: +100",
+    "Sea Creature Chance: +15%",
+    "",
+    "Trophy Hunter V",
+    "Increases the chance to catch",
+    "Trophy Fish by 10%.",
+    "",
+    "This item can be reforged!",
+    "* Co-op Soulbound *",
+    "RARE FISHING ROD"
+  ],
+  "name": "宾果熔岩钓竿",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Lava Rod"
+      ],
+      "translation": "熔岩钓竿",
+      "styleMappings": {
+        "Lava": "熔岩"
+      }
+    },
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Fishing Speed: {{N0}}"
+      ],
+      "translation": "钓鱼速度: {{N0}}",
+      "styleMappings": {
+        "Fishing Speed": "钓鱼速度",
+        "Fishing": "钓鱼",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Sea Creature Chance: {{N0}}"
+      ],
+      "translation": "海洋生物概率:{{N0}}",
+      "styleMappings": {
+        "Sea Creature Chance": "海洋生物概率",
+        "Sea Creature": "海洋生物"
+      }
+    },
+    {
+      "source": [
+        "Trophy Hunter V",
+        "Increases the chance to catch",
+        "Trophy Fish by {{N0}}."
+      ],
+      "translation": "奖杯猎人 V 将钓到奖杯鱼的概率提高 {{N0}}.",
+      "styleMappings": {
+        "Trophy Hunter V": "奖杯猎人 V",
+        "Trophy Fish": "奖杯鱼",
+        "chance to": "概率",
+        "chance": "概率",
+        "Hunter": "猎人",
+        "Trophy": "奖杯",
+        "Fish": "鱼",
+        "Trophy Hunter": "奖杯猎人"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "RARE FISHING ROD"
+      ],
+      "translation": "稀有钓鱼竿",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Bingo": "宾果",
+    "Lava": "熔岩"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

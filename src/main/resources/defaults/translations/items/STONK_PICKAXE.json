@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "id": "STONK_PICKAXE",
+  "_original_name": "Fortunate Stonk",
+  "_original_lore": [
+    "Breaking Power 1",
+    "",
+    "Mining Speed: +384 (+4)",
+    "Mining Fortune: +2 (+2)",
+    "",
+    "Efficiency VI",
+    "Increases how quickly your tool",
+    "breaks blocks.",
+    "",
+    "When mining End Stone with this",
+    "pickaxe, Endermites won't spawn,",
+    "experience will be dropped!",
+    "5% chance to drop an extra End",
+    "Stone block.",
+    "",
+    "EPIC PICKAXE"
+  ],
+  "name": "幸运股票",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Breaking Power {{N0}}"
+      ],
+      "translation": "破坏力 {{N0}}",
+      "styleMappings": {
+        "Breaking Power": "破坏力"
+      }
+    },
+    {
+      "source": [
+        "Mining Speed: {{N0}} ({{N1}})"
+      ],
+      "translation": "采矿速度: {{N0}} ({{N1}})",
+      "styleMappings": {
+        "Mining Speed": "采矿速度",
+        "Mining": "采矿",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Mining Fortune: {{N0}} ({{N1}})"
+      ],
+      "translation": "采矿幸运: {{N0}} ({{N1}})",
+      "styleMappings": {
+        "Mining Fortune": "采矿幸运",
+        "Mining": "采矿",
+        "Fortune": "幸运"
+      }
+    },
+    {
+      "source": [
+        "Efficiency VI",
+        "Increases how quickly your tool",
+        "breaks blocks."
+      ],
+      "translation": "效率 VI 加快你的工具破坏方块的速度.",
+      "styleMappings": {
+        "Efficiency VI": "效率 VI",
+        "blocks": "方块",
+        "Efficiency": "效率"
+      }
+    },
+    {
+      "source": [
+        "When mining End Stone with this",
+        "pickaxe, Endermites won't spawn,",
+        "experience will be dropped!"
+      ],
+      "translation": "使用此镐挖掘末地石时,末影螨不会生成,经验将会掉落!",
+      "styleMappings": {
+        "Endermites": "末影螨",
+        "End": "末地",
+        "End Stone": "末地石"
+      }
+    },
+    {
+      "source": [
+        "{{N0}} chance to drop an extra End",
+        "Stone block."
+      ],
+      "translation": "{{N0}} 概率掉落一个额外的末地石块.",
+      "styleMappings": {
+        "chance to": "概率",
+        "End": "末地",
+        "End Stone": "末地石",
+        "chance": "概率"
+      }
+    },
+    {
+      "source": [
+        "EPIC PICKAXE"
+      ],
+      "translation": "史诗镐",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Stonk": "股票"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

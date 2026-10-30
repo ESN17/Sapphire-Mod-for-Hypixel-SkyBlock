@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "SCARY_JERRY_MONSTER",
+  "_original_name": "Scary Jerry (Monster)",
+  "_original_lore": [
+    "The Scary Jerry is a mob added in the",
+    "Spooky Festival v2 Update. It can only spawn",
+    "during the night during Spooky Festivals.",
+    "",
+    "Mob Types: ☽ Spooky, ⛨ Shielded",
+    "❤ Health: 12"
+  ],
+  "name": "恐怖 杰瑞 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Scary Jerry is a mob added in the",
+        "Spooky Festival v{{N0}} Update. It can only spawn",
+        "during the night during Spooky Festivals."
+      ],
+      "translation": "恐怖杰瑞是幽灵节版本{{N0}}更新中加入的怪物.它只能在幽灵节期间的夜晚生成.",
+      "styleMappings": {
+        "Scary Jerry": "恐怖杰瑞",
+        "Spooky": "幽灵",
+        "Jerry": "杰瑞",
+        "Spooky Festival": "幽灵节",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Mob Types: ☽ Spooky, ⛨ Shielded"
+      ],
+      "translation": "怪物类型: ☽ 幽灵, ⛨ 护盾",
+      "styleMappings": {
+        "Spooky": "幽灵",
+        "Shielded": "护盾",
+        "Mob Types": "怪物类型",
+        "Mob Types:": "怪物类型:"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Scary Jerry": "恐怖 杰瑞",
+    "(Monster)": "(怪物)",
+    "Jerry": "杰瑞",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

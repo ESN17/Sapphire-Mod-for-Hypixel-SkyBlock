@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "POTATO_BASKET",
+  "_original_name": "Basket of Hope from the Great Potato War",
+  "_original_lore": [
+    "Leaderboard Position: #169",
+    "Awarded to: IRONM00N",
+    "",
+    "The greatest victory is that",
+    "which requires no battle.",
+    "- Sun Tzu, The Art of War",
+    "",
+    "SPECIAL MEMENTO"
+  ],
+  "name": "来自马铃薯大战的希望之篮",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Leaderboard Position: #{{N0}}"
+      ],
+      "translation": "排行榜名次: #{{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Awarded to: IRONM{{N0}}N"
+      ],
+      "translation": "授予: 铁人{{N0}}",
+      "styleMappings": {
+        "IRONM{{N0}}N": "铁人{{N0}}",
+        "Awarded to:": "授予:"
+      }
+    },
+    {
+      "source": [
+        "The greatest victory is that",
+        "which requires no battle."
+      ],
+      "translation": "不战而屈人之兵,善之善者也.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "- Sun Tzu, The Art of War"
+      ],
+      "translation": "- 孙子, 孙子兵法",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "SPECIAL MEMENTO"
+      ],
+      "translation": "特殊纪念品",
+      "styleMappings": {
+        "SPECIAL MEMENTO": "特殊纪念品",
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Potato": "马铃薯"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

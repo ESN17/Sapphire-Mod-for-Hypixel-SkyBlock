@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "id": "SEA_ARCHER_SC",
+  "_original_name": "Sea Archer (Sea Creature)",
+  "_original_lore": [
+    "The Sea Archer is an Uncommon sea creature that",
+    "spawns while fishing after unlocking Fishing level IX.",
+    "He looks like a normal Skeleton, and carries an",
+    "enchanted Bow. He also wears an Enchanted Armor,",
+    "probably a dyed Leather Armor.",
+    "",
+    "Mob Types: ⚓ Aquatic, 🦴 Skeletal",
+    "❤ Health: 7,000",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "海洋弓箭手 (海怪)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Sea Archer is an Uncommon sea creature that",
+        "spawns while fishing after unlocking Fishing level IX."
+      ],
+      "translation": "海洋弓箭手是一种罕见海怪,在解锁钓鱼 IX 级后钓鱼时生成.",
+      "styleMappings": {
+        "Uncommon": "罕见",
+        "Archer": "弓箭手",
+        "Fishing": "钓鱼",
+        "fishing": "钓鱼"
+      }
+    },
+    {
+      "source": [
+        "He looks like a normal Skeleton, and carries an",
+        "enchanted Bow. He also wears an Enchanted Armor,",
+        "probably a dyed Leather Armor."
+      ],
+      "translation": "他看起来像普通的骷髅,手持附魔弓.他还穿着附魔盔甲,可能是染色的皮革盔甲.",
+      "styleMappings": {
+        "Skeleton": "骷髅",
+        "Leather": "皮革",
+        "Armor": "盔甲",
+        "Bow": "弓"
+      }
+    },
+    {
+      "source": [
+        "Mob Types: ⚓ Aquatic, 🦴 Skeletal"
+      ],
+      "translation": "生物类型: ⚓ 水生, 🦴 骷髅",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Skeletal": "骷髅",
+        "Aquatic": "水生"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Archer": "弓箭手",
+    "Sea Creature": "海怪",
+    "(Sea Creature)": "(海怪)"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "id": "INFERNO_HYPERGOLIC_NETHER_STALK",
+  "_original_name": "Inferno Minion Fuel",
+  "_original_lore": [
+    "Minion Fuel",
+    "",
+    "Can be used as minion fuel",
+    "exclusively in the Inferno minion for",
+    "24 hours!",
+    "",
+    "Replaces 4/5 of the regular minion",
+    "production with a specialty item.",
+    "",
+    "Hypergolic-grade fuels create",
+    "extra unique items! RARELY!",
+    "",
+    "Speed multiplier: 20x",
+    "Specialty: Nether Wart",
+    "Specialty amount: 3 to 7",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "炼狱仆从燃料",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Minion Fuel"
+      ],
+      "translation": "仆从燃料",
+      "styleMappings": {
+        "Minion Fuel": "仆从燃料",
+        "Fuel": "燃料",
+        "Minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "Can be used as minion fuel",
+        "exclusively in the Inferno minion for",
+        "{{N0}} hours!"
+      ],
+      "translation": "只能作为炼狱仆从的燃料使用,持续 {{N0}} 小时!",
+      "styleMappings": {
+        "hours": "小时",
+        "for": "持续",
+        "minion": "仆从",
+        "in the": "的",
+        "Inferno": "炼狱"
+      }
+    },
+    {
+      "source": [
+        "Replaces {{N0}}/{{N1}} of the regular minion",
+        "production with a specialty item."
+      ],
+      "translation": "将 {{N0}}/{{N1}} 的常规仆从产出替换为一种特产物品.",
+      "styleMappings": {
+        "minion": "仆从",
+        "specialty": "特产",
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Hypergolic-grade fuels create",
+        "extra unique items! RARELY!"
+      ],
+      "translation": "自燃级燃料可产出额外独特物品!稀有!",
+      "styleMappings": {
+        "Hypergolic-grade fuels": "自燃级燃料",
+        "extra unique items": "额外独特物品",
+        "items": "物品",
+        "unique": "独特",
+        "unique items": "独特物品"
+      }
+    },
+    {
+      "source": [
+        "Speed multiplier: {{N0}}x"
+      ],
+      "translation": "速度倍率: {{N0}}倍",
+      "styleMappings": {
+        "Speed": "速度",
+        "x": "倍",
+        "{{N0}}x": "{{N0}}倍"
+      }
+    },
+    {
+      "source": [
+        "Specialty: Nether Wart"
+      ],
+      "translation": "特产: 下界疣",
+      "styleMappings": {
+        "Nether Wart": "下界疣",
+        "Nether": "下界"
+      }
+    },
+    {
+      "source": [
+        "Specialty amount: {{N0}} to {{N1}}"
+      ],
+      "translation": "特产数量: {{N0}} 至 {{N1}}",
+      "styleMappings": {
+        "Specialty amount:": "特产数量:"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Minion Fuel": "仆从燃料",
+    "Fuel": "燃料",
+    "Minion": "仆从",
+    "Inferno": "炼狱"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

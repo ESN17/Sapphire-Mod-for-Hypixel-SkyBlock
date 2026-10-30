@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_SPEED;4",
+  "_original_name": "Speed IV Potion",
+  "_original_lore": [
+    "",
+    "Speed IV (3:00)",
+    "Grants +20  Speed.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "速度 IV 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Speed IV ({{N0}}:{{N1}})"
+      ],
+      "translation": "速度 IV ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Speed IV": "速度 IV",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}  Speed."
+      ],
+      "translation": "提供 {{N0}}  速度.",
+      "styleMappings": {
+        " Speed": " 速度",
+        "Grants": "提供",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Speed IV Potion": "速度 IV 药水",
+    "Speed": "速度",
+    "Speed IV": "速度 IV"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

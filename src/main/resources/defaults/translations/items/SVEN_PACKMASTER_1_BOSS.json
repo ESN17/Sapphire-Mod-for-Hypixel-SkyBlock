@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "SVEN_PACKMASTER_1_BOSS",
+  "_original_name": "Sven Packmaster I (Boss)",
+  "_original_lore": [
+    "Beginner",
+    "",
+    "Health: 2,000❤",
+    "Damage: 60 per second",
+    "",
+    "Agile",
+    "The wolf is small and fast, making",
+    "it hard to hit."
+  ],
+  "name": "斯文狼王 I (首领)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Beginner"
+      ],
+      "translation": "新手",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Health: {{N0}}❤"
+      ],
+      "translation": "生命值: {{N0}}❤",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Damage: {{N0}} per second"
+      ],
+      "translation": "伤害: 每秒 {{N0}}",
+      "styleMappings": {
+        "per second": "每秒",
+        "Damage": "伤害",
+        "second": "秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Agile",
+        "The wolf is small and fast, making",
+        "it hard to hit."
+      ],
+      "translation": "敏捷 这只狼又小又快,很难击中.",
+      "styleMappings": {
+        "Agile": "敏捷",
+        "hit": "击中"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sven Packmaster": "斯文狼王",
+    "Boss": "首领",
+    "I": "I"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

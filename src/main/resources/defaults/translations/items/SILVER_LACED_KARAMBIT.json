@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "SILVER_LACED_KARAMBIT",
+  "_original_name": "Silver-Laced Karambit",
+  "_original_lore": [
+    "Rift Damage: +5",
+    "Speed: +10",
+    "",
+    "Regens 5 Mana and 0.5❤ on hit.",
+    "",
+    "Gain +3 Rift Damage against",
+    "Vampires.",
+    "",
+    "☠ Requires Vampire Slayer 1.",
+    "EPIC SWORD"
+  ],
+  "name": "银纹猎血刃",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Rift Damage: {{N0}}"
+      ],
+      "translation": "裂隙伤害: {{N0}}",
+      "styleMappings": {
+        "Rift Damage": "裂隙伤害",
+        "Damage": "伤害",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Regens {{N0}} Mana and {{N1}}❤ on hit."
+      ],
+      "translation": "命中时恢复 {{N0}} 法力值和 {{N1}}❤.",
+      "styleMappings": {
+        "Mana": "法力值",
+        "hit": "命中"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}} Rift Damage against",
+        "Vampires."
+      ],
+      "translation": "对吸血鬼获得 {{N0}} 裂隙伤害.",
+      "styleMappings": {
+        "Rift Damage": "裂隙伤害",
+        "Vampires": "吸血鬼",
+        "Gain": "获得",
+        "Damage": "伤害",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Vampire Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要吸血鬼杀手 {{N0}}.",
+      "styleMappings": {
+        "Vampire Slayer": "吸血鬼杀手",
+        "Requires": "需要",
+        "Slayer": "杀手",
+        "Vampire": "吸血鬼"
+      }
+    },
+    {
+      "source": [
+        "EPIC SWORD"
+      ],
+      "translation": "史诗 剑",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Silver-Laced Karambit": "银纹猎血刃"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_name_revision": "2026-10-17-slayer-rpg"
+}

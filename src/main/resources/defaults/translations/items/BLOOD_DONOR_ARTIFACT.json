@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "BLOOD_DONOR_ARTIFACT",
+  "_original_name": "Blood Donor Artifact",
+  "_original_lore": [
+    "Health Regen: +3",
+    "Accessory Power: +8",
+    "",
+    "The human body produces 2-3 million",
+    "red blood cells per SECOND.",
+    "",
+    "X Rift-Transferable X",
+    "Works while in Accessory Bag!",
+    "RARE ACCESSORY"
+  ],
+  "name": "献血者神器",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health Regen: {{N0}}"
+      ],
+      "translation": "生命回复: {{N0}}",
+      "styleMappings": {
+        "Health Regen": "生命回复",
+        "Health": "生命",
+        "Regen": "回复"
+      }
+    },
+    {
+      "source": [
+        "Accessory Power: {{N0}}"
+      ],
+      "translation": "饰品能量: {{N0}}",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "The human body produces {{N0}}-{{N1}} million",
+        "red blood cells per SECOND."
+      ],
+      "translation": "人体每秒钟会产生 {{N0}}-{{N1}} 百万个红细胞.",
+      "styleMappings": {
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "X Rift-Transferable X",
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "X 可裂隙转移 X 在饰品袋中时生效!",
+      "styleMappings": {
+        "Works while in Accessory Bag!": "在饰品袋中时生效!",
+        "Rift-Transferable": "可裂隙转移",
+        "Accessory Bag": "饰品袋",
+        "Rift": "裂隙",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "RARE ACCESSORY"
+      ],
+      "translation": "稀有饰品",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Artifact": "神器"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

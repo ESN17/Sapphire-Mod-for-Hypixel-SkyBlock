@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "GOLDEN_GHOUL_MONSTER",
+  "_original_name": "Golden Ghoul (Monster)",
+  "_original_lore": [
+    "The Golden Ghoul is a mob added in the Slayer",
+    "update. It spawns accompanied by Crypt Ghouls",
+    "and spawns at the deepest part of the Coal Mine.",
+    "The Golden Ghoul's appearance is of a zombie wearing",
+    "Golden Armor holding a Golden Sword.",
+    "",
+    "❤ Health: 45,000"
+  ],
+  "name": "黄金食尸鬼 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Golden Ghoul is a mob added in the Slayer",
+        "update. It spawns accompanied by Crypt Ghouls",
+        "and spawns at the deepest part of the Coal Mine."
+      ],
+      "translation": "黄金食尸鬼是杀手更新中加入的怪物.它生成时伴随地穴食尸鬼,并生成在煤矿的最深处.",
+      "styleMappings": {
+        "Slayer": "杀手",
+        "Crypt Ghouls": "地穴食尸鬼",
+        "Coal Mine": "煤矿",
+        "Golden Ghoul": "黄金食尸鬼",
+        "Ghoul": "食尸鬼",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "The Golden Ghoul's appearance is of a zombie wearing",
+        "Golden Armor holding a Golden Sword."
+      ],
+      "translation": "黄金食尸鬼的外观是一个穿着金盔甲、手持金剑的僵尸.",
+      "styleMappings": {
+        "Golden Armor": "金盔甲",
+        "Golden Sword": "金剑",
+        "s": "一",
+        "Golden Ghoul": "黄金食尸鬼",
+        "Armor": "盔甲",
+        "Sword": "剑",
+        "Ghoul": "食尸鬼"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Golden Ghoul": "黄金食尸鬼",
+    "(Monster)": "(怪物)",
+    "Monster": "怪物",
+    "Ghoul": "食尸鬼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

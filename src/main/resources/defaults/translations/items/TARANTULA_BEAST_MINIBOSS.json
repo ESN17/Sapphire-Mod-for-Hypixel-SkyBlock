@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "TARANTULA_BEAST_MINIBOSS",
+  "_original_name": "Tarantula Beast (Miniboss)",
+  "_original_lore": [
+    "The Tarantula Beast is Tarantula Broodfather Miniboss.",
+    "It spawns rarely when a player doing the Tarantula",
+    "Broodfather Tier IV quest kills a spider.",
+    "",
+    "❤ Health: 144,000"
+  ],
+  "name": "狼蛛野兽 (小首领)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Tarantula Beast is Tarantula Broodfather Miniboss."
+      ],
+      "translation": "狼蛛野兽是狼蛛母巢小首领.",
+      "styleMappings": {
+        "Tarantula": "狼蛛",
+        "Miniboss": "小首领"
+      }
+    },
+    {
+      "source": [
+        "It spawns rarely when a player doing the Tarantula",
+        "Broodfather Tier IV quest kills a spider."
+      ],
+      "translation": "当进行狼蛛母巢 IV 阶任务的玩家击杀蜘蛛时,有几率生成.",
+      "styleMappings": {
+        "kills": "击杀",
+        "Tarantula": "狼蛛",
+        "player": "玩家",
+        "rarely": "有几率",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Tarantula Beast (Miniboss)": "狼蛛野兽 (小首领)",
+    "(Miniboss)": "(小首领)",
+    "Miniboss": "小首领",
+    "Tarantula": "狼蛛"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "id": "REKINDLED_EMBER_HELMET",
+  "_original_name": "Rekindled Ember Helmet",
+  "_original_lore": [
+    "Health: +175",
+    "Defense: +50",
+    "Strength: +30",
+    "Crit Damage: +20%",
+    "Intelligence: +15",
+    "Gemstones: [⚔]",
+    "",
+    "Tiered Bonus: Rekindle (0/4)",
+    "Increase all of your outgoing",
+    "burning damage by 200%. For each",
+    "second you are on fire additionally",
+    "increase all burning damage by 1.2%",
+    "up to 50%. When wearing 2 or more",
+    "armor pieces of this set, melee",
+    "attacks from ignited mobs will set you",
+    "on fire!",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Combat Skill 22.",
+    "EPIC HELMET"
+  ],
+  "name": "复燃余烬头盔",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: {{N0}}"
+      ],
+      "translation": "暴击伤害:{{N0}}",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [⚔]"
+      ],
+      "translation": "宝石: [⚔]",
+      "styleMappings": {
+        "Gemstones": "宝石",
+        "[": "[",
+        "Gemstones:": "宝石:"
+      }
+    },
+    {
+      "source": [
+        "Tiered Bonus: Rekindle ({{N0}}/{{N1}})"
+      ],
+      "translation": "套装加成: 复燃 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Tiered Bonus: Rekindle": "套装加成: 复燃",
+        "Tiered Bonus": "套装加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Increase all of your outgoing",
+        "burning damage by {{N0}}. For each",
+        "second you are on fire additionally",
+        "increase all burning damage by {{N1}}",
+        "up to {{N2}}. When wearing {{N3}} or more",
+        "armor pieces of this set, melee",
+        "attacks from ignited mobs will set you",
+        "on fire!"
+      ],
+      "translation": "造成的燃烧伤害提高 {{N0}}. 自身每燃烧一秒, 燃烧伤害再提高 {{N1}}, 上限 {{N2}}. 穿戴此套装至少 {{N3}} 件时, 燃烧中生物的近战攻击也会点燃你!",
+      "styleMappings": {
+        "damage": "伤害",
+        "pieces": "件",
+        "second": "秒",
+        "mobs": "生物"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC HELMET"
+      ],
+      "translation": "史诗头盔",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Rekindled Ember Helmet": "复燃余烬头盔",
+    "Helmet": "头盔",
+    "Ember Helmet": "余烬头盔",
+    "Rekindled Ember": "复燃余烬"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

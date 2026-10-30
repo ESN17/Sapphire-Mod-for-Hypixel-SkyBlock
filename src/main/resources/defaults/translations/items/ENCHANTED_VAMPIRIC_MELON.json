@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "ENCHANTED_VAMPIRIC_MELON",
+  "_original_name": "Enchanted Vampiric Melon",
+  "_original_lore": [
+    "Worth more Motes than the sum of its",
+    "parts, because it's glowing!",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "附魔吸血西瓜",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Worth more Motes than the sum of its",
+        "parts, because it's glowing!"
+      ],
+      "translation": "价值高于其各部分之和的裂隙尘埃, 因为它在发光!",
+      "styleMappings": {
+        "Motes": "裂隙尘埃"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Melon": "西瓜"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

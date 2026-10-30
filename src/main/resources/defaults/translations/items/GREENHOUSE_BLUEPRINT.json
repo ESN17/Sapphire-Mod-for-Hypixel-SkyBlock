@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "GREENHOUSE_BLUEPRINT",
+  "_original_name": "Greenhouse Blueprint",
+  "_original_lore": [
+    "This blueprint depicts some sort of",
+    "Greenhouse structure, maybe Sam",
+    "would find some use with it.",
+    "",
+    "* Co-op Soulbound *",
+    "RARE"
+  ],
+  "name": "温室蓝图",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "This blueprint depicts some sort of",
+        "Greenhouse structure, maybe Sam",
+        "would find some use with it."
+      ],
+      "translation": "这张蓝图描绘了某种温室结构,也许萨姆能派上用场.",
+      "styleMappings": {
+        "Greenhouse": "温室",
+        "Sam": "萨姆"
+      }
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Greenhouse": "温室"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

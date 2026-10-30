@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "GLACIAL_SCYTHE",
+  "_original_name": "Glacial Scythe",
+  "_original_lore": [
+    "Damage: +120",
+    "Intelligence: +30",
+    "Gemstones: []",
+    "",
+    "Ability: Ice Bolt  RIGHT CLICK",
+    "Shoots 1 Ice Bolt that deals 1,500 damage and",
+    "slows enemies hit for 5 seconds! When hitting",
+    "the ground, also creates an explosion of 3",
+    "blocks, dealing the same damage.",
+    "Mana Cost: 75",
+    "",
+    "This item can be reforged!",
+    "EPIC SWORD"
+  ],
+  "name": "冰川镰刀",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: []"
+      ],
+      "translation": "宝石槽:[]",
+      "styleMappings": {
+        "Gemstones": "宝石槽"
+      }
+    },
+    {
+      "source": [
+        "Ability: Ice Bolt  RIGHT CLICK"
+      ],
+      "translation": "技能:寒冰箭  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "Ice": "冰",
+        "Ice Bolt": "寒冰箭",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Shoots {{N0}} Ice Bolt that deals {{N1}} damage and",
+        "slows enemies hit for {{N2}} seconds! When hitting",
+        "the ground, also creates an explosion of {{N3}}",
+        "blocks, dealing the same damage."
+      ],
+      "translation": "射出 {{N0}} 道冰锥,造成 {{N1}} 点伤害,并使命中的敌人减速 {{N2}} 秒!命中地面时还会产生 {{N3}} 格的爆炸,造成相同伤害.",
+      "styleMappings": {
+        "When hitting the ground, also creates an explosion of": "命中地面时还会产生",
+        "blocks, dealing the same damage": "格的爆炸,造成相同伤害",
+        "slows enemies hit for": "命中的敌人减速",
+        "damage and": "点伤害,并使",
+        "that deals": "造成",
+        "Ice Bolt": "冰锥",
+        "seconds": "秒",
+        "Shoots": "射出",
+        "damage": "伤害",
+        "blocks": "格",
+        "hit": "命中",
+        "Ice": "冰",
+        "enemies": "敌人"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "EPIC SWORD"
+      ],
+      "translation": "史诗 剑",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Glacial": "冰川"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

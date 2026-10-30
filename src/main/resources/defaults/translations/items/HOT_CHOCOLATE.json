@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "HOT_CHOCOLATE",
+  "_original_name": "Hot Chocolate",
+  "_original_lore": [
+    "Its warm chocolatey goodness",
+    "imbues you with the ability to",
+    "overcome the heat death of the",
+    "Blazing Volcano.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "热巧克力",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Its warm chocolatey goodness",
+        "imbues you with the ability to",
+        "overcome the heat death of the",
+        "Blazing Volcano."
+      ],
+      "translation": "它温暖的可可美味赋予你克服炽焰火山热寂的能力.",
+      "styleMappings": {
+        "chocolatey": "可可",
+        "Blazing Volcano": "炽焰火山"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Chocolate": "巧克力"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "ENCHANTED_BOOKSHELF",
+  "_original_name": "Enchanted Bookshelf",
+  "_original_lore": [
+    "Legacy Item",
+    "",
+    "This item is no longer used in the",
+    "game. It can be exchanged in your",
+    "Legacy Trades menu - accessed with",
+    "/legacytrades.",
+    "",
+    "* Co-op Soulbound *",
+    "UNCOMMON"
+  ],
+  "name": "附魔书架",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Legacy Item"
+      ],
+      "translation": "遗留物品",
+      "styleMappings": {
+        "Item": "物品"
+      }
+    },
+    {
+      "source": [
+        "This item is no longer used in the",
+        "game. It can be exchanged in your",
+        "Legacy Trades menu - accessed with",
+        "/legacytrades."
+      ],
+      "translation": "此物品已不再于游戏中使用.你可以在遗留交易菜单中将其兑换 - 使用 /legacytrades 打开.",
+      "styleMappings": {
+        "Legacy Trades": "遗留交易",
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

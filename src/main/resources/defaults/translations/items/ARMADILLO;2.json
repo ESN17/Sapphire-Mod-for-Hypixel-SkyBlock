@@ -1,0 +1,156 @@
+{
+  "schemaVersion": 1,
+  "id": "ARMADILLO;2",
+  "_original_name": "[Lvl {LVL}] Armadillo",
+  "_original_lore": [
+    "Mining Mount",
+    "",
+    "Defense: +{DEFENSE}",
+    "",
+    "Ridable",
+    "Right-click your summoned pet to",
+    "ride it! Moves faster based on your",
+    " Speed.",
+    "",
+    "Tunneller",
+    "While in the Crystal Hollows, this Pet",
+    "breaks all blocks in its path using",
+    "your held item.",
+    "",
+    "Rolling Miner",
+    "Every {0} seconds, the next",
+    "Gemstone you mine gives 2x drops",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "RARE PET"
+  ],
+  "name": "[等级 {LVL}] 穿山甲",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mining Mount"
+      ],
+      "translation": "采矿坐骑",
+      "styleMappings": {
+        "Mining": "采矿"
+      }
+    },
+    {
+      "source": [
+        "Defense: +{{N0}}"
+      ],
+      "translation": "防御力: +{{N0}}",
+      "styleMappings": {
+        "Defense": "防御力"
+      }
+    },
+    {
+      "source": [
+        "Ridable"
+      ],
+      "translation": "可骑乘",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click your summoned pet to"
+      ],
+      "translation": "右键点击你召唤的宠物来",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "ride it! Moves faster based on your",
+        " Speed."
+      ],
+      "translation": "骑乘它!移动快慢取决于你的 速度.",
+      "styleMappings": {
+        " Speed": " 速度",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Tunneller"
+      ],
+      "translation": "隧道挖掘者",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "While in the Crystal Hollows, this Pet",
+        "breaks all blocks in its path using",
+        "your held item."
+      ],
+      "translation": "在水晶洞窟中时,此宠物会使用你手持的物品破坏路径上的所有方块.",
+      "styleMappings": {
+        "Crystal Hollows": "水晶洞窟",
+        "blocks": "方块",
+        "item": "物品",
+        "Pet": "宠物",
+        "Crystal": "水晶",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Rolling Miner"
+      ],
+      "translation": "滚动矿工",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Every {{N0}} seconds, the next",
+        "Gemstone you mine gives {{N1}}x drops"
+      ],
+      "translation": "每 {{N0}} 秒,你下一次开采的宝石掉落 {{N1}} 倍",
+      "styleMappings": {
+        "Gemstone": "宝石",
+        "seconds": "秒",
+        "{{N1}}x": "{{N1}} 倍"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "RARE PET"
+      ],
+      "translation": "稀有 宠物",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Armadillo": "穿山甲",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

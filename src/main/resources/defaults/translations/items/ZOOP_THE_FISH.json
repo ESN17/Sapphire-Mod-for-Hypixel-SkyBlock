@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "ZOOP_THE_FISH",
+  "_original_name": "Zoop the Fish",
+  "_original_lore": [
+    "Send me back please.",
+    "",
+    "X Rift-Transferable X",
+    "SPECIAL"
+  ],
+  "name": "鱼祖普",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Send me back please."
+      ],
+      "translation": "请把我送回去.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "X Rift-Transferable X"
+      ],
+      "translation": "X 可转移至裂隙 X",
+      "styleMappings": {
+        "Rift-Transferable": "可转移至裂隙",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fish": "鱼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

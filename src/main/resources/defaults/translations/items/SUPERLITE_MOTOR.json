@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "SUPERLITE_MOTOR",
+  "_original_name": "Superlite Motor",
+  "_original_lore": [
+    "A key component needed by the",
+    "Professor to repair Automaton Prime",
+    "in the Lost Precursor City!",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "RARE"
+  ],
+  "name": "超轻马达",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A key component needed by the",
+        "Professor to repair Automaton Prime",
+        "in the Lost Precursor City!"
+      ],
+      "translation": "教授修复失落的先驱之城中自动机首领所需的关键组件!",
+      "styleMappings": {
+        "Automaton Prime": "自动机首领",
+        "Lost Precursor City": "失落的先驱之城",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Superlite Motor": "超轻马达"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

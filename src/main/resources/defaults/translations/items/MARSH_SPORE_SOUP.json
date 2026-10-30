@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "MARSH_SPORE_SOUP",
+  "_original_name": "Marsh Spore Soup",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "A bubbling soup filled with poisonous",
+    "mushrooms.",
+    "",
+    "Right-click to consume!",
+    "",
+    "RARE"
+  ],
+  "name": "沼泽孢子汤",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "A bubbling soup filled with poisonous",
+        "mushrooms."
+      ],
+      "translation": "一碗盛满毒蘑菇的冒泡浓汤.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

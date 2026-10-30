@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "GOLDEN_RUNE;3",
+  "_original_name": "◆ Golden Rune III",
+  "_original_lore": [
+    "Requires level 14",
+    "Bows",
+    "",
+    "Flaunt your wealth with golden",
+    "arrows!",
+    "",
+    "Apply this rune to bows or fuse two",
+    "together at the Runic Pedestal!",
+    "",
+    "EPIC COSMETIC"
+  ],
+  "name": "◆ 金色符文 III",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Requires level {{N0}}",
+        "Bows"
+      ],
+      "translation": "需要弓等级 {{N0}}",
+      "styleMappings": {
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Flaunt your wealth with golden",
+        "arrows!"
+      ],
+      "translation": "用金色箭矢炫耀你的财富!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Apply this rune to bows or fuse two",
+        "together at the Runic Pedestal!"
+      ],
+      "translation": "将此符文应用于弓,或在符文基座上将两个符文融合!",
+      "styleMappings": {
+        "Runic Pedestal": "符文基座",
+        "Runic": "符文"
+      }
+    },
+    {
+      "source": [
+        "EPIC COSMETIC"
+      ],
+      "translation": "史诗外观",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Rune III": "符文 III",
+    "III": "III"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

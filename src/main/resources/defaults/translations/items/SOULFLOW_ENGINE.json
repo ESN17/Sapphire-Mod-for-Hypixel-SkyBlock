@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "id": "SOULFLOW_ENGINE",
+  "_original_name": "Soulflow Engine",
+  "_original_lore": [
+    "Minion Upgrade",
+    "",
+    "This item can be used as a minion",
+    "upgrade.",
+    "",
+    "Placing it in a minion will reduce the",
+    "minion's output by 50%, but it will",
+    "start generating Soulflow items.",
+    "",
+    "While equipped on a Voidling minion,",
+    "output is increased by 3% per minion",
+    "level.",
+    "",
+    "☠ Requires Enderman Slayer 5.",
+    "EPIC"
+  ],
+  "name": "灵魂流引擎",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Minion Upgrade"
+      ],
+      "translation": "仆从升级组件",
+      "styleMappings": {
+        "Minion Upgrade": "仆从升级",
+        "Minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "This item can be used as a minion"
+      ],
+      "translation": "此物品可作为仆从",
+      "styleMappings": {
+        "item": "物品",
+        "minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "upgrade."
+      ],
+      "translation": "升级.",
+      "styleMappings": {
+        "upgrade": "升级"
+      }
+    },
+    {
+      "source": [
+        "Placing it in a minion will reduce the",
+        "minion's output by {{N0}}, but it will",
+        "start generating Soulflow items."
+      ],
+      "translation": "将其放入仆从会使仆从产出降低 {{N0}},但会开始生成灵魂流物品.",
+      "styleMappings": {
+        "Soulflow": "灵魂流",
+        "minion": "仆从",
+        "items": "物品"
+      }
+    },
+    {
+      "source": [
+        "While equipped on a Voidling minion,",
+        "output is increased by {{N0}} per minion",
+        "level."
+      ],
+      "translation": "装备在虚空幼体仆从上时,每级仆从等级产量增加 {{N0}}.",
+      "styleMappings": {
+        "equipped": "装备",
+        "minion": "仆从",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Enderman Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要末影人杀手 {{N0}}.",
+      "styleMappings": {
+        "Enderman Slayer": "末影人杀手",
+        "Requires": "需要",
+        "Slayer": "杀手",
+        "Enderman": "末影人"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Soulflow": "灵魂流"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "id": "GOLDEN_GOBLIN_MONSTER",
+  "_original_name": "Golden Goblin (Monster)",
+  "_original_lore": [
+    "Chance to spawn from Eggs:",
+    "Goblin Egg - 2%",
+    "Green Goblin Egg - 2.5%",
+    "Yellow Goblin Egg - 3.33",
+    "Red Goblin Egg - 5%",
+    "Blue Goblin Egg - 10%",
+    "",
+    "Other Sources:",
+    "Custom Ores (Gold etc.) - 0.1%",
+    "Gemstones and Mithril in the Crystal Hollows - 0.1%",
+    "Hard Stone in the Crystal Hollows - 0.01%",
+    "",
+    "Mob Types: ✰ Humanoid, ⛨ Shielded",
+    "❤ Health: 3"
+  ],
+  "name": "黄金哥布林 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Chance to spawn from Eggs:"
+      ],
+      "translation": "从蛋中生成的概率:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Goblin Egg - {{N0}}",
+        "Green Goblin Egg - {{N1}}",
+        "Yellow Goblin Egg - {{N2}}",
+        "Red Goblin Egg - {{N3}}",
+        "Blue Goblin Egg - {{N4}}"
+      ],
+      "translation": "哥布林蛋 - {{N0}} 绿色哥布林蛋 - {{N1}} 黄色哥布林蛋 - {{N2}} 红色哥布林蛋 - {{N3}} 蓝色哥布林蛋 - {{N4}}",
+      "styleMappings": {
+        "Yellow Goblin Egg": "黄色哥布林蛋",
+        "Green Goblin Egg": "绿色哥布林蛋",
+        "Blue Goblin Egg": "蓝色哥布林蛋",
+        "Red Goblin Egg": "红色哥布林蛋",
+        "Goblin Egg": "哥布林蛋",
+        "-": "-",
+        "Blue": "蓝色",
+        "Green": "绿色",
+        "Red": "红色",
+        "Yellow": "黄色",
+        "Egg": "蛋",
+        "Goblin": "哥布林"
+      }
+    },
+    {
+      "source": [
+        "Other Sources:"
+      ],
+      "translation": "其他来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Custom Ores (Gold etc.) - {{N0}}",
+        "Gemstones and Mithril in the Crystal Hollows - {{N1}}",
+        "Hard Stone in the Crystal Hollows - {{N2}}"
+      ],
+      "translation": "自定义矿石 (金等) - 水晶洞窟中的 {{N0}} 宝石和秘银 - 水晶洞窟中的 {{N1}} 硬化石头 - {{N2}}",
+      "styleMappings": {
+        "Crystal Hollows": "水晶洞窟",
+        "Hard Stone": "硬化石头",
+        "Gemstones": "宝石",
+        "Mithril": "秘银",
+        "Gold": "金",
+        "Ores": "矿石",
+        "-": "-",
+        "Crystal": "水晶",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Mob Types: ✰ Humanoid, ⛨ Shielded"
+      ],
+      "translation": "怪物类型: ✰ 人形, ⛨ 带盾",
+      "styleMappings": {
+        "Mob Types:": "怪物类型:",
+        "Humanoid": "人形",
+        "Shielded": "带盾",
+        "Mob Types": "怪物类型"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Golden Goblin": "黄金哥布林",
+    "(Monster)": "(怪物)",
+    "Goblin": "哥布林",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_SPELUNKER;2",
+  "_original_name": "Spelunker II Potion",
+  "_original_lore": [
+    "",
+    "Spelunker II (3:00)",
+    "Grants 10  Mining Fortune.",
+    "",
+    "COMMON"
+  ],
+  "name": "洞穴探险 II 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Spelunker II ({{N0}}:{{N1}})"
+      ],
+      "translation": "洞穴探险 II ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Spelunker II": "洞穴探险 II",
+        "II": "II"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}  Mining Fortune."
+      ],
+      "translation": "获得 {{N0}}   采矿幸运.",
+      "styleMappings": {
+        "Mining Fortune": "采矿幸运",
+        "Grants": "获得",
+        "Mining": "采矿",
+        "Fortune": "幸运",
+        " Mining Fortune": " 采矿幸运"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Spelunker II": "洞穴探险 II",
+    "II": "II"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

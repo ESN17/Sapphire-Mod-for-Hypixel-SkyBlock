@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "TREASURE_HOARDER_MONSTER",
+  "_original_name": "Treasure Hoarder (Monster)",
+  "_original_lore": [
+    "Treasure Hoarders are mobs that spawn in the",
+    "Upper Mines area of the Dwarven Mines. They",
+    "drop the Treasurite material used in the Forge.",
+    "",
+    "Mob Types: ✰ Humanoid, ⛏ Subterranean",
+    "❤ Health: 15,000"
+  ],
+  "name": "宝藏囤积者 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Treasure Hoarders are mobs that spawn in the",
+        "Upper Mines area of the Dwarven Mines. They",
+        "drop the Treasurite material used in the Forge."
+      ],
+      "translation": "宝藏囤积者是生成于矮人矿坑上层矿坑区域的怪物.它们掉落用于锻造所锻造的珍宝矿材料.",
+      "styleMappings": {
+        "Treasure": "宝藏",
+        "mobs": "怪物",
+        "Dwarven Mines": "矮人矿坑",
+        "Forge": "锻造所",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Mob Types: ✰ Humanoid, ⛏ Subterranean"
+      ],
+      "translation": "生物类型: ✰ 人形, ⛏ 地下",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Humanoid": "人形",
+        "Subterranean": "地下"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Treasure": "宝藏",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

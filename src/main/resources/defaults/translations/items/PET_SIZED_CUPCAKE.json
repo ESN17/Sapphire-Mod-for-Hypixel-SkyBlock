@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "id": "PET_SIZED_CUPCAKE",
+  "_original_name": "Pet-Sized Cupcake",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Feeding this delicious cupcake to a",
+    "Pet will instantly increase it to its",
+    "max Level!",
+    "",
+    "Beloved by pets of all shapes and",
+    "sizes, this is the ultimate party treat.",
+    "",
+    "Right-click on your summoned pet to",
+    "feed it!",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "宠物尺寸纸杯蛋糕",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Feeding this delicious cupcake to a",
+        "Pet will instantly increase it to its",
+        "max Level!"
+      ],
+      "translation": "将这个美味的纸杯蛋糕喂给宠物,会立即将其提升至最高等级!",
+      "styleMappings": {
+        "Pet": "宠物",
+        "Level": "等级"
+      }
+    },
+    {
+      "source": [
+        "Beloved by pets of all shapes and",
+        "sizes, this is the ultimate party treat."
+      ],
+      "translation": "深受各种形状和大小的宠物喜爱,这是终极派对美食.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click on your summoned pet to"
+      ],
+      "translation": "右键点击你召唤的宠物以",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "feed it!"
+      ],
+      "translation": "喂它!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Pet": "宠物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

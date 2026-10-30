@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "DIAMOND_GOBLIN_MONSTER",
+  "_original_name": "Diamond Goblin (Monster)",
+  "_original_lore": [
+    "The Diamond Goblin has a 3.33% chance ",
+    "to replace a Golden Goblin when it is spawned.",
+    "",
+    "Mob Types: ✰ Humanoid, ⛨ Shielded, ♣ Elusive",
+    "❤ Health: 5"
+  ],
+  "name": "钻石哥布林 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Diamond Goblin has a {{N0}} chance ",
+        "to replace a Golden Goblin when it is spawned."
+      ],
+      "translation": "钻石哥布林生成时有 {{N0}} 概率替换金哥布林.",
+      "styleMappings": {
+        "Diamond Goblin": "钻石哥布林",
+        "Golden Goblin": "金哥布林",
+        "chance": "概率",
+        "Goblin": "哥布林",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Mob Types: ✰ Humanoid, ⛨ Shielded, ♣ Elusive"
+      ],
+      "translation": "生物类型: ✰ 人形, ⛨ 护盾, ♣ 闪避",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Humanoid": "人形",
+        "Shielded": "护盾",
+        "Elusive": "闪避"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Diamond Goblin": "钻石哥布林",
+    "(Monster)": "(怪物)",
+    "Goblin": "哥布林",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

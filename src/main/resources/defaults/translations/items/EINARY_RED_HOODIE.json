@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "EINARY_RED_HOODIE",
+  "_original_name": "Einary's Red Hoodie",
+  "_original_lore": [
+    "Quest Item",
+    "",
+    "Lost but never forgotten. This was",
+    "Einary's favorite hoodie. Slip it on",
+    "and maybe you'll feel the love and",
+    "courage he left behind. Don't tell him",
+    "you wore it!",
+    "",
+    "RARE"
+  ],
+  "name": "Einary的红色连帽衫",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Quest Item"
+      ],
+      "translation": "任务物品",
+      "styleMappings": {
+        "Item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Lost but never forgotten. This was",
+        "Einary's favorite hoodie. Slip it on",
+        "and maybe you'll feel the love and",
+        "courage he left behind. Don't tell him",
+        "you wore it!"
+      ],
+      "translation": "虽已失去,却从未被遗忘.这是 Einary 最喜欢的连帽衫.穿上它,或许能感受到他留下的爱与勇气.别告诉他你穿过它!",
+      "styleMappings": {
+        "Einary's": "Einary",
+        "Einary": "Einary"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Einary's": "Einary",
+    "Red": "红色",
+    "Einary": "Einary"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

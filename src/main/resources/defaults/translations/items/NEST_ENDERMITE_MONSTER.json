@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "NEST_ENDERMITE_MONSTER",
+  "_original_name": "Nest Endermite (Monster)",
+  "_original_lore": [
+    "The Nest Endermite can be found while mining Ender Nodes.",
+    "They have a 33.21 chance to spawn from Endstone nodes,",
+    "and a 30.54% chance to spawn from Obsidian nodes.",
+    "",
+    "❤ Health: 4,500"
+  ],
+  "name": "巢穴末影螨 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Nest Endermite can be found while mining Ender Nodes."
+      ],
+      "translation": "挖掘末影节点时可以找到巢穴末影螨.",
+      "styleMappings": {
+        "Nest Endermite": "巢穴末影螨",
+        "Ender Nodes": "末影节点",
+        "Ender": "末影",
+        "Endermite": "末影螨"
+      }
+    },
+    {
+      "source": [
+        "They have a {{N0}} chance to spawn from Endstone nodes,",
+        "and a {{N1}} chance to spawn from Obsidian nodes."
+      ],
+      "translation": "它们有 {{N0}} 的概率从末地石节点中生成,有 {{N1}} 的概率从黑曜石节点中生成.",
+      "styleMappings": {
+        "chance to": "概率",
+        "Endstone": "末地石",
+        "Obsidian": "黑曜石",
+        "chance": "概率"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Nest Endermite": "巢穴末影螨",
+    "(Monster)": "(怪物)",
+    "Monster": "怪物",
+    "Endermite": "末影螨"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

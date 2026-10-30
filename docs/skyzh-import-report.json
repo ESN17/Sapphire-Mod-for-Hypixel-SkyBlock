@@ -1,0 +1,30 @@
+{
+  "upstream": "https://github.com/BingKKni/SkyBlockZH",
+  "commit": "b8565af0d1eb9a7e946b7cf6f69867d214c1ea75",
+  "license": "GPL-3.0-only",
+  "examined": {
+    "system": 2118,
+    "tooltip": 16744,
+    "gui": 908,
+    "npc": 9646
+  },
+  "imported": {
+    "gui": 395,
+    "npc": 956,
+    "system": 1066,
+    "tooltip": 6389
+  },
+  "npcNames": 139,
+  "skipped": {
+    "captured_style_incompatible": 204,
+    "unsupported_dynamic_type": 2894,
+    "upstream_not_verified_ingame": 15346,
+    "unreviewed_terms_or_invalid": 621,
+    "numbers_differ": 46,
+    "captured_text_differs": 73,
+    "icons_differ": 30,
+    "empty_preserved_or_continuation": 1248,
+    "dynamic_or_multiline": 101,
+    "conflicting_translations": 4
+  }
+}

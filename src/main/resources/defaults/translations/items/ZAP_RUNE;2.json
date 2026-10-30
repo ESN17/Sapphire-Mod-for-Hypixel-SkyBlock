@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ZAP_RUNE;2",
+  "_original_name": "◆ Zap Rune II",
+  "_original_lore": [
+    "Requires level 5",
+    "Boots",
+    "",
+    "Zap across the lands!",
+    "",
+    "Apply this rune to boots or fuse two",
+    "together at the Runic Pedestal!",
+    "",
+    "UNCOMMON COSMETIC"
+  ],
+  "name": "◆ 电击符文 II",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Requires level {{N0}}",
+        "Boots"
+      ],
+      "translation": "需要等级 {{N0}} 靴子",
+      "styleMappings": {
+        "Requires": "需要",
+        "Boots": "靴子"
+      }
+    },
+    {
+      "source": [
+        "Zap across the lands!"
+      ],
+      "translation": "电击横扫大地!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Apply this rune to boots or fuse two",
+        "together at the Runic Pedestal!"
+      ],
+      "translation": "将此符文应用于靴子,或在符文基座上将两个融合!",
+      "styleMappings": {
+        "Runic Pedestal": "符文基座",
+        "Runic": "符文"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON COSMETIC"
+      ],
+      "translation": "罕见 外观",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Zap Rune II": "电击符文 II",
+    "II": "II",
+    "Rune II": "符文 II"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

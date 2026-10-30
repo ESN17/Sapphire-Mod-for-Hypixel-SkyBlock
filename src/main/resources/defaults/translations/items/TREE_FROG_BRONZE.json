@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "TREE_FROG_BRONZE",
+  "_original_name": "Tree Frog BRONZE",
+  "_original_lore": [
+    "Caught while standing on leaves.",
+    "",
+    "Bring this to Researcher Ribery on",
+    "the Lotus Atoll.",
+    "",
+    "* Soulbound *",
+    "EPIC TROPHY"
+  ],
+  "name": "树蛙 青铜",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Caught while standing on leaves."
+      ],
+      "translation": "站在树叶上时钓到.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Bring this to Researcher Ribery on",
+        "the Lotus Atoll."
+      ],
+      "translation": "将此物交给莲花环礁上的 Researcher Ribery.",
+      "styleMappings": {
+        "Researcher Ribery": "Researcher Ribery",
+        "Lotus Atoll": "莲花环礁",
+        "Lotus": "莲花"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "EPIC TROPHY"
+      ],
+      "translation": "史诗奖杯",
+      "styleMappings": {
+        "EPIC TROPHY": "史诗奖杯",
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Tree Frog": "树蛙",
+    "BRONZE": "青铜",
+    "Tree": "树"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

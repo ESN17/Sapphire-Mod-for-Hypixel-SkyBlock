@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "WORM_BAIT",
+  "_original_name": "Worm Bait",
+  "_original_lore": [
+    "Fishing Bait",
+    "Consumes on Catch",
+    "",
+    "Grants +60 Fishing Speed but only",
+    "Worms will bite.",
+    "",
+    "Only works in the Crystal Hollows.",
+    "",
+    "UNCOMMON BAIT"
+  ],
+  "name": "蠕虫鱼饵",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Fishing Bait",
+        "Consumes on Catch"
+      ],
+      "translation": "钓鱼鱼饵 钓起时消耗",
+      "styleMappings": {
+        "Consumes on Catch": "钓起时消耗",
+        "Fishing Bait": "钓鱼鱼饵",
+        "Fishing": "钓鱼",
+        "Bait": "鱼饵"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Fishing Speed but only",
+        "Worms will bite."
+      ],
+      "translation": "提供 {{N0}} 钓鱼速度,但只有蠕虫会咬钩.",
+      "styleMappings": {
+        "Fishing Speed": "钓鱼速度",
+        "Grants": "提供",
+        "Worms": "蠕虫",
+        "Fishing": "钓鱼",
+        "Speed": "速度",
+        " Fishing Speed": " 钓鱼速度"
+      }
+    },
+    {
+      "source": [
+        "Only works in the Crystal Hollows."
+      ],
+      "translation": "仅在水晶洞窟中生效.",
+      "styleMappings": {
+        "Crystal Hollows": "水晶洞窟",
+        "Crystal": "水晶"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON BAIT"
+      ],
+      "translation": "罕见鱼饵",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Bait": "鱼饵"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

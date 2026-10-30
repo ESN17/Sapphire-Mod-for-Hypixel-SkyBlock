@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "VANQUISHER_MONSTER",
+  "_original_name": "Vanquisher (Monster)",
+  "_original_lore": [
+    "❤ Health: 10,000,000"
+  ],
+  "name": "征服者 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Vanquisher": "征服者",
+    "(Monster)": "(怪物)",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

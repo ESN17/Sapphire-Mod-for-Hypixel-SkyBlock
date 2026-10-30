@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "id": "FISH_FOOD",
+  "_original_name": "Fish Food",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Despite its name, can be given to any",
+    "pet! Feeding this to your pet will not",
+    "increase its candy count.",
+    "",
+    "Grants 2,000 Pet EXP.",
+    "",
+    "Right-click on your summoned pet to",
+    "feed it!",
+    "",
+    "COMMON"
+  ],
+  "name": "鱼食",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Despite its name, can be given to any",
+        "pet! Feeding this to your pet will not",
+        "increase its candy count."
+      ],
+      "translation": "尽管名字如此,它可以喂给任何宠物!喂给你的宠物不会增加其糖果数量.",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Pet EXP."
+      ],
+      "translation": "给予 {{N0}} 宠物经验.",
+      "styleMappings": {
+        "Pet EXP": "宠物经验",
+        "Grants": "给予",
+        "Pet": "宠物",
+        "EXP": "经验"
+      }
+    },
+    {
+      "source": [
+        "Right-click on your summoned pet to"
+      ],
+      "translation": "右键点击你召唤的宠物以",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "feed it!"
+      ],
+      "translation": "喂它!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fish Food": "鱼食",
+    "Fish": "鱼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

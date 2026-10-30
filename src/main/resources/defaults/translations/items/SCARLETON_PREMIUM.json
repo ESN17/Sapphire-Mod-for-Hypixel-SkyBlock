@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "SCARLETON_PREMIUM",
+  "_original_name": "Scarleton Premium",
+  "_original_lore": [
+    "Basic Brew",
+    "",
+    "Use this item in place of an",
+    "Awkward Potion for certain",
+    "potions.",
+    "",
+    "Increases the effect of Wounded",
+    "Potions by 10%.",
+    "",
+    "RARE"
+  ],
+  "name": "斯卡雷顿 高级版",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Basic Brew"
+      ],
+      "translation": "基础酿造",
+      "styleMappings": {
+        "Basic": "基础"
+      }
+    },
+    {
+      "source": [
+        "Use this item in place of an",
+        "Awkward Potion for certain",
+        "potions."
+      ],
+      "translation": "在酿造某些药水时,用此物品代替粗制药水.",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Increases the effect of Wounded",
+        "Potions by {{N0}}."
+      ],
+      "translation": "使创伤药水的效果提升 {{N0}}.",
+      "styleMappings": {
+        "Wounded Potions": "创伤药水",
+        "Potions": "药水"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Scarleton": "斯卡雷顿"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

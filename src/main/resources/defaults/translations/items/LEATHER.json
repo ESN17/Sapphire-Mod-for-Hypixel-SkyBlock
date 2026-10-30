@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "LEATHER",
+  "_original_name": "Leather",
+  "_original_lore": [
+    "Collection Item",
+    "",
+    "COMMON"
+  ],
+  "name": "皮革",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Collection Item"
+      ],
+      "translation": "收藏品",
+      "styleMappings": {
+        "Collection": "收藏"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Leather": "皮革"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

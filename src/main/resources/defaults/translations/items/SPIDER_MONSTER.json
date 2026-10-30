@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "SPIDER_MONSTER",
+  "_original_name": "Spider (Monster)",
+  "_original_lore": [
+    "Likes to climb.",
+    "",
+    "❤ Health: 120 - 849"
+  ],
+  "name": "蜘蛛 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Likes to climb."
+      ],
+      "translation": "喜欢攀爬.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}} - {{N1}}"
+      ],
+      "translation": "❤ 生命值: {{N0}} - {{N1}}",
+      "styleMappings": {
+        "Health": "生命值",
+        "-": "-"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Spider": "蜘蛛",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

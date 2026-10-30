@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "UNDEAD_BOW",
+  "_original_name": "Undead Bow",
+  "_original_lore": [
+    "Gear Score: 80",
+    "Damage: +80",
+    "",
+    "Deals +100% damage to  Undead",
+    "mobs.",
+    "",
+    "This item can be reforged!",
+    "RARE DUNGEON BOW"
+  ],
+  "name": "亡灵弓",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Deals {{N0}} damage to  Undead",
+        "mobs."
+      ],
+      "translation": "对 亡灵生物造成 {{N0}} 伤害.",
+      "styleMappings": {
+        "Undead": "亡灵",
+        "damage": "伤害",
+        "Deals": "造成",
+        "mobs": "生物",
+        "mobs.": "伤害."
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "RARE DUNGEON BOW"
+      ],
+      "translation": "稀有 地牢 弓",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Undead": "亡灵",
+    "Bow": "弓"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

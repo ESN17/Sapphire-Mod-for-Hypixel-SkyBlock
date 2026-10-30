@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "FINE_SAPPHIRE_GEM",
+  "_original_name": " Fine Sapphire Gemstone",
+  "_original_lore": [
+    "Collection Item",
+    "",
+    "A type of Sapphire that has clearly",
+    "been treated with care.",
+    "",
+    "Some say that when harnessed",
+    "properly, it can give its owner extra",
+    " Intelligence.",
+    "",
+    "RARE GEMSTONE"
+  ],
+  "name": " 精致蓝宝石",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Collection Item"
+      ],
+      "translation": "收藏品",
+      "styleMappings": {
+        "Collection Item": "收藏品"
+      }
+    },
+    {
+      "source": [
+        "A type of Sapphire that has clearly",
+        "been treated with care."
+      ],
+      "translation": "经过精心加工的蓝宝石.",
+      "styleMappings": {
+        "Sapphire": "蓝宝石"
+      }
+    },
+    {
+      "source": [
+        "Some say that when harnessed",
+        "properly, it can give its owner extra",
+        " Intelligence."
+      ],
+      "translation": "据说,运用得当时,它能为持有者提供额外的  智力.",
+      "styleMappings": {
+        "harnessed properly": "运用得当",
+        " Intelligence": " 智力"
+      }
+    },
+    {
+      "source": [
+        "RARE GEMSTONE"
+      ],
+      "translation": "稀有宝石",
+      "styleMappings": {
+        "RARE": "稀有",
+        "GEMSTONE": "宝石"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fine": "精致",
+    "Sapphire Gemstone": "蓝宝石"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

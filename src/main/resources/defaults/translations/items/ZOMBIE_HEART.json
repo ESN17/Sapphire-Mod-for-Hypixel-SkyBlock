@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "ZOMBIE_HEART",
+  "_original_name": "Zombie's Heart",
+  "_original_lore": [
+    "Health: +50",
+    "Vitality: +30",
+    "Mending: +30",
+    "",
+    "This item is Undead !",
+    "",
+    "This item can be reforged!",
+    "RARE HELMET"
+  ],
+  "name": "僵尸之心",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Vitality: {{N0}}"
+      ],
+      "translation": "生命恢复: {{N0}}",
+      "styleMappings": {
+        "Vitality": "生命恢复"
+      }
+    },
+    {
+      "source": [
+        "Mending: {{N0}}"
+      ],
+      "translation": "修复:{{N0}}",
+      "styleMappings": {
+        "Mending": "修复"
+      }
+    },
+    {
+      "source": [
+        "This item is Undead !"
+      ],
+      "translation": "此物品属于亡灵 !",
+      "styleMappings": {
+        "Undead": "亡灵",
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "RARE HELMET"
+      ],
+      "translation": "稀有头盔",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Zombie": "僵尸"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

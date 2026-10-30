@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "TIC_TAC_TOE",
+  "_original_name": "Tic Tac Toe",
+  "_original_lore": [
+    "Click another player to initiate a",
+    "game of Tic Tac Toe!",
+    "",
+    "❣ Requires Social Skill 6.",
+    "UNCOMMON"
+  ],
+  "name": "井字棋",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Click another player to initiate a",
+        "game of Tic Tac Toe!"
+      ],
+      "translation": "点击另一名玩家来开始一局井字棋!",
+      "styleMappings": {
+        "another player": "另一名玩家",
+        "Tic Tac Toe": "井字棋",
+        "player": "玩家"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Social Skill {{N0}}."
+      ],
+      "translation": "❣ 需要社交技能 {{N0}}.",
+      "styleMappings": {
+        "Requires": "需要",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Tic Tac Toe": "井字棋"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

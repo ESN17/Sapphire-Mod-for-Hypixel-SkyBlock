@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "id": "SPIRIT_MASK",
+  "_original_name": "Spirit Mask",
+  "_original_lore": [
+    "Gear Score: 230",
+    "Health: +100",
+    "Defense: +50",
+    "Intelligence: +20",
+    "Speed: +15",
+    "",
+    "Ability: Second Wind ",
+    "Instead of dying, gain +50 Speed",
+    "and damage immunity for 3 seconds.",
+    "Cooldown: 30s",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Catacombs Skill 15.",
+    "❣ Requires Master Mode The Catacombs Floor IV",
+    "Completion.",
+    "EPIC DUNGEON HELMET"
+  ],
+  "name": "灵魂面具",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Ability: Second Wind "
+      ],
+      "translation": "能力:重生之风 ",
+      "styleMappings": {
+        "Ability": "能力"
+      }
+    },
+    {
+      "source": [
+        "Instead of dying, gain {{N0}} Speed",
+        "and damage immunity for {{N1}} seconds."
+      ],
+      "translation": "死亡时,改为获得 {{N0}} 速度,并在 {{N1}} 秒内免疫伤害.",
+      "styleMappings": {
+        "immunity": "免疫",
+        "seconds": "秒",
+        " Speed": " 速度",
+        "damage": "伤害",
+        "for": "获得",
+        "Speed": "速度",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Catacombs Skill {{N0}}."
+      ],
+      "translation": "❣ 需要地牢技能 {{N0}}.",
+      "styleMappings": {
+        "Requires": "需要",
+        "Catacombs": "地牢",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Master Mode The Catacombs Floor IV"
+      ],
+      "translation": "❣ 需要大师模式 地牢 IV 层",
+      "styleMappings": {
+        "Master Mode": "大师模式",
+        "Catacombs": "地牢",
+        "Requires": "需要",
+        "The Catacombs": "地牢",
+        "Master": "大师"
+      }
+    },
+    {
+      "source": [
+        "Completion."
+      ],
+      "translation": "完成.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC DUNGEON HELMET"
+      ],
+      "translation": "史诗 地牢 头盔",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Spirit Mask": "灵魂面具",
+    "Spirit": "灵魂",
+    "Mask": "面具"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "id": "TRIPLE_STRIKE;4",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Triple-Strike IV",
+    "Increases melee damage dealt by",
+    "40% for the first three hits",
+    "on a mob.",
+    "",
+    "Sources:",
+    " - Enchantment Table (I-IV)",
+    " - Experiments (I-V)",
+    " - Bazaar (V)",
+    "",
+    "Applied To:",
+    " - Sword",
+    " - Longsword",
+    " - Gauntlet",
+    "",
+    "Requirements:",
+    " - Enchanting Level 19",
+    "",
+    "Conflicts:",
+    " - First Strike",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Triple-Strike IV"
+      ],
+      "translation": "三重打击 IV",
+      "styleMappings": {
+        "Triple-Strike": "三重打击"
+      }
+    },
+    {
+      "source": [
+        "Increases melee damage dealt by",
+        "{{N0}} for the first three hits",
+        "on a mob."
+      ],
+      "translation": "对怪物前三次攻击造成的近战伤害提高 {{N0}}.",
+      "styleMappings": {
+        "melee damage": "近战伤害",
+        "damage": "伤害",
+        "first": "前"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchantment Table (I-IV)",
+        " - Experiments (I-V)",
+        " - Bazaar (V)"
+      ],
+      "translation": " - 附魔台 (I-IV)  - 实验 (I-V)  - 集市 (V)",
+      "styleMappings": {
+        "Enchantment Table": "附魔台",
+        "Experiments": "实验",
+        "Bazaar": "集市",
+        "I-V": "I-V",
+        "Enchantment": "附魔"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Sword",
+        " - Longsword",
+        " - Gauntlet"
+      ],
+      "translation": " - 剑  - 长剑  - 护手",
+      "styleMappings": {
+        "Sword": "剑",
+        "Longsword": "长剑",
+        "Gauntlet": "护手"
+      }
+    },
+    {
+      "source": [
+        "Requirements:"
+      ],
+      "translation": "需求:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchanting Level {{N0}}"
+      ],
+      "translation": " - 附魔等级 {{N0}}",
+      "styleMappings": {
+        "Enchanting Level": "附魔等级"
+      }
+    },
+    {
+      "source": [
+        "Conflicts:"
+      ],
+      "translation": "冲突:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - First Strike"
+      ],
+      "translation": " - 一次打击",
+      "styleMappings": {
+        "First Strike": "一次打击"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "PROFESSOR_BOSS",
+  "_original_name": "The Professor (Boss)",
+  "_original_lore": [
+    "The Professor is the boss of Floor 3 of the Catacombs.",
+    "He is a 'Professor' and has three phases. In the 1st he",
+    "spawns 4 Guardians and creates a barrier. After they are",
+    "killed, he attacks the player. Once he is at 25% health,",
+    "he will merge with his guardians and continue to fight.",
+    "",
+    "❤ Health: 3,000.000",
+    "❤ Health (MM): 600.000.000"
+  ],
+  "name": "教授 (首领)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Professor is the boss of Floor {{N0}} of the Catacombs."
+      ],
+      "translation": "教授是地牢第 {{N0}} 层的首领.",
+      "styleMappings": {
+        "The Professor": "教授",
+        "Catacombs": "地牢",
+        "the Catacombs": "地牢"
+      }
+    },
+    {
+      "source": [
+        "He is a 'Professor' and has three phases. In the {{N0}}st he",
+        "spawns {{N1}} Guardians and creates a barrier. After they are",
+        "killed, he attacks the player. Once he is at {{N2}} health,",
+        "he will merge with his guardians and continue to fight."
+      ],
+      "translation": "他是一位“教授”,共有三个阶段.在 {{N0}} 阶段,他会生成 {{N1}} 个守护者并制造一道屏障.它们被击杀后,他会攻击玩家.当他的生命值降至 {{N2}} 时,他会与守护者融合并继续战斗.",
+      "styleMappings": {
+        "health": "生命值",
+        "player": "玩家",
+        "phases": "阶段"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "❤ Health (MM): {{N0}}.{{N1}}"
+      ],
+      "translation": "❤ 生命值 (MM): {{N0}}.{{N1}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Boss": "首领",
+    "The Professor": "教授"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

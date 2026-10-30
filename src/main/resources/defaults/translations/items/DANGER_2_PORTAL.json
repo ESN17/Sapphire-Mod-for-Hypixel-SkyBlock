@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "DANGER_2_PORTAL",
+  "_original_name": "Portal to the Crimson Isle",
+  "_original_lore": [
+    "Placing this item on your private",
+    "island will create a portal to the",
+    "Crimson Isle for you to use",
+    "whenever you want!",
+    "",
+    "The portal will spawn facing you on",
+    "the block you click on.",
+    "",
+    "COMMON PORTAL"
+  ],
+  "name": "绯红岛传送门",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Placing this item on your private",
+        "island will create a portal to the",
+        "Crimson Isle for you to use",
+        "whenever you want!"
+      ],
+      "translation": "将此物品放置在你的私人岛屿上会创建一个通往绯红之岛的传送门,你可以随时使用!",
+      "styleMappings": {
+        "private island": "私人岛屿",
+        "Crimson Isle": "绯红之岛",
+        "portal to": "通往",
+        "item": "物品",
+        "Placing this item on your private": "将此物品放置在你的私人",
+        "island": "岛屿上"
+      }
+    },
+    {
+      "source": [
+        "The portal will spawn facing you on",
+        "the block you click on."
+      ],
+      "translation": "传送门将生成在你点击的方块上并面向你.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "COMMON PORTAL"
+      ],
+      "translation": "普通传送门",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Portal to the Crimson Isle": "绯红岛传送门"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

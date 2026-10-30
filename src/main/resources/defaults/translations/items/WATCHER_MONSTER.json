@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "WATCHER_MONSTER",
+  "_original_name": "Seer (Monster)",
+  "_original_lore": [
+    "The Seer is a naturally-spawning skeleton in The End.",
+    "They are Level 55 and have what appears to be a",
+    "Summoning Eye on their head. They are often found near",
+    "the middle and back areas.",
+    "",
+    "Mob Type: ⊙ Ender",
+    "❤ Health: 9,500",
+    "❁ Damage: 500"
+  ],
+  "name": "预言家 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Seer is a naturally-spawning skeleton in The End."
+      ],
+      "translation": "预言者是末地中自然生成的骷髅.",
+      "styleMappings": {
+        "The End": "末地",
+        "End": "末地"
+      }
+    },
+    {
+      "source": [
+        "They are Level {{N0}} and have what appears to be a",
+        "Summoning Eye on their head. They are often found near",
+        "the middle and back areas."
+      ],
+      "translation": "它们是 {{N0}} 级,头上似乎有一个召唤之眼.它们经常出现在中部和后部区域附近.",
+      "styleMappings": {
+        "Summoning Eye": "召唤之眼",
+        "Level": "级"
+      }
+    },
+    {
+      "source": [
+        "Mob Type: ⊙ Ender"
+      ],
+      "translation": "生物类型: ⊙ 末影",
+      "styleMappings": {
+        "Mob Type": "生物类型",
+        "Ender": "末影"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "❁ Damage: {{N0}}"
+      ],
+      "translation": "❁ 伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "id": "MEDIUM_GEMSTONE_SACK",
+  "_original_name": "Medium Gemstone Sack",
+  "_original_lore": [
+    "Holds Gemstones of all types and",
+    "tiers! Items you pickup go directly",
+    "into your sacks.",
+    "",
+    "Capacity: 512,000 of each gemstone type",
+    "Multiple sacks sum their capacity!",
+    "",
+    "Right Click to open!",
+    "",
+    "RARE SACK"
+  ],
+  "name": "中型宝石袋",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Holds Gemstones of all types and",
+        "tiers! Items you pickup go directly",
+        "into your sacks."
+      ],
+      "translation": "可存放所有类型和等级的宝石!你拾取的物品会直接进入你的袋子.",
+      "styleMappings": {
+        "Gemstones": "宝石"
+      }
+    },
+    {
+      "source": [
+        "Capacity: {{N0}} of each gemstone type"
+      ],
+      "translation": "容量:每种宝石 {{N0}}",
+      "styleMappings": {
+        "Capacity": "容量"
+      }
+    },
+    {
+      "source": [
+        "Multiple sacks sum their capacity!"
+      ],
+      "translation": "多个袋子会叠加其容量!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right Click to open!"
+      ],
+      "translation": "右键点击打开!",
+      "styleMappings": {
+        "Click to open!": "点击打开!",
+        "Right Click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "RARE SACK"
+      ],
+      "translation": "稀有袋子",
+      "styleMappings": {
+        "RARE SACK": "稀有袋子",
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Gemstone": "宝石"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

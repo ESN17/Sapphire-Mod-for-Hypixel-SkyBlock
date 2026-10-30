@@ -1,0 +1,142 @@
+{
+  "schemaVersion": 1,
+  "id": "DIAMOND_ATOM",
+  "_original_name": "Diamond Atom",
+  "_original_lore": [
+    "Reforge Stone",
+    "Combinable in Anvil",
+    "",
+    "Applies the Perfect reforge when",
+    "combined with Armor.",
+    "",
+    "This miniscule stone is the dream of",
+    "every blacksmith.",
+    "",
+    "Grants the following stats that scale",
+    "with the item's rarity:",
+    "  Defense",
+    "",
+    "Perfect Bonus",
+    "Grants +2%  Defense.",
+    "",
+    "Right-click to view rarity scaling!",
+    "",
+    "❣ Requires Mining Skill 22.",
+    "",
+    "RARE REFORGE STONE"
+  ],
+  "name": "钻石原子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Reforge Stone",
+        "Combinable in Anvil"
+      ],
+      "translation": "洗练石 可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Reforge Stone": "洗练石",
+        "Anvil": "铁砧",
+        "Reforge": "洗练"
+      }
+    },
+    {
+      "source": [
+        "Applies the Perfect reforge when",
+        "combined with Armor."
+      ],
+      "translation": "与盔甲结合时施加完美洗练.",
+      "styleMappings": {
+        "Perfect": "完美",
+        "Armor": "盔甲",
+        "reforge": "洗练",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "This miniscule stone is the dream of",
+        "every blacksmith."
+      ],
+      "translation": "这颗微小的石头是每位铁匠的梦想.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants the following stats that scale"
+      ],
+      "translation": "提供以下随物品稀有度提升的属性:",
+      "styleMappings": {
+        "Grants": "提供",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "with the item's rarity:"
+      ],
+      "translation": "物品稀有度提升的属性:",
+      "styleMappings": {
+        "item": "物品",
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "  Defense"
+      ],
+      "translation": "   防御",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Perfect Bonus",
+        "Grants {{N0}}  Defense."
+      ],
+      "translation": "完美加成 提供 {{N0}} 防御.",
+      "styleMappings": {
+        "Perfect Bonus": "完美加成",
+        " Defense": " 防御",
+        "Grants": "提供",
+        "Defense": "防御",
+        "Bonus": "加成",
+        "Perfect": "完美"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view rarity scaling!"
+      ],
+      "translation": "右键查看各稀有度的属性!",
+      "styleMappings": {
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Mining Skill {{N0}}."
+      ],
+      "translation": "❣ 需要采矿技能 {{N0}}.",
+      "styleMappings": {
+        "Mining Skill": "采矿技能",
+        "Requires": "需要",
+        "Mining": "采矿",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "RARE REFORGE STONE"
+      ],
+      "translation": "稀有 洗练石",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

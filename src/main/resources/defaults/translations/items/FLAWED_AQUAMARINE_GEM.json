@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "id": "FLAWED_AQUAMARINE_GEM",
+  "_original_name": " Flawed Aquamarine Gemstone",
+  "_original_lore": [
+    "Collection Item",
+    "",
+    "A slightly better version of",
+    "Aquamarine, but it could still use",
+    "some work.",
+    "",
+    "Some say that when harnessed",
+    "properly, it can give its owner extra",
+    " Fishing Speed; others say it might",
+    "grant an additional charge.",
+    "",
+    "UNCOMMON GEMSTONE"
+  ],
+  "name": " 瑕疵海蓝宝石",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Collection Item"
+      ],
+      "translation": "收藏品",
+      "styleMappings": {
+        "Collection Item": "收藏品"
+      }
+    },
+    {
+      "source": [
+        "A slightly better version of",
+        "Aquamarine, but it could still use",
+        "some work."
+      ],
+      "translation": "品质稍有提升的海蓝宝石,但仍需进一步打磨.",
+      "styleMappings": {
+        "Aquamarine": "海蓝宝石"
+      }
+    },
+    {
+      "source": [
+        "Some say that when harnessed",
+        "properly, it can give its owner extra",
+        " Fishing Speed; others say it might",
+        "grant an additional charge."
+      ],
+      "translation": "据说,运用得当时,它能为持有者提供额外的  钓鱼速度;也有人说它能提供额外充能.",
+      "styleMappings": {
+        "harnessed properly": "运用得当",
+        " Fishing Speed": " 钓鱼速度",
+        "additional charge": "额外充能"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON GEMSTONE"
+      ],
+      "translation": "罕见宝石",
+      "styleMappings": {
+        "UNCOMMON": "罕见",
+        "GEMSTONE": "宝石"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Flawed": "瑕疵",
+    "Aquamarine Gemstone": "海蓝宝石"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

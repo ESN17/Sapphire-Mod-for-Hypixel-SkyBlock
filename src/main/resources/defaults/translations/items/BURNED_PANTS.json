@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "BURNED_PANTS",
+  "_original_name": "Burned Pants",
+  "_original_lore": [
+    "Rift Time: -4s",
+    "",
+    "Maybe encouraging him wasn't a",
+    "great idea.",
+    "",
+    "RARE LEGGINGS"
+  ],
+  "name": "烧焦的裤子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Rift Time: {{N0}}s"
+      ],
+      "translation": "裂隙时间: {{N0}}秒",
+      "styleMappings": {
+        "Rift Time": "裂隙时间",
+        "{{N0}}s": "{{N0}}秒",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "Maybe encouraging him wasn't a",
+        "great idea."
+      ],
+      "translation": "也许鼓励他并不是个好主意.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE LEGGINGS"
+      ],
+      "translation": "稀有 护腿",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

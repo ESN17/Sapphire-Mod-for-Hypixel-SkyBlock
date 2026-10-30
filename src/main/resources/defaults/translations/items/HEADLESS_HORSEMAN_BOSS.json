@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "id": "HEADLESS_HORSEMAN_BOSS",
+  "_original_name": "Headless Horseman (Boss)",
+  "_original_lore": [
+    "The Headless Horseman is a boss that can only",
+    "be spawned by buying the horseman's candle from",
+    "the Fear Mongerer during the Spooky Festival.",
+    "It can be spawned at any time during the night",
+    "in the Graveyard or the Wilderness. ",
+    "",
+    "Mob Types: ☽ Spooky, 🦴 Skeletal, ☮ Animal",
+    "❤ Health: 3,000,000"
+  ],
+  "name": "无头骑士 (首领)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Headless Horseman is a boss that can only",
+        "be spawned by buying the horseman's candle from",
+        "the Fear Mongerer during the Spooky Festival."
+      ],
+      "translation": "无头骑士是一个只能在幽灵节期间从 Fear Mongerer 处购买无头骑士蜡烛来生成的首领.",
+      "styleMappings": {
+        "Spooky Festival": "幽灵节",
+        "Fear Mongerer": "Fear Mongerer",
+        "s": "一",
+        "Spooky": "幽灵"
+      }
+    },
+    {
+      "source": [
+        "It can be spawned at any time during the night",
+        "in the Graveyard or the Wilderness. "
+      ],
+      "translation": "它可以在夜晚的任何时候在墓园或荒野中生成. ",
+      "styleMappings": {
+        "Graveyard": "墓园",
+        "Wilderness": "荒野",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Mob Types: ☽ Spooky, 🦴 Skeletal, ☮ Animal"
+      ],
+      "translation": "生物类型: ☽ 幽灵, 🦴 骷髅, ☮ 动物",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Skeletal": "骷髅",
+        "Animal": "动物",
+        "Spooky": "幽灵"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Boss": "首领"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

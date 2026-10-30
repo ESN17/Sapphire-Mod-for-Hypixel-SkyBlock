@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": "DEEPTERROR_MIXIN",
+  "_original_name": "Deepterror Mixin",
+  "_original_lore": [
+    "Brewing Ingredient",
+    "",
+    "Mixins provide a buff that can be",
+    "added to God Potions in a brewing",
+    "stand and lasts for the full duration.",
+    "",
+    "Gain +210 Health and +40",
+    "Defense in The End and the Crimson",
+    "Isle.",
+    "",
+    "Duration: 36h 0m",
+    "",
+    "The duration of Mixins can be stacked!",
+    "",
+    "Right-click to consume!",
+    "(Requires active Booster Cookie)",
+    "",
+    "RARE"
+  ],
+  "name": "深渊恐惧混合物",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Brewing Ingredient"
+      ],
+      "translation": "酿造材料",
+      "styleMappings": {
+        "Brewing Ingredient": "酿造材料"
+      }
+    },
+    {
+      "source": [
+        "Mixins provide a buff that can be",
+        "added to God Potions in a brewing",
+        "stand and lasts for the full duration."
+      ],
+      "translation": "添加剂提供一种增益,可在酿造台中添加到神药水中,并持续完整时长.",
+      "styleMappings": {
+        "God Potions": "神药水",
+        "lasts": "持续",
+        "for": "持续",
+        "Potions": "药水"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}} Health and {{N1}}",
+        "Defense in The End and the Crimson",
+        "Isle."
+      ],
+      "translation": "在末地和绯红之岛获得 {{N0}} 生命和 {{N1}} 防御.",
+      "styleMappings": {
+        "Crimson Isle": "绯红之岛",
+        " Defense": " 防御",
+        " Health": " 生命",
+        "The End": "末地",
+        "Gain": "获得",
+        "Health": "生命",
+        "Defense": "防御",
+        "End": "末地"
+      }
+    },
+    {
+      "source": [
+        "Duration: {{N0}}h {{N1}}m"
+      ],
+      "translation": "持续时间: {{N0}}小时 {{N1}}分钟",
+      "styleMappings": {
+        "Duration": "持续时间",
+        "{{N0}}h": "{{N0}}小时",
+        "{{N1}}m": "{{N1}}分钟"
+      }
+    },
+    {
+      "source": [
+        "The duration of Mixins can be stacked!"
+      ],
+      "translation": "添加剂的持续时间可以叠加!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "(Requires active Booster Cookie)"
+      ],
+      "translation": "(需要激活的增益曲奇)",
+      "styleMappings": {
+        "Booster Cookie": "增益曲奇",
+        "Requires": "需要",
+        "Cookie": "曲奇"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Deepterror Mixin": "深渊恐惧混合物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

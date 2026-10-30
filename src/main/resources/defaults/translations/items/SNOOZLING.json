@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "SNOOZLING",
+  "_original_name": "Snoozling",
+  "_original_lore": [
+    "This sluggish plant takes its sweet",
+    "time to grow. Every now and then,",
+    "you'll need to give it a little nudge",
+    "(or punch) to keep it from dozing",
+    "off for too long.",
+    "",
+    "Complete Visitor Beth's quest to",
+    "Analyze this crop!",
+    "",
+    "RARE MUTATION"
+  ],
+  "name": "瞌睡芽",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "This sluggish plant takes its sweet",
+        "time to grow. Every now and then,",
+        "you'll need to give it a little nudge",
+        "(or punch) to keep it from dozing",
+        "off for too long."
+      ],
+      "translation": "这种懒散的植物生长得慢悠悠的.时不时你得推它一把(或者揍它一下),免得它睡太久.",
+      "styleMappings": {
+        "plant": "植物"
+      }
+    },
+    {
+      "source": [
+        "Complete Visitor Beth's quest to",
+        "Analyze this crop!"
+      ],
+      "translation": "完成访客 Beth 的任务来分析这种作物!",
+      "styleMappings": {
+        "Visitor": "访客",
+        "Beth's": "Beth 的",
+        "Analyze": "分析"
+      }
+    },
+    {
+      "source": [
+        "RARE MUTATION"
+      ],
+      "translation": "稀有突变",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

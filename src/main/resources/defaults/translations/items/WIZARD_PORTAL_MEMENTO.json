@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "WIZARD_PORTAL_MEMENTO",
+  "_original_name": "Piece of Wizard Portal",
+  "_original_lore": [
+    "Commemorates your participation in",
+    "the Repair Wizard Portal city project.",
+    "",
+    "Earned by: [MVP+] lrg89",
+    "Edition 1",
+    "May 28th 2023",
+    "",
+    "Memento acquirer name becomes",
+    "hidden if traded.",
+    "",
+    "SPECIAL MEMENTO"
+  ],
+  "name": "巫师传送门碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Commemorates your participation in",
+        "the Repair Wizard Portal city project."
+      ],
+      "translation": "纪念你参与了修复巫师塔传送门的城市项目.",
+      "styleMappings": {
+        "Repair Wizard Portal": "修复巫师塔传送门",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Earned by: [MVP+] lrg{{N0}}"
+      ],
+      "translation": "获得者:[尊贵贵宾+] 艾尔阿尔吉{{N0}}",
+      "styleMappings": {
+        "MVP": "尊贵贵宾",
+        "lrg{{N0}}": "艾尔阿尔吉{{N0}}"
+      }
+    },
+    {
+      "source": [
+        "Edition {{N0}}",
+        "May {{N1}}th {{N2}}"
+      ],
+      "translation": "第 {{N0}} 版 {{N1}} 月 {{N2}} 日",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Memento acquirer name becomes",
+        "hidden if traded."
+      ],
+      "translation": "纪念品获得者名称在交易后会被隐藏.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "SPECIAL MEMENTO"
+      ],
+      "translation": "特殊纪念品",
+      "styleMappings": {
+        "SPECIAL MEMENTO": "特殊纪念品",
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

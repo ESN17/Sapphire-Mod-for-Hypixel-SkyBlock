@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "id": "SNIPER_HELMET",
+  "_original_name": "Sniper Helmet",
+  "_original_lore": [
+    "Gear Score: 120",
+    "Health: +100",
+    "Defense: +10",
+    "",
+    "Increases the damage your arrows",
+    "deal by 1% for every 2 blocks",
+    "traveled above 20 blocks.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Catacombs Skill 8.",
+    "RARE DUNGEON HELMET"
+  ],
+  "name": "狙击头盔",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Increases the damage your arrows",
+        "deal by {{N0}} for every {{N1}} blocks",
+        "traveled above {{N2}} blocks."
+      ],
+      "translation": "每当你移动超过 {{N2}} 格后,每移动 {{N1}} 格,你的箭矢伤害提高 {{N0}}.",
+      "styleMappings": {
+        "Increases the damage your arrows deal": "你的箭矢伤害提高",
+        "blocks traveled above": "格后,每移动",
+        "blocks": "格",
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Catacombs Skill {{N0}}."
+      ],
+      "translation": "❣ 需要地牢技能 {{N0}}.",
+      "styleMappings": {
+        "Requires": "需要",
+        "Catacombs": "地牢",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "RARE DUNGEON HELMET"
+      ],
+      "translation": "稀有 地牢 头盔",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sniper Helmet": "狙击头盔",
+    "Helmet": "头盔"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

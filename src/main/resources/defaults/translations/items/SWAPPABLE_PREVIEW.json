@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "SWAPPABLE_PREVIEW",
+  "_original_name": "Swappable Preview (Click)",
+  "_original_lore": [
+    "Cycle between all the variations of",
+    "the selected preview!",
+    "",
+    "Left-Click to select a skin!",
+    "Right-Click to preview next skin!"
+  ],
+  "name": "可交换预览 (点击)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Cycle between all the variations of",
+        "the selected preview!"
+      ],
+      "translation": "在所选预览的所有变体之间循环切换!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Left-Click to select a skin!"
+      ],
+      "translation": "左键点击选择皮肤!",
+      "styleMappings": {
+        "Left-Click": "左键点击"
+      }
+    },
+    {
+      "source": [
+        "Right-Click to preview next skin!"
+      ],
+      "translation": "右键点击预览下一个皮肤!",
+      "styleMappings": {
+        "Right-Click": "右键点击"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Swappable Preview": "可交换预览",
+    "(Click)": "(点击)"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "WIKI_JOURNAL",
+  "_original_name": "Wiki Journal",
+  "_original_lore": [
+    "Given to special members of",
+    "the community who assisted in",
+    "the creation of the Official",
+    "Hypixel Wiki!",
+    "",
+    "Awarded To: Unknown",
+    "From: Unknown",
+    "Date: 1st January 1970",
+    "",
+    "Right-Click to view contributions!",
+    "",
+    "* Co-op Soulbound *",
+    "SPECIAL"
+  ],
+  "name": "百科日志",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Given to special members of",
+        "the community who assisted in",
+        "the creation of the Official",
+        "Hypixel Wiki!"
+      ],
+      "translation": "授予协助创建官方海像素百科的社区特别成员!",
+      "styleMappings": {
+        "Official Hypixel Wiki": "官方海像素百科",
+        "Hypixel": "海像素",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Awarded To: Unknown"
+      ],
+      "translation": "授予:未知",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "From: Unknown"
+      ],
+      "translation": "来自:未知",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Date: {{N0}}st January {{N1}}"
+      ],
+      "translation": "日期: {{N0}}日一月 {{N1}}",
+      "styleMappings": {
+        "st January": "日一月",
+        "Date:": "日期:"
+      }
+    },
+    {
+      "source": [
+        "Right-Click to view contributions!"
+      ],
+      "translation": "右键点击查看贡献!",
+      "styleMappings": {
+        "Right-Click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

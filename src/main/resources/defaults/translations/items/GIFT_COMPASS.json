@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "GIFT_COMPASS",
+  "_original_name": "Gift Compass",
+  "_original_lore": [
+    "When held, points towards the",
+    "nearest unopened present while in",
+    "Jerry's Workshop.",
+    "",
+    "* Co-op Soulbound *",
+    "UNCOMMON"
+  ],
+  "name": "礼物指南针",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "When held, points towards the",
+        "nearest unopened present while in",
+        "Jerry's Workshop."
+      ],
+      "translation": "手持时,在杰瑞的工坊中指向最近的未拆礼物.",
+      "styleMappings": {
+        "Jerry's Workshop": "杰瑞的工坊",
+        "Jerry": "杰瑞"
+      }
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Compass": "指南针"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

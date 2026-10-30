@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "BATTY_WITCH_MONSTER",
+  "_original_name": "Batty Witch (Monster)",
+  "_original_lore": [
+    "The Batty Witch can only spawn during the,",
+    "Spooky Festival and from Trick or Treat boxes.",
+    "This enemy spawns bats that follows a player",
+    "and explodes on them.",
+    "",
+    "❤ Health: 17"
+  ],
+  "name": "蝙蝠女巫 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Batty Witch can only spawn during the,",
+        "Spooky Festival and from Trick or Treat boxes."
+      ],
+      "translation": "蝙蝠女巫只能在幽灵节期间生成,或从不给糖就捣蛋盒子中出现.",
+      "styleMappings": {
+        "Spooky Festival": "幽灵节",
+        "spawn": "出现",
+        "Spooky": "幽灵"
+      }
+    },
+    {
+      "source": [
+        "This enemy spawns bats that follows a player",
+        "and explodes on them."
+      ],
+      "translation": "该敌人会生成蝙蝠,蝙蝠会跟随玩家并在其身上爆炸.",
+      "styleMappings": {
+        "player": "玩家"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

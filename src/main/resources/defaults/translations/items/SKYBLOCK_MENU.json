@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "SKYBLOCK_MENU",
+  "_original_name": "SkyBlock Menu (Click)",
+  "_original_lore": [
+    "View all of your SkyBlock progress,",
+    "including your Skills, Collections,",
+    "Recipes, and more!",
+    "",
+    "Click to open!"
+  ],
+  "name": "空岛菜单 (点击)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "View all of your SkyBlock progress,",
+        "including your Skills, Collections,",
+        "Recipes, and more!"
+      ],
+      "translation": "查看你的所有空岛生存进度,包括技能、收藏、配方等!",
+      "styleMappings": {
+        "SkyBlock": "空岛生存"
+      }
+    },
+    {
+      "source": [
+        "Click to open!"
+      ],
+      "translation": "点击打开!",
+      "styleMappings": {
+        "Click to open!": "点击打开!"
+      }
+    }
+  ],
+  "styleMappings": {
+    "SkyBlock Menu": "空岛菜单",
+    "(Click)": "(点击)",
+    "SkyBlock": "空岛"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

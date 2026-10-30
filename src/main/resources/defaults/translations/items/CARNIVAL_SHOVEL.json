@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "id": "CARNIVAL_SHOVEL",
+  "_original_name": "Carnival Shovel",
+  "_original_lore": [
+    "Used to dig up fruits in the Fruit",
+    "Digging game.",
+    "",
+    "Dowsing Mode: Mines",
+    "Reveals the amount of Bombs",
+    "adjacent to this block when you dig.",
+    "",
+    "Right-click to cycle Dowsing Modes!",
+    "",
+    "* Soulbound *",
+    "UNCOMMON SHOVEL"
+  ],
+  "name": "嘉年华铲子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Used to dig up fruits in the Fruit",
+        "Digging game."
+      ],
+      "translation": "用于在水果挖掘中挖出水果.",
+      "styleMappings": {
+        "fruits": "水果",
+        "Fruit Digging": "水果挖掘"
+      }
+    },
+    {
+      "source": [
+        "Dowsing Mode: Mines"
+      ],
+      "translation": "探矿模式: 地雷",
+      "styleMappings": {
+        "Mines": "地雷"
+      }
+    },
+    {
+      "source": [
+        "Reveals the amount of Bombs",
+        "adjacent to this block when you dig."
+      ],
+      "translation": "挖掘时显示与此方块相邻的地雷数量.",
+      "styleMappings": {
+        "Bombs": "地雷",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Right-click to cycle Dowsing Modes!"
+      ],
+      "translation": "右键点击切换探矿模式!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Dowsing Modes": "探矿模式"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON SHOVEL"
+      ],
+      "translation": "罕见铲子",
+      "styleMappings": {
+        "UNCOMMON SHOVEL": "罕见铲子",
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Carnival": "嘉年华",
+    "Shovel": "铲子"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "BRONZE_SHIP_HELM",
+  "_original_name": "Bronze Ship Helm",
+  "_original_lore": [
+    "Ship Part",
+    "",
+    "Bring this item to Captain Baha.",
+    "",
+    "Grants +0.5☯ Fishing Wisdom when",
+    "attached to your Ship.",
+    "",
+    "* Soulbound *",
+    "UNCOMMON"
+  ],
+  "name": "青铜船舵",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ship Part"
+      ],
+      "translation": "船部件",
+      "styleMappings": {
+        "Ship": "船"
+      }
+    },
+    {
+      "source": [
+        "Bring this item to Captain Baha."
+      ],
+      "translation": "将此物品带给 Captain Baha.",
+      "styleMappings": {
+        "Captain Baha": "Captain Baha",
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}☯ Fishing Wisdom when",
+        "attached to your Ship."
+      ],
+      "translation": "装备在你的船上时提供 {{N0}}☯ 钓鱼智慧.",
+      "styleMappings": {
+        "Fishing Wisdom": "钓鱼智慧",
+        "Ship": "船",
+        "Grants": "提供",
+        "Fishing": "钓鱼",
+        "Wisdom": "智慧",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Ship": "船"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

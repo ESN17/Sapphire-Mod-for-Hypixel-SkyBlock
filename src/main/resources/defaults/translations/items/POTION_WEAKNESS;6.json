@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_WEAKNESS;6",
+  "_original_name": "Weakness VI Potion",
+  "_original_lore": [
+    "",
+    "Weakness VI (3:00)",
+    "Reduces  Damage when attacking",
+    "enemies by 30.",
+    "",
+    "RARE"
+  ],
+  "name": "虚弱 VI 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Weakness VI ({{N0}}:{{N1}})"
+      ],
+      "translation": "虚弱 VI ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Weakness VI": "虚弱 VI"
+      }
+    },
+    {
+      "source": [
+        "Reduces  Damage when attacking",
+        "enemies by {{N0}}."
+      ],
+      "translation": "攻击敌人时降低 伤害 {{N0}}.",
+      "styleMappings": {
+        " Damage": " 伤害",
+        "Damage": "伤害",
+        "enemies": "敌人",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Weakness VI": "虚弱 VI"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

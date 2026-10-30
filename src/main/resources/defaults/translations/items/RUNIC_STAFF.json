@@ -1,0 +1,190 @@
+{
+  "schemaVersion": 1,
+  "id": "RUNIC_STAFF",
+  "_original_name": "Aurora Staff",
+  "_original_lore": [
+    "Damage: +20",
+    "Intelligence: +250",
+    "Gemstones: [] []",
+    "",
+    "Runic Item",
+    "Use with Aurora Armor! Cast Runic",
+    "Zap while matching the rune of your",
+    "targets.",
+    "Left-Click To Swap Rune",
+    "",
+    "Ability: Runic Zap  RIGHT CLICK",
+    "Fires a beam of energy, hitting the",
+    "first enemy on its path for 10,000.",
+    "Deals reduced damage past 10",
+    "blocks.",
+    "Mana Cost: 10",
+    "Cooldown: 1s",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Combat Skill 22.",
+    "❣ Requires Kuudra Basic Tier Completion.",
+    "LEGENDARY SWORD"
+  ],
+  "name": "极光法杖",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [] []"
+      ],
+      "translation": "宝石:[] []",
+      "styleMappings": {
+        "Gemstones": "宝石",
+        "[": "[",
+        "": "",
+        "] [": "] [",
+        "Gemstones:": "宝石:"
+      }
+    },
+    {
+      "source": [
+        "Runic Item",
+        "Use with Aurora Armor! Cast Runic",
+        "Zap while matching the rune of your",
+        "targets."
+      ],
+      "translation": "符文物品 与 极光盔甲 搭配使用!在与目标符文匹配时施放符文电击.",
+      "styleMappings": {
+        "Aurora Armor": "极光盔甲",
+        "Runic Item": "符文物品",
+        "Runic Zap": "符文电击",
+        "Armor": "盔甲",
+        "Item": "物品",
+        "Runic": "符文"
+      }
+    },
+    {
+      "source": [
+        "Left-Click To Swap Rune"
+      ],
+      "translation": "左键点击切换符文",
+      "styleMappings": {
+        "Left-Click To Swap Rune": "左键点击切换符文",
+        "Left-Click": "左键点击"
+      }
+    },
+    {
+      "source": [
+        "Ability: Runic Zap  RIGHT CLICK"
+      ],
+      "translation": "技能:符文电击  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Runic Zap": "符文电击",
+        "Ability": "技能",
+        "CLICK": "点击",
+        "Runic": "符文"
+      }
+    },
+    {
+      "source": [
+        "Fires a beam of energy, hitting the",
+        "first enemy on its path for {{N0}}."
+      ],
+      "translation": "发射一道能量光束,击中路径上的第一个敌人,造成 {{N0}}.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Deals reduced damage past {{N0}}",
+        "blocks."
+      ],
+      "translation": "超过 {{N0}} 格后伤害降低.",
+      "styleMappings": {
+        "blocks": "格",
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Kuudra Basic Tier Completion."
+      ],
+      "translation": "❣ 需要完成库德拉基础难度.",
+      "styleMappings": {
+        "Requires Kuudra Basic Tier Completion.": "需要完成库德拉基础难度.",
+        "Requires": "需要",
+        "Basic": "基础",
+        "Kuudra": "库德拉"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY SWORD"
+      ],
+      "translation": "传说剑",
+      "styleMappings": {
+        "LEGENDARY": "传说",
+        "LEGENDARY SWORD": "传说剑"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

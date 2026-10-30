@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "CAVE_SPIDER_MONSTER",
+  "_original_name": "Cave Spider (Monster)",
+  "_original_lore": [
+    "So many eyes.",
+    "",
+    "❤ Health: 110 - 778"
+  ],
+  "name": "洞穴蜘蛛 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "So many eyes."
+      ],
+      "translation": "好多眼睛.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}} - {{N1}}"
+      ],
+      "translation": "❤ 生命值: {{N0}} - {{N1}}",
+      "styleMappings": {
+        "Health": "生命值",
+        "-": "-"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Cave Spider": "洞穴蜘蛛",
+    "(Monster)": "(怪物)",
+    "Spider": "蜘蛛",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

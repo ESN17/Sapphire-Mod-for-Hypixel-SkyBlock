@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "CINDERSHADE",
+  "_original_name": "Cindershade",
+  "_original_lore": [
+    "A hazy flower that glows like dying",
+    "embers, stuck somewhere between",
+    "fire and life.",
+    "",
+    "Complete Visitor Beth's quest to",
+    "Analyze this crop!",
+    "",
+    "UNCOMMON MUTATION"
+  ],
+  "name": "烬影",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A hazy flower that glows like dying",
+        "embers, stuck somewhere between",
+        "fire and life."
+      ],
+      "translation": "一朵朦胧的花,如将熄的余烬般发光,徘徊在火焰与生命之间.",
+      "styleMappings": {
+        "fire": "火"
+      }
+    },
+    {
+      "source": [
+        "Complete Visitor Beth's quest to",
+        "Analyze this crop!"
+      ],
+      "translation": "完成访客 Beth 的任务来分析这种作物!",
+      "styleMappings": {
+        "Visitor": "访客",
+        "Beth's": "Beth 的",
+        "Analyze": "分析"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON MUTATION"
+      ],
+      "translation": "罕见变异",
+      "styleMappings": {
+        "UNCOMMON MUTATION": "罕见变异",
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

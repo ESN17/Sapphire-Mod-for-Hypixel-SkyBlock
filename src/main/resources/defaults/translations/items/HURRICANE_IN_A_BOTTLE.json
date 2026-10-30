@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "HURRICANE_IN_A_BOTTLE",
+  "_original_name": "Hurricane in a Bottle",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "What happens if you open it? The",
+    "answer may shock you.",
+    "",
+    "Charge: 5,000,000/5,000,000",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "瓶中飓风",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "What happens if you open it? The",
+        "answer may shock you."
+      ],
+      "translation": "如果你打开它会发生什么?答案可能会让你震惊.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Charge: {{N0}}/{{N1}}"
+      ],
+      "translation": "充能: {{N0}}/{{N1}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Hurricane": "飓风"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

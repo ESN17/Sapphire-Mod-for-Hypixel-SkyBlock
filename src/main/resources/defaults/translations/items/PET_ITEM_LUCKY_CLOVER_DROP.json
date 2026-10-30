@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "PET_ITEM_LUCKY_CLOVER_DROP",
+  "_original_name": "Lucky Clover Core",
+  "_original_lore": [
+    "Used to craft the Lucky Clover pet",
+    "item.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "EPIC"
+  ],
+  "name": "幸运三叶草核心",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Used to craft the Lucky Clover pet",
+        "item."
+      ],
+      "translation": "用于合成幸运三叶草宠物物品.",
+      "styleMappings": {
+        "Lucky": "幸运",
+        "item": "物品",
+        "pet": "宠物",
+        "pet item": "宠物物品"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Lucky": "幸运"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

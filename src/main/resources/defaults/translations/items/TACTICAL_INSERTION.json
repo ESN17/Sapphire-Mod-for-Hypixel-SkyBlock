@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "TACTICAL_INSERTION",
+  "_original_name": "Tactical Insertion",
+  "_original_lore": [
+    "Ability: Gorilla Tactics  RIGHT CLICK",
+    "Marks your location and teleport back there",
+    "after 3s.",
+    "",
+    "On coming back, burn enemies within 3 blocks",
+    "and set your  Health to HALF of what it was.",
+    "",
+    "The burn deals 10% of ALL damage you dealt",
+    "within the 3s, spread over 6s.",
+    "Mana Cost: 200",
+    "Cooldown: 20s",
+    "",
+    "☠ Requires Blaze Slayer 5.",
+    "EPIC"
+  ],
+  "name": "战术插入",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Gorilla Tactics  RIGHT CLICK"
+      ],
+      "translation": "技能: 大猩猩战术  右键点击",
+      "styleMappings": {
+        "Gorilla Tactics": "大猩猩战术",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Marks your location and teleport back there",
+        "after {{N0}}s."
+      ],
+      "translation": "标记你的位置,并在 {{N0}} 秒后传送回该处.",
+      "styleMappings": {
+        "{{N0}}s": "{{N0}} 秒"
+      }
+    },
+    {
+      "source": [
+        "On coming back, burn enemies within {{N0}} blocks",
+        "and set your  Health to HALF of what it was."
+      ],
+      "translation": "返回时,燃烧 {{N0}} 格范围内的敌人,并将你的  生命值 设为其原值的一半.",
+      "styleMappings": {
+        "Health": "生命值",
+        "blocks": "格",
+        "burn": "燃烧",
+        " Health": " 生命",
+        "enemies": "敌人"
+      }
+    },
+    {
+      "source": [
+        "The burn deals {{N0}} of ALL damage you dealt",
+        "within the {{N1}}s, spread over {{N2}}s."
+      ],
+      "translation": "燃烧会在 {{N2}} 秒内造成你在 {{N1}} 秒内造成的全部伤害的 {{N0}}.",
+      "styleMappings": {
+        "burn": "燃烧",
+        "damage": "伤害",
+        "{{N1}}s": "{{N1}} 秒",
+        "{{N2}}s": "{{N2}} 秒"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Blaze Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要 烈焰人杀手 {{N0}}.",
+      "styleMappings": {
+        "Blaze Slayer": "烈焰人杀手",
+        "Requires": "需要",
+        "Slayer": "杀手"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

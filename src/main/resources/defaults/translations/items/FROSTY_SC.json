@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "FROSTY_SC",
+  "_original_name": "Frosty (Sea Creature)",
+  "_original_lore": [
+    "❤ Health: 10",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "霜寒 (海怪)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sea Creature": "海怪",
+    "(Sea Creature)": "(海怪)"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

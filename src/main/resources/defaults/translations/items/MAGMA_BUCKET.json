@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "MAGMA_BUCKET",
+  "_original_name": "Magma Bucket",
+  "_original_lore": [
+    "Minion Fuel",
+    "",
+    "Increases the speed of your minion",
+    "by 30%. Unlimited Duration!",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "岩浆桶",
+  "lore": {
+    "Minion Fuel": "仆从燃料",
+    "LEGENDARY": "传说"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "Increases the speed of your minion",
+        "by {speed}. Unlimited Duration!"
+      ],
+      "translation": "仆从的工作速度提高 {speed},永久有效!",
+      "styleMappings": {
+        "minion": "仆从",
+        "speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Minion Fuel"
+      ],
+      "translation": "仆从燃料",
+      "styleMappings": {
+        "Minion Fuel": "仆从燃料",
+        "Fuel": "燃料",
+        "Minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "Increases the speed of your minion",
+        "by {{N0}}. Unlimited Duration!"
+      ],
+      "translation": "仆从的工作速度提高 {{N0}},永久有效!",
+      "styleMappings": {
+        "minion": "仆从",
+        "speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

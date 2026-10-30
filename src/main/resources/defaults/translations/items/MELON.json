@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "MELON",
+  "_original_name": "Melon Slice",
+  "_original_lore": [
+    "Collection Item",
+    "",
+    "COMMON"
+  ],
+  "name": "西瓜片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Collection Item"
+      ],
+      "translation": "收藏品",
+      "styleMappings": {
+        "Collection": "收藏"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Melon Slice": "西瓜片",
+    "Melon": "西瓜"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

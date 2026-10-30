@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_ARCHERY;1",
+  "_original_name": "Archery I Potion",
+  "_original_lore": [
+    "",
+    "Archery I (3:00)",
+    "Increases bow damage by 12.5%.",
+    "",
+    "COMMON"
+  ],
+  "name": "弓术 I 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Archery I ({{N0}}:{{N1}})"
+      ],
+      "translation": "弓术 I ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Archery I": "弓术 I"
+      }
+    },
+    {
+      "source": [
+        "Increases bow damage by {{N0}}."
+      ],
+      "translation": "弓伤害提高 {{N0}}.",
+      "styleMappings": {
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Archery I": "弓术 I"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

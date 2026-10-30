@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "id": "SPIDER;0",
+  "_original_name": "[Lvl {LVL}] Spider",
+  "_original_lore": [
+    "Combat Pet",
+    "",
+    "Strength: +{STRENGTH}",
+    "Crit Chance: +{CRIT_CHANCE}%",
+    "",
+    "One With The Spider",
+    "Applies +{0} Strength to all",
+    "Arachnal  weapons, armor, and",
+    "equipment you have equipped.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "COMMON PET"
+  ],
+  "name": "[等级 {LVL}] 蜘蛛",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combat Pet"
+      ],
+      "translation": "战斗宠物",
+      "styleMappings": {
+        "Combat Pet": "战斗宠物",
+        "Combat": "战斗",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Strength: +{{N0}}"
+      ],
+      "translation": "力量: +{{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Crit Chance: +{{N0}}%"
+      ],
+      "translation": "暴击几率: +{{N0}}%",
+      "styleMappings": {
+        "Crit Chance": "暴击几率"
+      }
+    },
+    {
+      "source": [
+        "One With The Spider"
+      ],
+      "translation": "与蜘蛛合一",
+      "styleMappings": {
+        "Spider": "蜘蛛"
+      }
+    },
+    {
+      "source": [
+        "Applies +{{N0}} Strength to all",
+        "Arachnal  weapons, armor, and",
+        "equipment you have equipped."
+      ],
+      "translation": "为你装备的所有蛛形  武器、盔甲和装备提供 +{{N0}} 力量.",
+      "styleMappings": {
+        "+{{N0}} Strength": "+{{N0}} 力量",
+        "Arachnal": "蛛形",
+        " Strength": " 力量",
+        "Strength": "力量",
+        "equipped": "装备"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "COMMON PET"
+      ],
+      "translation": "普通 宠物",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Spider": "蜘蛛",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

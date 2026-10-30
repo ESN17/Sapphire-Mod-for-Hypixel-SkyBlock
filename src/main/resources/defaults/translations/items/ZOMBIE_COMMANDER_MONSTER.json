@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "ZOMBIE_COMMANDER_MONSTER",
+  "_original_name": "Zombie Commander (Monster)",
+  "_original_lore": [
+    "Leader of the Undead.",
+    "",
+    "❤ Health: 1,700,000 - 3,500,000",
+    "❤ Health (MM) : 160,000,000 - 250,000,000"
+  ],
+  "name": "僵尸指挥官 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Leader of the Undead."
+      ],
+      "translation": "亡灵的首领.",
+      "styleMappings": {
+        "Undead": "亡灵"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}} - {{N1}}"
+      ],
+      "translation": "❤ 生命值: {{N0}} - {{N1}}",
+      "styleMappings": {
+        "Health": "生命值",
+        "-": "-"
+      }
+    },
+    {
+      "source": [
+        "❤ Health (MM) : {{N0}} - {{N1}}"
+      ],
+      "translation": "❤ 生命值 (MM) : {{N0}} - {{N1}}",
+      "styleMappings": {
+        "Health": "生命值",
+        "-": "-"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Zombie": "僵尸",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

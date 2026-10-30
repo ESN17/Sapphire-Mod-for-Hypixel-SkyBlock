@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "WITHERMANCER_MONSTER",
+  "_original_name": "Withermancer (Monster)",
+  "_original_lore": [
+    "Learned their sorcery from the",
+    "most vicious of teachers.",
+    "",
+    "❤ Health: 300,000 - 88,000,000"
+  ],
+  "name": "凋零法师 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Learned their sorcery from the",
+        "most vicious of teachers."
+      ],
+      "translation": "从最凶残的老师那里学会了他们的巫术.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}} - {{N1}}"
+      ],
+      "translation": "❤ 生命值: {{N0}} - {{N1}}",
+      "styleMappings": {
+        "Health": "生命值",
+        "-": "-"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

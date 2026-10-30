@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "DEPTH_STRIDER;1",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Depth Strider I",
+    "Reduces how much you are slowed",
+    "in the water by 33%.",
+    "",
+    "Source:",
+    " - Enchantment Table (I-III)",
+    "",
+    "Applied To:",
+    " - Boots",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Depth Strider I"
+      ],
+      "translation": "深海探索者 I",
+      "styleMappings": {
+        "Depth Strider": "深海探索者"
+      }
+    },
+    {
+      "source": [
+        "Reduces how much you are slowed",
+        "in the water by {{N0}}."
+      ],
+      "translation": "减少你在水中的减速程度 {{N0}}.",
+      "styleMappings": {
+        "in the": "的",
+        "water": "水"
+      }
+    },
+    {
+      "source": [
+        "Source:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchantment Table (I-III)"
+      ],
+      "translation": " - 附魔台 (一至三级)",
+      "styleMappings": {
+        "Enchantment Table": "附魔台",
+        "I-III": "一至三级",
+        "Enchantment": "附魔"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Boots"
+      ],
+      "translation": " - 靴子",
+      "styleMappings": {
+        "Boots": "靴子"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

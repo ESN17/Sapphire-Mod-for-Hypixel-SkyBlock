@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "SOLAR_PANEL",
+  "_original_name": "Solar Panel",
+  "_original_lore": [
+    "Minion Fuel",
+    "",
+    "Increases the speed of your minion",
+    "by 25% during the day. Unlimited",
+    "Duration!",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "太阳能板",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Increases the speed of your minion",
+        "by {{N0}} during the day. Unlimited",
+        "Duration!"
+      ],
+      "translation": "白天时使你的仆从速度提升 {{N0}}.持续时间无限!",
+      "styleMappings": {
+        "Duration": "持续时间",
+        "minion": "仆从",
+        "speed": "速度",
+        "day": "天"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    },
+    {
+      "source": [
+        "Minion Fuel"
+      ],
+      "translation": "仆从燃料",
+      "styleMappings": {
+        "Fuel": "燃料",
+        "Minion": "仆从",
+        "Minion Fuel": "仆从燃料"
+      }
+    },
+    {
+      "source": [
+        "Increases the speed of your minion by {{N0}} during the day. Unlimited Duration!"
+      ],
+      "translation": "白天时使你的仆从速度提高 {{N0}}.无限持续时间!",
+      "styleMappings": {
+        "speed": "速度",
+        "minion": "仆从",
+        "day": "天",
+        "Duration": "持续时间"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

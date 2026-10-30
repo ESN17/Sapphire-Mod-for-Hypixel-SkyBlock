@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": "DIAMOND_SADAN_HEAD",
+  "_original_name": "Diamond Sadan Head",
+  "_original_lore": [
+    "Gear Score: 365",
+    "Health: +190",
+    "Defense: +70",
+    "Strength: +35",
+    "",
+    "Obtained from killing Sadan in The",
+    "Catacombs lots of times. Grants 2x",
+    "stats on The Catacombs Floor VI.",
+    "",
+    "Necromancy was always strong in his",
+    "family. Says he once beat a Wither in",
+    "a duel. Likes to brag.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Sadan Collection 7.",
+    "* Co-op Soulbound *",
+    "SPECIAL DUNGEON HELMET"
+  ],
+  "name": "钻石萨丹头颅",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Obtained from killing Sadan in The",
+        "Catacombs lots of times. Grants {{N0}}x",
+        "stats on The Catacombs Floor VI."
+      ],
+      "translation": "多次在地牢中击杀萨丹获得.在地牢第六层提供 {{N0}}倍属性.",
+      "styleMappings": {
+        "The Catacombs Floor VI": "地牢第六层",
+        "The Catacombs": "地牢",
+        "Sadan": "萨丹",
+        "stats": "属性",
+        "{{N0}}x": "{{N0}}倍",
+        "Catacombs": "地牢",
+        "VI": "六"
+      }
+    },
+    {
+      "source": [
+        "Necromancy was always strong in his",
+        "family. Says he once beat a Wither in",
+        "a duel. Likes to brag."
+      ],
+      "translation": "死灵法术在他的家族中一直很强大.他说自己曾在决斗中击败过一只凋灵.喜欢吹嘘.",
+      "styleMappings": {
+        "Wither": "凋灵"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Sadan Collection {{N0}}."
+      ],
+      "translation": "❣ 需要萨丹收藏 {{N0}}.",
+      "styleMappings": {
+        "Requires Sadan Collection": "需要萨丹收藏",
+        "Requires": "需要",
+        "Collection": "收藏",
+        "Sadan": "萨丹"
+      }
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL DUNGEON HELMET"
+      ],
+      "translation": "特殊地牢头盔",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sadan": "萨丹"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

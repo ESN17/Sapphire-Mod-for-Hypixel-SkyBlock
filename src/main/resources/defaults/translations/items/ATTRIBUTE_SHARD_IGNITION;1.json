@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "ATTRIBUTE_SHARD_IGNITION;1",
+  "_original_name": "Matcho Shard",
+  "_original_lore": [
+    "Ignition I",
+    "Increases the duration of fire",
+    "damage that you inflict on enemies by",
+    "+30%.",
+    "",
+    "You can Syphon this shard from",
+    "your Hunting Box.",
+    "",
+    "Right-click to send to Hunting Box!",
+    "Shift Right-click to move all!",
+    "",
+    "RARE COMBAT SHARD (ID R42)"
+  ],
+  "name": "马乔碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ignition I"
+      ],
+      "translation": "点燃 I",
+      "styleMappings": {
+        "I": "I"
+      }
+    },
+    {
+      "source": [
+        "Increases the duration of fire",
+        "damage that you inflict on enemies by",
+        "{{N0}}."
+      ],
+      "translation": "使你施加于敌人的火焰伤害持续时间延长 {{N0}}.",
+      "styleMappings": {
+        "damage": "伤害",
+        "fire": "火",
+        "enemies": "敌人"
+      }
+    },
+    {
+      "source": [
+        "You can Syphon this shard from",
+        "your Hunting Box."
+      ],
+      "translation": "你可以从狩猎箱中吸取此碎片.",
+      "styleMappings": {
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to send to Hunting Box!"
+      ],
+      "translation": "右键点击发送至狩猎箱!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Shift Right-click to move all!"
+      ],
+      "translation": "潜行键 右键点击全部移动!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "all": "全部"
+      }
+    },
+    {
+      "source": [
+        "RARE COMBAT SHARD (ID R{{N0}})"
+      ],
+      "translation": "稀有战斗碎片 (ID R{{N0}})",
+      "styleMappings": {
+        "RARE": "稀有",
+        "COMBAT SHARD": "战斗碎片"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shard": "碎片"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "EXPLOSIFALL_RUNE;3",
+  "_original_name": "◆ Explosifall Rune III",
+  "_original_lore": [
+    "Requires level 0",
+    "Weapons",
+    "",
+    "Let the slain be one with nature.",
+    "Changes color based on the current",
+    "SkyBlock season. Obtained from the",
+    "Taylor Fall Bundle.",
+    "",
+    "Apply this rune to weapons at the",
+    "Runic Pedestal!",
+    "",
+    "LEGENDARY COSMETIC"
+  ],
+  "name": "◆ 爆裂坠落符文 III",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Requires level {{N0}}",
+        "Weapons"
+      ],
+      "translation": "需要等级 {{N0}} 武器",
+      "styleMappings": {
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Let the slain be one with nature."
+      ],
+      "translation": "让逝者与自然融为一体.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Changes color based on the current",
+        "SkyBlock season. Obtained from the",
+        "Taylor Fall Bundle."
+      ],
+      "translation": "根据当前空岛生存季节改变颜色.从 Taylor 秋季礼包中获得.",
+      "styleMappings": {
+        "SkyBlock": "空岛生存"
+      }
+    },
+    {
+      "source": [
+        "Apply this rune to weapons at the",
+        "Runic Pedestal!"
+      ],
+      "translation": "在符文基座上将此符文应用于武器!",
+      "styleMappings": {
+        "Runic Pedestal": "符文基座",
+        "Runic": "符文"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY COSMETIC"
+      ],
+      "translation": "传说外观",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Rune III": "符文 III",
+    "III": "III"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

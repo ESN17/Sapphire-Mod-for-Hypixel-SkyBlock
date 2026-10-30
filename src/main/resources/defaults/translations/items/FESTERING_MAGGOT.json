@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "FESTERING_MAGGOT",
+  "_original_name": "Festering Maggot",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Consume this item to permanently",
+    "gain +1 Defense.",
+    "",
+    "You can only consume 5 of this item",
+    "before the awful taste becomes too",
+    "much to bear.",
+    "",
+    "A large, inflamed maggot, having",
+    "gorged itself on the flesh of the",
+    "Revenant Horror to such an extent",
+    "that it no longer possesses the",
+    "strength to drag itself along.",
+    "",
+    "Right-click to consume!",
+    "",
+    "EPIC"
+  ],
+  "name": "溃烂蛆虫",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Consume this item to permanently",
+        "gain {{N0}} Defense."
+      ],
+      "translation": "消耗此物品以永久获得 {{N0}} 防御力.",
+      "styleMappings": {
+        "permanently": "永久",
+        " Defense": " 防御",
+        "item": "物品",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "You can only consume {{N0}} of this item",
+        "before the awful taste becomes too",
+        "much to bear."
+      ],
+      "translation": "你只能消耗 {{N0}} 个此物品,之后那糟糕的味道就会让你无法忍受.",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "A large, inflamed maggot, having",
+        "gorged itself on the flesh of the",
+        "Revenant Horror to such an extent",
+        "that it no longer possesses the",
+        "strength to drag itself along."
+      ],
+      "translation": "一只巨大、发炎的蛆虫,因吞食了亡魂恐魔的血肉而过度饱胀,以至于再也无力拖动自己的身体.",
+      "styleMappings": {
+        "Revenant Horror": "亡魂恐魔"
+      }
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

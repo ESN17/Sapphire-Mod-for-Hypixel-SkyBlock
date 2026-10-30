@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "WARNING_FLARE",
+  "_original_name": "Warning Flare",
+  "_original_lore": [
+    "Ability: Deploy  RIGHT CLICK",
+    "Shoot the flare up in the sky for 3m",
+    "buffing up to 8 players within 40",
+    "blocks.",
+    "Mana Cost: 300",
+    "Vitality Cost: 10",
+    "Cooldown: 20s",
+    "",
+    "Flare Buff: Warning Flare",
+    "• Gain +10 Vitality.",
+    "• Gain +10 True Defense.",
+    "• Heal 30❤ per second while on the",
+    "Crimson Isle and Kuudra.",
+    "",
+    "Only one deployable buff applies.",
+    "",
+    "☠ Requires Blaze Slayer 3.",
+    "UNCOMMON DEPLOYABLE"
+  ],
+  "name": "警告信号弹",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Deploy  RIGHT CLICK"
+      ],
+      "translation": "技能: 部署  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Shoot the flare up in the sky for {{N0}}m",
+        "buffing up to {{N1}} players within {{N2}}",
+        "blocks."
+      ],
+      "translation": "向天空发射信号弹,持续 {{N0}} 分钟,为 {{N2}} 格内的至多 {{N1}} 名玩家提供增益.",
+      "styleMappings": {
+        "blocks": "格",
+        "for": "持续",
+        "{{N0}}m": "{{N0}} 分钟",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "Vitality Cost: {{N0}}"
+      ],
+      "translation": "活力消耗:{{N0}}",
+      "styleMappings": {
+        "Vitality": "活力"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "Flare Buff: Warning Flare"
+      ],
+      "translation": "信号弹增益:警告信号弹",
+      "styleMappings": {
+        "Flare Buff": "信号弹增益",
+        "Warning Flare": "警告信号弹"
+      }
+    },
+    {
+      "source": [
+        "• Gain {{N0}} Vitality."
+      ],
+      "translation": "• 获得 {{N0}} 生命回复.",
+      "styleMappings": {
+        "Vitality": "生命回复",
+        "Gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "• Gain {{N0}} True Defense."
+      ],
+      "translation": "• 获得 {{N0}} 真实防御.",
+      "styleMappings": {
+        "True Defense": "真实防御",
+        "Gain": "获得",
+        "Defense": "防御",
+        "True": "真实"
+      }
+    },
+    {
+      "source": [
+        "• Heal {{N0}}❤ per second while on the",
+        "Crimson Isle and Kuudra."
+      ],
+      "translation": "• 在绯红之岛和库德拉时每秒治疗 {{N0}}❤.",
+      "styleMappings": {
+        "Crimson Isle": "绯红之岛",
+        "per second": "每秒",
+        "Kuudra": "库德拉",
+        "Heal": "治疗",
+        "second": "秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Only one deployable buff applies."
+      ],
+      "translation": "部署类增益同时只能生效一种.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "☠ Requires Blaze Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要 烈焰人杀手 {{N0}}.",
+      "styleMappings": {
+        "Blaze Slayer": "烈焰人杀手",
+        "Requires": "需要",
+        "Slayer": "杀手"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON DEPLOYABLE"
+      ],
+      "translation": "罕见 部署物",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Warning Flare": "警告信号弹"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

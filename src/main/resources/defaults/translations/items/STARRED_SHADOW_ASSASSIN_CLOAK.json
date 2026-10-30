@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "id": "STARRED_SHADOW_ASSASSIN_CLOAK",
+  "_original_name": " Shadow Assassin Cloak",
+  "_original_lore": [
+    "Strength: +25",
+    "Speed: +5",
+    "",
+    "Piece Bonus: Bloodrush",
+    "On teleport: Your next melee hit",
+    "within 5s deals 10% more damage.",
+    "Cooldown: 3s",
+    "",
+    "Right-click to equip!",
+    "",
+    "This item can be reforged!",
+    "❣ Requires The Catacombs Floor V Completion.",
+    "LEGENDARY DUNGEON CLOAK"
+  ],
+  "name": " 暗影刺客披风",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Piece Bonus: Bloodrush"
+      ],
+      "translation": "部件加成: 血冲",
+      "styleMappings": {
+        "Piece Bonus": "部件加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "On teleport: Your next melee hit"
+      ],
+      "translation": "传送时: 你的下一次近战攻击",
+      "styleMappings": {
+        "melee hit": "近战攻击",
+        "hit": "攻击"
+      }
+    },
+    {
+      "source": [
+        "within {{N0}}s deals {{N1}} more damage."
+      ],
+      "translation": "在 {{N0}} 秒内造成 {{N1}} 额外伤害.",
+      "styleMappings": {
+        "damage": "伤害",
+        "more": "额外",
+        "{{N0}}s": "{{N0}} 秒"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "Right-click to equip!"
+      ],
+      "translation": "右键点击装备!",
+      "styleMappings": {
+        "Right-click to equip!": "右键点击装备!",
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires The Catacombs Floor V Completion."
+      ],
+      "translation": "❣ 需要通关地牢第 V 层.",
+      "styleMappings": {
+        "The Catacombs": "地牢",
+        "Requires": "需要",
+        "Catacombs": "地牢"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY DUNGEON CLOAK"
+      ],
+      "translation": "传说 地牢 披风",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Cloak": "披风"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

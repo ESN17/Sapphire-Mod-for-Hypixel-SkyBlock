@@ -1,0 +1,145 @@
+{
+  "schemaVersion": 1,
+  "id": "SMALL_BRAIN;3",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Small Brain III",
+    "Grants -5 Intelligence and +1",
+    "True Defense.",
+    "",
+    "Sources:",
+    " - Raffle of the Century (III)",
+    " - Bazaar (III-V)",
+    "",
+    "Applied To:",
+    " - Helmet",
+    "",
+    "Requirements:",
+    " - Enchanting Level 21",
+    "",
+    "Conflicts:",
+    " - Big Brain",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Small Brain III"
+      ],
+      "translation": "超级小脑 III",
+      "styleMappings": {
+        "Small Brain": "超级小脑",
+        "III": "III"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Intelligence and {{N1}}",
+        "True Defense."
+      ],
+      "translation": "提供 {{N0}} 智力 和 {{N1}} 真实防御.",
+      "styleMappings": {
+        "Intelligence": "智力",
+        "True Defense": "真实防御",
+        "Grants": "提供",
+        "": "",
+        "Defense": "防御",
+        " Intelligence": " 智力",
+        "True": "真实"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Raffle of the Century (III)",
+        " - Bazaar (III-V)"
+      ],
+      "translation": " - 世纪抽奖 (III)  - 集市 (III-V)",
+      "styleMappings": {
+        "Raffle of the Century": "世纪抽奖",
+        "Bazaar": "集市",
+        "III": "III"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Helmet"
+      ],
+      "translation": " - 头盔",
+      "styleMappings": {
+        "Helmet": "头盔"
+      }
+    },
+    {
+      "source": [
+        "Requirements:"
+      ],
+      "translation": "需求:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchanting Level {{N0}}"
+      ],
+      "translation": " - 附魔等级 {{N0}}",
+      "styleMappings": {
+        "Enchanting Level": "附魔等级"
+      }
+    },
+    {
+      "source": [
+        "Conflicts:"
+      ],
+      "translation": "冲突:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Big Brain"
+      ],
+      "translation": " - 超级大脑",
+      "styleMappings": {
+        "Big Brain": "超级大脑"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

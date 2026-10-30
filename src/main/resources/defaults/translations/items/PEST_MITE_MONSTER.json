@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "PEST_MITE_MONSTER",
+  "_original_name": "Mite (Pest)",
+  "_original_lore": [
+    "Try and you just mite.",
+    "",
+    "Attracted to Tasty Cheese.",
+    "",
+    "❤ Health: 600"
+  ],
+  "name": "螨虫 (害虫)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Try and you just mite."
+      ],
+      "translation": "试试看,你只会螨足.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Attracted to Tasty Cheese."
+      ],
+      "translation": "被美味奶酪吸引.",
+      "styleMappings": {
+        "Tasty Cheese": "美味奶酪"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Pest": "害虫",
+    "Mite": "螨虫"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "SNEAKY_CREEPER_MONSTER",
+  "_original_name": "Sneaky Creeper (Monster)",
+  "_original_lore": [
+    "Sneaky Creepers are a type of Creeper that",
+    "spawns exclusively in the Gunpowder Mines.",
+    "They have the appearance of a normal creeper -",
+    "however, they are invisible until they approach",
+    "the player.",
+    "",
+    "Mob Type: ⚂ Cubic",
+    "❤ Health: 120"
+  ],
+  "name": "潜行苦力怕 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Sneaky Creepers are a type of Creeper that",
+        "spawns exclusively in the Gunpowder Mines."
+      ],
+      "translation": "潜行苦力怕是仅生成于火药矿坑的一种苦力怕.",
+      "styleMappings": {
+        "Sneaky Creepers": "潜行苦力怕",
+        "Creeper": "苦力怕",
+        "Gunpowder Mines": "火药矿坑",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "They have the appearance of a normal creeper -",
+        "however, they are invisible until they approach",
+        "the player."
+      ],
+      "translation": "它们外表与普通苦力怕无异——但在接近玩家前处于隐形状态.",
+      "styleMappings": {
+        "creeper": "苦力怕",
+        "player": "玩家"
+      }
+    },
+    {
+      "source": [
+        "Mob Type: ⚂ Cubic"
+      ],
+      "translation": "生物类型: ⚂ 立方体",
+      "styleMappings": {
+        "Mob Type": "生物类型"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sneaky Creeper (Monster)": "潜行苦力怕 (怪物)",
+    "(Monster)": "(怪物)",
+    "Creeper": "苦力怕",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

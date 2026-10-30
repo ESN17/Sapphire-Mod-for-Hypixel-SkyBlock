@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "id": "GHAST_GENERATOR_12",
+  "_original_name": "Ghast Minion XII",
+  "_original_lore": [
+    "Place this minion and it will start",
+    "generating and slaying Ghasts!",
+    "BEWARE OF EXPLOSIONS! Minions also",
+    "work when you are offline!",
+    "",
+    "Time Between Actions: 30s",
+    "Max Storage: 960",
+    "Resources Generated: 0",
+    "",
+    "RARE"
+  ],
+  "name": "恶魂仆从 XII",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Place this minion and it will start",
+        "generating and slaying Ghasts!"
+      ],
+      "translation": "放置此仆从后,它会开始生成并击杀恶魂!",
+      "styleMappings": {
+        "minion": "仆从",
+        "Ghasts": "恶魂"
+      }
+    },
+    {
+      "source": [
+        "BEWARE OF EXPLOSIONS! Minions also",
+        "work when you are offline!"
+      ],
+      "translation": "小心爆炸!仆从在你离线时也会工作!",
+      "styleMappings": {
+        "BEWARE OF EXPLOSIONS!": "小心爆炸!",
+        "Minions": "仆从",
+        "work": "工作",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Time Between Actions: {{N0}}s"
+      ],
+      "translation": "行动间隔:{{N0}}秒",
+      "styleMappings": {
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "Max Storage: {{N0}}"
+      ],
+      "translation": "最大存储:{{N0}}",
+      "styleMappings": {
+        "Max": "最大"
+      }
+    },
+    {
+      "source": [
+        "Resources Generated: {{N0}}"
+      ],
+      "translation": "产出资源:{{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Minion": "仆从"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "WOODCUTTING_CRYSTAL",
+  "_original_name": "Woodcutting Crystal",
+  "_original_lore": [
+    "Can be placed on your Private Island.",
+    "",
+    "While placed down, Foraging Minions",
+    "will work 10% faster.",
+    "",
+    "RARE"
+  ],
+  "name": "伐木水晶",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Can be placed on your Private Island."
+      ],
+      "translation": "可放置在你的私人岛屿上.",
+      "styleMappings": {
+        "Private Island": "私人岛屿",
+        "Island": "岛屿"
+      }
+    },
+    {
+      "source": [
+        "While placed down, Foraging Minions",
+        "will work {{N0}} faster."
+      ],
+      "translation": "放置后,采伐仆从的工作速度加快 {{N0}}.",
+      "styleMappings": {
+        "Foraging Minions": "采伐仆从",
+        "faster": "加快",
+        "Minions": "仆从",
+        "Foraging": "采伐",
+        "work": "工作"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Crystal": "水晶"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

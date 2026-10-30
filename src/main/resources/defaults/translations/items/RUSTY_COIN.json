@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "RUSTY_COIN",
+  "_original_name": "Rusty Coin",
+  "_original_lore": [
+    "A piece of Junk. Bring it to Junker",
+    "Joel!",
+    "",
+    "Completely covered in copious",
+    "amounts of rust and grime.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "生锈硬币",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A piece of Junk. Bring it to Junker",
+        "Joel!"
+      ],
+      "translation": "一件垃圾.把它带给 Junker Joel!",
+      "styleMappings": {
+        "Junk": "垃圾",
+        "Junker Joel": "Junker Joel"
+      }
+    },
+    {
+      "source": [
+        "Completely covered in copious",
+        "amounts of rust and grime."
+      ],
+      "translation": "完全被大量的锈迹和污垢覆盖.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Rusty Coin": "生锈硬币",
+    "Coin": "硬币"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

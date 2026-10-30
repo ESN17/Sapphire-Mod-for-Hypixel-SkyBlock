@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "CONJURING_SWORD",
+  "_original_name": "Conjuring",
+  "_original_lore": [
+    "Gear Score: 172",
+    "Damage: +68",
+    "Strength: +36",
+    "Intelligence: +85",
+    "",
+    "Reduces the cooldown of Guided",
+    "Sheep by 5 seconds, and prevents",
+    "Guided Sheep from spawning",
+    "randomly while holding this item.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Catacombs Skill 13.",
+    "RARE DUNGEON SWORD"
+  ],
+  "name": "咒术",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Reduces the cooldown of Guided",
+        "Sheep by {{N0}} seconds, and prevents",
+        "Guided Sheep from spawning",
+        "randomly while holding this item."
+      ],
+      "translation": "使引导羊的冷却时间减少 {{N0}} 秒,并在手持此物品时防止引导羊随机生成.",
+      "styleMappings": {
+        "cooldown": "冷却",
+        "seconds": "秒",
+        "Sheep": "羊",
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Catacombs Skill {{N0}}."
+      ],
+      "translation": "❣ 需要地牢技能 {{N0}}.",
+      "styleMappings": {
+        "Requires": "需要",
+        "Catacombs": "地牢",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "RARE DUNGEON SWORD"
+      ],
+      "translation": "稀有 地牢剑",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

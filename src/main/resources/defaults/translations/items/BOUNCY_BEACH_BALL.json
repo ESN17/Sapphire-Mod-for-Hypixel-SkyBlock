@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "id": "BOUNCY_BEACH_BALL",
+  "_original_name": "Bouncy Beach Ball",
+  "_original_lore": [
+    "Can be fished up during the Year of",
+    "the Seal.",
+    "",
+    "Ability: Bounce Bonanza  RIGHT CLICK",
+    "Toss this ball into the air and try",
+    "bouncing it on your head to earn",
+    "Fishy Treats. The more bounces, the",
+    "bigger the rewards!",
+    "",
+    "This item is consumed on use.",
+    "",
+    "EPIC"
+  ],
+  "name": "弹跳沙滩球",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Can be fished up during the Year of",
+        "the Seal."
+      ],
+      "translation": "可在海豹之年期间钓到.",
+      "styleMappings": {
+        "Year of the Seal": "海豹之年",
+        "Seal": "海豹",
+        "Year": "年"
+      }
+    },
+    {
+      "source": [
+        "Ability: Bounce Bonanza  RIGHT CLICK"
+      ],
+      "translation": "技能: 弹跳狂欢  右键点击",
+      "styleMappings": {
+        "Bounce Bonanza": "弹跳狂欢",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Toss this ball into the air and try",
+        "bouncing it on your head to earn",
+        "Fishy Treats. The more bounces, the",
+        "bigger the rewards!"
+      ],
+      "translation": "将这个球抛向空中, 试着用头颠球来获得鱼味零食.颠球次数越多, 奖励越丰厚!",
+      "styleMappings": {
+        "Fishy Treats": "鱼味零食"
+      }
+    },
+    {
+      "source": [
+        "This item is consumed on use."
+      ],
+      "translation": "此物品使用后会被消耗.",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Beach Ball": "沙滩球",
+    "Bouncy Beach Ball": "弹跳沙滩球"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

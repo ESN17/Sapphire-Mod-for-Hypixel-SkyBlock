@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "MUSHROOM_COW_ANIMAL",
+  "_original_name": "Mushroom Cow (Animal)",
+  "_original_lore": [
+    "Mushroom Cows in Hypixel Skyblock are just the classic",
+    "peaceful animal like in vanilla. They can be found",
+    "on The Farming Islands.",
+    "",
+    "❤ Health: 50"
+  ],
+  "name": "蘑菇牛 (动物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mushroom Cows in Hypixel Skyblock are just the classic",
+        "peaceful animal like in vanilla. They can be found",
+        "on The Farming Islands."
+      ],
+      "translation": "海像素空岛生存中的蘑菇牛就像原版中经典的和平动物一样.它们可以在农业岛屿上找到.",
+      "styleMappings": {
+        "The Farming Islands": "农业岛屿",
+        "peaceful animal": "和平动物",
+        "Mushroom": "蘑菇",
+        "Cows": "牛",
+        "Mushroom Cows": "蘑菇牛",
+        "Farming": "农业",
+        "Hypixel": "海像素"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Animal": "动物",
+    "Mushroom": "蘑菇"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

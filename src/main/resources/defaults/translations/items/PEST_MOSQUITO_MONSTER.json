@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "PEST_MOSQUITO_MONSTER",
+  "_original_name": "Mosquito (Pest)",
+  "_original_lore": [
+    "One of nature's most useless",
+    "creatures.",
+    "",
+    "Attracted to Compost.",
+    "",
+    "❤ Health: 600"
+  ],
+  "name": "蚊子 (害虫)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "One of nature's most useless",
+        "creatures."
+      ],
+      "translation": "自然界最没用的生物之一.",
+      "styleMappings": {
+        "s": "一"
+      }
+    },
+    {
+      "source": [
+        "Attracted to Compost."
+      ],
+      "translation": "被堆肥吸引.",
+      "styleMappings": {
+        "Compost": "堆肥"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Pest": "害虫",
+    "Mosquito": "蚊子"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

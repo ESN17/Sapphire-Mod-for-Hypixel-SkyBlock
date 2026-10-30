@@ -1,0 +1,181 @@
+{
+  "schemaVersion": 1,
+  "id": "SQUASH_BOOTS",
+  "_original_name": "Squash Boots",
+  "_original_lore": [
+    "Health: +120",
+    "Defense: +35",
+    "Bonus Pest Chance: +15%",
+    "Farming Fortune: +25",
+    "Speed: +4",
+    "Gemstones: []",
+    "",
+    "Tiered Bonus: Mento Fermento (0/4)",
+    "Farming Sugar Cane, Cacti,",
+    "Mushrooms, and Nether Warts has a",
+    "0.005% chance of dropping a",
+    "Fermento. Inside the Greenhouse",
+    "gives a 2.0% chance to drop one",
+    "from any crop grown inside. Grants",
+    "0 Farming Fortune.",
+    "",
+    "Ability: Farmer's Grace ",
+    "Grants immunity to trampling crops.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Farming Skill 35.",
+    "RARE BOOTS"
+  ],
+  "name": "西葫芦靴子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Bonus Pest Chance: {{N0}}"
+      ],
+      "translation": "额外害虫概率: {{N0}}",
+      "styleMappings": {
+        "Bonus Pest Chance": "额外害虫概率",
+        "Pest": "害虫"
+      }
+    },
+    {
+      "source": [
+        "Farming Fortune: {{N0}}"
+      ],
+      "translation": "农业幸运: {{N0}}",
+      "styleMappings": {
+        "Farming Fortune": "农业幸运",
+        "Fortune": "幸运",
+        "Farming": "农业"
+      }
+    },
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: []"
+      ],
+      "translation": "宝石: []",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石"
+      }
+    },
+    {
+      "source": [
+        "Tiered Bonus: Mento Fermento ({{N0}}/{{N1}})"
+      ],
+      "translation": "分级加成: 门托酵母菌 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Tiered Bonus": "分级加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Farming Sugar Cane, Cacti,",
+        "Mushrooms, and Nether Warts has a",
+        "{{N0}} chance of dropping a",
+        "Fermento. Inside the Greenhouse",
+        "gives a {{N1}} chance to drop one",
+        "from any crop grown inside. Grants",
+        "{{N2}} Farming Fortune."
+      ],
+      "translation": "种植甘蔗、仙人掌、蘑菇和下界疣时有 {{N0}} 概率掉落酵母菌.在温室中时,任何内部种植的作物都有 {{N1}} 概率掉落一个.提供 {{N2}} 农业幸运.",
+      "styleMappings": {
+        "Farming Fortune": "农业幸运",
+        "Nether Warts": "下界疣",
+        "Greenhouse": "温室",
+        "Sugar Cane": "甘蔗",
+        "Grants": "提供",
+        "Fortune": "幸运",
+        "chance": "概率",
+        "chance to": "概率",
+        "Farming": "农业",
+        "Nether": "下界"
+      }
+    },
+    {
+      "source": [
+        "Ability: Farmer's Grace "
+      ],
+      "translation": "技能: 农夫恩泽 ",
+      "styleMappings": {
+        "Ability: Farmer's Grace": "技能: 农夫恩泽",
+        "Ability": "技能"
+      }
+    },
+    {
+      "source": [
+        "Grants immunity to trampling crops."
+      ],
+      "translation": "免疫踩踏作物.",
+      "styleMappings": {
+        "immunity": "免疫",
+        "crops": "作物"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Farming Skill {{N0}}."
+      ],
+      "translation": "❣ 需要农业技能 {{N0}}.",
+      "styleMappings": {
+        "Farming Skill": "农业技能",
+        "Requires": "需要",
+        "Farming": "农业",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "RARE BOOTS"
+      ],
+      "translation": "稀有靴子",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Boots": "靴子"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "CREAMBLOOM",
+  "_original_name": "Creambloom",
+  "_original_lore": [
+    "A flower so soft and creamy, it could",
+    "almost pass for milk. Just don't be",
+    "tempted to try drinking it.",
+    "",
+    "Complete Visitor Beth's quest to",
+    "Analyze this crop!",
+    "",
+    "UNCOMMON MUTATION"
+  ],
+  "name": "奶油花",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A flower so soft and creamy, it could",
+        "almost pass for milk. Just don't be",
+        "tempted to try drinking it."
+      ],
+      "translation": "一朵如此柔软细腻的花,几乎可以冒充牛奶.只是别忍不住想喝它.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Complete Visitor Beth's quest to",
+        "Analyze this crop!"
+      ],
+      "translation": "完成访客 Beth 的任务来分析这种作物!",
+      "styleMappings": {
+        "Visitor": "访客",
+        "Beth's": "Beth 的",
+        "Analyze": "分析"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON MUTATION"
+      ],
+      "translation": "罕见变异",
+      "styleMappings": {
+        "UNCOMMON MUTATION": "罕见变异",
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

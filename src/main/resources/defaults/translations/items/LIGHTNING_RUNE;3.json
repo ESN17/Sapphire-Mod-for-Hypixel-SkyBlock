@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "LIGHTNING_RUNE;3",
+  "_original_name": "◆ Lightning Rune III",
+  "_original_lore": [
+    "Requires level 19",
+    "Weapons",
+    "",
+    "Chance to strike lightning on the",
+    "enemies you defeat!",
+    "",
+    "Apply this rune to weapons or fuse",
+    "two together at the Runic Pedestal!",
+    "",
+    "LEGENDARY COSMETIC"
+  ],
+  "name": "◆ 闪电符文 III",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Requires level {{N0}}",
+        "Weapons"
+      ],
+      "translation": "需要等级 {{N0}} 武器",
+      "styleMappings": {
+        "Requires": "需要"
+      }
+    },
+    {
+      "source": [
+        "Chance to strike lightning on the",
+        "enemies you defeat!"
+      ],
+      "translation": "击败敌人时有几率召唤闪电!",
+      "styleMappings": {
+        "lightning": "闪电",
+        "enemies": "敌人"
+      }
+    },
+    {
+      "source": [
+        "Apply this rune to weapons or fuse",
+        "two together at the Runic Pedestal!"
+      ],
+      "translation": "将此符文应用于武器,或在符文基座上将两个符文融合!",
+      "styleMappings": {
+        "Runic Pedestal": "符文基座",
+        "Runic": "符文"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY COSMETIC"
+      ],
+      "translation": "传说外观",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Lightning Rune III": "闪电符文 III",
+    "III": "III",
+    "Rune III": "符文 III"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "LEATHER_BOOTS",
+  "_original_name": "Leather Boots",
+  "_original_lore": [
+    "Defense: +5",
+    "",
+    "This item can be reforged!",
+    "COMMON BOOTS"
+  ],
+  "name": "皮革靴子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "COMMON BOOTS"
+      ],
+      "translation": "普通靴子",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Leather": "皮革",
+    "Boots": "靴子"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

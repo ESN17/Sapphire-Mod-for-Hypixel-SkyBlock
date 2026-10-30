@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "MYTH_THE_FISH",
+  "_original_name": "Myth the Fish",
+  "_original_lore": [
+    "The fish, the myth, the legend.",
+    "",
+    "SPECIAL"
+  ],
+  "name": "神话之鱼",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The fish, the myth, the legend."
+      ],
+      "translation": "这条鱼,这个神话,这段传说.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fish": "鱼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

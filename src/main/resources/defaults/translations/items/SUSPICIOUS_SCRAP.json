@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "SUSPICIOUS_SCRAP",
+  "_original_name": "Suspicious Scrap",
+  "_original_lore": [
+    "Found within the deepest depths of",
+    "the Glacite Tunnels. Place in the",
+    "Fossil Excavator to begin excavating!",
+    "",
+    "It's pretty heavy... maybe something",
+    "valuable lies within?",
+    "",
+    "RARE"
+  ],
+  "name": "可疑的碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Found within the deepest depths of",
+        "the Glacite Tunnels. Place in the",
+        "Fossil Excavator to begin excavating!"
+      ],
+      "translation": "发现于冰川矿道的最深处.放入Fossil Excavator即可开始挖掘!",
+      "styleMappings": {
+        "Glacite Tunnels": "冰川矿道",
+        "Fossil Excavator": "Fossil Excavator",
+        "depths": "深处",
+        "Glacite": "冰川",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "It's pretty heavy... maybe something",
+        "valuable lies within?"
+      ],
+      "translation": "它相当重……也许里面藏着什么值钱的东西?",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Suspicious": "可疑",
+    "Suspicious Scrap": "可疑的碎片"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

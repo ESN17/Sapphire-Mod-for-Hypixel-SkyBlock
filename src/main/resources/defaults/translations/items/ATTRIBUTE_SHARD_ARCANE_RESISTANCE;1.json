@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "ATTRIBUTE_SHARD_ARCANE_RESISTANCE;1",
+  "_original_name": "Brineling Shard",
+  "_original_lore": [
+    "Arcane Resistance I",
+    "Grants +4  Defense against ",
+    "Arcane mobs.",
+    "",
+    "You can Syphon this shard from",
+    "your Hunting Box.",
+    "",
+    "Right-click to send to Hunting Box!",
+    "Shift Right-click to move all!",
+    "",
+    "COMMON WATER SHARD (ID C47)"
+  ],
+  "name": "棘灵碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Arcane Resistance I"
+      ],
+      "translation": "奥术抗性 I",
+      "styleMappings": {
+        "Arcane Resistance I": "奥术抗性 I",
+        "Resistance I": "抗性 I",
+        "Arcane": "奥术",
+        "Resistance": "抗性"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}  Defense against ",
+        "Arcane mobs."
+      ],
+      "translation": "对 奥术生物提供 {{N0}}  防御.",
+      "styleMappings": {
+        " Defense": " 防御",
+        "Arcane": "奥术",
+        "Grants": "提供",
+        "mobs": "生物",
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "You can Syphon this shard from",
+        "your Hunting Box."
+      ],
+      "translation": "你可以从狩猎箱中吸取此碎片.",
+      "styleMappings": {
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to send to Hunting Box!"
+      ],
+      "translation": "右键点击发送至狩猎箱!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Shift Right-click to move all!"
+      ],
+      "translation": "潜行键 右键点击全部移动!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "all": "全部"
+      }
+    },
+    {
+      "source": [
+        "COMMON WATER SHARD (ID C{{N0}})"
+      ],
+      "translation": "普通水生碎片 (ID C{{N0}})",
+      "styleMappings": {
+        "COMMON WATER SHARD": "普通水生碎片",
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shard": "碎片",
+    "Brineling": "Brineling"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

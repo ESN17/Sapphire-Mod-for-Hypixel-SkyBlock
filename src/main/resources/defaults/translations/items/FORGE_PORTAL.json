@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "FORGE_PORTAL",
+  "_original_name": "Portal to The Forge",
+  "_original_lore": [
+    "Placing this item on your private",
+    "island will create a portal to The",
+    "Forge for you to use whenever you",
+    "want!",
+    "",
+    "The portal will spawn facing you on",
+    "the block you click on.",
+    "",
+    "COMMON PORTAL"
+  ],
+  "name": "通往锻造所的传送门",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Placing this item on your private",
+        "island will create a portal to The",
+        "Forge for you to use whenever you",
+        "want!"
+      ],
+      "translation": "将此物品放置在私人岛屿上,将创建一个通往锻造所的传送门,供你随时使用!",
+      "styleMappings": {
+        "private island": "私人岛屿",
+        "The Forge": "锻造所",
+        "portal to": "通往",
+        "item": "物品",
+        "island": "岛屿上",
+        "Forge": "锻造所"
+      }
+    },
+    {
+      "source": [
+        "The portal will spawn facing you on",
+        "the block you click on."
+      ],
+      "translation": "传送门将生成在你点击的方块上并面向你.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "COMMON PORTAL"
+      ],
+      "translation": "普通传送门",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Portal to The Forge": "通往锻造所的传送门",
+    "The Forge": "锻造所",
+    "Forge": "锻造所"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": "CRITICAL;6",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Critical VI",
+    "Increases  Crit Damage by 70%.",
+    "",
+    "Sources:",
+    " - Enchantment Table (I-V)",
+    " - Sven Packmaster (VI)",
+    " - Experiments (VI-VII)",
+    " - Bazaar (VI-VII)",
+    "",
+    "Applied To:",
+    " - Sword",
+    " - Longsword",
+    " - Gauntlet",
+    "",
+    "Requirements:",
+    " - Enchanting Level 9",
+    "",
+    "RARE"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Critical VI"
+      ],
+      "translation": "暴击 VI",
+      "styleMappings": {
+        "Critical": "暴击"
+      }
+    },
+    {
+      "source": [
+        "Increases  Crit Damage by {{N0}}."
+      ],
+      "translation": "增加  暴击伤害 {{N0}}.",
+      "styleMappings": {
+        " Crit Damage": " 暴击伤害",
+        "Increases": "增加",
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchantment Table (I-V)",
+        " - Sven Packmaster (VI)",
+        " - Experiments (VI-VII)",
+        " - Bazaar (VI-VII)"
+      ],
+      "translation": " - 附魔台 (一至五级)  - 斯文狼王 (六级)  - 实验 (六至七级)  - 集市 (六至七级)",
+      "styleMappings": {
+        "Enchantment Table": "附魔台",
+        "Sven Packmaster": "斯文狼王",
+        "Experiments": "实验",
+        "Bazaar": "集市",
+        "VI": "六",
+        "Enchantment": "附魔"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Sword",
+        " - Longsword",
+        " - Gauntlet"
+      ],
+      "translation": " - 剑  - 长剑  - 护手",
+      "styleMappings": {
+        "Sword": "剑",
+        "Longsword": "长剑",
+        "Gauntlet": "护手"
+      }
+    },
+    {
+      "source": [
+        "Requirements:"
+      ],
+      "translation": "需求:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchanting Level {{N0}}"
+      ],
+      "translation": " - 附魔等级 {{N0}}",
+      "styleMappings": {
+        "Enchanting Level": "附魔等级"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

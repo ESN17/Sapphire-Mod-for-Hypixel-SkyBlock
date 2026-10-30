@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": "MOLTEN_CUBE",
+  "_original_name": "Molten Cube",
+  "_original_lore": [
+    "Reforge Stone",
+    "Combinable in Anvil",
+    "",
+    "Applies the Cubic reforge when",
+    "combined with Armor.",
+    "",
+    "The center of Magma Cubes is the",
+    "hottest part...also the hardest. Giant",
+    "ones can even create stones like",
+    "this one.",
+    "",
+    "Grants the following stats that scale",
+    "with the item's rarity:",
+    "  Health",
+    "  Strength",
+    "",
+    "Cubic Bonus",
+    "Take -2%  Damage from  Infernal",
+    "mobs.",
+    "",
+    "Right-click to view rarity scaling!",
+    "",
+    "❣ Requires Mining Skill 20.",
+    "",
+    "RARE REFORGE STONE"
+  ],
+  "name": "熔岩方块",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Reforge Stone",
+        "Combinable in Anvil"
+      ],
+      "translation": "洗练石 可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Reforge Stone": "洗练石",
+        "Anvil": "铁砧",
+        "Reforge": "洗练"
+      }
+    },
+    {
+      "source": [
+        "Applies the Cubic reforge when",
+        "combined with Armor."
+      ],
+      "translation": "与护甲结合时应用立方洗练.",
+      "styleMappings": {
+        "Cubic": "立方",
+        "Armor": "护甲",
+        "reforge": "洗练",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "The center of Magma Cubes is the",
+        "hottest part...also the hardest. Giant",
+        "ones can even create stones like",
+        "this one."
+      ],
+      "translation": "岩浆怪的核心是最炽热的部分...也是最坚硬的部分.巨型岩浆怪甚至能凝结出这样的石头.",
+      "styleMappings": {
+        "Giant": "巨型",
+        "Magma Cubes": "岩浆怪"
+      }
+    },
+    {
+      "source": [
+        "Grants the following stats that scale"
+      ],
+      "translation": "提供以下随物品稀有度提升的属性:",
+      "styleMappings": {
+        "Grants": "提供",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "with the item's rarity:"
+      ],
+      "translation": "物品稀有度提升的属性:",
+      "styleMappings": {
+        "item": "物品",
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "  Health",
+        "  Strength"
+      ],
+      "translation": "   生命  力量",
+      "styleMappings": {
+        " Strength": " 力量",
+        "Health": "生命",
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Cubic Bonus",
+        "Take {{N0}}  Damage from  Infernal",
+        "mobs."
+      ],
+      "translation": "立方加成 受到来自 只 炼狱怪物的 {{N0}}  伤害.",
+      "styleMappings": {
+        "Cubic Bonus": "立方加成",
+        "Infernal": "炼狱",
+        " Damage": " 伤害",
+        "mobs": "怪物",
+        "Damage": "伤害",
+        "Bonus": "加成",
+        "Cubic": "立方",
+        "mobs.": "伤害."
+      }
+    },
+    {
+      "source": [
+        "Right-click to view rarity scaling!"
+      ],
+      "translation": "右键查看各稀有度的属性!",
+      "styleMappings": {
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Mining Skill {{N0}}."
+      ],
+      "translation": "❣ 需要采矿技能 {{N0}}.",
+      "styleMappings": {
+        "Mining Skill": "采矿技能",
+        "Requires": "需要",
+        "Mining": "采矿",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "RARE REFORGE STONE"
+      ],
+      "translation": "稀有 洗练石",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Molten Cube": "熔岩方块"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "GIANT_CLEAVER",
+  "_original_name": "Giant Cleaver",
+  "_original_lore": [
+    "Gear Score: 501",
+    "Damage: +235",
+    "Strength: +120",
+    "Crit Damage: +120%",
+    "",
+    "Ability: Cleave ",
+    "When hitting an entity, monsters in a 5 block",
+    "range will be hit for a portion of that damage",
+    "too.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires The Catacombs Floor VI Completion.",
+    "LEGENDARY DUNGEON SWORD"
+  ],
+  "name": "巨型劈刀",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: {{N0}}"
+      ],
+      "translation": "暴击伤害:{{N0}}",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Ability: Cleave "
+      ],
+      "translation": "能力: 横扫之刃 ",
+      "styleMappings": {
+        "Ability: Cleave": "能力: 横扫之刃",
+        "Ability": "能力",
+        "Cleave": "横扫之刃"
+      }
+    },
+    {
+      "source": [
+        "When hitting an entity, monsters in a {{N0}} block",
+        "range will be hit for a portion of that damage",
+        "too."
+      ],
+      "translation": "击中实体时,{{N0}} 格范围内的怪物也会受到该伤害的一部分.",
+      "styleMappings": {
+        "monsters": "怪物",
+        "damage": "伤害",
+        "block": "格",
+        "hit": "击中"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires The Catacombs Floor VI Completion."
+      ],
+      "translation": "❣ 需要通关地牢第 VI 层.",
+      "styleMappings": {
+        "The Catacombs": "地牢",
+        "Requires": "需要",
+        "Catacombs": "地牢"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY DUNGEON SWORD"
+      ],
+      "translation": "传说地牢剑",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Giant": "巨型"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

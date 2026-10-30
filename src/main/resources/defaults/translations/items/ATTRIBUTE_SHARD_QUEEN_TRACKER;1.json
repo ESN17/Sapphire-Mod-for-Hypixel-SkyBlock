@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "id": "ATTRIBUTE_SHARD_QUEEN_TRACKER;1",
+  "_original_name": "Ant Shard",
+  "_original_lore": [
+    "Queen Tracker I",
+    "Grants +0.5  Tracking towards",
+    "Queen Ants.",
+    "",
+    "You can Syphon this shard from",
+    "your Hunting Box.",
+    "",
+    "Right-click to send to Hunting Box!",
+    "Shift Right-click to move all!",
+    "",
+    "COMMON FOREST SHARD (ID C40)"
+  ],
+  "name": "蚂蚁碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Queen Tracker I"
+      ],
+      "translation": "蚁后追踪 I",
+      "styleMappings": {
+        "I": "I"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}  Tracking towards",
+        "Queen Ants."
+      ],
+      "translation": "提供 {{N0}}  对蚁后的追踪.",
+      "styleMappings": {
+        "Queen Ants": "蚁后",
+        "Tracking": "追踪",
+        "Grants": "提供"
+      }
+    },
+    {
+      "source": [
+        "You can Syphon this shard from",
+        "your Hunting Box."
+      ],
+      "translation": "你可以从狩猎箱中吸取此碎片.",
+      "styleMappings": {
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to send to Hunting Box!"
+      ],
+      "translation": "右键点击发送至狩猎箱!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Shift Right-click to move all!"
+      ],
+      "translation": "潜行键 右键点击全部移动!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "all": "全部"
+      }
+    },
+    {
+      "source": [
+        "COMMON FOREST SHARD (ID C{{N0}})"
+      ],
+      "translation": "普通森林碎片 (ID C{{N0}})",
+      "styleMappings": {
+        "COMMON FOREST SHARD": "普通森林碎片",
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shard": "碎片"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

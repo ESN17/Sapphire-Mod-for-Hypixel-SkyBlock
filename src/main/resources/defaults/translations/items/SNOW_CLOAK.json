@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "SNOW_CLOAK",
+  "_original_name": "Snow Cloak",
+  "_original_lore": [
+    "Health: +5",
+    "Intelligence: +5",
+    "Speed: +2",
+    "",
+    "Full Set Bonus: Cold Thumb (0/8)",
+    "Allows the wearer to shoot unlimited",
+    "snowballs when using Frosty the",
+    "Snow Cannon.",
+    "",
+    "Each piece grants a 5% bonus gift",
+    "chance for every present you earn",
+    "from the Gift Attack minigame!",
+    "",
+    "All stats of this armor piece are",
+    "doubled while on Jerry's Workshop!",
+    "",
+    "Right-click to equip!",
+    "",
+    "This item can be reforged!",
+    "RARE CLOAK"
+  ],
+  "name": "雪披风",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Cold Thumb ({{N0}}/{{N1}})"
+      ],
+      "translation": "全套加成: 冰冷拇指 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Full Set Bonus": "全套加成",
+        "Cold Thumb": "冰冷拇指",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Allows the wearer to shoot unlimited",
+        "snowballs when using Frosty the",
+        "Snow Cannon."
+      ],
+      "translation": "穿戴者使用雪球炮手 Frosty 时可发射无限雪球.",
+      "styleMappings": {
+        "Frosty the Snow Cannon": "雪球炮手 Frosty",
+        "when": "时",
+        "Snow Cannon": "雪球炮"
+      }
+    },
+    {
+      "source": [
+        "Each piece grants a {{N0}} bonus gift",
+        "chance for every present you earn",
+        "from the Gift Attack minigame!"
+      ],
+      "translation": "每件装备都会为你在礼物攻击小游戏中获得的每个礼物提供 {{N0}} 额外礼物概率!",
+      "styleMappings": {
+        "bonus gift chance": "额外礼物概率",
+        "Gift Attack": "礼物攻击",
+        "for": "获得",
+        "chance": "概率"
+      }
+    },
+    {
+      "source": [
+        "All stats of this armor piece are",
+        "doubled while on Jerry's Workshop!"
+      ],
+      "translation": "在杰瑞的工坊时, 此盔甲部件的所有属性翻倍!",
+      "styleMappings": {
+        "Jerry's Workshop": "杰瑞的工坊",
+        "doubled": "翻倍",
+        "stats": "属性",
+        "Jerry": "杰瑞"
+      }
+    },
+    {
+      "source": [
+        "Right-click to equip!"
+      ],
+      "translation": "右键点击装备!",
+      "styleMappings": {
+        "Right-click to equip!": "右键点击装备!",
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "RARE CLOAK"
+      ],
+      "translation": "稀有披风",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Snow Cloak": "雪披风",
+    "Cloak": "披风"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

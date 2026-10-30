@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "PANGOLIN_MONSTER",
+  "_original_name": "Pangolin (Monster)",
+  "_original_lore": [
+    "Mob Types:  Critter,  Timid,  Animal",
+    "",
+    "Rolls into a tight ball when",
+    "threatened.",
+    "",
+    "❤ Health: 2,500",
+    "",
+    "Hunted in Torrhus Canyon."
+  ],
+  "name": "穿山甲 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mob Types:  Critter,  Timid,  Animal"
+      ],
+      "translation": "生物类型:  生物,   胆小,   动物",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        " Critter": " 生物",
+        "Animal": "动物",
+        "Timid": "胆小",
+        "Critter": "生物",
+        " Animal": " 动物"
+      }
+    },
+    {
+      "source": [
+        "Rolls into a tight ball when",
+        "threatened."
+      ],
+      "translation": "受到威胁时会蜷缩成一团.",
+      "styleMappings": {
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Hunted in Torrhus Canyon."
+      ],
+      "translation": "在托鲁斯峡谷中狩猎.",
+      "styleMappings": {
+        "Torrhus Canyon": "托鲁斯峡谷"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

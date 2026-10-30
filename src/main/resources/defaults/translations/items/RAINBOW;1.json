@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": "RAINBOW;1",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Rainbow I",
+    "Causes sheep to drop a random",
+    "wool colour when sheared.",
+    "",
+    "Sources:",
+    " - Enchantment Table (I)",
+    " - Mollim (II)",
+    " - Raffle of the Century (III)",
+    "",
+    "Applied To:",
+    " - Shears",
+    "",
+    "Requirements:",
+    " - Enchanting Level 6",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Rainbow I"
+      ],
+      "translation": "彩虹 I",
+      "styleMappings": {
+        "Rainbow": "彩虹"
+      }
+    },
+    {
+      "source": [
+        "Causes sheep to drop a random",
+        "wool colour when sheared."
+      ],
+      "translation": "剪羊毛时使羊掉落随机颜色的羊毛.",
+      "styleMappings": {
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchantment Table (I)",
+        " - Mollim (II)",
+        " - Raffle of the Century (III)"
+      ],
+      "translation": " - 附魔台 (I)  - Mollim (II)  - 世纪抽奖 (III)",
+      "styleMappings": {
+        "Raffle of the Century": "世纪抽奖",
+        "Enchantment Table": "附魔台",
+        "II": "II",
+        "III": "III",
+        "Enchantment": "附魔"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Shears"
+      ],
+      "translation": " - 剪刀",
+      "styleMappings": {
+        "Shears": "剪刀"
+      }
+    },
+    {
+      "source": [
+        "Requirements:"
+      ],
+      "translation": "需求:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchanting Level {{N0}}"
+      ],
+      "translation": " - 附魔等级 {{N0}}",
+      "styleMappings": {
+        "Enchanting Level": "附魔等级"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

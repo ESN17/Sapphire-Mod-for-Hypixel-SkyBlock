@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "id": "RETIA_FORTA",
+  "_original_name": "Greater Huntrap",
+  "_original_lore": [
+    "Hunting Tool",
+    "",
+    "Ability: Retentio  RIGHT CLICK",
+    "Hunting Traps can be placed near",
+    "the spawn location of a Shard",
+    "creature, with time it will eventually",
+    "catch it.",
+    "",
+    "Ability: Forta ",
+    "Reduces the time to capture by 35%.",
+    "",
+    "Sagacitas et fortitudo coniuncta.",
+    "",
+    "❣ Requires Hunting Skill 15.",
+    "EPIC TRAP"
+  ],
+  "name": "高级狩猎陷阱",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Hunting Tool"
+      ],
+      "translation": "狩猎工具",
+      "styleMappings": {
+        "Hunting Tool": "狩猎工具"
+      }
+    },
+    {
+      "source": [
+        "Ability: Retentio  RIGHT CLICK"
+      ],
+      "translation": "能力: 滞留  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "能力",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Hunting Traps can be placed near",
+        "the spawn location of a Shard",
+        "creature, with time it will eventually",
+        "catch it."
+      ],
+      "translation": "狩猎陷阱可以放置在碎片生物的生成点附近,随时间推移最终会将其捕获.",
+      "styleMappings": {
+        "Hunting Traps": "狩猎陷阱",
+        "Shard": "碎片"
+      }
+    },
+    {
+      "source": [
+        "Ability: Forta "
+      ],
+      "translation": "能力: 强攻 ",
+      "styleMappings": {
+        "Ability": "能力"
+      }
+    },
+    {
+      "source": [
+        "Reduces the time to capture by {{N0}}."
+      ],
+      "translation": "将捕获时间缩短 {{N0}}.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Sagacitas et fortitudo coniuncta."
+      ],
+      "translation": "智慧与勇气并存.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "❣ Requires Hunting Skill {{N0}}."
+      ],
+      "translation": "❣ 需要狩猎技能 {{N0}}.",
+      "styleMappings": {
+        "Hunting Skill": "狩猎技能",
+        "Requires": "需要",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC TRAP"
+      ],
+      "translation": "史诗陷阱",
+      "styleMappings": {
+        "EPIC TRAP": "史诗陷阱",
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

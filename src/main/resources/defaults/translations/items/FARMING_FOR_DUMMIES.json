@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "FARMING_FOR_DUMMIES",
+  "_original_name": "Farming for Dummies",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Grants +1 Farming Fortune when",
+    "applied to a Farming Tool or Vacuum.",
+    "Can be applied to an item up to 5",
+    "times.",
+    "",
+    "EPIC"
+  ],
+  "name": "农耕入门手册",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Farming Fortune when",
+        "applied to a Farming Tool or Vacuum."
+      ],
+      "translation": "应用于农耕工具或吸尘器时,提供 {{N0}} 农耕幸运.",
+      "styleMappings": {
+        "Farming Fortune": "农耕幸运",
+        "Grants": "提供",
+        "Fortune": "幸运",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Can be applied to an item up to {{N0}}",
+        "times."
+      ],
+      "translation": "最多可应用于同一物品 {{N0}} 次.",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

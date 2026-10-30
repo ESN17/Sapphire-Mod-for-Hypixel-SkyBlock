@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "MOONGLADE_RING",
+  "_original_name": "Moonglade Ring",
+  "_original_lore": [
+    "Fig Fortune: +10",
+    "Mangrove Fortune: +10",
+    "Accessory Power: +5",
+    "",
+    "Works while in Accessory Bag!",
+    "UNCOMMON ACCESSORY"
+  ],
+  "name": "月辉戒指",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Fig Fortune: {{N0}}"
+      ],
+      "translation": "无花果幸运:{{N0}}",
+      "styleMappings": {
+        "Fig Fortune": "无花果幸运",
+        "Fortune": "幸运"
+      }
+    },
+    {
+      "source": [
+        "Mangrove Fortune: {{N0}}"
+      ],
+      "translation": "红树幸运:{{N0}}",
+      "styleMappings": {
+        "Mangrove Fortune": "红树幸运",
+        "Fortune": "幸运"
+      }
+    },
+    {
+      "source": [
+        "Accessory Power: {{N0}}"
+      ],
+      "translation": "饰品能量: {{N0}}",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "放在饰品袋中即可生效!",
+      "styleMappings": {
+        "Accessory Bag": "饰品袋",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON ACCESSORY"
+      ],
+      "translation": "罕见 饰品",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Moonglade": "月辉",
+    "Ring": "戒指"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

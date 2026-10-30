@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "YETI_SC",
+  "_original_name": "Yeti (Sea Creature)",
+  "_original_lore": [
+    "Mob Types: ⚓ Aquatic, ☃ Frozen, ❃ Elusive",
+    "❤ Health: 2,000,000",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "雪人 (海怪)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mob Types: ⚓ Aquatic, ☃ Frozen, ❃ Elusive"
+      ],
+      "translation": "生物类型: ⚓ 水生, ☃ 冰霜, ❃ 难以捉摸",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Aquatic": "水生",
+        "Frozen": "冰霜",
+        "Elusive": "难以捉摸"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sea Creature": "海怪",
+    "(Sea Creature)": "(海怪)",
+    "Yeti": "雪人"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

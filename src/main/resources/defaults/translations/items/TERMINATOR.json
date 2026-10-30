@@ -1,0 +1,236 @@
+{
+  "schemaVersion": 1,
+  "id": "TERMINATOR",
+  "_original_name": "Terminator",
+  "_original_lore": [
+    "Damage: +310",
+    "Strength: +50",
+    "Crit Damage: +250%",
+    "Attack Speed: +40%",
+    "Shot Cooldown: 0.5s",
+    "",
+    "Shoots 3 arrows at once.",
+    "Can damage endermen.",
+    "",
+    "Divides your  Crit Chance by 4!",
+    "",
+    "Ability: Salvation  LEFT CLICK",
+    "Can be cast after landing 3 hits.",
+    "Shoot a beam, penetrating up to 5",
+    "enemies.",
+    "The beam always crits.",
+    "Soulflow Cost: 1⸎",
+    "",
+    "Shortbow: Instantly shoots!",
+    "",
+    "This item can be reforged!",
+    "☠ Requires Enderman Slayer 7.",
+    "LEGENDARY BOW"
+  ],
+  "name": "终结者",
+  "lore": {
+    "Damage: {value}": "伤害:{value}",
+    "Strength: {value}": "力量:{value}",
+    "Crit Damage: {value}": "暴击伤害:{value}",
+    "Attack Speed: {value}": "攻击速度:{value}",
+    "Shot Cooldown: {value}s": "射击间隔:{value}秒",
+    "Shoots {count} arrows at once.": "同时射出 {count} 支箭.",
+    "Can damage endermen.": "可以伤害末影人.",
+    "Divides your  Crit Chance by {divisor}!": "你的  暴击率除以 {divisor}!",
+    "Ability: Salvation  LEFT CLICK": "技能:救赎  左键点击",
+    "Can be cast after landing {hits} hits.": "命中 {hits} 次后可施放.",
+    "The beam always crits.": "光束必定暴击.",
+    "Soulflow Cost: {value}⸎": "灵魂流消耗:{value}⸎",
+    "Shortbow: Instantly shoots!": "短弓:即时射击!",
+    "This item can be reforged!": "此物品可以洗练!",
+    "☠ Requires Enderman Slayer {level}.": "☠ 需要末影人杀手 {level}.",
+    "LEGENDARY BOW": "传说 弓",
+    "Damage: {value} ({bonus})": "伤害:{value} ({bonus})",
+    "Strength: {value} ({bonus})": "力量:{value} ({bonus})",
+    "Crit Damage: {value} ({bonus})": "暴击伤害:{value} ({bonus})",
+    "Attack Speed: {value} ({bonus})": "攻击速度:{value} ({bonus})"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "Shoot a beam, penetrating up to {count}",
+        "enemies."
+      ],
+      "translation": "发射一道光束,最多穿透 {count} 个敌人.",
+      "styleMappings": {
+        "enemies": "敌人"
+      }
+    },
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: {{N0}}"
+      ],
+      "translation": "暴击伤害:{{N0}}",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Attack Speed: {{N0}}"
+      ],
+      "translation": "攻击速度: {{N0}}",
+      "styleMappings": {
+        "Attack Speed": "攻击速度",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Shot Cooldown: {{N0}}s"
+      ],
+      "translation": "射击间隔:{{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "Shoots {{N0}} arrows at once."
+      ],
+      "translation": "同时射出 {{N0}} 支箭.",
+      "styleMappings": {
+        "Shoots": "射出"
+      }
+    },
+    {
+      "source": [
+        "Can damage endermen."
+      ],
+      "translation": "可以伤害末影人.",
+      "styleMappings": {
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Divides your  Crit Chance by {{N0}}!"
+      ],
+      "translation": "你的  暴击率除以 {{N0}}!",
+      "styleMappings": {
+        "Crit Chance": "暴击率"
+      }
+    },
+    {
+      "source": [
+        "Ability: Salvation  LEFT CLICK"
+      ],
+      "translation": "技能:救赎  左键点击",
+      "styleMappings": {
+        "LEFT CLICK": "左键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Can be cast after landing {{N0}} hits."
+      ],
+      "translation": "命中 {{N0}} 次后可施放.",
+      "styleMappings": {
+        "hits": "命中"
+      }
+    },
+    {
+      "source": [
+        "Shoot a beam, penetrating up to {{N0}}",
+        "enemies."
+      ],
+      "translation": "发射一道光束,最多穿透 {{N0}} 个敌人.",
+      "styleMappings": {
+        "enemies": "敌人"
+      }
+    },
+    {
+      "source": [
+        "The beam always crits."
+      ],
+      "translation": "光束必定暴击.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Soulflow Cost: {{N0}}⸎"
+      ],
+      "translation": "灵魂流消耗:{{N0}}⸎",
+      "styleMappings": {
+        "Soulflow Cost": "灵魂流消耗",
+        "Soulflow": "灵魂流"
+      }
+    },
+    {
+      "source": [
+        "Shortbow: Instantly shoots!"
+      ],
+      "translation": "短弓: 即时射击!",
+      "styleMappings": {
+        "Shortbow": "短弓"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Enderman Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要末影人杀手 {{N0}}.",
+      "styleMappings": {
+        "Enderman Slayer": "末影人杀手",
+        "Requires": "需要",
+        "Slayer": "杀手",
+        "Enderman": "末影人"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY BOW"
+      ],
+      "translation": "传说 弓",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Strength": "力量",
+    "Crit Damage": "暴击伤害",
+    "Attack Speed": "攻击速度",
+    "s": "秒",
+    "Crit Chance": "暴击率",
+    "LEFT CLICK": "左键点击",
+    "Enderman Slayer": "末影人杀手"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_MANA;6",
+  "_original_name": "Mana VI Potion",
+  "_original_lore": [
+    "",
+    "Mana VI (3:00)",
+    "Grants +6 ✎ Mana per second.",
+    "",
+    "RARE"
+  ],
+  "name": "法力 VI 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mana VI ({{N0}}:{{N1}})"
+      ],
+      "translation": "法力 VI ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Mana VI": "法力 VI",
+        "Mana": "法力"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} ✎ Mana per second."
+      ],
+      "translation": "每秒提供 {{N0}} ✎ 法力.",
+      "styleMappings": {
+        "per second": "每秒",
+        "Grants": "提供",
+        "Mana": "法力",
+        "second": "秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mana VI": "法力 VI",
+    "Mana": "法力"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

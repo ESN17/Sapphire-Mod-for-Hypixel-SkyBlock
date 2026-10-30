@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "SPARKLING_AMULET",
+  "_original_name": "Sparkling Amulet",
+  "_original_lore": [
+    "Increases your chance of finding",
+    "SPARKLING  Critters by 2x.",
+    "Sparkling Amulet bonuses do not stack.",
+    "",
+    "SPECIAL NECKLACE"
+  ],
+  "name": "闪耀护身符",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Increases your chance of finding",
+        "SPARKLING  Critters by {{N0}}x."
+      ],
+      "translation": "使你找到 闪耀  小动物的概率提高 {{N0}} 倍.",
+      "styleMappings": {
+        "SPARKLING": "闪耀",
+        "Critters": "小动物",
+        "{{N0}}x": "{{N0}} 倍",
+        "chance": "概率"
+      }
+    },
+    {
+      "source": [
+        "Sparkling Amulet bonuses do not stack."
+      ],
+      "translation": "闪耀护身符的加成不叠加.",
+      "styleMappings": {
+        "Sparkling Amulet": "闪耀护身符"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL NECKLACE"
+      ],
+      "translation": "特殊项链",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sparkling Amulet": "闪耀护身符"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

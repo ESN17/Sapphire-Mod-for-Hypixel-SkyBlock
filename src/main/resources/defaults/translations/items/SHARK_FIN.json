@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "SHARK_FIN",
+  "_original_name": "Shark Fin",
+  "_original_lore": [
+    "Dropped by a Shark during Fishing",
+    "Festival.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "RARE"
+  ],
+  "name": "鲨鱼鳍",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Dropped by a Shark during Fishing",
+        "Festival."
+      ],
+      "translation": "钓鱼节期间由鲨鱼掉落.",
+      "styleMappings": {
+        "Fishing Festival": "钓鱼节",
+        "Shark": "鲨鱼",
+        "Fishing": "钓鱼"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shark": "鲨鱼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

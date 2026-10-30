@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "SAM_ASSISTANT",
+  "_original_name": "Move Sam",
+  "_original_lore": [
+    "Place this where you would like Sam",
+    "to move to!",
+    "",
+    "COMMON"
+  ],
+  "name": "移动萨姆",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Place this where you would like Sam",
+        "to move to!"
+      ],
+      "translation": "将此物放在你希望山姆移动到的位置!",
+      "styleMappings": {
+        "Sam": "山姆"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sam": "萨姆"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

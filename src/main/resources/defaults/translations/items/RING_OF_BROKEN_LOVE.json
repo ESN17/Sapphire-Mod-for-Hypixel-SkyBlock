@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "RING_OF_BROKEN_LOVE",
+  "_original_name": "Ring of Broken Love",
+  "_original_lore": [
+    "Rift Time: +80s",
+    "",
+    "This time around, fate really got in",
+    "the way of love.",
+    "",
+    "LEGENDARY ACCESSORY"
+  ],
+  "name": "破碎之爱戒指",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Rift Time: {{N0}}s"
+      ],
+      "translation": "裂隙时间: {{N0}}秒",
+      "styleMappings": {
+        "Rift Time": "裂隙时间",
+        "{{N0}}s": "{{N0}}秒",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "This time around, fate really got in",
+        "the way of love."
+      ],
+      "translation": "这一次,命运真的挡在了爱情的路上.",
+      "styleMappings": {
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY ACCESSORY"
+      ],
+      "translation": "传说饰品",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Ring": "戒指"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

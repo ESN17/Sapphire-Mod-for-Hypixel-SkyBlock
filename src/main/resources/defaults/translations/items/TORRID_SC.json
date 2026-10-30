@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "TORRID_SC",
+  "_original_name": "Torrid (Sea Creature)",
+  "_original_lore": [
+    "Mob Types:  Aquatic,  Airborne",
+    "",
+    "Always up to no good. When they get",
+    "together with Pucks, even more",
+    "trouble is caused.",
+    "",
+    "❤ Health: 100,000",
+    "",
+    "Fished up on Torrhus Canyon."
+  ],
+  "name": "炽热 (海洋生物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mob Types:  Aquatic,  Airborne"
+      ],
+      "translation": "生物类型:  水生,  空中",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Aquatic": "水生",
+        "Airborne": "空中"
+      }
+    },
+    {
+      "source": [
+        "Always up to no good. When they get",
+        "together with Pucks, even more",
+        "trouble is caused."
+      ],
+      "translation": "总是惹是生非.当它们与帕克斯聚在一起时,会引发更多麻烦.",
+      "styleMappings": {
+        "more": "更多"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Fished up on Torrhus Canyon."
+      ],
+      "translation": "在托鲁斯峡谷钓到.",
+      "styleMappings": {
+        "Torrhus Canyon": "托鲁斯峡谷"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sea Creature": "海洋生物",
+    "(Sea Creature)": "(海洋生物)"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "TITAN_LINE",
+  "_original_name": "Titan Line",
+  "_original_lore": [
+    "Grants +2 Double Hook Chance.",
+    "",
+    "Talk to Roddy in the Backwater",
+    "Bayou to apply this Line to a Fishing",
+    "Rod.",
+    "",
+    "❣ Requires Fishing Skill 30.",
+    "LEGENDARY ROD PART"
+  ],
+  "name": "泰坦钓线",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Grants {{N0}} Double Hook Chance."
+      ],
+      "translation": "提供 {{N0}} 双钩概率.",
+      "styleMappings": {
+        "Double Hook Chance": "双钩概率",
+        "Grants": "提供"
+      }
+    },
+    {
+      "source": [
+        "Talk to Roddy in the Backwater",
+        "Bayou to apply this Line to a Fishing",
+        "Rod."
+      ],
+      "translation": "与静水河湾的 Roddy 交谈,将此钓线应用到钓鱼竿上.",
+      "styleMappings": {
+        "Backwater Bayou": "静水河湾",
+        "Fishing Rod": "钓鱼竿",
+        "Roddy": "Roddy",
+        "Line": "钓线",
+        "Fishing": "钓鱼",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Fishing Skill {{N0}}."
+      ],
+      "translation": "❣ 需要钓鱼技能 {{N0}}.",
+      "styleMappings": {
+        "Fishing Skill": "钓鱼技能",
+        "Requires": "需要",
+        "Fishing": "钓鱼",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY ROD PART"
+      ],
+      "translation": "传说钓竿部件",
+      "styleMappings": {
+        "LEGENDARY ROD PART": "传说钓竿部件",
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Line": "钓线"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

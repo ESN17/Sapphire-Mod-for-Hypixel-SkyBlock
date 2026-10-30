@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "TARANTULA_VERMIN_MINIBOSS",
+  "_original_name": "Tarantula Vermin (Miniboss)",
+  "_original_lore": [
+    "Tarantula Vermin is a Slayer Miniboss. It spawns",
+    "rarely when a player is doing the Tarantula ",
+    "Broodfather Tier III quest and they kill a Spider.",
+    "",
+    "❤ Health: 54,000"
+  ],
+  "name": "狼蛛害虫 (小首领)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Tarantula Vermin is a Slayer Miniboss. It spawns",
+        "rarely when a player is doing the Tarantula ",
+        "Broodfather Tier III quest and they kill a Spider."
+      ],
+      "translation": "狼蛛害虫是一种杀手小首领.当玩家进行狼蛛育母之父 III 级任务并击杀蜘蛛时,它有几率生成.",
+      "styleMappings": {
+        "Tarantula  Broodfather Tier III": "狼蛛育母之父 III 级",
+        "Slayer Miniboss": "杀手小首领",
+        "Spider": "蜘蛛",
+        "player": "玩家",
+        "rarely": "有几率",
+        "Tarantula Vermin": "狼蛛害虫",
+        "III": "III",
+        "Miniboss": "小首领",
+        "Slayer": "杀手",
+        "Tarantula": "狼蛛",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Miniboss)": "(小首领)",
+    "Tarantula": "狼蛛",
+    "Miniboss": "小首领",
+    "Tarantula Vermin": "狼蛛害虫"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "id": "WEREWOLF_WOLF_PACK",
+  "_original_name": "Wolf Pack Werewolf Skin",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Item skins give your gear a fresh",
+    "new look! Apply them just like an",
+    "enchant book using the anvil.",
+    "",
+    "This skin can be applied to Werewolf",
+    "Helmet.",
+    "",
+    "This skin will allow you to swap",
+    "between 18 favorite wolf packs!",
+    "",
+    "MYTHIC COSMETIC"
+  ],
+  "name": "狼群狼人皮",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Item skins give your gear a fresh",
+        "new look! Apply them just like an",
+        "enchant book using the anvil."
+      ],
+      "translation": "物品皮肤能让你的装备焕然一新!像附魔书一样在铁砧上使用即可.",
+      "styleMappings": {
+        "fresh new look": "焕然一新",
+        "enchant book": "附魔书",
+        "Item skins": "物品皮肤",
+        "anvil": "铁砧",
+        "Item": "物品"
+      }
+    },
+    {
+      "source": [
+        "This skin can be applied to Werewolf",
+        "Helmet."
+      ],
+      "translation": "该皮肤可应用于狼人头盔.",
+      "styleMappings": {
+        "Werewolf Helmet": "狼人头盔",
+        "Helmet": "头盔",
+        "This skin can be applied to": "该皮肤可应用于"
+      }
+    },
+    {
+      "source": [
+        "This skin will allow you to swap",
+        "between {{N0}} favorite wolf packs!"
+      ],
+      "translation": "该皮肤允许你在 {{N0}} 个喜爱的狼群之间切换!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "MYTHIC COSMETIC"
+      ],
+      "translation": "神话 外观",
+      "styleMappings": {
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Wolf": "狼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

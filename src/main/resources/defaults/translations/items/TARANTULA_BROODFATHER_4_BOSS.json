@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "TARANTULA_BROODFATHER_4_BOSS",
+  "_original_name": "Tarantula Broodfather IV (Boss)",
+  "_original_lore": [
+    "Debilitating",
+    "",
+    "Health: 2,400,000❤",
+    "Damage: 530 per second",
+    "",
+    "Backstab",
+    "Occasionally leaps behind you. Attacks",
+    "from behind deal +60% Damage.",
+    "",
+    "Noxious Paralysis",
+    "Reduces your  Vitality by 50% and ",
+    "Speed by 50%.",
+    "",
+    "Web of Lies",
+    "The boss begins to heal and spews",
+    "webbing along the ground, disabling",
+    "teleportation abilities until they are",
+    "cleared, and spawns 3 egg sacs in the",
+    "air. Destroy them before they hatch into",
+    "minions!",
+    "",
+    "Bat Barrage",
+    "Releases a horde of evil bats. Take 0.1%",
+    "Max ❤ per second for each bat alive."
+  ],
+  "name": "狼蛛育母 IV (首领)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Debilitating"
+      ],
+      "translation": "衰弱",
+      "styleMappings": {
+        "Debilitating": "衰弱"
+      }
+    },
+    {
+      "source": [
+        "Health: {{N0}}❤"
+      ],
+      "translation": "生命值: {{N0}}❤",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Damage: {{N0}} per second"
+      ],
+      "translation": "伤害: 每秒 {{N0}}",
+      "styleMappings": {
+        "per second": "每秒",
+        "Damage": "伤害",
+        "second": "秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Backstab"
+      ],
+      "translation": "背刺",
+      "styleMappings": {
+        "Backstab": "背刺"
+      }
+    },
+    {
+      "source": [
+        "Occasionally leaps behind you. Attacks",
+        "from behind deal {{N0}} Damage."
+      ],
+      "translation": "偶尔跃至你身后.从背后发起的攻击造成 {{N0}} 伤害.",
+      "styleMappings": {
+        "deal": "造成",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Noxious Paralysis"
+      ],
+      "translation": "剧毒麻痹",
+      "styleMappings": {
+        "Noxious Paralysis": "剧毒麻痹"
+      }
+    },
+    {
+      "source": [
+        "Reduces your  Vitality by {{N0}} and ",
+        "Speed by {{N1}}."
+      ],
+      "translation": "使你的  生命恢复降低 {{N0}}, 速度降低 {{N1}}.",
+      "styleMappings": {
+        "Vitality": "生命恢复",
+        "Speed": "速度",
+        " Speed": " 速度"
+      }
+    },
+    {
+      "source": [
+        "Web of Lies",
+        "The boss begins to heal and spews",
+        "webbing along the ground, disabling",
+        "teleportation abilities until they are",
+        "cleared, and spawns {{N0}} egg sacs in the",
+        "air. Destroy them before they hatch into",
+        "minions!"
+      ],
+      "translation": "谎言蛛网 首领开始治疗,并沿地面喷吐蛛网,禁用传送能力直到被清除,同时在半空中生成 {{N0}} 个卵囊.在它们孵化成仆从前摧毁它们!",
+      "styleMappings": {
+        "Web of Lies": "谎言蛛网",
+        "teleportation": "传送",
+        "minions": "仆从"
+      }
+    },
+    {
+      "source": [
+        "Bat Barrage",
+        "Releases a horde of evil bats. Take {{N0}}",
+        "Max ❤ per second for each bat alive."
+      ],
+      "translation": "蝙蝠弹幕 释放一群邪恶蝙蝠.每只存活的蝙蝠使你每秒失去 {{N0}} 最大 ❤.",
+      "styleMappings": {
+        "Bat Barrage": "蝙蝠弹幕",
+        "per second": "每秒",
+        "Max": "最大",
+        "Bat": "蝙蝠",
+        "second": "秒",
+        "per": "每"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Tarantula": "狼蛛",
+    "Boss": "首领",
+    "Tarantula Broodfather": "狼蛛育母"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

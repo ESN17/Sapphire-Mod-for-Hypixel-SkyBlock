@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "NOPE_THE_FISH",
+  "_original_name": "Nope the Fish",
+  "_original_lore": [
+    "Why did we follow Shrimp...",
+    "",
+    "* Co-op Soulbound *",
+    "SPECIAL"
+  ],
+  "name": "不是鱼",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Why did we follow Shrimp..."
+      ],
+      "translation": "我们为什么要跟着什里姆普...",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fish": "鱼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

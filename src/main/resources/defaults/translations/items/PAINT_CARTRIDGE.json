@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "PAINT_CARTRIDGE",
+  "_original_name": "Paint Drying Simulator",
+  "_original_lore": [
+    "Observe the thrilling process of",
+    "paint drying to gain ☯ Carpentry",
+    "Wisdom! Be careful not to look away,",
+    "this paint demands your full attention.",
+    "",
+    "Right-click to open!",
+    "",
+    "RARE"
+  ],
+  "name": "油漆干燥模拟器",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Observe the thrilling process of",
+        "paint drying to gain ☯ Carpentry",
+        "Wisdom! Be careful not to look away,",
+        "this paint demands your full attention."
+      ],
+      "translation": "观察油漆干燥的刺激过程以获得 ☯ 木工智慧!小心不要移开视线,这桶油漆需要你全神贯注.",
+      "styleMappings": {
+        "Carpentry Wisdom": "木工智慧",
+        "Wisdom": "智慧",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "Right-click to open!"
+      ],
+      "translation": "右键点击打开!",
+      "styleMappings": {
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

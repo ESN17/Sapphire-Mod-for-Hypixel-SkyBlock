@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "WITHER_HELMET",
+  "_original_name": "Wither Helmet",
+  "_original_lore": [
+    "Gear Score: 440",
+    "Health: +200",
+    "Defense: +100",
+    "Intelligence: +30",
+    "",
+    "Reduces the damage you take from",
+    "withers by 10%.",
+    "",
+    "Full Set Bonus: Witherborn (0/4)",
+    "Spawns a wither minion every 30",
+    "seconds up to a maximum 1 wither.",
+    "Your withers will travel to and",
+    "explode on nearby enemies.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires The Catacombs Floor VII Completion.",
+    "LEGENDARY DUNGEON HELMET"
+  ],
+  "name": "凋灵头盔",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Reduces the damage you take from",
+        "withers by {{N0}}."
+      ],
+      "translation": "减少你受到凋灵造成的 {{N0}} 伤害.",
+      "styleMappings": {
+        "withers": "凋灵",
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Witherborn ({{N0}}/{{N1}})"
+      ],
+      "translation": "全套效果: 凋灵降生 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Full Set Bonus": "全套效果",
+        "Witherborn": "凋灵降生"
+      }
+    },
+    {
+      "source": [
+        "Spawns a wither minion every {{N0}}",
+        "seconds up to a maximum {{N1}} wither."
+      ],
+      "translation": "每 {{N0}} 秒生成一个凋灵仆从,最多 {{N1}} 个凋灵.",
+      "styleMappings": {
+        "seconds": "秒",
+        "minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "Your withers will travel to and",
+        "explode on nearby enemies."
+      ],
+      "translation": "你的凋灵会飞向附近的敌人并爆炸.",
+      "styleMappings": {
+        "withers": "凋灵",
+        "enemies": "敌人"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires The Catacombs Floor VII Completion."
+      ],
+      "translation": "❣ 需要通关地牢第 VII 层.",
+      "styleMappings": {
+        "The Catacombs": "地牢",
+        "Requires": "需要",
+        "Catacombs": "地牢"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY DUNGEON HELMET"
+      ],
+      "translation": "传说 地牢 头盔",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Helmet": "头盔",
+    "Wither": "凋灵",
+    "Wither Helmet": "凋灵头盔"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

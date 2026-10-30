@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "OBFUSCATED_FISH_2_GOLD",
+  "_original_name": "Obfuscated-2 GOLD",
+  "_original_lore": [
+    "Fishing Bait",
+    "Consumes on Catch",
+    "",
+    "Caught with Obfuscated 1 Bait.",
+    "",
+    "Bring this to Odger at the top of the",
+    "Blazing Volcano.",
+    "",
+    "* Soulbound *",
+    "UNCOMMON TROPHY"
+  ],
+  "name": "混淆-2 黄金",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Fishing Bait",
+        "Consumes on Catch"
+      ],
+      "translation": "钓鱼鱼饵 钓起时消耗",
+      "styleMappings": {
+        "Consumes on Catch": "钓起时消耗",
+        "Fishing Bait": "钓鱼鱼饵",
+        "Fishing": "钓鱼",
+        "Bait": "鱼饵"
+      }
+    },
+    {
+      "source": [
+        "Caught with Obfuscated {{N0}} Bait."
+      ],
+      "translation": "使用混淆 {{N0}} 鱼饵钓获.",
+      "styleMappings": {
+        "Obfuscated": "混淆",
+        "Bait": "鱼饵"
+      }
+    },
+    {
+      "source": [
+        "Bring this to Odger at the top of the",
+        "Blazing Volcano."
+      ],
+      "translation": "将此物交给炽焰火山顶部的 Odger.",
+      "styleMappings": {
+        "Blazing Volcano": "炽焰火山",
+        "Odger": "Odger"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON TROPHY"
+      ],
+      "translation": "罕见奖杯",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "GOLD": "黄金",
+    "Obfuscated": "混淆"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

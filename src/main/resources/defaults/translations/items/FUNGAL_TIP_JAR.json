@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "FUNGAL_TIP_JAR",
+  "_original_name": "Fungal Tip Jar",
+  "_original_lore": [
+    "Give this item to Sam to permanently",
+    "unlock a tip jar that Visitors can tip",
+    "Copper in.",
+    "",
+    "RARE"
+  ],
+  "name": "真菌小费罐",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Give this item to Sam to permanently",
+        "unlock a tip jar that Visitors can tip",
+        "Copper in."
+      ],
+      "translation": "将此物品交给山姆以永久解锁一个访客可以投入铜的小费罐.",
+      "styleMappings": {
+        "permanently": "永久",
+        "Visitors": "访客",
+        "Copper": "铜",
+        "item": "物品",
+        "Sam": "山姆"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

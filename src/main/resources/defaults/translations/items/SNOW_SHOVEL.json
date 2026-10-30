@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "SNOW_SHOVEL",
+  "_original_name": "Snow Shovel",
+  "_original_lore": [
+    "Ability: Snow Placer  RIGHT CLICK",
+    "Right-Click a block to place a 3x3",
+    "snow layer.",
+    "",
+    "Cost: 10 Coins",
+    "",
+    "RARE"
+  ],
+  "name": "雪铲",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Snow Placer  RIGHT CLICK"
+      ],
+      "translation": "技能: 雪块放置器  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Right-Click a block to place a {{N0}}x{{N1}}",
+        "snow layer."
+      ],
+      "translation": "右键点击方块以放置 {{N0}}乘{{N1}} 雪层.",
+      "styleMappings": {
+        "Right-Click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "Cost: {{N0}} Coins"
+      ],
+      "translation": "花费: {{N0}} 硬币",
+      "styleMappings": {
+        "Coins": "硬币",
+        "Cost": "花费"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

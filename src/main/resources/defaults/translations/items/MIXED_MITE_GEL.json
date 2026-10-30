@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "MIXED_MITE_GEL",
+  "_original_name": "Mixed Mite Gel",
+  "_original_lore": [
+    "Use at Kat to upgrade Endermite",
+    "Pets to Mythic rarity.",
+    "",
+    "Powerful substance combined from",
+    "the plasma membrane of many",
+    "Endermites.",
+    "",
+    "MYTHIC"
+  ],
+  "name": "混合螨虫凝胶",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Use at Kat to upgrade Endermite",
+        "Pets to Mythic rarity."
+      ],
+      "translation": "在 Kat 处使用,将末影螨宠物升级至神话稀有度.",
+      "styleMappings": {
+        "Kat": "Kat",
+        "Endermite": "末影螨",
+        "Pets": "宠物",
+        "Mythic": "神话",
+        "rarity": "稀有度",
+        "upgrade": "升级"
+      }
+    },
+    {
+      "source": [
+        "Powerful substance combined from",
+        "the plasma membrane of many",
+        "Endermites."
+      ],
+      "translation": "由许多末影螨的质膜结合而成的强力物质.",
+      "styleMappings": {
+        "Endermites": "末影螨"
+      }
+    },
+    {
+      "source": [
+        "MYTHIC"
+      ],
+      "translation": "神话",
+      "styleMappings": {
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mite": "螨虫"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

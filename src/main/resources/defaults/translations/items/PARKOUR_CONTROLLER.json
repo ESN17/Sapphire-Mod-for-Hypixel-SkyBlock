@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "id": "PARKOUR_CONTROLLER",
+  "_original_name": "Parkour Start/End",
+  "_original_lore": [
+    "Create the start/end of parkour",
+    "courses on your private island!",
+    "",
+    "❣ Requires Social Skill 1.",
+    "COMMON"
+  ],
+  "name": "跑酷起点/终点",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Create the start/end of parkour",
+        "courses on your private island!"
+      ],
+      "translation": "在你的私人岛屿上创建跑酷路线的起点/终点!",
+      "styleMappings": {
+        "private island": "私人岛屿",
+        "island": "岛屿上"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Social Skill {{N0}}."
+      ],
+      "translation": "❣ 需要社交技能 {{N0}}.",
+      "styleMappings": {
+        "Requires": "需要",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

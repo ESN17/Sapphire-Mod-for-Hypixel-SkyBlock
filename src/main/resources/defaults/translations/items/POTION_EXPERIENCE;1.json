@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_EXPERIENCE;1",
+  "_original_name": "Experience I Potion",
+  "_original_lore": [
+    "",
+    "Experience I (3:00)",
+    "Gain 5% more experience orbs.",
+    "",
+    "COMMON"
+  ],
+  "name": "经验 I 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Experience I ({{N0}}:{{N1}})"
+      ],
+      "translation": "经验 I ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Experience I": "经验 I",
+        "Experience": "经验"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}} more experience orbs."
+      ],
+      "translation": "获得 {{N0}} 更多经验球.",
+      "styleMappings": {
+        "Gain": "获得",
+        "more": "更多"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Experience I": "经验 I",
+    "Experience": "经验"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

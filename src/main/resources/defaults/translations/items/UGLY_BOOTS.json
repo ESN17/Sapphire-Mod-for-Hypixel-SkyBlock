@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "UGLY_BOOTS",
+  "_original_name": "Ugly Boots",
+  "_original_lore": [
+    "Speed: +9",
+    "",
+    "This item can be reforged!",
+    "MYTHIC BOOTS"
+  ],
+  "name": "丑陋靴子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "MYTHIC BOOTS"
+      ],
+      "translation": "神话 靴子",
+      "styleMappings": {
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Boots": "靴子"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

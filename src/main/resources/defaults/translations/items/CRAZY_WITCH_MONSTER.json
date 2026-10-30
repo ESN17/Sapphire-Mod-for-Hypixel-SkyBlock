@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "CRAZY_WITCH_MONSTER",
+  "_original_name": "Crazy Witch (Monster)",
+  "_original_lore": [
+    "The Crazy Witch is a mob added in the",
+    "Spooky Festival v2 Update. It can only spawn",
+    "during the night during Spooky Festivals",
+    "",
+    "Mob Types: ☽ Spooky, ⛨ Shielded",
+    "❤ Health: 17"
+  ],
+  "name": "疯狂女巫 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The Crazy Witch is a mob added in the",
+        "Spooky Festival v{{N0}} Update. It can only spawn",
+        "during the night during Spooky Festivals"
+      ],
+      "translation": "疯狂女巫是万圣节 版本{{N0}} 更新中加入的怪物.它只会在万圣节期间的夜晚生成",
+      "styleMappings": {
+        "Spooky": "万圣节",
+        "Spooky Festival": "万圣节",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "Mob Types: ☽ Spooky, ⛨ Shielded"
+      ],
+      "translation": "怪物类型: ☽ 幽灵, ⛨ 护盾",
+      "styleMappings": {
+        "Spooky": "幽灵",
+        "Shielded": "护盾",
+        "Mob Types": "怪物类型",
+        "Mob Types:": "怪物类型:"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

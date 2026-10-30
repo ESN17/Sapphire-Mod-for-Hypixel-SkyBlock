@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "SALT_CUBE",
+  "_original_name": "Salt Cube",
+  "_original_lore": [
+    "Reforge Stone",
+    "Combinable in Anvil",
+    "",
+    "Applies the Salty reforge when",
+    "combined with a Fishing Rod.",
+    "",
+    "Grants the following stats that scale",
+    "with the item's rarity:",
+    "  Sea Creature Chance",
+    "",
+    "Salty Bonus",
+    "This gives x2 stats while on ",
+    "Jerry's Workshop.",
+    "",
+    "Right-click to view rarity scaling!",
+    "",
+    "UNCOMMON REFORGE STONE"
+  ],
+  "name": "盐块",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Reforge Stone",
+        "Combinable in Anvil"
+      ],
+      "translation": "洗练石 可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Reforge Stone": "洗练石",
+        "Anvil": "铁砧",
+        "Reforge": "洗练"
+      }
+    },
+    {
+      "source": [
+        "Applies the Salty reforge when",
+        "combined with a Fishing Rod."
+      ],
+      "translation": "与钓鱼竿结合时应用咸味洗练.",
+      "styleMappings": {
+        "Fishing Rod": "钓鱼竿",
+        "reforge": "洗练",
+        "Salty": "咸味",
+        "Fishing": "钓鱼",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Grants the following stats that scale"
+      ],
+      "translation": "提供以下随物品稀有度提升的属性:",
+      "styleMappings": {
+        "Grants": "提供",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "with the item's rarity:"
+      ],
+      "translation": "物品稀有度提升的属性:",
+      "styleMappings": {
+        "item": "物品",
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "  Sea Creature Chance"
+      ],
+      "translation": "    海洋生物概率",
+      "styleMappings": {
+        "Sea Creature Chance": "海洋生物概率",
+        "Sea Creature": "海洋生物"
+      }
+    },
+    {
+      "source": [
+        "Salty Bonus",
+        "This gives x{{N0}} stats while on ",
+        "Jerry's Workshop."
+      ],
+      "translation": "咸味加成 在  杰瑞的工坊 时提供 x{{N0}} 属性.",
+      "styleMappings": {
+        "Jerry's Workshop": "杰瑞的工坊",
+        "Salty Bonus": "咸味加成",
+        "stats": "属性",
+        "Bonus": "加成",
+        "Jerry": "杰瑞",
+        "Salty": "咸味"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view rarity scaling!"
+      ],
+      "translation": "右键查看各稀有度的属性!",
+      "styleMappings": {
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON REFORGE STONE"
+      ],
+      "translation": "罕见 洗练 石",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

@@ -1,0 +1,199 @@
+{
+  "schemaVersion": 1,
+  "id": "TARANTULA_LEGGINGS",
+  "_original_name": "Tarantula Leggings",
+  "_original_lore": [
+    "Health: +105",
+    "Defense: +90",
+    "Intelligence: +80",
+    "",
+    "Full Set Bonus: Octodexterity (0/4)",
+    "Every 4th strike, deal +100% ",
+    "Damage and apply Venom reducing",
+    "healing by 40% for 4 seconds.",
+    "",
+    "Piece Bonus: Spider Bulwark",
+    "Kill Spiders to accumulate defense",
+    "against them.",
+    "Piece Bonus: +0",
+    "Next Upgrade: +20 (0/50)",
+    "",
+    "This item is Arachnal !",
+    "",
+    "Extra Bonus: Brood",
+    "Increases the base stats of the",
+    "Tarantula Pet by 50%.",
+    "",
+    "This item can be reforged!",
+    "☠ Requires Spider Slayer 4.",
+    "EPIC LEGGINGS"
+  ],
+  "name": "狼蛛护腿",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Octodexterity ({{N0}}/{{N1}})"
+      ],
+      "translation": "全套加成:八足 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Full Set Bonus: Octodexterity": "全套加成:八足",
+        "Full Set Bonus": "全套加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Every {{N0}}th strike, deal {{N1}} ",
+        "Damage and apply Venom reducing",
+        "healing by {{N2}} for {{N3}} seconds."
+      ],
+      "translation": "每第 {{N0}} 次攻击,造成 {{N1}}  伤害并施加毒素,使治疗降低 {{N2}},持续 {{N3}} 秒.",
+      "styleMappings": {
+        " Damage": " 伤害",
+        "seconds": "秒",
+        "Venom": "毒素",
+        "deal": "造成",
+        "for": "持续",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Piece Bonus: Spider Bulwark"
+      ],
+      "translation": "部件加成: 蜘蛛壁垒",
+      "styleMappings": {
+        "Spider Bulwark": "蜘蛛壁垒",
+        "Piece Bonus": "部件加成",
+        "Bonus": "加成",
+        "Spider": "蜘蛛"
+      }
+    },
+    {
+      "source": [
+        "Kill Spiders to accumulate defense",
+        "against them."
+      ],
+      "translation": "击杀蜘蛛以累积对它们的防御.",
+      "styleMappings": {
+        "Spiders": "蜘蛛",
+        "defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Piece Bonus: {{N0}}"
+      ],
+      "translation": "部件加成:{{N0}}",
+      "styleMappings": {
+        "Piece Bonus": "部件加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Next Upgrade: {{N0}} ({{N1}}/{{N2}})"
+      ],
+      "translation": "下次升级: {{N0}} ({{N1}}/{{N2}})",
+      "styleMappings": {
+        "Next Upgrade": "下次升级"
+      }
+    },
+    {
+      "source": [
+        "This item is Arachnal !"
+      ],
+      "translation": "此物品是蛛形纲的 !",
+      "styleMappings": {
+        "item": "物品",
+        "Arachnal": "蛛形"
+      }
+    },
+    {
+      "source": [
+        "Extra Bonus: Brood"
+      ],
+      "translation": "额外加成: 巢群",
+      "styleMappings": {
+        "Extra Bonus": "额外加成",
+        "Brood": "巢群",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Increases the base stats of the",
+        "Tarantula Pet by {{N0}}."
+      ],
+      "translation": "将塔兰图拉宠物的基础属性提高 {{N0}}.",
+      "styleMappings": {
+        "Tarantula Pet": "塔兰图拉宠物",
+        "stats": "属性",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Spider Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要蜘蛛杀手 {{N0}}.",
+      "styleMappings": {
+        "Spider Slayer": "蜘蛛杀手",
+        "Requires": "需要",
+        "Spider": "蜘蛛",
+        "Slayer": "杀手"
+      }
+    },
+    {
+      "source": [
+        "EPIC LEGGINGS"
+      ],
+      "translation": "史诗护腿",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Tarantula": "狼蛛",
+    "Leggings": "护腿"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

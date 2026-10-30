@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "MOBYS_SHEARS",
+  "_original_name": "Moby's Shears",
+  "_original_lore": [
+    "Collects +1 Glowing Mushroom!",
+    "",
+    "RARE SHEARS"
+  ],
+  "name": "Moby 的剪刀",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Collects {{N0}} Glowing Mushroom!"
+      ],
+      "translation": "采集 {{N0}} 个发光蘑菇!",
+      "styleMappings": {
+        "Glowing Mushroom": "发光蘑菇",
+        "Mushroom": "蘑菇",
+        "Glowing": "发光"
+      }
+    },
+    {
+      "source": [
+        "RARE SHEARS"
+      ],
+      "translation": "稀有剪刀",
+      "styleMappings": {
+        "RARE SHEARS": "稀有剪刀",
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shears": "剪刀",
+    "Moby": "Moby"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

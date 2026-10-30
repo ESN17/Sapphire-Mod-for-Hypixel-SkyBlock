@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "SHARD_OF_THE_SHREDDED",
+  "_original_name": "Shredded Sinew",
+  "_original_lore": [
+    "The core of a powerful weapon,",
+    "dropped by the Atoned Horror.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "☠ Requires Zombie Slayer 8.",
+    "LEGENDARY"
+  ],
+  "name": "碎裂肌腱",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The core of a powerful weapon,",
+        "dropped by the Atoned Horror."
+      ],
+      "translation": "一件强大武器的核心,由赎罪恐魔掉落.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "☠ Requires Zombie Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要僵尸杀手 {{N0}}.",
+      "styleMappings": {
+        "Zombie Slayer": "僵尸杀手",
+        "Requires": "需要",
+        "Zombie": "僵尸",
+        "Slayer": "杀手"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "id": "HURRICANE_BOW",
+  "_original_name": "Hurricane Bow",
+  "_original_lore": [
+    "Damage: +120",
+    "Strength: +50",
+    "",
+    "Ability: Tempest ",
+    "The more kills you get using this bow",
+    "the more powerful it becomes! Reach",
+    "250 kills to unlock its full potential.",
+    "Next Upgrade: Double Shot (0/20)",
+    "",
+    "Kills: 0",
+    "",
+    "This item can be reforged!",
+    "EPIC BOW"
+  ],
+  "name": "飓风之弓",
+  "lore": {
+    "Damage: {value}": "伤害:{value}",
+    "Strength: {value}": "力量:{value}",
+    "Ability: Tempest ": "技能:风暴 ",
+    "Next Upgrade: Double Shot ({current}/{required})": "下次升级:双重射击 ({current}/{required})",
+    "Kills: {value}": "击杀数:{value}",
+    "This item can be reforged!": "此物品可以洗练!",
+    "EPIC BOW": "史诗 弓",
+    "Damage: {value} ({bonus})": "伤害:{value} ({bonus})",
+    "Strength: {value} ({bonus})": "力量:{value} ({bonus})"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "The more kills you get using this bow",
+        "the more powerful it becomes! Reach",
+        "{kills} kills to unlock its full potential."
+      ],
+      "translation": "使用此弓击杀的敌人越多,它就越强大!达到 {kills} 次击杀可解锁全部威力.",
+      "styleMappings": {
+        "kills": "击杀"
+      }
+    },
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Ability: Tempest "
+      ],
+      "translation": "技能:风暴 ",
+      "styleMappings": {
+        "Ability": "技能"
+      }
+    },
+    {
+      "source": [
+        "The more kills you get using this bow",
+        "the more powerful it becomes! Reach",
+        "{{N0}} kills to unlock its full potential."
+      ],
+      "translation": "使用此弓击杀的敌人越多,它就越强大!达到 {{N0}} 次击杀可解锁全部威力.",
+      "styleMappings": {
+        "kills": "击杀"
+      }
+    },
+    {
+      "source": [
+        "Next Upgrade: Double Shot ({{N0}}/{{N1}})"
+      ],
+      "translation": "下次升级:双重射击 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Next Upgrade": "下次升级",
+        "Double Shot": "双重射击"
+      }
+    },
+    {
+      "source": [
+        "Kills: {{N0}}"
+      ],
+      "translation": "击杀数:{{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "EPIC BOW"
+      ],
+      "translation": "史诗 弓",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Damage": "伤害",
+    "Strength": "力量",
+    "Double Shot": "双重射击",
+    "Bow": "弓",
+    "Hurricane": "飓风"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

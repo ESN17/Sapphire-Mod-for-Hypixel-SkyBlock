@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_ABSORPTION;3",
+  "_original_name": "Absorption III Potion",
+  "_original_lore": [
+    "",
+    "Absorption III (3:00)",
+    "Grants +60 of absorption.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "伤害吸收 III 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Absorption III ({{N0}}:{{N1}})"
+      ],
+      "translation": "伤害吸收 III ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "III": "III"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} of absorption."
+      ],
+      "translation": "提供 {{N0}} 点伤害吸收.",
+      "styleMappings": {
+        "Grants": "提供"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "III": "III"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

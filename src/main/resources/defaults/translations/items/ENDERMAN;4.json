@@ -1,0 +1,214 @@
+{
+  "schemaVersion": 1,
+  "id": "ENDERMAN;4",
+  "_original_name": "[Lvl {LVL}] Enderman",
+  "_original_lore": [
+    "Combat Pet",
+    "",
+    "Crit Damage: +{CRIT_DAMAGE}%",
+    "",
+    "Enderian",
+    "Take {0}% less damage from  Ender",
+    "mobs",
+    "",
+    "Teleport Savvy",
+    "Buffs Transmission abilities, granting",
+    "{1} weapon damage for 5s on use",
+    "",
+    "Zealot Madness",
+    "Increases your odds to find a",
+    "special Zealot by {2}%.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "LEGENDARY PET"
+  ],
+  "name": "[等级 {LVL}] 末影人",
+  "lore": {
+    "Combat Pet": "战斗宠物",
+    "Crit Damage: {value}": "暴击伤害:{value}",
+    "Enderian": "末影之躯",
+    "Teleport Savvy": "传送精通",
+    "Zealot Madness": "末地战士狂热",
+    "Enderman Slayer": "末影人杀手",
+    "Right-click to add this pet to your pet menu!": "右键将此宠物添加到宠物菜单!",
+    "Can be upgraded at Kat in The Hub!": "可在中心岛找 Kat 升级稀有度!",
+    "LEGENDARY PET": "传说宠物"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "Take {reduction} less damage from ⊙ Ender",
+        "mobs"
+      ],
+      "translation": "受到 ⊙ 末影生物的伤害降低 {reduction}",
+      "styleMappings": {
+        "damage": "伤害",
+        "Ender": "末影",
+        "mobs": "生物"
+      }
+    },
+    {
+      "source": [
+        "Take {reduction} less damage from  Ender",
+        "mobs"
+      ],
+      "translation": "受到  末影生物的伤害降低 {reduction}",
+      "styleMappings": {
+        "damage": "伤害",
+        "Ender": "末影",
+        "mobs": "生物"
+      }
+    },
+    {
+      "source": [
+        "Buffs Transmission abilities, granting",
+        "{damage} weapon damage for {duration}s on use"
+      ],
+      "translation": "强化传送技能:使用后获得 {damage} 点武器伤害,持续 {duration} 秒.",
+      "styleMappings": {
+        "weapon damage": "武器伤害",
+        "Transmission": "传送",
+        "{duration}s": "{duration} 秒",
+        "abilities": "技能",
+        "for": "持续",
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Increases your odds to find a",
+        "special Zealot by {chance}."
+      ],
+      "translation": "发现特殊末地战士的概率提高 {chance}.",
+      "styleMappings": {
+        "special Zealot": "特殊末地战士",
+        "chance": "概率",
+        "special": "特殊"
+      }
+    },
+    {
+      "source": [
+        "Combat Pet"
+      ],
+      "translation": "战斗宠物",
+      "styleMappings": {
+        "Combat Pet": "战斗宠物",
+        "Combat": "战斗",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: +{{N0}}%"
+      ],
+      "translation": "暴击伤害: +{{N0}}%",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Enderian"
+      ],
+      "translation": "末影之躯",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Take {{N0}}% less damage from  Ender",
+        "mobs"
+      ],
+      "translation": "受到  末影生物的伤害减少 {{N0}}%",
+      "styleMappings": {
+        "less damage": "伤害减少",
+        "Ender": "末影",
+        "mobs": "生物",
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Teleport Savvy"
+      ],
+      "translation": "传送精通",
+      "styleMappings": {
+        "Teleport": "传送"
+      }
+    },
+    {
+      "source": [
+        "Buffs Transmission abilities, granting",
+        "{{N0}} weapon damage for {{N1}}s on use"
+      ],
+      "translation": "强化传送技能:使用后获得 {{N0}} 点武器伤害,持续 {{N1}} 秒.",
+      "styleMappings": {
+        "weapon damage": "武器伤害",
+        "abilities": "技能",
+        "for": "持续",
+        "s": "秒",
+        "Transmission": "传送",
+        "{{N1}}s": "{{N1}} 秒",
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Zealot Madness"
+      ],
+      "translation": "末地战士狂热",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Increases your odds to find a",
+        "special Zealot by {{N0}}%."
+      ],
+      "translation": "找到特殊末地战士的概率提高 {{N0}}%.",
+      "styleMappings": {
+        "special Zealot": "特殊末地战士",
+        "special": "特殊"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY PET"
+      ],
+      "translation": "传说 宠物",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Enderman": "末影人",
+    "Endermen": "末影人",
+    "Ender": "末影",
+    "Combat Wisdom": "战斗智慧",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

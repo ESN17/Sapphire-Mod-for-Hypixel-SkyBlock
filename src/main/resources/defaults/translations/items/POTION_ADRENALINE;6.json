@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_ADRENALINE;6",
+  "_original_name": "Adrenaline VI Potion",
+  "_original_lore": [
+    "",
+    "Adrenaline VI (3:00)",
+    "Grants +150 of absorption and +30",
+    " Speed.",
+    "",
+    "RARE"
+  ],
+  "name": "肾上腺素 VI 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Adrenaline VI ({{N0}}:{{N1}})"
+      ],
+      "translation": "肾上腺素 VI ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Adrenaline VI": "肾上腺素 VI"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} of absorption and {{N1}}",
+        " Speed."
+      ],
+      "translation": "提供 {{N0}} 点伤害吸收和 {{N1}}  速度.",
+      "styleMappings": {
+        " Speed": " 速度",
+        "Grants": "提供",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Adrenaline VI": "肾上腺素 VI"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

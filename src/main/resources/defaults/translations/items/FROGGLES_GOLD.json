@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "id": "FROGGLES_GOLD",
+  "_original_name": "Golden Froggles",
+  "_original_lore": [
+    "Fishing Speed: +3",
+    "",
+    "Ability: Reality Check ",
+    "Allows you to conceptualize and",
+    "interact with Wormholes on the Lotus",
+    "Atoll and Crimson Isle.",
+    "",
+    "Ability: Hi-Vis Wormhole Helmet ",
+    "Allows you to get some vibes about",
+    "far away Wormhole locations.",
+    "",
+    "When fishing in Wormholes:",
+    "  +5 Trophy Chance",
+    "  +5% chance to find GOLD Trophies.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Fishing Skill 15.",
+    "EPIC HELMET"
+  ],
+  "name": "黄金蛙镜",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Fishing Speed: {{N0}}"
+      ],
+      "translation": "钓鱼速度: {{N0}}",
+      "styleMappings": {
+        "Fishing Speed": "钓鱼速度",
+        "Fishing": "钓鱼",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Ability: Reality Check "
+      ],
+      "translation": "能力: 现实检验 ",
+      "styleMappings": {
+        "Ability": "能力",
+        "Reality Check": "现实检验"
+      }
+    },
+    {
+      "source": [
+        "Allows you to conceptualize and",
+        "interact with Wormholes on the Lotus",
+        "Atoll and Crimson Isle."
+      ],
+      "translation": "允许你感知并与莲花环礁和绯红之岛上的虫洞互动.",
+      "styleMappings": {
+        "Wormholes": "虫洞",
+        "Lotus Atoll": "莲花环礁",
+        "Crimson Isle": "绯红之岛",
+        "Lotus": "莲花"
+      }
+    },
+    {
+      "source": [
+        "Ability: Hi-Vis Wormhole Helmet "
+      ],
+      "translation": "能力: 高可视虫洞头盔 ",
+      "styleMappings": {
+        "Hi-Vis Wormhole Helmet": "高可视虫洞头盔",
+        "Ability": "能力",
+        "Helmet": "头盔",
+        "Wormhole": "虫洞"
+      }
+    },
+    {
+      "source": [
+        "Allows you to get some vibes about",
+        "far away Wormhole locations."
+      ],
+      "translation": "允许你感知远处虫洞位置的气息.",
+      "styleMappings": {
+        "vibes": "气息",
+        "Wormhole": "虫洞"
+      }
+    },
+    {
+      "source": [
+        "When fishing in Wormholes:"
+      ],
+      "translation": "在虫洞中钓鱼时:",
+      "styleMappings": {
+        "fishing": "钓鱼",
+        "Wormholes": "虫洞"
+      }
+    },
+    {
+      "source": [
+        "  {{N0}} Trophy Chance",
+        "  {{N1}} chance to find GOLD Trophies."
+      ],
+      "translation": "  {{N0}} 奖杯概率   {{N1}} 概率找到黄金奖杯.",
+      "styleMappings": {
+        "chance to find": "概率找到",
+        "Trophy Chance": "奖杯概率",
+        "Trophies": "奖杯",
+        "GOLD": "黄金",
+        "chance": "概率",
+        "chance to": "概率",
+        "Trophy": "奖杯"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Fishing Skill {{N0}}."
+      ],
+      "translation": "❣ 需要钓鱼技能 {{N0}}.",
+      "styleMappings": {
+        "Fishing Skill": "钓鱼技能",
+        "Requires": "需要",
+        "Fishing": "钓鱼",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC HELMET"
+      ],
+      "translation": "史诗头盔",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Froggles": "蛙镜",
+    "Golden Froggles": "黄金蛙镜"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

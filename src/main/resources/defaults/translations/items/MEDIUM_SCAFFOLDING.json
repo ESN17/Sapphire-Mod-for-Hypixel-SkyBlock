@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "MEDIUM_SCAFFOLDING",
+  "_original_name": "Medium Scaffolding",
+  "_original_lore": [
+    "Ability: Climb!  RIGHT CLICK",
+    "Each click allows you to climb 3 blocks, up to 9.",
+    "",
+    "Jumping out will delete the scaffolding.",
+    "",
+    "RARE"
+  ],
+  "name": "中型脚手架",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Climb!  RIGHT CLICK"
+      ],
+      "translation": "技能:攀爬!  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "Climb!": "攀爬!",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Each click allows you to climb {{N0}} blocks, up to {{N1}}."
+      ],
+      "translation": "每次点击可让你攀爬 {{N0}} 格,最高 {{N1}}.",
+      "styleMappings": {
+        "blocks": "格"
+      }
+    },
+    {
+      "source": [
+        "Jumping out will delete the scaffolding."
+      ],
+      "translation": "跳出将删除脚手架.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

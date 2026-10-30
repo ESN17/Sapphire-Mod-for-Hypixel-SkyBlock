@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "BRONZE_TROPHY_FROG_SACK",
+  "_original_name": "Bronze Trophy Frog Sack",
+  "_original_lore": [
+    "Trophy Frog pickups of BRONZE",
+    "quality go directly into your sacks.",
+    "",
+    "Capacity: 512 per trophy",
+    "Sacks sum their capacity.",
+    "",
+    "Right Click to open sack!",
+    "",
+    "❣ Requires Novice Frog Collector.",
+    "* Soulbound *",
+    "UNCOMMON"
+  ],
+  "name": "青铜奖杯青蛙麻袋",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Trophy Frog pickups of BRONZE",
+        "quality go directly into your sacks."
+      ],
+      "translation": "青铜品质的奖杯青蛙拾取物会直接进入你的麻袋.",
+      "styleMappings": {
+        "Trophy Frog": "奖杯青蛙",
+        "BRONZE": "青铜",
+        "Frog": "青蛙",
+        "Trophy": "奖杯"
+      }
+    },
+    {
+      "source": [
+        "Capacity: {{N0}} per trophy"
+      ],
+      "translation": "容量: 每个奖杯 {{N0}}",
+      "styleMappings": {
+        "Capacity": "容量",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Sacks sum their capacity."
+      ],
+      "translation": "麻袋的容量会累加.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right Click to open sack!"
+      ],
+      "translation": "右键点击打开麻袋!",
+      "styleMappings": {
+        "Right Click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Novice Frog Collector."
+      ],
+      "translation": "❣ 需要新手青蛙收藏家.",
+      "styleMappings": {
+        "Requires Novice Frog Collector.": "需要新手青蛙收藏家.",
+        "Requires": "需要",
+        "Frog": "青蛙"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Trophy Frog": "奖杯青蛙",
+    "Frog": "青蛙",
+    "Trophy": "奖杯"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

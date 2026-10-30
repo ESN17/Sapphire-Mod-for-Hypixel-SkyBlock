@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "id": "ENRAGER",
+  "_original_name": "Enrager",
+  "_original_lore": [
+    "Damage: +270",
+    "Strength: +150",
+    "Gemstones: []",
+    "",
+    "Ability: Enrage  RIGHT CLICK",
+    "Taunt enemies in a 10 block radius and reduce",
+    "their damage against you by 10% for 10s.",
+    "Mana Cost: 500",
+    "Health Cost: 15.6",
+    "Cooldown: 20s",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Combat Skill 25.",
+    "EPIC SWORD"
+  ],
+  "name": "激怒者",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: []"
+      ],
+      "translation": "宝石槽:[]",
+      "styleMappings": {
+        "Gemstones": "宝石槽"
+      }
+    },
+    {
+      "source": [
+        "Ability: Enrage  RIGHT CLICK"
+      ],
+      "translation": "技能:激怒  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "Enrage": "激怒",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Taunt enemies in a {{N0}} block radius and reduce",
+        "their damage against you by {{N1}} for {{N2}}s."
+      ],
+      "translation": "嘲讽 {{N0}} 格半径内的敌人,并在 {{N2}}秒内将其对你的伤害降低 {{N1}}.",
+      "styleMappings": {
+        "{{N0}} block": "{{N0}} 格",
+        "{{N2}}s": "{{N2}}秒",
+        "damage": "伤害",
+        "enemies": "敌人",
+        "block": "格"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "Health Cost: {{N0}}"
+      ],
+      "translation": "生命消耗:{{N0}}",
+      "styleMappings": {
+        "Health Cost": "生命消耗",
+        "Health": "生命"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC SWORD"
+      ],
+      "translation": "史诗 剑",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

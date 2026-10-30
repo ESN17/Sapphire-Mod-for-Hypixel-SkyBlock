@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "NETHER_WART_ISLAND_CRYSTAL",
+  "_original_name": "Nether Wart Crystal",
+  "_original_lore": [
+    "Can be placed on your Private Island.",
+    "",
+    "While placed down, spawns Nether",
+    "Wart on nearby Soul Sand.",
+    "",
+    "Effective Radius: 5",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "地狱疣水晶",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Can be placed on your Private Island."
+      ],
+      "translation": "可放置在你的私人岛屿上.",
+      "styleMappings": {
+        "Private Island": "私人岛屿",
+        "Island": "岛屿"
+      }
+    },
+    {
+      "source": [
+        "While placed down, spawns Nether",
+        "Wart on nearby Soul Sand."
+      ],
+      "translation": "放置后,会在附近的灵魂沙上生成下界疣.",
+      "styleMappings": {
+        "Nether Wart": "下界疣",
+        "Soul": "灵魂",
+        "Nether": "下界"
+      }
+    },
+    {
+      "source": [
+        "Effective Radius: {{N0}}"
+      ],
+      "translation": "有效半径: {{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Nether Wart": "地狱疣",
+    "Crystal": "水晶"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

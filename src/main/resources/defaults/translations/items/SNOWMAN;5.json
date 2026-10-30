@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 1,
+  "id": "SNOWMAN;5",
+  "_original_name": "[Lvl {LVL}] Snowman",
+  "_original_lore": [
+    "Combat Pet",
+    "",
+    "Fight alongside your pet Snowman!",
+    "",
+    "Damage: +{DAMAGE}",
+    "Strength: +{STRENGTH}",
+    "Crit Damage: +{CRIT_DAMAGE}%",
+    "",
+    "Blizzard",
+    "Enemies within {0} blocks are slowed",
+    "by 25% and deal {1}% less damage.",
+    "",
+    "Frostbite",
+    "Your freezing aura slows enemy",
+    "attacks causing you to take {2}%",
+    "reduced damage",
+    "",
+    "Snow Cannon",
+    "Shoots a snowball towards an enemy",
+    "when you attack dealing {3}% of",
+    "your last dealt melee damage,",
+    "capped at 200,000. (1s cooldown)",
+    "",
+    "Ouch!",
+    "Your snowballs have 50% chance of",
+    "dealing double damage!",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "MYTHIC PET"
+  ],
+  "name": "[等级 {LVL}] 雪人",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combat Pet"
+      ],
+      "translation": "战斗宠物",
+      "styleMappings": {
+        "Combat Pet": "战斗宠物",
+        "Combat": "战斗",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Fight alongside your pet Snowman!"
+      ],
+      "translation": "与你的宠物雪人并肩作战!",
+      "styleMappings": {
+        "Snowman": "雪人",
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Damage: +{{N0}}"
+      ],
+      "translation": "伤害: +{{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: +{{N0}}"
+      ],
+      "translation": "力量: +{{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: +{{N0}}%"
+      ],
+      "translation": "暴击伤害: +{{N0}}%",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Blizzard"
+      ],
+      "translation": "暴风雪",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Enemies within {{N0}} blocks are slowed",
+        "by {{N1}} and deal {{N2}}% less damage."
+      ],
+      "translation": "{{N0}} 格内的敌人减速 {{N1}},造成的伤害降低 {{N2}}%.",
+      "styleMappings": {
+        "Enemies": "敌人",
+        "blocks": "格",
+        "damage": "伤害",
+        "deal": "造成"
+      }
+    },
+    {
+      "source": [
+        "Frostbite"
+      ],
+      "translation": "冻伤",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Your freezing aura slows enemy",
+        "attacks causing you to take {{N0}}%",
+        "reduced damage"
+      ],
+      "translation": "你的冰冻光环会减缓敌人的攻击,使你受到的伤害降低 {{N0}}%",
+      "styleMappings": {
+        "damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Snow Cannon"
+      ],
+      "translation": "雪球炮",
+      "styleMappings": {
+        "Snow Cannon": "雪球炮"
+      }
+    },
+    {
+      "source": [
+        "Shoots a snowball towards an enemy",
+        "when you attack dealing {{N0}}% of",
+        "your last dealt melee damage,",
+        "capped at {{N1}}. ({{N2}}s cooldown)"
+      ],
+      "translation": "当你攻击时,向敌人发射一个雪球,造成你上次近战伤害的 {{N0}}%,上限为 {{N1}}.({{N2}} 秒冷却)",
+      "styleMappings": {
+        "melee damage": "近战伤害",
+        "cooldown": "冷却",
+        "s": "秒",
+        "{{N2}}s": "{{N2}} 秒",
+        "damage": "伤害",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Ouch!"
+      ],
+      "translation": "哎哟!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Your snowballs have {{N0}} chance of",
+        "dealing double damage!"
+      ],
+      "translation": "你的雪球有 {{N0}} 几率造成双倍伤害!",
+      "styleMappings": {
+        "chance": "几率",
+        "damage": "伤害",
+        "double": "双倍"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "MYTHIC PET"
+      ],
+      "translation": "神话 宠物",
+      "styleMappings": {
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Snowman": "雪人",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

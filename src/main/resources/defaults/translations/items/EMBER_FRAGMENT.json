@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "EMBER_FRAGMENT",
+  "_original_name": "Ember Fragment",
+  "_original_lore": [
+    "Material extracted from the heart of",
+    "giant Magma Cubes. It can be used to",
+    "craft powerful items.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "RARE"
+  ],
+  "name": "余烬碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Material extracted from the heart of",
+        "giant Magma Cubes. It can be used to",
+        "craft powerful items."
+      ],
+      "translation": "从巨型岩浆怪的心脏中提取的材料.可用于制作强力物品.",
+      "styleMappings": {
+        "craft powerful items": "制作强力物品",
+        "Magma Cubes": "岩浆怪",
+        "items": "物品"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

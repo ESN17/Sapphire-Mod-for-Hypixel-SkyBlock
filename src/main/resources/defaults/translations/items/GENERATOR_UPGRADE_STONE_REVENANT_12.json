@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "GENERATOR_UPGRADE_STONE_REVENANT_12",
+  "_original_name": "Revenant Minion XII Upgrade Stone",
+  "_original_lore": [
+    "Use this item to upgrade a Revenant",
+    "Minion from Tier XI to Tier XII.",
+    "",
+    "Purchased from Bartender.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "亡魂仆从 XII 升级石",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Use this item to upgrade a Revenant",
+        "Minion from Tier XI to Tier XII."
+      ],
+      "translation": "使用此物品将亡魂仆从从 XI 阶升级至 XII 阶.",
+      "styleMappings": {
+        "Revenant Minion": "亡魂仆从",
+        "Tier XII": "XII 阶",
+        "Tier XI": "XI 阶",
+        "upgrade": "升级",
+        "item": "物品",
+        "Minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "Purchased from Bartender."
+      ],
+      "translation": "从 Bartender 处购买.",
+      "styleMappings": {
+        "Bartender": "Bartender"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Revenant Minion": "亡魂仆从",
+    "Minion": "仆从"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

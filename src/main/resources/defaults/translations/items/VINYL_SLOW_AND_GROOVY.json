@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "VINYL_SLOW_AND_GROOVY",
+  "_original_name": "Slow and Groovy Vinyl",
+  "_original_lore": [
+    "Place in a Chirping Stereo to play",
+    "funky tunes for  Pests.",
+    "",
+    "When playing, this vinyl attracts Slug",
+    "Pests.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "慢摇律动唱片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Place in a Chirping Stereo to play",
+        "funky tunes for  Pests."
+      ],
+      "translation": "放入鸣叫音响中,为  害虫播放动感音乐.",
+      "styleMappings": {
+        "Chirping Stereo": "鸣叫音响",
+        " Pests": " 害虫",
+        "Pests": "害虫"
+      }
+    },
+    {
+      "source": [
+        "When playing, this vinyl attracts Slug",
+        "Pests."
+      ],
+      "translation": "播放时,这张唱片会吸引蛞蝓害虫.",
+      "styleMappings": {
+        "Slug Pests": "蛞蝓害虫",
+        "Pests": "害虫",
+        "Slug": "蛞蝓"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Vinyl": "唱片",
+    "Groovy": "律动"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

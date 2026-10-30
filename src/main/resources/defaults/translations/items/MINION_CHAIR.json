@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "MINION_CHAIR",
+  "_original_name": "Minion Chair",
+  "_original_lore": [
+    "Furniture",
+    "Seat",
+    "",
+    "This stylized chair can seat a single",
+    "minion.",
+    "",
+    "COMMON"
+  ],
+  "name": "仆从椅",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Furniture",
+        "Seat"
+      ],
+      "translation": "家具座位",
+      "styleMappings": {
+        "Furniture Seat": "家具座位",
+        "Furniture": "家具"
+      }
+    },
+    {
+      "source": [
+        "This stylized chair can seat a single",
+        "minion."
+      ],
+      "translation": "这把造型独特的椅子可以容纳一个仆从.",
+      "styleMappings": {
+        "minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Minion": "仆从"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

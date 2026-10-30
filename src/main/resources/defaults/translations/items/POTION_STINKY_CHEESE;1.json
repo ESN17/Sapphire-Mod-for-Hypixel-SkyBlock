@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_STINKY_CHEESE;1",
+  "_original_name": "Douce Pluie de Stinky Cheese I Potion",
+  "_original_lore": [
+    "",
+    "Douce Pluie de Stinky Cheese I (1:00:00)",
+    "Gain +20 Bonus Pest Chance.",
+    "",
+    "COMMON"
+  ],
+  "name": "香甜臭奶酪之雨 I 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Douce Pluie de Stinky Cheese I ({{N0}}:{{N1}}:{{N2}})"
+      ],
+      "translation": "臭奶酪甜雨 I ({{N0}}:{{N1}}:{{N2}})",
+      "styleMappings": {
+        "I": "I"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}} Bonus Pest Chance."
+      ],
+      "translation": "获得 {{N0}} 额外害虫概率.",
+      "styleMappings": {
+        "Bonus Pest Chance": "额外害虫概率",
+        "Gain": "获得",
+        "Pest": "害虫"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "I": "I"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

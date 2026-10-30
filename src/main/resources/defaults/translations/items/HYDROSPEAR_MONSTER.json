@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "HYDROSPEAR_MONSTER",
+  "_original_name": "Hydrospear (Monster)",
+  "_original_lore": [
+    "They are a little washed up.",
+    "",
+    "Mob Types: ⸙ Woodland, ⚓ Aquatic, ༕ Undead",
+    "❤ Health: 5,000",
+    "❁ Damage: 500"
+  ],
+  "name": "水矛 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "They are a little washed up."
+      ],
+      "translation": "他们有点被冲上岸了.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Mob Types: ⸙ Woodland, ⚓ Aquatic, ༕ Undead"
+      ],
+      "translation": "生物类型: ⸙ 林地, ⚓ 水生, ༕ 亡灵",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Woodland": "林地",
+        "Aquatic": "水生",
+        "Undead": "亡灵"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "❁ Damage: {{N0}}"
+      ],
+      "translation": "❁ 伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

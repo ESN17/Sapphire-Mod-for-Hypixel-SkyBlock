@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "id": "RIFT_NECKLACE_INSIDE",
+  "_original_name": "Rift Necklace",
+  "_original_lore": [
+    "Rift Time: +380s",
+    "Hearts: +1",
+    "Rift Damage: +1",
+    "Intelligence: +10",
+    "Speed: +6",
+    "Mana Regen: +25%",
+    "",
+    "The most powerful necklace ever",
+    "created by Elise MDCCCXIV.",
+    "",
+    "Becomes more powerful as you fill",
+    "the Rift Gallery.",
+    "Secured: 8/8 Timecharms",
+    "",
+    "Right-click to equip!",
+    "",
+    "* Soulbound *",
+    "MYTHIC NECKLACE"
+  ],
+  "name": "裂隙项链",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Rift Time: {{N0}}s"
+      ],
+      "translation": "裂隙时间: {{N0}}秒",
+      "styleMappings": {
+        "Rift Time": "裂隙时间",
+        "{{N0}}s": "{{N0}}秒",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "Hearts: {{N0}}"
+      ],
+      "translation": "生命值: {{N0}}",
+      "styleMappings": {
+        "Hearts": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Rift Damage: {{N0}}"
+      ],
+      "translation": "裂隙伤害: {{N0}}",
+      "styleMappings": {
+        "Rift Damage": "裂隙伤害",
+        "Damage": "伤害",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Mana Regen: {{N0}}"
+      ],
+      "translation": "法力回复: {{N0}}",
+      "styleMappings": {
+        "Mana Regen": "法力回复",
+        "Mana": "法力",
+        "Regen": "回复"
+      }
+    },
+    {
+      "source": [
+        "The most powerful necklace ever",
+        "created by Elise MDCCCXIV."
+      ],
+      "translation": "由 Elise MDCCCXIV 打造的最强大的项链.",
+      "styleMappings": {
+        "Elise MDCCCXIV": "Elise MDCCCXIV"
+      }
+    },
+    {
+      "source": [
+        "Becomes more powerful as you fill",
+        "the Rift Gallery."
+      ],
+      "translation": "随着你填充裂隙展馆而变得更加强大.",
+      "styleMappings": {
+        "Rift Gallery": "裂隙展馆",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "Secured: {{N0}}/{{N1}} Timecharms"
+      ],
+      "translation": "已收集: {{N0}}/{{N1}} 时间护符",
+      "styleMappings": {
+        "Timecharms": "时间护符"
+      }
+    },
+    {
+      "source": [
+        "Right-click to equip!"
+      ],
+      "translation": "右键点击装备!",
+      "styleMappings": {
+        "Right-click to equip!": "右键点击装备!",
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "MYTHIC NECKLACE"
+      ],
+      "translation": "神话 项链",
+      "styleMappings": {
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Rift Necklace": "裂隙项链",
+    "Necklace": "项链",
+    "Rift": "裂隙"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

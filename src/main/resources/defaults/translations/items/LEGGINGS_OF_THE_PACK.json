@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": "LEGGINGS_OF_THE_PACK",
+  "_original_name": "Leggings of the Pack",
+  "_original_lore": [
+    "Health: +80",
+    "Defense: +75",
+    "",
+    "Gain +50 Defense against  Animal mobs.",
+    "Gain +5 True Defense.",
+    "",
+    "Full Set Bonus: Armor of the Pack (0/4)",
+    "Gain +35 Strength and +80",
+    "Defense for each Armor of the Pack",
+    "wearer within 30 blocks.",
+    "Max of 3 players!",
+    "",
+    "This item can be reforged!",
+    "☠ Requires Wolf Slayer 6.",
+    "X Rift-Transferable X",
+    "EPIC LEGGINGS"
+  ],
+  "name": "兽群护腿",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}} Defense against  Animal mobs."
+      ],
+      "translation": "获得 {{N0}} 防御力,对抗  动物生物.",
+      "styleMappings": {
+        " Defense": " 防御",
+        "Animal": "动物",
+        "Gain": "获得",
+        "mobs": "生物",
+        " Animal": " 动物"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}} True Defense."
+      ],
+      "translation": "获得 {{N0}} 真实防御.",
+      "styleMappings": {
+        "True Defense": "真实防御",
+        "Gain": "获得",
+        "Defense": "防御",
+        "True": "真实"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Armor of the Pack ({{N0}}/{{N1}})"
+      ],
+      "translation": "套装奖励: 狼群护甲 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Armor of the Pack": "狼群护甲",
+        "Full Set Bonus": "套装奖励",
+        "Armor": "护甲"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}} Strength and {{N1}}",
+        "Defense for each Armor of the Pack",
+        "wearer within {{N2}} blocks."
+      ],
+      "translation": "每个 {{N2}} 格内的狼群护甲穿戴者为你提供 {{N0}} 力量 和 {{N1}} 防御.",
+      "styleMappings": {
+        "Armor of the Pack": "狼群护甲",
+        " Strength": " 力量",
+        " Defense": " 防御",
+        "blocks": "格",
+        "Defense": "防御",
+        "Strength": "力量",
+        "Armor": "护甲"
+      }
+    },
+    {
+      "source": [
+        "Max of {{N0}} players!"
+      ],
+      "translation": "最多 {{N0}} 名玩家!",
+      "styleMappings": {
+        "Max": "最多"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Wolf Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要狼杀手 {{N0}}.",
+      "styleMappings": {
+        "Wolf Slayer": "狼杀手",
+        "Requires": "需要",
+        "Slayer": "杀手",
+        "Wolf": "狼"
+      }
+    },
+    {
+      "source": [
+        "X Rift-Transferable X"
+      ],
+      "translation": "X 可转移至裂隙 X",
+      "styleMappings": {
+        "Rift-Transferable": "可转移至裂隙",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "EPIC LEGGINGS"
+      ],
+      "translation": "史诗护腿",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Leggings": "护腿"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

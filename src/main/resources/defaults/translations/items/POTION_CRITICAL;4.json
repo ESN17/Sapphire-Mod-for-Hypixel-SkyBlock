@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_CRITICAL;4",
+  "_original_name": "Critical IV Potion",
+  "_original_lore": [
+    "",
+    "Critical IV (3:00)",
+    "Increases  Crit Chance by 25% and",
+    " Crit Damage by 40%.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "暴击 IV 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Critical IV ({{N0}}:{{N1}})"
+      ],
+      "translation": "暴击 IV ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Critical IV": "暴击 IV",
+        "Critical": "暴击"
+      }
+    },
+    {
+      "source": [
+        "Increases  Crit Chance by {{N0}} and",
+        " Crit Damage by {{N1}}."
+      ],
+      "translation": "增加  暴击几率 {{N0}},增加 暴击伤害 {{N1}}.",
+      "styleMappings": {
+        " Crit Damage": " 暴击伤害",
+        "Crit Chance": "暴击几率",
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害",
+        "Increases": "增加",
+        " Crit Chance": " 暴击几率"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Critical IV": "暴击 IV",
+    "Critical": "暴击"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

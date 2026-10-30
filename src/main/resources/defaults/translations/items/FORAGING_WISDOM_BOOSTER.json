@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "id": "FORAGING_WISDOM_BOOSTER",
+  "_original_name": "Common Foraging Wisdom Booster",
+  "_original_lore": [
+    "Booster",
+    "Combinable in Anvil",
+    "",
+    "Applies the ⸙ Foraging Wisdom",
+    "booster when combined with Foraging",
+    "Armor, Equipment, or Axes.",
+    "",
+    "Grants ☯ Foraging Wisdom.",
+    "",
+    "COMMON BOOSTER"
+  ],
+  "name": "普通采伐智慧增幅器",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Booster",
+        "Combinable in Anvil"
+      ],
+      "translation": "增益器可在铁砧中合成",
+      "styleMappings": {
+        "Booster Combinable in Anvil": "增益器可在铁砧中合成",
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Applies the ⸙ Foraging Wisdom",
+        "booster when combined with Foraging",
+        "Armor, Equipment, or Axes."
+      ],
+      "translation": "与采伐护甲、装备或斧头结合时,应用 ⸙ 采伐智慧增幅器.",
+      "styleMappings": {
+        "Foraging Wisdom": "采伐智慧",
+        "Foraging Armor": "采伐护甲",
+        "Equipment": "装备",
+        "Axes": "斧头",
+        "Armor": "护甲",
+        "Wisdom": "智慧",
+        "Foraging": "采伐",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Grants ☯ Foraging Wisdom."
+      ],
+      "translation": "提供 ☯ 采伐智慧.",
+      "styleMappings": {
+        "☯ Foraging Wisdom": "☯ 采伐智慧",
+        "Grants": "提供",
+        "Foraging Wisdom": "采伐智慧",
+        "Wisdom": "智慧",
+        "Foraging": "采伐"
+      }
+    },
+    {
+      "source": [
+        "COMMON BOOSTER"
+      ],
+      "translation": "普通增益器",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Common Foraging Wisdom Booster": "普通采伐智慧增幅器",
+    "Foraging Wisdom": "采伐智慧",
+    "Wisdom": "智慧",
+    "Foraging": "采伐",
+    "Common": "普通"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

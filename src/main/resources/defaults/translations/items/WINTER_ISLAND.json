@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "WINTER_ISLAND",
+  "_original_name": "Winter Island",
+  "_original_lore": [
+    "Place this in your private world to",
+    "spawn a Winter island!",
+    "",
+    "COMMON"
+  ],
+  "name": "冬季岛",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Place this in your private world to",
+        "spawn a Winter island!"
+      ],
+      "translation": "将此物品放置在你的私人世界中以生成一座冬季岛!",
+      "styleMappings": {
+        "Winter": "冬季"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Winter": "冬季"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

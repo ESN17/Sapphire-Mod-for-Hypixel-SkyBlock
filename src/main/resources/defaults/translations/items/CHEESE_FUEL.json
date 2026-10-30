@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "CHEESE_FUEL",
+  "_original_name": "Tasty Cheese",
+  "_original_lore": [
+    "Can be spread across a Garden plot",
+    "with a Sprayonator or used in Pest",
+    "Traps.",
+    "",
+    "Attracts: Rat, Mite",
+    "",
+    "When in a minion, this increases the",
+    "number of resources created by 2x",
+    "for 1 hour!",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "美味奶酪",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Can be spread across a Garden plot",
+        "with a Sprayonator or used in Pest",
+        "Traps."
+      ],
+      "translation": "可用喷雾器撒在花园地块上,或用于害虫陷阱.",
+      "styleMappings": {
+        "Sprayonator": "喷雾器",
+        "Pest Traps": "害虫陷阱",
+        "Garden": "花园",
+        "Pest": "害虫"
+      }
+    },
+    {
+      "source": [
+        "Attracts: Rat, Mite"
+      ],
+      "translation": "吸引:老鼠、螨虫",
+      "styleMappings": {
+        "Attracts": "吸引",
+        "Rat": "老鼠",
+        "Mite": "螨虫"
+      }
+    },
+    {
+      "source": [
+        "When in a minion, this increases the",
+        "number of resources created by {{N0}}x",
+        "for {{N1}} hour!"
+      ],
+      "translation": "放入仆从时,可使资源产出数量提升 {{N0}} 倍,持续 {{N1}} 小时!",
+      "styleMappings": {
+        "minion": "仆从",
+        "for": "持续",
+        "hour": "小时",
+        "{{N0}}x": "{{N0}} 倍"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Tasty Cheese": "美味奶酪"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

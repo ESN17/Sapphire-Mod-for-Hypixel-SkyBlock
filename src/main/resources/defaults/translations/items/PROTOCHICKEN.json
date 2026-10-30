@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "PROTOCHICKEN",
+  "_original_name": "Proto-Chicken",
+  "_original_lore": [
+    "The animal which came right before",
+    "the first chicken.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "EPIC"
+  ],
+  "name": "始祖鸡",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The animal which came right before",
+        "the first chicken."
+      ],
+      "translation": "第一只鸡出现之前的动物.",
+      "styleMappings": {
+        "first": "前"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Chicken": "鸡"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

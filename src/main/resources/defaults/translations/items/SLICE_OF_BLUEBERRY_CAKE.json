@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "SLICE_OF_BLUEBERRY_CAKE",
+  "_original_name": "Slice of Blueberry Cake",
+  "_original_lore": [
+    "Right-Click on a player on the BLUE",
+    "team while holding this item to feed it",
+    "to them!",
+    "",
+    "Feeding a slice of cake to another",
+    "player gives both of you a reward!",
+    "",
+    "* Soulbound *",
+    "X Rift-Transferable X",
+    "SPECIAL"
+  ],
+  "name": "蓝莓蛋糕片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Right-Click on a player on the BLUE",
+        "team while holding this item to feed it",
+        "to them!"
+      ],
+      "translation": "手持此物品右键点击蓝队玩家即可喂食!",
+      "styleMappings": {
+        "Right-Click": "右键点击",
+        "player": "玩家",
+        "BLUE": "蓝队",
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Feeding a slice of cake to another",
+        "player gives both of you a reward!"
+      ],
+      "translation": "将一片蛋糕喂给其他玩家,你们双方都会获得奖励!",
+      "styleMappings": {
+        "Feeding a slice of cake to another player gives both of you a": "将一片蛋糕喂给其他玩家,你们双方都会获得",
+        "reward": "奖励",
+        "player": "玩家"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "X Rift-Transferable X"
+      ],
+      "translation": "X 可转移至裂隙 X",
+      "styleMappings": {
+        "Rift-Transferable": "可转移至裂隙",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Blueberry": "蓝莓"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

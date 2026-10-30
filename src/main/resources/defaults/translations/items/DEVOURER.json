@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "DEVOURER",
+  "_original_name": "Devourer",
+  "_original_lore": [
+    "A relentless plant that spreads its",
+    "root far and wide, consuming and",
+    "destroying everything in its path.",
+    "",
+    "Complete Visitor Beth's quest to",
+    "Analyze this crop!",
+    "",
+    "LEGENDARY MUTATION"
+  ],
+  "name": "吞噬者",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A relentless plant that spreads its",
+        "root far and wide, consuming and",
+        "destroying everything in its path."
+      ],
+      "translation": "一株无情的植物,将根系四处蔓延,吞噬并摧毁沿途的一切.",
+      "styleMappings": {
+        "plant": "植物"
+      }
+    },
+    {
+      "source": [
+        "Complete Visitor Beth's quest to",
+        "Analyze this crop!"
+      ],
+      "translation": "完成访客 Beth 的任务来分析这种作物!",
+      "styleMappings": {
+        "Visitor": "访客",
+        "Beth's": "Beth 的",
+        "Analyze": "分析"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY MUTATION"
+      ],
+      "translation": "传说突变",
+      "styleMappings": {
+        "LEGENDARY MUTATION": "传说突变",
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

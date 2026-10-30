@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "ARACHNE_BOSS",
+  "_original_name": "Arachne (Boss)",
+  "_original_lore": [
+    "The strongest spider in the den.",
+    "",
+    "❤ Health: 20,000 - 100,000"
+  ],
+  "name": "阿拉克妮 (首领)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "The strongest spider in the den."
+      ],
+      "translation": "巢穴中最强的蜘蛛.",
+      "styleMappings": {
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}} - {{N1}}"
+      ],
+      "translation": "❤ 生命值: {{N0}} - {{N1}}",
+      "styleMappings": {
+        "Health": "生命值",
+        "-": "-"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Arachne": "阿拉克妮",
+    "Boss": "首领"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

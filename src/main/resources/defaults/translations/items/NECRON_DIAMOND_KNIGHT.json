@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "id": "NECRON_DIAMOND_KNIGHT",
+  "_original_name": "Knight Skin",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Item skins give your gear a fresh",
+    "new look! Apply them just like an",
+    "enchant book using the anvil.",
+    "",
+    "This skin can be applied to Golden",
+    "Necron Head and Diamond Necron",
+    "Head.",
+    "",
+    "This skin will allow you to swap",
+    "between 15 shiny versions!",
+    "",
+    "MYTHIC COSMETIC"
+  ],
+  "name": "骑士皮肤",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Item skins give your gear a fresh",
+        "new look! Apply them just like an",
+        "enchant book using the anvil."
+      ],
+      "translation": "物品皮肤能让你的装备焕然一新!像附魔书一样在铁砧上使用即可.",
+      "styleMappings": {
+        "fresh new look": "焕然一新",
+        "enchant book": "附魔书",
+        "Item skins": "物品皮肤",
+        "anvil": "铁砧",
+        "Item": "物品"
+      }
+    },
+    {
+      "source": [
+        "This skin can be applied to Golden",
+        "Necron Head and Diamond Necron",
+        "Head."
+      ],
+      "translation": "此皮肤可应用于金奈克隆头颅和钻石死灵头颅.",
+      "styleMappings": {
+        "This skin can be applied to": "此皮肤可应用于",
+        "Golden Necron Head": "金奈克隆头颅",
+        "Diamond Necron Head": "钻石死灵头颅"
+      }
+    },
+    {
+      "source": [
+        "This skin will allow you to swap",
+        "between {{N0}} shiny versions!"
+      ],
+      "translation": "此皮肤允许你在 {{N0}} 个闪亮版本之间切换!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "MYTHIC COSMETIC"
+      ],
+      "translation": "神话 外观",
+      "styleMappings": {
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "ENCHANTED_GLOWSTONE_DUST",
+  "_original_name": "Enchanted Glowstone Dust",
+  "_original_lore": [
+    "Brewing Ingredient",
+    "Collection Item",
+    "",
+    "UNCOMMON BLOCK"
+  ],
+  "name": "附魔荧石粉",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Brewing Ingredient",
+        "Collection Item"
+      ],
+      "translation": "酿造材料收藏物品",
+      "styleMappings": {
+        "Brewing Ingredient": "酿造材料",
+        "Collection Item": "收藏物品",
+        "Collection": "收藏",
+        "Item": "物品"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON BLOCK"
+      ],
+      "translation": "罕见 方块",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Glowstone Dust": "荧石粉"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_ABSORPTION;6",
+  "_original_name": "Absorption VI Potion",
+  "_original_lore": [
+    "",
+    "Absorption VI (3:00)",
+    "Grants +150 of absorption.",
+    "",
+    "RARE"
+  ],
+  "name": "伤害吸收 VI 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Absorption VI ({{N0}}:{{N1}})"
+      ],
+      "translation": "伤害吸收 VI ({{N0}}:{{N1}})",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants {{N0}} of absorption."
+      ],
+      "translation": "提供 {{N0}} 点伤害吸收.",
+      "styleMappings": {
+        "Grants": "提供"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

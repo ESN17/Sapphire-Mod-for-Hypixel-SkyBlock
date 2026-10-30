@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "SHINY_ROD",
+  "_original_name": "Shiny Rod",
+  "_original_lore": [
+    "Shiny pigs run away from you 30%",
+    "faster while holding this.",
+    "",
+    "Extract 25% extra coins from shiny",
+    "orbs.",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "闪亮钓竿",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Shiny pigs run away from you {{N0}}",
+        "faster while holding this."
+      ],
+      "translation": "手持此物时,闪亮猪逃离你的速度加快 {{N0}}.",
+      "styleMappings": {
+        "faster": "加快"
+      }
+    },
+    {
+      "source": [
+        "Extract {{N0}} extra coins from shiny",
+        "orbs."
+      ],
+      "translation": "从闪亮宝珠中额外提取 {{N0}} 硬币.",
+      "styleMappings": {
+        "coins": "硬币"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shiny Rod": "闪亮钓竿"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

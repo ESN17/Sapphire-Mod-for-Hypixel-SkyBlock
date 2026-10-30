@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "id": "PIGMAN_SWORD",
+  "_original_name": "Pigman Sword",
+  "_original_lore": [
+    "Damage: +200",
+    "Strength: +100",
+    "Crit Chance: +5%",
+    "Crit Damage: +30%",
+    "Intelligence: +300",
+    "",
+    "Ability: Burning Souls  RIGHT CLICK",
+    "Gain +75 Defense for 5s and cast vortex of",
+    "flames towards enemies, dealing up to 30,000",
+    "over 5 seconds.",
+    "Mana Cost: 400",
+    "Cooldown: 5s",
+    "",
+    "This item can be reforged!",
+    "LEGENDARY SWORD"
+  ],
+  "name": "猪人剑",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Crit Chance: {{N0}}"
+      ],
+      "translation": "暴击率: {{N0}}",
+      "styleMappings": {
+        "Crit Chance": "暴击率"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: {{N0}}"
+      ],
+      "translation": "暴击伤害:{{N0}}",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Ability: Burning Souls  RIGHT CLICK"
+      ],
+      "translation": "技能: 燃烧灵魂  右键点击",
+      "styleMappings": {
+        "Burning Souls": "燃烧灵魂",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击",
+        "Souls": "灵魂"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}} Defense for {{N1}}s and cast vortex of",
+        "flames towards enemies, dealing up to {{N2}}",
+        "over {{N3}} seconds."
+      ],
+      "translation": "获得 {{N0}} 防御,持续 {{N1}} 秒,并向敌人释放烈焰漩涡,在 {{N3}} 秒内造成至多 {{N2}} 伤害.",
+      "styleMappings": {
+        " Defense": " 防御",
+        "seconds": "秒",
+        "Gain": "获得",
+        "for": "持续",
+        "Defense": "防御",
+        "{{N1}}s": "{{N1}} 秒",
+        "enemies": "敌人"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY SWORD"
+      ],
+      "translation": "传说剑",
+      "styleMappings": {
+        "LEGENDARY": "传说",
+        "LEGENDARY SWORD": "传说剑"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Pigman Sword": "猪人剑",
+    "Sword": "剑",
+    "Pigman": "猪人"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

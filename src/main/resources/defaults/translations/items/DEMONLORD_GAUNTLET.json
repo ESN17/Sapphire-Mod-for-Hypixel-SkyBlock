@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "DEMONLORD_GAUNTLET",
+  "_original_name": "Demonslayer Gauntlet",
+  "_original_lore": [
+    "Health: +40",
+    "Defense: +20",
+    "True Defense: +20",
+    "Crit Damage: +25%",
+    "",
+    "Deal 1.15x damage against ",
+    "Infernal Mobs.",
+    "",
+    "Right-click to equip!",
+    "",
+    "This item can be reforged!",
+    "☠ Requires Blaze Slayer 4.",
+    "EPIC GLOVES"
+  ],
+  "name": "屠魔护手",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "True Defense: {{N0}}"
+      ],
+      "translation": "真实防御: {{N0}}",
+      "styleMappings": {
+        "True Defense": "真实防御",
+        "Defense": "防御",
+        "True": "真实"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: {{N0}}"
+      ],
+      "translation": "暴击伤害:{{N0}}",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Deal {{N0}}x damage against ",
+        "Infernal Mobs."
+      ],
+      "translation": "对  炼狱怪物造成 {{N0}}倍 伤害.",
+      "styleMappings": {
+        "Infernal": "炼狱",
+        "damage": "伤害",
+        "Mobs": "怪物",
+        "{{N0}}x": "{{N0}}倍",
+        "Deal": "造成"
+      }
+    },
+    {
+      "source": [
+        "Right-click to equip!"
+      ],
+      "translation": "右键点击装备!",
+      "styleMappings": {
+        "Right-click to equip!": "右键点击装备!",
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Blaze Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要 烈焰人杀手 {{N0}}.",
+      "styleMappings": {
+        "Blaze Slayer": "烈焰人杀手",
+        "Requires": "需要",
+        "Slayer": "杀手"
+      }
+    },
+    {
+      "source": [
+        "EPIC GLOVES"
+      ],
+      "translation": "史诗 手套",
+      "styleMappings": {
+        "GLOVES": "手套",
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Gauntlet": "护手"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "id": "LEGENDARY_KUUDRA_CHUNK",
+  "_original_name": "Enriched Kuudra Chunk",
+  "_original_lore": [
+    "A chunk of Kuudra's enchanted",
+    "flesh, capable of upgrading your",
+    "Kuudra Pet to Legendary rarity!",
+    "",
+    "Right-click on your Kuudra Pet to",
+    "apply this upgrade!",
+    "",
+    "* Soulbound *",
+    "LEGENDARY"
+  ],
+  "name": "富集 库德拉 肉块",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A chunk of Kuudra's enchanted",
+        "flesh, capable of upgrading your",
+        "Kuudra Pet to Legendary rarity!"
+      ],
+      "translation": "一块库德拉的附魔血肉,可将你的库德拉宠物升级至传说稀有度!",
+      "styleMappings": {
+        "Kuudra Pet": "库德拉宠物",
+        "Legendary": "传说",
+        "Kuudra's": "库德拉的",
+        "rarity": "稀有度",
+        "Kuudra": "库德拉",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Right-click on your Kuudra Pet to"
+      ],
+      "translation": "右键点击你的库德拉宠物以",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Kuudra Pet": "库德拉宠物",
+        "Kuudra": "库德拉",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "apply this upgrade!"
+      ],
+      "translation": "应用此升级!",
+      "styleMappings": {
+        "upgrade": "升级"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Kuudra": "库德拉"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

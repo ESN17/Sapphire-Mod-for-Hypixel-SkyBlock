@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "PEST_FLY_MONSTER",
+  "_original_name": "Fly (Pest)",
+  "_original_lore": [
+    "A common Garden pest, known for",
+    "its big eyes.",
+    "",
+    "Attracted to Dung.",
+    "",
+    "❤ Health: 600"
+  ],
+  "name": "苍蝇 (害虫)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A common Garden pest, known for",
+        "its big eyes."
+      ],
+      "translation": "一种常见的花园害虫,以其大眼睛著称.",
+      "styleMappings": {
+        "common": "常见",
+        "Garden": "花园"
+      }
+    },
+    {
+      "source": [
+        "Attracted to Dung."
+      ],
+      "translation": "会被粪便吸引.",
+      "styleMappings": {
+        "Dung": "粪便"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Pest": "害虫",
+    "Fly": "苍蝇"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

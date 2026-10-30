@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "WISHING_COMPASS",
+  "_original_name": "Wishing Compass",
+  "_original_lore": [
+    "Consumed on use",
+    "",
+    "Points to important locations while in",
+    "the Crystal Hollows.",
+    "",
+    "Right-click to consume!",
+    "",
+    "True enough, this compass does not",
+    "point north. It points to the thing you",
+    "want most in this world.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "祈愿罗盘",
+  "lore": {
+    "Consumed on use": "使用后消耗",
+    "Right-click to consume!": "右键使用!",
+    "UNCOMMON": "罕见"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "Points to important locations while in",
+        "the Crystal Hollows."
+      ],
+      "translation": "在水晶洞窟中指向重要地点.",
+      "styleMappings": {
+        "important locations": "重要地点",
+        "Crystal Hollows": "水晶洞窟",
+        "Crystal": "水晶"
+      }
+    },
+    {
+      "source": [
+        "True enough, this compass does not",
+        "point north. It points to the thing you",
+        "want most in this world."
+      ],
+      "translation": "的确,这只指南针并不指向北方.它指向你在这世上最渴望的东西.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Consumed on use"
+      ],
+      "translation": "使用后消耗",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "important locations": "重要地点",
+    "Crystal Hollows": "水晶洞窟"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

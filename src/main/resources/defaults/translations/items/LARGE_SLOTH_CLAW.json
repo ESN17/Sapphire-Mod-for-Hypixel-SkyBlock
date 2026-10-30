@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "LARGE_SLOTH_CLAW",
+  "_original_name": "Large Sloth Claw",
+  "_original_lore": [
+    "Use at Kat to upgrade Sloth Pets",
+    "from Rare to Epic.",
+    "",
+    "EPIC PET ITEM"
+  ],
+  "name": "大型树懒爪",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Use at Kat to upgrade Sloth Pets",
+        "from Rare to Epic."
+      ],
+      "translation": "在 Kat 处使用,将树懒宠物从稀有升级为史诗.",
+      "styleMappings": {
+        "Sloth Pets": "树懒宠物",
+        "upgrade": "升级",
+        "Epic": "史诗",
+        "Rare": "稀有",
+        "Kat": "Kat",
+        "Pets": "宠物",
+        "Sloth": "树懒"
+      }
+    },
+    {
+      "source": [
+        "EPIC PET ITEM"
+      ],
+      "translation": "史诗 宠物 物品",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sloth": "树懒"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

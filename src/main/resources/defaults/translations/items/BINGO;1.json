@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "id": "BINGO;1",
+  "_original_name": "[Lvl {LVL}] Bingo",
+  "_original_lore": [
+    "All Skills",
+    "",
+    "Health: +{HEALTH}",
+    "Strength: +{STRENGTH}",
+    "Speed: +{SPEED}",
+    "",
+    "Lucky Looting",
+    "Gain {0}% more collection items from",
+    "any source!",
+    "",
+    "Climber",
+    "Gain {1}% more HOTM and HOTF XP.",
+    "",
+    "Fast Learner",
+    "Gain {2}% more Skill Experience and",
+    "Slayer Experience",
+    "",
+    "This pet's perks are active even",
+    "when the pet is not summoned!"
+  ],
+  "name": "[等级 {LVL}] 宾果",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "All Skills"
+      ],
+      "translation": "所有技能",
+      "styleMappings": {
+        "All Skills": "所有技能"
+      }
+    },
+    {
+      "source": [
+        "Health: +{{N0}}"
+      ],
+      "translation": "生命值: +{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Strength: +{{N0}}"
+      ],
+      "translation": "力量: +{{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Speed: +{{N0}}"
+      ],
+      "translation": "速度: +{{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Lucky Looting"
+      ],
+      "translation": "幸运掠夺",
+      "styleMappings": {
+        "Lucky Looting": "幸运掠夺",
+        "Lucky": "幸运",
+        "Looting": "掠夺"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}}% more collection items from",
+        "any source!"
+      ],
+      "translation": "从任何来源获得 {{N0}}% 更多收藏物品!",
+      "styleMappings": {
+        "collection items": "收藏物品",
+        "Gain": "获得",
+        "more": "更多",
+        "items": "物品"
+      }
+    },
+    {
+      "source": [
+        "Climber"
+      ],
+      "translation": "攀登者",
+      "styleMappings": {
+        "Climber": "攀登者"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}}% more HOTM and HOTF XP."
+      ],
+      "translation": "获得 {{N0}}% 更多山峰之心和火焰之心经验.",
+      "styleMappings": {
+        "Gain": "获得",
+        "HOTF": "火焰之心",
+        "HOTM": "山峰之心",
+        "more": "更多"
+      }
+    },
+    {
+      "source": [
+        "Fast Learner"
+      ],
+      "translation": "快速学习",
+      "styleMappings": {
+        "Fast Learner": "快速学习"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}}% more Skill Experience and",
+        "Slayer Experience"
+      ],
+      "translation": "获得 {{N0}}% 更多技能经验和杀手经验",
+      "styleMappings": {
+        "Experience": "经验",
+        "Slayer": "杀手",
+        "Skill": "技能",
+        "Gain": "获得",
+        "more": "更多"
+      }
+    },
+    {
+      "source": [
+        "This pet's perks are active even",
+        "when the pet is not summoned!"
+      ],
+      "translation": "即使宠物未被召唤,此宠物的技能也会生效!",
+      "styleMappings": {
+        "This pet's perks are active even": "即使宠物未被召唤,此宠物的技能也会生效",
+        "pet": "宠物"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Lvl": "等级",
+    "Bingo": "宾果"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

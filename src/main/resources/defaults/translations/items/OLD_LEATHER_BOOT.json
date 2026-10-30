@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "OLD_LEATHER_BOOT",
+  "_original_name": "Old Leather Boot",
+  "_original_lore": [
+    "A piece of Junk. Bring it to Junker",
+    "Joel!",
+    "",
+    "Well-worn and waterlogged.",
+    "",
+    "EPIC"
+  ],
+  "name": "旧皮革靴子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A piece of Junk. Bring it to Junker",
+        "Joel!"
+      ],
+      "translation": "一件垃圾.把它带给 Junker Joel!",
+      "styleMappings": {
+        "Junk": "垃圾",
+        "Junker Joel": "Junker Joel"
+      }
+    },
+    {
+      "source": [
+        "Well-worn and waterlogged."
+      ],
+      "translation": "破旧且浸透了水.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Leather": "皮革",
+    "Old Leather Boot": "旧皮革靴子"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

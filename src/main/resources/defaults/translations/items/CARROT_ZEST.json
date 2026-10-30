@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "CARROT_ZEST",
+  "_original_name": "Carrot Zest",
+  "_original_lore": [
+    "Dropped rarely from Carrot during",
+    "the Harvest Feast event.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "风味胡萝卜",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Dropped rarely from Carrot during",
+        "the Harvest Feast event."
+      ],
+      "translation": "在丰收节活动期间,有较低概率从胡萝卜中掉落.",
+      "styleMappings": {
+        "Harvest Feast": "丰收节",
+        "Carrot": "胡萝卜"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Carrot": "胡萝卜"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

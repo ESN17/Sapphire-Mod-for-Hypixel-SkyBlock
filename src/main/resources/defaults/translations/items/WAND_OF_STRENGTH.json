@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": "WAND_OF_STRENGTH",
+  "_original_name": "Wand of Strength",
+  "_original_lore": [
+    "Damage: +50",
+    "Strength: +20",
+    "",
+    "Ability: Life Blood  RIGHT CLICK",
+    "Use 10% of your max health to boost your",
+    "nearby allies by +30 Strength for 10",
+    "seconds.",
+    "Health Cost: 10",
+    "Cooldown: 1s",
+    "",
+    "❣ Requires Combat Skill 22.",
+    "EPIC WAND"
+  ],
+  "name": "力量之杖",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Ability: Life Blood  RIGHT CLICK"
+      ],
+      "translation": "技能:生命之血  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Use {{N0}} of your max health to boost your",
+        "nearby allies by {{N1}} Strength for {{N2}}",
+        "seconds."
+      ],
+      "translation": "消耗你最大生命值的 {{N0}},为附近盟友提供 {{N1}} 力量,持续 {{N2}} 秒.",
+      "styleMappings": {
+        "of your max": "最大",
+        " Strength": " 力量",
+        "seconds": "秒",
+        "health": "生命值",
+        "for": "持续",
+        "Strength": "力量",
+        "max": "最大"
+      }
+    },
+    {
+      "source": [
+        "Health Cost: {{N0}}"
+      ],
+      "translation": "生命消耗:{{N0}}",
+      "styleMappings": {
+        "Health Cost": "生命消耗",
+        "Health": "生命"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC WAND"
+      ],
+      "translation": "史诗魔杖",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Strength": "力量"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

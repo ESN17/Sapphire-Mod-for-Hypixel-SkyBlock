@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "MIMIC_MONSTER",
+  "_original_name": "Mimic (Monster)",
+  "_original_lore": [
+    "Mimics are a type of Dungeon Mobs that",
+    "rarely take the place of a secret",
+    "chest in Dungeons. They can appear",
+    "in Floor VI and above. They have varying",
+    "health from 1M❤ to 2M❤.",
+    "In Master Mode, they have up to 150M❤.",
+    "",
+    "Possible Drops:",
+    "Mimic Fragment"
+  ],
+  "name": "拟态 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mimics are a type of Dungeon Mobs that",
+        "rarely take the place of a secret",
+        "chest in Dungeons. They can appear",
+        "in Floor VI and above. They have varying",
+        "health from {{N0}}M❤ to {{N1}}M❤."
+      ],
+      "translation": "拟态是一种地牢怪物, 偶尔会取代地牢中的秘密箱子.它们可以出现在第六层及以上.它们的生命值在 {{N0}}M❤ 到 {{N1}}M❤ 之间变化.",
+      "styleMappings": {
+        "health": "生命值",
+        "Mobs": "怪物",
+        "VI": "六",
+        "Dungeons": "地牢",
+        "Dungeon": "地牢"
+      }
+    },
+    {
+      "source": [
+        "In Master Mode, they have up to {{N0}}M❤."
+      ],
+      "translation": "在精通模式中, 它们的生命值最高可达 {{N0}}M❤.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Possible Drops:"
+      ],
+      "translation": "可能掉落物:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Mimic Fragment"
+      ],
+      "translation": "拟态碎片",
+      "styleMappings": {}
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

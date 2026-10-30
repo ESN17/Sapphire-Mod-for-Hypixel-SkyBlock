@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "MAGIC_JELLYBEAN",
+  "_original_name": "Magic Jellybean",
+  "_original_lore": [
+    "A strange bean that starts growing",
+    "in unexpected ways, stretching",
+    "higher and higher.",
+    "",
+    "Complete Visitor Beth's quest to",
+    "Analyze this crop!",
+    "",
+    "RARE MUTATION"
+  ],
+  "name": "魔法糖豆",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A strange bean that starts growing",
+        "in unexpected ways, stretching",
+        "higher and higher."
+      ],
+      "translation": "一颗奇怪的豆子,会以意想不到的方式开始生长,越长越高.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Complete Visitor Beth's quest to",
+        "Analyze this crop!"
+      ],
+      "translation": "完成访客 Beth 的任务来分析这种作物!",
+      "styleMappings": {
+        "Visitor": "访客",
+        "Beth's": "Beth 的",
+        "Analyze": "分析"
+      }
+    },
+    {
+      "source": [
+        "RARE MUTATION"
+      ],
+      "translation": "稀有突变",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

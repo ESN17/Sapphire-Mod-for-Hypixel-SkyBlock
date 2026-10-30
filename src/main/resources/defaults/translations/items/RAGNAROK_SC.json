@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "RAGNAROK_SC",
+  "_original_name": "Ragnarok (Sea Creature)",
+  "_original_lore": [
+    "Mob Types: ♆ Magmatic, 🦴 Skeletal, ❃ Elusive",
+    "❤ Health: 125,000,000",
+    "",
+    "MYTHIC"
+  ],
+  "name": "诸神黄昏 (海怪)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mob Types: ♆ Magmatic, 🦴 Skeletal, ❃ Elusive"
+      ],
+      "translation": "生物类型: ♆ 熔岩, 🦴 骸骨, ❃ 闪避",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Magmatic": "熔岩",
+        "Skeletal": "骸骨",
+        "Elusive": "闪避"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "MYTHIC"
+      ],
+      "translation": "神话",
+      "styleMappings": {
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sea Creature": "海怪",
+    "(Sea Creature)": "(海怪)"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

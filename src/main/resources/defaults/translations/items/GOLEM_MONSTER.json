@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "GOLEM_MONSTER",
+  "_original_name": "Golem (Monster)",
+  "_original_lore": [
+    "❤ Health: 20,000,000 - 300,000,000",
+    "❁ Damage: 120,000 - 2,000,000",
+    "❈ Defense: 200"
+  ],
+  "name": "魔像 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "❤ Health: {{N0}} - {{N1}}"
+      ],
+      "translation": "❤ 生命值: {{N0}} - {{N1}}",
+      "styleMappings": {
+        "Health": "生命值",
+        "-": "-"
+      }
+    },
+    {
+      "source": [
+        "❁ Damage: {{N0}} - {{N1}}"
+      ],
+      "translation": "❁ 伤害: {{N0}} - {{N1}}",
+      "styleMappings": {
+        "Damage": "伤害",
+        "-": "-"
+      }
+    },
+    {
+      "source": [
+        "❈ Defense: {{N0}}"
+      ],
+      "translation": "❈ 防御: {{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Golem": "魔像",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

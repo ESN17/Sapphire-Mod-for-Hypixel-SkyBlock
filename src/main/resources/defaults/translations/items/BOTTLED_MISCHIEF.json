@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "BOTTLED_MISCHIEF",
+  "_original_name": "Bottled Mischief",
+  "_original_lore": [
+    "Dropped by the Puck in Torrhus",
+    "Canyon.",
+    "",
+    "The very essence of a Puck is",
+    "mischief. Though it seldom means",
+    "harm, it should never be trusted.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "RARE"
+  ],
+  "name": "瓶装恶作剧",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Dropped by the Puck in Torrhus",
+        "Canyon."
+      ],
+      "translation": "由托鲁斯峡谷中的帕克掉落.",
+      "styleMappings": {
+        "Puck": "帕克",
+        "Torrhus Canyon": "托鲁斯峡谷"
+      }
+    },
+    {
+      "source": [
+        "The very essence of a Puck is",
+        "mischief. Though it seldom means",
+        "harm, it should never be trusted."
+      ],
+      "translation": "帕克的本质就是恶作剧.虽然它很少造成伤害,但绝不应信任它.",
+      "styleMappings": {
+        "Puck": "帕克"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

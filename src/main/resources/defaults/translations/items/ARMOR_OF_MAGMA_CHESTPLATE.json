@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": "ARMOR_OF_MAGMA_CHESTPLATE",
+  "_original_name": "Armor of Magma Chestplate",
+  "_original_lore": [
+    "Health: +100",
+    "Defense: +30",
+    "",
+    "Full Set Bonus: Absorb (0/4)",
+    "Every 10 Magma Cubes killed gives",
+    "the wearer +1  Health and ",
+    "Intelligence while wearing the set.",
+    "Max 200 each.",
+    "",
+    "Magma Cubes Killed: 0",
+    "Bonus HP: 0",
+    "Bonus Intelligence: 0",
+    "",
+    "This item can be reforged!",
+    "EPIC CHESTPLATE"
+  ],
+  "name": "岩浆盔甲胸甲",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Absorb ({{N0}}/{{N1}})"
+      ],
+      "translation": "全套加成:吸收 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Full Set Bonus": "全套加成",
+        "Absorb": "吸收",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Every {{N0}} Magma Cubes killed gives",
+        "the wearer {{N1}}  Health and ",
+        "Intelligence while wearing the set."
+      ],
+      "translation": "每击杀 {{N0}} 只岩浆怪,穿戴全套时给予穿戴者 {{N1}} 生命和  智力.",
+      "styleMappings": {
+        "Magma Cubes killed": "岩浆怪",
+        "Intelligence": "智力",
+        " Health": " 生命",
+        "": "",
+        "Health": "生命",
+        "Magma Cubes": "岩浆怪",
+        " Intelligence": " 智力"
+      }
+    },
+    {
+      "source": [
+        "Max {{N0}} each."
+      ],
+      "translation": "每种最多 {{N0}}.",
+      "styleMappings": {
+        "Max": "最多"
+      }
+    },
+    {
+      "source": [
+        "Magma Cubes Killed: {{N0}}"
+      ],
+      "translation": "击杀岩浆怪: {{N0}}",
+      "styleMappings": {
+        "Magma Cubes": "岩浆怪"
+      }
+    },
+    {
+      "source": [
+        "Bonus HP: {{N0}}"
+      ],
+      "translation": "额外生命值: {{N0}}",
+      "styleMappings": {
+        "HP": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Bonus Intelligence: {{N0}}"
+      ],
+      "translation": "额外智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "EPIC CHESTPLATE"
+      ],
+      "translation": "史诗胸甲",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Armor": "盔甲",
+    "Chestplate": "胸甲"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

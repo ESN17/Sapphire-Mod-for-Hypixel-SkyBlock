@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "ANTI_MORPH_POTION",
+  "_original_name": "Anti-Morph Potion",
+  "_original_lore": [
+    "Right-click to throw the potion",
+    "at ugly people.",
+    "",
+    "EPIC"
+  ],
+  "name": "反变形药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Right-click to throw the potion"
+      ],
+      "translation": "右键点击投掷药水",
+      "styleMappings": {
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "at ugly people."
+      ],
+      "translation": "砸向丑陋的人.",
+      "styleMappings": {
+        "ugly": "丑陋"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Anti-Morph Potion": "反变形药水"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

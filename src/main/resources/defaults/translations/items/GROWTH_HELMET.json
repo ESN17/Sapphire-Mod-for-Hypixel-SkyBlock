@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": "GROWTH_HELMET",
+  "_original_name": "Helmet of Growth",
+  "_original_lore": [
+    "Health: +50",
+    "Defense: +30",
+    "",
+    "Ability: Growth ",
+    "Regen 5 Vitality when killing a mob.",
+    "Increase the  Health bonus of this",
+    "armor by 1 (Max 100)",
+    "Cooldown: 5s",
+    "",
+    "Bonus HP: 0/100",
+    "",
+    "This item can be reforged!",
+    "RARE HELMET"
+  ],
+  "name": "生长头盔",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Ability: Growth "
+      ],
+      "translation": "能力: 生长 ",
+      "styleMappings": {
+        "Ability": "能力",
+        "Growth": "生长"
+      }
+    },
+    {
+      "source": [
+        "Regen {{N0}} Vitality when killing a mob."
+      ],
+      "translation": "击杀生物时恢复 {{N0}} 活力.",
+      "styleMappings": {
+        " Vitality": " 活力",
+        "Vitality": "活力",
+        "when": "时",
+        "Regen": "恢复"
+      }
+    },
+    {
+      "source": [
+        "Increase the  Health bonus of this",
+        "armor by {{N0}} (Max {{N1}})"
+      ],
+      "translation": "将此盔甲的  生命值加成提高 {{N0}} (最大 {{N1}})",
+      "styleMappings": {
+        "Health": "生命值",
+        "Max": "最大",
+        " Health": " 生命"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "Bonus HP: {{N0}}/{{N1}}"
+      ],
+      "translation": "额外生命值: {{N0}}/{{N1}}",
+      "styleMappings": {
+        "HP": "生命值"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "RARE HELMET"
+      ],
+      "translation": "稀有头盔",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Helmet": "头盔",
+    "Growth": "生长"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

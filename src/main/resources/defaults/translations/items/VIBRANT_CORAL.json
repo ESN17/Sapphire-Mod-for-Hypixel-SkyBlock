@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "id": "VIBRANT_CORAL",
+  "_original_name": "Vibrant Coral",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "When applied to armor, increases its",
+    "Scuba level by 1!",
+    "Can be applied once.",
+    "Requires Scuba V!",
+    "",
+    "Coral flourishes under the immense",
+    "pressure of the Murkwater Loch. It",
+    "is believed to be the favorite food",
+    "of Nessie.",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "鲜艳珊瑚",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "When applied to armor, increases its",
+        "Scuba level by {{N0}}!"
+      ],
+      "translation": "应用于盔甲时,使其潜水等级提高 {{N0}}!",
+      "styleMappings": {
+        "Scuba": "潜水"
+      }
+    },
+    {
+      "source": [
+        "Can be applied once."
+      ],
+      "translation": "只能应用一次.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Requires Scuba V!"
+      ],
+      "translation": "需要潜水 V!",
+      "styleMappings": {
+        "Requires": "需要",
+        "Scuba V": "潜水 V",
+        "Scuba": "潜水"
+      }
+    },
+    {
+      "source": [
+        "Coral flourishes under the immense",
+        "pressure of the Murkwater Loch. It",
+        "is believed to be the favorite food",
+        "of Nessie."
+      ],
+      "translation": "珊瑚在浊水湖的巨大压力下繁茂生长.据信这是尼斯最喜爱的食物.",
+      "styleMappings": {
+        "Murkwater Loch": "浊水湖"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Vibrant Coral": "鲜艳珊瑚"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

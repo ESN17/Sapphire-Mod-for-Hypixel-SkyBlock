@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "LEAP_FROG_BRONZE",
+  "_original_name": "Leap Frog BRONZE",
+  "_original_lore": [
+    "Caught while midair.",
+    "",
+    "Bring this to Researcher Ribery on",
+    "the Lotus Atoll.",
+    "",
+    "* Soulbound *",
+    "UNCOMMON TROPHY"
+  ],
+  "name": "跳蛙 青铜",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Caught while midair."
+      ],
+      "translation": "在半空中捕获.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Bring this to Researcher Ribery on",
+        "the Lotus Atoll."
+      ],
+      "translation": "将此物交给莲花环礁上的 Researcher Ribery.",
+      "styleMappings": {
+        "Researcher Ribery": "Researcher Ribery",
+        "Lotus Atoll": "莲花环礁",
+        "Lotus": "莲花"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON TROPHY"
+      ],
+      "translation": "罕见奖杯",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Leap Frog": "跳蛙",
+    "BRONZE": "青铜"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

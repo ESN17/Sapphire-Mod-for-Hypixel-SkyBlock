@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "GOLEM_SWORD",
+  "_original_name": "Golem Sword",
+  "_original_lore": [
+    "Defense: +25",
+    "Damage: +80",
+    "Strength: +125",
+    "",
+    "Ability: Iron Punch  RIGHT CLICK",
+    "Punch the ground, damaging enemies in a",
+    "hexagon around you for 250 base Magic",
+    "Damage.",
+    "Mana Cost: 70",
+    "Cooldown: 3s",
+    "",
+    "This item can be reforged!",
+    "RARE SWORD"
+  ],
+  "name": "傀儡剑",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Ability: Iron Punch  RIGHT CLICK"
+      ],
+      "translation": "技能: 铁拳  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Iron Punch": "铁拳",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Punch the ground, damaging enemies in a",
+        "hexagon around you for {{N0}} base Magic",
+        "Damage."
+      ],
+      "translation": "重击地面,对周围六边形范围内的敌人造成 {{N0}} 基础魔法伤害.",
+      "styleMappings": {
+        "base Magic Damage": "基础魔法伤害",
+        "Damage": "伤害",
+        "Magic Damage": "魔法伤害",
+        "enemies": "敌人"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "RARE SWORD"
+      ],
+      "translation": "稀有剑",
+      "styleMappings": {
+        "RARE": "稀有",
+        "RARE SWORD": "稀有剑"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sword": "剑",
+    "Golem": "傀儡"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_COMBAT_XP_BOOST;2",
+  "_original_name": "Combat XP Boost II Potion",
+  "_original_lore": [
+    "",
+    "Combat XP Boost II (24:00)",
+    "Grants +10☯ Combat Wisdom.",
+    "",
+    "COMMON"
+  ],
+  "name": "战斗经验加成 II 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combat XP Boost II ({{N0}}:{{N1}})"
+      ],
+      "translation": "战斗经验加成 II ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Combat XP Boost II": "战斗经验加成 II",
+        "II": "II",
+        "Combat": "战斗",
+        "Combat XP": "战斗经验"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}☯ Combat Wisdom."
+      ],
+      "translation": "获得 {{N0}}☯ 战斗智慧.",
+      "styleMappings": {
+        "Combat Wisdom": "战斗智慧",
+        "Grants": "获得",
+        "Combat": "战斗",
+        "Wisdom": "智慧"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Combat XP Boost II": "战斗经验加成 II",
+    "II": "II",
+    "Combat": "战斗",
+    "Combat XP": "战斗经验"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

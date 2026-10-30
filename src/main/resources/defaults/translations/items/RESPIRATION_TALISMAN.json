@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "id": "RESPIRATION_TALISMAN",
+  "_original_name": "Respiration Talisman",
+  "_original_lore": [
+    "Respiration: +5",
+    "Accessory Power: +3",
+    "",
+    "You hold your breath as you enter",
+    "the Rift, allowing you to delay loss of",
+    "Rift Time by 10 seconds.",
+    "",
+    "X Rift-Transferable X",
+    "Works while in Accessory Bag!",
+    "COMMON ACCESSORY"
+  ],
+  "name": "水下呼吸护符",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Respiration: {{N0}}"
+      ],
+      "translation": "水下呼吸: {{N0}}",
+      "styleMappings": {
+        "Respiration": "水下呼吸"
+      }
+    },
+    {
+      "source": [
+        "Accessory Power: {{N0}}"
+      ],
+      "translation": "饰品能量: {{N0}}",
+      "styleMappings": {
+        "Accessory Power": "饰品能量",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "You hold your breath as you enter",
+        "the Rift, allowing you to delay loss of",
+        "Rift Time by {{N0}} seconds."
+      ],
+      "translation": "进入裂隙时屏住呼吸,使裂隙时间的流失延迟 {{N0}} 秒.",
+      "styleMappings": {
+        "Rift Time": "裂隙时间",
+        "the Rift": "裂隙",
+        "seconds": "秒",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "X Rift-Transferable X",
+        "Works while in Accessory Bag!"
+      ],
+      "translation": "X 可裂隙转移 X 在饰品袋中时生效!",
+      "styleMappings": {
+        "Works while in Accessory Bag!": "在饰品袋中时生效!",
+        "Rift-Transferable": "可裂隙转移",
+        "Accessory Bag": "饰品袋",
+        "Rift": "裂隙",
+        "Accessory": "饰品"
+      }
+    },
+    {
+      "source": [
+        "COMMON ACCESSORY"
+      ],
+      "translation": "普通饰品",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Respiration": "水下呼吸",
+    "Talisman": "护符"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

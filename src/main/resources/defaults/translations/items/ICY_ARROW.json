@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "id": "ICY_ARROW",
+  "_original_name": "Icy Arrow",
+  "_original_lore": [
+    "Damage: +24",
+    "",
+    "Passive: Muscle Freeze",
+    "Applies Slowness 1 for 3s to targets.",
+    "",
+    "❣ Requires Combat Skill 21.",
+    "❣ Requires Ice Collection VII.",
+    "❣ Requires Target Practice II.",
+    "Stats added when shot!",
+    "RARE ARROW"
+  ],
+  "name": "寒冰箭",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Passive: Muscle Freeze"
+      ],
+      "translation": "被动:肌肉冻结",
+      "styleMappings": {
+        "Passive: Muscle Freeze": "被动:肌肉冻结",
+        "Passive": "被动"
+      }
+    },
+    {
+      "source": [
+        "Applies Slowness {{N0}} for {{N1}}s to targets."
+      ],
+      "translation": "对目标施加 {{N0}} 级缓慢,持续 {{N1}} 秒。",
+      "styleMappings": {
+        "Slowness": "缓慢",
+        "for": "持续",
+        "{{N1}}s": "{{N1}} 秒"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Ice Collection VII."
+      ],
+      "translation": "❣ 需要冰收藏 VII.",
+      "styleMappings": {
+        "Ice Collection VII": "冰收藏 VII",
+        "Requires": "需要",
+        "Collection": "收藏",
+        "Ice": "冰",
+        "Ice Collection": "冰收藏"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Target Practice II."
+      ],
+      "translation": "❣ 需要靶场练习 II.",
+      "styleMappings": {
+        "Target Practice II": "靶场练习 II",
+        "Requires": "需要",
+        "II": "II"
+      }
+    },
+    {
+      "source": [
+        "Stats added when shot!"
+      ],
+      "translation": "射出时添加属性!",
+      "styleMappings": {
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "RARE ARROW"
+      ],
+      "translation": "稀有箭",
+      "styleMappings": {
+        "RARE ARROW": "稀有箭",
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

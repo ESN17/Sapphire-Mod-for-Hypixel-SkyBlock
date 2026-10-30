@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "HAUNT_ABILITY",
+  "_original_name": "Haunt",
+  "_original_lore": [
+    "Ability: Haunt  RIGHT CLICK",
+    "Teleport to an alive player!",
+    "Cooldown: 2s",
+    "",
+    "UNCOMMON DUNGEON ITEM"
+  ],
+  "name": "幽魂附身",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Haunt  RIGHT CLICK"
+      ],
+      "translation": "技能: 幽魂附身 右键点击",
+      "styleMappings": {
+        "Ability: Haunt": "技能: 幽魂附身",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Teleport to an alive player!"
+      ],
+      "translation": "传送到一名存活玩家处!",
+      "styleMappings": {
+        "Teleport": "传送",
+        "player": "玩家"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON DUNGEON ITEM"
+      ],
+      "translation": "罕见 地牢 物品",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "DECAYED_BAT",
+  "_original_name": "Decayed Bat",
+  "_original_lore": [
+    "A withering husk of its former self.",
+    "",
+    "* Co-op Soulbound *",
+    "RARE"
+  ],
+  "name": "腐朽蝙蝠",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A withering husk of its former self."
+      ],
+      "translation": "昔日身躯的枯萎残骸.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Bat": "蝙蝠"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

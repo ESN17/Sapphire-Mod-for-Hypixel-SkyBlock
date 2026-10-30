@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "DESERT_ISLAND_CRYSTAL",
+  "_original_name": "Desert Crystal",
+  "_original_lore": [
+    "Can be placed on your Private Island.",
+    "",
+    "While placed down, spawns Sugar",
+    "Cane, Cactus, and Dead Bushes on",
+    "nearby Sand.",
+    "",
+    "Effective Radius: 16",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "沙漠水晶",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Can be placed on your Private Island."
+      ],
+      "translation": "可放置在你的私人岛屿上.",
+      "styleMappings": {
+        "Private Island": "私人岛屿",
+        "Island": "岛屿"
+      }
+    },
+    {
+      "source": [
+        "While placed down, spawns Sugar",
+        "Cane, Cactus, and Dead Bushes on",
+        "nearby Sand."
+      ],
+      "translation": "放置后,会在附近的沙子上生成甘蔗、仙人掌和枯灌木.",
+      "styleMappings": {
+        "Cactus": "仙人掌",
+        "Sugar Cane": "甘蔗"
+      }
+    },
+    {
+      "source": [
+        "Effective Radius: {{N0}}"
+      ],
+      "translation": "有效半径: {{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Crystal": "水晶",
+    "Desert": "沙漠"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

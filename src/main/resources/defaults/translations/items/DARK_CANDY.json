@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "DARK_CANDY",
+  "_original_name": "Dark Candy",
+  "_original_lore": [
+    "Can be brought to Vargul the",
+    "Unearthed at the back of the Hub",
+    "island during the Great Spook.",
+    "",
+    "RARE"
+  ],
+  "name": "暗黑糖果",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Can be brought to Vargul the",
+        "Unearthed at the back of the Hub",
+        "island during the Great Spook."
+      ],
+      "translation": "可在大万圣节活动期间带到中心岛后方的掘地者瓦古尔处.",
+      "styleMappings": {
+        "Vargul the Unearthed": "掘地者瓦古尔",
+        "Great Spook": "大万圣节",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Candy": "糖果"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

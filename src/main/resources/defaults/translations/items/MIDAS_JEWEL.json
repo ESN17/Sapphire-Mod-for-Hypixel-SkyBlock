@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 1,
+  "id": "MIDAS_JEWEL",
+  "_original_name": "Midas Jewel",
+  "_original_lore": [
+    "Reforge Stone",
+    "Combinable in Anvil",
+    "",
+    "Applies the Gilded reforge when",
+    "combined with Midas Staff,  Midas",
+    "Staff, Midas' Sword, and  Midas'",
+    "Sword.",
+    "",
+    "Midas' most prized possession - a",
+    "gift from his older brother, whose",
+    "boundless generosity got the better",
+    "of him. While he always admired his",
+    "brother, Midas swore his kingdom",
+    "would not end the same way.",
+    "",
+    "Grants the following stats that scale",
+    "with the item's rarity:",
+    "  Damage",
+    "  Strength",
+    "  Ability Damage",
+    "",
+    "Byron's Compassion (Gilded)",
+    "Killing a mob has a rare chance to",
+    "grant Coins to a nearby player.",
+    "",
+    "Right-click to view rarity scaling!",
+    "",
+    "❣ Requires Mining Skill 25.",
+    "",
+    "EPIC REFORGE STONE"
+  ],
+  "name": "米达斯宝石",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Reforge Stone",
+        "Combinable in Anvil"
+      ],
+      "translation": "洗练石 可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Reforge Stone": "洗练石",
+        "Anvil": "铁砧",
+        "Reforge": "洗练"
+      }
+    },
+    {
+      "source": [
+        "Applies the Gilded reforge when",
+        "combined with Midas Staff,  Midas",
+        "Staff, Midas' Sword, and  Midas'",
+        "Sword."
+      ],
+      "translation": "与米达斯法杖、 米达斯法杖、米达斯之剑和  米达斯之剑结合时施加镀金洗练.",
+      "styleMappings": {
+        "Midas' Sword": "米达斯之剑",
+        "reforge": "洗练",
+        "Gilded": "镀金",
+        "Midas Staff": "米达斯法杖",
+        " Midas Staff": " 米达斯法杖",
+        " Midas' Sword": " 米达斯之剑",
+        "Sword": "剑",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Midas' most prized possession - a",
+        "gift from his older brother, whose",
+        "boundless generosity got the better",
+        "of him. While he always admired his",
+        "brother, Midas swore his kingdom",
+        "would not end the same way."
+      ],
+      "translation": "米达斯最珍视的宝物——来自他哥哥的礼物,哥哥无尽的慷慨反而害了自己.尽管米达斯一直钦佩他的哥哥,但他发誓自己的王国不会以同样的方式终结.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants the following stats that scale"
+      ],
+      "translation": "提供以下随物品稀有度提升的属性:",
+      "styleMappings": {
+        "Grants": "提供",
+        "stats": "属性"
+      }
+    },
+    {
+      "source": [
+        "with the item's rarity:"
+      ],
+      "translation": "物品稀有度提升的属性:",
+      "styleMappings": {
+        "item": "物品",
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "  Damage",
+        "  Strength",
+        "  Ability Damage"
+      ],
+      "translation": "   伤害   力量   技能伤害",
+      "styleMappings": {
+        "Ability Damage": "技能伤害",
+        " Strength": " 力量",
+        "Damage": "伤害",
+        "Strength": "力量",
+        "Ability": "技能"
+      }
+    },
+    {
+      "source": [
+        "Byron's Compassion (Gilded)",
+        "Killing a mob has a rare chance to",
+        "grant Coins to a nearby player."
+      ],
+      "translation": "拜伦的怜悯 (镀金) 击杀生物时有稀有概率为附近玩家提供金币.",
+      "styleMappings": {
+        "Byron's Compassion": "拜伦的怜悯",
+        "(Gilded)": "(镀金)",
+        "Coins": "金币",
+        "rare": "稀有",
+        "chance to": "概率",
+        "player": "玩家",
+        "chance": "概率",
+        "Gilded": "镀金"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view rarity scaling!"
+      ],
+      "translation": "右键查看各稀有度的属性!",
+      "styleMappings": {
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Mining Skill {{N0}}."
+      ],
+      "translation": "❣ 需要采矿技能 {{N0}}.",
+      "styleMappings": {
+        "Mining Skill": "采矿技能",
+        "Requires": "需要",
+        "Mining": "采矿",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC REFORGE STONE"
+      ],
+      "translation": "史诗洗练石",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Midas Jewel": "米达斯宝石"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_name_revision": "2026-10-17-slayer-rpg"
+}

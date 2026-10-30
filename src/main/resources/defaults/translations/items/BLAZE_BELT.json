@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "id": "BLAZE_BELT",
+  "_original_name": "Blaze Belt",
+  "_original_lore": [
+    "Defense: +7",
+    "Strength: +7",
+    "",
+    "Ability: Blazing Palisade ",
+    "Gain a 10% chance to reflect",
+    "Fireballs.",
+    "",
+    "Right-click to equip!",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Combat Skill 22.",
+    "RARE BELT"
+  ],
+  "name": "烈焰腰带",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Ability: Blazing Palisade "
+      ],
+      "translation": "能力: 烈焰栅栏 ",
+      "styleMappings": {
+        "Ability": "能力"
+      }
+    },
+    {
+      "source": [
+        "Gain a {{N0}} chance to reflect",
+        "Fireballs."
+      ],
+      "translation": "获得 {{N0}} 几率反弹火球.",
+      "styleMappings": {
+        "Fireballs": "火球",
+        "chance": "几率",
+        "Gain": "获得",
+        "chance to": "几率"
+      }
+    },
+    {
+      "source": [
+        "Right-click to equip!"
+      ],
+      "translation": "右键点击装备!",
+      "styleMappings": {
+        "Right-click to equip!": "右键点击装备!",
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "RARE BELT"
+      ],
+      "translation": "稀有腰带",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Belt": "腰带",
+    "Blaze": "烈焰"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

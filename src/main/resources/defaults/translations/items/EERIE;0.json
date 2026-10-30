@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "EERIE;0",
+  "_original_name": "[Lvl {LVL}] Eerie",
+  "_original_lore": [
+    "Combat Pet",
+    "",
+    "Edition: #???",
+    "",
+    "Intelligence: +{INTELLIGENCE}",
+    "Speed: +{SPEED}",
+    "",
+    "Fearnesy",
+    "Fear from Great Spook Armor in",
+    "your wardrobe applies to you, even",
+    "if you aren't wearing it.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "* Soulbound *",
+    "COMMON PET"
+  ],
+  "name": "[等级 {LVL}] 诡异",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combat Pet"
+      ],
+      "translation": "战斗宠物",
+      "styleMappings": {
+        "Combat Pet": "战斗宠物",
+        "Combat": "战斗",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Edition: #???"
+      ],
+      "translation": "版本: #???",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Intelligence: +{{N0}}"
+      ],
+      "translation": "智力: +{{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Speed: +{{N0}}"
+      ],
+      "translation": "速度: +{{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Fearnesy"
+      ],
+      "translation": "费尔内西",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Fear from Great Spook Armor in",
+        "your wardrobe applies to you, even",
+        "if you aren't wearing it."
+      ],
+      "translation": "衣柜中 大万圣节盔甲 提供的恐惧会作用于你,即使你并未穿戴它.",
+      "styleMappings": {
+        "Great Spook Armor": "大万圣节盔甲",
+        "wardrobe": "衣柜",
+        "Fear": "恐惧",
+        "Great Spook": "大万圣节",
+        "Armor": "盔甲"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "COMMON PET"
+      ],
+      "translation": "普通 宠物",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

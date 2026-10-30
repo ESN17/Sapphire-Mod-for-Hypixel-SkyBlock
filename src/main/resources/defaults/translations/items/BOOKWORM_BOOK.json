@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "BOOKWORM_BOOK",
+  "_original_name": "Bookworm's Favorite Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "When applied to a vacuum, grants",
+    "+20 Damage.",
+    "",
+    "This can be applied to a vacuum up",
+    "to 5 times!",
+    "",
+    "RARE"
+  ],
+  "name": "书虫最爱的书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "When applied to a vacuum, grants",
+        "{{N0}} Damage."
+      ],
+      "translation": "应用于真空吸尘器时,提供 {{N0}} 伤害.",
+      "styleMappings": {
+        " Damage": " 伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "This can be applied to a vacuum up",
+        "to {{N0}} times!"
+      ],
+      "translation": "最多可应用于真空吸尘器 {{N0}} 次!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

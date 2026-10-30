@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_MANA;4",
+  "_original_name": "Mana IV Potion",
+  "_original_lore": [
+    "",
+    "Mana IV (3:00)",
+    "Grants +4 ✎ Mana per second.",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "法力 IV 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mana IV ({{N0}}:{{N1}})"
+      ],
+      "translation": "法力 IV ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Mana IV": "法力 IV",
+        "Mana": "法力"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} ✎ Mana per second."
+      ],
+      "translation": "每秒提供 {{N0}} ✎ 法力.",
+      "styleMappings": {
+        "per second": "每秒",
+        "Grants": "提供",
+        "Mana": "法力",
+        "second": "秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mana IV": "法力 IV",
+    "Mana": "法力"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

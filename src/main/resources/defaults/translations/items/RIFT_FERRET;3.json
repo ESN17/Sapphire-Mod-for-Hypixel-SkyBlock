@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": "RIFT_FERRET;3",
+  "_original_name": "[Lvl {LVL}] Rift Ferret",
+  "_original_lore": [
+    "Combat Pet",
+    "",
+    "Intelligence: -{INTELLIGENCE}",
+    "Speed: +{SPEED}",
+    "",
+    "Orbs are Fun",
+    "Gain +10% experience from XP Orbs.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "* Soulbound *",
+    "X Rift-Transferable X",
+    "EPIC PET"
+  ],
+  "name": "[等级 {LVL}] 裂隙雪貂",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combat Pet"
+      ],
+      "translation": "战斗宠物",
+      "styleMappings": {
+        "Combat Pet": "战斗宠物",
+        "Combat": "战斗",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: -{{N0}}"
+      ],
+      "translation": "智力:-{{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Speed: +{{N0}}"
+      ],
+      "translation": "速度: +{{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Orbs are Fun"
+      ],
+      "translation": "光球很有趣",
+      "styleMappings": {
+        "Orbs are Fun": "光球很有趣"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}} experience from XP Orbs."
+      ],
+      "translation": "从经验球中获得 {{N0}} 点经验.",
+      "styleMappings": {
+        "Gain": "获得",
+        "XP Orbs": "经验球"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "X Rift-Transferable X"
+      ],
+      "translation": "X 可转移至裂隙 X",
+      "styleMappings": {
+        "Rift-Transferable": "可转移至裂隙",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "EPIC PET"
+      ],
+      "translation": "史诗 宠物",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Rift Ferret": "裂隙雪貂",
+    "Lvl": "等级",
+    "Rift": "裂隙"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

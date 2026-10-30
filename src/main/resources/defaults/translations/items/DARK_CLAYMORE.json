@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "id": "DARK_CLAYMORE",
+  "_original_name": "Dark Claymore",
+  "_original_lore": [
+    "Gear Score: 680",
+    "Damage: +500",
+    "Strength: +100",
+    "Crit Damage: +100%",
+    "Swing Range: +2",
+    "Gemstones: [⚔] [⚔]",
+    "",
+    "That thing was too big to be called a",
+    "sword, it was more like a large hunk",
+    "of stone.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Master Mode The Catacombs Floor VII",
+    "Completion.",
+    "LEGENDARY DUNGEON LONGSWORD"
+  ],
+  "name": "暗黑巨剑",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: {{N0}}"
+      ],
+      "translation": "暴击伤害:{{N0}}",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Swing Range: {{N0}}"
+      ],
+      "translation": "挥砍范围: {{N0}}",
+      "styleMappings": {
+        "Swing Range": "挥砍范围"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [⚔] [⚔]"
+      ],
+      "translation": "宝石: [⚔] [⚔]",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石",
+        "] [": "] ["
+      }
+    },
+    {
+      "source": [
+        "That thing was too big to be called a",
+        "sword, it was more like a large hunk",
+        "of stone."
+      ],
+      "translation": "那东西太大了,不能称之为剑,更像是一大块石头.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Master Mode The Catacombs Floor VII"
+      ],
+      "translation": "❣ 需要大师模式 地牢第七层",
+      "styleMappings": {
+        "Requires Master Mode The Catacombs Floor VII": "需要大师模式 地牢第七层",
+        "Requires": "需要",
+        "The Catacombs": "地牢",
+        "Catacombs": "地牢",
+        "Master": "大师",
+        "The Catacombs Floor VII": "地牢第七层",
+        "Master Mode": "大师模式"
+      }
+    },
+    {
+      "source": [
+        "Completion."
+      ],
+      "translation": "完成.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "LEGENDARY DUNGEON LONGSWORD"
+      ],
+      "translation": "传说 地牢 长剑",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

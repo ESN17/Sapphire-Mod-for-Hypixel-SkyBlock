@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "FROZEN_SCUTE",
+  "_original_name": "Frozen Scute",
+  "_original_lore": [
+    "Use at Kat to upgrade Armadillo Pets",
+    "to Mythic rarity.",
+    "",
+    "MYTHIC"
+  ],
+  "name": "冰冻鳞甲",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Use at Kat to upgrade Armadillo Pets",
+        "to Mythic rarity."
+      ],
+      "translation": "在 Kat 处使用,将穿山甲宠物升级至神话稀有度.",
+      "styleMappings": {
+        "Armadillo Pets": "穿山甲宠物",
+        "upgrade": "升级",
+        "Mythic": "神话",
+        "rarity": "稀有度",
+        "Kat": "Kat",
+        "Armadillo": "穿山甲",
+        "Pets": "宠物"
+      }
+    },
+    {
+      "source": [
+        "MYTHIC"
+      ],
+      "translation": "神话",
+      "styleMappings": {
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Frozen": "冰冻"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

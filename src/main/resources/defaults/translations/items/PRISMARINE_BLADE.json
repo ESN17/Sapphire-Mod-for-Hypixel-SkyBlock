@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "id": "PRISMARINE_BLADE",
+  "_original_name": "Prismarine Blade",
+  "_original_lore": [
+    "Damage: +50",
+    "Strength: +25",
+    "",
+    "Deals +200% damage while in water.",
+    "",
+    "This item can be reforged!",
+    "UNCOMMON SWORD"
+  ],
+  "name": "海晶石剑",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Deals {{N0}} damage while in water."
+      ],
+      "translation": "在水中时造成 {{N0}} 伤害.",
+      "styleMappings": {
+        "damage": "伤害",
+        "Deals": "造成",
+        "water": "水"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON SWORD"
+      ],
+      "translation": "罕见剑",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Prismarine Blade": "海晶石剑",
+    "Prismarine": "海晶石"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

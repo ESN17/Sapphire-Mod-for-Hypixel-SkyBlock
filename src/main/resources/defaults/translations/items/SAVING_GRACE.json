@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "SAVING_GRACE",
+  "_original_name": "Saving Grace",
+  "_original_lore": [
+    "Safely teleports you back to your",
+    "private island when you are about to",
+    "die. This item will be consumed on use.",
+    "",
+    "RARE"
+  ],
+  "name": "保命恩典",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Safely teleports you back to your",
+        "private island when you are about to",
+        "die. This item will be consumed on use."
+      ],
+      "translation": "在你即将死亡时,安全地将你传送回你的私人岛屿.使用后该物品会被消耗.",
+      "styleMappings": {
+        "private island": "私人岛屿",
+        "item": "物品",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

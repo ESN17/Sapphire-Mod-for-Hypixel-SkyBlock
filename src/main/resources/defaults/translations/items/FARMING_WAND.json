@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "FARMING_WAND",
+  "_original_name": "Wand of Farming",
+  "_original_lore": [
+    "Allows you to farm the peculiar",
+    "crops from the rift while held.",
+    "",
+    "RARE WAND"
+  ],
+  "name": "农耕法杖",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Allows you to farm the peculiar",
+        "crops from the rift while held."
+      ],
+      "translation": "持有时可让你在裂隙中种植奇特的作物.",
+      "styleMappings": {
+        "crops": "作物",
+        "rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "RARE WAND"
+      ],
+      "translation": "稀有 魔杖",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Wand": "法杖"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

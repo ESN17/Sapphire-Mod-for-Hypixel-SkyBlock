@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "CHRONO_PICKAXE",
+  "_original_name": "Chrono Pickaxe",
+  "_original_lore": [
+    "Allows you to break living metal,",
+    "Obsolite, Timite, and Youngite.",
+    "",
+    "This pickaxe is not a particular fan",
+    "of the like, overall vibe.",
+    "",
+    "This item can be reforged!",
+    "EPIC SWORD"
+  ],
+  "name": "时空镐",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Allows you to break living metal,",
+        "Obsolite, Timite, and Youngite."
+      ],
+      "translation": "允许你开采活体金属、古时石、时光石和幼时石.",
+      "styleMappings": {
+        "Obsolite": "古时石",
+        "Timite": "时光石",
+        "Youngite": "幼时石"
+      }
+    },
+    {
+      "source": [
+        "This pickaxe is not a particular fan",
+        "of the like, overall vibe."
+      ],
+      "translation": "这把镐子不太喜欢那种,整体氛围.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "EPIC SWORD"
+      ],
+      "translation": "史诗 剑",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Pickaxe": "镐"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

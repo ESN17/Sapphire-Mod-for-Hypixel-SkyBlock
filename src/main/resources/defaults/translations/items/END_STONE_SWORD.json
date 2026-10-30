@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "id": "END_STONE_SWORD",
+  "_original_name": "End Stone Sword",
+  "_original_lore": [
+    "Damage: +120",
+    "Strength: +80",
+    "",
+    "Ability: Extreme Focus  RIGHT CLICK",
+    "While in the The End, consume all of your",
+    "remaining  Mana and gain the following buffs",
+    "for every 100 Mana consumed:",
+    "- Damage Reduction: 1% (Max 20%, last 5s)",
+    "- Next Hit Damage: +25% (Max 500%)",
+    "Mana Cost: 20",
+    "",
+    "This item can be reforged!",
+    "EPIC SWORD"
+  ],
+  "name": "末地石剑",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Ability: Extreme Focus  RIGHT CLICK"
+      ],
+      "translation": "技能:极限专注  右键点击",
+      "styleMappings": {
+        "Ability: Extreme Focus": "技能:极限专注",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "While in the The End, consume all of your",
+        "remaining  Mana and gain the following buffs"
+      ],
+      "translation": "在末地时,消耗你所有剩余的  法力并获得以下增益",
+      "styleMappings": {
+        "The End": "末地",
+        "Mana": "法力",
+        "": "",
+        "End": "末地",
+        "gain": "获得",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "for every {{N0}} Mana consumed:"
+      ],
+      "translation": "每消耗 {{N0}} 法力:",
+      "styleMappings": {
+        "Mana": "法力",
+        "": ""
+      }
+    },
+    {
+      "source": [
+        "- Damage Reduction: {{N0}} (Max {{N1}}, last {{N2}}s)"
+      ],
+      "translation": "- 伤害减免: {{N0}} (最大 {{N1}}, 持续 {{N2}}秒)",
+      "styleMappings": {
+        "Damage Reduction": "伤害减免",
+        "Max": "最大",
+        "{{N2}}s": "{{N2}}秒",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "- Next Hit Damage: {{N0}} (Max {{N1}})"
+      ],
+      "translation": "- 下次攻击伤害: {{N0}} (最大 {{N1}})",
+      "styleMappings": {
+        "Next Hit Damage": "下次攻击伤害",
+        "Max": "最大",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "EPIC SWORD"
+      ],
+      "translation": "史诗 剑",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sword": "剑",
+    "End": "末地",
+    "End Stone": "末地石"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

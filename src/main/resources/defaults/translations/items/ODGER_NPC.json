@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "ODGER_NPC",
+  "_original_name": "Odger (NPC)",
+  "_original_lore": [
+    "He who keeps track of your unlocked Trophy Fish,",
+    "allows you to filet them, and offers rewards."
+  ],
+  "name": "Odger (人物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "He who keeps track of your unlocked Trophy Fish,",
+        "allows you to filet them, and offers rewards."
+      ],
+      "translation": "他记录你解锁的奖杯鱼,允许你将其切片,并提供奖励.",
+      "styleMappings": {
+        "Trophy Fish": "奖杯鱼",
+        "Trophy": "奖杯",
+        "Fish": "鱼"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Odger": "Odger",
+    "(NPC)": "(人物)"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

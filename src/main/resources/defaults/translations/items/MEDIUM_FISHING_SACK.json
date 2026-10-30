@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "MEDIUM_FISHING_SACK",
+  "_original_name": "Medium Fishing Sack",
+  "_original_lore": [
+    "Holds various items obtained from",
+    "Fishing! Items you pickup go directly",
+    "into your sacks.",
+    "",
+    "Capacity: 6,720 of each item",
+    "Multiple sacks sum their capacity!",
+    "",
+    "Right Click to open!",
+    "",
+    "RARE SACK"
+  ],
+  "name": "中型钓鱼袋",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Holds various items obtained from",
+        "Fishing! Items you pickup go directly",
+        "into your sacks."
+      ],
+      "translation": "存放各种钓鱼获得的物品!你拾取的物品会直接进入你的袋子.",
+      "styleMappings": {
+        "Fishing": "钓鱼",
+        "items": "物品"
+      }
+    },
+    {
+      "source": [
+        "Capacity: {{N0}} of each item"
+      ],
+      "translation": "容量: 每种物品 {{N0}} 个",
+      "styleMappings": {
+        "Capacity": "容量",
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Multiple sacks sum their capacity!"
+      ],
+      "translation": "多个袋子会叠加其容量!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right Click to open!"
+      ],
+      "translation": "右键点击打开!",
+      "styleMappings": {
+        "Click to open!": "点击打开!",
+        "Right Click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "RARE SACK"
+      ],
+      "translation": "稀有袋子",
+      "styleMappings": {
+        "RARE SACK": "稀有袋子",
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fishing": "钓鱼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

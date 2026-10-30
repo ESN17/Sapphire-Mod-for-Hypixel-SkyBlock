@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "ARACHNE_CRYSTAL",
+  "_original_name": "Arachne Crystal",
+  "_original_lore": [
+    "Place this at the Altar in Arachne's",
+    "Sanctuary to call forth the true",
+    "strength of Arachne.",
+    "",
+    "\"What have we done?\" - Unknown Spider",
+    "",
+    "EPIC"
+  ],
+  "name": "阿拉克妮水晶",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Place this at the Altar in Arachne's",
+        "Sanctuary to call forth the true",
+        "strength of Arachne."
+      ],
+      "translation": "将其放置在阿拉克妮圣所的祭坛上,以召唤阿拉克妮的真正力量.",
+      "styleMappings": {
+        "Altar": "祭坛",
+        "Arachne's Sanctuary": "阿拉克妮圣所",
+        "strength": "力量",
+        "Arachne": "阿拉克妮"
+      }
+    },
+    {
+      "source": [
+        "\"What have we done?\" - Unknown Spider"
+      ],
+      "translation": "\"我们做了什么?\" - 未知蜘蛛",
+      "styleMappings": {
+        "\"What have we done?\"": "\"我们做了什么?\"",
+        "Unknown Spider": "未知蜘蛛",
+        "Spider": "蜘蛛"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Arachne": "阿拉克妮",
+    "Crystal": "水晶"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

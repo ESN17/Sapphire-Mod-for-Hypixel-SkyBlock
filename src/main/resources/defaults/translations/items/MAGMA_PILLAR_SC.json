@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "MAGMA_PILLAR_SC",
+  "_original_name": "Magma Pillar (Sea Creature)",
+  "_original_lore": [
+    "Mob Types: ♆ Magmatic, ⚂ Cubic",
+    "",
+    "EPIC"
+  ],
+  "name": "岩浆柱 (海怪)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mob Types: ♆ Magmatic, ⚂ Cubic"
+      ],
+      "translation": "生物类型: ♆ 岩浆, ⚂ 方块",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Magmatic": "岩浆",
+        "Cubic": "方块"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sea Creature": "海怪",
+    "(Sea Creature)": "(海怪)"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

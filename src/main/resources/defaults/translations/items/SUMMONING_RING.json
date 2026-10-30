@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "id": "SUMMONING_RING",
+  "_original_name": "Summoning Ring",
+  "_original_lore": [
+    "Ability: Raise Souls  RIGHT CLICK",
+    "Monsters you kill while you have this item will",
+    "drop their soul. You can click on their souls",
+    "on the ground using this item to absorb them",
+    "and then spawn them to fight by your side.",
+    "",
+    "Mana cost is based on the power of the",
+    "monsters that you summon. Shift right-click to",
+    "view and remove souls from this item. If your",
+    "summoned monster dies the soul will be",
+    "removed.",
+    "Cooldown: 1s",
+    "",
+    "Max Souls: 2",
+    "",
+    "RARE DUNGEON ITEM"
+  ],
+  "name": "召唤戒指",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Raise Souls  RIGHT CLICK"
+      ],
+      "translation": "技能:唤起灵魂  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Raise Souls": "唤起灵魂",
+        "Ability": "技能",
+        "CLICK": "点击",
+        "Souls": "灵魂"
+      }
+    },
+    {
+      "source": [
+        "Monsters you kill while you have this item will",
+        "drop their soul. You can click on their souls",
+        "on the ground using this item to absorb them",
+        "and then spawn them to fight by your side."
+      ],
+      "translation": "持有此物品时,你击杀的怪物会掉落其灵魂.你可以用此物品点击地上的灵魂来吸收它们,然后召唤它们为你而战.",
+      "styleMappings": {
+        "Monsters": "怪物",
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Mana cost is based on the power of the",
+        "monsters that you summon. Shift right-click to",
+        "view and remove souls from this item. If your",
+        "summoned monster dies the soul will be",
+        "removed."
+      ],
+      "translation": "法力消耗取决于你召唤的怪物的强度.按住潜行键右键点击可查看并移除此物品中的灵魂.若你召唤的怪物死亡,其灵魂将被移除.",
+      "styleMappings": {
+        "Mana": "法力",
+        "item": "物品",
+        "monsters": "怪物",
+        "removed": "移除"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "Max Souls: {{N0}}"
+      ],
+      "translation": "最大灵魂数:{{N0}}",
+      "styleMappings": {
+        "Max Souls": "最大灵魂数",
+        "Max": "最大",
+        "Souls": "灵魂"
+      }
+    },
+    {
+      "source": [
+        "RARE DUNGEON ITEM"
+      ],
+      "translation": "稀有 地牢物品",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Ring": "戒指"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

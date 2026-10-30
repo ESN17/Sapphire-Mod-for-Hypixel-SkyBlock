@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "SEA_WALKER_SC",
+  "_original_name": "Sea Walker (Sea Creature)",
+  "_original_lore": [
+    "Mob Types: ⚓ Aquatic, ༕ Undead",
+    "❤ Health: 100",
+    "",
+    "COMMON"
+  ],
+  "name": "海行者 (海怪)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mob Types: ⚓ Aquatic, ༕ Undead"
+      ],
+      "translation": "生物类型: ⚓ 水生, ༕ 亡灵",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Aquatic": "水生",
+        "Undead": "亡灵"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sea Creature": "海怪",
+    "(Sea Creature)": "(海怪)"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

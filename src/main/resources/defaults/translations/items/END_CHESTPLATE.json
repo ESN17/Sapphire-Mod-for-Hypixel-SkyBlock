@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "END_CHESTPLATE",
+  "_original_name": "Ender Chestplate",
+  "_original_lore": [
+    "Health: +30",
+    "Defense: +60",
+    "",
+    "All stats on this armor piece are",
+    "multiplied by 2x while on the End",
+    "Island!",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Combat Skill 12.",
+    "* Co-op Soulbound *",
+    "EPIC CHESTPLATE"
+  ],
+  "name": "末影胸甲",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "All stats on this armor piece are",
+        "multiplied by {{N0}}x while on the End",
+        "Island!"
+      ],
+      "translation": "在末地岛屿上时,此盔甲部件的所有属性乘以 {{N0}} 倍!",
+      "styleMappings": {
+        "End Island": "末地岛屿",
+        "stats": "属性",
+        "{{N0}}x": "{{N0}} 倍",
+        "Island": "岛屿",
+        "End": "末地"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "EPIC CHESTPLATE"
+      ],
+      "translation": "史诗胸甲",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Ender": "末影",
+    "Chestplate": "胸甲"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

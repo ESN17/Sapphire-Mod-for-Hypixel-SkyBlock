@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "id": "VINERIP_LASSO",
+  "_original_name": "Vinerip Lasso",
+  "_original_lore": [
+    "Hunting Tool",
+    "",
+    "Ability: Throw  RIGHT CLICK",
+    "Throw the Lasso at Forest",
+    "creatures and hold them still until",
+    "they lose all their stamina.",
+    "",
+    "Ability: Reel In  RIGHT CLICK",
+    "Reel in creatures caught by the",
+    "Lasso each time their stamina",
+    "depletes.",
+    "",
+    " Critters lose stamina 20% faster.",
+    "",
+    "UNCOMMON LASSO"
+  ],
+  "name": "藤裂套索",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Hunting Tool"
+      ],
+      "translation": "狩猎工具",
+      "styleMappings": {
+        "Hunting Tool": "狩猎工具"
+      }
+    },
+    {
+      "source": [
+        "Ability: Throw  RIGHT CLICK"
+      ],
+      "translation": "技能:投掷  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Throw the Lasso at Forest",
+        "creatures and hold them still until",
+        "they lose all their stamina."
+      ],
+      "translation": "将套索投向森林生物并按住它们,直到它们耗尽所有耐力.",
+      "styleMappings": {
+        "Lasso": "套索",
+        "Forest": "森林",
+        "stamina": "耐力"
+      }
+    },
+    {
+      "source": [
+        "Ability: Reel In  RIGHT CLICK"
+      ],
+      "translation": "技能:收线  右键点击",
+      "styleMappings": {
+        "Ability: Reel In": "技能:收线",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Reel in creatures caught by the",
+        "Lasso each time their stamina",
+        "depletes."
+      ],
+      "translation": "每当被套索捕获的生物耐力耗尽时,将其收回.",
+      "styleMappings": {
+        "Lasso": "套索",
+        "stamina": "耐力"
+      }
+    },
+    {
+      "source": [
+        " Critters lose stamina {{N0}} faster."
+      ],
+      "translation": " 生物失去耐力的速度加快 {{N0}}.",
+      "styleMappings": {
+        "Critters": "生物",
+        "stamina": "耐力",
+        "faster": "加快",
+        " Critters": " 生物"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON LASSO"
+      ],
+      "translation": "罕见套索",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Lasso": "套索"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "SCUTTLER_SHELL",
+  "_original_name": "Scuttler Shell",
+  "_original_lore": [
+    "Use at Kat to upgrade Hermit Crab",
+    "Pets to Mythic rarity.",
+    "",
+    "MYTHIC"
+  ],
+  "name": "岩蟹壳",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Use at Kat to upgrade Hermit Crab",
+        "Pets to Mythic rarity."
+      ],
+      "translation": "在 Kat 处使用,将寄居蟹宠物升级至神话稀有度.",
+      "styleMappings": {
+        "Kat": "Kat",
+        "Hermit Crab": "寄居蟹",
+        "Pets": "宠物",
+        "Mythic": "神话",
+        "rarity": "稀有度",
+        "upgrade": "升级"
+      }
+    },
+    {
+      "source": [
+        "MYTHIC"
+      ],
+      "translation": "神话",
+      "styleMappings": {
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Scuttler Shell": "岩蟹壳"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

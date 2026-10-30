@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "id": "NIGHT_SQUID_SC",
+  "_original_name": "Night Squid (Sea Creature)",
+  "_original_lore": [
+    "Night Squid is a rarer variant of the Squid found only",
+    "at night while using Dark Bait. The Night Squid emits",
+    "particles and drops Squid Boots only obtainable",
+    "from the Night Squid.",
+    "",
+    "Mob Types: ⚓ Aquatic, ☮ Animal",
+    "❤ Health: 4,000",
+    "",
+    "COMMON"
+  ],
+  "name": "夜鱿鱼 (海怪)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Night Squid is a rarer variant of the Squid found only",
+        "at night while using Dark Bait. The Night Squid emits",
+        "particles and drops Squid Boots only obtainable",
+        "from the Night Squid."
+      ],
+      "translation": "夜鱿是鱿鱼的稀有变种,仅在使用黑暗鱼饵的夜晚出现.夜鱿会散发粒子,并掉落只能从夜鱿获得的鱿鱼靴子.",
+      "styleMappings": {
+        "Squid Boots": "鱿鱼靴子",
+        "Dark Bait": "黑暗鱼饵",
+        "Bait": "鱼饵",
+        "Squid": "鱿鱼"
+      }
+    },
+    {
+      "source": [
+        "Mob Types: ⚓ Aquatic, ☮ Animal"
+      ],
+      "translation": "生物类型: ⚓ 水生, ☮ 动物",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Aquatic": "水生",
+        "Animal": "动物"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sea Creature": "海怪",
+    "(Sea Creature)": "(海怪)",
+    "Squid": "鱿鱼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

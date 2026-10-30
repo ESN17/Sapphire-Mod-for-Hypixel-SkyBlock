@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "SCORPIUS_SPECIAL_MAYOR_MONSTER",
+  "_original_name": "Scorpius (Mayor)",
+  "_original_lore": [
+    "Special Candidate",
+    "",
+    "Bribe",
+    "If Scorpius wins and you voted",
+    "for him, Mayor Scorpius will",
+    "offer you 50,000 - 1M coins",
+    "as a token of gratitude.",
+    "",
+    "Darker Auctions",
+    "Scorpius will intrude in Dark",
+    "Auctions, increasing the",
+    "amount of rounds to 8 and",
+    "offering special items.",
+    "",
+    "This is a SPECIAL candidate!",
+    "It rarely appears!"
+  ],
+  "name": "Scorpius (市长)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Special Candidate"
+      ],
+      "translation": "特殊候选人",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Bribe",
+        "If Scorpius wins and you voted",
+        "for him, Mayor Scorpius will",
+        "offer you {{N0}} - {{N1}}M coins",
+        "as a token of gratitude."
+      ],
+      "translation": "贿赂 如果 Scorpius 获胜且你投票给他,市长 Scorpius 将提供给你 {{N0}} - {{N1}}M 硬币作为感谢.",
+      "styleMappings": {
+        "Scorpius": "Scorpius",
+        "Bribe": "贿赂",
+        "Mayor": "市长",
+        "coins": "硬币",
+        "-": "-"
+      }
+    },
+    {
+      "source": [
+        "Darker Auctions",
+        "Scorpius will intrude in Dark",
+        "Auctions, increasing the",
+        "amount of rounds to {{N0}} and",
+        "offering special items."
+      ],
+      "translation": "更黑暗的拍卖 Scorpius 将介入黑暗拍卖,将轮数增加至 {{N0}} 并提供特殊物品.",
+      "styleMappings": {
+        "Darker Auctions": "更黑暗的拍卖",
+        "Dark Auctions": "黑暗拍卖",
+        "special items": "特殊物品",
+        "Scorpius": "Scorpius",
+        "items": "物品",
+        "special": "特殊"
+      }
+    },
+    {
+      "source": [
+        "This is a SPECIAL candidate!"
+      ],
+      "translation": "这是一位特殊候选人!",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    },
+    {
+      "source": [
+        "It rarely appears!"
+      ],
+      "translation": "它很少出现!",
+      "styleMappings": {}
+    }
+  ],
+  "styleMappings": {
+    "Scorpius (Mayor)": "Scorpius (市长)",
+    "Mayor": "市长",
+    "Scorpius": "Scorpius"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

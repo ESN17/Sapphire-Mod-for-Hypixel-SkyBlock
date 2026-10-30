@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "id": "ULTIMATE_REITERATE;4",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Duplex IV",
+    "Shoot a second arrow dealing 16%",
+    "of the first arrow's damage.",
+    "Targets hit take 1.4x fire",
+    "damage for 60s.",
+    "",
+    "You can only have 1 Ultimate",
+    "Enchantment on an item!",
+    "",
+    "Sources:",
+    " - Inferno Demonlord (I-V)",
+    " - Bazaar (I-V)",
+    "",
+    "Applied To:",
+    " - Bow",
+    "",
+    "Requirements:",
+    " - Enchanting Level 28",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Duplex IV"
+      ],
+      "translation": "双重射击 IV",
+      "styleMappings": {
+        "Duplex": "双重射击"
+      }
+    },
+    {
+      "source": [
+        "Shoot a second arrow dealing {{N0}}",
+        "of the first arrow's damage."
+      ],
+      "translation": "射出第二支箭,造成第一支箭 {{N0}} 的伤害.",
+      "styleMappings": {
+        "damage": "伤害",
+        "s": "一"
+      }
+    },
+    {
+      "source": [
+        "Targets hit take {{N0}}x fire",
+        "damage for {{N1}}s."
+      ],
+      "translation": "命中的目标受到 {{N0}}倍火焰伤害,持续 {{N1}}秒.",
+      "styleMappings": {
+        "damage": "伤害",
+        "fire": "火",
+        "for": "持续",
+        "{{N0}}x": "{{N0}}倍",
+        "{{N1}}s": "{{N1}}秒",
+        "hit": "命中"
+      }
+    },
+    {
+      "source": [
+        "You can only have {{N0}} Ultimate",
+        "Enchantment on an item!"
+      ],
+      "translation": "一件物品上只能拥有 {{N0}} 个终极附魔!",
+      "styleMappings": {
+        "Ultimate Enchantment": "终极附魔",
+        "item": "物品",
+        "Enchantment": "附魔"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Inferno Demonlord (I-V)",
+        " - Bazaar (I-V)"
+      ],
+      "translation": " - 炼狱恶魔领主 (I-V)  - 集市 (I-V)",
+      "styleMappings": {
+        "Inferno Demonlord": "炼狱恶魔领主",
+        "Bazaar": "集市",
+        "I-V": "I-V",
+        "Inferno": "炼狱"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Bow"
+      ],
+      "translation": " - 弓",
+      "styleMappings": {
+        "Bow": "弓"
+      }
+    },
+    {
+      "source": [
+        "Requirements:"
+      ],
+      "translation": "需求:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchanting Level {{N0}}"
+      ],
+      "translation": " - 附魔等级 {{N0}}",
+      "styleMappings": {
+        "Enchanting Level": "附魔等级"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

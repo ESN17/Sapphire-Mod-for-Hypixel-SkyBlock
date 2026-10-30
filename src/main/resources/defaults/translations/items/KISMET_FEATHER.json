@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "id": "KISMET_FEATHER",
+  "_original_name": "Kismet Feather",
+  "_original_lore": [
+    "Allows you to reroll a Dungeon",
+    "or Kuudra reward chest.",
+    "",
+    "Keep this feather in your",
+    "inventory or Dungeon Sack and",
+    "open a reward chest to use.",
+    "",
+    "You may only reroll 1 reward",
+    "chest per run!",
+    "",
+    "RARE"
+  ],
+  "name": "命运之羽",
+  "lore": {
+    "RARE": "稀有"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "Allows you to reroll a Dungeon",
+        "or Kuudra reward chest."
+      ],
+      "translation": "可重掷地牢或库德拉奖励宝箱的内容.",
+      "styleMappings": {
+        "Dungeon": "地牢",
+        "Kuudra": "库德拉",
+        "reward": "奖励"
+      }
+    },
+    {
+      "source": [
+        "Keep this feather in your",
+        "inventory or Dungeon Sack and",
+        "open a reward chest to use."
+      ],
+      "translation": "将羽毛放在背包或地牢袋中,打开奖励宝箱即可使用.",
+      "styleMappings": {
+        "Dungeon": "地牢",
+        "Dungeon Sack": "地牢袋",
+        "reward": "奖励"
+      }
+    },
+    {
+      "source": [
+        "You may only reroll {count} reward",
+        "chest per run!"
+      ],
+      "translation": "每轮只能重掷 {count} 个奖励宝箱!",
+      "styleMappings": {
+        "reward": "奖励",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "You may only reroll {{N0}} reward",
+        "chest per run!"
+      ],
+      "translation": "每轮只能重掷 {{N0}} 个奖励宝箱!",
+      "styleMappings": {
+        "reward": "奖励",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Dungeon": "地牢",
+    "Kuudra": "库德拉",
+    "Dungeon Sack": "地牢收纳袋"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

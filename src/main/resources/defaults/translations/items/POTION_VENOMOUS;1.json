@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_VENOMOUS;1",
+  "_original_name": "Venomous I Potion",
+  "_original_lore": [
+    "",
+    "Venomous I (3:00)",
+    "Grants -5  Speed and deals 5",
+    "damage per second.",
+    "",
+    "COMMON"
+  ],
+  "name": "剧毒 I 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Venomous I ({{N0}}:{{N1}})"
+      ],
+      "translation": "剧毒 I ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Venomous I": "剧毒 I",
+        "Venomous": "剧毒"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}  Speed and deals {{N1}}",
+        "damage per second."
+      ],
+      "translation": "提供 {{N0}}  速度,并每秒造成 {{N1}} 伤害.",
+      "styleMappings": {
+        "per second": "每秒",
+        " Speed": " 速度",
+        "Grants": "提供",
+        "damage": "伤害",
+        "Speed": "速度",
+        "second": "秒",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Venomous I": "剧毒 I",
+    "Venomous": "剧毒"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

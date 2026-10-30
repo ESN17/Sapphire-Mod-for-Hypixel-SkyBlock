@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "id": "PRISTINE;4",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Prismatic IV",
+    "Grants +2  Pristine, which",
+    "increases the chance to improve the",
+    "quality of dropped Gemstones.",
+    "",
+    "Sources:",
+    " - Gemstone Collection (I)",
+    " - Bazaar (I-V)",
+    "",
+    "Applied To:",
+    " - Pickaxe",
+    " - Drill",
+    " - Gauntlet",
+    "",
+    "Requirements:",
+    " - Enchanting Level 22",
+    "",
+    "COMMON"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Prismatic IV"
+      ],
+      "translation": "提纯 IV",
+      "styleMappings": {
+        "Prismatic": "提纯"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}  Pristine, which",
+        "increases the chance to improve the",
+        "quality of dropped Gemstones."
+      ],
+      "translation": "提供 {{N0}}  提纯,可提高掉落宝石提升品质的概率.",
+      "styleMappings": {
+        "Gemstones": "宝石",
+        "chance to": "概率",
+        "Pristine": "提纯",
+        "Grants": "提供",
+        "chance": "概率"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Gemstone Collection (I)",
+        " - Bazaar (I-V)"
+      ],
+      "translation": " - 宝石收藏 (一)  - 集市 (一至五)",
+      "styleMappings": {
+        "Gemstone Collection": "宝石收藏",
+        "Bazaar": "集市",
+        "I-V": "一至五",
+        "I": "一",
+        "Collection": "收藏",
+        "Gemstone": "宝石"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Pickaxe",
+        " - Drill",
+        " - Gauntlet"
+      ],
+      "translation": " - 镐  - 钻头  - 护手",
+      "styleMappings": {
+        "Gauntlet": "护手",
+        "Drill": "钻头",
+        "Pickaxe": "镐"
+      }
+    },
+    {
+      "source": [
+        "Requirements:"
+      ],
+      "translation": "需求:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchanting Level {{N0}}"
+      ],
+      "translation": " - 附魔等级 {{N0}}",
+      "styleMappings": {
+        "Enchanting Level": "附魔等级"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

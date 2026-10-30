@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "FIRE_FREEZE_STAFF",
+  "_original_name": "Fire Freeze Staff",
+  "_original_lore": [
+    "Damage: +50",
+    "Strength: +20",
+    "Gemstones: []",
+    "",
+    "Ability: Fire Freeze  RIGHT CLICK",
+    "Creates a circle with a radius of 5 blocks.",
+    "After 5s, all mobs inside are frozen for 10s.",
+    "Mana Cost: 500",
+    "Cooldown: 10s",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Combat Skill 22.",
+    "EPIC SWORD"
+  ],
+  "name": "火焰冰冻法杖",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: []"
+      ],
+      "translation": "宝石槽:[]",
+      "styleMappings": {
+        "Gemstones": "宝石槽"
+      }
+    },
+    {
+      "source": [
+        "Ability: Fire Freeze  RIGHT CLICK"
+      ],
+      "translation": "技能: 火焰冻结  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "Fire": "火焰",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Creates a circle with a radius of {{N0}} blocks."
+      ],
+      "translation": "创建一个半径为 {{N0}} 格的圆形区域.",
+      "styleMappings": {
+        "blocks": "格"
+      }
+    },
+    {
+      "source": [
+        "After {{N0}}s, all mobs inside are frozen for {{N1}}s."
+      ],
+      "translation": "{{N0}}秒后, 区域内所有生物被冻结 {{N1}}秒.",
+      "styleMappings": {
+        "{{N0}}s": "{{N0}}秒",
+        "{{N1}}s": "{{N1}}秒",
+        "mobs": "生物"
+      }
+    },
+    {
+      "source": [
+        "Mana Cost: {{N0}}"
+      ],
+      "translation": "魔力消耗:{{N0}}",
+      "styleMappings": {
+        "": "",
+        "Mana Cost:": "魔力消耗:"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC SWORD"
+      ],
+      "translation": "史诗 剑",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fire": "火焰"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

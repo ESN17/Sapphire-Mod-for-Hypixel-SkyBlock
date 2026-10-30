@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "GREAT_SPOOK_POTION",
+  "_original_name": "Great Spook Potion",
+  "_original_lore": [
+    "Consuming this potion grants +3 Fear",
+    "for 24 hours.",
+    "",
+    "* Soulbound *",
+    "COMMON"
+  ],
+  "name": "大万圣节药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consuming this potion grants {{N0}} Fear",
+        "for {{N1}} hours."
+      ],
+      "translation": "饮用此药水可获得 {{N0}} 恐惧,持续 {{N1}} 小时.",
+      "styleMappings": {
+        "Fear": "恐惧",
+        "for": "持续",
+        "hours": "小时"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Great Spook": "大万圣节"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

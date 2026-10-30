@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "IRIDIUM",
+  "_original_name": "Iridium",
+  "_original_lore": [
+    "Can be used at SkyMart to upgrade",
+    "the AquaMaster X to the AquaMaster",
+    "HydroMax.",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "铱",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Can be used at SkyMart to upgrade",
+        "the AquaMaster X to the AquaMaster",
+        "HydroMax."
+      ],
+      "translation": "可在 SkyMart 将水之主十型升级为水之主水力极限.",
+      "styleMappings": {
+        "SkyMart": "SkyMart",
+        "AquaMaster X": "水之主十型",
+        "AquaMaster HydroMax": "水之主水力极限",
+        "upgrade": "升级",
+        "AquaMaster": "水之主"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "DYE_SUNSET",
+  "_original_name": "Sunset Dye",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Animates the color of an armor piece",
+    "between #FFCC00 and #FFC910!",
+    "",
+    "MYTHIC DYE"
+  ],
+  "name": "日落染料",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Animates the color of an armor piece",
+        "between #FFCC{{N0}} and #FFC{{N1}}!"
+      ],
+      "translation": "使盔甲部件的颜色在 #FFCC{{N0}} 和 #FFC{{N1}} 之间渐变!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "MYTHIC DYE"
+      ],
+      "translation": "神话染料",
+      "styleMappings": {
+        "MYTHIC DYE": "神话染料",
+        "MYTHIC": "神话"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Sunset": "日落"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

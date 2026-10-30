@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "SKYMART_NPC",
+  "_original_name": "SkyMart (NPC)",
+  "_original_lore": [
+    "Browse the wide variety of",
+    "products SkyMart has to offer.",
+    "We are not responsible for any",
+    "injuries, accidents, headaches,",
+    "paper-cuts or sudden outburst of",
+    "tears. SkyMart wishes you happy",
+    "shopping."
+  ],
+  "name": "SkyMart (人物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Browse the wide variety of",
+        "products SkyMart has to offer."
+      ],
+      "translation": "浏览 SkyMart 提供的丰富多样的产品.",
+      "styleMappings": {
+        "SkyMart": "SkyMart"
+      }
+    },
+    {
+      "source": [
+        "We are not responsible for any",
+        "injuries, accidents, headaches,",
+        "paper-cuts or sudden outburst of",
+        "tears. SkyMart wishes you happy",
+        "shopping."
+      ],
+      "translation": "我们对任何受伤、事故、头痛、纸割伤或突然泪崩概不负责.SkyMart 祝您购物愉快.",
+      "styleMappings": {
+        "SkyMart": "SkyMart"
+      }
+    }
+  ],
+  "styleMappings": {
+    "SkyMart": "SkyMart",
+    "(NPC)": "(人物)"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

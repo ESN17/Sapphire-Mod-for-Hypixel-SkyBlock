@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "WHEAT_ISLAND_CRYSTAL",
+  "_original_name": "Wheat Crystal",
+  "_original_lore": [
+    "Can be placed on your Private Island.",
+    "",
+    "While placed down, spawns Wheat on",
+    "nearby tilled soil.",
+    "",
+    "Effective Radius: 6",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "小麦水晶",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Can be placed on your Private Island."
+      ],
+      "translation": "可放置在你的私人岛屿上.",
+      "styleMappings": {
+        "Private Island": "私人岛屿",
+        "Island": "岛屿"
+      }
+    },
+    {
+      "source": [
+        "While placed down, spawns Wheat on",
+        "nearby tilled soil."
+      ],
+      "translation": "放置后,会在附近的耕地上生成小麦.",
+      "styleMappings": {
+        "Wheat": "小麦"
+      }
+    },
+    {
+      "source": [
+        "Effective Radius: {{N0}}"
+      ],
+      "translation": "有效半径: {{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Crystal": "水晶",
+    "Wheat": "小麦"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

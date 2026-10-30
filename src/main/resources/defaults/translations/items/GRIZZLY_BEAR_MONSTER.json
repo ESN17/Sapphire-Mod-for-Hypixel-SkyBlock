@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "GRIZZLY_BEAR_MONSTER",
+  "_original_name": "Grizzly Bear (Monster)",
+  "_original_lore": [
+    "Mob Types:  Woodland,  Animal,  Elusive",
+    "",
+    "On rainy days it becomes a drizzly",
+    "bear.",
+    "",
+    "❤ Health: 200,000",
+    "",
+    "Found in Helix Tree Gifts."
+  ],
+  "name": "灰熊 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Mob Types:  Woodland,  Animal,  Elusive"
+      ],
+      "translation": "生物类型:   林地,   动物,   难以捉摸",
+      "styleMappings": {
+        "Mob Types:": "生物类型:",
+        "Woodland": "林地",
+        "Elusive": "难以捉摸",
+        "Animal": "动物",
+        " Woodland": " 林地",
+        " Animal": " 动物"
+      }
+    },
+    {
+      "source": [
+        "On rainy days it becomes a drizzly",
+        "bear."
+      ],
+      "translation": "下雨天它会变成一只毛毛熊.",
+      "styleMappings": {
+        "days": "天"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Found in Helix Tree Gifts."
+      ],
+      "translation": "可在螺旋树礼物中找到.",
+      "styleMappings": {
+        "Tree Gifts": "树礼物",
+        "Tree": "树",
+        "Gifts": "礼物"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Monster)": "(怪物)",
+    "Grizzly Bear": "灰熊",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

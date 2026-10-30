@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": "FOXY_MAYOR_MONSTER",
+  "_original_name": "Foxy (Mayor)",
+  "_original_lore": [
+    "Candidate",
+    "",
+    "A Time for Giving",
+    "Spawn Party Chests by killing mobs",
+    "during the Spooky Festival and",
+    "collect Party Gifts from Jerry's",
+    "Workshop.",
+    "",
+    "Chivalrous Carnival",
+    "Schedules a Carnival in the hub,",
+    "active throughout the entire year.",
+    "",
+    "Sweet Benevolence",
+    "Earn +30% more Candy, Gifts and",
+    "Chocolate from duplicate Rabbits",
+    "during their respective events.",
+    "",
+    "Extra Event",
+    "Schedules an extra Fishing Festival,",
+    "Mining Fiesta or Spooky Festival",
+    "event during the year."
+  ],
+  "name": "Foxy (市长)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Candidate"
+      ],
+      "translation": "候选人",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "A Time for Giving",
+        "Spawn Party Chests by killing mobs",
+        "during the Spooky Festival and",
+        "collect Party Gifts from Jerry's",
+        "Workshop."
+      ],
+      "translation": "赠礼时刻 在幽灵节期间击杀怪物生成派对宝箱,并从杰瑞的工坊收集派对礼物.",
+      "styleMappings": {
+        "A Time for Giving": "赠礼时刻",
+        "Jerry's Workshop": "杰瑞的工坊",
+        "Spooky Festival": "幽灵节",
+        "Party Chests": "派对宝箱",
+        "Party Gifts": "派对礼物",
+        "mobs": "怪物",
+        "Spawn": "生成",
+        "Jerry": "杰瑞",
+        "Spooky": "幽灵",
+        "Gifts": "礼物"
+      }
+    },
+    {
+      "source": [
+        "Chivalrous Carnival",
+        "Schedules a Carnival in the hub,",
+        "active throughout the entire year."
+      ],
+      "translation": "侠义嘉年华 在中心岛安排一场嘉年华,全年持续开放.",
+      "styleMappings": {
+        "Chivalrous Carnival": "侠义嘉年华",
+        "Carnival": "嘉年华",
+        "entire year": "全年",
+        "year": "年"
+      }
+    },
+    {
+      "source": [
+        "Sweet Benevolence",
+        "Earn {{N0}} more Candy, Gifts and",
+        "Chocolate from duplicate Rabbits",
+        "during their respective events."
+      ],
+      "translation": "甜蜜恩惠 在各自活动期间从重复的兔子处额外获得 {{N0}} 糖果、礼物和巧克力.",
+      "styleMappings": {
+        "Sweet Benevolence": "甜蜜恩惠",
+        "Chocolate": "巧克力",
+        "Rabbits": "兔子",
+        "Candy": "糖果",
+        "Gifts": "礼物",
+        "more": "额外",
+        "Sweet": "甜蜜"
+      }
+    },
+    {
+      "source": [
+        "Extra Event",
+        "Schedules an extra Fishing Festival,",
+        "Mining Fiesta or Spooky Festival",
+        "event during the year."
+      ],
+      "translation": "额外活动 在一年中安排一场额外的钓鱼节、采矿狂欢或幽灵节活动.",
+      "styleMappings": {
+        "Fishing Festival": "钓鱼节",
+        "Spooky Festival": "幽灵节",
+        "Mining Fiesta": "采矿狂欢",
+        "Extra Event": "额外活动",
+        "Fishing": "钓鱼",
+        "Mining": "采矿",
+        "Spooky": "幽灵",
+        "year": "年"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Foxy (Mayor)": "Foxy (市长)",
+    "Mayor": "市长",
+    "Foxy": "Foxy"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "DUSKBLOOM",
+  "_original_name": "Duskbloom",
+  "_original_lore": [
+    "It turns to neither day nor night,",
+    "lost somewhere in between.",
+    "",
+    "Complete Visitor Beth's quest to",
+    "Analyze this crop!",
+    "",
+    "UNCOMMON MUTATION"
+  ],
+  "name": "暮光花",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "It turns to neither day nor night,",
+        "lost somewhere in between."
+      ],
+      "translation": "它既不转向白昼也不转向黑夜,迷失在两者之间.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Complete Visitor Beth's quest to",
+        "Analyze this crop!"
+      ],
+      "translation": "完成访客 Beth 的任务来分析这种作物!",
+      "styleMappings": {
+        "Visitor": "访客",
+        "Beth's": "Beth 的",
+        "Analyze": "分析"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON MUTATION"
+      ],
+      "translation": "罕见变异",
+      "styleMappings": {
+        "UNCOMMON MUTATION": "罕见变异",
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

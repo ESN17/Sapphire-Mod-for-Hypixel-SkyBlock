@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "OOPS_THE_FISH",
+  "_original_name": "Oops the Fish",
+  "_original_lore": [
+    "Discovered in the depths of the Main",
+    "Lobby during the summer months.",
+    "",
+    "SPECIAL"
+  ],
+  "name": "哎呀鱼",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Discovered in the depths of the Main",
+        "Lobby during the summer months."
+      ],
+      "translation": "夏季期间在主大厅深处被发现.",
+      "styleMappings": {
+        "depths": "深处"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fish": "鱼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

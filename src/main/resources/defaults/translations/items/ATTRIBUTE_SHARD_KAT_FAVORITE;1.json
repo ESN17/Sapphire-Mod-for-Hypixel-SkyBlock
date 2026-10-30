@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "ATTRIBUTE_SHARD_KAT_FAVORITE;1",
+  "_original_name": "Kiwi Shard",
+  "_original_lore": [
+    "Kat's Favorite I",
+    "Kat takes +1% less time to upgrade a",
+    "Pet.",
+    "",
+    "You can Syphon this shard from",
+    "your Hunting Box.",
+    "",
+    "Right-click to send to Hunting Box!",
+    "Shift Right-click to move all!",
+    "",
+    "❣ Requires Hunting Skill 5.",
+    "UNCOMMON FOREST SHARD (ID U34)"
+  ],
+  "name": "猕猴桃碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Kat's Favorite I"
+      ],
+      "translation": "Kat 的最爱 I",
+      "styleMappings": {
+        "Kat": "Kat",
+        "I": "I"
+      }
+    },
+    {
+      "source": [
+        "Kat takes {{N0}} less time to upgrade a",
+        "Pet."
+      ],
+      "translation": "Kat 升级宠物所需时间减少 {{N0}}.",
+      "styleMappings": {
+        "upgrade": "升级",
+        "Kat": "Kat",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "You can Syphon this shard from",
+        "your Hunting Box."
+      ],
+      "translation": "你可以从狩猎箱中吸取此碎片.",
+      "styleMappings": {
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to send to Hunting Box!"
+      ],
+      "translation": "右键点击发送至狩猎箱!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Shift Right-click to move all!"
+      ],
+      "translation": "潜行键 右键点击全部移动!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "all": "全部"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Hunting Skill {{N0}}."
+      ],
+      "translation": "❣ 需要狩猎技能 {{N0}}.",
+      "styleMappings": {
+        "Hunting Skill": "狩猎技能",
+        "Requires": "需要",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON FOREST SHARD (ID U{{N0}})"
+      ],
+      "translation": "罕见森林碎片 (ID 优{{N0}})",
+      "styleMappings": {
+        "UNCOMMON FOREST SHARD": "罕见森林碎片",
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shard": "碎片",
+    "Kiwi": "猕猴桃"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

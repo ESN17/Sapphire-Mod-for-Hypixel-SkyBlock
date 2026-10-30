@@ -1,0 +1,223 @@
+{
+  "schemaVersion": 1,
+  "id": "PRIMORDIAL_CHESTPLATE",
+  "_original_name": "Primordial Chestplate",
+  "_original_lore": [
+    "Health: +150",
+    "Defense: +115",
+    "Crit Damage: +10%",
+    "Intelligence: +110",
+    "Gemstones: [⚔]",
+    "",
+    "Tiered Bonus: Octodexterity (0/4)",
+    "Every 3rd strike, deal +50% ",
+    "Damage and apply Venom reducing",
+    "healing by 10% for 4 seconds.",
+    "",
+    "Piece Bonus: Spider Bulwark",
+    "Kill Spiders to accumulate defense",
+    "against them.",
+    "Piece Bonus: +0",
+    "Next Upgrade: +20 (0/50)",
+    "",
+    "This item is Arachnal !",
+    "",
+    "Extra Bonus: Anti-Toxin",
+    "Tarantula Broodfather's  Vitality",
+    "reduction is 50% less effective",
+    "against you.",
+    "",
+    "This item can be reforged!",
+    "☠ Requires Spider Slayer 7.",
+    "LEGENDARY CHESTPLATE"
+  ],
+  "name": "原始胸甲",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: {{N0}}"
+      ],
+      "translation": "暴击伤害:{{N0}}",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [⚔]"
+      ],
+      "translation": "宝石: [⚔]",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石"
+      }
+    },
+    {
+      "source": [
+        "Tiered Bonus: Octodexterity ({{N0}}/{{N1}})"
+      ],
+      "translation": "分级加成: 八爪精通 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Octodexterity": "八爪精通",
+        "Tiered Bonus": "分级加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Every {{N0}}rd strike, deal {{N1}} ",
+        "Damage and apply Venom reducing",
+        "healing by {{N2}} for {{N3}} seconds."
+      ],
+      "translation": "每第 {{N0}} 次攻击,造成 {{N1}}  伤害并施加毒素,使治疗降低 {{N2}},持续 {{N3}} 秒.",
+      "styleMappings": {
+        " Damage": " 伤害",
+        "seconds": "秒",
+        "Venom": "毒素",
+        "deal": "造成",
+        "for": "持续",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Piece Bonus: Spider Bulwark"
+      ],
+      "translation": "部件加成: 蜘蛛壁垒",
+      "styleMappings": {
+        "Spider Bulwark": "蜘蛛壁垒",
+        "Piece Bonus": "部件加成",
+        "Bonus": "加成",
+        "Spider": "蜘蛛"
+      }
+    },
+    {
+      "source": [
+        "Kill Spiders to accumulate defense",
+        "against them."
+      ],
+      "translation": "击杀蜘蛛以累积对它们的防御.",
+      "styleMappings": {
+        "Spiders": "蜘蛛",
+        "defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Piece Bonus: {{N0}}"
+      ],
+      "translation": "部件加成:{{N0}}",
+      "styleMappings": {
+        "Piece Bonus": "部件加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Next Upgrade: {{N0}} ({{N1}}/{{N2}})"
+      ],
+      "translation": "下次升级: {{N0}} ({{N1}}/{{N2}})",
+      "styleMappings": {
+        "Next Upgrade": "下次升级"
+      }
+    },
+    {
+      "source": [
+        "This item is Arachnal !"
+      ],
+      "translation": "此物品是蛛形纲的 !",
+      "styleMappings": {
+        "item": "物品",
+        "Arachnal": "蛛形"
+      }
+    },
+    {
+      "source": [
+        "Extra Bonus: Anti-Toxin"
+      ],
+      "translation": "额外加成: 抗毒",
+      "styleMappings": {
+        "Extra Bonus": "额外加成",
+        "Anti-Toxin": "抗毒",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Tarantula Broodfather's  Vitality",
+        "reduction is {{N0}} less effective",
+        "against you."
+      ],
+      "translation": "塔兰图拉母蛛的 活力降低对你的效果减弱 {{N0}}.",
+      "styleMappings": {
+        "Tarantula Broodfather's": "塔兰图拉母蛛的",
+        " Vitality": " 活力",
+        "Vitality": "活力"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "☠ Requires Spider Slayer {{N0}}."
+      ],
+      "translation": "☠ 需要蜘蛛杀手 {{N0}}.",
+      "styleMappings": {
+        "Spider Slayer": "蜘蛛杀手",
+        "Requires": "需要",
+        "Spider": "蜘蛛",
+        "Slayer": "杀手"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY CHESTPLATE"
+      ],
+      "translation": "传说 胸甲",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Chestplate": "胸甲"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

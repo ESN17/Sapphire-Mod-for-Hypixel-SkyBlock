@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "ADVENT_CALENDAR_DISPLAY",
+  "_original_name": "Advent Calendar Display",
+  "_original_lore": [
+    "Furniture",
+    "Holiday Cosmetic",
+    "",
+    "This exclusive Holiday cosmetic can",
+    "be placed on your island or traded.",
+    "",
+    "EPIC"
+  ],
+  "name": "降临节日历展示",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Furniture",
+        "Holiday Cosmetic"
+      ],
+      "translation": "家具 节日装饰",
+      "styleMappings": {
+        "Holiday Cosmetic": "节日装饰",
+        "Furniture": "家具",
+        "Holiday": "节日"
+      }
+    },
+    {
+      "source": [
+        "This exclusive Holiday cosmetic can",
+        "be placed on your island or traded."
+      ],
+      "translation": "这款专属节日装饰可以放置在你的岛屿上或进行交易.",
+      "styleMappings": {
+        "Holiday": "节日",
+        "island": "岛屿上"
+      }
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

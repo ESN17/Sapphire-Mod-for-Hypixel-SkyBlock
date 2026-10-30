@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "ZOMBIE_KNIGHT_MONSTER",
+  "_original_name": "Zombie Knight (Monster)",
+  "_original_lore": [
+    "Knighted by Necron himself.",
+    "",
+    "❤ Health: 170,000 - 1.280,000",
+    "❤ Health (MM) : 7,000,000 - 40,000,000"
+  ],
+  "name": "僵尸骑士 (怪物)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Knighted by Necron himself."
+      ],
+      "translation": "由奈克隆亲自册封.",
+      "styleMappings": {
+        "Necron": "奈克隆"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}} - {{N1}},{{N2}}"
+      ],
+      "translation": "❤ 生命值: {{N0}} - {{N1}},{{N2}}",
+      "styleMappings": {
+        "Health": "生命值",
+        "-": "-"
+      }
+    },
+    {
+      "source": [
+        "❤ Health (MM) : {{N0}} - {{N1}}"
+      ],
+      "translation": "❤ 生命值 (MM) : {{N0}} - {{N1}}",
+      "styleMappings": {
+        "Health": "生命值",
+        "-": "-"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Zombie Knight": "僵尸骑士",
+    "(Monster)": "(怪物)",
+    "Zombie": "僵尸",
+    "Monster": "怪物"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

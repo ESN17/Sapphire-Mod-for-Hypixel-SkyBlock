@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_FIRE_RESISTANCE;1",
+  "_original_name": "Fire Resistance I Potion",
+  "_original_lore": [
+    "",
+    "Fire Resistance I (3:00)",
+    "Receive 10% reduced damage from",
+    "fire and lava.",
+    "",
+    "COMMON"
+  ],
+  "name": "抗火 I 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Fire Resistance I ({{N0}}:{{N1}})"
+      ],
+      "translation": "抗火 I ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Fire Resistance I": "抗火 I"
+      }
+    },
+    {
+      "source": [
+        "Receive {{N0}} reduced damage from",
+        "fire and lava."
+      ],
+      "translation": "受到的火和熔岩伤害减少 {{N0}}.",
+      "styleMappings": {
+        "fire": "火",
+        "lava": "熔岩",
+        "damage": "伤害",
+        "Receive": "受到"
+      }
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fire Resistance I": "抗火 I"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

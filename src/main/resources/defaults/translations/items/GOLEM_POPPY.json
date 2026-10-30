@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "GOLEM_POPPY",
+  "_original_name": "Ancient Rose",
+  "_original_lore": [
+    "An ancient plant imbued with the",
+    "unyielding power of truth.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "RARE DUNGEON ITEM"
+  ],
+  "name": "远古玫瑰",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "An ancient plant imbued with the",
+        "unyielding power of truth."
+      ],
+      "translation": "一株远古植物,蕴含着真相的不屈之力.",
+      "styleMappings": {
+        "plant": "植物"
+      }
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE DUNGEON ITEM"
+      ],
+      "translation": "稀有 地牢物品",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Ancient": "远古"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

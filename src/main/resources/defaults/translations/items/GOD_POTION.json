@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "id": "GOD_POTION",
+  "_original_name": "God Potion",
+  "_original_lore": [
+    "Legacy",
+    "",
+    "Consuming this potion gives the",
+    "player 24 hours of all positive",
+    "potion effects!",
+    "",
+    "Right-click to consume!",
+    "",
+    "* Co-op Soulbound *",
+    "SPECIAL"
+  ],
+  "name": "神药",
+  "lore": {
+    "Legacy": "旧版物品",
+    "Right-click to consume!": "右键使用!",
+    "* Co-op Soulbound *": "* 合作档绑定 *",
+    "SPECIAL": "特殊"
+  },
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consuming this potion gives the",
+        "player {hours} hours of all positive",
+        "potion effects!"
+      ],
+      "translation": "饮用后获得所有正面药水效果,持续 {hours} 小时!",
+      "styleMappings": {
+        "potion effects": "药水效果",
+        "hours": "小时",
+        "{hours} hours": "{hours} 小时"
+      }
+    },
+    {
+      "source": [
+        "Legacy"
+      ],
+      "translation": "旧版物品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Consuming this potion gives the",
+        "player {{N0}} hours of all positive",
+        "potion effects!"
+      ],
+      "translation": "饮用后获得所有正面药水效果,持续 {{N0}} 小时!",
+      "styleMappings": {
+        "potion effects": "药水效果",
+        "hours": "小时"
+      }
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "potion effects": "药水效果",
+    "hours": "小时",
+    "Co-op Soulbound": "合作档绑定"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

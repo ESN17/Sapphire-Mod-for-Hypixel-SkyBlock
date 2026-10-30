@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "id": "SIRIUS_PERSONAL_PHONE_NUMBER",
+  "_original_name": "Sirius' Personal Phone Number",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "Consume this item to get Sirius as an",
+    "Abiphone Contact!",
+    "",
+    "Players with Sirius as a contact",
+    "receive a 1% discount when buying",
+    "items from the Dark Auction.",
+    "",
+    "Right-click to consume!",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "Sirius 的个人电话号码",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Consume this item to get Sirius as an",
+        "Abiphone Contact!"
+      ],
+      "translation": "消耗此物品即可将 Sirius 添加为阿比手机联系人!",
+      "styleMappings": {
+        "Abiphone Contact": "阿比手机联系人",
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Players with Sirius as a contact",
+        "receive a {{N0}} discount when buying",
+        "items from the Dark Auction."
+      ],
+      "translation": "将 Sirius 添加为联系人的玩家在暗黑拍卖行购买物品时可享受 {{N0}} 折扣.",
+      "styleMappings": {
+        "Dark Auction": "暗黑拍卖行",
+        "items": "物品",
+        "Auction": "拍卖",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

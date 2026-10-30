@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "FARM_CRYSTAL",
+  "_original_name": "Farm Crystal",
+  "_original_lore": [
+    "Can be placed on your Private Island.",
+    "",
+    "While placed down, Farming Minions will",
+    "work 10% faster.",
+    "",
+    "RARE"
+  ],
+  "name": "农场水晶",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Can be placed on your Private Island."
+      ],
+      "translation": "可放置在你的私人岛屿上.",
+      "styleMappings": {
+        "Private Island": "私人岛屿",
+        "Island": "岛屿"
+      }
+    },
+    {
+      "source": [
+        "While placed down, Farming Minions will",
+        "work {{N0}} faster."
+      ],
+      "translation": "放置后,农耕仆从的工作速度提升 {{N0}}.",
+      "styleMappings": {
+        "Farming Minions": "农耕仆从",
+        "Minions": "仆从",
+        "faster": "提升",
+        "work": "工作"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Crystal": "水晶"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

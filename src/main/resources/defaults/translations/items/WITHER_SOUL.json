@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "WITHER_SOUL",
+  "_original_name": "Wither Soul",
+  "_original_lore": [
+    "You can still hear their cries from",
+    "the other side.",
+    "",
+    "Right-click to view recipes!",
+    "",
+    "UNCOMMON"
+  ],
+  "name": "凋零之魂",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "You can still hear their cries from",
+        "the other side."
+      ],
+      "translation": "你仍能听到他们从彼岸传来的哭喊.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to view recipes!"
+      ],
+      "translation": "右键查看配方!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "UNCOMMON"
+      ],
+      "translation": "罕见",
+      "styleMappings": {
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Wither": "凋零"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

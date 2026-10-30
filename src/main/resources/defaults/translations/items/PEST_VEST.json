@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "PEST_VEST",
+  "_original_name": "Pest Vest",
+  "_original_lore": [
+    "Bonus Pest Chance: +10%",
+    "",
+    "Decreases the spawn cooldown of ",
+    "Pests by 15%.",
+    "",
+    "Right-click to equip!",
+    "",
+    "This item can be reforged!",
+    "EPIC CLOAK"
+  ],
+  "name": "害虫背心",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Bonus Pest Chance: {{N0}}"
+      ],
+      "translation": "额外害虫概率: {{N0}}",
+      "styleMappings": {
+        "Bonus Pest Chance": "额外害虫概率",
+        "Pest": "害虫"
+      }
+    },
+    {
+      "source": [
+        "Decreases the spawn cooldown of ",
+        "Pests by {{N0}}."
+      ],
+      "translation": "使  害虫的生成冷却时间减少 {{N0}}.",
+      "styleMappings": {
+        "cooldown": "冷却",
+        " Pests": " 害虫",
+        "Pests": "害虫"
+      }
+    },
+    {
+      "source": [
+        "Right-click to equip!"
+      ],
+      "translation": "右键点击装备!",
+      "styleMappings": {
+        "Right-click to equip!": "右键点击装备!",
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "EPIC CLOAK"
+      ],
+      "translation": "史诗 披风",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Pest": "害虫"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "TUNGSTEN_KEYCHAIN",
+  "_original_name": "Tungsten Regulator",
+  "_original_lore": [
+    "Drill Part",
+    "",
+    "Decreases your ♨ Heat or ❄ Cold",
+    "by 1 for every 500 Fuel used.",
+    "",
+    "Put this item in the Upgrade Module",
+    "slot of a Drill at a Drill Mechanic!",
+    "",
+    "❣ Requires Heart of the Mountain Tier 8.",
+    "RARE"
+  ],
+  "name": "钨调节器",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Drill Part"
+      ],
+      "translation": "钻头部件",
+      "styleMappings": {
+        "Drill Part": "钻头部件",
+        "Drill": "钻头"
+      }
+    },
+    {
+      "source": [
+        "Decreases your ♨ Heat or ❄ Cold",
+        "by {{N0}} for every {{N1}} Fuel used."
+      ],
+      "translation": "每使用 {{N1}} 燃料,使你的 ♨ 热量或 ❄ 寒冷降低 {{N0}}.",
+      "styleMappings": {
+        "Cold": "寒冷",
+        "Fuel": "燃料",
+        "Heat": "热量",
+        "❄ Cold": "❄ 寒冷"
+      }
+    },
+    {
+      "source": [
+        "Put this item in the Upgrade Module",
+        "slot of a Drill at a Drill Mechanic!"
+      ],
+      "translation": "将此物品放入钻机技工处钻机的升级模块槽位!",
+      "styleMappings": {
+        "Drill Mechanic": "钻机技工",
+        "Upgrade Module": "升级模块",
+        "item": "物品",
+        "in the": "的"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Heart of the Mountain Tier {{N0}}."
+      ],
+      "translation": "❣ 需要山峰之心等级 {{N0}}.",
+      "styleMappings": {
+        "Heart of the Mountain Tier": "山峰之心等级",
+        "Requires": "需要",
+        "Heart of the Mountain": "山峰之心"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

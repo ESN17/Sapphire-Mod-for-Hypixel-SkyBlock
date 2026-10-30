@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "LIVING_METAL_ANVIL",
+  "_original_name": "Living Metal Anchor",
+  "_original_lore": [
+    "This anchor has a life.",
+    "It likes music!",
+    "Its favorite genre?",
+    "Heavy metal.",
+    "",
+    "Reed needs this item.",
+    "",
+    "RARE"
+  ],
+  "name": "活体金属锚",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "This anchor has a life."
+      ],
+      "translation": "这个船锚有生命.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "It likes music!"
+      ],
+      "translation": "它喜欢音乐!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Its favorite genre?"
+      ],
+      "translation": "它最喜欢的流派?",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Heavy metal."
+      ],
+      "translation": "重金属.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Reed needs this item."
+      ],
+      "translation": "Reed 需要这件物品.",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

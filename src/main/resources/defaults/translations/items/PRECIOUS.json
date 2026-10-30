@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "PRECIOUS",
+  "_original_name": "Precious",
+  "_original_lore": [
+    "My precious.",
+    "",
+    "* Co-op Soulbound *",
+    "RARE"
+  ],
+  "name": "珍贵",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "My precious."
+      ],
+      "translation": "我的珍贵.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "* Co-op Soulbound *"
+      ],
+      "translation": "* 合作档绑定 *",
+      "styleMappings": {
+        "Co-op Soulbound": "合作档绑定"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

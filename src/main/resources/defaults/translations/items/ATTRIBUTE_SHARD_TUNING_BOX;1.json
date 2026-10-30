@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "id": "ATTRIBUTE_SHARD_TUNING_BOX;1",
+  "_original_name": "Hideonbox Shard",
+  "_original_lore": [
+    "Tuning Box I",
+    "Grants +1 Tuning Points.",
+    "",
+    "You can Syphon this shard from",
+    "your Hunting Box.",
+    "",
+    "Right-click to send to Hunting Box!",
+    "Shift Right-click to move all!",
+    "",
+    "❣ Requires Hunting Skill 20.",
+    "LEGENDARY FOREST SHARD (ID L25)"
+  ],
+  "name": "海德昂博克斯碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Tuning Box I"
+      ],
+      "translation": "调音盒 I",
+      "styleMappings": {
+        "Tuning Box": "调音盒",
+        "I": "I"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Tuning Points."
+      ],
+      "translation": "提供 {{N0}} 调音点数.",
+      "styleMappings": {
+        "Grants": "提供",
+        "Tuning Points": "调音点数"
+      }
+    },
+    {
+      "source": [
+        "You can Syphon this shard from",
+        "your Hunting Box."
+      ],
+      "translation": "你可以从狩猎箱中吸取此碎片.",
+      "styleMappings": {
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to send to Hunting Box!"
+      ],
+      "translation": "右键点击发送至狩猎箱!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Shift Right-click to move all!"
+      ],
+      "translation": "潜行键 右键点击全部移动!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "all": "全部"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Hunting Skill {{N0}}."
+      ],
+      "translation": "❣ 需要狩猎技能 {{N0}}.",
+      "styleMappings": {
+        "Hunting Skill": "狩猎技能",
+        "Requires": "需要",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY FOREST SHARD (ID L{{N0}})"
+      ],
+      "translation": "传说森林碎片 (ID L{{N0}})",
+      "styleMappings": {
+        "LEGENDARY FOREST SHARD": "传说森林碎片",
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shard": "碎片"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

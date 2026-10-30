@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "id": "TUTORIAL_GARDEN_CHIP",
+  "_original_name": "Cropshot Chip",
+  "_original_lore": [
+    "Garden Chip",
+    "",
+    "Ability: Cropshot ",
+    "Grants +3 Farming Fortune per",
+    "Chip Level!",
+    "",
+    "Redeem Chips to increase their rarity!",
+    "",
+    "Right-Click to redeem!",
+    "Shift Right-Click to redeem all!",
+    "",
+    "* Soulbound *",
+    "RARE GARDEN CHIP"
+  ],
+  "name": "作物射击芯片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Garden Chip"
+      ],
+      "translation": "花园芯片",
+      "styleMappings": {
+        "Garden Chip": "花园芯片",
+        "Garden": "花园",
+        "Chip": "芯片"
+      }
+    },
+    {
+      "source": [
+        "Ability: Cropshot "
+      ],
+      "translation": "能力: 作物射击 ",
+      "styleMappings": {
+        "Ability": "能力",
+        "Cropshot": "作物射击"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Farming Fortune per",
+        "Chip Level!"
+      ],
+      "translation": "每级芯片提供 {{N0}} 农业幸运!",
+      "styleMappings": {
+        "Farming Fortune": "农业幸运",
+        "Grants": "提供",
+        "Level": "级",
+        "Chip": "芯片",
+        "Fortune": "幸运",
+        "Farming": "农业",
+        "per": "每"
+      }
+    },
+    {
+      "source": [
+        "Redeem Chips to increase their rarity!"
+      ],
+      "translation": "兑换芯片以提升其稀有度!",
+      "styleMappings": {
+        "rarity": "稀有度"
+      }
+    },
+    {
+      "source": [
+        "Right-Click to redeem!"
+      ],
+      "translation": "右键点击兑换!",
+      "styleMappings": {
+        "Right-Click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "Shift Right-Click to redeem all!"
+      ],
+      "translation": "潜行键 右键点击全部兑换!",
+      "styleMappings": {
+        "Shift Right-Click": "潜行键 右键点击",
+        "all": "全部",
+        "Right-Click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "RARE GARDEN CHIP"
+      ],
+      "translation": "稀有 花园芯片",
+      "styleMappings": {
+        "RARE GARDEN CHIP": "稀有 花园芯片",
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Chip": "芯片",
+    "Cropshot": "作物射击"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

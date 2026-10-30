@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "id": "ELEANOR_TUNIC",
+  "_original_name": "Eleanor's Tunic",
+  "_original_lore": [
+    "Health: +100",
+    "",
+    "Tiered Bonus: Riches (0/4)",
+    "Gain 1.5x Scavenger Coins.",
+    "",
+    "Scavenger Coins Gained: 0",
+    "",
+    "A beautifully tailored tunic, featuring",
+    "intricate stitching and a soft, radiant",
+    "finish.",
+    "",
+    "This item can be reforged!",
+    "* Soulbound *",
+    "X Rift-Transferable X",
+    "LEGENDARY CHESTPLATE"
+  ],
+  "name": "埃莉诺的上衣",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Tiered Bonus: Riches ({{N0}}/{{N1}})"
+      ],
+      "translation": "分级加成: 财富 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Tiered Bonus": "分级加成",
+        "Bonus": "加成"
+      }
+    },
+    {
+      "source": [
+        "Gain {{N0}}x Scavenger Coins."
+      ],
+      "translation": "获得 {{N0}} 倍拾荒者硬币.",
+      "styleMappings": {
+        "Scavenger": "拾荒者",
+        "Coins": "硬币",
+        "Gain": "获得",
+        "{{N0}}x": "{{N0}} 倍"
+      }
+    },
+    {
+      "source": [
+        "Scavenger Coins Gained: {{N0}}"
+      ],
+      "translation": "获得的拾荒者硬币: {{N0}}",
+      "styleMappings": {
+        "Scavenger Coins Gained": "获得的拾荒者硬币",
+        "Coins": "硬币",
+        "Scavenger": "拾荒者"
+      }
+    },
+    {
+      "source": [
+        "A beautifully tailored tunic, featuring",
+        "intricate stitching and a soft, radiant",
+        "finish."
+      ],
+      "translation": "一件剪裁精美的上衣,缝线精致,质感柔软而富有光泽.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "X Rift-Transferable X"
+      ],
+      "translation": "X 可转移至裂隙 X",
+      "styleMappings": {
+        "Rift-Transferable": "可转移至裂隙",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY CHESTPLATE"
+      ],
+      "translation": "传说 胸甲",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "KING_MIDAS_MINIBOSS",
+  "_original_name": "King Midas (Miniboss)",
+  "_original_lore": [
+    "He loves gold.",
+    "",
+    "❤ Health: 300,000 - 4,300,000",
+    "❤ Health (MM) : 8,600,000 - 35,000,000"
+  ],
+  "name": "米达斯国王 (小头目)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "He loves gold."
+      ],
+      "translation": "他热爱黄金.",
+      "styleMappings": {
+        "gold": "黄金"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}} - {{N1}}"
+      ],
+      "translation": "❤ 生命值: {{N0}} - {{N1}}",
+      "styleMappings": {
+        "Health": "生命值",
+        "-": "-"
+      }
+    },
+    {
+      "source": [
+        "❤ Health (MM) : {{N0}} - {{N1}}"
+      ],
+      "translation": "❤ 生命值 (MM) : {{N0}} - {{N1}}",
+      "styleMappings": {
+        "Health": "生命值",
+        "-": "-"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Miniboss": "小头目",
+    "King Midas (Miniboss)": "米达斯国王 (小头目)",
+    "(Miniboss)": "(小头目)"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_name_revision": "2026-10-17-slayer-rpg"
+}

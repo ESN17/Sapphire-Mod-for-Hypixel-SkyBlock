@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "REVIVE_STONE",
+  "_original_name": "Revive Stone",
+  "_original_lore": [
+    "Ability: Revive  RIGHT CLICK",
+    "Revive a player who has died in a dungeon.",
+    "ONE TIME USE.",
+    "",
+    "This item will vanish from your",
+    "inventory at the end of the Dungeon!",
+    "",
+    "LEGENDARY DUNGEON ITEM"
+  ],
+  "name": "复活石",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Revive  RIGHT CLICK"
+      ],
+      "translation": "技能: 复活  右键点击",
+      "styleMappings": {
+        "Ability: Revive": "技能: 复活",
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Revive a player who has died in a dungeon."
+      ],
+      "translation": "复活一名在地牢中死亡的玩家.",
+      "styleMappings": {
+        "player": "玩家"
+      }
+    },
+    {
+      "source": [
+        "ONE TIME USE."
+      ],
+      "translation": "一次性使用.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "This item will vanish from your"
+      ],
+      "translation": "此物品将从你的",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "inventory at the end of the Dungeon!"
+      ],
+      "translation": "物品栏中消失,在地牢结束时!",
+      "styleMappings": {
+        "Dungeon": "地牢"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY DUNGEON ITEM"
+      ],
+      "translation": "传说地牢物品",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

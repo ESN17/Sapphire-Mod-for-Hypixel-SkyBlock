@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "id": "JERRY_HELMET",
+  "_original_name": "Jerry Helmet",
+  "_original_lore": [
+    "Intelligence: -1",
+    "",
+    "Ability: Think",
+    "Channel your inner Jerry.",
+    "",
+    "Obtained from the A Honk and Seek",
+    "Adventure event during April Fools.",
+    "",
+    "This item can be reforged!",
+    "SPECIAL HELMET"
+  ],
+  "name": "杰瑞 头盔",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Intelligence: {{N0}}"
+      ],
+      "translation": "智力: {{N0}}",
+      "styleMappings": {
+        "Intelligence": "智力"
+      }
+    },
+    {
+      "source": [
+        "Ability: Think"
+      ],
+      "translation": "能力:思考",
+      "styleMappings": {
+        "Ability: Think": "能力:思考",
+        "Ability": "能力"
+      }
+    },
+    {
+      "source": [
+        "Channel your inner Jerry."
+      ],
+      "translation": "释放你内心的杰瑞.",
+      "styleMappings": {
+        "Jerry": "杰瑞"
+      }
+    },
+    {
+      "source": [
+        "Obtained from the A Honk and Seek",
+        "Adventure event during April Fools."
+      ],
+      "translation": "在愚人节期间的鸣笛寻宝冒险活动中获得.",
+      "styleMappings": {
+        "A Honk and Seek Adventure": "鸣笛寻宝冒险"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL HELMET"
+      ],
+      "translation": "特殊头盔",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Helmet": "头盔",
+    "Jerry": "杰瑞"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

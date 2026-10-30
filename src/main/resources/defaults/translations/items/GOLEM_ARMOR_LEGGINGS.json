@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "id": "GOLEM_ARMOR_LEGGINGS",
+  "_original_name": "Golem Armor Leggings",
+  "_original_lore": [
+    "Health: +55",
+    "Defense: +75",
+    "",
+    "Full Set Bonus: Absorption (0/4)",
+    "Grants the wearer Absorption 3 for",
+    "20 seconds when they kill an enemy.",
+    "",
+    "This item can be reforged!",
+    "RARE LEGGINGS"
+  ],
+  "name": "傀儡护甲护腿",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Absorption ({{N0}}/{{N1}})"
+      ],
+      "translation": "全套奖励:伤害吸收 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Full Set Bonus: Absorption": "全套奖励:伤害吸收"
+      }
+    },
+    {
+      "source": [
+        "Grants the wearer Absorption {{N0}} for",
+        "{{N1}} seconds when they kill an enemy."
+      ],
+      "translation": "穿戴者击杀敌人时,获得 {{N0}} 伤害吸收,持续 {{N1}} 秒.",
+      "styleMappings": {
+        "Absorption {{N0}}": "{{N0}} 伤害吸收",
+        "seconds": "秒",
+        "Grants": "获得",
+        "for": "持续",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "RARE LEGGINGS"
+      ],
+      "translation": "稀有 护腿",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Armor": "护甲",
+    "Golem": "傀儡",
+    "Leggings": "护腿"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

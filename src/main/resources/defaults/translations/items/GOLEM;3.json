@@ -1,0 +1,165 @@
+{
+  "schemaVersion": 1,
+  "id": "GOLEM;3",
+  "_original_name": "[Lvl {LVL}] Golem",
+  "_original_lore": [
+    "Combat Pet",
+    "",
+    "Health: +{HEALTH}",
+    "Strength: +{STRENGTH}",
+    "Swing Range: +{SWING_RANGE}",
+    "",
+    "Last Stand",
+    "While at less than 20% HP, reduce",
+    "incoming damage by 20%. Additionally,",
+    "gain a temporary shield equal to 40%",
+    "of your maximum health and deal 40%",
+    "more damage.",
+    "(Lasts 12s, 60s cooldown)",
+    "",
+    "Ricochet",
+    "Your iron plating causes {0}% of",
+    "attacks to ricochet and hit the",
+    "attacker",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "EPIC PET"
+  ],
+  "name": "[等级 {LVL}] 魔像",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combat Pet"
+      ],
+      "translation": "战斗宠物",
+      "styleMappings": {
+        "Combat Pet": "战斗宠物",
+        "Combat": "战斗",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Health: +{{N0}}"
+      ],
+      "translation": "生命值: +{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Strength: +{{N0}}"
+      ],
+      "translation": "力量: +{{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Swing Range: +{{N0}}"
+      ],
+      "translation": "攻击范围: +{{N0}}",
+      "styleMappings": {
+        "Swing Range": "攻击范围"
+      }
+    },
+    {
+      "source": [
+        "Last Stand"
+      ],
+      "translation": "背水一战",
+      "styleMappings": {
+        "Last Stand": "背水一战"
+      }
+    },
+    {
+      "source": [
+        "While at less than {{N0}} HP, reduce",
+        "incoming damage by {{N1}}. Additionally,",
+        "gain a temporary shield equal to {{N2}}",
+        "of your maximum health and deal {{N3}}",
+        "more damage."
+      ],
+      "translation": "当生命值低于 {{N0}} 点时,受到的伤害降低 {{N1}}.此外,获得相当于最大生命值 {{N2}} 的临时护盾,并额外造成 {{N3}} 伤害.",
+      "styleMappings": {
+        "incoming damage": "受到的伤害",
+        "damage": "伤害",
+        "deal": "造成",
+        "more": "额外",
+        "{{N0}} HP": "{{N0}} 点",
+        "health": "生命值",
+        "HP": "生命值",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "(Lasts {{N0}}s, {{N1}}s cooldown)"
+      ],
+      "translation": "(持续 {{N0}} 秒,冷却 {{N1}} 秒)",
+      "styleMappings": {
+        "cooldown": "冷却",
+        "{{N0}}s": "{{N0}} 秒",
+        "{{N1}}s": "{{N1}} 秒",
+        "Lasts": "持续"
+      }
+    },
+    {
+      "source": [
+        "Ricochet"
+      ],
+      "translation": "弹射",
+      "styleMappings": {
+        "Ricochet": "弹射"
+      }
+    },
+    {
+      "source": [
+        "Your iron plating causes {{N0}}% of",
+        "attacks to ricochet and hit the",
+        "attacker"
+      ],
+      "translation": "你的铁甲使 {{N0}}% 的攻击弹射并击中攻击者",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "EPIC PET"
+      ],
+      "translation": "史诗 宠物",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Golem": "魔像",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

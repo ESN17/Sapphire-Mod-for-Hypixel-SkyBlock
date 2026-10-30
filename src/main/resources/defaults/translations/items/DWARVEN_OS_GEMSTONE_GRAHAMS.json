@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "DWARVEN_OS_GEMSTONE_GRAHAMS",
+  "_original_name": "Dwarven O's Gemstone Grahams",
+  "_original_lore": [
+    "Consumable",
+    "",
+    "The first 5 times you consume this,",
+    "gain a permanent +2 Gemstone",
+    "Fortune.",
+    "",
+    "Right-click to consume!",
+    "",
+    "EPIC"
+  ],
+  "name": "矮人的宝石全麦饼干",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Consumable"
+      ],
+      "translation": "消耗品",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "The first {{N0}} times you consume this,",
+        "gain a permanent {{N1}} Gemstone",
+        "Fortune."
+      ],
+      "translation": "前 {{N0}} 次食用时,获得永久 {{N1}} 宝石幸运.",
+      "styleMappings": {
+        "Gemstone Fortune": "宝石幸运",
+        "first": "前",
+        "Gemstone": "宝石",
+        "Fortune": "幸运",
+        "gain": "获得"
+      }
+    },
+    {
+      "source": [
+        "Right-click to consume!"
+      ],
+      "translation": "右键食用!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "EPIC"
+      ],
+      "translation": "史诗",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Gemstone": "宝石"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_name_revision": "2026-10-17-user-request"
+}

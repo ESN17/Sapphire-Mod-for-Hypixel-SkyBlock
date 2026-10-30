@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": "GROWTH;6",
+  "_original_name": "Enchanted Book",
+  "_original_lore": [
+    "Combinable in Anvil",
+    "",
+    "Growth VI",
+    "Grants +90  Health.",
+    "",
+    "Sources:",
+    " - Enchantment Table (I-V)",
+    " - Dark Auction (VI)",
+    " - Experiments (VI-VII)",
+    " - Bazaar (VI-VII)",
+    " - Scorpius (VII)",
+    "",
+    "Applied To:",
+    " - Armor",
+    "",
+    "Requirements:",
+    " - Enchanting Level 5",
+    "",
+    "RARE"
+  ],
+  "name": "附魔书",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Combinable in Anvil"
+      ],
+      "translation": "可在铁砧中合成",
+      "styleMappings": {
+        "Combinable in Anvil": "可在铁砧中合成",
+        "Anvil": "铁砧"
+      }
+    },
+    {
+      "source": [
+        "Growth VI"
+      ],
+      "translation": "生长 VI",
+      "styleMappings": {
+        "Growth": "生长"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}  Health."
+      ],
+      "translation": "提供 {{N0}}   生命值.",
+      "styleMappings": {
+        "Grants": "提供",
+        "Health": "生命值",
+        " Health": " 生命"
+      }
+    },
+    {
+      "source": [
+        "Sources:"
+      ],
+      "translation": "来源:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchantment Table (I-V)",
+        " - Dark Auction (VI)",
+        " - Experiments (VI-VII)",
+        " - Bazaar (VI-VII)",
+        " - Scorpius (VII)"
+      ],
+      "translation": " - 附魔台 (一至五)  - 暗黑拍卖行 (六)  - 实验 (六至七)  - 集市 (六至七)  - 斯科皮乌斯 (七)",
+      "styleMappings": {
+        "Enchantment Table": "附魔台",
+        "Dark Auction": "暗黑拍卖行",
+        "Experiments": "实验",
+        "Scorpius": "斯科皮乌斯",
+        "Bazaar": "集市",
+        "I-V": "一至五",
+        "VI": "六",
+        "Auction": "拍卖",
+        "Enchantment": "附魔"
+      }
+    },
+    {
+      "source": [
+        "Applied To:"
+      ],
+      "translation": "适用于:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Armor"
+      ],
+      "translation": " - 盔甲",
+      "styleMappings": {
+        "Armor": "盔甲"
+      }
+    },
+    {
+      "source": [
+        "Requirements:"
+      ],
+      "translation": "需求:",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        " - Enchanting Level {{N0}}"
+      ],
+      "translation": " - 附魔等级 {{N0}}",
+      "styleMappings": {
+        "Enchanting Level": "附魔等级"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

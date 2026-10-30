@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "PRECURSOR_DRONE;4",
+  "_original_name": "[Lvl {LVL}] Precursor Drone",
+  "_original_lore": [
+    "All Skills",
+    "",
+    "Speed: +{SPEED}",
+    "",
+    "Creative Mind",
+    "This pet can have Drone Mods",
+    "applied to it, which allows you to",
+    "modify its Perks to your liking.",
+    "Precursor Drones may possess up",
+    "to 3 perks at a time, this one included.",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "LEGENDARY PET"
+  ],
+  "name": "[等级 {LVL}] 先驱者无人机",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "All Skills"
+      ],
+      "translation": "所有技能",
+      "styleMappings": {
+        "All Skills": "所有技能"
+      }
+    },
+    {
+      "source": [
+        "Speed: +{{N0}}"
+      ],
+      "translation": "速度: +{{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Creative Mind"
+      ],
+      "translation": "创意头脑",
+      "styleMappings": {
+        "Creative Mind": "创意头脑"
+      }
+    },
+    {
+      "source": [
+        "This pet can have Drone Mods",
+        "applied to it, which allows you to",
+        "modify its Perks to your liking."
+      ],
+      "translation": "该宠物可以应用无人机改装,让你可以随意修改它的技能.",
+      "styleMappings": {
+        "Drone Mods": "无人机改装",
+        "Perks": "技能",
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Precursor Drones may possess up",
+        "to {{N0}} perks at a time, this one included."
+      ],
+      "translation": "先驱者无人机一次最多可拥有 {{N0}} 个技能,包括这一个.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY PET"
+      ],
+      "translation": "传说 宠物",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Precursor Drone": "先驱者无人机",
+    "Lvl": "等级"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

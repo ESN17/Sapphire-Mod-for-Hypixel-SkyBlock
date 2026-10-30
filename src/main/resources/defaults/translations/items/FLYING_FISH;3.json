@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": "FLYING_FISH;3",
+  "_original_name": "[Lvl {LVL}] Flying Fish",
+  "_original_lore": [
+    "Fishing Pet",
+    "",
+    "Defense: +{DEFENSE}",
+    "Strength: +{STRENGTH}",
+    "",
+    "Quick Reel",
+    "Grants +{0} Fishing Speed.",
+    "",
+    "Water Bender",
+    "Gives {1}  Strength and  Defense",
+    "when near water",
+    "",
+    "Right-click to add this pet to your pet menu!",
+    "",
+    "Can be upgraded at Kat in The Hub!",
+    "EPIC PET"
+  ],
+  "name": "[等级 {LVL}] 飞鱼",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Fishing Pet"
+      ],
+      "translation": "钓鱼宠物",
+      "styleMappings": {
+        "Fishing": "钓鱼",
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Defense: +{{N0}}"
+      ],
+      "translation": "防御力: +{{N0}}",
+      "styleMappings": {
+        "Defense": "防御力"
+      }
+    },
+    {
+      "source": [
+        "Strength: +{{N0}}"
+      ],
+      "translation": "力量: +{{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Quick Reel"
+      ],
+      "translation": "快速收线",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Grants +{{N0}} Fishing Speed."
+      ],
+      "translation": "提供 +{{N0}} 钓鱼速度.",
+      "styleMappings": {
+        "Fishing Speed": "钓鱼速度",
+        "Grants": "提供",
+        "Fishing": "钓鱼",
+        "Speed": "速度",
+        " Fishing Speed": " 钓鱼速度"
+      }
+    },
+    {
+      "source": [
+        "Water Bender"
+      ],
+      "translation": "水之掌控",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Gives {{N0}}  Strength and  Defense",
+        "when near water"
+      ],
+      "translation": "在水边时提供 {{N0}}  力量 和  防御",
+      "styleMappings": {
+        " Strength": " 力量",
+        " Defense": " 防御",
+        "Defense": "防御",
+        "Strength": "力量",
+        "when": "时",
+        "Gives": "提供",
+        "water": "水"
+      }
+    },
+    {
+      "source": [
+        "Right-click to add this pet to your pet menu!"
+      ],
+      "translation": "右键将此宠物添加到宠物菜单!",
+      "styleMappings": {
+        "pet": "宠物"
+      }
+    },
+    {
+      "source": [
+        "Can be upgraded at Kat in The Hub!"
+      ],
+      "translation": "可在中心岛找 Kat 升级稀有度!",
+      "styleMappings": {
+        "Kat": "Kat",
+        "The Hub": "中心岛",
+        "Hub": "中心岛"
+      }
+    },
+    {
+      "source": [
+        "EPIC PET"
+      ],
+      "translation": "史诗 宠物",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Flying Fish": "飞鱼",
+    "Lvl": "等级",
+    "Fish": "鱼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

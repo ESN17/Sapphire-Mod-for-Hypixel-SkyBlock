@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": "ATTRIBUTE_SHARD_COLD_RESISTANCE;1",
+  "_original_name": "Wumpa Shard",
+  "_original_lore": [
+    "Cold Resistance I",
+    "Grants +0.5  Cold Resistance.",
+    "",
+    "You can Syphon this shard from",
+    "your Hunting Box.",
+    "",
+    "Right-click to send to Hunting Box!",
+    "Shift Right-click to move all!",
+    "",
+    "❣ Requires Hunting Skill 20.",
+    "LEGENDARY COMBAT SHARD (ID L60)"
+  ],
+  "name": "旺帕碎片",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Cold Resistance I"
+      ],
+      "translation": "寒冷抗性 I",
+      "styleMappings": {
+        "Cold Resistance I": "寒冷抗性 I",
+        "Resistance I": "抗性 I",
+        "Cold Resistance": "寒冷抗性",
+        "Resistance": "抗性",
+        "Cold": "寒冷"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}  Cold Resistance."
+      ],
+      "translation": "获得 {{N0}}  寒冷抗性。",
+      "styleMappings": {
+        "Cold Resistance": "寒冷抗性",
+        "Grants": "获得",
+        "Resistance": "抗性",
+        "Cold": "寒冷"
+      }
+    },
+    {
+      "source": [
+        "You can Syphon this shard from",
+        "your Hunting Box."
+      ],
+      "translation": "你可以从狩猎箱中吸取此碎片.",
+      "styleMappings": {
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Right-click to send to Hunting Box!"
+      ],
+      "translation": "右键点击发送至狩猎箱!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "Hunting Box": "狩猎箱"
+      }
+    },
+    {
+      "source": [
+        "Shift Right-click to move all!"
+      ],
+      "translation": "潜行键 右键点击全部移动!",
+      "styleMappings": {
+        "Right-click": "右键点击",
+        "all": "全部"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Hunting Skill {{N0}}."
+      ],
+      "translation": "❣ 需要狩猎技能 {{N0}}.",
+      "styleMappings": {
+        "Hunting Skill": "狩猎技能",
+        "Requires": "需要",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY COMBAT SHARD (ID L{{N0}})"
+      ],
+      "translation": "传说战斗碎片 (ID L{{N0}})",
+      "styleMappings": {
+        "LEGENDARY COMBAT SHARD": "传说战斗碎片",
+        "LEGENDARY": "传说",
+        "COMBAT SHARD": "战斗碎片"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Shard": "碎片"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "id": "MUSHROOM_GENERATOR_7",
+  "_original_name": "Mushroom Minion VII",
+  "_original_lore": [
+    "Place this minion and it will start",
+    "generating and harvesting red and",
+    "brown mushrooms! Requires an area",
+    "that is suitable for mushrooms to be",
+    "placed. Minions also work when you",
+    "are offline!",
+    "",
+    "Time Between Actions: 23s",
+    "Max Storage: 576",
+    "Resources Generated: 0",
+    "",
+    "RARE"
+  ],
+  "name": "蘑菇仆从 VII",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Place this minion and it will start",
+        "generating and harvesting red and",
+        "brown mushrooms! Requires an area",
+        "that is suitable for mushrooms to be",
+        "placed. Minions also work when you",
+        "are offline!"
+      ],
+      "translation": "放置此仆从后,它就会开始生成并采集红色和棕色蘑菇!需要一块适合放置蘑菇的区域.仆从在你离线时也会工作!",
+      "styleMappings": {
+        "Requires": "需要",
+        "minion": "仆从",
+        "Minions": "仆从",
+        "work": "工作",
+        "when": "时"
+      }
+    },
+    {
+      "source": [
+        "Time Between Actions: {{N0}}s"
+      ],
+      "translation": "行动间隔:{{N0}}秒",
+      "styleMappings": {
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "Max Storage: {{N0}}"
+      ],
+      "translation": "最大存储:{{N0}}",
+      "styleMappings": {
+        "Max": "最大"
+      }
+    },
+    {
+      "source": [
+        "Resources Generated: {{N0}}"
+      ],
+      "translation": "产出资源:{{N0}}",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Mushroom": "蘑菇",
+    "Minion": "仆从"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

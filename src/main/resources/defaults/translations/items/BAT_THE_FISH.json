@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "BAT_THE_FISH",
+  "_original_name": "Bat the Fish",
+  "_original_lore": [
+    "Where is my cape!",
+    "",
+    "SPECIAL"
+  ],
+  "name": "蝙蝠鱼",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Where is my cape!"
+      ],
+      "translation": "我的披风呢!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fish": "鱼",
+    "Bat": "蝙蝠"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

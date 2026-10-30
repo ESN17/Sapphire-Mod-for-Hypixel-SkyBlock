@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "POTION_SPEED;5",
+  "_original_name": "Speed V Potion",
+  "_original_lore": [
+    "",
+    "Speed V (3:00)",
+    "Grants +25  Speed.",
+    "",
+    "RARE"
+  ],
+  "name": "速度 V 药水",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Speed V ({{N0}}:{{N1}})"
+      ],
+      "translation": "速度 V ({{N0}}:{{N1}})",
+      "styleMappings": {
+        "Speed V": "速度 V",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}}  Speed."
+      ],
+      "translation": "提供 {{N0}}  速度.",
+      "styleMappings": {
+        " Speed": " 速度",
+        "Grants": "提供",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Speed V Potion": "速度 V 药水",
+    "Speed": "速度",
+    "Speed V": "速度 V"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

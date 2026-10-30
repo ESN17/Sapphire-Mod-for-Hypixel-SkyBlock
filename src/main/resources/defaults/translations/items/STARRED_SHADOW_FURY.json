@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "id": "STARRED_SHADOW_FURY",
+  "_original_name": " Shadow Fury",
+  "_original_lore": [
+    "Gear Score: 618",
+    "Damage: +310",
+    "Strength: +160",
+    "Crit Damage: +60%",
+    "Speed: +40",
+    "Gemstones: [] [⚔]",
+    "",
+    "Ability: Shadow Fury  RIGHT CLICK",
+    "Rapidly teleports you to up to 5 enemies within",
+    "12 blocks, rooting each of them and allowing",
+    "you to hit them.",
+    "Cooldown: 15s",
+    "",
+    "This item can be reforged!",
+    "❣ Requires The Catacombs Floor V Completion.",
+    "LEGENDARY DUNGEON SWORD"
+  ],
+  "name": " 暗影狂怒",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Damage: {{N0}}"
+      ],
+      "translation": "伤害: {{N0}}",
+      "styleMappings": {
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Strength: {{N0}}"
+      ],
+      "translation": "力量: {{N0}}",
+      "styleMappings": {
+        "Strength": "力量"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: {{N0}}"
+      ],
+      "translation": "暴击伤害:{{N0}}",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Speed: {{N0}}"
+      ],
+      "translation": "速度: {{N0}}",
+      "styleMappings": {
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [] [⚔]"
+      ],
+      "translation": "宝石: [] [⚔]",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石",
+        "] [": "] ["
+      }
+    },
+    {
+      "source": [
+        "Ability: Shadow Fury  RIGHT CLICK"
+      ],
+      "translation": "技能: 暗影之怒  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "技能",
+        "CLICK": "点击",
+        "Shadow Fury": "暗影之怒"
+      }
+    },
+    {
+      "source": [
+        "Rapidly teleports you to up to {{N0}} enemies within",
+        "{{N1}} blocks, rooting each of them and allowing",
+        "you to hit them."
+      ],
+      "translation": "快速传送至 {{N1}} 格内最多 {{N0}} 个敌人身旁,将其定身,便于你发动攻击.",
+      "styleMappings": {
+        "blocks": "格",
+        "hit": "攻击",
+        "enemies": "敌人"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}s"
+      ],
+      "translation": "冷却时间: {{N0}}秒",
+      "styleMappings": {
+        "s": "秒",
+        "Cooldown": "冷却",
+        "{{N0}}s": "{{N0}}秒"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires The Catacombs Floor V Completion."
+      ],
+      "translation": "❣ 需要通关地牢第 V 层.",
+      "styleMappings": {
+        "The Catacombs": "地牢",
+        "Requires": "需要",
+        "Catacombs": "地牢"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY DUNGEON SWORD"
+      ],
+      "translation": "传说地牢剑",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

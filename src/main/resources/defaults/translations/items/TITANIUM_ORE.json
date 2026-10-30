@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "TITANIUM_ORE",
+  "_original_name": "Titanium",
+  "_original_lore": [
+    "Its strength and resistance to",
+    "corrosion are the highest of any",
+    "metallic element.",
+    "",
+    "RARE DWARVEN METAL"
+  ],
+  "name": "钛",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Its strength and resistance to",
+        "corrosion are the highest of any",
+        "metallic element."
+      ],
+      "translation": "其强度和抗腐蚀性在所有金属元素中最高.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "RARE DWARVEN METAL"
+      ],
+      "translation": "稀有矮人金属",
+      "styleMappings": {
+        "RARE DWARVEN METAL": "稀有矮人金属",
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Titanium": "钛"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

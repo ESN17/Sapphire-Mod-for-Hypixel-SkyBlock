@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "DIAMOND_THE_FISH",
+  "_original_name": "Diamond the Fish",
+  "_original_lore": [
+    "Shines bright like a fish.",
+    "",
+    "❣ Requires Master Trophy Fisher.",
+    "* Soulbound *",
+    "SPECIAL"
+  ],
+  "name": "钻石鱼",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Shines bright like a fish."
+      ],
+      "translation": "像鱼一样闪闪发光.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "❣ Requires Master Trophy Fisher."
+      ],
+      "translation": "❣ 需要大师奖杯钓手.",
+      "styleMappings": {
+        "Requires Master Trophy Fisher.": "需要大师奖杯钓手.",
+        "Requires": "需要",
+        "Trophy": "奖杯",
+        "Master": "大师"
+      }
+    },
+    {
+      "source": [
+        "* Soulbound *"
+      ],
+      "translation": "* 灵魂绑定 *",
+      "styleMappings": {
+        "Soulbound": "灵魂绑定"
+      }
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fish": "鱼"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

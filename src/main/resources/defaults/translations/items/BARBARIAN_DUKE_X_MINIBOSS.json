@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "BARBARIAN_DUKE_X_MINIBOSS",
+  "_original_name": "Barbarian Duke X (Miniboss)",
+  "_original_lore": [
+    "Ate too much Sulphur.",
+    "",
+    "❤ Health: 70,000,000"
+  ],
+  "name": "野蛮人公爵 X (小首领)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ate too much Sulphur."
+      ],
+      "translation": "硫磺吃太多了.",
+      "styleMappings": {
+        "Sulphur": "硫磺"
+      }
+    },
+    {
+      "source": [
+        "❤ Health: {{N0}}"
+      ],
+      "translation": "❤ 生命值: {{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "(Miniboss)": "(小首领)",
+    "Miniboss": "小首领"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

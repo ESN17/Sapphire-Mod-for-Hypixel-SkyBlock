@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 1,
+  "id": "SKELETON_MASTER_BOOTS",
+  "_original_name": "Skeleton Master Boots",
+  "_original_lore": [
+    "Gear Score: 90",
+    "Health: +14",
+    "Defense: +22",
+    "Crit Chance: +2%",
+    "Crit Damage: +22%",
+    "",
+    "Increase the damage you deal with",
+    "arrows by 5%.",
+    "Full Set Bonus: Skeleton Master (0/4)",
+    "Increase the damage you deal with",
+    "arrows by 25%.",
+    "",
+    "This item is Undead ༕!",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Catacombs Skill 12.",
+    "EPIC DUNGEON BOOTS"
+  ],
+  "name": "骷髅大师靴子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Gear Score: {{N0}}"
+      ],
+      "translation": "装备评分: {{N0}}",
+      "styleMappings": {
+        "Gear Score": "装备评分"
+      }
+    },
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Defense: {{N0}}"
+      ],
+      "translation": "防御:{{N0}}",
+      "styleMappings": {
+        "Defense": "防御"
+      }
+    },
+    {
+      "source": [
+        "Crit Chance: {{N0}}"
+      ],
+      "translation": "暴击率: {{N0}}",
+      "styleMappings": {
+        "Crit Chance": "暴击率"
+      }
+    },
+    {
+      "source": [
+        "Crit Damage: {{N0}}"
+      ],
+      "translation": "暴击伤害:{{N0}}",
+      "styleMappings": {
+        "Crit Damage": "暴击伤害",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "Increase the damage you deal with",
+        "arrows by {{N0}}."
+      ],
+      "translation": "使你用箭造成的伤害提高 {{N0}}.",
+      "styleMappings": {
+        "damage": "伤害",
+        "deal": "造成"
+      }
+    },
+    {
+      "source": [
+        "Full Set Bonus: Skeleton Master ({{N0}}/{{N1}})"
+      ],
+      "translation": "全套加成: 骷髅大师 ({{N0}}/{{N1}})",
+      "styleMappings": {
+        "Full Set Bonus: Skeleton Master": "全套加成: 骷髅大师",
+        "Full Set Bonus": "全套加成",
+        "Bonus": "加成",
+        "Skeleton": "骷髅",
+        "Master": "大师"
+      }
+    },
+    {
+      "source": [
+        "This item is Undead ༕!"
+      ],
+      "translation": "该物品为亡灵 ༕!",
+      "styleMappings": {
+        "item": "物品",
+        "Undead": "亡灵"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Catacombs Skill {{N0}}."
+      ],
+      "translation": "❣ 需要地牢技能 {{N0}}.",
+      "styleMappings": {
+        "Requires": "需要",
+        "Catacombs": "地牢",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC DUNGEON BOOTS"
+      ],
+      "translation": "史诗地牢靴子",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Skeleton Master Boots": "骷髅大师靴子",
+    "Skeleton": "骷髅",
+    "Master": "大师"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1",
+  "_reviewed_revision": "2026-10-16-first-feedback"
+}

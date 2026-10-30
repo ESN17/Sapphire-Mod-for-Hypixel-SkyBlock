@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "id": "UBIKS_CUBE",
+  "_original_name": "Ubik's Cube",
+  "_original_lore": [
+    "Ability: Split or Steal  RIGHT CLICK",
+    "Click a Player or NPC to challenge",
+    "them to a game of Split or Steal.",
+    "Cooldown: 2h",
+    "",
+    "Ability: Stats  LEFT CLICK",
+    "View the Split or Steal stats of other",
+    "players and NPCs.",
+    "",
+    "LEGENDARY"
+  ],
+  "name": "乌比克魔方",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Ability: Split or Steal  RIGHT CLICK"
+      ],
+      "translation": "能力:平分或偷取  右键点击",
+      "styleMappings": {
+        "RIGHT CLICK": "右键点击",
+        "Ability": "能力",
+        "Split": "平分",
+        "Steal": "偷取",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "Click a Player or NPC to challenge",
+        "them to a game of Split or Steal."
+      ],
+      "translation": "点击一名玩家或人物,向他们发起一局平分或偷取的挑战.",
+      "styleMappings": {
+        "Player": "玩家",
+        "Split": "平分",
+        "Steal": "偷取"
+      }
+    },
+    {
+      "source": [
+        "Cooldown: {{N0}}h"
+      ],
+      "translation": "冷却:{{N0}}小时",
+      "styleMappings": {
+        "Cooldown": "冷却",
+        "{{N0}}h": "{{N0}}小时"
+      }
+    },
+    {
+      "source": [
+        "Ability: Stats  LEFT CLICK"
+      ],
+      "translation": "能力: 属性  左键点击",
+      "styleMappings": {
+        "Ability: Stats": "能力: 属性",
+        "LEFT CLICK": "左键点击",
+        "Ability": "能力",
+        "CLICK": "点击"
+      }
+    },
+    {
+      "source": [
+        "View the Split or Steal stats of other",
+        "players and NPCs."
+      ],
+      "translation": "查看其他玩家和人物的平分或偷取统计数据.",
+      "styleMappings": {
+        "Split": "平分",
+        "Steal": "偷取"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY"
+      ],
+      "translation": "传说",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

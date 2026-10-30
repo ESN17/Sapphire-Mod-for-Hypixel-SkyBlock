@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "SCARECROW",
+  "_original_name": "Scarecrow",
+  "_original_lore": [
+    "Furniture",
+    "",
+    "He might keep the birds away, but",
+    "he'll certainly look good. This",
+    "cosmetic scarecrow is a great",
+    "addition to any farm.",
+    "",
+    "COMMON"
+  ],
+  "name": "稻草人",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Furniture"
+      ],
+      "translation": "家具",
+      "styleMappings": {
+        "Furniture": "家具"
+      }
+    },
+    {
+      "source": [
+        "He might keep the birds away, but",
+        "he'll certainly look good. This",
+        "cosmetic scarecrow is a great",
+        "addition to any farm."
+      ],
+      "translation": "他也许能赶走鸟儿,但他看起来一定很帅.这个装饰性稻草人是任何农场的好点缀.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "COMMON"
+      ],
+      "translation": "普通",
+      "styleMappings": {
+        "COMMON": "普通"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Scarecrow": "稻草人"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

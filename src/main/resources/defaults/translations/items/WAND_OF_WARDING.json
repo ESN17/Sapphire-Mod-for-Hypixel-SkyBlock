@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "WAND_OF_WARDING",
+  "_original_name": "Warding Diamathame",
+  "_original_lore": [
+    "A powerful artifact ingrained with",
+    "protective properties.",
+    "",
+    "Ability: Glyph Incantation ",
+    "Activate Glyphs to imbue them with a",
+    "Warding Spell.",
+    "",
+    "RARE"
+  ],
+  "name": "守护钻石匕首",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "A powerful artifact ingrained with",
+        "protective properties."
+      ],
+      "translation": "一件蕴含防护之力的强大神器.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Ability: Glyph Incantation "
+      ],
+      "translation": "技能:符文咒语 ",
+      "styleMappings": {
+        "Ability": "技能"
+      }
+    },
+    {
+      "source": [
+        "Activate Glyphs to imbue them with a",
+        "Warding Spell."
+      ],
+      "translation": "激活符文以灌注守护法术.",
+      "styleMappings": {
+        "Activate": "激活",
+        "Glyphs": "符文",
+        "Warding Spell": "守护法术"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

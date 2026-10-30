@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "id": "INFERNO_DEMONLORD_1_BOSS",
+  "_original_name": "Inferno Demonlord I (Boss)",
+  "_original_lore": [
+    "Beginner",
+    "",
+    "Health: 2,500,000❤",
+    "Demons damage: 2,500/s",
+    "Demons health: 500,000❤",
+    "",
+    "Immolate",
+    "Passive",
+    "Deals 100 + 12% of your max ❤",
+    "as true damage every second.",
+    "",
+    "Demonsplit",
+    "At 50% HP",
+    "Splits into two powerful demons."
+  ],
+  "name": "炼狱恶魔领主 I (首领)",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Beginner"
+      ],
+      "translation": "新手",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Health: {{N0}}❤"
+      ],
+      "translation": "生命值: {{N0}}❤",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Demons damage: {{N0}}/s"
+      ],
+      "translation": "恶魔伤害: {{N0}}/秒",
+      "styleMappings": {
+        "damage": "伤害",
+        "s": "秒"
+      }
+    },
+    {
+      "source": [
+        "Demons health: {{N0}}❤"
+      ],
+      "translation": "恶魔生命值: {{N0}}❤",
+      "styleMappings": {
+        "health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Immolate"
+      ],
+      "translation": "献祭",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Passive",
+        "Deals {{N0}} + {{N1}} of your max ❤",
+        "as true damage every second."
+      ],
+      "translation": "被动 每秒对你造成你最大 ❤ 的 {{N0}} + {{N1}} 真实伤害.",
+      "styleMappings": {
+        "of your max": "最大",
+        "Passive": "被动",
+        "damage": "伤害",
+        "second": "秒",
+        "Deals": "造成",
+        "true": "真实",
+        "max": "最大"
+      }
+    },
+    {
+      "source": [
+        "Demonsplit",
+        "At {{N0}} HP",
+        "Splits into two powerful demons."
+      ],
+      "translation": "恶魔分裂 在 {{N0}} 生命值时分裂成两个强大的恶魔.",
+      "styleMappings": {
+        "Splits into two powerful demons.": "分裂成两个强大的恶魔.",
+        "Demonsplit": "恶魔分裂",
+        "HP": "生命值"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Inferno Demonlord": "炼狱恶魔领主",
+    "Boss": "首领",
+    "I": "I",
+    "Inferno": "炼狱"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

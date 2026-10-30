@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "ANCIENT_CLOAK",
+  "_original_name": "Ancient Cloak",
+  "_original_lore": [
+    "Health: +15",
+    "Mining Fortune: +10",
+    "",
+    "Health-consuming abilities deal 10%",
+    "more damage.",
+    "",
+    "Right-click to equip!",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Combat Skill 22.",
+    "EPIC CLOAK"
+  ],
+  "name": "远古斗篷",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Health: {{N0}}"
+      ],
+      "translation": "生命值:{{N0}}",
+      "styleMappings": {
+        "Health": "生命值"
+      }
+    },
+    {
+      "source": [
+        "Mining Fortune: {{N0}}"
+      ],
+      "translation": "采矿幸运: {{N0}}",
+      "styleMappings": {
+        "Mining Fortune": "采矿幸运",
+        "Mining": "采矿",
+        "Fortune": "幸运"
+      }
+    },
+    {
+      "source": [
+        "Health-consuming abilities deal {{N0}}",
+        "more damage."
+      ],
+      "translation": "消耗生命值的技能造成 {{N0}} 额外伤害.",
+      "styleMappings": {
+        "abilities": "技能",
+        "damage": "伤害",
+        "deal": "造成",
+        "more": "额外"
+      }
+    },
+    {
+      "source": [
+        "Right-click to equip!"
+      ],
+      "translation": "右键点击装备!",
+      "styleMappings": {
+        "Right-click to equip!": "右键点击装备!",
+        "Right-click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Combat Skill {{N0}}."
+      ],
+      "translation": "❣ 需要战斗技能 {{N0}}.",
+      "styleMappings": {
+        "Combat Skill": "战斗技能",
+        "Requires": "需要",
+        "Combat": "战斗",
+        "Skill": "技能"
+      }
+    },
+    {
+      "source": [
+        "EPIC CLOAK"
+      ],
+      "translation": "史诗 披风",
+      "styleMappings": {
+        "EPIC": "史诗"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Ancient": "远古"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "BERBERIS_FUEL_INJECTOR",
+  "_original_name": "Berberis Fuel Injector",
+  "_original_lore": [
+    "Minion Upgrade",
+    "",
+    "This item can be used as a minion",
+    "upgrade, only for farming minions.",
+    "",
+    "Increases the speed of your minion",
+    "by 15%.",
+    "",
+    "Your minion will occasionally",
+    "generate Lush Berberis items.",
+    "",
+    "X Rift-Transferable X",
+    "RARE"
+  ],
+  "name": "小檗燃料注入器",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Minion Upgrade"
+      ],
+      "translation": "仆从升级组件",
+      "styleMappings": {
+        "Minion Upgrade": "仆从升级",
+        "Minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "This item can be used as a minion"
+      ],
+      "translation": "此物品可作为仆从",
+      "styleMappings": {
+        "item": "物品",
+        "minion": "仆从"
+      }
+    },
+    {
+      "source": [
+        "upgrade, only for farming minions."
+      ],
+      "translation": "升级,仅适用于农业仆从.",
+      "styleMappings": {
+        "upgrade": "升级",
+        "farming": "农业",
+        "minions": "仆从"
+      }
+    },
+    {
+      "source": [
+        "Increases the speed of your minion",
+        "by {{N0}}."
+      ],
+      "translation": "使你的仆从速度提高 {{N0}}.",
+      "styleMappings": {
+        "minion": "仆从",
+        "speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Your minion will occasionally",
+        "generate Lush Berberis items."
+      ],
+      "translation": "你的仆从会偶尔生成繁茂小檗物品.",
+      "styleMappings": {
+        "Lush Berberis": "繁茂小檗",
+        "minion": "仆从",
+        "items": "物品"
+      }
+    },
+    {
+      "source": [
+        "X Rift-Transferable X"
+      ],
+      "translation": "X 可转移至裂隙 X",
+      "styleMappings": {
+        "Rift-Transferable": "可转移至裂隙",
+        "Rift": "裂隙"
+      }
+    },
+    {
+      "source": [
+        "RARE"
+      ],
+      "translation": "稀有",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Fuel": "燃料"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "GAME_BREAKER",
+  "_original_name": "Game Breaker",
+  "_original_lore": [
+    "This item was given to a player who",
+    "reported a game-breaking exploit.",
+    "What a guy!",
+    "",
+    "SPECIAL"
+  ],
+  "name": "游戏破坏者",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "This item was given to a player who",
+        "reported a game-breaking exploit."
+      ],
+      "translation": "此物品赠予了一位报告了破坏游戏漏洞的玩家.",
+      "styleMappings": {
+        "player": "玩家",
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "What a guy!"
+      ],
+      "translation": "真是个好人!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "SPECIAL"
+      ],
+      "translation": "特殊",
+      "styleMappings": {
+        "SPECIAL": "特殊"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "TURTLELLINI",
+  "_original_name": "Turtlellini",
+  "_original_lore": [
+    "Outside, it's smooth, but there's more",
+    "to it than meets the eye.",
+    "",
+    "Complete Visitor Beth's quest to",
+    "Analyze this crop!",
+    "",
+    "RARE MUTATION"
+  ],
+  "name": "龟壳意面",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Outside, it's smooth, but there's more",
+        "to it than meets the eye."
+      ],
+      "translation": "外表光滑,但内里另有玄机.",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Complete Visitor Beth's quest to",
+        "Analyze this crop!"
+      ],
+      "translation": "完成访客 Beth 的任务来分析这种作物!",
+      "styleMappings": {
+        "Visitor": "访客",
+        "Beth's": "Beth 的",
+        "Analyze": "分析"
+      }
+    },
+    {
+      "source": [
+        "RARE MUTATION"
+      ],
+      "translation": "稀有突变",
+      "styleMappings": {
+        "RARE": "稀有"
+      }
+    }
+  ],
+  "styleMappings": {},
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

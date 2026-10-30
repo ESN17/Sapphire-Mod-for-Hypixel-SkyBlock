@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "SMALL_BAIT_SACK",
+  "_original_name": "Small Bait Sack",
+  "_original_lore": [
+    "Holds various Baits for Fishing! Items",
+    "you pickup go directly into your",
+    "sacks.",
+    "",
+    "Capacity: 2,240 of each item",
+    "Multiple sacks sum their capacity!",
+    "",
+    "Right Click to open!",
+    "",
+    "UNCOMMON SACK"
+  ],
+  "name": "小型鱼饵袋",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "Holds various Baits for Fishing! Items",
+        "you pickup go directly into your",
+        "sacks."
+      ],
+      "translation": "存放各种钓鱼鱼饵!你拾取的物品会直接进入袋中.",
+      "styleMappings": {
+        "Baits": "鱼饵",
+        "Fishing": "钓鱼"
+      }
+    },
+    {
+      "source": [
+        "Capacity: {{N0}} of each item"
+      ],
+      "translation": "容量: 每种物品 {{N0}} 个",
+      "styleMappings": {
+        "Capacity": "容量",
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "Multiple sacks sum their capacity!"
+      ],
+      "translation": "多个袋子会叠加其容量!",
+      "styleMappings": {}
+    },
+    {
+      "source": [
+        "Right Click to open!"
+      ],
+      "translation": "右键点击打开!",
+      "styleMappings": {
+        "Click to open!": "点击打开!",
+        "Right Click": "右键点击"
+      }
+    },
+    {
+      "source": [
+        "UNCOMMON SACK"
+      ],
+      "translation": "罕见袋子",
+      "styleMappings": {
+        "UNCOMMON SACK": "罕见袋子",
+        "UNCOMMON": "罕见"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Bait": "鱼饵"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}

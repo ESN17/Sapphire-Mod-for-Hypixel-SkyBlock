@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "id": "SORROW_BOOTS",
+  "_original_name": "Sorrow Boots",
+  "_original_lore": [
+    "True Defense: +40",
+    "Mining Speed: +50",
+    "Mining Fortune: +20",
+    "Magic Find: +5",
+    "Gemstones: [] [] [❂]",
+    "",
+    "2-Piece Set Bonus: Mist Aura",
+    "Hides the wearer in a guise of mist,",
+    "multiplying damage from ghosts by",
+    "0.6x.",
+    "",
+    "This item can be reforged!",
+    "❣ Requires Heart of the Mountain Tier 5.",
+    "LEGENDARY BOOTS"
+  ],
+  "name": "悲恸靴子",
+  "lore": {},
+  "loreParagraphs": [
+    {
+      "source": [
+        "True Defense: {{N0}}"
+      ],
+      "translation": "真实防御: {{N0}}",
+      "styleMappings": {
+        "True Defense": "真实防御",
+        "Defense": "防御",
+        "True": "真实"
+      }
+    },
+    {
+      "source": [
+        "Mining Speed: {{N0}}"
+      ],
+      "translation": "采矿速度: {{N0}}",
+      "styleMappings": {
+        "Mining Speed": "采矿速度",
+        "Mining": "采矿",
+        "Speed": "速度"
+      }
+    },
+    {
+      "source": [
+        "Mining Fortune: {{N0}}"
+      ],
+      "translation": "采矿幸运: {{N0}}",
+      "styleMappings": {
+        "Mining Fortune": "采矿幸运",
+        "Mining": "采矿",
+        "Fortune": "幸运"
+      }
+    },
+    {
+      "source": [
+        "Magic Find: {{N0}}"
+      ],
+      "translation": "稀有物品概率加成: {{N0}}",
+      "styleMappings": {
+        "Magic Find": "稀有物品概率加成"
+      }
+    },
+    {
+      "source": [
+        "Gemstones: [] [] [❂]"
+      ],
+      "translation": "宝石: [] [] [❂]",
+      "styleMappings": {
+        "Gemstones:": "宝石:",
+        "[": "[",
+        "Gemstones": "宝石",
+        "] [": "] ["
+      }
+    },
+    {
+      "source": [
+        "{{N0}}-Piece Set Bonus: Mist Aura"
+      ],
+      "translation": "{{N0}} 件套效果: 迷雾光环",
+      "styleMappings": {
+        "-Piece Set Bonus: Mist Aura": "件套效果: 迷雾光环"
+      }
+    },
+    {
+      "source": [
+        "Hides the wearer in a guise of mist,",
+        "multiplying damage from ghosts by",
+        "{{N0}}x."
+      ],
+      "translation": "以迷雾伪装穿戴者, 对幽灵造成的伤害乘以 {{N0}}倍.",
+      "styleMappings": {
+        "Hides the wearer in a guise of mist": "以迷雾伪装穿戴者",
+        "multiplying damage from ghosts by": "对幽灵造成的伤害乘以",
+        "{{N0}}x": "{{N0}}倍",
+        "damage": "伤害",
+        "damage from": "造成的"
+      }
+    },
+    {
+      "source": [
+        "This item can be reforged!"
+      ],
+      "translation": "此物品可以洗练!",
+      "styleMappings": {
+        "item": "物品"
+      }
+    },
+    {
+      "source": [
+        "❣ Requires Heart of the Mountain Tier {{N0}}."
+      ],
+      "translation": "❣ 需要山峰之心等级 {{N0}}.",
+      "styleMappings": {
+        "Heart of the Mountain Tier": "山峰之心等级",
+        "Requires": "需要",
+        "Heart of the Mountain": "山峰之心"
+      }
+    },
+    {
+      "source": [
+        "LEGENDARY BOOTS"
+      ],
+      "translation": "传说 靴子",
+      "styleMappings": {
+        "LEGENDARY": "传说"
+      }
+    }
+  ],
+  "styleMappings": {
+    "Boots": "靴子"
+  },
+  "_translation_policy": "2026-10-16-user-standard-v1"
+}
