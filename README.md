@@ -2,7 +2,6 @@
 
 一站式 Hypixel SkyBlock 中文汉化 mod。
 
-**dev 0.0.4 · Minecraft 26.1.2 · Fabric · Java 25**  
 作者与贡献者：**ESN17_OwO**
 
 Sapphire 在客户端显示时翻译 Hypixel SkyBlock 的物品和界面文字，使用独立的本地 JSON 词典，保留颜色、数值和样式，不修改服务器发送的原始物品数据。
