@@ -77,3 +77,5 @@ chmod +x gradlew
 各组件的来源、改动与适用范围见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。CC0 不覆盖全部第三方数据；分发时须保留对应声明，并遵循各组件的许可条款。
 
 感谢 [NotEnoughUpdates-REPO](https://github.com/NotEnoughUpdates/NotEnoughUpdates-REPO)、[SkyBlockZH](https://github.com/BingKKni/SkyBlockZH) 与 [Hypixel SkyBlock Wiki](https://hypixelskyblock.minecraft.wiki/) 的贡献者。本项目不代表 Hypixel、Mojang 或上述项目。
+
+Modrinth：https://modrinth.com/mod/sapphire-cn
