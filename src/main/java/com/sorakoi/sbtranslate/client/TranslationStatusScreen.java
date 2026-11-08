@@ -22,6 +22,9 @@ public final class TranslationStatusScreen extends Screen {
         lines.add("当前环境: "+(Sapphire.CONTEXT.confirmed()?"已确认 SkyBlock":"尚未确认 SkyBlock")
             +(Sapphire.CONFIG.forceTranslation?"（已启用强制翻译）":""));
         lines.add("物品词典: "+Sapphire.TRANSLATIONS.itemCount()+" 个物品");
+        lines.add("译名库更新: "+Sapphire.dictionaryStatus());
+        lines.add("Sapphire 称号: "+(Sapphire.CONFIG.sapphireRanks?"开启":"关闭"));
+        lines.add("称号开启时，首次进入 Hypixel 会向 Sapphire 网站登记用户名；成功后不重复上传，每次登录获取公开称号名册。");
         lines.add("NPC 对话补充规则: "+counts.getOrDefault("npc",0));
         lines.add("界面标题补充规则: "+counts.getOrDefault("gui",0));
         lines.add("提示说明补充规则: "+counts.getOrDefault("tooltip",0));
@@ -34,12 +37,12 @@ public final class TranslationStatusScreen extends Screen {
         lines.add("现有译文优先于 Wiki 补充译文。词库修改后可在此重新加载。");
         int w=Math.min(520,width-24),x=(width-w)/2;
         addRenderableWidget(new FittingMultiLineTextWidget(x,34,w,Math.max(40,height-72),Component.literal(String.join("\n",lines)),font));
-        addRenderableWidget(Button.builder(Component.literal("重新加载并刷新"),b->{Sapphire.reload();rebuildWidgets();}).bounds(x,height-28,(w-8)/2,20).build());
+        addRenderableWidget(Button.builder(Component.literal("重新加载并刷新"),b->{b.active=false;b.setMessage(Component.literal("后台加载中..."));Sapphire.reloadAsync().thenAccept(result->rebuildWidgets());}).bounds(x,height-28,(w-8)/2,20).build());
         addRenderableWidget(Button.builder(Component.literal("返回"),b->onClose()).bounds(x+(w+8)/2,height-28,(w-8)/2,20).build());
     }
     @Override public void extractRenderState(GuiGraphicsExtractor g,int x,int y,float delta){
         super.extractRenderState(g,x,y,delta);g.centeredText(font,title,width/2,12,0xffffffff);
     }
-    @Override public void onClose(){minecraft.setScreen(parent);}
+    @Override public void onClose(){minecraft.gui.setScreen(parent);}
     @Override public boolean isPauseScreen(){return false;}
 }

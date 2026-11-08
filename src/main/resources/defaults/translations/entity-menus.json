@@ -1,0 +1,2126 @@
+{
+  "schemaVersion": 1,
+  "menus": [
+    {
+      "id": "creatures",
+      "titles": {
+        "Bestiary": "生物图鉴",
+        "Sea Creature Guide": "海怪图鉴",
+        "Basic Sea Creatures": "基础海怪",
+        "Bayou Sea Creatures": "河湾海怪",
+        "Lotus Sea Creatures": "莲花环礁海怪",
+        "Moonglade Marsh Sea Creatures": "月辉沼泽海怪",
+        "Torrhus Canyon Sea Creatures": "托鲁斯峡谷海怪",
+        "Crimson Isle Sea Creatures": "绯红之岛海怪",
+        "Winter Sea Creatures": "冬季海怪",
+        "Spooky Sea Creatures": "万圣节海怪",
+        "Shark Sea Creatures": "鲨鱼海怪",
+        "Hotspot Sea Creatures": "热点海怪",
+        "Special Sea Creatures": "特殊海怪",
+        "Bestiary Milestones": "图鉴里程碑",
+        "Bestiary Milestone": "图鉴里程碑",
+        "Bestiary Rewards": "图鉴奖励",
+        "Bestiary ➜ Hub": "生物图鉴 ➜ 中心岛",
+        "({page}/{total}) Bestiary ➜ Hub": "({page}/{total}) 生物图鉴 ➜ 中心岛",
+        "Fishing ➜ Hub": "钓鱼 ➜ 中心岛",
+        "({page}/{total}) Fishing ➜ Hub": "({page}/{total}) 钓鱼 ➜ 中心岛",
+        "Critter Safari ➜ Hub": "小动物观赏区 ➜ 中心岛",
+        "({page}/{total}) Critter Safari ➜ Hub": "({page}/{total}) 小动物观赏区 ➜ 中心岛",
+        "Bestiary ➜ Spider's Den": "生物图鉴 ➜ 蜘蛛巢穴",
+        "({page}/{total}) Bestiary ➜ Spider's Den": "({page}/{total}) 生物图鉴 ➜ 蜘蛛巢穴",
+        "Fishing ➜ Spider's Den": "钓鱼 ➜ 蜘蛛巢穴",
+        "({page}/{total}) Fishing ➜ Spider's Den": "({page}/{total}) 钓鱼 ➜ 蜘蛛巢穴",
+        "Critter Safari ➜ Spider's Den": "小动物观赏区 ➜ 蜘蛛巢穴",
+        "({page}/{total}) Critter Safari ➜ Spider's Den": "({page}/{total}) 小动物观赏区 ➜ 蜘蛛巢穴",
+        "Bestiary ➜ The End": "生物图鉴 ➜ 末地",
+        "({page}/{total}) Bestiary ➜ The End": "({page}/{total}) 生物图鉴 ➜ 末地",
+        "Fishing ➜ The End": "钓鱼 ➜ 末地",
+        "({page}/{total}) Fishing ➜ The End": "({page}/{total}) 钓鱼 ➜ 末地",
+        "Critter Safari ➜ The End": "小动物观赏区 ➜ 末地",
+        "({page}/{total}) Critter Safari ➜ The End": "({page}/{total}) 小动物观赏区 ➜ 末地",
+        "Bestiary ➜ Crimson Isle": "生物图鉴 ➜ 绯红之岛",
+        "({page}/{total}) Bestiary ➜ Crimson Isle": "({page}/{total}) 生物图鉴 ➜ 绯红之岛",
+        "Fishing ➜ Crimson Isle": "钓鱼 ➜ 绯红之岛",
+        "({page}/{total}) Fishing ➜ Crimson Isle": "({page}/{total}) 钓鱼 ➜ 绯红之岛",
+        "Critter Safari ➜ Crimson Isle": "小动物观赏区 ➜ 绯红之岛",
+        "({page}/{total}) Critter Safari ➜ Crimson Isle": "({page}/{total}) 小动物观赏区 ➜ 绯红之岛",
+        "Bestiary ➜ Deep Caverns": "生物图鉴 ➜ 深层矿洞",
+        "({page}/{total}) Bestiary ➜ Deep Caverns": "({page}/{total}) 生物图鉴 ➜ 深层矿洞",
+        "Fishing ➜ Deep Caverns": "钓鱼 ➜ 深层矿洞",
+        "({page}/{total}) Fishing ➜ Deep Caverns": "({page}/{total}) 钓鱼 ➜ 深层矿洞",
+        "Critter Safari ➜ Deep Caverns": "小动物观赏区 ➜ 深层矿洞",
+        "({page}/{total}) Critter Safari ➜ Deep Caverns": "({page}/{total}) 小动物观赏区 ➜ 深层矿洞",
+        "Bestiary ➜ Dwarven Mines": "生物图鉴 ➜ 矮人矿坑",
+        "({page}/{total}) Bestiary ➜ Dwarven Mines": "({page}/{total}) 生物图鉴 ➜ 矮人矿坑",
+        "Fishing ➜ Dwarven Mines": "钓鱼 ➜ 矮人矿坑",
+        "({page}/{total}) Fishing ➜ Dwarven Mines": "({page}/{total}) 钓鱼 ➜ 矮人矿坑",
+        "Critter Safari ➜ Dwarven Mines": "小动物观赏区 ➜ 矮人矿坑",
+        "({page}/{total}) Critter Safari ➜ Dwarven Mines": "({page}/{total}) 小动物观赏区 ➜ 矮人矿坑",
+        "Bestiary ➜ Crystal Hollows": "生物图鉴 ➜ 水晶洞窟",
+        "({page}/{total}) Bestiary ➜ Crystal Hollows": "({page}/{total}) 生物图鉴 ➜ 水晶洞窟",
+        "Fishing ➜ Crystal Hollows": "钓鱼 ➜ 水晶洞窟",
+        "({page}/{total}) Fishing ➜ Crystal Hollows": "({page}/{total}) 钓鱼 ➜ 水晶洞窟",
+        "Critter Safari ➜ Crystal Hollows": "小动物观赏区 ➜ 水晶洞窟",
+        "({page}/{total}) Critter Safari ➜ Crystal Hollows": "({page}/{total}) 小动物观赏区 ➜ 水晶洞窟",
+        "Bestiary ➜ The Park": "生物图鉴 ➜ 公园",
+        "({page}/{total}) Bestiary ➜ The Park": "({page}/{total}) 生物图鉴 ➜ 公园",
+        "Fishing ➜ The Park": "钓鱼 ➜ 公园",
+        "({page}/{total}) Fishing ➜ The Park": "({page}/{total}) 钓鱼 ➜ 公园",
+        "Critter Safari ➜ The Park": "小动物观赏区 ➜ 公园",
+        "({page}/{total}) Critter Safari ➜ The Park": "({page}/{total}) 小动物观赏区 ➜ 公园",
+        "Bestiary ➜ Moonglade Marsh": "生物图鉴 ➜ 月林沼泽",
+        "({page}/{total}) Bestiary ➜ Moonglade Marsh": "({page}/{total}) 生物图鉴 ➜ 月林沼泽",
+        "Fishing ➜ Moonglade Marsh": "钓鱼 ➜ 月林沼泽",
+        "({page}/{total}) Fishing ➜ Moonglade Marsh": "({page}/{total}) 钓鱼 ➜ 月林沼泽",
+        "Critter Safari ➜ Moonglade Marsh": "小动物观赏区 ➜ 月林沼泽",
+        "({page}/{total}) Critter Safari ➜ Moonglade Marsh": "({page}/{total}) 小动物观赏区 ➜ 月林沼泽",
+        "Bestiary ➜ Torrhus Canyon": "生物图鉴 ➜ 托鲁斯峡谷",
+        "({page}/{total}) Bestiary ➜ Torrhus Canyon": "({page}/{total}) 生物图鉴 ➜ 托鲁斯峡谷",
+        "Fishing ➜ Torrhus Canyon": "钓鱼 ➜ 托鲁斯峡谷",
+        "({page}/{total}) Fishing ➜ Torrhus Canyon": "({page}/{total}) 钓鱼 ➜ 托鲁斯峡谷",
+        "Critter Safari ➜ Torrhus Canyon": "小动物观赏区 ➜ 托鲁斯峡谷",
+        "({page}/{total}) Critter Safari ➜ Torrhus Canyon": "({page}/{total}) 小动物观赏区 ➜ 托鲁斯峡谷",
+        "Bestiary ➜ Lotus Atoll": "生物图鉴 ➜ 莲花环礁",
+        "({page}/{total}) Bestiary ➜ Lotus Atoll": "({page}/{total}) 生物图鉴 ➜ 莲花环礁",
+        "Fishing ➜ Lotus Atoll": "钓鱼 ➜ 莲花环礁",
+        "({page}/{total}) Fishing ➜ Lotus Atoll": "({page}/{total}) 钓鱼 ➜ 莲花环礁",
+        "Critter Safari ➜ Lotus Atoll": "小动物观赏区 ➜ 莲花环礁",
+        "({page}/{total}) Critter Safari ➜ Lotus Atoll": "({page}/{total}) 小动物观赏区 ➜ 莲花环礁",
+        "Bestiary ➜ Your Island": "生物图鉴 ➜ 你的岛屿",
+        "({page}/{total}) Bestiary ➜ Your Island": "({page}/{total}) 生物图鉴 ➜ 你的岛屿",
+        "Fishing ➜ Your Island": "钓鱼 ➜ 你的岛屿",
+        "({page}/{total}) Fishing ➜ Your Island": "({page}/{total}) 钓鱼 ➜ 你的岛屿",
+        "Critter Safari ➜ Your Island": "小动物观赏区 ➜ 你的岛屿",
+        "({page}/{total}) Critter Safari ➜ Your Island": "({page}/{total}) 小动物观赏区 ➜ 你的岛屿",
+        "Bestiary ➜ Fishing": "生物图鉴 ➜ 钓鱼",
+        "({page}/{total}) Bestiary ➜ Fishing": "({page}/{total}) 生物图鉴 ➜ 钓鱼",
+        "Fishing ➜ Fishing": "钓鱼 ➜ 钓鱼",
+        "({page}/{total}) Fishing ➜ Fishing": "({page}/{total}) 钓鱼 ➜ 钓鱼",
+        "Critter Safari ➜ Fishing": "小动物观赏区 ➜ 钓鱼",
+        "({page}/{total}) Critter Safari ➜ Fishing": "({page}/{total}) 小动物观赏区 ➜ 钓鱼",
+        "Bestiary ➜ Spooky": "生物图鉴 ➜ 万圣节",
+        "({page}/{total}) Bestiary ➜ Spooky": "({page}/{total}) 生物图鉴 ➜ 万圣节",
+        "Fishing ➜ Spooky": "钓鱼 ➜ 万圣节",
+        "({page}/{total}) Fishing ➜ Spooky": "({page}/{total}) 钓鱼 ➜ 万圣节",
+        "Critter Safari ➜ Spooky": "小动物观赏区 ➜ 万圣节",
+        "({page}/{total}) Critter Safari ➜ Spooky": "({page}/{total}) 小动物观赏区 ➜ 万圣节",
+        "Bestiary ➜ Spooky Festival": "生物图鉴 ➜ 万圣节庆典",
+        "({page}/{total}) Bestiary ➜ Spooky Festival": "({page}/{total}) 生物图鉴 ➜ 万圣节庆典",
+        "Fishing ➜ Spooky Festival": "钓鱼 ➜ 万圣节庆典",
+        "({page}/{total}) Fishing ➜ Spooky Festival": "({page}/{total}) 钓鱼 ➜ 万圣节庆典",
+        "Critter Safari ➜ Spooky Festival": "小动物观赏区 ➜ 万圣节庆典",
+        "({page}/{total}) Critter Safari ➜ Spooky Festival": "({page}/{total}) 小动物观赏区 ➜ 万圣节庆典",
+        "Bestiary ➜ Mythological Creatures": "生物图鉴 ➜ 神话生物",
+        "({page}/{total}) Bestiary ➜ Mythological Creatures": "({page}/{total}) 生物图鉴 ➜ 神话生物",
+        "Fishing ➜ Mythological Creatures": "钓鱼 ➜ 神话生物",
+        "({page}/{total}) Fishing ➜ Mythological Creatures": "({page}/{total}) 钓鱼 ➜ 神话生物",
+        "Critter Safari ➜ Mythological Creatures": "小动物观赏区 ➜ 神话生物",
+        "({page}/{total}) Critter Safari ➜ Mythological Creatures": "({page}/{total}) 小动物观赏区 ➜ 神话生物",
+        "Bestiary ➜ Jerry": "生物图鉴 ➜ Jerry",
+        "({page}/{total}) Bestiary ➜ Jerry": "({page}/{total}) 生物图鉴 ➜ Jerry",
+        "Fishing ➜ Jerry": "钓鱼 ➜ Jerry",
+        "({page}/{total}) Fishing ➜ Jerry": "({page}/{total}) 钓鱼 ➜ Jerry",
+        "Critter Safari ➜ Jerry": "小动物观赏区 ➜ Jerry",
+        "({page}/{total}) Critter Safari ➜ Jerry": "({page}/{total}) 小动物观赏区 ➜ Jerry",
+        "Bestiary ➜ Kuudra": "生物图鉴 ➜ 库德拉",
+        "({page}/{total}) Bestiary ➜ Kuudra": "({page}/{total}) 生物图鉴 ➜ 库德拉",
+        "Fishing ➜ Kuudra": "钓鱼 ➜ 库德拉",
+        "({page}/{total}) Fishing ➜ Kuudra": "({page}/{total}) 钓鱼 ➜ 库德拉",
+        "Critter Safari ➜ Kuudra": "小动物观赏区 ➜ 库德拉",
+        "({page}/{total}) Critter Safari ➜ Kuudra": "({page}/{total}) 小动物观赏区 ➜ 库德拉",
+        "Bestiary ➜ Critter Safari": "生物图鉴 ➜ 小动物观赏区",
+        "({page}/{total}) Bestiary ➜ Critter Safari": "({page}/{total}) 生物图鉴 ➜ 小动物观赏区",
+        "Fishing ➜ Critter Safari": "钓鱼 ➜ 小动物观赏区",
+        "({page}/{total}) Fishing ➜ Critter Safari": "({page}/{total}) 钓鱼 ➜ 小动物观赏区",
+        "Critter Safari ➜ Critter Safari": "小动物观赏区 ➜ 小动物观赏区",
+        "({page}/{total}) Critter Safari ➜ Critter Safari": "({page}/{total}) 小动物观赏区 ➜ 小动物观赏区",
+        "Bestiary ➜ The Catacombs": "生物图鉴 ➜ 地下墓穴",
+        "({page}/{total}) Bestiary ➜ The Catacombs": "({page}/{total}) 生物图鉴 ➜ 地下墓穴",
+        "Fishing ➜ The Catacombs": "钓鱼 ➜ 地下墓穴",
+        "({page}/{total}) Fishing ➜ The Catacombs": "({page}/{total}) 钓鱼 ➜ 地下墓穴",
+        "Critter Safari ➜ The Catacombs": "小动物观赏区 ➜ 地下墓穴",
+        "({page}/{total}) Critter Safari ➜ The Catacombs": "({page}/{total}) 小动物观赏区 ➜ 地下墓穴",
+        "Bestiary ➜ The Garden": "生物图鉴 ➜ 花园",
+        "({page}/{total}) Bestiary ➜ The Garden": "({page}/{total}) 生物图鉴 ➜ 花园",
+        "Fishing ➜ The Garden": "钓鱼 ➜ 花园",
+        "({page}/{total}) Fishing ➜ The Garden": "({page}/{total}) 钓鱼 ➜ 花园",
+        "Critter Safari ➜ The Garden": "小动物观赏区 ➜ 花园",
+        "({page}/{total}) Critter Safari ➜ The Garden": "({page}/{total}) 小动物观赏区 ➜ 花园",
+        "Bestiary ➜ {mob}": "生物图鉴 ➜ {mob}",
+        "({page}/{total}) Bestiary ➜ {mob}": "({page}/{total}) 生物图鉴 ➜ {mob}"
+      },
+      "loreParagraphs": [
+        {
+          "source": [
+            "Level {value}"
+          ],
+          "translation": "等级 {value}",
+          "styleMappings": {}
+        },
+        {
+          "source": [
+            "Click to view!"
+          ],
+          "translation": "点击查看！",
+          "styleMappings": {}
+        },
+        {
+          "source": [
+            "Click to view details!"
+          ],
+          "translation": "点击查看详情！",
+          "styleMappings": {}
+        },
+        {
+          "source": [
+            "Bestiary"
+          ],
+          "translation": "生物图鉴",
+          "styleMappings": {
+            "Bestiary": "生物图鉴"
+          }
+        },
+        {
+          "source": [
+            "Bestiary Milestones"
+          ],
+          "translation": "图鉴里程碑",
+          "styleMappings": {
+            "Bestiary Milestones": "图鉴里程碑"
+          }
+        },
+        {
+          "source": [
+            "Bestiary Milestone {roman}"
+          ],
+          "translation": "图鉴里程碑 {roman}",
+          "styleMappings": {}
+        },
+        {
+          "source": [
+            "Milestone {roman}"
+          ],
+          "translation": "里程碑 {roman}",
+          "styleMappings": {}
+        },
+        {
+          "source": [
+            "Your Bestiary"
+          ],
+          "translation": "你的生物图鉴",
+          "styleMappings": {
+            "Bestiary": "生物图鉴",
+            "Your Bestiary": "你的生物图鉴"
+          }
+        },
+        {
+          "source": [
+            "Bestiary Completion"
+          ],
+          "translation": "图鉴完成度",
+          "styleMappings": {
+            "Bestiary Completion": "图鉴完成度"
+          }
+        },
+        {
+          "source": [
+            "Families Found"
+          ],
+          "translation": "已发现种类",
+          "styleMappings": {
+            "Families Found": "已发现种类"
+          }
+        },
+        {
+          "source": [
+            "Families Completed"
+          ],
+          "translation": "已完成种类",
+          "styleMappings": {
+            "Families Completed": "已完成种类"
+          }
+        },
+        {
+          "source": [
+            "Families Unlocked"
+          ],
+          "translation": "已解锁种类",
+          "styleMappings": {
+            "Families Unlocked": "已解锁种类"
+          }
+        },
+        {
+          "source": [
+            "Family Tier"
+          ],
+          "translation": "种类等级",
+          "styleMappings": {
+            "Family Tier": "种类等级"
+          }
+        },
+        {
+          "source": [
+            "Family Tiers"
+          ],
+          "translation": "种类等级",
+          "styleMappings": {
+            "Family Tier": "种类等级",
+            "Family Tiers": "种类等级"
+          }
+        },
+        {
+          "source": [
+            "Rewards"
+          ],
+          "translation": "奖励",
+          "styleMappings": {
+            "Rewards": "奖励"
+          }
+        },
+        {
+          "source": [
+            "Drops"
+          ],
+          "translation": "掉落物",
+          "styleMappings": {
+            "Drops": "掉落物"
+          }
+        },
+        {
+          "source": [
+            "Rare Drops"
+          ],
+          "translation": "稀有掉落物",
+          "styleMappings": {
+            "Drops": "掉落物",
+            "Rare Drops": "稀有掉落物"
+          }
+        },
+        {
+          "source": [
+            "Loot"
+          ],
+          "translation": "战利品",
+          "styleMappings": {
+            "Loot": "战利品"
+          }
+        },
+        {
+          "source": [
+            "Stats"
+          ],
+          "translation": "属性",
+          "styleMappings": {
+            "Stats": "属性"
+          }
+        },
+        {
+          "source": [
+            "Variants"
+          ],
+          "translation": "变种",
+          "styleMappings": {
+            "Variants": "变种"
+          }
+        },
+        {
+          "source": [
+            "Overall Progress"
+          ],
+          "translation": "总进度",
+          "styleMappings": {
+            "Overall Progress": "总进度"
+          }
+        },
+        {
+          "source": [
+            "Overall Progress: SHOWN"
+          ],
+          "translation": "总进度: 已显示",
+          "styleMappings": {
+            "Overall Progress": "总进度",
+            "Overall Progress: SHOWN": "总进度: 已显示"
+          }
+        },
+        {
+          "source": [
+            "Overall Progress: HIDDEN"
+          ],
+          "translation": "总进度: 已隐藏",
+          "styleMappings": {
+            "Overall Progress": "总进度",
+            "Overall Progress: HIDDEN": "总进度: 已隐藏"
+          }
+        },
+        {
+          "source": [
+            "You haven't unlocked this Family yet!"
+          ],
+          "translation": "你尚未解锁这个种类!",
+          "styleMappings": {
+            "You haven't unlocked this Family yet!": "你尚未解锁这个种类!"
+          }
+        },
+        {
+          "source": [
+            "Click to view rewards!"
+          ],
+          "translation": "点击查看奖励!",
+          "styleMappings": {
+            "Click to view rewards!": "点击查看奖励!"
+          }
+        },
+        {
+          "source": [
+            "Click to claim rewards!"
+          ],
+          "translation": "点击领取奖励!",
+          "styleMappings": {
+            "Click to claim rewards!": "点击领取奖励!"
+          }
+        },
+        {
+          "source": [
+            "Click to claim!"
+          ],
+          "translation": "点击领取!",
+          "styleMappings": {
+            "Click to claim!": "点击领取!"
+          }
+        },
+        {
+          "source": [
+            "Click to view family!"
+          ],
+          "translation": "点击查看种类!",
+          "styleMappings": {
+            "Click to view family!": "点击查看种类!"
+          }
+        },
+        {
+          "source": [
+            "Click to view variants!"
+          ],
+          "translation": "点击查看变种!",
+          "styleMappings": {
+            "Click to view variants!": "点击查看变种!"
+          }
+        },
+        {
+          "source": [
+            "Click to toggle!"
+          ],
+          "translation": "点击切换!",
+          "styleMappings": {
+            "Click to toggle!": "点击切换!"
+          }
+        },
+        {
+          "source": [
+            "MAXED!"
+          ],
+          "translation": "已满级!",
+          "styleMappings": {
+            "MAXED!": "已满级!"
+          }
+        },
+        {
+          "source": [
+            "MAX!"
+          ],
+          "translation": "已满级!",
+          "styleMappings": {
+            "MAX!": "已满级!"
+          }
+        },
+        {
+          "source": [
+            "NOT DISCOVERED"
+          ],
+          "translation": "尚未发现",
+          "styleMappings": {
+            "NOT DISCOVERED": "尚未发现"
+          }
+        },
+        {
+          "source": [
+            "UNLOCKED"
+          ],
+          "translation": "已解锁",
+          "styleMappings": {
+            "UNLOCKED": "已解锁"
+          }
+        },
+        {
+          "source": [
+            "LOCKED"
+          ],
+          "translation": "未解锁",
+          "styleMappings": {
+            "LOCKED": "未解锁"
+          }
+        },
+        {
+          "source": [
+            "Progress to Tier {roman}: {value}"
+          ],
+          "translation": "升至 {roman} 级的进度: {value}",
+          "styleMappings": {}
+        },
+        {
+          "source": [
+            "Overall Progress: {value}"
+          ],
+          "translation": "总进度: {value}",
+          "styleMappings": {
+            "Overall Progress": "总进度"
+          }
+        },
+        {
+          "source": [
+            "Overall Progress: {value} (MAX!)"
+          ],
+          "translation": "总进度: {value} (已满级!)",
+          "styleMappings": {
+            "Overall Progress": "总进度",
+            "MAX!": "已满级!"
+          }
+        },
+        {
+          "source": [
+            "Families Found {count}/{total}"
+          ],
+          "translation": "已发现种类 {count}/{total}",
+          "styleMappings": {
+            "Families Found": "已发现种类"
+          }
+        },
+        {
+          "source": [
+            "Families Completed {count}/{total}"
+          ],
+          "translation": "已完成种类 {count}/{total}",
+          "styleMappings": {
+            "Families Completed": "已完成种类"
+          }
+        },
+        {
+          "source": [
+            "Families Unlocked: {count}/{total}"
+          ],
+          "translation": "已解锁种类: {count}/{total}",
+          "styleMappings": {
+            "Families Unlocked": "已解锁种类"
+          }
+        },
+        {
+          "source": [
+            "Kills: {value}"
+          ],
+          "translation": "击杀数: {value}",
+          "styleMappings": {}
+        },
+        {
+          "source": [
+            "Deaths: {value}"
+          ],
+          "translation": "死亡次数: {value}",
+          "styleMappings": {}
+        },
+        {
+          "source": [
+            "Kills to Next Tier: {value}"
+          ],
+          "translation": "升至下一级还需击杀: {value}",
+          "styleMappings": {}
+        },
+        {
+          "source": [
+            "Total Kills: {value}"
+          ],
+          "translation": "总击杀数: {value}",
+          "styleMappings": {}
+        },
+        {
+          "source": [
+            "Next Tier: {roman}"
+          ],
+          "translation": "下一级: {roman}",
+          "styleMappings": {}
+        },
+        {
+          "source": [
+            "Tier {roman}"
+          ],
+          "translation": "等级 {roman}",
+          "styleMappings": {}
+        },
+        {
+          "source": [
+            "Bestiary Level: {level}"
+          ],
+          "translation": "图鉴等级: {level}",
+          "styleMappings": {}
+        },
+        {
+          "source": [
+            "Total Families: {count}"
+          ],
+          "translation": "种类总数: {count}",
+          "styleMappings": {}
+        },
+        {
+          "source": [
+            "SkyBlock XP: {value}"
+          ],
+          "translation": "空岛经验: {value}",
+          "styleMappings": {
+            "SkyBlock XP": "空岛经验"
+          }
+        },
+        {
+          "source": [
+            "{value} Combat XP"
+          ],
+          "translation": "{value} 战斗经验",
+          "styleMappings": {
+            "Combat XP": "战斗经验"
+          }
+        },
+        {
+          "source": [
+            "{value} SkyBlock XP"
+          ],
+          "translation": "{value} 空岛经验",
+          "styleMappings": {
+            "SkyBlock XP": "空岛经验"
+          }
+        },
+        {
+          "source": [
+            "{value} coins"
+          ],
+          "translation": "{value} 硬币",
+          "styleMappings": {}
+        },
+        {
+          "source": [
+            "Strength"
+          ],
+          "translation": "力量",
+          "styleMappings": {
+            "Strength": "力量"
+          }
+        },
+        {
+          "source": [
+            "Magic Find"
+          ],
+          "translation": "稀有物品概率加成",
+          "styleMappings": {
+            "Magic Find": "稀有物品概率加成"
+          }
+        },
+        {
+          "source": [
+            "Coins"
+          ],
+          "translation": "硬币",
+          "styleMappings": {
+            "Coins": "硬币"
+          }
+        },
+        {
+          "source": [
+            "Experience Orbs"
+          ],
+          "translation": "经验球",
+          "styleMappings": {
+            "Experience Orbs": "经验球"
+          }
+        },
+        {
+          "source": [
+            "Health"
+          ],
+          "translation": "生命值",
+          "styleMappings": {
+            "Health": "生命值"
+          }
+        },
+        {
+          "source": [
+            "Combat XP"
+          ],
+          "translation": "战斗经验",
+          "styleMappings": {
+            "Combat XP": "战斗经验"
+          }
+        },
+        {
+          "source": [
+            "SkyBlock XP"
+          ],
+          "translation": "空岛经验",
+          "styleMappings": {
+            "SkyBlock XP": "空岛经验"
+          }
+        },
+        {
+          "source": [
+            "\"Fell\" into Jerry's Pond."
+          ],
+          "translation": "「不小心」掉进了 Jerry 的池塘。",
+          "styleMappings": {},
+          "sourceAttribution": {
+            "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
+            "sourceId": "sbest_flavor_frozen_steve"
+          }
+        },
+        {
+          "source": [
+            "+{{N0}}  Magic Find"
+          ],
+          "translation": "+{{N0}}  稀有物品概率加成",
+          "styleMappings": {
+            "+": "+",
+            "{{N0}}  Magic Find": "{{N0}}  稀有物品概率加成"
+          },
+          "sourceAttribution": {
+            "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
+            "sourceId": "sbest_bonus_mf"
+          }
+        },
+        {
+          "source": [
+            "+{{N0}}% chance for +{{N1}} XP orbs"
+          ],
+          "translation": "+{{N0}}% 概率获得 +{{N1}} 经验",
+          "styleMappings": {
+            "+": "+",
+            "{{N0}}%": "{{N0}}%",
+            "chance for": "概率获得",
+            "+{{N1}}": "+{{N1}}",
+            "XP orbs": "经验"
+          },
+          "sourceAttribution": {
+            "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
+            "sourceId": "sbest_bonus_orbs"
+          }
+        },
+        {
+          "source": [
+            "+{{N0}}% chance for extra XP orbs"
+          ],
+          "translation": "+{{N0}}% 概率获得额外经验",
+          "styleMappings": {
+            "+": "+",
+            "{{N0}}%": "{{N0}}%",
+            "chance for extra XP orbs": "概率获得额外经验"
+          },
+          "sourceAttribution": {
+            "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
+            "sourceId": "sbest_reward_extra_orbs"
+          }
+        },
+        {
+          "source": [
+            "+{{N0}}% coin gain"
+          ],
+          "translation": "+{{N0}}% 硬币收益",
+          "styleMappings": {
+            "+": "+",
+            "{{N0}}%": "{{N0}}%",
+            "coin gain": "硬币收益"
+          },
+          "sourceAttribution": {
+            "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
+            "sourceId": "sbest_bonus_coins"
+          }
+        },
+        {
+          "source": [
+            "A test subject to see if a sheep shrinks when it dries."
+          ],
+          "translation": "用来测试绵羊晒干后会不会缩水的实验品。",
+          "styleMappings": {},
+          "sourceAttribution": {
+            "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
+            "sourceId": "sbest_flavor_sheep_1"
+          }
+        },
+        {
+          "source": [
+            "Click to open Bestiary Milestones!"
+          ],
+          "translation": "点击打开生物图鉴里程碑!",
+          "styleMappings": {},
+          "sourceAttribution": {
+            "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
+            "sourceId": "sbest_click_milestones"
+          }
+        },
+        {
+          "source": [
+            "Click to toggle visibility!"
+          ],
+          "translation": "点击切换显示!",
+          "styleMappings": {},
+          "sourceAttribution": {
+            "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
+            "sourceId": "sbest_click_toggle_visibility"
+          }
+        },
+        {
+          "source": [
+            "Coins per Kill: {{N0}}"
+          ],
+          "translation": "每次击杀硬币: {{N0}}",
+          "styleMappings": {
+            "Coins per Kill:": "每次击杀硬币:",
+            "{{N0}}": "{{N0}}"
+          },
+          "sourceAttribution": {
+            "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
+            "sourceId": "sbest_coins_per_kill"
+          }
+        },
+        {
+          "source": [
+            "Everybody was dumpster divin'!"
+          ],
+          "translation": "大家都在翻垃圾桶!",
+          "styleMappings": {},
+          "sourceAttribution": {
+            "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
+            "sourceId": "sbest_flavor_diver"
+          }
+        },
+        {
+          "source": [
+            "Fishing Exp: {{N0}}"
+          ],
+          "translation": "钓鱼经验: {{N0}}",
+          "styleMappings": {
+            "Fishing Exp:": "钓鱼经验:",
+            "{{N0}}": "{{N0}}"
+          },
+          "sourceAttribution": {
+            "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
+            "sourceId": "sbest_fishing_exp"
+          }
+        },
+        {
+          "source": [
+            "He’s just happy to see ya."
+          ],
+          "translation": "他只是见到你很开心。",
+          "styleMappings": {},
+          "sourceAttribution": {
+            "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
+            "sourceId": "sbest_flavor_jack"
+          }
+        },
+        {
+          "source": [
+            "How the Grinch Stole Jerry Season."
+          ],
+          "translation": "格林奇是如何偷走 Jerry 季的。",
+          "styleMappings": {},
+          "sourceAttribution": {
+            "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
+            "sourceId": "sbest_flavor_grinch"
+          }
+        },
+        {
+          "source": [
+            "Just because he has thick skin doesn't mean he doesn't get sad sometimes."
+          ],
+          "translation": "皮厚不代表他就不会偶尔伤心。",
+          "styleMappings": {},
+          "sourceAttribution": {
+            "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
+            "sourceId": "sbest_flavor_alligator_1"
+          }
+        },
+        {
+          "source": [
+            "Kills: {{N0}}"
+          ],
+          "translation": "击杀数: {{N0}}",
+          "styleMappings": {
+            "Kills:": "击杀数:",
+            "{{N0}}": "{{N0}}"
+          },
+          "sourceAttribution": {
+            "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
+            "sourceId": "sbest_kills"
+          }
+        },
+        {
+          "source": [
+            "Loading rankings..."
+          ],
+          "translation": "正在加载排名……",
+          "styleMappings": {},
+          "sourceAttribution": {
+            "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
+            "sourceId": "sbest_loading_rankings"
+          }
+        },
+        {
+          "source": [
+            "Milestone Bonus"
+          ],
+          "translation": "里程碑加成",
+          "styleMappings": {},
+          "sourceAttribution": {
+            "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
+            "sourceId": "sbest_milestone_bonus"
+          }
+        },
+        {
+          "source": [
+            "Mob Stats:"
+          ],
+          "translation": "生物属性:",
+          "styleMappings": {},
+          "sourceAttribution": {
+            "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
+            "sourceId": "sbest_mob_stats"
+          }
+        },
+        {
+          "source": [
+            "Rankings may take some time to update."
+          ],
+          "translation": "排名可能需要一些时间才会更新。",
+          "styleMappings": {},
+          "sourceAttribution": {
+            "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
+            "sourceId": "sbest_rankings_delay_1"
+          }
+        },
+        {
+          "source": [
+            "Reach new Milestones in your Bestiary by unlocking unique Family tiers."
+          ],
+          "translation": "解锁不同族群的阶级,在生物图鉴中达成新的里程碑。",
+          "styleMappings": {
+            "Reach new": "解锁不同族群的阶级,在生物图鉴中达成新的",
+            "Milestones": "里程碑",
+            "in your": "。"
+          },
+          "sourceAttribution": {
+            "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
+            "sourceId": "sbest_milestone_desc_1"
+          }
+        },
+        {
+          "source": [
+            "Scream, scream, let it all out!"
+          ],
+          "translation": "尖叫吧,尖叫吧,把一切都喊出来!",
+          "styleMappings": {},
+          "sourceAttribution": {
+            "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
+            "sourceId": "sbest_flavor_banshee"
+          }
+        },
+        {
+          "source": [
+            "Swampy swampy swamp."
+          ],
+          "translation": "湿哒哒的沼泽。",
+          "styleMappings": {},
+          "sourceAttribution": {
+            "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
+            "sourceId": "sbest_flavor_sludge"
+          }
+        },
+        {
+          "source": [
+            "Toggle Families Completed Display"
+          ],
+          "translation": "切换已完成族群显示",
+          "styleMappings": {},
+          "sourceAttribution": {
+            "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
+            "sourceId": "sbest_toggle_families"
+          }
+        },
+        {
+          "source": [
+            "Toggle the families completed display for each Bestiary Family."
+          ],
+          "translation": "切换每个生物图鉴族群的「已完成」显示。",
+          "styleMappings": {},
+          "sourceAttribution": {
+            "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
+            "sourceId": "sbest_toggle_families_desc_1"
+          }
+        },
+        {
+          "source": [
+            "Total Tiers Unlocked: {{N0}}"
+          ],
+          "translation": "已解锁阶级总数: {{N0}}",
+          "styleMappings": {
+            "Total Tiers Unlocked:": "已解锁阶级总数:",
+            "{{N0}}": "{{N0}}"
+          },
+          "sourceAttribution": {
+            "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
+            "sourceId": "sbest_total_tiers"
+          }
+        },
+        {
+          "source": [
+            "XP Orbs: {{N0}}"
+          ],
+          "translation": "经验球: {{N0}}",
+          "styleMappings": {
+            "XP Orbs:": "经验球:",
+            "{{N0}}": "{{N0}}"
+          },
+          "sourceAttribution": {
+            "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
+            "sourceId": "sbest_xp_orbs"
+          }
+        },
+        {
+          "source": [
+            "You gotta be squiddin' me!"
+          ],
+          "translation": "你在逗我(鱿)吧!",
+          "styleMappings": {},
+          "sourceAttribution": {
+            "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
+            "sourceId": "sbest_flavor_inkling"
+          }
+        },
+        {
+          "source": [
+            "You'd think it'd make a normal frog sound, but it actually just says 'Ribbit' out loud."
+          ],
+          "translation": "你以为它会发出正常的蛙叫,其实它只是大声念出「呱」。",
+          "styleMappings": {},
+          "sourceAttribution": {
+            "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
+            "sourceId": "sbest_flavor_frogman_1"
+          }
+        },
+        {
+          "source": [
+            "Yummers!"
+          ],
+          "translation": "真香!",
+          "styleMappings": {},
+          "sourceAttribution": {
+            "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
+            "sourceId": "sbest_flavor_gobbler"
+          }
+        },
+        {
+          "source": [
+            "Spider\\'s Den"
+          ],
+          "translation": "蜘蛛巢穴",
+          "styleMappings": {},
+          "sourceAttribution": {
+            "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+            "sourceId": "d2c9471558d918f64c878fc0",
+            "sourceRevision": 819514,
+            "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
+            "license": "CC BY-NC-SA 3.0"
+          }
+        },
+        {
+          "source": [
+            "Torrhus Canyon"
+          ],
+          "translation": "托鲁斯峡谷",
+          "styleMappings": {},
+          "sourceAttribution": {
+            "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+            "sourceId": "c94f240d862645f88519e200",
+            "sourceRevision": 819514,
+            "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
+            "license": "CC BY-NC-SA 3.0"
+          }
+        },
+        {
+          "source": [
+            "Critter Safari"
+          ],
+          "translation": "小兽狩猎区",
+          "styleMappings": {},
+          "sourceAttribution": {
+            "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+            "sourceId": "c4b654b38ffe2a608570bbb3",
+            "sourceRevision": 819514,
+            "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
+            "license": "CC BY-NC-SA 3.0"
+          }
+        },
+        {
+          "source": [
+            "Mythological Creatures"
+          ],
+          "translation": "神话生物",
+          "styleMappings": {
+            "Mythological Creatures": "神话生物"
+          },
+          "sourceAttribution": {
+            "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+            "sourceId": "9fa42f63bacfefc2b2ae9fb2",
+            "sourceRevision": 819514,
+            "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
+            "license": "CC BY-NC-SA 3.0"
+          }
+        },
+        {
+          "source": [
+            "Jerry"
+          ],
+          "translation": "杰瑞",
+          "styleMappings": {},
+          "sourceAttribution": {
+            "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+            "sourceId": "2a6d6133fd0d409a70fb5031",
+            "sourceRevision": 819514,
+            "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
+            "license": "CC BY-NC-SA 3.0"
+          }
+        },
+        {
+          "source": [
+            "Search Bestiary"
+          ],
+          "translation": "搜索图鉴",
+          "styleMappings": {
+            "Search Bestiary": "搜索图鉴"
+          },
+          "sourceAttribution": {
+            "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+            "sourceId": "22efe92b0bbb39c01dd6fb8b",
+            "sourceRevision": 819514,
+            "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
+            "license": "CC BY-NC-SA 3.0"
+          }
+        },
+        {
+          "source": [
+            "Bestiary Milestone I"
+          ],
+          "translation": "图鉴里程碑 I",
+          "styleMappings": {
+            "Bestiary Milestone I": "图鉴里程碑 I"
+          },
+          "sourceAttribution": {
+            "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+            "sourceId": "933a7f13357ddc5c9fca7218",
+            "sourceRevision": 819514,
+            "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
+            "license": "CC BY-NC-SA 3.0"
+          }
+        },
+        {
+          "source": [
+            "Bat"
+          ],
+          "translation": "蝙蝠",
+          "styleMappings": {},
+          "sourceAttribution": {
+            "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+            "sourceId": "47e715da8fa729161b648c25",
+            "sourceRevision": 819514,
+            "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
+            "license": "CC BY-NC-SA 3.0"
+          }
+        },
+        {
+          "source": [
+            "Creeper"
+          ],
+          "translation": "苦力怕",
+          "styleMappings": {
+            "Creeper": "苦力怕"
+          },
+          "sourceAttribution": {
+            "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+            "sourceId": "bc3623d9b6b1963f516958cb",
+            "sourceRevision": 819514,
+            "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
+            "license": "CC BY-NC-SA 3.0"
+          }
+        },
+        {
+          "source": [
+            "Enderman"
+          ],
+          "translation": "末影人",
+          "styleMappings": {},
+          "sourceAttribution": {
+            "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+            "sourceId": "704da9d9d3efe0499497677e",
+            "sourceRevision": 819514,
+            "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
+            "license": "CC BY-NC-SA 3.0"
+          }
+        },
+        {
+          "source": [
+            "Spider"
+          ],
+          "translation": "蜘蛛",
+          "styleMappings": {},
+          "sourceAttribution": {
+            "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+            "sourceId": "5eef19c9bfd2aee351dc8a29",
+            "sourceRevision": 819514,
+            "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
+            "license": "CC BY-NC-SA 3.0"
+          }
+        },
+        {
+          "source": [
+            "Witch"
+          ],
+          "translation": "女巫",
+          "styleMappings": {},
+          "sourceAttribution": {
+            "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+            "sourceId": "c9fef3a8a59c9d552c8c1f31",
+            "sourceRevision": 819514,
+            "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
+            "license": "CC BY-NC-SA 3.0"
+          }
+        },
+        {
+          "source": [
+            "Bestiary Milestone XIX"
+          ],
+          "translation": "怪物图鉴里程碑 XIX",
+          "styleMappings": {
+            "Bestiary Milestone XIX": "怪物图鉴里程碑 XIX"
+          },
+          "sourceAttribution": {
+            "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+            "sourceId": "9971d706bdc9da98feec430e",
+            "sourceRevision": 819514,
+            "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
+            "license": "CC BY-NC-SA 3.0"
+          }
+        },
+        {
+          "source": [
+            "Crypt Ghoul"
+          ],
+          "translation": "地穴食尸鬼",
+          "styleMappings": {
+            "Crypt Ghoul": "地穴食尸鬼"
+          },
+          "sourceAttribution": {
+            "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+            "sourceId": "bf1982d296bee436c36551e5",
+            "sourceRevision": 819514,
+            "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
+            "license": "CC BY-NC-SA 3.0"
+          }
+        },
+        {
+          "source": [
+            "Graveyard Zombie"
+          ],
+          "translation": "墓园僵尸",
+          "styleMappings": {
+            "Graveyard Zombie": "墓园僵尸"
+          },
+          "sourceAttribution": {
+            "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+            "sourceId": "f35b19dc8bb13f77a97a2ecb",
+            "sourceRevision": 819514,
+            "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
+            "license": "CC BY-NC-SA 3.0"
+          }
+        },
+        {
+          "source": [
+            "Old Wolf"
+          ],
+          "translation": "老狼",
+          "styleMappings": {
+            "Old Wolf": "老狼"
+          },
+          "sourceAttribution": {
+            "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+            "sourceId": "6d4b14d06c66a233c701d2f8",
+            "sourceRevision": 819514,
+            "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
+            "license": "CC BY-NC-SA 3.0"
+          }
+        },
+        {
+          "source": [
+            "Wolf"
+          ],
+          "translation": "狼",
+          "styleMappings": {},
+          "sourceAttribution": {
+            "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+            "sourceId": "aba51a52f2955bba4637caac",
+            "sourceRevision": 819514,
+            "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
+            "license": "CC BY-NC-SA 3.0"
+          }
+        },
+        {
+          "source": [
+            "Zombie Villager"
+          ],
+          "translation": "僵尸村民",
+          "styleMappings": {
+            "Zombie Villager": "僵尸村民"
+          },
+          "sourceAttribution": {
+            "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+            "sourceId": "149cea65f5f17595e6f15a1f",
+            "sourceRevision": 819514,
+            "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
+            "license": "CC BY-NC-SA 3.0"
+          }
+        },
+        {
+          "source": [
+            "Families Found: {{N0}} -------------------- {{N1}}/{{N2}}"
+          ],
+          "translation": "已发现科：{{N0}} -------------------- {{N1}}/{{N2}}",
+          "styleMappings": {
+            "Families Found:": "已发现科："
+          },
+          "sourceAttribution": {
+            "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+            "sourceId": "28f0a5e9146a582db8e54edd",
+            "sourceRevision": 819514,
+            "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
+            "license": "CC BY-NC-SA 3.0"
+          }
+        },
+        {
+          "source": [
+            "Families Completed: {{N0}} -------------------- {{N1}}/{{N2}}"
+          ],
+          "translation": "已完成科：{{N0}} -------------------- {{N1}}/{{N2}}",
+          "styleMappings": {
+            "Families Completed:": "已完成科："
+          },
+          "sourceAttribution": {
+            "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+            "sourceId": "dbe4fd26336995d010e6ce5e",
+            "sourceRevision": 819514,
+            "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
+            "license": "CC BY-NC-SA 3.0"
+          }
+        },
+        {
+          "source": [
+            "View all of the mobs that you\\'ve found and killed on Your Island."
+          ],
+          "translation": "查看你在你的岛屿上发现并击杀的所有生物。",
+          "styleMappings": {
+            "Your Island": "你的岛屿"
+          },
+          "sourceAttribution": {
+            "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+            "sourceId": "da44374c3eedcb979f34a9c5",
+            "sourceRevision": 819514,
+            "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
+            "license": "CC BY-NC-SA 3.0"
+          }
+        },
+        {
+          "source": [
+            "View all of the mobs that you\\'ve found and killed in the Hub."
+          ],
+          "translation": "查看你在中心岛发现并击杀的所有生物。",
+          "styleMappings": {
+            "Hub": "中心岛"
+          },
+          "sourceAttribution": {
+            "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+            "sourceId": "e94bf3b9ef23e6a631df0cab",
+            "sourceRevision": 819514,
+            "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
+            "license": "CC BY-NC-SA 3.0"
+          }
+        },
+        {
+          "source": [
+            "View all of the mobs that you\\'ve found and killed in the The Farming Islands."
+          ],
+          "translation": "查看你在农耕岛发现并击杀的所有生物。",
+          "styleMappings": {
+            "The Farming Islands": "农耕岛"
+          },
+          "sourceAttribution": {
+            "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+            "sourceId": "8ffda5b291cdc9f141f3a0f2",
+            "sourceRevision": 819514,
+            "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
+            "license": "CC BY-NC-SA 3.0"
+          }
+        },
+        {
+          "source": [
+            "View all of the Pests that you\\'ve killed on The Garden."
+          ],
+          "translation": "查看你在花园击杀的所有害虫.",
+          "styleMappings": {
+            "Pests": "害虫",
+            "The Garden": "花园"
+          },
+          "sourceAttribution": {
+            "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+            "sourceId": "e0acf85163bc76d2a5aadc03",
+            "sourceRevision": 819514,
+            "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
+            "license": "CC BY-NC-SA 3.0"
+          }
+        },
+        {
+          "source": [
+            "View all of the mobs that you\\'ve found and killed in the Spider\\'s Den."
+          ],
+          "translation": "查看你在蜘蛛巢穴发现并击杀的所有生物.",
+          "styleMappings": {
+            "View all of the mobs that you\\'ve found and killed in the": "查看你在",
+            "Spider\\'s Den": "蜘蛛巢穴",
+            ".": "发现并击杀的所有生物."
+          },
+          "sourceAttribution": {
+            "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+            "sourceId": "48ab765c2ce76d5047905c17",
+            "sourceRevision": 819514,
+            "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
+            "license": "CC BY-NC-SA 3.0"
+          }
+        },
+        {
+          "source": [
+            "View all of the mobs that you\\'ve found and killed in The End."
+          ],
+          "translation": "查看你在末地发现并击杀的所有生物。",
+          "styleMappings": {
+            "The End": "末地"
+          },
+          "sourceAttribution": {
+            "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+            "sourceId": "bc40c8d99f605010f55e5d0f",
+            "sourceRevision": 819514,
+            "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
+            "license": "CC BY-NC-SA 3.0"
+          }
+        },
+        {
+          "source": [
+            "View all of the mobs that you\\'ve found and killed in the Crimson Isle."
+          ],
+          "translation": "查看你在绯红之岛发现并击杀的所有生物。",
+          "styleMappings": {
+            "Crimson Isle": "绯红之岛"
+          },
+          "sourceAttribution": {
+            "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+            "sourceId": "fd54e324a6eb93a2adc16d66",
+            "sourceRevision": 819514,
+            "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
+            "license": "CC BY-NC-SA 3.0"
+          }
+        },
+        {
+          "source": [
+            "View all of the mobs that you\\'ve found and killed in Deep Caverns."
+          ],
+          "translation": "查看你在深层矿洞发现并击杀的所有生物。",
+          "styleMappings": {
+            "Deep Caverns": "深层矿洞"
+          },
+          "sourceAttribution": {
+            "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+            "sourceId": "9436188a6e9baedff5d256ed",
+            "sourceRevision": 819514,
+            "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
+            "license": "CC BY-NC-SA 3.0"
+          }
+        },
+        {
+          "source": [
+            "View all of the mobs that you\\'ve found and killed in the Dwarven Mines."
+          ],
+          "translation": "查看你在矮人矿坑发现并击杀的所有生物。",
+          "styleMappings": {
+            "Dwarven Mines": "矮人矿坑"
+          },
+          "sourceAttribution": {
+            "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+            "sourceId": "11b7f84a34eedbc151bac38c",
+            "sourceRevision": 819514,
+            "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
+            "license": "CC BY-NC-SA 3.0"
+          }
+        },
+        {
+          "source": [
+            "View all of the mobs that you\\'ve found and killed in the Crystal Hollows."
+          ],
+          "translation": "查看你在水晶洞窟发现并击杀的所有生物。",
+          "styleMappings": {
+            "Crystal Hollows": "水晶洞窟"
+          },
+          "sourceAttribution": {
+            "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+            "sourceId": "98902ca742ed748ef15eeb15",
+            "sourceRevision": 819514,
+            "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
+            "license": "CC BY-NC-SA 3.0"
+          }
+        },
+        {
+          "source": [
+            "View all of the mobs that you\\'ve found and killed in The Park."
+          ],
+          "translation": "查看你在公园发现并击杀的所有生物。",
+          "styleMappings": {
+            "The Park": "公园"
+          },
+          "sourceAttribution": {
+            "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+            "sourceId": "2ce4159bc9a8a6392433c9b4",
+            "sourceRevision": 819514,
+            "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
+            "license": "CC BY-NC-SA 3.0"
+          }
+        },
+        {
+          "source": [
+            "View all of the mobs that you\\'ve found and killed in Galatea."
+          ],
+          "translation": "查看你在加拉蒂亚发现并击杀的所有生物。",
+          "styleMappings": {
+            "Galatea": "加拉蒂亚"
+          },
+          "sourceAttribution": {
+            "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+            "sourceId": "1f6e466a30a4e9c74b3dd6ab",
+            "sourceRevision": 819514,
+            "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
+            "license": "CC BY-NC-SA 3.0"
+          }
+        },
+        {
+          "source": [
+            "View all of the mobs that you\\'ve found and killed in Torrhus Canyon."
+          ],
+          "translation": "查看你在Torrhus Canyon发现并击杀的所有生物。",
+          "styleMappings": {},
+          "sourceAttribution": {
+            "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+            "sourceId": "102ae542177ff4c7f7a371c4",
+            "sourceRevision": 819514,
+            "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
+            "license": "CC BY-NC-SA 3.0"
+          }
+        },
+        {
+          "source": [
+            "View all of the mobs that you\\'ve found and killed in Critter Safari."
+          ],
+          "translation": "查看你在小兽狩猎区中发现并击杀的所有生物。",
+          "styleMappings": {
+            "Critter Safari": "小兽狩猎区"
+          },
+          "sourceAttribution": {
+            "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+            "sourceId": "ed9fc1547d9c324776608da2",
+            "sourceRevision": 819514,
+            "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
+            "license": "CC BY-NC-SA 3.0"
+          }
+        },
+        {
+          "source": [
+            "View all of the mobs that you\\'ve found and killed during the Spooky Festival."
+          ],
+          "translation": "查看你在幽灵节期间发现并击杀的所有生物。",
+          "styleMappings": {
+            "Spooky Festival": "幽灵节"
+          },
+          "sourceAttribution": {
+            "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+            "sourceId": "1e0023928d3179e462199537",
+            "sourceRevision": 819514,
+            "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
+            "license": "CC BY-NC-SA 3.0"
+          }
+        },
+        {
+          "source": [
+            "View all of the mobs that you\\'ve found and killed in The Catacombs."
+          ],
+          "translation": "查看你在地牢中发现并击杀的所有生物。",
+          "styleMappings": {
+            "The Catacombs": "地牢"
+          },
+          "sourceAttribution": {
+            "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+            "sourceId": "84c77982ee571f11dd944090",
+            "sourceRevision": 819514,
+            "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
+            "license": "CC BY-NC-SA 3.0"
+          }
+        },
+        {
+          "source": [
+            "View all of the Sea Creatures that you\\'ve killed while fishing."
+          ],
+          "translation": "查看你在钓鱼时击杀的所有海生物。",
+          "styleMappings": {
+            "Sea Creatures": "海生物"
+          },
+          "sourceAttribution": {
+            "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+            "sourceId": "587cb3ff1cad44b9ae9bdc3b",
+            "sourceRevision": 819514,
+            "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
+            "license": "CC BY-NC-SA 3.0"
+          }
+        },
+        {
+          "source": [
+            "View all of the Mythological Creatures that you\\'ve killed."
+          ],
+          "translation": "查看你击杀的所有神话生物.",
+          "styleMappings": {
+            "Mythological": "神话",
+            "Creatures": "生物"
+          },
+          "sourceAttribution": {
+            "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+            "sourceId": "927b77a54addcb3d34d11147",
+            "sourceRevision": 819514,
+            "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
+            "license": "CC BY-NC-SA 3.0"
+          }
+        },
+        {
+          "source": [
+            "View all of the mobs that you\\'ve found and killed while fighting Jerry."
+          ],
+          "translation": "查看你在与 Jerry 战斗时发现并击杀的所有生物。",
+          "styleMappings": {},
+          "sourceAttribution": {
+            "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+            "sourceId": "e2200b07c8d7ef4d663725ff",
+            "sourceRevision": 819514,
+            "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
+            "license": "CC BY-NC-SA 3.0"
+          }
+        },
+        {
+          "source": [
+            "View all of the mobs that you\\'ve found and killed while fighting Kuudra."
+          ],
+          "translation": "查看你在与库德拉战斗时发现并击杀的所有生物。",
+          "styleMappings": {
+            "Kuudra": "库德拉"
+          },
+          "sourceAttribution": {
+            "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+            "sourceId": "86086cd10c5c38f07d9e434c",
+            "sourceRevision": 819514,
+            "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
+            "license": "CC BY-NC-SA 3.0"
+          }
+        },
+        {
+          "source": [
+            "View all of the mobs that you\\'ve found and killed on the Lotus Atoll."
+          ],
+          "translation": "查看你在Lotus Atoll上发现并击杀的所有生物。",
+          "styleMappings": {},
+          "sourceAttribution": {
+            "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+            "sourceId": "4f177b24919a1ecc81b9c175",
+            "sourceRevision": 819514,
+            "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
+            "license": "CC BY-NC-SA 3.0"
+          }
+        },
+        {
+          "source": [
+            "Search through all of the mobs in the Bestiary."
+          ],
+          "translation": "搜索图鉴中的所有生物。",
+          "styleMappings": {},
+          "sourceAttribution": {
+            "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+            "sourceId": "a5be6392cb5776b78cc54654",
+            "sourceRevision": 819514,
+            "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
+            "license": "CC BY-NC-SA 3.0"
+          }
+        },
+        {
+          "source": [
+            "Milestone Bonus +# ❤ Health"
+          ],
+          "translation": "里程碑奖励 +# ❤ 生命值",
+          "styleMappings": {
+            "Milestone Bonus": "里程碑奖励",
+            "Health": "生命值"
+          },
+          "sourceAttribution": {
+            "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+            "sourceId": "9f1baa24227eca1e503fafa6",
+            "sourceRevision": 819514,
+            "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
+            "license": "CC BY-NC-SA 3.0"
+          }
+        },
+        {
+          "source": [
+            "Total Tiers Unlocked: #"
+          ],
+          "translation": "已解锁总层级：#",
+          "styleMappings": {},
+          "sourceAttribution": {
+            "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+            "sourceId": "28ba395e90a22ecac4372859",
+            "sourceRevision": 819514,
+            "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
+            "license": "CC BY-NC-SA 3.0"
+          }
+        },
+        {
+          "source": [
+            "Progress to Milestone #: {{N0}} -------------------- {{N1}}/{{N2}}"
+          ],
+          "translation": "里程碑 # 进度：{{N0}} -------------------- {{N1}}/{{N2}}",
+          "styleMappings": {},
+          "sourceAttribution": {
+            "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+            "sourceId": "fb27ec0e9c279169cb6845ba",
+            "sourceRevision": 819514,
+            "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
+            "license": "CC BY-NC-SA 3.0"
+          }
+        },
+        {
+          "source": [
+            "Milestone # Rewards +# ❤ Health {{N0}} SkyBlock XP +# Combat Experience"
+          ],
+          "translation": "里程碑 # 奖励 +# ❤ 生命值 {{N0}} SkyBlock 经验 +# 战斗经验",
+          "styleMappings": {
+            "Milestone # Rewards": "里程碑 # 奖励",
+            "#": "#",
+            "❤ Health": "❤ 生命值",
+            "SkyBlock XP": "SkyBlock 经验",
+            "Combat Experience": "战斗经验"
+          },
+          "sourceAttribution": {
+            "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+            "sourceId": "bb2679891def5ca71cb602d6",
+            "sourceRevision": 819514,
+            "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
+            "license": "CC BY-NC-SA 3.0"
+          }
+        },
+        {
+          "source": [
+            "Kill a mob belonging to this Family to unlock it in your Bestiary!"
+          ],
+          "translation": "击杀属于该科的一种生物，即可在图鉴中解锁它！",
+          "styleMappings": {},
+          "sourceAttribution": {
+            "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+            "sourceId": "5b5fc88729e7911497651636",
+            "sourceRevision": 819514,
+            "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
+            "license": "CC BY-NC-SA 3.0"
+          }
+        },
+        {
+          "source": [
+            "View all of the mobs that you\\'ve found and killed in the Hubd."
+          ],
+          "translation": "查看你在中心岛中发现并击杀的所有生物。",
+          "styleMappings": {
+            "Hubd": "中心岛"
+          },
+          "sourceAttribution": {
+            "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+            "sourceId": "b827568fad1824f9b11cf6a7",
+            "sourceRevision": 819514,
+            "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
+            "license": "CC BY-NC-SA 3.0"
+          }
+        }
+      ],
+      "labels": {
+        "\"Your\" Island": "“你的”岛屿",
+        "Abandoned Quarry": "废弃采石场",
+        "Abiphones & Co.": "阿比电话商行",
+        "Ancient Ruins": "远古遗迹",
+        "Ant's Cave": "安特的洞穴",
+        "Arachne's Burrow": "阿拉克妮巢穴",
+        "Arachne's Sanctuary": "阿拉克妮圣所",
+        "Archaeological Site": "考古遗址",
+        "Archaeologist's Camp": "考古学家营地",
+        "Archery Range": "射箭场",
+        "Aristocrat Passage": "贵族通道",
+        "Around Colosseum": "竞技场外围",
+        "Artist's Abode": "画家居所",
+        "Auction House": "拍卖行",
+        "Aura's Lab": "奥拉的实验室",
+        "Backwater Bayou": "静水河湾",
+        "Bank": "银行",
+        "Barbarian Outpost": "野蛮人前哨",
+        "Barracks of Heroes": "英雄兵营",
+        "Barrier Street": "屏障街",
+        "Barry Center": "巴里中心",
+        "Barry HQ": "巴里总部",
+        "Barter Bank Show": "易物银行秀",
+        "Bazaar Alley": "集市巷",
+        "Belly of the Beast": "巨兽之腹",
+        "Birch Park": "白桦公园",
+        "Black Lagoon": "黑水潭",
+        "Blacksmith": "铁匠铺",
+        "Blazing Fortress": "烈焰堡垒",
+        "Blazing Volcano": "炽焰火山",
+        "Book in a Book": "书中之书",
+        "Broken Cage": "破碎囚笼",
+        "Bubbleboost Column": "气泡升流柱",
+        "Builder's House": "建筑师之家",
+        "Burning Desert": "灼热沙漠",
+        "Cake House": "蛋糕屋",
+        "Canvas Room": "画室",
+        "Carnival": "嘉年华",
+        "Catacombs Entrance": "地牢入口",
+        "Cathedral": "大教堂",
+        "Cerebral Citadel": "心智堡垒",
+        "Chief's Hut": "酋长小屋",
+        "Cliffside Veins": "峭壁矿脉",
+        "Coal Mine": "煤矿",
+        "Colosseum": "竞技场",
+        "Combat Settlement": "战斗营地",
+        "Community Center": "社区中心",
+        "Continuum": "连续时空",
+        "Courtyard": "庭院",
+        "Crimson Fields": "绯红原野",
+        "Crimson Isle": "绯红之岛",
+        "Critter Safari": "小动物观赏区",
+        "Critter Safari Entrance": "小兽狩猎区入口",
+        "Crypts": "墓穴",
+        "Crystal Hollows": "水晶洞窟",
+        "Crystal Nucleus": "水晶核心",
+        "Dark Auction": "暗黑拍卖行",
+        "Dark Thicket": "幽暗密林",
+        "Deep Caverns": "深层矿洞",
+        "Desecrated Shrine": "亵渎神殿",
+        "Desert Mountain": "沙漠山峰",
+        "Desert Settlement": "沙漠聚落",
+        "Desert Temple": "沙漠神殿",
+        "Diamond Reserve": "钻石矿区",
+        "Divan's Gateway": "迪万之门",
+        "Dive-Ember Pass": "潜烬隘口",
+        "Dojo": "道场",
+        "Dolphin Trainer": "海豚训练场",
+        "Dragon's Lair": "巨龙巢穴",
+        "Dragon's Nest": "龙巢",
+        "Dragontail": "龙尾镇",
+        "Dragontail Auction House": "龙尾镇拍卖行",
+        "Dragontail Bank": "龙尾镇银行",
+        "Dragontail Bazaar": "龙尾镇集市",
+        "Dragontail Blacksmith": "龙尾镇铁匠铺",
+        "Dragontail Townsquare": "龙尾镇广场",
+        "Dreadfarm": "惊惧农场",
+        "Driptoad Delve": "滴蟾深窟",
+        "Driptoad Pass": "滴蟾隘口",
+        "Drowned Reliquary": "沉水圣物殿",
+        "Dungeon Hub": "地牢大厅",
+        "Dwarven Base Camp": "矮人营地",
+        "Dwarven Mines": "矮人矿坑",
+        "Dwarven Tavern": "矮人酒馆",
+        "Dwarven Village": "矮人村庄",
+        "Déjà Vu Alley": "似曾相识小巷",
+        "Einary's Emporium": "艾娜莉百货店",
+        "Election Room": "选举室",
+        "Empty Bank": "空荡银行",
+        "Enigma's Crib": "恩尼格玛居所",
+        "Evergreen Plateau": "常青高原",
+        "Fairy Grotto": "仙灵洞天",
+        "Fairylosophy Tower": "仙灵哲思塔",
+        "Far Reserve": "远郊矿区",
+        "Farm": "农场",
+        "Farmhouse": "农舍",
+        "Fashion Shop": "时装店",
+        "Fisherman's Hut": "渔夫小屋",
+        "Fishing Outpost": "钓鱼前哨",
+        "Floating Islands": "浮空群岛",
+        "Flower House": "花屋",
+        "Foraging Camp": "采伐营地",
+        "Forest": "森林",
+        "Forest Temple": "森林神殿",
+        "Forge Basin": "熔炉盆地",
+        "Forgotten Skull": "遗忘之颅",
+        "Fossil Research Center": "化石研究中心",
+        "Fusion House": "融合工坊",
+        "Galatea": "加拉蒂亚",
+        "Gary's Shack": "加里的棚屋",
+        "Gates to the Mines": "矿坑大门",
+        "Glacial Cave": "冰川洞穴",
+        "Glacite Mineshafts": "冰晶矿井",
+        "Glacite Tunnels": "冰川矿道",
+        "Glowing Mushroom Cave": "发光蘑菇洞穴",
+        "Goblin Burrows": "哥布林洞穴",
+        "Goblin Holdout": "哥布林据点",
+        "Goblin Queen's Den": "哥布林女王巢穴",
+        "Gold Mine": "金矿",
+        "Grand Library": "大图书馆",
+        "Grandma's House": "奶奶的家",
+        "Grandpa Wolf's Cave": "狼爷爷的洞穴",
+        "Gravel Mines": "沙砾矿坑",
+        "Graveyard": "墓园",
+        "Great Beanstalk": "巨大豆茎",
+        "Great Glacite Lake": "冰晶大湖",
+        "Great Ice Wall": "巨冰之墙",
+        "Gunpowder Mines": "火药矿坑",
+        "Half-Eaten Cave": "半蚀洞穴",
+        "Hanging Court": "悬空庭院",
+        "Hexatorum": "六芒殿",
+        "Hot Springs": "温泉",
+        "Hotspot Haven": "鱼汛港湾",
+        "Howling Cave": "嚎叫洞穴",
+        "Hub Island": "中心岛",
+        "Igrupan's Chicken Coop": "伊格鲁潘的鸡舍",
+        "Igrupan's House": "伊格鲁潘的家",
+        "Infested House": "虫害屋",
+        "Ironman's Guild": "铁人公会",
+        "Jake's House": "杰克的家",
+        "Jerry Pond": "杰瑞池塘",
+        "Jerry's Workshop": "杰瑞的工坊",
+        "Jungle": "丛林",
+        "Jungle Island": "丛林岛",
+        "Jungle Temple": "丛林神庙",
+        "Kelpwoven Tunnels": "海带交织隧道",
+        "Khazad-dûm": "卡扎督姆",
+        "Kuudra's Hollow": "库德拉洞窟",
+        "Lagoon Cave": "泻湖洞穴",
+        "Lagoon Hut": "泻湖小屋",
+        "Lapis Quarry": "青金石采石场",
+        "Leeches Lair": "水蛭巢穴",
+        "Library": "图书馆",
+        "Living Cave": "活体洞穴",
+        "Living Stillness": "生息静域",
+        "Lonely Island": "孤独之岛",
+        "Lonely Terrace": "孤寂露台",
+        "Lost Precursor City": "失落的先驱之城",
+        "Lotus Atoll": "莲花环礁",
+        "Lotus Eater's Cave": "食莲者洞穴",
+        "Lotus Highlands": "莲花高地",
+        "Lunarise": "月升之地",
+        "Mage Council": "法师议会",
+        "Mage Outpost": "法师前哨",
+        "Magma Chamber": "岩浆室",
+        "Magma Fields": "岩浆原野",
+        "Matriarch's Lair": "主母巢穴",
+        "Melody's Plateau": "梅洛蒂高地",
+        "Michael's Crib": "迈克尔的居所",
+        "Mines of Divan": "迪万矿坑",
+        "Mining District": "采矿区",
+        "Minion Shop": "仆从商店",
+        "Miria's Hut": "米莉亚的小屋",
+        "Mirrorverse": "镜像世界",
+        "Mithril Deposits": "秘银矿床",
+        "Moonglade Marsh": "月林沼泽",
+        "Moonglade's Edge": "月林边境",
+        "Mount Jerry": "杰瑞山",
+        "Mountain": "山峰",
+        "Murder House": "凶案屋",
+        "Murkwater Depths": "浊水深潭",
+        "Murkwater Loch": "浊水湖",
+        "Murkwater Outpost": "浊水前哨",
+        "Murkwater Shallows": "浊水浅滩",
+        "Museum": "博物馆",
+        "Mushroom Desert": "蘑菇沙漠",
+        "Mushroom Gorge": "蘑菇峡谷",
+        "Mystic Marsh": "神秘沼泽",
+        "North Reaches": "北部边境",
+        "North Wetlands": "北部湿地",
+        "Oasis": "绿洲",
+        "Obsidian Sanctuary": "黑曜石圣所",
+        "Odger's Hut": "奥杰的小屋",
+        "Operation Mayhem": "混乱行动场",
+        "Otherside": "彼岸",
+        "Oubliette": "遗忘地牢",
+        "Overgrown Mushroom Cave": "茂密蘑菇洞穴",
+        "Palace Bridge": "王宫桥",
+        "Pale Citadel": "苍白城塞",
+        "Pangolin Hideaway": "穿山甲藏身处",
+        "Pet Care": "宠物护理所",
+        "Photon Pathway": "光子小径",
+        "Pigmen's Den": "猪人巢穴",
+        "Plhlegblast Pool": "痰爆池",
+        "Precursor Remnants": "先驱遗迹",
+        "Private Island": "私人岛屿",
+        "Pumpgrotto": "南瓜洞窟",
+        "Rabbit House": "兔子之家",
+        "Rampart's Quarry": "壁垒采石场",
+        "Red House": "红屋",
+        "Reefguard Pass": "护礁隘口",
+        "Reflective Pond": "倒影池",
+        "Regalia Room": "御宝室",
+        "Rift Dimension": "裂隙维度",
+        "Rift Gallery": "裂隙展馆",
+        "Rift Gallery Entrance": "裂隙展馆入口",
+        "Rose's End": "蔷薇尽头",
+        "Royal Mines": "皇家矿坑",
+        "Royal Palace": "王宫",
+        "Royal Quarters": "皇家居所",
+        "Ruins": "废墟",
+        "Ruins of Ashfang": "灰烬之牙遗迹",
+        "Savanna Woodland": "热带草原林地",
+        "Scarleton": "斯卡雷顿",
+        "Scarleton Auction House": "斯卡雷顿拍卖行",
+        "Scarleton Bank": "斯卡雷顿银行",
+        "Scarleton Bazaar": "斯卡雷顿集市",
+        "Scarleton Blacksmith": "斯卡雷顿铁匠铺",
+        "Scarleton Minion Shop": "斯卡雷顿仆从商店",
+        "Scarleton Plaza": "斯卡雷顿广场",
+        "Security Hall": "安全大厅",
+        "Sewer": "下水道",
+        "Shen's Auction": "沈的拍卖行",
+        "Shepherd's Keep": "牧羊人堡垒",
+        "Sherry's Showroom": "雪莉的展厅",
+        "Shifted Tavern": "错位酒馆",
+        "Side-Ember Way": "侧烬小道",
+        "Slimehill": "史莱姆山丘",
+        "Smoldering Tomb": "闷燃墓穴",
+        "Snowball Fight Cave": "雪仗洞穴",
+        "Soul Cave": "灵魂洞穴",
+        "South Reaches": "南部边境",
+        "South Wetlands": "南部湿地",
+        "Spider Mound": "蜘蛛丘",
+        "Spider's Den": "蜘蛛巢穴",
+        "Spirit Cave": "幽魂洞穴",
+        "Spring Depths": "泉水深潭",
+        "Spring Path": "泉水小径",
+        "Spring Shallows": "泉水浅滩",
+        "Spruce Woods": "云杉林",
+        "Squid Cave": "鱿鱼洞穴",
+        "Stillgore Château": "凝血古堡",
+        "Stride-Ember Fissure": "跨烬裂隙",
+        "Stronghold": "要塞",
+        "Sunken Jerry Pond": "沉没的杰瑞池塘",
+        "SwampCut Inc.": "沼泽伐木公司",
+        "Tangleburg": "缠藤镇",
+        "Tangleburg Bank": "缠藤镇银行",
+        "Tangleburg Library": "缠藤镇图书馆",
+        "Tangleburg's Path": "缠藤镇小径",
+        "Tavern": "酒馆",
+        "Taylor's": "泰勒的店铺",
+        "Taylor's Shop": "泰勒的商店",
+        "Terry's Shack": "特里的棚屋",
+        "Tewtil Tunnel": "特乌提尔隧道",
+        "Thaumaturgist": "奇术师居所",
+        "The Barn": "农庄",
+        "The Bastion": "堡垒",
+        "The Dukedom": "公爵领地",
+        "The End": "末地",
+        "The Forge": "锻造所",
+        "The Garden": "花园",
+        "The Lift": "升降梯",
+        "The Mist": "迷雾",
+        "The Mountaintop": "山巅",
+        "The Observatory": "天文台",
+        "The Park": "公园",
+        "The Vents": "通风井",
+        "The Wasteland": "荒原",
+        "Throne Room": "王座厅",
+        "Time Chamber": "时间密室",
+        "Time-Torn Isles": "时裂群岛",
+        "Tomb Floodway": "墓穴泄洪道",
+        "Torrhus Canyon": "托鲁斯峡谷",
+        "Torrhus Heights": "托鲁斯高地",
+        "Torrhus Springs": "托鲁斯泉地",
+        "Trade Center": "贸易中心",
+        "Tranquil Pass": "静谧隘口",
+        "Tranquility Sanctum": "宁静圣所",
+        "Trapper's Den": "猎人巢穴",
+        "Trial Grounds": "试炼场",
+        "Trials of Fire": "火焰试炼场",
+        "Underground Lab": "地下实验室",
+        "Unincorporated": "无辖之地",
+        "Upper Mines": "上层矿坑",
+        "Verdant Summit": "翠绿峰顶",
+        "Viking Longhouse": "维京长屋",
+        "Village": "村庄",
+        "Village Plaza": "村庄广场",
+        "Void Sepulture": "虚空墓地",
+        "Void Slate": "虚空石台",
+        "Walk of Fame": "星光大道",
+        "Weaponsmith": "武器铺",
+        "Weather Station": "气象站",
+        "West Reaches": "西部边境",
+        "West Village": "西村",
+        "Westbound Wetlands": "西行湿地",
+        "Wilderness": "荒野",
+        "Windmill": "风车",
+        "Wizard Brawl": "巫师乱斗场",
+        "Wizard Tower": "巫师塔",
+        "Wizardman Bureau": "巫师事务局",
+        "Wyld Woods": "狂野森林",
+        "Wyrmgrove Tomb": "龙林古墓",
+        "Zealot Bruiser Hideout": "狂热暴徒藏身处",
+        "Blood God Shrine": "血神祭坛",
+        "C&C Minecarts Co.": "双工矿车公司",
+        "Communal Stew": "公共炖锅",
+        "Cult of the Fallen Star": "陨星教团",
+        "Event Square": "活动广场",
+        "Event Stand": "活动摊位",
+        "Golden Dante Statue": "但丁金像",
+        "Hub": "中心岛",
+        "Hub Well": "中心岛水井",
+        "Kuudra's End": "库德拉终境",
+        "Lava Springs": "熔岩泉",
+        "Personal Vault": "私人金库",
+        "Prison of the Bereft": "孤绝者监牢",
+        "The People's Voting": "民众投票处",
+        "Treasure Chest": "宝箱",
+        "Woods Race": "森林竞速场",
+        "Catacombs": "地牢",
+        "The Catacombs": "地下墓穴",
+        "Your Island": "你的岛屿",
+        "Garden": "花园",
+        "Phlegblast Pool": "痰爆池",
+        "Blacksmith (Zone)": "铁匠铺（区域）",
+        "Weaponsmith (Zone)": "武器铺（区域）",
+        "Colosseum (Rift)": "竞技场（裂隙）",
+        "The Bastion (Rift)": "堡垒（裂隙）",
+        "Wizard Tower (Rift)": "巫师塔（裂隙）",
+        "Community Center (Scarleton)": "社区中心（斯卡雷顿）",
+        "Dragon's Lair (Crystal Hollows)": "巨龙巢穴（水晶洞窟）",
+        "Dragon's Lair (Galatea)": "巨龙巢穴（加拉蒂亚）",
+        "The Rift": "裂隙维度",
+        "Fishing": "钓鱼",
+        "Spooky": "万圣节",
+        "Spooky Festival": "万圣节庆典",
+        "Mythological Creatures": "神话生物",
+        "Jerry": "Jerry",
+        "Kuudra": "库德拉",
+        "Search Results": "搜索结果"
+      }
+    }
+  ]
+}

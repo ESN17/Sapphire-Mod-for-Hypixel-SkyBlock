@@ -51,11 +51,11 @@
         "Applies the Chomp reforge when",
         "combined with a Fishing Rod."
       ],
-      "translation": "与钓鱼竿结合时施加咀嚼洗练.",
+      "translation": "与钓鱼竿结合时施加噬咬的洗练.",
       "styleMappings": {
         "Fishing Rod": "钓鱼竿",
         "reforge": "洗练",
-        "Chomp": "咀嚼",
+        "Chomp": "噬咬的",
         "Fishing": "钓鱼",
         "when": "时"
       }
@@ -105,10 +105,10 @@
         "reduces their  Health when fished",
         "by {{N0}}."
       ],
-      "translation": "咀嚼加成 每当你背包中带有此竿时击杀一种独特的熔岩海怪,钓到它们时其 生命值降低 {{N0}}.",
+      "translation": "噬咬的加成 每当你背包中带有此竿时击杀一种独特的熔岩海怪,钓到它们时其 生命值降低 {{N0}}.",
       "styleMappings": {
         "Lava Sea Creature": "熔岩海怪",
-        "Chomp Bonus": "咀嚼加成",
+        "Chomp Bonus": "噬咬的加成",
         "Health": "生命值",
         "unique": "独特",
         " Health": " 生命",
@@ -116,7 +116,7 @@
         "Lava": "熔岩",
         "Sea Creature": "海怪",
         "when": "时",
-        "Chomp": "咀嚼"
+        "Chomp": "噬咬的"
       }
     },
     {

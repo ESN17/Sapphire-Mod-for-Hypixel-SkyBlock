@@ -1,0 +1,1388 @@
+[
+  {
+    "source": "[NPC] {prefix}: The reward is not in my chest!",
+    "translation": "[NPC] {prefix}: 奖励不在我的箱子里!",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "The reward is not in my chest!",
+    "translation": "奖励不在我的箱子里!",
+    "scopes": [
+      "entity-label"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "[NPC] {prefix}: One of us is telling the truth!",
+    "translation": "[NPC] {prefix}: 我们之中有一个人说的是真话!",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "One of us is telling the truth!",
+    "translation": "我们之中有一个人说的是真话!",
+    "scopes": [
+      "entity-label"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "[NPC] {prefix}: They are both telling the truth. The reward isn't in {player}'s chest.",
+    "translation": "[NPC] {prefix}: 他们俩说的都是真话。奖励不在 {player} 的箱子里。",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "They are both telling the truth. The reward isn't in {player}'s chest.",
+    "translation": "他们俩说的都是真话。奖励不在 {player} 的箱子里。",
+    "scopes": [
+      "entity-label"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "[NPC] {prefix}: We are all telling the truth!",
+    "translation": "[NPC] {prefix}: 我们说的都是真话！",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "We are all telling the truth!",
+    "translation": "我们说的都是真话！",
+    "scopes": [
+      "entity-label"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "[NPC] {prefix}: At least one of them is lying, and the reward is not in {player}'s chest.",
+    "translation": "[NPC] {prefix}: 他们俩至少有一个人在说谎，而且奖励不在 {player} 的箱子里。",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "At least one of them is lying, and the reward is not in {player}'s chest.",
+    "translation": "他们俩至少有一个人在说谎，而且奖励不在 {player} 的箱子里。",
+    "scopes": [
+      "entity-label"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "[NPC] {prefix}: At least one of them is lying, and the reward is not in {player}'s chest!",
+    "translation": "[NPC] {prefix}: 他们俩至少有一个人在说谎，而且奖励不在 {player} 的箱子里！",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "[NPC] {prefix}: {player} is telling the truth and the reward is in his chest.",
+    "translation": "[NPC] {prefix}: {player} 说的是真话，奖励就在他的箱子里。",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "{player} is telling the truth and the reward is in his chest.",
+    "translation": "{player} 说的是真话，奖励就在他的箱子里。",
+    "scopes": [
+      "entity-label"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "[NPC] {prefix}: My chest doesn't have the reward. At least one of the others is telling the truth!",
+    "translation": "[NPC] {prefix}: 奖励不在我的箱子里。另外两人中，至少有一个说的是真话!",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "My chest doesn't have the reward. At least one of the others is telling the truth!",
+    "translation": "奖励不在我的箱子里。另外两人中，至少有一个说的是真话!",
+    "scopes": [
+      "entity-label"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "[NPC] {prefix}: My chest doesn't have the reward we are all telling the truth.",
+    "translation": "[NPC] {prefix}: 奖励不在我的箱子里。我们说的都是真话。",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "My chest doesn't have the reward we are all telling the truth.",
+    "translation": "奖励不在我的箱子里。我们说的都是真话。",
+    "scopes": [
+      "entity-label"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "[NPC] {prefix}: My chest doesn't have the reward. We are all telling the truth.",
+    "translation": "[NPC] {prefix}: 奖励不在我的箱子里。我们说的都是真话。",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "My chest doesn't have the reward. We are all telling the truth.",
+    "translation": "奖励不在我的箱子里。我们说的都是真话。",
+    "scopes": [
+      "entity-label"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "[NPC] {prefix}: One of the others is lying.",
+    "translation": "[NPC] {prefix}: 另外两人中有一个人在说谎。",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "One of the others is lying.",
+    "translation": "另外两人中有一个人在说谎。",
+    "scopes": [
+      "entity-label"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "[NPC] {prefix}: My chest has the reward and I'm telling the truth!",
+    "translation": "[NPC] {prefix}: 奖励在我的箱子里,我说的可是真话!",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "My chest has the reward and I'm telling the truth!",
+    "translation": "奖励在我的箱子里,我说的可是真话!",
+    "scopes": [
+      "entity-label"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "[NPC] {prefix}: They are both telling the truth, the reward is in {player}'s chest.",
+    "translation": "[NPC] {prefix}: 他们俩说的都是真话，奖励在 {player} 的箱子里。",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "They are both telling the truth, the reward is in {player}'s chest.",
+    "translation": "他们俩说的都是真话，奖励在 {player} 的箱子里。",
+    "scopes": [
+      "entity-label"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "[NPC] {prefix}: They are both lying, the reward is in my chest!",
+    "translation": "[NPC] {prefix}: 他们俩都在说谎，奖励在我的箱子里！",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "They are both lying, the reward is in my chest!",
+    "translation": "他们俩都在说谎，奖励在我的箱子里！",
+    "scopes": [
+      "entity-label"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "[NPC] {prefix}: The reward isn't in any of our chests.",
+    "translation": "[NPC] {prefix}: 奖励不在我们任何一个人的箱子里。",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "The reward isn't in any of our chests.",
+    "translation": "奖励不在我们任何一个人的箱子里。",
+    "scopes": [
+      "entity-label"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "[NPC] {prefix}: The reward is in my chest.",
+    "translation": "[NPC] {prefix}: 奖励在我的箱子里。",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "The reward is in my chest.",
+    "translation": "奖励在我的箱子里。",
+    "scopes": [
+      "entity-label"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "[NPC] {prefix}: The reward is not in my chest. They are both lying.",
+    "translation": "[NPC] {prefix}: 奖励不在我的箱子里。他们俩都在说谎。",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "The reward is not in my chest. They are both lying.",
+    "translation": "奖励不在我的箱子里。他们俩都在说谎。",
+    "scopes": [
+      "entity-label"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "[NPC] {prefix}: {player} is telling the truth.",
+    "translation": "[NPC] {prefix}: {player} 说的是真话。",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "{player} is telling the truth.",
+    "translation": "{player} 说的是真话。",
+    "scopes": [
+      "entity-label"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "[NPC] {prefix}: My chest has the reward.",
+    "translation": "[NPC] {prefix}: 奖励在我的箱子里。",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "My chest has the reward.",
+    "translation": "奖励在我的箱子里。",
+    "scopes": [
+      "entity-label"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "[NPC] {prefix}: Both of them are telling the truth. Also, {player} has the reward in their chest.",
+    "translation": "[NPC] {prefix}: 他们俩说的都是真话。另外，奖励在 {player} 的箱子里。",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "Both of them are telling the truth. Also, {player} has the reward in their chest.",
+    "translation": "他们俩说的都是真话。另外，奖励在 {player} 的箱子里。",
+    "scopes": [
+      "entity-label"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "[NPC] {prefix}: Both of them are telling the truth. Also, {player} has the reward in their chest!",
+    "translation": "[NPC] {prefix}: 他们俩说的都是真话。另外，奖励在 {player} 的箱子里！",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "What is the status of The Watcher?",
+    "translation": "The Watcher 的身份是什么？",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {
+      "The Watcher": "The Watcher"
+    }
+  },
+  {
+    "source": "What is the status of Bonzo?",
+    "translation": "Bonzo 的身份是什么？",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {
+      "Bonzo": "Bonzo"
+    }
+  },
+  {
+    "source": "What is the status of Scarf?",
+    "translation": "Scarf 的身份是什么？",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {
+      "Scarf": "Scarf"
+    }
+  },
+  {
+    "source": "What is the status of The Professor?",
+    "translation": "The Professor 的身份是什么？",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {
+      "The Professor": "The Professor"
+    }
+  },
+  {
+    "source": "What is the status of Thorn?",
+    "translation": "Thorn 的身份是什么？",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {
+      "Thorn": "Thorn"
+    }
+  },
+  {
+    "source": "What is the status of Livid?",
+    "translation": "Livid 的身份是什么？",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {
+      "Livid": "Livid"
+    }
+  },
+  {
+    "source": "What is the status of Sadan?",
+    "translation": "Sadan 的身份是什么？",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {
+      "Sadan": "Sadan"
+    }
+  },
+  {
+    "source": "What is the status of Maxor?",
+    "translation": "Maxor 的身份是什么？",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {
+      "Maxor": "Maxor"
+    }
+  },
+  {
+    "source": "What is the status of Goldor?",
+    "translation": "Goldor 的身份是什么？",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {
+      "Goldor": "Goldor"
+    }
+  },
+  {
+    "source": "What is the status of Storm?",
+    "translation": "Storm 的身份是什么？",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {
+      "Storm": "Storm"
+    }
+  },
+  {
+    "source": "What is the status of Necron?",
+    "translation": "Necron 的身份是什么？",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {
+      "Necron": "Necron"
+    }
+  },
+  {
+    "source": "What is the status of Maxor, Storm, Goldor, and Necron?",
+    "translation": "Maxor, Storm, Goldor, and Necron 的身份是什么？",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {
+      "Maxor, Storm, Goldor, and Necron": "Maxor, Storm, Goldor, and Necron"
+    }
+  },
+  {
+    "source": "Which brother is on the Spider's Den?",
+    "translation": "哪位兄弟在蜘蛛巢穴？",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "What is the name of Rick's brother?",
+    "translation": "Rick 的兄弟叫什么名字？",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "What is the name of the vendor in the Hub who sells stained glass?",
+    "translation": "中心岛出售染色玻璃的商人叫什么名字？",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "What is the name of the vendor in the Hub who sells stained",
+    "translation": "中心岛出售染色",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "glass?",
+    "translation": "玻璃的商人叫什么名字？",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "What is the name of the person that upgrades pets?",
+    "translation": "为宠物升级的人叫什么名字？",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "What is the name of the lady of the Nether?",
+    "translation": "下界女士叫什么名字？",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "Which villager in the Village gives you a Rogue Sword?",
+    "translation": "村庄里哪位村民会送你游侠剑？",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "How many total Fairy Souls are there?",
+    "translation": "总共有多少个仙女之魂？",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "What SkyBlock year is it?",
+    "translation": "现在是 空岛 第几年?",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "Which of these enemies does not spawn in the Spider's Den?",
+    "translation": "以下哪种敌人不会在蜘蛛巢穴生成？",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "Which of these monsters only spawns at night?",
+    "translation": "以下哪种怪物只在夜晚生成？",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "How many Fairy Souls are there in The Hub?",
+    "translation": "中心岛有多少个仙女之魂？",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "How many Fairy Souls are there in Spider's Den?",
+    "translation": "蜘蛛巢穴有多少个仙女之魂？",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "How many Fairy Souls are there in the Spider's Den?",
+    "translation": "蜘蛛巢穴有多少个仙女之魂？",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "How many Fairy Souls are there in The End?",
+    "translation": "末地有多少个仙女之魂？",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "How many Fairy Souls are there in The Farming Islands?",
+    "translation": "农业群岛有多少个仙女之魂？",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "How many Fairy Souls are there in Crimson Isle?",
+    "translation": "绯红之岛有多少个仙女之魂？",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "How many Fairy Souls are there in the Crimson Isle?",
+    "translation": "绯红之岛有多少个仙女之魂？",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "How many Fairy Souls are there in The Park?",
+    "translation": "公园有多少个仙女之魂？",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "How many Fairy Souls are there in Jerry's Workshop?",
+    "translation": "杰瑞的工坊有多少个仙女之魂？",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "How many Fairy Souls are there in Deep Caverns?",
+    "translation": "深层矿洞有多少个仙女之魂？",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "How many Fairy Souls are there in Gold Mine?",
+    "translation": "金矿有多少个仙女之魂？",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "How many Fairy Souls are there in Dungeon Hub?",
+    "translation": "地牢大厅有多少个仙女之魂？",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓐ Stalker",
+    "translation": "ⓐ 窥视者",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓑ Stalker",
+    "translation": "ⓑ 窥视者",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓒ Stalker",
+    "translation": "ⓒ 窥视者",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓐ New Necromancer",
+    "translation": "ⓐ 新晋死灵法师",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓑ New Necromancer",
+    "translation": "ⓑ 新晋死灵法师",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓒ New Necromancer",
+    "translation": "ⓒ 新晋死灵法师",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓐ Apprentice Necromancer",
+    "translation": "ⓐ 见习死灵法师",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓑ Apprentice Necromancer",
+    "translation": "ⓑ 见习死灵法师",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓒ Apprentice Necromancer",
+    "translation": "ⓒ 见习死灵法师",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓐ Professor",
+    "translation": "ⓐ 教授",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓑ Professor",
+    "translation": "ⓑ 教授",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓒ Professor",
+    "translation": "ⓒ 教授",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓐ Shaman Necromancer",
+    "translation": "ⓐ 萨满死灵法师",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓑ Shaman Necromancer",
+    "translation": "ⓑ 萨满死灵法师",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓒ Shaman Necromancer",
+    "translation": "ⓒ 萨满死灵法师",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓐ Master Necromancer",
+    "translation": "ⓐ 死灵法师大师",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓑ Master Necromancer",
+    "translation": "ⓑ 死灵法师大师",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓒ Master Necromancer",
+    "translation": "ⓒ 死灵法师大师",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓐ Necromancer Lord",
+    "translation": "ⓐ 死灵领主",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓑ Necromancer Lord",
+    "translation": "ⓑ 死灵领主",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓒ Necromancer Lord",
+    "translation": "ⓒ 死灵领主",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓐ The Wither Lords",
+    "translation": "ⓐ 凋灵领主",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓑ The Wither Lords",
+    "translation": "ⓑ 凋灵领主",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓒ The Wither Lords",
+    "translation": "ⓒ 凋灵领主",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓐ Zombie Spider",
+    "translation": "ⓐ 僵尸蜘蛛",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓑ Zombie Spider",
+    "translation": "ⓑ 僵尸蜘蛛",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓒ Zombie Spider",
+    "translation": "ⓒ 僵尸蜘蛛",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓐ Cave Spider",
+    "translation": "ⓐ 洞穴蜘蛛",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓑ Cave Spider",
+    "translation": "ⓑ 洞穴蜘蛛",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓒ Cave Spider",
+    "translation": "ⓒ 洞穴蜘蛛",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓐ Wither Skeleton",
+    "translation": "ⓐ 凋灵骷髅",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓑ Wither Skeleton",
+    "translation": "ⓑ 凋灵骷髅",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓒ Wither Skeleton",
+    "translation": "ⓒ 凋灵骷髅",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓐ Dashing Spooder",
+    "translation": "ⓐ 疾行蜘蛛",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓑ Dashing Spooder",
+    "translation": "ⓑ 疾行蜘蛛",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓒ Dashing Spooder",
+    "translation": "ⓒ 疾行蜘蛛",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓐ Broodfather",
+    "translation": "ⓐ 育母蜘蛛",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓑ Broodfather",
+    "translation": "ⓑ 育母蜘蛛",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓒ Broodfather",
+    "translation": "ⓒ 育母蜘蛛",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓐ Night Spider",
+    "translation": "ⓐ 夜行蜘蛛",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓑ Night Spider",
+    "translation": "ⓑ 夜行蜘蛛",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓒ Night Spider",
+    "translation": "ⓒ 夜行蜘蛛",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓐ Zombie Villager",
+    "translation": "ⓐ 僵尸村民",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓑ Zombie Villager",
+    "translation": "ⓑ 僵尸村民",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓒ Zombie Villager",
+    "translation": "ⓒ 僵尸村民",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓐ Ghast",
+    "translation": "ⓐ 恶魂",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓑ Ghast",
+    "translation": "ⓑ 恶魂",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓒ Ghast",
+    "translation": "ⓒ 恶魂",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓐ Zombie Dragon",
+    "translation": "ⓐ 僵尸龙",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓑ Zombie Dragon",
+    "translation": "ⓑ 僵尸龙",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓒ Zombie Dragon",
+    "translation": "ⓒ 僵尸龙",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓐ Weak Dragon",
+    "translation": "ⓐ 虚弱龙",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓑ Weak Dragon",
+    "translation": "ⓑ 虚弱龙",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓒ Weak Dragon",
+    "translation": "ⓒ 虚弱龙",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓐ Holy Dragon",
+    "translation": "ⓐ 神圣龙",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓑ Holy Dragon",
+    "translation": "ⓑ 神圣龙",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓒ Holy Dragon",
+    "translation": "ⓒ 神圣龙",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓐ Boomer Dragon",
+    "translation": "ⓐ 老派龙",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓑ Boomer Dragon",
+    "translation": "ⓑ 老派龙",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓒ Boomer Dragon",
+    "translation": "ⓒ 老派龙",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓐ Booger Dragon",
+    "translation": "ⓐ 鼻涕龙",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓑ Booger Dragon",
+    "translation": "ⓑ 鼻涕龙",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓒ Booger Dragon",
+    "translation": "ⓒ 鼻涕龙",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓐ Older Dragon",
+    "translation": "ⓐ 年长龙",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓑ Older Dragon",
+    "translation": "ⓑ 年长龙",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓒ Older Dragon",
+    "translation": "ⓒ 年长龙",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓐ Elder Dragon",
+    "translation": "ⓐ 长老龙",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓑ Elder Dragon",
+    "translation": "ⓑ 长老龙",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓒ Elder Dragon",
+    "translation": "ⓒ 长老龙",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓐ Professor Dragon",
+    "translation": "ⓐ 教授龙",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓑ Professor Dragon",
+    "translation": "ⓑ 教授龙",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓒ Professor Dragon",
+    "translation": "ⓒ 教授龙",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓐ Zoomer Dragon",
+    "translation": "ⓐ 新潮龙",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓑ Zoomer Dragon",
+    "translation": "ⓑ 新潮龙",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓒ Zoomer Dragon",
+    "translation": "ⓒ 新潮龙",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓐ Stable Dragon",
+    "translation": "ⓐ 稳定龙",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓑ Stable Dragon",
+    "translation": "ⓑ 稳定龙",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓒ Stable Dragon",
+    "translation": "ⓒ 稳定龙",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓐ Year {count}",
+    "translation": "ⓐ 第 {count} 年",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓑ Year {count}",
+    "translation": "ⓑ 第 {count} 年",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "ⓒ Year {count}",
+    "translation": "ⓒ 第 {count} 年",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {}
+  },
+  {
+    "source": "PUZZLE FAIL! {player} killed a Blaze in the wrong order! Yikes!",
+    "translation": "谜题失败！{player} 击杀烈焰人的顺序错误！糟糕！",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {
+      "PUZZLE FAIL!": "谜题失败！",
+      "Blaze": "烈焰人",
+      "Yikes": "糟糕",
+      "!": "！"
+    }
+  },
+  {
+    "source": "PUZZLE FAIL! {player} was fooled by {prefix}! Yikes!",
+    "translation": "谜题失败！{player} 被 {prefix} 骗了！糟糕！",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {
+      "PUZZLE FAIL!": "谜题失败！",
+      "Yikes": "糟糕",
+      "!": "！"
+    }
+  },
+  {
+    "source": "PUZZLE FAIL! {player} was fooled by {prefix}! YIKES!",
+    "translation": "谜题失败！{player} 被 {prefix} 骗了！糟糕！",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {
+      "PUZZLE FAIL!": "谜题失败！",
+      "YIKES": "糟糕",
+      "!": "！"
+    }
+  },
+  {
+    "source": "PUZZLE FAIL! {player} killed a Blaze in the wrong order! YIKES!",
+    "translation": "谜题失败！{player} 击杀烈焰人的顺序错误！糟糕！",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {
+      "PUZZLE FAIL!": "谜题失败！",
+      "Blaze": "烈焰人",
+      "YIKES": "糟糕",
+      "!": "！"
+    }
+  },
+  {
+    "source": "[STATUE] Oruo the Omniscient: Yikes!",
+    "translation": "[雕像] Oruo the Omniscient: 糟糕！",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {
+      "[STATUE]": "[雕像]",
+      "Oruo the Omniscient": "Oruo the Omniscient",
+      "chose the wrong answer": "选错了答案",
+      "Yikes": "糟糕",
+      "!": "！"
+    }
+  },
+  {
+    "source": "[STATUE] Oruo the Omniscient: {player} chose the wrong answer!",
+    "translation": "[雕像] Oruo the Omniscient: {player} 选错了答案！",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {
+      "[STATUE]": "[雕像]",
+      "Oruo the Omniscient": "Oruo the Omniscient",
+      "chose the wrong answer": "选错了答案",
+      "Yikes": "糟糕",
+      "!": "！"
+    }
+  },
+  {
+    "source": "[STATUE] Oruo the Omniscient: Yikes! {player} chose the wrong answer!",
+    "translation": "[雕像] Oruo the Omniscient: 糟糕！{player} 选错了答案！",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {
+      "[STATUE]": "[雕像]",
+      "Oruo the Omniscient": "Oruo the Omniscient",
+      "chose the wrong answer": "选错了答案",
+      "Yikes": "糟糕",
+      "!": "！"
+    }
+  },
+  {
+    "source": "[STATUE] Oruo the Omniscient: I shall never forget this moment of misremembrance.",
+    "translation": "[雕像] Oruo the Omniscient: 我永远不会忘记这次记错答案的时刻。",
+    "scopes": [
+      "chat"
+    ],
+    "styleMappings": {
+      "[STATUE]": "[雕像]",
+      "Oruo the Omniscient": "Oruo the Omniscient",
+      "chose the wrong answer": "选错了答案",
+      "Yikes": "糟糕",
+      "!": "！"
+    }
+  }
+]

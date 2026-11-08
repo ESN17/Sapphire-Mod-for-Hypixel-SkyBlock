@@ -48,7 +48,7 @@ class LiveMiningTooltipTest {
             StyledLoreTest.color(lines.getLast(),"挖掘时运",ChatFormatting.GOLD);
         }
         var fleet=lore("§9Fleet Bonus","§7Grants §6+50\ue053 Mining Spread §7towards","§bBlocks§7.");
-        assertEquals("疾行 加成",fleet.getFirst().getString());
+        assertEquals("疾行的 加成",fleet.getFirst().getString());
         assertEquals("挖掘方块时提供 +50\ue053 采矿扩散.",fleet.getLast().getString());
         StyledLoreTest.color(fleet.getLast(),"方块",ChatFormatting.AQUA);
         StyledLoreTest.color(fleet.getLast(),"采矿扩散",ChatFormatting.GOLD);

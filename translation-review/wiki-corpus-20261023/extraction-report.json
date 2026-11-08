@@ -1,0 +1,618 @@
+{
+  "uniqueCandidates": {
+    "gui-title": 1553,
+    "tooltip-paragraph": 22866,
+    "tooltip-name": 13959,
+    "npc": 10047,
+    "dialogue-option": 338,
+    "system-notice-candidate": 4060,
+    "dialogue-other": 601
+  },
+  "occurrences": {
+    "gui-title": 3206,
+    "tooltip-paragraph": 125537,
+    "tooltip-name": 40256,
+    "npc": 14973,
+    "dialogue-option": 572,
+    "system-notice-candidate": 5066,
+    "dialogue-other": 1035
+  },
+  "menuLayouts": 2371,
+  "excludedImportedNpcOccurrences": 1079,
+  "knownNpcBaseline": 956,
+  "needsRender": 0,
+  "wikiGapPages": [
+    {
+      "page": "The Mountaintop",
+      "markers": [
+        "{{Stub}}"
+      ]
+    },
+    {
+      "page": "Complete Century Cake Bundle",
+      "markers": [
+        "{{Outdated}}"
+      ]
+    },
+    {
+      "page": "Raffle of the Century",
+      "markers": [
+        "{{Stub|More interactions with XP boosts from this event and other sources}}"
+      ]
+    },
+    {
+      "page": "Cake Slice of the Century",
+      "markers": [
+        "{{Stub|Missing Year 400 (and soon 500) info, and some details.}}"
+      ]
+    },
+    {
+      "page": "Pesthunter Pamela",
+      "markers": [
+        "{{More Info Needed}}"
+      ]
+    },
+    {
+      "page": "Primal Dragon Armor",
+      "markers": [
+        "{{Stub}}"
+      ]
+    },
+    {
+      "page": "Dwarven Base Camp",
+      "markers": [
+        "{{Stub}}"
+      ]
+    },
+    {
+      "page": "Chocolate Factory",
+      "markers": [
+        "{{More Info Needed}}",
+        "{{More Info Needed}}",
+        "{{More Info Needed}}"
+      ]
+    },
+    {
+      "page": "Alpha Ophelia/UI",
+      "markers": [
+        "{{Stub|variant=section}}"
+      ]
+    },
+    {
+      "page": "Rabbit Dog",
+      "markers": [
+        "{{Stub|variant=section}}"
+      ]
+    },
+    {
+      "page": "Farming",
+      "markers": [
+        "{{More Info Needed}}"
+      ]
+    },
+    {
+      "page": "Fossil Research Center",
+      "markers": [
+        "{{Stub}}"
+      ]
+    },
+    {
+      "page": "Reward Bundles",
+      "markers": [
+        "{{outdated}}"
+      ]
+    },
+    {
+      "page": "Youngite",
+      "markers": [
+        "{{More Info Needed|Can't figure it out. Been staring at a block of air for 3 minutes and nothing has spawned. How does this work ?}}"
+      ]
+    },
+    {
+      "page": "Sun Gecko",
+      "markers": [
+        "{{stub|Needs reformatting to match ingame text 1:1}}"
+      ]
+    },
+    {
+      "page": "Heart of the Forest",
+      "markers": [
+        "{{More Info Needed}}",
+        "{{More Info Needed}}"
+      ]
+    },
+    {
+      "page": "Joydive",
+      "markers": [
+        "{{More Info Needed|}}"
+      ]
+    },
+    {
+      "page": "Mining",
+      "markers": [
+        "{{stub}}"
+      ]
+    },
+    {
+      "page": "Murkwater Shallows",
+      "markers": [
+        "{{Stub}}"
+      ]
+    },
+    {
+      "page": "Foraging",
+      "markers": [
+        "{{Stub}}"
+      ]
+    },
+    {
+      "page": "Greenhouse",
+      "markers": [
+        "{{Outdated|\n* Update info based on [https://hypixel.net/threads/hypixel-skyblock-0-27-2-the-minister-update-greenhouse-qol-and-more.6159904/#-%E2%96%BA-greenhouse-qol Patch 0.27.2];\n* See [[https://hypixelskyblock.minecraft.wiki/?title=Talk%3AGreenhouse#On_the_Water_Levels_(would_not_mind_if_sb_asked_on_the_dc)|here]] for info needed.}}"
+      ]
+    },
+    {
+      "page": "Underground Lab",
+      "markers": [
+        "{{Stub}}"
+      ]
+    },
+    {
+      "page": "Garden Visitors",
+      "markers": [
+        "{{Outdated|Multipliers for Carrot, Cocoa Beans, and Mushroom are likely outdated after the recipe changes. Moonflower, Sunflower, and Wild Rose are missing.|section=y}}"
+      ]
+    },
+    {
+      "page": "Guard",
+      "markers": [
+        "{{Stub}}"
+      ]
+    },
+    {
+      "page": "Mage Guard (Cathedral)",
+      "markers": [
+        "{{Stub|Needs Rescue Mission Information}}"
+      ]
+    },
+    {
+      "page": "Treasure Chest",
+      "markers": [
+        "{{Outdated|\n* What does the game consider as a \"rare\" goblin egg ?\n* What are the Loot Pools used for Structure Chests ?}}"
+      ]
+    },
+    {
+      "page": "Researcher Gilbert",
+      "markers": [
+        "{{Outdated|section=y}}"
+      ]
+    },
+    {
+      "page": "Manta Ray",
+      "markers": [
+        "{{Stub}}"
+      ]
+    },
+    {
+      "page": "Magma Pillar",
+      "markers": [
+        "{{Stub}}"
+      ]
+    },
+    {
+      "page": "Floor Drops",
+      "markers": [
+        "{{More Info Needed}}"
+      ]
+    },
+    {
+      "page": "Equipment Wardrobe",
+      "markers": [
+        "{{More Info Needed}}",
+        "{{More Info Needed}}",
+        "{{More Info Needed}}",
+        "{{More Info Needed}}",
+        "{{More Info Needed}}",
+        "{{More Info Needed}}",
+        "{{More Info Needed}}",
+        "{{More Info Needed}}",
+        "{{More Info Needed}}",
+        "{{More Info Needed}}",
+        "{{More Info Needed}}",
+        "{{More Info Needed}}",
+        "{{More Info Needed}}",
+        "{{More Info Needed}}",
+        "{{More Info Needed}}",
+        "{{More Info Needed}}"
+      ]
+    },
+    {
+      "page": "Lost Bottle of Jyrre",
+      "markers": [
+        "{{Stub}}"
+      ]
+    },
+    {
+      "page": "Charm Chance",
+      "markers": [
+        "{{Outdated|section=y}}"
+      ]
+    },
+    {
+      "page": "Hideyho",
+      "markers": [
+        "{{Stub}}"
+      ]
+    },
+    {
+      "page": "Pity and RNG Meters",
+      "markers": [
+        "{{outdated|Somehow use Buckets to compute the <math>\\text{Required } \\color{aqua}\\text{Dungeon Score}</math> of each item, for each meter. Maybe from https://hypixelskyblock.minecraft.wiki/w/Bucket:Catacombs_loot ?|section=y}}",
+        "{{More Info Needed}}"
+      ]
+    },
+    {
+      "page": "Defend Jerry's Workshop",
+      "markers": [
+        "{{Outdated|section=yes}}"
+      ]
+    },
+    {
+      "page": "Pumpkin Power Orb Skin",
+      "markers": [
+        "{{More Info Needed}}"
+      ]
+    },
+    {
+      "page": "Ores",
+      "markers": [
+        "{{More Info Needed}}",
+        "{{More Info Needed}}"
+      ]
+    },
+    {
+      "page": "Carpenter/UI",
+      "markers": [
+        "{{Stub}}"
+      ]
+    },
+    {
+      "page": "Recipe Book",
+      "markers": [
+        "{{Outdated|section=yes}}"
+      ]
+    },
+    {
+      "page": "Hidden Locations",
+      "markers": [
+        "{{Outdated}}"
+      ]
+    },
+    {
+      "page": "Special Zealot",
+      "markers": [
+        "{{Stub}}"
+      ]
+    },
+    {
+      "page": "Catacombs",
+      "markers": [
+        "{{More Info Needed}}"
+      ]
+    },
+    {
+      "page": "Slayer",
+      "markers": [
+        "{{Outdated\n|section=y\n|\n* In which Loot Pool do the Slayer Dyes such as {{Item|Matcha Dye}} or {{Item|Sangria Dye}} belong ? {{gold|'''Main'''}} ? {{red|'''Extra'''}} ? Rolled separately like the {{Item|Paragon Shard}} ?\n* Does {{stat|mf}} affect the {{green|Drop Rate}} of {{Item|Paragon Shard}} ?\n* How do we know that {{stat|mf}} does not affect the {{green|Drop Rate}} of Slayer Dyes ?\n}}",
+        "{{More Info Needed}}"
+      ]
+    },
+    {
+      "page": "Elizabeth",
+      "markers": [
+        "{{Outdated|section=yes}}",
+        "{{Outdated|{{Changelog|2026/April 8}} Changes to Skyblock Gem bundles resulting in an increase of cost}}"
+      ]
+    },
+    {
+      "page": "Private Island",
+      "markers": [
+        "{{More Info Needed}}"
+      ]
+    },
+    {
+      "page": "Ghosts",
+      "markers": [
+        "{{Stub|\n* Needs to be updated with Kuudra, Catacombs, using new templates are our disposal}}",
+        "{{Stub|\n* Abilities for each route in Kuudra are needed}}",
+        "{{Stub|\n* Needs to be updated with Kuudra, Catacombs, using new templates are our disposal}}"
+      ]
+    },
+    {
+      "page": "Personal Vault",
+      "markers": [
+        "{{Stub}}"
+      ]
+    },
+    {
+      "page": "Plasma Nucleus",
+      "markers": [
+        "{{Stub}}"
+      ]
+    },
+    {
+      "page": "Social",
+      "markers": [
+        "{{outdated|Format}}"
+      ]
+    },
+    {
+      "page": "Mega Bat",
+      "markers": [
+        "{{stub}}"
+      ]
+    },
+    {
+      "page": "Pack Enforcer",
+      "markers": [
+        "{{Stub}}"
+      ]
+    },
+    {
+      "page": "Lava Springs",
+      "markers": [
+        "{{Stub}}"
+      ]
+    },
+    {
+      "page": "The Mist",
+      "markers": [
+        "{{Stub}}"
+      ]
+    },
+    {
+      "page": "Rampart's Quarry",
+      "markers": [
+        "{{Stub}}"
+      ]
+    },
+    {
+      "page": "Upper Mines",
+      "markers": [
+        "{{Stub}}"
+      ]
+    },
+    {
+      "page": "Alpha Ophelia",
+      "markers": [
+        "{{Stub|variant=section}}"
+      ]
+    },
+    {
+      "page": "Spawn Villager (NPC)",
+      "markers": [
+        "{{Stub}}"
+      ]
+    },
+    {
+      "page": "Goblin Raid",
+      "markers": [
+        "{{Stub}}",
+        "{{More Info Needed}}",
+        "{{More Info Needed}}",
+        "{{More Info Needed}}",
+        "{{More Info Needed}}",
+        "{{More Info Needed}}",
+        "{{More Info Needed}}"
+      ]
+    },
+    {
+      "page": "Ironman",
+      "markers": [
+        "{{Stub}}"
+      ]
+    },
+    {
+      "page": "Essence Cost",
+      "markers": [
+        "{{Stub|Missing many essence costs}}"
+      ]
+    },
+    {
+      "page": "Storage",
+      "markers": [
+        "{{Stub}}"
+      ]
+    },
+    {
+      "page": "Trevor",
+      "markers": [
+        "{{Outdated|Tracking and Finnegan Changes}}"
+      ]
+    },
+    {
+      "page": "Soulflow (Item)",
+      "markers": [
+        "{{Stub}}"
+      ]
+    },
+    {
+      "page": "Raw Soulflow",
+      "markers": [
+        "{{Stub}}"
+      ]
+    },
+    {
+      "page": "Baking Specialist",
+      "markers": [
+        "{{Stub}}"
+      ]
+    },
+    {
+      "page": "Crystal Hollows",
+      "markers": [
+        "{{Outdated|section=y|Add other game messages relative to the Crystal Hollows.}}"
+      ]
+    },
+    {
+      "page": "Bal",
+      "markers": [
+        "{{More Info Needed|Check if salt is needed}}"
+      ]
+    },
+    {
+      "page": "Goblin Holdout",
+      "markers": [
+        "{{Stub|Either add a redirect to the crystal hollows page hosting the structures or transclude them here}}"
+      ]
+    },
+    {
+      "page": "Tyashoi Alchemist",
+      "markers": [
+        "{{Outdated|section=y|Confirm whether there are dialogues about missing items and after waiting.}}"
+      ]
+    },
+    {
+      "page": "The Great Spook",
+      "markers": [
+        "{{Stub}}"
+      ]
+    },
+    {
+      "page": "Bingo Display",
+      "markers": [
+        "{{Stub}}"
+      ]
+    },
+    {
+      "page": "Collection Display",
+      "markers": [
+        "{{Stub}}"
+      ]
+    },
+    {
+      "page": "Bonzo Statue",
+      "markers": [
+        "{{Stub}}"
+      ]
+    },
+    {
+      "page": "Golden Dante Statue (Item)",
+      "markers": [
+        "{{Stub}}"
+      ]
+    },
+    {
+      "page": "Equipment Menu",
+      "markers": [
+        "{{Outdated}}"
+      ]
+    },
+    {
+      "page": "Forgotten Skull",
+      "markers": [
+        "{{Stub}}"
+      ]
+    },
+    {
+      "page": "Magma Chamber",
+      "markers": [
+        "{{Stub}}"
+      ]
+    },
+    {
+      "page": "Distillates",
+      "markers": [
+        "{{More Info Needed}}"
+      ]
+    },
+    {
+      "page": "Digested Mushrooms",
+      "markers": [
+        "{{Stub}}"
+      ]
+    },
+    {
+      "page": "Matcho",
+      "markers": [
+        "{{Stub}}"
+      ]
+    },
+    {
+      "page": "Mystic Marsh",
+      "markers": [
+        "{{Stub}}"
+      ]
+    },
+    {
+      "page": "Shops",
+      "markers": [
+        "{{stub|variant=section|Should have full list}}",
+        "{{Outdated|section=y|[[NPC]]s moved with the Hub Revamp, Torrhus Canyon, etc.}}"
+      ]
+    },
+    {
+      "page": "Crimson Fields",
+      "markers": [
+        "{{Stub}}"
+      ]
+    },
+    {
+      "page": "Scarleton",
+      "markers": [
+        "{{Stub}}"
+      ]
+    },
+    {
+      "page": "Dragontail",
+      "markers": [
+        "{{Stub}}"
+      ]
+    },
+    {
+      "page": "Scarleton Plaza",
+      "markers": [
+        "{{Stub}}"
+      ]
+    },
+    {
+      "page": "Bestiary/UI",
+      "markers": [
+        "{{Stub}}"
+      ]
+    },
+    {
+      "page": "Dragon Shortbow",
+      "markers": [
+        "{{stub}}"
+      ]
+    },
+    {
+      "page": "Trials of Fire",
+      "markers": [
+        "{{outdated|section=yes}}",
+        "{{outdated|section=yes}}"
+      ]
+    },
+    {
+      "page": "Profile",
+      "markers": [
+        "{{Stub}}"
+      ]
+    },
+    {
+      "page": "Rift Dimension",
+      "markers": [
+        "{{stub}}"
+      ]
+    },
+    {
+      "page": "Wizard Tower (Rift)",
+      "markers": [
+        "{{Stub}}"
+      ]
+    }
+  ],
+  "errors": [],
+  "license": "CC BY-NC-SA 3.0"
+}

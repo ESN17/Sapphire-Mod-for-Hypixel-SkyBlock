@@ -15,3 +15,18 @@ revision IDs, and extraction limitations are retained in translation-review/wiki
 This supplementary data is separate from Sapphire code and from the GPL-licensed
 SkyBlockZH corpus. Existing Sapphire and SkyBlockZH translations retain priority.
 No endorsement by Hypixel, the Wiki, or its contributors is implied.
+
+The creature-messages.json supplement (2026-10-30) adapts fishing and combat
+notices from the same Wiki under CC BY-NC-SA 3.0, with source and revision URLs
+on each extracted entry. Entity reference attribution is retained in
+translation-review/entities-20261030/catalog.json in the source project.
+
+Dungeon supplement (2026-11-03): the Three Weirdos statements, trivia question
+bank and Archer ability descriptions in system-messages.json and
+tooltip-paragraphs.json also adapt game-text transcriptions from the Wiki under
+CC BY-NC-SA 3.0. Their Chinese translations are original adaptations.
+Sources (page history credits the Wiki contributors):
+https://hypixelskyblock.minecraft.wiki/w/Catacombs_Puzzle_Rooms?oldid=866660
+https://hypixelskyblock.minecraft.wiki/w/Archer?oldid=865954
+Research and cross-check references are retained in
+translation-state/dungeon-supplement-20261103/sources.json.

@@ -31,8 +31,19 @@ dependencies {
 
 test {
 	useJUnitPlatform()
+	inputs.property('liveRankVerification', providers.environmentVariable('SAPPHIRE_RANK_LIVE').orElse('false'))
+	inputs.property('liveHelpVerification', providers.environmentVariable('SAPPHIRE_HELP_LIVE').orElse('false'))
+	inputs.property('liveChatTranslationVerification', providers.environmentVariable('SAPPHIRE_CHAT_LIVE').orElse('false'))
+	def dictionaryArchive = providers.environmentVariable('SAPPHIRE_DICTIONARY_ZIP')
+	inputs.property('dictionaryArchiveVerification', dictionaryArchive.isPresent())
+	if (dictionaryArchive.isPresent()) {
+		inputs.file(dictionaryArchive.get()).withPropertyName('dictionaryRelease').withPathSensitivity(PathSensitivity.NONE)
+	}
 	// Full item + GUI fixtures load the 8,937-entry dictionaries in several suites.
 	maxHeapSize = '1g'
+	// Dictionary suites retain full class-level snapshots. Recycle test workers
+	// instead of retaining every suite's dictionaries in one ever-growing heap.
+	forkEvery = 12
 	// Wiki display auditing must be invalidated when staged dictionaries change.
 	inputs.files(fileTree('translation-state/wiki-20261023/staged')).withPropertyName('wikiAuditFixtures')
 	def bulkAudit = providers.environmentVariable('SAPPHIRE_BULK_AUDIT').orElse('false')
@@ -54,8 +65,12 @@ loom {
 	runs {
 		client {
 			configName = 'Sapphire Client (direct launch)'
-			if (project.hasProperty('sapphireSmoke') || project.hasProperty('sapphireApiSmoke')) {
-				vmArg project.hasProperty('sapphireApiSmoke') ? '-Dsapphire.apiSmoke=true' : '-Dsapphire.smoke=true'
+			if (project.hasProperty('sapphireSmoke') || project.hasProperty('sapphireApiSmoke') || project.hasProperty('sapphireDictionarySmoke')) {
+				vmArg project.hasProperty('sapphireDictionarySmoke') ? '-Dsapphire.dictionarySmoke=true' : project.hasProperty('sapphireApiSmoke') ? '-Dsapphire.apiSmoke=true' : '-Dsapphire.smoke=true'
+				if (project.hasProperty('sapphireDictionarySmoke')) {
+					vmArg '-Dsapphire.dictionaryFixture=' + file(providers.gradleProperty('sapphireDictionaryFixture').orElse('exports/dictionaries/20261030_1.zip').get()).absolutePath
+					vmArg '-Dsapphire.expectedDictionaryVersion=' + providers.gradleProperty('sapphireDictionaryVersion').orElse('20261030_1').get()
+				}
 				runDir = providers.gradleProperty('sapphireSmokeDir').orElse('build/sapphire-smoke-run').get()
 			}
 		}
@@ -73,7 +88,7 @@ tasks.named('microsoftLogin') { profile = 'sapphire' }
 tasks.named('microsoftLogout') { profile = 'sapphire' }
 tasks.named('runClient') {
 	profile = 'sapphire'
-	microsoftAuthenticationEnabled = !(project.hasProperty('sapphireSmoke') || project.hasProperty('sapphireApiSmoke'))
+	microsoftAuthenticationEnabled = !(project.hasProperty('sapphireSmoke') || project.hasProperty('sapphireApiSmoke') || project.hasProperty('sapphireDictionarySmoke'))
 	mustRunAfter tasks.named('microsoftLogin')
 }
 tasks.named('runClientOffline') {
@@ -81,12 +96,40 @@ tasks.named('runClientOffline') {
 	offline = true
 }
 
+// One compact content manifest avoids opening thousands of bundled ZIP entries on every launch.
+def bundleHashDir = layout.buildDirectory.dir('generated/bundle-hashes')
+def bundleSourceDir = layout.projectDirectory.dir('src/main/resources/defaults')
+def bundleSourceFiles = fileTree(bundleSourceDir)
+tasks.register('generateBundleHashes') {
+	inputs.dir(bundleSourceDir)
+	outputs.dir(bundleHashDir)
+	doLast {
+		def base = bundleSourceDir.asFile.toPath()
+		def hashes = new TreeMap<String, String>()
+		bundleSourceFiles.files.findAll { it.isFile() }.each { source ->
+			def digest = java.security.MessageDigest.getInstance('SHA-256')
+			source.withInputStream { stream ->
+				byte[] buffer = new byte[65536]
+				int count
+				while ((count = stream.read(buffer)) != -1) digest.update(buffer, 0, count)
+			}
+			hashes[base.relativize(source.toPath()).toString().replace('\\', '/')] = HexFormat.of().formatHex(digest.digest())
+		}
+		def target = bundleHashDir.get().file('defaults/bundle-hashes.json').asFile
+		target.parentFile.mkdirs()
+		target.setText(groovy.json.JsonOutput.toJson(hashes), 'UTF-8')
+	}
+}
+
 processResources {
+	dependsOn tasks.named('generateBundleHashes')
+	from(bundleHashDir)
 	def version = project.version
 	inputs.property "version", version
+	inputs.property "preserveJsonEscapes", true
 
 	filesMatching("fabric.mod.json") {
-		expand "version": version
+		expand([version: version]) { escapeBackslash = true }
 	}
 }
 

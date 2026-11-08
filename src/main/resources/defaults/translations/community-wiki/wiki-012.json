@@ -2575,7 +2575,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Master of chum fishing.",
-      "translation": "碎鱼饵垂钓大师。",
+      "translation": "碎诱鱼料垂钓大师。",
       "styleMappings": {},
       "sampleRaw": "§7Master of chum fishing.",
       "sourceId": "3f4063e83956b8bd0164cfa1",
@@ -13027,9 +13027,9 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Place a single Power Crystal here and it can power the Beacon for up to 48 hours. Power Crystal can be stacked for long periods of time.",
-      "translation": "在此放置一个能量水晶，可为信标供能最多 48 小时。能量水晶可堆叠以维持长时间供能。",
+      "translation": "在此放置一个动力水晶，可为信标供能最多 48 小时。动力水晶可堆叠以维持长时间供能。",
       "styleMappings": {
-        "Power Crystal": "能量水晶",
+        "Power Crystal": "动力水晶",
         "Beacon": "信标",
         "hours": "小时"
       },
@@ -13041,15 +13041,15 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "Place a single Power Crystal here and it can power the Beacon for up to {{N0}} hours. Power Crystal can be stacked for long periods of time.",
-      "numericTranslation": "在此放置一个能量水晶，可为信标供能最多 {{N0}} 小时。能量水晶可堆叠以维持长时间供能。"
+      "numericTranslation": "在此放置一个动力水晶，可为信标供能最多 {{N0}} 小时。动力水晶可堆叠以维持长时间供能。"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Place a single Power Crystal here and it can power the Beacon for up to {{N0}} hours. Power Crystal can be stacked for long periods of time.",
-      "translation": "在此放置一个能量水晶，可为信标供能最多 {{N0}} 小时。能量水晶可堆叠以维持长时间供能。",
+      "translation": "在此放置一个动力水晶，可为信标供能最多 {{N0}} 小时。动力水晶可堆叠以维持长时间供能。",
       "styleMappings": {
-        "Power Crystal": "能量水晶",
+        "Power Crystal": "动力水晶",
         "Beacon": "信标",
         "hours": "小时"
       },
@@ -13061,7 +13061,7 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "Place a single Power Crystal here and it can power the Beacon for up to {{N0}} hours. Power Crystal can be stacked for long periods of time.",
-      "numericTranslation": "在此放置一个能量水晶，可为信标供能最多 {{N0}} 小时。能量水晶可堆叠以维持长时间供能。",
+      "numericTranslation": "在此放置一个动力水晶，可为信标供能最多 {{N0}} 小时。动力水晶可堆叠以维持长时间供能。",
       "templateExamples": {
         "{{N0}}": "48"
       }
@@ -36448,10 +36448,10 @@
       "scope": "system",
       "npc": "",
       "source": "HUNGRY! Your Crown of Avarice seems to want more coins.",
-      "translation": "饥饿！你的贪婪之冠似乎想要更多硬币。",
+      "translation": "饥饿！你的贪欲之冠似乎想要更多硬币。",
       "styleMappings": {
         "HUNGRY!": "饥饿！",
-        "Crown of Avarice": "贪婪之冠"
+        "Crown of Avarice": "贪欲之冠"
       },
       "sampleRaw": "§a§lHUNGRY! §fYour §r§6Crown of Avarice §fseems to want more coins.",
       "sourceId": "c5ac868278f70d29f25c4991",
@@ -36465,10 +36465,10 @@
       "scope": "system",
       "npc": "",
       "source": "STARVING! You can feel your Crown of Avarice's cravings getting stronger.",
-      "translation": "饥肠辘辘！你能感觉到贪婪之冠的渴望越来越强烈。",
+      "translation": "饥肠辘辘！你能感觉到贪欲之冠的渴望越来越强烈。",
       "styleMappings": {
         "STARVING!": "饥肠辘辘！",
-        "Crown of Avarice": "贪婪之冠"
+        "Crown of Avarice": "贪欲之冠"
       },
       "sampleRaw": "§e§lSTARVING! §fYou can feel your §6Crown of Avarice§f's cravings getting stronger.",
       "sourceId": "665752dc5d9102e548390b21",
@@ -36482,10 +36482,10 @@
       "scope": "system",
       "npc": "",
       "source": "FAMISHED! Your Crown of Avarice starts growling at you for more coins. What have you gotten yourself into...?",
-      "translation": "极度饥饿!你的贪婪之冠开始朝你咆哮,索要更多硬币.你到底把自己卷进了什么……?",
+      "translation": "极度饥饿!你的贪欲之冠开始朝你咆哮,索要更多硬币.你到底把自己卷进了什么……?",
       "styleMappings": {
         "FAMISHED!": "极度饥饿!",
-        "Crown of Avarice": "贪婪之冠",
+        "Crown of Avarice": "贪欲之冠",
         "What have you gotten yourself into...?": "你到底把自己卷进了什么……?"
       },
       "sampleRaw": "§6§lFAMISHED! §fYour §r§6Crown of Avarice §fstarts growling at you for more coins. §7§oWhat have you gotten yourself into...?",
@@ -36500,10 +36500,10 @@
       "scope": "system",
       "npc": "",
       "source": "RAVENOUS! Your Crown of Avarice is barking at you. If you don't keep feeding it coins, it might eat your head instead!",
-      "translation": "贪婪无度！你的贪婪之冠正朝你狂吠。如果你不继续喂它硬币，它可能会改吃你的脑袋！",
+      "translation": "贪婪无度！你的贪欲之冠正朝你狂吠。如果你不继续喂它硬币，它可能会改吃你的脑袋！",
       "styleMappings": {
         "RAVENOUS!": "贪婪无度！",
-        "Crown of Avarice": "贪婪之冠"
+        "Crown of Avarice": "贪欲之冠"
       },
       "sampleRaw": "§c§lRAVENOUS! §fYour §6Crown of Avarice§f is barking at you. If you don't keep feeding it coins, it might eat your head instead!",
       "sourceId": "0725d0af981625d1bc1a4e19",
@@ -36517,10 +36517,10 @@
       "scope": "system",
       "npc": "",
       "source": "SATIATED! Your Crown of Avarice is stuffed to the brim, and appears to be in a food coma.",
-      "translation": "饱食！你的贪婪之冠被塞得满满当当，似乎已经撑得昏睡过去了。",
+      "translation": "饱食！你的贪欲之冠被塞得满满当当，似乎已经撑得昏睡过去了。",
       "styleMappings": {
         "SATIATED!": "饱食！",
-        "Crown of Avarice": "贪婪之冠"
+        "Crown of Avarice": "贪欲之冠"
       },
       "sampleRaw": "§b§lSATIATED! §fYour §6Crown of Avarice§f is stuffed to the brim, and appears to be in a food coma.",
       "sourceId": "12fe1bd0c03014666f4b17c2",
@@ -56363,9 +56363,9 @@
       "scope": "system",
       "npc": "",
       "source": "What even is that?! A... gorF?",
-      "translation": "那到底是什么？！一只……gorF？",
+      "translation": "那到底是什么？！一只……蛙青？",
       "styleMappings": {
-        "What even is that?! A... gorF?": "那到底是什么？！一只……gorF？"
+        "What even is that?! A... gorF?": "那到底是什么？！一只……蛙青？"
       },
       "sampleRaw": "§aWhat even is that?! A... gorF?",
       "sourceId": "fb991a5c128a18400cc6c81f",

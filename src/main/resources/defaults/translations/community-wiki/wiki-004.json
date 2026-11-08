@@ -7836,7 +7836,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Power Crystal",
-      "translation": "能量水晶",
+      "translation": "动力水晶",
       "styleMappings": {
         "Crystal": "水晶"
       },
@@ -7988,9 +7988,9 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Foul Flesh",
-      "translation": "腐肉",
+      "translation": "污秽腐肉",
       "styleMappings": {
-        "Foul Flesh": "腐肉"
+        "Foul Flesh": "污秽腐肉"
       },
       "sampleRaw": "§9Foul Flesh",
       "sourceId": "4824ee134d028b72a7be5a01",
@@ -14988,7 +14988,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Nope the Fish",
-      "translation": "不是鱼",
+      "translation": "拒绝之鱼",
       "styleMappings": {
         "Fish": "鱼"
       },
@@ -15109,7 +15109,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Dust the Fish",
-      "translation": "灰尘鱼",
+      "translation": "尘埃之鱼",
       "styleMappings": {
         "Fish": "鱼"
       },
@@ -15141,7 +15141,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "The Cake",
-      "translation": "蛋糕",
+      "translation": "那块蛋糕",
       "styleMappings": {},
       "sampleRaw": "§cThe Cake",
       "sourceId": "b23f55df0ce32e542decfe04",
@@ -68665,9 +68665,9 @@
       "scope": "tooltip",
       "npc": "",
       "source": "[Lvl 65] gorF (RARE)",
-      "translation": "[Lvl 65] gorF（稀有）",
+      "translation": "[Lvl 65] 蛙青（稀有）",
       "styleMappings": {
-        "gorF": "gorF",
+        "gorF": "蛙青",
         "RARE": "稀有"
       },
       "sampleRaw": "§7[Lvl 65] gorF (§9§lRARE§7)",
@@ -68678,15 +68678,15 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "[Lvl {{N0}}] gorF (RARE)",
-      "numericTranslation": "[Lvl {{N0}}] gorF（稀有）"
+      "numericTranslation": "[Lvl {{N0}}] 蛙青（稀有）"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "[Lvl {{N0}}] gorF (RARE)",
-      "translation": "[Lvl {{N0}}] gorF（稀有）",
+      "translation": "[Lvl {{N0}}] 蛙青（稀有）",
       "styleMappings": {
-        "gorF": "gorF",
+        "gorF": "蛙青",
         "RARE": "稀有"
       },
       "sampleRaw": "[Lvl {{N0}}] gorF (RARE)",
@@ -68697,7 +68697,7 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "[Lvl {{N0}}] gorF (RARE)",
-      "numericTranslation": "[Lvl {{N0}}] gorF（稀有）",
+      "numericTranslation": "[Lvl {{N0}}] 蛙青（稀有）",
       "templateExamples": {
         "{{N0}}": "65"
       }
@@ -72155,7 +72155,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Ghostly Boots",
-      "translation": "幽灵靴子",
+      "translation": "幽魂靴子",
       "styleMappings": {
         "Boots": "靴子"
       },
@@ -73224,10 +73224,10 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Warden Helmet",
-      "translation": "典狱长头盔",
+      "translation": "监守者头盔",
       "styleMappings": {
         "Helmet": "头盔",
-        "Warden Helmet": "典狱长头盔"
+        "Warden Helmet": "监守者头盔"
       },
       "sampleRaw": "§cWarden Helmet",
       "sourceId": "6f0261f6c6d4620b4e3e007f",
@@ -86513,9 +86513,9 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Silex",
-      "translation": "燧石",
+      "translation": "燧石强化剂",
       "styleMappings": {
-        "Silex": "燧石"
+        "Silex": "燧石强化剂"
       },
       "sampleRaw": "§5Silex",
       "sourceId": "6493d8b88e6fc234f762e988",
@@ -89873,7 +89873,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Reaper Orb",
-      "translation": "收割者宝珠",
+      "translation": "死神宝珠",
       "styleMappings": {
         "Orb": "宝珠"
       },
@@ -95549,9 +95549,9 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Chum Fishing",
-      "translation": "鱼饵钓鱼",
+      "translation": "诱鱼料钓鱼",
       "styleMappings": {
-        "Chum Fishing": "鱼饵钓鱼"
+        "Chum Fishing": "诱鱼料钓鱼"
       },
       "sampleRaw": "§6Chum Fishing",
       "sourceId": "fb512d41639edcead533feb2",
@@ -95758,7 +95758,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Lump of Magma",
-      "translation": "岩浆块",
+      "translation": "岩浆团",
       "styleMappings": {},
       "sampleRaw": "§aLump of Magma",
       "sourceId": "09d6421a0782ce7be5692c49",
@@ -96008,9 +96008,9 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Chum",
-      "translation": "鱼饵",
+      "translation": "诱鱼料",
       "styleMappings": {
-        "Chum": "鱼饵"
+        "Chum": "诱鱼料"
       },
       "sampleRaw": "§aChum",
       "sourceId": "312a70f490d2e8c5c7090a26",

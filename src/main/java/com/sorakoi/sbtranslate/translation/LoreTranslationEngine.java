@@ -96,12 +96,13 @@ public final class LoreTranslationEngine {
             // A saved in-game edit must take precedence over the bundled shared
             // tooltip wording for the same source paragraph.
             candidates.sort(Comparator.comparing(TranslationManager.Paragraph::userEdited).reversed());
+            String firstLine=plain.strip();
             for (var paragraph : candidates) {
                 // Product-name identity templates are single structured GUI rows.
                 // contextLine handles them; joining can swallow category rows.
                 if(contextRules.contains(paragraph) && paragraph.template().variables.contains("name")
                         && paragraph.template().source.equals(paragraph.template().target))continue;
-                var found=paragraph(source,index,paragraph,item==null?Map.of():item.styleMappings());
+                var found=paragraph(source,index,paragraph,item==null?Map.of():item.styleMappings(),firstLine);
                 if(found==null)continue;
                 int count=found.count();
                 var originals=source.subList(index,index+count);
@@ -127,19 +128,9 @@ public final class LoreTranslationEngine {
         return new Result(List.copyOf(result),List.copyOf(missing),changed);
     }
     private record ParagraphResult(Component text,int count) {}
-    private static ParagraphResult paragraph(List<Component> lines,int index,TranslationManager.Paragraph paragraph,Map<String,String> fallback) {
-        String first=TranslationManager.plain(lines.get(index).getString()).strip();
-        String prefix=paragraph.source().getFirst();
-        var variable=TranslationManager.VARIABLE.matcher(prefix);
-        if(variable.find()) {
-            if(variable.start()==0) {
-                String after=prefix.substring(variable.end()).strip();
-                String word=after.split("[ {]",2)[0];
-                if(!word.isEmpty() && !first.contains(word))return null;
-            }
-            prefix=prefix.substring(0,variable.start());
-        }
-        prefix=prefix.strip();
+    private static ParagraphResult paragraph(List<Component> lines,int index,TranslationManager.Paragraph paragraph,Map<String,String> fallback,String first) {
+        String prefix=paragraph.leadingLiteral(),word=paragraph.requiredWord();
+        if(!word.isEmpty() && !first.contains(word))return null;
         if(first.isEmpty() || !first.startsWith(prefix) && !prefix.startsWith(first))return null;
         MutableComponent combined=Component.empty();
         for(int count=1;count<=16 && index+count<=lines.size();count++) {

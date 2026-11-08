@@ -51,7 +51,7 @@ class EnchantmentTranslationTest {
             }
             return Optional.empty();
         },Style.EMPTY);
-        assertEquals(List.of(ChatFormatting.BLUE.getColor(),ChatFormatting.GOLD.getColor()),colors);
+        assertEquals(List.of(0x5555ff,0xffaa00),colors);
     }
     @Test void liveProgressionArabicLevelsHyphensAndApostrophesWork() {
         assertEquals("近战战斗专精 X, 远程战斗专精 IX",translate(Component.literal("Champion X, Toxophilite IX")).getString());

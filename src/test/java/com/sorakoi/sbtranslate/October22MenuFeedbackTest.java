@@ -24,6 +24,9 @@ class October22MenuFeedbackTest {
         var audit=TranslationManager.readObject(Path.of("docs/vanilla-name-audit.json"));
         for(var entry:audit.getAsJsonArray("differences")) {
             var row=entry.getAsJsonObject();String id=row.get("id").getAsString(),name=row.get("new").getAsString();
+            // The reviewed name-disambiguation policy distinguishes crop blocks from harvested items.
+            if(id.equals("POTATO"))name="马铃薯作物";
+            if(id.equals("CARROT"))name="胡萝卜作物";
             var item=manager.item(id);assertEquals(name,item.name(),id);
             var source=Component.literal(item.originalName()).withStyle(ChatFormatting.GREEN);
             var out=TextTranslationEngine.itemName(source,item.originalName(),item.name(),manager::reforge,item.styleMappings());

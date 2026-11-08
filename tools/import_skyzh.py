@@ -67,6 +67,8 @@ def main():
     term_re=re.compile(r'(?<![A-Za-z])(?:'+'|'.join(re.escape(s) for s in sorted(terms,key=len,reverse=True))+r')(?![A-Za-z])')
     def normalize(s,source=''):
         s=term_re.sub(lambda m:terms[m.group()],s)
+        if 'Magic Find' in source:
+            s=s.replace('魔法寻宝','稀有物品概率加成').replace('魔力寻获','稀有物品概率加成')
         if re.search(r'\bSlayers?\b',source):
             for old in ('猎杀任务','猎手','讨伐','屠魔'):s=s.replace(old,'杀手')
         if re.search(r'\bBits\b',source):s=s.replace('点券','比特')

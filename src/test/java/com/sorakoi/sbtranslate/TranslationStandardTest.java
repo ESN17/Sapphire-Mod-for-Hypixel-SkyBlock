@@ -103,7 +103,7 @@ class TranslationStandardTest {
         var result=TextTranslationEngine.apply(source,match);
         assertEquals("宝石: [⚔] [⚔]",result.getString());
         StyledLoreTest.color(result,"⚔",ChatFormatting.GRAY);
-        assertEquals(ChatFormatting.DARK_GRAY.getColor(),result.getSiblings().getLast().getStyle().getColor().getValue());
+        assertEquals(0x555555,result.getSiblings().getLast().getStyle().getColor().getValue());
     }
     @Test void singularAndPluralAliasesCanShareChineseOnlyWhenTheirStylesAgree() {
         var source=Component.literal("§7Use §cEnemies §7and §cEnemy§7.");

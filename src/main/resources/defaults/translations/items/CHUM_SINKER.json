@@ -21,9 +21,9 @@
         "Materializes Chum in your inventory",
         "whenever you catch something."
       ],
-      "translation": "每次钓到东西时,都会在你的物品栏中生成鱼饵.",
+      "translation": "每次钓到东西时,都会在你的物品栏中生成诱鱼料.",
       "styleMappings": {
-        "Chum": "鱼饵"
+        "Chum": "诱鱼料"
       }
     },
     {
@@ -66,7 +66,7 @@
   ],
   "styleMappings": {
     "Sinker": "沉子",
-    "Chum": "诱饵"
+    "Chum": "诱鱼料"
   },
   "_translation_policy": "2026-10-16-user-standard-v1"
 }

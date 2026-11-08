@@ -8,7 +8,12 @@ import java.util.*;
 
 /** Explicit menu contexts; free-form values are copied, never used as item IDs. */
 public final class GuiTranslationEngine {
-    public record Menu(String id,List<TranslationManager.Template> titles,List<TranslationManager.Paragraph> paragraphs,Map<String,String> labels) {}
+    public record Menu(String id,List<TranslationManager.Template> titles,List<TranslationManager.Paragraph> paragraphs,Map<String,String> labels,
+                       Map<String,Set<String>> navigationGroups) {
+        public Menu(String id,List<TranslationManager.Template> titles,List<TranslationManager.Paragraph> paragraphs,Map<String,String> labels) {
+            this(id,titles,paragraphs,labels,Map.of());
+        }
+    }
     public static List<Menu> load(Path path) throws IOException {
         return load(path,Map.of(),Map.of());
     }
@@ -29,6 +34,7 @@ public final class GuiTranslationEngine {
                 // A reviewed exact status wins over a generic copied-text tail.
                 rules.sort(Comparator.comparingInt((TranslationManager.Paragraph p)->p.template().specificity).reversed());
                 var labels=new HashMap<String,String>();
+                var navigationGroups=new HashMap<String,Set<String>>();
                 if(id.equals("bazaar")) {
                     // Display labels only: never assign an ID or change an ItemStack.
                     // Conflicting translations for the same metadata name are omitted.
@@ -45,10 +51,15 @@ public final class GuiTranslationEngine {
                         String translated=scopes.getOrDefault("enchantments",Map.of()).get(enchant.getKey());
                         if(translated==null || translated.isBlank())continue;
                         labels.put(enchant.getKey(),translated);
+                        String category=enchant.getValue().startsWith("ULTIMATE_")?"Ultimate Enchantments":"Normal Enchantments";
+                        var names=navigationGroups.computeIfAbsent(category,key->new HashSet<>());
+                        names.add(enchant.getKey());
                         for(int level=1;level<=100;level++)if(items.containsKey(enchant.getValue()+";"+level)) {
                             labels.put(enchant.getKey()+" "+level,translated+" "+level);
+                            names.add(enchant.getKey()+" "+level);
                             String roman=BazaarTranslationEngine.roman(level);
                             labels.put(enchant.getKey()+" "+roman,translated+" "+roman);
+                            names.add(enchant.getKey()+" "+roman);
                         }
                     }
                 }
@@ -58,7 +69,8 @@ public final class GuiTranslationEngine {
                     if(en.isBlank() || zh.isBlank() || en.length()>256 || zh.length()>256 || (en+zh).matches("(?s).*[§\\r\\n\\x00].*"))throw new IllegalArgumentException("Invalid GUI label");
                     labels.put(en,zh);
                 }
-                result.add(new Menu(id,List.copyOf(titles),List.copyOf(rules),Map.copyOf(labels)));
+                navigationGroups.replaceAll((key,value)->Set.copyOf(value));
+                result.add(new Menu(id,List.copyOf(titles),List.copyOf(rules),Map.copyOf(labels),Map.copyOf(navigationGroups)));
             }
             return List.copyOf(result);
         } catch(RuntimeException ex){throw new IOException(path+": "+ex.getMessage(),ex);}
@@ -67,6 +79,8 @@ public final class GuiTranslationEngine {
         if(title==null)return null;
         String plain=TranslationManager.plain(title);
         if(plain.length()>256)return null;
+        if(manager.scope("entity-names").containsKey(plain))
+            for(var menu:manager.guiMenus())if(menu.id().equals("creatures"))return menu;
         // Events category names have user-defined meanings only within this directory.
         for(var menu:manager.guiMenus())if(menu.id().equals("bazaar") &&
                 plain.matches("^(?:\\([1-9][0-9]{0,2}/[1-9][0-9]{0,2}\\) )?(?:Oddities (?:➜|➔|→|➤) Events|Events (?:➜|➔|→|➤) .+)$")) {
@@ -83,6 +97,18 @@ public final class GuiTranslationEngine {
     }
     public static Component title(Component source,TranslationManager manager) {
         var menu=menu(source.getString(),manager);if(menu==null)return source;
+        if(menu.id().equals("creatures")) {
+            var name=creatureName(source,menu,manager);if(name!=source)return name;
+            // Known family names inside Bestiary breadcrumbs use the same entity dictionary.
+            if(TranslationManager.plain(source.getString()).contains("Bestiary ➜ ")) {
+                String title=TranslationManager.plain(source.getString());
+                String family=title.substring(title.indexOf("Bestiary ➜ ")+"Bestiary ➜ ".length());
+                if(manager.entityNames().match(family)!=null) {
+                    var translated=SystemTranslationEngine.translate(source,"bestiary-title",manager);
+                    if(translated!=source)return translated;
+                }
+            }
+        }
         if(menu.id().equals("community")) {
             if(manager.exact("gui",TranslationManager.plain(source.getString())))
                 return TextTranslationEngine.translate(source,s->manager.match("gui",null,s));
@@ -104,8 +130,13 @@ public final class GuiTranslationEngine {
         return TextTranslationEngine.padded(source,inner->unpaddedButton(inner,menu));
     }
     public static Component detailLine(Component source,Menu menu,TranslationManager manager) {
+        var creature=creatureName(source,menu,manager);if(creature!=source)return creature;
         Component local=button(source,menu);
         return local!=source || menu==null?local:SystemTranslationEngine.translate(source,"gui-tooltip",manager);
+    }
+    public static Component creatureName(Component source,Menu menu,TranslationManager manager) {
+        if(menu==null || !menu.id().equals("creatures"))return source;
+        return com.sorakoi.sbtranslate.client.EntityNameDisplay.translate(source,manager);
     }
     private static Component unpaddedButton(Component source,Menu menu) {
         if(menu==null)return source;
@@ -138,6 +169,6 @@ public final class GuiTranslationEngine {
         String title=TranslationManager.plain(heading.getString());
         if(!title.equals("Events") && !title.equals(menu.labels().get("Events")))return menu;
         var labels=new HashMap<>(menu.labels());labels.putAll(manager.scope("bazaar-events"));
-        return new Menu(menu.id(),menu.titles(),menu.paragraphs(),Map.copyOf(labels));
+        return new Menu(menu.id(),menu.titles(),menu.paragraphs(),Map.copyOf(labels),menu.navigationGroups());
     }
 }

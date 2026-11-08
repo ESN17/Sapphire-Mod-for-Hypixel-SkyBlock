@@ -22,7 +22,7 @@ class BazaarTranslationTest {
     }
     static String name(String text) {return GuiTranslationEngine.button(Component.literal(text),GuiTranslationEngine.menu("Bazaar",manager)).getString();}
     @Test void gabagoolPreviewNamesKeepPricesAndStyles() {
-        for(var pair:List.of(new String[]{"Crude Gabagool","粗制加巴古尔"},new String[]{"Very Crude Gabagool","极粗劣加巴古尔"},new String[]{"Fuel Gabagool","燃料加巴古尔"},new String[]{"Heavy Gabagool","重型加巴古尔"},new String[]{"Hypergolic Gabagool","超燃加巴古尔"},new String[]{"Gabagool Distillate","加巴古尔蒸馏液"},new String[]{"Gabagool the Fish","鱼加巴古尔"})) {
+        for(var pair:List.of(new String[]{"Crude Gabagool","粗制加巴古尔"},new String[]{"Very Crude Gabagool","极粗劣加巴古尔"},new String[]{"Fuel Gabagool","燃料加巴古尔"},new String[]{"Heavy Gabagool","重型加巴古尔"},new String[]{"Hypergolic Gabagool","超燃加巴古尔"},new String[]{"Gabagool Distillate","加巴古尔蒸馏液"},new String[]{"Gabagool the Fish","加巴古尔之鱼"})) {
             assertEquals(pair[1],name(pair[0]));
             var raw=Component.literal("§a▸ §7"+pair[0]+" §c303 §7| §a550");var before=raw.copy();
             var result=BazaarTranslationEngine.line(raw,GuiTranslationEngine.menu("Bazaar",manager));

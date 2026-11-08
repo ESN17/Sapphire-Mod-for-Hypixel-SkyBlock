@@ -1,0 +1,2437 @@
+[
+  {
+    "source": "Fetched $resourcesFetched $resourceType resources in $elapsedFormat.",
+    "file": "src/main/java/at/hannibal2/skyhanni/api/EliteDevApi.kt",
+    "line": 119
+  },
+  {
+    "source": "pendingTabPet: ${pendingTabPetData?.formatForCurrentDebug() ?: ",
+    "file": "src/main/java/at/hannibal2/skyhanni/api/pet/CurrentPetApi.kt",
+    "line": 144
+  },
+  {
+    "source": "pets (${rarity.name}):",
+    "file": "src/main/java/at/hannibal2/skyhanni/api/pet/PetStorageDebug.kt",
+    "line": 30
+  },
+  {
+    "source": "Name: $skillType",
+    "file": "src/main/java/at/hannibal2/skyhanni/api/SkillApi.kt",
+    "line": 475
+  },
+  {
+    "source": "§e${skill.displayName}: §b${data.customGoalLevel}",
+    "file": "src/main/java/at/hannibal2/skyhanni/api/SkillApi.kt",
+    "line": 626
+  },
+  {
+    "source": "With §b${xp.addSeparators()} §eXP you would be level §b$overflowLevel §ewith progress (§b${current.addSeparators()}§e/§b${needed.addSeparators()}§e) XP",
+    "file": "src/main/java/at/hannibal2/skyhanni/api/SkillApi.kt",
+    "line": 640
+  },
+  {
+    "source": "$rawLevel is not a valid number.",
+    "file": "src/main/java/at/hannibal2/skyhanni/api/SkillApi.kt",
+    "line": 683
+  },
+  {
+    "source": "${field.declaringClass.name}.${field.name}",
+    "file": "src/main/java/at/hannibal2/skyhanni/config/ConfigManager.kt",
+    "line": 118
+  },
+  {
+    "source": " (${deployableType.name.allLettersFirstUppercase()})",
+    "file": "src/main/java/at/hannibal2/skyhanni/config/features/combat/DeployableReminderConfig.kt",
+    "line": 40
+  },
+  {
+    "source": "$base.opacity",
+    "file": "src/main/java/at/hannibal2/skyhanni/config/features/garden/visitor/RewardWarningConfig.kt",
+    "line": 137
+  },
+  {
+    "source": "$base.transparency",
+    "file": "src/main/java/at/hannibal2/skyhanni/config/features/garden/visitor/RewardWarningConfig.kt",
+    "line": 137
+  },
+  {
+    "source": "$base.opacity",
+    "file": "src/main/java/at/hannibal2/skyhanni/config/features/inventory/HideNotClickableConfig.kt",
+    "line": 63
+  },
+  {
+    "source": "$base.transparency",
+    "file": "src/main/java/at/hannibal2/skyhanni/config/features/inventory/HideNotClickableConfig.kt",
+    "line": 63
+  },
+  {
+    "source": "$basePath.mineshaftWaypoints.entranceLocation",
+    "file": "src/main/java/at/hannibal2/skyhanni/config/features/mining/glacite/MineshaftWaypointsConfig.kt",
+    "line": 41
+  },
+  {
+    "source": "$basePath.waypointsConfig.types.entrance",
+    "file": "src/main/java/at/hannibal2/skyhanni/config/features/mining/glacite/MineshaftWaypointsConfig.kt",
+    "line": 41
+  },
+  {
+    "source": "$basePath.mineshaftWaypoints.ladderLocation",
+    "file": "src/main/java/at/hannibal2/skyhanni/config/features/mining/glacite/MineshaftWaypointsConfig.kt",
+    "line": 42
+  },
+  {
+    "source": "$basePath.waypointsConfig.types.ladder",
+    "file": "src/main/java/at/hannibal2/skyhanni/config/features/mining/glacite/MineshaftWaypointsConfig.kt",
+    "line": 42
+  },
+  {
+    "source": "$basePath.corpseLocator.enabled",
+    "file": "src/main/java/at/hannibal2/skyhanni/config/features/mining/glacite/MineshaftWaypointsConfig.kt",
+    "line": 43
+  },
+  {
+    "source": "$basePath.waypointsConfig.types.foundCorpse",
+    "file": "src/main/java/at/hannibal2/skyhanni/config/features/mining/glacite/MineshaftWaypointsConfig.kt",
+    "line": 43
+  },
+  {
+    "source": "$basePath.waypointsConfig.types.lootedCorpse",
+    "file": "src/main/java/at/hannibal2/skyhanni/config/features/mining/glacite/MineshaftWaypointsConfig.kt",
+    "line": 44
+  },
+  {
+    "source": "$basePath.corpseLocator.autoSendLocation",
+    "file": "src/main/java/at/hannibal2/skyhanni/config/features/mining/glacite/MineshaftWaypointsConfig.kt",
+    "line": 47
+  },
+  {
+    "source": "$basePath.waypointsConfig.autoShareFoundCorpses",
+    "file": "src/main/java/at/hannibal2/skyhanni/config/features/mining/glacite/MineshaftWaypointsConfig.kt",
+    "line": 47
+  },
+  {
+    "source": "$basePath.shareWaypointLocation",
+    "file": "src/main/java/at/hannibal2/skyhanni/config/features/mining/glacite/MineshaftWaypointsConfig.kt",
+    "line": 48
+  },
+  {
+    "source": "$basePath.waypointsConfig.shareFoundCorpseKeybind",
+    "file": "src/main/java/at/hannibal2/skyhanni/config/features/mining/glacite/MineshaftWaypointsConfig.kt",
+    "line": 48
+  },
+  {
+    "source": "$basePath.mineshaftWaypoints.enabled",
+    "file": "src/main/java/at/hannibal2/skyhanni/config/features/mining/glacite/MineshaftWaypointsConfig.kt",
+    "line": 49
+  },
+  {
+    "source": "§e$it§7: ",
+    "file": "src/main/java/at/hannibal2/skyhanni/config/features/pets/display/text/TextPetDisplayConfig.kt",
+    "line": 36
+  },
+  {
+    "source": "$vertical $horizontal",
+    "file": "src/main/java/at/hannibal2/skyhanni/config/features/pets/display/visual/PetItemConfig.kt",
+    "line": 48
+  },
+  {
+    "source": "$icon §ffor $itemDisplayName",
+    "file": "src/main/java/at/hannibal2/skyhanni/config/features/pets/PetConfig.kt",
+    "line": 94
+  },
+  {
+    "source": "$icon §ffor $displayName",
+    "file": "src/main/java/at/hannibal2/skyhanni/config/features/pets/PetConfig.kt",
+    "line": 95
+  },
+  {
+    "source": "${oldPath}hideIrrelevantMobsOpacity",
+    "file": "src/main/java/at/hannibal2/skyhanni/config/features/slayer/SlayerConfig.kt",
+    "line": 199
+  },
+  {
+    "source": "${oldPath}hideIrrelevantMobsTransparency",
+    "file": "src/main/java/at/hannibal2/skyhanni/config/features/slayer/SlayerConfig.kt",
+    "line": 199
+  },
+  {
+    "source": "${oldPath}slayerRemainingKills.",
+    "file": "src/main/java/at/hannibal2/skyhanni/config/features/slayer/SlayerConfig.kt",
+    "line": 200
+  },
+  {
+    "source": "${oldPath}remainingKills",
+    "file": "src/main/java/at/hannibal2/skyhanni/config/features/slayer/SlayerConfig.kt",
+    "line": 201
+  },
+  {
+    "source": "${remainingKillsPath}display",
+    "file": "src/main/java/at/hannibal2/skyhanni/config/features/slayer/SlayerConfig.kt",
+    "line": 201
+  },
+  {
+    "source": "${oldPath}remainingKillsLevel",
+    "file": "src/main/java/at/hannibal2/skyhanni/config/features/slayer/SlayerConfig.kt",
+    "line": 202
+  },
+  {
+    "source": "${remainingKillsPath}includeMobLevel",
+    "file": "src/main/java/at/hannibal2/skyhanni/config/features/slayer/SlayerConfig.kt",
+    "line": 202
+  },
+  {
+    "source": "${oldPath}remainingKillsHealth",
+    "file": "src/main/java/at/hannibal2/skyhanni/config/features/slayer/SlayerConfig.kt",
+    "line": 203
+  },
+  {
+    "source": "${remainingKillsPath}includeMobHealth",
+    "file": "src/main/java/at/hannibal2/skyhanni/config/features/slayer/SlayerConfig.kt",
+    "line": 203
+  },
+  {
+    "source": "${oldPath}remainingKillsPosition",
+    "file": "src/main/java/at/hannibal2/skyhanni/config/features/slayer/SlayerConfig.kt",
+    "line": 204
+  },
+  {
+    "source": "${remainingKillsPath}remainingKillsPosition",
+    "file": "src/main/java/at/hannibal2/skyhanni/config/features/slayer/SlayerConfig.kt",
+    "line": 204
+  },
+  {
+    "source": "$modName ${SkyHanniMod.VERSION} by §channibal2§r, config by §5Moulberry §rand §5nea89",
+    "file": "src/main/java/at/hannibal2/skyhanni/config/SkyHanniConfig.kt",
+    "line": 58
+  },
+  {
+    "source": "line: '$it'",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/ActionBarData.kt",
+    "line": 51
+  },
+  {
+    "source": "Bits: $bits",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/BitsApi.kt",
+    "line": 429
+  },
+  {
+    "source": " - $currency: $amount",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/CurrencyApi.kt",
+    "line": 402
+  },
+  {
+    "source": " - $currency: $amount",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/CurrencyApi.kt",
+    "line": 406
+  },
+  {
+    "source": " - ${internalName.asString()}: $amount",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/CurrencyApi.kt",
+    "line": 410
+  },
+  {
+    "source": "Current Mayor: ${currentMayor?.name ?: ",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/ElectionApi.kt",
+    "line": 289
+  },
+  {
+    "source": "Last Update: ${lastUpdate.formattedDate(",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/ElectionApi.kt",
+    "line": 291
+  },
+  {
+    "source": "Current Minister: ${currentMinister?.name ?: ",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/ElectionApi.kt",
+    "line": 293
+  },
+  {
+    "source": "Added ${amount.addSeparators()} of type $type to $crop",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/garden/CropCollectionApi.kt",
+    "line": 77
+  },
+  {
+    "source": "$entry collection: ${entry.getCollection()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/garden/CropCollectionApi.kt",
+    "line": 98
+  },
+  {
+    "source": "Crop: ${it.key}",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/garden/CropCollectionApi.kt",
+    "line": 138
+  },
+  {
+    "source": "Total: ${it.value.getTotal()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/garden/CropCollectionApi.kt",
+    "line": 139
+  },
+  {
+    "source": "$collectionType: ${collectionType.value}",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/garden/CropCollectionApi.kt",
+    "line": 141
+  },
+  {
+    "source": "Found §c${data.size} §ewrong crop milestone steps in the menu! Correct data got put into clipboard. Please share it on the §bSkyHanni Discord §ein the channel §b#share-data§e.",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/garden/cropmilestones/CommunityFix.kt",
+    "line": 76
+  },
+  {
+    "source": "$crop:$realTier:${nextMax.addSeparators()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/garden/cropmilestones/CommunityFix.kt",
+    "line": 105
+  },
+  {
+    "source": "Fixed: $fixed/$alreadyCorrect, total fixes: $totalFixedValues",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/garden/cropmilestones/CommunityFix.kt",
+    "line": 144
+  },
+  {
+    "source": "Crop: ${crop.key}, Tier: ${crop.value}",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/garden/cropmilestones/CropMilestonesApi.kt",
+    "line": 400
+  },
+  {
+    "source": "Crop: ${crop.key}, Progress: ${crop.value}",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/garden/cropmilestones/CropMilestonesApi.kt",
+    "line": 403
+  },
+  {
+    "source": "$it - Weight Factor: ${cropWeightValues[it]}",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/garden/FarmingWeightData.kt",
+    "line": 309
+  },
+  {
+    "source": "${it.displayName} Powder: ${it.current}/${it.total}",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/hotx/HotmData.kt",
+    "line": 682
+  },
+  {
+    "source": "§d${event.direction.text}",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/hypixel/chat/PlayerNameFormatter.kt",
+    "line": 143
+  },
+  {
+    "source": " - $line",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/hypixel/IslandDetectionWatcher.kt",
+    "line": 83
+  },
+  {
+    "source": "recentlyClickedBlocks: ${recentClickedBlocks.keys.joinToString { ",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/MiningApi.kt",
+    "line": 566
+  },
+  {
+    "source": "Mobs over Max Search Count: ${MobData.retries.count { it.value.times > MAX_RETRIES }}",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/mob/MobDetection.kt",
+    "line": 401
+  },
+  {
+    "source": " $this",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/model/SkyHanniInventoryContainer.kt",
+    "line": 49
+  },
+  {
+    "source": " §a- §7$member",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/PartyApi.kt",
+    "line": 158
+  },
+  {
+    "source": " - $member",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/PartyApi.kt",
+    "line": 307
+  },
+  {
+    "source": "$commonName Repo $repoAction Coroutine",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/repo/AbstractRepoManager.kt",
+    "line": 152
+  },
+  {
+    "source": "$commonShortNameCased repo settings are already on default!",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/repo/AbstractRepoManager.kt",
+    "line": 257
+  },
+  {
+    "source": "§a$commonName repo updated successfully!",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/repo/AbstractRepoManager.kt",
+    "line": 364
+  },
+  {
+    "source": "$commonName repo working fine! Commit hash: §b$currentDownloadedCommit§r",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/repo/AbstractRepoManager.kt",
+    "line": 381
+  },
+  {
+    "source": "   - §7$constant",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/repo/AbstractRepoManager.kt",
+    "line": 391
+  },
+  {
+    "source": "   - §7$constant",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/repo/AbstractRepoManager.kt",
+    "line": 394
+  },
+  {
+    "source": "   §e- §7$constant",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/repo/AbstractRepoManager.kt",
+    "line": 413
+  },
+  {
+    "source": "§a$answerMessage",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/repo/AbstractRepoManager.kt",
+    "line": 575
+  },
+  {
+    "source": "§8- §f$it $innerProgress$format",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/repo/ChatProgressUpdates.kt",
+    "line": 111
+  },
+  {
+    "source": "§e$title",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/repo/ChatProgressUpdates.kt",
+    "line": 157
+  },
+  {
+    "source": "§7${category.categoryName}",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/repo/ChatProgressUpdates.kt",
+    "line": 245
+  },
+  {
+    "source": "$stateColor$stateSymbol ${if (category.enabled) ",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/repo/ChatProgressUpdates.kt",
+    "line": 247
+  },
+  {
+    "source": "Category list: ${if (showCategoryList) ",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/repo/ChatProgressUpdates.kt",
+    "line": 320
+  },
+  {
+    "source": "Repo: $repoName",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/repo/RepoComparison.kt",
+    "line": 34
+  },
+  {
+    "source": "  (§b${latestTime.passedSince().format()} ago§7)",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/repo/RepoComparison.kt",
+    "line": 39
+  },
+  {
+    "source": "Repo: $repoName",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/repo/RepoComparison.kt",
+    "line": 51
+  },
+  {
+    "source": "  (§b${localTime.passedSince().format()} ago§7)",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/repo/RepoComparison.kt",
+    "line": 56
+  },
+  {
+    "source": "  (§b${latestTime.passedSince().format()} ago§7)",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/repo/RepoComparison.kt",
+    "line": 62
+  },
+  {
+    "source": "$color$loggingPrefix $message",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/repo/RepoLogger.kt",
+    "line": 15
+  },
+  {
+    "source": "§c$loggingPrefix $error",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/repo/RepoLogger.kt",
+    "line": 16
+  },
+  {
+    "source": "$action scoreboard monitoring in the console.",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/ScoreboardData.kt",
+    "line": 246
+  },
+  {
+    "source": "  type: ${data.type}",
+    "file": "src/main/java/at/hannibal2/skyhanni/data/SlayerApi.kt",
+    "line": 190
+  },
+  {
+    "source": "== $currentTitle ==",
+    "file": "src/main/java/at/hannibal2/skyhanni/events/DebugDataCollectEvent.kt",
+    "line": 68
+  },
+  {
+    "source": " $line",
+    "file": "src/main/java/at/hannibal2/skyhanni/events/DebugDataCollectEvent.kt",
+    "line": 70
+  },
+  {
+    "source": "  type: '${goal.type}'",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/bingo/BingoApi.kt",
+    "line": 104
+  },
+  {
+    "source": "  done: '${goal.done}'",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/bingo/BingoApi.kt",
+    "line": 108
+  },
+  {
+    "source": "$color${bingoGoal.displayName}: $oldFormat §b-> $newFormat",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/bingo/card/BingoCardReader.kt",
+    "line": 109
+  },
+  {
+    "source": "  §7$text",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/bingo/card/nextstephelper/BingoNextStepHelper.kt",
+    "line": 104
+  },
+  {
+    "source": "  $itemName§8: ${color}DONE",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/bingo/MinionCraftHelper.kt",
+    "line": 236
+  },
+  {
+    "source": "$itemName§8: §e$format §8(§7$haveFormat§8/§7$needFormat§8)",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/bingo/MinionCraftHelper.kt",
+    "line": 246
+  },
+  {
+    "source": "§8+$it",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/chat/CompactExperimentRewards.kt",
+    "line": 95
+  },
+  {
+    "source": "Copied $infoMessage to clipboard!",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/chat/CopyChat.kt",
+    "line": 58
+  },
+  {
+    "source": "  - $type ${loc.printWithAccuracy(1)}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/combat/damageindicator/DamageIndicatorManager.kt",
+    "line": 1126
+  },
+  {
+    "source": "$deployable §e${deployable.expiryTime.timeUntil().format()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/combat/DeployableDisplay.kt",
+    "line": 83
+  },
+  {
+    "source": "§4§l$message",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/combat/DeployableReminder.kt",
+    "line": 98
+  },
+  {
+    "source": "§f$space§r§eYour Weight: §r§a$weightString",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/combat/end/DragonFeatures.kt",
+    "line": 384
+  },
+  {
+    "source": "§e$totalMessage",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/combat/end/DragonProfitTracker.kt",
+    "line": 161
+  },
+  {
+    "source": "Removed ${it.repoItemName}§e from Favorites List.",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/combat/InstanceChestProfit.kt",
+    "line": 206
+  },
+  {
+    "source": "Added ${it.repoItemName}§e to Favorites List.",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/combat/InstanceChestProfit.kt",
+    "line": 209
+  },
+  {
+    "source": "${chestType.stackChestName}:",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/combat/InstanceChestProfit.kt",
+    "line": 227
+  },
+  {
+    "source": " ${internalName.repoItemName}: ${itemPrice.formatCoin()} $favorited",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/combat/InstanceChestProfit.kt",
+    "line": 265
+  },
+  {
+    "source": "Cost: ${cost.formatCoin()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/combat/InstanceChestProfit.kt",
+    "line": 285
+  },
+  {
+    "source": "Profit: ${totalPrice.formatCoin()} §f(Pre Cost Profit ${preCostPrice.formatCoin()}§f) ",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/combat/InstanceChestProfit.kt",
+    "line": 286
+  },
+  {
+    "source": "§d§l$fixedInventoryName Profit",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/combat/InstanceChestProfit.kt",
+    "line": 368
+  },
+  {
+    "source": "${itemWithCost.key} $coins$favourited",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/combat/InstanceChestProfit.kt",
+    "line": 396
+  },
+  {
+    "source": "$color§lProfit $color${total.formatCoin()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/combat/InstanceChestProfit.kt",
+    "line": 405
+  },
+  {
+    "source": "${it.key} $color${it.value.formatCoin()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/combat/InstanceChestProfit.kt",
+    "line": 416
+  },
+  {
+    "source": "§7 - $color${command.name}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/commands/HelpCommand.kt",
+    "line": 48
+  },
+  {
+    "source": "$name is already ignored!",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/commands/PartyChatCommands.kt",
+    "line": 174
+  },
+  {
+    "source": "$name isn't ignored!",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/commands/PartyChatCommands.kt",
+    "line": 185
+  },
+  {
+    "source": "$player §ais §eignored.",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/commands/PartyChatCommands.kt",
+    "line": 248
+  },
+  {
+    "source": "$player §cisn't §eignored.",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/commands/PartyChatCommands.kt",
+    "line": 250
+  },
+  {
+    "source": "Chests: ${chestCountColor(countUnopenedChestsAndRemoveOld())}/${MAX_CHESTS}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/dungeon/CroesusChestTracker.kt",
+    "line": 297
+  },
+  {
+    "source": "time: $time",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonApi.kt",
+    "line": 458
+  },
+  {
+    "source": "  ${it.displayName} ${it.power}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonApi.kt",
+    "line": 467
+  },
+  {
+    "source": "§eFloor $dungeonFloor done!",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonCleanEnd.kt",
+    "line": 87
+  },
+  {
+    "source": "§c§l$deaths. DEATH!",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonDeathCounter.kt",
+    "line": 54
+  },
+  {
+    "source": "inBoss: ${inLividBossRoom()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonLividFinder.kt",
+    "line": 330
+  },
+  {
+    "source": "  $value: $key",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/dungeon/DungeonLividFinder.kt",
+    "line": 336
+  },
+  {
+    "source": "§c$username §ais low",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/dungeon/LowHealthAlert.kt",
+    "line": 36
+  },
+  {
+    "source": "§7Rounds: §e$digsUsed§7/§e$MAX_DIGS",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/event/carnival/CarnivalFruitDigging.kt",
+    "line": 228
+  },
+  {
+    "source": "§aDig: §f${pos.label()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/event/carnival/CarnivalFruitDigging.kt",
+    "line": 229
+  },
+  {
+    "source": "§cBomb: §e${rec.pBomb.formatPercentage()} §7Samples: §e${rec.samples}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/event/carnival/CarnivalFruitDigging.kt",
+    "line": 231
+  },
+  {
+    "source": "${fruit.getNameWithPointValue()}: ${remainingFruit[fruit]}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/event/carnival/CarnivalFruitDigging.kt",
+    "line": 473
+  },
+  {
+    "source": "target: ${target.printWithAccuracy(1)}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/event/diana/BurrowWarpHelper.kt",
+    "line": 148
+  },
+  {
+    "source": "  ${guess.getCurrent().printWithAccuracy(1)} (size=${guess.guesses.size}) (type=${guess.burrowType})",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/event/diana/GriffinBurrowHelper.kt",
+    "line": 205
+  },
+  {
+    "source": "  $string",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/event/diana/GriffinBurrowHelper.kt",
+    "line": 209
+  },
+  {
+    "source": " found: $found",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/event/diana/GriffinBurrowParticleFinder.kt",
+    "line": 55
+  },
+  {
+    "source": "index=$currentIndex",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/event/diana/GuessEntry.kt",
+    "line": 98
+  },
+  {
+    "source": "$playerDisplayName §l§efound $optionalAn $mobName at §l§c${location.toLocalFormat()}!",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/event/diana/RareMobWaypointShare.kt",
+    "line": 275
+  },
+  {
+    "source": "§d$mobName §efrom §b$playerDisplayName",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/event/diana/RareMobWaypointShare.kt",
+    "line": 277
+  },
+  {
+    "source": "${sharedMob.mobName} from ${sharedMob.playerDisplayName} §enot found, deleting.",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/event/diana/RareMobWaypointShare.kt",
+    "line": 292
+  },
+  {
+    "source": "${rarity.displayName} Rabbits",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/event/hoppity/HoppityCollectionStats.kt",
+    "line": 701
+  },
+  {
+    "source": "§7 - ${it.formattedName}$color $timeFormat",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/event/hoppity/HoppityEggDisplayManager.kt",
+    "line": 78
+  },
+  {
+    "source": "$enabledDisabled hoppity egg location debug viewer.",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/event/hoppity/HoppityEggLocations.kt",
+    "line": 137
+  },
+  {
+    "source": "Shared Egg Location: ${sharedEggLocation ?: ",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/event/hoppity/HoppityEggLocator.kt",
+    "line": 255
+  },
+  {
+    "source": "Current Egg Type: ${currentEggType ?: ",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/event/hoppity/HoppityEggLocator.kt",
+    "line": 256
+  },
+  {
+    "source": "Current Egg Note: ${currentEggNote ?: ",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/event/hoppity/HoppityEggLocator.kt",
+    "line": 257
+  },
+  {
+    "source": "§e$reason. The next Hoppity's Hunt is in §b${timeUntil.format()}§e.",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/event/hoppity/HoppityEggsManager.kt",
+    "line": 222
+  },
+  {
+    "source": "§e$amount Hoppity Eggs!",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/event/hoppity/HoppityEggsManager.kt",
+    "line": 330
+  },
+  {
+    "source": "§7Total: $totalCountFormat $totalFinalPercentFormat",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/event/hoppity/summary/HoppityLiveDisplay.kt",
+    "line": 226
+  },
+  {
+    "source": "${type.coloredName}§7: $countFormat $finalPercentFormat",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/event/hoppity/summary/HoppityLiveDisplay.kt",
+    "line": 235
+  },
+  {
+    "source": "§l§${group(",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/event/spook/SpookyChestAlert.kt",
+    "line": 32
+  },
+  {
+    "source": "§e$name §7opens in §b${start.formatTimeUntilWithDate()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/event/timing/SeasonLockedChat.kt",
+    "line": 38
+  },
+  {
+    "source": " §7- §a${itemName.removeColor()} $color$amountInSacks/$amountNeeded",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/event/yearofthewitch/StewHelper.kt",
+    "line": 120
+  },
+  {
+    "source": "§c${reason.title}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/fishing/BarnFishingTimer.kt",
+    "line": 126
+  },
+  {
+    "source": "ownMobs $ownMobs",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/fishing/BarnFishingTimer.kt",
+    "line": 179
+  },
+  {
+    "source": "display $display",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/fishing/BarnFishingTimer.kt",
+    "line": 184
+  },
+  {
+    "source": "§aBobber: §f${elapsed.format(showMilliSeconds = true)}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/fishing/FishingBobberTimer.kt",
+    "line": 55
+  },
+  {
+    "source": "${seaCreature.name} ($rarity$rare) ",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/fishing/SeaCreatureDetectionApi.kt",
+    "line": 265
+  },
+  {
+    "source": "$entityID: isOwn=$isOwn repoSeaCreatureData=$name spawnTime=$spawnTime mob=$mob pos=$pos aabb=$aabb",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/fishing/SeaCreatureDetectionApi.kt",
+    "line": 266
+  },
+  {
+    "source": "${seaCreature.name} ($rarity$rare) ",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/fishing/SeaCreatureDetectionApi.kt",
+    "line": 272
+  },
+  {
+    "source": "§7Chance: ${formattedChance()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/fishing/trophy/GoldenFishTimer.kt",
+    "line": 256
+  },
+  {
+    "source": "§7Fillet: §8${filletValue.addSeparators()} Magmafish §7(§6${filletPrice.shortFormat()}§7)",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/fishing/trophy/TrophyFishFillet.kt",
+    "line": 42
+  },
+  {
+    "source": "Updated $updatedFishes Trophy Fishes from Odger.",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/fishing/trophy/TrophyFishManager.kt",
+    "line": 163
+  },
+  {
+    "source": "§2Sweep: ${sweepDetails.sweepDisplay}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/foraging/CompactSweepDetails.kt",
+    "line": 103
+  },
+  {
+    "source": "§7, §e${sweepDetails.logs} logs",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/foraging/CompactSweepDetails.kt",
+    "line": 126
+  },
+  {
+    "source": "§e${group(",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/foraging/CompactSweepDetails.kt",
+    "line": 132
+  },
+  {
+    "source": "§7(${group(",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/foraging/CompactSweepDetails.kt",
+    "line": 136
+  },
+  {
+    "source": "§e$preambleFormat ${wholeTreesFelled.addSeparators()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/foraging/ForagingTracker.kt",
+    "line": 100
+  },
+  {
+    "source": "§e$baseFormat ${treesContributedTo.addSeparators()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/foraging/ForagingTracker.kt",
+    "line": 110
+  },
+  {
+    "source": "A wild §d$mob §fappeared!",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/foraging/ForagingTracker.kt",
+    "line": 275
+  },
+  {
+    "source": "§f - $drop",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/foraging/ForagingTracker.kt",
+    "line": 357
+  },
+  {
+    "source": "Go to ${step.npcName} and start the ${step.questName} quest!",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/foraging/ForagingTutorialQuest.kt",
+    "line": 111
+  },
+  {
+    "source": "§7Preview §a$displayName§7: §a$level $nextLevel",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/garden/composter/ComposterOverlay.kt",
+    "line": 203
+  },
+  {
+    "source": "$displayType §7per: §e${factor.addSeparators()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/garden/composter/ComposterOverlay.kt",
+    "line": 498
+  },
+  {
+    "source": "§7Need §8$itemsNeeded §7items for max $displayType",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/garden/composter/ComposterOverlay.kt",
+    "line": 499
+  },
+  {
+    "source": "$itemName §8x$itemsNeeded §ealready found in inventory!",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/garden/composter/ComposterOverlay.kt",
+    "line": 537
+  },
+  {
+    "source": "No $itemName §efound in sacks. Opening recipe.",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/garden/composter/ComposterOverlay.kt",
+    "line": 564
+  },
+  {
+    "source": "No $itemName §efound in sacks. Opening Bazaar.",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/garden/composter/ComposterOverlay.kt",
+    "line": 567
+  },
+  {
+    "source": "upgrade $a: $b",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/garden/composter/ComposterOverlay.kt",
+    "line": 717
+  },
+  {
+    "source": "${bracket.displayName} §cBracket not revealed!",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/garden/contest/JacobContestTimeNeeded.kt",
+    "line": 135
+  },
+  {
+    "source": "§7${addBpsTitle()}§e${bps.addSeparators()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/garden/contest/JacobContestTimeNeeded.kt",
+    "line": 185
+  },
+  {
+    "source": " §7Current ${it.cropName} counter: §e${currentBlocks.addSeparators()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/garden/farming/CropSpeedMeter.kt",
+    "line": 69
+  },
+  {
+    "source": "$speedText §7Inaccurate!",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/garden/farming/GardenCropMilestoneDisplay.kt",
+    "line": 194
+  },
+  {
+    "source": "§e$haveFormat§8/§e$needFormat",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/garden/farming/GardenCropMilestoneDisplay.kt",
+    "line": 253
+  },
+  {
+    "source": "§7In §b$duration",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/garden/farming/GardenCropMilestoneDisplay.kt",
+    "line": 385
+  },
+  {
+    "source": "§7Level §8$hoeLevel➜§3${hoeLevel + 1}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/garden/farming/HoeLevelDisplay.kt",
+    "line": 87
+  },
+  {
+    "source": "$colorPrefix$formattedXp§8/§e$formattedXpToNext",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/garden/farming/HoeLevelDisplay.kt",
+    "line": 97
+  },
+  {
+    "source": "${crop.cropName} lane saved! Farming Lane features are now working.",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/garden/farming/lane/FarmingLaneCreator.kt",
+    "line": 93
+  },
+  {
+    "source": "§7$output needed to reach the next milestone",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/garden/FarmingMilestoneCommand.kt",
+    "line": 27
+  },
+  {
+    "source": "§7$output needed for milestone §7$current",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/garden/FarmingMilestoneCommand.kt",
+    "line": 40
+  },
+  {
+    "source": "§7$output needed for milestone §7$current §a-> §7$target",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/garden/FarmingMilestoneCommand.kt",
+    "line": 52
+  },
+  {
+    "source": "§7▸ ${overflowTotal.addSeparators()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/garden/GardenLevelDisplay.kt",
+    "line": 206
+  },
+  {
+    "source": "  Crops: ${contest.crops.joinToString(",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/garden/GardenNextJacobContest.kt",
+    "line": 167
+  },
+  {
+    "source": "  Boosted Crop: ${contest.boostedCrop?.cropName ?: ",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/garden/GardenNextJacobContest.kt",
+    "line": 168
+  },
+  {
+    "source": " Time: $time",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/garden/GardenNextJacobContest.kt",
+    "line": 182
+  },
+  {
+    "source": "  Crops: $crops",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/garden/GardenNextJacobContest.kt",
+    "line": 189
+  },
+  {
+    "source": "${color.getChatColor()} - $speed",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/garden/GardenOptimalSpeed.kt",
+    "line": 81
+  },
+  {
+    "source": "${color.getChatColor()}${crop.cropName} - $speed",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/garden/GardenOptimalSpeed.kt",
+    "line": 91
+  },
+  {
+    "source": "§$colorCode$text",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/garden/GardenOptimalSpeed.kt",
+    "line": 165
+  },
+  {
+    "source": "${if (editMode == 0) ",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/garden/inventory/plots/GardenPlotIcon.kt",
+    "line": 140
+  },
+  {
+    "source": "${if (editMode == 1) ",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/garden/inventory/plots/GardenPlotIcon.kt",
+    "line": 141
+  },
+  {
+    "source": "${if (editMode == 1) ",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/garden/inventory/plots/GardenPlotIcon.kt",
+    "line": 142
+  },
+  {
+    "source": "${if (editMode == 2) ",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/garden/inventory/plots/GardenPlotIcon.kt",
+    "line": 143
+  },
+  {
+    "source": "§b$leaderboardType before ${if (isMonthly) ",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/garden/leaderboarddisplays/EliteLeaderboardDisplayBase.kt",
+    "line": 226
+  },
+  {
+    "source": "§e$pestString: §b${nextExpire.timeUntil().format()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/garden/pests/MantidKillDisplay.kt",
+    "line": 113
+  },
+  {
+    "source": "id: ${it.id}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/garden/pests/PestApi.kt",
+    "line": 476
+  },
+  {
+    "source": " name: ${it.name}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/garden/pests/PestApi.kt",
+    "line": 477
+  },
+  {
+    "source": " pests: ${it.pests}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/garden/pests/PestApi.kt",
+    "line": 479
+  },
+  {
+    "source": "$id",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/garden/plot/GardenPlot.kt",
+    "line": 98
+  },
+  {
+    "source": "§r§aPlot §r§7- §r§b$plot §r§7was sprayed with §r§a$spray§r§7!§r",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/garden/plot/GardenPlotApi.kt",
+    "line": 200
+  },
+  {
+    "source": "$description${value.formatStat()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/garden/ToolTooltipTweaks.kt",
+    "line": 146
+  },
+  {
+    "source": "§7$bucketName Crop Fevers: §e${feverAmount.addSeparators()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/garden/tracker/CropFeverTracker.kt",
+    "line": 260
+  },
+  {
+    "source": "§7$bucketName Crops Broken: §e${totalBlocks.addSeparators()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/garden/tracker/CropFeverTracker.kt",
+    "line": 279
+  },
+  {
+    "source": "§7- §e${drops}x $it",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/garden/tracker/CropFeverTracker.kt",
+    "line": 310
+  },
+  {
+    "source": "§7${type.pluralName}: §e${count.addSeparators()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/garden/tracker/PestProfitTracker.kt",
+    "line": 295
+  },
+  {
+    "source": "§7${spray.displayName}: §a${count.addSeparators()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/garden/tracker/PestProfitTracker.kt",
+    "line": 314
+  },
+  {
+    "source": "$fullTextColor$amountString$rewardString",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/garden/visitor/GardenVisitorCompactChat.kt",
+    "line": 123
+  },
+  {
+    "source": "Saved $name NPC location. Real $name visitors are now getting detected correctly.",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/garden/visitor/NpcVisitorFix.kt",
+    "line": 60
+  },
+  {
+    "source": "§f$name",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/garden/visitor/VisitorApi.kt",
+    "line": 126
+  },
+  {
+    "source": "§8$line",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/garden/visitor/VisitorRewardWarning.kt",
+    "line": 123
+  },
+  {
+    "source": "   $it",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/gui/customscoreboard/CustomScoreboard.kt",
+    "line": 304
+  },
+  {
+    "source": "   ${it.line}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/gui/customscoreboard/CustomScoreboard.kt",
+    "line": 308
+  },
+  {
+    "source": " §7- §e${perk.perkName}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/gui/customscoreboard/elements/ScoreboardElementMayor.kt",
+    "line": 25
+  },
+  {
+    "source": " §7- §e${perk.perkName}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/gui/customscoreboard/elements/ScoreboardElementMayor.kt",
+    "line": 46
+  },
+  {
+    "source": " §7- §f${PartyApi.partyLeader} §e♚",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/gui/customscoreboard/elements/ScoreboardElementParty.kt",
+    "line": 22
+  },
+  {
+    "source": " §7- §f$it",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/gui/customscoreboard/elements/ScoreboardElementParty.kt",
+    "line": 29
+  },
+  {
+    "source": " §7- ${CustomScoreboardUtils.formatNumberDisplay(name, current, color)}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/gui/customscoreboard/elements/ScoreboardElementPowder.kt",
+    "line": 28
+  },
+  {
+    "source": " §7- ${CustomScoreboardUtils.formatNumberDisplay(name, total, color)}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/gui/customscoreboard/elements/ScoreboardElementPowder.kt",
+    "line": 32
+  },
+  {
+    "source": " §7- ${CustomScoreboardUtils.formatNumberDisplay(name, ",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/gui/customscoreboard/elements/ScoreboardElementPowder.kt",
+    "line": 36
+  },
+  {
+    "source": " $it",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/gui/customscoreboard/events/ScoreboardEventMining.kt",
+    "line": 28
+  },
+  {
+    "source": "in ${zone.removePrefix(",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/gui/customscoreboard/events/ScoreboardEventMining.kt",
+    "line": 36
+  },
+  {
+    "source": "Low on $arrowsText!",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/gui/quiver/QuiverWarning.kt",
+    "line": 52
+  },
+  {
+    "source": "$currentShardName§7: §7$currentShardAmount",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/hunting/FusionDisplay.kt",
+    "line": 59
+  },
+  {
+    "source": "${biome.formattedName} §7- $status",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/hunting/safari/SafariShardChecklist.kt",
+    "line": 120
+  },
+  {
+    "source": "§7- ($marker§7)",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/hunting/safari/SafariShardChecklist.kt",
+    "line": 128
+  },
+  {
+    "source": "§ePress ${KeyboardManager.getKeyName(config.selectShardKeybind)} to track this shard.",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/hunting/ShardTrackerDisplay.kt",
+    "line": 163
+  },
+  {
+    "source": "§e${amountInBazaarOrders.addSeparators()}x §7in bazaar right now",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/attribute/AttributeShardOverlay.kt",
+    "line": 334
+  },
+  {
+    "source": "- $shardName: Level ${getActiveLevel(shardName)}/10",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/attribute/AttributeShardsData.kt",
+    "line": 483
+  },
+  {
+    "source": "Copied ${underbidPrice.addSeparators()} to clipboard. (Copy Underbid Price)",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/auctionhouse/AuctionHouseCopyUnderbidPrice.kt",
+    "line": 87
+  },
+  {
+    "source": "  ${internalName.asString()}: $amount",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/bazaar/BazaarOrderApi.kt",
+    "line": 277
+  },
+  {
+    "source": "  ${internalName.asString()}: $amount",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/bazaar/BazaarOrderApi.kt",
+    "line": 281
+  },
+  {
+    "source": "§aHave§7: §a${data.ownedCakes.size}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/caketracker/CakeTracker.kt",
+    "line": 447
+  },
+  {
+    "source": "  §7§o* $unknownOwned unknown prices",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/caketracker/CakeTracker.kt",
+    "line": 449
+  },
+  {
+    "source": "  §7§o* $unknownMissing unknown prices",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/caketracker/CakeTracker.kt",
+    "line": 453
+  },
+  {
+    "source": "§bPercent owned§7: §a${",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/caketracker/CakeTracker.kt",
+    "line": 455
+  },
+  {
+    "source": "$ministerColor${perk.perkName}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/calendar/MinisterInCalendar.kt",
+    "line": 82
+  },
+  {
+    "source": "§7${repoShop.shopName}: §copen shop to load...",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/CarnivalShopHelper.kt",
+    "line": 170
+  },
+  {
+    "source": "§a${repoShop.shopName}§7: §aall upgrades purchased!",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/CarnivalShopHelper.kt",
+    "line": 176
+  },
+  {
+    "source": "§7${repoShop.shopName}: §8${shopProgress.remainingUpgradeSum.addSeparators()} tokens needed",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/CarnivalShopHelper.kt",
+    "line": 177
+  },
+  {
+    "source": "  §4${it.key}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/CarnivalShopHelper.kt",
+    "line": 216
+  },
+  {
+    "source": "${displayName.reduceStringLength((config.nameLength - width), ' ')} $textAmount",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/ChestValue.kt",
+    "line": 140
+  },
+  {
+    "source": "§aTotal: §6§l${total.formatPrice()} coins",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/ChestValue.kt",
+    "line": 225
+  },
+  {
+    "source": "§7(§a+§b$format §aof production§7)",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/chocolatefactory/CFBarnManager.kt",
+    "line": 89
+  },
+  {
+    "source": "§7Extra: §6${upgradeInfo.extraPerSecond?.roundTo(2) ?: ",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/chocolatefactory/CFTooltip.kt",
+    "line": 38
+  },
+  {
+    "source": "§7Slot ${slotPricesPaid.size + index + 1}: §6${price.addSeparators()} Coins",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/chocolatefactory/hitman/HitmanSlots.kt",
+    "line": 93
+  },
+  {
+    "source": "§8... and ${slotPricesLeft.size - 5} more",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/chocolatefactory/hitman/HitmanSlots.kt",
+    "line": 96
+  },
+  {
+    "source": "§b${String.format(Locale.US, ",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/chocolatefactory/stray/CFStrayTimer.kt",
+    "line": 117
+  },
+  {
+    "source": "§b$count §6Side ${StringUtils.pluralize(count, ",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/chocolatefactory/stray/CFStrayTracker.kt",
+    "line": 208
+  },
+  {
+    "source": "§b$count §6Chocolate ${StringUtils.pluralize(count, ",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/chocolatefactory/stray/CFStrayTracker.kt",
+    "line": 209
+  },
+  {
+    "source": "§b$count §6Chocolate ${StringUtils.pluralize(count, ",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/chocolatefactory/stray/CFStrayTracker.kt",
+    "line": 210
+  },
+  {
+    "source": "§b$count §6El Dorado ${StringUtils.pluralize(count, ",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/chocolatefactory/stray/CFStrayTracker.kt",
+    "line": 211
+  },
+  {
+    "source": "§b$count §6${StringUtils.pluralize(count, ",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/chocolatefactory/stray/CFStrayTracker.kt",
+    "line": 212
+  },
+  {
+    "source": "§b$count §6Golden ${StringUtils.pluralize(count, ",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/chocolatefactory/stray/CFStrayTracker.kt",
+    "line": 213
+  },
+  {
+    "source": "§a+§b$format §aof production",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/chocolatefactory/stray/CFTooltipStray.kt",
+    "line": 38
+  },
+  {
+    "source": "§7${itemName.string}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/CompactorGfSKeybind.kt",
+    "line": 116
+  },
+  {
+    "source": " ${item.getPriceName(amount)}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/craft/CraftableItemList.kt",
+    "line": 121
+  },
+  {
+    "source": " - $name",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/CurrentEquipmentApi.kt",
+    "line": 139
+  },
+  {
+    "source": " - $name",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/CurrentEquipmentApi.kt",
+    "line": 144
+  },
+  {
+    "source": "$testColor$testName§f: $rank §7($color${score.addSeparators()}§7)",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/DojoRankDisplay.kt",
+    "line": 63
+  },
+  {
+    "source": "  §4${it.key}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/EssenceShopHelper.kt",
+    "line": 218
+  },
+  {
+    "source": "§e ├ $attemptsSince $attemptFormat",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/experimentationtable/ExperimentsDryStreakDisplay.kt",
+    "line": 115
+  },
+  {
+    "source": "§e └ $xpSince XP",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/experimentationtable/ExperimentsDryStreakDisplay.kt",
+    "line": 116
+  },
+  {
+    "source": "§e └ $attemptsSince $attemptFormat",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/experimentationtable/ExperimentsDryStreakDisplay.kt",
+    "line": 118
+  },
+  {
+    "source": "§e └ $xpSince XP",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/experimentationtable/ExperimentsDryStreakDisplay.kt",
+    "line": 120
+  },
+  {
+    "source": "§ePairs - $possiblePairs",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/experimentationtable/superpairs/SuperpairDataDisplay.kt",
+    "line": 72
+  },
+  {
+    "source": " $prefix $entry",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/experimentationtable/superpairs/SuperpairDataDisplay.kt",
+    "line": 90
+  },
+  {
+    "source": "§7Press $keyName to disable!",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/FocusMode.kt",
+    "line": 47
+  },
+  {
+    "source": "§c$string",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/HideNotClickableItems.kt",
+    "line": 74
+  },
+  {
+    "source": "$armor Helmet",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/HideNotClickableItemsFeature.kt",
+    "line": 106
+  },
+  {
+    "source": "$armor Chestplate",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/HideNotClickableItemsFeature.kt",
+    "line": 107
+  },
+  {
+    "source": "$armor Leggings",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/HideNotClickableItemsFeature.kt",
+    "line": 108
+  },
+  {
+    "source": "$armor Boots",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/HideNotClickableItemsFeature.kt",
+    "line": 109
+  },
+  {
+    "source": "$prefix$formattedAmount",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/ItemPickupLog.kt",
+    "line": 54
+  },
+  {
+    "source": "§eValue: ${total.formatCoin()} coins",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/ItemPickupLog.kt",
+    "line": 305
+  },
+  {
+    "source": "$name §c$stars✪",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/ItemStars.kt",
+    "line": 46
+  },
+  {
+    "source": "§a$displayName",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/OldSkyblockMenu.kt",
+    "line": 177
+  },
+  {
+    "source": "$name is §anow §eprotected from selling.",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/PreventItemSell.kt",
+    "line": 47
+  },
+  {
+    "source": "$name is §cno longer §eprotected from selling.",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/PreventItemSell.kt",
+    "line": 50
+  },
+  {
+    "source": "§c${KeyboardManager.getModifierKeyName()} + Click to craft!",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/QuickCraftFeatures.kt",
+    "line": 53
+  },
+  {
+    "source": "§d$magmaFish",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/SackDisplay.kt",
+    "line": 159
+  },
+  {
+    "source": "${gem.gemType.toDisplayString()} Gemstones",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/SackDisplay.kt",
+    "line": 279
+  },
+  {
+    "source": "§a$sack Sack",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/sacks/OutsideSackValue.kt",
+    "line": 211
+  },
+  {
+    "source": "$name $sackPrice",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/sacks/OutsideSackValue.kt",
+    "line": 212
+  },
+  {
+    "source": "${item.getNumberedName(amount)}§8: $price",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/sacks/OutsideSackValue.kt",
+    "line": 219
+  },
+  {
+    "source": "§cRemoved §e${number.addSeparators()} §cfrom supercraft presets.",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/SuperCraftPresets.kt",
+    "line": 52
+  },
+  {
+    "source": "§aAdded §e${number.addSeparators()} §ato supercraft presets.",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/SuperCraftPresets.kt",
+    "line": 55
+  },
+  {
+    "source": "§7Current presets: §e${presets.joinToString(",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/SuperCraftPresets.kt",
+    "line": 73
+  },
+  {
+    "source": " §e${amount.addSeparators()} ",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/SuperCraftPresets.kt",
+    "line": 123
+  },
+  {
+    "source": "  §7- ${stack.hoverName.formattedTextCompatLeadingWhiteLessResets()}: §6${price.shortFormat()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/wardrobe/AbstractWardrobeApi.kt",
+    "line": 101
+  },
+  {
+    "source": "$slotInfo is locked",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/wardrobe/AbstractWardrobeApi.kt",
+    "line": 193
+  },
+  {
+    "source": "$slotInfo is empty",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/wardrobe/AbstractWardrobeApi.kt",
+    "line": 195
+  },
+  {
+    "source": "   $armorName: $name",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/inventory/wardrobe/AbstractWardrobeApi.kt",
+    "line": 200
+  },
+  {
+    "source": "$ticks",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/mining/BlockStrengthGuide.kt",
+    "line": 199
+  },
+  {
+    "source": "§6$it",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/mining/BlockStrengthGuide.kt",
+    "line": 342
+  },
+  {
+    "source": "§${if (inMineshaft) 'b' else '7'}Mineshaft",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/mining/BlockStrengthGuide.kt",
+    "line": 396
+  },
+  {
+    "source": "§7${it.size} cheap items are hidden §7(§6${it.values.sum().shortFormat()}§7).",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/mining/crystalhollows/CrystalNucleusProfitPer.kt",
+    "line": 42
+  },
+  {
+    "source": "§e$totalMessage",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/mining/crystalhollows/CrystalNucleusProfitPer.kt",
+    "line": 56
+  },
+  {
+    "source": "${predictedChestLocations.size} possible locations found. Please try standing still with the metal detector in a different spot.",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/mining/crystalhollows/MetalDetectorSolver.kt",
+    "line": 154
+  },
+  {
+    "source": "§a${islandType.displayName}§8:",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/mining/eventtracker/MiningEventDisplay.kt",
+    "line": 89
+  },
+  {
+    "source": "${color.getChatColor()}$shortName",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/mining/eventtracker/MiningEventType.kt",
+    "line": 154
+  },
+  {
+    "source": "${color.getChatColor()}$eventName",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/mining/eventtracker/MiningEventType.kt",
+    "line": 155
+  },
+  {
+    "source": "§6+${getSpeedBonus()}⸕",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/mining/FlowstateHelper.kt",
+    "line": 315
+  },
+  {
+    "source": "§e$totalMessage",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/mining/fossilexcavator/ProfitPerExcavation.kt",
+    "line": 48
+  },
+  {
+    "source": "$pre$label",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/mining/fossilexcavator/ScrapGFS.kt",
+    "line": 267
+  },
+  {
+    "source": "$pre($value)",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/mining/fossilexcavator/ScrapGFS.kt",
+    "line": 272
+  },
+  {
+    "source": "${FOSSILS_REMAINING_STRING}§a$possibleFossilsRemaining",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/mining/fossilexcavator/solver/FossilSolverDisplay.kt",
+    "line": 199
+  },
+  {
+    "source": "${CHARGES_REMAINING_STRING}§a$chargesRemaining",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/mining/fossilexcavator/solver/FossilSolverDisplay.kt",
+    "line": 201
+  },
+  {
+    "source": "§7- ${fossil.displayName}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/mining/fossilexcavator/solver/FossilSolverDisplay.kt",
+    "line": 206
+  },
+  {
+    "source": "§7${consumedCount}x $keyName§7: §c-${totalPrice.shortFormat()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/mining/glacitemineshaft/corpse/CorpseTracker.kt",
+    "line": 127
+  },
+  {
+    "source": "${type}_1",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/mining/glacitemineshaft/MineshaftDetection.kt",
+    "line": 213
+  },
+  {
+    "source": "Found $article ${event.corpseType} Corpse§e at ${event.location.toLocalFormat()}.",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/mining/glacitemineshaft/MineshaftWaypointManager.kt",
+    "line": 82
+  },
+  {
+    "source": "§e$totalMessage",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/mining/glacitemineshaft/ProfitPerMineshaftCorpse.kt",
+    "line": 52
+  },
+  {
+    "source": "§7$currentString$king$missingString$timeString",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/mining/KingTalismanHelper.kt",
+    "line": 134
+  },
+  {
+    "source": "    §7${it.pityBlock.displayName} mined: §e${it.blocksBroken.addSeparators()} [+${it.spreadBlocksBroken.addSeparators()} spread] §6(${it.pityBlock.getPity().addSeparators()}/${counterUntilPity.addSeparators()})",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/mining/MineshaftPityDisplay.kt",
+    "line": 170
+  },
+  {
+    "source": "§b${pityCounter / multiplier}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/mining/MineshaftPityDisplay.kt",
+    "line": 253
+  },
+  {
+    "source": "active: $active",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/mining/MiningCommissionsBlocksColor.kt",
+    "line": 160
+  },
+  {
+    "source": "Route $name doesn't exist.\n§cSaved Routes: ${storage?.routes?.keys?.toList()?.joinToString(",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/mining/OrderedWaypoints.kt",
+    "line": 268
+  },
+  {
+    "source": "There was an error parsing waypoints. Please make sure they are properly formatted and in a supported format.\n§cSupported Formats: ${WaypointFormats.names().joinToString(",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/mining/OrderedWaypoints.kt",
+    "line": 274
+  },
+  {
+    "source": "Loaded ${orderedWaypointsList.size} ordered waypoints! (§e$formatName§r)",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/mining/OrderedWaypoints.kt",
+    "line": 283
+  },
+  {
+    "source": "Skipped $amount ${StringUtils.pluralize(amount, ",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/mining/OrderedWaypoints.kt",
+    "line": 305
+  },
+  {
+    "source": "$number is not between 1 and ${orderedWaypointsList.size}.",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/mining/OrderedWaypoints.kt",
+    "line": 318
+  },
+  {
+    "source": "$number is not between 1 and ${orderedWaypointsList.size}.",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/mining/OrderedWaypoints.kt",
+    "line": 338
+  },
+  {
+    "source": "$number is not between 1 and ${orderedWaypointsList.size + 1}.",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/mining/OrderedWaypoints.kt",
+    "line": 355
+  },
+  {
+    "source": "Invalid waypoint format specified.\n§cFormats: ${WaypointFormats.names().joinToString(",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/mining/OrderedWaypoints.kt",
+    "line": 381
+  },
+  {
+    "source": "Route $name doesn't exist.",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/mining/OrderedWaypoints.kt",
+    "line": 396
+  },
+  {
+    "source": "Route $name successfully deleted.",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/mining/OrderedWaypoints.kt",
+    "line": 400
+  },
+  {
+    "source": "§d[$name]",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/mining/TunnelsMaps.kt",
+    "line": 345
+  },
+  {
+    "source": "Removed $size wrong/bugged minion locations from your island.",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/minion/MinionFeatures.kt",
+    "line": 275
+  },
+  {
+    "source": "§7Cost: §6${remainingCost.shortFormat()} coins",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/minion/MinionUpgradeHelper.kt",
+    "line": 123
+  },
+  {
+    "source": "${buildMessage()}.",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/misc/CakeCounterFeatures.kt",
+    "line": 197
+  },
+  {
+    "source": "§b${customer.name}' $type §cCarry",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/misc/CarryTracker.kt",
+    "line": 242
+  },
+  {
+    "source": "§7Done: §e$done",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/misc/CarryTracker.kt",
+    "line": 245
+  },
+  {
+    "source": "§3$label: §c$timer",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/misc/customtodos/CustomTodo.kt",
+    "line": 175
+  },
+  {
+    "source": "status: $debugStatusMessage",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/misc/discordrpc/DiscordRPCManager.kt",
+    "line": 138
+  },
+  {
+    "source": "lastActivityJson: ${client?.lastActivityJson ?: ",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/misc/discordrpc/DiscordRPCManager.kt",
+    "line": 139
+  },
+  {
+    "source": "lastDiscordResponse: ${client?.lastDiscordResponse ?: ",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/misc/discordrpc/DiscordRPCManager.kt",
+    "line": 140
+  },
+  {
+    "source": "$displayName $color$format",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/misc/effects/NonGodPotEffectDisplay.kt",
+    "line": 100
+  },
+  {
+    "source": "${effect.displayName} §eis running out soon!",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/misc/effects/NonGodPotEffectDisplay.kt",
+    "line": 127
+  },
+  {
+    "source": "total: $total",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/misc/FastFairySoulsPathfinder.kt",
+    "line": 325
+  },
+  {
+    "source": "route: ${route.size}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/misc/FastFairySoulsPathfinder.kt",
+    "line": 326
+  },
+  {
+    "source": "  ${island.displayName}: $amount",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/misc/FastFairySoulsPathfinder.kt",
+    "line": 334
+  },
+  {
+    "source": "§aTotal: §6§l$numberFormat coins",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/misc/items/EstimatedItemValue.kt",
+    "line": 282
+  },
+  {
+    "source": " §7Stone: $reforgeStoneName ${reforgeStonePrice.formatCoinWithBrackets()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/misc/items/EstimatedItemValueCalculator.kt",
+    "line": 202
+  },
+  {
+    "source": "§7$label: §a§l✔ ${price.formatCoinWithBrackets()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/misc/items/EstimatedItemValueCalculator.kt",
+    "line": 312
+  },
+  {
+    "source": " §7§o$missing more enchantments..",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/misc/items/EstimatedItemValueCalculator.kt",
+    "line": 635
+  },
+  {
+    "source": "§$colorCode$displayName",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/misc/items/EstimatedItemValueCalculator.kt",
+    "line": 780
+  },
+  {
+    "source": "§5§o§b$hoursString hours §7on Limbo",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/misc/limbo/LimboPlaytime.kt",
+    "line": 135
+  },
+  {
+    "source": "§5§o§a$minutes minutes §7on Limbo",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/misc/limbo/LimboPlaytime.kt",
+    "line": 146
+  },
+  {
+    "source": "since: ${limboJoinTime.passedSince()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/misc/limbo/LimboTimeTracker.kt",
+    "line": 243
+  },
+  {
+    "source": "§e${cat.name} ${suggestionState.label}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/misc/massconfiguration/DefaultConfigOptionGui.kt",
+    "line": 155
+  },
+  {
+    "source": "§aEntered $name!",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/misc/pathfind/IslandAreaFeatures.kt",
+    "line": 77
+  },
+  {
+    "source": "${area.tag.color.getChatColor()}${area.name}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/misc/pathfind/IslandAreaFeatures.kt",
+    "line": 204
+  },
+  {
+    "source": "§7Type: ${area.tag.displayName}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/misc/pathfind/IslandAreaFeatures.kt",
+    "line": 205
+  },
+  {
+    "source": "${nodeType.displayName} §cis invalid for navigation on this island!",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/misc/pathfind/NavigateAllCommand.kt",
+    "line": 42
+  },
+  {
+    "source": "§e$it §7format",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/misc/pathfind/NavigateClipboardCommand.kt",
+    "line": 75
+  },
+  {
+    "source": "${parsed.unreadableLines} unreadable",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/misc/pathfind/NavigateClipboardCommand.kt",
+    "line": 76
+  },
+  {
+    "source": "${snapped.tooFar} too far away",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/misc/pathfind/NavigateClipboardCommand.kt",
+    "line": 77
+  },
+  {
+    "source": "${snapped.merged} mapped to the same node",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/misc/pathfind/NavigateClipboardCommand.kt",
+    "line": 78
+  },
+  {
+    "source": "Read ${StringUtils.pluralize(nodes.size, ",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/misc/pathfind/NavigateClipboardCommand.kt",
+    "line": 82
+  },
+  {
+    "source": "${node.cleanName} §7(${tag.displayName}§7)",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/misc/pathfind/NavigationHelper.kt",
+    "line": 123
+  },
+  {
+    "source": "$timeText §7— §6${reminder.reason}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/misc/reminders/ReminderHudDisplay.kt",
+    "line": 33
+  },
+  {
+    "source": "'$original' -> '$changed'",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/misc/ReplaceRomanNumerals.kt",
+    "line": 426
+  },
+  {
+    "source": "found: $found",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/misc/SpiderDenRelicPathfinder.kt",
+    "line": 210
+  },
+  {
+    "source": "total: $total",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/misc/SpiderDenRelicPathfinder.kt",
+    "line": 211
+  },
+  {
+    "source": "TPS: ${rawTps?.oneDecimal()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/misc/TpsCounter.kt",
+    "line": 164
+  },
+  {
+    "source": "Milliseconds Per Tick: ${msPerTickList.values.joinToString(",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/misc/TpsCounter.kt",
+    "line": 165
+  },
+  {
+    "source": "${currentStatus.colorCode}Trapper Cooldown: $cooldownMessage",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/misc/trevor/TrevorFeatures.kt",
+    "line": 258
+  },
+  {
+    "source": "§2Saw ${currentMob.mobName}!",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/misc/trevor/TrevorSolver.kt",
+    "line": 81
+  },
+  {
+    "source": "§9${ChangelogViewer.startVersion} §e➜ §9${ChangelogViewer.endVersion}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/misc/update/ChangeLogViewerScreen.kt",
+    "line": 111
+  },
+  {
+    "source": "§l§9Version $version",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/misc/update/ChangeLogViewerScreen.kt",
+    "line": 126
+  },
+  {
+    "source": "$LUCK_TOOLTIP$luckString",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/misc/UserLuckBreakdown.kt",
+    "line": 217
+  },
+  {
+    "source": " §a+${luck.addSeparators()}✴ §f${skillType.displayName} Skill",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/misc/UserLuckBreakdown.kt",
+    "line": 318
+  },
+  {
+    "source": "§7${index + 1}.",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/misc/visualwords/VisualWordGui.kt",
+    "line": 140
+  },
+  {
+    "source": "   Timer ${it.nextSpawnTime?.timeUntil()?.format()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/nether/CrimsonMinibossRespawnTimer.kt",
+    "line": 200
+  },
+  {
+    "source": "   Spawned ${it.spawned}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/nether/CrimsonMinibossRespawnTimer.kt",
+    "line": 207
+  },
+  {
+    "source": "${quest.displayName} progress: $count/$needAmount",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/nether/reputationhelper/dailyquest/DailyQuestHelper.kt",
+    "line": 210
+  },
+  {
+    "source": "tier: $tier",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/nether/RescueMissionWaypoints.kt",
+    "line": 347
+  },
+  {
+    "source": "§7Diana's §d${Perk.SHARING_IS_CARING.perkName} §7perk is not active.",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/pets/CurrentPetDisplay.kt",
+    "line": 482
+  },
+  {
+    "source": "currentPet: ${currentPet?.getUserFriendlyName() ?: ",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/pets/CurrentPetDisplay.kt",
+    "line": 524
+  },
+  {
+    "source": "$label.enabled: ${icon.enabled.get()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/pets/CurrentPetDisplay.kt",
+    "line": 542
+  },
+  {
+    "source": "$label.skinAnimation: ${icon.skinAnimation.get()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/pets/CurrentPetDisplay.kt",
+    "line": 543
+  },
+  {
+    "source": "$label.skinAnimationSpeed: ${icon.skinAnimationSpeed.get()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/pets/CurrentPetDisplay.kt",
+    "line": 544
+  },
+  {
+    "source": "$label.scale: ${icon.scale.get()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/pets/CurrentPetDisplay.kt",
+    "line": 545
+  },
+  {
+    "source": "$actionBarFormatted §e§lCombo: x$combo",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/rift/area/mountaintop/SunGeckoHelper.kt",
+    "line": 114
+  },
+  {
+    "source": "§e${modifier.formattedName}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/rift/area/mountaintop/SunGeckoHelper.kt",
+    "line": 140
+  },
+  {
+    "source": "§b$formattedTime",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/rift/area/mountaintop/TimiteHelper.kt",
+    "line": 93
+  },
+  {
+    "source": "${i + 1}: ${effigy.state} - $time (${effigy.respawnTime})",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/rift/area/stillgorechateau/RiftBloodEffigies.kt",
+    "line": 102
+  },
+  {
+    "source": "§7Gained: §d${gained.addSeparators()} motes",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/rift/everywhere/motes/MotesSession.kt",
+    "line": 89
+  },
+  {
+    "source": "Set your McGrubber's burger stacks to ${group(",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/rift/everywhere/motes/ShowMotesNpcSellPrice.kt",
+    "line": 127
+  },
+  {
+    "source": "§6Item: ${stack.hoverName.formattedTextCompatLeadingWhiteLessResets()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/rift/everywhere/motes/ShowMotesNpcSellPrice.kt",
+    "line": 148
+  },
+  {
+    "source": "${time.seconds.format()} §a${SkyblockStat.RIFT_TIME.hypixelIcon}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/rift/everywhere/RiftTimer.kt",
+    "line": 143
+  },
+  {
+    "source": "§6Level: §b$level",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/skillprogress/SkillProgress.kt",
+    "line": 312
+  },
+  {
+    "source": "$progressBar §e${have.addSeparators()}§6/§e${need.addSeparators()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/skillprogress/SkillTooltip.kt",
+    "line": 78
+  },
+  {
+    "source": "§7▸ ${skillInfo.overflowTotalXp.addSeparators()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/skillprogress/SkillTooltip.kt",
+    "line": 84
+  },
+  {
+    "source": "${entity.getLorenzVec()} - $type",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/slayer/blaze/HellionShieldHelper.kt",
+    "line": 39
+  },
+  {
+    "source": "§e$titleMessage",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/slayer/SlayerQuestWarning.kt",
+    "line": 79
+  },
+  {
+    "source": "#${index + 1} §a${mob.name} $color${health.shortFormat()}§2/${maxHealth.shortFormat()}§c❤",
+    "file": "src/main/java/at/hannibal2/skyhanni/features/summonings/SummoningMobManager.kt",
+    "line": 140
+  },
+  {
+    "source": " '$line'",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/command/CopyItemCommand.kt",
+    "line": 37
+  },
+  {
+    "source": "entity: $simpleName",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/command/CopyNearbyEntitiesCommand.kt",
+    "line": 71
+  },
+  {
+    "source": "-  vec: $vec",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/command/CopyNearbyEntitiesCommand.kt",
+    "line": 80
+  },
+  {
+    "source": "-  at: $i: $name",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/command/CopyNearbyEntitiesCommand.kt",
+    "line": 114
+  },
+  {
+    "source": "-     ${equipSlot.name} (id ${equipSlot.id}) ($adjustedStack)",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/command/CopyNearbyEntitiesCommand.kt",
+    "line": 160
+  },
+  {
+    "source": "-     $skullTexture",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/command/CopyNearbyEntitiesCommand.kt",
+    "line": 300
+  },
+  {
+    "source": "Name: ${mob.name}",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/command/CopyNearbyEntitiesCommand.kt",
+    "line": 342
+  },
+  {
+    "source": "Owner: ${mob.owner.ownerName}",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/command/CopyNearbyEntitiesCommand.kt",
+    "line": 357
+  },
+  {
+    "source": "Level or Tier: ${mob.levelOrTier.takeIf { it != -1 }}",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/command/CopyNearbyEntitiesCommand.kt",
+    "line": 359
+  },
+  {
+    "source": "Attribute: ${mob.attribute ?: ",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/command/CopyNearbyEntitiesCommand.kt",
+    "line": 362
+  },
+  {
+    "source": "$entityCounter entities copied into the clipboard!",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/command/CopyNearbyEntitiesCommand.kt",
+    "line": 389
+  },
+  {
+    "source": "'$scoreboardLine'",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/command/CopyScoreboardCommand.kt",
+    "line": 27
+  },
+  {
+    "source": "§e$state, $label found ${errorsToShowOnJoin.size} errors!",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/command/ErrorManager.kt",
+    "line": 319
+  },
+  {
+    "source": "Specify a chat message to test!\n${syntaxStrings.joinToString(",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/command/TestChatCommand.kt",
+    "line": 33
+  },
+  {
+    "source": "§cRemoved $commonName §e$ignorable §cfrom the ignore list",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/command/track/TrackCommand.kt",
+    "line": 69
+  },
+  {
+    "source": "§aAdded $commonName §e$ignorable §ato the ignore list",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/command/track/TrackCommand.kt",
+    "line": 72
+  },
+  {
+    "source": "§b${tracked.size} §a$commonNamePlural §ecopied into the clipboard!",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/command/track/TrackCommand.kt",
+    "line": 120
+  },
+  {
+    "source": "§3${getTypeIdentifier()} §8c:$count §7s:$speed",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/command/track/TrackParticlesCommand.kt",
+    "line": 38
+  },
+  {
+    "source": "§3$soundName §8p:$pitch §7v:$volume",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/command/track/TrackSoundsCommand.kt",
+    "line": 46
+  },
+  {
+    "source": "  - $constant",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/DebugCommand.kt",
+    "line": 173
+  },
+  {
+    "source": "name: '${PlayerUtils.getName()}'",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/DebugCommand.kt",
+    "line": 200
+  },
+  {
+    "source": "uuid: '${PlayerUtils.getUuid()}'",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/DebugCommand.kt",
+    "line": 201
+  },
+  {
+    "source": "tps: $tps",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/DebugCommand.kt",
+    "line": 214
+  },
+  {
+    "source": "ping: ${CurrentPing.averagePing.inWholeMilliseconds.formatTime()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/DebugCommand.kt",
+    "line": 215
+  },
+  {
+    "source": "previousPings: ${CurrentPing.previousPings.map { it.formatTime() }}",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/DebugCommand.kt",
+    "line": 231
+  },
+  {
+    "source": "Feedback mode is now ${if (state.inFeedbackMode) ",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/graph/GraphEditorInput.kt",
+    "line": 88
+  },
+  {
+    "source": "Merged $nodeCount nodes and $edgeCount edges from clipboard.",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/graph/GraphEditorIO.kt",
+    "line": 170
+  },
+  {
+    "source": "§ePlace: §6${config.placeKey.name()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/graph/GraphEditorRenderer.kt",
+    "line": 75
+  },
+  {
+    "source": "§eVision: §6${config.throughBlocksKey.name()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/graph/GraphEditorRenderer.kt",
+    "line": 80
+  },
+  {
+    "source": "§eSave: §6${config.saveKey.name()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/graph/GraphEditorRenderer.kt",
+    "line": 81
+  },
+  {
+    "source": "§eLoad: §6${config.loadKey.name()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/graph/GraphEditorRenderer.kt",
+    "line": 82
+  },
+  {
+    "source": "§eClear: §6${config.clearKey.name()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/graph/GraphEditorRenderer.kt",
+    "line": 83
+  },
+  {
+    "source": "§eSplit: §6${config.splitKey.name()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/graph/GraphEditorRenderer.kt",
+    "line": 91
+  },
+  {
+    "source": "§ex+ §6${Wasd.w.name()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/graph/GraphEditorRenderer.kt",
+    "line": 102
+  },
+  {
+    "source": "§ex- §6${Wasd.s.name()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/graph/GraphEditorRenderer.kt",
+    "line": 103
+  },
+  {
+    "source": "§ez+ §6${Wasd.a.name()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/graph/GraphEditorRenderer.kt",
+    "line": 104
+  },
+  {
+    "source": "§ez- §6${Wasd.d.name()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/graph/GraphEditorRenderer.kt",
+    "line": 105
+  },
+  {
+    "source": "§ey+ §6${Wasd.up.name()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/graph/GraphEditorRenderer.kt",
+    "line": 106
+  },
+  {
+    "source": "§ey- §6${Wasd.down.name()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/graph/GraphEditorRenderer.kt",
+    "line": 107
+  },
+  {
+    "source": "§eFormat: ${textBox.finalText()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/graph/GraphEditorRenderer.kt",
+    "line": 110
+  },
+  {
+    "source": "§eRaw:     ${textBox.editText(textColor = LorenzColor.YELLOW)}",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/graph/GraphEditorRenderer.kt",
+    "line": 111
+  },
+  {
+    "source": " - ${tag.displayName} §8($nodes nodes) $visibilityText",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/graph/GraphNodeEditor.kt",
+    "line": 96
+  },
+  {
+    "source": "Node '$name'",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/graph/GraphNodeEditor.kt",
+    "line": 233
+  },
+  {
+    "source": " §8- §r${tag.displayName}",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/graph/GraphNodeEditor.kt",
+    "line": 239
+  },
+  {
+    "source": "§e${KeyboardManager.getModifierKeyName()}-Click to edit the tags for this node!",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/graph/GraphNodeEditor.kt",
+    "line": 245
+  },
+  {
+    "source": "(#${renderable.stableRenderId})",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/renderable/TestRenderItems.kt",
+    "line": 120
+  },
+  {
+    "source": "$name $description",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/SkyHanniConfigSearchResetCommand.kt",
+    "line": 247
+  },
+  {
+    "source": "§7$name: $value",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/SkyHanniDebugsAndTests.kt",
+    "line": 436
+  },
+  {
+    "source": "Face: ${face.toString().firstLetterUppercase()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/TestCanSeeFace.kt",
+    "line": 91
+  },
+  {
+    "source": " Point $index: $vecFormat $format",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/TestCanSeeFace.kt",
+    "line": 114
+  },
+  {
+    "source": "$name: ${shPos.toChatFormat()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/WikiNpcComparator.kt",
+    "line": 144
+  },
+  {
+    "source": "$name: ${wikiPos.toChatFormat()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/WikiNpcComparator.kt",
+    "line": 146
+  },
+  {
+    "source": "$name: ${dist.roundTo(1)} blocks away\n      sh: ${shPos.toChatFormat()}\n      wiki: ${wikiPos.toChatFormat()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/WikiNpcComparator.kt",
+    "line": 158
+  },
+  {
+    "source": "=== $island (sh=${sh.size}, wiki=${wiki.size}) ===",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/WikiNpcComparator.kt",
+    "line": 171
+  },
+  {
+    "source": "  $type (${list.size})",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/WikiNpcComparator.kt",
+    "line": 174
+  },
+  {
+    "source": "    $it",
+    "file": "src/main/java/at/hannibal2/skyhanni/test/WikiNpcComparator.kt",
+    "line": 176
+  },
+  {
+    "source": "§6$title",
+    "file": "src/main/java/at/hannibal2/skyhanni/utils/chat/PaginatedListHelper.kt",
+    "line": 49
+  },
+  {
+    "source": "§c$emptyMessage",
+    "file": "src/main/java/at/hannibal2/skyhanni/utils/chat/PaginatedListHelper.kt",
+    "line": 83
+  },
+  {
+    "source": "${source.displayName} price: §6${price.addSeparators()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/utils/ItemPriceUtils.kt",
+    "line": 118
+  },
+  {
+    "source": "$initSeparator$s: $tag",
+    "file": "src/main/java/at/hannibal2/skyhanni/utils/ItemUtils.kt",
+    "line": 223
+  },
+  {
+    "source": "$initSeparator$s:",
+    "file": "src/main/java/at/hannibal2/skyhanni/utils/ItemUtils.kt",
+    "line": 226
+  },
+  {
+    "source": " - $itemName",
+    "file": "src/main/java/at/hannibal2/skyhanni/utils/ItemUtils.kt",
+    "line": 956
+  },
+  {
+    "source": "${internalName.asString()}: '$cleanName'",
+    "file": "src/main/java/at/hannibal2/skyhanni/utils/NeuItems.kt",
+    "line": 164
+  },
+  {
+    "source": "${it.toInternalName().hasValidHigherTier()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/utils/PetUtils.kt",
+    "line": 338
+  },
+  {
+    "source": "Realtime slot pools: ${slotPools.size} sizes, ${slotPools.values.sumOf { it.slots.size }} slots",
+    "file": "src/main/java/at/hannibal2/skyhanni/utils/render/item/SkyHanniItemRenderCoordinator.kt",
+    "line": 28
+  },
+  {
+    "source": "§a$label",
+    "file": "src/main/java/at/hannibal2/skyhanni/utils/renderables/RenderableUtils.kt",
+    "line": 371
+  },
+  {
+    "source": "§e▶ $name",
+    "file": "src/main/java/at/hannibal2/skyhanni/utils/renderables/RenderableUtils.kt",
+    "line": 376
+  },
+  {
+    "source": "§7  $name",
+    "file": "src/main/java/at/hannibal2/skyhanni/utils/renderables/RenderableUtils.kt",
+    "line": 378
+  },
+  {
+    "source": "Copied ${loadedMods.size} mods to clipboard!",
+    "file": "src/main/java/at/hannibal2/skyhanni/utils/system/PlatformUtils.kt",
+    "line": 73
+  },
+  {
+    "source": "$name: \t$origin ($version)",
+    "file": "src/main/java/at/hannibal2/skyhanni/utils/system/PlatformUtils.kt",
+    "line": 83
+  },
+  {
+    "source": "$datePart, $timePart",
+    "file": "src/main/java/at/hannibal2/skyhanni/utils/TimeUtils.kt",
+    "line": 205
+  },
+  {
+    "source": "$datePart$timePart",
+    "file": "src/main/java/at/hannibal2/skyhanni/utils/TimeUtils.kt",
+    "line": 207
+  },
+  {
+    "source": "Removed $cleanName §efrom $name.",
+    "file": "src/main/java/at/hannibal2/skyhanni/utils/tracker/SkyHanniBucketedItemTracker.kt",
+    "line": 127
+  },
+  {
+    "source": "Removed $cleanName §efrom $name.",
+    "file": "src/main/java/at/hannibal2/skyhanni/utils/tracker/SkyHanniItemTracker.kt",
+    "line": 140
+  },
+  {
+    "source": "§7$internalName",
+    "file": "src/main/java/at/hannibal2/skyhanni/utils/tracker/SkyHanniItemTracker.kt",
+    "line": 262
+  },
+  {
+    "source": "§7$actionPluralized per hour: §e$amount",
+    "file": "src/main/java/at/hannibal2/skyhanni/utils/tracker/SkyHanniItemTracker.kt",
+    "line": 291
+  },
+  {
+    "source": "§eCopied $name $type to clipboard!",
+    "file": "src/main/java/at/hannibal2/skyhanni/utils/tracker/SkyHanniItemTracker.kt",
+    "line": 357
+  },
+  {
+    "source": "§a+ $itemName",
+    "file": "src/main/java/at/hannibal2/skyhanni/utils/tracker/SkyHanniItemTracker.kt",
+    "line": 372
+  },
+  {
+    "source": "Reset $name!",
+    "file": "src/main/java/at/hannibal2/skyhanni/utils/tracker/SkyhanniTimedTracker.kt",
+    "line": 114
+  },
+  {
+    "source": "${it.key} Uptime: ${it.value.getDuration().format()}",
+    "file": "src/main/java/at/hannibal2/skyhanni/utils/tracker/SkyHanniTracker.kt",
+    "line": 229
+  }
+]

@@ -27,7 +27,7 @@ class StyledLoreTest {
         component.visit((style,text)->{for(int i=0;i<text.length();i++)styles.add(style);offset[0]+=text.length();return Optional.empty();},Style.EMPTY);
         return styles.get(position);
     }
-    static void color(Component component,String word,ChatFormatting color) { assertEquals(color.getColor(),styleAt(component,word).getColor().getValue(),word); }
+    static void color(Component component,String word,ChatFormatting color) { assertEquals(net.minecraft.world.scores.TeamColor.valueOf(color.name()).rgb(),styleAt(component,word).getColor().getValue(),word); }
     @Test void abilityManaAndGemstonesKeepDistinctColorsAndBold() {
         Component ability=line("§6Ability: Instant Transmission  §e§lRIGHT CLICK");
         assertEquals("技能:瞬间传送  右键点击",ability.getString());
@@ -97,15 +97,15 @@ class StyledLoreTest {
         Component different=Component.literal("Red ").withStyle(ChatFormatting.RED).append(Component.literal("Red").withStyle(ChatFormatting.BLUE));
         var ordered=TextTranslationEngine.apply(different,new TranslationManager.Match("test",replacement.pieces(),Map.of("Red","红")));
         assertEquals("红 红",ordered.getString());
-        assertEquals(ChatFormatting.RED.getColor(),ordered.getSiblings().getFirst().getStyle().getColor().getValue());
-        assertEquals(ChatFormatting.BLUE.getColor(),ordered.getSiblings().getLast().getStyle().getColor().getValue());
+        assertEquals(0xff5555,ordered.getSiblings().getFirst().getStyle().getColor().getValue());
+        assertEquals(0x5555ff,ordered.getSiblings().getLast().getStyle().getColor().getValue());
         var ambiguousReplacement=TranslationManager.replacement("test",different.getString(),"红色 红");
         assertSame(different,TextTranslationEngine.apply(different,new TranslationManager.Match("test",ambiguousReplacement.pieces(),Map.of("Red","红"))));
         Component input=Component.literal("§7Gain §a3§7 for §b3");
         var match=new TranslationManager.Template("Gain {amount} for {duration}","持续 {duration},获得 {amount}").apply(TranslationManager.plain(input.getString()));
         Component result=TextTranslationEngine.apply(input,match);
         assertEquals("持续 3,获得 3",result.getString());color(result,"3",ChatFormatting.AQUA);
-        assertEquals(ChatFormatting.GREEN.getColor(),result.getSiblings().getLast().getStyle().getColor().getValue());
+        assertEquals(0x55ff55,result.getSiblings().getLast().getStyle().getColor().getValue());
     }
     @Test void copiedSymbolsKeepAllStyleFlagsAndEvents() {
         Style style=Style.EMPTY.withColor(ChatFormatting.AQUA).withBold(true).withItalic(true).withUnderlined(true)

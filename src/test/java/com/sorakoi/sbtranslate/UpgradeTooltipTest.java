@@ -94,13 +94,13 @@ class UpgradeTooltipTest {
     @Test void reforgeBonusesTranslateOnEquipmentAndOnStones() {
         for(String id:List.of("STARRED_SHADOW_ASSASSIN_CHESTPLATE","PRECURSOR_GEAR")) {
             var lines=lore(id,"§9Ancient Bonus","§7Grants §b+1\ue007 Crit Damage §7per","§cCatacombs §7skill level you have.");
-            assertEquals("远古 加成\n每级地牢技能等级提供 +1\ue007 暴击伤害.",joined(lines));
+            assertEquals("远古的 加成\n每级地牢技能等级提供 +1\ue007 暴击伤害.",joined(lines));
             StyledLoreTest.color(lines.get(1),"地牢",ChatFormatting.RED);
             StyledLoreTest.color(lines.get(1),"暴击伤害",ChatFormatting.AQUA);
             StyledLoreTest.color(lines.get(1),"+1",ChatFormatting.AQUA);
         }
         var withered=lore("DARK_CLAYMORE","§9Withered Bonus","§7Grants §c+1\ue00d Strength §7per §cCatacombs","§7skill level you have.");
-        assertEquals("凋零 加成\n每级地牢技能等级提供 +1\ue00d 力量.",joined(withered));
+        assertEquals("凋零的 加成\n每级地牢技能等级提供 +1\ue00d 力量.",joined(withered));
         var gilded=lore("STARRED_MIDAS_SWORD","§9Byron's Compassion §8(Gilded)",
             "§7Killing a mob has a rare chance to","§7grant §6Coins §7to a nearby player.");
         assertEquals("Byron 的怜悯 (鎏金)\n击杀生物时,有小概率赠送硬币给附近的一名玩家.",joined(gilded));

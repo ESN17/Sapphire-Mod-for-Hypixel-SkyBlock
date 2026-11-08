@@ -10,6 +10,21 @@ import static org.junit.jupiter.api.Assertions.*;
 class WikiCorpusTest {
     @TempDir Path directory;
 
+    @Test void obsoleteStyleDoesNotPreventLoadingTheTranslationOrOtherStyles() throws Exception {
+        Path folder=Files.createDirectories(directory.resolve("translations"));
+        Files.writeString(folder.resolve("community-wiki.json"),"""
+            {"schemaVersion":1,"entries":[
+              {"scope":"gui","npc":"","source":"Open Menu","translation":"打开菜单",
+               "styleMappings":{"Menu":"菜单","Open":"开启","Missing":"打开"}}
+            ]}
+            """);
+        var manager=new TranslationManager();
+        manager.load(directory);
+        var entry=manager.community().get("gui","","Open Menu");
+        assertEquals("打开菜单",entry.translation());
+        assertEquals(java.util.Map.of("Menu","菜单"),entry.styles());
+    }
+
     @Test void rewardCapturesAndMulticolorRatingKeepEveryOriginalStyle() {
         var source=Component.literal("§7Rewards: §8+§35000§7 Experience §8+§72 §e✰✰✰§7✰✰ §bBoxes §8+§7Bonus");
         var before=source.copy();

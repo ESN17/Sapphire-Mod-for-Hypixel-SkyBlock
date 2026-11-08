@@ -83,7 +83,7 @@ class WeeklyTranslationTest {
         output=TextTranslationEngine.apply(raw,new TranslationManager.Match(match.rule(),match.pieces(),Map.of("Griffin","狮鹫")));
         assertEquals("[狮鹫/狮鹫]",output.getString());
         var styles=new ArrayList<Integer>();output.visit((style,text)->{if(text.equals("狮鹫"))styles.add(style.getColor().getValue());return Optional.empty();},net.minecraft.network.chat.Style.EMPTY);
-        assertEquals(List.of(ChatFormatting.BLUE.getColor(),ChatFormatting.DARK_PURPLE.getColor()),styles);
+        assertEquals(List.of(0x5555ff,0xaa00aa),styles);
     }
     @Test void editorSavesBacksUpReloadsAndRejectsBadVariables() throws Exception {
         Files.createDirectories(root.resolve("translations/items"));Files.writeString(root.resolve("translations/chat.json"),"{\"Hello!\":\"你好!\",\"Other\":\"其他\"}");

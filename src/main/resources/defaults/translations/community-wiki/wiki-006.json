@@ -10654,9 +10654,9 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Materializes Chum in your inventory whenever you catch something.",
-      "translation": "每次钓到东西时,都会在你的物品栏中生成鱼饵.",
+      "translation": "每次钓到东西时,都会在你的物品栏中生成诱鱼料.",
       "styleMappings": {
-        "Chum": "鱼饵"
+        "Chum": "诱鱼料"
       },
       "sampleRaw": "§7Materializes §aChum §7in your inventory §7whenever you catch something.",
       "sourceId": "6b31d07cd5ecf29ddb802224",
@@ -52968,11 +52968,11 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Sources: - Enchantment Table (I-V) - Silex (VI-X)",
-      "translation": "来源： - 附魔台（I-V） - 燧石（VI-X）",
+      "translation": "来源： - 附魔台（I-V） - 燧石强化剂（VI-X）",
       "styleMappings": {
         "Sources:": "来源：",
         "Enchantment Table": "附魔台",
-        "Silex": "燧石"
+        "Silex": "燧石强化剂"
       },
       "sampleRaw": "§6Sources: §7- Enchantment Table§7 (§aI-V§7) §7- §5Silex§7 (§aVI-X§7)",
       "sourceId": "da2d3c4795f6d03579c13d5c",

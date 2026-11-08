@@ -8,6 +8,10 @@ import java.util.regex.*;
 
 /** Atomic dictionary snapshots, independent of the Minecraft lifecycle. */
 public final class TranslationManager {
+    private volatile long revision;
+    private volatile EntityNameTranslationEngine entityNames=new EntityNameTranslationEngine(Map.of(),Map.of());
+    public EntityNameTranslationEngine entityNames(){return entityNames;}
+    public long revision(){return revision;}
     private volatile Map<String,String> nameIndex=Map.of();
     private volatile Map<String,ItemEntry> petItems=Map.of();
     private volatile List<SystemTranslationEngine.Rule> systemRules=List.of();
@@ -17,11 +21,14 @@ public final class TranslationManager {
     private volatile int wikiPendingReviewCount;
     public int wikiPendingReviewCount(){return wikiPendingReviewCount;}
     public CommunityTranslationEngine.Index community(){return community;}
+    /** Exact imported item names only; new sale products must never use fuzzy fallbacks. */
+    public String knownItemName(String english){return nameIndex.get(english);}
     public List<SystemTranslationEngine.Rule> systemRules(){return systemRules;}
     public String translatedName(String english) {
         String exact=nameIndex.get(english);if(exact!=null)return exact;
         exact=scope("mining-events").get(english);if(exact!=null)return exact;
         exact=scope("tooltip-labels").get(english);if(exact!=null)return exact;
+        exact=scope("entity-names").get(english);if(exact!=null)return exact;
         int prefix=0;
         while(prefix<english.length() && !Character.isLetterOrDigit(english.codePointAt(prefix)) && english.charAt(prefix)!='[')
             prefix+=Character.charCount(english.codePointAt(prefix));
@@ -37,8 +44,11 @@ public final class TranslationManager {
         public Match(String rule, List<Piece> pieces) { this(rule, pieces, Map.of()); }
         public String text() { return pieces.stream().map(Piece::text).reduce("", String::concat); }
     }
-    public record Paragraph(List<String> source, String translation, Template template, Map<String,String> styleMappings,boolean userEdited) {
+    public record Paragraph(List<String> source, String translation, Template template, Map<String,String> styleMappings,boolean userEdited,String leadingLiteral,String requiredWord) {
+        public Paragraph(List<String> source,String translation,Template template,Map<String,String> styleMappings,boolean userEdited){this(source,translation,template,styleMappings,userEdited,prefix(source),word(source));}
         public Paragraph(List<String> source,String translation,Template template,Map<String,String> styleMappings){this(source,translation,template,styleMappings,false);}
+        private static String prefix(List<String> source){String first=source.getFirst();var m=VARIABLE.matcher(first);return (m.find()?first.substring(0,m.start()):first).strip();}
+        private static String word(List<String> source){String first=source.getFirst();var m=VARIABLE.matcher(first);return m.find() && m.start()==0?first.substring(m.end()).strip().split("[ {]",2)[0]:"";}
     }
     public record ItemEntry(String name, String originalName, Map<String,String> lore,
                             Map<String,String> styleMappings, List<Paragraph> paragraphs, List<Template> loreTemplates) {}
@@ -57,7 +67,10 @@ public final class TranslationManager {
     public static final Pattern VARIABLE = Pattern.compile("(?<!\\{)(?:\\{\\{([A-Za-z][A-Za-z0-9_]*)\\}\\}|\\{([A-Za-z][A-Za-z0-9_]*)\\})(?!\\})");
     private static String variable(Matcher matcher) {return matcher.group(1)!=null ? matcher.group(1) : matcher.group(2);}
     public static final Pattern FORMAT = Pattern.compile("(?i)§[0-9a-fk-or]");
-    public static String plain(String s) { return FORMAT.matcher(s).replaceAll(""); }
+    private static final Pattern ITEM_ID = Pattern.compile("[A-Za-z0-9_;:.-]{1,160}");
+    private static final Pattern GEM_ITEM_ID = Pattern.compile("(?:ROUGH|FLAWED|FINE|FLAWLESS|PERFECT)_[A-Z]+_GEM");
+    private static final Pattern PET_ITEM_RARITY = Pattern.compile("(?:COMMON|UNCOMMON|RARE|EPIC|LEGENDARY|MYTHIC|DIVINE|SPECIAL|VERY SPECIAL) PET ITEM");
+    public static String plain(String s) { return s.indexOf('§')<0?s:FORMAT.matcher(s).replaceAll(""); }
     public static final class Template {
         final String source, target;
         final Pattern pattern;
@@ -82,8 +95,11 @@ public final class TranslationManager {
                 // and the server's optional space without accepting arbitrary prose.
                 regex.append(name.startsWith("statIcon") ? "([+-]?(?:[0-9]{1,3}(?:,[0-9]{3})+|[0-9]+)(?:\\.[0-9]+)?%?[ \\t]{0,2}[\\p{Co}\\p{S}☘⸕☯]{1,4})"
                     : name.startsWith("icon") ? "([^\\p{L}\\p{N}\\s]{1,8})" : switch (name) {
-                    case "roman" -> "([IVXLCDM]{1,8}|[0-9]{1,3})";
-                    case "name", "text", "prefix", "suffix", "player", "location", "event" -> "([^\\r\\n]{1,128})";
+                    case "roman", "romanFrom", "romanTo" -> "([IVXLCDM]{1,8}|[0-9]{1,3})";
+                    case "rankedPlayer" -> "((?:\\[[A-Z][A-Z0-9_+]{0,24}\\] )?[A-Za-z0-9_]{1,16})";
+                    case "version" -> "([0-9][A-Za-z0-9._+\\-]{0,47})";
+                    case "name", "text", "prefix", "suffix", "player", "location", "event", "mob", "fireSaleItem", "catalogItem" -> "([^\\r\\n]{1,128})";
+                    case "deathVictim", "reviver" -> "([A-Za-z0-9_]{1,16})";
                     case "time" -> "([0-9][0-9:., hmsd]{0,31})";
                     case "market", "marketBuy", "marketSell", "marketCount" -> "([0-9]+(?:,[0-9]{3})*(?:\\.[0-9]+)?[kKmMbBtT]?)";
                     default -> "([+-]?(?:[0-9]{1,3}(?:,[0-9]{3})+|[0-9]+)(?:\\.[0-9]+)?%?)";
@@ -199,7 +215,7 @@ public final class TranslationManager {
                     JsonObject o = readObject(p);
                     if (o.has("schemaVersion") && o.get("schemaVersion").getAsInt() != 1) throw new IllegalArgumentException("Unsupported schema");
                     String id = o.get("id").getAsString();
-                    if (!id.matches("[A-Za-z0-9_;:.-]{1,160}")) throw new IllegalArgumentException("Invalid item ID");
+                    if (!ITEM_ID.matcher(id).matches()) throw new IllegalArgumentException("Invalid item ID");
                     Map<String,String> lore = o.has("lore") ? strings(o.getAsJsonObject("lore")) : Map.of();
                     List<Template> itemTemplates = lore.entrySet().stream().filter(e -> VARIABLE.matcher(e.getKey()).find())
                         .map(e -> new Template(e.getKey(),e.getValue())).sorted(Comparator.comparingInt((Template t) -> t.specificity).reversed().thenComparing(t -> t.source)).toList();
@@ -211,13 +227,13 @@ public final class TranslationManager {
                     }
                     if (items.putIfAbsent(id, item) != null) throw new IllegalArgumentException("Duplicate ID: " + id);
                     boolean petItem=id.startsWith("PET_ITEM_");
-                    if(o.has("_original_lore"))for(var line:o.getAsJsonArray("_original_lore"))
-                        if(plain(line.getAsString()).strip().matches("(?:COMMON|UNCOMMON|RARE|EPIC|LEGENDARY|MYTHIC|DIVINE|SPECIAL|VERY SPECIAL) PET ITEM"))petItem=true;
+                    if(!petItem && o.has("_original_lore"))for(var line:o.getAsJsonArray("_original_lore"))
+                        if(PET_ITEM_RARITY.matcher(plain(line.getAsString()).strip()).matches()){petItem=true;break;}
                     if(petItem && !item.originalName().isBlank())newPetItems.putIfAbsent(item.originalName(),item);
                 } catch (RuntimeException e) { throw new IOException(p + ": " + e.getMessage(), e); }
             }
         }
-        for (String scope : List.of("global", "gui", "chat", "scoreboard", "tablist", "mining-events", "actionbar", "title", "subtitle", "bossbar", "reforges", "enchantments", "enchantment-ids", "name-modifiers","tooltip-labels", "runes", "dyes", "locations", "skyblock-months", "sidebar-formats", "bazaar-events")) {
+        for (String scope : List.of("global", "gui", "chat", "scoreboard", "tablist", "mining-events", "actionbar", "title", "subtitle", "bossbar", "reforges", "enchantments", "enchantment-ids", "name-modifiers","tooltip-labels", "runes", "dyes", "locations", "skyblock-months", "sidebar-formats", "bazaar-events", "entity-names", "entity-labels")) {
             Path p = root.resolve(scope + ".json");
             try { scopes.put(scope, Files.exists(p) ? strings(readObject(p)) : Map.of()); }
             catch (RuntimeException e) { throw new IOException(p + ": " + e.getMessage(), e); }
@@ -231,10 +247,15 @@ public final class TranslationManager {
         List<Paragraph> shared;
         try {shared=Files.exists(sharedPath) ? paragraphs(readObject(sharedPath),1024) : List.of();}
         catch(RuntimeException e){throw new IOException(sharedPath+": "+e.getMessage(),e);}
-        var menus=GuiTranslationEngine.load(root.resolve("gui-menus.json"),items,scopes);
+        var menus=new ArrayList<>(GuiTranslationEngine.load(root.resolve("gui-menus.json"),items,scopes));
+        menus.addAll(GuiTranslationEngine.load(root.resolve("entity-menus.json"),items,scopes));
         var guiPath=root.resolve("gui-menus.json");
         var commonGui=Files.exists(guiPath)?paragraphs(readObject(guiPath),1024):List.<Paragraph>of();
-        var newSystemRules=SystemTranslationEngine.load(root.resolve("system-messages.json"));
+        var newSystemRules=new ArrayList<>(SystemTranslationEngine.load(root.resolve("system-messages.json")));
+        newSystemRules.addAll(SystemTranslationEngine.load(root.resolve("death-messages.json")));
+        newSystemRules.addAll(SystemTranslationEngine.load(root.resolve("creature-messages.json")));
+        // Stable ordering leaves existing translations ahead of equal-specificity additions.
+        newSystemRules.sort(Comparator.comparingInt((SystemTranslationEngine.Rule r)->r.template().specificity).reversed());
         var newWiki=CommunityTranslationEngine.load(root.resolve("community-wiki.json"));
         var wikiPath=root.resolve("community-wiki.json");int newWikiPending=0;
         if(Files.exists(wikiPath)) {
@@ -251,7 +272,7 @@ public final class TranslationManager {
         // Mining messages carry the gemstone glyph separately from the item name.
         // Register the same known item without that glyph, without adding an icon
         // to a message which did not contain one in the first place.
-        for(var entry:items.entrySet())if(entry.getKey().matches("(?:ROUGH|FLAWED|FINE|FLAWLESS|PERFECT)_[A-Z]+_GEM")) {
+        for(var entry:items.entrySet())if(GEM_ITEM_ID.matcher(entry.getKey()).matches()) {
             var item=entry.getValue();String original=item.originalName(),translated=item.name();
             if(!original.isEmpty() && !translated.isEmpty() && Character.getType(original.codePointAt(0))==Character.PRIVATE_USE
                 && original.codePointAt(0)==translated.codePointAt(0))
@@ -269,9 +290,11 @@ public final class TranslationManager {
             }
         }
         snapshot = new Snapshot(Map.copyOf(items), Map.copyOf(scopes), List.copyOf(templates), shared, menus, commonGui);
-        nameIndex=Map.copyOf(names);petItems=Map.copyOf(newPetItems);systemRules=newSystemRules;community=newCommunity;wikiRuleCount=newWiki.entries().size();wikiPendingReviewCount=newWikiPending;cache.clear();systemCache.clear();
+        entityNames=new EntityNameTranslationEngine(scopes.get("entity-names"),scopes.get("entity-labels"));
+        nameIndex=Map.copyOf(names);petItems=Map.copyOf(newPetItems);systemRules=newSystemRules;community=newCommunity;wikiRuleCount=newWiki.entries().size();wikiPendingReviewCount=newWikiPending;cache.clear();systemCache.clear();revision++;
     }
     public int itemCount() { return snapshot.items.size(); }
+    public java.util.Collection<ItemEntry> itemEntries(){return snapshot.items.values();}
     public ItemEntry item(String id) { return id == null ? null : snapshot.items.get(id); }
     public ItemEntry petItem(String english) {
         return petItems.get(english);

@@ -11,7 +11,7 @@
     "",
     "UNCOMMON"
   ],
-  "name": "鱼饵",
+  "name": "诱鱼料",
   "lore": {},
   "loreParagraphs": [
     {
@@ -19,10 +19,10 @@
         "Obtained from killing a sea creature",
         "with a nearby Chum Bucket."
       ],
-      "translation": "在附近有鱼饵桶的情况下击杀海怪获得.",
+      "translation": "在附近有诱鱼料桶的情况下击杀海怪获得.",
       "styleMappings": {
-        "Chum Bucket": "鱼饵桶",
-        "Chum": "鱼饵"
+        "Chum Bucket": "诱鱼料桶",
+        "Chum": "诱鱼料"
       }
     },
     {
@@ -30,13 +30,13 @@
         "Deposit it in any Chum Bucket to earn",
         "{{N0}} Coins and {{N1}} Fishing XP!"
       ],
-      "translation": "将其存入任意鱼饵桶即可获得 {{N0}} 硬币和 {{N1}} 钓鱼经验!",
+      "translation": "将其存入任意诱鱼料桶即可获得 {{N0}} 硬币和 {{N1}} 钓鱼经验!",
       "styleMappings": {
-        "Chum Bucket": "鱼饵桶",
+        "Chum Bucket": "诱鱼料桶",
         "Fishing XP": "钓鱼经验",
         "Coins": "硬币",
         "Fishing": "钓鱼",
-        "Chum": "鱼饵"
+        "Chum": "诱鱼料"
       }
     },
     {
@@ -50,7 +50,7 @@
     }
   ],
   "styleMappings": {
-    "Chum": "鱼饵"
+    "Chum": "诱鱼料"
   },
   "_translation_policy": "2026-10-16-user-standard-v1"
 }

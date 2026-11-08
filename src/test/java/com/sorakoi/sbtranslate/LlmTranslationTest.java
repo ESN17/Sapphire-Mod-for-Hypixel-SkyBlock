@@ -100,21 +100,35 @@ class LlmTranslationTest {
         var entered=new CountDownLatch(1);var release=new CountDownLatch(1);
         try(var service=new LlmTranslationService((c,s)->{entered.countDown();release.await(2,TimeUnit.SECONDS);return "译文";},System::currentTimeMillis)) {
             service.configure(config());assertTrue(service.submit("first",r->{}));assertTrue(entered.await(2,TimeUnit.SECONDS));
-            assertFalse(service.submit("first",r->fail()));
-            for(int i=0;i<16;i++)assertTrue(service.submit("queued"+i,r->{}));
+            assertTrue(service.submit("first",r->{}));
+            for(int i=0;i<LlmTranslationService.MAX_PENDING-1;i++)assertTrue(service.submit("queued"+i,r->{}));
             assertFalse(service.submit("overflow",r->fail()));assertTrue(service.status().contains("队列已满"));
             service.reset();release.countDown();
         }finally{release.countDown();}
     }
-    @Test void rateLimitAndErrorCooldownDoNotRetry() throws Exception {
+    @Test void repeatedVisibleMessagesShareOneRequestAndBothReceiveTranslation()throws Exception{
+        var entered=new CountDownLatch(1);var release=new CountDownLatch(1);var calls=new AtomicInteger();
+        var first=new CompletableFuture<LlmTranslationService.Result>();var second=new CompletableFuture<LlmTranslationService.Result>();
+        try(var service=new LlmTranslationService((c,s)->{calls.incrementAndGet();entered.countDown();release.await(2,TimeUnit.SECONDS);return "译文";},System::currentTimeMillis)){
+            service.configure(config());service.submit("same notification",first::complete);assertTrue(entered.await(2,TimeUnit.SECONDS));
+            assertTrue(service.submit("same notification",second::complete));release.countDown();
+            assertEquals("译文",first.get(2,TimeUnit.SECONDS).text());assertEquals("译文",second.get(2,TimeUnit.SECONDS).text());assertEquals(1,calls.get());
+        }finally{release.countDown();}
+    }
+    @Test void unlimitedRequestsAndInvalidCredentialsAreReported() throws Exception {
         var time=new AtomicLong(100000);var calls=new AtomicInteger();var c=config();c.requestsPerMinute=1;
         try(var service=new LlmTranslationService((cfg,s)->{calls.incrementAndGet();return "译文";},time::get)) {
             service.configure(c);var first=new CompletableFuture<LlmTranslationService.Result>();service.submit("one",first::complete);first.get(2,TimeUnit.SECONDS);
-            service.submit("two",r->fail());awaitStatus(service,"已限速");assertEquals(1,calls.get());time.addAndGet(60001);
-            var next=new CompletableFuture<LlmTranslationService.Result>();service.submit("three",next::complete);next.get(2,TimeUnit.SECONDS);assertEquals(2,calls.get());
+            for(int i=0;i<70;i++) {
+                var next=new CompletableFuture<LlmTranslationService.Result>();service.submit("next"+i,next::complete);next.get(2,TimeUnit.SECONDS);
+            }
+            assertEquals(71,calls.get());
         }
         try(var service=new LlmTranslationService((cfg,s)->{throw new LlmApi.ApiFailure(401);},time::get)) {
-            service.configure(config());service.submit("bad",r->fail());awaitStatus(service,"认证失败");service.submit("next",r->fail());awaitStatus(service,"已限速");
+            service.configure(config());var failure=new CompletableFuture<String>();
+            service.submit("bad",s->true,r->fail(),failure::complete);
+            assertTrue(failure.get(2,TimeUnit.SECONDS).contains("认证失败"));
+            assertFalse(service.submit("next",r->fail()));assertTrue(service.status().contains("认证失败"));
             assertFalse(LlmTranslationService.error(new IOException("private-secret" )).contains("private-secret"));
         }
     }

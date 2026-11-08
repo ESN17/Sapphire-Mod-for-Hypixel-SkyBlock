@@ -36,6 +36,7 @@ public final class CommunityTranslationEngine {
     }
     private static String firstWord(String source){String text=source.strip();int space=text.indexOf(' ');String word=space<0?text:text.substring(0,space);return word.contains("{")?"*":word;}
     public static Index empty(){return new Index(Map.of(),Map.of(),null,null);}
+    private static boolean forbidden(String text){return text.indexOf('§')>=0 || text.indexOf('\r')>=0 || text.indexOf('\n')>=0 || text.indexOf('\0')>=0;}
     /** Keep reviewed/local corpus entries ahead of supplementary Wiki translations. */
     public static Index merge(Index primary,Index supplement) {
         var entries=new HashMap<>(primary.entries());
@@ -73,6 +74,7 @@ public final class CommunityTranslationEngine {
             var result=new HashMap<String,Entry>();
             var paragraphs=new HashMap<String,List<TranslationManager.Paragraph>>();
             for(var file:files) {
+            int unusedStyles=0;
             var data=TranslationManager.readObject(file);
             if(data.get("schemaVersion").getAsInt()!=1)throw new IllegalArgumentException("Unsupported community schema");
             for(var value:data.getAsJsonArray("entries")) {
@@ -80,7 +82,7 @@ public final class CommunityTranslationEngine {
                 String source=row.get("source").getAsString(),target=row.get("translation").getAsString();
                 if(!Set.of("npc","gui","tooltip","system").contains(scope) || scope.equals("npc")!=!npc.isEmpty()
                     || source.isBlank() || target.isBlank() || source.length()>2048 || target.length()>2048
-                    || (source+target+npc).matches("(?s).*[§\\r\\n\\x00].*"))throw new IllegalArgumentException("Invalid community entry");
+                    || forbidden(source) || forbidden(target) || forbidden(npc))throw new IllegalArgumentException("Invalid community entry");
                 var styles=new LinkedHashMap<String,String>();
                 TranslationManager.Template numeric=null;
                 String styleSource=source,styleTarget=target;
@@ -108,7 +110,11 @@ public final class CommunityTranslationEngine {
                     String from=style.getKey(),to=style.getValue().getAsString();
                     if(playerExample!=null){from=from.replace(playerExample,"{player}");to=to.replace(playerExample,"{player}");}
                     if(TranslationManager.VARIABLE.matcher(from).matches() && from.equals(to))continue;
-                    if(from.isBlank() || to.isBlank() || !styleSource.contains(from) || !styleTarget.contains(to))throw new IllegalArgumentException("Invalid community style");
+                    // An edited translation can outlive its color hints. Keep the text and its other valid styles.
+                    if(from.isBlank() || to.isBlank() || !styleSource.contains(from) || !styleTarget.contains(to)){
+                        unusedStyles++;
+                        continue;
+                    }
                     styles.put(from,to);
                 }
                 if(result.putIfAbsent(scope+'\0'+npc+'\0'+source,new Entry(target,Map.copyOf(styles),numeric))!=null)
@@ -122,6 +128,7 @@ public final class CommunityTranslationEngine {
                         bucket.add(new TranslationManager.Paragraph(List.of(styleSource),styleTarget,numeric,Map.copyOf(styles)));
                 }
             }
+            if(unusedStyles>0)org.slf4j.LoggerFactory.getLogger("sapphire").warn("Ignored {} unmatched community style mappings in {}",unusedStyles,file.getFileName());
             }
             paragraphs.replaceAll((k,v)->v.stream().sorted(Comparator.comparingInt((TranslationManager.Paragraph p)->p.template().specificity).reversed()).toList());
             var index=new Index(Map.copyOf(result),Map.copyOf(paragraphs),null,null);

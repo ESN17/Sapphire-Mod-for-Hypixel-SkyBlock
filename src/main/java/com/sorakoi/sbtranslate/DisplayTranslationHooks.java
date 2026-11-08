@@ -5,10 +5,28 @@ import net.minecraft.network.chat.Component;
 import java.util.List;
 
 public final class DisplayTranslationHooks {
+    /** Called by container rendering only. Parser-facing ItemStack APIs remain untouched. */
+    public static List<Component> tooltip(net.minecraft.world.item.ItemStack stack,List<Component> source) {
+        var display=new java.util.ArrayList<>(source);
+        com.sorakoi.sbtranslate.item.ItemTranslationService.tooltip(stack,display);
+        return display;
+    }
     public static Component text(Component source,String scope) {
+        return DisplayTranslationSafety.preserveOriginal(scope,source,()->displayText(source,scope));
+    }
+    private static Component displayText(Component source,String scope) {
+        Component translated=translate(source,scope);
+        var capture=com.sorakoi.sbtranslate.collection.DungeonCapture.INSTANCE;
+        if(capture!=null && source!=null && translated!=null)capture.observe(Sapphire.CONTEXT.dungeon(),scope,"",source.getString(),translated.getString());
+        if("chat".equals(scope))translated=com.sorakoi.sbtranslate.client.ChatOriginalHover.attach(translated,source);
+        // Match complete display text after translation, including guild/member lists.
+        return com.sorakoi.sbtranslate.client.SapphireRanks.text(translated);
+    }
+    private static Component translate(Component source,String scope) {
         if(source==null || !Sapphire.active(scope)) return source;
-        if(scope.equals("scoreboard") || scope.equals("tablist")) {
+        if(scope.equals("scoreboard") || scope.equals("tablist") || scope.equals("bossbar")) {
             Component translated=HudTranslationEngine.translate(source,scope,Sapphire.TRANSLATIONS);
+            if(!scope.equals("scoreboard"))translated=com.sorakoi.sbtranslate.client.OnlineHudTranslation.display(translated,scope);
             if(translated==source)collect(scope,TranslationManager.plain(source.getString()));
             return Sapphire.originalMode(translated,source);
         }

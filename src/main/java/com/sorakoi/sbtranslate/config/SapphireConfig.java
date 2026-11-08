@@ -5,8 +5,16 @@ import java.io.IOException;
 import java.nio.file.*;
 public final class SapphireConfig {
     public boolean enabled = true, items = true, lore = true, gui = true, chat = true,
-        scoreboard = true, tablist = true, actionbar = true, title = true, subtitle = true, bossbar = true;
+        scoreboard = true, tablist = true, actionbar = true, title = true, subtitle = true, bossbar = true, entities = true;
     public boolean debug = false, forceTranslation = true, collectUntranslated = false, showOriginal = false;
+    public boolean englishByDefault = false;
+    public boolean sapphireRanks = true;
+    public boolean skyHanniTranslation = true;
+    public boolean odinTranslation = true;
+    public boolean apiChatReplace = true, chatOriginalHover = true, chatCopyOriginal = true;
+    public boolean dictionaryAutoUpdate = true;
+    public String dictionaryUpdateUrl = com.sorakoi.sbtranslate.sync.DictionaryUpdater.DEFAULT_URL;
+    public boolean translateTooltip(boolean controlDown){return englishByDefault == controlDown;}
     public int maxRecords = 2000, maxQueue = 512, maxDiskMegabytes = 16;
     public static SapphireConfig load(Path root) throws IOException {
         Path path = root.resolve("config.json");
@@ -25,7 +33,7 @@ public final class SapphireConfig {
     }
     public boolean scope(String s) {
         return enabled && switch(s) {
-            case "item" -> items; case "gui" -> gui; case "chat" -> chat; case "scoreboard" -> scoreboard; case "tablist" -> tablist;
+            case "entity" -> entities; case "item" -> items; case "gui" -> gui; case "chat" -> chat; case "scoreboard" -> scoreboard; case "tablist" -> tablist;
             case "actionbar" -> actionbar; case "title" -> title; case "subtitle" -> subtitle; case "bossbar" -> bossbar; default -> false;
         };
     }

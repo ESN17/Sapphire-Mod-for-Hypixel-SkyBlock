@@ -1,0 +1,4669 @@
+{
+  "wholeMessageOnly": true,
+  "rules": [
+    {
+      "source": "The water bubbles and froths. A massive form emerges- you have disturbed the Wiki Tiki! You shall pay the price.",
+      "translation": "水面翻腾起泡，一道庞大的身影浮现——你惊扰了维基提基！你将为此付出代价。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Wiki Tiki": "维基提基"
+      },
+      "sampleRaw": "§c§lThe water bubbles and froths. A massive form emerges- you have disturbed the Wiki Tiki! You shall pay the price.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Wiki_Tiki",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861951",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "The Wiki Tiki is IMMUNE! Attack its laser totems!",
+      "translation": "维基提基处于无敌状态！攻击它的激光图腾！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Wiki Tiki": "维基提基",
+        "IMMUNE!": "无敌状态！",
+        "laser totems": "激光图腾"
+      },
+      "sampleRaw": "§aThe Wiki Tiki is §c§lIMMUNE! §aAttack its §elaser totems§a!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Wiki_Tiki",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861951",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A massive Titanoboa surfaces. Its body stretches as far as the eye can see.",
+      "translation": "一条巨大的泰坦巨蟒浮出水面，身躯绵延至视野尽头。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Titanoboa": "泰坦巨蟒"
+      },
+      "sampleRaw": "§c§lA massive Titanoboa surfaces. Its body stretches as far as the eye can see.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Titanoboa",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861909",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "Is it a frog? Is it a man? Well, yes, sorta, IT'S FROG MAN!!!!!!",
+      "translation": "是青蛙？还是人？好吧，都算是——这是蛙人！！！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {},
+      "sampleRaw": "§aIs it a frog? Is it a man? Well, yes, sorta, IT'S FROG MAN!!!!!!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Frog_Man",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861514",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "The Trash Gobbler is hungry for you!",
+      "translation": "垃圾吞噬者正想把你一口吞下！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Trash Gobbler": "垃圾吞噬者"
+      },
+      "sampleRaw": "§aThe Trash Gobbler is hungry for you!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Trash_Gobbler",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861912",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A long snout breaks the surface of the water. It's an Alligator!",
+      "translation": "一张长吻探出水面。是短吻鳄！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Alligator": "短吻鳄"
+      },
+      "sampleRaw": "§aA long snout breaks the surface of the water. It's an Alligator!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Alligator",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861274",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "You were thrown by the Alligator!",
+      "translation": "你被短吻鳄甩飞了！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Alligator": "短吻鳄"
+      },
+      "sampleRaw": "§aYou were thrown by the Alligator!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Alligator",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861274",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "The Alligator has you in a DEATH ROLL!",
+      "translation": "短吻鳄对你发动了死亡翻滚！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Alligator": "短吻鳄",
+        "DEATH ROLL": "死亡翻滚",
+        "!": "！"
+      },
+      "sampleRaw": "§aThe Alligator has you in a §c§lDEATH ROLL§f!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Alligator",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861274",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "The sky darkens and the air thickens. The end times are upon us: Ragnarok is here.",
+      "translation": "天空暗淡，空气凝滞。末日降临：诸神黄昏来了。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Ragnarok": "诸神黄昏"
+      },
+      "sampleRaw": "§c§lThe sky darkens and the air thickens. The end times are upon us: Ragnarok is here.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Ragnarok",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861763",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A Fiery Scuttler inconspicuously waddles up to you, friends in tow.",
+      "translation": "一只烈火爬行蟹悄悄爬向你，身后还跟着一群同伴。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Fiery Scuttler": "烈火爬行蟹"
+      },
+      "sampleRaw": "§cA Fiery Scuttler inconspicuously waddles up to you, friends in tow.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Fiery_Scuttler",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861489",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A swampy mass of slime emerges, the Bayou Sludge!",
+      "translation": "一团沼泽黏液浮了上来，是河湾淤泥怪！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Bayou Sludge": "河湾淤泥怪",
+        "Sludge": "淤泥怪"
+      },
+      "sampleRaw": "§aA swampy mass of slime emerges, the Bayou Sludge!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Bayou_Sludge",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861307",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A Snapping Turtle is coming your way, and it's ANGRY!",
+      "translation": "一只鳄龟朝你冲来，而且它很生气！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Snapping Turtle": "鳄龟"
+      },
+      "sampleRaw": "§aA Snapping Turtle is coming your way, and it's ANGRY!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Snapping_Turtle",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861845",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "The desolate wail of a Banshee breaks the silence.",
+      "translation": "报丧女妖凄厉的哀嚎打破了寂静。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Banshee": "报丧女妖"
+      },
+      "sampleRaw": "§aThe desolate wail of a Banshee breaks the silence.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Banshee",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861299",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A garish set of tentacles arise. It's a Blue Ringed Octopus!",
+      "translation": "一簇色彩艳丽的触手浮出水面。是蓝环章鱼！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Blue Ringed Octopus": "蓝环章鱼"
+      },
+      "sampleRaw": "§aA garish set of tentacles arise. It's a Blue Ringed Octopus!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Blue_Ringed_Octopus",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861340",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A swampy mass of slime emerges, the Dumpster Diver!",
+      "translation": "一团沼泽黏液浮了上来，是垃圾潜水者！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Dumpster Diver": "垃圾潜水者"
+      },
+      "sampleRaw": "§aA swampy mass of slime emerges, the Dumpster Diver!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Dumpster_Diver",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861464",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "Trouble's brewing, it's a Fireproof Witch!",
+      "translation": "麻烦正在酝酿，是防火女巫！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Fireproof Witch": "防火女巫",
+        "Witch": "女巫"
+      },
+      "sampleRaw": "§aTrouble's brewing, it's a Fireproof Witch!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Fireproof_Witch",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861496",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "Smells of burning. Must be a Fried Chicken.",
+      "translation": "一股焦味飘来。一定是炸鸡。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Chicken": "鸡",
+        "Fried Chicken": "炸鸡"
+      },
+      "sampleRaw": "§aSmells of burning. Must be a Fried Chicken.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Fried_Chicken",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861511",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A leech of the mines surfaces... you've caught a Mithril Grubber.",
+      "translation": "一条矿洞水蛭浮了上来……你钓到了秘银蛆虫。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Mithril Grubber": "秘银蛆虫"
+      },
+      "sampleRaw": "§aA leech of the mines surfaces... you've caught a Mithril Grubber.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Mithril_Grubber",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861670",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A leech of the mines surfaces... you've caught a Medium Mithril Grubber.",
+      "translation": "一条矿洞水蛭浮了上来……你钓到了中型秘银蛆虫。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Medium Mithril Grubber": "中型秘银蛆虫",
+        "Mithril Grubber": "秘银蛆虫"
+      },
+      "sampleRaw": "§aA leech of the mines surfaces... you've caught a Medium Mithril Grubber.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Mithril_Grubber",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861670",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A leech of the mines surfaces... you've caught a Large Mithril Grubber.",
+      "translation": "一条矿洞水蛭浮了上来……你钓到了大型秘银蛆虫。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Large Mithril Grubber": "大型秘银蛆虫",
+        "Mithril Grubber": "秘银蛆虫"
+      },
+      "sampleRaw": "§aA leech of the mines surfaces... you've caught a Large Mithril Grubber.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Mithril_Grubber",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861670",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A leech of the mines surfaces... you've caught a Bloated Mithril Grubber.",
+      "translation": "一条矿洞水蛭浮了上来……你钓到了膨胀秘银蛆虫。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Bloated Mithril Grubber": "膨胀秘银蛆虫",
+        "Mithril Grubber": "秘银蛆虫"
+      },
+      "sampleRaw": "§aA leech of the mines surfaces... you've caught a Bloated Mithril Grubber.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Mithril_Grubber",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861670",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A gang of Liltads!",
+      "translation": "一群小蝌蚪！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Liltad": "小蝌蚪"
+      },
+      "sampleRaw": "§aA gang of Liltads!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Tadgang",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861887",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "You've hooked an Ent, as ancient as the forest itself.",
+      "translation": "你钓到了一位树人，它与这片森林一样古老。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Ent": "树人"
+      },
+      "sampleRaw": "§aYou've hooked an Ent, as ancient as the forest itself.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Ent",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861479",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "Look! A Wetwing emerges!",
+      "translation": "快看！一只湿翼出现了！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Wetwing": "湿翼"
+      },
+      "sampleRaw": "§aLook! A Wetwing emerges!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Wetwing",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861950",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "You've hooked a Bogged!",
+      "translation": "你钓到了一只沼骸！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Bogged": "沼骸"
+      },
+      "sampleRaw": "§aYou've hooked a Bogged!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Bogged",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861343",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "You've caused a disturbance in the loch. Could it be... Nessie?",
+      "translation": "你惊动了湖中的生物。难道是……尼斯湖水怪？",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Nessie": "尼斯湖水怪"
+      },
+      "sampleRaw": "§aYou've caused a disturbance in the loch. Could it be... Nessie?",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Nessie",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861693",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "An inquisitive Atoll Croaker takes the bait!",
+      "translation": "一只好奇的环礁鸣蛙咬钩了！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Atoll Croaker": "环礁鸣蛙"
+      },
+      "sampleRaw": "§aAn inquisitive Atoll Croaker takes the bait!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Atoll_Croaker",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861289",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A Puddle Jumper is preparing for liftoff—cast your rod into it and hold on tight!",
+      "translation": "水洼跳跃者准备起跳了——把鱼钩抛向它，抓紧！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Puddle Jumper": "水洼跳跃者"
+      },
+      "sampleRaw": "§aA Puddle Jumper is preparing for liftoff—cast your rod into it and hold on tight!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Puddle_Jumper",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861757",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "[MOB] Puddle Jumper: Let's get ready for a ride!",
+      "translation": "[生物] 水洼跳跃者：准备好搭便车吧！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Puddle Jumper": "水洼跳跃者",
+        "[MOB]": "[生物]"
+      },
+      "sampleRaw": "§e[MOB] §bPuddle Jumper§f: Let's get ready for a ride!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Puddle_Jumper",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861757",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "[MOB] Puddle Jumper: Woah there! Throw ya hook onto me and let's go jumpin!",
+      "translation": "[生物] 水洼跳跃者：嘿！把鱼钩抛到我身上，一起跳吧！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Puddle Jumper": "水洼跳跃者",
+        "[MOB]": "[生物]"
+      },
+      "sampleRaw": "§e[MOB] §bPuddle Jumper§f: Woah there! Throw ya hook onto me and let's go jumpin!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Puddle_Jumper",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861757",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "What even is that?! A... gorF?",
+      "translation": "那到底是什么？！一只……蛙青？",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "gorF": "蛙青"
+      },
+      "sampleRaw": "§aWhat even is that?! A... gorF?",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/GorF",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861548",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A Drowned Captain takes hold of your bobber!",
+      "translation": "一位溺亡船长抓住了你的浮漂！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Drowned Captain": "溺亡船长"
+      },
+      "sampleRaw": "§aA Drowned Captain takes hold of your bobber!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Drowned_Captain",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861462",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A Lotus Guardian emerges, ready to protect the Atoll.",
+      "translation": "一位莲花守卫出现了，准备守护这片环礁。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Lotus Guardian": "莲花守卫"
+      },
+      "sampleRaw": "§aA Lotus Guardian emerges, ready to protect the Atoll.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Lotus_Guardian",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861633",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "Bow down before the Frog Prince... or pay the hefty price!",
+      "translation": "向青蛙王子低头……否则将付出惨重代价！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Frog Prince": "青蛙王子",
+        "Prince": "王子"
+      },
+      "sampleRaw": "§aBow down before the Frog Prince... or pay the hefty price!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Frog_Prince",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861516",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "You get an inkling you've caught... an Inkling!",
+      "translation": "你隐约感觉自己钓到了……一只墨灵！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Inkling": "墨灵"
+      },
+      "sampleRaw": "§aYou get an inkling you've caught... an Inkling!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Inkling",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861584",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A majestic creature rises from the water. It's a Manta Ray.",
+      "translation": "一只雄伟的生物跃出水面。是蝠鲼。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Manta Ray": "蝠鲼"
+      },
+      "sampleRaw": "§aA majestic creature rises from the water. It's a Manta Ray.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Manta_Ray",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861650",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "You feel a burning sensation as you reel in a Volcanic Snail!",
+      "translation": "你收竿钓起火山蜗牛，感到一阵灼热！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Volcanic Snail": "火山蜗牛"
+      },
+      "sampleRaw": "§aYou feel a burning sensation as you reel in a Volcanic Snail!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Volcanic_Snail",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=850889",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A Magma Pillar rises from the lava.",
+      "translation": "一根岩浆柱从熔岩中升起。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Magma Pillar": "岩浆柱"
+      },
+      "sampleRaw": "§aA Magma Pillar rises from the lava.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Magma_Pillar",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861647",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "Watch out! It's Jumpin' Jack.",
+      "translation": "小心！是跳跳杰克。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Jumpin' Jack": "跳跳杰克"
+      },
+      "sampleRaw": "§aWatch out! It's Jumpin' Jack.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Jumpin%27_Jack",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861593",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A Haggard stumbles to the shore, ready for a fight!",
+      "translation": "一只憔悴者踉跄着爬上岸，准备大打出手！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Haggard": "憔悴者"
+      },
+      "sampleRaw": "§aA Haggard stumbles to the shore, ready for a fight!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Haggard",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861557",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A Brineling interrupts you with a stream of bubbles!",
+      "translation": "一只盐水精灵喷出一串气泡，打断了你！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Brineling": "盐水精灵"
+      },
+      "sampleRaw": "§aA Brineling interrupts you with a stream of bubbles!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Brineling",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=850874",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A Sprawl emerges from the blue, and it's looking for you!",
+      "translation": "一只蔓延者从碧水中浮现，它正盯着你！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Sprawl": "蔓延者"
+      },
+      "sampleRaw": "§aA Sprawl emerges from the blue, and it's looking for you!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Sprawl",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861869",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "The laughter of a Torrid echoes through the air.",
+      "translation": "炙热者的笑声在空中回荡。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Torrid": "炙热者"
+      },
+      "sampleRaw": "§aThe laughter of a Torrid echoes through the air.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Torrid",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861910",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "Something zips through the air - it's a Silkbreeze!",
+      "translation": "有什么东西飞掠而过——是丝风！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Silkbreeze": "丝风"
+      },
+      "sampleRaw": "§aSomething zips through the air - it's a Silkbreeze!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Silkbreeze",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861822",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A Giant Isopod was dredged up from the depths!",
+      "translation": "一只巨型等足虫被从深处拖了上来！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Giant Isopod": "巨型等足虫"
+      },
+      "sampleRaw": "§aA Giant Isopod was dredged up from the depths!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Giant_Isopod",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861529",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "What is this creature!?",
+      "translation": "这是什么生物？！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {},
+      "sampleRaw": "§aWhat is this creature!?",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Yeti",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861970",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "Frozen Steve fell into the pond long ago, never to resurface...until now!",
+      "translation": "冰冻史蒂夫很久以前落入池塘，此后再未浮出水面……直到现在！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Frozen Steve": "冰冻史蒂夫"
+      },
+      "sampleRaw": "§aFrozen Steve fell into the pond long ago, never to resurface...until now!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Frozen_Steve",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861521",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "It's a snowman! He looks harmless.",
+      "translation": "是个雪人！他看起来人畜无害。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {},
+      "sampleRaw": "§aIt's a snowman! He looks harmless.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Frosty_%28mob%29",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861517",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "The Grinch stole Jerry's gifts... Get them back!",
+      "translation": "格林奇偷走了 Jerry 的礼物……快把它们夺回来！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Grinch": "格林奇"
+      },
+      "sampleRaw": "§aThe Grinch stole Jerry's gifts... Get them back!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Grinch",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861552",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "Phew! It's only a Scarecrow.",
+      "translation": "呼！原来只是个稻草人。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Scarecrow": "稻草人"
+      },
+      "sampleRaw": "§aPhew! It's only a Scarecrow.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Scarecrow",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861793",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "The Water Hydra has come to test your strength.",
+      "translation": "水九头蛇前来考验你的实力。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Water Hydra": "水九头蛇"
+      },
+      "sampleRaw": "§aThe Water Hydra has come to test your strength.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Water_Hydra",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861942",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A Squid appeared.",
+      "translation": "一只鱿鱼出现了。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Squid": "鱿鱼"
+      },
+      "sampleRaw": "§aA Squid appeared.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Squid",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861871",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "The Loch Emperor arises from the depths.",
+      "translation": "湖泊帝王从深处现身。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "The Loch Emperor": "湖泊帝王"
+      },
+      "sampleRaw": "§aThe Loch Emperor arises from the depths.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/The_Loch_Emperor",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861900",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "Is that even a fish? It's the Carrot King!",
+      "translation": "那也算鱼吗？是胡萝卜之王！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Carrot King": "胡萝卜之王"
+      },
+      "sampleRaw": "§aIs that even a fish? It's the Carrot King!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Carrot_King",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861359",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "Pitch Darkness reveals a Night Squid.",
+      "translation": "漆黑中浮现了一只夜晚鱿鱼。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Night Squid": "夜晚鱿鱼",
+        "Squid": "鱿鱼"
+      },
+      "sampleRaw": "§aPitch Darkness reveals a Night Squid.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Night_Squid",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=855273",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "You caught a Sea Walker.",
+      "translation": "你钓到了一只海行者。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Sea Walker": "海行者",
+        "Walker": "行者"
+      },
+      "sampleRaw": "§aYou caught a Sea Walker.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Sea_Walker",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861805",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "You've stumbled upon a Sea Guardian.",
+      "translation": "你遇到了一只海洋守卫。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Sea Guardian": "海洋守卫"
+      },
+      "sampleRaw": "§aYou've stumbled upon a Sea Guardian.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Sea_Guardian",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=855274",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "You reeled in a Sea Archer.",
+      "translation": "你钓上来了一位海弓手。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Sea Archer": "海弓手"
+      },
+      "sampleRaw": "§aYou reeled in a Sea Archer.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Sea_Archer",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861803",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "It looks like you've disrupted the Sea Witch's brewing session. Watch out, she's furious!",
+      "translation": "你似乎打断了海女巫酿药。小心，她怒不可遏！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Sea Witch": "海女巫",
+        "Witch": "女巫"
+      },
+      "sampleRaw": "§aIt looks like you've disrupted the Sea Witch's brewing session. Watch out, she's furious!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Sea_Witch",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861806",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A tiny fin emerges from the water, you've caught a Nurse Shark.",
+      "translation": "一片小鱼鳍露出水面，你钓到了一条护士鲨。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Nurse Shark": "护士鲨"
+      },
+      "sampleRaw": "§aA tiny fin emerges from the water, you've caught a Nurse Shark.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Nurse_Shark",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861697",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "You spot a fin as blue as the water it came from, it's a Blue Shark.",
+      "translation": "你看见一片与海水一样蓝的鱼鳍，是蓝鲨。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Blue Shark": "蓝鲨"
+      },
+      "sampleRaw": "§aYou spot a fin as blue as the water it came from, it's a Blue Shark.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Blue_Shark",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861341",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A striped beast bounds from the depths, the wild Tiger Shark!",
+      "translation": "一头带条纹的猛兽从深处跃出，是凶猛的虎鲨！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Tiger Shark": "虎鲨"
+      },
+      "sampleRaw": "§aA striped beast bounds from the depths, the wild Tiger Shark!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Tiger_Shark",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861905",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "Hide no longer, a Great White Shark has tracked your scent and thirsts for your blood!",
+      "translation": "躲不掉了！大白鲨循着你的气味而来，正渴望你的鲜血！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Great White Shark": "大白鲨"
+      },
+      "sampleRaw": "§aHide no longer, a Great White Shark has tracked your scent and thirsts for your blood!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Great_White_Shark",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861550",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "The spirit of a long lost Phantom Fisher has come to haunt you.",
+      "translation": "失踪已久的幽灵渔夫之魂前来纠缠你。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Phantom Fisher": "幽灵渔夫"
+      },
+      "sampleRaw": "§aThe spirit of a long lost Phantom Fisher has come to haunt you.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Phantom_Fisher",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861721",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "You hear trotting from beneath the waves, you caught a Nightmare.",
+      "translation": "你听见浪涛下传来马蹄声，原来钓到了梦魇。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Nightmare": "梦魇"
+      },
+      "sampleRaw": "§aYou hear trotting from beneath the waves, you caught a Nightmare.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Nightmare",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861695",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "This can't be! The manifestation of death himself!",
+      "translation": "这不可能！竟然是死神的化身！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {},
+      "sampleRaw": "§aThis can't be! The manifestation of death himself!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Grim_Reaper",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861551",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "It must be a full moon, a Werewolf appears.",
+      "translation": "一定是满月，一只狼人出现了。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Werewolf": "狼人"
+      },
+      "sampleRaw": "§aIt must be a full moon, a Werewolf appears.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Werewolf",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861949",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "An Oasis Sheep appears from the water.",
+      "translation": "一只绿洲绵羊从水中出现。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Oasis Sheep": "绿洲绵羊",
+        "Sheep": "羊"
+      },
+      "sampleRaw": "§aAn Oasis Sheep appears from the water.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Oasis_Sheep",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861700",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "An Oasis Rabbit appears from the water.",
+      "translation": "一只绿洲兔从水中出现。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Oasis Rabbit": "绿洲兔"
+      },
+      "sampleRaw": "§aAn Oasis Rabbit appears from the water.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Oasis_Rabbit",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861699",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "Huh? A Catfish!",
+      "translation": "咦？一条鲶鱼！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Catfish": "鲶鱼"
+      },
+      "sampleRaw": "§aHuh? A Catfish!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Catfish",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861361",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "You have awoken the Deep Sea Protector, prepare for a battle!",
+      "translation": "你唤醒了深海保护者，准备战斗！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Deep Sea Protector": "深海保护者"
+      },
+      "sampleRaw": "§aYou have awoken the Deep Sea Protector, prepare for a battle!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Deep_Sea_Protector",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861445",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "You've discovered a Guardian Defender of the sea.",
+      "translation": "你发现了一只海中的守卫防御者。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Guardian Defender": "守卫防御者"
+      },
+      "sampleRaw": "§aYou've discovered a Guardian Defender of the sea.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Guardian_Defender",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861556",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A Lava Blaze has surfaced from the depths!",
+      "translation": "一只熔岩烈焰人从深处浮现！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Blaze": "烈焰人",
+        "Lava Blaze": "熔岩烈焰人"
+      },
+      "sampleRaw": "§aA Lava Blaze has surfaced from the depths!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Lava_Blaze",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861619",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A Lava Pigman has surfaced from the depths!",
+      "translation": "一只熔岩猪人从深处浮现！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Lava Pigman": "熔岩猪人",
+        "Pig": "猪"
+      },
+      "sampleRaw": "§aA Lava Pigman has surfaced from the depths!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Lava_Pigman",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861622",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A Flaming Worm surfaces from the depths!",
+      "translation": "一条烈焰蠕虫从深处浮现！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Flaming Worm": "烈焰蠕虫",
+        "Worm": "蠕虫"
+      },
+      "sampleRaw": "§aA Flaming Worm surfaces from the depths!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Flaming_Worm",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861501",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "An Abyssal Miner breaks out of the water!",
+      "translation": "一位深渊矿工破水而出！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Abyssal Miner": "深渊矿工"
+      },
+      "sampleRaw": "§aAn Abyssal Miner breaks out of the water!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Abyssal_Miner",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861271",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A Poisoned Water Worm surfaces!",
+      "translation": "一条剧毒水蠕虫浮了上来！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Poisoned Water Worm": "剧毒水蠕虫",
+        "Water Worm": "水蠕虫",
+        "Worm": "蠕虫"
+      },
+      "sampleRaw": "§aA Poisoned Water Worm surfaces!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Poisoned_Water_Worm",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861732",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "The Rider of the Deep has emerged.",
+      "translation": "深海骑士现身了。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Rider of the Deep": "深海骑士"
+      },
+      "sampleRaw": "§aThe Rider of the Deep has emerged.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Rider_of_the_Deep",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861785",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "Gross! A Sea Leech!",
+      "translation": "真恶心！一条海蛭！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Sea Leech": "海蛭"
+      },
+      "sampleRaw": "§aGross! A Sea Leech!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Sea_Leech",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861804",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "You have angered a legendary creature... Lord Jawbus has arrived.",
+      "translation": "你激怒了一只传说中的生物……颚骨领主降临了。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Lord Jawbus": "颚骨领主"
+      },
+      "sampleRaw": "§c§lYou have angered a legendary creature... Lord Jawbus has arrived.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Lord_Jawbus",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861630",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "From beneath the lava appears a Magma Slug.",
+      "translation": "一只岩浆蛞蝓从熔岩下浮现。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Magma Slug": "岩浆蛞蝓",
+        "Slug": "蛞蝓"
+      },
+      "sampleRaw": "§aFrom beneath the lava appears a Magma Slug.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Magma_Slug",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861648",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "You hear a massive rumble as Thunder emerges.",
+      "translation": "伴随着一声巨响，雷霆现身了。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Thunder": "雷霆"
+      },
+      "sampleRaw": "§c§lYou hear a massive rumble as Thunder emerges.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Thunder",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861902",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "Taurus and his steed emerge.",
+      "translation": "金牛和他的坐骑现身了。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Taurus": "金牛"
+      },
+      "sampleRaw": "§aTaurus and his steed emerge.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Taurus",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861893",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "WOAH! A Plhlegblast appeared.",
+      "translation": "哇！一只炽焰章鱼出现了。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Plhlegblast": "炽焰章鱼",
+        "WOAH!": "哇！"
+      },
+      "sampleRaw": "§aWOAH! A Plhlegblast appeared.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Plhlegblast",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861730",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "You hear a faint Moo from the lava... A Moogma appears.",
+      "translation": "熔岩中传来微弱的哞哞声……一只哞格玛出现了。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Moogma": "哞格玛"
+      },
+      "sampleRaw": "§aYou hear a faint Moo from the lava... A Moogma appears.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Moogma",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861675",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A small but fearsome Lava Leech emerges.",
+      "translation": "一条体型小巧却凶猛的熔岩水蛭现身了。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Lava Leech": "熔岩水蛭",
+        "Leech": "水蛭"
+      },
+      "sampleRaw": "§aA small but fearsome Lava Leech emerges.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Lava_Leech",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861621",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A Lava Flame flies out from beneath the lava.",
+      "translation": "一团熔岩火焰从熔岩下飞出。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Lava Flame": "熔岩火焰"
+      },
+      "sampleRaw": "§aA Lava Flame flies out from beneath the lava.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Lava_Flame",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861620",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "You feel the heat radiating as a Pyroclastic Worm surfaces.",
+      "translation": "火山碎屑蠕虫浮现时，阵阵热浪扑面而来。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Pyroclastic Worm": "火山碎屑蠕虫",
+        "Worm": "蠕虫"
+      },
+      "sampleRaw": "§aYou feel the heat radiating as a Pyroclastic Worm surfaces.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Pyroclastic_Worm",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861759",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A Fire Eel slithers out of the depths.",
+      "translation": "一条火鳗从深处游出。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Fire Eel": "火鳗"
+      },
+      "sampleRaw": "§aA Fire Eel slithers out of the depths.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Fire_Eel",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861492",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "You found a forgotten Nutcracker laying beneath the ice.",
+      "translation": "你发现了一个被遗忘在冰下的胡桃夹子。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Nutcracker": "胡桃夹子"
+      },
+      "sampleRaw": "§aYou found a forgotten Nutcracker laying beneath the ice.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Nutcracker",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861698",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "CRACK! A Toy Soldier has come to protect the Nutcracker!",
+      "translation": "咔嚓！一名玩具士兵前来保护胡桃夹子！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Nutcracker": "胡桃夹子",
+        "Toy Soldier": "玩具士兵",
+        "CRACK!": "咔嚓！",
+        "A": "一名"
+      },
+      "sampleRaw": "§6§lCRACK! §rA §cToy Soldier §fhas come to protect the §cNutcracker§f!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Nutcracker",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861698",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A Reindrake forms from the depths.",
+      "translation": "一头驯鹿龙从深处凝聚成形。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Reindrake": "驯鹿龙"
+      },
+      "sampleRaw": "§aA Reindrake forms from the depths.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Reindrake",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861778",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "WOAH! {player} summoned a Reindrake from the depths!",
+      "translation": "哇！{player} 从深处召唤了一头驯鹿龙！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Reindrake": "驯鹿龙",
+        "WOAH!": "哇！"
+      },
+      "sampleRaw": "§c§lWOAH! §7SamplePlayer §csummoned a §4Reindrake §cfrom the depths!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Reindrake",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861778",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "WOAH! {player} summoned TWO Reindrakes from the depths!",
+      "translation": "哇！{player} 从深处召唤了两头驯鹿龙！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Reindrake": "驯鹿龙",
+        "WOAH!": "哇！",
+        "TWO Reindrakes": "两头驯鹿龙"
+      },
+      "sampleRaw": "§c§lWOAH! §7SamplePlayer §csummoned §4TWO Reindrakes §cfrom the depths!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Reindrake",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861778",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DEFEATED! A Reindrake was slain and dropped all its loot!",
+      "translation": "已击败！驯鹿龙被击杀，掉落了全部战利品！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Reindrake": "驯鹿龙",
+        "DEFEATED!": "已击败！"
+      },
+      "sampleRaw": "§c§lDEFEATED! §cA §4Reindrake §cwas slain and dropped all its loot!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Reindrake",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861778",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "Your Chumcap Bucket trembles, it's an Agarimoo.",
+      "translation": "你的菌帽饵桶颤动起来，是蘑菇哞牛。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Agarimoo": "蘑菇哞牛"
+      },
+      "sampleRaw": "§aYour Chumcap Bucket trembles, it's an Agarimoo.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Agarimoo",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861273",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "The Agarimoo's fumes are damaging you!",
+      "translation": "蘑菇哞牛的烟雾正在伤害你！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Agarimoo": "蘑菇哞牛"
+      },
+      "sampleRaw": "§cThe Agarimoo's fumes are damaging you!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Agarimoo",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861273",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "You caught a {mob}!",
+      "translation": "你钓到了一只 {mob}！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {}
+    },
+    {
+      "source": "You caught an {mob}!",
+      "translation": "你钓到了一只 {mob}！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {}
+    },
+    {
+      "source": "You caught a {mob}.",
+      "translation": "你钓到了一只 {mob}。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {}
+    },
+    {
+      "source": "You caught an {mob}.",
+      "translation": "你钓到了一只 {mob}。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {}
+    },
+    {
+      "source": "You killed {mob}!",
+      "translation": "你击杀了 {mob}！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {}
+    },
+    {
+      "source": "You killed a {mob}!",
+      "translation": "你击杀了一只 {mob}！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {}
+    },
+    {
+      "source": "You killed an {mob}!",
+      "translation": "你击杀了一只 {mob}！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {}
+    },
+    {
+      "source": "It's a Double Hook!",
+      "translation": "一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Double Hook": "一竿双钓",
+        "Woot woot!": "好耶！"
+      }
+    },
+    {
+      "source": "It's a Double Hook! Woot woot!",
+      "translation": "一竿双钓！好耶！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Double Hook": "一竿双钓",
+        "Woot woot!": "好耶！"
+      }
+    },
+    {
+      "source": "There is not enough space for another Sea Creature! Kill some to make space for new ones!",
+      "translation": "海怪数量已达上限！先击杀一些，才能钓起新的海怪！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {}
+    },
+    {
+      "source": "Family: {mob}",
+      "translation": "族群：{mob}",
+      "scopes": [
+        "gui-tooltip",
+        "skyhanni"
+      ],
+      "styleMappings": {}
+    },
+    {
+      "source": "A Fire Eel slithers out from the depths.",
+      "translation": "一条火鳗从深处蜿蜒游出。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Fire Eel": "火鳗"
+      },
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Fire_Eel",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=863545",
+      "license": "CC BY-NC-SA 3.0",
+      "sampleRaw": "§aA Fire Eel slithers out from the depths."
+    },
+    {
+      "source": "A Dumpster Diver has emerged from the swamp!",
+      "translation": "一名垃圾潜水者从沼泽中现身了！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Dumpster Diver": "垃圾潜水者"
+      },
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Dumpster_Diver",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=865014",
+      "license": "CC BY-NC-SA 3.0",
+      "sampleRaw": "§aA Dumpster Diver has emerged from the swamp!"
+    },
+    {
+      "source": "You get an inkling that you've caught... an Inkling!",
+      "translation": "你隐约感觉自己钓到了……一只墨灵！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Inkling": "墨灵"
+      },
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Inkling",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=864580",
+      "license": "CC BY-NC-SA 3.0",
+      "sampleRaw": "§aYou get an inkling that you've caught... an Inkling!"
+    },
+    {
+      "source": "You caught a Stridersurfer.",
+      "translation": "你钓到了一只炽足冲浪者。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Stridersurfer": "炽足冲浪者"
+      },
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Stridersurfer",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=863423",
+      "license": "CC BY-NC-SA 3.0",
+      "sampleRaw": "§aYou caught a Stridersurfer."
+    },
+    {
+      "source": "A Water Worm surfaces!",
+      "translation": "一条水蠕虫浮出了水面！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Water Worm": "水蠕虫",
+        "Worm": "蠕虫"
+      },
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Water_Worm",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=863339",
+      "license": "CC BY-NC-SA 3.0",
+      "sampleRaw": "§aA Water Worm surfaces!"
+    },
+    {
+      "source": "DOUBLE HOOK! The water bubbles and froths. A massive form emerges- you have disturbed the Wiki Tiki! You shall pay the price.",
+      "translation": "一竿双钓！ 水面翻腾起泡，一道庞大的身影浮现——你惊扰了维基提基！你将为此付出代价。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Wiki Tiki": "维基提基",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§c§lThe water bubbles and froths. A massive form emerges- you have disturbed the Wiki Tiki! You shall pay the price.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Wiki_Tiki",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861951",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "The water bubbles and froths. A massive form emerges- you have disturbed the Wiki Tiki! You shall pay the price. DOUBLE HOOK!",
+      "translation": "水面翻腾起泡，一道庞大的身影浮现——你惊扰了维基提基！你将为此付出代价。 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Wiki Tiki": "维基提基",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§c§lThe water bubbles and froths. A massive form emerges- you have disturbed the Wiki Tiki! You shall pay the price. §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Wiki_Tiki",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861951",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! A massive Titanoboa surfaces. Its body stretches as far as the eye can see.",
+      "translation": "一竿双钓！ 一条巨大的泰坦巨蟒浮出水面，身躯绵延至视野尽头。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Titanoboa": "泰坦巨蟒",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§c§lA massive Titanoboa surfaces. Its body stretches as far as the eye can see.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Titanoboa",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861909",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A massive Titanoboa surfaces. Its body stretches as far as the eye can see. DOUBLE HOOK!",
+      "translation": "一条巨大的泰坦巨蟒浮出水面，身躯绵延至视野尽头。 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Titanoboa": "泰坦巨蟒",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§c§lA massive Titanoboa surfaces. Its body stretches as far as the eye can see. §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Titanoboa",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861909",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! Is it a frog? Is it a man? Well, yes, sorta, IT'S FROG MAN!!!!!!",
+      "translation": "一竿双钓！ 是青蛙？还是人？好吧，都算是——这是蛙人！！！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aIs it a frog? Is it a man? Well, yes, sorta, IT'S FROG MAN!!!!!!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Frog_Man",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861514",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "Is it a frog? Is it a man? Well, yes, sorta, IT'S FROG MAN!!!!!! DOUBLE HOOK!",
+      "translation": "是青蛙？还是人？好吧，都算是——这是蛙人！！！ 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aIs it a frog? Is it a man? Well, yes, sorta, IT'S FROG MAN!!!!!! §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Frog_Man",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861514",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! The Trash Gobbler is hungry for you!",
+      "translation": "一竿双钓！ 垃圾吞噬者正想把你一口吞下！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Trash Gobbler": "垃圾吞噬者",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aThe Trash Gobbler is hungry for you!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Trash_Gobbler",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861912",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "The Trash Gobbler is hungry for you! DOUBLE HOOK!",
+      "translation": "垃圾吞噬者正想把你一口吞下！ 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Trash Gobbler": "垃圾吞噬者",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aThe Trash Gobbler is hungry for you! §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Trash_Gobbler",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861912",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! A long snout breaks the surface of the water. It's an Alligator!",
+      "translation": "一竿双钓！ 一张长吻探出水面。是短吻鳄！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Alligator": "短吻鳄",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aA long snout breaks the surface of the water. It's an Alligator!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Alligator",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861274",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A long snout breaks the surface of the water. It's an Alligator! DOUBLE HOOK!",
+      "translation": "一张长吻探出水面。是短吻鳄！ 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Alligator": "短吻鳄",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aA long snout breaks the surface of the water. It's an Alligator! §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Alligator",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861274",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! The sky darkens and the air thickens. The end times are upon us: Ragnarok is here.",
+      "translation": "一竿双钓！ 天空暗淡，空气凝滞。末日降临：诸神黄昏来了。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Ragnarok": "诸神黄昏",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§c§lThe sky darkens and the air thickens. The end times are upon us: Ragnarok is here.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Ragnarok",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861763",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "The sky darkens and the air thickens. The end times are upon us: Ragnarok is here. DOUBLE HOOK!",
+      "translation": "天空暗淡，空气凝滞。末日降临：诸神黄昏来了。 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Ragnarok": "诸神黄昏",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§c§lThe sky darkens and the air thickens. The end times are upon us: Ragnarok is here. §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Ragnarok",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861763",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! A Fiery Scuttler inconspicuously waddles up to you, friends in tow.",
+      "translation": "一竿双钓！ 一只烈火爬行蟹悄悄爬向你，身后还跟着一群同伴。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Fiery Scuttler": "烈火爬行蟹",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§cA Fiery Scuttler inconspicuously waddles up to you, friends in tow.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Fiery_Scuttler",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861489",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A Fiery Scuttler inconspicuously waddles up to you, friends in tow. DOUBLE HOOK!",
+      "translation": "一只烈火爬行蟹悄悄爬向你，身后还跟着一群同伴。 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Fiery Scuttler": "烈火爬行蟹",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§cA Fiery Scuttler inconspicuously waddles up to you, friends in tow. §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Fiery_Scuttler",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861489",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! A swampy mass of slime emerges, the Bayou Sludge!",
+      "translation": "一竿双钓！ 一团沼泽黏液浮了上来，是河湾淤泥怪！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Bayou Sludge": "河湾淤泥怪",
+        "Sludge": "淤泥怪",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aA swampy mass of slime emerges, the Bayou Sludge!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Bayou_Sludge",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861307",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A swampy mass of slime emerges, the Bayou Sludge! DOUBLE HOOK!",
+      "translation": "一团沼泽黏液浮了上来，是河湾淤泥怪！ 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Bayou Sludge": "河湾淤泥怪",
+        "Sludge": "淤泥怪",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aA swampy mass of slime emerges, the Bayou Sludge! §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Bayou_Sludge",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861307",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! A Snapping Turtle is coming your way, and it's ANGRY!",
+      "translation": "一竿双钓！ 一只鳄龟朝你冲来，而且它很生气！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Snapping Turtle": "鳄龟",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aA Snapping Turtle is coming your way, and it's ANGRY!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Snapping_Turtle",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861845",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A Snapping Turtle is coming your way, and it's ANGRY! DOUBLE HOOK!",
+      "translation": "一只鳄龟朝你冲来，而且它很生气！ 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Snapping Turtle": "鳄龟",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aA Snapping Turtle is coming your way, and it's ANGRY! §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Snapping_Turtle",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861845",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! The desolate wail of a Banshee breaks the silence.",
+      "translation": "一竿双钓！ 报丧女妖凄厉的哀嚎打破了寂静。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Banshee": "报丧女妖",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aThe desolate wail of a Banshee breaks the silence.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Banshee",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861299",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "The desolate wail of a Banshee breaks the silence. DOUBLE HOOK!",
+      "translation": "报丧女妖凄厉的哀嚎打破了寂静。 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Banshee": "报丧女妖",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aThe desolate wail of a Banshee breaks the silence. §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Banshee",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861299",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! A garish set of tentacles arise. It's a Blue Ringed Octopus!",
+      "translation": "一竿双钓！ 一簇色彩艳丽的触手浮出水面。是蓝环章鱼！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Blue Ringed Octopus": "蓝环章鱼",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aA garish set of tentacles arise. It's a Blue Ringed Octopus!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Blue_Ringed_Octopus",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861340",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A garish set of tentacles arise. It's a Blue Ringed Octopus! DOUBLE HOOK!",
+      "translation": "一簇色彩艳丽的触手浮出水面。是蓝环章鱼！ 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Blue Ringed Octopus": "蓝环章鱼",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aA garish set of tentacles arise. It's a Blue Ringed Octopus! §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Blue_Ringed_Octopus",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861340",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! Trouble's brewing, it's a Fireproof Witch!",
+      "translation": "一竿双钓！ 麻烦正在酝酿，是防火女巫！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Fireproof Witch": "防火女巫",
+        "Witch": "女巫",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aTrouble's brewing, it's a Fireproof Witch!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Fireproof_Witch",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861496",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "Trouble's brewing, it's a Fireproof Witch! DOUBLE HOOK!",
+      "translation": "麻烦正在酝酿，是防火女巫！ 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Fireproof Witch": "防火女巫",
+        "Witch": "女巫",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aTrouble's brewing, it's a Fireproof Witch! §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Fireproof_Witch",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861496",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! Smells of burning. Must be a Fried Chicken.",
+      "translation": "一竿双钓！ 一股焦味飘来。一定是炸鸡。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Chicken": "鸡",
+        "Fried Chicken": "炸鸡",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aSmells of burning. Must be a Fried Chicken.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Fried_Chicken",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861511",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "Smells of burning. Must be a Fried Chicken. DOUBLE HOOK!",
+      "translation": "一股焦味飘来。一定是炸鸡。 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Chicken": "鸡",
+        "Fried Chicken": "炸鸡",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aSmells of burning. Must be a Fried Chicken. §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Fried_Chicken",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861511",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! A leech of the mines surfaces... you've caught a Mithril Grubber.",
+      "translation": "一竿双钓！ 一条矿洞水蛭浮了上来……你钓到了秘银蛆虫。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Mithril Grubber": "秘银蛆虫",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aA leech of the mines surfaces... you've caught a Mithril Grubber.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Mithril_Grubber",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861670",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A leech of the mines surfaces... you've caught a Mithril Grubber. DOUBLE HOOK!",
+      "translation": "一条矿洞水蛭浮了上来……你钓到了秘银蛆虫。 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Mithril Grubber": "秘银蛆虫",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aA leech of the mines surfaces... you've caught a Mithril Grubber. §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Mithril_Grubber",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861670",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! A leech of the mines surfaces... you've caught a Medium Mithril Grubber.",
+      "translation": "一竿双钓！ 一条矿洞水蛭浮了上来……你钓到了中型秘银蛆虫。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Medium Mithril Grubber": "中型秘银蛆虫",
+        "Mithril Grubber": "秘银蛆虫",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aA leech of the mines surfaces... you've caught a Medium Mithril Grubber.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Mithril_Grubber",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861670",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A leech of the mines surfaces... you've caught a Medium Mithril Grubber. DOUBLE HOOK!",
+      "translation": "一条矿洞水蛭浮了上来……你钓到了中型秘银蛆虫。 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Medium Mithril Grubber": "中型秘银蛆虫",
+        "Mithril Grubber": "秘银蛆虫",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aA leech of the mines surfaces... you've caught a Medium Mithril Grubber. §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Mithril_Grubber",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861670",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! A gang of Liltads!",
+      "translation": "一竿双钓！ 一群小蝌蚪！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Liltad": "小蝌蚪",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aA gang of Liltads!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Tadgang",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861887",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A gang of Liltads! DOUBLE HOOK!",
+      "translation": "一群小蝌蚪！ 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Liltad": "小蝌蚪",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aA gang of Liltads! §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Tadgang",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861887",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! You've hooked an Ent, as ancient as the forest itself.",
+      "translation": "一竿双钓！ 你钓到了一位树人，它与这片森林一样古老。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Ent": "树人",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aYou've hooked an Ent, as ancient as the forest itself.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Ent",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861479",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "You've hooked an Ent, as ancient as the forest itself. DOUBLE HOOK!",
+      "translation": "你钓到了一位树人，它与这片森林一样古老。 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Ent": "树人",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aYou've hooked an Ent, as ancient as the forest itself. §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Ent",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861479",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! Look! A Wetwing emerges!",
+      "translation": "一竿双钓！ 快看！一只湿翼出现了！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Wetwing": "湿翼",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aLook! A Wetwing emerges!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Wetwing",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861950",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "Look! A Wetwing emerges! DOUBLE HOOK!",
+      "translation": "快看！一只湿翼出现了！ 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Wetwing": "湿翼",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aLook! A Wetwing emerges! §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Wetwing",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861950",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! You've hooked a Bogged!",
+      "translation": "一竿双钓！ 你钓到了一只沼骸！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Bogged": "沼骸",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aYou've hooked a Bogged!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Bogged",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861343",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "You've hooked a Bogged! DOUBLE HOOK!",
+      "translation": "你钓到了一只沼骸！ 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Bogged": "沼骸",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aYou've hooked a Bogged! §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Bogged",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861343",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! You've caused a disturbance in the loch. Could it be... Nessie?",
+      "translation": "一竿双钓！ 你惊动了湖中的生物。难道是……尼斯湖水怪？",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Nessie": "尼斯湖水怪",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aYou've caused a disturbance in the loch. Could it be... Nessie?",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Nessie",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861693",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "You've caused a disturbance in the loch. Could it be... Nessie? DOUBLE HOOK!",
+      "translation": "你惊动了湖中的生物。难道是……尼斯湖水怪？ 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Nessie": "尼斯湖水怪",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aYou've caused a disturbance in the loch. Could it be... Nessie? §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Nessie",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861693",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! An inquisitive Atoll Croaker takes the bait!",
+      "translation": "一竿双钓！ 一只好奇的环礁鸣蛙咬钩了！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Atoll Croaker": "环礁鸣蛙",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aAn inquisitive Atoll Croaker takes the bait!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Atoll_Croaker",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861289",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "An inquisitive Atoll Croaker takes the bait! DOUBLE HOOK!",
+      "translation": "一只好奇的环礁鸣蛙咬钩了！ 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Atoll Croaker": "环礁鸣蛙",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aAn inquisitive Atoll Croaker takes the bait! §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Atoll_Croaker",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861289",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! A Puddle Jumper is preparing for liftoff—cast your rod into it and hold on tight!",
+      "translation": "一竿双钓！ 水洼跳跃者准备起跳了——把鱼钩抛向它，抓紧！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Puddle Jumper": "水洼跳跃者",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aA Puddle Jumper is preparing for liftoff—cast your rod into it and hold on tight!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Puddle_Jumper",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861757",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A Puddle Jumper is preparing for liftoff—cast your rod into it and hold on tight! DOUBLE HOOK!",
+      "translation": "水洼跳跃者准备起跳了——把鱼钩抛向它，抓紧！ 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Puddle Jumper": "水洼跳跃者",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aA Puddle Jumper is preparing for liftoff—cast your rod into it and hold on tight! §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Puddle_Jumper",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861757",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! What even is that?! A... gorF?",
+      "translation": "一竿双钓！ 那到底是什么？！一只……蛙青？",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "gorF": "蛙青",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aWhat even is that?! A... gorF?",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/GorF",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861548",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "What even is that?! A... gorF? DOUBLE HOOK!",
+      "translation": "那到底是什么？！一只……蛙青？ 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "gorF": "蛙青",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aWhat even is that?! A... gorF? §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/GorF",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861548",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! A Drowned Captain takes hold of your bobber!",
+      "translation": "一竿双钓！ 一位溺亡船长抓住了你的浮漂！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Drowned Captain": "溺亡船长",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aA Drowned Captain takes hold of your bobber!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Drowned_Captain",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861462",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A Drowned Captain takes hold of your bobber! DOUBLE HOOK!",
+      "translation": "一位溺亡船长抓住了你的浮漂！ 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Drowned Captain": "溺亡船长",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aA Drowned Captain takes hold of your bobber! §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Drowned_Captain",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861462",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! A Lotus Guardian emerges, ready to protect the Atoll.",
+      "translation": "一竿双钓！ 一位莲花守卫出现了，准备守护这片环礁。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Lotus Guardian": "莲花守卫",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aA Lotus Guardian emerges, ready to protect the Atoll.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Lotus_Guardian",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861633",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A Lotus Guardian emerges, ready to protect the Atoll. DOUBLE HOOK!",
+      "translation": "一位莲花守卫出现了，准备守护这片环礁。 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Lotus Guardian": "莲花守卫",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aA Lotus Guardian emerges, ready to protect the Atoll. §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Lotus_Guardian",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861633",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! Bow down before the Frog Prince... or pay the hefty price!",
+      "translation": "一竿双钓！ 向青蛙王子低头……否则将付出惨重代价！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Frog Prince": "青蛙王子",
+        "Prince": "王子",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aBow down before the Frog Prince... or pay the hefty price!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Frog_Prince",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861516",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "Bow down before the Frog Prince... or pay the hefty price! DOUBLE HOOK!",
+      "translation": "向青蛙王子低头……否则将付出惨重代价！ 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Frog Prince": "青蛙王子",
+        "Prince": "王子",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aBow down before the Frog Prince... or pay the hefty price! §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Frog_Prince",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861516",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! A majestic creature rises from the water. It's a Manta Ray.",
+      "translation": "一竿双钓！ 一只雄伟的生物跃出水面。是蝠鲼。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Manta Ray": "蝠鲼",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aA majestic creature rises from the water. It's a Manta Ray.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Manta_Ray",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861650",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A majestic creature rises from the water. It's a Manta Ray. DOUBLE HOOK!",
+      "translation": "一只雄伟的生物跃出水面。是蝠鲼。 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Manta Ray": "蝠鲼",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aA majestic creature rises from the water. It's a Manta Ray. §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Manta_Ray",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861650",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! You feel a burning sensation as you reel in a Volcanic Snail!",
+      "translation": "一竿双钓！ 你收竿钓起火山蜗牛，感到一阵灼热！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Volcanic Snail": "火山蜗牛",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aYou feel a burning sensation as you reel in a Volcanic Snail!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Volcanic_Snail",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=850889",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "You feel a burning sensation as you reel in a Volcanic Snail! DOUBLE HOOK!",
+      "translation": "你收竿钓起火山蜗牛，感到一阵灼热！ 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Volcanic Snail": "火山蜗牛",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aYou feel a burning sensation as you reel in a Volcanic Snail! §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Volcanic_Snail",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=850889",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! A Magma Pillar rises from the lava.",
+      "translation": "一竿双钓！ 一根岩浆柱从熔岩中升起。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Magma Pillar": "岩浆柱",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aA Magma Pillar rises from the lava.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Magma_Pillar",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861647",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A Magma Pillar rises from the lava. DOUBLE HOOK!",
+      "translation": "一根岩浆柱从熔岩中升起。 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Magma Pillar": "岩浆柱",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aA Magma Pillar rises from the lava. §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Magma_Pillar",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861647",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! Watch out! It's Jumpin' Jack.",
+      "translation": "一竿双钓！ 小心！是跳跳杰克。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Jumpin' Jack": "跳跳杰克",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aWatch out! It's Jumpin' Jack.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Jumpin%27_Jack",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861593",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "Watch out! It's Jumpin' Jack. DOUBLE HOOK!",
+      "translation": "小心！是跳跳杰克。 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Jumpin' Jack": "跳跳杰克",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aWatch out! It's Jumpin' Jack. §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Jumpin%27_Jack",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861593",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! A Haggard stumbles to the shore, ready for a fight!",
+      "translation": "一竿双钓！ 一只憔悴者踉跄着爬上岸，准备大打出手！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Haggard": "憔悴者",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aA Haggard stumbles to the shore, ready for a fight!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Haggard",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861557",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A Haggard stumbles to the shore, ready for a fight! DOUBLE HOOK!",
+      "translation": "一只憔悴者踉跄着爬上岸，准备大打出手！ 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Haggard": "憔悴者",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aA Haggard stumbles to the shore, ready for a fight! §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Haggard",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861557",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! A Brineling interrupts you with a stream of bubbles!",
+      "translation": "一竿双钓！ 一只盐水精灵喷出一串气泡，打断了你！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Brineling": "盐水精灵",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aA Brineling interrupts you with a stream of bubbles!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Brineling",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=850874",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A Brineling interrupts you with a stream of bubbles! DOUBLE HOOK!",
+      "translation": "一只盐水精灵喷出一串气泡，打断了你！ 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Brineling": "盐水精灵",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aA Brineling interrupts you with a stream of bubbles! §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Brineling",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=850874",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! A Sprawl emerges from the blue, and it's looking for you!",
+      "translation": "一竿双钓！ 一只蔓延者从碧水中浮现，它正盯着你！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Sprawl": "蔓延者",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aA Sprawl emerges from the blue, and it's looking for you!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Sprawl",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861869",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A Sprawl emerges from the blue, and it's looking for you! DOUBLE HOOK!",
+      "translation": "一只蔓延者从碧水中浮现，它正盯着你！ 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Sprawl": "蔓延者",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aA Sprawl emerges from the blue, and it's looking for you! §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Sprawl",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861869",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! The laughter of a Torrid echoes through the air.",
+      "translation": "一竿双钓！ 炙热者的笑声在空中回荡。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Torrid": "炙热者",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aThe laughter of a Torrid echoes through the air.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Torrid",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861910",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "The laughter of a Torrid echoes through the air. DOUBLE HOOK!",
+      "translation": "炙热者的笑声在空中回荡。 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Torrid": "炙热者",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aThe laughter of a Torrid echoes through the air. §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Torrid",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861910",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! Something zips through the air - it's a Silkbreeze!",
+      "translation": "一竿双钓！ 有什么东西飞掠而过——是丝风！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Silkbreeze": "丝风",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aSomething zips through the air - it's a Silkbreeze!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Silkbreeze",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861822",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "Something zips through the air - it's a Silkbreeze! DOUBLE HOOK!",
+      "translation": "有什么东西飞掠而过——是丝风！ 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Silkbreeze": "丝风",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aSomething zips through the air - it's a Silkbreeze! §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Silkbreeze",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861822",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! A Giant Isopod was dredged up from the depths!",
+      "translation": "一竿双钓！ 一只巨型等足虫被从深处拖了上来！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Giant Isopod": "巨型等足虫",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aA Giant Isopod was dredged up from the depths!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Giant_Isopod",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861529",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A Giant Isopod was dredged up from the depths! DOUBLE HOOK!",
+      "translation": "一只巨型等足虫被从深处拖了上来！ 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Giant Isopod": "巨型等足虫",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aA Giant Isopod was dredged up from the depths! §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Giant_Isopod",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861529",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! What is this creature!?",
+      "translation": "一竿双钓！ 这是什么生物？！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aWhat is this creature!?",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Yeti",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861970",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "What is this creature!? DOUBLE HOOK!",
+      "translation": "这是什么生物？！ 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aWhat is this creature!? §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Yeti",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861970",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! Frozen Steve fell into the pond long ago, never to resurface...until now!",
+      "translation": "一竿双钓！ 冰冻史蒂夫很久以前落入池塘，此后再未浮出水面……直到现在！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Frozen Steve": "冰冻史蒂夫",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aFrozen Steve fell into the pond long ago, never to resurface...until now!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Frozen_Steve",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861521",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "Frozen Steve fell into the pond long ago, never to resurface...until now! DOUBLE HOOK!",
+      "translation": "冰冻史蒂夫很久以前落入池塘，此后再未浮出水面……直到现在！ 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Frozen Steve": "冰冻史蒂夫",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aFrozen Steve fell into the pond long ago, never to resurface...until now! §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Frozen_Steve",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861521",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! It's a snowman! He looks harmless.",
+      "translation": "一竿双钓！ 是个雪人！他看起来人畜无害。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aIt's a snowman! He looks harmless.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Frosty_%28mob%29",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861517",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "It's a snowman! He looks harmless. DOUBLE HOOK!",
+      "translation": "是个雪人！他看起来人畜无害。 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aIt's a snowman! He looks harmless. §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Frosty_%28mob%29",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861517",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! The Grinch stole Jerry's gifts... Get them back!",
+      "translation": "一竿双钓！ 格林奇偷走了 Jerry 的礼物……快把它们夺回来！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Grinch": "格林奇",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aThe Grinch stole Jerry's gifts... Get them back!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Grinch",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861552",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "The Grinch stole Jerry's gifts... Get them back! DOUBLE HOOK!",
+      "translation": "格林奇偷走了 Jerry 的礼物……快把它们夺回来！ 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Grinch": "格林奇",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aThe Grinch stole Jerry's gifts... Get them back! §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Grinch",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861552",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! Phew! It's only a Scarecrow.",
+      "translation": "一竿双钓！ 呼！原来只是个稻草人。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Scarecrow": "稻草人",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aPhew! It's only a Scarecrow.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Scarecrow",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861793",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "Phew! It's only a Scarecrow. DOUBLE HOOK!",
+      "translation": "呼！原来只是个稻草人。 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Scarecrow": "稻草人",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aPhew! It's only a Scarecrow. §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Scarecrow",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861793",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! The Water Hydra has come to test your strength.",
+      "translation": "一竿双钓！ 水九头蛇前来考验你的实力。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Water Hydra": "水九头蛇",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aThe Water Hydra has come to test your strength.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Water_Hydra",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861942",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "The Water Hydra has come to test your strength. DOUBLE HOOK!",
+      "translation": "水九头蛇前来考验你的实力。 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Water Hydra": "水九头蛇",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aThe Water Hydra has come to test your strength. §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Water_Hydra",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861942",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! A Squid appeared.",
+      "translation": "一竿双钓！ 一只鱿鱼出现了。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Squid": "鱿鱼",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aA Squid appeared.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Squid",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861871",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A Squid appeared. DOUBLE HOOK!",
+      "translation": "一只鱿鱼出现了。 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Squid": "鱿鱼",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aA Squid appeared. §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Squid",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861871",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! The Loch Emperor arises from the depths.",
+      "translation": "一竿双钓！ 湖泊帝王从深处现身。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "The Loch Emperor": "湖泊帝王",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aThe Loch Emperor arises from the depths.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/The_Loch_Emperor",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861900",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "The Loch Emperor arises from the depths. DOUBLE HOOK!",
+      "translation": "湖泊帝王从深处现身。 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "The Loch Emperor": "湖泊帝王",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aThe Loch Emperor arises from the depths. §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/The_Loch_Emperor",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861900",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! Is that even a fish? It's the Carrot King!",
+      "translation": "一竿双钓！ 那也算鱼吗？是胡萝卜之王！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Carrot King": "胡萝卜之王",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aIs that even a fish? It's the Carrot King!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Carrot_King",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861359",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "Is that even a fish? It's the Carrot King! DOUBLE HOOK!",
+      "translation": "那也算鱼吗？是胡萝卜之王！ 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Carrot King": "胡萝卜之王",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aIs that even a fish? It's the Carrot King! §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Carrot_King",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861359",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! Pitch Darkness reveals a Night Squid.",
+      "translation": "一竿双钓！ 漆黑中浮现了一只夜晚鱿鱼。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Night Squid": "夜晚鱿鱼",
+        "Squid": "鱿鱼",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aPitch Darkness reveals a Night Squid.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Night_Squid",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=855273",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "Pitch Darkness reveals a Night Squid. DOUBLE HOOK!",
+      "translation": "漆黑中浮现了一只夜晚鱿鱼。 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Night Squid": "夜晚鱿鱼",
+        "Squid": "鱿鱼",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aPitch Darkness reveals a Night Squid. §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Night_Squid",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=855273",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! You caught a Sea Walker.",
+      "translation": "一竿双钓！ 你钓到了一只海行者。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Sea Walker": "海行者",
+        "Walker": "行者",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aYou caught a Sea Walker.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Sea_Walker",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861805",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "You caught a Sea Walker. DOUBLE HOOK!",
+      "translation": "你钓到了一只海行者。 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Sea Walker": "海行者",
+        "Walker": "行者",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aYou caught a Sea Walker. §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Sea_Walker",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861805",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! You've stumbled upon a Sea Guardian.",
+      "translation": "一竿双钓！ 你遇到了一只海洋守卫。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Sea Guardian": "海洋守卫",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aYou've stumbled upon a Sea Guardian.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Sea_Guardian",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=855274",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "You've stumbled upon a Sea Guardian. DOUBLE HOOK!",
+      "translation": "你遇到了一只海洋守卫。 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Sea Guardian": "海洋守卫",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aYou've stumbled upon a Sea Guardian. §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Sea_Guardian",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=855274",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! You reeled in a Sea Archer.",
+      "translation": "一竿双钓！ 你钓上来了一位海弓手。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Sea Archer": "海弓手",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aYou reeled in a Sea Archer.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Sea_Archer",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861803",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "You reeled in a Sea Archer. DOUBLE HOOK!",
+      "translation": "你钓上来了一位海弓手。 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Sea Archer": "海弓手",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aYou reeled in a Sea Archer. §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Sea_Archer",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861803",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! It looks like you've disrupted the Sea Witch's brewing session. Watch out, she's furious!",
+      "translation": "一竿双钓！ 你似乎打断了海女巫酿药。小心，她怒不可遏！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Sea Witch": "海女巫",
+        "Witch": "女巫",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aIt looks like you've disrupted the Sea Witch's brewing session. Watch out, she's furious!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Sea_Witch",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861806",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "It looks like you've disrupted the Sea Witch's brewing session. Watch out, she's furious! DOUBLE HOOK!",
+      "translation": "你似乎打断了海女巫酿药。小心，她怒不可遏！ 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Sea Witch": "海女巫",
+        "Witch": "女巫",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aIt looks like you've disrupted the Sea Witch's brewing session. Watch out, she's furious! §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Sea_Witch",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861806",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! A tiny fin emerges from the water, you've caught a Nurse Shark.",
+      "translation": "一竿双钓！ 一片小鱼鳍露出水面，你钓到了一条护士鲨。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Nurse Shark": "护士鲨",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aA tiny fin emerges from the water, you've caught a Nurse Shark.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Nurse_Shark",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861697",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A tiny fin emerges from the water, you've caught a Nurse Shark. DOUBLE HOOK!",
+      "translation": "一片小鱼鳍露出水面，你钓到了一条护士鲨。 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Nurse Shark": "护士鲨",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aA tiny fin emerges from the water, you've caught a Nurse Shark. §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Nurse_Shark",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861697",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! You spot a fin as blue as the water it came from, it's a Blue Shark.",
+      "translation": "一竿双钓！ 你看见一片与海水一样蓝的鱼鳍，是蓝鲨。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Blue Shark": "蓝鲨",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aYou spot a fin as blue as the water it came from, it's a Blue Shark.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Blue_Shark",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861341",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "You spot a fin as blue as the water it came from, it's a Blue Shark. DOUBLE HOOK!",
+      "translation": "你看见一片与海水一样蓝的鱼鳍，是蓝鲨。 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Blue Shark": "蓝鲨",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aYou spot a fin as blue as the water it came from, it's a Blue Shark. §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Blue_Shark",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861341",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! A striped beast bounds from the depths, the wild Tiger Shark!",
+      "translation": "一竿双钓！ 一头带条纹的猛兽从深处跃出，是凶猛的虎鲨！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Tiger Shark": "虎鲨",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aA striped beast bounds from the depths, the wild Tiger Shark!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Tiger_Shark",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861905",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A striped beast bounds from the depths, the wild Tiger Shark! DOUBLE HOOK!",
+      "translation": "一头带条纹的猛兽从深处跃出，是凶猛的虎鲨！ 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Tiger Shark": "虎鲨",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aA striped beast bounds from the depths, the wild Tiger Shark! §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Tiger_Shark",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861905",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! Hide no longer, a Great White Shark has tracked your scent and thirsts for your blood!",
+      "translation": "一竿双钓！ 躲不掉了！大白鲨循着你的气味而来，正渴望你的鲜血！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Great White Shark": "大白鲨",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aHide no longer, a Great White Shark has tracked your scent and thirsts for your blood!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Great_White_Shark",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861550",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "Hide no longer, a Great White Shark has tracked your scent and thirsts for your blood! DOUBLE HOOK!",
+      "translation": "躲不掉了！大白鲨循着你的气味而来，正渴望你的鲜血！ 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Great White Shark": "大白鲨",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aHide no longer, a Great White Shark has tracked your scent and thirsts for your blood! §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Great_White_Shark",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861550",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! The spirit of a long lost Phantom Fisher has come to haunt you.",
+      "translation": "一竿双钓！ 失踪已久的幽灵渔夫之魂前来纠缠你。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Phantom Fisher": "幽灵渔夫",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aThe spirit of a long lost Phantom Fisher has come to haunt you.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Phantom_Fisher",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861721",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "The spirit of a long lost Phantom Fisher has come to haunt you. DOUBLE HOOK!",
+      "translation": "失踪已久的幽灵渔夫之魂前来纠缠你。 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Phantom Fisher": "幽灵渔夫",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aThe spirit of a long lost Phantom Fisher has come to haunt you. §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Phantom_Fisher",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861721",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! You hear trotting from beneath the waves, you caught a Nightmare.",
+      "translation": "一竿双钓！ 你听见浪涛下传来马蹄声，原来钓到了梦魇。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Nightmare": "梦魇",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aYou hear trotting from beneath the waves, you caught a Nightmare.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Nightmare",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861695",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "You hear trotting from beneath the waves, you caught a Nightmare. DOUBLE HOOK!",
+      "translation": "你听见浪涛下传来马蹄声，原来钓到了梦魇。 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Nightmare": "梦魇",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aYou hear trotting from beneath the waves, you caught a Nightmare. §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Nightmare",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861695",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! This can't be! The manifestation of death himself!",
+      "translation": "一竿双钓！ 这不可能！竟然是死神的化身！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aThis can't be! The manifestation of death himself!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Grim_Reaper",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861551",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "This can't be! The manifestation of death himself! DOUBLE HOOK!",
+      "translation": "这不可能！竟然是死神的化身！ 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aThis can't be! The manifestation of death himself! §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Grim_Reaper",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861551",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! It must be a full moon, a Werewolf appears.",
+      "translation": "一竿双钓！ 一定是满月，一只狼人出现了。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Werewolf": "狼人",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aIt must be a full moon, a Werewolf appears.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Werewolf",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861949",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "It must be a full moon, a Werewolf appears. DOUBLE HOOK!",
+      "translation": "一定是满月，一只狼人出现了。 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Werewolf": "狼人",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aIt must be a full moon, a Werewolf appears. §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Werewolf",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861949",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! An Oasis Sheep appears from the water.",
+      "translation": "一竿双钓！ 一只绿洲绵羊从水中出现。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Oasis Sheep": "绿洲绵羊",
+        "Sheep": "羊",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aAn Oasis Sheep appears from the water.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Oasis_Sheep",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861700",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "An Oasis Sheep appears from the water. DOUBLE HOOK!",
+      "translation": "一只绿洲绵羊从水中出现。 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Oasis Sheep": "绿洲绵羊",
+        "Sheep": "羊",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aAn Oasis Sheep appears from the water. §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Oasis_Sheep",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861700",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! An Oasis Rabbit appears from the water.",
+      "translation": "一竿双钓！ 一只绿洲兔从水中出现。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Oasis Rabbit": "绿洲兔",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aAn Oasis Rabbit appears from the water.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Oasis_Rabbit",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861699",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "An Oasis Rabbit appears from the water. DOUBLE HOOK!",
+      "translation": "一只绿洲兔从水中出现。 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Oasis Rabbit": "绿洲兔",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aAn Oasis Rabbit appears from the water. §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Oasis_Rabbit",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861699",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! Huh? A Catfish!",
+      "translation": "一竿双钓！ 咦？一条鲶鱼！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Catfish": "鲶鱼",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aHuh? A Catfish!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Catfish",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861361",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "Huh? A Catfish! DOUBLE HOOK!",
+      "translation": "咦？一条鲶鱼！ 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Catfish": "鲶鱼",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aHuh? A Catfish! §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Catfish",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861361",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! You have awoken the Deep Sea Protector, prepare for a battle!",
+      "translation": "一竿双钓！ 你唤醒了深海保护者，准备战斗！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Deep Sea Protector": "深海保护者",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aYou have awoken the Deep Sea Protector, prepare for a battle!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Deep_Sea_Protector",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861445",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "You have awoken the Deep Sea Protector, prepare for a battle! DOUBLE HOOK!",
+      "translation": "你唤醒了深海保护者，准备战斗！ 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Deep Sea Protector": "深海保护者",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aYou have awoken the Deep Sea Protector, prepare for a battle! §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Deep_Sea_Protector",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861445",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! You've discovered a Guardian Defender of the sea.",
+      "translation": "一竿双钓！ 你发现了一只海中的守卫防御者。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Guardian Defender": "守卫防御者",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aYou've discovered a Guardian Defender of the sea.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Guardian_Defender",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861556",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "You've discovered a Guardian Defender of the sea. DOUBLE HOOK!",
+      "translation": "你发现了一只海中的守卫防御者。 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Guardian Defender": "守卫防御者",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aYou've discovered a Guardian Defender of the sea. §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Guardian_Defender",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861556",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! A Lava Blaze has surfaced from the depths!",
+      "translation": "一竿双钓！ 一只熔岩烈焰人从深处浮现！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Blaze": "烈焰人",
+        "Lava Blaze": "熔岩烈焰人",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aA Lava Blaze has surfaced from the depths!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Lava_Blaze",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861619",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A Lava Blaze has surfaced from the depths! DOUBLE HOOK!",
+      "translation": "一只熔岩烈焰人从深处浮现！ 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Blaze": "烈焰人",
+        "Lava Blaze": "熔岩烈焰人",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aA Lava Blaze has surfaced from the depths! §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Lava_Blaze",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861619",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! A Lava Pigman has surfaced from the depths!",
+      "translation": "一竿双钓！ 一只熔岩猪人从深处浮现！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Lava Pigman": "熔岩猪人",
+        "Pig": "猪",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aA Lava Pigman has surfaced from the depths!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Lava_Pigman",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861622",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A Lava Pigman has surfaced from the depths! DOUBLE HOOK!",
+      "translation": "一只熔岩猪人从深处浮现！ 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Lava Pigman": "熔岩猪人",
+        "Pig": "猪",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aA Lava Pigman has surfaced from the depths! §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Lava_Pigman",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861622",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! A Flaming Worm surfaces from the depths!",
+      "translation": "一竿双钓！ 一条烈焰蠕虫从深处浮现！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Flaming Worm": "烈焰蠕虫",
+        "Worm": "蠕虫",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aA Flaming Worm surfaces from the depths!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Flaming_Worm",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861501",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A Flaming Worm surfaces from the depths! DOUBLE HOOK!",
+      "translation": "一条烈焰蠕虫从深处浮现！ 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Flaming Worm": "烈焰蠕虫",
+        "Worm": "蠕虫",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aA Flaming Worm surfaces from the depths! §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Flaming_Worm",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861501",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! An Abyssal Miner breaks out of the water!",
+      "translation": "一竿双钓！ 一位深渊矿工破水而出！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Abyssal Miner": "深渊矿工",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aAn Abyssal Miner breaks out of the water!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Abyssal_Miner",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861271",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "An Abyssal Miner breaks out of the water! DOUBLE HOOK!",
+      "translation": "一位深渊矿工破水而出！ 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Abyssal Miner": "深渊矿工",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aAn Abyssal Miner breaks out of the water! §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Abyssal_Miner",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861271",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! A Poisoned Water Worm surfaces!",
+      "translation": "一竿双钓！ 一条剧毒水蠕虫浮了上来！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Poisoned Water Worm": "剧毒水蠕虫",
+        "Water Worm": "水蠕虫",
+        "Worm": "蠕虫",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aA Poisoned Water Worm surfaces!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Poisoned_Water_Worm",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861732",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A Poisoned Water Worm surfaces! DOUBLE HOOK!",
+      "translation": "一条剧毒水蠕虫浮了上来！ 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Poisoned Water Worm": "剧毒水蠕虫",
+        "Water Worm": "水蠕虫",
+        "Worm": "蠕虫",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aA Poisoned Water Worm surfaces! §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Poisoned_Water_Worm",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861732",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! The Rider of the Deep has emerged.",
+      "translation": "一竿双钓！ 深海骑士现身了。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Rider of the Deep": "深海骑士",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aThe Rider of the Deep has emerged.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Rider_of_the_Deep",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861785",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "The Rider of the Deep has emerged. DOUBLE HOOK!",
+      "translation": "深海骑士现身了。 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Rider of the Deep": "深海骑士",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aThe Rider of the Deep has emerged. §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Rider_of_the_Deep",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861785",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! Gross! A Sea Leech!",
+      "translation": "一竿双钓！ 真恶心！一条海蛭！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Sea Leech": "海蛭",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aGross! A Sea Leech!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Sea_Leech",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861804",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "Gross! A Sea Leech! DOUBLE HOOK!",
+      "translation": "真恶心！一条海蛭！ 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Sea Leech": "海蛭",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aGross! A Sea Leech! §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Sea_Leech",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861804",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! You have angered a legendary creature... Lord Jawbus has arrived.",
+      "translation": "一竿双钓！ 你激怒了一只传说中的生物……颚骨领主降临了。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Lord Jawbus": "颚骨领主",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§c§lYou have angered a legendary creature... Lord Jawbus has arrived.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Lord_Jawbus",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861630",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "You have angered a legendary creature... Lord Jawbus has arrived. DOUBLE HOOK!",
+      "translation": "你激怒了一只传说中的生物……颚骨领主降临了。 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Lord Jawbus": "颚骨领主",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§c§lYou have angered a legendary creature... Lord Jawbus has arrived. §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Lord_Jawbus",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861630",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! From beneath the lava appears a Magma Slug.",
+      "translation": "一竿双钓！ 一只岩浆蛞蝓从熔岩下浮现。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Magma Slug": "岩浆蛞蝓",
+        "Slug": "蛞蝓",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aFrom beneath the lava appears a Magma Slug.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Magma_Slug",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861648",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "From beneath the lava appears a Magma Slug. DOUBLE HOOK!",
+      "translation": "一只岩浆蛞蝓从熔岩下浮现。 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Magma Slug": "岩浆蛞蝓",
+        "Slug": "蛞蝓",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aFrom beneath the lava appears a Magma Slug. §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Magma_Slug",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861648",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! You hear a massive rumble as Thunder emerges.",
+      "translation": "一竿双钓！ 伴随着一声巨响，雷霆现身了。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Thunder": "雷霆",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§c§lYou hear a massive rumble as Thunder emerges.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Thunder",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861902",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "You hear a massive rumble as Thunder emerges. DOUBLE HOOK!",
+      "translation": "伴随着一声巨响，雷霆现身了。 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Thunder": "雷霆",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§c§lYou hear a massive rumble as Thunder emerges. §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Thunder",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861902",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! Taurus and his steed emerge.",
+      "translation": "一竿双钓！ 金牛和他的坐骑现身了。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Taurus": "金牛",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aTaurus and his steed emerge.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Taurus",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861893",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "Taurus and his steed emerge. DOUBLE HOOK!",
+      "translation": "金牛和他的坐骑现身了。 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Taurus": "金牛",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aTaurus and his steed emerge. §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Taurus",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861893",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! WOAH! A Plhlegblast appeared.",
+      "translation": "一竿双钓！ 哇！一只炽焰章鱼出现了。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Plhlegblast": "炽焰章鱼",
+        "WOAH!": "哇！",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aWOAH! A Plhlegblast appeared.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Plhlegblast",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861730",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "WOAH! A Plhlegblast appeared. DOUBLE HOOK!",
+      "translation": "哇！一只炽焰章鱼出现了。 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Plhlegblast": "炽焰章鱼",
+        "WOAH!": "哇！",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aWOAH! A Plhlegblast appeared. §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Plhlegblast",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861730",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! You hear a faint Moo from the lava... A Moogma appears.",
+      "translation": "一竿双钓！ 熔岩中传来微弱的哞哞声……一只哞格玛出现了。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Moogma": "哞格玛",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aYou hear a faint Moo from the lava... A Moogma appears.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Moogma",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861675",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "You hear a faint Moo from the lava... A Moogma appears. DOUBLE HOOK!",
+      "translation": "熔岩中传来微弱的哞哞声……一只哞格玛出现了。 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Moogma": "哞格玛",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aYou hear a faint Moo from the lava... A Moogma appears. §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Moogma",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861675",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! A small but fearsome Lava Leech emerges.",
+      "translation": "一竿双钓！ 一条体型小巧却凶猛的熔岩水蛭现身了。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Lava Leech": "熔岩水蛭",
+        "Leech": "水蛭",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aA small but fearsome Lava Leech emerges.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Lava_Leech",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861621",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A small but fearsome Lava Leech emerges. DOUBLE HOOK!",
+      "translation": "一条体型小巧却凶猛的熔岩水蛭现身了。 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Lava Leech": "熔岩水蛭",
+        "Leech": "水蛭",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aA small but fearsome Lava Leech emerges. §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Lava_Leech",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861621",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! A Lava Flame flies out from beneath the lava.",
+      "translation": "一竿双钓！ 一团熔岩火焰从熔岩下飞出。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Lava Flame": "熔岩火焰",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aA Lava Flame flies out from beneath the lava.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Lava_Flame",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861620",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A Lava Flame flies out from beneath the lava. DOUBLE HOOK!",
+      "translation": "一团熔岩火焰从熔岩下飞出。 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Lava Flame": "熔岩火焰",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aA Lava Flame flies out from beneath the lava. §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Lava_Flame",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861620",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! You feel the heat radiating as a Pyroclastic Worm surfaces.",
+      "translation": "一竿双钓！ 火山碎屑蠕虫浮现时，阵阵热浪扑面而来。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Pyroclastic Worm": "火山碎屑蠕虫",
+        "Worm": "蠕虫",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aYou feel the heat radiating as a Pyroclastic Worm surfaces.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Pyroclastic_Worm",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861759",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "You feel the heat radiating as a Pyroclastic Worm surfaces. DOUBLE HOOK!",
+      "translation": "火山碎屑蠕虫浮现时，阵阵热浪扑面而来。 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Pyroclastic Worm": "火山碎屑蠕虫",
+        "Worm": "蠕虫",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aYou feel the heat radiating as a Pyroclastic Worm surfaces. §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Pyroclastic_Worm",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861759",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! You found a forgotten Nutcracker laying beneath the ice.",
+      "translation": "一竿双钓！ 你发现了一个被遗忘在冰下的胡桃夹子。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Nutcracker": "胡桃夹子",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aYou found a forgotten Nutcracker laying beneath the ice.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Nutcracker",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861698",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "You found a forgotten Nutcracker laying beneath the ice. DOUBLE HOOK!",
+      "translation": "你发现了一个被遗忘在冰下的胡桃夹子。 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Nutcracker": "胡桃夹子",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aYou found a forgotten Nutcracker laying beneath the ice. §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Nutcracker",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861698",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! A Reindrake forms from the depths.",
+      "translation": "一竿双钓！ 一头驯鹿龙从深处凝聚成形。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Reindrake": "驯鹿龙",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aA Reindrake forms from the depths.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Reindrake",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861778",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "A Reindrake forms from the depths. DOUBLE HOOK!",
+      "translation": "一头驯鹿龙从深处凝聚成形。 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Reindrake": "驯鹿龙",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aA Reindrake forms from the depths. §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Reindrake",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861778",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! Your Chumcap Bucket trembles, it's an Agarimoo.",
+      "translation": "一竿双钓！ 你的菌帽饵桶颤动起来，是蘑菇哞牛。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Agarimoo": "蘑菇哞牛",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aYour Chumcap Bucket trembles, it's an Agarimoo.",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Agarimoo",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861273",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "Your Chumcap Bucket trembles, it's an Agarimoo. DOUBLE HOOK!",
+      "translation": "你的菌帽饵桶颤动起来，是蘑菇哞牛。 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Agarimoo": "蘑菇哞牛",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§aYour Chumcap Bucket trembles, it's an Agarimoo. §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Agarimoo",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861273",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! The Agarimoo's fumes are damaging you!",
+      "translation": "一竿双钓！ 蘑菇哞牛的烟雾正在伤害你！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Agarimoo": "蘑菇哞牛",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§cThe Agarimoo's fumes are damaging you!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Agarimoo",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861273",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "The Agarimoo's fumes are damaging you! DOUBLE HOOK!",
+      "translation": "蘑菇哞牛的烟雾正在伤害你！ 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Agarimoo": "蘑菇哞牛",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§cThe Agarimoo's fumes are damaging you! §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Agarimoo",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861273",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "DOUBLE HOOK! You caught a {mob}!",
+      "translation": "一竿双钓！ 你钓到了一只 {mob}！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "DOUBLE HOOK!": "一竿双钓！"
+      }
+    },
+    {
+      "source": "You caught a {mob}! DOUBLE HOOK!",
+      "translation": "你钓到了一只 {mob}！ 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "DOUBLE HOOK!": "一竿双钓！"
+      }
+    },
+    {
+      "source": "DOUBLE HOOK! You caught an {mob}!",
+      "translation": "一竿双钓！ 你钓到了一只 {mob}！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "DOUBLE HOOK!": "一竿双钓！"
+      }
+    },
+    {
+      "source": "You caught an {mob}! DOUBLE HOOK!",
+      "translation": "你钓到了一只 {mob}！ 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "DOUBLE HOOK!": "一竿双钓！"
+      }
+    },
+    {
+      "source": "DOUBLE HOOK! You caught a {mob}.",
+      "translation": "一竿双钓！ 你钓到了一只 {mob}。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "DOUBLE HOOK!": "一竿双钓！"
+      }
+    },
+    {
+      "source": "You caught a {mob}. DOUBLE HOOK!",
+      "translation": "你钓到了一只 {mob}。 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "DOUBLE HOOK!": "一竿双钓！"
+      }
+    },
+    {
+      "source": "DOUBLE HOOK! You caught an {mob}.",
+      "translation": "一竿双钓！ 你钓到了一只 {mob}。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "DOUBLE HOOK!": "一竿双钓！"
+      }
+    },
+    {
+      "source": "You caught an {mob}. DOUBLE HOOK!",
+      "translation": "你钓到了一只 {mob}。 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "DOUBLE HOOK!": "一竿双钓！"
+      }
+    },
+    {
+      "source": "DOUBLE HOOK! A Fire Eel slithers out from the depths.",
+      "translation": "一竿双钓！ 一条火鳗从深处蜿蜒游出。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Fire Eel": "火鳗",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Fire_Eel",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=863545",
+      "license": "CC BY-NC-SA 3.0",
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aA Fire Eel slithers out from the depths."
+    },
+    {
+      "source": "A Fire Eel slithers out from the depths. DOUBLE HOOK!",
+      "translation": "一条火鳗从深处蜿蜒游出。 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Fire Eel": "火鳗",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Fire_Eel",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=863545",
+      "license": "CC BY-NC-SA 3.0",
+      "sampleRaw": "§aA Fire Eel slithers out from the depths. §e§lDOUBLE HOOK!"
+    },
+    {
+      "source": "DOUBLE HOOK! A Dumpster Diver has emerged from the swamp!",
+      "translation": "一竿双钓！ 一名垃圾潜水者从沼泽中现身了！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Dumpster Diver": "垃圾潜水者",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Dumpster_Diver",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=865014",
+      "license": "CC BY-NC-SA 3.0",
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aA Dumpster Diver has emerged from the swamp!"
+    },
+    {
+      "source": "A Dumpster Diver has emerged from the swamp! DOUBLE HOOK!",
+      "translation": "一名垃圾潜水者从沼泽中现身了！ 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Dumpster Diver": "垃圾潜水者",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Dumpster_Diver",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=865014",
+      "license": "CC BY-NC-SA 3.0",
+      "sampleRaw": "§aA Dumpster Diver has emerged from the swamp! §e§lDOUBLE HOOK!"
+    },
+    {
+      "source": "DOUBLE HOOK! You get an inkling that you've caught... an Inkling!",
+      "translation": "一竿双钓！ 你隐约感觉自己钓到了……一只墨灵！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Inkling": "墨灵",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Inkling",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=864580",
+      "license": "CC BY-NC-SA 3.0",
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aYou get an inkling that you've caught... an Inkling!"
+    },
+    {
+      "source": "You get an inkling that you've caught... an Inkling! DOUBLE HOOK!",
+      "translation": "你隐约感觉自己钓到了……一只墨灵！ 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Inkling": "墨灵",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Inkling",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=864580",
+      "license": "CC BY-NC-SA 3.0",
+      "sampleRaw": "§aYou get an inkling that you've caught... an Inkling! §e§lDOUBLE HOOK!"
+    },
+    {
+      "source": "DOUBLE HOOK! You caught a Stridersurfer.",
+      "translation": "一竿双钓！ 你钓到了一只炽足冲浪者。",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Stridersurfer": "炽足冲浪者",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Stridersurfer",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=863423",
+      "license": "CC BY-NC-SA 3.0",
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aYou caught a Stridersurfer."
+    },
+    {
+      "source": "You caught a Stridersurfer. DOUBLE HOOK!",
+      "translation": "你钓到了一只炽足冲浪者。 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Stridersurfer": "炽足冲浪者",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Stridersurfer",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=863423",
+      "license": "CC BY-NC-SA 3.0",
+      "sampleRaw": "§aYou caught a Stridersurfer. §e§lDOUBLE HOOK!"
+    },
+    {
+      "source": "DOUBLE HOOK! A Water Worm surfaces!",
+      "translation": "一竿双钓！ 一条水蠕虫浮出了水面！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Water Worm": "水蠕虫",
+        "Worm": "蠕虫",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Water_Worm",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=863339",
+      "license": "CC BY-NC-SA 3.0",
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§aA Water Worm surfaces!"
+    },
+    {
+      "source": "A Water Worm surfaces! DOUBLE HOOK!",
+      "translation": "一条水蠕虫浮出了水面！ 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Water Worm": "水蠕虫",
+        "Worm": "蠕虫",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Water_Worm",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=863339",
+      "license": "CC BY-NC-SA 3.0",
+      "sampleRaw": "§aA Water Worm surfaces! §e§lDOUBLE HOOK!"
+    },
+    {
+      "source": "[MOB] Puddle Jumper: Wow! You caught me!\n[MOB] Puddle Jumper: Great jumpin! Try to catch me every time!",
+      "translation": "[生物] 水洼跳跃者：哇！你钩到我了！\n[生物] 水洼跳跃者：跳得真棒！试着每次都钩到我吧！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Puddle Jumper": "水洼跳跃者",
+        "[MOB]": "[生物]",
+        "Silver Lotus": "银莲"
+      },
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Puddle_Jumper",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=863538",
+      "license": "CC BY-NC-SA 3.0",
+      "sampleRaw": "§e[MOB] §bPuddle Jumper§f: Wow! You caught me!\n§e[MOB] §bPuddle Jumper§f: Great jumpin! Try to catch me every time!"
+    },
+    {
+      "source": "[MOB] Puddle Jumper: Wow! You're a master jumper! Here's a bonus; on me!\nThe Puddle Jumper awarded you with a Silver Lotus for making every jump!",
+      "translation": "[生物] 水洼跳跃者：哇！你真是跳跃大师！这份额外奖励，我请客！\n你成功跟上了每次跳跃，水洼跳跃者奖励了你一朵银莲花！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Puddle Jumper": "水洼跳跃者",
+        "[MOB]": "[生物]",
+        "Silver Lotus": "银莲花",
+        "The Puddle Jumper awarded you with a Silver Lotus for making every jump!": "你成功跟上了每次跳跃，水洼跳跃者奖励了你一朵银莲花！"
+      },
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Puddle_Jumper",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=863538",
+      "license": "CC BY-NC-SA 3.0",
+      "sampleRaw": "§e[MOB] §bPuddle Jumper§f: Wow! You're a master jumper! Here's a bonus; on me!\n§7The Puddle Jumper awarded you with a Silver Lotus for making every jump!"
+    },
+    {
+      "source": "DOUBLE HOOK! WOAH! {player} summoned a Reindrake from the depths!",
+      "translation": "一竿双钓！ 哇！{player} 从深处召唤了一头驯鹿龙！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Reindrake": "驯鹿龙",
+        "WOAH!": "哇！",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§e§lDOUBLE HOOK! §r§c§lWOAH! §7SamplePlayer §csummoned a §4Reindrake §cfrom the depths!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Reindrake",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861778",
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "source": "WOAH! {player} summoned a Reindrake from the depths! DOUBLE HOOK!",
+      "translation": "哇！{player} 从深处召唤了一头驯鹿龙！ 一竿双钓！",
+      "scopes": [
+        "chat",
+        "skyhanni"
+      ],
+      "styleMappings": {
+        "Reindrake": "驯鹿龙",
+        "WOAH!": "哇！",
+        "DOUBLE HOOK!": "一竿双钓！"
+      },
+      "sampleRaw": "§c§lWOAH! §7SamplePlayer §csummoned a §4Reindrake §cfrom the depths! §e§lDOUBLE HOOK!",
+      "sourceUrl": "https://hypixelskyblock.minecraft.wiki/w/Reindrake",
+      "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861778",
+      "license": "CC BY-NC-SA 3.0"
+    }
+  ]
+}

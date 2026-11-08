@@ -153,6 +153,7 @@ public final class TextTranslationEngine {
         return true;
     }
     private static List<Position> positions(String text, String fragment, boolean wordBoundaries, List<Anchor> anchors, boolean sourceSide,List<Span> spans) {
+        if(fragment.isEmpty())return List.of();
         List<Position> found=new ArrayList<>();
         for (int from=0;from<=text.length()-fragment.length();) {
             int index=text.indexOf(fragment,from); if(index<0) break;
@@ -179,6 +180,17 @@ public final class TextTranslationEngine {
         if (match == null || !literalTree(source)) return source;
         List<Span> spans = spans(source); if (spans.isEmpty()) return source;
         String original = TranslationManager.plain(source.getString()), target = match.text();
+        // Match offsets refer to one exact UTF-16 snapshot, not to whichever
+        // string happens to be displayed later. Reject stale captures before
+        // accessing characters or copying interactive spans. Never clamp them:
+        // doing so could attach a command/color to the wrong translated word.
+        if(!original.equals(spans.stream().map(Span::text).collect(java.util.stream.Collectors.joining())))
+            return fallback(source,diagnostic,"Display span offsets do not match source text");
+        for(var piece:match.pieces())if(piece.original()
+            && (piece.start()<0 || piece.end()<piece.start() || piece.end()>original.length()
+                || piece.end()-piece.start()!=piece.text().length()
+                || !original.regionMatches(piece.start(),piece.text(),0,piece.text().length())))
+            return fallback(source,diagnostic,"Capture offsets do not match source text");
         // Tables sometimes repeat the same label in several rarity colors. Only
         // when literal substitutions reproduce the entire target exactly can we
         // prove that each occurrence stayed in its original position.

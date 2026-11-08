@@ -9,6 +9,13 @@ import java.util.*;
 import static org.junit.jupiter.api.Assertions.*;
 
 class TranslationTest {
+    @Test void formattingFastPathKeepsPlainTextAndUnknownMarkers() {
+        String plain="Village 村庄 1,234.5%";
+        assertSame(plain,TranslationManager.plain(plain));
+        assertEquals("Village 村庄",TranslationManager.plain("§AVillage §r村庄"));
+        assertEquals("§xtext§",TranslationManager.plain("§xtext§"));
+        assertEquals("",TranslationManager.plain("§a§l§r"));
+    }
     @TempDir Path root;
     void file(String name,String json)throws Exception {Path p=root.resolve("translations/"+name);Files.createDirectories(p.getParent());Files.writeString(p,json);}
     @Test void priorityAndBlankFallback()throws Exception {
@@ -59,21 +66,21 @@ class TranslationTest {
         var translated=TextTranslationEngine.apply(source,new TranslationManager.Template("Damage: {value}","伤害：{value}").apply(source.getString()));
         assertEquals("伤害：+1,234.5",translated.getString());assertEquals("Damage: +1,234.5",source.getString());
         List<Style> styles=new ArrayList<>();translated.visit((style,text)->{if(!text.isEmpty())styles.add(style);return Optional.empty();},Style.EMPTY);
-        assertEquals(ChatFormatting.RED.getColor(),styles.getLast().getColor().getValue());assertTrue(styles.getLast().isBold());
+        assertEquals(0xff5555,styles.getLast().getColor().getValue());assertTrue(styles.getLast().isBold());
         assertEquals(click,styles.getLast().getClickEvent());assertEquals(hover,styles.getLast().getHoverEvent());
     }
     @Test void constantSignRetainsNumberColor() {
         var source=Component.literal("Damage: ").withStyle(ChatFormatting.GRAY).append(Component.literal("+100").withStyle(ChatFormatting.RED));
         var translated=TextTranslationEngine.apply(source,new TranslationManager.Template("Damage: +{value}","伤害：+{value}").apply(source.getString()));
         assertEquals("伤害：+100",translated.getString());
-        assertEquals(ChatFormatting.RED.getColor(),translated.getSiblings().getLast().getStyle().getColor().getValue());
+        assertEquals(0xff5555,translated.getSiblings().getLast().getStyle().getColor().getValue());
     }
     @Test void legacyFormattingAndDecoratedNames() {
         var source=Component.literal("§9Heroic Aspect of the End §6✪✪");
         String text=TranslationManager.plain(source.getString());int start=text.indexOf("Aspect");
         var translated=TextTranslationEngine.rangeReplacement(source,start,start+"Aspect of the End".length(),"末影之刃");
         assertEquals("Heroic 末影之刃 ✪✪",translated.getString());
-        assertEquals(ChatFormatting.GOLD.getColor(),translated.getSiblings().getLast().getStyle().getColor().getValue());
+        assertEquals(0xffaa00,translated.getSiblings().getLast().getStyle().getColor().getValue());
     }
     @Test void ambiguousStylesAndNonliteralComponentsFallBack() {
         var source=Component.literal("Hello ").withStyle(ChatFormatting.RED).append(Component.literal("world").withStyle(ChatFormatting.BLUE));
@@ -96,7 +103,7 @@ class TranslationTest {
         var translated=TextTranslationEngine.translate(source,lookup);
         assertEquals("你好世界",translated.getString());
         List<Integer> colors=new ArrayList<>();translated.visit((style,text)->{if(!text.isEmpty())colors.add(style.getColor().getValue());return Optional.empty();},Style.EMPTY);
-        assertEquals(List.of(ChatFormatting.RED.getColor(),ChatFormatting.BLUE.getColor()),colors);
+        assertEquals(List.of(0xff5555,0x5555ff),colors);
         assertEquals("你好\n世界",TextTranslationEngine.translate(Component.literal("Hello\nworld"),lookup).getString());
         assertEquals("Helloworld",source.getString());
     }

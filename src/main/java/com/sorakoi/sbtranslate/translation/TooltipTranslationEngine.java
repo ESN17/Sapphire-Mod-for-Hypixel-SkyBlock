@@ -67,6 +67,8 @@ public final class TooltipTranslationEngine {
                     new Replacement(prefix.length()+1,text.length(),labels.getOrDefault("Bonus","Bonus"))));
             }
         }
-        return source;
+        // Reviewed item-specific templates also apply in inventories and unknown
+        // chest screens, which intentionally have no GUI menu translation context.
+        return SystemTranslationEngine.translate(source,"item-tooltip",manager);
     }
 }

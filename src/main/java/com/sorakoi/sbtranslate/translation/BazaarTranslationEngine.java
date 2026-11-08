@@ -28,8 +28,12 @@ public final class BazaarTranslationEngine {
         // Only recover a known label prefix at that boundary. Never guess the
         // missing tier: retain an ellipsis when several products share a prefix.
         if((title.length()!=31 && title.length()!=32) || tail.length()<3)return null;
+        var navigation=NAVIGATION.matcher(title);
+        Set<String> candidates=navigation.matches()?menu.navigationGroups().get(navigation.group(1)):null;
         String common=null;int matches=0;
-        for(var entry:menu.labels().entrySet())if(entry.getKey().startsWith(tail)) {
+        // E.g. "Bobbin'" in Ultimate Enchantments must not collide with the
+        // unrelated Bobbin' Scriptures item. Retain ambiguity within the category.
+        for(var entry:menu.labels().entrySet())if(entry.getKey().startsWith(tail) && (candidates==null || candidates.contains(entry.getKey()))) {
             matches++;
             if(common==null)common=entry.getValue();
             else {

@@ -1,0 +1,2998 @@
+{
+  "wholeMessageOnly": true,
+  "rules": [
+    {
+      "source": "☠ You were killed by {mob}.",
+      "translation": "☠ 你被 {mob} 击杀了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你"
+      }
+    },
+    {
+      "source": "You were killed by {mob}.",
+      "translation": "你被 {mob} 击杀了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "☠ You were killed by {mob} and became a ghost.",
+      "translation": "☠ 你被 {mob} 击杀了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "You were killed by {mob} and became a ghost.",
+      "translation": "你被 {mob} 击杀了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} was killed by {mob}.",
+      "translation": "☠ {deathVictim} 被 {mob} 击杀了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} was killed by {mob} and became a ghost.",
+      "translation": "☠ {deathVictim} 被 {mob} 击杀了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ You were slain by {mob}.",
+      "translation": "☠ 你被 {mob} 杀死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你"
+      }
+    },
+    {
+      "source": "You were slain by {mob}.",
+      "translation": "你被 {mob} 杀死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "☠ You were slain by {mob} and became a ghost.",
+      "translation": "☠ 你被 {mob} 杀死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "You were slain by {mob} and became a ghost.",
+      "translation": "你被 {mob} 杀死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} was slain by {mob}.",
+      "translation": "☠ {deathVictim} 被 {mob} 杀死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} was slain by {mob} and became a ghost.",
+      "translation": "☠ {deathVictim} 被 {mob} 杀死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ You were shot by {mob}.",
+      "translation": "☠ 你被 {mob} 射杀了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你"
+      }
+    },
+    {
+      "source": "You were shot by {mob}.",
+      "translation": "你被 {mob} 射杀了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "☠ You were shot by {mob} and became a ghost.",
+      "translation": "☠ 你被 {mob} 射杀了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "You were shot by {mob} and became a ghost.",
+      "translation": "你被 {mob} 射杀了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} was shot by {mob}.",
+      "translation": "☠ {deathVictim} 被 {mob} 射杀了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} was shot by {mob} and became a ghost.",
+      "translation": "☠ {deathVictim} 被 {mob} 射杀了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ You were blown up by {mob}.",
+      "translation": "☠ 你被 {mob} 炸死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你"
+      }
+    },
+    {
+      "source": "You were blown up by {mob}.",
+      "translation": "你被 {mob} 炸死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "☠ You were blown up by {mob} and became a ghost.",
+      "translation": "☠ 你被 {mob} 炸死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "You were blown up by {mob} and became a ghost.",
+      "translation": "你被 {mob} 炸死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} was blown up by {mob}.",
+      "translation": "☠ {deathVictim} 被 {mob} 炸死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} was blown up by {mob} and became a ghost.",
+      "translation": "☠ {deathVictim} 被 {mob} 炸死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ You were killed by {mob} using magic.",
+      "translation": "☠ 你被 {mob} 用魔法杀死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你"
+      }
+    },
+    {
+      "source": "You were killed by {mob} using magic.",
+      "translation": "你被 {mob} 用魔法杀死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "☠ You were killed by {mob} using magic and became a ghost.",
+      "translation": "☠ 你被 {mob} 用魔法杀死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "You were killed by {mob} using magic and became a ghost.",
+      "translation": "你被 {mob} 用魔法杀死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} was killed by {mob} using magic.",
+      "translation": "☠ {deathVictim} 被 {mob} 用魔法杀死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} was killed by {mob} using magic and became a ghost.",
+      "translation": "☠ {deathVictim} 被 {mob} 用魔法杀死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ You were thrown into the void by {mob}.",
+      "translation": "☠ 你被 {mob} 扔进了虚空。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你"
+      }
+    },
+    {
+      "source": "You were thrown into the void by {mob}.",
+      "translation": "你被 {mob} 扔进了虚空。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "☠ You were thrown into the void by {mob} and became a ghost.",
+      "translation": "☠ 你被 {mob} 扔进了虚空，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "You were thrown into the void by {mob} and became a ghost.",
+      "translation": "你被 {mob} 扔进了虚空，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} was thrown into the void by {mob}.",
+      "translation": "☠ {deathVictim} 被 {mob} 扔进了虚空。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} was thrown into the void by {mob} and became a ghost.",
+      "translation": "☠ {deathVictim} 被 {mob} 扔进了虚空，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ You were knocked into the void by {mob}.",
+      "translation": "☠ 你被 {mob} 击落进了虚空。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你"
+      }
+    },
+    {
+      "source": "You were knocked into the void by {mob}.",
+      "translation": "你被 {mob} 击落进了虚空。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "☠ You were knocked into the void by {mob} and became a ghost.",
+      "translation": "☠ 你被 {mob} 击落进了虚空，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "You were knocked into the void by {mob} and became a ghost.",
+      "translation": "你被 {mob} 击落进了虚空，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} was knocked into the void by {mob}.",
+      "translation": "☠ {deathVictim} 被 {mob} 击落进了虚空。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} was knocked into the void by {mob} and became a ghost.",
+      "translation": "☠ {deathVictim} 被 {mob} 击落进了虚空，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ You fell to your death with help from {mob}.",
+      "translation": "☠ 你因 {mob} 的攻击摔死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你"
+      }
+    },
+    {
+      "source": "You fell to your death with help from {mob}.",
+      "translation": "你因 {mob} 的攻击摔死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "☠ You fell to your death with help from {mob} and became a ghost.",
+      "translation": "☠ 你因 {mob} 的攻击摔死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "You fell to your death with help from {mob} and became a ghost.",
+      "translation": "你因 {mob} 的攻击摔死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} fell to their death with help from {mob}.",
+      "translation": "☠ {deathVictim} 因 {mob} 的攻击摔死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} fell to their death with help from {mob} and became a ghost.",
+      "translation": "☠ {deathVictim} 因 {mob} 的攻击摔死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ You fell into the void.",
+      "translation": "☠ 你掉进了虚空。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你"
+      }
+    },
+    {
+      "source": "You fell into the void.",
+      "translation": "你掉进了虚空。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "☠ You fell into the void and became a ghost.",
+      "translation": "☠ 你掉进了虚空，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "You fell into the void and became a ghost.",
+      "translation": "你掉进了虚空，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} fell into the void.",
+      "translation": "☠ {deathVictim} 掉进了虚空。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} fell into the void and became a ghost.",
+      "translation": "☠ {deathVictim} 掉进了虚空，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ You fell into a deep hole.",
+      "translation": "☠ 你掉进了深坑。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你"
+      }
+    },
+    {
+      "source": "You fell into a deep hole.",
+      "translation": "你掉进了深坑。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "☠ You fell into a deep hole and became a ghost.",
+      "translation": "☠ 你掉进了深坑，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "You fell into a deep hole and became a ghost.",
+      "translation": "你掉进了深坑，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} fell into a deep hole.",
+      "translation": "☠ {deathVictim} 掉进了深坑。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} fell into a deep hole and became a ghost.",
+      "translation": "☠ {deathVictim} 掉进了深坑，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ You fell to your death.",
+      "translation": "☠ 你摔死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你"
+      }
+    },
+    {
+      "source": "You fell to your death.",
+      "translation": "你摔死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "☠ You fell to your death and became a ghost.",
+      "translation": "☠ 你摔死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "You fell to your death and became a ghost.",
+      "translation": "你摔死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} fell to their death.",
+      "translation": "☠ {deathVictim} 摔死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} fell to their death and became a ghost.",
+      "translation": "☠ {deathVictim} 摔死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ You fell to death.",
+      "translation": "☠ 你摔死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你"
+      }
+    },
+    {
+      "source": "You fell to death.",
+      "translation": "你摔死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "☠ You fell to death and became a ghost.",
+      "translation": "☠ 你摔死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "You fell to death and became a ghost.",
+      "translation": "你摔死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} fell to death.",
+      "translation": "☠ {deathVictim} 摔死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} fell to death and became a ghost.",
+      "translation": "☠ {deathVictim} 摔死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ You fell from a high place.",
+      "translation": "☠ 你从高处摔死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你"
+      }
+    },
+    {
+      "source": "You fell from a high place.",
+      "translation": "你从高处摔死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "☠ You fell from a high place and became a ghost.",
+      "translation": "☠ 你从高处摔死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "You fell from a high place and became a ghost.",
+      "translation": "你从高处摔死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} fell from a high place.",
+      "translation": "☠ {deathVictim} 从高处摔死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} fell from a high place and became a ghost.",
+      "translation": "☠ {deathVictim} 从高处摔死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ You burned to death.",
+      "translation": "☠ 你被烧死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你"
+      }
+    },
+    {
+      "source": "You burned to death.",
+      "translation": "你被烧死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "☠ You burned to death and became a ghost.",
+      "translation": "☠ 你被烧死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "You burned to death and became a ghost.",
+      "translation": "你被烧死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} burned to death.",
+      "translation": "☠ {deathVictim} 被烧死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} burned to death and became a ghost.",
+      "translation": "☠ {deathVictim} 被烧死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ You burnt to death.",
+      "translation": "☠ 你被烧死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你"
+      }
+    },
+    {
+      "source": "You burnt to death.",
+      "translation": "你被烧死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "☠ You burnt to death and became a ghost.",
+      "translation": "☠ 你被烧死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "You burnt to death and became a ghost.",
+      "translation": "你被烧死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} burnt to death.",
+      "translation": "☠ {deathVictim} 被烧死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} burnt to death and became a ghost.",
+      "translation": "☠ {deathVictim} 被烧死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ You went up in flames.",
+      "translation": "☠ 你葬身火海了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你"
+      }
+    },
+    {
+      "source": "You went up in flames.",
+      "translation": "你葬身火海了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "☠ You went up in flames and became a ghost.",
+      "translation": "☠ 你葬身火海了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "You went up in flames and became a ghost.",
+      "translation": "你葬身火海了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} went up in flames.",
+      "translation": "☠ {deathVictim} 葬身火海了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} went up in flames and became a ghost.",
+      "translation": "☠ {deathVictim} 葬身火海了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ You tried to swim in lava.",
+      "translation": "☠ 你试图在熔岩里游泳。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你"
+      }
+    },
+    {
+      "source": "You tried to swim in lava.",
+      "translation": "你试图在熔岩里游泳。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "☠ You tried to swim in lava and became a ghost.",
+      "translation": "☠ 你试图在熔岩里游泳，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "You tried to swim in lava and became a ghost.",
+      "translation": "你试图在熔岩里游泳，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} tried to swim in lava.",
+      "translation": "☠ {deathVictim} 试图在熔岩里游泳。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} tried to swim in lava and became a ghost.",
+      "translation": "☠ {deathVictim} 试图在熔岩里游泳，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ You drowned.",
+      "translation": "☠ 你溺水身亡了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你"
+      }
+    },
+    {
+      "source": "You drowned.",
+      "translation": "你溺水身亡了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "☠ You drowned and became a ghost.",
+      "translation": "☠ 你溺水身亡了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "You drowned and became a ghost.",
+      "translation": "你溺水身亡了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} drowned.",
+      "translation": "☠ {deathVictim} 溺水身亡了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} drowned and became a ghost.",
+      "translation": "☠ {deathVictim} 溺水身亡了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ You suffocated.",
+      "translation": "☠ 你窒息而死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你"
+      }
+    },
+    {
+      "source": "You suffocated.",
+      "translation": "你窒息而死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "☠ You suffocated and became a ghost.",
+      "translation": "☠ 你窒息而死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "You suffocated and became a ghost.",
+      "translation": "你窒息而死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} suffocated.",
+      "translation": "☠ {deathVictim} 窒息而死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} suffocated and became a ghost.",
+      "translation": "☠ {deathVictim} 窒息而死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ You suffocated in a wall.",
+      "translation": "☠ 你在墙里窒息而死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你"
+      }
+    },
+    {
+      "source": "You suffocated in a wall.",
+      "translation": "你在墙里窒息而死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "☠ You suffocated in a wall and became a ghost.",
+      "translation": "☠ 你在墙里窒息而死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "You suffocated in a wall and became a ghost.",
+      "translation": "你在墙里窒息而死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} suffocated in a wall.",
+      "translation": "☠ {deathVictim} 在墙里窒息而死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} suffocated in a wall and became a ghost.",
+      "translation": "☠ {deathVictim} 在墙里窒息而死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ You froze to death and became a ghost.",
+      "translation": "☠ 你冻死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "You froze to death and became a ghost.",
+      "translation": "你冻死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} froze to death.",
+      "translation": "☠ {deathVictim} 冻死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} froze to death and became a ghost.",
+      "translation": "☠ {deathVictim} 冻死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ You were crushed.",
+      "translation": "☠ 你被压死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你"
+      }
+    },
+    {
+      "source": "You were crushed.",
+      "translation": "你被压死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "☠ You were crushed and became a ghost.",
+      "translation": "☠ 你被压死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "You were crushed and became a ghost.",
+      "translation": "你被压死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} was crushed.",
+      "translation": "☠ {deathVictim} 被压死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} was crushed and became a ghost.",
+      "translation": "☠ {deathVictim} 被压死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ You were crushed by {mob}.",
+      "translation": "☠ 你被 {mob} 压死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你"
+      }
+    },
+    {
+      "source": "You were crushed by {mob}.",
+      "translation": "你被 {mob} 压死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "☠ You were crushed by {mob} and became a ghost.",
+      "translation": "☠ 你被 {mob} 压死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "You were crushed by {mob} and became a ghost.",
+      "translation": "你被 {mob} 压死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} was crushed by {mob}.",
+      "translation": "☠ {deathVictim} 被 {mob} 压死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} was crushed by {mob} and became a ghost.",
+      "translation": "☠ {deathVictim} 被 {mob} 压死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ You were pricked to death by a cactus.",
+      "translation": "☠ 你被仙人掌扎死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你"
+      }
+    },
+    {
+      "source": "You were pricked to death by a cactus.",
+      "translation": "你被仙人掌扎死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "☠ You were pricked to death by a cactus and became a ghost.",
+      "translation": "☠ 你被仙人掌扎死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "You were pricked to death by a cactus and became a ghost.",
+      "translation": "你被仙人掌扎死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} was pricked to death by a cactus.",
+      "translation": "☠ {deathVictim} 被仙人掌扎死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} was pricked to death by a cactus and became a ghost.",
+      "translation": "☠ {deathVictim} 被仙人掌扎死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ You were pricked to death.",
+      "translation": "☠ 你被扎死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你"
+      }
+    },
+    {
+      "source": "You were pricked to death.",
+      "translation": "你被扎死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "☠ You were pricked to death and became a ghost.",
+      "translation": "☠ 你被扎死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "You were pricked to death and became a ghost.",
+      "translation": "你被扎死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} was pricked to death.",
+      "translation": "☠ {deathVictim} 被扎死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} was pricked to death and became a ghost.",
+      "translation": "☠ {deathVictim} 被扎死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ You blew up.",
+      "translation": "☠ 你被炸死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你"
+      }
+    },
+    {
+      "source": "You blew up.",
+      "translation": "你被炸死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "☠ You blew up and became a ghost.",
+      "translation": "☠ 你被炸死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "You blew up and became a ghost.",
+      "translation": "你被炸死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} blew up.",
+      "translation": "☠ {deathVictim} 被炸死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} blew up and became a ghost.",
+      "translation": "☠ {deathVictim} 被炸死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ You were killed by magic.",
+      "translation": "☠ 你被魔法杀死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你"
+      }
+    },
+    {
+      "source": "You were killed by magic.",
+      "translation": "你被魔法杀死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "☠ You were killed by magic and became a ghost.",
+      "translation": "☠ 你被魔法杀死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "You were killed by magic and became a ghost.",
+      "translation": "你被魔法杀死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} was killed by magic.",
+      "translation": "☠ {deathVictim} 被魔法杀死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} was killed by magic and became a ghost.",
+      "translation": "☠ {deathVictim} 被魔法杀死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ You were struck by lightning.",
+      "translation": "☠ 你被闪电劈死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你"
+      }
+    },
+    {
+      "source": "You were struck by lightning.",
+      "translation": "你被闪电劈死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "☠ You were struck by lightning and became a ghost.",
+      "translation": "☠ 你被闪电劈死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "You were struck by lightning and became a ghost.",
+      "translation": "你被闪电劈死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} was struck by lightning.",
+      "translation": "☠ {deathVictim} 被闪电劈死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} was struck by lightning and became a ghost.",
+      "translation": "☠ {deathVictim} 被闪电劈死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ You starved to death.",
+      "translation": "☠ 你饿死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你"
+      }
+    },
+    {
+      "source": "You starved to death.",
+      "translation": "你饿死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "☠ You starved to death and became a ghost.",
+      "translation": "☠ 你饿死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "You starved to death and became a ghost.",
+      "translation": "你饿死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} starved to death.",
+      "translation": "☠ {deathVictim} 饿死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} starved to death and became a ghost.",
+      "translation": "☠ {deathVictim} 饿死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ You withered away.",
+      "translation": "☠ 你凋零而死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你"
+      }
+    },
+    {
+      "source": "You withered away.",
+      "translation": "你凋零而死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "☠ You withered away and became a ghost.",
+      "translation": "☠ 你凋零而死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "You withered away and became a ghost.",
+      "translation": "你凋零而死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} withered away.",
+      "translation": "☠ {deathVictim} 凋零而死了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} withered away and became a ghost.",
+      "translation": "☠ {deathVictim} 凋零而死了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ You died to a trap.",
+      "translation": "☠ 你死于陷阱。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你"
+      }
+    },
+    {
+      "source": "You died to a trap.",
+      "translation": "你死于陷阱。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "☠ You died to a trap and became a ghost.",
+      "translation": "☠ 你死于陷阱，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "You died to a trap and became a ghost.",
+      "translation": "你死于陷阱，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} died to a trap.",
+      "translation": "☠ {deathVictim} 死于陷阱。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} died to a trap and became a ghost.",
+      "translation": "☠ {deathVictim} 死于陷阱，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ You died to a mob.",
+      "translation": "☠ 你被怪物击杀了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你"
+      }
+    },
+    {
+      "source": "You died to a mob.",
+      "translation": "你被怪物击杀了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "☠ You died to a mob and became a ghost.",
+      "translation": "☠ 你被怪物击杀了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "You died to a mob and became a ghost.",
+      "translation": "你被怪物击杀了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} died to a mob.",
+      "translation": "☠ {deathVictim} 被怪物击杀了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} died to a mob and became a ghost.",
+      "translation": "☠ {deathVictim} 被怪物击杀了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ You died.",
+      "translation": "☠ 你死亡了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你"
+      }
+    },
+    {
+      "source": "You died.",
+      "translation": "你死亡了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "☠ You died and became a ghost.",
+      "translation": "☠ 你死亡了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "You died and became a ghost.",
+      "translation": "你死亡了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} died.",
+      "translation": "☠ {deathVictim} 死亡了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} died and became a ghost.",
+      "translation": "☠ {deathVictim} 死亡了，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ You disconnected from the Dungeon.",
+      "translation": "☠ 你与地牢断开了连接。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你"
+      }
+    },
+    {
+      "source": "You disconnected from the Dungeon.",
+      "translation": "你与地牢断开了连接。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "☠ You disconnected from the Dungeon and became a ghost.",
+      "translation": "☠ 你与地牢断开了连接，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "You disconnected from the Dungeon and became a ghost.",
+      "translation": "你与地牢断开了连接，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} disconnected from the Dungeon.",
+      "translation": "☠ {deathVictim} 与地牢断开了连接。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠"
+      }
+    },
+    {
+      "source": "☠ {deathVictim} disconnected from the Dungeon and became a ghost.",
+      "translation": "☠ {deathVictim} 与地牢断开了连接，并变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "and became a ghost": "并变成了幽灵"
+      }
+    },
+    {
+      "source": "You died and lost {market} coins!",
+      "translation": "你死亡了，损失了 {market} 硬币！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你",
+        "coins": "硬币"
+      }
+    },
+    {
+      "source": "You died and lost {market} coins and your piggy bank broke!",
+      "translation": "你死亡了，损失了 {market} 硬币，并且你的存钱罐碎了！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你",
+        "coins": "硬币",
+        "and your piggy bank broke": "并且你的存钱罐碎了"
+      }
+    },
+    {
+      "source": "You died and your piggy bank cracked!",
+      "translation": "你死亡了，存钱罐出现了裂痕！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "You died and your piggy bank broke!",
+      "translation": "你死亡了，存钱罐碎了！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "You died and lost {market} Motes!",
+      "translation": "你死亡了，损失了 {market} 裂隙尘埃！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "You died and lost {market} motes!",
+      "translation": "你死亡了，损失了 {market} 裂隙尘埃！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "You died and lost {market} coins.",
+      "translation": "你死亡了，损失了 {market} 硬币！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你",
+        "coins": "硬币"
+      }
+    },
+    {
+      "source": "You died and lost {market} coins and your piggy bank broke.",
+      "translation": "你死亡了，损失了 {market} 硬币，并且你的存钱罐碎了！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你",
+        "coins": "硬币",
+        "and your piggy bank broke": "并且你的存钱罐碎了"
+      }
+    },
+    {
+      "source": "You died and your piggy bank cracked.",
+      "translation": "你死亡了，存钱罐出现了裂痕！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "You died and your piggy bank broke.",
+      "translation": "你死亡了，存钱罐碎了！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "You died and lost {market} Motes.",
+      "translation": "你死亡了，损失了 {market} 裂隙尘埃！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "You died and lost {market} motes.",
+      "translation": "你死亡了，损失了 {market} 裂隙尘埃！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "You died!",
+      "translation": "你死亡了！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "☠ You died and lost {market} coins!",
+      "translation": "☠ 你死亡了，损失了 {market} 硬币！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你",
+        "coins": "硬币"
+      }
+    },
+    {
+      "source": "☠ You died and lost {market} coins and your piggy bank broke!",
+      "translation": "☠ 你死亡了，损失了 {market} 硬币，并且你的存钱罐碎了！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你",
+        "coins": "硬币",
+        "and your piggy bank broke": "并且你的存钱罐碎了"
+      }
+    },
+    {
+      "source": "☠ You died and your piggy bank cracked!",
+      "translation": "☠ 你死亡了，存钱罐出现了裂痕！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你"
+      }
+    },
+    {
+      "source": "☠ You died and your piggy bank broke!",
+      "translation": "☠ 你死亡了，存钱罐碎了！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你"
+      }
+    },
+    {
+      "source": "☠ You died and lost {market} Motes!",
+      "translation": "☠ 你死亡了，损失了 {market} 裂隙尘埃！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你"
+      }
+    },
+    {
+      "source": "☠ You died and lost {market} motes!",
+      "translation": "☠ 你死亡了，损失了 {market} 裂隙尘埃！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你"
+      }
+    },
+    {
+      "source": "☠ You died and lost {market} coins.",
+      "translation": "☠ 你死亡了，损失了 {market} 硬币！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你",
+        "coins": "硬币"
+      }
+    },
+    {
+      "source": "☠ You died and lost {market} coins and your piggy bank broke.",
+      "translation": "☠ 你死亡了，损失了 {market} 硬币，并且你的存钱罐碎了！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你",
+        "coins": "硬币",
+        "and your piggy bank broke": "并且你的存钱罐碎了"
+      }
+    },
+    {
+      "source": "☠ You died and your piggy bank cracked.",
+      "translation": "☠ 你死亡了，存钱罐出现了裂痕！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你"
+      }
+    },
+    {
+      "source": "☠ You died and your piggy bank broke.",
+      "translation": "☠ 你死亡了，存钱罐碎了！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你"
+      }
+    },
+    {
+      "source": "☠ You died and lost {market} Motes.",
+      "translation": "☠ 你死亡了，损失了 {market} 裂隙尘埃！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你"
+      }
+    },
+    {
+      "source": "☠ You died and lost {market} motes.",
+      "translation": "☠ 你死亡了，损失了 {market} 裂隙尘埃！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你"
+      }
+    },
+    {
+      "source": "☠ You died!",
+      "translation": "☠ 你死亡了！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "☠": "☠",
+        "You": "你"
+      }
+    },
+    {
+      "source": "You became a ghost.",
+      "translation": "你变成了幽灵。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "You are now a ghost!",
+      "translation": "你现在变成了幽灵！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "You have been revived!",
+      "translation": "你复活了！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "❣ You have been revived!",
+      "translation": "❣ 你复活了！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "You were revived!",
+      "translation": "你复活了！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "❣ You were revived!",
+      "translation": "❣ 你复活了！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "You were revived by {reviver}!",
+      "translation": "你被 {reviver} 复活了！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "❣ You were revived by {reviver}!",
+      "translation": "❣ 你被 {reviver} 复活了！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "You have been revived by {reviver}!",
+      "translation": "你被 {reviver} 复活了！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "❣ You have been revived by {reviver}!",
+      "translation": "❣ 你被 {reviver} 复活了！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "{deathVictim} was revived by {reviver}!",
+      "translation": "{deathVictim} 被 {reviver} 复活了！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {}
+    },
+    {
+      "source": "❣ {deathVictim} was revived by {reviver}!",
+      "translation": "❣ {deathVictim} 被 {reviver} 复活了！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {}
+    },
+    {
+      "source": "{deathVictim} has been revived!",
+      "translation": "{deathVictim} 复活了！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {}
+    },
+    {
+      "source": "❣ {deathVictim} has been revived!",
+      "translation": "❣ {deathVictim} 复活了！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {}
+    },
+    {
+      "source": "{deathVictim} was revived!",
+      "translation": "{deathVictim} 复活了！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {}
+    },
+    {
+      "source": "❣ {deathVictim} was revived!",
+      "translation": "❣ {deathVictim} 复活了！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {}
+    },
+    {
+      "source": "You revived {deathVictim}!",
+      "translation": "你复活了 {deathVictim}！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "❣ You revived {deathVictim}!",
+      "translation": "❣ 你复活了 {deathVictim}！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "You will be revived in {value} seconds!",
+      "translation": "你将在 {value} 秒后复活！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "❣ You will be revived in {value} seconds!",
+      "translation": "❣ 你将在 {value} 秒后复活！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "You will respawn in {value} seconds!",
+      "translation": "你将在 {value} 秒后重生！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "Your Piggy Bank saved your coins!",
+      "translation": "你的存钱罐保住了你的硬币！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你",
+        "coins": "硬币",
+        "Piggy Bank": "存钱罐"
+      }
+    },
+    {
+      "source": "Your Piggy Bank cracked!",
+      "translation": "你的存钱罐出现了裂痕！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你",
+        "Piggy Bank": "存钱罐"
+      }
+    },
+    {
+      "source": "Your Piggy Bank broke!",
+      "translation": "你的存钱罐碎了！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你",
+        "Piggy Bank": "存钱罐"
+      }
+    },
+    {
+      "source": "Your Phoenix Pet saved you from death!",
+      "translation": "你的凤凰宠物救了你一命！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你",
+        "Phoenix Pet": "凤凰宠物"
+      }
+    },
+    {
+      "source": "Your Phoenix Pet saved your coins!",
+      "translation": "你的凤凰宠物保住了你的硬币！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你",
+        "coins": "硬币",
+        "Phoenix Pet": "凤凰宠物"
+      }
+    },
+    {
+      "source": "Your Remnant of the Eye saved you from death!",
+      "translation": "你的残存之眼救了你一命！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你",
+        "Remnant of the Eye": "残存之眼"
+      }
+    },
+    {
+      "source": "Your Bonzo's Mask saved your life!",
+      "translation": "你的邦佐面具救了你一命！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你",
+        "Bonzo's Mask": "邦佐面具"
+      }
+    },
+    {
+      "source": "Your Bonzo's Mask saved you from death!",
+      "translation": "你的邦佐面具救了你一命！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你",
+        "Bonzo's Mask": "邦佐面具"
+      }
+    },
+    {
+      "source": "Your Spirit Mask saved your life!",
+      "translation": "你的灵魂面具救了你一命！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你",
+        "Spirit Mask": "灵魂面具"
+      }
+    },
+    {
+      "source": "Second Wind Activated! Your Spirit Mask saved your life!",
+      "translation": "重生之风已触发！你的灵魂面具救了你一命！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You": "你",
+        "Spirit Mask": "灵魂面具",
+        "Second Wind Activated": "重生之风已触发"
+      }
+    },
+    {
+      "source": "SLAYER QUEST FAILED!",
+      "translation": "杀手任务失败！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {}
+    },
+    {
+      "source": "YOU DIED!",
+      "translation": "你死亡了！",
+      "scopes": [
+        "title",
+        "subtitle",
+        "actionbar"
+      ],
+      "styleMappings": {}
+    },
+    {
+      "source": "YOU DIED",
+      "translation": "你死亡了",
+      "scopes": [
+        "title",
+        "subtitle",
+        "actionbar"
+      ],
+      "styleMappings": {}
+    },
+    {
+      "source": "You Died!",
+      "translation": "你死亡了！",
+      "scopes": [
+        "title",
+        "subtitle",
+        "actionbar"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "You died!",
+      "translation": "你死亡了！",
+      "scopes": [
+        "title",
+        "subtitle",
+        "actionbar"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "YOU ARE A GHOST!",
+      "translation": "你变成了幽灵！",
+      "scopes": [
+        "title",
+        "subtitle",
+        "actionbar"
+      ],
+      "styleMappings": {}
+    },
+    {
+      "source": "You are now a ghost!",
+      "translation": "你现在变成了幽灵！",
+      "scopes": [
+        "title",
+        "subtitle",
+        "actionbar"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "REVIVED!",
+      "translation": "已复活！",
+      "scopes": [
+        "title",
+        "subtitle",
+        "actionbar"
+      ],
+      "styleMappings": {}
+    },
+    {
+      "source": "You were revived!",
+      "translation": "你复活了！",
+      "scopes": [
+        "title",
+        "subtitle",
+        "actionbar"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "RESPAWNING...",
+      "translation": "正在重生……",
+      "scopes": [
+        "title",
+        "subtitle",
+        "actionbar"
+      ],
+      "styleMappings": {}
+    },
+    {
+      "source": "Respawning in {value}s",
+      "translation": "{value} 秒后重生",
+      "scopes": [
+        "title",
+        "subtitle",
+        "actionbar"
+      ],
+      "styleMappings": {}
+    },
+    {
+      "source": "Respawning in {value} seconds...",
+      "translation": "{value} 秒后重生……",
+      "scopes": [
+        "title",
+        "subtitle",
+        "actionbar"
+      ],
+      "styleMappings": {}
+    },
+    {
+      "source": "You will respawn in {value} seconds!",
+      "translation": "你将在 {value} 秒后重生！",
+      "scopes": [
+        "title",
+        "subtitle",
+        "actionbar"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "You will be revived in {value} seconds!",
+      "translation": "你将在 {value} 秒后复活！",
+      "scopes": [
+        "title",
+        "subtitle",
+        "actionbar"
+      ],
+      "styleMappings": {
+        "You": "你"
+      }
+    },
+    {
+      "source": "SLAYER QUEST FAILED!",
+      "translation": "杀手任务失败！",
+      "scopes": [
+        "title",
+        "subtitle",
+        "actionbar"
+      ],
+      "styleMappings": {}
+    },
+    {
+      "source": "You died, lost {market} coins and your piggy bank broke!",
+      "translation": "你死亡了，损失了 {market} 硬币，存钱罐也碎了！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "coins": "硬币",
+        "piggy bank": "存钱罐",
+        "☠": "☠"
+      }
+    },
+    {
+      "source": "You died, lost {market} coins and your piggy bank broke.",
+      "translation": "你死亡了，损失了 {market} 硬币，存钱罐也碎了！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "coins": "硬币",
+        "piggy bank": "存钱罐",
+        "☠": "☠"
+      }
+    },
+    {
+      "source": "☠ You died, lost {market} coins and your piggy bank broke!",
+      "translation": "☠ 你死亡了，损失了 {market} 硬币，存钱罐也碎了！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "coins": "硬币",
+        "piggy bank": "存钱罐",
+        "☠": "☠"
+      }
+    },
+    {
+      "source": "☠ You died, lost {market} coins and your piggy bank broke.",
+      "translation": "☠ 你死亡了，损失了 {market} 硬币，存钱罐也碎了！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "coins": "硬币",
+        "piggy bank": "存钱罐",
+        "☠": "☠"
+      }
+    }
+  ]
+}

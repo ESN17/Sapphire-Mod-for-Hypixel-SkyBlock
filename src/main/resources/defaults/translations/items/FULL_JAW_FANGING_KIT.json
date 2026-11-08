@@ -49,11 +49,11 @@
         "Applies the Fanged reforge when",
         "combined with a Melee Weapon."
       ],
-      "translation": "与近战武器结合时施加尖牙洗练.",
+      "translation": "与近战武器结合时施加獠牙的洗练.",
       "styleMappings": {
         "Melee Weapon": "近战武器",
         "reforge": "洗练",
-        "Fanged": "尖牙",
+        "Fanged": "獠牙的",
         "Weapon": "武器",
         "when": "时"
       }
@@ -109,14 +109,14 @@
         "Every {{N0}}th melee hit on a mob deals",
         "{{N1}}  Damage."
       ],
-      "translation": "尖牙加成 每第 {{N0}} 次近战命中生物时造成 {{N1}}   伤害.",
+      "translation": "獠牙的加成 每第 {{N0}} 次近战命中生物时造成 {{N1}}   伤害.",
       "styleMappings": {
-        "Fanged Bonus": "尖牙加成",
+        "Fanged Bonus": "獠牙的加成",
         " Damage": " 伤害",
         "hit": "命中",
         "Damage": "伤害",
         "Bonus": "加成",
-        "Fanged": "尖牙"
+        "Fanged": "獠牙的"
       }
     },
     {

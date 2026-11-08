@@ -11,20 +11,23 @@ public final class LlmApi {
     private static final HttpClient HTTP=HttpClient.newBuilder().connectTimeout(Duration.ofSeconds(10)).followRedirects(HttpClient.Redirect.NEVER).build();
     public static HttpRequest request(LlmConfig c,String text) {
         if(!c.validation().isEmpty())throw new IllegalArgumentException("Invalid API configuration");
+        boolean styled=LlmStyledText.encoded(text);
+        String prompt=c.prompt+(styled?LlmStyledText.FORMAT_INSTRUCTIONS:"");
+        int outputLimit=styled?4096:2048;
         var body=new JsonObject();body.addProperty("model",c.profile().model);body.addProperty("stream",false);
         var builder=HttpRequest.newBuilder(LlmConfig.endpoint(c.profile().endpoint)).timeout(Duration.ofSeconds(c.timeoutSeconds)).header("Content-Type","application/json");
         switch(c.provider) {
             case OPENAI -> {
-                body.addProperty("instructions",c.prompt);body.addProperty("input",text);body.addProperty("store",false);body.addProperty("max_output_tokens",2048);
+                body.addProperty("instructions",prompt);body.addProperty("input",text);body.addProperty("store",false);body.addProperty("max_output_tokens",outputLimit);
                 builder.header("Authorization","Bearer "+c.key());
             }
             case CLAUDE -> {
-                body.addProperty("system",c.prompt);body.addProperty("max_tokens",2048);
+                body.addProperty("system",prompt);body.addProperty("max_tokens",outputLimit);
                 var messages=new JsonArray();messages.add(message("user",text));body.add("messages",messages);
                 builder.header("x-api-key",c.key()).header("anthropic-version","2023-06-01");
             }
             default -> {
-                var messages=new JsonArray();messages.add(message("system",c.prompt));messages.add(message("user",text));body.add("messages",messages);body.addProperty("max_tokens",2048);
+                var messages=new JsonArray();messages.add(message("system",prompt));messages.add(message("user",text));body.add("messages",messages);body.addProperty("max_tokens",outputLimit);
                 if(c.provider==LlmConfig.Provider.DEEPSEEK || (c.provider==LlmConfig.Provider.KIMI && c.profile().model.startsWith("kimi-k2."))) {
                     var thinking=new JsonObject();thinking.addProperty("type","disabled");body.add("thinking",thinking);
                 }
@@ -34,9 +37,10 @@ public final class LlmApi {
         return builder.POST(HttpRequest.BodyPublishers.ofString(body.toString(),StandardCharsets.UTF_8)).build();
     }
     private static JsonObject message(String role,String text){var m=new JsonObject();m.addProperty("role",role);m.addProperty("content",text);return m;}
+    public static HttpResponse.BodyHandler<byte[]> boundedBody(int limit){return info->new LimitedBodySubscriber(limit);}
     public static String translate(LlmConfig c,String text) throws Exception {
         // Byte-array subscriber bounds memory while the request timeout includes the body.
-        var response=HTTP.send(request(c,text),info->new LimitedBodySubscriber(128*1024));
+        var response=HTTP.send(request(c,text),boundedBody(128*1024));
         if(response.statusCode()!=200)throw new ApiFailure(response.statusCode());
         return response(c.provider,new String(response.body(),StandardCharsets.UTF_8));
     }
@@ -60,7 +64,7 @@ public final class LlmApi {
                 if(!"stop".equals(choice.get("finish_reason").getAsString()))throw new IOException("Incomplete API response");
                 result=choice.getAsJsonObject("message").get("content").getAsString();
             }
-            result=result.strip();if(result.isBlank() || result.length()>4096 || result.contains("§") || result.codePoints().anyMatch(c->Character.isISOControl(c)&&c!='\n'&&c!='\t'))throw new IOException("Invalid translation");
+            result=result.strip();if(result.isBlank() || result.length()>12000 || result.contains("§") || result.codePoints().anyMatch(c->Character.isISOControl(c)&&c!='\n'&&c!='\t'))throw new IOException("Invalid translation");
             return result;
         }catch(RuntimeException e){throw new IOException("Invalid API response");}
     }

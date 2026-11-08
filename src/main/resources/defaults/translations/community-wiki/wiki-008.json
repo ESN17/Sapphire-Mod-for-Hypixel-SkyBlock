@@ -2333,10 +2333,10 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Gain a ✯ Magic Find bonus, increasing your odds of finding rare items.",
-      "translation": "获得 ✯ 魔法寻宝加成,提高你找到稀有物品的概率。",
+      "translation": "获得 ✯ 稀有物品概率加成加成,提高你找到稀有物品的概率。",
       "styleMappings": {
         "Gain a": "获得",
-        "✯ Magic Find": "✯ 魔法寻宝",
+        "✯ Magic Find": "✯ 稀有物品概率加成",
         "bonus, increasing": "加成,提高你找到稀有物品的概率。"
       },
       "sampleRaw": "§7Gain a §b✯ Magic Find §7bonus, §7increasing your odds of finding §7rare items.",
@@ -5121,9 +5121,9 @@
       "scope": "tooltip",
       "npc": "",
       "source": "This skin can be applied to Warden Helmet.",
-      "translation": "此皮肤可应用于典狱长头盔.",
+      "translation": "此皮肤可应用于监守者头盔.",
       "styleMappings": {
-        "Warden Helmet": "典狱长头盔",
+        "Warden Helmet": "监守者头盔",
         "This skin can be applied to": "此皮肤可应用于",
         "Helmet": "头盔"
       },
@@ -35558,7 +35558,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Magic Find increases how many rare items you find.",
-      "translation": "魔法寻宝提高你发现稀有物品的几率。",
+      "translation": "稀有物品概率加成提高你发现稀有物品的几率。",
       "styleMappings": {},
       "sampleRaw": "§7Magic Find increases how many rare §7items you find.",
       "sourceId": "d00d60dc3fe96a1dcd50b1e9",
@@ -61636,12 +61636,12 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Stiff Bonus Sea Creatures killed with this Fishing Rod drop +1 Chum.",
-      "translation": "坚硬加成 使用此钓鱼竿击杀的海怪掉落 +1 鱼饵.",
+      "translation": "坚硬加成 使用此钓鱼竿击杀的海怪掉落 +1 诱鱼料.",
       "styleMappings": {
         "Sea Creatures": "海怪",
         "Fishing Rod": "钓鱼竿",
         "Stiff Bonus": "坚硬加成",
-        "Chum": "鱼饵",
+        "Chum": "诱鱼料",
         "Fishing": "钓鱼",
         "Bonus": "加成",
         "Stiff": "坚硬"
@@ -61654,18 +61654,18 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "Stiff Bonus Sea Creatures killed with this Fishing Rod drop {{N0}} Chum.",
-      "numericTranslation": "坚硬加成 使用此钓鱼竿击杀的海怪掉落 {{N0}} 鱼饵."
+      "numericTranslation": "坚硬加成 使用此钓鱼竿击杀的海怪掉落 {{N0}} 诱鱼料."
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Stiff Bonus Sea Creatures killed with this Fishing Rod drop {{N0}} Chum.",
-      "translation": "坚硬加成 使用此钓鱼竿击杀的海怪掉落 {{N0}} 鱼饵.",
+      "translation": "坚硬加成 使用此钓鱼竿击杀的海怪掉落 {{N0}} 诱鱼料.",
       "styleMappings": {
         "Sea Creatures": "海怪",
         "Fishing Rod": "钓鱼竿",
         "Stiff Bonus": "坚硬加成",
-        "Chum": "鱼饵",
+        "Chum": "诱鱼料",
         "Fishing": "钓鱼",
         "Bonus": "加成",
         "Stiff": "坚硬"
@@ -61678,7 +61678,7 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "Stiff Bonus Sea Creatures killed with this Fishing Rod drop {{N0}} Chum.",
-      "numericTranslation": "坚硬加成 使用此钓鱼竿击杀的海怪掉落 {{N0}} 鱼饵.",
+      "numericTranslation": "坚硬加成 使用此钓鱼竿击杀的海怪掉落 {{N0}} 诱鱼料.",
       "templateExamples": {
         "{{N0}}": "+1"
       }

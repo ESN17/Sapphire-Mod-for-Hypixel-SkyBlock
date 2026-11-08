@@ -14,11 +14,22 @@ public final class ItemIdResolver {
     public static Identity resolve(CompoundTag data) {
         CompoundTag extra = data.getCompound("ExtraAttributes").orElse(data);
         String id = extra.getStringOr("id", "");
+        // NEU expands the shared server ID into an attribute-and-level identity.
+        // Accept that representation too (e.g. repository preview stacks).
+        if (id.matches("ATTRIBUTE_SHARD_[A-Z0-9_]{1,100};(?:[1-9][0-9]?|100)")) return new Identity(id,id);
         // NEU menu stacks can carry an already expanded rune ID.
         if (id.matches("[A-Z0-9_]{1,100}_RUNE;[1-3]")) return new Identity(id,id);
         if (!id.matches("[A-Z0-9_]{1,120}")) return new Identity(null,null);
         String variant = id;
-        if (id.equals("PET")) {
+        if (id.equals("ATTRIBUTE_SHARD")) {
+            CompoundTag attributes = extra.getCompoundOrEmpty("attributes");
+            if (attributes.size() != 1) return new Identity(id,null);
+            String attribute = attributes.keySet().iterator().next();
+            int level = attributes.getIntOr(attribute,0);
+            if (!attribute.matches("[a-zA-Z0-9_]{1,100}") || level < 1 || level > 100)
+                return new Identity(id,null);
+            variant = "ATTRIBUTE_SHARD_" + attribute.toUpperCase(java.util.Locale.ROOT) + ";" + level;
+        } else if (id.equals("PET")) {
             try {
                 var pet = JsonParser.parseString(extra.getStringOr("petInfo", "")).getAsJsonObject();
                 String type = pet.get("type").getAsString(), tier = pet.get("tier").getAsString();
