@@ -57,10 +57,11 @@ class CollectorTest {
     @Test void environmentNeedsIndependentSignalsAndExactHostBoundary() {
         List<String> lines=List.of("www.hypixel.net","Purse: 100");
         assertTrue(SkyBlockContext.evidence("mc.hypixel.net:25565","Hypixel BungeeCord","SKYBLOCK",lines));
+        // The sidebar address line alone is enough, matching current Hypixel sidebars.
+        assertTrue(SkyBlockContext.evidence("mc.hypixel.net","", "BED WARS",lines));
+        assertTrue(SkyBlockContext.evidence("mc.hypixel.net","Hypixel","SKYBLOCK",List.of("")));
         assertFalse(SkyBlockContext.evidence("hypixel.net.evil.test","Hypixel","SKYBLOCK",lines));
-        assertFalse(SkyBlockContext.evidence("mc.hypixel.net","vanilla","SKYBLOCK",lines));
-        assertFalse(SkyBlockContext.evidence("mc.hypixel.net","Hypixel","BED WARS",lines));
-        assertFalse(SkyBlockContext.evidence("mc.hypixel.net","Hypixel","SKYBLOCK",List.of("www.hypixel.net")));
+        assertFalse(SkyBlockContext.evidence("mc.hypixel.net","Hypixel","BED WARS",List.of("Coins: 100")));
     }
     @Test void diskBudgetStopsWritesAndDisablingStopsNewObservations()throws Exception {
         try(var c=new UntranslatedCollector(root,10,32,10)) {

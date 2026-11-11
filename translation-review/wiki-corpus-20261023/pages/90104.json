@@ -1,0 +1,17 @@
+{
+  "title": "Kuudra Archeologist",
+  "pageid": 90104,
+  "revision": 813890,
+  "timestamp": "2026-08-11T19:28:50Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Kuudra_Archeologist",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=813890",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Category:Pages with UIs",
+    "Category:Crimson Isle",
+    "Template:Dialogue",
+    "Template:UI"
+  ],
+  "wikitext": "{{Infobox/Character\n|location = [[Dragontail]]\n|location_page_description = Allows the player to obtain the {{Item|Kuudra Follower Leggings}} under certain conditions.\n|x = -570.5 \n|y = 111\n|z = -642.5\n}}\n'''Kuudra Archeologist''' is an [[NPC]] found on {{zone|Dragontail}}. They appear in {{zone|Dragontail}} after the [[player]] defeats [[Kuudra]] for the first time.\n\n== Purpose ==\n{{main|Kuudra Relic}}\nThe coordinates for the {{Item|Kuudra Relic}} can be obtained by entering a 2 and a 22, obtained from pulling out a book in the {{zone|Cathedral}}, into the equation given by '''Kuudra Archeologist'''.\n\nBringing '''Kuudra Archeologist''' a {{Item|Kuudra Relic}} will award the player with {{Item|Kuudra Follower Leggings}}.\n\n== Interface ==\n{{/UI}}\n\n== Dialogue ==\n{{Sectionstub}}\n{| class=\"wikitable\"\n!Condition\n!Dialogue\n|-\n| class=\"ct\" | First Interaction\n|{{Dialogue|\n&e[NPC] &cKuudra Archeologist&f: I've been studying the ancient artifacts of Kuudra.\n&e[NPC] &cKuudra Archeologist&f: I found this artifact that had some weird writing on it.\n&e[NPC] &cKuudra Archeologist&f: It seems to be missing some information so I can't figure out what it means.\n&e[NPC] &cKuudra Archeologist&f: There has to be information somewhere that can fill in the blanks.\n&e[NPC] &cKuudra Archeologist&f: If you want to take a look here is what it says.\n&e[NPC] &cKuudra Archeologist&f: ∫ 2x - 2x^5 + 7x^3 dx\n}}\n|-\n| class=\"ct\" | Given a [[Kuudra Relic]]\n|{{Dialogue|\n&e[NPC] &cKuudra Archeologist&f: Is that a Kuudra relic?\n&e[NPC] &cKuudra Archeologist&f: Where did you find it?\n&e[NPC] &cKuudra Archeologist&f: Whatever, it doesn't matter.\n&e[NPC] &cKuudra Archeologist&f: Since you brought this to me, I'll give you something to show my appreciation.\n}}\n|-\n| class=\"ct\" | After Given [[Kuudra Relic]]\n|{{Dialogue|\n&e[NPC] &cKuudra Archeologist&f: Thanks for showing me the Kuudra relic!\n&e[NPC] &cKuudra Archeologist&f: ...\n&e[NPC] &cKuudra Archeologist&f: You never did tell me how you found it...\n}}\n|-\n| class=\"ct\" | Given an [[Exquisite Kuudra Teeth Plaque]]\n|{{Dialogue|\n&e[NPC] &cKuudra Archaeologist&f: &r&fAh yes the &6Exquisite Kuudra Teeth Plaque&f!\n&e[NPC] &cKuudra Archaeologist&f: &r&fI'll go ahead and help break that down for you!\n&e[NPC] &cKuudra Archaeologist&f: &r&fYou know... this item can be very helpful to unlock something special!\n}}\n|}\n\n== History ==\n{{History table\n|ahn=\n{{History|2022/March 8|link=none|[[File:Kuudra Archeologist.png|26px]] Added '''Kuudra Archeologist'''.}}\n|beta=\n{{History|0.13|[[File:Kuudra Archeologist.png|26px]] Added '''Kuudra Archeologist'''.}}\n{{History|2022/May 15|link=none|Corrected '''Kuudra Archeologist'''<nowiki>'</nowiki>s formula dialogue from <math>\\int 2x - 2x^5 + 7x^3</math> to <math>\\int 2x - 2x^5 + 7x^3 dx</math>.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}\n{{Nav/Crimson Isle}}"
+}

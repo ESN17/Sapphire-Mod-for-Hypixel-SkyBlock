@@ -1,0 +1,17 @@
+{
+  "title": "The Forge",
+  "pageid": 76696,
+  "revision": 849184,
+  "timestamp": "2026-10-01T11:59:24Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/The_Forge",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=849184",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Pages with UIs",
+    "Category:Locations",
+    "Template:Dialogue",
+    "Template:ZoneText",
+    "Template:UI"
+  ],
+  "wikitext": "{{Infobox/Location\n|location=Dwarven Mines\n|x=0 \n|y=149 \n|z=-68\n|level = {{Skl|Mining 12}}\n|music = \"[[Hypixel SkyBlock OST#Dwarven Mines|Dwarven Mines]]\"\n}}\n\n{{zone|The Forge}} is an area of {{zone|Dwarven Mines}}. Players can use it to refine certain items into their refined form, and create powerful gear, items, [[Accessories]] and even [[Pets]]. {{HotM|2}} is required to use it. Players have a limited amount of processes available to them at a single time, with additional slots and new recipes unlocking with {{HotM}} progression.\n\n{{ZoneText|Refine ores and cast items at the &6Forge&f!}}\n\nDespite the area having no requirements, {{Skill|Mining|15}} is required to Fast Travel there, except on {{Gamemode|Bingo}}.\n== Mechanics ==\n* Forging processes cannot be canceled once started.\n* Players begin with {{green|2}} Forge slots at {{HotM|2}}. From there, each {{HotM}} tier grants another forge slot, up to {{Purple|'''Tier 7'''}}.\n* Forge Time may be decreased by the following sources, stacking {{aqua|'''additively'''}}. \n\n{|class=\"wikitable\"\n!Forge Time Reduction\n!Type of Source\n!Source\n!Condition\n!Notes\n|-\n|class=\"ct\"|{{green|-10.5%}} → {{green|-30%}} \n|{{HotM|small=y}} perk\n|[[Quick Forge|{{AN|Quick Forge}}]]\n|{{bc}}\n|Updates retroactively.\n|-\n|class=\"ct\"|{{green|-25%}} \n|[[Mayor]] perk\n|{{NPCSprite|Cole}}'s {{AN|Molten Forge}}\n|Forging Processes started after the beginning of his term.\n|{{bc}}\n|-\n|class=\"ct\"|{{green|-0.5}} second / {{item|Perfect Gemstone}} / Kill\n|[[Gauntlet]]\n|{{Item|Gemstone Gauntlet}}'s {{AN|Kinetic}} ability\n|[[Mining Islands]]\n|Applied after all of the above. Cooldown of {{green|1}} second.\n|-\n|}\n\n{{/UI}}\n\n{{/Table}}\n\n== NPCs ==\n{{Location NPCs}}\n\n== Trivia ==\n* Upgrading an item in the forge, such as Drill or Lantern, keeps all modifications on the item, such as [[Reforge]] or [[Enchantments]].\n* In the {{Zone|Crystal Hollows}}, there is a structure that serves as a miniature version of '''The Forge'''.\n* Forge can be accessed remotely by contacting {{NPCSprite|Fred}} via {{Item|Abiphone Basic|text=Abiphone}}.\n\n== History ==\n{{History table\n|ahn=\n{{History|2021/June 30|link=none|Added new forgeable items.}}\n|beta=\n{{History|0.11|Added {{zone|The Forge}}.}}\n{{History|0.11.3|Added {{Code|/warpforge}} command that warps directly to {{zone|The Forge}}.}}\n{{History|0.12|Added new forgeable items.}}\n{{History|2021/Nov 8|Added the {{Item|Travel Scroll to the Dwarven Forge}}.\n                    |The {{Code|/warpforge}} (and the new {{Code|/warp forge}}) commands now require the {{Item|Travel Scroll to the Dwarven Forge}}.}}\n{{History|0.20|Added more items obtainable through the Forge.}}\n{{History|0.20.1|Changed some recipes and Forge times.}}\n}}\n\n== Navigation ==\n{{Nav/Dwarven Mines/Locations}}\n{{Nav/Locations}}"
+}

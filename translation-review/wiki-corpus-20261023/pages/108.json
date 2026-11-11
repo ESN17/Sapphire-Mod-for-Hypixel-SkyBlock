@@ -1,0 +1,14 @@
+{
+  "title": "Combat",
+  "pageid": 108,
+  "revision": 841113,
+  "timestamp": "2026-09-14T14:36:34Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Combat",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=841113",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Pages with UIs",
+    "Template:UI"
+  ],
+  "wikitext": "{{Infobox/Skill\n|image = Combat.png\n|max_level = 60\n}}\n\n{{Skill|Combat}} is one of the core player [[Skills]] in SkyBlock. It can be leveled up by killing mobs, claiming Combat [[Minion]] drops, claiming [[Bestiary]] milestones, and a multitude of other methods. The maximum level {{Skill|Combat}} can go up to is {{Skill|Combat 60}}.\n\n== Overview ==\n{{Skill|Combat}} XP is gained from killing mobs: each mob grants a set amount of XP when killed, with the exception of mobs spawned on the [[Private Island]], which do not grant XP on kill.\n\nThe amount of {{Skill|Combat}} XP gained on mob kill increases with {{Stat|Combat Wisdom}}. {{Stat|Combat Wisdom}} can be increased through numerous different methods, such as using different weapons and armor that grant {{Stat|Combat Wisdom}}, equipping [[Pets]] that grant {{Stat|Combat Wisdom}}, or syphoning the {{Item|Apex Dragon Shard}}.\n\n== Leveling Rewards ==\n{{/Skill UI}}\nThe cumulative rewards for leveling up {{Skill|Combat}} are as follows:\n{{/Leveling Rewards}}\n\n== Warrior Bonus ==\nBy leveling up your {{Skill|Combat}} skill, you gain a passive '''Warrior''' bonus. For every level from {{Skill|Combat 1}} to {{Skill|Combat 50}}, all {{Stat|dmg}} against mobs is increased by {{Green|4%}}: {{Skill|Combat 51}} to {{Skill|Combat 60}} grants {{Green|+1%}} {{Stat|dmg}} instead.\n\n== See also ==\n*[[Damage Calculation]]\n*{{Stat|tdmg}}\n*[[Bestiary]]\n\n== History ==\n{{History table\n|beta=\n{{History|0.1|[[File:Stone Sword.png|26px]] Added '''Combat''' Skill.}}\n{{History|2020/May 22|link=none|Mob kills no longer give Combat XP on private island.}}\n{{History|0.11.2| Added '''Combat 60'''.}}\n{{history|2023/Aug 15|Fixed sometimes not being able to gain Combat EXP and Bestiary progress from killing mobs with abilities from weapons such as Hyperion.}}\n{{history|2023/Aug 24|Fixed a bunch of cases where players are tagged as being in combat when they shouldn't.}}\n}}\n\n== Navigation ==\n{{Nav/Skills}}\n[[Category:Skills]]\n[[Category:Combat]]"
+}

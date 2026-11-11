@@ -1,0 +1,13 @@
+{
+  "title": "Wizard Wand",
+  "pageid": 92291,
+  "revision": 849855,
+  "timestamp": "2026-10-01T13:57:48Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Wizard_Wand",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=849855",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Weapon\n|rarity = e\n|type=[[Wand]]\n|obtain=[[Shen's Auction]]\n|museum = n\n|id=WIZARD_WAND\n}}\n'''Wizard Wand''' is an {{Epic}} [[Wands|Wand]]. It can be obtained from [[Shen's Special]]. It displays the buyer's name, cost paid, and the details about in which auction it was sold and the ranking of the buyer within that auction. This data disappears if the item is traded in any way, and due to a bug, also when it returns from its ability. \n\n== Obtaining ==\nThe '''Wizard Wand''' can be bid on at [[Shen's Special]]. The top 20 bidders receive the item.\n\n== Usage ==\nWhen used, the '''Wizard Wand''' will be consumed, and a message will appear in chat. The Wand will disappear for 3-5 days, before appearing again with {{stat|int|+1}} (up to a maximum of {{stat|int|+100|icononly=yes}}).\n\n== Game Message ==\n{| class=\"wikitable\"\n!Condition\n!Message\n|-\n| class=\"ct\" | Disappearing\n|{{Dialogue|\n&aYour Wizard Wand warped in time! But without you...\n&aDo not fret! It will be back in 3-5 business days!\n}}\n|-\n| class=\"ct\" | Reappearing\n|{{Dialogue|&aYour Wizard Wand has re-appeared! Fantastic!}}\n|}\n\n== Trivia ==\n*Only one '''Wizard Wand''' can be lost in time at a time. Attempting to use a second while another is lost will result in the following message:\n{{Dialogue|&cYou already have a Wizard Wand that is lost in time!}}\n\n== Bugs ==\n*'''Wizard Wand''' re-appears without any purchasing data.\n\n== History ==\n{{History table\n|ahn=\n{{History|ahn-0.13.1|[[File:Wizard Wand (v1).png|26px]] Added '''Wizard Wand'''.}}\n{{History|2026/Jun 24|[[File:Wizard Wand (v2).png|26px]] Added a custom texture for '''Wizard Wand''' as part of the SkyBlock Resource Pack.}}\n|beta=\n{{History|0.14|[[File:Wizard Wand (v1).png|26px]] Added '''Wizard Wand'''.}}\n{{History|0.26|[[File:Wizard Wand (v2).png|26px]] Added a custom texture for '''Wizard Wand''' as part of the SkyBlock Resource Pack.}}\n}}\n\n== Navigation ==\n{{Nav/Shen's Auction}}"
+}

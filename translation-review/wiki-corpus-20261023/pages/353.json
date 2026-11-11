@@ -1,0 +1,13 @@
+{
+  "title": "Emerald",
+  "pageid": 353,
+  "revision": 816811,
+  "timestamp": "2026-08-11T21:42:29Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Emerald",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=816811",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Pages with UIs"
+  ],
+  "wikitext": "{{Vanilla}}\n{{Infobox/Item\n|type = Collection item\n|id = EMERALD\n|rarity = common\n|sell = 4\n|next_material = Enchanted Emerald\n|bazaar = Emerald\n|auctionable = n\n}}\n'''Emerald''' is a {{Common}} collection item that can be obtained by mining {{Item|Emerald Ore}}.\n\n== Collection ==\nCollecting emeralds increases the player's emerald [[Collections|collection]], which grants useful items and perks upon collecting certain amounts of emeralds.\n\n{{/Collection_UI}}\n{{CollectionTable|Emerald}}\n\n== Obtaining ==\n=== Natural Generation ===\nEmerald ore spawns naturally in {{zone|Slimehill}}, {{zone|Dwarven Mines}} and {{zone|Crystal Hollows}}.\n\nMining emerald ore gives grants +7{{Skl|Mining}} XP.\n\n=== Bazaar ===\n'''Emerald''' can be bought from the [[Bazaar]] for {{BZC|1 EMERALD}}.\n\n=== Crafting ===\n{{Crafting Recipe Table\n|{{Crafting Recipe Row\n |B2 = Block of Emerald\n |Output = Emerald, 9\n}}\n}}\n\n== Usage ==\n=== Crafting ===\n{{Crafting Usage}}\n\n=== Merchants ===\n{| class=\"wikitable\"\n! colspan=\"2\" | Name\n! Merchant\n! Requirements\n! Ingredients\n|-\n! rowspan=\"4\" | [[Personal_Bank#Upgrades|Personal Bank Upgrades]]\n! 1 Hour CD\n| rowspan=\"4\" class=\"ct\" | {{NPCSprite|Guy}}\n| class=\"ct\" | {{Coll|Emerald 6}}\n| '''Free'''\n|-\n! 20 Minutes CD\n| class=\"ct\" | {{Coll|Emerald 8}}\n| {{Item|Coins|amount=200,000}}\n|-\n! 5 Minutes CD\n| class=\"ct\" | {{Coll|Emerald 9}}\n| {{Item|Coins|amount=1,000,000}}\n|-\n! No CD\n| class=\"ct\" | 250k '''Emerald'''<br>Collection\n| {{Item|Coins|amount=5,000,000}}\n|}\n\n== Gallery ==\n<gallery widths=\"100\" spacing=\"small\" navigation=\"true\">\nPure Emerald Vein.png|An example of a pure '''Emerald''' vein\n</gallery>\n\n== History ==\n{{History table\n|beta=\n{{History|2019/June 11|[[File:Emerald.png|26px]] Added '''Emerald'''.}}\n{{History|2019/August 2|{{Item|Emerald Blade}} added to collection.}}\n{{History|2019/December 3|[[Personal Bank]] added to collection.}}\n{{History|2019/December 4|{{Item|Personal Bank Item}} added to collection.}}\n{{History|0.19.2|Emeralds found in the {{zone|Mines of Divan}} now affected by {{stat|mnf}}.}}\n{{History|0.19.9|<code>/bank</code> command added to collection.}}\n{{History|2024/October 1|Lowered sell price to NPC from {{c|6}} to {{c|4}}.}}\n}}\n\n== Navigation ==\n{{Nav/Collection/Emerald}}\n{{Nav/Collections}}"
+}

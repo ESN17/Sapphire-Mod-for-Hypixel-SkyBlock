@@ -1,0 +1,14 @@
+{
+  "title": "Avorius",
+  "pageid": 91476,
+  "revision": 815475,
+  "timestamp": "2026-08-11T20:13:23Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Avorius",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=815475",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Character\n|location = [[Scarleton]]\n|location_page_description = Gives the player {{Reputation|mage|+5}} in exchange for a {{Item|Cup of Blood}} once every 3 days.\n|x= -152.5 \n|y = 128\n|z = -809.5\n}}\n'''Avorius''' is an [[NPC]] that lives in {{zone|Scarleton}}.\n\n== Quest ==\nGiving {{Item|Cup of Blood|amount=1}} to '''Avorius''' while a member of the Mage [[Faction]] rewards the player with {{Reputation|mage|+5}}. This can be done once every {{Green|3}} days.\n\n== Dialogue ==\n{| class=\"wikitable\"\n! Condition\n! Dialogue\n|-\n| class=\"ct\" | First Interaction\n|{{Dialogue|\n&e[NPC] &cAvorius&f: Have you noticed how everyone around here kind of resembles a Vampire?\n&e[NPC] &cAvorius&f: It would be a pretty convenient place for a Vampire to hide.\n&e[NPC] &cAvorius&f: Not that I'm a Vampire of course - I am definitely not.\n}}\n|-\n| class=\"ct\" | Given a [[Cup of Blood]]\n| {{Dialogue|\n&e[NPC] &cAvorius&f: A Cup of Blood? What a strange present, I'm sure a Vampire would like that.\n&e[NPC] &cAvorius&f: Thanks for the gift. I really appreciate it. Of course I won't be drinking that.\n}}\n|-\n| class=\"ct\" | After Given a [[Cup of Blood]]\n| {{Dialogue|\n&e[NPC] &cAvorius&f: My thirst is quenched!\n&e[NPC] &cAvorius&f: Err, from water and other non-Vampire liquids that is.\n&e[NPC] &cAvorius&f: Thank you for the gesture though!\n}}\n|-\n| class=\"ct\" | Not in Mage [[Faction]]\n|{{Dialogue|&e[NPC] &cAvorius&f: I can't be seen conversing with you right now!}}\n|-\n! Condition\n! Random Dialogue\n|-\n| class=\"ct\" rowspan=\"3\" | None\n| {{Dialogue|&e[NPC] &cAvorius&f: I am quite thirsty all the time, it's a rare condition.}}\n|-\n| {{Dialogue|&e[NPC] &cAvorius&f: Why are you looking at me that way? I am not a Vampire, you are!}}\n|-\n| {{Dialogue|&e[NPC] &cAvorius&f: There is no sunlight either, it would be quite accommodating for a Vampire.}}\n|}\n\n== Trivia ==\n*'''Avorius''' was the first vampire added to the game.\n\n== History ==\n{{History table\n|ahn=\n{{History|2022/March 8|link=none|[[File:Avorius.png|26px]] Added '''Avorius'''.}}\n|beta=\n{{History|0.13|[[File:Avorius.png|26px]] Added '''Avorius'''.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}"
+}

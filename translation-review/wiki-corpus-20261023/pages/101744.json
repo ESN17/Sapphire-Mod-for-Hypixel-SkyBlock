@@ -1,0 +1,14 @@
+{
+  "title": "Fann/UI",
+  "pageid": 101744,
+  "revision": 836698,
+  "timestamp": "2026-09-10T00:19:51Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Fann/UI",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=836698",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:UI Subpages",
+    "Template:UI"
+  ],
+  "wikitext": "<div class=\"sbw-ui-tabber\">\n\n{{UI|Pet Training|fill=true\n|2, 3=White Stained Glass Pane, training-slot, &cTraining Slot #1, &8Empty//&7This slot is currently empty!/&8You can level up pets by training/&8them here.//&eClick to start a session!\n|2, 5=Red Stained Glass Pane, none;none, &cTraining Slot #2, &8Locked//&7Unlock this slot by feeding &6Hootie/&9Great Carrot Candy&7! (0\\/5)\n|2, 7=Red Stained Glass Pane, none;none, &cTraining Slot #3, &8Locked//&7Unlock this slot by feeding &6Hootie/&6Ultimate Carrot Candy&7!\n|4, 5=Owl Pet, none, &7[Lvl 100] &6Owl, &8Taming Pet//&6Training Refunds/&7The more coins you spend on Fann's/&7Sessions\\, the less coins they will/&7cost in the future. &8(Max 5% off).//&7Next Milestone: &61% off/&l&m &m &m &m &m &m &m &m &m &m &m &m &m &m &m &m &m &m &m &m &m &5 &60\\/1M//&6Efficient Trainer/&7Makes training sessions at Fann/&7more efficient when added into a/&7session.//&7Increased EXP: &b+10% EXP//&6Fast Learner/&7Passively grants &3+5☯ Taming Wisdom&7.//&8This pet's perks are active even/&8when the pet is not summoned!//&cThis is a preview of Lvl 100./&cNew pets are lowest level!//&7Cost/&62\\,200\\,000 Coins//&eClick to trade!\n|6, 4=Polar Bear Spawn Egg, none;none, &aExtra Free Training, &7Fann's Free Training session gets/&7increasingly better the higher the/&aTaming Level &7of her customers.//&7Taming Level: &a10 &8(+0 EXP)/&7Free Training: &b20\\,000 EXP\\/day\n|arrow=none\n|id=default\n}}\n\n{{UI|Training Slot 1|fill=true\n|2, 7=Red Stained Glass Pane, none, &cNo Pet, &7Click a pet in your inventory to the/&7left to begin training!\n|3, 3=Wooden Button, none, &eClick a pet in your inventory!, &7Selects it for training\n|3, 7=Red Stained Glass Pane, none, &cNo Pet, &7Click a pet in your inventory to the/&7left to begin training!\n|3, 8=Wooden Button, none, &eClick an Owl Pet in your inventory!, &7You don't have to include one\\, but it always helps!\n|4, 7=Red Stained Glass Pane, none, &cNo Pet, &7Click a pet in your inventory to the/&7left to begin training!\n|goback=To Pet Training\n|id=training-slot\n|return_id = default\n|rows=5\n|dnl=true\n|hide=true\n}}\n\n</div><!--\n\n--><includeonly>[[Category:Pages with UIs]]</includeonly><!--\n--><noinclude>[[Category:UI Subpages]]</noinclude>"
+}

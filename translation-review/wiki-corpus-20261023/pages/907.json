@@ -1,0 +1,15 @@
+{
+  "title": "Lumber Merchant",
+  "pageid": 907,
+  "revision": 830456,
+  "timestamp": "2026-09-03T01:28:32Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Lumber_Merchant",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=830456",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Category:Pages with UIs",
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Character\n|shop = Yes\n|abiphone = Yes\n|location = [[Foraging Camp]]\n|location_page_description = Sells {{Skill|Foraging}}-related items, including [[Axes]] and [[Wood]].\n|x = -125 \n|y = 73 \n|z = -42.5\n}}\nThe '''Lumber Merchant''' is an [[NPC]] located in the {{zone|Foraging Camp}}. They sell various items related to {{Skill|Foraging}}, including [[Axes]] and [[Wood]].\n\n== Interface ==\n{{/UI}}\n\n== Dialogue ==\n{| class=\"wikitable\"\n!colspan=\"2\"|Condition\n!Dialogue\n|-\n| colspan=\"2\" class=\"ct\" | First Interaction\n|{{Dialogue|&e[NPC] &2Lumber Merchant&f: &fBuy and sell Wooden Axes with me!}}\n|-\n| class=\"ct\" rowspan=\"3\" | [[Abiphones#Contacts|{{Aqua|Abiphone Contact}}]]\n| class=\"ct\" | None\n|{{Dialogue|\n&e[NPC] &2Lumber Merchant&f: &b✆ &fYou want my contact? Sure.\n&e[NPC] &2Lumber Merchant&f: &b✆ &fLet's see...\n&e[NPC] &2Lumber Merchant&f: &b✆ &fMy Axe could do with an upgrade...\n&e[NPC] &2Lumber Merchant&f: &b✆ &fThat's right! A &aSpruce Axe &fis what I desire!\n&a&l[GIVE ITEM] \n}}\n|-\n| class=\"ct\" | Without [[Spruce Axe]]\n|{{Dialogue|&e[NPC] &2Lumber Merchant&f: &b✆ &fYou don't have what I need! Nice try!}}\n|-\n| class=\"ct\" | Giving [[Spruce Axe]]\n|{{Dialogue|\n&e[NPC] &2Lumber Merchant&f: &b✆ &fA &aSpruce Axe&f! I sure owe you one!\n&e[NPC] &2Lumber Merchant&f: &b✆ &fA deal is a deal and I'm a man of my word. Here's my contact.\n}}\n|}\n\n== History ==\n{{History table\n|ahn=\n{{History|2026/Jan 30|Moved the '''Lumber Merchant''' from {{coords|-49.5|70|-67.5}} to {{Coords|-125|73|-42.5}}, due to the redesign of the [[Hub Island]].}}\n|beta=\n{{History|2019/June 11|[[File:Lumber Merchant.png|26px]] Added '''Lumber Merchant'''.}}\n{{History|2019/August 2|Added {{Item|Sweet Axe}} and {{Item|Efficient Axe}} to the shop.}}\n{{History|2022/May 11|Added {{Item|Stick}}s to the shop.}}\n{{History|0.18.5|Added [[Abiphones#Contacts|{{Aqua|Abiphone Contact}}]].|Added Wooden Tools to the '''Lumber Merchant'''<nowiki/>'s shop.}}\n{{History|2025/July 8|Adjusted trading quantity of logs.|Adjusted {{Item|Podzol}} price.}}\n{{History|0.24.2|Moved the '''Lumber Merchant''' from {{coords|-49.5|70|-67.5}} to {{Coords|-125|73|-42.5}}, due to the redesign of the [[Hub Island]].}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}\n[[Category:Foraging]]"
+}

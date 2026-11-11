@@ -1,0 +1,17 @@
+{
+  "title": "Farmer Rigby",
+  "pageid": 5948,
+  "revision": 823107,
+  "timestamp": "2026-08-24T06:02:48Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Farmer_Rigby",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=823107",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Category:Pages with UIs",
+    "Category:Quests",
+    "Template:Dialogue",
+    "Template:UI"
+  ],
+  "wikitext": "{{About|the NPC by the {{zone|Farm}}'s main building|the NPC in the [[Mushroom Desert]]|Farmer Jon}}\n{{Infobox/Character\n|quests = {{Quest|First Harvest}}\n|location = [[Farm]]\n|location_page_description = Rewards the player for feeding cow, {{NPCSprite|Shania}}.\n|x = 61.5\n|y = 72\n|z = -147.5\n}}\n'''Farmer Rigby''' is an [[NPC]] located in the {{zone|Farm}}'s main building. They have a cow, {{NPCSprite|Shania}}.\n\n== Quest ==\n'''Farmer Rigby''' gives the player the {{Quest|First Harvest}} [[Quest]] to gather {{Item|Wheat|amount=10}} to feed their sick [[Cow]], {{NPCSprite|Shania}}. In return, they will reward the player with {{Skill XP|100 Farming}}, {{SkyBlock XP|+5}}, and a {{Item|Rookie Hoe}}. Traveling to {{Zone|The Barn}} afterwards will grant another {{Skill XP|10 Farming}}.\n\n== Interface ==\n{{/UI}}\n\n== Dialogue ==\n{| class=\"wikitable\"\n!Condition\n!Dialogue\n|-\n| class=\"ct\" | First Interaction\n|{{Dialogue|\n&e[NPC] Farmer Rigby&f: Howdy, friend!\n&e[NPC] Farmer Rigby&f: My cow is sick, she needs some food to replenish her strength.\n&e[NPC] Farmer Rigby&f: Could you gather some Wheat from my farm and bring it back to me so that I can feed her? Poor thing.\n}}\n|-\n| class=\"ct\" | During Objective: {{Yellow|Collect wheat}}\n|{{Dialogue|&e[NPC] Farmer Rigby&f: My cow is getting worse! Hurry with that Wheat!}}\n|-\n| class=\"ct\" | Completing {{Yellow|Talk to Farmer Rigby}}\n|{{Dialogue|\n&e[NPC] Farmer Rigby&f: &fThank you so much!\n&e[NPC] Farmer Rigby&f: &fMy farm is yours to harvest! Wheat is a valuable resource to collect. You can unlock many cool things by collecting more of it!\n&e[NPC] Farmer Rigby&f: &fHere, try out this &fRookie Hoe! It's specifically modified to drop more crops when using it!\n}}\n|-\n|rowspan=\"3\" class=\"ct\" |  None\n|{{Dialogue|&e[NPC] Farmer Rigby&f: A farmer's life is a simple life.}}\n|-\n|{{Dialogue|&e[NPC] Farmer Rigby&f: Great day to be on the Farm!}}\n|-\n|{{Dialogue|&e[NPC] Farmer Rigby&f: Howdy, &7<player>&f!}}\n|-\n| rowspan=\"2\" class=\"ct\" | During Objective: {{Yellow|Travel to The Barn}}\n|{{Dialogue|&e[NPC] Farmer Rigby&f: &fTravel to &eThe Barn &fto gain access to more crops like Carrots, Potatoes, Pumpkins, and Melons!}}\n|-\n|{{Dialogue|&e[NPC] Farmer Rigby&f: &fHave you been to &eThe Barn &fyet?}}\n|}\n\n== History ==\n{{History table\n|ahn=\n{{History|2026/Jan 30|[[File:Farmer Rigby.png|26px]] Renamed '''Farmer''' to '''Farmer Rigby'''.|Moved '''Farmer Rigby''' from {{Coords|44.5|72|-162.5}} to {{coords|61.5|72|-147.5}}, due to the redesign of the [[Hub Island]].}}\n{{History|2026/July 15|Updated the quest to give a {{Item|Rookie Hoe}}.}}\n|beta=\n{{History|2019/June 11|[[File:Farmer Rigby.png|26px]] Added Farmer.}}\n{{History|0.24.2|Renamed '''Farmer''' to '''Farmer Rigby'''.|Moved '''Farmer Rigby''' from {{Coords|44.5|72|-162.5}} to {{coords|61.5|72|-147.5}}, due to the redesign of the [[Hub Island]].}}\n{{History|0.26.1|Updated the quest to give a {{Item|Rookie Hoe}}.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}\n[[Category:Farming]]\n[[Category:Quests]]"
+}

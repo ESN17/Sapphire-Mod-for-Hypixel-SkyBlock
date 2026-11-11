@@ -1,0 +1,13 @@
+{
+  "title": "Gabagoey Mixin",
+  "pageid": 89186,
+  "revision": 833291,
+  "timestamp": "2026-09-06T21:46:40Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Gabagoey_Mixin",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=833291",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Slayer"
+  ],
+  "wikitext": "{{Infobox/Item\n|type = Mixin\n|rarity = r\n|id = GABAGOEY_MIXIN\n|merchant = Bartender\n|buy = 150000\n|auctionable = Yes\n|slayer_level_requirement = Blaze Slayer VIII\n}}\n\n'''Gabagoey Mixin''' is a {{Rare}} [[Mixins|Mixin]] that can be brewed with a {{Item|God Potion}} to grant it an additional effect for its duration.\n\n== Obtaining ==\n=== Purchase ===\nA '''Gabagoey Mixin''' can be purchased from the {{NPCSprite|Bartender}} for {{c|150k}} once the player reaches {{Coll|Blaze Slayer VIII}}.\n\n== Usage ==\n=== Brewing ===\nA '''Gabagoey Mixin''' can be brewed with a {{Item|God Potion}} to grant the player {{stat|td|+5%}}. This effect lasts for the {{Item|God Potion}}'s entire duration.\n{| class=\"wikitable\"\n!Ingredients\n![[Brewing]] Layout\n|-\n|{{Item|God Potion}}\n|{{Brewing Stand\n|Input = Gabagoey Mixin\n\n|Output1 = [&cGod Potion]God Potion:none[&7Consume this potion to receive an/&7assortment of positive &dpotion/&7effects&7!//&7Duration:/&a12 hours &7+ &ax hours &7(&bAlchemy Level&7)//&7Mixins:/&9Gabagoey//&eRight-click to comsume! //&c&lSPECIAL]\n\n|Output2 = [&cGod Potion]God Potion:none[&7Consume this potion to receive an/&7assortment of positive &dpotion/&7effects&7!//&7Duration:/&a12 hours &7+ &ax hours &7(&bAlchemy Level&7)//&7Mixins:/&9Gabagoey//&eRight-click to comsume! //&c&lSPECIAL]\n\n|Output3 = \n[&cGod Potion]God Potion:none[&7Consume this potion to receive an/&7assortment of positive &dpotion/&7effects&7!//&7Duration:/&a12 hours &7+ &ax hours &7(&bAlchemy Level&7)//&7Mixins:/&9Gabagoey//&eRight-click to comsume! //&c&lSPECIAL]\n}}\n|}\n\n=== Consuming ===\nIf the [[Booster Cookie|Cookie Buff]] is active, '''Mixins''' can also be consumed directly by right clicking them. This will provide {{Green|3x}} their normal duration (since a Mixin can be applied to up to {{Green|3}} [[God Potion]]s). The timer is separate from the {{Item|God Potion}} timer and is paused if a God Potion is no longer active. The player cannot consume '''Mixins''' they do not meet the requirements for.\n\n== History ==\n{{History table\n|beta=\n{{History|0.13|[[File:Gabagoey Mixin.png|26px]] Added '''Gabagoey Mixin'''.}}\n}}\n\n== Navigation ==\n{{Nav/Mixins}}\n{{Nav/Brewing Ingredients}}\n[[Category:Brewing]]\n[[Category:Potions]]\n[[Category:Slayer]]"
+}

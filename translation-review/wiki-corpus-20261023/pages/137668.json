@@ -1,0 +1,13 @@
+{
+  "title": "Honeyhog",
+  "pageid": 137668,
+  "revision": 861572,
+  "timestamp": "2026-10-21T01:11:01Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Honeyhog",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861572",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Critter\n|stats = {{InfoboxMobStats\n|health = 2,500\n|damage = 250\n}}\n|mob_level = 32\n|mob_type =\n*{{mt|Woodland}}\n*{{mt|Critter}}\n|id = HONEYHOG_32\n}}\nA '''Honeyhog''' is a {{Mt|Critter}} that can be spawned by applying Honey to [[Fig Tree]]s on the {{Zone|Moonglade Marsh}}.\n\n== Spawning ==\nA '''Honeyhog''' has a {{Chance|50%|1|2}} chance to spawn after applying a {{Item|Fun-Sized Pot of Honeycomb|text=Fun-Sized}}, {{Item|Family-Sized Pot of Honeycomb|text=Family-Sized}}, {{Item|Jumbo Pot of Honeycomb|text=Jumbo}}, or {{Item|Behemoth Pot of Honeycomb}} to a [[Fig Tree]] with a [[Tree Protection Order]].\n\n== Behavior ==\nA '''Honeyhog''' walks around on the ground by default. If the player throws a [[Lasso]] at it, it begins to charge towards them. If the '''Honeyhog''' touches the player, it breaks the [[Lasso]] and sends the following message:\n{{Dialogue|&cThe &fHoneyhog &cbroke free from your lasso!}}\n\nReeling in the '''Honeyhog''' captures it.\n\n== Drops ==\n{{Mob Drops Table\n|level = 32\n|hunting_xp = 75\n|orbs = 35\n|coins = 10\n|{{Mob Drops Row\n |drop = Enchanted Honeycomb\n |count = 1-2\n |rarity = c\n |chance = 100%\n }}\n|{{Mob Drops Row\n |drop = Enchanted Fig Log\n |count = 2-4\n |rarity = c\n |chance = 100%\n }}\n|{{Mob Drops Row\n |drop = Honeyhog Shard\n |count = 1\n |rarity = c\n |chance = 100%\n }}\n}}\n{{CritterHunting|action=Catching|tool=[[Lasso]]|rarity=c}}\n\n== Bestiary ==\n{{Bestiary Entry|section=Moonglade Marsh|lore=Though still an adolescent, it will defend honey with its life.|bracket=Hunting 2|max_tier=10|reward=Hunting}}\n\n== History ==\n{{History table\n|ahn=\n{{History|2026/July 10|[[File:Honeyhog.png|26px]] Added '''Honeyhog'''.}}\n{{History|2026/Aug 25|Changed the {{Coins}} from {{Gold|11}} to {{Gold|10}} and {{Experience}} from {{Dark Aqua|36}} to {{Dark Aqua|35}}.}}\n|beta =\n{{History|0.27|[[File:Honeyhog.png|26px]] Added '''Honeyhog'''.}}\n{{History|0.27.2|Changed the {{Coins}} from {{Gold|11}} to {{Gold|10}} and {{Experience}} from {{Dark Aqua|36}} to {{Dark Aqua|35}}.}}\n}}\n\n== Navigation ==\n{{Nav/Critters}}"
+}

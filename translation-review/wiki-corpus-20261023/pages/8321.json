@@ -1,0 +1,15 @@
+{
+  "title": "Iron Forger",
+  "pageid": 8321,
+  "revision": 827790,
+  "timestamp": "2026-08-30T17:48:37Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Iron_Forger",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=827790",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Category:Pages with UIs",
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Character\n|shop = Yes\n|location = [[Gold Mine]]\n|location_page_description = Sells iron-related items.\n|x = -1.5 \n|y = 75\n|z = -307.5\n}}\n\nThe '''Iron Forger''' is an [[NPC]] located in the {{zone|Gold Mine}}. They sell iron-related items.\n\n__TOC__\n\n== Interface ==\n{{/UI}}\n\n== Dialogue ==\n{| class=\"wikitable\"\n!colspan=\"2\" | Condition\n!Dialogue\n|-\n| class=\"ct\" colspan=\"2\" | First Interaction\n|{{Dialogue|\n&e[NPC] Iron Forger&f: For my wares, you'll have to pay the iron price!\n&e[NPC] Iron Forger&f: &fSeriously though, I only accept &6Coins&f.\n}}\n|-\n| class=\"ct\" rowspan=\"3\" | {{zone|The Garden}}\n| class=\"ct\" | None\n|{{Dialogue|&e[NPC] &9Iron Forger&f: I've recently got into cooking, yesterday I made pasta carbonara, today I'm planning on baking a carrot cake.}}\n|-\n| class=\"ct\" | Completing\n|{{Dialogue|&e[NPC] &9Iron Forger&f: That's quite an excessive amount of carrots, but it'll do! Thanks, &6[username]&f!}}\n|-\n| class=\"ct\" | Denying\n|{{Dialogue|&e[NPC] &9Iron Forger&f: Will have to order some food today then.}}\n|}\n\n== Trivia ==\n* The {{NPCSprite|Mine Merchant}} has a separate stock, meaning it is technically possible to buy up to {{Item|Iron Ingot|amount=1280}}s per day.\n\n== History ==\n{{History table\n|beta=\n{{History|0.1|[[File:Iron Forger.png|26px]] Added '''Iron Forger'''.}}\n{{history|0.19.3|Gave the '''Iron Forger''' some enchanted armor to sell.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}\n[[Category:Mining]]"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Red Sand",
+  "pageid": 88832,
+  "revision": 844853,
+  "timestamp": "2026-09-21T15:36:05Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Red_Sand",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=844853",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Pages with UIs"
+  ],
+  "wikitext": "{{Vanilla}}\n{{Infobox/Block\n|type = Collection Block\n|rarity = c\n|tool = Shovel\n|skill_xp_given = +3 Mining\n|normal_drop = Red Sand (itself)\n|silk_touch_drop = Red Sand (itself)\n|smelting_touch_drop = {{Item|Glass}}\n|next_material = Enchanted Red Sand\n|auctionable = No\n|merchant = An\n|buy = 20\n|sell = 5\n|id = SAND:1\n|bazaar = Red Sand\n}}\n'''Red Sand''' is a {{Common}} block in the [[Mining]] Collection.\n\n== Collection ==\nCollecting '''Red Sand''' increases the player's Red Sand [[Collections|Collection]], which grants useful items and perks upon collecting certain amounts of Red Sand.\n\n{{/Collection UI}}\n{{CollectionTable|Red Sand}}\n\n== Obtaining ==\n'''Red Sand''' can be bought from {{NPCSprite|An}} for {{c|20}} per.\n\n=== Mining ===\n'''Red Sand''' can be mined on the {{Zone|Crimson Isle}} in:\n*{{Zone|Burning Desert}}\n*{{Zone|Barbarian Outpost}}\n*{{Zone|Dragontail}}\n*{{Zone|The Bastion}}\n\n==== Ticks Thresholds ====\n{{CSB|id=Tick Thresholds|name=Show/Hide Tick Thresholds}}\n{{CS|id=Tick Thresholds|mode=begin}}\n{{Tick Thresholds/Blocks/Red Sand}}\n{{CS|id=Tick Thresholds|mode=end}}\n\n== Usage ==\n=== Crafting ===\n{{Crafting Usage}}\n\n=== Brewing ingredient ===\n{| class=\"wikitable\"\n! Name\n! Requirements\n! Ingredients\n! [[Brewing]] recipe\n|-\n! [[Burning Potion]]\n| class=\"ct\" | {{CollectionLink|Sand VI}}\n| {{Ingredients list|Red Sand|Awkward Potion}}\n| {{Brewing Stand\n|Input = Red Sand\n|Output1 = Burning Potion\n|Output2 = Burning Potion\n|Output3 = Burning Potion\n}}\n|}\n\n== History ==\n{{History table\n|ahn=\n{{History|2022/February 22|link=none|Added '''Red Sand''' collection.}}\n{{History|2022/March 8|link=none|'''Red Sand''' can now be mined in certain Zones on {{Zone|Crimson Isle}}.}}\n|beta=\n{{History|0.1|[[File:Red Sand.png|26px]] Added '''Red Sand'''.}}\n{{History|2022/Feb 2|link=none|Made '''Red Sand''' {{Soulbound|Co-op}}.|Removed '''Red Sand''' from [[Desert Island]].|Removed '''Red Sand''' from [[Trades]] menu.}}\n{{History|0.13|Added '''Red Sand''' collection.|'''Red Sand''' is no longer {{Soulbound|Co-op}}.|'''Red Sand''' can now be mined in certain Zones on {{Zone|Crimson Isle}}.}}\n{{History|0.18.4|'''Red Sand''' is no longer excluded from the [[Mining Sack]].}}\n}}\n\n== Navigation ==\n{{Nav/Collection/Red Sand}}\n{{Nav/Collections}}\n{{Nav/Brewing Ingredients}}"
+}

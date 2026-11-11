@@ -1,0 +1,14 @@
+{
+  "title": "Maths Enjoyer",
+  "pageid": 89720,
+  "revision": 789622,
+  "timestamp": "2026-07-24T00:30:44Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Maths_Enjoyer",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=789622",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{hatnote|Not to be confused with the mob that spawns after killing a [[Primal Fear]] - the [[Math Teacher]].}}\n{{for|the NPC that explains the {{stat|cold}} mechanic|Cold Enjoyer}}\n{{Infobox/Character\n|location = [[Thaumaturgist]]\n|location_page_description = Explains part of the formula for [[Accessory Power]].\n|x=-72.5\n|y=70\n|z=-62.5\n}}\nThe '''Maths Enjoyer''' is an [[NPC]] located inside {{zone|Thaumaturgist}}. They tell players the formula for [[Accessory Power]].\n\n== Formula ==\nThe formula that they give is <math>\\text{Stats Multiplier}=29.97\\times\\left(\\ln\\left(0.0019\\times\\left(\\text{Accessory Power}\\right)+1\\right)\\right)^{1.2}</math>.\n\n== Dialogue == \n{| class=\"wikitable centertext\"\n!Condition\n!Dialogue\n|- class=\"article-row-main\"\n|None\n|style=\"text-align: left;\"|{{Dialogue|\n1=&e[NPC] Maths Enjoyer&f: Hey if you really want to know…\n&e[NPC] Maths Enjoyer&f: The formula to &6Accessory Power&f is…\n&e[NPC] Maths Enjoyer&f: &dStats Mult.&f = &b29.97&e(&aln(&b0.0019&6AP&a+1)&e)^&b1.2\n&e[NPC] Maths Enjoyer&f: Have fun with that!\n}}\n|}\n\n== Trivia ==\n*This NPC is the first Enjoyer NPC which explains a specific mechanic in detail, the second of them is {{NPCSprite|Cold Enjoyer}}.\n\n== History ==\n{{History table\n|ahn=\n{{History|2022/April 15|link=none|[[File:Villager Librarian.png|26px]] Added '''Mathematician'''.}}\n{{History|2026/Jan 30|Moved '''Maths Enjoyer''' from {{Coords|56.5|69|-39.5}} to {{coords|-72.5|70|-62.5}}, due to the redesign of the [[Hub Island]].}}\n|beta=\n{{History|2022/April 20|[[File:Villager Librarian.png|26px]] Added '''Maths Enjoyer''', with some changes.}}\n{{History|0.24.2|Moved '''Maths Enjoyer''' from {{Coords|56.5|69|-39.5}} to {{coords|-72.5|70|-62.5}}, due to the redesign of the [[Hub Island]].}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}"
+}

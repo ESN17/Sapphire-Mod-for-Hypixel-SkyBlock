@@ -62,7 +62,7 @@ class RiftFeedbackTest {
         }
         var orb=Component.literal("§5§lORB! §dPicked up §5+25 Motes§d!");
         var out=CommunityTranslationEngine.translate(orb,"chat",manager);
-        assertEquals("光球! 拾取了 +25 裂隙尘埃!",out.getString());StyledLoreTest.color(out,"裂隙尘埃",ChatFormatting.DARK_PURPLE);
+        assertEquals("光球！获得 +25 裂隙尘埃！",out.getString());StyledLoreTest.color(out,"裂隙尘埃",ChatFormatting.DARK_PURPLE);
         var lore=LoreTranslationEngine.translate(List.of(Component.literal("§7Cost: §d123 Motes")),manager,null,(s,o)->List.of(s),false);
         assertEquals("花费: 123 裂隙尘埃",lore.lines().getFirst().getString());
     }
@@ -73,7 +73,7 @@ class RiftFeedbackTest {
         for(var p:manager.item("ENIGMA_CLOAK").paragraphs())
             if(String.join(" ",p.source()).contains("Enigma"))assertTrue(p.translation().contains("恩尼格玛"));
         var out=CommunityTranslationEngine.translate(Component.literal("§cYou have already found that Enigma Soul!"),"chat",manager);
-        assertEquals("你已经找到过这个恩尼格玛之魂了!",out.getString());
+        assertEquals("你已经收集过这个恩尼格玛之魂了！",out.getString());
         assertEquals("穿戴恩尼格玛的斗篷",CommunityTranslationEngine.translate(Component.literal("Wear Enigma's Cloak"),"tooltip",manager).getString());
         // The ordinary English adjective is not the character's name.
         assertTrue(manager.item("POTION_SECRETS;1").paragraphs().stream().anyMatch(p->p.translation().contains("谜团")));

@@ -1,0 +1,16 @@
+{
+  "title": "Ziri",
+  "pageid": 93500,
+  "revision": 857539,
+  "timestamp": "2026-10-13T16:41:08Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Ziri",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=857539",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Category:Pages with UIs",
+    "Category:Crimson Isle",
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Character\n|location = [[Scarleton Bank]]\n|location_page_description = Allows the player to obtain lost [[Crimson Isle]] [[Abiphone]] contacts back.\n|x = -74.5\n|y = 107 \n|z = -793.5\n}}\n'''Ziri''' is an [[NPC]] located in the {{Zone|Scarleton Bank}}. They give lost [[Crimson Isle]] [[Abiphones#Contacts|{{Aqua|Abiphone Contacts}}]] back.\n\n== Purpose ==\n'''Ziri''' can give the [[player]] [[Abiphone]] contacts for the following [[NPC]]s if the player has removed them:\n* {{NPCSprite|Elle}}\n* {{NPCSprite|Dean}}\n* {{NPCSprite|Captain Ahone}}\n* {{NPCSprite|Igrupan}}\n* {{NPCSprite|Sirius}}\n* {{NPCSprite|Feast Baker Scott}}\n* {{NPCSprite|Feast Chef Ted}}\n\n== Interface ==\n{{/UI}}\n\n== Dialogue ==\n{| class=\"wikitable\"\n! Condition\n! Dialogue\n|-\n| class=\"ct\" | None\n|{{Dialogue|\n&e[NPC] Ziri&f: I know people!\n&e[NPC] Ziri&f: &fIf you ever removed an &3Abiphone Contact &fby accident and don't know how to reach them, maybe I can hook you up!\n}}\n|}\n\n== History ==\n{{History table\n|ahn=\n{{History|2025/Aug 28|Moved '''Ziri''' from {{Coords|-81.5|114|-792.5}} to {{Coords|-74.5|107|-793.5}}.}}\n|beta=\n{{History|0.16|[[File:Ziri.png|26px]] Added '''Ziri'''.}}\n{{History|0.23.4|Moved '''Ziri''' from {{Coords|-81.5|114|-792.5}} to {{Coords|-74.5|107|-793.5}}.}}\n{{History|2026/Oct 13|Fixed removed {{NPC|Feast Chef Ted}} and {{NPC|Feast Baker Scott}} contacts not being recoverable through their NPCs or Ziri.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}\n{{Nav/Crimson Isle}}"
+}

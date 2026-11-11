@@ -1,0 +1,14 @@
+{
+  "title": "Obo",
+  "pageid": 108687,
+  "revision": 814258,
+  "timestamp": "2026-08-11T19:37:31Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Obo",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=814258",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Character\n|location = [[Walk of Fame]]\n|location_page_description = Allows the player to enter the {{Zone|Cerebral Citadel}} after obtaining the {{Item|Shen's Ringalia}}.\n|x = -228.5\n|y = 21\n|z = -62.5\n}}\n'''Obo''' is an [[NPC]] in the {{Zone|Walk of Fame}} in the [[Rift Dimension]]. He guards the {{Zone|Cerebral Citadel}} and refuses entry without a {{Item|Shen's Ringalia}} in the inventory or equipped.\n\n== Dialogue ==\n{| class=\"wikitable\"\n!Condition\n!Dialogue\n|-\n| class=\"ct\" |First interaction without {{Item|Shen's Ringalia}}\n|{{Dialogue|\n&e[NPC] &cObo&f: Do you have &6Shen's Ringalia&f?\n&e[NPC] &cObo&f: Otherwise I cannot let you in.\n}}\n|-\n| class=\"ct\" |First interaction with {{Item|Shen's Ringalia}}\n|{{Dialogue|\n&e[NPC] &cObo&f: I see you have &6Shen's Ringalia&f.\n&e[NPC] &cObo&f: You can go in.\n}}\n|-\n| class=\"ct\" |Trying to enter the {{Zone|Cerebral Citadel}} without having {{Item|Shen's Ringalia}}\n|{{Dialogue|&e[NPC] &cObo&f: Where do you think you're going?}}\n|}\n\n== History ==\n{{History table\n|beta=\n{{History|0.21|[[File:Bob.png|26px]] Added '''Obo'''.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}"
+}

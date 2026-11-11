@@ -34,15 +34,13 @@ The tutorial retrieval corpus additionally retains Wiki article URLs, revisions,
 and CC BY-NC-SA 3.0 attribution. It is an extracted, searchable snapshot, not a
 live server dataset. Tutorial responses identify their Wiki sources.
 
-## SkyBlockZH corpus
+## English capture provenance and Sapphire translations
 
-Sapphire includes adapted translation data from [BingKKni/SkyBlockZH](https://github.com/BingKKni/SkyBlockZH), commit `b8565af0d1eb9a7e946b7cf6f69867d214c1ea75`, retrieved on 2026-10-22.
+Sapphire used the English game captures from the [SkyBlockZH snapshot of 2026-10-22](https://github.com/BingKKni/SkyBlockZH/tree/b8565af0d1eb9a7e946b7cf6f69867d214c1ea75). The older Sapphire corpus also adapted Chinese translations from that snapshot. The original import counts are recorded in `docs/skyzh-import-report.json`.
 
-The upstream project and the adapted corpus are licensed under **GPL-3.0-only**. The complete license is included in `src/main/resources/defaults/third-party/skyzh-LICENSE.txt` and installed beside the local dictionaries. This corpus is not covered by Sapphire's original CC0 dedication. The mod metadata identifies both licenses; redistributions containing this material must retain its notices and comply with GPL-3.0-only, including the applicable corresponding-source requirements.
+In the current development tree, Sapphire independently translated the 8,806 English records with DeepSeek assistance and rebuilt their bilingual style mappings. The new corpus is `defaults/translations/community-sapphire.json`. Source file and record identifiers, English formatting samples and numeric examples are retained for provenance and testing. The historical snapshot supplied the capture collection under GPL-3.0-only. Its license and attribution remain with the data. This notice describes the pinned snapshot; later upstream revisions have their own terms. Older released Sapphire artifacts retain their original notices.
 
-The adapted data is stored separately in `src/main/resources/defaults/translations/community-skyzh.json`. Every record retains its upstream file and record ID. `tools/import_skyzh.py` documents the adaptation: only records marked verified by upstream are considered. Numeric placeholders are converted to typed templates; explicitly linked UI continuation lines are joined into complete paragraphs. Unsupported placeholder types, unreviewed terminology, conflicting translations, and incompatible captured styles are excluded. Local terminology is normalized, and Sapphire's existing dictionaries take priority. No SkyBlockZH Java code was copied.
-
-“Verified by upstream” describes upstream metadata, not a claim that these lines were tested on Hypixel by Sapphire. Local regression tests validate text matching, captured styles, source immutability, and NPC/player-chat boundaries. Import counts and exclusions are recorded in `docs/skyzh-import-report.json`.
+Sapphire also retranslated overlapping entries in the supplementary Wiki corpus from its English sources. Those entries retain their Wiki revisions and license. The legacy archive filename required by older clients is generated from the rewritten Sapphire file at packaging time.
 
 Existing NEU metadata continues to carry its own license in `src/main/resources/defaults/NEU-LICENSE.txt`.
 

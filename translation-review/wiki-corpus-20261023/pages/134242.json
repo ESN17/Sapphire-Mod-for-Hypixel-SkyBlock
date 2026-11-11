@@ -1,0 +1,13 @@
+{
+  "title": "Shyworm",
+  "pageid": 134242,
+  "revision": 861376,
+  "timestamp": "2026-10-21T01:02:41Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Shyworm",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861376",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Critter\n|stats = {{InfoboxMobStats\n|health = 1\n}}\n|mob_level = 1\n|mob_type = \n*{{mt|Critter}}\n*{{mt|Timid}}\n*{{mt|Animal}}\n|spawn_location = [[Critter Safari]]\n|id = SHYWORM_1\n}}\nA '''Shyworm''' is a {{Common}} [[Critter]] that can be found in the {{Gold|Cavern}} biome of the {{Zone|Critter Safari}}.\n\n== Spawning ==\n{{Green|4-8}} '''Shyworms''' spawn in the {{Gold|Cavern}} biome of the {{Zone|Critter Safari}}\n\n== Behavior ==\n'''Shyworms''' tunnel through the ground in a square. Upon reaching a corner, they jump out of the ground before landing and continuing to dig. If a '''Shyworm''' sees a player or hears a {{Item|Critter Capsule}} hit a block, it flees. '''Shyworms''' that flee return after {{Green|15}} seconds. If a {{Item|Critter Capsule}} is thrown at a '''Shyworm''' and is caught, it dies and drops its loot.\n\n== Drops ==\n{{Mob Drops Table\n|level = 1\n|hunting_xp = 75\n|{{Mob Drops Row\n |drop = Shyworm Shard\n |count = 1\n |rarity = c\n |chance = 100%\n }}\n|{{Mob Drops Row\n |drop = Emerald Dye\n |count = 1\n |rarity = rng\n |chance = 0.0002%\n }}\n}}\n\n{{Safari Critter Loot Explanation|xp = 75}}\n\n== Game Message ==\n{| class=\"wikitable\"\n!Condition\n!Message\n|-\n|'''Shyworm''' Spots a Player\n|{{Dialogue|&7The &fShyworm &7saw a player and fled!}}\n|-\n|'''Shyworm''' Hears a [[Critter Capsule]] Hit a Block\n|{{Dialogue|&7The &fShyworm &7fled because it was startled!}}\n|-\n|'''Shyworm''' Surfaces\n|{{Dialogue|&7The &fShyworm &7surfaced nearby! Don't let it see you!}}\n|}\n\n== Bestiary ==\n{{Bestiary Entry|section=Critter Safari - Cavern Biome|lore=Gets scared of its own shadow.|bracket=Hunting 1|max_tier=10|reward=Hunting}}\n\n== History ==\n{{History table\n|ahn=\n{{History|2026/Jul 10|[[File:Shyworm.png|26px]] Added '''Shyworm'''.}}\n|beta =\n{{History|0.27|[[File:Shyworm.png|26px]] Added '''Shyworm'''.}}\n{{History|2026/Aug 24|Added {{mt|Timid}} [[Mob Type]].|Removed {{mt|Subterranean}} [[Mob Type]].}}\n}}\n\n== Navigation ==\n{{Nav/Critters}}"
+}

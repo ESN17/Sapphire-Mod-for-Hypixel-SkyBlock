@@ -1,0 +1,15 @@
+{
+  "title": "Pernimius Glyph",
+  "pageid": 111445,
+  "revision": 817514,
+  "timestamp": "2026-08-11T22:46:29Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Pernimius_Glyph",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=817514",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Pages with UIs",
+    "Template:Dialogue",
+    "Template:UI"
+  ],
+  "wikitext": "{{Infobox/Item\n|rarity=e\n|auctionable=no\n|salable=no\n|tradeable = n\n|rift_transferrable = no\n|id=GLYPH_PERNIMIUS\n}}\nThe '''Pernimius Glyph''' is an {{Epic}} Quest Item obtained in the [[Rift Dimension]].\n\n== Obtaining ==\nThe '''Pernimius Glyph''' can be obtained after starting {{NPCSprite|Sorcerer Okron}}'s quest and imbueing the {{Item|Fortis Glyph}}, then opening the chest at {{Coords|-77.5|71|-148.5}} by the water tower within the {{Zone|Dreadfarm}}. Once given to Okron, it can no longer be obtained.\n\n== Interface ==\n{{/UI}}\n\n== Usage ==\nThe '''Pernimius Glyph''' can be given to {{NPCSprite|Sorcerer Okron}}. When given, he will task the player with using the {{Item|Warding Diamathame}} to imbue a spell onto the house.\n\n== Game Messages ==\n{|class=\"wikitable\"\n! Condition\n! Message\n|-\n| {{Dialogue|\n&7You found &5Pernimius Glyph&7!\n&7&oYou should return it to Okron...\n}}\n| Finding the Glyph\n|-\n| {{Dialogue|&cYou already have one in your inventory!}}\n| Trying to claim another Glyph while already owning one\n|}\n\n== Gallery ==\n<gallery>\nPernimius Glyph (Render).png|The map image shown while holding the Pernimius Glyph\nPernimius Glyph (Particle Render).png|The non-imbued particles surrounding the house\nPernimius Glyph (Particle Render 2).png|The imbued particles surrounding the house\n</gallery>\n\n== History ==\n{{History table\n|ahn=\n{{history|2023/May 4|[[File:Pernimius Glyph.png|26px]] Added '''Pernimius Glyph'''.}}\n|beta=\n{{history|0.19|[[File:Pernimius Glyph.png|26px]] Added '''Pernimius Glyph'''.}}\n}}"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Ant",
+  "pageid": 133571,
+  "revision": 861278,
+  "timestamp": "2026-10-21T00:59:20Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Ant",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861278",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{For|the [[NPC]] selling Tier XII [[Foraging]] [[Minion]] Upgrade Stones|Ant (NPC)}}\n{{Infobox/Critter\n|stats = {{InfoboxMobStats\n|health = 2,500\n|damage = 250\n}}\n|mob_level = 32\n|mob_type =\n*{{mt|Pest}}\n*{{mt|Animal}}\n|spawn_location = [[Ant's Cave]]\n|id = ANT_32\n}}\n'''Ants''' are a [[Mob]] that can be found in {{Zone|Ant's Cave}}.\n\n== Spawning ==\n'''Ants''' spawn throughout {{Zone|Ant's Cave}}. Additionally, {{Green|2}}-{{Green|4}} '''Ants''' spawn when breaking an [[Ant Hill]].\n\n== Behavior ==\n'''Ants''' can only be damaged with a [[Vacuum]] due to being a {{mt|Pest}}. If a {{MobSprite|Queen Ant}} spawns with a group of '''Ants''', the {{MobSprite|Queen Ant}} becomes immune to damage until the '''Ants''' are killed.\n\n== Drops ==\n{{Mob Drops Table\n|level = 32\n|farming_xp = 48\n|orbs = 35\n|coins = 10\n|{{Mob Drops Row\n |drop = Helix Log\n |count = 2-4\n |rarity = c\n |chance = 100%\n }}\n|{{Mob Drops Row\n |drop = Enchanted Helix Log\n |count = 1\n |rarity = r\n |chance = 1%\n }}\n}}\n\n{{ShardHunting|charm=y|rarity=common}}\n\n== Game Message ==\n{| class=\"wikitable\"\n!Condition\n!Message\n|-\n|Destroying Ant Hill\n|{{Dialogue|&7&oYou destroyed an anthill, angering the ants inside!}}\n|-\n|Nearby [[Queen Ant]]\n|{{Dialogue|&7&oThe Ants are protecting their Queen! You'll have to kill them first!}}\n|}\n\n== Bestiary ==\n{{Bestiary Entry|section=Torrhus Canyon|lore=Ants are not meant to serve grasshoppers!|bracket=Hunting 1|max_tier=10|reward=Hunting}}\n\n== Tips ==\n* The {{AN|Spiky Quills}} perk from the {{Item|Hedgehog Pet|rarity=L}} doubles damage deal to '''Ants'''.\n\n== History ==\n{{History table\n|ahn=\n{{History|2026/Jul 10|[[File:Ant.png|26px]] Added '''Ant'''.}}\n{{History|2026/Aug 25|Changed the {{Coins}} from {{Gold|11}} to {{Gold|10}} and {{Experience}} from {{Dark Aqua|36}} to {{Dark Aqua|35}}.}}\n|beta =\n{{History|0.27|[[File:Ant.png|26px]] Added '''Ant'''.}}\n{{History|0.27.2|Changed the {{Coins}} from {{Gold|11}} to {{Gold|10}} and {{Experience}} from {{Dark Aqua|36}} to {{Dark Aqua|35}}.}}\n}}\n\n== Navigation ==\n{{Nav/Mobs}}"
+}

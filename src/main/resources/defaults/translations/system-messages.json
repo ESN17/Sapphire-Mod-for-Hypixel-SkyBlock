@@ -34448,6 +34448,269 @@
       "styleMappings": {
         "Magic Find": "稀有物品概率加成"
       }
+    },
+    {
+      "source": "Sending to server {text}...",
+      "translation": "正在发送至服务器 {text}...",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {}
+    },
+    {
+      "source": "In theory, you are constantly teleporting to yourself.",
+      "translation": "理论上，你其实一直在把自己传送走。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {}
+    },
+    {
+      "source": "You equipped {catalogItem}!",
+      "translation": "已装备 {catalogItem}!",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "You equipped": "已装备"
+      }
+    },
+    {
+      "source": "> Your {catalogItem} has absorbed Thunder Sparks!",
+      "translation": "> 你的 {catalogItem} 吸收了雷电火花!",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "Your": "你的",
+        "has absorbed Thunder Sparks!": "吸收了雷电火花!"
+      }
+    },
+    {
+      "source": "LOOT SHARE You received {count} {catalogItem} for assisting {player}!",
+      "translation": "战利品共享 你协助 {player} 获得了 {count} 个 {catalogItem}!",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "LOOT SHARE": "战利品共享"
+      }
+    },
+    {
+      "source": "   {count}x {catalogItem}!",
+      "translation": "   {count}x {catalogItem}!",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {}
+    },
+    {
+      "source": "A {mob} is spawning nearby!",
+      "translation": "附近正在生成 {mob}!",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "is spawning nearby!": "正在生成"
+      }
+    },
+    {
+      "source": "The {catalogItem} escapes your hook.",
+      "translation": "{catalogItem} 从你的鱼钩上逃走了。",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {}
+    },
+    {
+      "source": "BESTIARY {mob} {roman} ➡ {text}",
+      "translation": "生物图鉴 {mob} {roman} ➡ {text}",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "BESTIARY": "生物图鉴"
+      }
+    },
+    {
+      "source": "RARE REWARD! {rankedPlayer} found a {catalogItem} in their Wood Chest!",
+      "translation": "稀有奖励！{rankedPlayer} 在木宝箱中找到了 {catalogItem}！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "RARE REWARD!": "稀有奖励！"
+      }
+    },
+    {
+      "source": "RARE REWARD! {rankedPlayer} found a {catalogItem} in their Gold Chest!",
+      "translation": "稀有奖励！{rankedPlayer} 在金宝箱中找到了 {catalogItem}！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "RARE REWARD!": "稀有奖励！"
+      }
+    },
+    {
+      "source": "RARE REWARD! {rankedPlayer} found a {catalogItem} in their Diamond Chest!",
+      "translation": "稀有奖励！{rankedPlayer} 在钻石宝箱中找到了 {catalogItem}！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "RARE REWARD!": "稀有奖励！"
+      }
+    },
+    {
+      "source": "RARE REWARD! {rankedPlayer} found a {catalogItem} in their Emerald Chest!",
+      "translation": "稀有奖励！{rankedPlayer} 在绿宝石宝箱中找到了 {catalogItem}！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "RARE REWARD!": "稀有奖励！"
+      }
+    },
+    {
+      "source": "RARE REWARD! {rankedPlayer} found a {catalogItem} in their Obsidian Chest!",
+      "translation": "稀有奖励！{rankedPlayer} 在黑曜石宝箱中找到了 {catalogItem}！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "RARE REWARD!": "稀有奖励！"
+      }
+    },
+    {
+      "source": "RARE REWARD! {rankedPlayer} found a {catalogItem} in their Bedrock Chest!",
+      "translation": "稀有奖励！{rankedPlayer} 在基岩宝箱中找到了 {catalogItem}！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "RARE REWARD!": "稀有奖励！"
+      }
+    },
+    {
+      "source": "GREAT REWARD! {rankedPlayer} found a {catalogItem} in their Wood Chest!",
+      "translation": "丰厚奖励！{rankedPlayer} 在木宝箱中找到了 {catalogItem}！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "GREAT REWARD!": "丰厚奖励！"
+      }
+    },
+    {
+      "source": "GREAT REWARD! {rankedPlayer} found a {catalogItem} in their Gold Chest!",
+      "translation": "丰厚奖励！{rankedPlayer} 在金宝箱中找到了 {catalogItem}！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "GREAT REWARD!": "丰厚奖励！"
+      }
+    },
+    {
+      "source": "GREAT REWARD! {rankedPlayer} found a {catalogItem} in their Diamond Chest!",
+      "translation": "丰厚奖励！{rankedPlayer} 在钻石宝箱中找到了 {catalogItem}！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "GREAT REWARD!": "丰厚奖励！"
+      }
+    },
+    {
+      "source": "GREAT REWARD! {rankedPlayer} found a {catalogItem} in their Emerald Chest!",
+      "translation": "丰厚奖励！{rankedPlayer} 在绿宝石宝箱中找到了 {catalogItem}！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "GREAT REWARD!": "丰厚奖励！"
+      }
+    },
+    {
+      "source": "GREAT REWARD! {rankedPlayer} found a {catalogItem} in their Obsidian Chest!",
+      "translation": "丰厚奖励！{rankedPlayer} 在黑曜石宝箱中找到了 {catalogItem}！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "GREAT REWARD!": "丰厚奖励！"
+      }
+    },
+    {
+      "source": "GREAT REWARD! {rankedPlayer} found a {catalogItem} in their Bedrock Chest!",
+      "translation": "丰厚奖励！{rankedPlayer} 在基岩宝箱中找到了 {catalogItem}！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "GREAT REWARD!": "丰厚奖励！"
+      }
+    },
+    {
+      "source": "GOOD REWARD! {rankedPlayer} found a {catalogItem} in their Wood Chest!",
+      "translation": "不错奖励！{rankedPlayer} 在木宝箱中找到了 {catalogItem}！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "GOOD REWARD!": "不错奖励！"
+      }
+    },
+    {
+      "source": "GOOD REWARD! {rankedPlayer} found a {catalogItem} in their Gold Chest!",
+      "translation": "不错奖励！{rankedPlayer} 在金宝箱中找到了 {catalogItem}！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "GOOD REWARD!": "不错奖励！"
+      }
+    },
+    {
+      "source": "GOOD REWARD! {rankedPlayer} found a {catalogItem} in their Diamond Chest!",
+      "translation": "不错奖励！{rankedPlayer} 在钻石宝箱中找到了 {catalogItem}！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "GOOD REWARD!": "不错奖励！"
+      }
+    },
+    {
+      "source": "GOOD REWARD! {rankedPlayer} found a {catalogItem} in their Emerald Chest!",
+      "translation": "不错奖励！{rankedPlayer} 在绿宝石宝箱中找到了 {catalogItem}！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "GOOD REWARD!": "不错奖励！"
+      }
+    },
+    {
+      "source": "GOOD REWARD! {rankedPlayer} found a {catalogItem} in their Obsidian Chest!",
+      "translation": "不错奖励！{rankedPlayer} 在黑曜石宝箱中找到了 {catalogItem}！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "GOOD REWARD!": "不错奖励！"
+      }
+    },
+    {
+      "source": "GOOD REWARD! {rankedPlayer} found a {catalogItem} in their Bedrock Chest!",
+      "translation": "不错奖励！{rankedPlayer} 在基岩宝箱中找到了 {catalogItem}！",
+      "scopes": [
+        "chat"
+      ],
+      "styleMappings": {
+        "GOOD REWARD!": "不错奖励！"
+      }
     }
   ]
 }

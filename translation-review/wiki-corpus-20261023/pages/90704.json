@@ -1,0 +1,14 @@
+{
+  "title": "Gone with the Wind",
+  "pageid": 90704,
+  "revision": 855275,
+  "timestamp": "2026-10-09T19:09:52Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Gone_with_the_Wind",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=855275",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Events",
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Historical article|update=0.27.2}}\n{{Infobox/Generic\n|image=Mining Speed Stat Icon.png\n|caption=Gone with the Wind grants Mining Speed if facing the correct direction.\n}}\n'''Gone with the Wind''' was a passive event that could happen in the {{zone|Dwarven Mines}} and the {{zone|Crystal Hollows}}. \n\n== Mechanics ==\nThe '''Gone with the Wind''' event lasted for 15 minutes. Looking in the right direction of the 'wind' rewards the player with a {{stat|mining speed}} bonus.\n\n{| class=\"wikitable\"\n|+ Bonus\n!Icon\n!{{stat|mining speed}}\n|-\n|{{dialogue|&f≈}}\n| class=\"ct\" | {{stat|mining speed|0|icononly=yes}}\n|-\n|{{dialogue|&a≈}}\n| class=\"ct\" | {{stat|mining speed|300|icononly=yes}}\n|-\n|{{dialogue|&2≈}}\n| class=\"ct\" | {{stat|mining speed|600|icononly=yes}}\n|}\n<!--\n== Chance ==\nThe '''Gone with the Wind''' event has an {{Green|x%}} chance to occur.-->\n\n== Game Message ==\n{| class=\"wikitable\"\n! colspan=\"2\" | Condition\n!Message\n|-\n| class=\"ct\" rowspan=\"2\" | Event announced\n| class=\"ct\" | {{zone|Crystal Hollows}}\n|{{Dialogue|\n&9⚑&e The &9Gone with the Wind&e event starts in &a20 &eseconds!\n&eThis is a passive event! &bIt's happening everywhere in the Crystal Hollows!\n}}\n|-\n| class=\"ct\" | {{zone|Dwarven Mines}}\n|{{Dialogue|\n&9⚑&e The &9Gone with the Wind&e event starts in &a20 &eseconds!\n&eThis is a passive event! &bIt's happening everywhere in the Dwarven Mines!\n}}\n|-\n|  colspan=\"2\" class=\"ct\" | Event starting\n|{{Dialogue|\n&a{{Dashline}}\n$[c]&9&lGONE WITH THE WIND STARTED!\n$[c]&7Passive Active Event\n\n$[c]&fThe cavern is windy today! Mining in the direction of the wind\n$[c]&fwill give &6+600⸕ Mining Speed&f.\n&a{{Dashline}}\n}}\n|-\n|  colspan=\"2\" class=\"ct\" | Event ending\n|{{Dialogue|\n&a{{Dashline}}\n$[c]&9&lGONE WITH THE WIND ENDED!\n$[c]&7Passive Active Event\n\n$[c]&fThe wind has died down leading to normal mining speeds.\n&a{{Dashline}}\n}}\n|}\n\n== Trivia ==\n* The name of this event is a reference to the popular novel [[w:Gone With the Wind (novel)|Gone With The Wind]] by Margaret Mitchell.\n\n== History ==\n{{History table\n|ahn=\n{{history|ahn-0.12-r1|Added '''Gone with the Wind'''.}}\n{{history|2026/Aug 25|Removed '''Gone with the Wind'''.}}\n|beta=\n{{history|0.12|Added '''Gone with the Wind'''.}}\n{{history|0.27.2|Removed '''Gone with the Wind'''.}}\n}}\n\n== Navigation ==\n{{Nav/Dwarven Mines/Events}}\n[[Category:Events]]"
+}

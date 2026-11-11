@@ -1,0 +1,13 @@
+{
+  "title": "Pest Repellent MAX",
+  "pageid": 101421,
+  "revision": 833591,
+  "timestamp": "2026-09-06T21:57:23Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Pest_Repellent_MAX",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=833591",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Item\n|rarity=r\n|id=PEST_REPELLENT_MAX\n|lower_tier=Pest Repellent\n}}\n'''Pest Repellent MAX''' is a {{Rare}} item.\n\n== Obtaining ==\n'''Pest Repellent MAX''' can be purchased from [[SkyMart]] for {{Item|Pest Repellent|amount=1}} and {{Copper|25}}.\n\n== Usage ==\n'''Pest Repellent MAX''' can be consumed to reduce [[Pest]] spawn rates by {{Green|4x}} for {{Green|60}} minutes. It does not reduce {{stat|Bonus Pest Chance}}.\n\nUpon consuming, it gives the player the Pest Repellent II potion effect.\n\n== Game Message ==\n{| class=\"wikitable\"\n!Condition\n!Message\n|-\n| class=\"ct\" |Consuming\n|{{Dialogue|&a&lYUM! &l&6Pests &7will now spawn &a4x &7less while you break crops for the next &a60m&7!}} \n|-\n| class=\"ct\" |Attempting to consume when Pest Repellent II is already active\n|{{Dialogue|&cYou already have this effect active! Try again in #m #s!}} \n|}\n\n== Tips ==\n* Since you cannot consume another Pest Repellent while one is already active, it is recommended to consume one at the beginning of each hour if you plan to participate in Jacob's Contest. If you consume one right before or during a contest, you will likely have to stop for a few seconds in the middle of the next contest to consume another one when it expires.\n**You can consume a Pest Repellent MAX while a regular {{Item|Pest Repellent}} is already active and the timer will reset to 60 minutes. However, if a Pest Repellent MAX is active, you cannot consume either one again until it expires.\n**You can drink a {{Item|Milk Bucket}} to clear the effect early and be able to consume another one, however this will also clear all other active potion effects, including the {{Item|God Potion}}.\n\n== History ==\n{{History table\n|ahn=\n{{history|2023/Nov 9|link=none|[[File:Pest Repellent.png|26px]] Added '''Pest Spray Max'''.|Added functionality to '''Pest Spray Max'''.}}\n{{history|2023/Nov 11|link=none|[[File:Pest Repellent MAX.png|26px]] Changed '''Pest Repellent MAX''' texture.|Renamed to '''Pest Repellent MAX'''.|Changed cost from {{c|200,000}} to {{copper|40}}.}}\n|beta=\n{{History|0.19.7|[[File:Pest Repellent MAX.png|26px]] Added '''Pest Repellent MAX'''.}}\n{{History|0.19.9|Fixed a typo in the potion effect's name (\"Repellant\" instead of \"Repellent\").}}\n{{History|0.20.7|Changed cost from {{Copper|40}} to {{Item|Pest Repellent|amount=1}} and {{Copper|25}}.}}\n}}"
+}

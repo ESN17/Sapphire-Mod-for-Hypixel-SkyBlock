@@ -1,0 +1,13 @@
+{
+  "title": "Lever",
+  "pageid": 76364,
+  "revision": 821601,
+  "timestamp": "2026-08-19T21:59:49Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Lever",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=821601",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Vanilla}}\n{{Infobox/Item\n|id = LEVER\n|rarity = common\n|sell = 1\n}}\nA '''Lever''' is a {{Common}} [[Vanilla Objects/Redstone-Related Blocks|Redstone-related]] block that can be used on the player's {{Zone|Private Island}}.\n\n== Obtaining ==\n=== Crafting ===\n{{Crafting Recipe Table\n|{{Crafting Recipe Row\n |A2 = |B2 = Stick       |C2 = \n |A3 = |B3 = Cobblestone |C3 = \n |Output = Lever\n}}\n}}\n\n=== Shop Purchase ===\nA '''Lever''' can be purchased from the {{NPCSprite|Mad Redstone Engineer}} for {{Coins|2}}.\n\n== Usage ==\n=== Private Island ===\n'''Levers''' can be placed as a block on the player's {{Zone|Private Island}} or plots in {{Zone|The Garden}}. When placed on a {{Zone|Private Island}} and activated, it will activate adjacent [[Vanilla Objects/Redstone-Related Blocks|Redstone-related]] blocks, but there are [[Private Island#Redstone Restrictions|restrictions]] on how often this can be done. Redstone is disabled on {{Zone|The Garden}}.\n\n== Game Messages ==\n{|class=\"wikitable\"\n! Message\n! Condition\n|-\n| {{Dialogue|&cPlease note that redstone is currently disabled on this island!}}\n| Placing a Lever in {{Zone|The Garden}}\n|}\n\n== History ==\n{{History table\n|beta=\n{{History|0.1|[[File:Lever.png|26px]] Added '''Lever'''.}}\n}}"
+}

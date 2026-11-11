@@ -1,0 +1,16 @@
+{
+  "title": "Kay",
+  "pageid": 98632,
+  "revision": 813864,
+  "timestamp": "2026-08-11T19:28:20Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Kay",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=813864",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Category:Pages with UIs",
+    "Template:Dialogue",
+    "Template:UI"
+  ],
+  "wikitext": "{{distinguish|Researcher Kay}}\n{{Infobox/Character\n|shop = Yes\n|location = [[Lagoon Hut]]\n|location_page_description = Gives out the {{Item|Very Scientific Paper}} or {{Motes}} for {{Item|Lil' Pad}}s.\n|x = -191 \n|y = 68 \n|z = 58.5\n}}\n'''Kay''' is an [[NPC]] located in the {{zone|Lagoon Hut}}. She gives the {{Item|Very Scientific Paper}}, which given be given to {{NPCSprite|Dr. Edwin}}, as well as lets the player sell {{Item|Lil' Pad}}s or be launched to the shore.\n\n== Interface ==\n{{/UI}}\n\n== Dialogue ==\n{| class=\"wikitable\"\n!Condition\n!Dialogue\n|-\n| class=\"ct\" |First Interaction\n|{{Dialogue|\n&e[NPC] Kay&f: Who's Dr. Hibble? Never heard of them.\n&eSelect an option: &a[He wears a gaslight on his head.]\n}}\n|-\n| class=\"ct\" |Selecting {{Rmt|&a[He wears a gaslight on his head.]}}\n|{{Dialogue|\n&e[NPC] Kay&f: Oh you mean Dr. Edwin?\n&e[NPC] Kay&f: Yeah! I finished the research paper!\n}}\n|-\n| class=\"ct\" |None\n|{{Dialogue|\n&e[NPC] Kay&f: Wow, you made it through the lagoon!\n&e[NPC] Kay&f: We've been stuck here forever!\n}}\n|-\n| class=\"ct\" | Being tossed to the shore\n| {{Dialogue|&e[NPC] Kay&f: Yeet!}}\n|-\n| class=\"ct\" | Being sent back from the {{Zone|Leeches Lair}}\n| {{Dialogue|&e[NPC] Kay&f: Hey there.}}\n|}\n\n== Trivia ==\n*'''Kay''' appears to be another version of {{NPCSprite|Researcher Kay}} from the {{Zone|Lotus Atoll}}, due to the similarities in their names, dialogue, and skins.\n\n== History ==\n{{History table\n|ahn=\n{{history|2023/May 4|[[File:Kay.png|26px]] Added '''Kay'''.}}\n|beta=\n{{History|0.19|[[File:Kay.png|26px]] Added '''Kay'''.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}"
+}

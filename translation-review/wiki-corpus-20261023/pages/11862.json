@@ -1,0 +1,15 @@
+{
+  "title": "Shifty",
+  "pageid": 11862,
+  "revision": 830486,
+  "timestamp": "2026-09-03T01:30:15Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Shifty",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=830486",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Category:Pages with UIs",
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Character\n|shop = Yes\n|abiphone = Yes\n|location = [[Wilderness]]\n|location_page_description = Sells various [[Brews]].\n|x= 114.5\n|y= 73\n|z= 175\n}}\n\n'''Shifty''' is an [[NPC]] located in the tavern in the {{zone|Wilderness}}. They sell various [[Brews]].\n\n__TOC__\n\n== Interface ==\n{{/UI}}\n\n== Dialogue ==\n{| class=\"wikitable\"\n! colspan=\"2\" | Condition\n! Dialogue\n|-\n|-\n| class=\"ct\" rowspan=\"3\" | [[Abiphones#Contacts|{{Aqua|Abiphone Contact}}]]\n| class=\"ct\" | None\n| {{Dialogue|\n&e[NPC] Shifty&f: &b✆ &fThere ain't many customers around here, so I spend all my time playing Snake on my Abiphone.\n&e[NPC] Shifty&f: &b✆ &fThe controls are really bad, right?\n&e[NPC] Shifty&f: &b✆ &fAnyway, I get bored by this job.\n&e[NPC] Shifty&f: &b✆ &fNot just because of the lack of action, but there's nothing to be proud about the drinks I serve.\n&e[NPC] Shifty&f: &b✆ &fI'm a fan of fancy drinks!\n&e[NPC] Shifty&f: &b✆ &fAnd yet Lucius makes me sell addictive garbage!\n&e[NPC] Shifty&f: &b✆ &fLook... I'll add you as a contact if you can bring me some good drinks, such as a &9Scarleton Premium&f and a &9Red Thornleaf Tea&f.\n&a&l[HAND OVER FANCY DRINKS]\n}}\n|-\n| class=\"ct\" | Without {{Item|Red Thornleaf Tea}} and {{Item|Scarleton Premium}}\n| {{Dialogue|&e[NPC] Shifty&f: &b✆ &fYou don't have both beverages in your inventory!}}\n|-\n| class=\"ct\" | Giving {{Item|Red Thornleaf Tea}} and {{Item|Scarleton Premium}}\n| {{Dialogue|\n&e[NPC] Shifty&f: &b✆ &fSadly, Lucius heard of our little deal and asked me to hold the drinks for him.\n&e[NPC] Shifty&f: &b✆ &fHere, take my contact anyway.\n&e[NPC] Shifty&f: &b✆ &f...\n&e[NPC] Shifty&f: &b✆ &f... ...\n&e[NPC] Shifty&f: &b✆ &fThis place is terrible.\n}}\n|-\n| rowspan=\"3\" class=\"ct\" |{{Zone|The Garden}}\n| class=\"ct\" | None\n| {{Dialogue|&e[NPC] &9Shifty&f: It seems like my brew selection is rather small...I've recently heard that melon juice is really sought after so maybe it can enhance my drinks' flavors!}}\n|-\n| class=\"ct\" | Completing\n| {{Dialogue|&e[NPC] &9Shifty&f: Well done! I'm sure that even Sirius will enjoy my revolutionary melon refreshments.}}\n|-\n| class=\"ct\" | Denying\n| {{Dialogue|&e[NPC] &9Shifty&f: What a pity! Enjoy the Bartender's terrible and unrefreshing mixins.}}\n|}\n\n== Trivia ==\n*Unlike most NPCs, '''Shifty''' stands on the verge of 2 blocks, rather than in the middle of one.\n== History ==\n{{History table\n|beta=\n{{History|2019/December 3|[[File:Shifty.png|26px]] Added '''Shifty'''.}}\n{{History|0.16|Added [[Abiphones#Contacts|{{Aqua|Abiphone Contact}}]].}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}\n[[Category:Potions]]\n[[Category:Brews]]"
+}

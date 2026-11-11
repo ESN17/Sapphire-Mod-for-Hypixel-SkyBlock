@@ -1,0 +1,13 @@
+{
+  "title": "Stag Beetle",
+  "pageid": 137657,
+  "revision": 861872,
+  "timestamp": "2026-10-21T01:18:07Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Stag_Beetle",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861872",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Critter\n|stats = {{InfoboxMobStats\n|health = 5,000\n|damage = 100\n}}\n|spawn_location = [[Moonglade Marsh]]\n|mob_level = 29\n|mob_type =\n*{{Mt|Critter}}\n*{{mt|Arthropod}}\n|id = STAG_BEETLE_29\n}}\nA '''Stag Beetle''' is a {{Mt|Critter}} that can be spawned by applying Honey to [[Mangrove Tree]]s on the {{Zone|Moonglade Marsh}}.\n\n== Spawning ==\nA '''Stag Beetle''' has a {{Chance|50%|1|2}} a {{Item|Fun-Sized Pot of Honeycomb|text=Fun-Sized}}, {{Item|Family-Sized Pot of Honeycomb|text=Family-Sized}}, {{Item|Jumbo Pot of Honeycomb|text=Jumbo}}, or {{Item|Behemoth Pot of Honeycomb}} to a [[Mangrove Tree]] with a [[Tree Protection Order]].\n\n== Behavior ==\nA '''Stag Beetle''' walks around on the ground by default. If the player throws a [[Lasso]] at it, it begins to fly towards them. If the '''Stag Beetle''' touches the player, it breaks the [[Lasso]] and sends the following message:\n{{Dialogue|&cThe &fStag Beetle &cbroke free from your lasso!}}\n\nReeling in the '''Stag Beetle''' captures it.\n\n== Drops ==\n{{Mob Drops Table\n|level = 29\n|hunting_xp = 75\n|orbs = 31\n|coins = 9\n|{{Mob Drops Row\n |drop = Enchanted Honeycomb\n |count = 1-2\n |rarity = c\n |chance = 100%\n }}\n|{{Mob Drops Row\n |drop = Enchanted Mangrove Log\n |count = 2-4\n |rarity = c\n |chance = 100%\n }}\n|{{Mob Drops Row\n |drop = Stag Beetle Shard\n |count = 1\n |rarity = c\n |chance = 100%\n }}\n}}\n{{CritterHunting|action=Catching|tool=[[Lasso]]|rarity=c}}\n\n== Bestiary ==\n{{Bestiary Entry|section=Moonglade Marsh|lore=Reaches a new level of intimidating once you realize it can fly.|bracket=Hunting 2|max_tier=10|reward=Hunting}}\n\n== History ==\n{{History table\n|ahn=\n{{History|2026/July 10|[[File:Stag Beetle.png|26px]] Added '''Stag Beetle'''.}}\n{{History|2026/Aug 25|Changed the {{Coins}} from {{Gold|10}} to {{Gold|9}} and {{Experience}} from {{Dark Aqua|32}} to {{Dark Aqua|31}}.}}\n|beta =\n{{History|0.27|[[File:Stag Beetle.png|26px]] Added '''Stag Beetle'''.}}\n{{History|0.27.2|Changed the {{Coins}} from {{Gold|10}} to {{Gold|9}} and {{Experience}} from {{Dark Aqua|32}} to {{Dark Aqua|31}}.}}\n}}\n\n== Navigation ==\n{{Nav/Critters}}"
+}

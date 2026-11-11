@@ -1,0 +1,15 @@
+{
+  "title": "Enchantment Table/UI",
+  "pageid": 83272,
+  "revision": 677180,
+  "timestamp": "2026-05-07T01:13:56Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Enchantment_Table/UI",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=677180",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:UI Subpages",
+    "Template:UI",
+    "Template:UIPage"
+  ],
+  "wikitext": "<div class=\"sbw-ui-tabber\">\n{{UI|Enchant Item\n|3, 2=Empty, none;none, none\n|3, 6=Gray Dye, none;none, &cEnchant Item, &7Place an item in the open slot/&7to enchant it!\n|4, 2=Enchantment Table, none;none, &aEnchant Item, &7Add and remove enchantments from/&7the item in the slot above!\n|6, 4=Bookshelf, none;none, &dBookshelf Power, &7Stronger enchantments require/&7more Bookshelf Power\\, which can/&7be increased by placing/&7bookshelves nearby.//&7Bookshelf Power: &d0\n|6, 6=Book, enchant-guide, &aEnchantments Guide, &7View a complete list of all/&7enchantments and their/&7requirements.//&eClick to view!\n|6, 7=Hopper, none;none, &aSort, &7Change how Enchantments are/&7sorted.//&b▶ Default/&7Missing Enchantments First/&7A to Z/&7Z to A//&eClick to switch sort!\n|id=default\n|arrow=none\n}}<!--\n ~~ ENCHANTING GUIDE ~~\n-->{{UIPage|Enchantments Guide/UI|hide=true|return_id=default}}<!--\n\n--></div><!--\n\n--><includeonly>[[Category:Pages with UIs]]</includeonly><!--\n--><noinclude>[[Category:UI Subpages]]</noinclude>"
+}

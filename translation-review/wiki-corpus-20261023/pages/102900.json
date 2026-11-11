@@ -1,0 +1,14 @@
+{
+  "title": "Scout Plinius",
+  "pageid": 102900,
+  "revision": 790524,
+  "timestamp": "2026-07-24T01:01:45Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Scout_Plinius",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=790524",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Character\n|location = [[Dwarven Base Camp]]\n|location_page_description = Talks to the player about the {{Zone|Glacite Tunnels}} and {{Stat|cold}}.\n|x = 10\n|y = 121\n|z = 245\n}}\n'''Scout Plinius''' is an [[NPC]] within the {{zone|Dwarven Base Camp}}.\n\n== Dialogue ==\n{| class=\"wikitable\"\n!Condition\n!Dialogue\n|-\n|Interacting\n|{{Dialogue|\n&e[NPC] &6Scout Plinius&f: Are you &8<username>&f?\n&eSelect an option: &a[Yes]\n}}\n|-\n|Selecting {{green|[Yes]}}\n|{{Dialogue|\n&e[NPC] &6Scout Plinius&f: Nice to meet you. I'm &6Scout Plinius&f, a Dwarven Scout.\n&e[NPC] &6Scout Plinius&f: Are you about to head into the &bGlacite Tunnels&f?\n&eSelect an option: &a[Yes]\n}}\n|-\n|Selecting {{green|[Yes]}}\n|{{Dialogue|\n&e[NPC] &6Scout Plinius&f: Well, try to keep track of where you are!\n&e[NPC] &6Scout Plinius&f: If you ever get a bit too &bCold&f you can always warm yourself up over at the &6Campfire&f!\n&e[NPC] &6Scout Plinius&f: Try to watch your step, word around is that there are a lot of old &bGlacite Mineshafts&f hidden around this place.\n}}\n|}\n== History ==\n{{History table\n|ahn=\n{{History|2024/Mar 21|[[File:Plinius.png|26px]] Added '''Plinius'''.}}\n|beta=\n{{History|0.20|[[File:Plinius.png|26px]] Added '''Plinius'''.}}\n{{History|0.20.1|Renamed '''Plinius''' to '''Scout Plinius'''.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}"
+}

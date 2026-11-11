@@ -1,0 +1,15 @@
+{
+  "title": "Security Clerk",
+  "pageid": 126018,
+  "revision": 823085,
+  "timestamp": "2026-08-24T05:31:32Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Security_Clerk",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=823085",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Template:Dialogue",
+    "Template:UI"
+  ],
+  "wikitext": "{{Infobox/Character\n|quests = {{Quest|Safety First}}\n|location = [[Security Hall]] \n|location_page_description = Gives the player the {{Item|Safety Badge}} after completing {{NPCSprite|Brigette}}'s account security quest.\n}}\nThe '''Security Clerk''' is an [[NPC]] who moves around the {{zone|Security Hall}}.\n\n== Interface ==\n{{/UI}}\n\n== Dialogue ==\n{| class=\"wikitable\"\n! Condition !! Dialogue\n|-\n| class=\"ct\" | Interacting before finishing {{NPCSprite|Brigette}}'s quiz\n| {{Dialogue|\n&e[NPC] Security Clerk&f: The &bSecurity Hall &fis only for authorized personnel.}}\n|-\n| class=\"ct\" | Interacting after finishing {{NPCSprite|Brigette}}'s quiz\n| {{Dialogue|\n&e[NPC] Security Clerk&f: Your Safety Badge is ready! Your information has been digitally registered.\n&e[NPC] Security Clerk&f: Thank you for joining the Safety Squad.\n&e[NPC] Security Clerk&f: You're now a fully fledged Safety Advocate!\n&e[NPC] Security Clerk&f: Hopefully there won't be more incidents happening around.\n&e[NPC] Security Clerk&f: Oh, &dElizabeth &fwants to have a word with you.\n}}\n|-\n| class=\"ct\" | After claiming the {{Item|Safety Badge}}\n| {{Dialogue|\n&e[NPC] Security Clerk&f: Oh, &dElizabeth &fwants to have a word with you.\n\n  &6&lNEW OBJECTIVE\n  &fTravel to the &bCommunity Center\n}}\n|-\n| class=\"ct\" | Subsequent interactions\n| {{Dialogue|&e[NPC] Security Clerk&f: Thank you for joining the Safety Squad.}}\n|}\n\n== History ==\n{{History table\n|ahn=\n{{History|2026/Jun 10|[[File:Security Clerk.png|26px]] Added '''Security Clerk'''.}}\n|beta=\n{{History|2026/July 8|[[File:Security Clerk.png|26px]] Added '''Security Clerk'''.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}"
+}

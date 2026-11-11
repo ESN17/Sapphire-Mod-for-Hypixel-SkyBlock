@@ -1,0 +1,14 @@
+{
+  "title": "Lazarus",
+  "pageid": 98625,
+  "revision": 813926,
+  "timestamp": "2026-08-11T19:29:37Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Lazarus",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=813926",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Character\n|shop = Yes\n|location = [[Shifted Tavern]]\n|location_page_description = Sells a tip for who the {{Item|Stability Elixir}} supplier is.\n|x = -127.62\n|y = 79.375 \n|z = 166.312\n}}\n'''Lazarus''' is an [[NPC]] located in the {{zone|Shifted Tavern}}.\n\n== Dialogue ==\n{| class=\"wikitable\"\n!Condition\n!Dialogue\n|-\n| class=\"ct\" |Buying [[Chester]]'s Tip\n|{{Dialogue|\n&e[NPC] &2Lazarus&f: I don't know who the &bsupplier&f is, but I know someone who does.\n&e[NPC] &2Lazarus&f: I can tell you their name for &d20 Motes&f.\n&eSelect an option: &a[Buy tip]\n}}\n|-\n| class=\"ct\" |Selecting {{Rmt|&a[Buy tip]}}\n|{{Dialogue|&e[NPC] &2Lazarus&f: I heard that &6Vreike&f might know who the &dsupplier&f is.}}\n|}\n\n== Trivia ==\n*'''Lazarus''' has no dialogue unless having purchased [[Chester]]'s tip. After talking to them, they will no longer give dialogue.\n*'''Lazarus''' does, however, display text above their head, as if communicating with the other [[NPC]]s in the {{zone|Shifted Tavern}}.\n\n== History ==\n{{History table\n|ahn=\n{{history|2023/May 4|[[File:Lazarus.png|26px]] Added '''Lazarus'''.}}\n|beta=\n{{history|2022/March 21|link=https://mc-heads.net/body/618303c8092bbea8f60c983035831662989d88e0bd031e53c2c2bb2f6e71dfae/200.png|'''Lazarus'''<nowiki/>'s skin found on {{RN|a|Megakloon}}.}}\n{{History|0.19|Added '''Lazarus'''.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}"
+}

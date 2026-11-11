@@ -1,0 +1,14 @@
+{
+  "title": "Shen Chaos",
+  "pageid": 108670,
+  "revision": 814706,
+  "timestamp": "2026-08-11T19:50:01Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Shen_Chaos",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=814706",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Character\n|location = [[Cerebral Citadel]]\n|location_page_description = Talks about the {{Item|Celestial Timecharm}}.\n|x = -260.0\n|y = 18\n|z = -68.0\n}}\n'''Shen Chaos''' is an [[NPC]] in the {{Zone|Cerebral Citadel}} in the [[Rift Dimension]].\n\n== Purpose ==\n'''Shen Chaos''' informs the player of the {{Item|Celestial Timecharm}} after being summoned in the '''First Sequence'''.\n\n== Dialogue ==\n{| class=\"wikitable\"\n!Condition\n!Dialogue\n|-\n| class=\"ct\" |First interaction\n|{{Dialogue|\n&e[NPC] &8Shen Chaos&f: Ah, greetings.\n&e[NPC] &8Shen Chaos&f: You must be (Player), correct?\n&e[NPC] &8Shen Chaos&f: I've encountered versions of you before.\n&e[NPC] &8Shen Chaos&f: You're seeking the &cCelestial Timecharm&f, aren't you?\n&eSelect an option: &a[Yeah.]\n}}\n|-\n| class=\"ct\" |Selecting {{Green|[Yeah.]}}\n|{{Dialogue|&e[NPC] &8Shen Chaos&f: &cShen's Citrinitas &fcurrently holds it, you'll find him beyond the third sequence.}}\n|-\n| class=\"ct\" |Idle\n|{{Dialogue|\n&e[NPC] &8Shen Chaos&f: If you're searching for the &cCelestial Timecharm&f, you'll need to summon &cShen's Citrinitas&f.\n&e[NPC] &8Shen Chaos&f: Proceed to the next sequence to continue your journey.\n}}\n|}\n\n== History ==\n{{History table\n|beta=\n{{History|0.21|[[File:Shen Chaos.png|26px]] Added '''Shen Chaos'''.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}"
+}

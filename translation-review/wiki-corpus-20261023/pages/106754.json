@@ -1,0 +1,13 @@
+{
+  "title": "Mossybit",
+  "pageid": 106754,
+  "revision": 861680,
+  "timestamp": "2026-10-21T01:13:31Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Mossybit",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861680",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Critter\n|entity_type = [[mcw:Frog|Frog]]\n|stats = {{InfoboxMobStats\n|health = 500\n|damage = 50\n}}\n|spawn_location = [[Murkwater Loch]]\n|mob_type = *{{mt|Critter}}\n*{{mt|Woodland}}\n*{{mt|Animal}}\n|mob_level = 9\n|id = MOSSYBIT_9\n}}\nA '''Mossybit''' is a [[Critter]] that can be found around the {{Zone|Murkwater Loch}}.\n\n== Spawning ==\n'''Mossybits''' spawn on the land surrounding the {{zone|Murkwater Loch}}.\n\n== Behavior ==\n'''Mossybits''' walk or swim around before briefly standing still. If the player clicks on a '''Mossybit''', it will gain a green glowing effect and jump away with a trail of green particles up to {{Green|4}} times. If another player interacts with the '''Mossybit''', it will instead gain a white glowing effect. After the {{Green|4th}} jump, the '''Mossybit''' grows tired and drops a {{Item|Mossybit Shard}}.\n\nThe amount of times a '''Mossybit''' jumps can be reduced by the {{Attr|Frog Legs}} attribute.\n\n== Drops ==\n{{Mob Drops Table\n|level = 9\n|hunting_xp = 150\n|coins = 3\n|orbs = 9\n|{{Mob Drops Row\n|drop = Mossybit Shard\n|count = 1\n|rarity = common\n|chance = 100%\n}}\n}}\n{{CritterHunting|action=Exhausting|rarity=u}}\n\n== Game Message ==\n{| class=\"wikitable\"\n!Condition\n!Message\n|-\n|After the '''Mossybit''' jumps {{Green|4}} times\n|{{Dialogue|&7&oThe Mossybit is exhausted...}}\n|}\n\n== Bestiary ==\n{{Bestiary Entry|section=Moonglade Marsh|lore=These frogs are agile jumpers.|bracket=Hunting 2|max_tier=10|reward=Hunting}}\n\n== History ==\n{{History table\n|ahn=\n{{History|2025/Jun 5|[[File:Mossybit.png|26px]] Added '''Mossybit'''.}}\n{{History|2026/Jul 22|version=none|Added {{mt|Critter}}, {{mt|Woodland}}, and {{mt|Animal}} Mob Types.|Added '''Mossybit''' [[Bestiary]].}}\n{{History|2026/Aug 25|Changed the {{Experience}} from {{Dark Aqua|10}} to {{Dark Aqua|9}}.}}\n|beta=\n{{History|0.23|[[File:Mossybit.png|26px]] Added '''Mossybit'''.}}\n{{History|0.27|Added {{mt|Critter}}, {{mt|Woodland}}, and {{mt|Animal}} Mob Types.|Added '''Mossybit''' [[Bestiary]].}}\n{{History|0.27.2|Changed the {{Experience}} from {{Dark Aqua|10}} to {{Dark Aqua|9}}.}}\n}}\n\n== Navigation ==\n{{Nav/Critters}}"
+}

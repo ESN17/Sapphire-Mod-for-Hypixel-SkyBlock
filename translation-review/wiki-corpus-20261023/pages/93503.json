@@ -1,0 +1,17 @@
+{
+  "title": "Tyzzo",
+  "pageid": 93503,
+  "revision": 830504,
+  "timestamp": "2026-09-03T01:33:14Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Tyzzo",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=830504",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Category:Pages with UIs",
+    "Template:Dialogue",
+    "Template:UI",
+    "Template:UIPage"
+  ],
+  "wikitext": "{{Infobox/Character\n|shop = Yes\n|abiphone = Yes\n|location = [[Void Slate]]\n|location_page_description = Sells perks and upgrades in exchange for {{Item|Dragon Essence}} as part of the [[Dragon Essence Shop]]. Also runs the [[Draconic Altar]].\n|x = -597\n|y = 5\n|z = -272\n}}\n'''Tyzzo''' is an [[NPC]] located in the {{Zone|Void Slate}}. They are located next to the [[Draconic Altar]], and offer an [[The End|End]] perks shop.\n\n== Shop ==\n{{:Essence Shops/Dragon}}\n\n== Dialogue ==\n{| class=\"wikitable\"\n! colspan=\"2\" | Condition\n! Dialogue\n|-\n| class=\"ct\" rowspan=\"4\" | [[Abiphones#Contacts|{{Aqua|Abiphone Contact}}]]\n| class=\"ct\" | None\n|{{Dialogue|\n&e[NPC] &5Tyzzo&f: &b✆ &fYou wish for my &3Abiphone Contact&f?\n&e[NPC] &5Tyzzo&f: &b✆ &fAre you worthy of it, though?\n&eSelect an option: &a[Uhh, yes?]\n}}\n|-\n| class=\"ct\" | Selecting {{Green|[Uhh, yes?]}}\n|{{Dialogue|\n&e[NPC] &5Tyzzo&f: &b✆ &fProve it.\n&e[NPC] &5Tyzzo&f: &b✆ &fBring me a &9Dragon Scale&f.\n&a&l[GIVE ITEM]\n}}\n|-\n| class=\"ct\" | Without {{Item|Dragon Scale}}\n|{{Dialogue|\n&e[NPC] &5Tyzzo&f: &b✆ &fYou do not possess a &9Dragon Scale&f.\n&e[NPC] &5Tyzzo&f: &b✆ &fYou'll sometimes get one from defeating a &5Young Dragon&f, though that's no easy task.\n&e[NPC] &5Tyzzo&f: &b✆ &fCome back once you've got one.\n}}\n|-\n| class=\"ct\" | Giving {{Item|Dragon Scale}}\n|{{Dialogue|\n&e[NPC] &5Tyzzo&f: &b✆ &fYou actually managed to get a &9Dragon Scale&f.\n&e[NPC] &5Tyzzo&f: &b✆ &fI guess you are worthy of the title of Dragon Slayer after all.\n&b✆ &5Tyzzo &fhas been added to your Abiphone's contacts!\n&e[NPC] &5Tyzzo&f: &b✆ &fCall me whenever you wish to use the &5Dragon Essence Shop&f.\n}}\n|-\n| class=\"ct\" rowspan=\"3\" |{{zone|The Garden}}\n| class=\"ct\" | None\n|{{Dialogue|&e[NPC] &9Tyzzo&f: A tribute is needed.}}\n|-\n| class=\"ct\" | Completing\n|{{Dialogue|&e[NPC] &9Tyzzo&f: This will make for the perfect sacrifice.}}\n|-\n| class=\"ct\" | Denying\n|{{Dialogue|&e[NPC] &9Tyzzo&f: This simply won't do.}}\n|}\n\n== History ==\n{{History table\n|ahn=\n{{History|2022/Oct 13|[[File:Tyzzo.png|26px]] Added '''Tyzzo'''.}}\n{{History|2025/Dec 5|Added '''Tyzzo''' as a [[The Garden#Visitor|Garden Visitor]].}}\n{{History|2026/March 23|Added [[Abiphones#Contacts|{{Aqua|Abiphone Contact}}]].}}\n|beta=\n{{History|0.16|[[File:Tyzzo.png|26px]] Added '''Tyzzo'''.}}\n{{History|0.19.6|Added Unbridled Rage to shop.}}\n{{History|0.24.3|Added [[Abiphones#Contacts|{{Aqua|Abiphone Contact}}]].}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}"
+}

@@ -1371,9 +1371,11 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Your contacts: 0/85",
-      "translation": "你的联系人: 0/85",
+      "translation": "你的联系人：0/85",
       "styleMappings": {
-        "Your contacts:": "你的联系人:"
+        "Your contacts:": "你的联系人：",
+        "{{N0}}": "{{N0}}",
+        "/{{N1}}": "/{{N1}}"
       },
       "sampleRaw": "§7Your contacts: §a0§b/85",
       "sourceId": "cc6ad5905605aa137e344a98",
@@ -1383,15 +1385,18 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "Your contacts: {{N0}}/{{N1}}",
-      "numericTranslation": "你的联系人: {{N0}}/{{N1}}"
+      "numericTranslation": "你的联系人：{{N0}}/{{N1}}",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Your contacts: {{N0}}/{{N1}}",
-      "translation": "你的联系人: {{N0}}/{{N1}}",
+      "translation": "你的联系人：{{N0}}/{{N1}}",
       "styleMappings": {
-        "Your contacts:": "你的联系人:"
+        "Your contacts:": "你的联系人：",
+        "{{N0}}": "{{N0}}",
+        "/{{N1}}": "/{{N1}}"
       },
       "sampleRaw": "Your contacts: {{N0}}/{{N1}}",
       "sourceId": "cc6ad5905605aa137e344a98",
@@ -1401,19 +1406,20 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "Your contacts: {{N0}}/{{N1}}",
-      "numericTranslation": "你的联系人: {{N0}}/{{N1}}",
+      "numericTranslation": "你的联系人：{{N0}}/{{N1}}",
       "templateExamples": {
         "{{N0}}": "0",
         "{{N1}}": "85"
-      }
+      },
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Hosts Agatha's Contests.",
-      "translation": "主持 Agatha 的竞赛。",
+      "translation": "举办Agatha 的竞赛。",
       "styleMappings": {
-        "Hosts": "主持",
+        "Hosts": "举办",
         "Agatha's Contests": "Agatha 的竞赛",
         ".": "。"
       },
@@ -1423,7 +1429,8 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -1446,7 +1453,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Sells ingredients for your strongest potions.",
-      "translation": "出售炼制强效药水所需的材料。",
+      "translation": "出售用于制作你最强药水的材料。",
       "styleMappings": {},
       "sampleRaw": "§7Sells ingredients for your strongest §7potions.",
       "sourceId": "bae53ea6aa7d1f6116633e38",
@@ -1454,7 +1461,8 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -1510,7 +1518,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Offers farming items.",
-      "translation": "出售耕作用品。",
+      "translation": "提供农耕物品。",
       "styleMappings": {},
       "sampleRaw": "§7Offers farming items.",
       "sourceId": "07d26b1df18d3ca70049be01",
@@ -1518,7 +1526,8 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -1541,7 +1550,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Just a spider in a human's world. Always hungry.",
-      "translation": "只是只混在人类世界里的蜘蛛,总是吃不饱。",
+      "translation": "不过是人类世界中的一只蜘蛛。总是饥肠辘辘。",
       "styleMappings": {},
       "sampleRaw": "§7Just a spider in a human's world. §7Always hungry.",
       "sourceId": "6738ee0764f4033bc72ca53f",
@@ -1549,7 +1558,8 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -1604,7 +1614,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Sells a variety of useful brews.",
-      "translation": "出售各种实用的酿制饮品。",
+      "translation": "出售各种有用的酿造饮品。",
       "styleMappings": {},
       "sampleRaw": "§7Sells a variety of useful brews.",
       "sourceId": "b877ada58a721e027065b82c",
@@ -1612,13 +1622,14 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Reforges items.",
-      "translation": "为物品洗练。",
+      "translation": "为物品重铸。",
       "styleMappings": {},
       "sampleRaw": "§7Reforges items.",
       "sourceId": "8bdf5af21906ea15d2aa3e23",
@@ -1626,17 +1637,18 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Runs the Dwarven Tavern. Sells mining-related consumables.",
-      "translation": "经营矮人酒馆,出售挖矿用的消耗品。",
+      "translation": "经营矮人酒馆。出售与挖掘相关的消耗品。",
       "styleMappings": {
         "Runs the": "经营",
         "Dwarven Tavern": "矮人酒馆",
-        ". Sells mining-related consumables.": ",出售挖矿用的消耗品。"
+        ". Sells mining-related consumables.": "。出售与挖掘相关的消耗品。"
       },
       "sampleRaw": "§7Runs the §2Dwarven Tavern§7. Sells §7mining-related consumables.",
       "sourceId": "5090e2f81e5a567bb1103a90",
@@ -1644,7 +1656,8 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -1667,7 +1680,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Need to build? Call him.",
-      "translation": "想盖点什么? 找他就对了。",
+      "translation": "需要建造？找他。",
       "styleMappings": {},
       "sampleRaw": "§7Need to build? Call him.",
       "sourceId": "17d0bd505d8bea3f08d465ee",
@@ -1675,7 +1688,8 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -1698,10 +1712,10 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Sells Tier XII Mining Minions.",
-      "translation": "出售 XII 级挖矿仆从。",
+      "translation": "出售 XII 级挖掘仆从。",
       "styleMappings": {
         "Sells Tier XII": "出售 XII 级",
-        "Mining Minions": "挖矿仆从",
+        "Mining Minions": "挖掘仆从",
         ".": "。"
       },
       "sampleRaw": "§7Sells Tier XII §6Mining Minions§7.",
@@ -1710,14 +1724,16 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Leader of the Mage army.",
-      "translation": "法师军队的领袖。",
+      "translation": "担任法师军队的领袖。",
       "styleMappings": {
+        "Leader of the": "担任",
         "Mage": "法师",
         "army.": "军队的领袖。"
       },
@@ -1727,16 +1743,17 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Runs an import business in Scarleton.",
-      "translation": "在绯红城经营进口生意。",
+      "translation": "在Scarleton经营进口生意。",
       "styleMappings": {
         "Runs an import business in": "在",
-        "Scarleton": "绯红城",
+        "Scarleton": "Scarleton",
         ".": "经营进口生意。"
       },
       "sampleRaw": "§7Runs an import business in §5Scarleton§7.",
@@ -1745,7 +1762,8 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -1768,11 +1786,11 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Cast your vote remotely for the upcoming Mayor Election!",
-      "translation": "远程为即将到来的市长选举投票!",
+      "translation": "为即将到来的市长选举远程投出你的选票！",
       "styleMappings": {
-        "Cast your vote remotely for the upcoming": "远程为即将到来的",
+        "Cast your vote remotely for the upcoming": "为即将到来的",
         "Mayor Election": "市长选举",
-        "!": "投票!"
+        "!": "远程投出你的选票！"
       },
       "sampleRaw": "§7Cast your vote remotely for the §7upcoming §9Mayor Election§7!",
       "sourceId": "9803c6c6a7927f96aee1e9de",
@@ -1780,7 +1798,8 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -1802,11 +1821,11 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Self-proclaimed leader of the Cult of the Fallen Star.",
-      "translation": "自封的陨落之星教团领袖。",
+      "translation": "自称堕落之星教团的领袖。",
       "styleMappings": {
-        "Self-proclaimed leader of the": "自封的",
-        "Cult of the Fallen Star": "陨落之星教团",
-        ".": "领袖。"
+        "Self-proclaimed leader of the": "自称",
+        "Cult of the Fallen Star": "堕落之星教团",
+        ".": "的领袖。"
       },
       "sampleRaw": "§7Self-proclaimed leader of the §5Cult §5of the Fallen Star§7.",
       "sourceId": "f3723b19d976f241bb65bab1",
@@ -1814,7 +1833,8 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -1837,7 +1857,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Always drowning in his research.",
-      "translation": "总是埋头搞研究。",
+      "translation": "总是埋头于研究之中。",
       "styleMappings": {},
       "sampleRaw": "§7Always drowning in his research.",
       "sourceId": "0d9d46400ed869a5755448f2",
@@ -1845,13 +1865,14 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Sells one thing in Dungeons.",
-      "translation": "在地牢里只卖一种东西。",
+      "translation": "在地牢里只卖一样东西。",
       "styleMappings": {},
       "sampleRaw": "§7Sells one thing in Dungeons.",
       "sourceId": "439c27c4868f4f348c88f2d6",
@@ -1859,7 +1880,8 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -1882,7 +1904,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Allows virtual Runecrafting through some magical witchcraft.",
-      "translation": "用神奇的巫术提供远程符文融合服务。",
+      "translation": "通过某种魔法巫术实现虚拟符文制作。",
       "styleMappings": {},
       "sampleRaw": "§7Allows virtual Runecrafting through §7some magical witchcraft.",
       "sourceId": "66c872bc1af100fa3a106a14",
@@ -1890,13 +1912,14 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Jolly old man offering wintry wares.",
-      "translation": "乐呵呵的老爷爷,出售冬季用品。",
+      "translation": "提供冬日货品的快活老人。",
       "styleMappings": {},
       "sampleRaw": "§7Jolly old man offering wintry wares.",
       "sourceId": "94f897933e042037e899e57a",
@@ -1904,7 +1927,8 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -1939,16 +1963,18 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Most popular warrior in the Crimson Isle!",
-      "translation": "绯红岛最受欢迎的战士!",
+      "translation": "绯红岛最受欢迎的战士！",
       "styleMappings": {
-        "Crimson Isle": "绯红岛",
-        "!": "最受欢迎的战士!"
+        "Most popular warrior in the": "绯红岛",
+        "Crimson Isle": "最受欢迎的战士",
+        "!": "！"
       },
       "sampleRaw": "§7Most popular warrior in the §cCrimson §cIsle§7!",
       "sourceId": "d460b05e140bfbcdaf3841cf",
@@ -1956,13 +1982,14 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Levels up your pets for you.",
-      "translation": "替你训练宠物,提升等级。",
+      "translation": "为你提升宠物的等级。",
       "styleMappings": {},
       "sampleRaw": "§7Levels up your pets for you.",
       "sourceId": "b894b0eb995eaa2bd2d82226",
@@ -1970,13 +1997,14 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Molds spooky festivals. Also spooks. And mongers!",
-      "translation": "操办惊魂节,吓人卖货两不误!",
+      "translation": "塑造诡异节日。还会吓人。还有小贩！",
       "styleMappings": {},
       "sampleRaw": "§7Molds spooky festivals. Also spooks. §7And mongers!",
       "sourceId": "2bbac55177c8a9bd49f4abc6",
@@ -1984,13 +2012,14 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Gifted with flour, and yeast, the feast's dedicated baker.",
-      "translation": "玩转面粉与酵母的好手,盛宴的专职面包师。",
+      "translation": "天赋在于面粉与酵母，盛宴的专职烘焙师。",
       "styleMappings": {},
       "sampleRaw": "§7Gifted with flour, and yeast, the §7feast's dedicated baker.",
       "sourceId": "8e632f429f4818dfce1093d8",
@@ -1998,13 +2027,14 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "The Grand Feast's head chef! Always cooking...",
-      "translation": "盛宴的主厨! 一刻不停地做菜……",
+      "translation": "盛大盛宴的主厨！总是在烹饪……",
       "styleMappings": {},
       "sampleRaw": "§7The Grand Feast's head chef! Always §7cooking...",
       "sourceId": "1896853357902e71afebc930",
@@ -2012,13 +2042,14 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Foreman of the Forge.",
-      "translation": "熔炉的工头。",
+      "translation": "锻造所的工头。",
       "styleMappings": {},
       "sampleRaw": "§7Foreman of the Forge.",
       "sourceId": "e0fb9ef740f2b98d8b0b529e",
@@ -2026,7 +2057,8 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -2119,7 +2151,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Find contacts by name!",
-      "translation": "按名字查找联系人!",
+      "translation": "按名字查找联系人！",
       "styleMappings": {},
       "sampleRaw": "§7Find contacts by name!",
       "sourceId": "2f168c924f54f63ba40e41f5",
@@ -2127,7 +2159,8 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -2168,7 +2201,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Operates the Gemstone Grinder.",
-      "translation": "负责宝石研磨台。",
+      "translation": "操作宝石研磨机。",
       "styleMappings": {},
       "sampleRaw": "§7Operates the Gemstone Grinder.",
       "sourceId": "beeb47d565090980e72c12f3",
@@ -2176,7 +2209,8 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -2201,7 +2235,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Collects and purchases pets.",
-      "translation": "收藏并收购宠物。",
+      "translation": "收集并购买宠物。",
       "styleMappings": {},
       "sampleRaw": "§7Collects and purchases pets.",
       "sourceId": "0c9eaf719478f7ad05def150",
@@ -2209,7 +2243,8 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -2223,19 +2258,20 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Owns a Chicken Coop down in Scarleton. A bit mad.",
-      "translation": "有间鸡舍,就在绯红城。人有点疯疯癫癫的。",
+      "translation": "在斯卡雷顿拥有一间鸡舍。有点疯。",
       "styleMappings": {
-        "Owns a": "有间",
+        "Owns a": "在",
+        "Scarleton": "斯卡雷顿",
+        "down in": "拥有一间",
         "Chicken Coop": "鸡舍",
-        "down in": ",就在",
-        "Scarleton": "绯红城",
-        ". A bit mad.": "。人有点疯疯癫癫的。"
+        ". A bit mad.": "。有点疯。"
       },
       "sampleRaw": "§7Owns a §aChicken Coop §7down in §5Scarleton§7. A bit mad.",
       "sourceId": "de80b7f551afef7c33ba9a3d",
@@ -2243,13 +2279,14 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Organizes farming contests.",
-      "translation": "举办耕作比赛。",
+      "translation": "组织农耕比赛。",
       "styleMappings": {},
       "sampleRaw": "§7Organizes farming contests.",
       "sourceId": "f0e15abbdaa6f59029f3e795",
@@ -2257,7 +2294,8 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -2271,7 +2309,8 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -2296,7 +2335,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Sells special arrows.",
-      "translation": "出售特制箭矢。",
+      "translation": "出售特殊箭矢。",
       "styleMappings": {},
       "sampleRaw": "§7Sells special arrows.",
       "sourceId": "72c82276d02ca704112de638",
@@ -2304,13 +2343,14 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Pro Drill Maintenance representative.",
-      "translation": "专业钻头维护服务代表。",
+      "translation": "专业钻头维护代表。",
       "styleMappings": {},
       "sampleRaw": "§7Pro Drill Maintenance representative.",
       "sourceId": "33aebfb53df6f2f6b145fabb",
@@ -2318,17 +2358,18 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Trade in your Junk in exchange for goodies!",
-      "translation": "拿你的垃圾换些好东西!",
+      "translation": "用你的垃圾换取好东西！",
       "styleMappings": {
-        "Trade in your": "拿你的",
+        "Trade in your": "用你的",
         "Junk": "垃圾",
-        "in exchange for goodies!": "换些好东西!"
+        "in exchange for goodies!": "换取好东西！"
       },
       "sampleRaw": "§7Trade in your §2Junk §7in exchange for §7goodies!",
       "sourceId": "d475c3214b5a074b9978690a",
@@ -2336,7 +2377,8 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -2361,7 +2403,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Upgrades your pets!",
-      "translation": "提升宠物的稀有度!",
+      "translation": "升级你的宠物！",
       "styleMappings": {},
       "sampleRaw": "§7Upgrades your pets!",
       "sourceId": "5abc1aec57f881663545a0cd",
@@ -2369,7 +2411,8 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -2389,7 +2432,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Sells rare Reptile and Amphibian Shards.",
-      "translation": "出售稀有的爬行类和两栖类碎片。",
+      "translation": "出售稀有的爬行动物与两栖动物碎片。",
       "styleMappings": {},
       "sampleRaw": "§7Sells rare Reptile and Amphibian §7Shards.",
       "sourceId": "a3ae2977d33fc10366d9c6c3",
@@ -2397,7 +2440,8 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -2422,9 +2466,9 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Maintains the Fusion Machine.",
-      "translation": "负责维护融合机。",
+      "translation": "维护融合机。",
       "styleMappings": {
-        "Maintains the": "负责维护",
+        "Maintains the": "维护",
         "Fusion Machine": "融合机",
         ".": "。"
       },
@@ -2434,7 +2478,8 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -2448,13 +2493,14 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Your go-to for all things redstone.",
-      "translation": "红石相关事务的不二之选。",
+      "translation": "红石相关的一切，找他就对了。",
       "styleMappings": {},
       "sampleRaw": "§7Your go-to for all things redstone.",
       "sourceId": "c0c8457f8a3f605760e487b2",
@@ -2462,17 +2508,18 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Access your Slayer Quests from anywhere! And it wouldn't kill you to ask him how he's doing every now and then.",
-      "translation": "随时随地访问你的杀手! 有空也问问他最近过得怎么样吧。",
+      "translation": "随时随地访问你的杀手任务！偶尔问问他过得怎么样也不会要你的命。",
       "styleMappings": {
         "Access your": "随时随地访问你的",
-        "Slayer Quests": "杀手",
-        "from": "! 有空也问问他最近过得怎么样吧。"
+        "Slayer Quests": "杀手任务",
+        "from anywhere! And it wouldn't kill you to ask him how he's doing every now and then.": "！偶尔问问他过得怎么样也不会要你的命。"
       },
       "sampleRaw": "§7Access your §5Slayer Quests §7from §7anywhere! And it wouldn't kill you to §7ask him how he's doing every now §7and then.",
       "sourceId": "479abc562675715658ffb12b",
@@ -2480,21 +2527,22 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Runs the Undead and Wither Essence Shops and lets you apply Stars to your gear!",
-      "translation": "经营亡灵与凋零精华商店,还能为你的装备升星!",
+      "translation": "经营亡灵和凋灵精华商店，并让你为装备附加星级！",
       "styleMappings": {
         "Runs the": "经营",
         "Undead": "亡灵",
-        "and": "与",
-        "Wither Essence Shops": "凋零精华商店",
-        "and lets you apply": ",还能为你的装备",
-        "Stars": "升星",
-        "to your gear!": "!"
+        "and": "和",
+        "Wither Essence Shops": "凋灵精华商店",
+        "and lets you apply": "，并让你为装备附加",
+        "Stars": "星级",
+        "to your gear!": "！"
       },
       "sampleRaw": "§7Runs the §dUndead §7and §8Wither Essence §8Shops §7and lets you apply §6Stars §7to §7your gear!",
       "sourceId": "c7eb66030c02b11b036afdd4",
@@ -2502,7 +2550,8 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -2543,7 +2592,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Does magic with your accessory bag.",
-      "translation": "为你的饰品袋施展秘术。",
+      "translation": "用魔法打理你的饰品袋。",
       "styleMappings": {},
       "sampleRaw": "§7Does magic with your accessory bag.",
       "sourceId": "7806e5af7d943d23389c44b4",
@@ -2551,16 +2600,17 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Hosts Miria's Contests.",
-      "translation": "举办 Miria 的比赛。",
+      "translation": "主持米莉亚的竞赛。",
       "styleMappings": {
-        "Hosts": "举办",
-        "Miria's Contests": "Miria 的比赛",
+        "Hosts": "主持",
+        "Miria's Contests": "米莉亚的竞赛",
         ".": "。"
       },
       "sampleRaw": "§7Hosts §bMiria's Contests§7.",
@@ -2569,13 +2619,14 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Master of chum fishing.",
-      "translation": "碎诱鱼料垂钓大师。",
+      "translation": "诱鱼料钓鱼大师。",
       "styleMappings": {},
       "sampleRaw": "§7Master of chum fishing.",
       "sourceId": "3f4063e83956b8bd0164cfa1",
@@ -2583,13 +2634,14 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Guards the entrance to the catacombs.",
-      "translation": "看守地下墓穴的入口。",
+      "translation": "守卫地牢入口。",
       "styleMappings": {},
       "sampleRaw": "§7Guards the entrance to the §7catacombs.",
       "sourceId": "70fe91974f135062011061f8",
@@ -2597,7 +2649,8 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -2622,7 +2675,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Fillets your Trophy Fish.",
-      "translation": "为奖杯鱼去骨取肉。",
+      "translation": "为你的奖杯鱼切片。",
       "styleMappings": {},
       "sampleRaw": "§7Fillets your Trophy Fish.",
       "sourceId": "4c24e5a2a22cbd3f84760ffd",
@@ -2630,13 +2683,14 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Sells items useful in Dungeons.",
-      "translation": "出售地牢探险用品。",
+      "translation": "出售地牢中实用的物品。",
       "styleMappings": {},
       "sampleRaw": "§7Sells items useful in Dungeons.",
       "sourceId": "b8d9e91cf7f0ea6a0d02acad",
@@ -2644,13 +2698,14 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Traveling Zookeeper with a variety of exotic pets!",
-      "translation": "四处旅行的动物园管理员,带来了各式珍奇宠物!",
+      "translation": "四处游历的动物园管理员，带着各种异域宠物！",
       "styleMappings": {},
       "sampleRaw": "§7Traveling Zookeeper with a variety §7of exotic pets!",
       "sourceId": "d4d56baef526a8e2a8f698fa",
@@ -2658,13 +2713,14 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Painter in constant need of exquisite dyes.",
-      "translation": "总是缺精美染料的画家。",
+      "translation": "急需精美染料的画家。",
       "styleMappings": {},
       "sampleRaw": "§7Painter in constant need of exquisite §7dyes.",
       "sourceId": "f69c912e1ddcfcd41ddfb559",
@@ -2672,17 +2728,18 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Sells useful farming items in exchange for  Pests from your vacuum.",
-      "translation": "出售实用的农业物品,用你吸尘器里的 害虫来交换。",
+      "translation": "用你吸尘器中的 害虫换取有用的农业物品。",
       "styleMappings": {
-        "Sells useful farming items in exchange for": "出售实用的农业物品,用你吸尘器里的",
+        "Sells useful farming items in exchange for": "用你吸尘器中的",
         " Pests": " 害虫",
-        "from your vacuum.": "来交换。"
+        "from your vacuum.": "换取有用的农业物品。"
       },
       "sampleRaw": "§7Sells useful farming items in §7exchange for §2 Pests §7from your §7vacuum.",
       "sourceId": "0248a0c2d5ec10bb567e399e",
@@ -2690,7 +2747,8 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -2743,7 +2801,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Access Commissions remotely.",
-      "translation": "远程查看和领取委托。",
+      "translation": "远程访问委托。",
       "styleMappings": {},
       "sampleRaw": "§7Access Commissions remotely.",
       "sourceId": "652e163ef5877e2e47278ad5",
@@ -2751,16 +2809,18 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Queen of the Mage Faction. Pretty busy.",
-      "translation": "法师阵营的女王,忙得很。",
+      "translation": "法师阵营的女王。相当忙。",
       "styleMappings": {
-        "Mage Faction": "法师阵营",
-        ". Pretty busy.": "的女王,忙得很。"
+        "Queen of the": "法师阵营",
+        "Mage Faction": "的女王",
+        ". Pretty busy.": "。相当忙。"
       },
       "sampleRaw": "§7Queen of the §5Mage Faction§7. Pretty §7busy.",
       "sourceId": "f6e5d57fcfb3ae05873f2b03",
@@ -2768,7 +2828,8 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -2793,11 +2854,11 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Lets you apply Rod Parts to your Fishing Rods.",
-      "translation": "为你安装钓竿配件,装到钓竿上。",
+      "translation": "让你将钓竿部件应用到你的钓竿上。",
       "styleMappings": {
-        "Lets you apply": "为你安装",
-        "Rod Parts": "钓竿配件",
-        "to your": ",装到",
+        "Lets you apply": "让你将",
+        "Rod Parts": "钓竿部件",
+        "to your": "应用到你的",
         "Fishing Rods": "钓竿",
         ".": "上。"
       },
@@ -2807,7 +2868,8 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -2832,7 +2894,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Needs help with combat, but an optimistic learner.",
-      "translation": "战斗还需人指点,学起来倒挺乐观。",
+      "translation": "战斗方面需要帮助，但是个乐观的学徒。",
       "styleMappings": {},
       "sampleRaw": "§7Needs help with combat, but an §7optimistic learner.",
       "sourceId": "f3d099344bb3a20860688cd3",
@@ -2840,7 +2902,8 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -2881,7 +2944,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "SkyBlock's Janitor.",
-      "translation": "空岛 的清洁工。",
+      "translation": "空岛的清洁工。",
       "styleMappings": {},
       "sampleRaw": "§7SkyBlock's Janitor.",
       "sourceId": "c8366d97ce4ee2d89a774cc7",
@@ -2889,7 +2952,8 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -2949,7 +3013,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Bored bartender be based boldly back behind bar.",
-      "translation": "百无聊赖的调酒师,大大方方窝在吧台后。",
+      "translation": "无聊的酒保偏偏稳稳当当地待在吧台后面。",
       "styleMappings": {},
       "sampleRaw": "§7Bored bartender be based boldly §7back behind bar.",
       "sourceId": "b0f8e4a41284580811fd97ae",
@@ -2957,13 +3021,14 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Either writing a novel or oinking.",
-      "translation": "不是在写小说,就是在哼哼叫。",
+      "translation": "要么在写小说，要么在哼哼。",
       "styleMappings": {},
       "sampleRaw": "§7Either writing a novel or oinking.",
       "sourceId": "d1cd8445b7e3f663978862aa",
@@ -2971,18 +3036,20 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Gives all of his contacts a 1% discount on the Dark Auction! What a guy...",
-      "translation": "给所有联系人提供 1% 的折扣,仅限暗黑拍卖! 可真是个好人……",
+      "translation": "给他所有联系人1%的折扣，适用于Dark Auction！真是个好人……",
       "styleMappings": {
-        "Gives all of his contacts a": "给所有联系人提供",
-        "discount on the": "的折扣,仅限",
-        "Dark Auction": "暗黑拍卖",
-        "! What a guy...": "! 可真是个好人……"
+        "Gives all of his contacts a": "给他所有联系人",
+        "{{N0}}": "{{N0}}",
+        "discount on the": "的折扣，适用于",
+        "Dark Auction": "Dark Auction",
+        "! What a guy...": "！真是个好人……"
       },
       "sampleRaw": "§7Gives all of his contacts a §a1% §7discount on the §5Dark Auction§7! What a §7guy...",
       "sourceId": "b424f3357c2181cf6f9c0477",
@@ -2992,18 +3059,20 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "Gives all of his contacts a {{N0}} discount on the Dark Auction! What a guy...",
-      "numericTranslation": "给所有联系人提供 {{N0}} 的折扣,仅限暗黑拍卖! 可真是个好人……"
+      "numericTranslation": "给他所有联系人{{N0}}的折扣，适用于Dark Auction！真是个好人……",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Gives all of his contacts a {{N0}} discount on the Dark Auction! What a guy...",
-      "translation": "给所有联系人提供 {{N0}} 的折扣,仅限暗黑拍卖! 可真是个好人……",
+      "translation": "给他所有联系人{{N0}}的折扣，适用于Dark Auction！真是个好人……",
       "styleMappings": {
-        "Gives all of his contacts a": "给所有联系人提供",
-        "discount on the": "的折扣,仅限",
-        "Dark Auction": "暗黑拍卖",
-        "! What a guy...": "! 可真是个好人……"
+        "Gives all of his contacts a": "给他所有联系人",
+        "{{N0}}": "{{N0}}",
+        "discount on the": "的折扣，适用于",
+        "Dark Auction": "Dark Auction",
+        "! What a guy...": "！真是个好人……"
       },
       "sampleRaw": "Gives all of his contacts a {{N0}} discount on the Dark Auction! What a guy...",
       "sourceId": "b424f3357c2181cf6f9c0477",
@@ -3013,10 +3082,11 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "Gives all of his contacts a {{N0}} discount on the Dark Auction! What a guy...",
-      "numericTranslation": "给所有联系人提供 {{N0}} 的折扣,仅限暗黑拍卖! 可真是个好人……",
+      "numericTranslation": "给他所有联系人{{N0}}的折扣，适用于Dark Auction！真是个好人……",
       "templateExamples": {
         "{{N0}}": "1%"
-      }
+      },
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -3057,7 +3127,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Celebrates life all year long, but especially one quarter of it.",
-      "translation": "一年到头都在庆祝生活,尤其热衷于其中的一个季度。",
+      "translation": "全年都在庆祝生活，尤其是其中四分之一。",
       "styleMappings": {},
       "sampleRaw": "§7Celebrates life all year long, but §7especially one quarter of it.",
       "sourceId": "d892008050cbd34eca8f28a3",
@@ -3065,7 +3135,8 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -3090,7 +3161,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Her kid seems to keep losing his toy...Hmmmmm...",
-      "translation": "她家孩子好像总把玩具弄丢……嗯……",
+      "translation": "她的孩子似乎总是弄丢玩具……嗯……",
       "styleMappings": {},
       "sampleRaw": "§7Her kid seems to keep losing his §7toy...Hmmmmm...",
       "sourceId": "5da0735463808dcbcc9012bb",
@@ -3098,17 +3169,18 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Sells useful items in exchange for Pelts.",
-      "translation": "出售实用物品,用毛皮交换。",
+      "translation": "用毛皮换取有用的物品。",
       "styleMappings": {
-        "Sells useful items in exchange for": "出售实用物品,用",
+        "Sells useful items in exchange for": "用",
         "Pelts": "毛皮",
-        ".": "交换。"
+        ".": "换取有用的物品。"
       },
       "sampleRaw": "§7Sells useful items in exchange for §5Pelts§7.",
       "sourceId": "cdcb67ad095d83727577d8b5",
@@ -3116,16 +3188,17 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Runs Taylor's Shop.",
-      "translation": "经营 Taylor 的商店。",
+      "translation": "经营泰勒的商店。",
       "styleMappings": {
         "Runs": "经营",
-        "Taylor's Shop": "Taylor 的商店",
+        "Taylor's Shop": "泰勒的商店",
         ".": "。"
       },
       "sampleRaw": "§7Runs §bTaylor's Shop§7.",
@@ -3134,7 +3207,8 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -3148,13 +3222,14 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Is... a fairy.",
-      "translation": "是个……仙子。",
+      "translation": "是……一位仙女。",
       "styleMappings": {},
       "sampleRaw": "§7Is... a fairy.",
       "sourceId": "eb157cd7c27f6bd06ffc9c3b",
@@ -3162,13 +3237,14 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Sells Enchanted Books in Dungeons.",
-      "translation": "在地牢里出售附魔书。",
+      "translation": "在地牢中出售附魔书。",
       "styleMappings": {},
       "sampleRaw": "§7Sells Enchanted Books in Dungeons.",
       "sourceId": "2e3cb24d1508f972e3c89b71",
@@ -3176,7 +3252,8 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -3269,7 +3346,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Sells potions in Dungeons.",
-      "translation": "在地牢里出售药水。",
+      "translation": "在地牢中出售药水。",
       "styleMappings": {},
       "sampleRaw": "§7Sells potions in Dungeons.",
       "sourceId": "e704e344d893a2fa1a745a7b",
@@ -3277,7 +3354,8 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -3337,7 +3415,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Knows all about dyes and how to use them!",
-      "translation": "对各种染料及其用法了如指掌!",
+      "translation": "精通所有染料及其用法！",
       "styleMappings": {},
       "sampleRaw": "§7Knows all about dyes and how to use §7them!",
       "sourceId": "5af4d18d059cc23f6eaddd4e",
@@ -3345,7 +3423,8 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -3367,7 +3446,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Sells Superboom TNT.",
-      "translation": "出售超级爆破 TNT。",
+      "translation": "出售超级爆炸TNT。",
       "styleMappings": {},
       "sampleRaw": "§7Sells Superboom TNT.",
       "sourceId": "417f97325433100d7f31a4eb",
@@ -3375,7 +3454,8 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -3400,7 +3480,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Need colorful blocks? Call her.",
-      "translation": "想要缤纷的方块? 找她就对了。",
+      "translation": "需要彩色方块？找她准没错。",
       "styleMappings": {},
       "sampleRaw": "§7Need colorful blocks? Call her.",
       "sourceId": "3170c84d12678a88440736a4",
@@ -3408,13 +3488,14 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Sells pet items.",
-      "translation": "出售宠物用品。",
+      "translation": "出售宠物物品。",
       "styleMappings": {},
       "sampleRaw": "§7Sells pet items.",
       "sourceId": "c52e614d5620df0029a0a18b",
@@ -3422,13 +3503,14 @@
       "sourceRevision": 860212,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860212",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "All the farming supplies you could ever need!",
-      "translation": "你想得到的农业用品这里全都有!",
+      "translation": "你所需的全部农耕用品，应有尽有！",
       "styleMappings": {},
       "sampleRaw": "§7All the farming supplies you could §7ever need!",
       "sourceId": "a6cdd1e15db95b10c19ee5b5",
@@ -3436,13 +3518,14 @@
       "sourceRevision": 856421,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=856421",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Purchase tools made specifically for each crop!",
-      "translation": "购买专为每种作物打造的农具!",
+      "translation": "购买专为每种作物打造的工具！",
       "styleMappings": {},
       "sampleRaw": "§7Purchase tools made specifically for §7each crop!",
       "sourceId": "03f4045e2d68f1fcf5d82a45",
@@ -3450,13 +3533,14 @@
       "sourceRevision": 856421,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=856421",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Spruce up your Barn!",
-      "translation": "给你的谷仓换个新面貌!",
+      "translation": "装饰你的谷仓！",
       "styleMappings": {},
       "sampleRaw": "§7Spruce up your Barn!",
       "sourceId": "48ae157fdff6188cd9446cc4",
@@ -3464,13 +3548,14 @@
       "sourceRevision": 856421,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=856421",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Make your Greenhouse look fresh!",
-      "translation": "让你的温室焕然一新!",
+      "translation": "让你的温室焕然一新！",
       "styleMappings": {},
       "sampleRaw": "§7Make your Greenhouse look fresh!",
       "sourceId": "446bd388abceee8cc8b8b717",
@@ -3478,13 +3563,14 @@
       "sourceRevision": 856421,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=856421",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Got pests? We got you.",
-      "translation": "闹虫害了? 交给我们。",
+      "translation": "有虫害？交给我们。",
       "styleMappings": {},
       "sampleRaw": "§7Got pests? We got you.",
       "sourceId": "93bde746362812ff013b4a7b",
@@ -3492,7 +3578,8 @@
       "sourceRevision": 856421,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=856421",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -5326,7 +5413,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Requires Enchanting 24 to apply.",
-      "translation": "附魔等级达到 24 才能应用。",
+      "translation": "需要附魔 24 才能应用。",
       "styleMappings": {},
       "sampleRaw": "§r§r§cRequires Enchanting 24 to §capply.",
       "sourceId": "80183c1da4defa2b3d9d62b8",
@@ -5336,7 +5423,8 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "Requires Enchanting {{N0}} to apply.",
-      "numericTranslation": "附魔等级达到 {{N0}} 才能应用。"
+      "numericTranslation": "需要附魔 {{N0}} 才能应用。",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -6876,11 +6964,11 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Can be used to damage  Pests.",
-      "translation": "可用于伤害 害虫。",
+      "translation": "可用于对 害虫造成伤害。",
       "styleMappings": {
-        "Can be used to damage": "可用于伤害",
+        "Can be used to damage": "可用于对",
         " Pests": " 害虫",
-        ".": "。"
+        ".": "造成伤害。"
       },
       "sampleRaw": "§7Can be used to damage §2 Pests§7.",
       "sourceId": "ddad78f8125779ad6c0f2166",
@@ -6888,7 +6976,8 @@
       "sourceRevision": 856421,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=856421",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -7751,9 +7840,10 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Compost Available: 0",
-      "translation": "可收取的堆肥: 0",
+      "translation": "可用堆肥：0",
       "styleMappings": {
-        "Compost Available:": "可收取的堆肥:"
+        "Compost Available:": "可用堆肥：",
+        "{{N0}}": "{{N0}}"
       },
       "sampleRaw": "§7§7Compost Available: §a0",
       "sourceId": "28d7357034ded7bab4ea900b",
@@ -7763,15 +7853,17 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "Compost Available: {{N0}}",
-      "numericTranslation": "可收取的堆肥: {{N0}}"
+      "numericTranslation": "可用堆肥：{{N0}}",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Compost Available: {{N0}}",
-      "translation": "可收取的堆肥: {{N0}}",
+      "translation": "可用堆肥：{{N0}}",
       "styleMappings": {
-        "Compost Available:": "可收取的堆肥:"
+        "Compost Available:": "可用堆肥：",
+        "{{N0}}": "{{N0}}"
       },
       "sampleRaw": "Compost Available: {{N0}}",
       "sourceId": "28d7357034ded7bab4ea900b",
@@ -7781,16 +7873,17 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "Compost Available: {{N0}}",
-      "numericTranslation": "可收取的堆肥: {{N0}}",
+      "numericTranslation": "可用堆肥：{{N0}}",
       "templateExamples": {
         "{{N0}}": "0"
-      }
+      },
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Upgrade your composter to increase your compost production.",
-      "translation": "升级堆肥器,提高堆肥产量。",
+      "translation": "升级你的堆肥器以提高堆肥产量。",
       "styleMappings": {},
       "sampleRaw": "§7Upgrade your composter to increase §7your compost production.",
       "sourceId": "6ab200e12ae1dd36e96ea1e8",
@@ -7798,7 +7891,8 @@
       "sourceRevision": 860265,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860265",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -8748,7 +8842,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Already claimed!",
-      "translation": "已经领取过了!",
+      "translation": "已领取！",
       "styleMappings": {},
       "sampleRaw": "§cAlready claimed!",
       "sourceId": "d74d50c5df5b16040bd7693c",
@@ -8756,7 +8850,8 @@
       "sourceRevision": 770018,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=770018",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -9064,7 +9159,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Unlock access to new plots or modify plots that you have already unlocked!",
-      "translation": "解锁新的地皮,或修改已经解锁的地皮!",
+      "translation": "解锁新地块，或改造你已解锁的地块！",
       "styleMappings": {},
       "sampleRaw": "§7Unlock access to new plots or §7modify plots that you have §7already unlocked!",
       "sourceId": "1445d5b50978027c95bbf2c7",
@@ -9072,7 +9167,8 @@
       "sourceRevision": 819635,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819635",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -9106,7 +9202,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Achieve milestones on your Garden to earn Garden XP and Farming XP.",
-      "translation": "在花园里达成里程碑,获得花园经验和农业经验。",
+      "translation": "在花园中达成里程碑，赢取花园经验和农耕经验。",
       "styleMappings": {},
       "sampleRaw": "§7Achieve milestones on your §7Garden to earn Garden XP and §7Farming XP.",
       "sourceId": "bb45eaf59aa76511d9faa0c1",
@@ -9114,7 +9210,8 @@
       "sourceRevision": 819635,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819635",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -9134,7 +9231,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Modifies your Garden time.",
-      "translation": "修改花园的时间。",
+      "translation": "调整你的花园时间。",
       "styleMappings": {},
       "sampleRaw": "§7Modifies your Garden time.",
       "sourceId": "65e3b23301aaccbb25157583",
@@ -9142,7 +9239,8 @@
       "sourceRevision": 819635,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819635",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -9196,10 +9294,12 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Current Tier: 0/9",
-      "translation": "当前档位: 0/9",
+      "translation": "当前等级：0/9",
       "styleMappings": {
-        "Current Tier:": "当前档位:",
-        "/": "/"
+        "Current Tier:": "当前等级：",
+        "{{N0}}": "{{N0}}",
+        "/": "/",
+        "{{N1}}": "{{N1}}"
       },
       "sampleRaw": "§7Current Tier: §e0§7/§a9",
       "sourceId": "165457f716d3ce790833eb04",
@@ -9209,16 +9309,19 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "Current Tier: {{N0}}/{{N1}}",
-      "numericTranslation": "当前档位: {{N0}}/{{N1}}"
+      "numericTranslation": "当前等级：{{N0}}/{{N1}}",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Current Tier: {{N0}}/{{N1}}",
-      "translation": "当前档位: {{N0}}/{{N1}}",
+      "translation": "当前等级：{{N0}}/{{N1}}",
       "styleMappings": {
-        "Current Tier:": "当前档位:",
-        "/": "/"
+        "Current Tier:": "当前等级：",
+        "{{N0}}": "{{N0}}",
+        "/": "/",
+        "{{N1}}": "{{N1}}"
       },
       "sampleRaw": "Current Tier: {{N0}}/{{N1}}",
       "sourceId": "165457f716d3ce790833eb04",
@@ -9228,11 +9331,12 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "Current Tier: {{N0}}/{{N1}}",
-      "numericTranslation": "当前档位: {{N0}}/{{N1}}",
+      "numericTranslation": "当前等级：{{N0}}/{{N1}}",
       "templateExamples": {
         "{{N0}}": "0",
         "{{N1}}": "9"
-      }
+      },
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -9442,10 +9546,11 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Increase your ☘ Farming Fortune for each crop by upgrading them!",
-      "translation": "逐个升级作物,提高对应的 ☘ 农业时运!",
+      "translation": "☘ 耕作时运可通过升级来为每种作物提高！",
       "styleMappings": {
-        "Increase your": "逐个升级作物,提高对应的",
-        "☘ Farming Fortune": "☘ 农业时运!"
+        "☘ Farming Fortune": "☘ 耕作时运",
+        "Increase your": "可通过升级来为每种作物提高",
+        "for each crop by upgrading them!": "！"
       },
       "sampleRaw": "§7Increase your §6☘ Farming §6Fortune§7 for each crop by §7upgrading them!",
       "sourceId": "5570fdac3371345cb0753666",
@@ -9453,7 +9558,8 @@
       "sourceRevision": 819635,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819635",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -9473,13 +9579,12 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Upgrade your Growth Speed tier to increase your Greenhouse Growth Speed.",
-      "translation": "提升生长速度的升级档位，提高温室生长速度。",
+      "translation": "升级你的生长速度等级以提高你的温室生长速度。",
       "styleMappings": {
-        "Upgrade your": "提升",
+        "Upgrade your": "升级你的",
         "Growth Speed": "生长速度",
-        "tier to increase your": "的升级档位，提高",
-        "Greenhouse Growth Speed": "温室生长速度",
-        ".": "。"
+        "tier to increase your": "等级以提高你的",
+        "Greenhouse Growth Speed.": "温室生长速度。"
       },
       "sampleRaw": "§7Upgrade your §aGrowth Speed §7tier to §7increase your §bGreenhouse Growth §bSpeed.",
       "sourceId": "3abca904420d75028dd2b573",
@@ -9487,7 +9592,8 @@
       "sourceRevision": 819635,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819635",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -9530,13 +9636,12 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Upgrade your Plant Yield tier to increase your Greenhouse Plant Yield.",
-      "translation": "提升植株产量的升级档位，提高温室植株产量。",
+      "translation": "升级你的作物产量等级以提高你的温室作物产量。",
       "styleMappings": {
-        "Upgrade your": "提升",
-        "Plant Yield": "植株产量",
-        "tier to increase your": "的升级档位，提高",
-        "Greenhouse Plant Yield": "温室植株产量",
-        ".": "。"
+        "Upgrade your": "升级你的",
+        "Plant Yield": "作物产量",
+        "tier to increase your": "等级以提高你的",
+        "Greenhouse Plant Yield.": "温室作物产量。"
       },
       "sampleRaw": "§7Upgrade your §aPlant Yield §7tier to §7increase your §eGreenhouse Plant §eYield.",
       "sourceId": "4ecc78c7b70886484f61f8e6",
@@ -9544,7 +9649,8 @@
       "sourceRevision": 819635,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819635",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -9791,7 +9897,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "You need to unlock the previous tier first!",
-      "translation": "得先解锁上一档!",
+      "translation": "你需要先解锁上一等级！",
       "styleMappings": {},
       "sampleRaw": "§cYou need to unlock the previous tier §cfirst!",
       "sourceId": "629c144b6390aef9c31eabbc",
@@ -9799,7 +9905,8 @@
       "sourceRevision": 819635,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819635",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -11774,7 +11881,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Unlock unique visitors and complete their offer on your island to increase this milestone.",
-      "translation": "解锁新的访客并在你的岛上完成他们的委托,即可提升此里程碑。",
+      "translation": "解锁独特访客并在你的岛屿上完成他们的报价，以提升此里程碑。",
       "styleMappings": {},
       "sampleRaw": "§7Unlock unique visitors and §7complete their offer on your §7island to increase this §7milestone.",
       "sourceId": "b9e8806e15154ac2a966267b",
@@ -11782,7 +11889,8 @@
       "sourceRevision": 819635,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819635",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -11854,7 +11962,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Browse and filter through all of the visitors on the Garden.",
-      "translation": "浏览并筛选花园里的全部访客。",
+      "translation": "浏览并筛选花园中的所有访客。",
       "styleMappings": {},
       "sampleRaw": "§7Browse and filter through all of the §7visitors on the Garden.",
       "sourceId": "0d68042a355a8abdae58e9d5",
@@ -11862,7 +11970,8 @@
       "sourceRevision": 819635,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819635",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -11988,7 +12097,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "You need more Compost to unlock this!",
-      "translation": "堆肥不够,还解锁不了!",
+      "translation": "你需要更多堆肥才能解锁此内容！",
       "styleMappings": {},
       "sampleRaw": "§cYou need more Compost to §cunlock this!",
       "sourceId": "e93f271ce489223381d33f19",
@@ -11996,7 +12105,8 @@
       "sourceRevision": 819635,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819635",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -12113,7 +12223,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "You need to unlock an adjacent plot first!",
-      "translation": "得先解锁相邻的地皮!",
+      "translation": "你需要先解锁相邻地块！",
       "styleMappings": {},
       "sampleRaw": "§cYou need to unlock an adjacent §cplot first!",
       "sourceId": "7e8af7efcc6903bcd9378abd",
@@ -12121,7 +12231,8 @@
       "sourceRevision": 819635,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819635",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -13465,17 +13576,16 @@
       "scope": "tooltip",
       "npc": "",
       "source": "UNCOMMON HELMET",
-      "translation": "罕见 头盔",
-      "styleMappings": {
-        "UNCOMMON": "罕见"
-      },
+      "translation": "罕见头盔",
+      "styleMappings": {},
       "sampleRaw": "§a§lUNCOMMON HELMET",
       "sourceId": "1ab3647772ac581f9ce16144",
       "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Argofay_Trafficker/UI",
       "sourceRevision": 682362,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=682362",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -13500,49 +13610,46 @@
       "scope": "tooltip",
       "npc": "",
       "source": "UNCOMMON CHESTPLATE",
-      "translation": "罕见 胸甲",
-      "styleMappings": {
-        "UNCOMMON": "罕见"
-      },
+      "translation": "罕见胸甲",
+      "styleMappings": {},
       "sampleRaw": "§a§lUNCOMMON CHESTPLATE",
       "sourceId": "69539b30f4611bf3ccf48395",
       "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Argofay_Trafficker/UI",
       "sourceRevision": 682362,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=682362",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "UNCOMMON LEGGINGS",
-      "translation": "罕见 护腿",
-      "styleMappings": {
-        "UNCOMMON": "罕见"
-      },
+      "translation": "罕见护腿",
+      "styleMappings": {},
       "sampleRaw": "§a§lUNCOMMON LEGGINGS",
       "sourceId": "e0d3e8cabe97bea9d0539d56",
       "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Argofay_Trafficker/UI",
       "sourceRevision": 682362,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=682362",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "UNCOMMON BOOTS",
-      "translation": "罕见 靴子",
-      "styleMappings": {
-        "UNCOMMON": "罕见"
-      },
+      "translation": "罕见靴子",
+      "styleMappings": {},
       "sampleRaw": "§a§lUNCOMMON BOOTS",
       "sourceId": "b27c0fe573ed0d0caa56c2cb",
       "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Argofay_Trafficker/UI",
       "sourceRevision": 682362,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=682362",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -13867,7 +13974,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Missing required items!",
-      "translation": "缺少所需物品!",
+      "translation": "缺少所需物品！",
       "styleMappings": {},
       "sampleRaw": "§cMissing required items!",
       "sourceId": "cfebe5f7934f97d65d4859b0",
@@ -13875,7 +13982,8 @@
       "sourceRevision": 648579,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=648579",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -15004,7 +15112,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "You don't have the required items!",
-      "translation": "你没有所需的物品!",
+      "translation": "你没有所需的物品！",
       "styleMappings": {},
       "sampleRaw": "§7§cYou don't have the required §citems!",
       "sourceId": "e10bc24373ef2db53864d50d",
@@ -15012,7 +15120,8 @@
       "sourceRevision": 626559,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=626559",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -15279,7 +15388,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Earn Garden experience by accepting visitors' offers and unlocking new milestones!",
-      "translation": "接受访客的委托、解锁新的里程碑，即可获得花园经验!",
+      "translation": "接受访客的报价并解锁新里程碑，以赚取花园经验！",
       "styleMappings": {},
       "sampleRaw": "§7Earn Garden experience by §7accepting visitors' offers and §7unlocking new milestones!",
       "sourceId": "18b88155bb810d2b4c055837",
@@ -15287,7 +15396,8 @@
       "sourceRevision": 720418,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=720418",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -16376,17 +16486,18 @@
       "sourceRevision": 767735,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=767735",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Find pairs of items on the grid to unlock them.",
-      "translation": "找出棋盘上成对的物品即可解锁它们。",
+      "translation": "在网格上找出成对的物品来解锁它们。",
       "styleMappings": {
-        "Find": "找出棋盘上",
+        "Find": "在网格上找出",
         "pairs": "成对的",
-        "of items on the grid to unlock them.": "物品即可解锁它们。"
+        "of items on the grid to unlock them.": "物品来解锁它们。"
       },
       "sampleRaw": "§7Find §bpairs §7of items on the §7grid to unlock them.",
       "sourceId": "66ef4b14952985a4bc290de9",
@@ -16394,19 +16505,20 @@
       "sourceRevision": 767735,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=767735",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Earn Enchanting Exp and powerful enchanted books every day!",
-      "translation": "每天都能获得附魔经验和强力附魔书!",
+      "translation": "每天获得附魔经验和强力的附魔书！",
       "styleMappings": {
-        "Earn": "每天都能获得",
+        "Earn": "每天获得",
         "Enchanting Exp": "附魔经验",
         "and": "和",
-        "powerful": "强力",
-        "enchanted books every day!": "附魔书!"
+        "powerful": "强力的",
+        "enchanted books every day!": "附魔书！"
       },
       "sampleRaw": "§7Earn §3Enchanting Exp §7and §7§cpowerful §7enchanted books §7every day!",
       "sourceId": "514cc070a34d979ad2c7d07f",
@@ -16414,13 +16526,14 @@
       "sourceRevision": 767735,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=767735",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Play add-ons first!",
-      "translation": "请先完成附加实验!",
+      "translation": "先玩附加实验！",
       "styleMappings": {},
       "sampleRaw": "§dPlay add-ons first!",
       "sourceId": "ac631699275779d2440371dc",
@@ -16428,7 +16541,8 @@
       "sourceRevision": 767735,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=767735",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -16442,18 +16556,19 @@
       "sourceRevision": 767735,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=767735",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Repeat the musical pattern to form the longest chain of notes.",
-      "translation": "重复音乐旋律，尽可能完成最长的音符连锁。",
+      "translation": "重复音乐旋律以形成最长的音符链。",
       "styleMappings": {
         "Repeat": "重复",
-        "the musical": "音乐",
-        "pattern": "旋律",
-        "to form the longest chain of notes.": "，尽可能完成最长的音符连锁。"
+        "pattern": "音乐",
+        "the musical": "旋律",
+        "to form the longest chain of notes.": "以形成最长的音符链。"
       },
       "sampleRaw": "§7§aRepeat §7the musical §dpattern §d§7to form the longest chain of §7notes.",
       "sourceId": "6d2e32ae5b0b9e05326fa39c",
@@ -16461,20 +16576,20 @@
       "sourceRevision": 767735,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=767735",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Earn extra Enchanting Exp and extra clicks on your next Superpairs!",
-      "translation": "完成下次超级配对时，获得额外点击次数与附魔经验!",
+      "translation": "在你下一次超级配对中获得额外附魔经验和额外点击次数！",
       "styleMappings": {
-        "Earn extra": "完成下次",
-        "Enchanting Exp": "附魔经验",
-        "and": "与",
-        "extra clicks on your next": "时，获得额外点击次数",
-        "Superpairs": "超级配对",
-        "!": "!"
+        "Earn extra": "在你下一次",
+        "Enchanting Exp": "超级配对",
+        "and extra clicks on your next": "中获得额外",
+        "Superpairs": "附魔经验",
+        "!": "和额外点击次数！"
       },
       "sampleRaw": "§7Earn extra §3Enchanting Exp §3§7and extra clicks on your §7next §dSuperpairs§7!",
       "sourceId": "fc3642b2d4420645c047a704",
@@ -16482,7 +16597,8 @@
       "sourceRevision": 767735,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=767735",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -16709,9 +16825,10 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Colors on board: 3",
-      "translation": "棋盘颜色数: 3",
+      "translation": "棋盘上的颜色：3",
       "styleMappings": {
-        "Colors on board:": "棋盘颜色数:"
+        "Colors on board:": "棋盘上的颜色：",
+        "{{N0}}": "{{N0}}"
       },
       "sampleRaw": "§7Colors on board: §d3",
       "sourceId": "eeeecee3ed400116ac529226",
@@ -16721,15 +16838,17 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "Colors on board: {{N0}}",
-      "numericTranslation": "棋盘颜色数: {{N0}}"
+      "numericTranslation": "棋盘上的颜色：{{N0}}",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Colors on board: {{N0}}",
-      "translation": "棋盘颜色数: {{N0}}",
+      "translation": "棋盘上的颜色：{{N0}}",
       "styleMappings": {
-        "Colors on board:": "棋盘颜色数:"
+        "Colors on board:": "棋盘上的颜色：",
+        "{{N0}}": "{{N0}}"
       },
       "sampleRaw": "Colors on board: {{N0}}",
       "sourceId": "eeeecee3ed400116ac529226",
@@ -16739,10 +16858,11 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "Colors on board: {{N0}}",
-      "numericTranslation": "棋盘颜色数: {{N0}}",
+      "numericTranslation": "棋盘上的颜色：{{N0}}",
       "templateExamples": {
         "{{N0}}": "3"
-      }
+      },
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -16856,9 +16976,10 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Colors on board: 5",
-      "translation": "棋盘颜色数: 5",
+      "translation": "棋盘上的颜色：5",
       "styleMappings": {
-        "Colors on board:": "棋盘颜色数:"
+        "Colors on board:": "棋盘上的颜色：",
+        "{{N0}}": "{{N0}}"
       },
       "sampleRaw": "§7Colors on board: §d5",
       "sourceId": "c71a59615324dd05118500a3",
@@ -16868,7 +16989,8 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "Colors on board: {{N0}}",
-      "numericTranslation": "棋盘颜色数: {{N0}}"
+      "numericTranslation": "棋盘上的颜色：{{N0}}",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -16911,9 +17033,10 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Colors on board: 7",
-      "translation": "棋盘颜色数: 7",
+      "translation": "棋盘上的颜色：7",
       "styleMappings": {
-        "Colors on board:": "棋盘颜色数:"
+        "Colors on board:": "棋盘上的颜色：",
+        "{{N0}}": "{{N0}}"
       },
       "sampleRaw": "§7Colors on board: §d7",
       "sourceId": "f821ced08d9cf1aac89e0ee8",
@@ -16923,7 +17046,8 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "Colors on board: {{N0}}",
-      "numericTranslation": "棋盘颜色数: {{N0}}"
+      "numericTranslation": "棋盘上的颜色：{{N0}}",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -16966,9 +17090,10 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Colors on board: 8",
-      "translation": "棋盘颜色数: 8",
+      "translation": "棋盘上的颜色：8",
       "styleMappings": {
-        "Colors on board:": "棋盘颜色数:"
+        "Colors on board:": "棋盘上的颜色：",
+        "{{N0}}": "{{N0}}"
       },
       "sampleRaw": "§7Colors on board: §d8",
       "sourceId": "2ad09a7f10d0d06d30274a7e",
@@ -16978,7 +17103,8 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "Colors on board: {{N0}}",
-      "numericTranslation": "棋盘颜色数: {{N0}}"
+      "numericTranslation": "棋盘上的颜色：{{N0}}",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -17021,9 +17147,10 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Colors on board: 10",
-      "translation": "棋盘颜色数: 10",
+      "translation": "棋盘上的颜色：10",
       "styleMappings": {
-        "Colors on board:": "棋盘颜色数:"
+        "Colors on board:": "棋盘上的颜色：",
+        "{{N0}}": "{{N0}}"
       },
       "sampleRaw": "§7Colors on board: §d10",
       "sourceId": "61925748de19b65fe17dae3c",
@@ -17033,7 +17160,8 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "Colors on board: {{N0}}",
-      "numericTranslation": "棋盘颜色数: {{N0}}"
+      "numericTranslation": "棋盘上的颜色：{{N0}}",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -18192,7 +18320,8 @@
       "sourceRevision": 767735,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=767735",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -18233,7 +18362,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Click to claim rewards!",
-      "translation": "点击领取奖励!",
+      "translation": "点击领取奖励！",
       "styleMappings": {},
       "sampleRaw": "§eClick to claim rewards!",
       "sourceId": "30de0780c55d7ded12844773",
@@ -18241,7 +18370,8 @@
       "sourceRevision": 767735,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=767735",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -18255,13 +18385,14 @@
       "sourceRevision": 767735,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=767735",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "You closed the game!",
-      "translation": "你关闭了游戏!",
+      "translation": "你关闭了游戏！",
       "styleMappings": {},
       "sampleRaw": "§cYou closed the game!",
       "sourceId": "d5752dc85ba6c7f00ee0d692",
@@ -18269,15 +18400,17 @@
       "sourceRevision": 767735,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=767735",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Longest Chain: 12 notes",
-      "translation": "最长连锁: 12 个音符",
+      "translation": "最长链：12 个音符",
       "styleMappings": {
-        "Longest Chain:": "最长连锁:"
+        "Longest Chain:": "最长链：",
+        "{{N0}} notes": "{{N0}} 个音符"
       },
       "sampleRaw": "§7Longest Chain: §a12 notes",
       "sourceId": "322fac7d9b6f9e2c1a46f7fb",
@@ -18287,15 +18420,17 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "Longest Chain: {{N0}} notes",
-      "numericTranslation": "最长连锁: {{N0}} 个音符"
+      "numericTranslation": "最长链：{{N0}} 个音符",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Longest Chain: {{N0}} notes",
-      "translation": "最长连锁: {{N0}} 个音符",
+      "translation": "最长链：{{N0}} 个音符",
       "styleMappings": {
-        "Longest Chain:": "最长连锁:"
+        "Longest Chain:": "最长链：",
+        "{{N0}} notes": "{{N0}} 个音符"
       },
       "sampleRaw": "Longest Chain: {{N0}} notes",
       "sourceId": "322fac7d9b6f9e2c1a46f7fb",
@@ -18305,10 +18440,11 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "Longest Chain: {{N0}} notes",
-      "numericTranslation": "最长连锁: {{N0}} 个音符",
+      "numericTranslation": "最长链：{{N0}} 个音符",
       "templateExamples": {
         "{{N0}}": "12"
-      }
+      },
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -18358,7 +18494,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Do you think you can do better on this experiment?",
-      "translation": "觉得自己能在这项实验中做得更好吗?",
+      "translation": "你觉得你能在这个实验里做得更好吗？",
       "styleMappings": {},
       "sampleRaw": "§7Do you think you can do better §7on this experiment?",
       "sourceId": "bdbc427c317aee9df629cc42",
@@ -18366,13 +18502,14 @@
       "sourceRevision": 767735,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=767735",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Decline your rewards to play one more time today!",
-      "translation": "放弃奖励，即可在今天再挑战一次!",
+      "translation": "放弃你的奖励，今天再玩一次！",
       "styleMappings": {},
       "sampleRaw": "§7Decline your rewards to play one §7more time today!",
       "sourceId": "c6a39c43de7ec422a82e6511",
@@ -18380,7 +18517,8 @@
       "sourceRevision": 767735,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=767735",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -18394,13 +18532,14 @@
       "sourceRevision": 767735,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=767735",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Click to decline rewards!",
-      "translation": "点击放弃奖励!",
+      "translation": "点击放弃奖励！",
       "styleMappings": {},
       "sampleRaw": "§eClick to decline rewards!",
       "sourceId": "8de9034b54468f6f3604662a",
@@ -18408,7 +18547,8 @@
       "sourceRevision": 767735,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=767735",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -18422,7 +18562,8 @@
       "sourceRevision": 767735,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=767735",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -18507,9 +18648,11 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Stored: 0/640",
-      "translation": "已存: 0/640",
+      "translation": "已存储：0/640",
       "styleMappings": {
-        "Stored:": "已存:"
+        "Stored:": "已存储：",
+        "{{N0}}": "{{N0}}",
+        "/{{N1}}": "/{{N1}}"
       },
       "sampleRaw": "§7Stored: §80§7/640",
       "sourceId": "0b0449487e0af045c34ba343",
@@ -18519,7 +18662,8 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "Stored: {{N0}}/{{N1}}",
-      "numericTranslation": "已存: {{N0}}/{{N1}}"
+      "numericTranslation": "已存储：{{N0}}/{{N1}}",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -18595,9 +18739,10 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Items: 0",
-      "translation": "物品: 0",
+      "translation": "物品：0",
       "styleMappings": {
-        "Items:": "物品:"
+        "Items:": "物品：",
+        "{{N0}}": "{{N0}}"
       },
       "sampleRaw": "§7Items: §e0",
       "sourceId": "c05f56b97610e3c6843ee458",
@@ -18607,15 +18752,17 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "Items: {{N0}}",
-      "numericTranslation": "物品: {{N0}}"
+      "numericTranslation": "物品：{{N0}}",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Items: {{N0}}",
-      "translation": "物品: {{N0}}",
+      "translation": "物品：{{N0}}",
       "styleMappings": {
-        "Items:": "物品:"
+        "Items:": "物品：",
+        "{{N0}}": "{{N0}}"
       },
       "sampleRaw": "Items: {{N0}}",
       "sourceId": "c05f56b97610e3c6843ee458",
@@ -18625,18 +18772,20 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "Items: {{N0}}",
-      "numericTranslation": "物品: {{N0}}",
+      "numericTranslation": "物品：{{N0}}",
       "templateExamples": {
         "{{N0}}": "0"
-      }
+      },
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Total items: 0",
-      "translation": "物品总数: 0",
+      "translation": "物品总数：0",
       "styleMappings": {
-        "Total items:": "物品总数:"
+        "Total items:": "物品总数：",
+        "{{N0}}": "{{N0}}"
       },
       "sampleRaw": "§7Total items: §e0",
       "sourceId": "392e0ca4d6b5201d289d08f4",
@@ -18646,15 +18795,17 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "Total items: {{N0}}",
-      "numericTranslation": "物品总数: {{N0}}"
+      "numericTranslation": "物品总数：{{N0}}",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Total items: {{N0}}",
-      "translation": "物品总数: {{N0}}",
+      "translation": "物品总数：{{N0}}",
       "styleMappings": {
-        "Total items:": "物品总数:"
+        "Total items:": "物品总数：",
+        "{{N0}}": "{{N0}}"
       },
       "sampleRaw": "Total items: {{N0}}",
       "sourceId": "392e0ca4d6b5201d289d08f4",
@@ -18664,10 +18815,11 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "Total items: {{N0}}",
-      "numericTranslation": "物品总数: {{N0}}",
+      "numericTranslation": "物品总数：{{N0}}",
       "templateExamples": {
         "{{N0}}": "0"
-      }
+      },
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -18912,7 +19064,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Mining Sack",
-      "translation": "挖矿收纳袋",
+      "translation": "采矿收纳袋",
       "styleMappings": {},
       "sampleRaw": "§8Mining Sack",
       "sourceId": "9fe9883439b97ea1f8aa5c9f",
@@ -18920,7 +19072,8 @@
       "sourceRevision": 826068,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=826068",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -18996,7 +19149,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Click to switch rarity!",
-      "translation": "点击切换稀有度!",
+      "translation": "点击切换稀有度！",
       "styleMappings": {},
       "sampleRaw": "§eClick to switch rarity!",
       "sourceId": "0702ee7d5a803008eab3f335",
@@ -19004,7 +19157,8 @@
       "sourceRevision": 426698,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=426698",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -19032,7 +19186,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Click to switch filter!",
-      "translation": "点击切换筛选!",
+      "translation": "点击切换筛选！",
       "styleMappings": {},
       "sampleRaw": "§eClick to switch filter!",
       "sourceId": "0cca28538ae270c9159b3429",
@@ -19040,7 +19194,8 @@
       "sourceRevision": 426698,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=426698",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -19269,7 +19424,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Use this class in a Dungeon to level it up!",
-      "translation": "在地牢中使用该职业即可提升其等级!",
+      "translation": "在地牢中使用此职业来提升其等级！",
       "styleMappings": {},
       "sampleRaw": "§7Use this class in a Dungeon to §7level it up!",
       "sourceId": "95c48f4ef130ef37d1b2d30c",
@@ -19277,7 +19432,8 @@
       "sourceRevision": 794987,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=794987",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -22267,11 +22423,11 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Gain the Cookie Buff!",
-      "translation": "获得曲奇增益!",
+      "translation": "获得曲奇增益！",
       "styleMappings": {
         "Gain the": "获得",
         "Cookie Buff": "曲奇增益",
-        "!": "!"
+        "!": "！"
       },
       "sampleRaw": "§7Gain the §dCookie Buff§7!",
       "sourceId": "90a5fbcf14cd6733a09b5ee8",
@@ -22279,16 +22435,18 @@
       "sourceRevision": 427628,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=427628",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Duration: 4 days!",
-      "translation": "持续时间: 4 天!",
+      "translation": "持续时间：4 天！",
       "styleMappings": {
-        "Duration:": "持续时间:",
-        "!": "!"
+        "Duration:": "持续时间：",
+        "{{N0}} days": "{{N0}} 天",
+        "!": "！"
       },
       "sampleRaw": "§7Duration: §b4 days§7!",
       "sourceId": "94fc904e8aaa3f3e75833dbb",
@@ -22298,16 +22456,18 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "Duration: {{N0}} days!",
-      "numericTranslation": "持续时间: {{N0}} 天!"
+      "numericTranslation": "持续时间：{{N0}} 天！",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Duration: {{N0}} days!",
-      "translation": "持续时间: {{N0}} 天!",
+      "translation": "持续时间：{{N0}} 天！",
       "styleMappings": {
-        "Duration:": "持续时间:",
-        "!": "!"
+        "Duration:": "持续时间：",
+        "{{N0}} days": "{{N0}} 天",
+        "!": "！"
       },
       "sampleRaw": "Duration: {{N0}} days!",
       "sourceId": "94fc904e8aaa3f3e75833dbb",
@@ -22317,10 +22477,11 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "Duration: {{N0}} days!",
-      "numericTranslation": "持续时间: {{N0}} 天!",
+      "numericTranslation": "持续时间：{{N0}} 天！",
       "templateExamples": {
         "{{N0}}": "4"
-      }
+      },
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -22367,7 +22528,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "I'm not hungry...",
-      "translation": "我还不饿……",
+      "translation": "我不饿……",
       "styleMappings": {},
       "sampleRaw": "§7I'm not hungry...",
       "sourceId": "7335a39d1a0162135be5d634",
@@ -22375,7 +22536,8 @@
       "sourceRevision": 427628,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=427628",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -22668,7 +22830,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Minions do not count in contests!",
-      "translation": "仆从的产出不计入竞赛!",
+      "translation": "仆从不计入竞赛！",
       "styleMappings": {},
       "sampleRaw": "§8Minions do not count in contests!",
       "sourceId": "ec4197b6ecf19098bffceb05",
@@ -22676,13 +22838,14 @@
       "sourceRevision": 490828,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=490828",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Schedule",
-      "translation": "赛程",
+      "translation": "日程",
       "styleMappings": {},
       "sampleRaw": "§8Schedule",
       "sourceId": "cdaf8ff38965894614dc09d4",
@@ -22690,7 +22853,8 @@
       "sourceRevision": 490828,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=490828",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -22713,7 +22877,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "View this info in your full SkyBlock calendar!",
-      "translation": "完整信息可在空岛日历中查看!",
+      "translation": "在你的完整空岛日历中查看此信息！",
       "styleMappings": {},
       "sampleRaw": "§8View this info in your full §8SkyBlock calendar!",
       "sourceId": "38a4c754169bfc05479d5774",
@@ -22721,7 +22885,8 @@
       "sourceRevision": 490828,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=490828",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -22760,7 +22925,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Click to view contests!",
-      "translation": "点击查看竞赛!",
+      "translation": "点击查看竞赛！",
       "styleMappings": {},
       "sampleRaw": "§eClick to view contests!",
       "sourceId": "27b5edf7a736539c1701c779",
@@ -22768,7 +22933,8 @@
       "sourceRevision": 490828,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=490828",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -22790,7 +22956,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Commissions are tasks given directly by the king which give bountiful rewards.",
-      "translation": "委托是国王直接发布的任务,完成后能拿到丰厚奖励。",
+      "translation": "委托是国王直接下达的任务，会给予丰厚的奖励。",
       "styleMappings": {},
       "sampleRaw": "§7Commissions are tasks given §7directly by the king which give §7bountiful rewards.",
       "sourceId": "3d9899ab1a2141150a642cbb",
@@ -22798,7 +22964,8 @@
       "sourceRevision": 620002,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=620002",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -22852,7 +23019,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "View milestone progress and rewards!",
-      "translation": "查看里程碑进度和奖励!",
+      "translation": "查看里程碑进度和奖励！",
       "styleMappings": {},
       "sampleRaw": "§7View milestone progress and §7rewards!",
       "sourceId": "b8fb9f772a50cc7bc84fc58e",
@@ -22860,7 +23027,8 @@
       "sourceRevision": 620002,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=620002",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -26836,7 +27004,7 @@
       "scope": "system",
       "npc": "",
       "source": "Checking escrow for recent transaction...",
-      "translation": "正在核对最近交易的托管资金……",
+      "translation": "正在检查近期交易的托管……",
       "styleMappings": {},
       "sampleRaw": "§7Checking escrow for recent transaction...",
       "sourceId": "c7c5afcf8b73b882cd7fea12",
@@ -26844,7 +27012,8 @@
       "sourceRevision": 854822,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=854822",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -28419,10 +28588,10 @@
       "scope": "system",
       "npc": "",
       "source": "CLICK HERE to teleport to the plot!",
-      "translation": "点击此处传送到该地皮!",
+      "translation": "点击此处传送到该地皮！",
       "styleMappings": {
         "CLICK HERE": "点击此处",
-        "to teleport to the plot!": "传送到该地皮!"
+        "to teleport to the plot!": "传送到该地皮！"
       },
       "sampleRaw": "§e§lCLICK HERE §eto teleport to the plot!",
       "sourceId": "53a21f596cdc70a609e35b4d",
@@ -28430,7 +28599,8 @@
       "sourceRevision": 848409,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=848409",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -31490,10 +31660,10 @@
       "scope": "system",
       "npc": "",
       "source": "BRRR! It's getting really cold in here! But you've got to keep moving...",
-      "translation": "好冷! 这里冷得厉害了! 但你必须继续走下去……",
+      "translation": "呼——！这里变得好冷！但你得继续前进……",
       "styleMappings": {
-        "BRRR!": "好冷!",
-        "It's getting really cold in here! But you've got to keep moving...": "这里冷得厉害了! 但你必须继续走下去……"
+        "BRRR!": "呼——！",
+        "It's getting really cold in here! But you've got to keep moving...": "这里变得好冷！但你得继续前进……"
       },
       "sampleRaw": "§9§lBRRR! §r§bIt's getting really cold in here! But you've got to keep moving...",
       "sourceId": "03d1a299fbceba719a96c90b",
@@ -31501,16 +31671,17 @@
       "sourceRevision": 851508,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=851508",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
       "npc": "",
       "source": "BRRR! It's so cold that you can barely feel your fingers. Moving is getting difficult...",
-      "translation": "好冷! 冷得你几乎感觉不到手指,连挪动都开始吃力了……",
+      "translation": "呼——！太冷了，你几乎感觉不到自己的手指。移动变得越来越困难……",
       "styleMappings": {
-        "BRRR!": "好冷!",
-        "It's so cold that you can barely feel your fingers. Moving is getting difficult...": "冷得你几乎感觉不到手指,连挪动都开始吃力了……"
+        "BRRR!": "呼——！",
+        "It's so cold that you can barely feel your fingers. Moving is getting difficult...": "太冷了，你几乎感觉不到自己的手指。移动变得越来越困难……"
       },
       "sampleRaw": "§9§lBRRR! §r§bIt's so cold that you can barely feel your fingers. Moving is getting difficult...",
       "sourceId": "5071e141ee0aa23acb25d6e8",
@@ -31518,16 +31689,17 @@
       "sourceRevision": 851508,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=851508",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
       "npc": "",
       "source": "BRRR! Your movement slows to a crawl as the cold threatens to take over. Time to get out of here...",
-      "translation": "好冷! 寒意快要把你吞没,你已经只能一步一挪了,该离开这儿了……",
+      "translation": "呼——！寒冷几乎要将你吞噬，你的动作慢如蜗牛。该离开这里了……",
       "styleMappings": {
-        "BRRR!": "好冷!",
-        "Your movement slows to a crawl as the cold threatens to take over. Time to get out of here...": "寒意快要把你吞没,你已经只能一步一挪了,该离开这儿了……"
+        "BRRR!": "呼——！",
+        "Your movement slows to a crawl as the cold threatens to take over. Time to get out of here...": "寒冷几乎要将你吞噬，你的动作慢如蜗牛。该离开这里了……"
       },
       "sampleRaw": "§9§lBRRR! §r§bYour movement slows to a crawl as the cold threatens to take over. Time to get out of here...",
       "sourceId": "3630d4932a6853e3b5f1009e",
@@ -31535,16 +31707,17 @@
       "sourceRevision": 851508,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=851508",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
       "npc": "",
       "source": "BRRR! You're freezing! All you can think about is getting out of here to a warm campfire...",
-      "translation": "好冷! 你快冻僵了! 满脑子只想赶紧回到篝火旁烤火……",
+      "translation": "呼——！你快冻僵了！满脑子只想着离开这里，去温暖的营火旁……",
       "styleMappings": {
-        "BRRR!": "好冷!",
-        "You're freezing! All you can think about is getting out of here to a warm campfire...": "你快冻僵了! 满脑子只想赶紧回到篝火旁烤火……"
+        "BRRR!": "呼——！",
+        "You're freezing! All you can think about is getting out of here to a warm campfire...": "你快冻僵了！满脑子只想着离开这里，去温暖的营火旁……"
       },
       "sampleRaw": "§9§lBRRR! §r§bYou're freezing! All you can think about is getting out of here to a warm campfire...",
       "sourceId": "75aa45823e0d1e89915922c8",
@@ -31552,7 +31725,8 @@
       "sourceRevision": 851508,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=851508",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -31588,15 +31762,19 @@
       "scope": "system",
       "npc": "",
       "source": "☠ You froze to death.",
-      "translation": "☠ 你冻死了.",
-      "styleMappings": {},
+      "translation": "☠你被冻死了。",
+      "styleMappings": {
+        "☠": "☠",
+        "You froze to death.": "你被冻死了。"
+      },
       "sampleRaw": "§c☠ §7You froze to death.",
       "sourceId": "a7ec44cfdcd9b1884d8d330e",
       "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Glacite_Tunnels",
       "sourceRevision": 851508,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=851508",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -31646,9 +31824,9 @@
       "scope": "system",
       "npc": "",
       "source": "BRRR! It's getting colder in here...",
-      "translation": "好冷! 这里越来越冷了……",
+      "translation": "BRRR！这里越来越冷了……",
       "styleMappings": {
-        "BRRR!": "好冷!",
+        "BRRR!": "BRRR！",
         "It's getting colder in here...": "这里越来越冷了……"
       },
       "sampleRaw": "§b§lBRRR! §r§aIt's getting colder in here...",
@@ -31657,7 +31835,8 @@
       "sourceRevision": 860269,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860269",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -31677,7 +31856,7 @@
       "scope": "system",
       "npc": "",
       "source": "Maybe next time you'll find a way to escape the cold...",
-      "translation": "也许下次你能找到躲开严寒的办法……",
+      "translation": "也许下次你能找到逃离寒冷的方法……",
       "styleMappings": {},
       "sampleRaw": "§7§oMaybe next time you'll find a way to escape the cold...",
       "sourceId": "c4fd28ab97a06fecad659780",
@@ -31685,18 +31864,19 @@
       "sourceRevision": 860269,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860269",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
       "npc": "",
       "source": "EXCAVATOR! You found a Suspicious Scrap!",
-      "translation": "挖掘! 你找到了一份可疑残料!",
+      "translation": "挖掘者！你发现了一块可疑的碎片！",
       "styleMappings": {
-        "EXCAVATOR!": "挖掘!",
-        "You found a": "你找到了一份",
-        "Suspicious Scrap": "可疑残料",
-        "!": "!"
+        "EXCAVATOR!": "挖掘者！",
+        "You found a": "你发现了一块",
+        "Suspicious Scrap": "可疑的碎片",
+        "!": "！"
       },
       "sampleRaw": "§6§lEXCAVATOR!§f You found a §9Suspicious Scrap§f!",
       "sourceId": "b4d4efb4a4b83f0cb978089f",
@@ -31704,7 +31884,8 @@
       "sourceRevision": 850485,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=850485",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -31936,12 +32117,12 @@
       "scope": "system",
       "npc": "",
       "source": "HOPPITY'S HUNT You found a Hitman Egg!",
-      "translation": "Hoppity 的寻兔行动: 你找到了一枚猎手彩蛋!",
+      "translation": "霍皮蒂的狩猎你发现了一个杀手蛋！",
       "styleMappings": {
-        "HOPPITY'S HUNT": "Hoppity 的寻兔行动:",
-        "You found a": "你找到了一枚",
-        "Hitman Egg": "猎手彩蛋",
-        "!": "!"
+        "HOPPITY'S HUNT": "霍皮蒂的狩猎",
+        "You found a": "你发现了一个",
+        "Hitman Egg": "杀手蛋",
+        "!": "！"
       },
       "sampleRaw": "§d§lHOPPITY'S HUNT §r§dYou found a §cHitman Egg§d!",
       "sourceId": "35d32a12192f24f2c6ee9b14",
@@ -31949,7 +32130,8 @@
       "sourceRevision": 857850,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=857850",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -35300,12 +35482,12 @@
       "scope": "system",
       "npc": "",
       "source": "LUCKY! Your Resourceful perk saved your key from being consumed!",
-      "translation": "幸运! 你的物尽其用天赋避免了钥匙被消耗!",
+      "translation": "幸运！你的足智多谋技能让你的钥匙免于被消耗！",
       "styleMappings": {
-        "LUCKY! ": "幸运! ",
-        "Your ": "你的",
-        "Resourceful ": "物尽其用",
-        "perk saved your key from being consumed!": "天赋避免了钥匙被消耗!"
+        "LUCKY!": "幸运！",
+        "Your": "你的",
+        "Resourceful": "足智多谋",
+        "perk saved your key from being consumed!": "技能让你的钥匙免于被消耗！"
       },
       "sampleRaw": "§6§lLUCKY! §fYour §r§eResourceful §r§fperk saved your key from being consumed!",
       "sourceId": "400ec2325b16f9a7069cc2e7",
@@ -35313,7 +35495,8 @@
       "sourceRevision": 861520,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861520",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -35464,9 +35647,10 @@
       "scope": "system",
       "npc": "",
       "source": "Carnival Ticket x5",
-      "translation": "嘉年华门票 x5",
+      "translation": "嘉年华门票x5",
       "styleMappings": {
-        "Carnival Ticket": "嘉年华门票"
+        "Carnival Ticket": "嘉年华门票",
+        "x{{N0}}": "x{{N0}}"
       },
       "sampleRaw": "§aCarnival Ticket §8x5",
       "sourceId": "6b27636a640ed39a40a2a53f",
@@ -35476,15 +35660,17 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "Carnival Ticket x{{N0}}",
-      "numericTranslation": "嘉年华门票 x{{N0}}"
+      "numericTranslation": "嘉年华门票x{{N0}}",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
       "npc": "",
       "source": "Carnival Ticket x{{N0}}",
-      "translation": "嘉年华门票 x{{N0}}",
+      "translation": "嘉年华门票x{{N0}}",
       "styleMappings": {
-        "Carnival Ticket": "嘉年华门票"
+        "Carnival Ticket": "嘉年华门票",
+        "x{{N0}}": "x{{N0}}"
       },
       "sampleRaw": "Carnival Ticket x{{N0}}",
       "sourceId": "6b27636a640ed39a40a2a53f",
@@ -35494,10 +35680,11 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "Carnival Ticket x{{N0}}",
-      "numericTranslation": "嘉年华门票 x{{N0}}",
+      "numericTranslation": "嘉年华门票x{{N0}}",
       "templateExamples": {
         "{{N0}}": "5"
-      }
+      },
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -35835,7 +36022,7 @@
       "scope": "system",
       "npc": "",
       "source": "Rewards:",
-      "translation": "奖励:",
+      "translation": "奖励：",
       "styleMappings": {},
       "sampleRaw": "§7Rewards:",
       "sourceId": "4a496775d55797acac5a8b2a",
@@ -35843,7 +36030,8 @@
       "sourceRevision": 822499,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=822499",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -36392,7 +36580,7 @@
       "scope": "system",
       "npc": "",
       "source": "Passive Active Event",
-      "translation": "挖矿活动",
+      "translation": "被动激活事件",
       "styleMappings": {},
       "sampleRaw": "§7Passive Active Event",
       "sourceId": "1d0ced7057c4c6e986746a15",
@@ -36400,7 +36588,8 @@
       "sourceRevision": 857208,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=857208",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -36534,7 +36723,7 @@
       "scope": "system",
       "npc": "",
       "source": "Be careful! Using Ender Pearls on this island will anger nearby Endermen!",
-      "translation": "小心! 在这座岛上使用末影珍珠会激怒附近的末影人!",
+      "translation": "小心！在这个岛上使用末影珍珠会激怒附近的末影人！",
       "styleMappings": {},
       "sampleRaw": "§cBe careful! Using Ender Pearls on this island will anger nearby Endermen!",
       "sourceId": "ae32081bd1cd23472df11832",
@@ -36542,7 +36731,8 @@
       "sourceRevision": 859581,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=859581",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -39246,7 +39436,7 @@
       "scope": "system",
       "npc": "",
       "source": "In Memoriam",
-      "translation": "谨此纪念",
+      "translation": "纪念",
       "styleMappings": {},
       "sampleRaw": "§7In Memoriam",
       "sourceId": "3caa24e6686aa74912931a5d",
@@ -39254,7 +39444,8 @@
       "sourceRevision": 843103,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=843103",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -41544,10 +41735,11 @@
       "scope": "system",
       "npc": "",
       "source": "Buy fishing essentials from the Fishing Merchant.",
-      "translation": "向钓鱼商人购买钓鱼必需品。",
+      "translation": "从渔夫商人处购买钓鱼必需品。",
       "styleMappings": {
-        "Fishing Merchant": "钓鱼商人",
-        ".": "。"
+        "Buy fishing essentials from the": "从",
+        "Fishing Merchant": "渔夫商人",
+        ".": "处购买钓鱼必需品。"
       },
       "sampleRaw": "Buy fishing essentials from the §bFishing Merchant§f.",
       "sourceId": "9ddfb43a8d53825b6cf3284d",
@@ -41555,7 +41747,8 @@
       "sourceRevision": 806778,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=806778",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -42085,7 +42278,7 @@
       "scope": "system",
       "npc": "",
       "source": "Smells of burning. Must be a Fried Chicken.",
-      "translation": "闻到焦味了。肯定有一只炸鸡。",
+      "translation": "有股烧焦味。肯定是只炸鸡。",
       "styleMappings": {},
       "sampleRaw": "§aSmells of burning. Must be a Fried Chicken.",
       "sourceId": "22374d60071b32ac12372124",
@@ -42093,7 +42286,8 @@
       "sourceRevision": 861511,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861511",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -55658,7 +55852,8 @@
       "sourceRevision": 851938,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=851938",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -58368,7 +58563,7 @@
       "scope": "system",
       "npc": "",
       "source": "This pet doesn't want candies! They are already full enough!",
-      "translation": "这只宠物不想再吃糖果了! 它已经吃得够多了!",
+      "translation": "这只宠物不想吃糖果！它们已经吃得够饱了！",
       "styleMappings": {},
       "sampleRaw": "§cThis pet doesn't want candies! They are already full enough!",
       "sourceId": "c4ed187c41b11a3aa1dfcc87",
@@ -58376,7 +58571,8 @@
       "sourceRevision": 842676,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=842676",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -60557,10 +60753,10 @@
       "scope": "system",
       "npc": "",
       "source": "RUNE! You found a rune!",
-      "translation": "符文! 你找到了一枚符文!",
+      "translation": "符文！你发现了一个符文！",
       "styleMappings": {
-        "RUNE!": "符文!",
-        "You found a rune!": "你找到了一枚符文!"
+        "RUNE!": "符文！",
+        "You found a rune!": "你发现了一个符文！"
       },
       "sampleRaw": "§d§lRUNE! §7You found a rune!",
       "sourceId": "a41626ff03ff03eeb5d8533b",
@@ -60568,7 +60764,8 @@
       "sourceRevision": 847618,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=847618",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -65310,7 +65507,7 @@
       "scope": "system",
       "npc": "",
       "source": "Mute silenced you!",
-      "translation": "你已被禁言!",
+      "translation": "缄默者让你沉默了！",
       "styleMappings": {},
       "sampleRaw": "§cMute silenced you!",
       "sourceId": "fe47a1b7fe5310cca89e2596",
@@ -65318,7 +65515,8 @@
       "sourceRevision": 861918,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861918",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -66710,13 +66908,14 @@
       "sourceRevision": 842389,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=842389",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
       "npc": "",
       "source": "Watch out for the Zombies that lurk here!",
-      "translation": "小心潜伏在这里的僵尸!",
+      "translation": "小心潜伏在此的僵尸！",
       "styleMappings": {},
       "sampleRaw": "Watch out for the Zombies that lurk here!",
       "sourceId": "a6b99fc6eca1073f2c338184",
@@ -66724,23 +66923,23 @@
       "sourceRevision": 842389,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=842389",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
       "npc": "",
       "source": "NEW OBJECTIVE",
       "translation": "新目标",
-      "styleMappings": {
-        "NEW OBJECTIVE": "新目标"
-      },
+      "styleMappings": {},
       "sampleRaw": "§6§lNEW OBJECTIVE",
       "sourceId": "092207d75f3c4c1475eef6cc",
       "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Quests",
       "sourceRevision": 862129,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=862129",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -66770,7 +66969,8 @@
       "sourceRevision": 862129,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=862129",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -70498,12 +70698,11 @@
       "scope": "system",
       "npc": "",
       "source": "The Traveling Zoo is visiting the SkyBlock Hub!",
-      "translation": "巡回动物园已抵达 空岛 主城!",
+      "translation": "巡回动物园正在参观空岛主城！",
       "styleMappings": {
-        "Traveling Zoo": "巡回动物园",
-        "is visiting the": "已抵达",
-        "SkyBlock Hub": "空岛 主城",
-        "!": "!"
+        "Traveling Zoo is visiting the": "巡回动物园正在参观",
+        "SkyBlock Hub": "空岛主城",
+        "!": "！"
       },
       "sampleRaw": "§eThe §aTraveling Zoo is visiting the §bSkyBlock Hub§e!",
       "sourceId": "3e51a89d1c9586e989a43319",
@@ -70511,18 +70710,19 @@
       "sourceRevision": 826477,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=826477",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
       "npc": "",
       "source": "CLICK HERE to shop for exotic pets!",
-      "translation": "点击此处选购珍奇宠物!",
+      "translation": "点击这里购买异域宠物！",
       "styleMappings": {
-        "CLICK HERE": "点击此处",
-        "to shop for": "选购",
-        "exotic pets": "珍奇宠物",
-        "!": "!"
+        "CLICK HERE": "点击这里",
+        "to shop for": "购买",
+        "exotic pets": "异域宠物",
+        "!": "！"
       },
       "sampleRaw": "§e§lCLICK HERE §r§eto shop for §6exotic pets§e!",
       "sourceId": "7c71a48201cbc09a3d393ee6",
@@ -70530,7 +70730,8 @@
       "sourceRevision": 826477,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=826477",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -70617,11 +70818,11 @@
       "scope": "system",
       "npc": "",
       "source": "A special Zealot has spawned nearby!",
-      "translation": "附近出现了一只特殊狂热末影人!",
+      "translation": "Zealot一只特殊的已在附近生成！",
       "styleMappings": {
-        "A special": "附近出现了一只特殊",
-        "Zealot": "狂热末影人",
-        "has spawned nearby!": "!"
+        "Zealot": "Zealot",
+        "A special": "一只特殊的",
+        "has spawned nearby!": "已在附近生成！"
       },
       "sampleRaw": "§aA special §5Zealot §ahas spawned nearby!",
       "sourceId": "a2d40ba1db13de34cc6f7bd8",
@@ -70629,7 +70830,8 @@
       "sourceRevision": 861852,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861852",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -70758,12 +70960,12 @@
       "scope": "system",
       "npc": "",
       "source": "SOUL! You found a Fairy Soul!",
-      "translation": "灵魂! 你找到了一枚仙女之魂!",
+      "translation": "灵魂！你发现了一个仙女之魂！",
       "styleMappings": {
-        "SOUL!": "灵魂!",
-        "You found a": "你找到了一枚",
+        "SOUL!": "灵魂！",
+        "You found a": "你发现了一个",
         "Fairy Soul": "仙女之魂",
-        "!": "!"
+        "!": "！"
       },
       "sampleRaw": "§d§lSOUL! §fYou found a §dFairy Soul§r§f!",
       "sourceId": "1c63aadde5ca5cffcb8c1617",
@@ -70771,13 +70973,14 @@
       "sourceRevision": 862572,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=862572",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
       "npc": "",
       "source": "You have already found that Fairy Soul!",
-      "translation": "这个仙女之魂你已经找到过了!",
+      "translation": "你已经找到过那个仙女之魂了！",
       "styleMappings": {},
       "sampleRaw": "§dYou have already found that Fairy Soul!",
       "sourceId": "7030072be8eda6ce292d860e",
@@ -70785,17 +70988,18 @@
       "sourceRevision": 862572,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=862572",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
       "npc": "",
       "source": "Summon the Ender Dragon!",
-      "translation": "召唤末影龙!",
+      "translation": "召唤末影龙！",
       "styleMappings": {
         "Summon the": "召唤",
         "Ender Dragon": "末影龙",
-        "!": "!"
+        "!": "！"
       },
       "sampleRaw": "Summon the §5Ender Dragon§f!",
       "sourceId": "3eefed104f985d9fc582af09",
@@ -70803,13 +71007,14 @@
       "sourceRevision": 788161,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=788161",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
       "npc": "",
       "source": "Fight Zealots.",
-      "translation": "击败狂热末影人。",
+      "translation": "与末地战士战斗。",
       "styleMappings": {},
       "sampleRaw": "Fight Zealots.",
       "sourceId": "ed491a98f0cf685d12302588",
@@ -70817,7 +71022,8 @@
       "sourceRevision": 788161,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=788161",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -71159,7 +71365,8 @@
       "sourceRevision": 845567,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=845567",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -71402,7 +71609,7 @@
       "scope": "system",
       "npc": "",
       "source": "You feel a tremor from beneath the earth!",
-      "translation": "你感觉到地下传来一阵震动!",
+      "translation": "你感到地下传来一阵震动！",
       "styleMappings": {},
       "sampleRaw": "§cYou feel a tremor from beneath the earth!",
       "sourceId": "cb4ca89a71456bfce1503b46",
@@ -71410,25 +71617,23 @@
       "sourceRevision": 861473,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861473",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
       "npc": "",
       "source": "The ground begins to shake as an End Stone Protector rises from below!",
-      "translation": "地面开始震动,末地石守护者正从地下升起!",
-      "styleMappings": {
-        "The ground begins to shake as an": "地面开始震动,",
-        "End Stone Protector": "末地石守护者",
-        "rises from below!": "正从地下升起!"
-      },
+      "translation": "大地开始颤抖，一只末地石守护者从下方升起！",
+      "styleMappings": {},
       "sampleRaw": "§c§lThe ground begins to shake as an End Stone Protector rises from below!",
       "sourceId": "175c7fb32d07ee89afacbc7f",
       "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/End_Stone_Protector",
       "sourceRevision": 861473,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861473",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -75655,7 +75860,7 @@
       "scope": "system",
       "npc": "",
       "source": "Fight Endermen and Endermites.",
-      "translation": "击败末影人和末影螨。",
+      "translation": "与末影人和末影螨战斗。",
       "styleMappings": {},
       "sampleRaw": "Fight Endermen and Endermites.",
       "sourceId": "9f8414425c204c907947a869",
@@ -75663,7 +75868,8 @@
       "sourceRevision": 843879,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=843879",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -75677,7 +75883,8 @@
       "sourceRevision": 843879,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=843879",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -75685,6 +75892,7 @@
       "source": "Travel to the Dragon's Nest.",
       "translation": "前往龙巢。",
       "styleMappings": {
+        "Travel to the": "前往",
         "Dragon's Nest": "龙巢",
         ".": "。"
       },
@@ -75694,7 +75902,8 @@
       "sourceRevision": 843879,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=843879",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -79523,12 +79732,12 @@
       "scope": "system",
       "npc": "",
       "source": "You consumed a Booster Cookie! Delicious!",
-      "translation": "你吃掉了一块增益曲奇! 美味!",
+      "translation": "你食用了一块增益饼干！真美味！",
       "styleMappings": {
-        "You consumed a": "你吃掉了一块",
-        "Booster Cookie": "增益曲奇",
-        "!": "!",
-        "Delicious!": "美味!"
+        "You consumed a": "你食用了一块",
+        "Booster Cookie": "增益饼干",
+        "!": "！",
+        "Delicious!": "真美味！"
       },
       "sampleRaw": "§eYou consumed a §6Booster Cookie§e! §dDelicious!",
       "sourceId": "721db913953445ed106be419",
@@ -79536,7 +79745,8 @@
       "sourceRevision": 857587,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=857587",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -82099,11 +82309,11 @@
       "scope": "system",
       "npc": "",
       "source": "The sound of pickaxes clashing against the rock has attracted the attention of the POWDER GHAST!",
-      "translation": "镐子凿石的动静把粉末恶魂引来了!",
+      "translation": "镐子敲击岩石的声音引起了POWDER GHAST的注意！",
       "styleMappings": {
-        "The sound of pickaxes clashing against the rock has attracted the attention of the": "镐子凿石的动静把",
-        "POWDER GHAST": "粉末恶魂",
-        "!": "引来了!"
+        "The sound of pickaxes clashing against the rock has attracted the attention of the": "镐子敲击岩石的声音引起了",
+        "POWDER GHAST": "POWDER GHAST",
+        "!": "的注意！"
       },
       "sampleRaw": "§6The sound of pickaxes clashing against the rock has attracted the attention of the §lPOWDER GHAST§6!",
       "sourceId": "83e29ad703af802adf37d6e9",
@@ -82111,7 +82321,8 @@
       "sourceRevision": 861736,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861736",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -82251,7 +82462,7 @@
       "scope": "system",
       "npc": "",
       "source": "The Royal Pigeon can't find the King from here.",
-      "translation": "皇家信鸽在这儿找不到国王。",
+      "translation": "皇家鸽子从这里找不到国王。",
       "styleMappings": {},
       "sampleRaw": "§cThe Royal Pigeon can't find the King from here.",
       "sourceId": "9a2a62bbea9081cd2676f43d",
@@ -82259,7 +82470,8 @@
       "sourceRevision": 833716,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=833716",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -82565,7 +82777,7 @@
       "scope": "system",
       "npc": "",
       "source": "Everybody gets twice as much powder of all types!",
-      "translation": "所有人获得的各类粉末翻倍!",
+      "translation": "所有人获得的所有类型粉末翻倍！",
       "styleMappings": {},
       "sampleRaw": "§fEverybody gets twice as much powder of all types!",
       "sourceId": "351a9ef03bca0eddc3caea04",
@@ -82573,7 +82785,8 @@
       "sourceRevision": 812452,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=812452",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -82614,7 +82827,7 @@
       "scope": "system",
       "npc": "",
       "source": "Powder amount is back to normal, but there will be another",
-      "translation": "粉末产量恢复正常,不过很快还会有",
+      "translation": "粉末数量已恢复正常，但很快还会有另一场",
       "styleMappings": {},
       "sampleRaw": "§fPowder amount is back to normal, but there will be another",
       "sourceId": "6ee3d15c38c0b83567b403f5",
@@ -82622,13 +82835,14 @@
       "sourceRevision": 812452,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=812452",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
       "npc": "",
       "source": "event soon!",
-      "translation": "下一场活动!",
+      "translation": "活动！",
       "styleMappings": {},
       "sampleRaw": "event soon!",
       "sourceId": "8983c2d184c99859d11f6c2f",
@@ -82636,7 +82850,8 @@
       "sourceRevision": 812452,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=812452",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -82718,7 +82933,7 @@
       "scope": "system",
       "npc": "",
       "source": "Mining Event",
-      "translation": "挖矿活动",
+      "translation": "采矿活动",
       "styleMappings": {},
       "sampleRaw": "§7Mining Event",
       "sourceId": "872c4890e2111b77e94a1e62",
@@ -82726,7 +82941,8 @@
       "sourceRevision": 831575,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=831575",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -85478,13 +85694,13 @@
       "scope": "system",
       "npc": "",
       "source": "Go there and talk to the Baker to get your New Year's Cake!",
-      "translation": "快去找面包师领你的新年蛋糕!",
+      "translation": "去那里和面包师交谈，领取你的新年蛋糕！",
       "styleMappings": {
-        "Go there and talk to the": "快去找",
+        "Go there and talk to the": "去那里和",
         "Baker": "面包师",
-        "to get your": "领你的",
+        "to get your": "交谈，领取你的",
         "New Year's Cake": "新年蛋糕",
-        "!": "!"
+        "!": "！"
       },
       "sampleRaw": "§aGo there and talk to the §bBaker §ato get your §dNew Year's Cake§a!",
       "sourceId": "98c13bccc3913ea5f30e2fca",
@@ -85492,16 +85708,17 @@
       "sourceRevision": 826471,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=826471",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
       "npc": "",
       "source": "Baker has appeared on your island!",
-      "translation": "面包师出现在你的岛上了!",
+      "translation": "面包师已出现在你的岛屿上！",
       "styleMappings": {
         "Baker": "面包师",
-        "has appeared on your island!": "出现在你的岛上了!"
+        "has appeared on your island!": "已出现在你的岛屿上！"
       },
       "sampleRaw": "§dBaker §ehas appeared on your island!",
       "sourceId": "00ceeae96dbf8cdd9ba0f125",
@@ -85509,7 +85726,8 @@
       "sourceRevision": 826471,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=826471",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -85559,7 +85777,7 @@
       "scope": "system",
       "npc": "",
       "source": "Not enough soulflow!",
-      "translation": "魂流不足!",
+      "translation": "灵魂流不足！",
       "styleMappings": {},
       "sampleRaw": "§cNot enough soulflow!",
       "sourceId": "569a692aee37de9e52e289be",
@@ -85567,7 +85785,8 @@
       "sourceRevision": 839283,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=839283",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -85735,11 +85954,11 @@
       "scope": "system",
       "npc": "",
       "source": "You have been teleported out of the Crystal Hollows because you did not have a valid pass!",
-      "translation": "由于没有有效通行证,你已被传送出水晶残核!",
+      "translation": "你已被传送出水晶洞窟，因为你没有有效的通行证！",
       "styleMappings": {
-        "You have been teleported out of the": "由于没有有效通行证,你已被传送出",
-        "Crystal Hollows": "水晶残核",
-        "because you did not have a valid pass!": "!"
+        "You have been teleported out of the": "你已被传送出",
+        "Crystal Hollows": "水晶洞窟",
+        "because you did not have a valid pass!": "，因为你没有有效的通行证！"
       },
       "sampleRaw": "§eYou have been teleported out of the §5Crystal Hollows §ebecause you did not have a valid pass!",
       "sourceId": "bf28942ee86199eb94c8d623",
@@ -85747,7 +85966,8 @@
       "sourceRevision": 859711,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=859711",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -85844,7 +86064,7 @@
       "scope": "system",
       "npc": "",
       "source": "Place all Crystals at the statues.",
-      "translation": "将所有水晶放到对应的雕像处。",
+      "translation": "将所有水晶放置在雕像处。",
       "styleMappings": {},
       "sampleRaw": "Place all Crystals at the statues.",
       "sourceId": "ff7875e5bc56ae99519358ab",
@@ -85852,7 +86072,8 @@
       "sourceRevision": 860548,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860548",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -85874,11 +86095,11 @@
       "scope": "system",
       "npc": "",
       "source": "Keep exploring the Crystal Hollows to find the rest!",
-      "translation": "继续探索水晶残核,找齐剩下的水晶!",
+      "translation": "继续探索水晶洞窟以找到其余的！",
       "styleMappings": {
         "Keep exploring the": "继续探索",
-        "Crystal Hollows": "水晶残核",
-        "to find the rest!": ",找齐剩下的水晶!"
+        "Crystal Hollows": "水晶洞窟",
+        "to find the rest!": "以找到其余的！"
       },
       "sampleRaw": "§dKeep exploring the §5Crystal Hollows §dto find the rest!",
       "sourceId": "1e4c932da71874f51814bcff",
@@ -85886,7 +86107,8 @@
       "sourceRevision": 860548,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860548",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -86096,7 +86318,7 @@
       "scope": "system",
       "npc": "",
       "source": "Your armadillo is full of energy!",
-      "translation": "你的犰狳已充满能量!",
+      "translation": "你的穿山甲充满活力！",
       "styleMappings": {},
       "sampleRaw": "§eYour armadillo is full of energy!",
       "sourceId": "256fcdd4c2eb03f8599083f0",
@@ -86104,13 +86326,14 @@
       "sourceRevision": 812554,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=812554",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
       "npc": "",
       "source": "Rolling miner granted you double drops!",
-      "translation": "滚动矿工让你获得了双倍掉落!",
+      "translation": "滚动矿工赋予了你双倍掉落！",
       "styleMappings": {},
       "sampleRaw": "§aRolling miner granted you double drops!",
       "sourceId": "d3488f5de307d5e7b0453a34",
@@ -86118,7 +86341,8 @@
       "sourceRevision": 812554,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=812554",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -86166,7 +86390,7 @@
       "scope": "system",
       "npc": "",
       "source": "A vast and sprawling underground civilization.",
-      "translation": "一个庞大而广阔的地下文明。",
+      "translation": "一座广阔而庞大的地下文明。",
       "styleMappings": {},
       "sampleRaw": "A vast and sprawling underground civilization.",
       "sourceId": "9dfc8e3fe5383f5f9acd41d7",
@@ -86174,13 +86398,14 @@
       "sourceRevision": 838184,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=838184",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
       "npc": "",
       "source": "Temples and puzzles hide their treasures.",
-      "translation": "神庙与谜题之中藏着他们的宝藏。",
+      "translation": "神庙与谜题隐藏着它们的宝藏。",
       "styleMappings": {},
       "sampleRaw": "Temples and puzzles hide their treasures.",
       "sourceId": "9db7cdbaa1b1ad5dc491299d",
@@ -86188,13 +86413,14 @@
       "sourceRevision": 838184,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=838184",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
       "npc": "",
       "source": "...and deep secrets.",
-      "translation": "……还有深藏的秘密。",
+      "translation": "……以及深藏的秘密。",
       "styleMappings": {},
       "sampleRaw": "...and deep secrets.",
       "sourceId": "ac069feb85f71abac87e72bf",
@@ -86202,25 +86428,23 @@
       "sourceRevision": 838184,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=838184",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
       "npc": "",
       "source": "This item has unused Gemstones! Visit Geo to remove them!",
-      "translation": "此物品上有未生效的宝石! 找 Geo 取下它们吧!",
-      "styleMappings": {
-        "This item has unused Gemstones! Visit": "此物品上有未生效的宝石! 找",
-        "Geo": "Geo",
-        "to remove them!": "取下它们吧!"
-      },
+      "translation": "此物品有未使用的宝石！拜访 Geo 来移除它们！",
+      "styleMappings": {},
       "sampleRaw": "§cThis item has unused Gemstones! Visit Geo to remove them!",
       "sourceId": "8c957320ad1e6d53547a7f10",
       "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Yog_Armor",
       "sourceRevision": 856770,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=856770",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -86572,7 +86796,7 @@
       "scope": "system",
       "npc": "",
       "source": "Fight Sludges.",
-      "translation": "击败软泥怪。",
+      "translation": "与史莱姆泥战斗。",
       "styleMappings": {},
       "sampleRaw": "Fight Sludges.",
       "sourceId": "dff86730ca8386838d3d64e9",
@@ -86580,7 +86804,8 @@
       "sourceRevision": 789290,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=789290",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -86600,7 +86825,7 @@
       "scope": "system",
       "npc": "",
       "source": "Meet the local tribe!",
-      "translation": "拜访当地部族!",
+      "translation": "见见当地的部落！",
       "styleMappings": {},
       "sampleRaw": "Meet the local tribe!",
       "sourceId": "8d6be73d5eb9706f60886792",
@@ -86608,7 +86833,8 @@
       "sourceRevision": 789290,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=789290",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -86788,11 +87014,11 @@
       "scope": "system",
       "npc": "",
       "source": "It still counts towards your Museum progress, but not towards your total item value.",
-      "translation": "它仍计入你的博物馆进度，但不计入物品总价值。",
+      "translation": "它仍会计入你的博物馆进度，但不会计入你的物品总价值。",
       "styleMappings": {
-        "It still counts towards your": "它仍计入你的",
+        "It still counts towards your": "它仍会计入你的",
         "Museum": "博物馆",
-        "progress, but not towards your": "进度，但不计入",
+        "progress, but not towards your": "进度，但不会计入你的",
         "total item value": "物品总价值",
         ".": "。"
       },
@@ -86802,7 +87028,8 @@
       "sourceRevision": 860146,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860146",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -87193,7 +87420,8 @@
       "sourceRevision": 851149,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=851149",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -88086,7 +88314,7 @@
       "scope": "system",
       "npc": "",
       "source": "You cannot access the bazaar during a challenge.",
-      "translation": "挑战期间无法使用集市。",
+      "translation": "挑战期间你无法访问集市。",
       "styleMappings": {},
       "sampleRaw": "§cYou cannot access the bazaar during a challenge.",
       "sourceId": "f9f8e6a8548cc8c6b079671b",
@@ -88094,7 +88322,8 @@
       "sourceRevision": 813102,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=813102",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",

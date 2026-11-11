@@ -1,0 +1,15 @@
+{
+  "title": "Potentia Glyph",
+  "pageid": 111470,
+  "revision": 817518,
+  "timestamp": "2026-08-11T22:46:33Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Potentia_Glyph",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=817518",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Pages with UIs",
+    "Template:Dialogue",
+    "Template:UI"
+  ],
+  "wikitext": "{{Infobox/Item\n|rarity=e\n|auctionable=no\n|salable=no\n|tradeable = n\n|rift_transferrable = no\n|id=GLYPH_POTENTIA\n}}\nThe '''Potentia Glyph''' is an {{Epic}} Quest Item obtained in the [[Rift Dimension]].\n\n== Obtaining ==\nThe '''Potentia Glyph''' can be obtained after starting {{NPCSprite|Sorcerer Okron}}'s quest and imbuing the {{Item|Robur Glyph}}, then opening the chest in a server room at {{Coords|-57.5|80|-14.5}} within the {{Zone|West Village}}. Once given to Okron, it can no longer be obtained.\n\n== Interface ==\n{{/UI}}\n\n== Usage ==\nThe '''Potentia Glyph''' can be given to {{NPCSprite|Sorcerer Okron}}. When given, he will task the player with using the {{Item|Warding Diamathame}} to imbue a spell onto the house.\n\n== Game Messages ==\n{|class=\"wikitable\"\n! Condition\n! Message\n|-\n| {{Dialogue|\n&7You found &5Potentia Glyph&7!\n&7&oYou should return it to Okron...\n}}\n| Finding the Glyph\n|-\n| {{Dialogue|&cYou already have one in your inventory!}}\n| Trying to claim another Glyph while already owning one\n|}\n\n== Gallery ==\n<gallery>\nPotentia Glyph (Render).png|The map image shown while holding the Potentia Glyph\nPotentia Glyph (Particle Render).png|The non-imbued particles surrounding the house\nPotentia Glyph (Particle Render 2).png|The imbued particles surrounding the house\n</gallery>\n\n== History ==\n{{History table\n|ahn=\n{{history|2023/May 4|[[File:Potentia Glyph.png|26px]] Added '''Potentia Glyph'''.}}\n|beta=\n{{history|0.19|[[File:Potentia Glyph.png|26px]] Added '''Potentia Glyph'''.}}\n}}"
+}

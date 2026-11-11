@@ -1,0 +1,13 @@
+{
+  "title": "Plumber's Sponge",
+  "pageid": 20193,
+  "revision": 833612,
+  "timestamp": "2026-09-06T21:58:03Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Plumber%27s_Sponge",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=833612",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{See also|Sponge}}\n{{Infobox/Block\n|rarity = u\n|merchant = Plumber Joe\n|buy = 50\n|id = PLUMBER_SPONGE\n}}\n'''Plumber's Sponge''' is an {{Uncommon}} block obtained from {{NPCSprite|Plumber Joe}} for {{c|50}}. When placed on {{Item|water}} or {{Item|lava}}, it removes all of it touching the block placed up to 30 blocks away.\n\n== Obtaining ==\n=== Shop Purchase ===\nA '''Plumber's Sponge''' can be purchased from {{NPCSprite|Plumber Joe}} for {{Coins|50}}.\n\n== Usage ==\nA '''Plumber's Sponge''' can be placed on the player's {{Zone|Private Island}} placed on {{Item|water}} or {{Item|lava}} to remove all of the connected fluid type up to 30 blocks away. It disappears upon use. \n\n== Game Messages ==\n{|class=\"wikitable\"\n! Message\n! Condition\n|-\n| {{Dialogue|\n&cWater flowing has been temporarily disabled in your world!\n&ePurchase a &aPlumber's Sponge &efrom Joe in the Hub!\n}}\n| When {{Item|Water}} floating is disabled on the {{Zone|Private Island}} or {{Zone|The Garden}}\n|}\n\n== History ==\n{{History table\n|beta=\n{{History|2020/February 28|[[File:Plumber's Sponge.png|26px]] Added '''Plumber's Sponge'''.}}\n{{History|0.11.1|Now functions with lava.}}\n{{History|2022/November 10|Now functions with portals.|link=none}}\n{{History|0.18.3|'''Plumber's Sponge''' can now be used on floating liquids.}}\n{{history|0.19.1|Fixed '''Plumber's Sponge''' not working on portals.}}\n}}\n\n[[Category:Items]]"
+}

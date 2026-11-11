@@ -1,0 +1,14 @@
+{
+  "title": "Advent Calendar",
+  "pageid": 96957,
+  "revision": 858913,
+  "timestamp": "2026-10-15T13:48:34Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Advent_Calendar",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=858913",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Pages with UIs",
+    "Template:UI"
+  ],
+  "wikitext": "{{Hypixel|Advent Calendar}}\n\n{{Infobox/Generic\n|image=Advent Calendar Display.png\n}}\n\nThe '''Advent Calendar''' is a system whereby the player can claim rewards during the 25 days of [[w:Advent|Advent]]. The '''Advent Calendar''' can be accessed through the {{Item|SkyBlock Menu}}. Players with ranks receive extra cosmetic items.\n\n== Rewards ==\n{{Coll S B|id=advent-rewards|text=Show/Hide Advent Calendar Rewards|class=full-width-button}}\n{{Coll S|id=advent-rewards|text={{/Rewards}}}}\n\n== Interface ==\n{{/UI}}\n\n== History ==\n{{History table\n|ahn=\n{{History|2026/Sep 30|Claiming a reward no longer closes the menu.}}\n|beta=\n{{History|2022/Dec 1|Added '''Advent Calendar'''.}}\n{{History|2024/Dec 1|link=none|Fixed '''Advent Calendar''' failing to track gifts given and skill experience gained.}}\n{{History|2024/Dec 13|Fixed being able to use {{code|/sbadvent}} in the [[Rift]].}}\n{{History|0.27.2|Claiming a reward no longer closes the menu.}}\n}}\n[[Category:Non-SkyBlock specific mechanics]]"
+}

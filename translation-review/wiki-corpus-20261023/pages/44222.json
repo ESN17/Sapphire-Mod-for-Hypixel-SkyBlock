@@ -1,0 +1,16 @@
+{
+  "title": "Wool Weaver",
+  "pageid": 44222,
+  "revision": 830508,
+  "timestamp": "2026-09-03T01:33:30Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Wool_Weaver",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=830508",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Category:Pages with UIs",
+    "Template:Dialogue",
+    "Template:UI"
+  ],
+  "wikitext": "{{Infobox/Character\n|shop = Yes\n|abiphone = Yes\n|location = [[Builder's House]]\n|location_page_description = Sells various types of colored [[Wool]], [[Hardened Clay]], and [[Glass]].\n|x = -17.5\n|y = 71\n|z = -57.5\n}}\nThe '''Wool Weaver''' is an [[NPC]] located in the {{Zone|Village}}. She is located on the top floor in the {{Zone|Builder's House}}. She sells various types of colored [[Wool]], [[Hardened Clay]], and [[Glass]].\n\n== Interface ==\n{{/UI}}\n\n== Dialogue ==\n{| class=\"wikitable\"\n! colspan=\"2\" | Condition\n!Dialogue\n|- class=\"article-row-main\"\n| colspan=\"2\" class=\"ct\" | First Interaction\n|{{Dialogue|\n&e[NPC] Wool Weaver&f: If wool shrinks when you wash it...\n&e[NPC] Wool Weaver&f: ...why don't sheep get smaller when it rains?\n}}\n|-\n| rowspan=\"3\" class=\"ct\" | [[Abiphones#Contacts|{{Aqua|Abiphone Contact}}]]\n| class=\"ct\" | None\n|{{Dialogue|\n&e[NPC] Wool Weaver&f: &b✆&f You want to add m-me... as a contact?\n&e[NPC] Wool Weaver&f: &b✆&f I'm so happy!!\n&e[NPC] Wool Weaver&f: &b✆&f I'd gladly supply you with colorful blocks anywhere, but I'm running out of supplies.\n&e[NPC] Wool Weaver&f: &b✆&f Would you mind getting me &a512 Enchanted Wool&f?\n&a&l[GIVE ITEM]\n}}\n|-\n| class=\"ct\" | Meeting Requirements\n|{{Dialogue|&e[NPC] Wool Weaver&f: &b✆&f Thanks a lot. Call me any time to make your island more &cv&6i&eb&ar&ba&9n&dt&f!}}\n|-\n| class=\"ct\" | Not Meeting Requirements\n|{{Dialogue|&e[NPC] Wool Weaver&f: &b✆&f You don't have what I need! Nice try!}}\n|}\n\n== Trivia ==\n* Buying all the wool needed for the '''Wool Weaver'''{{'}}s Abiphone contact from the Wool Weaver herself costs {{c|{{#expr:512*160*32}}}}.\n\n== History ==\n{{History table\n|ahn=\n{{History|2026/Jan 30|Moved '''Wool Weaver''' from {{coords|-47|74|-30.5}} to {{Coords|-17.5|71|-57.5}}, due to the redesign of the [[Hub Island]].}}\n|beta=\n{{History|0.7.10|[[File:Wool Weaver.png|26px]] Added '''Wool Weaver'''.}}\n{{History|0.9.7|Moved [[Wool Weaver]] to the Builder's House.}}\n{{History|2020/November 7|link=none|The '''Wool Weaver''' now sells {{Item|Light Gray Wool}}, {{Item|White Wool}}, {{Item|Light Gray Hardened Clay}}, {{Item|White Hardened Clay}}, {{Item|Light Gray Stained Glass}}, and {{Item|White Stained Glass}}.}}\n{{History|0.18.3|Added [[Abiphones#Contacts|{{Aqua|Abiphone Contact}}]].}}\n{{History|0.19.3|Items can now be sold to '''Wool Weaver'''.}}\n{{History|0.24.2|Moved '''Wool Weaver''' from {{coords|-47|74|-30.5}} to {{Coords|-17.5|71|-57.5}}, due to the redesign of the [[Hub Island]].}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}"
+}

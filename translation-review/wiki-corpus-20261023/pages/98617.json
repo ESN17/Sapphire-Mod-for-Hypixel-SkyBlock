@@ -1,0 +1,16 @@
+{
+  "title": "Inverted Sirius",
+  "pageid": 98617,
+  "revision": 813797,
+  "timestamp": "2026-08-11T19:26:50Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Inverted_Sirius",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=813797",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Category:Pages with UIs",
+    "Template:Dialogue",
+    "Template:UI"
+  ],
+  "wikitext": "{{Infobox/Character\n|location = [[Wyld Woods]]\n|location_page_description = Allows the player to transfer {{Rift Transferable}} items to outside the dimension.\n|x = -96.5 \n|y = 75 \n|z = 190.5\n}}\n'''Inverted Sirius''' is an [[NPC]] located in the {{zone|Wyld Woods}}. After the player gives them the {{Item|Stability Elixir}}, they allow {{Rift Transferable}} items to be transferred from the [[Rift]] to the main dimension and grant the {{Item|Doubloon of the Family}}.\n\n== Interface ==\n{{/UI}}\n\n== Dialogue ==\n{| class=\"wikitable\"\n!Condition\n!Dialogue\n|-\n| class=\"ct\" | First Interaction\n|{{Dialogue|\n&e[NPC] Inverted Sirius&f: Howdy!\n&e[NPC] Inverted Sirius&f: As you see, I've done all the &d&oleg&f&owork&f... all the research!\n&e[NPC] Inverted Sirius&f: I found a way to &csmuggle&f items in and out of the Rift Dimension.\n&e[NPC] Inverted Sirius&f: Bring me a &9Stability Elixir&f and I'll show you how!\n}}\n|-\n| class=\"ct\" | Before giving [[Stability Elixir]]\n|{{Dialogue|\n&e[NPC] Inverted Sirius&f: Bring me a &9Stability Elixir&f and I'll let you smuggle items between dimensions!\n&e[NPC] Inverted Sirius&f: You should be able to find the potion at any local brewery.\n}}\n|-\n| class=\"ct\" | Opening [[Ender Chest]]<br>{{DG|Haven't Given Stability Elixir}}\n|{{Dialogue|\n&e[NPC] Inverted Sirius&f: Woah there!\n&e[NPC] Inverted Sirius&f: Don't touch that!\n}}\n|-\n| class=\"ct\" | Giving [[Stability Elixir]]\n|{{Dialogue|\n&e[NPC] Inverted Sirius&f: That hits the spot!\n&e[NPC] Inverted Sirius&f: Alright, both here and in the real world I've placed this &5Ender Chest&f.\n&e[NPC] Inverted Sirius&f: Use it to transfer &5Rift-Transferable&f items.\n&e[NPC] Inverted Sirius&f: Keep in mind, the items may turn &ddifferent&f between dimensions!\n&e[NPC] Inverted Sirius&f: Here, take this example item.\n}}\n|-\n| class=\"ct\" | Not Claiming [[Doubloon of the Family]]\n|{{Dialogue|&e[NPC] Inverted Sirius&f: Uh... you didn't pick up the example item.}}\n|-\n!Condition\n!Random Dialogue\n|-\n| rowspan=\"3\" class=\"ct\" | None\n|{{Dialogue|&e[NPC] Inverted Sirius&f: You know, you learn a lot from looking at people's shoes.}}\n|-\n|{{Dialogue|\n&e[NPC] Inverted Sirius&f: I don't know how long I've been stuck here.\n&e[NPC] Inverted Sirius&f: &fSmuggling items is easy, but transferring people has its dangers.\n}}\n|-\n| {{Dialogue|&e[NPC] Inverted Sirius&f: &fDon't tell the wizard about me.}}\n|}\n\n== History ==\n{{History table\n|ahn=\n{{history|2023/May 4|[[File:Inverted Sirius.png|26px]] Added '''Inverted Sirius'''.}}\n|beta=\n{{History|0.19|[[File:Inverted Sirius.png|26px]] Added '''Inverted Sirius'''.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}\n[[Category:Rift Dimension]]"
+}

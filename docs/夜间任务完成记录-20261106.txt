@@ -1,0 +1,69 @@
+Sapphire 夜间工作记录（2026-11-06）
+
+开发基线：Minecraft 26.3，Fabric Loader 0.19.5，Java 25，dev 0.0.8。
+保留 26.3 主工程。未重新导出三个版本的发行包。用户已取消关机要求，电脑保持开机。
+
+一、教程问答
+新增 /sahelp 问题 和 /sapphire help 问题。
+先显示 [SAPPHIRE] 正在思考中……，使用当前 API 配置检索服务器 Wiki 快照并生成回答。
+服务器 https://sapphire.esn17cabin.club/wiki/ 已部署，共 3,212 个页面，保留来源、版本与许可证。
+支持关键词检索、相关段落摘录、NPC 商店引用补查和一次有界补充检索。
+Wiki 数据库存放在站点公开目录之外，接口只读，不要求玩家设置服务器凭据。
+教程、接收消息、发送聊天使用三个独立提示词，可在 /sapphire 的 API 页面切换编辑。
+回答正文白色，前缀使用默认配色。已收录物品从当前词库转换为中文名（英文名），附 Wiki 来源。
+Fiesta Flask 已改为“狂欢之瓶”；识别用户常见拼写 Festia Flask。
+示例已通过真实 DeepSeek 请求验证，可以检索狂欢之瓶、史卡沙碎片和 Doug 的 Refined Mind 相关证据。
+模型回答仍可能出错；知识来自快照，不能视为 Hypixel 实时数据或保证全部问题正确。
+
+二、Odin 可选汉化
+官方来源：https://github.com/odtheking/Odin （通过其官方 Modrinth 页面交叉核对）。
+运行验证版本：Odin 0.4.0 / Minecraft 26.3。
+词典参考官方源码 fba58c19f77bebbabd43369d1da913d1d28ae64b，包含 1,328 条已校验静态文本和动态模板。
+覆盖已提取的设置、界面、HUD 绘制辅助接口和通知；保留数字与格式占位符。
+未安装 Odin 时不加载其类或词典；/sapphire 可关闭 Odin 汉化。
+不把任意动态表达式强行转换为宽泛规则。未提取或上游新增文本可能仍显示英文，排除清单保留在 translation-state/odin-20261105/。
+BSD-3-Clause 版权声明、许可证与资料出处已保留。
+
+三、聊天显示与原文
+API 译文默认原位替换显示，可切换为追加显示。
+悬停显示原文，右键复制英文纯文本；原有左键链接和命令操作保留。
+原聊天历史、签名和其他模组读取的数据不被替换；只为屏幕绘制生成副本。
+相同消息共用一次 API 请求，各条显示均可收到结果。
+已移除每分钟 60 次限制，仍保留有界异步队列和服务报错退避，避免大量请求拖慢客户端。
+
+四、SkyHanni 数据兼容
+移除会影响 ItemStack.getTooltipLines 的全局修改，改在容器提示绘制时翻译副本。
+Tab getNameForDisplay 保留英文；在 Tab 渲染和测宽入口使用译文。
+SkyHanni 通知也通过统一聊天显示入口翻译，不提前改写其聊天适配器参数。
+26.3 无附加模组、26.3 官方 Odin、隔离的 26.2 官方 SkyHanni 9.3.0 均通过真实客户端 Mixin/显示检查。
+SkyHanni 隔离测试出现其自身仓库网络超时日志，但汉化兼容和原文保留检查通过；没有使用玩家账号登录 Hypixel。
+这验证了本次数据边界修复，未声称完成在线地牢/所有模组版本的人工游玩验证。
+
+五、词库发布
+发布文件：exports/dictionaries/20261106_1.zip
+公开地址：https://sapphire.esn17cabin.club/translate/20261106_1.zip
+大小：13,224,007 字节
+SHA-256：3e1bdf3e32b96cc344de0a3236b996a7ac57eb4f10b3f08506b415bad906ae5b
+客户端从正式服务器自动下载，逐一校验 8,984 个翻译文件，加载 8,937 个物品词条，替换内存词典成功。
+Odin / SkyHanni 词典放在兼容旧客户端的 translations/compat-*.json 路径中；旧客户端可以安装但不会启用新增适配逻辑。
+新代码会在更新后重新加载兼容词典；用户手动覆写保留最高优先级，动态模板更新也能正确覆盖旧模板。
+旧版 JAR 可获得新增普通词库内容；教程、原位覆盖、复制和兼容修复需要包含这些代码的新构建。
+
+六、译名和宣传资料
+此前镜像与重名修正已核查：46 项改名、15 项镜像；除允许的兔子名称外，核对清单中无剩余重名。
+详见 translation-state/name-dedup-20261105/译名修改清单.txt。
+宣传视频原案：docs/Sapphire宣传视频原案.txt，约 2 分 30 秒至 3 分钟。
+
+七、验证记录
+完整 Gradle 回归：663 个用例，0 失败，0 错误，3 个按条件跳过；随后对最终修改进行了定向构建与真实 API 复测。
+build/night-complete-build.log：全套构建。
+build/night-final-check.log：最终定向检查。
+build/night-smoke-vanilla（日志：build/night-smoke.log）：无附加模组的 26.3 检查。
+build/night-smoke-odin.log：Odin 实际测宽、作用域、关闭兼容和原文保留。
+build/night-smoke-skyhanni.log：SkyHanni 实际兼容检查。
+build/night-smoke-api.log：API 设置、独立提示词、编辑预览、异步保存与控件边界。
+build/night-public-update.log：正式服务器自动更新及鼠标原文命中测试。
+build/night-public-update/config/sapphire/dictionary-sync-smoke.json：逐文件安装报告。
+translation-state/help-20261105/live-answer.txt：本次教程 API 示例回答。
+服务器主站、词库索引和 Wiki 接口返回 200；异常参数返回 400；公开路径无法下载私有 Wiki 数据库。
+所有服务器变更仅涉及 Sapphire 站点与 Wiki 资料，未修改已有 Docker。

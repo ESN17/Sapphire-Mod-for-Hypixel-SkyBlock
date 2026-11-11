@@ -1,0 +1,14 @@
+{
+  "title": "Gladiator",
+  "pageid": 12577,
+  "revision": 788845,
+  "timestamp": "2026-07-24T00:04:59Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Gladiator",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=788845",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Character\n|location = [[Wilderness]]\n|location_page_description = Used to run the {{Zone|Colosseum}}.\n|x = 123.5\n|y = 79\n|z = 165.5\n|id = EVENT_MASTER\n}}\n\nThe '''Gladiator''' is an [[NPC]] in the {{zone|Wilderness}} that used to run the {{Zone|Colosseum}}.\n\n== Dialogue ==\n{| class=\"wikitable\"\n!Condition\n!Dialogue\n|-\n| class=\"ct\" |None\n|{{Dialogue|\n&e[NPC] &bGladiator&f: Welcome to the &bColosseum&f!\n&e[NPC] &bGladiator&f: Oh...wait. Nevermind.\n&e[NPC] &bGladiator&f: Here, you can join me in drinking away your sorrows.\n}}\n|-\n| class=\"ct\" |First Interaction<br>{{DG|0.1–0.17}}\n|{{Dialogue|\n&e[NPC] Gladiator&f: Welcome to the Colosseum!\n&e[NPC] Gladiator&f: Here you can prove your fighting skills to everyone.\n}}\n|-\n| class=\"ct\" |None<br>{{DG|0.1–0.17}}\n|{{Dialogue|\n&e[NPC] Gladiator&f: Welcome to the Colosseum!\n&e[NPC] Gladiator&f: The arena is temporarily closed for renovations!\n}}\n|}\n\n==Trivia==  \n*The '''Gladiator''' is the replacement for the Event Master. Even though it was replaced, the welcome message still refers to the Gladiator as the Event Master.\n*Before they were disabled, the '''Gladiator''' could be interacted with to enter the queue for 1v1s versus other players.\n*Gladiator's skin, originally titled \"[https://www.planetminecraft.com/skin/elite-knight---dark-souls/ Oscar of Astora]\", was created by PixeloveR on [https://www.planetminecraft.com/ Planet Minecraft].\n\n== History ==\n{{History table\n|beta=\n{{History|0.1|[[File:Gladiator.png|26px]] Added '''Gladiator'''.}}\n{{History|0.18|Moved the '''Gladiator''' from the Colosseum to the Wilderness.|Changed the dialogue of the '''Gladiator'''.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}\n[[Category:Player Versus Player]]"
+}

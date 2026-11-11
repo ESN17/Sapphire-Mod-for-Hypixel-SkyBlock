@@ -1,0 +1,16 @@
+{
+  "title": "Auction Master",
+  "pageid": 797,
+  "revision": 823041,
+  "timestamp": "2026-08-24T05:08:25Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Auction_Master",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=823041",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Category:Pages with UIs",
+    "Template:Dialogue",
+    "Template:UI"
+  ],
+  "wikitext": "{{Infobox/Character\n|quests = {{Quest|Auctioneer}}\n|location = [[Auction House]]\n|location_page_description = Allows the player to access the {{Zone|Auction House}}.\n|x= -39.5\n|y= 73\n|z= -12.5\n}}\n\nThe '''Auction Master '''is an [[NPC]] located in the {{zone|Auction House}}. They grant access to the [[Auction House]].\n\n== Interface ==\n{{:Auction House/UI}}\n\n== Dialogue ==\n{| class=\"wikitable\"\n!Condition\n!Dialogue\n|-\n| class=\"ct\" | First Interaction\n|{{Dialogue|\n&e[NPC] &6Auction Master&f: Hey there, I'm the Auction Master.\n&e[NPC] &6Auction Master&f: At the auction house you can put your valuable items up for auction!\n&e[NPC] &6Auction Master&f: You may also want to check back here to see what items other players are selling to see if you can get a good deal.\n&e[NPC] &6Auction Master&f: Talk to me if you would like to start your first auction or if you want to see the items currently being sold.\n}}\n|}\n\n== Trivia ==\n* Trying to get too close to any of the [[Auction Agent]]s or the '''Auction Master''' will get the player pushed away. Doing this multiple times will teleport the [[player]] outside the {{zone|Auction House}}.\n* {{zone|Dragontail Auction House}} and {{zone|Scarleton Auction House}} each feature an NPC with the Auction Master \"title\", {{NPCSprite|Bromm}} and {{NPCSprite|Elmar}} respectively.\n\n== History ==\n{{History table\n|ahn=\n{{History|2026/Jan 30|Moved '''Auction Master''' from {{Coords|-46.5|73|-90.5}} to {{Coords|-39.5|73|-12.5}}, due to the redesign of the [[Hub Island]].}}\n|beta=\n{{History|2019/June 11|[[File:Auction Master (Old).png|26px]] Added '''Auction Master'''.}}\n{{History|2019/September 11|Clicking near the '''Auction Master''' will redirect the click to him.}}\n{{History|2020/June 2|Added suffix and decimal support.}}\n{{History|2020/August 13|[[File:Auction Master.png|26px]] Changed '''Auction Master'''<nowiki>'</nowiki>s skin.|Moved '''Auction Master'''.}}\n{{History|2026/Jan 30|Moved '''Auction Master''' from {{Coords|-46.5|73|-90.5}} to {{Coords|-39.5|73|-12.5}}, due to the redesign of the [[Hub Island]].}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}\n[[Category:Non-player characters]]"
+}

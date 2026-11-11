@@ -1,0 +1,13 @@
+{
+  "title": "Barbarian",
+  "pageid": 90565,
+  "revision": 861300,
+  "timestamp": "2026-10-21T00:59:44Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Barbarian",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861300",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Crimson Isle"
+  ],
+  "wikitext": "{{For|stronger version|Goliath Barbarian}}\n\n{{Infobox/Mob\n|stats = {{InfoboxMobStats\n|health = 2,000,000\n|damage = 3,500\n}}\n|mob_level = 211\n|spawn_location = [[Barbarian Outpost]]\n|mob_type = \n*{{mt|Humanoid}}\n*{{mt|Animal}}\n|id = BARBARIAN_75\n|bestiary = n\n}}\n\nThe '''Barbarian''' is a [[Mob]] that spawn in the {{zone|Barbarian Outpost}}. They wield a sword which they use to attack the player.\n\n== Drops ==\n{{Mob Drops Table\n|level = 211\n|coins = 70\n|combat_xp = 316\n|orbs = 232\n|{{Mob Drops Row\n |drop = Cyclamen Dye\n |count = 1\n |rarity = rng\n |chance = 0.00004%\n }}\n}}\n\nKilling a '''Barbarian''' will make the player gain {{Reputation|Mage|5}} and lose {{Reputation|Barbarian|5}}, up to a limit of {{Reputation|Mage|0}} and {{Reputation|Barbarian|0}}.\n\n== Behavior ==\n'''Barbarians''' wield an Iron Sword (with the metadata of the [[Raider Sword]], as shown through texture packs) which they use to attack the player, only if they were provoked first or the player has less than {{Reputation|Barbarian|-1000}}. They deal {{Stat|dmg|3,500}} on hit.\n\n== See Also ==\n*{{MobSprite|Fire Mage}}\n\n== History ==\n{{History table\n|ahn=\n{{History|2022/March 8|[[File:Barbarian.png|26px]] Added '''Barbarians'''.}}\n{{History|2026/Aug 25|Changed the [[Mob Level]] from {{Level|50}} to {{Level|211}}, {{Coins}} from {{Gold|20}} to {{Gold|70}}, {{Experience}} from {{Dark Aqua|100}} to {{Dark Aqua|232}}, and {{Skill|Combat}} XP from {{Dark Aqua|120}} to {{Dark Aqua|316}}.}}\n|beta=\n{{History|0.13|[[File:Barbarian.png|26px]] Added '''Barbarians'''.}}\n{{History|0.20.9|Killing '''Barbarians''' now only loses the player {{red|5}} Reputation instead of {{red|25}}.}}\n{{History|0.27.2|Changed the [[Mob Level]] from {{Level|50}} to {{Level|211}}, {{Coins}} from {{Gold|20}} to {{Gold|70}}, {{Experience}} from {{Dark Aqua|100}} to {{Dark Aqua|232}}, and {{Skill|Combat}} XP from {{Dark Aqua|120}} to {{Dark Aqua|316}}.}}\n}}\n\n== Navigation ==\n{{Nav/Mobs}}\n{{Nav/Crimson Isle}}"
+}

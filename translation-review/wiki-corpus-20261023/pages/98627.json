@@ -1,0 +1,14 @@
+{
+  "title": "Ashera",
+  "pageid": 98627,
+  "revision": 812562,
+  "timestamp": "2026-08-11T18:53:28Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Ashera",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=812562",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Character\n|shop = Yes\n|location = [[Shifted Tavern]]\n|location_page_description = Sells a tip for who the {{Item|Stability Elixir}} supplier is.\n|x = -130.62\n|y = 73.375 \n|z = 169.656\n}}\n'''Ashera''' is an [[NPC]] located in the {{zone|Shifted Tavern}}.\n\n__TOC__\n== Dialogue ==\n{| class=\"wikitable\"\n!Condition\n!Dialogue\n|-\n| class=\"ct\" |Buying [[Vreike]]'s Tip\n|{{Dialogue|\n&e[NPC] &cAshera&f: I don't know who the &bsupplier&f is, but I know someone who does.\n&e[NPC] &cAshera&f: I can tell you their name for &d20 Motes&f.\n&eSelect an option: &a[Buy tip]\n}}\n|-\n| class=\"ct\" |Selecting {{Rmt|&a[Buy tip]}}\n|{{Dialogue|&e[NPC] &cAshera&f: I heard that &5Garlacius&f might know who the &dsupplier&f is.}}\n|}\n\n== Trivia ==\n*'''Ashera''' has no dialogue unless having purchased [[Vreike]]'s tip. After talking to them, they will no longer give dialogue.\n*'''Ashera''' does, however, display text above their head, as if communicating with the other [[NPC]]s in the {{zone|Shifted Tavern}}.\n\n== History ==\n{{History table\n|ahn=\n{{history|2023/May 4|[[File:Ashera.png|26px]] Added '''Ashera'''.}}\n|beta=\n{{history|2023/March 20|link=https://discord.com/channels/720585022624628797/728287548321038346/1087412595927023646|Leaked '''Ashera'''.}}\n{{History|0.19|Added '''Ashera'''.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}"
+}

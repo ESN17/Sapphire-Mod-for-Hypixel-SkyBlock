@@ -1,0 +1,16 @@
+{
+  "title": "Fragilis",
+  "pageid": 82184,
+  "revision": 847514,
+  "timestamp": "2026-09-28T13:56:17Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Fragilis",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=847514",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Category:Pages with UIs",
+    "Template:Dialogue",
+    "Template:UI"
+  ],
+  "wikitext": "{{Infobox/Character\n|location = [[Dwarven Mines]]\n|minimap_location = Dwarven Village\n|location_page_description = Allows the player to access their Handy Block Guide.\n|x = 88\n|y = 199\n|z = -108\n}}{{See also|Block Strength}}\n'''Fragilis''' is an [[NPC]] in the [[Dwarven Mines]] that gives information about blocks in the {{Zone|Dwarven Mines}}, {{Zone|Crystal Hollows}}, {{Zone|Glacite Tunnels}} among others locations.\n\n== Interface ==\n{{/UI}}\n\n* This menu can be opened through <code>'''/handyblockguide'''</code> or <code>'''/hbg'''</code>.\n\n== Dialogue ==\n{| class=\"wikitable centertext\"\n! colspan=\"2\" |Condition\n!Dialogue\n|- class=\"article-row-main\"\n| colspan=\"2\" class=\"ct\" |None\n| style=\"text-align: left;\" |{{Dialogue|\n&e[NPC] &5Fragilis&f: Y'know now that we are getting deeper and deeper a lot of these blocks are getting harder to mine!\n&e[NPC] &5Fragilis&f: Luckily I have a &ehandy guide&f right here for you!\n}}\n|-\n| rowspan=\"3\" |{{zone|The Garden}}\n| class=\"ct\" |None\n| style=\"text-align: left;\" |{{Dialogue|&e[NPC] &9Fragilis&f: Hey you! Can you bring me the hardest block you can mine?}}\n|-\n| class=\"ct\" |Completing\n| style=\"text-align: left;\" | {{Dialogue|&e[NPC] &9Fragilis&f: Cactus? I'm sure you could do better, but I'll take it for now.}}\n|-\n| class=\"ct\" |Denying\n| style=\"text-align: left;\" |{{Dialogue|&e[NPC] &9Fragilis&f: Just as I thought...I am talking to a softie!}}\n|}\n\n== Trivia ==\n*The name '''Fragilis''' is based on the word \"fragile\", itself being the etymological root and the Latin translation of the word.\n*'''Fragilis''' has the same skin as {{NPCSprite|Keith}}, one of the {{NPCSprite|Three Bears}} before they transform.\n*'''Fragilis''' does not mention all blocks mineable in certain areas (for example Diamond Blocks in {{Zone|Mines of Divan}} or {{Item|Cobblestone}}).\n*Some entries within the '''Handy Block Guide''' lack a [[Block Strength]] : \n**For [[Ores]] and [[Dwarven Metals]], this could be due to an omission.\n**For [[Blocks]], this could be due to the varying mechanics of the breaking system as they seem to lack this property, instead using the Vanilla mechanics of Minecraft [https://minecraft.wiki/w/Breaking#Blocks_by_hardness].\n\n== History ==\n{{History table\n<!--Was NOT on AHN before this!-->\n|beta=\n{{History|0.12|[[File:Fragilis.png|26px]] Added '''Fragilis'''.}}\n{{History|0.20.2|Corrected the Breaking Power value of Opal from -1 to 7.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}\n{{Nav/Dwarven Mines/NPCs}}"
+}

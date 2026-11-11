@@ -1,0 +1,15 @@
+{
+  "title": "Angler Angus",
+  "pageid": 107512,
+  "revision": 815449,
+  "timestamp": "2026-08-11T20:12:40Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Angler_Angus",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=815449",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Template:Dialogue",
+    "Template:UI"
+  ],
+  "wikitext": "{{Infobox/Character\n|location = [[Fishing Outpost]] <!-- technically they're in the farm but listing this on the fishing outpost page is more useful -->\n|location_page_description = Introduces the player to [[Baits]] for [[Fishing]] and gives out {{Item|Fish Bait|amount=16}}.\n|x= 125.5\n|y= 70\n|z= -67.5\n}}\n'''Angler Angus''' is an [[NPC]] located on the outskirts of the {{zone|Fishing Outpost}} within the {{Zone|Farm}}.\n\n== Interface ==\n{{/UI}}\n\n== Dialogue ==\n{| class=\"wikitable centertext\"\n! Condition\n! Dialogue\n|-\n| class=\"ct\" | First interaction\n| style=\"text-align: left;\" |{{Dialogue|\n&e[NPC] &dAngler Angus&f: &fWhenever you fish, make sure you're using some type of &6Bait&f.\n&e[NPC] &dAngler Angus&f: &fYou can store &6Bait&f in your inventory or &9Fishing Bag&f, which is unlocked at &aRaw Cod Collection III&f.\n&e[NPC] &dAngler Angus&f: &6Bait&f is automatically consumed whenever you cast your rod, so it's easy to use!\n&e[NPC] &dAngler Angus&f: &fI craft &fFish Bait &fall the time because it's so easy to do - just a couple of &fRaw Cod &fand a &fRaw Salmon&f!\n&e[NPC] &dAngler Angus&f: &fHere, I've got some spare &fFish Bait &ffor ya!\n}}\n|-\n| class=\"ct\" | After claiming {{Item|Fish Bait}}\n| style=\"text-align: left;\" |{{Dialogue|\n&e[NPC] &dAngler Angus&f: &fFish Bait &fseems to give a really effective &b☂ Fishing Speed &fboost!\n&e[NPC] &dAngler Angus&f: &fAll &6Baits &fserve some specialized purpose, so be sure to keep some on you at all times!\n&e[NPC] &dAngler Angus&f: &fIf you have any questions about &6Bait&f, you can view my &6Bait Guide &fat any time!\n&e[NPC] &dAngler Angus&f: &fYou can also use &a\\/bait &fas a shortcut if you aren't feeling like paying me a visit!\n}}\n|-\n|}\n\n== History ==\n{{History table\n|ahn=\n{{History|2025/Mar 12|[[File:Angler Angus.png|26px]] Added '''Angler Angus'''.}}\n{{History|2026/Jan 30|Moved '''Angler Angus''' from {{Coords|92.5|73|5.5}} to {{Coords|125.5|70|-67.5}}, due to the redesign of the [[Hub Island]].}}\n|beta=\n{{History|0.22|[[File:Angler Angus.png|26px]] Added '''Angler Angus'''.}}\n{{History|0.24.2|Moved '''Angler Angus''' from {{Coords|92.5|73|5.5}} to {{Coords|125.5|70|-67.5}}, due to the redesign of the [[Hub Island]].}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}\n{{Nav/Fishing}}"
+}

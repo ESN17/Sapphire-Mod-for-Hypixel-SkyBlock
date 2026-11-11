@@ -1,0 +1,14 @@
+{
+  "title": "Rulenor",
+  "pageid": 91430,
+  "revision": 862457,
+  "timestamp": "2026-10-22T17:23:01Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Rulenor",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=862457",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Character\n|location = [[Scarleton]]\n|location_page_description = Asks the player to give them {{Coins|10,000}} to take a picture of them.\n|x = -26.5 \n|y = 122\n|z = -769.5\n}}\n'''Rulenor''' is an [[NPC]] in {{zone|Scarleton}}. They ask the player for {{c|10k}} in order to take a picture of them.\n\n== Dialogue ==\n{| class=\"wikitable\"\n! Condition\n! Dialogue\n|-\n| class=\"ct\" | First Interaction\n| {{Dialogue|\n&e[NPC] &5Rulenor&f: How did you find me?\n&e[NPC] &5Rulenor&f: I don't even have an entrance to my house.\n&e[NPC] &5Rulenor&f: You are paparazzi, right?\n&e[NPC] &5Rulenor&f: I am very, very famous. I can't blame you.\n&e[NPC] &5Rulenor&f: If you want to take a picture of me, you'll have to pay &610,000 Coins&f.\n&6[PAY 10,000 Coins]\n}}\n|-\n| class=\"ct\" | Attempting to Pay Without {{C|10k}}\n| {{Dialogue|&e[NPC] &5Rulenor&f: You don't have enough scratch, pal. Get outta here!}}\n|-\n| class=\"ct\" | After Paying {{C|10k}}\n| {{Dialogue|&e[NPC] &5Rulenor&f: Fine, you can take a picture of me now.}}\n|-\n! Condition\n! Random Dialogue\n|-\n| class=\"ct\" rowspan=\"3\" | None\n| {{Dialogue|\n&e[NPC] &5Rulenor&f: So you gonna pay me, or?\n&6[PAY 10,000 Coins]\n}}\n|-\n| {{Dialogue|\n&e[NPC] &5Rulenor&f: Pay me, please. I need this.\n&6[PAY 10,000 Coins]\n}}\n|-\n| {{Dialogue|\n&e[NPC] &5Rulenor&f: How 'bout that payment?\n&6[PAY 10,000 Coins]\n}}\n|-\n| class=\"ct\" rowspan=\"3\" | After Paying\n| {{Dialogue|&e[NPC] &5Rulenor&f: People have told me I'm very photogenic.}}\n|-\n| {{Dialogue|&e[NPC] &5Rulenor&f: Take all of the pictures you want of me!}}\n|-\n| {{Dialogue|&e[NPC] &5Rulenor&f: Get your photos in while you can!}}\n|}\n\n== Trivia ==\n*The player can obviously take a picture of them without paying the {{c|10k}}, meaning that '''Rulenor''' is likely mocking the way [[w:NFT|NFTs]] work.\n\n== History ==\n{{History table\n|ahn=\n{{history|2022/March 8|[[File:Rulenor.png|26px]] Added '''Rulenor'''.}}\n|beta=\n{{history|0.13|[[File:Rulenor.png|26px]] Added '''Rulenor'''.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}"
+}

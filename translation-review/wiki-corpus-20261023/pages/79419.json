@@ -1,0 +1,14 @@
+{
+  "title": "Shepherd",
+  "pageid": 79419,
+  "revision": 790609,
+  "timestamp": "2026-07-24T01:04:29Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Shepherd",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=790609",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Character\n|location = [[Shepherd's Keep]]\n|location_page_description = Tasks the player with shearing all of his sheep at once.\n|x = 388.5 \n|y = 85 \n|z = -372.5\n}}\nThe '''Shepherd''' is an [[NPC]] located in the house in the {{zone|Shepherd's Keep}} in the [[Mushroom Desert]]. He gives the player the task of shearing all his sheep at once. After having all the [[Sheep]] sheared at once, the '''Shepherd''' will reward the player with {{Pelts|+4}}.\n\n__TOC__\n\n== Dialogue ==\n{{DialogueGrammar}}\n{| class=\"wikitable\"\n!Condition\n!Dialogue\n|-\n| class=\"ct\" | First Interaction\n|{{Dialogue|\n&e[NPC] Shepherd&f: Hello traveler!\n&e[NPC] Shepherd&f: Welcome to my keep, my sheep are some of the best in the world.\n&e[NPC] Shepherd&f: They have regenerative properties that allow for them to regenerate their wool faster than normal!\n&e[NPC] Shepherd&f: I'm feeling tired today.\n&e[NPC] Shepherd&f: Could you shear all my sheep at once?\n&e[NPC] Shepherd&f: I will have a reward if you do so!\n}}\n|-\n| class=\"ct\" | Not all [[Sheep]] Sheared\n|{{Dialogue|&e[NPC] Shepherd&f: You didn't shear enough sheep!}}\n|-\n| class=\"ct\" | All [[Sheep]] Sheared\n|{{Dialogue|\n&e[NPC] Shepherd&f: Thanks for helping me out!\n&e[NPC] Shepherd&f: Please accept this as a token of my gratitude!\n&5+4 Pelts\n}}\n|-\n!Condition\n!Random Dialogue\n|-\n| class=\"ct\" | After Shearing all [[Sheep]]\n|{{Dialogue|&e[NPC] Shepherd&f: My sheep are some of the best in the world!}}\n|}\n\n== Tips ==\n*Shearing all the sheep at once is a difficult task, without a [[God Potion]] or other serious speed boosts.\n*Players can gather all sheep using leads and bring them to just in front of the Shepherd's house to quickly shear all the sheep at the same time.\n*Killing the sheep isn't helpful, as the player would have to wait for them to respawn. \n\n== History ==\n{{History table\n|beta=\n{{History|2021/April 21|[[File:Shepherd.png|26px]] Added '''Shepherd'''.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}"
+}

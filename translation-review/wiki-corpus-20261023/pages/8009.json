@@ -1,0 +1,14 @@
+{
+  "title": "Bat Piñata",
+  "pageid": 8009,
+  "revision": 861306,
+  "timestamp": "2026-10-21T00:59:52Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Bat_Pi%C3%B1ata",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861306",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Events",
+    "Category:Spooky Festival"
+  ],
+  "wikitext": "{{Exclusive|Spooky}}\n{{Infobox/Mob\n|stats = {{InfoboxMobStats\n|health = 5\n}}\n|mob_level = 29\n|spawn_location = \n*Bat Firework\n*[[Private Island]]\n|mob_type =\n*{{mt|Spooky}}\n*{{mt|Airborne}}\n*{{mt|Shielded}}\n|id = BAT_PINATA_25\n|bestiary = n\n}}\nThe '''Bat Piñata''' is a bat that only appears during the [[Spooky Festival]] and drops {{Item|Green Candy}}. If spawned from a {{Item|Bat Firework}}, it gives {{Item|Purple Candy|amount=5-64}} to the spawner. It also has a low chance of dropping a {{Item|Bat the Fish}}, although the ones spawned from {{Item|Bat Firework}} are immune to damage and therefore cannot drop it.\n\nWhile they can be spawned using the {{Item|Bat Firework}}, candy collected from these doesn't count towards your Candy Score.\n\n== Drops ==\n{{Mob Drops Table\n|level = 29\n|orbs = 31\n|coins = 9\n|combat_xp = 43\n|{{Mob Drops Row\n |drop = Green Candy\n |count = 1\n |rarity = c\n |chance = 90%\n }}\n|{{Mob Drops Row\n |drop = Purple Candy\n |count = 1\n |rarity = u\n |chance = 10%\n }}\n|{{Mob Drops Row\n |drop = Bat the Fish\n |count = 1\n |rarity = u\n |chance = 2%\n }}\n|{{Mob Drops Row\n |drop = Midnight Dye\n |count = 1\n |rarity = rng\n |chance = 1/500k\n }}\n}}\n\n== Gallery ==\n\n<gallery>\nFile:Runic Bat Pinata.png|A [[Runic]] '''Bat Piñata'''\nFile:Runic Bat Pinata 2.png|A [[Runic]] '''Bat Piñata'''\n</gallery>\n\n== History ==\n{{History table\n|ahn=\n{{History|2026/Aug 25|Changed the [[Mob Levels]] and non-item drops.}}\n{{History|2026/Sept 30|Changed the {{MobType|Shielded}} {{Stat|Health}} multiplier in the [[Mob Levels]] calculation from {{Red|1,000x}} to {{Red|100,000x}}, impacting this mob's level and non-item drops.}}\n|beta=\n{{History|0.7.3|[[File:Bat Piñata.png|26px]] Added '''Bat Piñata'''.}}\n{{History|0.27.2|Changed the [[Mob Level]] from {{Level|25}} to {{Level|29}}, {{Coins}} from {{Gold|100}} to {{Gold|9}}, {{Experience}} from {{Dark Aqua|100}} to {{Dark Aqua|31}}, and {{Skill|Combat}} XP from {{Dark Aqua|0}} to {{Dark Aqua|43}}.}}\n}}\n\n== Navigation ==\n{{Nav/Events/Spooky Festival}}\n{{Nav/Mobs}}"
+}

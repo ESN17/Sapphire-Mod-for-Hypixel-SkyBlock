@@ -1,0 +1,13 @@
+{
+  "title": "Super Scorcher",
+  "pageid": 111000,
+  "revision": 859378,
+  "timestamp": "2026-10-15T22:03:00Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Super_Scorcher",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=859378",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{See also|Super Scrubber}}\n{{Infobox/Item\n|rarity = e\n|merchant = Plumber Joe (Rift)\n|buy = 5000 Motes\n|id=SUPER_SCORCHER\n|auctionable = n\n|trade = n \n|rift_transferrable=n\n}}\nA '''Super Scorcher''' is an {{Epic}} item that removes [[Pet Items]] in the [[Rift Dimension]].\n\n== Obtaining ==\nA '''Super Scorcher''' can be purchased from {{NPCSprite|Plumber Joe (Rift);Plumber Joe}} for {{Motes|5k}}.\n\n== Usage ==\nRight-clicking a [[Pet]] whilst holding a '''Super Scorcher''' will open a menu to confirm removing the pet item. Removing a [[Pet Item]] costs {{Motes}} depending on rarity; retrieving the [[Pet Item]] consumes the '''Super Scorcher'''.\n\n{| class=\"wikitable\"\n!Rarity\n!Cost\n|-\n|{{Common}}\n|{{Motes|2.5k}}\n|-\n|{{Uncommon}}\n|{{Motes|5k}}\n|-\n|{{Rare}}\n|{{Motes|7.5k}}\n|-\n|{{Epic}}\n|{{Motes|10k}}\n|-\n|{{Legendary}}\n|{{Motes|25k}}\n|-\n|}\n\n==Game Messages==\n{|class=\"wikitable\"\n! Game Message\n! Condition\n|-\n| {{Dialogue|&cYour Pet isn't holding any item!}}\n| Using the item on a pet that isn't holding any pet item.\n|-\n| {{dialogue|&cYour pet is no longer active!}}\n| Using the item on a pet that is holding a pet item.\n|}\n\n== History ==\n{{History table\n|ahn=\n{{History|2026/Mar 23|[[File:Super Scorcher.png|26px]] Added '''Super Scorcher'''.}}\n|beta=\n{{History|0.24.3|[[File:Super Scorcher.png|26px]] Added '''Super Scorcher'''.}}\n{{History|2026/Oct 15|Fixed not being able to use it on {{Item|Montezuma Pet}}.}}\n}}\n\n== Navigation ==\n{{Nav/Pet Items}}"
+}

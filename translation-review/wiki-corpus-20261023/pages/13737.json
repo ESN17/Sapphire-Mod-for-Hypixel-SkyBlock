@@ -1,0 +1,15 @@
+{
+  "title": "Guesting",
+  "pageid": 13737,
+  "revision": 813651,
+  "timestamp": "2026-08-11T19:23:13Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Guesting",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=813651",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Pages with UIs",
+    "Template:UI",
+    "Template:UIPage"
+  ],
+  "wikitext": "{{Infobox/Generic\n|image=Short Grass.png\n}}\n'''Guesting''' is a feature that allows players to visit islands of other players.\n\n== Mechanics ==\nWhile guesting, most item abilities such as the {{Item|Aspect of the End}}'s teleport and {{Item|Ember Rod}}'s fireball are disabled. Some items like the {{Item|Grappling Hook}} are exceptions to this.\n{| class=\"wikitable\"\n|+Guest Limit\n!Rank\n!Limit\n|-\n|{{RN|Default}}\n|1\n|-\n|{{RN|VIP}}\n|3\n|-\n|{{RN|MVP}}\n|5\n|-\n|{{RN|MVP++}}\n|7\n|-\n|{{RN|Youtube}}/{{RN|Pig++}}\n|15\n|-\n|{{RN|Pig+++}}\n|20{{Confirm}}\n|}\nYou can purchase guest limit upgrades at {{NPCSprite|Elizabeth}}. The first additional slot is free, but the next {{Green|4}} upgrades each cost {{Gems|50}}.\n\n'''Note:''' {{RN|MVP++}} can bypass the guesting limit, but only {{Green|10}} above the normal limit. If you are in a [[Co-op]], your guesting limit is that of the player with the highest rank.\n\n=== Commands ===\nThere are various [[Commands]] that a player can use for guesting:\n* To visit another player: <code>/visit (In Game Name)</code>\n* To invite someone to guest to your island: <code>/invite (In Game Name)</code>.\nPlayers talking in chat while guesting will have their messages prefaced with a {{Green|[✌]}} symbol.\n\n== Interface ==\nGuesting setting can be found in [[SkyBlock Menu]] → [[Settings]] → Guest Management.\n{{:Guesting/UI/Management}}\n\n== History ==\n{{History table\n|beta=\n{{History|0.6|Added '''Guesting'''.}}\n{{History|0.9|Added an upgrade through {{NPCSprite|Elizabeth}} which increases the maximum guest limit.}}\n{{History|2022/Oct 9|link=none|Disabled all forms of Guesting.|Re-enabled Guesting.}}\n}}\n\n[[Category:Mechanics]]"
+}

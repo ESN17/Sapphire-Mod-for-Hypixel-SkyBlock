@@ -1,0 +1,13 @@
+{
+  "title": "Barking Wolf",
+  "pageid": 100502,
+  "revision": 852591,
+  "timestamp": "2026-10-06T16:06:16Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Barking_Wolf",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=852591",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Mob\n|stats = {{InfoboxMobStats\n|health = 150\n|rift_damage = 2\n}}\n|mob_level = 2\n|spawn_location = The Bastion (Rift)\n|mob_type = None\n|id = BARKING_WOLF_2\n|bestiary = n\n}}\nThe '''Barking Wolf''' is a [[Mob]] that spawns in {{Zone|The Bastion (Rift)}}.\n\n== Drops ==\n{{Mob Drops Table\n|level = 2\n|motes = 100\n|combat_xp = 6\n|{{Mob Drops Row\n |drop = Muted Bark\n |count = 1\n |rarity = c\n |chance = 100%\n }}\n}}\n\n== Behavior ==\n'''Barking Wolves''' are passive until they are attacked, at which point they launch multi-colored text saying \"BARK!\" at the player, which removes {{stat|rt|2}} on contact.\n\n=== Game Messages ===\n{| class=\"wikitable\"\n!Condition\n!Message\n|-\n| Attacking\n|{{Dialogue|&cBarking Wolf &eremoved &a2sф&e from you using &dBark&e!}}\n|}\n\n== History ==\n{{History table\n|ahn=\n{{history|2023/May 4|[[File:Barking Wolf.png|26px]] Added '''Barking Wolf'''.}}\n|beta=\n{{History|0.19|[[File:Barking Wolf.png|26px]] Added '''Barking Wolf'''.}}\n}}\n\n== Navigation ==\n{{Nav/Mobs}}"
+}

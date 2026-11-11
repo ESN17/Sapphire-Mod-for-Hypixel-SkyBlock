@@ -1,0 +1,15 @@
+{
+  "title": "Vis Glyph",
+  "pageid": 111455,
+  "revision": 817592,
+  "timestamp": "2026-08-11T22:47:47Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Vis_Glyph",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=817592",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Pages with UIs",
+    "Template:Dialogue",
+    "Template:UI"
+  ],
+  "wikitext": "{{Infobox/Item\n|rarity=e\n|auctionable=no\n|salable=no\n|tradeable = n\n|rift_transferrable = no\n|id=GLYPH_VIS\n}}\nThe '''Vis Glyph''' is an {{Epic}} Quest Item obtained in the [[Rift Dimension]].\n\n== Obtaining ==\nThe '''Vis Glyph''' can be obtained after starting {{NPCSprite|Sorcerer Okron}}'s quest and imbuing the {{Item|Conclamatus Glyph}}, then opening the chest at {{Coords|-108.5|72|-99.5}} by {{NPCSprite|Joey McPizza}} and {{NPCSprite|Chef}} within the {{Zone|West Village}}. Once given to Okron, it can no longer be obtained.\n\n== Interface ==\n{{/UI}}\n\n== Usage ==\nThe '''Vis Glyph''' can be given to {{NPCSprite|Sorcerer Okron}}. When given, he will task the player with using the {{Item|Warding Diamathame}} to imbue a spell onto the house.\n\n== Game Messages ==\n{|class=\"wikitable\"\n! Condition\n! Message\n|-\n| {{Dialogue|\n&7You found &5Vis Glyph&7!\n&7&oYou should return it to Okron...\n}}\n| Finding the Glyph\n|-\n| {{Dialogue|&cYou already have one in your inventory!}}\n| Trying to claim another Glyph while already owning one\n|}\n\n== Gallery ==\n<gallery>\nVis Glyph (Render).png|The map image shown while holding the Vis Glyph\nVis Glyph (Particle Render).png|The non-imbued particles surrounding the house\nVis Glyph (Particle Render 2).png|The imbued particles surrounding the house\n</gallery>\n\n== History ==\n{{History table\n|ahn=\n{{history|2023/May 4|[[File:Vis Glyph.png|26px]] Added '''Vis Glyph'''.}}\n|beta=\n{{history|0.19|[[File:Vis Glyph.png|26px]] Added '''Vis Glyph'''.}}\n}}"
+}

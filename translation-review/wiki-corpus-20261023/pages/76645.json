@@ -1,0 +1,15 @@
+{
+  "title": "Bulvar",
+  "pageid": 76645,
+  "revision": 830405,
+  "timestamp": "2026-09-03T01:23:13Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Bulvar",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=830405",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Category:Pages with UIs",
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Character\n|shop = yes\n|abiphone = Yes\n|location = [[Dwarven Village]]\n|location_page_description = Serves Tier XII [[Mining]] [[Minions]].\n|x = -15.5\n|y = 201\n|z = -98.5\n}}\n\n'''Bulvar''' is an [[NPC]] in the {{zone|Dwarven Village}} who sells Tier XII [[Minions|Mining Minions]].\n\n== Interface ==\n{{/UI}}\n\n== Dialogue ==\n{| class=\"wikitable\"\n!colspan=\"2\" |Condition\n!Dialogue\n|-\n|colspan=\"2\" class=\"ct\" | First Interaction\n|{{Dialogue|\n&e[NPC] Bulvar&f: Ever thought you'd see a Tier 12 Minion?\n&e[NPC] Bulvar&f: Well, today's your lucky day!\n}}\n|-\n|rowspan=\"3\" class=\"ct\" |[[Abiphones#Contacts|{{Aqua|Abiphone Contact}}]]\n|class=\"ct\" |None\n|{{Dialogue|&e[NPC] Bulvar&f: &b✆ &fHmm? My &3Abiphone Contact&f?\n&e[NPC] Bulvar&f: &b✆ &fWell, today might just be your lucky day - again.\n&e[NPC] Bulvar&f: &b✆ &3Abiphones &fain't much use down here - you'll seldom get a signal, but I do own one.\n&e[NPC] Bulvar&f: &b✆ &fSeeing as I'm feeling nice, I'll give you my contact for the small sum of one &5Silex&f.\n&e[NPC] Bulvar&f: &b✆ &fHow about it?\n&a&l[GIVE ITEM]}}\n|-\n|class=\"ct\" |Selecting {{Rmt|&a&l[GIVE ITEM]}}<br>without [[Silex]]\n|{{Dialogue|&e[NPC] Bulvar&f: &b✆ &fI don't know what ya think that is, but it's not a &5Silex&f.\n&e[NPC] Bulvar&f: &b✆ &fCome back once you've got yourself one.}}\n|-\n|class=\"ct\" |Giving [[Silex]]\n|{{Dialogue|&e[NPC] Bulvar&f: &b✆ &fThat'll do it!\n&e[NPC] Bulvar&f: &b✆ &fCheers friend, once I got that on my &5Drill &fI'll be mining like &6Divan&f!\n&e[NPC] Bulvar&f: &b✆ &fOh, and before I forget - here's that contact you were asking for.\n&e[NPC] Bulvar&f: &b✆ &fGive me a call in case you ever need some Tier XII &6Mining Minions&f.}}\n|}\n\n== Trivia ==\n*Although '''Bulvar''' has a display of {{MinionName|Sand|XII}} near them, it cannot be purchased from him or obtained from any part of the game.\n\n== History ==\n{{History table\n|ahn=\n{{History|2026/Mar 23|Added Abiphone Contact.}}\n|beta=\n{{History|0.11|[[File:Bulvar.png|26px]] Added '''Bulvar'''.}}\n{{History|0.24.3|Added Abiphone Contact.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}\n{{Nav/Dwarven Mines/NPCs}}"
+}

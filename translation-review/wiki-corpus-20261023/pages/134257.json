@@ -1,0 +1,13 @@
+{
+  "title": "Rockmite",
+  "pageid": 134257,
+  "revision": 861374,
+  "timestamp": "2026-10-21T01:02:31Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Rockmite",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861374",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Critter\n|stats = {{InfoboxMobStats\n|health = 1\n}}\n|mob_level = 1\n|mob_type = *{{mt|Critter}}\n*{{mt|Timid}}\n*{{mt|Elusive}}\n|spawn_location = [[Critter Safari]]\n|id = ROCKMITE_1\n}}\nA '''Rockmite''' is a {{Rare}} [[Critter]] that can be found in the {{Gold|Cavern}} biome of the {{Zone|Critter Safari}}.\n\n== Spawning ==\n'''Rockmites''' have a {{Chance|25%|1|4}} chance to spawn from any of {{Green|20}} mounds in the {{Gold|Cavern}} biome of the {{Zone|Critter Safari}}. Spawn chance can be increased with {{stat|tracking}}.\n\n== Behavior ==\n'''Rockmite''' mounds sit on the ground. Upon being interacted with, a mound begins to break. Upon breaking, a either a '''Rockmite''' or nothing is found. If a {{Item|Critter Capsule}} is thrown at a '''Rockmite''' and is caught, it dies and drops its loot.\n\n== Drops ==\n{{Mob Drops Table\n|level = 1\n|hunting_xp = 300\n|{{Mob Drops Row\n |drop = Rockmite Shard\n |count = 1\n |rarity = c\n |chance = 100%\n }}\n|{{Mob Drops Row\n |drop = Emerald Dye\n |count = 1\n |rarity = rng\n |chance = 0.001%\n }}\n}}\n\n{{Safari Critter Loot Explanation|xp = 300}}\n\n== Game Message ==\n{{Sectionstub|Empty dialogue}}\n{| class=\"wikitable\"\n!Condition\n!Message\n|-\n|Breaking Open Mound\n|{{Dialogue|&7&oSmall cracks begin to form in the mound...\n&7&oThe cracks seem to be getting larger, keep hitting it!\n&7&oChunks of the mound begin falling away...\n&7&oThe mound is about to fall to pieces! Keep going!}}\n|-\n|Finding '''Rockmite'''\n|{{Dialogue|&7&oThe mound fell apart, revealing a &9Rockmite &7&ohidden inside!}}\n|-\n|Finding Nothing\n|{{Dialogue|&7&oThe mound falls apart, but nothing was inside...}}\n|}\n\n== Bestiary ==\n{{Bestiary Entry|section=Critter Safari - Cavern Biome|lore=\tA Rockmite's mound is a result of its life's work.|bracket=Hunting 3|max_tier=10|reward=Hunting}}\n\n== History ==\n{{History table\n|ahn=\n{{History|2026/Jul 10|[[File:Rockmite.png|26px]] Added '''Rockmite'''.}}\n|beta =\n{{History|0.27|[[File:Rockmite.png|26px]] Added '''Rockmite'''.}}\n{{History|2026/Aug 24|Added {{mt|Timid}} [[Mob Type]].|Removed {{mt|Subterranean}} [[Mob Type]].}}\n}}\n\n== Navigation ==\n{{Nav/Critters}}"
+}

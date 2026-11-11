@@ -1,0 +1,13 @@
+{
+  "title": "Comparator",
+  "pageid": 76367,
+  "revision": 821605,
+  "timestamp": "2026-08-19T22:00:15Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Comparator",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=821605",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Vanilla}}\n{{Disabled}}\n{{Infobox/Item\n|id = REDSTONE_COMPARATOR\n|rarity = common\n|sell = 5\n}}\nA '''Comparator''' is a {{Common}} [[Vanilla Objects/Redstone-Related Blocks|Redstone-related]] block that can be obtained but not used.\n\n== Obtaining ==\n=== Crafting ===\n{{Crafting Recipe Table\n|{{Crafting Recipe Row\n |A1 =                |B1 = Redstone Torch |C1 = \n |A2 = Redstone Torch |B2 = Nether Quartz  |C2 = Redstone Torch\n |A3 = Stone          |B3 = Stone          |C3 = Stone\n |Output = Comparator\n}}\n}}\n\n=== Shop Purchase ===\nA '''Comparator''' can be purchased from the {{NPCSprite|Mad Redstone Engineer}} for {{Coins|10}}.\n\n== Usage ==\n=== Private Island ===\n'''Comparators''' cannot be placed down, and therefore cannot be used.\n\n== Game Messages ==\n{|class=\"wikitable\"\n! Message\n! Condition\n|-\n| {{Dialogue|&cYou cannot use this right now.}}\n| Trying to place a Comparator\n|}\n\n== History ==\n{{History table\n|beta=\n{{History|0.1|[[File:Comparator.png|26px]] Added '''Comparator'''.}}\n{{History|2026/May 27|link=none|Disabled Comparators.}}\n}}"
+}

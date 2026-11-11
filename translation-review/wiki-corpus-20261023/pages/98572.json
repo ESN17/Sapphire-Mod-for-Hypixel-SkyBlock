@@ -1,0 +1,16 @@
+{
+  "title": "Dr. Edwin",
+  "pageid": 98572,
+  "revision": 813108,
+  "timestamp": "2026-08-11T19:09:02Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Dr._Edwin",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=813108",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Category:Pages with UIs",
+    "Template:Dialogue",
+    "Template:UI"
+  ],
+  "wikitext": "{{Infobox/Character\n|location = [[Black Lagoon]]\n|location_page_description = Gives access to the {{Zone|Leeches Lair}}.\n|x = -79.5\n|y = 73\n|z = 9.5\n}}\n'''Dr. Hibble''' is an [[NPC]] located in the {{Zone|Black Lagoon}}. After speaking to {{NPCSprite|Kay}}, their name changes to '''Dr. Edwin''', and they allow the player to access the {{Zone|Leeches Lair}}.\n\n== Interface ==\n{{/UI}}\n\n== Dialogue ==\n{| class=\"wikitable\"\n!Condition\n!Dialogue\n|-\n| class=\"ct\" |First interaction\n|{{Dialogue|\n&e[NPC] Dr. Hibble&r: I've been researching &cLagoon Leeches.\n&e[NPC] Dr. Hibble&r: I tasked my assistant Kay with a critical component of my research, but clearly she forgot about me!\n&e[NPC] Dr. Hibble&r: She's stuck near the &3Lagoon Hut&r, go talk to her.\n}}\n|-\n| class=\"ct\" |Subsequent interactions before having spoken to [[Kay]]\n|{{Dialogue|\n&e[NPC] Dr. Hibble&r: Have you talked to Kay yet?\n&e[NPC] Dr. Hibble&r: She's stuck near the &3Lagoon Hut&r.\n}}\n|-\n| class=\"ct\" |Giving {{Item|Very Scientific Paper}}\n|{{Dialogue|\n&7Dr. Edwin takes a look at your paper...\n&e[NPC] Dr. Edwin&f: Mmh...\n&e[NPC] Dr. Edwin&f: I see.\n&e[NPC] Dr. Edwin&f: I can send you to the &cLeeches Lair&f but be warned, it's dangerous down there!\n}}\n|-\n| class=\"ct\" |Sending to {{Zone|Leeches Lair}}<br>{{DG|First Time}}\n|{{Dialogue|&e[NPC] Dr. Edwin&f: Zoooooooooooop!}}\n|-\n| class=\"ct\" |After Giving {{Item|Very Scientific Paper}}\n|{{Dialogue|&e[NPC] Dr. Edwin&f: Want to kill some leeches?}}\n|-\n| class=\"ct\" |Sending to {{Zone|Leeches Lair}}\n|{{Dialogue|&e[NPC] Dr. Edwin&f: Here we go!}}\n|-\n| class=\"ct\" |{{MobSprite|Leech Supreme}} Died\n|{{Dialogue|\n&e[NPC] Dr. Edwin&f: I heard the Leech Supreme is dead!\n&e[NPC] Dr. Edwin&f: Come back in about # seconds.\n}}\n|}\n\n== History ==\n{{History table\n|ahn=\n{{history|2023/May 4|[[File:Dr. Edwin.png|26px]] Added '''Dr. Edwin'''.}}\n|beta=\n{{history|2023/April 21|link=https://discord.com/channels/720585022624628797/751480380632334457/1098967430925135963|Leaked '''Dr. Edwin'''.}}\n{{History|0.19|[[File:Dr. Edwin.png|26px]] Added '''Dr. Edwin'''.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}"
+}

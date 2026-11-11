@@ -1,0 +1,15 @@
+{
+  "title": "Personal Bank",
+  "pageid": 1228,
+  "revision": 816828,
+  "timestamp": "2026-08-11T21:42:58Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Personal_Bank",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=816828",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Pages with UIs",
+    "Category:SkyBlock Menu",
+    "Template:UI"
+  ],
+  "wikitext": "{{Infobox/Upgrade\n|image = Personal Bank.png\n|type=Remote Bank Access\n}}\nThe '''Personal Bank''' is an Upgrade that allows the player to access the [[Bank]] remotely.\n\n== Interface ==\n{{:Bank/UI}}\n\n== Usage ==\nThe '''Personal Bank''' can be accessed through the {{Item|SkyBlock Menu}} after reaching {{CollectionLink|Emerald VI}}. It allows the player to access the {{zone|Bank}}'s interface from anywhere in [[SkyBlock]]. The '''Personal Bank''' has a default cooldown of {{Green|1}} hour, and during this time cannot be accessed. The cooldown can be reset by talking to the [[Banker]], [[Banker Broadjaw]] or [[Banker Barry]] and can be reduced by talking to [[Guy]].\n\nIf the player has a [[Booster Cookie]] active, the '''Personal Bank''' can also be accessed through the {{code|/bank}} command.\n\n{{Gamemode|Bingo}} players automatically have the '''Personal Bank''' unlocked with no cooldown.\n\n=== Upgrading ===\nThe '''Personal Bank'''<nowiki>'s</nowiki> cooldown can be reduced by talking to {{NPCSprite|Guy}}.\n{| class=\"wikitable ct\"\n! Cooldown\n! Cost\n! Emerald Collection\n|-\n| 20 minutes\n| {{c|200000}}\n| {{CollectionLink|Emerald VIII}}\n|-\n| 5 minutes\n| {{c|1000000}}\n| {{CollectionLink|Emerald IX}}\n|-\n| No cooldown\n| {{c|5000000}}\n| {{Item|Emerald|amount=250,000}}s\n|}\n\n== Trivia ==\n* Using the Personal Vault menu option will not trigger the cooldown. However, if money transfers were done, the Personal Vault cannot be accessed either before the cooldown expires.\n\n== History ==\n{{History table\n|beta=\n{{History|2019/June 11|[[File:Personal Bank.png|26px]] Added '''Personal Bank'''.}}\n{{History|2019/June 26|'''Personal Bank''' will now count down rather than counting up.}}\n{{History|2019/December 3|Personal Bank can now be upgraded by {{Item|Guy}}.}}\n{{History|2019/December 4|Changed '''Personal Bank''' cooldowns to 1h, 20m, 5m, none (was: 2h, 1h, 20m, none).}}\n{{History|2020/February 21|'''Personal Bank''' now only goes on cooldown when it is actually used.}}\n{{History|0.19.9|Added {{code|/bank}} command.}}\n}}\n\n== Navigation ==\n{{Nav/Bags}}\n{{Nav/Collection/Emerald}}\n[[Category:Upgrades]]\n[[Category:SkyBlock Menu]]"
+}

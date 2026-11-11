@@ -52,11 +52,15 @@
       ]
     ],
     "adapted_files": [
+      "src/test/java/com/sorakoi/sbtranslate/ChatOriginalHoverTest.java",
+      "src/test/java/com/sorakoi/sbtranslate/StyledLoreTest.java",
       "src/main/java/com/sorakoi/sbtranslate/Sapphire.java",
       "src/main/java/com/sorakoi/sbtranslate/client/ApiUiSmokeTest.java",
       "src/main/java/com/sorakoi/sbtranslate/client/ChatClickSmokeTest.java",
       "src/main/java/com/sorakoi/sbtranslate/client/ChatDisplay.java",
       "src/main/java/com/sorakoi/sbtranslate/client/ClientSmokeTest.java",
+      "src/main/java/com/sorakoi/sbtranslate/client/ConsentScreen.java",
+      "src/main/java/com/sorakoi/sbtranslate/client/FeedbackScreen.java",
       "src/main/java/com/sorakoi/sbtranslate/client/HudOverlaySmokeTest.java",
       "src/main/java/com/sorakoi/sbtranslate/client/OnlineChatTranslation.java",
       "src/main/java/com/sorakoi/sbtranslate/client/OutgoingChatTranslation.java",
@@ -65,12 +69,11 @@
       "src/main/java/com/sorakoi/sbtranslate/client/SapphireScreen.java",
       "src/main/java/com/sorakoi/sbtranslate/client/TranslationEditorScreen.java",
       "src/main/java/com/sorakoi/sbtranslate/client/TranslationStatusScreen.java",
+      "src/main/java/com/sorakoi/sbtranslate/collection/ChatCapture.java",
       "src/main/java/com/sorakoi/sbtranslate/environment/SkyBlockContext.java",
       "src/main/java/com/sorakoi/sbtranslate/item/ItemTranslationService.java",
       "src/main/java/com/sorakoi/sbtranslate/mixin/ChatScreenMixin.java",
-      "src/main/java/com/sorakoi/sbtranslate/mixin/GuiMixin.java",
-      "src/test/java/com/sorakoi/sbtranslate/ChatOriginalHoverTest.java",
-      "src/test/java/com/sorakoi/sbtranslate/StyledLoreTest.java"
+      "src/main/java/com/sorakoi/sbtranslate/mixin/GuiMixin.java"
     ]
   },
   "26.2": {

@@ -1,0 +1,17 @@
+{
+  "title": "Rosemary",
+  "pageid": 106702,
+  "revision": 830484,
+  "timestamp": "2026-09-03T01:30:09Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Rosemary",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=830484",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Category:Pages with UIs",
+    "Template:Dialogue",
+    "Template:UI",
+    "Template:UIPage"
+  ],
+  "wikitext": "{{Infobox/Character\n|shop = Yes\n|abiphone = Yes\n|location = [[Murkwater Outpost]]\n|location_page_description = Sells perks and upgrades in exchange for {{Item|Forest Essence}} with the [[Forest Essence Shop]].\n|x = -703.5 \n|y = 162 \n|z = 3.5\n}}\n'''Rosemary''' is an [[NPC]] found in the {{Zone|Murkwater Outpost}} on [[Galatea]]. They have an [[Essence Shops|Essence Shop]] where the player can purchase perks using {{Item|Forest Essence}}.\n\n== Shop ==\n{{:Essence Shops/Forest}}\n\n== Dialogue ==\n{| class=\"wikitable\"\n!colspan=\"2\"|Condition\n!Dialogue\n|-\n|colspan=\"2\" class=\"ct\"|[[Abiphones#Contacts|{{Aqua|Abiphone Contact}}]]\n|{{Dialogue|&e[NPC] &aRosemary&f: &b✆ &f&fHi again.\n&e[NPC] &aRosemary&f: &b✆ &f&fIt can get quite lonely up here sometimes, so I do a bunch of stuff to pass the time.\n&e[NPC] &aRosemary&f: &b✆ &f&fMy favorite thing to do at the moment is to collect cool-looking rocks.\n&e[NPC] &aRosemary&f: &b✆ &f&fSay, do you think you could get me a &5Figstone&f?\n&e[NPC] &aRosemary&f: &b✆ &f&fI'll give you my &3Abiphone Contact &fif you do.\n&a&l[GIVE ITEM]}}\n|-\n|colspan=\"2\" class=\"ct\"|Selecting {{rmt|&a[GIVE ITEM]}} without a {{Item|Figstone}}\n|{{Dialogue|&e[NPC] &aRosemary&f: &b✆ &f&fYou don't seem to have a &5Figstone&f.\n&e[NPC] &aRosemary&f: &b✆ &f&fIf you ever have a spare one, you know where to find me.}}\n|-\n|colspan=\"2\" class=\"ct\"|Selecting {{rmt|&a[GIVE ITEM]}} with a {{Item|Figstone}}\n|{{Dialogue|&e[NPC] &aRosemary&f: &b✆ &f&fA fine addition to my collection!\n&e[NPC] &aRosemary&f: &b✆ &f&fHere's my number!\n&b✆ &aRosemary &fhas been added to your Abiphone's contacts!\n&e[NPC] &aRosemary&f: &b✆ &f&fIf you call me I probably won't feel like speaking, but I'll let you use the &2Forest Essence Shop&f.\n&e[NPC] &aRosemary&f: &b✆ &f&fLike I said before, I'm not too good with people.}}\n|}\n\n== History ==\n{{History table\n|ahn=\n{{History|2025/Jun 5|[[File:Rosemary.png|26px]] Added '''Rosemary'''.}}\n{{History|2026/Mar 23|Added [[Abiphones#Contacts|{{Aqua|Abiphone Contact}}]].}}\n|beta=\n{{History|0.23|[[File:Rosemary.png|26px]] Added '''Rosemary'''.}}\n{{History|0.24.3|Added [[Abiphones#Contacts|{{Aqua|Abiphone Contact}}]].}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}"
+}

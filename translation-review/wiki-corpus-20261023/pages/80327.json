@@ -1,0 +1,14 @@
+{
+  "title": "Pocket Espresso Machine",
+  "pageid": 80327,
+  "revision": 844901,
+  "timestamp": "2026-09-21T19:37:34Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Pocket_Espresso_Machine",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=844901",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Slayer",
+    "Category:Enderman Slayer"
+  ],
+  "wikitext": "{{Infobox/Accessory\n|id = POCKET_ESPRESSO_MACHINE\n|rarity = Common\n|drop_chance = rng\n|slayer_level_requirement = Enderman Slayer 4\n}}\n\n'''Pocket Espresso Machine''' is a {{Common}} [[Accessory]]. It increases {{Stat|Int}} at a {{Stat|Soulflow}} cost.\n\n== Obtaining ==\nThe '''Pocket Espresso Machine''' is a {{O|rng|no=y}} drop from {{MobSprite|Voidgloom Seraph;{{Stier|4}} Voidgloom Seraph}} if the player has {{Coll|Enderman Slayer LVL 4}} or higher. It has a {{Chance|0.39%|1|256.16|exact=55 in 14089}} chance to drop.\n\n== Usage ==\n'''Pocket Espresso Machine''' requires {{Coll|Enderman Slayer LVL 4}} to use. \n\n{{ItemInfo\n|name = Pocket Espresso Machine\n|type = Accessory\n|rarity = Common\n|special_effect = Costs {{Stat|Soulflow|1}} per 5s in combat:\n* Gain {{Stat|Intelligence|100}}\n}}\n\nIts ability can be toggled on and off by right clicking with it.\n\nWhen in combat with it enabled and sufficient {{Stat|Soulflow}}, it gives the player {{Stat|Int|+100}} and takes away {{Stat|Soulflow|1}} every 5 seconds.\n\n=== Salvaging ===\n'''Pocket Espresso Machine''' can be salvaged for {{Item|Dragon Essence|amount=15}}.\n\n== Trivia ==\n*Due to its rarity and price, it is commonly referred to as Depresso within the playerbase.\n== History ==\n{{History table\n|beta=\n{{History|0.11.5|[[File:Pocket Espresso Machine.png|26px]] Added '''Pocket Espresso Machine'''.}}\n{{History|2021/Aug 17|link=none|Fixed the item ability working regardless of if the user has the required Slayer level.}}\n{{History|2024/February 6|'''Pocket Espresso Machine''' can now be salvaged for {{Item|Dragon Essence|amount=15}}.}}\n{{History|2024/Feb 22|Fixed item requirements only affecting whether or not '''Pocket Espresso Machine''' can be obtained as a drop.}}\n}}\n\n== Navigation ==\n{{Nav/Accessories}}\n{{Nav/Slayer/Enderman}}\n[[Category:Mob Drops]]"
+}

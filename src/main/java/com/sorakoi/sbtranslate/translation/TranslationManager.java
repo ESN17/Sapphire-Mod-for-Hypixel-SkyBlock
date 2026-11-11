@@ -265,7 +265,7 @@ public final class TranslationManager {
             if(newWikiPending<0 || newWikiPending>1000000)throw new IOException("Invalid Wiki review count");
         }
         var newCommunity=CommunityTranslationEngine.merge(
-            CommunityTranslationEngine.load(root.resolve("community-skyzh.json")),
+            CommunityTranslationEngine.load(root.resolve("community-sapphire.json")),
             newWiki);
         Map<String,String> names=new HashMap<>();
         for(var entry:items.values())if(!entry.originalName().isBlank() && !entry.name().isBlank())names.putIfAbsent(entry.originalName(),entry.name());

@@ -13,7 +13,7 @@ import java.util.zip.ZipFile;
 public final class DictionaryArchive {
     public static final long MAX_ZIP_BYTES=64L*1024*1024, MAX_TOTAL_BYTES=128L*1024*1024;
     public static final String MANIFEST="sapphire-dictionary.json";
-    public static final List<String> REQUIRED=List.of("global","templates","gui","chat","scoreboard","actionbar","title","subtitle","bossbar","reforges","enchantments","enchantment-ids","gui-menus","name-modifiers","tooltip-labels","tooltip-paragraphs","runes","dyes","locations","skyblock-months","sidebar-formats","bazaar-events","tablist","mining-events","system-messages","death-messages","creature-messages","entity-names","entity-labels","entity-menus","community-skyzh","community-wiki");
+    public static final List<String> REQUIRED=List.of("global","templates","gui","chat","scoreboard","actionbar","title","subtitle","bossbar","reforges","enchantments","enchantment-ids","gui-menus","name-modifiers","tooltip-labels","tooltip-paragraphs","runes","dyes","locations","skyblock-months","sidebar-formats","bazaar-events","tablist","mining-events","system-messages","death-messages","creature-messages","entity-names","entity-labels","entity-menus","community-sapphire","community-wiki");
     public static String sha256(byte[] bytes) {
         try{return HexFormat.of().formatHex(MessageDigest.getInstance("SHA-256").digest(bytes));}
         catch(NoSuchAlgorithmException e){throw new AssertionError(e);}

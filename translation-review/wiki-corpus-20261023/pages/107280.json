@@ -1,0 +1,13 @@
+{
+  "title": "Vial of Venom",
+  "pageid": 107280,
+  "revision": 825567,
+  "timestamp": "2026-08-28T01:46:36Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Vial_of_Venom",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=825567",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Item\n|rarity = e\n|auctionable = n\n|bazaar = VIAL_OF_VENOM\n|id = VIAL_OF_VENOM\n|sell = 250000\n}}\nA '''Vial of Venom''' is an {{Epic}} [[Permanent Consumable]] item used to increase the player's {{Stat|cd}}.\n\n== Obtaining ==\nA '''Vial of Venom''' has a {{Chance|0.5%|1|200}} chance to drop from a {{SlayerTier|4}} or above {{MobSprite|Tarantula Broodfather}} once at {{Coll|Spider Slayer VI}}.\n\n== Usage ==\nConsuming a '''Vial of Venom''' grants {{SBXP|+2}} and a permanent {{stat|crit damage|+1}}. Up to {{Green|5}} '''Vials of Venom''' can be consumed in total.\n\n== Game Message ==\n{| class=\"wikitable\"\n! Condition\n!Message\n|-\n| class=\"ct\" |First Vial\n|{{Dialogue|&c&lYIPPEE! &7The venom stings as it trickles down your throat. Immunity here you come!}} \n|-\n| class=\"ct\" |Second Vial\n|{{Dialogue|&c&lGULP! &7The venom is viscous and hard to swallow. Was this a good idea?}}\n|-\n| class=\"ct\" |Third Vial\n|{{Dialogue|&c&lBLEGH! &7The taste just keeps getting worse and worse. Whose idea was this, again?}}\n|-\n| class=\"ct\" |Fourth Vial\n|{{Dialogue|&c&lCHUG! &7You finish the vial in a single swig. You can feel your insides disintegrating.}}\n|-\n| class=\"ct\" |Fifth Vial\n|{{Dialogue|&c&lNOPE! &7No...more...organs...ouchie.}}\n|-\n| class=\"ct\" |Attempting to drink more than 5\n|{{Dialogue|&cYou've already consumed the maximum amount of this item!}}\n|}\n\n== History ==\n{{History table\n|ahn=\n{{History|2025/Jul 8|[[File:Vial of Venom.png|26px]] Added '''Vial of Venom'''.}}\n{{History|2025/Jul 17|Changed '''Vial of Venom''' granting bonus {{Arachnal}} {{stat|dmg}} to {{stat|cd|1}}.}}\n|beta=\n{{History|0.23.2|[[File:Vial of Venom.png|26px]] Added '''Vial of Venom'''.}}\n}}\n\n[[Category:Permanent Consumables]]"
+}

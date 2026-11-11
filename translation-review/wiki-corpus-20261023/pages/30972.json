@@ -1,0 +1,14 @@
+{
+  "title": "Item Frame",
+  "pageid": 30972,
+  "revision": 819460,
+  "timestamp": "2026-08-13T23:03:19Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Item_Frame",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819460",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Pages with UIs",
+    "Template:UI"
+  ],
+  "wikitext": "{{Vanilla}}\n{{Infobox/Item\n|id = ITEM_FRAME\n|rarity = common\n|sell = 5\n}}\nAn '''Item Frame''' is a {{Common}} item that can used to showcase items on the player's {{Zone|Private Island}}.\n\n== Obtaining ==\n=== Crafting ===\n{{Crafting Recipe Table\n|{{Crafting Recipe Row\n |A1 = Stick |B1 = Stick   |C1 = Stick\n |A2 = Stick |B2 = Leather |C2 = Stick\n |A3 = Stick |B3 = Stick   |C3 = Stick\n |Output = Item Frame\n}}\n}}\n\n== Usage ==\n=== Showing Items ===\n'''Item Frames''' can be placed on the player's {{Zone|Private Island}} to showcase an item. Interacting with it opens a menu to insert or take out the item, or remove the item frame.\n\n== Interface ==\n{{/UI}}\n\n== History ==\n{{History table\n|beta=\n{{History|0.1|[[File:Item Frame.png|26px]] Added '''Item Frame'''.}}\n{{History|0.9.5|Added a menu to Item Frames.}}\n{{History|0.19.11|Fixed clicking anywhere inside an Item Frame giving an error saying 'You cannot take this item'.}}\n}}"
+}

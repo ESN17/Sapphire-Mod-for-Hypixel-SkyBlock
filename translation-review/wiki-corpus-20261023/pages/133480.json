@@ -1,0 +1,14 @@
+{
+  "title": "Hunter Billy",
+  "pageid": 133480,
+  "revision": 851036,
+  "timestamp": "2026-10-04T13:48:33Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Hunter_Billy",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=851036",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Character\n|shop = yes\n|location = [[Critter Safari]]\n|x = -145.5 \n|y = 90    \n|z = 72.5\n|location_page_description = Allows the player to obtain a random [[Attribute Shard]].\n\n|location2 = [[Critter Safari]]\n|x2 = -110.5 \n|y2 = 60     \n|z2 = 36.5\n|location_page_description2 = Allows the player to obtain a random [[Attribute Shard]].\n\n|location3 = [[Critter Safari]]\n|x3 = -121.5\n|y3 = 60   \n|z3 = 12.5\n|location_page_description3 = Allows the player to obtain a random [[Attribute Shard]].\n}}\n'''Hunter Billy''' is an [[NPC]] located in the {{Zone|Critter Safari}}. They allow the player to obtain a random [[Attribute Shard]] in exchange for a specified item.\n\n== Purpose ==\n'''Hunter Billy''' sells a random [[Attribute Shard]] per {{Zone|Critter Safari}} instance with a random cost.\n{|class=\"wikitable\"\n! Possible Shards\n! Possible Costs\n|-\n| {{Item|Billygoat Shard}}, {{Item|Mantis Shrimp Shard}}, {{Item|Parakeet Shard}}, Snoozle Shard\n| {{Item|Yogi Berry}}, {{Item|Orange Gem}}, {{Item|Bag of Seeds}}, {{Item|Purple Gem}}, Wriggleworm\n|}\n\n== Dialogue ==\n{| class=\"wikitable\"\n!Condition\n!Dialogue\n|-\n| class=\"ct\" | First Interaction\n|{{Dialogue|\n&e[NPC] &eHunter Billy&f: &fHey there!\n&e[NPC] &eHunter Billy&f: &fI found this really cool &7<shard>&f on the floor around here.\n&e[NPC] &eHunter Billy&f: &fDo you want it?\n&e[NPC] &eHunter Billy&f: &fI'll trade it to you in exchange for a &7<cost>&f.\n&eSelect an option: &a[Trade] &c[No thanks] \n}}\n|-\n| class=\"ct\" | Selecting {{Rmt|&c[No thanks]}}\n|{{Dialogue|\n&e[NPC] &eHunter Billy&f: &fAlright, alright. Guess it's worthless...\n}}\n|-\n| class=\"ct\" | Selecting {{Rmt|&a[Trade]}} without the required item\n|{{Dialogue|\n&e[NPC] &eHunter Billy&f: &fAre you trying to scam me? You don't have a &7<cost>&f.\n&e[NPC] &eHunter Billy&f: &fTrying to scam &cme&f? I'll hunt &c&lYOU&f!\n}}\n|-\n| class=\"ct\" | Selecting {{Rmt|&a[Trade]}} with the required item\n|{{Dialogue|\n&e[NPC] &eHunter Billy&f: &fDone deal! Enjoy the &7<shard>&f, my dude!\n}}\n|-\n| class=\"ct\" | After trading\n|{{Dialogue|\n&e[NPC] &eHunter Billy&f: &fNice doing business with ya!\n}}\n|}\n\n== History ==\n{{History table \n|ahn= \n{{History|2026/July 10|[[File:Hunter Billy.png|26px]] Added '''Hunter Billy'''.}}\n|beta = \n{{History|0.27|[[File:Hunter Billy.png|26px]] Added '''Hunter Billy'''.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}"
+}

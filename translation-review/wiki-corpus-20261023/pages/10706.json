@@ -1,0 +1,14 @@
+{
+  "title": "Tarantula Beast",
+  "pageid": 10706,
+  "revision": 861889,
+  "timestamp": "2026-10-21T01:18:33Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Tarantula_Beast",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861889",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Slayer",
+    "Category:Spider Slayer"
+  ],
+  "wikitext": "{{Infobox/Mob\n|category = Slayer Miniboss\n|stats = {{InfoboxMobStats\n|health = 500,000\n|damage = 1,000\n}}\n|mob_type = {{MobType|Arthropod}}\n|mob_level = 210\n|spawn_condition = {{SlayerTier|IV}} [[Spider Slayer]]\n|id = TARANTULA_BEAST, SPIDER_FOLLOWER_4\n|id_labels = Current, Legacy\n}}\nThe '''Tarantula Beast''' is a [[Mob]] and {{MobCategory|Slayer Miniboss}} that spawns rarely when a player doing the [[Tarantula Broodfather]] {{SlayerTier|IV}} quest kills a [[Spider]]. When this happens, an explosion effect takes place and the Tarantula Beast spawns.\n\n== Drops ==\n{{Mob Drops Table\n|level = 210\n|combat_xp = 1,575\n|orbs = 630\n|coins = 1\n|notelist = slayer_bonus = Drop amount is increased by {{Green|3}} after reaching {{Green|LVL 6}} in '''Zombie''', '''Spider''' and '''Wolf''' [[Slayers]].\n|{{Mob Drops Row\n |drop = Tarantula Web\n |count = 2\n |rarity = c\n |chance = 100%\n |notes = slayer_bonus\n }}\n}}\n\n== Behavior ==\nIf the player is near a Tarantula Beast, it will jump towards them and attack them.\n\n== History ==\n{{History table\n|ahn=\n{{History|2026/Aug 25|Changed the [[Mob Level]] and non-item drops.}}\n{{History|2026/Sep 30|Increased the {{Stat|Health}} from {{Stat|Health|144,000|icononly=yes}} to {{Stat|Health|500,000|icononly=yes}}.|Decreased the {{Stat|Damage}} from {{Stat|Damage|1,200|icononly=yes}} to {{Stat|Damage|1,000|icononly=yes}}.}}\n|beta=\n{{history|0.7.2|[[File:Spider.png|26px]] Added '''Tarantula Beast'''.}}\n{{History|0.27.2|Increased the {{Stat|Health}} from {{Stat|Health|144,000|icononly=yes}} to {{Stat|Health|500,000|icononly=yes}}.|Decreased the {{Stat|Damage}} from {{Stat|Damage|1,200|icononly=yes}} to {{Stat|Damage|1,000|icononly=yes}}.|Changed the [[Mob Level]] from {{Level|180}} to {{Level|210}}, {{Coins}} from {{Gold|0}} to {{Gold|1}}, {{Experience}} from {{Dark Aqua|0}} to {{Dark Aqua|630}}, and {{Skill|Combat}} XP from {{Dark Aqua|250}} to {{Dark Aqua|1,575}}.|Changed the internal ID from {{Code|SPIDER_FOLLOWER_4}} to {{Code|TARANTULA_BEAST}}.}}\n}}\n\n== Navigation ==\n{{Nav/Slayer/Spider}}\n{{Nav/Mobs}}\n[[Category:Minibosses]]"
+}

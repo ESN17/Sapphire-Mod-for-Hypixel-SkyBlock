@@ -1,0 +1,13 @@
+{
+  "title": "Minecart with Furnace",
+  "pageid": 81967,
+  "revision": 821615,
+  "timestamp": "2026-08-19T22:15:13Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Minecart_with_Furnace",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=821615",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Vanilla}}\n{{Disabled}}\n{{Infobox/Item\n|id = POWERED_MINECART\n|rarity = common\n|sell = 12\n}}\nA '''Minecart with Furnace''' is a {{Common}} item.\n\n== Obtaining ==\n=== Crafting ===\n{{Crafting Recipe Table\n|{{Crafting Recipe Row\n |B2 = Furnace \n ||B3 = Minecart\n |Output = Minecart with Furnace\n}}\n}}\n\n== Usage ==\n'''Minecarts''' currently have no usage, as they cannot be placed. Trying to place one on a {{Zone|Private Island}} will immediately drop the {{Item|Minecart}} and {{Item|Furnace}}.\n\n== Game Messages ==\n{|class=\"wikitable\"\n! Message\n! Condition\n|-\n| {{Dialogue|&cMinecarts are limited to a maximum of 0 in SkyBlock for performance reasons.}}\n| Trying to place a Minecart on a {{Zone|Private Island}}\n|-\n| {{Dialogue|&cYou cannot place Minecarts on the Garden.}}\n| Trying to place a Minecart on {{Zone|The Garden}}\n|}\n\n== History ==\n{{History table\n|beta=\n{{History|0.1|[[File:Minecart with Furnace.png|26px]] Added '''Minecart with Furnace'''.}}\n{{History|2019/December 17|link=none|Disabled the ability to place Minecarts.}}\n}}"
+}

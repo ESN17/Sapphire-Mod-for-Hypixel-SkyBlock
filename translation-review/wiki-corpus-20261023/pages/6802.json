@@ -1,0 +1,14 @@
+{
+  "title": "Revenant Sycophant",
+  "pageid": 6802,
+  "revision": 861783,
+  "timestamp": "2026-10-21T01:15:59Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Revenant_Sycophant",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861783",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Slayer",
+    "Category:Zombie Slayer"
+  ],
+  "wikitext": "{{Infobox/Mob\n|category = Slayer Miniboss\n|stats = {{InfoboxMobStats\n|health = 50,000\n|damage = 400\n}}\n|mob_type = {{MobType|Undead}}\n|mob_level = 114\n|spawn_condition = {{SlayerTier|III}} [[Zombie Slayer]]\n|id = REVENANT_FOLLOWER_3\n}}\n\nThe '''Revenant Sycophant''' is  [[Mob]] and [[Revenant Horror]] / [[Zombie Slayer]] {{MobCategory|Slayer Miniboss}} that has a chance to be spawned when a player with an active [[Revenant Horror]] {{SlayerTier|III}} or higher Quest kills a [[Zombie]]-type Mob. When this happens, an explosion effect takes place and the Revenant Sycophant spawns.\n\n== Drops ==\n{{Mob Drops Table\n|level = 114\n|combat_xp = 855\n|orbs = 342\n|coins = 1\n|notelist = slayer_bonus = Drop amount is increased by {{Green|3}} after reaching {{Green|LVL 6}} in '''Zombie''', '''Spider''' and '''Wolf''' [[Slayers]].\n|{{Mob Drops Row\n |drop = Revenant Flesh\n |count = 1\n |rarity = c\n |chance = 100%\n |notes = slayer_bonus\n }}\n}}\n{{ShardHunting|blackhole=y|charm=y|rarity=uncommon|shard=Sycophant Shard}}\n\n== Behavior ==\nIt runs somewhat quickly, dealing {{Stat|Damage|320}} upon contact.\n\n== History ==\n{{History table\n|ahn=\n{{History|2026/Aug 25|Changed the [[Mob Level]] and non-item drops.}}\n{{History|2026/Sep 21|Increased {{Stat|hp}} from {{Stat|hp|24,000|icononly=y}} to {{Stat|hp|25,000|icononly=y}}.|Increased {{Stat|dmg}} from {{Stat|dmg|320|icononly=y}} to {{Stat|dmg|500|icononly=y}}.}}\n{{History|2026/Sep 30|Increased {{Stat|hp}} from {{Stat|hp|25,000|icononly=y}} to {{Stat|hp|50,000|icononly=y}}.|Decreased {{Stat|dmg}} from {{Stat|dmg|500|icononly=y}} to {{Stat|dmg|400|icononly=y}}.}}\n|beta=\n{{History|0.7.2|[[File:Revenant Sycophant.png|26px]] Added '''Revenant Sycophant'''.}}\n{{History|2019/Oct 14|link=none|'''Revenant Sycophant''' now correctly stops following the player after some time.}}\n{{History|0.23|Added the ability to obtain {{Item|Sycophant Shard}} and {{Skill XP|+150 Hunting}} from '''Revenant Sycophant'''.}}\n{{History|0.27.2|Increased {{Stat|hp}} from {{Stat|hp|24,000|icononly=y}} to {{Stat|hp|50,000|icononly=y}}.|Increased {{Stat|dmg}} from {{Stat|dmg|320|icononly=y}} to {{Stat|dmg|400|icononly=y}}.|Changed the [[Mob Level]] from {{Level|80}} to {{Level|114}}, {{Coins}} from {{Gold|0}} to {{Gold|1}}, {{Experience}} from {{Dark Aqua|0}} to {{Dark Aqua|342}}, and {{Skill|Combat}} XP from {{Dark Aqua|360}} to {{Dark Aqua|855}}.}}\n}}\n\n== Navigation ==\n{{Nav/Slayer/Zombie}}\n{{Nav/Mobs}}\n[[Category:Minibosses]]"
+}

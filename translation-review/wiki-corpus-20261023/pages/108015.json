@@ -1,0 +1,16 @@
+{
+  "title": "Alda",
+  "pageid": 108015,
+  "revision": 844606,
+  "timestamp": "2026-09-20T19:38:14Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Alda",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=844606",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Category:Pages with UIs",
+    "Template:Dialogue",
+    "Template:UI"
+  ],
+  "wikitext": "{{Infobox/Character\n|shop = Yes\n|abiphone = Yes\n|location=[[Abiphones & Co.]]\n|location_page_description = Introduces the player to [[Abiphone]]s and sells the {{Item|Abiphone Basic}}.\n|x = 71\n|y = 80\n|z = -59\n}}\n'''Alda''' is an [[NPC]] located in {{Zone|Abiphones & Co.}}. They introduce the player to [[Abiphones]] and sell the {{Item|Abiphone Basic}}.\n\n== Interface ==\n{{/UI}}\n\n== Dialogue ==\n{| class=\"wikitable\"\n! Condition\n! Dialogue\n|-\n| class=\"ct\" | None\n| {{Dialogue|\n&e[NPC] &6Alda&f: Welcome to &3Abiphones & Co.&f, &7<Username>&f!\n&e[NPC] &6Alda&f: Are you here to buy an &3Abiphone&f?\n&eSelect an option: &a[What's an Abiphone?]\n}}\n|-\n| class=\"ct\" | Selecting {{Green|[What's an Abiphone?]}}\n| {{Dialogue|\n&e[NPC] &6Alda&f: Have ya ever needed to talk to or buy something from an NPC, but they're on a different island?\n&e[NPC] &6Alda&f: And getting to them would take ages, even if you had a &bTravel Scroll&f?\n&e[NPC] &6Alda&f: That's where the &3Abiphone &fcomes in!\n&e[NPC] &6Alda&f: &fSimply add an NPC as a &3Contact &fand you can call them anytime, anywhere!\n&e[NPC] &6Alda&f: Sounds amazing, right?\n&eSelect an option: &a[I guess.]\n}}\n|-\n| class=\"ct\" | Selecting {{Green|[I guess.]}}\n| {{Dialogue|&e[NPC] &6Alda&f: Then why don't ya buy one? I'll do a little discount, just for you.}}\n|-\n| class=\"ct\" | After buying an {{Item|Abiphone Basic}}\n| {{Dialogue|\n&e[NPC] &6Alda&f: Congratulations on becoming a proud owner of an &3Abiphone&f!\n&e[NPC] &6Alda&f: Before you go, let me show you how to add a contact.\n&e[NPC] &6Alda&f: Simply hold the &3Abiphone &fin your hand, and click on an NPC!\n&e[NPC] &6Alda&f: Why don't you try it out on me now?\n}}\n|-\n| class=\"ct\" | {{Aqua|Abiphone Contact}}\n| {{Dialogue|&e[NPC] &6Alda&f: &b✆ &fNice job!\n&e[NPC] &6Alda&f: &b✆ &fIt's really as simple as that. I'll add myself to your &3Contacts &fnow!\n&e[NPC] &6Alda&f: &b✆ &fOne last thing - not every NPC owns an &3Abiphone&f, so you can't add everyone as a Contact.\n&e[NPC] &6Alda&f: &b✆ &fTo see who you can add, simply open up your phone and check the &3Contacts Directory&f.\n&e[NPC] &6Alda&f: &b✆ &fThat's it. Enjoy your purchase!\n}}\n|-\n|}\n\n== Gallery ==\n<gallery hideaddbutton=\"true\" position=\"center\">\nAlda's House.png|Alda's house in the [[Village]]\n</gallery>\n\n== History ==\n{{History table\n|ahn=\n{{History|2025/Aug 28|[[File:Alda.png|26px]] Added '''Alda'''.}}\n{{History|2026/Jan 30|Moved '''Alda''' from {{coords|66|71|-59}} to {{Coords|71|80|-59}}, due to the redesign of the [[Hub Island]].}}\n|beta=\n{{History|0.23.4|[[File:Alda.png|26px]] Added '''Alda'''.}}\n{{History|0.24.2|Moved '''Alda''' from {{coords|66|71|-59}} to {{Coords|71|80|-59}}, due to the redesign of the [[Hub Island]].}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}"
+}

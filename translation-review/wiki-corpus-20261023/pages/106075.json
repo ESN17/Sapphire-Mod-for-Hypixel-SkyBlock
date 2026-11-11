@@ -1,0 +1,17 @@
+{
+  "title": "Gavin",
+  "pageid": 106075,
+  "revision": 813500,
+  "timestamp": "2026-08-11T19:19:06Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Gavin",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=813500",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Category:Pages with UIs",
+    "Template:Dialogue",
+    "Template:UI",
+    "Template:UIPage"
+  ],
+  "wikitext": "{{Infobox/Character\n|location = [[Fisherman's Hut]]\n|location_page_description = Introduces the player to the [[Sea Creature Guide]].\n|x=147.5\n|y=70.5\n|z=-59.5}}\n'''Gavin''' is an [[NPC]] in the {{zone|Fisherman's Hut}} that explains the [[Sea Creature#Sea Creature Guide|Sea Creature Guide]].\n\n== Interface ==\n{{:Sea Creatures/UI/Guide}}\n\n== Dialogue ==\n{| class=\"ct\" | class=\"wikitable\"\n! Condition\n! Dialogue\n|-\n| class=\"ct\" | First interaction\n| {{Dialogue|\n&e[NPC] &bGavin&f: Mum's making us read, but I'd rather be out fishing with pa.\n&e[NPC] &bGavin&f: For my reading this week, I'm reading the &aSea Creature Guide&f.\n&e[NPC] &bGavin&f: You can access it through the &aFishing Skill&f menu.\n&e[NPC] &bGavin&f: Don't tell mum this, but I just use &d\\/scg&f to open it.\n&e[NPC] &bGavin&f: It's useful to explain which &3Sea Creatures&f can be found where, and what &6treasures&f they drop!\n}}\n<!-- |-\n!Condition\n!Random Dialogue\n|-\n| class=\"ct\" rowspan=\"2\" | None\n| {{Dialogue|&e[NPC] &bGavin&f: You can open your &aSea Creature Guide&f through your &aFishing Skill&f menu, or with &d\\/scg&f!}}\n|-\n| {{Dialogue|\n&e[NPC] &bGavin&f: I'd rather be out there fishing for &6Treasure&f.\n&e[NPC] &bGavin&f: But mum insists I finish my studies first.\n}} -->\n|}\n\n== Trivia ==\n*'''Gavin''' is also the author of the {{Item|Mediocre Drawing of a Fish}}.\n*'''Gavin''' and {{NPCSprite|Gwynnie}} are the children of {{NPCSprite|Fisherman Gerald}} and {{NPCSprite|Fisherwoman Enid}}.\n* The following text is displayed over '''Gavin''': {{Mctxt|a|bold=true|⚑ SEA CREATURE GUIDE}}\n\n== History ==\n{{History table\n|ahn=\n{{History|2025/Mar 12|[[File:Gavin.png|26px]] Added '''Gavin'''.}}\n{{History|2026/Jan 30|Moved '''Gavin''' from {{Coords|161.5|70.5|43.5}} to {{Coords|147.5|70.5|-59.5}}, due to the redesign of the [[Hub Island]].}}\n|beta=\n{{History|2025/Mar 18|[[File:Gavin.png|26px]] Added '''Gavin'''.}}\n{{History|0.24.2|Moved '''Gavin''' from {{Coords|161.5|70.5|43.5}} to {{Coords|147.5|70.5|-59.5}}, due to the redesign of the [[Hub Island]].}}\n{{History|2026/Jul 21|'''Gavin''' is now a [[Biblio|Guide NPC]].|'''Gavin''' now opens [[Sea Creature Guide]] instead of having random dialogue.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}"
+}

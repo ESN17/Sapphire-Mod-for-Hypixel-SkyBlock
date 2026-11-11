@@ -1,0 +1,13 @@
+{
+  "title": "Goliath Barbarian",
+  "pageid": 90741,
+  "revision": 861547,
+  "timestamp": "2026-10-21T01:10:28Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Goliath_Barbarian",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861547",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Crimson Isle"
+  ],
+  "wikitext": "{{Infobox/Mob\n|stats = {{InfoboxMobStats\n|health = 5,000,000\n|damage = 4,000\n}}\n|spawn_location = [[Barbarian Outpost]]\n|mob_level = 245\n|mob_type = \n*{{mt|Humanoid}}\n*{{mt|Animal}}\n|id = GOLIATH_BARBARIAN_80\n|bestiary = n\n}}\nThe '''Goliath Barbarian''' is a [[Mob]] that spawns in the {{Zone|Barbarian Outpost}}. It is a stronger version of the [[Barbarian]].\n\n== Spawning ==\nThe '''Goliath Barbarian''' can rarely spawn in the {{Zone|Barbarian Outpost}} on the [[Crimson Isle]].\n\n== Drops ==\n{{Mob Drops Table\n|level = 245\n|combat_xp = 367\n|orbs = 269\n|coins = 81\n|{{Mob Drops Row\n |drop = Cyclamen Dye\n |count = 1\n |rarity = rng\n |chance = 0.00004%\n }}\n}}\n\nKilling a '''Goliath Barbarian''' when the player is in the [[Barbarian Faction]] will make them lose {{Reputation|Barbarian|25}}. If the player is in the [[Mage Faction]] and they kill a '''Goliath Barbarian''', they will gain {{Reputation|Mage|25}}, only if they have negative reputation.\n\n== Behavior ==\nWhen attacked, the '''Goliath Barbarian''' will run towards the player and try to attack them, dealing {{Stat|dmg|4,000}} on hit. Every 10 seconds, the '''Goliath Barbarian''' will gain more maximum {{Stat|hp}}, and set its health to that number. Its maximum {{Stat|hp}} is capped at {{HP|11M}}.\n\n;Maximum {{Stat|HP}}\n*{{HP|5M}}\n*{{HP|7.5M}}\n*{{HP|8.7M}}\n*{{HP|10M}}\n*{{HP|11M}}\n\n== History ==\n{{History table\n|ahn=\n{{History|2022/March 8|link=none|[[File:Goliath Barbarian.png|26px]] Added '''Goliath Barbarian'''.}}\n{{History|2026/Aug 25|Changed the [[Mob Level]] from {{Level|80}} to {{Level|245}}, {{Coins}} from {{Gold|20}} to {{Gold|81}}, {{Experience}} from {{Dark Aqua|100}} to {{Dark Aqua|269}}, and {{Skill|Combat}} XP from {{Dark Aqua|120}} to {{Dark Aqua|367}}.}}\n|beta=\n{{History|0.13|[[File:Goliath Barbarian.png|26px]] Added '''Goliath Barbarian'''.}}\n{{History|0.27.2|Changed the [[Mob Level]] from {{Level|80}} to {{Level|245}}, {{Coins}} from {{Gold|20}} to {{Gold|81}}, {{Experience}} from {{Dark Aqua|100}} to {{Dark Aqua|269}}, and {{Skill|Combat}} XP from {{Dark Aqua|120}} to {{Dark Aqua|367}}.}}\n}}\n\n== Navigation ==\n{{Nav/Mobs}}\n{{Nav/Crimson Isle}}"
+}

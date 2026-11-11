@@ -1,0 +1,15 @@
+{
+  "title": "Weather Node",
+  "pageid": 79466,
+  "revision": 853765,
+  "timestamp": "2026-10-06T18:35:37Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Weather_Node",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=853765",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Pages with UIs",
+    "Template:Dialogue",
+    "Template:UI"
+  ],
+  "wikitext": "{{Infobox/Block\n|rarity = u\n|collection = Prismarine Shard 6\n|raw_materials =\n* 9 Lapis Lazuli\n* 1280 Redstone\n|mat_cost_bazaar =\n* 9 Lapis Lazuli\n* 8 Enchanted Redstone Dust\n|id = WEATHER_NODE\n}}\n{{See also|Weather Stick}}\n\nThe '''Weather Node''' is an {{Uncommon}} block that can be used to allow changing the weather on a {{Zone|Private Island}} through the [[Settings|Island Properties Settings]].\n\n== Obtaining ==\n=== Crafting ===\n{{Crafting Recipe Table\n|{{Crafting Recipe Row\n |requirement = {{Coll|Prismarine Shard 6}}\n |A1 = Enchanted Redstone Dust |B1 = Enchanted Redstone Dust |C1 = Enchanted Redstone Dust\n |A2 = Enchanted Redstone Dust |B2 = Block of Lapis Lazuli   |C2 = Enchanted Redstone Dust\n |A3 = Enchanted Redstone Dust |B3 = Enchanted Redstone Dust |C3 = Enchanted Redstone Dust\n |Output = Weather Node\n }}\n}}\n\n== Usage ==\nWhen right clicked on [[Settings|Island Properties Settings]] menu, the Weather Node gets consumed and added to the features that allows to opens a menu to change the island's weather, which can be set to sunny, raining, or thundering. The selected weather will persist until another is chosen.\n\nThe {{Item|Weather Wand}} can remotely access a placed Weather Node while its user is on their island.\n\n== Interface ==\n{{/UI}}\n\n== Chat Messages ==\n{| class=\"wikitable\" \n!colspan=\"2\" | Condition\n!Message\n|-\n|colspan=\"2\" class=\"ct\" | Placing Weather Node\n|{{Dialogue|&aYou placed a &bWeather Node&a! &e&lRIGHT CLICK &ait to control your island weather!}}\n|-\n| rowspan=\"3\" class=\"ct\" | Selecting weather\n|class=\"ct\" | Sunny\n|{{Dialogue|&eYou have changed the weather to: &bSunny&e.}}\n|-\n|class=\"ct\" | Raining\n|{{Dialogue|&eYou have changed the weather to: &bRaining&e.}}\n|-\n|class=\"ct\" | Thundering\n|{{Dialogue|&eYou have changed the weather to: &bThundering&e.}}\n|-\n|colspan=\"2\" class=\"ct\" | After selecting weather\n|{{Dialogue|&eWeather has been set in your &aWeather Node&e!}}\n|-\n|colspan=\"2\" class=\"ct\" | Trying to place more than one Weather Node\n|{{Dialogue|&cYou can only place 1 of these on your island at a time!}}\n|}\n\n== Demonstration ==\n{{YouTube|mfdqJqY7Og0|caption=Weather Node Demonstration}}\n<br/>\n\n== History ==\n{{History table\n|beta=\n{{History|2021/April 21|[[File:Weather Node.png|26px]] Added '''Weather Node'''.}}\n{{History|2022/May 4|'''Weather Node'''{{'}}s crafting recipe is no longer available from the {{coll|Redstone Dust}} collection.}}\n{{History|0.19.9|Changed '''Weather Node''' from a placed block to a [[Settings]] feature.}}\n}}\n\n== Navigation ==\n{{Nav/Collection/Prismarine Shard}}\n{{Nav/Tools/Other}}"
+}

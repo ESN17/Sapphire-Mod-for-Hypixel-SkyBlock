@@ -1,0 +1,15 @@
+{
+  "title": "Barbarian Emissary",
+  "pageid": 91670,
+  "revision": 857623,
+  "timestamp": "2026-10-13T20:31:47Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Barbarian_Emissary",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=857623",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Category:Pages with UIs",
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{For|the NPCs used to claim [[Commissions]]|Emissaries}}\n{{For|the Mage counterpart|Mage Emissary}}\n{{Infobox/Character\n|location = [[Dragontail]]\n|location_page_description = Sells materials to members of the [[Barbarian Faction]].\n|x = -580.5 \n|y = 99  \n|z = -710.5\n}}\n'''Barbarian Emissary''' is an [[NPC]] in {{zone|Dragontail}} that sells items to members of the [[Barbarian Faction]].\n\n== Interface ==\n{{/UI}}\n\n== Dialogue ==\n{| class=\"wikitable\"\n! colspan=\"2\"| Condition\n! Dialogue\n|-\n| colspan=\"2\" class=\"ct\" | Not in the [[Barbarian Faction]]\n|{{Dialogue|&e[NPC] &dBarbarian Emissary&f: &fYou don't look like a &dBarbarian &fto me!}}\n|-\n| colspan=\"2\" class=\"ct\" | First interaction in the [[Barbarian Faction]]\n| {{Dialogue|\n&e[NPC] &dBarbarian Emissary&f: Welcome to the &dBarbarian Faction&f, &7[player]&f!\n&e[NPC] &dBarbarian Emissary&f: I provide the Piglins with important items.\n&e[NPC] &dBarbarian Emissary&f: You may need more &areputation&f to unlock all of my supplies!\n}}\n|-\n{{Crimson Isle 4 Villager Barbarian Dialogue|&dBarbarian Emissary}}\n|}\n\n== Discounts ==\nThe '''Barbarian Emissary''' provides the player a discount on their items based on the player's {{Reputation|Barbarian}}.\n{| class=\"wikitable centertext\"\n|-\n! Reputation\n! Discount\n|-\n| {{Reputation|Barbarian|0}}\n| 0%\n|-\n| {{Reputation|Barbarian|1,000}}\n| 5%\n|-\n| {{Reputation|Barbarian|3,000}}\n| 10%\n|-\n| {{Reputation|Barbarian|7,000}}\n| 15%\n|-\n| {{Reputation|Barbarian|12,000}}\n| 20%\n|}\n\n== History ==\n{{History table\n|ahn=\n{{History|2022/Mar 8|link=none|[[File:Barbarian Emissary.png|26px]] Added '''Barbarian Emissary'''.}}\n|beta=\n{{History|0.13|[[File:Barbarian Emissary.png|26px]] Added '''Barbarian Emissary'''.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}"
+}

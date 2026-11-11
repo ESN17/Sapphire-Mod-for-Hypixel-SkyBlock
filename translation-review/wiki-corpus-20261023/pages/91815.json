@@ -1,0 +1,15 @@
+{
+  "title": "Kutral",
+  "pageid": 91815,
+  "revision": 789359,
+  "timestamp": "2026-07-24T00:22:26Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Kutral",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=789359",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Category:Crimson Isle",
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Character\n|location = [[Dragontail]]\n|location_page_description = Talks to {{NPCSprite|Nall}} about a 4 digit code to access {{NPCSprite|Nuvian}}'s secret [[Abiphone]] shop.\n|x = -658.5 \n|y = 107 \n|z = -741.5\n}}\n'''Kutral''' is an [[NPC]] in the {{zone|Dragontail}} brewery that talks to {{NPCSprite|Nall}} about new [[Abiphone]]s. \n\n== Keypad Code ==\nBy standing at {{Coords|-655|107|-741}}, the player can overhear '''Kutral''' and [[Nall]]'s conversation, which includes a 4-digit code. The code can be entered at the Keypad located at {{Coords|-678|107|-736}}, to access the secret room in which {{NPCSprite|Nuvian}} sells [[Abiphone]]s. The code changes every day.\n\n== Dialogue ==\n{| class=\"wikitable\"\n! colspan=\"2\" | Condition\n! Dialogue\n|-\n| colspan=\"2\" class=\"ct\" |None\n| {{Dialogue|\n&e[NPC] &dKutral&f: Are you selling something?\n&e[NPC] &dKutral&f: No, forget what I just said.\n}}\n|-\n| colspan=\"2\" class=\"ct\" |While Eavesdropping\n| {{Dialogue|\n&e[NPC] &dNall&f: So do you know if they got the new Abiphones?\n&e[NPC] &dKutral&f: Ya, they got all of them. It's a bit expensive though.\n&e[NPC] &dNall&f: Incredible and do you know the code..?\n&e[NPC] &dKutral&f: Yep, but keep it to yourself.\n&e[NPC] &dNall&f: Of course.\n&e[NPC] &dKutral&f: Today's code is &a<####>&f.\n&e[NPC] &dNall&f: Ok, got it.\n}}\n|-\n| colspan=\"2\" class=\"ct\" |Moving While Eavesdropping\n| {{Dialogue|&e[NPC] &dKutral&f: Get away from us.}}\n|-\n{{Crimson Isle 4 Villager Barbarian Dialogue|&dKutral}}\n|}\n\n== History ==\n{{History table\n|ahn=\n{{history|2022/March 8|link=none|[[File:Kutral.png|26px]] Added '''Kutral'''.}}\n|beta=\n{{history|0.13|[[File:Kutral.png|26px]] Added '''Kutral'''.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}\n{{Nav/Crimson Isle}}"
+}

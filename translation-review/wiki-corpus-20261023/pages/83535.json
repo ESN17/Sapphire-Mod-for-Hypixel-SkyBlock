@@ -1,0 +1,13 @@
+{
+  "title": "Dropper",
+  "pageid": 83535,
+  "revision": 821631,
+  "timestamp": "2026-08-19T22:35:07Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Dropper",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=821631",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Vanilla}}\n{{Infobox/Item\n|id = DROPPER\n|rarity = common\n|sell = 4\n}}\nA '''Dropper''' is a {{Common}} [[Vanilla Objects/Redstone-Related Blocks|Redstone-related]] block that can be used on the player's {{Zone|Private Island}}.\n\n== Obtaining ==\n=== Crafting ===\n{{Crafting Recipe Table\n|{{Crafting Recipe Row\n |A1 = Cobblestone |B1 = Cobblestone   |C1 = Cobblestone\n |A2 = Cobblestone |B2 =               |C2 = Cobblestone\n |A3 = Cobblestone |B3 = Redstone Dust |C3 = Cobblestone\n |Output = Dropper\n}}\n}}\n\n== Usage ==\n=== Private Island ===\n'''Droppers''' can be placed as a block on the player's {{Zone|Private Island}}. When activated from a [[Redstone]] signal, it will [[mcw:Dropper#Usage|drop an item]] from its inventory, but there are [[Private Island#Redstone Restrictions|restrictions]] on how often this can be done. Droppers cannot be placed in {{Zone|The Garden}}.\n\n== Game Messages ==\n{|class=\"wikitable\"\n! Message\n! Condition\n|-\n| {{Dialogue|&cYou can't use that here!}}\n| Trying to place a Dropper in {{Zone|The Garden}}\n|}\n\n== History ==\n{{History table\n|beta=\n{{History|0.1|[[File:Dropper.png|26px]] Added '''Dropper'''.}}\n}}"
+}

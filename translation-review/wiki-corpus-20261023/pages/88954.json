@@ -1,0 +1,15 @@
+{
+  "title": "Guesting/UI/Management",
+  "pageid": 88954,
+  "revision": 426770,
+  "timestamp": "2023-05-24T16:25:18Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Guesting/UI/Management",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=426770",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:UI Subpages",
+    "Template:UI",
+    "Template:UIPage"
+  ],
+  "wikitext": "{{UI Tips}}\n\n<!--Profile Management-->\n<div class=\"sbw-ui-tabber\">\n{{UI|Guests Management\n|rows=3\n|id=guests-management\n\n|2,2 = Player Head, guest, &7Steve, &7Hypixel Level: &60/&7Achievement Points: &e0//&7Guesting for: &a0 seconds//&eClick to interact!\n|row2 = ;3,8\n|3,6 = Anvil, none;none, &aKick All Guests, &7Get rid of those pesky/&7guests all at the same time.//&7Command: &c\\/sbkickall//&eClick to kick all guests!\n\n|noclose = true\n|arrow = 3,5\n|return_id=default\n|goback= &7To SkyBlock Menu\n}}<!--\n ~~ PLAYER UI ~~\n-->{{UIPage|Guesting/UI/Profile|hide=true|return_id=guests-management}}\n</div><!--\n\n--><includeonly>[[Category:Pages with UIs]]</includeonly><!--\n--><noinclude>[[Category:UI Subpages]]</noinclude>"
+}

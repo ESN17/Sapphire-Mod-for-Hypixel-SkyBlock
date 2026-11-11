@@ -1,0 +1,13 @@
+{
+  "title": "Honeybuzz",
+  "pageid": 133931,
+  "revision": 861571,
+  "timestamp": "2026-10-21T01:11:00Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Honeybuzz",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861571",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Critter\n|stats = {{InfoboxMobStats\n|health = 500\n|damage = 50\n}}\n|mob_level = 9\n|mob_type =\n*{{mt|Airborne}}\n*{{mt|Critter}}\n|spawn_location = [[Torrhus Canyon]]\n|id = HONEYBUZZ_9\n}}\nA '''Honeybuzz''' is a [[Critter]] that can spawn from [[Honeyhives]] on the {{Zone|Torrhus Canyon}}.\n\n== Spawning ==\nA '''Honeybuzz''' has a {{Chance|50%|1|2}} chance<ref>{{Cite Discord|staff=y|url=https://discord.com/channels/651912910972649492/1529181650641228007/1534957830271012924|user=mrkeith|date=8/6/26, 12:14 PM (EST)|text=50%, it either happens or it doesn't}}</ref> to be spawned from opening up a [[Honeyhive]] on the {{Zone|Torrhus Canyon}}.\n\n== Game Message ==\n{| class=\"wikitable\"\n|-\n!Condition\n!Message   \n|-\n| class=\"ct\" | Spawning\n|{{Dialogue|&f&oA &7Honeybuzz &f&oappeared, angry at you for stealing its honey!}}\n|}\n\n== Behavior ==\nA '''Honeybuzz''' will slowly fly around in the air like a regular [[mcw:Bee|Bee]]. It cannot be damaged regularly; instead, the player must [[Hunting|Hunt]] it using a [[Lasso]] to kill it.\n\n== Drops ==\n{{Mob Drops Table\n|level = 9\n|hunting_xp = 75\n|orbs = 9\n|coins = 3\n|{{Mob Drops Row\n |drop = Honeycomb\n |count = 2-4\n |rarity = c\n |chance = 100%\n }}\n|{{Mob Drops Row\n |drop = Honeybuzz Shard\n |count = 1\n |rarity = c\n |chance = 100%\n }}\n|{{Mob Drops Row\n |drop = Enchanted Honeycomb\n |count = 1\n |rarity = r\n |chance = 1%\n }}\n}}\n{{CritterHunting|action=Catching|tool=[[Lasso]]|rarity=c}}\n\n== Bestiary ==\n{{Bestiary Entry|section=Torrhus Canyon|lore=So cute you just want to take one home.|bracket=Hunting 2|max_tier=10|reward=Hunting}}\n\n== History ==\n{{History table\n|ahn=\n{{History|2026/July 10|[[File:Honeybuzz.png|26px]] Added '''Honeybuzz'''.}}\n{{History|2026/Aug 25|Changed the {{Experience}} from {{Dark Aqua|10}} to {{Dark Aqua|9}}.}}\n|beta =\n{{History|0.27|[[File:Honeybuzz.png|26px]] Added '''Honeybuzz'''.}}\n{{History|0.27.2|Changed the {{Experience}} from {{Dark Aqua|10}} to {{Dark Aqua|9}}.}}\n}}\n\n== References ==\n<references />\n\n== Navigation ==\n{{Nav/Critters}}"
+}

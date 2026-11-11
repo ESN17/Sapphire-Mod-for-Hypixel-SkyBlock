@@ -1,0 +1,15 @@
+{
+  "title": "Firmitas Glyph",
+  "pageid": 111465,
+  "revision": 817400,
+  "timestamp": "2026-08-11T22:44:24Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Firmitas_Glyph",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=817400",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Pages with UIs",
+    "Template:Dialogue",
+    "Template:UI"
+  ],
+  "wikitext": "{{Infobox/Item\n|rarity=e\n|auctionable=no\n|salable=no\n|tradeable = n\n|rift_transferrable = no\n|id=GLYPH_FIRMITAS\n}}\nThe '''Firmitas Glyph''' is an {{Epic}} Quest Item obtained in the [[Rift Dimension]].\n\n== Obtaining ==\nThe '''Firmitas Glyph''' can be obtained after starting {{NPCSprite|Sorcerer Okron}}'s quest and imbuing the {{Item|Robur Glyph}}, then opening the chest at {{Coords|-94.5|77|-85.5}} in the {{Zone|Cake House}}. Once given to Okron, it can no longer be obtained.\n\n== Interface ==\n{{/UI}}\n\n== Usage ==\nThe '''Firmitas Glyph''' can be given to {{NPCSprite|Sorcerer Okron}}. When given, he will task the player with using the {{Item|Warding Diamathame}} to imbue a spell onto the house.\n\n== Game Messages ==\n{|class=\"wikitable\"\n! Condition\n! Message\n|-\n| {{Dialogue|\n&7You found &5Firmitas Glyph&7!\n&7&oYou should return it to Okron...\n}}\n| Finding the Glyph\n|-\n| {{Dialogue|&cYou already have one in your inventory!}}\n| Trying to claim another Glyph while already owning one\n|}\n\n== Gallery ==\n<gallery>\nFirmitas Glyph (Render).png|The map image shown while holding the Firmitas Glyph\nFirmitas Glyph (Particle Render).png|The non-imbued particles surrounding the house\nFirmitas Glyph (Particle Render 2).png|The imbued particles surrounding the house\n</gallery>\n\n== History ==\n{{History table\n|ahn=\n{{history|2023/May 4|[[File:Firmitas Glyph.png|26px]] Added '''Firmitas Glyph'''.}}\n|beta=\n{{history|0.19|[[File:Firmitas Glyph.png|26px]] Added '''Firmitas Glyph'''.}}\n}}"
+}

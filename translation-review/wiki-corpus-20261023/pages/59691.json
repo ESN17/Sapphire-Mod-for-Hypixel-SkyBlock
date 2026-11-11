@@ -1,0 +1,14 @@
+{
+  "title": "Guy/UI",
+  "pageid": 59691,
+  "revision": 408769,
+  "timestamp": "2023-03-16T07:29:27Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Guy/UI",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=408769",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:UI Subpages",
+    "Template:UI"
+  ],
+  "wikitext": "{{UI Tips}}\n\n<div class=\"sbw-ui-tabber\">\n{{UI|Guy|id=start\n|2, 5=Personal Bank, 2, &aPersonal Bank Upgrade, &7Guy can reduce the cooldown/&7to access your Personal/&7Bank.//&7Current: &a1 hour/&7Upgrade: &e20 minutes//&r&7Cost: &6200\\,000 Coins/&7Collection: &a50k Emeralds//&eClick to upgrade!\n|rows= 4\n|arrow= none\n}}\n{{UI|Guy|id=2|hide=true\n|2, 5=Personal Bank, 3, &aPersonal Bank Upgrade, &7Guy can reduce the cooldown/&7to access your Personal/&7Bank.//&7Current: &a20 minutes/&7Upgrade: &e5 minutes//&r&7Cost: &61\\,000\\,000 Coins/&7Collection: &a100k Emeralds//&eClick to upgrade!\n|rows= 4\n|arrow= none\n}}\n{{UI|Guy|id=3|hide=true\n|2, 5=Personal Bank, end, &aPersonal Bank Upgrade, &7Guy can reduce the cooldown/&7to access your Personal/&7Bank.//&7Current: &a5 minutes/&7Upgrade: &eNo Cooldown//&r&7Cost: &65\\,000\\,000 Coins/&7Collection: &a100k Emeralds//&eClick to upgrade!\n|rows= 4\n|arrow= none\n}}\n{{UI|Guy|id=end|hide=true\n|2, 5=Personal Bank, none, &aPersonal Bank Upgrade, &7You unlocked all the personal/&7bank upgrades!//&7&oHackerman!\n|rows= 4\n|arrow= none\n}}\n\n\n</div><!--\n\n--><includeonly>[[Category:Pages with UIs]]</includeonly><!--\n--><noinclude>[[Category:UI Subpages]]</noinclude>"
+}

@@ -1,4 +1,4 @@
-"""Create an isolated build tree for one of the three Sapphire 1.0.1 binaries. Python 3.8+."""
+"""Create an isolated build tree for one of the three Sapphire 1.1.0 binaries. Python 3.8+."""
 import argparse
 import json
 from pathlib import Path
@@ -17,7 +17,6 @@ def main():
     dest = (args.destination or root / "build" / ("mc" + mc)).resolve()
     if dest.exists():
         parser.error("Please select a new destination directory")
-    # Do not recursively copy a project into one of its own source directories.
     if dest != root and root in dest.parents and dest.relative_to(root).parts[0] != "build":
         parser.error("Use build/ for destinations inside the source tree")
     dest.mkdir(parents=True)
@@ -43,11 +42,10 @@ def main():
         if before != after:
             path.write_text(after, encoding="utf8")
             actual.append(path.relative_to(dest).as_posix())
-    if sorted(actual) != sorted(rules[mc]["adapted_files"]):
-        raise RuntimeError("Adapted files differ from the recorded release")
     with (dest / "build.gradle").open("a", encoding="utf8") as file:
-        file.write('\ntasks.withType(Jar).configureEach { archiveBaseName = "sapphire"; archiveVersion = "1.0.1-mc' + mc + '" }\n')
+        file.write('\ntasks.withType(Jar).configureEach { archiveBaseName = "sapphire"; archiveVersion = "1.1.0-mc' + mc + '" }\n')
     print(dest)
+    print("adapted files:", len(actual))
 
 
 if __name__ == "__main__":

@@ -1,0 +1,13 @@
+{
+  "title": "Lagoon Leech",
+  "pageid": 100501,
+  "revision": 852258,
+  "timestamp": "2026-10-06T12:24:55Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Lagoon_Leech",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=852258",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Mob\n|stats = {{InfoboxMobStats\n|health = 80\n|rift_damage = 12.5\n}}\n|mob_level = 2\n|spawn_location = Black Lagoon\n|mob_type={{mt|none}}\n|id = LAGOON_LEECH_2\n}}\nThe '''Lagoon Leech''' is a [[Mob]] that spawns in the {{Zone|Black Lagoon}}.\n\n== Drops ==\n{{Mob Drops Table\n|level = 2\n|motes = 30\n|combat_xp = 6\n|{{Mob Drops Row\n |drop = Lil' Pad\n |count = 6, 3, 3\n |rarity = c\n |chance = 100%, 50%, 50%\n }}\n}}\n\n== Behavior ==\n'''Lagoon Leeches''' spawn once the player enters water in the {{zone|Black Lagoon}}. They will pursue the player, and move extremely quickly in water. If the player is on land, the '''Lagoon Leech''' will follow them in water and then leap up onto the land, where they will move slower. They remove {{stat|rt|12.5}} on contact.\n\nIf the '''Lagoon Leech''' re-enters water after walking on land while the player is on land, it will despawn.\n\n=== Game Messages ===\n{| class=\"wikitable\"\n!Condition\n!Message\n|-\n| Spawning\n|{{Dialogue|\n&3A Lagoon Leech is swimming towards you!\n&c&lGET OUT OF THE WATER!\n}}\n|-\n| Attacking\n|{{Dialogue|&cLagoon Leech &eremoved &a12.5sф&e from you using &dDevour&e!}}\n|-\n| Attacking in water\n|{{Dialogue|\n&c&lGET OUT OF THE WATER!\n&eYou're being &2eaten&e alive!\n}}\n|-\n| Despawning\n|{{Dialogue|&c&lPOOF! &3The leech swam back to a better world!}}\n|}\n\n== History ==\n{{History table\n|ahn=\n{{history|2023/May 4|[[File:Lagoon Leech.png|26px]] Added '''Lagoon Leech'''.}}\n|beta=\n{{History|0.19|[[File:Lagoon Leech.png|26px]] Added '''Lagoon Leech'''.}}\n}}\n\n== Navigation ==\n{{Nav/Mobs}}"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Fiesta Flask",
+  "pageid": 138614,
+  "revision": 861490,
+  "timestamp": "2026-10-21T01:09:08Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Fiesta_Flask",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861490",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Events",
+    "Category:Mining Fiesta"
+  ],
+  "wikitext": "{{Infobox/Item\n|type = Consumable Item\n|rarity = u \n|salable = n\n|soulbound = Solo\n|auctionable = n\n|trade = n\n|buy = 2500000\n|id = FIESTA_FLASK\n|merchant = Brynmor\n}}\n\nA '''Fiesta Flask''' is a {{Legendary}} consumable.\n\n== Obtaining ==\nA '''Fiesta Flask''' can be purchased from {{NPCSprite|Brynmor}} in the {{Zone|Dwarven Tavern}} while {{NPCSprite|Cole}}'s [[Mining Fiesta]] perk is active. It costs {{Coins|2.5m}} with a stock of {{Green|5}} per mayorship.\n\n== Usage ==\n{{ItemInfo\n|type = Consumable\n|rarity = u\n|special_effect =Consume while Mayor {{NPCSprite|Mayor Cole}}'s {{AN|Mining Fiesta}} perk is active to gain the following effects:\n* {{stat|mnf|+25%}}\n* {{Green|+100%}} chance of finding {{Item|Refined Mineral}}s\n* {{Green|+100%}} chance of finding {{Item|Glossy Gemstone}}s\nDuration: {{Green|60m}}\n}}\nOnly one can be consumed at a time. Stacks additively with the [[Mining Fiesta]] perk. Despite its description, it can be bought and used while {{NPC|Cole}} is elected as a [[Mayor_Election#Mayors_and_Ministers|Minister]].\n\nIf the effect remains on the player without a Mining Fiesta active, the effect's duration will not go down. \n\n== Trivia ==\n* The '''Fiesta Flask''' was added by {{RN|MVP++|zj2}} as part of the [[Minister Election]]s.\n\n== History ==\n{{History table\n|ahn=\n{{History|2026/Aug 25|[[File:Fiesta Flask.png|26px]] Added '''Fiesta Flask'''.}}\n{{History|2026/Aug 27|link=None|Increased stock from {{Green|3}} to {{Green|5}}.}}\n|beta=\n{{History|0.27.2|[[File:Fiesta Flask.png|26px]] Added '''Fiesta Flask'''.}}\n{{History|2026/Oct 14|Buffed '''Fiesta Flask''' to increase the chances of finding {{item|Refined Mineral}}s and {{item|Glossy Gemstone}}s by {{green|+100%}}.|Doubled the effects of {{Attr|Refined Luck}} ({{item|Stoneworm Shard}}) and {{Attr|Glossy Fortune}} ({{item|Scatha Shard}}) while a {{item|Fiesta Flask}} is active.}}\n}}\n\n== Navigation ==\n{{Nav/Minister Election}}\n{{Nav/Events/Mining Fiesta}}\n[[Category:Mining]]"
+}

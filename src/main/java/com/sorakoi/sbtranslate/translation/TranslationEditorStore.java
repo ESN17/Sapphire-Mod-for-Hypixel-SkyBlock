@@ -9,7 +9,7 @@ import java.util.*;
 public final class TranslationEditorStore {
     public record Entry(String file,String kind,int index,String id,String source,String target) {}
     public static final List<String> SCOPES=List.of("global","chat","scoreboard","tablist","gui","locations","enchantments","tooltip-labels","mining-events","actionbar","title","subtitle","bossbar","templates","reforges","runes","dyes","name-modifiers","skyblock-months","sidebar-formats","bazaar-events","entity-names","entity-labels");
-    private static final Set<String> STRUCTURED=Set.of("entity-menus.json","creature-messages.json","death-messages.json","system-messages.json","gui-menus.json","tooltip-paragraphs.json","community-skyzh.json","community-wiki.json");
+    private static final Set<String> STRUCTURED=Set.of("entity-menus.json","creature-messages.json","death-messages.json","system-messages.json","gui-menus.json","tooltip-paragraphs.json","community-sapphire.json","community-wiki.json");
     private static final Gson JSON=new GsonBuilder().setPrettyPrinting().disableHtmlEscaping().create();
     public static synchronized List<Entry> entries(Path root) throws IOException {
         var result=new ArrayList<Entry>();Path translations=root.resolve("translations");

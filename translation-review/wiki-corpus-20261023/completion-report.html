@@ -1,0 +1,11 @@
+<!doctype html><html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Sapphire Wiki 翻译接入报告</title><style>body{font:16px/1.7 system-ui,sans-serif;max-width:900px;margin:40px auto;padding:0 24px;color:#183345;background:#f5f8fb}article{background:white;padding:30px;border-radius:16px}h1{color:#1266a0}table{border-collapse:collapse;width:100%}td,th{padding:8px;text-align:left;border-bottom:1px solid #dbe5ec}.note{background:#fff4d6;padding:16px;border-radius:8px}a{color:#086ca7}</style>
+<article><h1>Sapphire Wiki 翻译接入报告</h1><p>已接入 <strong>61,379</strong> 条补充规则，已启用规则全部通过显示校验。规则数量包含固定示例与数值模板，不是全服覆盖率。</p>
+<table><tr><th>类别</th><th>启用规则数</th></tr><tr><td>NPC 对话</td><td>9,948</td></tr><tr><td>菜单标题</td><td>1,647</td></tr><tr><td>提示与描述</td><td>44,599</td></tr><tr><td>系统通知</td><td>5,185</td></tr></table>
+<p>收集 3,214 个页面、282 个渲染补充页面和 2,371 个菜单布局；排除 1,079 次已导入 SkyZH NPC 对话的重复出现。45,205 个独立单元均已有译文或复用了现有译文。</p>
+<p class="note">仍有 107 个格式样例暂未启用，另有 43 个来源示例需单独处理（缺失 NPC 前缀或固定宽度图表；图表说明文字已单独导入）。Wiki 有 11 个引用页面不存在、93 个页面标注了缺失或过时信息。不能保证覆盖全部服务器文本。</p>
+<h2>新增功能</h2><ul><li>/sapphire 翻译状态：加载数量、错误、重新加载、格式待核对数量</li><li>按 NPC 身份匹配动态数值与玩家称呼，保留原值、格式和点击事件</li><li>独立分片补充词库，现有译文优先；审计文件哈希与安装文件一致</li></ul>
+<h2>验证</h2><p>Gradle check：480 项测试，0 失败，2 项跳过。另有 13 项 Python 测试通过。三个词库副本哈希一致。未逐条游戏实测。</p>
+<p>本次未打包，版本仍为 dev 0.0.3，现有 JAR 哈希未变。</p>
+<h2>追溯文件</h2><ul><li><a href="completion-report.json">完整核验数据</a></li><li><a href="display-review-pending.json">格式待核对清单与译文</a></li><li><a href="source-review-exclusions.json">来源示例处理清单</a></li><li><a href="collection-report.json">页面来源与缺失引用</a></li><li><a href="extraction-report.json">提取统计与 Wiki 缺口</a></li></ul>
+<p>数据来源：<a href="https://hypixelskyblock.minecraft.wiki/">Hypixel SkyBlock Wiki</a>。补充数据遵循 <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA 3.0</a>；逐条保留来源页与修订信息。</p></article></html>

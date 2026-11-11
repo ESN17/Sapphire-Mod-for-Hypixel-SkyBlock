@@ -1,0 +1,15 @@
+{
+  "title": "Legacy Trades",
+  "pageid": 136987,
+  "revision": 818638,
+  "timestamp": "2026-08-12T12:45:34Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Legacy_Trades",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=818638",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Pages with UIs",
+    "Category:SkyBlock Menu",
+    "Template:Dialogue"
+  ],
+  "wikitext": "'''Legacy Trades''' is a SkyBlock Mechanic where players can trade legacy items in their inventory for new items. Its menu can be accessed by <code>/ltrades</code> or <code>/legacytrades</code> [[Command]].\n\n== Interface ==\n{{/UI}}\n\n== Game Message ==\nIf any Legacy Items that can be exchanged in Legacy Trades are in the player's Inventory or Sacks, the following message will appear:\n{{TextSection|boxed=true|text={{Dialogue|&cYou currently have one or more Legacy Items in your inventory or sacks that are no longer used throughout the game! Exchange them in the Legacy Trades menu, accessed through \\/legacytrades!}}}}\n\n== List of Legacy Trades ==\n{| class=\"wikitable\"\n! colspan=\"2\" | Item Received\n! colspan=\"2\" | Required Legacy Item\n|-\n|{{Slot|Enchanted Wheat, 8}}\n|{{Item|Enchanted Wheat|amount=8}}\n|{{Slot|Enchanted Hay Bale (Old)}}\n|{{Item|Enchanted Hay Bale (Old)|amount=1}}\n|-\n|{{Slot|Enchanted Hay Bale, 8}}\n|{{Item|Enchanted Hay Bale|amount=8}}\n|{{Slot|Tightly-Tied Hay Bale}}\n|{{Item|Tightly-Tied Hay Bale|amount=1}}\n|-\n|{{Slot|Severed Hand}}\n|{{Item|Severed Hand|amount=1}}\n|{{Slot|Enchanted Book (Smite VII)}}\n|{{Item|Enchanted Book|amount=1|enchant=Smite VII}}\n|-\n|{{Slot|End Stone Idol}}\n|{{Item|End Stone Idol|amount=1}}\n|{{Slot|Enchanted Book (Ender Slayer VII)}}\n|{{Item|Enchanted Book|amount=1|enchant=Ender Slayer VII}}\n|-\n|{{Slot|Ensnared Snail}}\n|{{Item|Ensnared Snail|amount=1}}\n|{{Slot|Enchanted Book (Bane of Arthropods VII)}}\n|{{Item|Enchanted Book|amount=1|enchant=Bane of Arthropods VII}}\n|-\n|{{Slot|Magic For Pets In A Hurry}}\n|{{Item|Magic For Pets In A Hurry}}\n|{{Slot|Enchanted Bookshelf}}\n|{{Item|Enchanted Bookshelf|amount=1}}\n|}\n\n== History ==\n{{History table\n|ahn=\n{{History|2024/Nov 13|Added '''Legacy Trades''' menu.|Added {{Item|Enchanted Wheat}} and {{Item|Enchanted Hay Bale}} to '''Legacy Trades'''.}}\n{{History|2025/Jul 17|Added {{Item|Ensnared Snail}} to '''Legacy Trades'''.}}\n{{History|2025/Jul 31|Added {{Item|Severed Hand}} and {{Item|End Stone Idol}} to '''Legacy Trades'''.}}\n{{History|2026/Jul 15|Added {{Item|Enchanted Bookshelf}} to '''Legacy Trades'''.}}\n|beta=\n{{History|2024/Nov 19|Added '''Legacy Trades''' menu.|Added {{Item|Enchanted Wheat}} and {{Item|Enchanted Hay Bale}} '''Legacy Trades'''.}}\n{{History|2025/Jul 22|Added {{Item|Ensnared Snail}} to '''Legacy Trades'''.}}\n{{History|2025/Aug 5|Added {{Item|Severed Hand}} and {{Item|End Stone Idol}} to '''Legacy Trades'''.}}\n{{History|2026/Jul 22|Added {{Item|Enchanted Bookshelf}} to '''Legacy Trades'''.}}\n}}\n\n[[Category:Mechanics]]\n[[Category:SkyBlock Menu]]"
+}
