@@ -1,0 +1,15 @@
+{
+  "title": "Talbot",
+  "pageid": 96553,
+  "revision": 830497,
+  "timestamp": "2026-09-03T01:32:38Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Talbot",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=830497",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Category:Pages with UIs",
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Character\n|shop = Yes\n|abiphone = Yes\n|location=[[Trapper's Den]]\n|location_page_description = Sells items for {{Pelts}}.\n|x = 285.5\n|y = 104\n|z = -548.5\n}}\n'''Talbot''' is an [[NPC]] located in the {{zone|Trapper's Den}} that sells items for {{Pelts}}.\n\n__TOC__\n\n== Interface ==\n{{/UI}}\n\n== Dialogue ==\n{|class=\"wikitable\"\n!colspan=\"2\" |Condition\n!Dialogue\n|-\n|colspan=\"2\" class=\"ct\" |First Interaction\n|{{Dialogue|&e[NPC] Talbot&f: Hey, I'm Talbot!}}\n|-\n|rowspan=\"3\" class=\"ct\" |[[Abiphones#Contacts|{{Aqua|Abiphone Contact}}]]\n|class=\"ct\" |None\n|{{Dialogue|&e[NPC] Talbot&f: &b✆ &fHey!\n&e[NPC] Talbot&f: &b✆ &fYou want my &3Abiphone Contact&f, don't you?\n&e[NPC] Talbot&f: &b✆ &fI should warn you, though, the connection can be a bit spotty around these parts!\n&e[NPC] Talbot&f: &b✆ &fHow about you bring me &5100 Pelts&f? Do that and I'll give you my contact.}}\n|-\n|class=\"ct\" |Selecting {{Rmt|&a&l[GIVE ITEM]}}\nwithout {{Pelts|100}}\n|{{Dialogue|&e[NPC] Talbot&f: &b✆ &fYou don't have enough &5Pelts&f!\n&e[NPC] Talbot&f: &b✆ &fI asked for &a100 &fof them...}}\n|-\n|class=\"ct\" |Giving {{Pelts|100}}\n|{{Dialogue|&e[NPC] Talbot&f: &b✆ &fThanks for the pelts! A man can never have enough of them.\n&e[NPC] Talbot&f: &b✆ &fGive me a call whenever you need to use my shop!\n&b✆ Talbot &fhas been added to your Abiphone's contacts!}}\n|}\n\n== History ==\n{{History table\n|ahn=\n{{History|2024/Jun 3|[[File:Talbot.png|26px]] Added new items to '''Talbot'''.}}\n{{History|2026/Mar 23|Added Abiphone Contact.}}\n{{History|2026/Mar 31|Made '''Talbot''' last permanently.|Changed first interaction dialogue.}}\n{{History|2026/Apr 27|Fixed '''Talbot''' not appearing in the {{zone|Trapper's Den}}.}}\n|beta=\n{{History|0.16.1|[[File:Talbot.png|26px]] Added '''Talbot's Shop'''.}}\n{{history|0.19.3|Renamed Talbot's Shop to '''Talbot'''.}}\n{{History|0.20.3|Added new items to '''Talbot'''.}}\n{{History|0.24.3|Added Abiphone Contact.}}\n{{History|0.24.4|'''Talbot''' no longer requires [[Mayor Finnegan]] to be elected}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}"
+}

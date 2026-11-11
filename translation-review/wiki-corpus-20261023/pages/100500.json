@@ -1,0 +1,13 @@
+{
+  "title": "Oubliette Guard",
+  "pageid": 100500,
+  "revision": 830914,
+  "timestamp": "2026-09-03T19:22:42Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Oubliette_Guard",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=830914",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Mob\n|stats = {{InfoboxMobStats\n|health = 60\n|rift_damage = 5\n}}\n|mob_level = 1\n|spawn_location = Oubliette\n|mob_type={{mt|none}}\n|id = OUBLIETTE_ZOMBIE_1\n|bestiary = n\n}}\nThe '''Oubliette Guard''' is a [[Mob]] that spawns in the {{Zone|Oubliette}}.\n\n== Drops ==\n{{Mob Drops Table\n|level = 1\n|combat_xp = 1\n|motes = 10\n}}\n\n== Behavior ==\n'''Oubliette Guards''' are passive until a player damages them. When hostile, they move towards the player and take {{Stat|rt|5}} from the player on contact. Once all '''Oubliette Guards''' are defeated, a message will appear in chat, saying:{{TextSection|boxed=true|text={{Dialogue|&eAll the guards have been defeated, you are free to go!}}}}\n\nThe entrance to the {{zone|Oubliette}} will then fall, and allow the player to escape.\n\n== History ==\n{{History table\n|ahn=\n{{history|2023/May 4|[[File:Oubliette Guard.png|26px]] Added '''Oubliette Guard'''.}}\n|beta=\n{{History|0.19|[[File:Oubliette Guard.png|26px]] Added '''Oubliette Guard'''.}}\n}}\n\n== Navigation ==\n{{Nav/Mobs}}"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Dustybit",
+  "pageid": 137158,
+  "revision": 861465,
+  "timestamp": "2026-10-21T01:08:35Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Dustybit",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861465",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Critter\n|stats = {{InfoboxMobStats\n|health = 500\n|damage = 50\n}}\n|mob_level = 9\n|mob_type = *{{mt|Subterranean}}\n*{{mt|Critter}}\n|spawn_location = [[Torrhus Springs]]\n|id = DUSTYBIT_9\n}}\nA '''Dustybit''' is a [[Critter]] that can be found around the {{zone|Torrhus Springs}}.\n\n== Spawning ==\n'''Dustybits''' spawn on the land surrounding the {{zone|Torrhus Springs}}.\n\n== Behavior ==\n'''Dustybits''' walk or swim around before briefly standing still. If the player clicks on a '''Dustybit''', it will gain a green glowing effect and jump away with a trail of green particles up to {{Green|4}} times. If another player interacts with the '''Dustybit''', it will instead gain a white glowing effect. After the {{Green|4th}} jump, the '''Dustybit''' grows tired and drops a {{Item|Dustybit Shard}}.\n\nThe amount of times a '''Dustybit''' jumps can be reduced by the {{Attr|Frog Legs}} attribute.\n\n== Drops ==\n{{Mob Drops Table\n|level = 9\n|hunting_xp = 150\n|orbs = 9\n|coins = 3\n|{{Mob Drops Row\n |drop = Ruby Veilshroom\n |count = 2-4\n |rarity = c\n |chance = 100%\n }}\n|{{Mob Drops Row\n |drop = Dustybit Shard\n |count = 1\n |rarity = c\n |chance = 100%\n }}\n|{{Mob Drops Row\n |drop = Enchanted Ruby Veilshroom\n |count = 1\n |rarity = r\n |chance = 1%\n }}\n}}\n{{CritterHunting|action=Exhausting|rarity=u}}\n\n== Game Message ==\n{| class=\"wikitable\"\n!Condition\n!Message\n|-\n|After the '''Dustybit''' jumps {{Green|4}} times\n|{{Dialogue|&7&oThe Dustybit is exhausted...}}\n|}\n\n== Bestiary ==\n{{Bestiary Entry|section=Torrhus Canyon|lore=They burrow under the sand to keep cool.|bracket=Hunting 2|max_tier=10|reward=Hunting}}\n\n== History ==\n{{History table\n|ahn=\n{{History|2026/Jul 10|[[File:Dustybit.png|26px]] Added '''Dustybit'''.}}\n{{History|2026/Aug 25|Changed the {{Experience}} from {{Dark Aqua|10}} to {{Dark Aqua|9}}.}}\n|beta =\n{{History|0.27|[[File:Dustybit.png|26px]] Added '''Dustybit'''.}}\n{{History|0.27.2|Changed the {{Experience}} from {{Dark Aqua|10}} to {{Dark Aqua|9}}.}}\n}}\n\n== Navigation ==\n{{Nav/Critters}}"
+}

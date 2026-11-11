@@ -1,0 +1,14 @@
+{
+  "title": "Cookie Clicker/UI",
+  "pageid": 89387,
+  "revision": 492811,
+  "timestamp": "2024-06-09T10:41:37Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Cookie_Clicker/UI",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=492811",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:UI Subpages",
+    "Template:UI"
+  ],
+  "wikitext": "{{#vardefine:latest|{{UI|Cookie Clicker v0.03\n|2, 5=Cookie, none, &e0 &6Cookies, /&7&6Cookies &7of course\\, are not a/&7valid source of &anutrition&7./&7This however\\, does not stop them/&7being &dawesome&7.//&8Status:/&7You feel like making cookies./&7But nobody wants to eat your/&7cookies.//&eClick to earn cookies!\n|4, 6=Milk, none, &dCookie Ranking, &7&7Ranking information requires/&71\\,000 cookies or more.\n\n|id=cookie-clicker\n|close=4, 5\n|arrow=4, 4\n|goback=&7To Booster Cookie\n|return_id=booster-cookie\n|rows=4\n|dnl=t\n}}\n}}{{#switch:{{{mode|}}}\n|full=<tabber>\n|-|v0.02 and v0.03=\n{{#var:latest}}\n|-|v0.01=\n{{UI|Cookie Clicker v0.01\n|id=cookie-clicker\n|close=4, 5\n|rows=4\n|goback=&7To Booster Cookie\n|return_id=booster-cookie\n|2, 5=Cookie, none;none, &e0 &6Cookies, &7/&6Cookies &7of course\\, are not a/&7valid source of &anutrition&7./&7This however\\, does not stop them/&7being &dawesome&7.//&8Status:/&7You feel like making cookies./&7But nobody wants to eat your/&7cookies.//&eClick to earn cookies!\n}}\n</tabber>\n|#default={{#var:latest}}\n}}<!--\n\n--><includeonly>[[Category:Pages with UIs]]</includeonly><!--\n--><noinclude>[[Category:UI Subpages]]</noinclude>"
+}

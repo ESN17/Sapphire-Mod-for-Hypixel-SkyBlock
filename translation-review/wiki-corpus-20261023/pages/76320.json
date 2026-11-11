@@ -1,0 +1,13 @@
+{
+  "title": "Wooden Pressure Plate",
+  "pageid": 76320,
+  "revision": 821608,
+  "timestamp": "2026-08-19T22:04:35Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Wooden_Pressure_Plate",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=821608",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Vanilla}}\n{{Infobox/Item\n|id = WOOD_PLATE\n|rarity = common\n|sell = 1\n}}\nA '''Wooden Pressure Plate''' is a {{Common}} [[Vanilla Objects/Redstone-Related Blocks|Redstone-related]] block that can be used on the player's {{Zone|Private Island}}.\n\n== Obtaining ==\n=== Crafting ===\n{{Crafting Recipe Table\n|{{Crafting Recipe Row\n |ingredients = {{RL|2 Planks}}\n |A2 = *Planks |B2 = *Planks\n |Output = Wooden Pressure Plate\n}}\n}}\n\n=== Shop Purchase ===\nA '''Wooden Pressure Plate''' can be purchased from the {{NPCSprite|Mad Redstone Engineer}} or {{NPCSprite|Builder}} for {{Coins|2}}.\n\n== Usage ==\n=== Private Island ===\n'''Wooden Pressure Plates''' can be placed as a block on the player's {{Zone|Private Island}} or plots in {{Zone|The Garden}}. Its [[mcw:Pressure Plate#Usage|functionality]] only work on the {{Zone|Private Island}}, but there are [[Private Island#Redstone Restrictions|restrictions]] on how often it can be used. Redstone is disabled on {{Zone|The Garden}}.\n\n== Game Messages ==\n{|class=\"wikitable\"\n! Message\n! Condition\n|-\n| {{Dialogue|&cPlease note that redstone is currently disabled on this island!}}\n| Placing a Wooden Pressure Plate in {{Zone|The Garden}}\n|}\n\n== History ==\n{{History table\n|beta=\n{{History|0.1|[[File:Wooden Pressure Plate.png|26px]] Added '''Wooden Pressure Plate'''.}}\n}}"
+}

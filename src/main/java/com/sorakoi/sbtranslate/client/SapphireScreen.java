@@ -59,6 +59,7 @@ public final class SapphireScreen extends Screen {
                 option.write().accept(Sapphire.CONFIG,!option.read().test(Sapphire.CONFIG));Sapphire.saveConfig();feedback="设置已应用";
             }));
         addAction(result,0,"API 与提示词","配置在线翻译、服务商和 /sahelp 教程提示词。",()->minecraft.gui.setScreen(new SapphireApiScreen(this)));
+        addAction(result,0,"反馈译文问题","发现译文错误、前后不一致或漏译时，写一句说明匿名发给译名库维护者。",()->minecraft.gui.setScreen(new FeedbackScreen(this)));
         addAction(result,4,"修改翻译","搜索全部词条，编辑译文并预览效果。",()->minecraft.gui.setScreen(new TranslationEditorScreen(this)));
         addAction(result,4,"翻译状态","查看已加载词条、运行环境与词典更新状态。",()->minecraft.gui.setScreen(new TranslationStatusScreen(this)));
         addAction(result,4,"重新加载词典","修改本地词典后，在后台重新加载并生效。",this::reload);

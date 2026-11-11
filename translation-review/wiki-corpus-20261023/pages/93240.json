@@ -1,0 +1,14 @@
+{
+  "title": "Matriarch's Perfume",
+  "pageid": 93240,
+  "revision": 833501,
+  "timestamp": "2026-09-06T21:54:11Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Matriarch%27s_Perfume",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=833501",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Crimson Isle",
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Item\n|rarity = s\n|purpose = Making [[The Matriarch]] produce more [[Heavy Pearl]]s\n|source=[[Bits Shop]]\n|merchant = Elizabeth\n|buy = 1200 Bits\n|id = MATRIARCH_PARFUM\n}}\n\n'''Matriarch's Perfume''' is a {{Special}} item that resets [[The Matriarch]]'s cooldown.\n\n== Obtaining ==\n'''Matriarch's Perfume''' can be obtained from the [[Bits Shop]] for {{Bits|1200}}.\n\n== Usage ==\nOnce {{Item|Heavy Pearl|amount=3}}s have been collected from [[The Matriarch]], '''Matriarch's Perfume''' can be consumed to make it produce {{Green|3}} more. This can be done up to 4 times a day, meaning a total of {{Item|Heavy Pearl|amount=15}}s can be obtained per day, or a total of {{Item|Heavy Pearl|amount=18}}s if the {{Attr|Matriarch Cubs}} attribute procs every time.\n\n== Game Message ==\n{| class=\"wikitable\"\n!Condition\n!Message\n|-\n| class=\"ct\" | Already consumed 4\n|{{Dialogue|\n&cYou've already used perfume 4 times in the last 24 hours!\n&cYou have to wait, otherwise the smell might stick to you forever!\n}}\n|-\n| class=\"ct\" | Uncollected {{Item|Heavy Pearl}}s left\n|{{Dialogue|\n&cThere are pearls left in the matriarch!\n&cApplying the perfume like this could confuse the beast and cause her to implode.\n}}\n|}\n\n== Tips ==\n*When the pearls are sold on [[Bazaar]], this effectively grants {{BZC|{{#expr:3 / 1200}} Heavy Pearl}} per {{bits|alt=Bit}} spent or {{BZC|{{#expr:3 / 1200 * 6 / 5}} Heavy Pearl}} per {{bits|alt=Bit}} spent with {{Attr|Matriarch Cubs X}}, which is ineffective, making this item only viable for {{Gamemode|ironman}} players.\n\n== History ==\n{{History table\n|ahn=\n{{History|2022/Oct 13|[[File:Matriarch's Perfume.png|26px]] Added '''Matriarch's Perfume'''.}}\n{{History|2024/Nov 13|Increased maximum uses per day from 2 to 4.}}\n|beta=\n{{History|2022/Oct 19|[[File:Matriarch's Perfume.png|26px]] Added '''Matriarch's Perfume'''.}}\n{{History|Unknown|Changed message when trying to use the item with Heavy Pearls left to say \"perfume\" instead of \"parfum\".}}\n{{History|0.20.9|Increased maximum uses per day from 2 to 4.}}\n}}\n\n== Navigation ==\n{{Nav/Bits Shop}}\n[[Category:Crimson Isle]]"
+}

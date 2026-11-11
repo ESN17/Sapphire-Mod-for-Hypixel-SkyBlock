@@ -21,7 +21,7 @@ class DictionaryUpdateTest {
         var data=new LinkedHashMap<String,byte[]>();
         for(String name:DictionaryArchive.REQUIRED)data.put("translations/"+name+".json",utf("{}"));
         for(String name:List.of("gui-menus","entity-menus"))data.put("translations/"+name+".json",utf("{\"schemaVersion\":1,\"menus\":[]}"));
-        for(String name:List.of("community-skyzh","community-wiki"))data.put("translations/"+name+".json",utf("{\"schemaVersion\":1,\"entries\":[]}"));
+        for(String name:List.of("community-sapphire","community-wiki"))data.put("translations/"+name+".json",utf("{\"schemaVersion\":1,\"entries\":[]}"));
         for(String name:List.of("system-messages","death-messages","creature-messages"))data.put("translations/"+name+".json",utf("{\"rules\":[]}"));
         data.put("translations/items/TEST.json",utf("{\"id\":\"TEST\",\"name\":\"测试物品\",\"_original_name\":\"Test item\"}"));
         return data;
@@ -65,13 +65,14 @@ class DictionaryUpdateTest {
     }
     @Test void rejectCorruptionTraversalConfigInjectionInvalidJsonAndIncompleteLibrary() throws Exception {
         Path old=oldDictionary();var original=Files.readString(old);
-        for(String attack:List.of("traversal","config","json","missing","version","truncated","case","template","depth")) {
+        for(String attack:List.of("traversal","config","json","missing","legacyCorpus","version","truncated","case","template","depth")) {
             var data=payload();var fixture=new Fixture();
             switch(attack) {
                 case "traversal" -> data.put("../outside.json",utf("{}"));
                 case "config" -> data.put("config.json",utf("{}"));
                 case "json" -> data.put("translations/chat.json",utf("{\"x\":\"a\",\"x\":\"b\"}"));
                 case "missing" -> data.remove("translations/locations.json");
+                case "legacyCorpus" -> data.put("translations/community-skyzh.json",data.remove("translations/community-sapphire.json"));
                 case "case" -> data.put("translations/items/test.json",utf("{\"id\":\"second\"}"));
                 case "template" -> data.put("translations/templates.json",utf("{\"You have {amount} coins\":\"有{wrong}硬币\"}"));
                 case "depth" -> data.put("translations/chat.json",utf("{\"x\":"+"[".repeat(70)+"0"+"]".repeat(70)+"}"));

@@ -1,0 +1,15 @@
+{
+  "title": "Gold Forger",
+  "pageid": 8318,
+  "revision": 816852,
+  "timestamp": "2026-08-11T21:44:34Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Gold_Forger",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=816852",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Category:Pages with UIs",
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Character\n|shop = Yes\n|location = [[Gold Mine]]\n|location_page_description = Sells gold-related items.\n|x = -27.5\n|y = 74\n|z = -294.5\n}}\nThe '''Gold Forger''' is an [[NPC]] located in the {{zone|Gold Mine}}. They sell gold-related items.\n\n== Interface ==\n{{/UI}}\n\n== Dialogue ==\n{| class=\"wikitable\"\n!colspan=\"2\" |Condition\n!Dialogue\n|-\n| class=\"ct\" colspan=\"2\" |First Interaction\n|{{Dialogue|\n&e[NPC] Gold Forger&f: I love goooold!\n&e[NPC] Gold Forger&f: Click me again to open the Gold Forger Shop!\n}}\n|-\n| class=\"ct\" rowspan=\"3\" |{{zone|The Garden}}\n| class=\"ct\" |None\n|{{Dialogue|&e[NPC] &9Gold Forger&f: &fDo Golden Carrots taste different than normal ones? I've actually never tried one before so I am pretty curious how they taste.}}\n|-\n|class=\"ct\" |Completing\n|{{Dialogue|&e[NPC] &9Gold Forger&f: Let's taste...THIS IS DISGUSTING!!! Why would anyone waste such precious gold on this? Just like any other fancy food, expensive and gross...}}\n|-\n|class=\"ct\" |Denying\n|{{Dialogue|&e[NPC] &9Gold Forger&f: They would've probably tasted bad anyways...}}\n|}\n\n== Trivia ==\n*The '''Gold Forger'''<nowiki>'</nowiki>s skin, originally titled \"[https://www.planetminecraft.com/skin/the-golden-knight-2774316/ The Golden Knight]\" was created by DragonsDungeon on Planet Minecraft.\n*The {{NPCSprite|Mining Merchant}} has a separate stock, meaning it is technically possible to buy up to 1,280 {{Item|Gold Ingot}}s per day.\n\n== History ==\n{{History table\n|beta=\n{{History|0.1|[[File:Gold Forger.png|26px]] Added '''Gold Forger'''.}}\n{{history|0.18.4|Changed the '''Gold Forger''' to always reward {{Copper|15}} and {{Item|Gold Essence|amount=2-5}} when on {{zone|The Garden}}.}}\n{{history|0.19.3|Gave the '''Gold Forger''' some shiny golden tools to sell.|Gave the '''Gold Forger''' some enchanted armor to sell.}}\n{{history|0.19.8|'''Gold Forger''' now asks for {{Item|Golden Carrot|amount=1024}} instead of {{Item|Golden Carrot|amount=1028}} when visiting {{zone|The Garden}}.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}\n[[Category:Mining]]"
+}

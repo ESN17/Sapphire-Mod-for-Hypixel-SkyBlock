@@ -1,0 +1,13 @@
+{
+  "title": "Stone Button",
+  "pageid": 76358,
+  "revision": 821612,
+  "timestamp": "2026-08-19T22:12:24Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Stone_Button",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=821612",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Vanilla}}\n{{Infobox/Item\n|rarity = common\n|sell = 1\n|id = STONE_BUTTON\n}}\nA '''Stone Button''' is a {{Common}} block that can be crafted and placed on the player's {{Zone|Private Island}} or plots in {{Zone|The Garden}}.\n\n== Obtaining ==\n=== Crafting ===\n{{Crafting Recipe Table\n|{{Crafting Recipe Row\n |B2 = Stone\n |Output = Stone Button\n}}\n}}\n\n== Usage ==\n=== Private Island ===\n'''Stone Buttons''' can be placed as a block on the player's {{Zone|Private Island}} or plots in {{Zone|The Garden}}. When pressed on a {{Zone|Private Island}}, they will activate a connected {{Item|Redstone}} signal.\n\n== Game Messages ==\n{|class=\"wikitable\"\n! Message\n! Condition\n|-\n| {{Dialogue|&cPlease note that redstone is currently disabled on this island!}}\n| Placing a Stone Button in {{Zone|The Garden}}\n|}\n\n== History ==\n{{History table\n|beta=\n{{History|2019/June 11|[[File:Stone Button.png|26px]] Added '''Stone Button'''.}}\n}}"
+}

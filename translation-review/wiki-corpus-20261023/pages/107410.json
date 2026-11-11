@@ -1,0 +1,16 @@
+{
+  "title": "Auryon",
+  "pageid": 107410,
+  "revision": 823067,
+  "timestamp": "2026-08-24T05:19:34Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Auryon",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=823067",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Category:Pages with UIs",
+    "Template:Dialogue",
+    "Template:UI"
+  ],
+  "wikitext": "{{Infobox/Character\n|quests = {{Quest|David's Hunting Lessons}}\n|location = [[Evergreen Plateau]]\n|location_page_description = Teaches the player how to use a [[Lasso]].\n|x = -557.5 \n|y = 111 \n|z = 48.5\n}}\n'''Auryon''' is an [[NPC]] found in the {{Zone|Evergreen Plateau}} on [[Galatea]] that teaches the player how to use a [[Lasso]].\n\n== Interface ==\n{{/UI}}\n\n== Dialogue ==\n{| class=\"wikitable\"\n! class=\"ct\" | Condition\n! Dialogue\n|-\n| class=\"ct\" | Before unlocking [[Heart of the Forest]]\n| {{Dialogue|&e[NPC] &bAuryon&f: &7<player>&f! Have you talked to &bHina &fat the front of the island to get your hands on a &aHeart of the Forest&f?}}\n|-\n| class=\"ct\" | First Interaction\n|{{Dialogue|\n&e[NPC] &bAuryon&f: Hello!\n&e[NPC] &bAuryon&f: I was cutting a tree when a &cPhanpyre &fsuddenly appeared.\n&e[NPC] &bAuryon&f: Hunting &2Forest &fcreatures is very different from &9Water &for &cCombat &fcreatures.\n&e[NPC] &bAuryon&f: For this one, you need a Lasso.\n&e[NPC] &bAuryon&f: I have a spare one here, take it.\n}}\n|-\n| class=\"ct\" | After accepting the {{Item|Abysmal Lasso}}\n| {{Dialogue|\n&e[NPC] &bAuryon&f: Great! Now throw the Lasso at the &cPhanpyre&f!\n&e[NPC] &bAuryon&f: When its stamina bar empties, &aright-click &fto reel it in!\n}}\n|-\n| class=\"ct\" | Before hunting the {{MobSprite|Phanpyre}}\n| {{Dialogue|\n&e[NPC] &bAuryon&f: Great, now throw the Lasso at the Phanpyre and hold on!\n&e[NPC] &bAuryon&f: Once their stamina bar is down, &e&lRIGHT CLICK &fyour Lasso to Reel!\n}}\n|-\n| class=\"ct\" | After killing the {{MobSprite|Phanpyre}}\n| {{Dialogue|\n&e[NPC] &bAuryon&f: You killed it! That's &cNOT &fhow you hunt!\n&e[NPC] &bAuryon&f: Try again!\n}}\n|-\n| class=\"ct\" | After hunting the {{MobSprite|Phanpyre}}\n| {{Dialogue|\n&e[NPC] &bAuryon&f: Alright alright alright!\n&e[NPC] &bAuryon&f: That's what I'm talking about!\n&e[NPC] &bAuryon&f: This Lasso isn't the best, but it gets the job done.\n&e[NPC] &bAuryon&f: You should head back to &bDavid Hunterborough&f.\n}}\n|-\n| class=\"ct\" | Before talking to {{NPCSprite|David Hunterborough}}\n| {{Dialogue|&e[NPC] &bAuryon&f: You should go back to &bDavid Hunterborough&f.}}\n|-\n| rowspan=\"2\" class=\"ct\" | Idle\n| {{Dialogue|&e[NPC] &bAuryon&f: I keep finding Phanpyres, but what I'm really looking for are Dreadwings.}}\n|-\n| {{Dialogue|&e[NPC] &bAuryon&f: Have you got a better Lasso yet? I'm still looking for a better one myself.}}\n|-\n|}\n\n== History ==\n{{History table\n|ahn=\n{{History|2025/Jun 5|[[File:Auryon.png|26px]] Added '''Auryon'''.}}\n|beta=\n{{History|0.23|[[File:Auryon.png|26px]] Added '''Auryon'''.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}"
+}

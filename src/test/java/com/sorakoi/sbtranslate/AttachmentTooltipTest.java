@@ -15,7 +15,11 @@ import static org.junit.jupiter.api.Assertions.*;
 class AttachmentTooltipTest {
     static TranslationManager manager;
     @BeforeAll static void load() throws Exception {manager=new TranslationManager();manager.load(Path.of("src/main/resources/defaults"));}
-    static List<Component> components(String... lines){return Arrays.stream(lines).<Component>map(Component::literal).toList();}
+    static List<Component> components(String... lines) {
+        var result = new ArrayList<Component>(lines.length);
+        for (String line : lines) result.add(Component.literal(line));
+        return List.copyOf(result);
+    }
     static LoreTranslationEngine.Result translate(String id,List<Component> lines){return LoreTranslationEngine.translate(lines,manager,id,(text,source)->List.of(text),false);}
     static String text(List<Component> lines){return String.join("\n",lines.stream().map(Component::getString).toList());}
     static List<JsonObject> fixtures(String file) throws Exception {

@@ -26,7 +26,7 @@ class SettingsTranslationTest {
         var menu=GuiTranslationEngine.menu("Fishing Settings",manager);
         var name=Component.literal("Fishing Timer").withStyle(ChatFormatting.GREEN);
         var translated=GuiTranslationEngine.button(name,menu);
-        assertEquals("钓鱼计时",translated.getString());StyledLoreTest.color(translated,"钓鱼计时",ChatFormatting.GREEN);
+        assertEquals("钓鱼计时器",translated.getString());StyledLoreTest.color(translated,"钓鱼计时器",ChatFormatting.GREEN);
         for(String action:List.of("enable","disable")) {
             var source=Component.literal("Click to "+action+"!").withStyle(ChatFormatting.YELLOW);
             var result=lore("Fishing Settings",List.of(source)).getFirst();
@@ -38,7 +38,7 @@ class SettingsTranslationTest {
 
     @Test void everySoundToggleCombinationKeepsSymbolsColorsAndClickActions() {
         String[] english={"Play Music","Ability Cooldown Sounds","Rare Drop Sounds","Menu Sounds","Ferocity Sounds"};
-        String[] chinese={"播放音乐","技能冷却音效","稀有掉落音效","菜单音效","凶猛音效"};
+        String[] chinese={"播放音乐","技能冷却音效","稀有掉落音效","菜单音效","残暴值音效"};
         var click=new ClickEvent.SuggestCommand("/settings");
         for(int mask=0;mask<32;mask++) {
             var source=new ArrayList<Component>();source.add(Component.literal("Includes:"));
@@ -62,7 +62,7 @@ class SettingsTranslationTest {
             Component.literal("§a✔ §7Fishing Status Holograms"),Component.literal("§c✖ §7Fishing Timer"),Component.literal("§a✔ §7Fishing Sound"));
         for(var line:lore("Settings",lines))assertFalse(line.getString().matches(".*[A-Za-z].*"),line.getString());
         var explanation=lore("Fishing Settings",List.of(Component.literal("Tweak settings related to"),Component.literal("fishing.")));
-        assertEquals("调整与钓鱼有关的设置。",String.join("",explanation.stream().map(Component::getString).toList()));
+        assertEquals("在这里调整钓鱼设置。",String.join("",explanation.stream().map(Component::getString).toList()));
     }
 
     @Test void relatedSubmenusWorkWithoutOpeningUnrelatedContainers() {

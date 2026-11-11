@@ -1,0 +1,16 @@
+{
+  "title": "Reed",
+  "pageid": 99915,
+  "revision": 814511,
+  "timestamp": "2026-08-11T19:44:36Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Reed",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=814511",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Category:Pages with UIs",
+    "Template:Dialogue",
+    "Template:UI"
+  ],
+  "wikitext": "{{Infobox/Character\n|shop = Yes\n|location = [[Lagoon Hut]]\n|location_page_description = Sells the {{Item|Rift Boat}}.\n|x = -212\n|y = 72\n|z = 60.5\n}}\n'''Reed''' is an [[NPC]] in the {{zone|Lagoon Hut}} who sells the {{Item|Rift Boat}}.\n\n__TOC__\n== Interface ==\n{{/UI}}\n\n== Quest ==\n'''Reed''' asks for several items, which can be found in locations across the [[Rift Dimension]]. In return for bringing a group of items, '''Reed''' will reward the player with a permanent {{stat|rt}} boost.\n{| class=\"wikitable\"\n! Items\n! Location\n! Reward\n|-\n| {{Green|16x}} {{Item|Larva Silk}} \n| {{zone|Wyld Woods}}\n| {{stat|rt|20}}\n|-\n| {{Green|64x}} {{Item|Wilted Berberis}} \n| {{zone|Dreadfarm}}\n| {{stat|rt|20}}\n|-\n| {{Green|128x}} {{Item|Half-Eaten Carrot}} \n| {{zone|Village Plaza}}\n| {{stat|rt|30}}\n|-\n| {{Green|1x}} {{Item|Living Metal Anchor}} \n| {{zone|Living Cave}}\n| {{stat|rt|30}}\n|-\n| {{Green|8x}} {{Item|Bacte Fragment}} \n| {{zone|Colosseum (Rift)}}\n| {{stat|rt|30}}\n|}\n\nUpon completing all of '''Reed'''<nowiki>'</nowiki>s tasks, the player will be able to purchase a {{Item|Rift Boat}} for {{Motes|25000}}.\n\n== Dialogue ==\n{| class=\"wikitable\"\n!Condition\n!Dialogue\n|-\n| class=\"ct\" |First Interaction\n|{{Dialogue|\n&e[NPC] Reed&f: The crew and I have been stuck on this islet since we crossed the &5Rift&f.\n&e[NPC] Reed&f: We navigated through the &3infinite ocean&f to come here.\n&e[NPC] Reed&f: Alas, our boat broke into a &cmillion pieces&f when we were attacked by leeches.\n&e[NPC] Reed&f: Will you help me repair our &aboat&f?\n}}\n|-\n| class=\"ct\" | Without Materials\n|{{Dialogue|\n&e[NPC] Reed&f: I'm still missing components to repair our &aboat&f.\n&e[NPC] Reed&f: Will you help me find them?\n&e[NPC] Reed&f: We need to get out of here!\n}}\n|-\n| class=\"ct\"  |Completing a Step\n|{{Dialogue|&e[NPC] Reed&f: Thanks, we're now one step closer to repairing the &aboat&f!}}\n|-\n| class=\"ct\" | Completing all Steps\n|{{Dialogue|\n&e[NPC] Reed&f: Excellent!\n&e[NPC] Reed&f: Our &aboat&f is finally repaired!\n&e[NPC] Reed&f: Kay and I will soon escape the &5Rift&f.\n&e[NPC] Reed&f: Until then, I can make a &aboat&f for you using leftovers.\n&e[NPC] Reed&f: For a price of course... he he.\n}}\n|-\n| class=\"ct\" | Completing all Steps <br> (Future Interactions)\n|{{Dialogue|\n&e[NPC] Reed&f: &fThanks for delivering all the &aboat &fcomponents.\n&e[NPC] Reed&f: &fKay and I will soon escape the &5Rift&f.\n&e[NPC] Reed&f: &fIn the meantime, I can make a &aboat &ffor you using leftovers.\n}}\n|}\n\n== History ==\n{{History table\n|ahn=\n{{history|2023/May 4|[[File:Reed.png|26px]] Added '''Reed'''.}}\n|beta=\n{{History|0.19|[[File:Reed.png|26px]] Added '''Reed'''.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}"
+}

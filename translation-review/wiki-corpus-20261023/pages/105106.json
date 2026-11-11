@@ -1,0 +1,13 @@
+{
+  "title": "Time Gun",
+  "pageid": 105106,
+  "revision": 848405,
+  "timestamp": "2026-09-29T15:59:42Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Time_Gun",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=848405",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Exclusive|Rift}}\n{{Infobox/Item\n|collection = Timite I\n|rarity = rare\n|rift_transferrable = no\n|auctionable = no\n|tradeable = no\n|salable = Yes\n|motes_sell = 25\n|donatable  = no\n|raw_materials = \n*60 Wilted Berberis\n*32 Youngite\n|id = TIME_GUN\n|upgrades_from=Berberis Blowgun\n|upgradeable=no\n}}\nA '''Time Gun''' is a {{Rare}} item unlocked at {{coll|Timite 1}}.\n\n== Obtaining ==\n=== Crafting ===\n{{Crafting Recipe Table\n|{{Crafting Recipe Row\n |requirement = {{coll|Timite 1}}\n |A1 =             |B1 = Youngite, 8      |C1 = Youngite, 8\n |A2 = Youngite, 8 |B2 = Berberis Blowgun |C2 = \n |A3 = Youngite, 8 |B3 =                  |C3 = \n |Output = Time Gun\n }}\n}}\n\n== Usage ==\n{{ItemInfo\n|rarity = rare\n|item_ability_name = Quantum Projection\n|item_ability_activation = Right Click\n|item_ability_description = Aim at [[Timite|Timite Ores]] to wackify their time.\n|item_ability_mana_cost = 2\n}}\nA '''Time Gun''' can be used on {{Item|Youngite}} ore to turn it into {{Item|Timite}} ore and on {{Item|Timite}} ore to turn it into {{Item|Obsolite}} ore. This process is referred to as ''Wackifying'' in the item's ability description and each stage takes {{green|2}} seconds.\n\n== Game Message ==\n{| class=\"wikitable\"\n! Condition\n! Dialogue\n|-\n| Using on {{Item|Obsolite}}\n| {{Dialogue|&9&lPARADOX! &cThis ore has maximum time wackification!}}\n|}\n\n== History ==\n{{History table\n|beta=\n{{History|0.21|[[File:Time Gun.png|26px]] Added '''Time Gun'''.}}\n}}\n\n== Navigation ==\n{{Nav/Collection/Timite}}\n[[Category:Rift Dimension]]"
+}

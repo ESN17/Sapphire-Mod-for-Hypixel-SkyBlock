@@ -1,0 +1,16 @@
+{
+  "title": "Kelly",
+  "pageid": 107332,
+  "revision": 823058,
+  "timestamp": "2026-08-24T05:16:07Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Kelly",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=823058",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Category:Pages with UIs",
+    "Template:Dialogue",
+    "Template:UI"
+  ],
+  "wikitext": "{{Infobox/Character\n|quests = {{Quest|A Helping Hand}}\n|location= [[Spruce Woods]]\n|location_page_description = Rewards the player with {{Item|Kelly's T-Shirt}} after bringing {{Item|Spruce Log|amount=128}}s.\n|x= -350.5 \n|y= 94 \n|z= 33.5\n}}\n'''Kelly''' is an [[NPC]] located in the {{Zone|Spruce Woods}}. They award the player with {{Item|Kelly's T-Shirt}} after collecting {{Item|Spruce Log|amount=128}}s.\n\n== Interface ==\n{{/UI}}\n\n== Dialogue ==\n{| class=\"wikitable\"\n!Condition\n!Dialogue\n|-\n|class=\"ct\" | First Interaction\n|{{Dialogue|\n&e[NPC] Kelly&f: Hey hey! Did &eCharlie&f send you?\n&eSelect an option: &a[Yeah] &c[Never heard of him]\n}}\n|-\n|class=\"ct\" | Selecting {{Rmt|&a[Yeah]}}\n|{{Dialogue|\n&e[NPC] Kelly&f: Awesome!\n&e[NPC] Kelly&f: Okay, so, basically.\n&e[NPC] Kelly&f: I was breaking this tree right here, right.\n&e[NPC] Kelly&f: But then I broke my axe!\n&e[NPC] Kelly&f: And now I don't want to break any more trees, in case I break any more axes!\n&e[NPC] Kelly&f: Anyways, if you can bring me &a128 Spruce Logs&f, I'll give you a reward!\n}}\n|-\n|class=\"ct\" | Selecting {{Rmt|&c[Never heard of him]}}\n|{{Dialogue|\n&e[NPC] Kelly&f: Strange... I could've sworn you'd met.\n&e[NPC] Kelly&f: Anyways, I was breaking this tree right here, right.\n&e[NPC] Kelly&f: But then I broke my axe!\n&e[NPC] Kelly&f: And now I don't want to break any more trees, in case I break any more axes!\n&e[NPC] Kelly&f: If you can bring me &a128 Spruce Logs&f, I'll give you a reward!\n}}\n|-\n|class=\"ct\" | During Objective: {{Rmt|&eCollect Spruce Logs}}\n|{{Dialogue|\n&e[NPC] Kelly&f: Bring me &a128 Spruce Logs&f!\n&e[NPC] Kelly&f: That's two stacks of them, if you're struggling to do the math!\n}}\n|-\n|class=\"ct\" | After collecting and giving her  {{Item|Spruce Log|amount=128}}\n|{{Dialogue|\n&e[NPC] Kelly&f: Oh, that's amazing! Thank you so much!\n&e[NPC] Kelly&f: Now I can take this all back to &eCharlie&f, and say &lI did it!\n&e[NPC] Kelly&f: And then, with the coins he gives me, I can get a &9Spruce Minion&f!\n&e[NPC] Kelly&f: You should check out the &aDark Thicket&f next. Be careful though!\n&e[NPC] Kelly&f: I've heard some people are holding a &cCult Meeting&f there &cRIGHT NOW&f!\n}}\n|-\n| rowspan=\"3\" class=\"ct\" | After completing her quest\n|{{Dialogue|&e[NPC] Kelly&f: I can't control what I say to people. I spend the whole day talking.}}\n|-\n|{{Dialogue|&e[NPC] Kelly&f: I talk a lot, so I've learned to just tune myself out.}}\n|-\n|{{Dialogue|&e[NPC] Kelly&f: Did you check out the &cCult&f over in the &aDark Thicket&f yet?}}\n|}\n\n== History ==\n{{History table\n|ahn=\n{{History|2025/Jun 5|[[File:Kelly.png|26px]] Added '''Kelly'''.}}\n|beta=\n{{History|0.23|[[File:Kelly.png|26px]] Added '''Kelly'''.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}"
+}

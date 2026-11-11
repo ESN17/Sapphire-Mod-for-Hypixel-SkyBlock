@@ -1,0 +1,14 @@
+{
+  "title": "Master Tactician Funk/UI",
+  "pageid": 82814,
+  "revision": 600464,
+  "timestamp": "2025-09-02T14:27:53Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Master_Tactician_Funk/UI",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=600464",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:UI Subpages",
+    "Template:UI"
+  ],
+  "wikitext": "<div class=\"sbw-ui-tabber\">\n{{UI|Master Tactician\n|2, 2=Tactician's Sword, none, %inherit%, %inherit%//&7Cost/&635\\,000 Coins//&eClick to trade!\n|2, 3=Wood Singularity, none, %inherit%, %inherit%//&7Cost/&aEnchanted Oak Wood &8x320/&aEnchanted Spruce Wood &8x320/&aEnchanted Birch Wood &8x320/&aEnchanted Dark Oak Wood &8x320/&aEnchanted Acacia Wood &8x320/&aEnchanted Jungle Wood &8x320/&61\\,464\\,000 Coins//&eClick to trade!\n|6, 4=Lime Dye, none;none, &aShop Confirmations, &7Confirm when purchasing items worth/&7at least a million coins.//&eClick to disable!\n|6, 5=Hopper, none;none, &aSell Item, &7Click items in your inventory to sell/&7them to this Shop!\n|6, 6=Wood Singularity, reclaim, &6Reclaim Wood Singularity, &7Click to reclaim a &6Wood Singularity/&7bound to a sword.\n|confirmation=true\n|fill=border\n|id=default\n|close=none\n|arrow=none\n}}\n{{UI|Reclaim Wood Singularity\n|2, 5=\n|3, 5=Anvil, none;none, &7Reclaim &6Wood Singularity, &7This removes the &6Wood Singularity/&7from your sword. Allowing you to now/&7apply it to an Axe.\n|4, 4=Barrier, none;none, &7Reclaim &6Wood Singularity, &7This removes the &6Wood Singularity/&7from your sword. Allowing you to now/&7apply it to an Axe.\n|4, 6=Barrier, none;none, &7Reclaim &6Wood Singularity, &7This removes the &6Wood Singularity/&7from your sword. Allowing you to now/&7apply it to an Axe.\n|fill=true\n|id=reclaim\n|return_id=default\n|hide=true\n|noarrow=yes\n}}\n</div>\n<!--\n\n--><includeonly>[[Category:Pages with UIs]]</includeonly><!--\n--><noinclude>[[Category:UI Subpages]]</noinclude>"
+}

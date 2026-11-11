@@ -1,0 +1,14 @@
+{
+  "title": "Curator",
+  "pageid": 85748,
+  "revision": 856578,
+  "timestamp": "2026-10-11T23:07:39Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Curator",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=856578",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Character\n|location = [[Museum]]\n|location_page_description = Allows the player to access the [[Museum]] and their stored items placed within it.\n|x = 27.5\n|y = 68\n|z = 33.5\n}}\nThe '''Curator''' is an [[NPC]] in the {{zone|Museum}}.\n\n== Dialogue ==\n{| class=\"wikitable\"\n!Condition\n!Dialogue\n|-\n| class=\"ct\" | None\n|{{Dialogue|&e[NPC] &bCurator&f: Welcome! The museum is just starting to take shape. Your first few contributions are the seeds of something magnificent!}}\n|-\n<!-- I got the following at Milestone 10 -->\n| class=\"ct\" | Between [[Museum#Museum_Milestones|Museum Milestone 10]]{{ConfirmationNeeded}} and [[Museum#Museum_Milestones|Museum Milestone]] {{InfoNeeded}}\n|{{Dialogue|&e[NPC] &bCurator&f: Your incredible contributions have transformed the museum into a landmark of cultural heritage.}}\n|-\n| class=\"ct\" | With most donations <!-- Between [[Museum#Museum_Milestones|Museum Milestone]] {{InfoNeeded}} and [[Museum#Museum_Milestones|Museum Milestone]] {{InfoNeeded}} -->\n|{{Dialogue|&e[NPC] &bCurator&f: The museum is almost complete! Your tireless efforts have brought us to the brink of greatness.}}\n|-\n| class=\"ct\" | Museum Disabled\n|{{Dialogue|&cThis Museum is temporarily disabled. Check back again later!}}\n|-\n| class=\"ct\" | On [[Bingo]]\n|{{Dialogue|&e[NPC] &bCurator&f: &cI'm sorry, Bingo profiles do not qualify for the Museum.}}\n|}\n\n== History ==\n{{History table\n|ahn=\n{{History|2021/Oct 25|link=none|[[File:Curator.png|26px]] Added '''Curator'''.}}\n{{History|2026/Jan 30|Moved '''Curator''' from {{Coords|-26.5|64|84.5}} to {{Coords|27.5|68|33.5}}, due to the redesign of the [[Hub Island]].}}\n|beta=\n{{History|0.12.1|[[File:Curator.png|26px]] Added '''Curator'''.}}\n{{History|2022/March 19|link=none|Temporarily disabled '''Curator'''.}}\n{{History|2022/March 23|Re-enabled '''Curator'''.|link=none}}\n{{History|0.24.2|Moved '''Curator''' from {{Coords|-26.5|64|84.5}} to {{Coords|27.5|68|33.5}}, due to the redesign of the [[Hub Island]].}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}"
+}

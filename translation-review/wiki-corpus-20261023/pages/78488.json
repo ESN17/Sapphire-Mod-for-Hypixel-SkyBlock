@@ -1,0 +1,14 @@
+{
+  "title": "Scary Jerry",
+  "pageid": 78488,
+  "revision": 861797,
+  "timestamp": "2026-10-21T01:16:23Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Scary_Jerry",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861797",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Events",
+    "Category:Spooky Festival"
+  ],
+  "wikitext": "{{Infobox/Mob\n|mob_level = 95\n|mob_type = *{{mt|Spooky}}\n*{{mt|Shielded}}\n|stats = {{InfoboxMobStats\n|health = 12\n|damage = 50\n}}\n|id = SCARY_JERRY_30\n}}\n{{For|the Scary Jerry on {{Gamemode|Stranded}}|Scary Jerry (Stranded)}}\n'''Scary Jerry''' is a [[Spooky Mob]] that spawns in [[Wilderness]] and [[Graveyard]] during a [[Spooky Festival]], or from [[Trick or Treat Chest]]s. It is similar to the other Spooky Mobs, where it only takes {{Stat|Damage|1}} each hit. If it is attacked with a [[Ghoul Buster]], it takes {{Stat|Damage|2}} per hit.\n\n== Spawning ==\nThe Scary Jerry can naturally spawn in the {{Zone|Graveyard}} and {{Zone|Wilderness}} at night while a [[Spooky Festival]] is active. It can also be spawned from {{Mctxt|c|TRICK}} [[Trick or Treat Chest]]s. It has a {{Green|3.06122449%}} chance to be the Mob spawned by the Trick or Treat Chest.\n\n== Drops ==\n{{Mob Drops Table\n|level = 95\n|coins = 31\n|combat_xp = 142\n|orbs = 104\n|{{Mob Drops Row\n |drop = Green Candy\n |count = 1, 1\n |rarity = Common\n |chance = 100%, 25%\n }}\n|{{Mob Drops Row\n |drop = Purple Candy\n |count = 1, 1\n |rarity = common\n |chance = 35%, 5%\n }}\n|{{Mob Drops Row\n |drop = Midnight Dye\n |count = 1\n |rarity = rng\n |chance = 0.0001%\n }}\n}}\n\n== Bestiary ==\n{{Bestiary Entry|section=Spooky Festival|lore=He's very scary.|bracket=6|max_tier=15}}\n\n== History ==\n{{History table\n|ahn=\n{{History|2026/Jul 22|version=none|Changed '''Scary Jerry''' [[Bestiary]] Bracket from {{Green|2}} to {{Green|6}}.|Changed '''Scary Jerry''' [[Bestiary]] Tiers from {{Green|10}} to {{Green|15}}.}}\n{{History|2026/Aug 25|Changed the [[Mob Levels]] and non-item drops.}}\n{{History|2026/Sept 30|Changed the {{MobType|Shielded}} {{Stat|Health}} multiplier in the [[Mob Levels]] calculation from {{Red|1,000x}} to {{Red|100,000x}}, impacting this mob's level and non-item drops.}}\n|beta=\n{{history|0.9.9|[[File:Scary Jerry.png|26px]] Added '''Scary Jerry'''.}}\n{{History|0.27|Changed '''Scary Jerry''' [[Bestiary]] Bracket from {{Green|2}} to {{Green|6}}.|Changed '''Scary Jerry''' [[Bestiary]] Tiers from {{Green|10}} to {{Green|15}}.}}\n{{History|0.27.2|Changed the [[Mob Level]] from {{Level|30}} to {{Level|95}}, {{Coins}} from {{Gold|1}} to {{Gold|31}}, {{Experience}} from {{Dark Aqua|1}} to {{Dark Aqua|104}}, and {{Skill|Combat}} XP from {{Dark Aqua|20}} to {{Dark Aqua|142}}.}}\n}}\n\n== Navigation ==\n{{Nav/Mobs}}\n{{Nav/Events/Spooky Festival}}"
+}

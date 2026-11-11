@@ -1,0 +1,13 @@
+{
+  "title": "Gazer",
+  "pageid": 137714,
+  "revision": 862065,
+  "timestamp": "2026-10-21T19:28:39Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Gazer",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=862065",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Critter\n|stats = {{InfoboxMobStats\n|health = 1\n}}\n|mob_level = 1\n|mob_type = \n*{{mt|Critter}}\n*{{mt|Arcane}}\n|spawn_location = [[Critter Safari]]\n|id = GAZER_1\n}}\nAn '''Gazer''' is an {{Uncommon}} [[Critter]] that can be found in the {{Purple|Haunted}} biome of the {{Zone|Critter Safari}}.\n\n== Spawning ==\nA '''Gazer''' will spawn in front of the player several seconds after they sleep in one of the haunted house's {{Green|4}} beds, found in the {{Purple|Haunted}} biome of the {{Zone|Critter Safari}}.\n\n== Behavior ==\n'''Gazers''' slowly float up and down. If a {{Item|Critter Capsule}} is thrown at a '''Gazer''' and is caught, it dies and drops its loot.\n\n== Drops ==\n{{Mob Drops Table\n|level = 1\n|hunting_xp = 150\n|{{Mob Drops Row\n |drop = Safari Essence\n |count = 4\n |rarity = c\n |chance = 100%\n }}\n|{{Mob Drops Row\n |drop = Gazer Shard\n |count = 1\n |rarity = c\n |chance = 100%\n }}\n|{{Mob Drops Row\n |drop = Emerald Dye\n |count = 1\n |rarity = rng\n |chance = 0.0008%\n }}\n}}\n\n{{Safari Critter Loot Explanation|xp = 150}}\n\n== Game Messages ==\n{|class=\"wikitable\"\n! Message\n! Condition\n|-\n| When a Gazer spawns\n| {{Dialogue|&7&oYou wake up suddenly...}}\n|-\n| Trying to sleep in a bed again\n| {{Dialogue|&7&oYou don't feel like sleeping here again.}}\n|}\n\n== Bestiary ==\n{{Bestiary Entry|section=Critter Safari - Haunted Biome|lore=Whatever it has planned, it's not good.|bracket=Hunting 2|max_tier=10|reward=Hunting}}\n\n== History ==\n{{History table\n|ahn=\n{{History|2026/Jul 10|[[File:Gazer.png|26px]] Added '''Gazer'''.}}\n|beta =\n{{History|0.27|[[File:Gazer.png|26px]] Added '''Gazer'''.}}\n{{History|2026/Aug 11|Changed amount of beds from {{Green|2}} to {{Green|4}}.}}\n}}\n\n== Navigation ==\n{{Nav/Critters}}"
+}

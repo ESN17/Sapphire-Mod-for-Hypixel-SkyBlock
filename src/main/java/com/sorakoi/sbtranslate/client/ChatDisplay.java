@@ -98,6 +98,9 @@ public final class ChatDisplay {
                 if(message.source()!=GuiMessageSource.PLAYER)text=DisplayTranslationHooks.text(raw,"chat");
                 if(text==raw && raw.getString().contains("[SkyHanni]"))text=com.sorakoi.sbtranslate.compat.SkyHanniCompat.chat(raw);
                 if(text==raw)text=com.sorakoi.sbtranslate.compat.OdinCompat.chat(raw);
+                // Still English after every dictionary/API attempt: offer it to the opt-in capture.
+                // Signed player chat is never recorded; party/guild lines are filtered by ChatCapture.
+                if(text==raw && message.source()!=GuiMessageSource.PLAYER) com.sorakoi.sbtranslate.collection.ChatCapture.observe(raw);
             }
         }
         text=SapphireRanks.chat(text);

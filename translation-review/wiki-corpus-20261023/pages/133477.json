@@ -1,0 +1,14 @@
+{
+  "title": "Hunter Dennis",
+  "pageid": 133477,
+  "revision": 828549,
+  "timestamp": "2026-09-01T09:07:35Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Hunter_Dennis",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=828549",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Character\n|location = [[Critter Safari]]\n|minimap_location = critter safari icy biome cave\n|x = -117.5 \n|y = 80 \n|z = -37.5\n|shop = yes\n|location_page_description = Allows the player to obtain a random [[Attribute Shard]].\n\n|location2 = [[Critter Safari]]\n|x2 = -104.5 \n|y2 = 72  \n|z2 = -37.5\n|location_page_description2 = Allows the player to obtain a random [[Attribute Shard]].\n\n|location3 = [[Critter Safari]]\n|x3 = -105.5 \n|y3 = 88   \n|z3 = -6.5\n|location_page_description3 = Allows the player to obtain a random [[Attribute Shard]].\n}}\n'''Hunter Dennis''' is an [[NPC]] located within the {{Zone|Critter Safari}}. They allow the player to obtain a random [[Attribute Shard]] in exchange for a specified item.\n\n== Purpose ==\n'''Huntress Harry''' sells a random [[Attribute Shard]] per {{Zone|Critter Safari}} instance with a random cost.\n{|class=\"wikitable\"\n! Possible Shards\n! Possible Costs\n|-\n| {{Item|Chuckwalla Shard}}, {{Item|Scrappy Shard}}, {{Item|Mantis Shrimp Shard}}, {{Item|Hideyho Shard}}\n| {{Item|Yogi Berry}}, {{Item|Orange Gem}}, {{Item|Bag of Seeds}}, {{Item|Purple Gem}}\n|}\n\n== Dialogue ==\n{| class=\"wikitable\"\n!Condition\n!Dialogue\n|-\n| class=\"ct\" | First Interaction\n| {{Dialogue|\n&e[NPC] &eHunter Dennis&f: &fBrr!\n&e[NPC] &eHunter Dennis&f: &fIt's f-f-f-freezing out here - d-d-don't sit around for t-t-too long!\n&e[NPC] &eHunter Dennis&f: &fI've got a &7<shard>&f you can h-h-have, if you w-w-want it...\n&e[NPC] &eHunter Dennis&f: &fYou can h-h-have it if you give m-m-me a &7<cost>&f...\n&eSelect an option: &a[Trade] &c[No thanks] \n}}\n|-\n| class=\"ct\" | Selecting {{Rmt|&c[No thanks]}}\n| {{Dialogue|\n&e[NPC] &eHunter Dennis&f: &fFair enough.\n&e[NPC] &eHunter Dennis&f: &fWatch your s-s-step...\n}}\n|-\n| class=\"ct\" | Selecting {{Rmt| &a[Trade]}} without the required item\n|{{Dialogue|\n&e[NPC] &eHunter Dennis&f: &fYou don't even have a &7<cost>&f!\n&e[NPC] &eHunter Dennis&f: &fStop trying to s-s-swindle me!\n}}\n|-\n| class=\"ct\" | Selecting {{Rmt| &a[Trade]}} with the required item\n| {{Dialogue|\n&e[NPC] &eHunter Dennis&f: &fLet's g-g-goo! T-t-t-thanks...\n}}\n|-\n| class=\"ct\" | After trading with them\n| {{Dialogue|\n&e[NPC] &eHunter Dennis&f: &fAwesome trade! T-t-thanks!\n}}\n|}\n\n== History ==\n{{History table \n|ahn= \n{{History|2026/July 10|[[File:Hunter Dennis.png|26px]] Added '''Hunter Dennis'''.}}\n|beta = \n{{History|0.27|[[File:Hunter Dennis.png|26px]] Added '''Hunter Dennis'''.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}"
+}

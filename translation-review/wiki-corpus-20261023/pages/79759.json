@@ -1,0 +1,17 @@
+{
+  "title": "Windmill Operator",
+  "pageid": 79759,
+  "revision": 847545,
+  "timestamp": "2026-09-28T15:19:00Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Windmill_Operator",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=847545",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Category:Pages with UIs",
+    "Category:Quests",
+    "Category:Quest giver",
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Character\n|shop=yes\n|location = [[Windmill]]\n|location_page_description = Sells the same items as the {{NPCSprite|Farm Merchant}}.\n|x = 102.5 \n|y = 82\n|z = -282.5\n}}\nThe '''Windmill Operator''' is an [[NPC]] located in the {{zone|Windmill}}. They ask the player to bring them {{Item|String|amount=64}} and {{Item|Cobblestone|amount=64}}. After completing their quest, they unlock the [[Farm Merchant]]'s shop for the player.\n\n__TOC__\n\n== Interface ==\n{{/UI}}\n\n== Dialogue ==\n{{DialogueGrammar}}\n{| class=\"wikitable\"\n!Condition\n!Dialogue\n|-\n| class=\"ct\" | First Interaction\n|{{Dialogue|\n&e[NPC] Windmill Operator&f: Hello there, adventurer!\n&e[NPC] Windmill Operator&f: I work as the operator of this windmill.\n&e[NPC] Windmill Operator&f: However, I seem to have broken some key components in the structure.\n&e[NPC] Windmill Operator&f: Could you help me fix it?\n&e[NPC] Windmill Operator&f: I need a lot of string to fix the pulley system, could you bring me 64 of it?\n}}\n|-\n| class=\"ct\" | Without [[String]]\n|{{Dialogue|\n&e[NPC] Windmill Operator&f: This isn't what I need!\n&e[NPC] Windmill Operator&f: I need a lot of string to fix the pulley system, could you bring me 64 of it?\n}}\n|-\n| class=\"ct\" | Bringing {{Item|String|amount=64}}\n|{{Dialogue|&e[NPC] Windmill Operator&f: I need some cobblestone to correct the base of the windmill, could you bring me 64 of it?}}\n|-\n| class=\"ct\" | Without [[Cobblestone]]\n|{{Dialogue|\n&e[NPC] Windmill Operator&f: This isn't what I need!\n&e[NPC] Windmill Operator&f: I need some cobblestone to correct the base of the windmill, could you bring me 64 of it?\n}}\n|-\n| class=\"ct\" | Bringing {{Item|Cobblestone|amount=64}}\n|{{Dialogue|\n&e[NPC] Windmill Operator&f: Thank you!\n&e[NPC] Windmill Operator&f: Now that my windmill is up and running, I'll open my shop to you so you don't have to go back to the &bVillage&f.\n}}\n|}\n\n== Trivia ==\n* '''Windmill Operator''' shares a stock with {{NPCSprite|Farm Merchant}}, meaning the 640 daily buy limit cannot be bypassed by buying from both merchants.\n\n== History ==\n{{History table\n|ahn=\n{{History|2026/July 15|Added the {{Item|Rookie Farming Axe}} and {{Item|Beginner Agronomy Sack}} to the shop.}}\n|beta=\n{{History|0.11.4|[[File:Windmill Operator.png|26px]] Added '''Windmill Operator'''.}}\n{{History|2023/March 24|Fixed various typos in the '''Windmill Operator'''<nowiki>'</nowiki>s dialogue.}}\n{{history|0.19.1|Fixed '''Windmill Operator''' shop name.}}\n{{History|0.26.1|Added the {{Item|Rookie Farming Axe}} and {{Item|Beginner Agronomy Sack}} to the shop.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}\n[[Category:Farming]]\n[[Category:Quest giver]]\n[[Category:Quests]]"
+}

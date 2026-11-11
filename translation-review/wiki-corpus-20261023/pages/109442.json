@@ -1,0 +1,16 @@
+{
+  "title": "Ludleth",
+  "pageid": 109442,
+  "revision": 816048,
+  "timestamp": "2026-08-11T20:29:33Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Ludleth",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=816048",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Category:Pages with UIs",
+    "Template:Dialogue",
+    "Template:UI"
+  ],
+  "wikitext": "{{Infobox/Character\n|shop = Yes\n|location=[[Farm]]\n|minimap_location = ludleth cave\n|location_page_description = Sells about {{Item|Rose Dragon Pet}} after the player has completed their offer on {{Zone|The Garden}}.\n|x=81.5\n|y=59\n|z=-112.5\n}}\n\n'''Ludleth''' is an [[NPC]] that only appears in {{zone|The Garden}}. They can appear after the player has reached {{Skill|Garden|15}} and served {{Green|100}} unique [[The Garden#Visitor|Visitors]]. Completing their offer allows '''Ludleth''' to move to a cave surrounded by rose bushes in [[Hub Island|The Hub]] and sell the {{Item|Rose Dragon Pet}} for {{Coins|500m}}, {{Copper|20k}}, {{Item|Condensed Helianthus|amount=5}}, {{Item|All-in Aloe|amount=1}}, {{Item|Glasscorn|amount=1}}, {{Item|Devourer|amount=1}}, {{Item|Phantomleaf|amount=1}}, and {{Item|Timestalk|amount=1}}.\n\n== Dialogue ==\n{| class=\"wikitable\"\n! colspan=\"2\" | Condition\n! Random Dialogue\n|-\n| rowspan=\"3\" class=\"ct\" | First Garden visit\n| Request\n| {{Dialogue|&e[NPC] &dLudleth&f: You've amassed quite a fortune. I have an antiquity that might interest you. However, I wouldn't sell it to just &oanybody&r&f, you know? I need something in return. So, what do you say?}}\n|-\n| Completing\n| {{Dialogue|&e[NPC] &dLudleth&f: I'm glad we are in agreement, &7<Player>&f. Meet me in the &aHub&f, we'll discuss our business then.}}\n|-\n| Denying\n| {{Dialogue|&e[NPC] &dLudleth&f: Not everyone can afford my lifestyle!}}\n|-\n| Subsequent Garden visit\n| Request\n| {{Dialogue|&e[NPC] &dLudleth&f: Pleasure seeing you again, &7<Player>&f!}}\n|-\n| rowspan=\"2\" class=\"ct\" | The Hub\n| First interaction\n| {{Dialogue|&e[NPC] Ludleth&f: Pleasure seeing you again, &7<Player>&f. I have a fine offer for you...}}\n|-\n| After Purchasing\n| {{Dialogue|&e[NPC] Ludleth&f: Every rose has its...claws!}}\n|}\n\n== Menu ==\n{{/UI}}\n\n== Trivia ==\n*Ludleth is the only {{Mythic}} visitor to not request unique items.\n\n== History ==\n{{History table\n|ahn=\n{{history|2025/Dec 5|[[File:Ludleth.png|26px]] Added '''Ludleth'''.}}\n{{history|2025/Dec 10|link=none|Fixed '''Ludleth''' not appearing in the [[Hub Island|Hub]].}}\n{{History|2026/Jan 30|Moved '''Ludleth''' from {{coords|14|76|-212}} to {{coords|81.5|59|-112.5}}, due to the redesign of the [[Hub Island]].}}\n|beta=\n{{history|2025/Dec 15|[[File:Ludleth.png|26px]] Added '''Ludleth'''.}}\n{{History|0.24.2|Moved '''Ludleth''' from {{coords|14|76|-212}} to {{coords|81.5|59|-112.5}}, due to the redesign of the [[Hub Island]].}}\n}}"
+}

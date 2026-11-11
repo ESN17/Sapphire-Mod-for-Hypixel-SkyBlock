@@ -1,0 +1,15 @@
+{
+  "title": "Aspiring Leap",
+  "pageid": 79325,
+  "revision": 815470,
+  "timestamp": "2026-08-11T20:13:12Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Aspiring_Leap",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=815470",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Pages with UIs",
+    "Template:Dialogue",
+    "Template:UI"
+  ],
+  "wikitext": "{{Infobox/Item\n|image = Aspiring Leap.png\n|type = Dungeon Item\n|rarity = Epic\n|enchantable = False\n|reforgeable = False\n|sell = 16000\n|id = ASPIRING_LEAP\n|raw_materials = 80 Spirit Leap\n|mat_cost_bazaar = 80 Spirit Leap\n}}\n'''Aspiring Leap''' is an {{Epic}} [[Dungeon]] Item that can be crafted with {{Item|Spirit Leap|amount=80}}s. It allows a player to teleport to another [[Co-op]] member on their [[Private Island]].\n\n== Obtaining ==\n=== Crafting ===\n{{Crafting Recipe Table\n|{{Enchanted Crafting Recipe Row\n |Input = Spirit Leap, 16\n |Output = Aspiring Leap\n }}\n}}\n\n== Usage ==\n{{ItemInfo\n|rarity = epic\n|item_ability_name = Aspiring Leap\n|item_ability_activation = RIGHT CLICK\n|item_ability_description = Allows you to teleport to co-op members on your private island!\n|item_ability_cooldown = 5s\n}}\nThe '''Aspiring Leap''' can only be used on a private island.\n\n== Interface ==\n{{/UI}}\n\n== Game Messages ==\n{|class=\"wikitable\"\n! Message\n! Condition\n|-\n| {{Dialogue|&cYou can only use this item on your private island!}}\n| When used outside the {{Zone|Private Island}}\n|}\n\n== Trivia ==\n* When first added, if a player were to throw this item, it would act as a normal [[Ender Pearl]]. This has been fixed.\n*If you choose to teleport to yourself, the text: \"In theory, you are constantly teleporting to yourself.\" will appear in chat.\n\n== History ==\n{{History table\n|beta=\n{{History|2021/Apr 17|link=none|[[File:Enchanted Ender Pearl.png|26px]] Added '''Aspiring Leap'''. If thrown, it acts as a regular {{Item|Ender Pearl}}.}}\n{{History|0.11.4|'''Aspiring Leap''' now acts as intended: teleporting you to your co-op member(s).}}\n{{History|2022/May 11|[[File:Aspiring Leap.png|26px]] Retextured '''Aspiring Leap'''.}}\n}}\n\n== Navigation ==\n{{Nav/Tools/Other}}"
+}

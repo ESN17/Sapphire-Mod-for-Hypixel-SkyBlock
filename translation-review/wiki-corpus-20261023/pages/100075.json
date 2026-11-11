@@ -1,0 +1,18 @@
+{
+  "title": "Gunther",
+  "pageid": 100075,
+  "revision": 823773,
+  "timestamp": "2026-08-25T13:44:20Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Gunther",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=823773",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Category:Pages with UIs",
+    "Category:Quests",
+    "Category:Quest giver",
+    "Template:Dialogue",
+    "Template:UI"
+  ],
+  "wikitext": "{{Infobox/Character\n|location = [[West Village]]\n|location_page_description = Allows the player to participate in the [[Rift Race]].\n|x = -68.718\n|y = 71.0625 \n|z = -61.5\n}}\n'''Gunther''' is an [[NPC]] located in the {{zone|West Village}}. They task the player with completing the [[Rift Race]].\n\n== Interface ==\n{{/UI}}\n\n== Dialogue ==\n{| class=\"wikitable\"\n!Condition\n!Dialogue\n|-\n| class=\"ct\" | Attempting to start race before talking to '''Gunther'''\n|{{Dialogue|&e[NPC] &3Gunther&f: Hey! Come talk to me over here! I'll tell you all about racing!}}\n|-\n| class=\"ct\" | First interaction\n|{{Dialogue|\n&e[NPC] &3Gunther&f: There's nothing like island racing!\n&e[NPC] &3Gunther&f: I've traveled many uh... dimensions and this is my favorite to race on. Want to try?\n&e[NPC] &3Gunther&f: Start the race by walking over the pressure plate. If you finish in under 60s, you get something!\n}}\n|-\n| class=\"ct\" | Not racing<br>{{DarkAqua|60s}} {{DG|Race}}\n|{{Dialogue|&e[NPC] &3Gunther&f: Run over the pressure plate to start racing! Try to finish within &360s&f!}}\n|-\n| class=\"ct\" | While racing<br>{{DarkAqua|60s}} {{DG|Race}}\n|{{Dialogue|&e[NPC] &3Gunther&f: How do you suppose you'll beat &360s&f by talking to me?}}\n|-\n| class=\"ct\" | Completing race in under {{DarkAqua|60s}}\n|{{Dialogue|\n&e[NPC] &3Gunther&f: Nicely done, &7[player]&f!\n&e[NPC] &3Gunther&f: Take this Dark Pebble. It's like a Polished Pebble, but not polished.\n&e[NPC] &3Gunther&f: Try to beat &335s&f!\n}}\n|-\n| class=\"ct\" | Not racing<br>{{DarkAqua|35s}} {{DG|Race}}\n|{{Dialogue|&e[NPC] &3Gunther&f: Real challenge! Can you finish the race in &335s&r or less?}}\n|-\n| class=\"ct\" | While racing<br>{{DarkAqua|35s}} {{DG|Race}}\n|{{Dialogue|&e[NPC] &3Gunther&f: How do you suppose you'll beat &335s&f by talking to me?}}\n|-\n| class=\"ct\" | Completing race in under {{DarkAqua|35s}}\n|{{Dialogue|\n&e[NPC] &3Gunther&f: Congratulations, &7[player]&f!\n&e[NPC] &3Gunther&f: Here's a rare piece of &9Gunthesizer Lichen&r. Maybe you can do something with it.\n}}\n|-\n| class=\"ct\" | After completing the race\n|{{Dialogue|&e[NPC] &3Gunther&f: Lost something?}}\n|}\n\n== Trivia ==\n* '''Gunther''''s dialogue is similar to {{NPCSprite|Gustave}}'s dialogue.\n\n== History ==\n{{History table\n|ahn=\n{{History|2023/May 4|[[File:Gunther.png|26px]] Added '''Gunther'''.}}\n|beta=\n{{History|0.19|[[File:Gunther.png|26px]] Added '''Gunther'''.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}\n[[Category:Racing]]\n[[Category:Quest giver]]\n[[Category:Quests]]"
+}

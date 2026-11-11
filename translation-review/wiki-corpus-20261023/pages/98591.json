@@ -1,0 +1,15 @@
+{
+  "title": "Shifted",
+  "pageid": 98591,
+  "revision": 814710,
+  "timestamp": "2026-08-11T19:50:05Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Shifted",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=814710",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Category:Pages with UIs",
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Character\n|shop = Yes\n|location = [[Shifted Tavern]]\n|location_page_description = Sells elixirs that grant various [[Stats]].\n|x = -120.5 \n|y = 73 \n|z = 174.5\n}}\n{{For|the NPC in the [[Hub]] that sells [[brews]]|Shifty}}\n'''Shifted''' is an [[NPC]] located in the {{Zone|Shifted Tavern}}.\n\n== Interface ==\n{{/UI}}\n\n== Dialogue ==\n{| class=\"wikitable\"\n!Condition\n!Dialogue\n|-\n| class=\"ct\" | First Interaction\n|{{Dialogue|\n&e[NPC] Shifted&f: The underworld took control of my tavern in the real world.\n&e[NPC] Shifted&f: It's great! Business has been booming here!\n&e[NPC] Shifted&f: Plus, I get to be comfortable in my own skin.\n}}\n|-\n| class=\"ct\" | Purchasing {{Item|Stability Elixir}}\n|{{Dialogue|\n&e[NPC] Shifted&f: Oops! That elixir is &csold out&f!\n&e[NPC] Shifted&f: I do happen to know a guy who knows a guy who knows the &bsupplier&r.\n&e[NPC] Shifted&f: For &d20 Motes&f, I can give you their name.\n&eSelect an option: &a[Buy tip]\n}}\n|-\n| class=\"ct\" | Selecting {{Rmt|&a[Buy tip]}}\n|{{Dialogue|&e[NPC] Shifted&f: I heard that &aAlabaster &rmight know who the &bsupplier &ris.}}\n|}\n\n== History ==\n{{History table\n|ahn=\n{{history|2023/May 4|[[File:Shifted.png|26px]] Added '''Shifted'''.}}\n|beta=\n{{history|2023/April 21|link=https://discord.com/channels/720585022624628797/751480380632334457/1098967430925135963|[[File:Shifted.png|26px]] Leaked '''Shifted'''.}}\n{{History|0.19|Added '''Shifted'''.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}"
+}

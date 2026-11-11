@@ -36,15 +36,15 @@ class CompleteTranslationEditorTest {
     @Test void bundledEditorIncludesAllDictionaryFamilies() throws Exception {
         var entries=TranslationEditorStore.entries(Path.of("src/main/resources/defaults"));
         assertTrue(entries.size()>60000);
-        for(String family:new String[]{"community-skyzh.json","community-wiki/","gui-menus.json","tooltip-paragraphs.json","system-messages.json","items/","templates.json","runes.json","dyes.json"})assertTrue(entries.stream().anyMatch(e->e.file().startsWith(family)),family);
+        for(String family:new String[]{"community-sapphire.json","community-wiki/","gui-menus.json","tooltip-paragraphs.json","system-messages.json","items/","templates.json","runes.json","dyes.json"})assertTrue(entries.stream().anyMatch(e->e.file().startsWith(family)),family);
     }
     @Test void editingNumericCommunityTemplateAlsoUpdatesItsExactExample() throws Exception {
-        write("community-skyzh.json","""
+        write("community-sapphire.json","""
             {"schemaVersion":1,"entries":[{"scope":"npc","npc":"Jerry","source":"Bring 10 apples.","translation":"带来 10 个苹果。","numericSource":"Bring {value} apples.","numericTranslation":"带来 {value} 个苹果。","styleMappings":{}}]}
             """);
         var entry=TranslationEditorStore.entries(root).getFirst();assertTrue(entry.source().contains("{value}"));
         TranslationEditorStore.save(root,entry,"请交给我 {value} 个苹果。");
-        var index=CommunityTranslationEngine.load(root.resolve("translations/community-skyzh.json"));
+        var index=CommunityTranslationEngine.load(root.resolve("translations/community-sapphire.json"));
         assertEquals("请交给我 10 个苹果。",index.get("npc","Jerry","Bring 10 apples.").translation());
         assertEquals("请交给我 20 个苹果。",index.candidates("npc:Jerry","Bring 20 apples.").getFirst().template().apply("Bring 20 apples.").text());
     }

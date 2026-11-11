@@ -1,0 +1,16 @@
+{
+  "title": "Banker Broadjaw",
+  "pageid": 77887,
+  "revision": 812615,
+  "timestamp": "2026-08-11T18:55:28Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Banker_Broadjaw",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=812615",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Category:Pages with UIs",
+    "Template:Dialogue",
+    "Template:UI"
+  ],
+  "wikitext": "{{Infobox/Character\n|location = [[Dwarven Village]]\n|location_page_description = Allows the player to access the [[Bank]].\n|x = 13.5 \n|y = 201 \n|z = -148.5\n}}\n'''Banker Broadjaw''' is an [[NPC]] located in the {{zone|Dwarven Village}}. They grant the player access to the [[Bank|Banking System]].\n\n== Interface ==\n{{:Bank/UI}}\n\n== Dialogue ==\n{| class=\"wikitable\"\n! colspan=\"2\" |Condition\n!Dialogue\n|-\n| colspan=\"2\" class=\"ct\" |First Interaction\n| style=\"text-align: left;\" |{{Dialogue|\n&e[NPC] &6Banker Broadjaw&f: You're a long way from home!\n&e[NPC] &6Banker Broadjaw&f: Luckily your &6coins &fare safe with me! Store them here before venturing deep into the depths of the &2Dwarven Mines&f!\n}}\n|-\n| class=\"ct\" rowspan=\"3\" |{{zone|The Garden}}\n| class=\"ct\" |None\n| style=\"text-align: left;\" |{{Dialogue|&e[NPC] &aBanker Broadjaw&f: Standing in that bank all day. Just me and the dwarves. But they are either all business, or drunk. Or both! I need better company!}}\n|-\n| class=\"ct\" |Completing\n| style=\"text-align: left;\" |{{Dialogue|&e[NPC] &aBanker Broadjaw&f: Oh what a lovely specimen this is. I wonder, how should I name you?}}\n|-\n| class=\"ct\" |Denying\n| style=\"text-align: left;\" |{{Dialogue|&e[NPC] &aBanker Broadjaw&f: Well, maybe I will be able to understand the burping dwarves if I try hard enough.}}\n|}\n\n== Banking System ==\n{{Main|Bank}}\nRight-clicking '''Banker Broadjaw''' will open the {{zone|Bank}} interface. The player will be presented with several options, consisting of the ability to deposit and withdraw {{c}}, viewing previous [[Bank|Banking]] activity, and upgrading the [[Bank]] account.\n\n{{C|alt=Coins}} stored in the Bank are not lost when the player [[Death|dies]].\n\n=== Bank Upgrades ===\nPlayers are able to upgrade their bank account with {{C}} and {{Item|Enchanted Gold Block}}s after meeting the respective requirement in the [[Gold]] Collection. Upgrading the [[Bank]] account increases the maximum amount of {{C}} able to be stored in the bank, and increases the maximum interest able to be gained. Upgrading Bank accounts also rewards {{SkyBlock Experience}}.\n\nAt least {{C|10m}} must be stored in the bank and the purse combined before the upgrade screen is unlocked.\n\n== History ==\n{{History table\n|beta=\n{{History|0.11|[[File:Banker Broadjaw.png|26px]] Added '''Banker Broadjaw'''.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}"
+}

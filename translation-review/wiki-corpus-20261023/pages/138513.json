@@ -1,0 +1,13 @@
+{
+  "title": "Frog's Spirit",
+  "pageid": 138513,
+  "revision": 861513,
+  "timestamp": "2026-10-21T01:09:38Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Frog%27s_Spirit",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861513",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Redirect|Leapfrog|the Trophy Frog with a similar name|Trophy Frogs}}\n{{Infobox/Item\n|type = Item\n|rarity = u\n|merchant = Rosemary\n|buy = {{Item|Forest Essence|amount=5000}}\n|mat_cost_bazaar =\n*5000 Forest Essence\n|tradeable = y\n|auctionable = n\n|id = FROGS_SPIRIT_SCROLL\n}}\nA '''Frog's Spirit''' is an {{Uncommon}} [[Ability Scroll]].\n\n== Obtaining ==\n'''Frog's Spirit''' can be purchased from the [[Forest Essence Shop]] for {{Item|Forest Essence|amount=5000}}.\n\n== Usage ==\nA '''Frog's Spirit''' can be applied to {{Item|Canopy Sandals}}, {{Item|Fig Striders}}, or {{Item|Helix Boots}} in an anvil to give them the {{AN|Leapfrog}} ability.\n\n{{AN|Leapfrog}} allows the player to double jump by pressing jump in midair. Double jumps can be used repeatably without landing to fly. Using {{AN|Leapfrog}} costs {{Stat|Mana|25}}. Using {{AN|Leapfrog}} also plays a croaking sound ([[mcw:Frog#Sounds|{{Code|entity.frog.ambient}}]]) and spawns a ring of green particles. \n\nAfter being applied, a '''Frog's Spirit''' can be removed using [[The Hex]]. Player's will not receive a refund and the '''Frog's Spirit''' will be destroyed.\n\n== Game Message ==\n{| class=\"wikitable\"\n! Condition\n! Guaranteed Message\n|-\n| class=\"ct\" | Attempting to use {{AN|Leapfrog}} while not on a Foraging Island\n| {{Dialogue|&cYou can only use the &aLeapfrog &cability while on &2Foraging Islands&c!}}\n|}\n\n== History ==\n{{History table\n|ahn=\n{{History|2026/Aug 25|[[File:Frog's Spirit.png|26px]] Added '''Frog's Spirit'''.}}\n{{History|2026/Sep 21|Added ability to remove '''Frog's Spirit''' using [[The Hex]].|Added croaking sound and adjusted particles.}}\n|beta=\n{{History|0.27.2|[[File:Frog's Spirit.png|26px]] Added '''Frog's Spirit'''.}}\n}}"
+}

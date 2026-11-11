@@ -44,6 +44,7 @@ public final class Sapphire implements ClientModInitializer {
     private static final DictionaryUpdateNotice UPDATE_NOTICE=new DictionaryUpdateNotice();
     private static String dictionaryStatus="尚未检查";
     private static boolean remoteDictionary;
+    private static boolean migrateCommunityCorpus;
     private static java.util.concurrent.CompletableFuture<String> startup;
     private static long configRevision;
     public static UntranslatedCollector COLLECTOR;
@@ -61,6 +62,8 @@ public final class Sapphire implements ClientModInitializer {
         loadApiSettings();
         COLLECTOR=new UntranslatedCollector(ROOT.resolve("untranslated"),CONFIG.maxRecords,CONFIG.maxQueue,CONFIG.maxDiskMegabytes*1024L*1024L);
         COLLECTOR.enabled(CONFIG.collectUntranslated);
+        com.sorakoi.sbtranslate.collection.ChatCapture.configure(CONFIG);
+        Runtime.getRuntime().addShutdownHook(new Thread(com.sorakoi.sbtranslate.collection.ChatCapture::shutdown,"sapphire-capture-shutdown"));
         lastStatus="词典正在后台加载，完成前暂时显示原文";
         startup=loadAsync(true);
         com.sorakoi.sbtranslate.client.OutgoingChatTranslation.register();
@@ -70,13 +73,15 @@ public final class Sapphire implements ClientModInitializer {
                 (net.minecraft.server.packs.resources.ResourceManagerReloadListener)resources->{ItemTranslationService.DISPLAY_CACHE.clear();com.sorakoi.sbtranslate.client.EntityNameDisplay.clear();ChatDisplay.invalidateLayouts();});
         // Message events and ItemStack tooltip access remain raw for other mods.
         // Translation is applied only to HUD/container display copies.
-        ClientPlayConnectionEvents.DISCONNECT.register((handler,client)->{com.sorakoi.sbtranslate.client.SapphireRanks.disconnect();com.sorakoi.sbtranslate.client.ChatDisplay.clear();UPDATE_NOTICE.disconnect();CONTEXT.reset();LLM.reset();OUTGOING.reset();ItemTranslationService.clearCaches();com.sorakoi.sbtranslate.client.EntityNameDisplay.clear();});
+        ClientPlayConnectionEvents.DISCONNECT.register((handler,client)->{com.sorakoi.sbtranslate.collection.ChatCapture.stop();com.sorakoi.sbtranslate.client.SapphireRanks.disconnect();com.sorakoi.sbtranslate.client.ChatDisplay.clear();UPDATE_NOTICE.disconnect();CONTEXT.reset();LLM.reset();OUTGOING.reset();ItemTranslationService.clearCaches();com.sorakoi.sbtranslate.client.EntityNameDisplay.clear();});
         ClientPlayConnectionEvents.JOIN.register((handler,sender,client)->{CONTEXT.reset();LLM.reset();ChatDisplay.clear();OUTGOING.reset();com.sorakoi.sbtranslate.client.SapphireRanks.join(client);});
         ClientTickEvents.END_CLIENT_TICK.register(client->{
             com.sorakoi.sbtranslate.client.ChatDisplay.tick();
             com.sorakoi.sbtranslate.client.OnlineHudTranslation.tick();
             com.sorakoi.sbtranslate.client.SapphireRanks.tick(client);
             CONTEXT.tick(client);
+            if(CONTEXT.confirmed() && CONFIG.collectChatCapture && client.player!=null)
+                com.sorakoi.sbtranslate.collection.ChatCapture.startSession(client.getUser().getName());
             var connection=client.getConnection();
             if(client.player!=null && connection!=null && connection.getServerData()!=null) {
                 String notice=UPDATE_NOTICE.poll(connection.getConnection(),connection.getServerData().ip);
@@ -86,29 +91,14 @@ public final class Sapphire implements ClientModInitializer {
                 var slots=client.player.containerMenu.slots;
                 for(int i=0;i<Math.min(slots.size(),180);i++) ItemTranslationService.collectStack(slots.get(i).getItem());
             }
+            // Flush the chat capture every five minutes so a hard exit loses almost nothing.
+            if(CONFIG.collectChatCapture && ticks%6000==0) com.sorakoi.sbtranslate.collection.ChatCapture.rotate();
         });
-        ClientLifecycleEvents.CLIENT_STOPPING.register(client->{if(com.sorakoi.sbtranslate.collection.DungeonCapture.INSTANCE!=null)com.sorakoi.sbtranslate.collection.DungeonCapture.INSTANCE.close();com.sorakoi.sbtranslate.client.SapphireRanks.close();RELOAD_WORKER.shutdownNow();OUTGOING.close();LLM.close();COLLECTOR.close(); if(!COLLECTOR.error().isEmpty()) LOGGER.warn("{}",COLLECTOR.error());});
-        ClientCommandRegistrationCallback.EVENT.register((dispatcher,access)->dispatcher.register(literal("sapphire")
-            .executes(c->{Minecraft.getInstance().schedule(()->Minecraft.getInstance().gui.setScreen(new SapphireScreen(Minecraft.getInstance().gui.screen())));return 1;})
-            .then(literal("api").executes(c->{Minecraft.getInstance().schedule(()->Minecraft.getInstance().gui.setScreen(new SapphireApiScreen(Minecraft.getInstance().gui.screen())));return 1;}))
-            .then(literal("edit").executes(c->{Minecraft.getInstance().schedule(()->Minecraft.getInstance().gui.setScreen(new TranslationEditorScreen(Minecraft.getInstance().gui.screen())));return 1;}))
-            .then(literal("reload").executes(c->{reloadAsync().thenAccept(s->c.getSource().sendFeedback(SapphireNotifications.status(s)));c.getSource().sendFeedback(SapphireNotifications.status("正在后台加载词典..."));return 1;}))
-            .then(literal("update").executes(c->{updateDictionaryAsync().thenAccept(s->c.getSource().sendFeedback(SapphireNotifications.status(s)));c.getSource().sendFeedback(SapphireNotifications.status("正在后台检查译名库更新..."));return 1;}))
-            .then(literal("status").executes(c->{c.getSource().sendFeedback(SapphireNotifications.status(status()));return 1;}))
-            .then(literal("toggle").executes(c->{CONFIG.enabled=!CONFIG.enabled;saveConfig();c.getSource().sendFeedback(SapphireNotifications.status(status()));return 1;}))
-            .then(literal("force")
-                .then(literal("on").executes(c->{CONFIG.forceTranslation=true;saveConfig();c.getSource().sendFeedback(SapphireNotifications.status(status()));return 1;}))
-                .then(literal("off").executes(c->{CONFIG.forceTranslation=false;saveConfig();c.getSource().sendFeedback(SapphireNotifications.status(status()));return 1;})))
-            .then(literal("debug").executes(c->{CONFIG.debug=!CONFIG.debug;saveConfig();c.getSource().sendFeedback(SapphireNotifications.status("调试："+CONFIG.debug+"；"+status()));return 1;}))
-            .then(literal("dungeon").executes(c->{var capture=com.sorakoi.sbtranslate.collection.DungeonCapture.INSTANCE;c.getSource().sendFeedback(SapphireNotifications.status(capture==null?"此版本未启用地牢采集":capture.status()));return 1;})
-                .then(literal("on").executes(c->{var capture=com.sorakoi.sbtranslate.collection.DungeonCapture.INSTANCE;if(capture!=null)capture.enabled(true);c.getSource().sendFeedback(SapphireNotifications.status(capture==null?"此版本未启用地牢采集":capture.status()));return 1;}))
-                .then(literal("off").executes(c->{var capture=com.sorakoi.sbtranslate.collection.DungeonCapture.INSTANCE;if(capture!=null)capture.enabled(false);c.getSource().sendFeedback(SapphireNotifications.status(capture==null?"此版本未启用地牢采集":capture.status()));return 1;})))
-            .then(literal("untranslated").executes(c->{c.getSource().sendFeedback(SapphireNotifications.status("收集："+CONFIG.collectUntranslated+"，记录："+COLLECTOR.size()+"，丢弃："+COLLECTOR.dropped()+" "+COLLECTOR.error()));return 1;})
-                .then(literal("on").executes(c->{CONFIG.collectUntranslated=true;saveConfig();c.getSource().sendFeedback(SapphireNotifications.status("收集已开启，仅在确认 SkyBlock 时运行"));return 1;}))
-                .then(literal("off").executes(c->{CONFIG.collectUntranslated=false;saveConfig();c.getSource().sendFeedback(SapphireNotifications.status("收集已关闭"));return 1;}))
-                .then(literal("export").executes(c->{COLLECTOR.flush().thenRun(()->Minecraft.getInstance().execute(()->c.getSource().sendFeedback(SapphireNotifications.status(COLLECTOR.error().isEmpty()?"保存完成。":"保存失败："+COLLECTOR.error()))));return 1;}))
-                .then(literal("clear").executes(c->{CONFIG.collectUntranslated=false;saveConfig();COLLECTOR.clear();c.getSource().sendFeedback(SapphireNotifications.status("收集已关闭，正在清除本地收集记录"));return 1;})))));
+        ClientLifecycleEvents.CLIENT_STOPPING.register(client->{com.sorakoi.sbtranslate.collection.ChatCapture.shutdown();if(com.sorakoi.sbtranslate.collection.DungeonCapture.INSTANCE!=null)com.sorakoi.sbtranslate.collection.DungeonCapture.INSTANCE.close();com.sorakoi.sbtranslate.client.SapphireRanks.close();RELOAD_WORKER.shutdownNow();OUTGOING.close();LLM.close();COLLECTOR.close(); if(!COLLECTOR.error().isEmpty()) LOGGER.warn("{}",COLLECTOR.error());});
+        ClientCommandRegistrationCallback.EVENT.register((dispatcher,access)->registerCommands(dispatcher));
         ClientLifecycleEvents.CLIENT_STARTED.register(client->startup.thenAccept(result->client.execute(()->{
+            if(com.sorakoi.sbtranslate.client.CaptureSmokeTest.enabled()){com.sorakoi.sbtranslate.client.CaptureSmokeTest.start(client);return;}
+            if(!CONFIG.privacyAccepted){LOGGER.info("SAPPHIRE_CONSENT_PENDING");Minecraft.getInstance().gui.setScreen(new com.sorakoi.sbtranslate.client.ConsentScreen(Minecraft.getInstance().gui.screen()));}
             if(!initialized){LOGGER.error("Sapphire startup dictionaries unavailable: {}",result);
                 if(Boolean.getBoolean("sapphire.smoke") || Boolean.getBoolean("sapphire.apiSmoke") || Boolean.getBoolean("sapphire.dictionarySmoke"))client.stop();
                 return;
@@ -163,7 +153,7 @@ public final class Sapphire implements ClientModInitializer {
         ChatDisplay.invalidateLayouts();
         var client=Minecraft.getInstance();if(client!=null && client.gui!=null)client.gui.hud.getChat().rescaleChat();
         if(!CONFIG.enabled || !CONFIG.chat || !CONFIG.translationAllowed(CONTEXT.confirmed()))LLM.reset();
-        try{CONFIG.save(ROOT);COLLECTOR.enabled(CONFIG.collectUntranslated);}catch(IOException e){lastStatus="配置保存失败";LOGGER.warn("{}",lastStatus);}
+        try{CONFIG.save(ROOT);COLLECTOR.enabled(CONFIG.collectUntranslated);com.sorakoi.sbtranslate.collection.ChatCapture.configure(CONFIG);}catch(IOException e){lastStatus="配置保存失败";LOGGER.warn("{}",lastStatus);}
     }
     private static void loadApiSettings() {
         try {
@@ -188,6 +178,7 @@ public final class Sapphire implements ClientModInitializer {
                 if(prepareDefaults) {
                     new DictionaryUpdater(ROOT,new DictionaryTransport.Http()).recover();
                     remoteDictionary=DictionaryUpdater.installed(ROOT);
+                    migrateCommunityCorpus=remoteDictionary && !Files.isRegularFile(ROOT.resolve("translations/community-sapphire.json"));
                     installDefaults();
                 }
                 long installed=System.nanoTime();
@@ -203,6 +194,7 @@ public final class Sapphire implements ClientModInitializer {
                     // Do not undo settings changed in the UI while loading.
                     if(configRevision==requestedConfig){CONFIG=config;if(COLLECTOR!=null)COLLECTOR.enabled(config.collectUntranslated);}
                     if(prepareDefaults)dictionaryStatus=installedVersion;
+                    com.sorakoi.sbtranslate.collection.ChatCapture.retryPending();
                     initialized=true;
                     lastStatus="词典已加载："+translations.itemCount()+" 个物品";
                     LOGGER.info("Sapphire dictionary load: install={} ms, translations={} ms, metadata={} ms, total={} ms, items={}",
@@ -226,7 +218,7 @@ public final class Sapphire implements ClientModInitializer {
                 var hashes=new java.util.HashMap<String,String>();object.entrySet().forEach(e->hashes.put(e.getKey(),e.getValue().getAsString()));upgradeHashes=java.util.Map.copyOf(hashes);
             }
         }
-        for(String name:List.of("gui-menus","name-modifiers","tooltip-labels","tooltip-paragraphs","runes","dyes","locations","skyblock-months","sidebar-formats","bazaar-events","tablist","mining-events","system-messages","death-messages","creature-messages","entity-names","entity-labels","entity-menus","community-skyzh","community-wiki"))installDefault("translations/"+name+".json");
+        for(String name:List.of("gui-menus","name-modifiers","tooltip-labels","tooltip-paragraphs","runes","dyes","locations","skyblock-months","sidebar-formats","bazaar-events","tablist","mining-events","system-messages","death-messages","creature-messages","entity-names","entity-labels","entity-menus","community-wiki"))installDefault("translations/"+name+".json");
         installDefault("third-party/skyzh-LICENSE.txt");
         installDefault("third-party/wiki-NOTICE.txt");
         try(var in=Sapphire.class.getResourceAsStream("/defaults/translations/community-wiki.json")) {
@@ -237,6 +229,8 @@ public final class Sapphire implements ClientModInitializer {
                 installDefault("translations/community-wiki/"+name);
             }
         }
+        // Install the new corpus last so an interrupted migration retries the Wiki and menu files.
+        installDefault("translations/community-sapphire.json");
         for(String file:List.of("translations/global.json","translations/templates.json","translations/items/ASPECT_OF_THE_END.json",
                 "translations/items/RECOMBOBULATOR_3000.json","translations/items/DRAGON_SCALE.json","translations/items/PET_ITEM_QUICK_CLAW.json",
                 "translations/items/ENDERMAN;0.json","translations/items/ENDERMAN;1.json","translations/items/ENDERMAN;2.json","translations/items/ENDERMAN;3.json","translations/items/ENDERMAN;4.json","translations/items/ENDERMAN;5.json",
@@ -254,7 +248,9 @@ public final class Sapphire implements ClientModInitializer {
         }
     }
     private static void installDefault(String file) throws IOException {
-        if(remoteDictionary && file.startsWith("translations/"))return;
+        if(remoteDictionary && file.startsWith("translations/") &&
+                !(migrateCommunityCorpus && (file.startsWith("translations/community-") ||
+                        file.equals("translations/gui-menus.json") || file.equals("translations/entity-menus.json"))))return;
         BundledDictionaryInstaller.install(ROOT,file,()->{
             try(InputStream in=Sapphire.class.getResourceAsStream("/defaults/"+file)) {
                 if(in==null)throw new IOException("Missing bundled dictionary: "+file);
@@ -262,4 +258,47 @@ public final class Sapphire implements ClientModInitializer {
             }
         },upgradeHashes.get(file),bundleHashes.get(file));
     }
+
+        private static void registerCommands(com.mojang.brigadier.CommandDispatcher<net.fabricmc.fabric.api.client.command.v2.FabricClientCommandSource> dispatcher) {
+    var root=literal("sapphire");
+    root.executes(c->{Minecraft.getInstance().schedule(()->Minecraft.getInstance().gui.setScreen(new SapphireScreen(Minecraft.getInstance().gui.screen())));return 1;});
+    root.then(literal("api").executes(c->{Minecraft.getInstance().schedule(()->Minecraft.getInstance().gui.setScreen(new SapphireApiScreen(Minecraft.getInstance().gui.screen())));return 1;}));
+    root.then(literal("edit").executes(c->{Minecraft.getInstance().schedule(()->Minecraft.getInstance().gui.setScreen(new TranslationEditorScreen(Minecraft.getInstance().gui.screen())));return 1;}));
+    root.then(literal("reload").executes(c->{reloadAsync().thenAccept(s->c.getSource().sendFeedback(SapphireNotifications.status(s)));c.getSource().sendFeedback(SapphireNotifications.status("正在后台加载词典..."));return 1;}));
+    root.then(literal("update").executes(c->{updateDictionaryAsync().thenAccept(s->c.getSource().sendFeedback(SapphireNotifications.status(s)));c.getSource().sendFeedback(SapphireNotifications.status("正在后台检查译名库更新..."));return 1;}));
+    root.then(literal("status").executes(c->{c.getSource().sendFeedback(SapphireNotifications.status(status()));return 1;}));
+    root.then(literal("toggle").executes(c->{CONFIG.enabled=!CONFIG.enabled;saveConfig();c.getSource().sendFeedback(SapphireNotifications.status(status()));return 1;}));
+    var force=literal("force");
+    force.then(literal("on").executes(c->{CONFIG.forceTranslation=true;saveConfig();c.getSource().sendFeedback(SapphireNotifications.status(status()));return 1;}));
+    force.then(literal("off").executes(c->{CONFIG.forceTranslation=false;saveConfig();c.getSource().sendFeedback(SapphireNotifications.status(status()));return 1;}));
+    root.then(force);
+    root.then(literal("debug").executes(c->{CONFIG.debug=!CONFIG.debug;saveConfig();c.getSource().sendFeedback(SapphireNotifications.status("调试："+CONFIG.debug+"；"+status()));return 1;}));
+    var dungeon=literal("dungeon");
+    dungeon.executes(c->{var capture=com.sorakoi.sbtranslate.collection.DungeonCapture.INSTANCE;c.getSource().sendFeedback(SapphireNotifications.status(capture==null?"此版本未启用地牢采集":capture.status()));return 1;});
+    dungeon.then(literal("on").executes(c->{var capture=com.sorakoi.sbtranslate.collection.DungeonCapture.INSTANCE;if(capture!=null)capture.enabled(true);c.getSource().sendFeedback(SapphireNotifications.status(capture==null?"此版本未启用地牢采集":capture.status()));return 1;}));
+    dungeon.then(literal("off").executes(c->{var capture=com.sorakoi.sbtranslate.collection.DungeonCapture.INSTANCE;if(capture!=null)capture.enabled(false);c.getSource().sendFeedback(SapphireNotifications.status(capture==null?"此版本未启用地牢采集":capture.status()));return 1;}));
+    root.then(dungeon);
+    var untranslated=literal("untranslated");
+    untranslated.executes(c->{c.getSource().sendFeedback(SapphireNotifications.status("收集："+CONFIG.collectUntranslated+"，记录："+COLLECTOR.size()+"，丢弃："+COLLECTOR.dropped()+" "+COLLECTOR.error()));return 1;});
+    untranslated.then(literal("on").executes(c->{CONFIG.collectUntranslated=true;saveConfig();c.getSource().sendFeedback(SapphireNotifications.status("收集已开启，仅在确认 SkyBlock 时运行"));return 1;}));
+    untranslated.then(literal("off").executes(c->{CONFIG.collectUntranslated=false;saveConfig();c.getSource().sendFeedback(SapphireNotifications.status("收集已关闭"));return 1;}));
+    untranslated.then(literal("export").executes(c->{COLLECTOR.flush().thenRun(()->Minecraft.getInstance().execute(()->c.getSource().sendFeedback(SapphireNotifications.status(COLLECTOR.error().isEmpty()?"保存完成。":"保存失败："+COLLECTOR.error()))));return 1;}));
+    untranslated.then(literal("clear").executes(c->{CONFIG.collectUntranslated=false;saveConfig();COLLECTOR.clear();c.getSource().sendFeedback(SapphireNotifications.status("收集已关闭，正在清除本地收集记录"));return 1;}));
+    root.then(untranslated);
+    var capture=literal("capture");
+    capture.executes(c->{c.getSource().sendFeedback(SapphireNotifications.status(com.sorakoi.sbtranslate.collection.ChatCapture.status()));return 1;});
+    capture.then(literal("on").executes(c->{CONFIG.collectChatCapture=true;saveConfig();c.getSource().sendFeedback(SapphireNotifications.status("聊天漏译采集已开启："+CONFIG.chatCaptureDirectory));return 1;}));
+    capture.then(literal("off").executes(c->{CONFIG.collectChatCapture=false;saveConfig();c.getSource().sendFeedback(SapphireNotifications.status("聊天漏译采集已关闭"));return 1;}));
+    capture.then(literal("flush").executes(c->{com.sorakoi.sbtranslate.collection.ChatCapture.rotate();c.getSource().sendFeedback(SapphireNotifications.status("已保存并开始上传："+com.sorakoi.sbtranslate.collection.ChatCapture.status()));return 1;}));
+    capture.then(literal("upload").executes(c->{com.sorakoi.sbtranslate.collection.ChatCapture.retryPending();c.getSource().sendFeedback(SapphireNotifications.status("正在上传待发送记录"));return 1;}));
+    root.then(capture);
+    root.then(literal("feedback").executes(c->{openFeedbackScreen();return 1;}));
+    dispatcher.register(root);
+}
+
+private static void openFeedbackScreen() {
+    var screen=Minecraft.getInstance().gui.screen();
+    Minecraft.getInstance().schedule(()->Minecraft.getInstance().gui.setScreen(new com.sorakoi.sbtranslate.client.FeedbackScreen(screen)));
+}
+
 }

@@ -18,17 +18,19 @@ class CommunityCorpusTest {
         var raw=Component.literal("§e[NPC] Bartender: §fAh! You look like someone strong.")
             .withStyle(s->s.withClickEvent(new ClickEvent.RunCommand("/unchanged")));
         var copy=raw.copy();var out=CommunityTranslationEngine.translate(raw,"chat",manager);
-        assertEquals("[NPC] Bartender: 啊! 看起来你身手不凡。",out.getString());assertEquals(copy,raw);
-        StyledLoreTest.color(out,"Bartender",ChatFormatting.YELLOW);StyledLoreTest.color(out,"啊!",ChatFormatting.WHITE);
-        assertEquals(raw.getStyle().getClickEvent(),StyledLoreTest.styleAt(out,"啊!").getClickEvent());
+        assertEquals("[NPC] Bartender: 哟！看你这身板，力气应该不小。",out.getString());assertEquals(copy,raw);
+        StyledLoreTest.color(out,"Bartender",ChatFormatting.YELLOW);StyledLoreTest.color(out,"哟！",ChatFormatting.WHITE);
+        assertEquals(raw.getStyle().getClickEvent(),StyledLoreTest.styleAt(out,"哟！").getClickEvent());
         for(String text:List.of("Player: Ah! You look like someone strong.","[Party] [NPC] Bartender: Ah! You look like someone strong.",
                 "[NPC] Unknown: Ah! You look like someone strong.","Ah! You look like someone strong.")) {
             var unrelated=Component.literal(text);assertSame(unrelated,CommunityTranslationEngine.translate(unrelated,"chat",manager));
         }
     }
 
-    @Test void importedCorpusPreservesCapturedStylesWithoutSourceMutation() throws Exception {
-        var data=TranslationManager.readObject(Path.of("src/main/resources/defaults/translations/community-skyzh.json"));
+    @Test void independentlyTranslatedCorpusPreservesCapturedStylesWithoutSourceMutation() throws Exception {
+        var data=TranslationManager.readObject(Path.of("src/main/resources/defaults/translations/community-sapphire.json"));
+        assertEquals("Sapphire",data.get("translator").getAsString());
+        assertFalse(Files.exists(Path.of("src/main/resources/defaults/translations/community-skyzh.json")));
         var failures=new JsonArray();int checked=0;
         for(var value:data.getAsJsonArray("entries")) {
             var row=value.getAsJsonObject();String scope=row.get("scope").getAsString();
@@ -69,16 +71,16 @@ class CommunityCorpusTest {
                 failures.add(failure);
             }
         }
-        var path=Path.of("build/reports/skyzh-style-exclusions.json");Files.createDirectories(path.getParent());
+        var path=Path.of("build/reports/sapphire-corpus-style-failures.json");Files.createDirectories(path.getParent());
         Files.writeString(path,new GsonBuilder().setPrettyPrinting().create().toJson(failures));
-        assertTrue(checked>1000);assertEquals(0,failures.size(),"Imported styles must pass; see "+path);
+        assertTrue(checked>=8806);assertEquals(0,failures.size(),"Corpus rendering failures; see "+path);
     }
 
     @Test void existingUiWordsAndScopeBoundariesWin() {
         assertEquals("返回",GuiTranslationEngine.button(Component.literal("Go Back"),GuiTranslationEngine.menu("Bazaar",manager)).getString());
         var source=Component.literal("Click to store the set you're wearing!");
         var result=CommunityTranslationEngine.translate(source,"tooltip",manager);
-        assertEquals("点击存放当前穿戴的套装!",result.getString());
+        assertEquals("点击收起身上这套装备！",result.getString());
         assertSame(source,CommunityTranslationEngine.translate(source,"chat",manager));
         var unknown=Component.literal("unrecognized menu entry");
         assertSame(unknown,CommunityTranslationEngine.translate(unknown,"tooltip",manager));

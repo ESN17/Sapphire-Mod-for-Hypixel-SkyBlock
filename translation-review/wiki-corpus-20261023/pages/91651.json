@@ -1,0 +1,16 @@
+{
+  "title": "Mage Emissary",
+  "pageid": 91651,
+  "revision": 822236,
+  "timestamp": "2026-08-21T20:29:07Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Mage_Emissary",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=822236",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Category:Pages with UIs",
+    "Category:Crimson Isle",
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{For|the NPCs used to claim [[Commissions]]|Emissaries}}\n{{For|the Barbarian counterpart|Barbarian Emissary}}\n{{Infobox/Character\n|shop = Yes\n|location = [[Scarleton]]\n|location_page_description = Sells items to members of the [[Mage Faction]].\n|x = -131.5 \n|y = 89 \n|z = -722.5\n}}\n'''Mage Emissary''' is an NPC in {{zone|Scarleton}} that sells items to members of the [[Mage Faction]]. \n\n== Interface ==\n{{/UI}}\n\n== Dialogue ==\n{| class=\"wikitable\"\n! colspan=\"2\" | Condition\n! Dialogue\n|-\n| colspan=\"2\" class=\"ct\" | Not in [[Mage Faction]]\n|{{Dialogue|&e[NPC] &5Mage Emissary&f: &fYou don't look like a &5Mage &fto me!}}\n|-\n| colspan=\"2\" class=\"ct\" | First Interaction<br>{{DG|In [[Mage Faction|{{DG|Mage Faction}}]]}}\n|{{Dialogue|\n&e[NPC] &5Mage Emissary&f: Welcome new Faction Member!\n&e[NPC] &5Mage Emissary&f: I provide the faction with important items.\n&e[NPC] &5Mage Emissary&f: You may need more reputation to unlock all of my supplies!\n}}\n|-\n{{Crimson Isle 4 Villager Mage Dialogue|&5Mage Emissary}}\n|}\n\n== Discounts ==\nThe '''Mage Emissary''' provides the player a discount on their items based on the player's {{Reputation|Mage}}.\n{| class=\"wikitable centertext\"\n|-\n! Reputation\n! Discount\n|-\n| {{Reputation|Mage|0}}\n| 0%\n|-\n| {{Reputation|Mage|1,000}}\n| 5%\n|-\n| {{Reputation|Mage|3,000}}\n| 10%\n|-\n| {{Reputation|Mage|7,000}}\n| 15%\n|-\n| {{Reputation|Mage|12,000}}\n| 20%\n|}\n\n== History ==\n{{History table\n|ahn=\n{{History|2022/March 8|link=none|[[File:Mage Emissary.png|26px]] Added '''Mage Emissary'''.}}\n|beta=\n{{History|0.13|[[File:Mage Emissary.png|26px]] Added '''Mage Emissary'''.}}\n}}\n\n== References ==\n{{Reflist}}\n\n== Navigation ==\n{{Nav/Characters}}\n{{Nav/Crimson Isle}}"
+}

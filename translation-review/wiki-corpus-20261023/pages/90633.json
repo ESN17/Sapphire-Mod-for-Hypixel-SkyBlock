@@ -1,0 +1,13 @@
+{
+  "title": "Auto-pickup",
+  "pageid": 90633,
+  "revision": 818322,
+  "timestamp": "2026-08-12T12:03:21Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Auto-pickup",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=818322",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Generic\n|image = Diamond Sword.png\n}}\n\n'''Auto-pickup''' is a feature unlocked at [[SkyBlock Levels|{{Aqua|SkyBlock Level 6}}]]. It causes all item and mob drops to directly be added to the inventory, and the [[Stash]] if there is no space in the inventory.\n\n== Overview ==\n'''Auto-pickup''' causes all item, mob, and block drops to be added directly to the [[Inventory|inventory]] without being dropped as physical items on the ground. The player can still drop items from their hotbar and inventory.\n\nSome items are '''not''' affected by '''Auto-pickup''', such as drops from [[Slayer Miniboss|Slayer Minibosses]]. This is most likely a bug.\n\n== Game Message ==\n{| class=\"wikitable\"\n! Condition !! Dialogue\n|-\n| class=\"ct\" | Auto-pickup triggers\n| {{Dialogue|&a&lAUTO-PICKUP! &fDrop sent to your inventory! &2&l[I GET IT]}}\n|}\n\n== Trivia ==\n* Originally, the {{Ench|Telekinesis}} [[Enchantment]] could be applied to items at {{NPCSprite|Rusty}} and served the same function as '''Auto-pickup'''.\n** After {{Ench|Telekinesis}} was removed, all {{Item|Enchanted Book|enchant=Telekinesis}} became glitched {{Common}} {{Item|Enchanted Book}}s with no enchantment.\n\n== History ==\n{{History table\n|beta=\n{{History|2022/April 25|Added '''Auto-pickup'''.}}\n{{History|2022/Sep 28|Now requires [[SkyBlock Levels|{{Aqua|SkyBlock Level 6}}]] instead of {{Skl|Combat|6}}.}}\n{{History|2026/July 1|Auto-pickup has been enabled on [[Dungeon Mobs]] and [[Slayers]]. If they cannot be picked up, they are instead redirected into the [[Stash]].}}\n}}\n\n[[Category:Mechanics]]"
+}

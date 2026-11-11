@@ -1,0 +1,14 @@
+{
+  "title": "Argofay Doorholder",
+  "pageid": 108703,
+  "revision": 786753,
+  "timestamp": "2026-07-23T15:52:52Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Argofay_Doorholder",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=786753",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Character\n|location = [[The Mountaintop]]\n|location_page_description = Lets the player access the {{Zone|Walk of Fame}}.\n|x = -5.5\n|y = 180.1\n|z = 24.5\n}}\n'''Argofay Doorholder''' is an [[NPC]] in {{Zone|The Mountaintop}} in the [[Rift Dimension]].\n\n== Dialogue ==\n{| class=\"wikitable\"\n!Condition\n!Dialogue\n|-\n| class=\"ct\" |First interaction\n|{{Dialogue|\n&e[NPC] Argofay Doorholder&f: &fYou can enter here only if you obtained the &cSupreme Timecharm&f.\n&eSelect an option: &a[I got it.]\n}}\n|-\n| class=\"ct\" |Selecting {{Green|[I got it.]}}\n|{{Dialogue|&e[NPC] Argofay Doorholder&f: Oh! Very well then, you may enter.}}\n|-\n| class=\"ct\" | If the {{Zone|Wizardman Bureau}} has been unlocked\n|{{Dialogue|\n&e[NPC] Argofay Doorholder&f: &7[player]&f, welcome back!\n&e[NPC] Argofay Doorholder&f: &fWizardman &fis waiting for you in his bureau.\n}}\n|}\n\n== History ==\n{{History table\n|beta=\n{{History|0.21|[[File:Argofay Doorholder.png|26px]] Added '''Argofay Doorholder'''.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}"
+}

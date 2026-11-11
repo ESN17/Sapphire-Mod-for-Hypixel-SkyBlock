@@ -1,0 +1,14 @@
+{
+  "title": "Hunter Harry",
+  "pageid": 133469,
+  "revision": 828550,
+  "timestamp": "2026-09-01T09:07:35Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Hunter_Harry",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=828550",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Character\n|shop = yes\n|location = [[Critter Safari]]\n|x = 38.5 \n|y = 68   \n|z = -17.5\n|location_page_description = Allows the player to obtain a random [[Attribute Shard]].\n\n|location2 = [[Critter Safari]]\n|x2 = 5.5 \n|y2 = 69    \n|z2 = -81.5\n|location_page_description2 = Allows the player to obtain a random [[Attribute Shard]].\n\n|location3 = [[Critter Safari]]\n|x3 = 0.5 \n|y3 = 85     \n|z3 = -60.5\n|location_page_description3 = Allows the player to obtain a random [[Attribute Shard]].\n\n|location4 = [[Critter Safari]]\n|x4 = -20.5\n|y4 = 77\n|z4 = -48.5\n|location_page_description4 = Allows the player to obtain a random [[Attribute Shard]].\n}}\n'''Hunter Harry''' is an [[NPC]] located in the {{Zone|Critter Safari}}. They allow the player to obtain a random [[Attribute Shard]] in exchange for a specified item.\n\n== Purpose ==\n'''Huntress Harry''' sells a random [[Attribute Shard]] per {{Zone|Critter Safari}} instance with a random cost.\n{|class=\"wikitable\"\n! Possible Shards\n! Possible Costs\n|-\n| {{Item|Hideonwall Shard}}, {{Item|Gemzie Shard}}, {{Item|Troodon Shard}}, {{Item|Chuckwalla Shard}}\n| {{Item|Shining Coin}}, {{Item|Lime Gem}}, {{Item|Orange Gem}}, {{Item|Soothing Incense}}, {{Item|Wriggleworm}}\n|}\n\n== Dialogue ==\n{| class=\"wikitable\"\n!Condition\n!Dialogue\n|-\n| class=\"ct\" | First Interaction\n|{{Dialogue|\n&e[NPC] &eHunter Harry&f: &fPhew!\n&e[NPC] &eHunter Harry&f: &fGlad to find someone else out here - this place is scary!\n&e[NPC] &eHunter Harry&f: &fSay, do you have a use for a &7<shard>&f? I found it lying around...\n&e[NPC] &eHunter Harry&f: &fI'll give you it in exchange for a &7<cost>!\n&eSelect an option: &a[Trade] &c[No thanks] \n}}\n|-\n| class=\"ct\" | Selecting {{Rmt|&c[No thanks]}}\n|{{Dialogue|\n&e[NPC] &eHunter Harry&f: &fErm, okay.\n&e[NPC] &eHunter Harry&f: &fDon't go too far, it's scary...\n}}\n|-\n| class=\"ct\" | Selecting {{Rmt|&a[Trade]}} without the required item\n|{{Dialogue|\n&e[NPC] &eHunter Harry&f: &fWhere's the &7<cost>&f?\n&e[NPC] &eHunter Harry&f: &fDon't mess with me!\n}}\n|-\n| class=\"ct\" | Selecting {{Rmt|&a[Trade]}} with the required item\n| {{Dialogue|&e[NPC] &eHunter Harry&f: &fSweet, 'ppreciate it!}}\n|}\n\n== History ==\n{{History table \n|ahn= \n{{History|2026/July 10|[[File:Hunter Harry.png|26px]] Added '''Hunter Harry'''.}}\n|beta = \n{{History|0.27|[[File:Hunter Harry.png|26px]] Added '''Hunter Harry'''.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Atoned Champion",
+  "pageid": 78365,
+  "revision": 861290,
+  "timestamp": "2026-10-21T00:59:31Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Atoned_Champion",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861290",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Slayer",
+    "Category:Zombie Slayer"
+  ],
+  "wikitext": "{{Infobox/Mob\n|category = Slayer Miniboss\n|stats = {{InfoboxMobStats\n|health = 1,000,000\n|damage = 2,400\n}}\n|mob_level = 271\n|mob_type = {{mt|Undead}}\n|spawn_condition = {{SlayerTier|V}} [[Zombie Slayer]]\n|id = REVENANT_FOLLOWER_5\n}}\nThe '''Atoned Champion''' is a [[Mob]] and {{MobCategory|Slayer Miniboss}} for the [[Zombie Slayer]].\n\n== Spawning == \nIt has a small chance to be spawned when a player with an active {{MobSprite|Revenant Horror}} {{SlayerTier|V}} Quest kills any [[Zombie]] outside of Dungeons. When this happens, an explosion effect takes place, and the Atoned Champion will spawn. \n\n== Drops ==\n{{Mob Drops Table\n|level = 271\n|coins = 1\n|combat_xp = 1,626\n|orbs = 813\n|notelist = slayer_bonus = Drop amount is increased by {{Green|3}} after reaching {{Green|LVL 6}} in '''Zombie''', '''Spider''' and '''Wolf''' [[Slayers]].\n|{{Mob Drops Row\n |drop = Revenant Flesh\n |count = 2\n |rarity = c\n |chance = 100%\n |notes = slayer_bonus \n }}\n}}\n\n== Behavior ==\nThe '''Atoned Champion''' quickly runs towards the player to attack them.\n\n== History ==\n{{History table\n|ahn=\n{{History|2026/Aug 25|Changed the [[Mob Level]] and non-item drops.}}\n{{History|2026/Sep 21|Increased {{Stat|hp}} from {{Stat|hp|600,000|icononly=y}} to {{Stat|hp|800,000|icononly=y}}.|Increased {{Stat|dmg}} from {{Stat|dmg|800|icononly=y}} to {{Stat|dmg|2,400|icononly=y}}.}}\n{{History|2026/Sep 30|Increased {{Stat|hp}} from {{Stat|hp|800,000|icononly=y}} to {{Stat|hp|1,000,000|icononly=y}}.}}\n|beta=\n{{History|2021/March 12|Added '''Atoned Champion'''.}}\n{{History|0.27.2|Increased {{Stat|hp}} from {{Stat|hp|600,000|icononly=y}} to {{Stat|hp|1,000,000|icononly=y}}.|Increased {{Stat|dmg}} from {{Stat|dmg|800|icononly=y}} to {{Stat|dmg|2,400|icononly=y}}.|Changed the [[Mob Level]] from {{Level|390}} to {{Level|271}}, {{Coins}} from {{Gold|0}} to {{Gold|1}}, {{Experience}} from {{Dark Aqua|0}} to {{Dark Aqua|813}}, and {{Skill|Combat}} XP from {{Dark Aqua|900}} to {{Dark Aqua|1,626}}.}}\n}}\n\n== Navigation ==\n{{Nav/Slayer/Zombie}}\n{{Nav/Mobs}}\n[[Category:Minibosses]]"
+}

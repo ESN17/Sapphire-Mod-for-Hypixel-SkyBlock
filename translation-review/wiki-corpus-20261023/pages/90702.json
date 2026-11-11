@@ -1,0 +1,14 @@
+{
+  "title": "Better Together",
+  "pageid": 90702,
+  "revision": 860361,
+  "timestamp": "2026-10-18T19:57:20Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Better_Together",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860361",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Events",
+    "Template:Dialogue"
+  ],
+  "wikitext": "The '''Better Together''' is a passive event that can happen in the {{zone|Dwarven Mines}} and {{zone|Crystal Hollows}}. \n\n== Mechanics ==\nThe '''Better Together''' event lasts for {{Green|20}} minutes. For every player in the same zone, players gain {{stat|mining speed|250}} and {{stat|mining fortune|20}}. The buff maxes out at {{Green|5}} players.\n\n== Game Message ==\n{| class=\"wikitable\"\n! colspan=\"2\" | Condition\n!Message\n|-\n| class=\"ct\" rowspan=\"2\" | Event announced\n| class=\"ct\" | {{zone|Crystal Hollows}}\n|{{Dialogue|\n&d⚑ &eThe &dBetter Together&e event starts in &a20 &eseconds!\n&eThis is a passive event! &bIt's happening everywhere in the Crystal Hollows!\n}}\n|-\n| class=\"ct\" | {{zone|Dwarven Mines}}\n|{{Dialogue|\n&d⚑ &eThe &dBetter Together&e event starts in &a20 &eseconds!\n&eThis is a passive event! &bIt's happening everywhere in the Dwarven Mines!\n}}\n|-\n|  colspan=\"2\" class=\"ct\" | Event starting\n|{{Dialogue|\n&a{{Dashline}}\n$[c]&d&lBETTER TOGETHER STARTED!\n$[c]&7Passive Active Event\n\n$[c]&fThe Better Together Festival is underway! While this event is\n&factive\\, gain &6+250 ⸕ Mining Speed &fand &6+20 ☘ Mining Fortune\n&ffor each player in the same zone as you! &7(Max 5 players)\n&a{{Dashline}}\n&7&oYou can hear cooperative chattering coming from town…\n&7&oThe Better Together festival is active for 20 minutes!\n}}\n|-\n|  colspan=\"2\" class=\"ct\" | Event ending\n|{{Dialogue|\n&a{{Dashline}}\n$[c]&d&lBETTER TOGETHER ENDED!\n$[c]&7Passive Active Event\n\n$[c]&fThe festival has ended, but the Dwarven cooperative spirit\n$[c]&fnever dies.\n&a{{Dashline}}\n}}\n|}\n\n== History ==\n{{History table\n|ahn=\n{{history|ahn-0.12-r1|Added '''Better Together'''.}}\n|beta=\n{{history|0.12|Added '''Better Together'''.}}\n{{History|0.19.3|Increased '''Better Together''' effect range from {{Green|10}} blocks to {{Green|20}}.}}\n{{History|0.23.1|Changed '''Better Together''' to account for players in the same zone.}}\n}}\n\n== Navigation ==\n{{Nav/Dwarven Mines/Events}}\n[[Category:Events]]"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Ant's Cave",
+  "pageid": 133897,
+  "revision": 844278,
+  "timestamp": "2026-09-19T17:40:59Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Ant%27s_Cave",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=844278",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Locations",
+    "Template:Dialogue",
+    "Template:ZoneText"
+  ],
+  "wikitext": "{{Infobox/Location\n|type = [[Foraging]] location\n|level = {{Skill|Foraging|XII}}<br>[[Heart of the Forest]] Tier 4\n|travel_scroll = [[Travel Scroll to Torrhus Springs]]\n|music = \"[[Hypixel SkyBlock OST#Torrhus Canyon|Torrhus Canyon]]\"\n|location = [[Torrhus Canyon]]\n|x = -612\n|y = 74\n|z = 193\n|mobs = \n* Ant\n* Queen Ant\n}}\n'''Ant's Cave''' is a [[Location]] found in the {{zone|Torrhus Canyon}}. It can be accessed from the {{Zone|Spring Depths}} in the {{Zone|Torrhus Springs}}.\n\n{{ZoneText|Break &eAnthills &fand vacuum up &eAnts&f!|Purchase &6Minion Upgrade Stones &ffrom &2Ant&f.|Keep an eye out for the elusive &dQueen Ant&f!}}\n== Features ==\n'''Ant's Cave''' contains {{MobSprite|Ant}}s and {{MobSprite|Queen Ant}}s, which spawn naturally or from {{Item|Pointed Dripstone|text=Anthills|link=}}. {{MobSprite|Ant}}s and {{MobSprite|Queen Ant}}s can only be damaged and killed by a [[Vacuum]], as they are a {{MobType|Pest}}.\n\nAnthills have {{Stat|BP|6}} and a [[Block Strength]] of {{Green|3,500}}. Breaking one spawns {{Green|2}}-{{Green|4}} {{MobSprite|Ant}}s or {{MobSprite|Queen Ant}}s. It is not affected by {{stat|Mining Spread}}. \n\n{{Tick Thresholds/Miscellaneous}}\n\nAdditionally, the following message is displayed in chat:\n{{Dialogue|&7&oYou destroyed an anthill and angered its residents!}}\n=== [[Ant (NPC)|Ant]] ===\n{{Main|Ant (NPC)}}\nPlayers can also speak to {{NPCSprite|Ant (NPC);Ant}}, who sells Tier XII [[Foraging]] [[Minion]] Upgrade Stones.\n\n== Mobs ==\n{{Mob Table|\n{{Mob Table Row|Ant}}\n{{Mob Table Row|Queen Ant}}\n}}\n\n== NPCs ==\n{{Location NPCs}}\n\n== Gallery ==\n<gallery>\nAnthill Render.png|An example of an Anthill\nAnt Hill Render (Old).png|An example of an Anthill prior to 0.27.0.23\n</Gallery>\n\n== History ==\n{{History table \n|ahn= \n{{History|2026/July 10|Added '''Ant's Cave'''.}}\n|beta= \n{{History|0.27|Added '''Ant's Cave'''.}}\n{{History|2026/Aug 27|Renamed Ant Hill to Anthill.|Changed Anthills from Ancient Debris to Pointed Dripstone.|Added holograms above Anthills.}}\n}}\n\n== Navigation ==\n{{Nav/Locations}}"
+}

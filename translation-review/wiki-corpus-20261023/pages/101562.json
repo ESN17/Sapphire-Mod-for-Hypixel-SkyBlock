@@ -1,0 +1,18 @@
+{
+  "title": "Generow",
+  "pageid": 101562,
+  "revision": 817841,
+  "timestamp": "2026-08-11T23:22:35Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Generow",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=817841",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Category:Pages with UIs",
+    "Category:Events",
+    "Category:Season of Jerry",
+    "Template:Dialogue",
+    "Template:UI"
+  ],
+  "wikitext": "{{Infobox/Character\n|location = [[Jerry's Workshop]]\n|location_page_description = Allows the player to access Gifting Milestones.\n|x = -10.5\n|y = 76\n|z = 93.5\n}}\n'''Generow''' is an [[NPC]] located in {{zone|Jerry's Workshop}} only in the month of December. They can be talked to to see [[Gifts|Gifting]] Milestones.\n\n== Gifting Milestones ==\n'''Generow''' grants the [[Player]] rewards based on how many gifts they've given to unique Players. When holding a [[Gifts|Gift]], players will see a green {{Rmt|&a✉}} above players they have not gifted to before and a red {{Rmt|&c✉}} above those they have already gifted to.\n\n== Rewards ==\n{{/UI}}\nThe cumulative rewards at {{Rmt|&aLevel XXV (25)}} are:\n\n* {{Item|North Stars|amount=40}}\n* {{Item|Ice Essence|amount=80}}\n* {{Item|Frozen Bait|amount=360}}\n* {{Item|Gift of Learning|amount=8}}\n* {{Item|Einary's Red Hoodie}}\n* {{Item|Expensive Toy}}\n* Gift of Giving [[SkyBlock Levels#Emblems|Emblem]] {{Rmt|&6✉}}\n\n== Dialogue ==\n{| class=\"wikitable\"\n!Condition\n!Dialogue\n|-\n| class=\"ct\" | First Interaction\n|{{Dialogue|\n&e[NPC] &6Generow&f: &fOh, hello there!\n&e[NPC] &6Generow&f: &fYou look like someone who appreciates the finer points of gifting, am I right?\n&eSelect an option: &a[&aWho are you?&a]\n}}\n|-\n| class=\"ct\" | Selecting {{Rmt|&a[Who are you?]}}\n|{{Dialogue|\n&e[NPC] &6Generow&f: &fAh, where are my manners?\n&e[NPC] &6Generow&f: &fI'm Generow, the coolest gift-loving penguin you'll ever meet!\n&e[NPC] &6Generow&f: &fI live for two things: receiving gifts and gifting others.\n&e[NPC] &6Generow&f: &fBut I must admit, the latter warms my feathers even more!\n&eSelect an option: &a[&aWhat are you doing here?&a]\n}}\n|- class=\"article-row-main\"\n| class=\"ct\" | Selecting {{Rmt|&a[What are you doing here?]}}\n|{{Dialogue|\n&e[NPC] &6Generow&f: &fWell, you see, this December is special.\n&e[NPC] &6Generow&f: &fI've come to reward those who share the joy of gifting!\n&e[NPC] &6Generow&f: &fGift enough &ddifferent &fplayers, and you'll earn yourself something extraordinary!\n&eSelect an option: &a[&aTell me more about these rewards.&a]\n}}\n|-\n| class=\"ct\" | Selecting {{Rmt|&a[Tell me more about these rewards.]}}\n|{{Dialogue|\n&e[NPC] &6Generow&f: &fAh, eager to know, are we?\n&e[NPC] &6Generow&f: &fThe more players you gift, the better your reward.\n&e[NPC] &6Generow&f: &fIt's all about spreading the cheer, you see.\n&e[NPC] &6Generow&f: &fCheck this out!\n}}\n|-\n| class=\"ct\" | After hitting a milestone\n|{{Dialogue|&e[NPC] &6Generow&f: (gifts} Unique Gifts! Wow!/&e[NPC] &6Generow&f: Click to claim your reward!}}\n|}\n\n== History ==\n{{History table\n|beta=\n{{History|2023/Nov 28|[[File:Generow.png|26px]] Added '''Generow'''.}}\n{{History|2024/Dec 13|Fixed being able to use {{code|/opengenerowmenu}} in the [[Rift]].}}\n}}\n\n== Navigation ==\n{{Nav/Events/Season of Jerry}}\n{{Nav/Characters}}"
+}

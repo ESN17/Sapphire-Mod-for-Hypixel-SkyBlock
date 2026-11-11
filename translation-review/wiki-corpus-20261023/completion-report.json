@@ -1,0 +1,87 @@
+{
+  "createdAt": "2026-10-23T10:11:17.470864+00:00",
+  "collection": {
+    "pages": 3214,
+    "missing": [
+      "Confused Goon (player)/UI",
+      "Heart of the Forest/UI",
+      "Heart of the Mountain/UI",
+      "Infinipot/UI",
+      "RNG Meter/UI/Catacombs",
+      "RNG Meter/UI/Corpses",
+      "RNG Meter/UI/Experiments",
+      "RNG Meter/UI/Nucleus",
+      "RNG Meter/UI/Pity",
+      "RNG Meter/UI/Slayer",
+      "Teddy/UI"
+    ],
+    "errors": [],
+    "renderedPages": 282,
+    "menuLayouts": 2371,
+    "excludedSkyzhNpcOccurrences": 1079,
+    "wikiGapPages": 93
+  },
+  "translation": {
+    "uniqueUnits": 45205,
+    "cachedUnits": 45205,
+    "activeRules": 61379,
+    "scopes": {
+      "npc": 9948,
+      "gui": 1647,
+      "tooltip": 44599,
+      "system": 5185
+    },
+    "pendingDisplaySamples": 107,
+    "sourceReviewSamples": 43
+  },
+  "validation": {
+    "gradleCheck": {
+      "tests": 480,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 2
+    },
+    "pythonWikiTests": 13,
+    "displayAudit": {
+      "checked": 61379,
+      "failures": 0,
+      "sha256": "cb06a6c24066464a72e09f65c35b8e1ed16c70629e2743c480574e61bd3cbf44"
+    },
+    "mirrors": [
+      {
+        "path": "src/main/resources/defaults/translations",
+        "sha256": "cb06a6c24066464a72e09f65c35b8e1ed16c70629e2743c480574e61bd3cbf44",
+        "bytes": 47656518
+      },
+      {
+        "path": "dictionary-workspace/translations",
+        "sha256": "cb06a6c24066464a72e09f65c35b8e1ed16c70629e2743c480574e61bd3cbf44",
+        "bytes": 47656518
+      },
+      {
+        "path": "run/config/sapphire/translations",
+        "sha256": "cb06a6c24066464a72e09f65c35b8e1ed16c70629e2743c480574e61bd3cbf44",
+        "bytes": 47656518
+      }
+    ]
+  },
+  "features": [
+    "/sapphire 翻译状态：加载数量、错误、重新加载、格式待核对数量",
+    "按 NPC 身份匹配动态数值与玩家称呼，保留原值、格式和点击事件",
+    "独立分片补充词库，现有译文优先；审计文件哈希与安装文件一致"
+  ],
+  "release": {
+    "packaged": false,
+    "versionUnchanged": "dev 0.0.3",
+    "jarSha256": "e7726e9735e5e4332d91f256d6f6cec38b1f0333764b07d159fbb18f75e23799"
+  },
+  "limitations": [
+    "Wiki 不是服务器完整文本导出；缺失引用与过时页面已记录。",
+    "待核对样例已有译文，但未通过格式校验，未启用对应规则。",
+    "译文经过自动检查与部分人工修订；未逐条进行游戏内实测。"
+  ],
+  "references": {
+    "wiki": "https://hypixelskyblock.minecraft.wiki/",
+    "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+  }
+}

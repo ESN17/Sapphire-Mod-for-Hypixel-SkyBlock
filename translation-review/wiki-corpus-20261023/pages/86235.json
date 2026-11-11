@@ -1,0 +1,13 @@
+{
+  "title": "Piston",
+  "pageid": 86235,
+  "revision": 821634,
+  "timestamp": "2026-08-19T22:40:17Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Piston",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=821634",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Vanilla}}\n{{Infobox/Item\n|rarity = common\n|sell = 8\n|id = PISTON_BASE\n}}\nA '''Piston''' is a {{Common}} block that can be crafted and placed on the player's {{Zone|Private Island}} or plots in {{Zone|The Garden}}.\n\n== Obtaining ==\n=== Crafting ===\n{{Crafting Recipe Table\n|{{Crafting Recipe Row\n |ingredients = {{RL|1 Redstone Dust|1 Iron Ingot|3 Planks|4 Cobblestone}}\n |A1 = *Planks     |B1 = *Planks       |C1 = *Planks\n |A2 = Cobblestone |B2 = Iron Ingot    |C2 = Cobblestone\n |A3 = Cobblestone |B3 = Redstone Dust |C3 = Cobblestone\n |Output = Piston\n}}\n}}\n\n== Usage ==\n=== Private Island ===\n'''Pistons''' can be placed as a decorative block on the player's {{Zone|Private Island}} or plots in {{Zone|The Garden}}. However, they cannot be activated from [[Redstone]].\n\n== Game Messages ==\n{|class=\"wikitable\"\n! Message\n! Condition\n|-\n| {{Dialogue|&cPlease note that pistons are currently disabled on this island!}}\n| Placing a Piston\n|}\n\n== History ==\n{{History table\n|beta=\n{{History|2019/June 11|[[File:Piston.png|26px]] Added '''Piston'''.}}\n}}"
+}

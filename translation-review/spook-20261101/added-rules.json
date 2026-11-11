@@ -1,0 +1,42 @@
+[
+  {
+    "source": "The Primal Fear has turned into a {mob}!",
+    "translation": "原初恐惧变成了{mob}!",
+    "evidence": "user reported live message; six manifestations confirmed by Wiki"
+  },
+  {
+    "source": "The Primal Fear has turned into an {mob}!",
+    "translation": "原初恐惧变成了{mob}!",
+    "evidence": "compatibility variant"
+  },
+  {
+    "source": "A Primal Fear has been summoned!",
+    "translation": "一个原初恐惧出现了!",
+    "evidence": "Hypixel forum spawn report; BOO prefix compatibility variant"
+  },
+  {
+    "source": "BOO! A Primal Fear has been summoned!",
+    "translation": "吓! 一个原初恐惧出现了!",
+    "evidence": "Hypixel forum spawn report; BOO prefix compatibility variant"
+  },
+  {
+    "source": "[FEAR] Public Speaking Demon: Speak {player}!",
+    "translation": "[恐惧] 演讲恐惧恶魔: {player},说话吧!",
+    "evidence": "existing Wiki corpus [name] converted to styled player capture"
+  },
+  {
+    "source": "[FEAR] Public Speaking Demon: Say something interesting {player}!",
+    "translation": "[恐惧] 演讲恐惧恶魔: {player},说点有趣的事吧!",
+    "evidence": "existing Wiki corpus [name] converted to styled player capture"
+  },
+  {
+    "source": "You got {count} Green Candy from the Great Spook Tree!",
+    "translation": "你从巨型幽灵树获得了 {count} 个绿色糖果!",
+    "evidence": "existing Wiki corpus <amount> converted to numeric capture"
+  },
+  {
+    "source": "You got {count} Purple Candy from the Great Spook Tree!",
+    "translation": "你从巨型幽灵树获得了 {count} 个紫色糖果!",
+    "evidence": "existing Wiki corpus <amount> converted to numeric capture"
+  }
+]

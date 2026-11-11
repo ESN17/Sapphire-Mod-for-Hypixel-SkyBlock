@@ -1,0 +1,14 @@
+{
+  "title": "Experimentation Table",
+  "pageid": 76163,
+  "revision": 840408,
+  "timestamp": "2026-09-13T19:43:59Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Experimentation_Table",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=840408",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Pages with UIs",
+    "Template:UI"
+  ],
+  "wikitext": "{{Infobox/Item\n|rarity = r\n|id = EXPERIMENTATION_TABLE\n|auctionable = Yes\n|raw_materials = \n* 8 Oak Log\n* 6 Lapis Lazuli\n* 1 Glass Bottle\n|mat_cost_bazaar =\n*8 Oak Log\n*1 Exp Bottle\n}}\n\nThe '''Experimentation Table''' is a {{Rare}} piece of non-cosmetic [[Furniture]] that can be used daily where the player gets to play short games in exchange for {{Skl|Enchanting|XP}}, high level {{Item|Enchanted Book|link=}}s, [[Endcap Enchantments]] and {{Item|Experience Bottle|link=}}s. These games reset 24 hours after consuming the last charge. Extra charges purchasable with {{Bits}} reset every day at 12:00 AM GMT or 7:00 PM EST/8:00 PM EDT. The recipe is unlocked when the player reaches {{Skill|Enchanting X}}.\n\n== Obtaining ==\n=== Crafting ===\n{{Crafting Recipe Table\n|{{Crafting Recipe Row\n |requirement = {{skill|Enchanting 10}}\n |A1 = Oak Log |B1 = Oak Log           |C1 = Oak Log\n |A2 = Oak Log |B2 = Experience Bottle |C2 = Oak Log\n |A3 = Oak Log |B3 = Oak Log           |C3 = Oak Log\n |Output = Experimentation Table\n }}\n}}\n\n== Usage ==\n{{Main|Experiments}}\n\nThe '''Experimentation Table''' can be placed on a private island. A maximum of 1 table can be placed at a time.\n\nRight clicking the table brings up a GUI where the player can do [[Experiments]]. Experiments are minigames that grant Enchanting XP and Enchanting-related rewards.\n\n== Interface ==\n{{/UI}}\n\n== Gallery ==\n<gallery>\nExperimentation Table Render.png|A placed down Experimentation Table\n</gallery>\n\n== History ==\n{{History table\n|beta=\n{{History|0.10|[[File:Experimentation Table.png|26px]] Added '''Experimentation Table'''.}}\n{{history|2023/Jul 18|Fixed '''Experimentation Table''' containing duplicate rewards.}}\n{{history|0.19.2|Fixed getting two Instant Find powerups in a row in the '''Experimentation Table''', causing both to not work.}}\n{{history|2023/Aug 8|Fixed '''Experimentation Table''' still having duplicate Experience Bottle pairs.}}\n{{history|0.19.3|Removed {{Ench|Piscary}} from the '''Experimentation Table'''.}}\n}}"
+}

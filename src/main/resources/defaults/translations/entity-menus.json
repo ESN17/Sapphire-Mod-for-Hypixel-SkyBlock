@@ -670,11 +670,12 @@
           "source": [
             "\"Fell\" into Jerry's Pond."
           ],
-          "translation": "「不小心」掉进了 Jerry 的池塘。",
+          "translation": "“掉”进了杰瑞的池塘。",
           "styleMappings": {},
           "sourceAttribution": {
             "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
-            "sourceId": "sbest_flavor_frozen_steve"
+            "sourceId": "sbest_flavor_frozen_steve",
+            "translationOrigin": "sapphire-from-english"
           }
         },
         {
@@ -688,337 +689,365 @@
           },
           "sourceAttribution": {
             "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
-            "sourceId": "sbest_bonus_mf"
+            "sourceId": "sbest_bonus_mf",
+            "translationOrigin": "sapphire-from-english"
           }
         },
         {
           "source": [
             "+{{N0}}% chance for +{{N1}} XP orbs"
           ],
-          "translation": "+{{N0}}% 概率获得 +{{N1}} 经验",
+          "translation": "+{{N0}}%几率获得+{{N1}}经验球",
           "styleMappings": {
             "+": "+",
             "{{N0}}%": "{{N0}}%",
-            "chance for": "概率获得",
+            "chance for": "几率获得",
             "+{{N1}}": "+{{N1}}",
-            "XP orbs": "经验"
+            "XP orbs": "经验球"
           },
           "sourceAttribution": {
             "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
-            "sourceId": "sbest_bonus_orbs"
+            "sourceId": "sbest_bonus_orbs",
+            "translationOrigin": "sapphire-from-english"
           }
         },
         {
           "source": [
             "+{{N0}}% chance for extra XP orbs"
           ],
-          "translation": "+{{N0}}% 概率获得额外经验",
+          "translation": "+{{N0}}%额外经验球概率",
           "styleMappings": {
             "+": "+",
             "{{N0}}%": "{{N0}}%",
-            "chance for extra XP orbs": "概率获得额外经验"
+            "chance for extra XP orbs": "额外经验球概率"
           },
           "sourceAttribution": {
             "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
-            "sourceId": "sbest_reward_extra_orbs"
+            "sourceId": "sbest_reward_extra_orbs",
+            "translationOrigin": "sapphire-from-english"
           }
         },
         {
           "source": [
             "+{{N0}}% coin gain"
           ],
-          "translation": "+{{N0}}% 硬币收益",
+          "translation": "+{{N0}}%金币获取",
           "styleMappings": {
             "+": "+",
             "{{N0}}%": "{{N0}}%",
-            "coin gain": "硬币收益"
+            "coin gain": "金币获取"
           },
           "sourceAttribution": {
             "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
-            "sourceId": "sbest_bonus_coins"
+            "sourceId": "sbest_bonus_coins",
+            "translationOrigin": "sapphire-from-english"
           }
         },
         {
           "source": [
             "A test subject to see if a sheep shrinks when it dries."
           ],
-          "translation": "用来测试绵羊晒干后会不会缩水的实验品。",
+          "translation": "一个测试对象，用于观察羊在干燥后是否会缩小。",
           "styleMappings": {},
           "sourceAttribution": {
             "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
-            "sourceId": "sbest_flavor_sheep_1"
+            "sourceId": "sbest_flavor_sheep_1",
+            "translationOrigin": "sapphire-from-english"
           }
         },
         {
           "source": [
             "Click to open Bestiary Milestones!"
           ],
-          "translation": "点击打开生物图鉴里程碑!",
+          "translation": "点击打开怪物图鉴里程碑！",
           "styleMappings": {},
           "sourceAttribution": {
             "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
-            "sourceId": "sbest_click_milestones"
+            "sourceId": "sbest_click_milestones",
+            "translationOrigin": "sapphire-from-english"
           }
         },
         {
           "source": [
             "Click to toggle visibility!"
           ],
-          "translation": "点击切换显示!",
+          "translation": "点击切换可见性！",
           "styleMappings": {},
           "sourceAttribution": {
             "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
-            "sourceId": "sbest_click_toggle_visibility"
+            "sourceId": "sbest_click_toggle_visibility",
+            "translationOrigin": "sapphire-from-english"
           }
         },
         {
           "source": [
             "Coins per Kill: {{N0}}"
           ],
-          "translation": "每次击杀硬币: {{N0}}",
+          "translation": "每次击杀硬币：{{N0}}",
           "styleMappings": {
-            "Coins per Kill:": "每次击杀硬币:",
+            "Coins per Kill:": "每次击杀硬币：",
             "{{N0}}": "{{N0}}"
           },
           "sourceAttribution": {
             "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
-            "sourceId": "sbest_coins_per_kill"
+            "sourceId": "sbest_coins_per_kill",
+            "translationOrigin": "sapphire-from-english"
           }
         },
         {
           "source": [
             "Everybody was dumpster divin'!"
           ],
-          "translation": "大家都在翻垃圾桶!",
+          "translation": "大家都在翻垃圾箱！",
           "styleMappings": {},
           "sourceAttribution": {
             "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
-            "sourceId": "sbest_flavor_diver"
+            "sourceId": "sbest_flavor_diver",
+            "translationOrigin": "sapphire-from-english"
           }
         },
         {
           "source": [
             "Fishing Exp: {{N0}}"
           ],
-          "translation": "钓鱼经验: {{N0}}",
+          "translation": "钓鱼经验：{{N0}}",
           "styleMappings": {
-            "Fishing Exp:": "钓鱼经验:",
+            "Fishing Exp:": "钓鱼经验：",
             "{{N0}}": "{{N0}}"
           },
           "sourceAttribution": {
             "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
-            "sourceId": "sbest_fishing_exp"
+            "sourceId": "sbest_fishing_exp",
+            "translationOrigin": "sapphire-from-english"
           }
         },
         {
           "source": [
             "He’s just happy to see ya."
           ],
-          "translation": "他只是见到你很开心。",
+          "translation": "他见到你很高兴。",
           "styleMappings": {},
           "sourceAttribution": {
             "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
-            "sourceId": "sbest_flavor_jack"
+            "sourceId": "sbest_flavor_jack",
+            "translationOrigin": "sapphire-from-english"
           }
         },
         {
           "source": [
             "How the Grinch Stole Jerry Season."
           ],
-          "translation": "格林奇是如何偷走 Jerry 季的。",
+          "translation": "格林奇如何偷走杰瑞季。",
           "styleMappings": {},
           "sourceAttribution": {
             "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
-            "sourceId": "sbest_flavor_grinch"
+            "sourceId": "sbest_flavor_grinch",
+            "translationOrigin": "sapphire-from-english"
           }
         },
         {
           "source": [
             "Just because he has thick skin doesn't mean he doesn't get sad sometimes."
           ],
-          "translation": "皮厚不代表他就不会偶尔伤心。",
+          "translation": "就算他脸皮再厚，也不代表他有时不会难过。",
           "styleMappings": {},
           "sourceAttribution": {
             "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
-            "sourceId": "sbest_flavor_alligator_1"
+            "sourceId": "sbest_flavor_alligator_1",
+            "translationOrigin": "sapphire-from-english"
           }
         },
         {
           "source": [
             "Kills: {{N0}}"
           ],
-          "translation": "击杀数: {{N0}}",
+          "translation": "击杀数：{{N0}}",
           "styleMappings": {
-            "Kills:": "击杀数:",
+            "Kills:": "击杀数：",
             "{{N0}}": "{{N0}}"
           },
           "sourceAttribution": {
             "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
-            "sourceId": "sbest_kills"
+            "sourceId": "sbest_kills",
+            "translationOrigin": "sapphire-from-english"
           }
         },
         {
           "source": [
             "Loading rankings..."
           ],
-          "translation": "正在加载排名……",
+          "translation": "正在加载排行榜……",
           "styleMappings": {},
           "sourceAttribution": {
             "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
-            "sourceId": "sbest_loading_rankings"
+            "sourceId": "sbest_loading_rankings",
+            "translationOrigin": "sapphire-from-english"
           }
         },
         {
           "source": [
             "Milestone Bonus"
           ],
-          "translation": "里程碑加成",
+          "translation": "里程碑奖励",
           "styleMappings": {},
           "sourceAttribution": {
             "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
-            "sourceId": "sbest_milestone_bonus"
+            "sourceId": "sbest_milestone_bonus",
+            "translationOrigin": "sapphire-from-english"
           }
         },
         {
           "source": [
             "Mob Stats:"
           ],
-          "translation": "生物属性:",
+          "translation": "生物属性：",
           "styleMappings": {},
           "sourceAttribution": {
             "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
-            "sourceId": "sbest_mob_stats"
+            "sourceId": "sbest_mob_stats",
+            "translationOrigin": "sapphire-from-english"
           }
         },
         {
           "source": [
             "Rankings may take some time to update."
           ],
-          "translation": "排名可能需要一些时间才会更新。",
+          "translation": "排名可能需要一些时间更新。",
           "styleMappings": {},
           "sourceAttribution": {
             "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
-            "sourceId": "sbest_rankings_delay_1"
+            "sourceId": "sbest_rankings_delay_1",
+            "translationOrigin": "sapphire-from-english"
           }
         },
         {
           "source": [
             "Reach new Milestones in your Bestiary by unlocking unique Family tiers."
           ],
-          "translation": "解锁不同族群的阶级,在生物图鉴中达成新的里程碑。",
+          "translation": "通过解锁独特的家族阶段，在生物图鉴中达到新的里程碑。",
           "styleMappings": {
-            "Reach new": "解锁不同族群的阶级,在生物图鉴中达成新的",
+            "Reach new": "通过解锁独特的家族阶段，在生物图鉴中达到新的",
             "Milestones": "里程碑",
-            "in your": "。"
+            "in your Bestiary by unlocking unique Family tiers.": "。"
           },
           "sourceAttribution": {
             "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
-            "sourceId": "sbest_milestone_desc_1"
+            "sourceId": "sbest_milestone_desc_1",
+            "translationOrigin": "sapphire-from-english"
           }
         },
         {
           "source": [
             "Scream, scream, let it all out!"
           ],
-          "translation": "尖叫吧,尖叫吧,把一切都喊出来!",
+          "translation": "尖叫吧，尽情释放出来！",
           "styleMappings": {},
           "sourceAttribution": {
             "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
-            "sourceId": "sbest_flavor_banshee"
+            "sourceId": "sbest_flavor_banshee",
+            "translationOrigin": "sapphire-from-english"
           }
         },
         {
           "source": [
             "Swampy swampy swamp."
           ],
-          "translation": "湿哒哒的沼泽。",
+          "translation": "沼泽沼泽沼泽。",
           "styleMappings": {},
           "sourceAttribution": {
             "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
-            "sourceId": "sbest_flavor_sludge"
+            "sourceId": "sbest_flavor_sludge",
+            "translationOrigin": "sapphire-from-english"
           }
         },
         {
           "source": [
             "Toggle Families Completed Display"
           ],
-          "translation": "切换已完成族群显示",
+          "translation": "切换已完成的家族显示",
           "styleMappings": {},
           "sourceAttribution": {
             "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
-            "sourceId": "sbest_toggle_families"
+            "sourceId": "sbest_toggle_families",
+            "translationOrigin": "sapphire-from-english"
           }
         },
         {
           "source": [
             "Toggle the families completed display for each Bestiary Family."
           ],
-          "translation": "切换每个生物图鉴族群的「已完成」显示。",
+          "translation": "切换每个怪物图鉴家族的已完成家族显示。",
           "styleMappings": {},
           "sourceAttribution": {
             "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
-            "sourceId": "sbest_toggle_families_desc_1"
+            "sourceId": "sbest_toggle_families_desc_1",
+            "translationOrigin": "sapphire-from-english"
           }
         },
         {
           "source": [
             "Total Tiers Unlocked: {{N0}}"
           ],
-          "translation": "已解锁阶级总数: {{N0}}",
+          "translation": "已解锁总层级：{{N0}}",
           "styleMappings": {
-            "Total Tiers Unlocked:": "已解锁阶级总数:",
+            "Total Tiers Unlocked:": "已解锁总层级：",
             "{{N0}}": "{{N0}}"
           },
           "sourceAttribution": {
             "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
-            "sourceId": "sbest_total_tiers"
+            "sourceId": "sbest_total_tiers",
+            "translationOrigin": "sapphire-from-english"
           }
         },
         {
           "source": [
             "XP Orbs: {{N0}}"
           ],
-          "translation": "经验球: {{N0}}",
+          "translation": "经验球：{{N0}}",
           "styleMappings": {
-            "XP Orbs:": "经验球:",
+            "XP Orbs:": "经验球：",
             "{{N0}}": "{{N0}}"
           },
           "sourceAttribution": {
             "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
-            "sourceId": "sbest_xp_orbs"
+            "sourceId": "sbest_xp_orbs",
+            "translationOrigin": "sapphire-from-english"
           }
         },
         {
           "source": [
             "You gotta be squiddin' me!"
           ],
-          "translation": "你在逗我(鱿)吧!",
+          "translation": "你这是在跟我开鱿鱼玩笑吧！",
           "styleMappings": {},
           "sourceAttribution": {
             "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
-            "sourceId": "sbest_flavor_inkling"
+            "sourceId": "sbest_flavor_inkling",
+            "translationOrigin": "sapphire-from-english"
           }
         },
         {
           "source": [
             "You'd think it'd make a normal frog sound, but it actually just says 'Ribbit' out loud."
           ],
-          "translation": "你以为它会发出正常的蛙叫,其实它只是大声念出「呱」。",
+          "translation": "你以为它会发出正常的青蛙叫声，但它实际上只是大声说出“呱呱”。",
           "styleMappings": {},
           "sourceAttribution": {
             "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
-            "sourceId": "sbest_flavor_frogman_1"
+            "sourceId": "sbest_flavor_frogman_1",
+            "translationOrigin": "sapphire-from-english"
           }
         },
         {
           "source": [
             "Yummers!"
           ],
-          "translation": "真香!",
+          "translation": "真美味！",
           "styleMappings": {},
           "sourceAttribution": {
             "sourceFile": "original_text/Fishing/GUI_Item/Sea_Creature_Bestiary.json",
-            "sourceId": "sbest_flavor_gobbler"
+            "sourceId": "sbest_flavor_gobbler",
+            "translationOrigin": "sapphire-from-english"
           }
         },
         {

@@ -1,0 +1,14 @@
+{
+  "title": "Recall Potion/UI",
+  "pageid": 88025,
+  "revision": 668986,
+  "timestamp": "2026-05-04T13:36:49Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Recall_Potion/UI",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=668986",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:UI Subpages",
+    "Template:UI"
+  ],
+  "wikitext": "<div class=\"sbw-ui-tabber\">\n{{UI|Recall Potion\n|2, 3=Cyan Stained Glass Pane, saved-location, &3Save your Location, /&7You can save a &bteleport location and/&dwarp &7back to it at any time using this/&7potion.//&eClick to Save!\n|2, 5=Light Gray Stained Glass Pane, none; none, &cNo Saved Location, /&8&l> &7Save your &acurrent location &7using/&7the &3left &7button!//&8> &7Warp to your &dsaved location &7using/&7the &bright &7button!\n|2, 7=Red Stained Glass Pane, none; none, &cNo Saved Location, none\n|rows = 3\n|noclose = yes\n|noarrow = yes\n|id = default\n}}<!--\n-->{{UI|Recall Potion\n|2, 3=Cyan Stained Glass Pane, none; none, &3Save your Location, /&7You can save a &b teleport/location &7and &dwarp &7back to/it at any time using this/potion.//&eClick to save!\n|2, 5=Lime Stained Glass Pane, none; none, &aSaved Location, /&7Biome: &2<biome>/&7Location: &e<x>\\,<y>\\,<z>\n|2, 7=Light Blue Stained Glass Pane, none; none, &bWarp to Location, &dTeleport &7to your &bsaved/location &7if it is in a safe/space.//&eClick to warp!\n|rows = 3\n|id = saved-location\n|return_id = default\n|noclose = yes\n|noarrow = yes\n|hide = yes\n}}\n</div><!--\n\n--><includeonly>[[Category:Pages with UIs]]</includeonly><!--\n--><noinclude>[[Category:UI Subpages]]</noinclude>"
+}

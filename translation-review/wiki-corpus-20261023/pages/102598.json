@@ -1,0 +1,13 @@
+{
+  "title": "Egglocator",
+  "pageid": 102598,
+  "revision": 843604,
+  "timestamp": "2026-09-18T13:14:46Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Egglocator",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=843604",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Item\n|rarity = Common\n|id = EGGLOCATOR\n|enchantable = No\n|reforgeable = No\n|auctionable = Yes\n|donatable = No\n|buy = {{Chocolate|7,500,000}}\n}}\nThe '''Egglocator''' is a {{Common}} tool purchasable through the Chocolate Shop. It is used to locate [[Chocolate Rabbit Egg]]s during [[Hoppity's Hunt]].\n\n== Obtaining ==\nThe '''Egglocator''' can be bought for {{Gold|7,500,000 Chocolate}} in the [[Chocolate Shop]], provided the player's [[Chocolate Factory]] is at least level 2.\n\n== Usage ==\n{{ItemInfo\n|rarity = common\n|item_ability_name = Egglocator\n|item_ability_activation = RIGHT CLICK\n|item_ability_description = Points towards the nearest unclaimed {{Green|Chocolate Rabbit Egg}}!\n|item_ability_cooldown = 5s\n}}\nWhen used during [[Hoppity's Hunt]], the '''Egglocator''' creates a trail of particle effects pointing in the direction of the nearest [[Chocolate Rabbit Egg]] in the current island that the player hasn't found yet.\n\n== Game Messages ==\n{|class=\"wikitable\"\n! Condition\n! Message\n|-\n| If there is no rabbit egg available\n| {{Dialogue|&cThere are no Chocolate Rabbit Eggs nearby! Try again later!}}\n|-\n| On an island doesn't spawn eggs\n| {{Dialogue|&cThis island doesn't spawn Chocolate Rabbit Eggs!}}\n|}\n\n== History ==\n{{History table\n|ahn=\n{{History|2024/April 9|[[File:Egglocator.png|26px]] Added '''Egglocator'''.}}\n|beta=\n{{History|0.20.1|[[File:Egglocator.png|26px]] Added '''Egglocator'''.}}\n{{History|0.20.5|'''Egglocator''' can no longer have [[Power Scrolls]] applied.}}\n}}"
+}

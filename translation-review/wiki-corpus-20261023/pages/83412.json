@@ -1,0 +1,15 @@
+{
+  "title": "Archery Range",
+  "pageid": 83412,
+  "revision": 831240,
+  "timestamp": "2026-09-04T12:40:02Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Archery_Range",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=831240",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Locations",
+    "Template:Dialogue",
+    "Template:ZoneText"
+  ],
+  "wikitext": "{{Infobox/Location\n|x = -55\n|y = 61\n|z = -84\n|npcs = *Jax\n|location = [[Village]]\n|music = \"[[Hypixel SkyBlock OST#Hub|Hub]]\"\n}}\n\nThe '''Archery Range''' is a [[Locations|Location]] found in the [[Village]] near {{NPCSprite|Rosetta}}. It is where {{NPCSprite|Jax}} can be found, and where the player can complete Target Practice.\n\n{{ZoneText\n|Talk to Jax to forge special arrows!}}\n\n== Target Practice ==\nOnce having talked to {{NPCSprite|Jax}} for the first time, the player can begin Target Practice. There are four tiers, and completing the first three will fully unlock [[Jax]]'s shop.\n\nTarget Practice begins once the player stands on the {{Item|Heavy Weighted Pressure Plate|text=Pressure Plate|link=}} in the center of the room. The player will have {{Green|3}} seconds to prepare before the practice starts. There are {{Item|Redstone Lamp|amount=16|link=}}s around the room, and the player must shoot all of them in the required time frame without moving off the pressure plate.\n\n{| class=\"wikitable\"\n|+Target Practice\n!Tier\n!Time\n!Rewards\n|-\n|{{Archery|1}}\n|{{Green|25}} seconds\n|{{Archery|2}}\n----{{NPCSprite|Jax}}:<br>{{RL|Reinforced Iron Arrow|Gold-tipped Arrow|Redstone-tipped Arrow}}\n|-\n|{{Archery|2}}\n|{{Green|15}} seconds\n|{{Archery|3}}\n----{{NPCSprite|Jax}}:<br>{{RL|Emerald-tipped Arrow|Bouncy Arrow|Icy Arrow}}\n|-\n|{{Archery|3}}\n|{{Green|12}} seconds\n|{{Archery|Practice}}\n----{{NPCSprite|Jax}}:<br>{{RL|Armorshred Arrow|Explosive Arrow|Glue Arrow|Nansorb Arrow}}\n|-\n|{{Archery|4}}\n|{{Green|11}} seconds\n|{{NPCSprite|Jax}}'s [[Abiphones#Contact List|Abiphone Contact]]\n|}\n\n== Tips ==\n*Increasing the player's {{stat|bas}} will allow the player to shoot arrows faster, thus reducing the time needed to complete a Target Practice.\n\n== History ==\n{{History table\n|ahn=\n{{History|2026/Jan 30|Updated the look of the '''Archery Range''', due to the redesign of the [[Hub Island]].}}\n|beta=\n{{History|2021/September 7|Added '''Archery Range'''.}}\n{{History|0.24.2|Updated the look of the '''Archery Range''', due to the redesign of the [[Hub Island]].}}\n}}\n\n== Navigation ==\n{{Nav/Locations}}"
+}

@@ -1,0 +1,225 @@
+{
+  "checkedAt": "2026-10-23T07:45:47.208127+00:00",
+  "wiki": "https://hypixelskyblock.minecraft.wiki",
+  "license": "CC BY-NC-SA 3.0",
+  "copyrightUrl": "https://meta.weirdgloop.org/w/Licensing",
+  "requestedPages": 18,
+  "successfulPages": 18,
+  "importedNpcBaseline": 956,
+  "newNpcLines": 184,
+  "alreadyImported": 57,
+  "duplicateInProbe": 11,
+  "otherDialogueLines": 38,
+  "uiAttributes": 746,
+  "pages": [
+    {
+      "title": "Enigma",
+      "revision": 813284,
+      "dialogueLines": 21,
+      "tooltipAttributes": 1,
+      "messageClasses": {
+        "mcdialogue": 15,
+        "mcdialogue-line": 21
+      }
+    },
+    {
+      "title": "Bartender",
+      "revision": 830399,
+      "dialogueLines": 19,
+      "tooltipAttributes": 15,
+      "messageClasses": {
+        "mcdialogue": 8,
+        "mcdialogue-line": 19
+      }
+    },
+    {
+      "title": "Wizard",
+      "revision": 815348,
+      "dialogueLines": 95,
+      "tooltipAttributes": 13,
+      "messageClasses": {
+        "mcdialogue": 35,
+        "mcdialogue-line": 95
+      }
+    },
+    {
+      "title": "Motes Grubber",
+      "revision": 814176,
+      "dialogueLines": 3,
+      "tooltipAttributes": 1,
+      "messageClasses": {
+        "minimap-stillgore-chateau": 1,
+        "mcdialogue": 1,
+        "mcdialogue-line": 3
+      }
+    },
+    {
+      "title": "Maxwell",
+      "revision": 843002,
+      "dialogueLines": 28,
+      "tooltipAttributes": 146,
+      "messageClasses": {
+        "mcdialogue": 11,
+        "mcdialogue-line": 28
+      }
+    },
+    {
+      "title": "Odger",
+      "revision": 830470,
+      "dialogueLines": 41,
+      "tooltipAttributes": 70,
+      "messageClasses": {
+        "mcdialogue": 14,
+        "mcdialogue-line": 41
+      }
+    },
+    {
+      "title": "Rhys",
+      "revision": 831470,
+      "dialogueLines": 39,
+      "tooltipAttributes": 7,
+      "messageClasses": {
+        "mcdialogue": 11,
+        "mcdialogue-line": 39
+      }
+    },
+    {
+      "title": "Fetchur",
+      "revision": 845673,
+      "dialogueLines": 21,
+      "tooltipAttributes": 0,
+      "messageClasses": {
+        "messagebox": 1,
+        "mcdialogue": 8,
+        "mcdialogue-line": 21
+      }
+    },
+    {
+      "title": "Auction Master",
+      "revision": 823041,
+      "dialogueLines": 4,
+      "tooltipAttributes": 142,
+      "messageClasses": {
+        "messagebox": 1,
+        "messagebox-main": 1,
+        "messagebox-image": 1,
+        "messagebox-text": 1,
+        "messagebox-aside": 1,
+        "mcdialogue": 1,
+        "mcdialogue-line": 4
+      }
+    },
+    {
+      "title": "Bazaar (NPC)",
+      "revision": 828081,
+      "dialogueLines": 0,
+      "tooltipAttributes": 0,
+      "messageClasses": {}
+    },
+    {
+      "title": "Bazaar",
+      "revision": 852132,
+      "dialogueLines": 0,
+      "tooltipAttributes": 27,
+      "messageClasses": {}
+    },
+    {
+      "title": "Auction House",
+      "revision": 854639,
+      "dialogueLines": 4,
+      "tooltipAttributes": 142,
+      "messageClasses": {
+        "mcdialogue": 1,
+        "mcdialogue-line": 5,
+        "messagebox": 1,
+        "messagebox-main": 1,
+        "messagebox-image": 1,
+        "messagebox-text": 1,
+        "messagebox-aside": 1
+      }
+    },
+    {
+      "title": "Pristine",
+      "revision": 848216,
+      "dialogueLines": 0,
+      "tooltipAttributes": 15,
+      "messageClasses": {}
+    },
+    {
+      "title": "Trophy Fish",
+      "revision": 844737,
+      "dialogueLines": 0,
+      "tooltipAttributes": 79,
+      "messageClasses": {}
+    },
+    {
+      "title": "Trophy Frogs",
+      "revision": 852323,
+      "dialogueLines": 0,
+      "tooltipAttributes": 57,
+      "messageClasses": {}
+    },
+    {
+      "title": "Crystal Nucleus",
+      "revision": 860548,
+      "dialogueLines": 6,
+      "tooltipAttributes": 21,
+      "messageClasses": {
+        "mcdialogue": 3,
+        "mcdialogue-line": 7
+      }
+    },
+    {
+      "title": "Goblin Raid",
+      "revision": 831575,
+      "dialogueLines": 9,
+      "tooltipAttributes": 5,
+      "messageClasses": {
+        "messagebox": 1,
+        "messagebox-main": 1,
+        "messagebox-image": 1,
+        "messagebox-text": 1,
+        "messagebox-aside": 1,
+        "messagebox-rtext": 1,
+        "mcdialogue": 4,
+        "mcdialogue-line": 11
+      }
+    },
+    {
+      "title": "Raffle",
+      "revision": 819321,
+      "dialogueLines": 0,
+      "tooltipAttributes": 5,
+      "messageClasses": {
+        "messagebox": 1,
+        "messagebox-main": 1,
+        "messagebox-image": 1,
+        "messagebox-text": 1,
+        "messagebox-aside": 1,
+        "messagebox-rtext": 1
+      }
+    }
+  ],
+  "errors": [],
+  "systemNoticeCandidates": 19,
+  "npcCategory": [
+    {
+      "pageid": 11576,
+      "ns": 14,
+      "title": "Category:Non-player characters",
+      "categoryinfo": {
+        "size": 676,
+        "pages": 674,
+        "files": 0,
+        "subcats": 2,
+        "hidden": false
+      }
+    }
+  ],
+  "limitations": [
+    "Small sample only; wiki text is not a full server text export.",
+    "NPC conditions, placeholders, formatting and exact punctuation require game verification.",
+    "UI attributes and dialogue options are not counted as system notifications.",
+    "No mod dictionary changes or automatic translation imports."
+  ]
+}

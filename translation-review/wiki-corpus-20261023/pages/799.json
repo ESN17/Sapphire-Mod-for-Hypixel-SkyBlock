@@ -1,0 +1,16 @@
+{
+  "title": "Banker",
+  "pageid": 799,
+  "revision": 823074,
+  "timestamp": "2026-08-24T05:28:25Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Banker",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=823074",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Category:Pages with UIs",
+    "Template:Dialogue",
+    "Template:UI"
+  ],
+  "wikitext": "{{Infobox/Character\n|quests = {{Quest|Saving Up}}\n|location = [[Bank]]\n|location_page_description = Allows the player to access the {{Zone|Bank}} to store or access their {{Coins}}.\n|x = -29.5\n|y = 72\n|z = -38\n}}\n'''Banker''' is an [[NPC]] located in the {{zone|Bank}}. They grant the player access to the [[Bank]].\n\n== Interface ==\n{{:Bank/UI}}\n\n== Dialogue ==\n{| class=\"wikitable\"\n!Condition\n!Dialogue\n|-\n| class=\"ct\" | First Interaction\n|{{Dialogue|\n&e[NPC] Banker&f: Hello there!\n&e[NPC] Banker&f: &fYou may want to store your &6Coins &fin a safe place while you are off adventuring.\n&e[NPC] Banker&f: &fStoring them in your &6Bank &fkeeps them safe and allows you to earn interest at the start of every season!\n}}\n|}\n\n== Banking System ==\n{{Main|Bank}}\nRight-clicking the [[Banker]] will open the {{zone|Bank}} interface. The player will be presented with several options, consisting of the ability to deposit and withdraw {{c}} from either a personal account or an account shared with the player's co-op, viewing previous [[Bank|Banking]] activity, and upgrading the co-op [[Bank]] account.\n\n{{C|alt=Coins}} stored in the Bank are not lost when the player [[Death|dies]].\n\n=== Bank Upgrades ===\nPlayers are able to upgrade their co-op bank account with {{C}} and {{Item|Enchanted Gold Block}}s after meeting the respective [[Gold]] Collection and Museum Milestone requirement, which is viewable in the upgrade screen. Upgrading the [[Bank]] account increases the maximum amount of {{C}} able to be stored in the bank, and increases the maximum interest able to be gained. Upgrading Bank accounts also rewards {{SkyBlock Experience}}.\n\nAt least {{C|10m}} must be stored in the co-op bank and the purse combined before the upgrade screen is unlocked.\n\nUpgrading your co-op account will also upgrade your personal account. Your personal account's max amount will always be 20% of your co-op account's max.\n== Trivia ==\n*Unlike most other NPCs, '''Banker''' stands on the verge of 2 blocks, rather than in the middle of one.\n*Other islands feature other Banker NPCs, serving the same purpose, namely {{NPCSprite|Banker Barry}} or {{NPCSprite|Banker Broadjaw}}, {{NPCSprite|Belanor}} or {{NPCSprite|Bruto}}.\n\n== History ==\n{{History table\n|ahn=\n{{History|2026/Jan 30|Moved '''Banker''' from {{coords|-24.5|71|-58.5}} to {{Coords|-29.5|72|-38}}, due to the redesign of the [[Hub Island]].}}\n|beta=\n{{History|0.1|[[File:Banker.png|26px]] Added '''Banker'''.}}\n{{History|0.24.2|Moved '''Banker''' from {{coords|-24.5|71|-58.5}} to {{Coords|-29.5|72|-38}}, due to the redesign of the [[Hub Island]].}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}"
+}

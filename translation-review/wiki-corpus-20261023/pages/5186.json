@@ -1,0 +1,13 @@
+{
+  "title": "Move Jerry",
+  "pageid": 5186,
+  "revision": 847157,
+  "timestamp": "2026-09-27T17:32:21Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Move_Jerry",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=847157",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Item\n|rarity=c\n|id=ASSISTANT\n|auctionable=n\n}}\n'''Move Jerry''' is a {{Common}} item.\n\n== Obtaining ==\nA '''Move Jerry''' can be claimed from [[Jerry]] after clicking [[Jerry#Purpose|Move Jerry]] in their [[Jerry#Interface|interface]]. If the player already has a '''Move Jerry''' in their inventory, [[Jerry]] will not give the player another one. This can be bypassed by storing the '''Move Jerry''' in a different inventory and claiming another one.\n\n== Usage ==\n=== Moving Jerry ===\nA '''Move Jerry''' can be used to change [[Jerry]]'s location on the player's [[Private Island]]. The new spawn location has to be on top of a solid block, and cannot be placed above the void.\n\n=== Crafting ===\n{{Crafting Usage}}\n\n=== Jerry Pet Upgrade ===\nUpgrading {{Item|Jerry Pet}} at {{NPCSprite|Kat}} requires '''Move Jerry'''.\n{| class=\"wikitable\"\n! Rarity\n! Ingredients\n|-\n| {{Rarity|c|C}} → {{Rarity|u|U}}\n| {{RL|1 Move Jerry}}\n|-\n| {{Rarity|u|U}} → {{Rarity|r|R}}\n| {{RL|1 Move Jerry}}\n|-\n| {{Rarity|r|R}} → {{Rarity|e|E}}\n| {{RL|1 Move Jerry}}\n|-\n| {{Rarity|e|E}} → {{Rarity|l|L}}\n| {{RL|1 Move Jerry}}\n|}\nIt takes {{Item|Move Jerry|4}} in total to upgrade a {{Item|Jerry Pet}} to {{Legendary}}.\n\n=== Mutations ===\nIn order to obtain a {{Item|Jerryflower}}, the {{Item|Fertilized Jerryseed}} needs to be  given {{Item|Move Jerry|amount=10}} to continue growing past {{Dark Green|Growth Stage}} {{Green|5}}.\n\n== Game Message ==\n{| class=\"wikitable\"\n!Condition\n!Message\n|-\n| class=\"ct\" | Claiming\n|{{Dialogue|&aUse the egg I gave you to click and point to where you want me to go!}}\n|-\n| class=\"ct\" | Placing Above Void\n|{{Dialogue|&cWhy would you try? :(}}\n|-\n| class=\"ct\" | Placing on Public Island or {{zone|The Garden}}\n|{{Dialogue|&cYou can't move Jerry here! He doesn't belong here!}}\n|-\n| class=\"ct\" | Placing While Guesting\n|{{Dialogue|&cGuests can't place Jerry or Sam! But you know that, right?}}\n|}\n\n== History ==\n{{History table\n|beta=\n{{history|0.5|[[File:Move Jerry.png|26px]] Added '''Move Jerry'''.}}\n{{history|2019/July 15|Fixed being able to place '''Move Jerrys''' in water on public islands.}}\n}}"
+}

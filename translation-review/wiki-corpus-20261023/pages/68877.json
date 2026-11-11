@@ -1,0 +1,13 @@
+{
+  "title": "Fairy",
+  "pageid": 68877,
+  "revision": 858561,
+  "timestamp": "2026-10-14T21:19:28Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Fairy",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=858561",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{about|a mob that spawns in the so called fairy room of dungeons|other uses|Fairy (disambiguation)}}\n{{Infobox/Dungeon enemy\n|title = Fairy\n|stats = {{InfoboxMobStats\n|health = 4\n}}\n|spawn_location = [[The Catacombs]]\n|mob_drops = \n*1 Revive Stone\n*0-1 Fairy Wings\n|mob_type = None\n|bestiary = n\n}}\n'''Fairies''' are [[Dungeons]] mobs that spawn around [[Fairy Trees]], which will appear in pink rooms on the Dungeon Map. Fairies will drop a {{Item|Revive Stone}}, which can revive a dead player. \n\n== Dialogue ==\n{| class=\"wikitable\"\n!Condition\n!Dialogue\n|-\n| class=\"ct\" | After teammate killed Fairy\n|{{Dialogue|&d<name> the Fairy&f: Have a great life!}}\n|-\n| class=\"ct\" | Killing Fairy\n|{{Dialogue|&d<name> the Fairy&f: You killed me! Take this &6Revive Stone&f so my death is not in vain!}}\n|-\n| class=\"ct\" | Killing Fairy whilst a Ghost\n|{{Dialogue|&d<name> the Fairy&f: You killed me! I will revive you so my death is not in vain!}}\n|-\n| class=\"ct\" | Hitting with {{Item|Shears}}\n|{{Dialogue|&d<name> the Fairy&f: I like your spirit, but those are not mysterious enough!}}\n|-\n| class=\"ct\" |Hitting with {{Item|Enchanted Shears}}\n|{{Dialogue|&d<name> the Fairy&f: You clipped my wings! Take this &5Fairy Wings&f so my loss is not in vain!}}\n|}\n\n== Trivia ==\n*Fairies can have different names, including Akia, Tyene, Yve, Ilene or Steve.\n*When [[The Catacombs]] first released, the mechanics behind the Special Score calculation were unclear. This led to a popular misconception that killing '''Fairies''' reduced it, but this has since been proven to be false.\n*Two Fairies will spawn in the stands during the [[Thorn]]  boss fight.\n*Contrary to what {{NPCSprite|Tia the Fairy}} and the {{NPCSprite|Fairylosopher}}s say, they don't spawn a fairy soul upon death.\n\n== History ==\n{{History table\n|beta=\n{{History|0.8|Added Fairies}}\n{{History|2022/October 5|link=none|Hitting a '''Fairy''' with {{Item|Enchanted Shears}} now drops {{Item|Fairy Wings}}.}}\n{{history|2023/Sep 26|Mage Beam can now deal damage to Fairies.}}\n}}"
+}

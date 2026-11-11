@@ -1,0 +1,13 @@
+{
+  "title": "Festering Maggot",
+  "pageid": 107279,
+  "revision": 859313,
+  "timestamp": "2026-10-15T19:58:34Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Festering_Maggot",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=859313",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Item\n|rarity = e\n|auctionable = n\n|bazaar = FESTERING_MAGGOT\n|id = FESTERING_MAGGOT\n|sell = 250000\n}}\nA '''Festering Maggot''' is an {{Epic}} [[Permanent Consumable]] item used to increase the player's {{Stat|def}}.\n\n== Obtaining ==\nA '''Festering Maggot''' has a {{Chance|0.5%|1|200}} chance to drop from a {{SlayerTier|4}} or above {{MobSprite|Revenant Horror}} once at {{Coll|Zombie Slayer VI}}.\n\n== Usage ==\nConsuming a '''Festering Maggot''' grants {{SBXP|+2}} and a permanent {{stat|def|+1}}. Up to {{Green|5}} '''Festering Maggots''' can be consumed in total.\n\n== Game Message ==\n{| class=\"wikitable\"\n! Condition\n!Message\n|-\n| class=\"ct\" |First Maggot\n|{{Dialogue|&2&lARGH! &aThings don't seem too bad at first, but then the maggot explodes in your mouth.}} \n|-\n| class=\"ct\" |Second Maggot\n|{{Dialogue|&2&lPHEW! &aBetter hold your nose while chewing, the smell isn't helping things.}}\n|-\n| class=\"ct\" |Third Maggot\n|{{Dialogue|&2&lUGH! &aThe third tastes three times worse than the second, which tasted twice as bad as the first. Things aren't looking up. But hey, anything for a small stat buff.}}\n|-\n| class=\"ct\" |Fourth Maggot\n|{{Dialogue|&2&lHIC! &aYou struggle to keep a burp down, and it tastes like more maggots. Nasty.}}\n|-\n| class=\"ct\" |Fifth Maggot\n|{{Dialogue|&2&lNO MORE! &aNot again, not even once. You say that, but we both know you'll do anything for a small stat boost. Be it maggot, larva, or vial, you'll be there, hungry for more.}}\n|-\n| class=\"ct\" |Attempting to eat more than 5\n|{{Dialogue|&cYou've already consumed the maximum amount of this item!}}\n|}\n\n== Trivia ==\n* \"''Be it maggot, larva, or vial, you'll be there, hungry for more.''\" references the {{Item|Wriggling Larva}} and {{Item|Vial of Venom}}.\n\n== History ==\n{{History table\n|ahn=\n{{History|2025/Jul 8|[[File:Festering Maggot.png|26px]] Added '''Festering Maggot'''.}}\n{{History|2025/Jul 17|Changed '''Festering Maggot''' granting bonus {{Undead}} {{stat|dmg}} to {{stat|def|1}}.}}\n|beta=\n{{History|0.23.2|[[File:Festering Maggot.png|26px]] Added '''Festering Maggot'''.}}\n{{history|0.24.5|Moved '''Festering Maggot''' from Extra loottable of Slayer Mobs to Main.}} \n}}\n\n[[Category:Permanent Consumables]]"
+}

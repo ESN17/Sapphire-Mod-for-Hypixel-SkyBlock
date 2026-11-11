@@ -1,6 +1,11 @@
 {
   "version": "2026-10-31-neu-incremental-review",
   "terms": {
+    "Bingo": "宾果",
+    "Bingo Event": "宾果活动",
+    "Goon": "恶棍",
+    "Smite": "亡灵杀手",
+    "Haymaker": "猛击",
     "Dungeon": "地牢",
     "Rarity": "稀有度",
     "Legendary": "传说",
@@ -421,6 +426,7 @@
     "数字、正负号、百分号、私有区图标、☘、⸕等符号保持原样；纯数字或纯符号返回原文。",
     "保持原文标点风格；原文的英文冒号、括号、方括号、感叹号等不要擅自改为全角。",
     "NPC 名字默认保留英文，明确指定的译名与 Aspect 系列例外。服务器命令原样保留。",
+    "Hypixel 会员等级（rank）标签 [VIP]、[VIP+]、[MVP]、[MVP+]、[MVP++] 及其带颜色的写法一律保留原文，不翻译括号内的文字，也不改写其中的颜色代码；单独的 VIP、MVP 等称号同样保留。",
     "连续描述按完整中文语义翻译，不机械照搬英文折行；不能跨空白分段或吞掉属性、标题。",
     "只保留专有的人名或品牌，不要将整件英文物品名当专有名词保留。普通形容词、颜色、部件和头衔必须翻译，例如 Actually Blue™ Abicase = 真正蓝色™ Abiphone 手机壳，Maddox Batphone = Maddox 蝙蝠电话，Aatrox (Mayor) = Aatrox (市长)。",
     "物品型号和字母数字代号必须保留原样，例如 DR-X655、SX-R326、TX-15、FTX 3070、G3、GG、v1；不得音译字母，不得改写连字符或数字。只翻译型号周围的普通物品名称。",
@@ -432,6 +438,11 @@
     "NEU 删除条目只出报告，不自动删除旧译文；生成的 ZIP 必须由人工审核后再上传。"
   ],
   "preserve_identifiers": [
+    "[VIP]",
+    "[VIP+]",
+    "[MVP]",
+    "[MVP+]",
+    "[MVP++]",
     "DR-X355",
     "DR-X455",
     "DR-X555",
@@ -8627,6 +8638,16 @@
     "Zorro's Cape": "佐罗的披风"
   },
   "allowed_english": [
+    "VIP",
+    "MVP",
+    "Alixer",
+    "Brarnas",
+    "Dalir",
+    "Spaceman",
+    "Thondin",
+    "Trinity",
+    "Warren",
+    "Alex",
     "Abiphone",
     "AbingoPhone",
     "Hypixel",

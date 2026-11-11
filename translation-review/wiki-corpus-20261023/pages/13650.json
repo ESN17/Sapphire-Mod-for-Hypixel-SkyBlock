@@ -1,0 +1,17 @@
+{
+  "title": "Terry",
+  "pageid": 13650,
+  "revision": 830499,
+  "timestamp": "2026-09-03T01:32:47Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Terry",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=830499",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Category:Pages with UIs",
+    "Category:Events",
+    "Category:Season of Jerry",
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Character\n|shop = Yes\n|abiphone = Yes\n|location = [[Terry's Shack]]\n|location_page_description = Sells various [[Reforge Stones]].\n|x = -92.5 \n|y = 78 \n|z = 25.5\n}}\n'''Terry''' is an [[NPC]] located in {{zone|Terry's Shack}} on {{Zone|Jerry's Workshop}}. They sell fishing-related [[Reforge Stones]].\n\n__TOC__\n\n== Interface ==\n{{/UI}}\n\n== Dialogue ==\n{| class=\"wikitable\"\n! colspan=\"2\" | Condition\n! Dialogue\n|-\n| colspan=\"2\" class=\"ct\" | First Interaction\n|{{Dialogue|\n&e[NPC] Terry&f: Ahoy, &b<player>&f! Welcome to the Jerry Pond!\n&e[NPC] Terry&f: You may have noticed that this pond is full of unique creatures and treasures!\n&e[NPC] Terry&f: I'm looking for &bIce Hunks&f and &bBlue Ice Hunks&f!\n&e[NPC] Terry&f: You can find these by &bice fishing&f in the pond - break the ice and cast your rod!\n&e[NPC] Terry&f: Bring enough hunks back to me and I will reforge your fishing rod with modifiers exclusive to me -  Terry!\n}}\n|-\n| rowspan=\"3\" class=\"ct\" | {{zone|The Garden}}\n| class=\"ct\" | None\n| {{Dialogue|&e[NPC] &aTerry&f: Ahoy, &b<player>&f! People always tell me they like ice cream, but ice never really tastes like anything for me!}}\n|-\n| class=\"ct\" | Completing\n| {{Dialogue|&e[NPC] &aTerry&f: You are saying I need to combine these items with ice to have a taste? I'll believe it when I see it!}}\n|-\n| class=\"ct\" | Denying\n| {{Dialogue|&e[NPC] &aTerry&f: I'll keep crunching on those ice cubes, maybe I am missing something.}}\n|-\n| rowspan=\"6\" class=\"ct\" | [[Abiphones#Contacts|{{Aqua|Abiphone Contact}}]]\n| class=\"ct\" | None\n|{{Dialogue|\n&e[NPC] Terry&f: &b✆ &f&fAhoy, &b<player>&f!\n&e[NPC] Terry&f: &b✆ &f&fIf you want my &3Abiphone Contact&f, you're gonna have to bring me the goods.\n&e[NPC] Terry&f: &b✆ &f&f&aIce Hunks &fand &9Blue Ice Hunks &fwon't cut it anymore, unfortunately.\n&e[NPC] Terry&f: &b✆ &f&fIf you want me in your phone, bring me a &6Winter Water Orb&f!\n&a&l[GIVE ITEM] \n}}\n|-\n| class=\"ct\" | Meeting Requirements\n|{{Dialogue|\n&e[NPC] Terry&f: &b✆ &fThanks for the orb!\n&e[NPC] Terry&f: &b✆ &fNow that I have this, the possibilities are endless!\n&e[NPC] Terry&f: &b✆ &fHere, take my contact.\n&e[NPC] Terry&f: &b✆ &fI'm just a call away if you ever need me!\n}}\n|-\n| class=\"ct\" | Not Meeting Requirements\n|{{Dialogue|\n&e[NPC] Terry&f: &b✆ &fThat's not what I asked for!\n&e[NPC] Terry&f: &b✆ &fBring me a &6Winter Water Orb&f!\n}}\n|}\n\n== History ==\n{{History table\n|beta=\n{{History|2019/December 18|[[File:Terry.png|26px]] Added '''Terry'''.}}\n{{History|2022/Nov 30|'''Terry''' no longer offers reforges, and instead sells [[Reforge Stones]].}}\n}} \n\n== Navigation ==\n{{Nav/Events/Season of Jerry}}\n{{Nav/Characters}}\n[[Category:Reforging]]\n[[Category:Fishing]]"
+}

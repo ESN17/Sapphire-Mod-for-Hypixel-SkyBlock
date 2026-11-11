@@ -1,0 +1,88 @@
+{
+  "revision": "2026-10-16-first-feedback",
+  "names": {
+    "God Potion": "神药",
+    "Pickonimbus 2000": "光镐2000",
+    "Digested Mosquito": "消化过的蚊子肉",
+    "Rock the Fish": "石头鱼",
+    "Powder of the People": "万民之尘",
+    "Powder of the Many": "众人之尘",
+    "Powder of the Few": "少数之尘",
+    "Powder of One": "一人之尘",
+    "Powder of the One": "一人之尘",
+    "Emperor's Artifact": "海皇神器",
+    "Emperor's Ring": "海皇戒指",
+    "Emperor's Talisman": "海皇护符",
+    "Spiked Atrocity": "刺棘凶符",
+    "Bluertooth Ring": "更蓝的蓝牙戒指",
+    "InfiniPot™": "无限药水™",
+    "InfiniLeap™": "无限跳跃™",
+    "Infinileap": "无限跳跃™",
+    "InfiniBoom™ TNT": "无限爆炸™TNT",
+    "Infinityboom TNT": "无限爆炸™TNT",
+    "Cruxmotion": "核心精魄",
+    "Steak Stake": "尖刺签",
+    "Super Sharp 'n Stabby Steak Stake": "钻溅尖刺签",
+    "Polarvoid Book": "极虚之书",
+    "Fuming Potato Book": "发烟的土豆书",
+    "The Art of War": "孙子兵法",
+    "The Art of Peace": "孙弟兵法",
+    "Brain Food": "脑餐",
+    "Carrot Zest": "风味胡萝卜",
+    "Umber Plate": "棕土板",
+    "Gloomlock Grimoire": "暗锁导书",
+    "Squash": "西葫芦",
+    "Fermento": "酵母菌",
+    "Condensed Fermento": "浓缩酵母菌",
+    "Helianthus": "向阳花",
+    "Condensed Helianthus": "浓缩向阳花",
+    "Re-heated Gummy Polar Bear": "重新加热的北极熊软糖",
+    "Perma-Jelled Garlic-Flavored Re-Heated Gummy Polar Bear": "永久凝胶蒜香复热北极熊软糖"
+  },
+  "terms": {
+    "Scavenger": {"translation": "拾荒者", "old": ["Scavenger"]},
+    "Shen": {"translation": "沈", "old": ["Shen"]},
+    "Jerry": {"translation": "杰瑞", "old": ["Jerry"]},
+    "Jyrre": {"translation": "杰瑞", "old": ["Jyrre"]},
+    "Kuudra": {"translation": "库德拉", "old": ["Kuudra"]},
+    "Ferocity": {"translation": "残暴值", "old": ["Ferocity", "凶暴", "凶残", "凶猛", "凶性"]},
+    "Hotspot": {"translation": "热点", "old": ["Hotspot", "渔点"]},
+    "Great Spook": {"translation": "大万圣节", "old": ["Great Spook", "大型惊吓", "大幽灵"]},
+    "Catacomb": {"translation": "地牢", "old": ["The Catacombs", "The Catacomb", "Catacombs", "Catacomb", "地牢墓穴", "地下墓穴", "墓穴"]},
+    "Zealot": {"translation": "末地战士", "old": ["Zealots", "Zealot", "狂热者", "狂信徒", "狂热"]},
+    "Scatha": {"translation": "史卡沙", "old": ["Scatha"]},
+    "Armadillo": {"translation": "穿山甲", "old": ["Armadillo", "犰狳"]},
+    "Squash": {"translation": "西葫芦", "old": ["Squash", "南瓜"]},
+    "Fermento": {"translation": "酵母菌", "old": ["Fermento", "发酵精华", "发酵"]},
+    "Helianthus": {"translation": "向阳花", "old": ["Helianthus", "向日葵"]}
+  },
+  "paragraph_overrides": {
+    "REFINED_BOTTLE_OF_JYRRE": {
+      "Aged Like Fine Jyrre": {"translation": "陈年杰瑞佳酿", "styleMappings": {}}
+    },
+    "CATACOMBS_EXPERT_RING": {
+      "Increases Catacombs dungeon experience by {{N0}}.": {"translation": "地牢经验增加 {{N0}}.", "styleMappings": {"Catacombs": "地牢", "Increases": "增加"}}
+    },
+    "ENDSTONE_ROSE": {
+      "\"The Zealots have shown me so much love, I hope this simple rose shows how much I care for them.\" - End Stone Protector": {"styleMappings": {"End Stone Protector": "末地石守护者", "Zealots": "末地战士"}}
+    },
+    "GENERAL_MEDALLION": {
+      "Increases the base stats of your dungeon items by {{N0}} while in The Catacombs for each digit on your secret count. (Max {{N1}})": {"styleMappings": {"your dungeon items": "地牢物品", "The Catacombs": "地牢", "(Max {{N1}})": "(上限 {{N1}})"}}
+    }
+  },
+  "phrases": {
+    "Shen's Auction": "沈的拍卖会",
+    "Shen's Special": "沈的特卖会",
+    "Shen's Agent": "沈的代理人",
+    "Shen's Regalia": "沈的华服",
+    "Shen's Ringalia": "沈的戒指",
+    "Jerry's Workshop": "杰瑞工坊",
+    "Jerry Castle": "杰瑞城堡",
+    "Jerry Effect": "杰瑞效应",
+    "Jerry Island": "杰瑞岛",
+    "Season of Jerry": "杰瑞季",
+    "Great Spook Armor": "大万圣节盔甲",
+    "Great Spook Potion": "大万圣节药水",
+    "Mento Fermento": "酵母菌滋生"
+  }
+}

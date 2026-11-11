@@ -1,0 +1,13 @@
+{
+  "title": "Bee Saliva",
+  "pageid": 133902,
+  "revision": 847566,
+  "timestamp": "2026-09-28T16:53:36Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Bee_Saliva",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=847566",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Item\n|rarity = e\n|salable = n\n|auctionable = n\n|id = BEE_SALIVA\n|raw_materials = *25600 Honeycomb\n*10240 Helix Log\n|mat_cost_bazaar = *1 Enchanted Honeycomb Block\n*64 Enchanted Helix Log\n}}\n'''Bee Saliva''' is an {{Epic}} [[Permanent Consumable]] item used to increase the player's {{Stat|Foraging Fortune}}.\n\n== Obtaining ==\n=== Crafting ===\n{{Crafting Recipe Table\n|{{Crafting Recipe Row\n |requirement = {{Coll|Honeycomb VIII}}\n |A1 =                         |B1 = Enchanted Helix Log, 16   |C1 = \n |A2 = Enchanted Helix Log, 16 |B2 = Enchanted Honeycomb Block |C2 = Enchanted Helix Log, 16\n |A3 =                         |B3 = Enchanted Helix Log, 16   |C3 = \n |Output = Bee Saliva\n }}\n}}\n\n== Usage ==\nConsuming '''Bee Saliva''' grants {{SBXP|+2}} and a permanent {{Stat|foraging fortune|+1}}. Up to {{Green|5}} '''Bee Saliva''' can be consumed in total.\n\n== Game Message ==\n{| class=\"wikitable\"\n! Condition\n!Message\n|-\n| class=\"ct\" |Consuming First\n|{{Dialogue|&6&lOOF! &rThis has a particularly sour taste to it. Not the nicest.}} \n|-\n| class=\"ct\" |Consuming Second\n|{{Dialogue|&6&lEEW! &rYou struggle to keep the gloop down - it's just so sour!}}\n|-\n| class=\"ct\" |Consuming Third\n|{{Dialogue|&6&lHMM! &rOnly thing keeping you going is knowing how long it took to make. Can't waste it!}}\n|-\n| class=\"ct\" |Consuming Fourth\n|{{Dialogue|&6&lEURGH! &rYour face almost turns inside-out as you process the bitter taste.}}\n|-\n| class=\"ct\" |Consuming Fifth\n|{{Dialogue|&6&lRIP! &rYour brain numbs - the damage may be permanent...}}\n|-\n| class=\"ct\" |Attempting to consume more than 5\n|{{Dialogue|&cYou've already consumed the maximum amount of this item!}}\n|}\n\n== History ==\n{{History table\n|ahn=\n{{History|2026/Jul 10|[[File:Bee Saliva.png|26px]] Added '''Bee Saliva'''.}}\n|beta =\n{{History|0.27|[[File:Bee Saliva.png|26px]] Added '''Bee Saliva'''.}}\n}}\n\n== Navigation ==\n{{Nav/Collection/Honeycomb}}\n\n[[Category:Permanent Consumables]]"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Guildford",
+  "pageid": 51592,
+  "revision": 823088,
+  "timestamp": "2026-08-24T05:32:11Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Guildford",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=823088",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Category:UI Subpages",
+    "Template:Dialogue",
+    "Template:UI"
+  ],
+  "wikitext": "{{Infobox/Character\n|quests = {{Quest|Dungeon Hub Racing}}\n|location = [[Dungeon Hub]]\n|location_page_description = Allows the player to compete in the [[Dungeon Hub Race]]s.\n|x = -18.5\n|y = 86\n|z = 4.5\n}}\n'''Guildford''' is an [[NPC]] in the [[Dungeon Hub]]. They let the player compete in the [[Dungeon Hub Race]].\n\n== Interface ==\n{{/UI}}\n\n== Dialogue ==\n{| class=\"wikitable\"\n!Condition\n!Dialogue\n|-\n| class=\"ct\" | First Interaction\n|{{Dialogue|\n&e[NPC] &dGuildford&f: I'm Guildford! Yes, ''that'' Guildford. I'm sure you've heard of me!\n&e[NPC] &dGuildford&f: There is some fantastic scenery around this land. I like to race back and forth!\n&e[NPC] &dGuildford&f: You can speak to me any time and I'll set up a race with the settings you choose.\n&e[NPC] &dGuildford&f: If you do well in the races I will reward you!\n}}\n|-\n| class=\"ct\" | Completing Objective\n|{{Dialogue|&e[NPC] &dGuildford&f: Well done, &7[player]&f.}}\n|}\n\n== Dungeon Hub Race ==\nStepping on the [[Light Weighted Pressure Plate|Gold Pressure Plate]] next to '''Guildford''' will begin the [[Dungeon Hub Race]]. The player must travel to the destination and reach the checkpoint to complete the race. Settings can be toggled to modify the race.\n\n== History ==\n{{History table\n|beta=\n{{history|0.7|[[File:Guildford.png|26px]] Added '''Guildford'''.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}\n[[Category:Racing]]"
+}

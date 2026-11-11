@@ -1,0 +1,948 @@
+{
+  "schemaVersion": 1,
+  "completedAt": "2026-10-16T11:12:48.127062+00:00",
+  "selectionBasis": "按常见玩法选取的试译样本，不是实时热度排名。",
+  "newItemIds": 100,
+  "totalBundledItemIds": 110,
+  "nonemptyReferenceLoreLines": 781,
+  "categories": {
+    "武器": 18,
+    "护甲": 12,
+    "工具与治疗": 6,
+    "仆从用品": 10,
+    "饰品": 6,
+    "强化与消耗品": 18,
+    "材料": 24,
+    "宠物（传说品质）": 6
+  },
+  "javaTests": {
+    "tests": 44,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "pythonTests": {
+    "tests": 13,
+    "failures": 0
+  },
+  "dictionaryValidation": {
+    "defaultsErrors": 0,
+    "defaultsWarnings": 0,
+    "runtimeErrors": 0,
+    "runtimeWarnings": 0
+  },
+  "offlineClientSmoke": "SAPPHIRE_SMOKE_OK (build/pilot-smoke.log)",
+  "existingNonemptyTranslations": "preserved and compared against pre-pilot snapshot",
+  "externalTranslationApiCalls": 0,
+  "scopeNotes": [
+    "本批100个ID均为新增，不包含之前完成的10个物品。",
+    "三套龙甲按12个部位ID计数；6种宠物仅翻译传说品质。",
+    "基于本地NEU英文快照翻译；REFINED_AMBER的当前显示名为Andesite Whetstone，译为安山岩磨刀石。",
+    "保留Kat、Bonzo、Livid、Kuudra等人名及服务器指令。",
+    "所有参考描述均通过渲染及显示数值不变检查；检查包括动态属性、宠物等级、虚空之剑8至12格传送。",
+    "未对100件物品逐件进行Hypixel在线实测；额外附魔、卷轴技能、皮肤及服务器新增描述需按实物补充。",
+    "含渲染代码修复，需要重启客户端；之后仅修改词典时使用/sapphire reload。"
+  ],
+  "items": [
+    {
+      "id": "ASPECT_OF_THE_DRAGON",
+      "english": "Aspect of the Dragons",
+      "chinese": "巨龙之剑",
+      "loreLines": 10,
+      "category": "武器",
+      "dictionary": "../dictionary-workspace/translations/items/ASPECT_OF_THE_DRAGON.json",
+      "neuDisplayFixtureSha256": "e7a5fe0566bfac497d5f561f54e6029be92b36ebaee995db2a64de4c88eaaeb4"
+    },
+    {
+      "id": "ASPECT_OF_THE_VOID",
+      "english": "Aspect of the Void",
+      "chinese": "虚空之剑",
+      "loreLines": 9,
+      "category": "武器",
+      "dictionary": "../dictionary-workspace/translations/items/ASPECT_OF_THE_VOID.json",
+      "neuDisplayFixtureSha256": "6798ef2b90f4875864d40721a25004895010faa6958e63164314b9a964d08a2d"
+    },
+    {
+      "id": "HYPERION",
+      "english": "Hyperion",
+      "chinese": "海伯利安",
+      "loreLines": 13,
+      "category": "武器",
+      "dictionary": "../dictionary-workspace/translations/items/HYPERION.json",
+      "neuDisplayFixtureSha256": "612e56b1b2834ffad65305537a55d249c9ce7d07dd54bc31a709f84a214aa0f1"
+    },
+    {
+      "id": "LIVID_DAGGER",
+      "english": "Livid Dagger",
+      "chinese": "Livid 匕首",
+      "loreLines": 17,
+      "category": "武器",
+      "dictionary": "../dictionary-workspace/translations/items/LIVID_DAGGER.json",
+      "neuDisplayFixtureSha256": "9a3752f6ac7a2dc28b2c9cc805b3a5a502e8ad73b1737e0bf522c6b7d1670b75"
+    },
+    {
+      "id": "SHADOW_FURY",
+      "english": "Shadow Fury",
+      "chinese": "暗影之怒",
+      "loreLines": 14,
+      "category": "武器",
+      "dictionary": "../dictionary-workspace/translations/items/SHADOW_FURY.json",
+      "neuDisplayFixtureSha256": "3cb932bc364d8ebb212129c5774b56fba9e793314f8df8aa44cbe22275c320b5"
+    },
+    {
+      "id": "FLOWER_OF_TRUTH",
+      "english": "Flower of Truth",
+      "chinese": "真理之花",
+      "loreLines": 13,
+      "category": "武器",
+      "dictionary": "../dictionary-workspace/translations/items/FLOWER_OF_TRUTH.json",
+      "neuDisplayFixtureSha256": "4e0cb7393e5922d64f3146724adda88302db00f0a47a08056a1d586c7b91bc55"
+    },
+    {
+      "id": "BONZO_STAFF",
+      "english": "Bonzo's Staff",
+      "chinese": "Bonzo 法杖",
+      "loreLines": 11,
+      "category": "武器",
+      "dictionary": "../dictionary-workspace/translations/items/BONZO_STAFF.json",
+      "neuDisplayFixtureSha256": "54feeca1de74f6b7db929667e2924ade1cc6a9740a63240b10b941f2dea08fd9"
+    },
+    {
+      "id": "FROZEN_SCYTHE",
+      "english": "Frozen Scythe",
+      "chinese": "冰霜镰刀",
+      "loreLines": 7,
+      "category": "武器",
+      "dictionary": "../dictionary-workspace/translations/items/FROZEN_SCYTHE.json",
+      "neuDisplayFixtureSha256": "58e69395db4907a99f224ecc883da65445659aa89a9c8f0bef3b6fe52c15fd45"
+    },
+    {
+      "id": "CRYPT_DREADLORD_SWORD",
+      "english": "Dreadlord Sword",
+      "chinese": "恐惧魔王之剑",
+      "loreLines": 10,
+      "category": "武器",
+      "dictionary": "../dictionary-workspace/translations/items/CRYPT_DREADLORD_SWORD.json",
+      "neuDisplayFixtureSha256": "672fb28e69e0219018881040067bf9caab83e62ea8f3e6accd8bc539582ad4ab"
+    },
+    {
+      "id": "JUJU_SHORTBOW",
+      "english": "Juju Shortbow",
+      "chinese": "朱朱短弓",
+      "loreLines": 11,
+      "category": "武器",
+      "dictionary": "../dictionary-workspace/translations/items/JUJU_SHORTBOW.json",
+      "neuDisplayFixtureSha256": "e385fec48c51d9f7095b5610bae894057624171d8e15125dd0fd676d40ab8201"
+    },
+    {
+      "id": "TERMINATOR",
+      "english": "Terminator",
+      "chinese": "终结者",
+      "loreLines": 18,
+      "category": "武器",
+      "dictionary": "../dictionary-workspace/translations/items/TERMINATOR.json",
+      "neuDisplayFixtureSha256": "48dbf53d3e9feb4e72d81f39a6d573fcaa84ebe5378262b926f64b90fb182b80"
+    },
+    {
+      "id": "RUNAANS_BOW",
+      "english": "Runaan's Bow",
+      "chinese": "卢安之弓",
+      "loreLines": 8,
+      "category": "武器",
+      "dictionary": "../dictionary-workspace/translations/items/RUNAANS_BOW.json",
+      "neuDisplayFixtureSha256": "267a48423055402e8af0f8adb08ab628a268e825e2890dbcecad02846dba42e3"
+    },
+    {
+      "id": "HURRICANE_BOW",
+      "english": "Hurricane Bow",
+      "chinese": "飓风之弓",
+      "loreLines": 10,
+      "category": "武器",
+      "dictionary": "../dictionary-workspace/translations/items/HURRICANE_BOW.json",
+      "neuDisplayFixtureSha256": "0f35995e4080cc494f6da85320a254443b12d32225232f0e857819921e5e6367"
+    },
+    {
+      "id": "UNDEAD_SWORD",
+      "english": "Undead Sword",
+      "chinese": "亡灵剑",
+      "loreLines": 5,
+      "category": "武器",
+      "dictionary": "../dictionary-workspace/translations/items/UNDEAD_SWORD.json",
+      "neuDisplayFixtureSha256": "e9fb6e7eca38ab707ed116eafed4d400a20d0d27eb49bb025943730ad18c478d"
+    },
+    {
+      "id": "ZOMBIE_SWORD",
+      "english": "Zombie Sword",
+      "chinese": "僵尸剑",
+      "loreLines": 10,
+      "category": "武器",
+      "dictionary": "../dictionary-workspace/translations/items/ZOMBIE_SWORD.json",
+      "neuDisplayFixtureSha256": "d76c71b69b5121e58d347233ab63ba66cd4bd511b96f02b0cf9f059c5b292922"
+    },
+    {
+      "id": "ORNATE_ZOMBIE_SWORD",
+      "english": "Ornate Zombie Sword",
+      "chinese": "华丽僵尸剑",
+      "loreLines": 10,
+      "category": "武器",
+      "dictionary": "../dictionary-workspace/translations/items/ORNATE_ZOMBIE_SWORD.json",
+      "neuDisplayFixtureSha256": "8cfeec053770904bb85c4f6cffd287b5a0f8e6717d1958c3b352d1e057b422c4"
+    },
+    {
+      "id": "FLORID_ZOMBIE_SWORD",
+      "english": "Florid Zombie Sword",
+      "chinese": "绚丽僵尸剑",
+      "loreLines": 10,
+      "category": "武器",
+      "dictionary": "../dictionary-workspace/translations/items/FLORID_ZOMBIE_SWORD.json",
+      "neuDisplayFixtureSha256": "4cfe14ff7fa5658d635d740071911b3ae3420f8837756267abd5a6597dfb9438"
+    },
+    {
+      "id": "ROGUE_SWORD",
+      "english": "Rogue Sword",
+      "chinese": "游侠剑",
+      "loreLines": 8,
+      "category": "武器",
+      "dictionary": "../dictionary-workspace/translations/items/ROGUE_SWORD.json",
+      "neuDisplayFixtureSha256": "67445e671606029d0177d30d2ba85758131bdb6970693f8f07f6a1f52e202919"
+    },
+    {
+      "id": "YOUNG_DRAGON_HELMET",
+      "english": "Young Dragon Helmet",
+      "chinese": "幼龙头盔",
+      "loreLines": 11,
+      "category": "护甲",
+      "dictionary": "../dictionary-workspace/translations/items/YOUNG_DRAGON_HELMET.json",
+      "neuDisplayFixtureSha256": "18236514b452ad03d18a54a7b8b073c3c77654a75de455de732c08fb5b5359cf"
+    },
+    {
+      "id": "YOUNG_DRAGON_CHESTPLATE",
+      "english": "Young Dragon Chestplate",
+      "chinese": "幼龙胸甲",
+      "loreLines": 11,
+      "category": "护甲",
+      "dictionary": "../dictionary-workspace/translations/items/YOUNG_DRAGON_CHESTPLATE.json",
+      "neuDisplayFixtureSha256": "d553157bd1547157780c7a13f0fa0979525d9c016f1bc6e1a522a0e9878bbf97"
+    },
+    {
+      "id": "YOUNG_DRAGON_LEGGINGS",
+      "english": "Young Dragon Leggings",
+      "chinese": "幼龙护腿",
+      "loreLines": 11,
+      "category": "护甲",
+      "dictionary": "../dictionary-workspace/translations/items/YOUNG_DRAGON_LEGGINGS.json",
+      "neuDisplayFixtureSha256": "21b8e94666c8c5686a982ad00c29a5b3a342566396880926a9fc944050fa715b"
+    },
+    {
+      "id": "YOUNG_DRAGON_BOOTS",
+      "english": "Young Dragon Boots",
+      "chinese": "幼龙靴子",
+      "loreLines": 11,
+      "category": "护甲",
+      "dictionary": "../dictionary-workspace/translations/items/YOUNG_DRAGON_BOOTS.json",
+      "neuDisplayFixtureSha256": "e4f032d9f8dcdce60c66784743df6ad3f5e2a7dd7bbf6690f4fdd934f695ff5e"
+    },
+    {
+      "id": "STRONG_DRAGON_HELMET",
+      "english": "Strong Dragon Helmet",
+      "chinese": "强龙头盔",
+      "loreLines": 14,
+      "category": "护甲",
+      "dictionary": "../dictionary-workspace/translations/items/STRONG_DRAGON_HELMET.json",
+      "neuDisplayFixtureSha256": "604a84c17ed0071dacda9ba0b33769a71340db3e2f57d553abcbf273a051a969"
+    },
+    {
+      "id": "STRONG_DRAGON_CHESTPLATE",
+      "english": "Strong Dragon Chestplate",
+      "chinese": "强龙胸甲",
+      "loreLines": 14,
+      "category": "护甲",
+      "dictionary": "../dictionary-workspace/translations/items/STRONG_DRAGON_CHESTPLATE.json",
+      "neuDisplayFixtureSha256": "dbe7d4bc97d5d85c4dc2ef9598e4ac1ad3f1ed11fd3629484800d06e98e9784b"
+    },
+    {
+      "id": "STRONG_DRAGON_LEGGINGS",
+      "english": "Strong Dragon Leggings",
+      "chinese": "强龙护腿",
+      "loreLines": 14,
+      "category": "护甲",
+      "dictionary": "../dictionary-workspace/translations/items/STRONG_DRAGON_LEGGINGS.json",
+      "neuDisplayFixtureSha256": "c2eca1b5c33ac7a2d110a33f391e17447766ea06142f2481ab747b83dcda5702"
+    },
+    {
+      "id": "STRONG_DRAGON_BOOTS",
+      "english": "Strong Dragon Boots",
+      "chinese": "强龙靴子",
+      "loreLines": 14,
+      "category": "护甲",
+      "dictionary": "../dictionary-workspace/translations/items/STRONG_DRAGON_BOOTS.json",
+      "neuDisplayFixtureSha256": "90126edb3039ad874e5e03344e22f453b1cf12e756e08209340a1df7fb0c21d4"
+    },
+    {
+      "id": "WISE_DRAGON_HELMET",
+      "english": "Wise Dragon Helmet",
+      "chinese": "智龙头盔",
+      "loreLines": 9,
+      "category": "护甲",
+      "dictionary": "../dictionary-workspace/translations/items/WISE_DRAGON_HELMET.json",
+      "neuDisplayFixtureSha256": "21eeb0ebdd03f4dadf5374f03bc982080221c046911389fbec48c0f0330a28ca"
+    },
+    {
+      "id": "WISE_DRAGON_CHESTPLATE",
+      "english": "Wise Dragon Chestplate",
+      "chinese": "智龙胸甲",
+      "loreLines": 9,
+      "category": "护甲",
+      "dictionary": "../dictionary-workspace/translations/items/WISE_DRAGON_CHESTPLATE.json",
+      "neuDisplayFixtureSha256": "e4950e72bc996e50583578476aec4794d47c0a0d7c4f54ee43e81d4768f32627"
+    },
+    {
+      "id": "WISE_DRAGON_LEGGINGS",
+      "english": "Wise Dragon Leggings",
+      "chinese": "智龙护腿",
+      "loreLines": 9,
+      "category": "护甲",
+      "dictionary": "../dictionary-workspace/translations/items/WISE_DRAGON_LEGGINGS.json",
+      "neuDisplayFixtureSha256": "f3ee589946d95236e0d9ab04c96743949387af1a951ac62b42815ccfd18ce07e"
+    },
+    {
+      "id": "WISE_DRAGON_BOOTS",
+      "english": "Wise Dragon Boots",
+      "chinese": "智龙靴子",
+      "loreLines": 9,
+      "category": "护甲",
+      "dictionary": "../dictionary-workspace/translations/items/WISE_DRAGON_BOOTS.json",
+      "neuDisplayFixtureSha256": "c55a039acccc9eb5b768a6a37c8282da1b54641a23840f7a92e38b32eb7049fd"
+    },
+    {
+      "id": "GRAPPLING_HOOK",
+      "english": "Grappling Hook",
+      "chinese": "抓钩",
+      "loreLines": 4,
+      "category": "工具与治疗",
+      "dictionary": "../dictionary-workspace/translations/items/GRAPPLING_HOOK.json",
+      "neuDisplayFixtureSha256": "59d1915b96b5a0a7d808cedbac449fa6c78404f0b3a8cfde88fa79accb1462cd"
+    },
+    {
+      "id": "WAND_OF_HEALING",
+      "english": "Wand of Healing",
+      "chinese": "治疗魔杖",
+      "loreLines": 7,
+      "category": "工具与治疗",
+      "dictionary": "../dictionary-workspace/translations/items/WAND_OF_HEALING.json",
+      "neuDisplayFixtureSha256": "f05be384942f6d089d7e387acd5ec1b9d168cd4df3ba12e97c90a51c0f39ec29"
+    },
+    {
+      "id": "WAND_OF_MENDING",
+      "english": "Wand of Mending",
+      "chinese": "愈合魔杖",
+      "loreLines": 7,
+      "category": "工具与治疗",
+      "dictionary": "../dictionary-workspace/translations/items/WAND_OF_MENDING.json",
+      "neuDisplayFixtureSha256": "14330a4ffb44a814d8b5b11367987737cf05658d7c0facbd09c606064f69ac6b"
+    },
+    {
+      "id": "WAND_OF_RESTORATION",
+      "english": "Wand of Restoration",
+      "chinese": "复原魔杖",
+      "loreLines": 7,
+      "category": "工具与治疗",
+      "dictionary": "../dictionary-workspace/translations/items/WAND_OF_RESTORATION.json",
+      "neuDisplayFixtureSha256": "1e2533f4d347a1c15a3ddb0a1983ed46895c095f4b5a6cd7ec05bdad49d54a32"
+    },
+    {
+      "id": "WAND_OF_ATONEMENT",
+      "english": "Wand of Atonement",
+      "chinese": "赎罪魔杖",
+      "loreLines": 7,
+      "category": "工具与治疗",
+      "dictionary": "../dictionary-workspace/translations/items/WAND_OF_ATONEMENT.json",
+      "neuDisplayFixtureSha256": "afcfdc7083a8e79033ac041289eeff02b1598b6afc9c301ca00ad4da5bfaeecb"
+    },
+    {
+      "id": "RADIANT_POWER_ORB",
+      "english": "Radiant Power Orb",
+      "chinese": "光辉能量珠",
+      "loreLines": 12,
+      "category": "工具与治疗",
+      "dictionary": "../dictionary-workspace/translations/items/RADIANT_POWER_ORB.json",
+      "neuDisplayFixtureSha256": "266afccacd3bc2c725d5303c0038c9036a3eebd31254c2cd7a63189cf4e716a5"
+    },
+    {
+      "id": "SUPER_COMPACTOR_3000",
+      "english": "Super Compactor 3000",
+      "chinese": "超级压缩器 3000",
+      "loreLines": 8,
+      "category": "仆从用品",
+      "dictionary": "../dictionary-workspace/translations/items/SUPER_COMPACTOR_3000.json",
+      "neuDisplayFixtureSha256": "1815282ed6e18294f6ff92dbb82bed91ac98f68405d9d3f0181b4bd6f2140768"
+    },
+    {
+      "id": "COMPACTOR",
+      "english": "Compactor",
+      "chinese": "压缩器",
+      "loreLines": 7,
+      "category": "仆从用品",
+      "dictionary": "../dictionary-workspace/translations/items/COMPACTOR.json",
+      "neuDisplayFixtureSha256": "3c135dd0ae46654214482088f4237ac54de143030878bde96e1c9bcf2207d028"
+    },
+    {
+      "id": "ENCHANTED_LAVA_BUCKET",
+      "english": "Enchanted Lava Bucket",
+      "chinese": "附魔熔岩桶",
+      "loreLines": 4,
+      "category": "仆从用品",
+      "dictionary": "../dictionary-workspace/translations/items/ENCHANTED_LAVA_BUCKET.json",
+      "neuDisplayFixtureSha256": "de66119933398c6306e59aea3a3aabf46e5e388c6597e94fe9578283e1b2605f"
+    },
+    {
+      "id": "BUDGET_HOPPER",
+      "english": "Budget Hopper",
+      "chinese": "简易漏斗",
+      "loreLines": 7,
+      "category": "仆从用品",
+      "dictionary": "../dictionary-workspace/translations/items/BUDGET_HOPPER.json",
+      "neuDisplayFixtureSha256": "2b797e1da6e73e5624199e9f4b25f26d131d290f9cff575b8effdd60bba4cbfb"
+    },
+    {
+      "id": "ENCHANTED_HOPPER",
+      "english": "Enchanted Hopper",
+      "chinese": "附魔漏斗",
+      "loreLines": 7,
+      "category": "仆从用品",
+      "dictionary": "../dictionary-workspace/translations/items/ENCHANTED_HOPPER.json",
+      "neuDisplayFixtureSha256": "faed6b5e805a383f5faf023587abd311fe56acaf51712efab0c76860aad14131"
+    },
+    {
+      "id": "DWARVEN_COMPACTOR",
+      "english": "Dwarven Super Compactor",
+      "chinese": "矮人超级压缩器",
+      "loreLines": 8,
+      "category": "仆从用品",
+      "dictionary": "../dictionary-workspace/translations/items/DWARVEN_COMPACTOR.json",
+      "neuDisplayFixtureSha256": "9b1a84c5a9bb388291fd98d8ee2867153a3aa965cbfc88689fe32ee9f03e1a50"
+    },
+    {
+      "id": "DIAMOND_SPREADING",
+      "english": "Diamond Spreading",
+      "chinese": "钻石扩散器",
+      "loreLines": 5,
+      "category": "仆从用品",
+      "dictionary": "../dictionary-workspace/translations/items/DIAMOND_SPREADING.json",
+      "neuDisplayFixtureSha256": "9313cee41481a2827f61e8ab1495c52bc7b53630f2e67908651725fdd5674460"
+    },
+    {
+      "id": "MAGMA_BUCKET",
+      "english": "Magma Bucket",
+      "chinese": "岩浆桶",
+      "loreLines": 4,
+      "category": "仆从用品",
+      "dictionary": "../dictionary-workspace/translations/items/MAGMA_BUCKET.json",
+      "neuDisplayFixtureSha256": "6bed1a56171074f5f789535cb35eb7c4ce17836bbb80dad793ac1eefdd260a58"
+    },
+    {
+      "id": "PLASMA_BUCKET",
+      "english": "Plasma Bucket",
+      "chinese": "等离子桶",
+      "loreLines": 4,
+      "category": "仆从用品",
+      "dictionary": "../dictionary-workspace/translations/items/PLASMA_BUCKET.json",
+      "neuDisplayFixtureSha256": "7da3e96eb8f687947d5548abeccc02eb835f231ea90282126c715be6f919ca40"
+    },
+    {
+      "id": "PERSONAL_COMPACTOR_4000",
+      "english": "Personal Compactor 4000",
+      "chinese": "随身压缩器 4000",
+      "loreLines": 8,
+      "category": "仆从用品",
+      "dictionary": "../dictionary-workspace/translations/items/PERSONAL_COMPACTOR_4000.json",
+      "neuDisplayFixtureSha256": "95011fb3f139bcf5b952b7d09c7cc1e9bed1380c9b658479040bb067b8d90b8a"
+    },
+    {
+      "id": "SPEED_TALISMAN",
+      "english": "Speed Talisman",
+      "chinese": "速度护符",
+      "loreLines": 4,
+      "category": "饰品",
+      "dictionary": "../dictionary-workspace/translations/items/SPEED_TALISMAN.json",
+      "neuDisplayFixtureSha256": "6fda94dfbfb451f644b5d4fb1b314284dd817c8c719b887b0a289caf2c96a5c1"
+    },
+    {
+      "id": "FEATHER_TALISMAN",
+      "english": "Feather Talisman",
+      "chinese": "羽毛护符",
+      "loreLines": 6,
+      "category": "饰品",
+      "dictionary": "../dictionary-workspace/translations/items/FEATHER_TALISMAN.json",
+      "neuDisplayFixtureSha256": "64e520722343c0f027d50d80e0315a85fe5f29e0f153ff7847c206f0fcf1651b"
+    },
+    {
+      "id": "ZOMBIE_TALISMAN",
+      "english": "Zombie Talisman",
+      "chinese": "僵尸护符",
+      "loreLines": 5,
+      "category": "饰品",
+      "dictionary": "../dictionary-workspace/translations/items/ZOMBIE_TALISMAN.json",
+      "neuDisplayFixtureSha256": "27d9dfc48b65187cb2163171b26fa66a880cb7df59c9c3c8162127810d5193ac"
+    },
+    {
+      "id": "VILLAGE_TALISMAN",
+      "english": "Village Affinity Talisman",
+      "chinese": "村庄亲和护符",
+      "loreLines": 5,
+      "category": "饰品",
+      "dictionary": "../dictionary-workspace/translations/items/VILLAGE_TALISMAN.json",
+      "neuDisplayFixtureSha256": "b8b66761c116998fe07f7b5e39fd223f12741c511bd7873e8c040dcf01d2f554"
+    },
+    {
+      "id": "MINE_TALISMAN",
+      "english": "Mine Affinity Talisman",
+      "chinese": "矿区亲和护符",
+      "loreLines": 5,
+      "category": "饰品",
+      "dictionary": "../dictionary-workspace/translations/items/MINE_TALISMAN.json",
+      "neuDisplayFixtureSha256": "94c0f6368e7ba6d942d9a285cf40f18dac0d7c32a8600e151e8511d9c961e1ca"
+    },
+    {
+      "id": "MAGNETIC_TALISMAN",
+      "english": "Magnetic Talisman",
+      "chinese": "磁力护符",
+      "loreLines": 5,
+      "category": "饰品",
+      "dictionary": "../dictionary-workspace/translations/items/MAGNETIC_TALISMAN.json",
+      "neuDisplayFixtureSha256": "68b42823795d46b1fdabfd4ef1f4ae5ddfff163cc670b51b7d8c9c0785fa5b5c"
+    },
+    {
+      "id": "BOOSTER_COOKIE",
+      "english": "Booster Cookie",
+      "chinese": "增益曲奇",
+      "loreLines": 21,
+      "category": "强化与消耗品",
+      "dictionary": "../dictionary-workspace/translations/items/BOOSTER_COOKIE.json",
+      "neuDisplayFixtureSha256": "6a9e57c6bcafc83a75433ec6b4a48bcb2c699acc02b5c638b0e8fbf6baca88f9"
+    },
+    {
+      "id": "SUMMONING_EYE",
+      "english": "Summoning Eye",
+      "chinese": "召唤之眼",
+      "loreLines": 5,
+      "category": "强化与消耗品",
+      "dictionary": "../dictionary-workspace/translations/items/SUMMONING_EYE.json",
+      "neuDisplayFixtureSha256": "7df373ecb2038d1c36aed089896892171e057daefe54fb778e6f7f59338f9973"
+    },
+    {
+      "id": "REMNANT_OF_THE_EYE",
+      "english": "Remnant of the Eye",
+      "chinese": "残存之眼",
+      "loreLines": 6,
+      "category": "强化与消耗品",
+      "dictionary": "../dictionary-workspace/translations/items/REMNANT_OF_THE_EYE.json",
+      "neuDisplayFixtureSha256": "dd3fff78bd77299b343324db8b3e9a80f3c4c6970365f7d346d607bf9d2ce36b"
+    },
+    {
+      "id": "HOT_POTATO_BOOK",
+      "english": "Hot Potato Book",
+      "chinese": "热土豆书",
+      "loreLines": 8,
+      "category": "强化与消耗品",
+      "dictionary": "../dictionary-workspace/translations/items/HOT_POTATO_BOOK.json",
+      "neuDisplayFixtureSha256": "65dc49d1508d3033c38b0c4137354589d9dd499473c0d5c82ab4bfe2429e50e1"
+    },
+    {
+      "id": "FUMING_POTATO_BOOK",
+      "english": "Fuming Potato Book",
+      "chinese": "熏热土豆书",
+      "loreLines": 9,
+      "category": "强化与消耗品",
+      "dictionary": "../dictionary-workspace/translations/items/FUMING_POTATO_BOOK.json",
+      "neuDisplayFixtureSha256": "da6f2aa435d6e746927b0e83c12818cb5e3bafeaa936faa8794ebb61ab9586d7"
+    },
+    {
+      "id": "THE_ART_OF_WAR",
+      "english": "The Art of War",
+      "chinese": "战争艺术",
+      "loreLines": 8,
+      "category": "强化与消耗品",
+      "dictionary": "../dictionary-workspace/translations/items/THE_ART_OF_WAR.json",
+      "neuDisplayFixtureSha256": "75f755ce13b7b2989ff299365f7368833c169eff27653995967c2e19043aa315"
+    },
+    {
+      "id": "THE_ART_OF_PEACE",
+      "english": "The Art of Peace",
+      "chinese": "和平艺术",
+      "loreLines": 7,
+      "category": "强化与消耗品",
+      "dictionary": "../dictionary-workspace/translations/items/THE_ART_OF_PEACE.json",
+      "neuDisplayFixtureSha256": "7e29f614d319c44983c199e497a578a42d4ee06d7622348351f56d5465eff899"
+    },
+    {
+      "id": "TRANSMISSION_TUNER",
+      "english": "Transmission Tuner",
+      "chinese": "传送调谐器",
+      "loreLines": 8,
+      "category": "强化与消耗品",
+      "dictionary": "../dictionary-workspace/translations/items/TRANSMISSION_TUNER.json",
+      "neuDisplayFixtureSha256": "0df1b423c73e37ae6e465ba186797720d102cc6872bbedd6b08b3bd86ca8c0f1"
+    },
+    {
+      "id": "DRAGON_CLAW",
+      "english": "Dragon Claw",
+      "chinese": "龙爪",
+      "loreLines": 16,
+      "category": "强化与消耗品",
+      "dictionary": "../dictionary-workspace/translations/items/DRAGON_CLAW.json",
+      "neuDisplayFixtureSha256": "7b84c2f866bf4f65dd92ff9ab8b5eeccb52d6925059eff83a7bd2c356ef2b868"
+    },
+    {
+      "id": "DRAGON_HORN",
+      "english": "Dragon Horn",
+      "chinese": "龙角",
+      "loreLines": 20,
+      "category": "强化与消耗品",
+      "dictionary": "../dictionary-workspace/translations/items/DRAGON_HORN.json",
+      "neuDisplayFixtureSha256": "6dd417f714f505bcb54fd8baab68fd024a321accf4bcc4141ea4438ec217d299"
+    },
+    {
+      "id": "REFINED_AMBER",
+      "english": "Andesite Whetstone",
+      "chinese": "安山岩磨刀石",
+      "loreLines": 14,
+      "category": "强化与消耗品",
+      "dictionary": "../dictionary-workspace/translations/items/REFINED_AMBER.json",
+      "neuDisplayFixtureSha256": "0c3481805c5e4bebc8e8333927fb2eb8f9766be40ac4af71962f721b3d9b84d0"
+    },
+    {
+      "id": "GOD_POTION",
+      "english": "God Potion",
+      "chinese": "神之药水",
+      "loreLines": 7,
+      "category": "强化与消耗品",
+      "dictionary": "../dictionary-workspace/translations/items/GOD_POTION.json",
+      "neuDisplayFixtureSha256": "3a6fabbe9c226f109525583e65d5b3f4d7062ae8681067baf57fce0a43fb9699"
+    },
+    {
+      "id": "SUPERBOOM_TNT",
+      "english": "Superboom TNT",
+      "chinese": "超级爆破 TNT",
+      "loreLines": 4,
+      "category": "强化与消耗品",
+      "dictionary": "../dictionary-workspace/translations/items/SUPERBOOM_TNT.json",
+      "neuDisplayFixtureSha256": "362c65be563a47a59533326c93fd554f95c7c28a0dc89abf824516f5b06dbd16"
+    },
+    {
+      "id": "INFINITE_SUPERBOOM_TNT",
+      "english": "Infinityboom TNT",
+      "chinese": "无限爆破 TNT",
+      "loreLines": 5,
+      "category": "强化与消耗品",
+      "dictionary": "../dictionary-workspace/translations/items/INFINITE_SUPERBOOM_TNT.json",
+      "neuDisplayFixtureSha256": "f9375d03ac4d2fdc48e2f05bd38c81f23805e418edbbbecfac4edd8c572b0400"
+    },
+    {
+      "id": "DUNGEON_CHEST_KEY",
+      "english": "Dungeon Chest Key",
+      "chinese": "地牢宝箱钥匙",
+      "loreLines": 4,
+      "category": "强化与消耗品",
+      "dictionary": "../dictionary-workspace/translations/items/DUNGEON_CHEST_KEY.json",
+      "neuDisplayFixtureSha256": "c79cd5b4c3333306479cf2e2e721a9408837188a8eeabf0e9253c285125705b4"
+    },
+    {
+      "id": "KISMET_FEATHER",
+      "english": "Kismet Feather",
+      "chinese": "命运之羽",
+      "loreLines": 8,
+      "category": "强化与消耗品",
+      "dictionary": "../dictionary-workspace/translations/items/KISMET_FEATHER.json",
+      "neuDisplayFixtureSha256": "6f63d9f504f51c261511e378e31b56939807adc47119c146cd6353801b4e1812"
+    },
+    {
+      "id": "SPIRIT_LEAP",
+      "english": "Spirit Leap",
+      "chinese": "灵魂跃迁",
+      "loreLines": 7,
+      "category": "强化与消耗品",
+      "dictionary": "../dictionary-workspace/translations/items/SPIRIT_LEAP.json",
+      "neuDisplayFixtureSha256": "306df92ff385eed18011119e7aee9370ab2a5c6779fbc2482afe18acdc23b0b7"
+    },
+    {
+      "id": "WISHING_COMPASS",
+      "english": "Wishing Compass",
+      "chinese": "祈愿罗盘",
+      "loreLines": 8,
+      "category": "强化与消耗品",
+      "dictionary": "../dictionary-workspace/translations/items/WISHING_COMPASS.json",
+      "neuDisplayFixtureSha256": "cd3b8cc76c9cc263dd43719e2f0df2daaa382cea16f23e2d44564d6e3c857c38"
+    },
+    {
+      "id": "GOBLIN_EGG",
+      "english": "Goblin Egg",
+      "chinese": "哥布林蛋",
+      "loreLines": 3,
+      "category": "材料",
+      "dictionary": "../dictionary-workspace/translations/items/GOBLIN_EGG.json",
+      "neuDisplayFixtureSha256": "ce5f4dde1b86cd93948c67d4bd2017a0842979038a9add659565cb49db62bd29"
+    },
+    {
+      "id": "TREASURITE",
+      "english": "Treasurite",
+      "chinese": "珍宝矿",
+      "loreLines": 2,
+      "category": "材料",
+      "dictionary": "../dictionary-workspace/translations/items/TREASURITE.json",
+      "neuDisplayFixtureSha256": "27d11fb238ed8a61c7711406ac35d1977e271fe6b921a2e1c4781badbdd142ca"
+    },
+    {
+      "id": "SORROW",
+      "english": "Sorrow",
+      "chinese": "悲怆碎片",
+      "loreLines": 4,
+      "category": "材料",
+      "dictionary": "../dictionary-workspace/translations/items/SORROW.json",
+      "neuDisplayFixtureSha256": "f925d33ae5571a1b431510e1ecdd9770b7620d8fb60376a3288c7d9fd8248abd"
+    },
+    {
+      "id": "SULPHUR_ORE",
+      "english": "Sulphur",
+      "chinese": "硫磺",
+      "loreLines": 5,
+      "category": "材料",
+      "dictionary": "../dictionary-workspace/translations/items/SULPHUR_ORE.json",
+      "neuDisplayFixtureSha256": "20a02f8e122d0c89c7976393a6edc70dbf7039b1e32fa047070ef77731a60995"
+    },
+    {
+      "id": "ENCHANTED_DIAMOND",
+      "english": "Enchanted Diamond",
+      "chinese": "附魔钻石",
+      "loreLines": 2,
+      "category": "材料",
+      "dictionary": "../dictionary-workspace/translations/items/ENCHANTED_DIAMOND.json",
+      "neuDisplayFixtureSha256": "81c87d934d0fdd8a94bb1c6d10582823cff939c967b01f345d0eabf617d15a03"
+    },
+    {
+      "id": "ENCHANTED_IRON",
+      "english": "Enchanted Iron Ingot",
+      "chinese": "附魔铁锭",
+      "loreLines": 2,
+      "category": "材料",
+      "dictionary": "../dictionary-workspace/translations/items/ENCHANTED_IRON.json",
+      "neuDisplayFixtureSha256": "35cb4a736c4a0d6adce51c444badf13334f9d6b08ba524d837f2f51769e14817"
+    },
+    {
+      "id": "ENCHANTED_GOLD",
+      "english": "Enchanted Gold Ingot",
+      "chinese": "附魔金锭",
+      "loreLines": 3,
+      "category": "材料",
+      "dictionary": "../dictionary-workspace/translations/items/ENCHANTED_GOLD.json",
+      "neuDisplayFixtureSha256": "ad2ec57ee4280493a401ff6e21164ae2465bf757073ed450e8cc26e23e26144c"
+    },
+    {
+      "id": "ENCHANTED_EMERALD",
+      "english": "Enchanted Emerald",
+      "chinese": "附魔绿宝石",
+      "loreLines": 2,
+      "category": "材料",
+      "dictionary": "../dictionary-workspace/translations/items/ENCHANTED_EMERALD.json",
+      "neuDisplayFixtureSha256": "3e103875feca94c19a4044084600c7379e87d55eedd530dd8e2c4335df75b70e"
+    },
+    {
+      "id": "ENCHANTED_REDSTONE",
+      "english": "Enchanted Redstone Dust",
+      "chinese": "附魔红石粉",
+      "loreLines": 3,
+      "category": "材料",
+      "dictionary": "../dictionary-workspace/translations/items/ENCHANTED_REDSTONE.json",
+      "neuDisplayFixtureSha256": "f9761c28b21f7994be5417f8e70f12fabfa4f26200f66b6d68643472dec4e954"
+    },
+    {
+      "id": "ENCHANTED_LAPIS_LAZULI",
+      "english": "Enchanted Lapis Lazuli",
+      "chinese": "附魔青金石",
+      "loreLines": 2,
+      "category": "材料",
+      "dictionary": "../dictionary-workspace/translations/items/ENCHANTED_LAPIS_LAZULI.json",
+      "neuDisplayFixtureSha256": "f084ef5d765911c1ec04b326583ac46d30d7e348b7c28002792918c3e1e9aed9"
+    },
+    {
+      "id": "ENCHANTED_COAL",
+      "english": "Enchanted Coal",
+      "chinese": "附魔煤炭",
+      "loreLines": 6,
+      "category": "材料",
+      "dictionary": "../dictionary-workspace/translations/items/ENCHANTED_COAL.json",
+      "neuDisplayFixtureSha256": "06ee9945e14de03ab479932d88e83565b7293238cfa3d0d73dfa4242c6f37e54"
+    },
+    {
+      "id": "ENCHANTED_COBBLESTONE",
+      "english": "Enchanted Cobblestone",
+      "chinese": "附魔圆石",
+      "loreLines": 2,
+      "category": "材料",
+      "dictionary": "../dictionary-workspace/translations/items/ENCHANTED_COBBLESTONE.json",
+      "neuDisplayFixtureSha256": "f7d214cbd524e6d7f026073c6b19e4ee7c322e15bbe6b17f44991ca0cdafe3eb"
+    },
+    {
+      "id": "ENCHANTED_ENDER_PEARL",
+      "english": "Enchanted Ender Pearl",
+      "chinese": "附魔末影珍珠",
+      "loreLines": 2,
+      "category": "材料",
+      "dictionary": "../dictionary-workspace/translations/items/ENCHANTED_ENDER_PEARL.json",
+      "neuDisplayFixtureSha256": "3e2bc07eb55122a257f61448b066e2d1f39105bb9ec17ac76dda342847f2a51e"
+    },
+    {
+      "id": "ENCHANTED_EYE_OF_ENDER",
+      "english": "Enchanted Eye of Ender",
+      "chinese": "附魔末影之眼",
+      "loreLines": 1,
+      "category": "材料",
+      "dictionary": "../dictionary-workspace/translations/items/ENCHANTED_EYE_OF_ENDER.json",
+      "neuDisplayFixtureSha256": "2a55c3cbd0f64a775b47911d9cd1ccb8de8f0941a4ee2f5bb582a92e127caf74"
+    },
+    {
+      "id": "ENCHANTED_STRING",
+      "english": "Enchanted String",
+      "chinese": "附魔线",
+      "loreLines": 2,
+      "category": "材料",
+      "dictionary": "../dictionary-workspace/translations/items/ENCHANTED_STRING.json",
+      "neuDisplayFixtureSha256": "72b752f5707907b34006329551ae77ebc5ef04b59b2a7f04d00f1f6d66c8c700"
+    },
+    {
+      "id": "ENCHANTED_ROTTEN_FLESH",
+      "english": "Enchanted Rotten Flesh",
+      "chinese": "附魔腐肉",
+      "loreLines": 2,
+      "category": "材料",
+      "dictionary": "../dictionary-workspace/translations/items/ENCHANTED_ROTTEN_FLESH.json",
+      "neuDisplayFixtureSha256": "4f343149631ca0c2654795c19e72b7d26e62a0ea3389ce146684a98e0733c075"
+    },
+    {
+      "id": "ENCHANTED_BONE",
+      "english": "Enchanted Bone",
+      "chinese": "附魔骨头",
+      "loreLines": 2,
+      "category": "材料",
+      "dictionary": "../dictionary-workspace/translations/items/ENCHANTED_BONE.json",
+      "neuDisplayFixtureSha256": "e3f67b48498179bec68262ff7194650141588920ec1aae057484f7baa4510c14"
+    },
+    {
+      "id": "ENCHANTED_BLAZE_ROD",
+      "english": "Enchanted Blaze Rod",
+      "chinese": "附魔烈焰棒",
+      "loreLines": 3,
+      "category": "材料",
+      "dictionary": "../dictionary-workspace/translations/items/ENCHANTED_BLAZE_ROD.json",
+      "neuDisplayFixtureSha256": "fcd6db02e5836464b786134ffe2c76441776ae87242c34393cad88fa97b28fc9"
+    },
+    {
+      "id": "ENCHANTED_SUGAR",
+      "english": "Enchanted Sugar",
+      "chinese": "附魔糖",
+      "loreLines": 3,
+      "category": "材料",
+      "dictionary": "../dictionary-workspace/translations/items/ENCHANTED_SUGAR.json",
+      "neuDisplayFixtureSha256": "a99c09a124509bed702f46b9425d72a503a38d0ba59e4ece4e5384c7094354e0"
+    },
+    {
+      "id": "ENCHANTED_SUGAR_CANE",
+      "english": "Enchanted Sugar Cane",
+      "chinese": "附魔甘蔗",
+      "loreLines": 3,
+      "category": "材料",
+      "dictionary": "../dictionary-workspace/translations/items/ENCHANTED_SUGAR_CANE.json",
+      "neuDisplayFixtureSha256": "78110a66782f388cacfbee1de7e48d729eefb27b74791e945a3b14ba707adbef"
+    },
+    {
+      "id": "ENCHANTED_CARROT",
+      "english": "Enchanted Carrot",
+      "chinese": "附魔胡萝卜",
+      "loreLines": 2,
+      "category": "材料",
+      "dictionary": "../dictionary-workspace/translations/items/ENCHANTED_CARROT.json",
+      "neuDisplayFixtureSha256": "a2510723230ac67c81c0ba704c91459c3f81ecf6459ae61ee7bdbe19dd92d8c3"
+    },
+    {
+      "id": "ENCHANTED_POTATO",
+      "english": "Enchanted Potato",
+      "chinese": "附魔土豆",
+      "loreLines": 2,
+      "category": "材料",
+      "dictionary": "../dictionary-workspace/translations/items/ENCHANTED_POTATO.json",
+      "neuDisplayFixtureSha256": "e4332c7313b1b8ad692e72cee3c97bfd21b16069e8dc709f9a4eb3b9dd772114"
+    },
+    {
+      "id": "ENCHANTED_PUMPKIN",
+      "english": "Enchanted Pumpkin",
+      "chinese": "附魔南瓜",
+      "loreLines": 2,
+      "category": "材料",
+      "dictionary": "../dictionary-workspace/translations/items/ENCHANTED_PUMPKIN.json",
+      "neuDisplayFixtureSha256": "298203ac5e77cf093691daaa7fccfbd31c0d94f1bb37ce95698d692672fd3a56"
+    },
+    {
+      "id": "ENCHANTED_LEATHER",
+      "english": "Enchanted Leather",
+      "chinese": "附魔皮革",
+      "loreLines": 2,
+      "category": "材料",
+      "dictionary": "../dictionary-workspace/translations/items/ENCHANTED_LEATHER.json",
+      "neuDisplayFixtureSha256": "2f8b93cdb52af0816366da75ea3f9021fea924b5e9ddaecba4e0e1d39c4823d8"
+    },
+    {
+      "id": "SHEEP;4",
+      "english": "[Lvl {LVL}] Sheep",
+      "chinese": "[等级 {LVL}] 绵羊",
+      "loreLines": 14,
+      "category": "宠物（传说品质）",
+      "dictionary": "../dictionary-workspace/translations/items/SHEEP;4.json",
+      "neuDisplayFixtureSha256": "908da4c2223577399bfb3efd28e1811345d9ac426d79446d57174c7f56b852ae"
+    },
+    {
+      "id": "TIGER;4",
+      "english": "[Lvl {LVL}] Tiger",
+      "chinese": "[等级 {LVL}] 老虎",
+      "loreLines": 15,
+      "category": "宠物（传说品质）",
+      "dictionary": "../dictionary-workspace/translations/items/TIGER;4.json",
+      "neuDisplayFixtureSha256": "e15a61bb12eb7e03d8ac8601a747458c0c1fe1800004e7b479ceac2f0235b89f"
+    },
+    {
+      "id": "LION;4",
+      "english": "[Lvl {LVL}] Lion",
+      "chinese": "[等级 {LVL}] 狮子",
+      "loreLines": 15,
+      "category": "宠物（传说品质）",
+      "dictionary": "../dictionary-workspace/translations/items/LION;4.json",
+      "neuDisplayFixtureSha256": "dc22912bc3297d55d62b45fd6a3bec26a49f4117ae629462563d50ca33cba398"
+    },
+    {
+      "id": "RABBIT;4",
+      "english": "[Lvl {LVL}] Rabbit",
+      "chinese": "[等级 {LVL}] 兔子",
+      "loreLines": 13,
+      "category": "宠物（传说品质）",
+      "dictionary": "../dictionary-workspace/translations/items/RABBIT;4.json",
+      "neuDisplayFixtureSha256": "004086325f2e4bfe7a9212ede869718e38dc063006922130b6547515dd4b04ab"
+    },
+    {
+      "id": "SILVERFISH;4",
+      "english": "[Lvl {LVL}] Silverfish",
+      "chinese": "[等级 {LVL}] 蠹虫",
+      "loreLines": 12,
+      "category": "宠物（传说品质）",
+      "dictionary": "../dictionary-workspace/translations/items/SILVERFISH;4.json",
+      "neuDisplayFixtureSha256": "63400c0a48f5fcd256d39234939e5270b236ec06da476a05b38eb0f1375d4f65"
+    },
+    {
+      "id": "GRIFFIN;4",
+      "english": "[Lvl {LVL}] Griffin",
+      "chinese": "[等级 {LVL}] 狮鹫",
+      "loreLines": 19,
+      "category": "宠物（传说品质）",
+      "dictionary": "../dictionary-workspace/translations/items/GRIFFIN;4.json",
+      "neuDisplayFixtureSha256": "093417c07d256db61d094abaf5a4cdb98b8b49c051120558f8a1e2ea708e8c37"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Rick",
+  "pageid": 730,
+  "revision": 858171,
+  "timestamp": "2026-10-14T17:16:28Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Rick",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=858171",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Category:Quests",
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Character\n|quests = {{Quest|The Flint Bros}}\n|location = [[Spider's Den]]\n|location_page_description = Gives the player a {{Item|Promising Shovel}} after bringing them {{Item|Iron Ingot|amount=2}}s.\n|x = -264.5 \n|y = 71 \n|z = -323.5\n}}\n\n'''Rick''' is an [[NPC]] located in {{zone|Spider's Den}}, inside the {{Zone|Gravel Mines}}. They give out the {{Quest|The Flint Bros}} quest.\n\n== Quest ==\n'''Rick''' asks for {{Item|Iron Ingot|amount=2}}s in exchange for a {{Item|Promising Shovel}}, as part of the {{Quest|The Flint Bros}} recipe.\n\n== Dialogue ==\n{| class=\"wikitable centertext\"\n!Condition\n!Dialogue\n|- \n| First Interaction\n| style=\"text-align: left;\"|{{Dialogue|\n&e[NPC] &7Rick&f: Hey, I could use some help! My &aPromising Shovel &fjust broke, and I don't have the right ingredients to make a new one.\n&e[NPC] &7Rick&f: If you could get me a couple iron ingots, I could make one for us both!\n}}\n|- \n| Before bringing {{Item|Iron Ingot|amount=2}}s\n| style=\"text-align: left;\"|{{Dialogue|&e[NPC] &7Rick&f: Come back with the right amount of items!}}\n|- \n| Bringing {{Item|Iron Ingot|amount=2}}s\n| style=\"text-align: left;\"|{{Dialogue|&e[NPC] &7Rick&f: &fThanks a lot. Here's your &aPromising Shovel&f.}}\n|-\n!Condition\n!Random Dialogue\n|-\n|rowspan=\"3\"|None\n|style=\"text-align: left;\"|{{Dialogue|&e[NPC] &7Rick&f: Have you met Pat? He's my brother. We're the Flint Bros!}}\n|- class=\"article-row-bound\"\n|style=\"text-align: left;\"|{{Dialogue|&e[NPC] &7Rick&f: Mining gravel is hard work, but the flint is worth it.}}\n|- class=\"article-row-bound\"\n|style=\"text-align: left;\"|{{Dialogue|&e[NPC] &7Rick&f: Careful when it rains around here, it gets dangerous!}}\n\n|}\n\n== Trivia ==\n* His brother is {{NPCSprite|Pat}}, who is located at the {{zone|Graveyard}}. They are referred to as the \"Flint Brothers\" or \"Flint Bros\".\n**According to {{NPCSprite|Pat}}'s dialogue, '''Rick''' mines the {{Item|Gravel}}, and {{NPCSprite|Pat}} then sells it.\n\n== History ==\n{{History table\n|beta=\n{{History|0.1|[[File:Rick.png|26px]] Added '''Rick'''.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}\n[[Category:Quests]]"
+}

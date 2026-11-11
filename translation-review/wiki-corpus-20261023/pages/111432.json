@@ -1,0 +1,15 @@
+{
+  "title": "Validus Glyph",
+  "pageid": 111432,
+  "revision": 817591,
+  "timestamp": "2026-08-11T22:47:46Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Validus_Glyph",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=817591",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Pages with UIs",
+    "Template:Dialogue",
+    "Template:UI"
+  ],
+  "wikitext": "{{Infobox/Item\n|rarity=e\n|auctionable=no\n|salable=no\n|tradeable = n\n|rift_transferrable = no\n|id=GLYPH_VALIDUS\n}}\nThe '''Validus Glyph''' is an {{Epic}} Quest Item obtained in the [[Rift Dimension]].\n\n== Obtaining ==\nThe '''Validus Glyph''' can be obtained by starting {{NPCSprite|Sorcerer Okron}}'s quest and then opening the chest at {{Coords|-57.5|70|-95.5}} by the pond in the {{Zone|West Village}}. Once given to Okron, it can no longer be obtained.\n\n== Interface ==\n{{/UI}}\n\n== Usage ==\nThe '''Validus Glyph''' can be given to {{NPCSprite|Sorcerer Okron}}. When given, he will task the player with using the {{Item|Warding Diamathame}} to imbue a spell onto the house.\n\n== Game Messages ==\n{|class=\"wikitable\"\n! Condition\n! Message\n|-\n| {{Dialogue|\n&7You found &5Validus Glyph&7!\n&7&oYou should return it to Okron...\n}}\n| Finding the Glyph\n|-\n| {{Dialogue|&cYou already have one in your inventory!}}\n| Trying to claim another Glyph while already owning one\n|}\n\n== Gallery ==\n<gallery>\nValidus Glyph (Render).png|The map image shown while holding the Validus Glyph\nValidus Glyph (Particle Render).png|The non-imbued particles surrounding the house\nValidus Glyph (Particle Render 2).png|The imbued particles surrounding the house\n</gallery>\n\n== History ==\n{{History table\n|ahn=\n{{history|2023/May 4|[[File:Validus Glyph.png|26px]] Added '''Validus Glyph'''.}}\n|beta=\n{{history|0.19|[[File:Validus Glyph.png|26px]] Added '''Validus Glyph'''.}}\n}}"
+}

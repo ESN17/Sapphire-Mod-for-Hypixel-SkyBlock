@@ -1,0 +1,14 @@
+{
+  "title": "Remnant of the Eye",
+  "pageid": 4070,
+  "revision": 845508,
+  "timestamp": "2026-09-22T18:05:12Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Remnant_of_the_Eye",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=845508",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:The End",
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Item\n|rarity = Epic\n|uses = Keeps you alive when you're on death's door, granting a short period of invincibility.<br>Consumed on use.<br><br>{{Red|NOTE: ONLY WORKS ON THE END ISLAND}}.\n|sell = 1\n|merchant = Pearl Dealer\n|buy = 200k\n|id = REMNANT_OF_THE_EYE\n}}\nThe '''Remnant of the Eye''' is an {{Epic}} item. It prevents death within {{Zone|The End}}.\n\n== Obtaining ==\nWhen an [[Ender Dragon]] spawns, all [[Sleeping Eye]]s within all players' inventories will be converted into '''Remnants of the Eye'''.\n\n'''Remnants of the Eye''' can also be purchased from the {{NPCSprite|Pearl Dealer}} for {{c|200,000}}.\n\n== Usage ==\nIf the player would die in {{Zone|The End}} while carrying a '''Remnant of the Eye''' in their inventory, they are instead healed to full health and granted a short period of invincibility, and the item is consumed. If the death would have been caused by the Void, the player is instead returned to spawn without losing any coins.\n\nIt does not work within the {{Zone|Void Sepulture}}. If the player dies there while carrying Remnants of the Eye, they die normally, but their Remnants of the Eye are not consumed.\n\n== Game Message ==\n{| class=\"wikitable\"\n! Condition\n! Message\n|-\n| The player would die outside {{Zone|Void Sepulture}}.\n|{{Dialogue|&5Your Remnant of the Eye saved you from certain death!}}\n|-\n| The player falls into the Void.\n|{{Dialogue|&5Your Remnant of the Eye saved you from certain death! You were safely teleported back to spawn.}}\n|-\n| The player would die in {{Zone|Void Sepulture}}.\n|{{Dialogue|&5Your Remnant of the Eye isn't strong enough for the magic of the Sepulture!}}\n|}\n\n== History ==\n{{History table\n|ahn=\n{{History|2024/May 3|[[File:Remnant of the Eye.png|26px]] '''Remnant of the Eyes''' can now be sold to NPCs for {{c|1}}.}}\n|beta=\n{{History|2019/August 2|[[File:Remnant of the Eye.png|26px]] Added '''Remnant of the Eye'''.}}\n{{history|0.19.1|Fixed [[Saving Grace]] and '''Remnant of the Eye''' activating simultaneously.}}\n{{history|2023/July 18|Fixed '''Remnant of the Eye''' not working correctly.}}\n{{history|2024/May 28|[[File:Remnant of the Eye.png|26px]] '''Remnant of the Eyes''' can now be sold to NPCs for {{c|1}}.}}\n}}\n\n== Navigation ==\n{{Nav/The End}}\n[[Category:Ender]]"
+}

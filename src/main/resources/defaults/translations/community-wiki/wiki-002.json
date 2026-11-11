@@ -27640,15 +27640,19 @@
       "scope": "npc",
       "npc": "Dean",
       "source": "✆ Hello?",
-      "translation": "✆ 喂？",
-      "styleMappings": {},
+      "translation": "✆喂？",
+      "styleMappings": {
+        "✆": "✆",
+        "Hello?": "喂？"
+      },
       "sampleRaw": "§b✆ §fHello?",
       "sourceId": "7b1dba7fc6b7bc8d2f8a2a5c",
       "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Dean",
       "sourceRevision": 830417,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=830417",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "npc",
@@ -30630,7 +30634,8 @@
       "sourceRevision": 823153,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=823153",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "npc",
@@ -35325,7 +35330,7 @@
       "scope": "npc",
       "npc": "Moby",
       "source": "Come back with the right amount of items!",
-      "translation": "带上数量正确的物品回来！",
+      "translation": "带够物品再来吧！",
       "styleMappings": {},
       "sampleRaw": "Come back with the right amount of items!",
       "sourceId": "8f7b879c45f0c39349f50bac",
@@ -35333,7 +35338,8 @@
       "sourceRevision": 830468,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=830468",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "npc",
@@ -36761,7 +36767,7 @@
       "scope": "npc",
       "npc": "Sam",
       "source": "Come back with the right amount of items!",
-      "translation": "带上正确数量的物品再来吧！",
+      "translation": "带够物品再来吧！",
       "styleMappings": {},
       "sampleRaw": "Come back with the right amount of items!",
       "sourceId": "3831570d12b9bc4e6b6da702",
@@ -36769,7 +36775,8 @@
       "sourceRevision": 859509,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=859509",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "npc",
@@ -37268,7 +37275,7 @@
       "scope": "npc",
       "npc": "Finnegan",
       "source": "Jacob's brother-in-law and Trevor's cousin!!",
-      "translation": "Jacob的姐夫，也是Trevor的表亲！！",
+      "translation": "雅各布的姐夫，特雷弗的表亲！！",
       "styleMappings": {},
       "sampleRaw": "Jacob's brother-in-law and Trevor's cousin!!",
       "sourceId": "773c06947d4fec16e8c42133",
@@ -37276,7 +37283,8 @@
       "sourceRevision": 844132,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=844132",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "npc",
@@ -37290,13 +37298,14 @@
       "sourceRevision": 844132,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=844132",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "npc",
       "npc": "Finnegan",
       "source": "With big farms!",
-      "translation": "还有大农场！",
+      "translation": "农场可真大！",
       "styleMappings": {},
       "sampleRaw": "With big farms!",
       "sourceId": "256b5bfb6b77668b4ac1d95c",
@@ -37304,7 +37313,8 @@
       "sourceRevision": 844132,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=844132",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "npc",
@@ -37352,7 +37362,7 @@
       "scope": "npc",
       "npc": "Finnegan",
       "source": "All of us are trappers at heart!",
-      "translation": "我们骨子里都是捕猎者！",
+      "translation": "我们骨子里都是捕兽人！",
       "styleMappings": {},
       "sampleRaw": "All of us are trappers at heart!",
       "sourceId": "2523bfbb30f2bbb1f8ed642b",
@@ -37360,13 +37370,14 @@
       "sourceRevision": 844132,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=844132",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "npc",
       "npc": "Finnegan",
       "source": "I don't know if farming is for everyone, but everyone should give it a shot!",
-      "translation": "我不知道种地是否适合所有人，但每个人都该试一试！",
+      "translation": "我不知道种田是否适合所有人，但每个人都该试一试！",
       "styleMappings": {},
       "sampleRaw": "I don't know if farming is for everyone, but everyone should give it a shot!",
       "sourceId": "107547a5b316184b674aeec8",
@@ -37374,13 +37385,14 @@
       "sourceRevision": 844132,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=844132",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "npc",
       "npc": "Finnegan",
       "source": "Yes, I do have a PhD in Agriculture & Forestry and a Masters in Applied Mathematics.",
-      "translation": "是的，我确实有农业与林业博士学位，以及应用数学硕士学位。",
+      "translation": "没错，我确实有农业与林业博士学位，还有应用数学硕士学位。",
       "styleMappings": {},
       "sampleRaw": "Yes, I do have a PhD in Agriculture & Forestry and a Masters in Applied Mathematics.",
       "sourceId": "fb3a574b8b08c9edc2f8b9e2",
@@ -37388,7 +37400,8 @@
       "sourceRevision": 844132,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=844132",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "npc",
@@ -48599,7 +48612,7 @@
       "scope": "npc",
       "npc": "Argofay Serialbather",
       "source": "Can't you see I'm busy?",
-      "translation": "你看不出我很忙吗？",
+      "translation": "没看见我正忙着吗？",
       "styleMappings": {},
       "sampleRaw": "Can't you see I'm busy?",
       "sourceId": "3b92380cc550b9fda6ffe5bb",
@@ -48607,7 +48620,8 @@
       "sourceRevision": 815464,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=815464",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "npc",
@@ -49336,7 +49350,8 @@
       "sourceRevision": 813797,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=813797",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "npc",
@@ -56431,7 +56446,8 @@
       "sourceRevision": 816293,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=816293",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "npc",
@@ -62075,7 +62091,8 @@
       "sourceRevision": 623428,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=623428",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -62200,16 +62217,15 @@
       "npc": "",
       "source": "Slayer",
       "translation": "杀手",
-      "styleMappings": {
-        "Slayer": "杀手"
-      },
+      "styleMappings": {},
       "sampleRaw": "Slayer",
       "sourceId": "4a7d16639bc9b2edb0a66fb7",
       "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Maddox_the_Slayer_%28Rift%29/UI",
       "sourceRevision": 596219,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=596219",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -62237,7 +62253,8 @@
       "sourceRevision": 596219,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=596219",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -62407,7 +62424,8 @@
       "sourceRevision": 641274,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=641274",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -62421,7 +62439,8 @@
       "sourceRevision": 641274,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=641274",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -62435,7 +62454,8 @@
       "sourceRevision": 641274,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=641274",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -62449,13 +62469,14 @@
       "sourceRevision": 641274,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=641274",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Starter ➜ Collections",
-      "translation": "新手 ➜ 收藏品",
+      "translation": "新手 ➜ 收藏",
       "styleMappings": {},
       "sampleRaw": "Starter ➜ Collections",
       "sourceId": "36054ca6caf06b9fef826b38",
@@ -62463,7 +62484,8 @@
       "sourceRevision": 641274,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=641274",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -62477,13 +62499,14 @@
       "sourceRevision": 641274,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=641274",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Guide ➜ Amateur",
-      "translation": "指南 ➜ 入门",
+      "translation": "指南 ➜ 进阶",
       "styleMappings": {},
       "sampleRaw": "Guide ➜ Amateur",
       "sourceId": "0804f9a927185920d16d93af",
@@ -62491,13 +62514,14 @@
       "sourceRevision": 641075,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=641075",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Amateur ➜ Skills",
-      "translation": "入门 ➜ 技能",
+      "translation": "进阶 ➜ 技能",
       "styleMappings": {},
       "sampleRaw": "Amateur ➜ Skills",
       "sourceId": "3483e404c7dd0b01e54c3207",
@@ -62505,13 +62529,14 @@
       "sourceRevision": 641075,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=641075",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Amateur ➜ Slayer",
-      "translation": "入门 ➜ 杀手",
+      "translation": "进阶 ➜ 杀手",
       "styleMappings": {},
       "sampleRaw": "Amateur ➜ Slayer",
       "sourceId": "974327cbf2628f55d144d833",
@@ -62519,7 +62544,8 @@
       "sourceRevision": 641075,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=641075",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -62539,7 +62565,7 @@
       "scope": "gui",
       "npc": "",
       "source": "Amateur ➜ Pets",
-      "translation": "入门 ➜ 宠物",
+      "translation": "进阶 ➜ 宠物",
       "styleMappings": {},
       "sampleRaw": "Amateur ➜ Pets",
       "sourceId": "e6768dcfa35c3c0243a4d861",
@@ -62547,13 +62573,14 @@
       "sourceRevision": 641075,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=641075",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "(1/2) Amateur ➜ Collections",
-      "translation": "(1/2) 入门 ➜ 收藏品",
+      "translation": "(1/2) 进阶 ➜ 收藏",
       "styleMappings": {},
       "sampleRaw": "(1/2) Amateur ➜ Collections",
       "sourceId": "ee37714f4058717a7ed6d55c",
@@ -62563,13 +62590,14 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "({{N0}}/{{N1}}) Amateur ➜ Collections",
-      "numericTranslation": "({{N0}}/{{N1}}) 入门 ➜ 收藏品"
+      "numericTranslation": "({{N0}}/{{N1}}) 进阶 ➜ 收藏",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "({{N0}}/{{N1}}) Amateur ➜ Collections",
-      "translation": "({{N0}}/{{N1}}) 入门 ➜ 收藏品",
+      "translation": "({{N0}}/{{N1}}) 进阶 ➜ 收藏",
       "styleMappings": {},
       "sampleRaw": "({{N0}}/{{N1}}) Amateur ➜ Collections",
       "sourceId": "ee37714f4058717a7ed6d55c",
@@ -62579,17 +62607,18 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "({{N0}}/{{N1}}) Amateur ➜ Collections",
-      "numericTranslation": "({{N0}}/{{N1}}) 入门 ➜ 收藏品",
+      "numericTranslation": "({{N0}}/{{N1}}) 进阶 ➜ 收藏",
       "templateExamples": {
         "{{N0}}": "1",
         "{{N1}}": "2"
-      }
+      },
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "(2/2) Amateur ➜ Collections",
-      "translation": "(2/2) 入门 ➜ 收藏品",
+      "translation": "(2/2) 进阶 ➜ 收藏",
       "styleMappings": {},
       "sampleRaw": "(2/2) Amateur ➜ Collections",
       "sourceId": "745e6bc5f0d15c67a01f0567",
@@ -62599,13 +62628,14 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "({{N0}}/{{N1}}) Amateur ➜ Collections",
-      "numericTranslation": "({{N0}}/{{N1}}) 入门 ➜ 收藏品"
+      "numericTranslation": "({{N0}}/{{N1}}) 进阶 ➜ 收藏",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "(1/2) Amateur ➜ Minions",
-      "translation": "(1/2) 入门 ➜ 仆从",
+      "translation": "(1/2) 进阶 ➜ 仆从",
       "styleMappings": {},
       "sampleRaw": "(1/2) Amateur ➜ Minions",
       "sourceId": "1eafa188f3a95a54a33c9ae9",
@@ -62615,13 +62645,14 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "({{N0}}/{{N1}}) Amateur ➜ Minions",
-      "numericTranslation": "({{N0}}/{{N1}}) 入门 ➜ 仆从"
+      "numericTranslation": "({{N0}}/{{N1}}) 进阶 ➜ 仆从",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "({{N0}}/{{N1}}) Amateur ➜ Minions",
-      "translation": "({{N0}}/{{N1}}) 入门 ➜ 仆从",
+      "translation": "({{N0}}/{{N1}}) 进阶 ➜ 仆从",
       "styleMappings": {},
       "sampleRaw": "({{N0}}/{{N1}}) Amateur ➜ Minions",
       "sourceId": "1eafa188f3a95a54a33c9ae9",
@@ -62631,17 +62662,18 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "({{N0}}/{{N1}}) Amateur ➜ Minions",
-      "numericTranslation": "({{N0}}/{{N1}}) 入门 ➜ 仆从",
+      "numericTranslation": "({{N0}}/{{N1}}) 进阶 ➜ 仆从",
       "templateExamples": {
         "{{N0}}": "1",
         "{{N1}}": "2"
-      }
+      },
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "(2/2) Amateur ➜ Minions",
-      "translation": "(2/2) 入门 ➜ 仆从",
+      "translation": "(2/2) 进阶 ➜ 仆从",
       "styleMappings": {},
       "sampleRaw": "(2/2) Amateur ➜ Minions",
       "sourceId": "3ea80dc5cbfa911f468cabab",
@@ -62651,13 +62683,14 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "({{N0}}/{{N1}}) Amateur ➜ Minions",
-      "numericTranslation": "({{N0}}/{{N1}}) 入门 ➜ 仆从"
+      "numericTranslation": "({{N0}}/{{N1}}) 进阶 ➜ 仆从",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Amateur ➜ Harp Songs",
-      "translation": "入门 ➜ 竖琴曲目",
+      "translation": "进阶 ➜ 竖琴曲",
       "styleMappings": {},
       "sampleRaw": "Amateur ➜ Harp Songs",
       "sourceId": "c7f8343c7b04a988d98835dc",
@@ -62665,13 +62698,14 @@
       "sourceRevision": 641075,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=641075",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Amateur ➜ Community Shop",
-      "translation": "入门 ➜ 社区商店",
+      "translation": "进阶 ➜ 社区商店",
       "styleMappings": {},
       "sampleRaw": "Amateur ➜ Community Shop",
       "sourceId": "b6c6e695e4c9e9ae31b2b79d",
@@ -62679,7 +62713,8 @@
       "sourceRevision": 641075,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=641075",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -62819,13 +62854,14 @@
       "sourceRevision": 795493,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=795493",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Gold Essence Shop",
-      "translation": "黄金精华商店",
+      "translation": "金精华商店",
       "styleMappings": {},
       "sampleRaw": "Gold Essence Shop",
       "sourceId": "ccb06722fb0d178708ffaa55",
@@ -62833,7 +62869,8 @@
       "sourceRevision": 795493,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=795493",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -62861,7 +62898,8 @@
       "sourceRevision": 860082,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860082",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -62881,7 +62919,7 @@
       "scope": "gui",
       "npc": "",
       "source": "Pesthunter",
-      "translation": "害虫猎手",
+      "translation": "害虫猎人",
       "styleMappings": {},
       "sampleRaw": "Pesthunter",
       "sourceId": "ead57d967366bf08fdf3b100",
@@ -62889,7 +62927,8 @@
       "sourceRevision": 858659,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=858659",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -62961,13 +63000,14 @@
       "sourceRevision": 836698,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=836698",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Training Slot 1",
-      "translation": "训练槽位 1",
+      "translation": "训练栏位 1",
       "styleMappings": {},
       "sampleRaw": "Training Slot 1",
       "sourceId": "1c127872071972e757646dc6",
@@ -62977,13 +63017,14 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "Training Slot {{N0}}",
-      "numericTranslation": "训练槽位 {{N0}}"
+      "numericTranslation": "训练栏位 {{N0}}",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Training Slot {{N0}}",
-      "translation": "训练槽位 {{N0}}",
+      "translation": "训练栏位 {{N0}}",
       "styleMappings": {},
       "sampleRaw": "Training Slot {{N0}}",
       "sourceId": "1c127872071972e757646dc6",
@@ -62993,16 +63034,17 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "Training Slot {{N0}}",
-      "numericTranslation": "训练槽位 {{N0}}",
+      "numericTranslation": "训练栏位 {{N0}}",
       "templateExamples": {
         "{{N0}}": "1"
-      }
+      },
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Taylor's Cosmetics",
-      "translation": "Taylor 的装饰品",
+      "translation": "泰勒的装饰品",
       "styleMappings": {},
       "sampleRaw": "Taylor's Cosmetics",
       "sourceId": "b67021aff10c0e25455db280",
@@ -63010,7 +63052,8 @@
       "sourceRevision": 694852,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=694852",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -63024,13 +63067,14 @@
       "sourceRevision": 694852,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=694852",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Taylor's Collection",
-      "translation": "Taylor 的常驻系列",
+      "translation": "泰勒的收藏",
       "styleMappings": {},
       "sampleRaw": "Taylor's Collection",
       "sourceId": "b6c7d47fc1c57593a422ac19",
@@ -63038,24 +63082,23 @@
       "sourceRevision": 694852,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=694852",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Bingo Card",
       "translation": "宾果卡",
-      "styleMappings": {
-        "Bingo": "宾果",
-        "Bingo Card": "宾果卡"
-      },
+      "styleMappings": {},
       "sampleRaw": "Bingo Card",
       "sourceId": "4253a76bea4c834d1ced9fc9",
       "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bingo/Events/2024",
       "sourceRevision": 576988,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=576988",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -63097,7 +63140,8 @@
       "sourceRevision": 677172,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=677172",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -63111,7 +63155,8 @@
       "sourceRevision": 677172,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=677172",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -63139,7 +63184,8 @@
       "sourceRevision": 837070,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=837070",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -63419,7 +63465,7 @@
       "scope": "gui",
       "npc": "",
       "source": "Rabbit Hitman",
-      "translation": "兔子猎手",
+      "translation": "兔子杀手",
       "styleMappings": {},
       "sampleRaw": "Rabbit Hitman",
       "sourceId": "7935da35e83783e9d8995bc3",
@@ -63427,7 +63473,8 @@
       "sourceRevision": 837070,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=837070",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -63441,7 +63488,8 @@
       "sourceRevision": 837070,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=837070",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -63469,7 +63517,8 @@
       "sourceRevision": 793790,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=793790",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -63769,7 +63818,7 @@
       "scope": "gui",
       "npc": "",
       "source": "Spooky Festival",
-      "translation": "惊魂节",
+      "translation": "幽灵节",
       "styleMappings": {},
       "sampleRaw": "Spooky Festival",
       "sourceId": "dad948637e8802353f55715c",
@@ -63777,7 +63826,8 @@
       "sourceRevision": 793950,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=793950",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -63797,7 +63847,7 @@
       "scope": "gui",
       "npc": "",
       "source": "Harvest Feast",
-      "translation": "丰收节",
+      "translation": "丰收盛宴",
       "styleMappings": {},
       "sampleRaw": "Harvest Feast",
       "sourceId": "cd9230940625c5c7ee0df5ec",
@@ -63805,7 +63855,8 @@
       "sourceRevision": 793950,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=793950",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -64013,9 +64064,12 @@
       "scope": "gui",
       "npc": "",
       "source": "Dyes",
-      "translation": "染料",
+      "translation": "多彩染料",
       "styleMappings": {
-        "Dyes": "染料"
+        "D": "多",
+        "y": "彩",
+        "e": "染",
+        "s": "料"
       },
       "sampleRaw": "Dyes",
       "sourceId": "b1e2f0316aca580ad3b49a46",
@@ -64023,7 +64077,8 @@
       "sourceRevision": 837481,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=837481",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -64037,7 +64092,8 @@
       "sourceRevision": 837481,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=837481",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -64071,7 +64127,7 @@
       "scope": "gui",
       "npc": "",
       "source": "Dimensional Infusion",
-      "translation": "维度灌注",
+      "translation": "维度注入",
       "styleMappings": {},
       "sampleRaw": "Dimensional Infusion",
       "sourceId": "f5e7a317eb116d711bdcbdaf",
@@ -64079,13 +64135,14 @@
       "sourceRevision": 780638,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=780638",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Glacite Mineshaft",
-      "translation": "极冰矿井",
+      "translation": "冰川石矿井",
       "styleMappings": {},
       "sampleRaw": "Glacite Mineshaft",
       "sourceId": "85ed159baf07baed7060b955",
@@ -64093,7 +64150,8 @@
       "sourceRevision": 512218,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=512218",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -64113,7 +64171,7 @@
       "scope": "gui",
       "npc": "",
       "source": "Enchanted Time Clock",
-      "translation": "附魔时光钟",
+      "translation": "附魔时钟",
       "styleMappings": {},
       "sampleRaw": "Enchanted Time Clock",
       "sourceId": "6b4fd6b84c8d207822bca4c2",
@@ -64121,13 +64179,14 @@
       "sourceRevision": 845959,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=845959",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Modifiers",
-      "translation": "强化材料",
+      "translation": "修饰符",
       "styleMappings": {},
       "sampleRaw": "Modifiers",
       "sourceId": "08629008471220f1b696d9f7",
@@ -64135,7 +64194,8 @@
       "sourceRevision": 857548,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=857548",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -64263,7 +64323,7 @@
       "scope": "gui",
       "npc": "",
       "source": "Featured Update Items",
-      "translation": "本次更新物品",
+      "translation": "精选更新物品",
       "styleMappings": {},
       "sampleRaw": "Featured Update Items",
       "sourceId": "037cff648903afe97d0d8b82",
@@ -64271,7 +64331,8 @@
       "sourceRevision": 606657,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=606657",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -64285,7 +64346,8 @@
       "sourceRevision": 606657,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=606657",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -64512,7 +64574,7 @@
       "scope": "gui",
       "npc": "",
       "source": "Coin Generator",
-      "translation": "硬币生成器",
+      "translation": "金币生成器",
       "styleMappings": {},
       "sampleRaw": "Coin Generator",
       "sourceId": "cf00446c770391da8897f5f8",
@@ -64520,7 +64582,8 @@
       "sourceRevision": 606669,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=606669",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -64663,7 +64726,8 @@
       "sourceRevision": 854086,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=854086",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -64677,7 +64741,8 @@
       "sourceRevision": 854086,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=854086",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -64952,16 +65017,15 @@
       "npc": "",
       "source": "Gold Essence",
       "translation": "金精华",
-      "styleMappings": {
-        "Gold": "金"
-      },
+      "styleMappings": {},
       "sampleRaw": "Gold Essence",
       "sourceId": "ebbb0198ac21e88f6b9d3b28",
       "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Rosemary/UI",
       "sourceRevision": 854086,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=854086",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -64975,24 +65039,23 @@
       "sourceRevision": 854086,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=854086",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Ice Essence",
       "translation": "冰精华",
-      "styleMappings": {
-        "Ice": "冰",
-        "Ice Essence": "冰精华"
-      },
+      "styleMappings": {},
       "sampleRaw": "Ice Essence",
       "sourceId": "cc487d1da139bc10406beb6d",
       "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Rosemary/UI",
       "sourceRevision": 854086,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=854086",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -65164,16 +65227,15 @@
       "npc": "",
       "source": "Fossil Essence",
       "translation": "化石精华",
-      "styleMappings": {
-        "Fossil Essence": "化石精华"
-      },
+      "styleMappings": {},
       "sampleRaw": "Fossil Essence",
       "sourceId": "57f209cd5a369773538c8188",
       "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Rosemary/UI",
       "sourceRevision": 854086,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=854086",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -65201,7 +65263,8 @@
       "sourceRevision": 586308,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=586308",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -65215,7 +65278,8 @@
       "sourceRevision": 699169,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=699169",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -65229,7 +65293,8 @@
       "sourceRevision": 729505,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=729505",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -65243,7 +65308,8 @@
       "sourceRevision": 586311,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=586311",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -65257,13 +65323,14 @@
       "sourceRevision": 823198,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=823198",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "(1/6) Enchantment Guide",
-      "translation": "附魔指南(1/6)",
+      "translation": "(1/6) 附魔指南",
       "styleMappings": {},
       "sampleRaw": "(1/6) Enchantment Guide",
       "sourceId": "c93c991149608daaaef96860",
@@ -65273,13 +65340,14 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "({{N0}}/{{N1}}) Enchantment Guide",
-      "numericTranslation": "附魔指南({{N0}}/{{N1}})"
+      "numericTranslation": "({{N0}}/{{N1}}) 附魔指南",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "({{N0}}/{{N1}}) Enchantment Guide",
-      "translation": "附魔指南({{N0}}/{{N1}})",
+      "translation": "({{N0}}/{{N1}}) 附魔指南",
       "styleMappings": {},
       "sampleRaw": "({{N0}}/{{N1}}) Enchantment Guide",
       "sourceId": "c93c991149608daaaef96860",
@@ -65289,17 +65357,18 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "({{N0}}/{{N1}}) Enchantment Guide",
-      "numericTranslation": "附魔指南({{N0}}/{{N1}})",
+      "numericTranslation": "({{N0}}/{{N1}}) 附魔指南",
       "templateExamples": {
         "{{N0}}": "1",
         "{{N1}}": "6"
-      }
+      },
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "(2/6) Enchantment Guide",
-      "translation": "附魔指南(2/6)",
+      "translation": "(2/6) 附魔指南",
       "styleMappings": {},
       "sampleRaw": "(2/6) Enchantment Guide",
       "sourceId": "ade7988a210537176f430e9a",
@@ -65309,13 +65378,14 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "({{N0}}/{{N1}}) Enchantment Guide",
-      "numericTranslation": "附魔指南({{N0}}/{{N1}})"
+      "numericTranslation": "({{N0}}/{{N1}}) 附魔指南",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "(3/6) Enchantment Guide",
-      "translation": "附魔指南(3/6)",
+      "translation": "(3/6) 附魔指南",
       "styleMappings": {},
       "sampleRaw": "(3/6) Enchantment Guide",
       "sourceId": "41ea6276d010ed8a4a000ca9",
@@ -65325,13 +65395,14 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "({{N0}}/{{N1}}) Enchantment Guide",
-      "numericTranslation": "附魔指南({{N0}}/{{N1}})"
+      "numericTranslation": "({{N0}}/{{N1}}) 附魔指南",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "(4/6) Enchantment Guide",
-      "translation": "附魔指南(4/6)",
+      "translation": "(4/6) 附魔指南",
       "styleMappings": {},
       "sampleRaw": "(4/6) Enchantment Guide",
       "sourceId": "6f2cebcc6b006e9cd4e07827",
@@ -65341,13 +65412,14 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "({{N0}}/{{N1}}) Enchantment Guide",
-      "numericTranslation": "附魔指南({{N0}}/{{N1}})"
+      "numericTranslation": "({{N0}}/{{N1}}) 附魔指南",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "(5/6) Enchantment Guide",
-      "translation": "附魔指南(5/6)",
+      "translation": "(5/6) 附魔指南",
       "styleMappings": {},
       "sampleRaw": "(5/6) Enchantment Guide",
       "sourceId": "8391a4b89cd2cc839581bc25",
@@ -65357,13 +65429,14 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "({{N0}}/{{N1}}) Enchantment Guide",
-      "numericTranslation": "附魔指南({{N0}}/{{N1}})"
+      "numericTranslation": "({{N0}}/{{N1}}) 附魔指南",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "(6/6) Enchantment Guide",
-      "translation": "附魔指南(6/6)",
+      "translation": "(6/6) 附魔指南",
       "styleMappings": {},
       "sampleRaw": "(6/6) Enchantment Guide",
       "sourceId": "f24bb938e3d30bf6bc267d7e",
@@ -65373,7 +65446,8 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "({{N0}}/{{N1}}) Enchantment Guide",
-      "numericTranslation": "附魔指南({{N0}}/{{N1}})"
+      "numericTranslation": "({{N0}}/{{N1}}) 附魔指南",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -67332,7 +67406,8 @@
       "sourceRevision": 769989,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=769989",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -67395,7 +67470,8 @@
       "sourceRevision": 705443,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=705443",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -67409,7 +67485,8 @@
       "sourceRevision": 785939,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=785939",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -67423,7 +67500,8 @@
       "sourceRevision": 842058,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=842058",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -67437,7 +67515,8 @@
       "sourceRevision": 843691,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=843691",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -67451,7 +67530,8 @@
       "sourceRevision": 785476,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=785476",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -67583,7 +67663,7 @@
       "scope": "gui",
       "npc": "",
       "source": "Time Pocket",
-      "translation": "时光口袋",
+      "translation": "时间口袋",
       "styleMappings": {},
       "sampleRaw": "Time Pocket",
       "sourceId": "08d4d103d8c24ff2215b61ee",
@@ -67591,7 +67671,8 @@
       "sourceRevision": 592442,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=592442",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -67793,7 +67874,8 @@
       "sourceRevision": 668573,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=668573",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -67828,17 +67910,15 @@
       "npc": "",
       "source": "Pest Trap",
       "translation": "害虫陷阱",
-      "styleMappings": {
-        "Pest Trap": "害虫陷阱",
-        "Pest": "害虫"
-      },
+      "styleMappings": {},
       "sampleRaw": "Pest Trap",
       "sourceId": "55750db8ea58b56f2f8c2479",
       "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Pest_Trap/UI",
       "sourceRevision": 680137,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=680137",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -67852,7 +67932,8 @@
       "sourceRevision": 656601,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=656601",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -67872,7 +67953,7 @@
       "scope": "gui",
       "npc": "",
       "source": "Wizardman Trials",
-      "translation": "Wizardman 的试炼",
+      "translation": "巫师人试炼",
       "styleMappings": {},
       "sampleRaw": "Wizardman Trials",
       "sourceId": "90ddf432e153214fc42a240f",
@@ -67880,7 +67961,8 @@
       "sourceRevision": 665280,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=665280",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -68160,7 +68242,8 @@
       "sourceRevision": 849790,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=849790",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -68229,7 +68312,7 @@
       "scope": "gui",
       "npc": "",
       "source": "Carrolyn's Exportable Crops",
-      "translation": "Carrolyn 的出口作物",
+      "translation": "卡罗琳的可出口作物",
       "styleMappings": {},
       "sampleRaw": "Carrolyn's Exportable Crops",
       "sourceId": "f81f418d4457cc69d38d1752",
@@ -68237,23 +68320,23 @@
       "sourceRevision": 859409,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=859409",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Vermin Trap",
       "translation": "虫害陷阱",
-      "styleMappings": {
-        "Vermin Trap": "虫害陷阱"
-      },
+      "styleMappings": {},
       "sampleRaw": "Vermin Trap",
       "sourceId": "627ac6804bbb67f5e0ef714c",
       "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Vermin_Trap/UI",
       "sourceRevision": 656440,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=656440",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -68295,7 +68378,7 @@
       "scope": "gui",
       "npc": "",
       "source": "Project - Hub Revamp",
-      "translation": "项目 - 大厅翻新",
+      "translation": "项目 - 中心岛翻新",
       "styleMappings": {},
       "sampleRaw": "Project - Hub Revamp",
       "sourceId": "14b1b7ea5321ce41b5c89e7a",
@@ -68303,7 +68386,8 @@
       "sourceRevision": 616964,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=616964",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -68317,7 +68401,8 @@
       "sourceRevision": 788924,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=788924",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -68337,7 +68422,7 @@
       "scope": "gui",
       "npc": "",
       "source": "Witches Stew",
-      "translation": "女巫炖汤",
+      "translation": "女巫炖菜",
       "styleMappings": {},
       "sampleRaw": "Witches Stew",
       "sourceId": "196dca29909e759a1dc33107",
@@ -68345,13 +68430,14 @@
       "sourceRevision": 834478,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=834478",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Ingredient Guide",
-      "translation": "原料指南",
+      "translation": "材料指南",
       "styleMappings": {},
       "sampleRaw": "Ingredient Guide",
       "sourceId": "94d562e37693f785a19c19a1",
@@ -68359,7 +68445,8 @@
       "sourceRevision": 834478,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=834478",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -68432,7 +68519,8 @@
       "sourceRevision": 722383,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=722383",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -68452,7 +68540,7 @@
       "scope": "gui",
       "npc": "",
       "source": "Grand Feast",
-      "translation": "盛大宴会",
+      "translation": "盛大盛宴",
       "styleMappings": {},
       "sampleRaw": "Grand Feast",
       "sourceId": "af18f4c74851c4369bea4e1f",
@@ -68460,13 +68548,14 @@
       "sourceRevision": 831998,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=831998",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "All Crops",
-      "translation": "全部作物",
+      "translation": "所有作物",
       "styleMappings": {},
       "sampleRaw": "All Crops",
       "sourceId": "4284ea7bc90f0eadcba02e40",
@@ -68474,7 +68563,8 @@
       "sourceRevision": 831998,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=831998",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -68516,7 +68606,8 @@
       "sourceRevision": 623080,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=623080",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -68551,18 +68642,15 @@
       "npc": "",
       "source": "Rift Necklace",
       "translation": "裂隙项链",
-      "styleMappings": {
-        "Rift Necklace": "裂隙项链",
-        "Necklace": "项链",
-        "Rift": "裂隙"
-      },
+      "styleMappings": {},
       "sampleRaw": "Rift Necklace",
       "sourceId": "84c424de696e56236158437f",
       "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Elise_%28Rift%29/UI",
       "sourceRevision": 623275,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=623275",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -68974,7 +69062,8 @@
       "sourceRevision": 765461,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=765461",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -68988,7 +69077,8 @@
       "sourceRevision": 668126,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=668126",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -69051,17 +69141,15 @@
       "npc": "",
       "source": "Quests & Chapters",
       "translation": "任务与章节",
-      "styleMappings": {
-        "Quests": "任务",
-        "Chapters": "章节"
-      },
+      "styleMappings": {},
       "sampleRaw": "Quests & Chapters",
       "sourceId": "db1ec25d54ccf1fbc2512aef",
       "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Quests_%26_Chapters/UI",
       "sourceRevision": 656121,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=656121",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -69091,7 +69179,8 @@
       "sourceRevision": 859477,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=859477",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -69139,7 +69228,7 @@
       "scope": "gui",
       "npc": "",
       "source": "Bayou Sea Creatures",
-      "translation": "河湾海洋生物",
+      "translation": "河口海洋生物",
       "styleMappings": {},
       "sampleRaw": "Bayou Sea Creatures",
       "sourceId": "b80589cb0265dd6917d75877",
@@ -69147,7 +69236,8 @@
       "sourceRevision": 785907,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=785907",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -69203,7 +69293,8 @@
       "sourceRevision": 770016,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=770016",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -69261,7 +69352,8 @@
       "sourceRevision": 679782,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=679782",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -69334,23 +69426,21 @@
       "npc": "",
       "source": "Carnival Mask Bag",
       "translation": "嘉年华面具袋",
-      "styleMappings": {
-        "Carnival": "嘉年华",
-        "Mask": "面具"
-      },
+      "styleMappings": {},
       "sampleRaw": "Carnival Mask Bag",
       "sourceId": "8c60280828808f5b2128e95b",
       "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Carnival_Mask_Bag/UI",
       "sourceRevision": 702666,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=702666",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Rod Part Guide",
-      "translation": "鱼竿配件指南",
+      "translation": "钓竿部件指南",
       "styleMappings": {},
       "sampleRaw": "Rod Part Guide",
       "sourceId": "4beb2274bd014f926f0f99ea",
@@ -69358,7 +69448,8 @@
       "sourceRevision": 845298,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=845298",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -69372,7 +69463,8 @@
       "sourceRevision": 845298,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=845298",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -69386,13 +69478,14 @@
       "sourceRevision": 845298,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=845298",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Sinker",
-      "translation": "坠子",
+      "translation": "沉子",
       "styleMappings": {},
       "sampleRaw": "Sinker",
       "sourceId": "c2a45b70f8730989f1057712",
@@ -69400,7 +69493,8 @@
       "sourceRevision": 845298,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=845298",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -69512,7 +69606,7 @@
       "scope": "gui",
       "npc": "",
       "source": "View Stash",
-      "translation": "查看暂存区",
+      "translation": "查看仓库",
       "styleMappings": {},
       "sampleRaw": "View Stash",
       "sourceId": "18fc5ce1ca6a1fff12a1152a",
@@ -69520,7 +69614,8 @@
       "sourceRevision": 738933,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=738933",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -69774,7 +69869,7 @@
       "scope": "gui",
       "npc": "",
       "source": "(1/3) Loadouts",
-      "translation": "(1/3) 预设栏",
+      "translation": "（1/3）配装",
       "styleMappings": {},
       "sampleRaw": "(1/3) Loadouts",
       "sourceId": "4172e4db6000e6495b251470",
@@ -69784,13 +69879,14 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "({{N0}}/{{N1}}) Loadouts",
-      "numericTranslation": "({{N0}}/{{N1}}) 预设栏"
+      "numericTranslation": "（{{N0}}/{{N1}}）配装",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "({{N0}}/{{N1}}) Loadouts",
-      "translation": "({{N0}}/{{N1}}) 预设栏",
+      "translation": "（{{N0}}/{{N1}}）配装",
       "styleMappings": {},
       "sampleRaw": "({{N0}}/{{N1}}) Loadouts",
       "sourceId": "4172e4db6000e6495b251470",
@@ -69800,11 +69896,12 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "({{N0}}/{{N1}}) Loadouts",
-      "numericTranslation": "({{N0}}/{{N1}}) 预设栏",
+      "numericTranslation": "（{{N0}}/{{N1}}）配装",
       "templateExamples": {
         "{{N0}}": "1",
         "{{N1}}": "3"
-      }
+      },
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -70035,17 +70132,15 @@
       "npc": "",
       "source": "Safari Belt",
       "translation": "野生动物园腰带",
-      "styleMappings": {
-        "Belt": "腰带",
-        "Safari Belt": "野生动物园腰带"
-      },
+      "styleMappings": {},
       "sampleRaw": "Safari Belt",
       "sourceId": "3a00bd54a31d3d8c9e3e6cb8",
       "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Andrea/UI",
       "sourceRevision": 768760,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=768760",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -70401,7 +70496,7 @@
       "scope": "gui",
       "npc": "",
       "source": "Weather Information",
-      "translation": "天气资讯",
+      "translation": "天气信息",
       "styleMappings": {},
       "sampleRaw": "Weather Information",
       "sourceId": "bf2ffa283cc8b02031673be2",
@@ -70409,7 +70504,8 @@
       "sourceRevision": 861754,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861754",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -70423,7 +70519,8 @@
       "sourceRevision": 861754,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861754",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -70437,7 +70534,8 @@
       "sourceRevision": 861754,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861754",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -70451,7 +70549,8 @@
       "sourceRevision": 861754,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861754",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -70493,7 +70592,8 @@
       "sourceRevision": 861754,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861754",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -70836,7 +70936,8 @@
       "sourceRevision": 860406,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860406",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -70850,7 +70951,8 @@
       "sourceRevision": 860406,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860406",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -70892,13 +70994,14 @@
       "sourceRevision": 856373,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=856373",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Spooky Rewards",
-      "translation": "万圣节奖励",
+      "translation": "阴森奖励",
       "styleMappings": {},
       "sampleRaw": "Spooky Rewards",
       "sourceId": "192577124ea7823cecd9ec29",
@@ -70906,7 +71009,8 @@
       "sourceRevision": 856373,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=856373",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -70943,7 +71047,7 @@
       "scope": "gui",
       "npc": "",
       "source": "Crafted Minions",
-      "translation": "已制作的仆从",
+      "translation": "已制作仆从",
       "styleMappings": {},
       "sampleRaw": "Crafted Minions",
       "sourceId": "f96ca255781238e2b86abcff",
@@ -70951,7 +71055,8 @@
       "sourceRevision": 859837,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=859837",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -70979,7 +71084,8 @@
       "sourceRevision": 842631,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=842631",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -71070,7 +71176,8 @@
       "sourceRevision": 391775,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=391775",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -71140,13 +71247,14 @@
       "sourceRevision": 830426,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=830426",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Previous City Projects",
-      "translation": "往期城市项目",
+      "translation": "上一批城市项目",
       "styleMappings": {},
       "sampleRaw": "Previous City Projects",
       "sourceId": "f0d9dd906623999245966788",
@@ -71154,7 +71262,8 @@
       "sourceRevision": 830426,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=830426",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -71324,7 +71433,7 @@
       "scope": "gui",
       "npc": "",
       "source": "Bits Shop - Enrichments",
-      "translation": "比特商店 - 饰品精炼",
+      "translation": "比特商店 - 附魔强化",
       "styleMappings": {},
       "sampleRaw": "Bits Shop - Enrichments",
       "sourceId": "10e99b488c55c027d8ccd375",
@@ -71332,13 +71441,14 @@
       "sourceRevision": 830426,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=830426",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Bits Shop - Stacking Enchants",
-      "translation": "比特商店 - 叠加附魔",
+      "translation": "比特商店 - 可堆叠附魔",
       "styleMappings": {},
       "sampleRaw": "Bits Shop - Stacking Enchants",
       "sourceId": "1383f197132834cde432a5e1",
@@ -71346,13 +71456,14 @@
       "sourceRevision": 830426,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=830426",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Bits Shop - Inferno Fuel",
-      "translation": "比特商店 - 炽焰燃料",
+      "translation": "比特商店 - 炼狱燃料",
       "styleMappings": {},
       "sampleRaw": "Bits Shop - Inferno Fuel",
       "sourceId": "e676463af5b41fcaceefc2e2",
@@ -71360,7 +71471,8 @@
       "sourceRevision": 830426,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=830426",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -71444,13 +71556,14 @@
       "sourceRevision": 830426,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=830426",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Bits Shop - Sacks",
-      "translation": "比特商店 - 收纳袋",
+      "translation": "比特商店 - 袋子",
       "styleMappings": {},
       "sampleRaw": "Bits Shop - Sacks",
       "sourceId": "cef3c24a5e8be19dccfa83b3",
@@ -71458,7 +71571,8 @@
       "sourceRevision": 830426,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=830426",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -71472,13 +71586,14 @@
       "sourceRevision": 830426,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=830426",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Bits Shop - Kat Items",
-      "translation": "比特商店 - Kat 用品",
+      "translation": "比特商店 - Kat物品",
       "styleMappings": {},
       "sampleRaw": "Bits Shop - Kat Items",
       "sourceId": "dcc06e61b3d74f9da66e86fd",
@@ -71486,7 +71601,8 @@
       "sourceRevision": 830426,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=830426",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -71604,7 +71720,7 @@
       "scope": "gui",
       "npc": "",
       "source": "SkyBlock Menu",
-      "translation": "SkyBlock 菜单",
+      "translation": "空岛菜单",
       "styleMappings": {},
       "sampleRaw": "SkyBlock Menu",
       "sourceId": "0213e23dca32476bb03371ce",
@@ -71612,13 +71728,14 @@
       "sourceRevision": 822758,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=822758",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Your Bags",
-      "translation": "随身袋",
+      "translation": "你的袋子",
       "styleMappings": {},
       "sampleRaw": "Your Bags",
       "sourceId": "97dd762ad4b8ae292fa0bad6",
@@ -71626,7 +71743,8 @@
       "sourceRevision": 822758,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=822758",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -71684,7 +71802,7 @@
       "scope": "gui",
       "npc": "",
       "source": "Storage",
-      "translation": "仓库",
+      "translation": "存储",
       "styleMappings": {},
       "sampleRaw": "Storage",
       "sourceId": "e5af362772de0e615fad5df2",
@@ -71692,13 +71810,14 @@
       "sourceRevision": 822758,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=822758",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Ender Chest (1/9)",
-      "translation": "末影箱(1/9)",
+      "translation": "末影箱（1/9）",
       "styleMappings": {},
       "sampleRaw": "Ender Chest (1/9)",
       "sourceId": "40f2fd2b312123299ec86f91",
@@ -71708,13 +71827,14 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "Ender Chest ({{N0}}/{{N1}})",
-      "numericTranslation": "末影箱({{N0}}/{{N1}})"
+      "numericTranslation": "末影箱（{{N0}}/{{N1}}）",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Ender Chest ({{N0}}/{{N1}})",
-      "translation": "末影箱({{N0}}/{{N1}})",
+      "translation": "末影箱（{{N0}}/{{N1}}）",
       "styleMappings": {},
       "sampleRaw": "Ender Chest ({{N0}}/{{N1}})",
       "sourceId": "40f2fd2b312123299ec86f91",
@@ -71724,17 +71844,18 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "Ender Chest ({{N0}}/{{N1}})",
-      "numericTranslation": "末影箱({{N0}}/{{N1}})",
+      "numericTranslation": "末影箱（{{N0}}/{{N1}}）",
       "templateExamples": {
         "{{N0}}": "1",
         "{{N1}}": "9"
-      }
+      },
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Ender Chest (2/9)",
-      "translation": "末影箱(2/9)",
+      "translation": "末影箱（2/9）",
       "styleMappings": {},
       "sampleRaw": "Ender Chest (2/9)",
       "sourceId": "b7539d1493c1c2d91057a145",
@@ -71744,13 +71865,14 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "Ender Chest ({{N0}}/{{N1}})",
-      "numericTranslation": "末影箱({{N0}}/{{N1}})"
+      "numericTranslation": "末影箱（{{N0}}/{{N1}}）",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Ender Chest (3/9)",
-      "translation": "末影箱(3/9)",
+      "translation": "末影箱（3/9）",
       "styleMappings": {},
       "sampleRaw": "Ender Chest (3/9)",
       "sourceId": "f4351715be1f15197ed0093c",
@@ -71760,13 +71882,14 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "Ender Chest ({{N0}}/{{N1}})",
-      "numericTranslation": "末影箱({{N0}}/{{N1}})"
+      "numericTranslation": "末影箱（{{N0}}/{{N1}}）",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Jumbo Backpack (Slot #1)",
-      "translation": "超大背包(1 号槽)",
+      "translation": "巨型背包（槽位 #1）",
       "styleMappings": {},
       "sampleRaw": "Jumbo Backpack (Slot #1)",
       "sourceId": "1355e16fce650fdff6cbcdac",
@@ -71776,13 +71899,14 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "Jumbo Backpack (Slot #{{N0}})",
-      "numericTranslation": "超大背包({{N0}} 号槽)"
+      "numericTranslation": "巨型背包（槽位 #{{N0}}）",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Jumbo Backpack (Slot #{{N0}})",
-      "translation": "超大背包({{N0}} 号槽)",
+      "translation": "巨型背包（槽位 #{{N0}}）",
       "styleMappings": {},
       "sampleRaw": "Jumbo Backpack (Slot #{{N0}})",
       "sourceId": "1355e16fce650fdff6cbcdac",
@@ -71792,10 +71916,11 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "Jumbo Backpack (Slot #{{N0}})",
-      "numericTranslation": "超大背包({{N0}} 号槽)",
+      "numericTranslation": "巨型背包（槽位 #{{N0}}）",
       "templateExamples": {
         "{{N0}}": "1"
-      }
+      },
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -71836,7 +71961,7 @@
       "scope": "gui",
       "npc": "",
       "source": "Large Backpack (Slot #3)",
-      "translation": "大型背包 (第 3 格)",
+      "translation": "大型背包（槽位 #3）",
       "styleMappings": {},
       "sampleRaw": "Large Backpack (Slot #3)",
       "sourceId": "53636d37a9f033878493c966",
@@ -71846,13 +71971,14 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "Large Backpack (Slot #{{N0}})",
-      "numericTranslation": "大型背包 (第 {{N0}} 格)"
+      "numericTranslation": "大型背包（槽位 #{{N0}}）",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Large Backpack (Slot #{{N0}})",
-      "translation": "大型背包 (第 {{N0}} 格)",
+      "translation": "大型背包（槽位 #{{N0}}）",
       "styleMappings": {},
       "sampleRaw": "Large Backpack (Slot #{{N0}})",
       "sourceId": "53636d37a9f033878493c966",
@@ -71862,10 +71988,11 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "Large Backpack (Slot #{{N0}})",
-      "numericTranslation": "大型背包 (第 {{N0}} 格)",
+      "numericTranslation": "大型背包（槽位 #{{N0}}）",
       "templateExamples": {
         "{{N0}}": "3"
-      }
+      },
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -71906,7 +72033,7 @@
       "scope": "gui",
       "npc": "",
       "source": "Small Backpack (Slot #5)",
-      "translation": "小型背包(5 号槽)",
+      "translation": "小型背包（槽位 #5）",
       "styleMappings": {},
       "sampleRaw": "Small Backpack (Slot #5)",
       "sourceId": "0cc9e4bde29a0805d5d41172",
@@ -71916,13 +72043,14 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "Small Backpack (Slot #{{N0}})",
-      "numericTranslation": "小型背包({{N0}} 号槽)"
+      "numericTranslation": "小型背包（槽位 #{{N0}}）",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Small Backpack (Slot #{{N0}})",
-      "translation": "小型背包({{N0}} 号槽)",
+      "translation": "小型背包（槽位 #{{N0}}）",
       "styleMappings": {},
       "sampleRaw": "Small Backpack (Slot #{{N0}})",
       "sourceId": "0cc9e4bde29a0805d5d41172",
@@ -71932,10 +72060,11 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "Small Backpack (Slot #{{N0}})",
-      "numericTranslation": "小型背包({{N0}} 号槽)",
+      "numericTranslation": "小型背包（槽位 #{{N0}}）",
       "templateExamples": {
         "{{N0}}": "5"
-      }
+      },
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -72033,7 +72162,8 @@
       "sourceRevision": 822758,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=822758",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -72047,7 +72177,8 @@
       "sourceRevision": 822758,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=822758",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -72067,7 +72198,7 @@
       "scope": "gui",
       "npc": "",
       "source": "Your Stats Breakdown",
-      "translation": "属性明细",
+      "translation": "你的属性明细",
       "styleMappings": {},
       "sampleRaw": "Your Stats Breakdown",
       "sourceId": "887cba331ade1572416ab274",
@@ -72075,7 +72206,8 @@
       "sourceRevision": 822758,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=822758",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -72439,7 +72571,8 @@
       "sourceRevision": 822758,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=822758",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -72453,7 +72586,8 @@
       "sourceRevision": 822758,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=822758",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -72467,7 +72601,8 @@
       "sourceRevision": 822758,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=822758",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -72481,7 +72616,8 @@
       "sourceRevision": 822758,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=822758",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -72495,7 +72631,8 @@
       "sourceRevision": 822758,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=822758",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -72509,7 +72646,8 @@
       "sourceRevision": 822758,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=822758",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -72523,7 +72661,8 @@
       "sourceRevision": 822758,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=822758",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -72537,7 +72676,8 @@
       "sourceRevision": 822758,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=822758",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -72551,13 +72691,14 @@
       "sourceRevision": 822758,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=822758",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Sack of Sacks",
-      "translation": "储物袋总袋",
+      "translation": "袋子收纳袋",
       "styleMappings": {},
       "sampleRaw": "Sack of Sacks",
       "sourceId": "fd535bb6d961bc9a446bf2eb",
@@ -72565,7 +72706,8 @@
       "sourceRevision": 822758,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=822758",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -72628,22 +72770,21 @@
       "npc": "",
       "source": "Item Frame",
       "translation": "物品展示框",
-      "styleMappings": {
-        "Item": "物品"
-      },
+      "styleMappings": {},
       "sampleRaw": "Item Frame",
       "sourceId": "560048c87634d9e301c0a95e",
       "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Item_Frame/UI",
       "sourceRevision": 819459,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819459",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Builder",
-      "translation": "建筑商",
+      "translation": "建筑工",
       "styleMappings": {},
       "sampleRaw": "Builder",
       "sourceId": "06f986c3946f8433355a8517",
@@ -72651,7 +72792,8 @@
       "sourceRevision": 666356,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=666356",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -72665,7 +72807,8 @@
       "sourceRevision": 666356,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=666356",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -72693,13 +72836,14 @@
       "sourceRevision": 666356,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=666356",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Variety",
-      "translation": "杂项",
+      "translation": "多样性",
       "styleMappings": {},
       "sampleRaw": "Variety",
       "sourceId": "3f1d162faa23086a6eede86e",
@@ -72707,7 +72851,8 @@
       "sourceRevision": 666356,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=666356",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -72721,7 +72866,8 @@
       "sourceRevision": 666356,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=666356",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -72735,7 +72881,8 @@
       "sourceRevision": 861253,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861253",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -72755,7 +72902,7 @@
       "scope": "gui",
       "npc": "",
       "source": "Medal Trades",
-      "translation": "奖牌兑换",
+      "translation": "奖章交易",
       "styleMappings": {},
       "sampleRaw": "Medal Trades",
       "sourceId": "a8bca0099beef7559e905275",
@@ -72763,13 +72910,14 @@
       "sourceRevision": 824608,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=824608",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Wool Weaver (Vibrant)",
-      "translation": "羊毛织工(鲜艳)",
+      "translation": "羊毛织工（鲜艳）",
       "styleMappings": {},
       "sampleRaw": "Wool Weaver (Vibrant)",
       "sourceId": "4d94aa600a52d05471b279b6",
@@ -72777,13 +72925,14 @@
       "sourceRevision": 443459,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=443459",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Wool Weaver (Cool)",
-      "translation": "羊毛织工(冷色)",
+      "translation": "羊毛织工（冷色）",
       "styleMappings": {},
       "sampleRaw": "Wool Weaver (Cool)",
       "sourceId": "59af62fff573e5cd3aa5edc9",
@@ -72791,7 +72940,8 @@
       "sourceRevision": 443459,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=443459",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -72917,13 +73067,14 @@
       "sourceRevision": 855002,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=855002",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Select Process",
-      "translation": "选择工序",
+      "translation": "选择工艺",
       "styleMappings": {},
       "sampleRaw": "Select Process",
       "sourceId": "080148379f62cd4ec925aa0e",
@@ -72931,13 +73082,14 @@
       "sourceRevision": 855002,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=855002",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Refining",
-      "translation": "精炼",
+      "translation": "提纯",
       "styleMappings": {},
       "sampleRaw": "Refining",
       "sourceId": "28aa1a8fb7c50df0959a6f9c",
@@ -72945,7 +73097,8 @@
       "sourceRevision": 855002,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=855002",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -72959,7 +73112,8 @@
       "sourceRevision": 855002,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=855002",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -72973,7 +73127,8 @@
       "sourceRevision": 855002,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=855002",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -72987,7 +73142,8 @@
       "sourceRevision": 855002,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=855002",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -73001,13 +73157,14 @@
       "sourceRevision": 855002,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=855002",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Drill Parts",
-      "translation": "钻头配件",
+      "translation": "钻头部件",
       "styleMappings": {},
       "sampleRaw": "Drill Parts",
       "sourceId": "dea4a1999a6e3b2a6c0b7ed5",
@@ -73015,7 +73172,8 @@
       "sourceRevision": 855002,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=855002",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -73029,23 +73187,23 @@
       "sourceRevision": 855002,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=855002",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Pets",
       "translation": "宠物",
-      "styleMappings": {
-        "Pets": "宠物"
-      },
+      "styleMappings": {},
       "sampleRaw": "Pets",
       "sourceId": "48073dc4ac65ac2b0ece1da7",
       "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/The_Forge/UI",
       "sourceRevision": 855002,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=855002",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -73059,23 +73217,23 @@
       "sourceRevision": 855002,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=855002",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Anvil",
       "translation": "铁砧",
-      "styleMappings": {
-        "Anvil": "铁砧"
-      },
+      "styleMappings": {},
       "sampleRaw": "Anvil",
       "sourceId": "29ed5e6ea16d4a5048011b53",
       "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Anvil/UI",
       "sourceRevision": 482948,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=482948",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -73145,7 +73303,8 @@
       "sourceRevision": 727416,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=727416",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -73159,13 +73318,14 @@
       "sourceRevision": 727416,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=727416",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Your Bids",
-      "translation": "我的出价",
+      "translation": "你的出价",
       "styleMappings": {},
       "sampleRaw": "Your Bids",
       "sourceId": "adfca6c64626b2f5f9124b08",
@@ -73173,7 +73333,8 @@
       "sourceRevision": 727416,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=727416",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -73187,7 +73348,8 @@
       "sourceRevision": 727416,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=727416",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -73201,7 +73363,8 @@
       "sourceRevision": 727416,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=727416",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -73215,13 +73378,14 @@
       "sourceRevision": 727416,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=727416",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Auctions Browser",
-      "translation": "拍卖列表",
+      "translation": "拍卖浏览器",
       "styleMappings": {},
       "sampleRaw": "Auctions Browser",
       "sourceId": "90f30c4ef3b0ab3a0f07ab92",
@@ -73229,7 +73393,8 @@
       "sourceRevision": 727416,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=727416",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -73257,7 +73422,8 @@
       "sourceRevision": 727416,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=727416",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -73285,7 +73451,8 @@
       "sourceRevision": 727416,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=727416",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -73299,7 +73466,8 @@
       "sourceRevision": 391551,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=391551",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -73348,7 +73516,8 @@
       "sourceRevision": 391672,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=391672",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -73404,7 +73573,8 @@
       "sourceRevision": 490332,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=490332",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -73466,24 +73636,22 @@
       "scope": "gui",
       "npc": "",
       "source": "Your Skills",
-      "translation": "技能",
-      "styleMappings": {
-        "Skills": "技能",
-        "Skill": "技能"
-      },
+      "translation": "你的技能",
+      "styleMappings": {},
       "sampleRaw": "Your Skills",
       "sourceId": "41a94c1f6e3355f2751480ea",
       "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Skills/UI",
       "sourceRevision": 586299,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=586299",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Dwarven Mines Rail System",
-      "translation": "矮人矿山轨道系统",
+      "translation": "矮人矿坑铁轨系统",
       "styleMappings": {},
       "sampleRaw": "Dwarven Mines Rail System",
       "sourceId": "a614d0f5144ff77e7a43f6cf",
@@ -73491,7 +73659,8 @@
       "sourceRevision": 589484,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=589484",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -73505,7 +73674,8 @@
       "sourceRevision": 821195,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=821195",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -73567,7 +73737,7 @@
       "scope": "gui",
       "npc": "",
       "source": "Rosetta's Armor",
-      "translation": "Rosetta 的护甲",
+      "translation": "Rosetta的护甲",
       "styleMappings": {},
       "sampleRaw": "Rosetta's Armor",
       "sourceId": "bc9a9f425ed021de806b5a36",
@@ -73575,7 +73745,8 @@
       "sourceRevision": 790408,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=790408",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -73589,13 +73760,14 @@
       "sourceRevision": 790408,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=790408",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Mercenary Armor",
-      "translation": "雇佣兵护甲",
+      "translation": "佣兵护甲",
       "styleMappings": {},
       "sampleRaw": "Mercenary Armor",
       "sourceId": "d3e919ed0e4114c1a83d2506",
@@ -73603,7 +73775,8 @@
       "sourceRevision": 790408,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=790408",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -73715,7 +73888,8 @@
       "sourceRevision": 847556,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=847556",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -73743,7 +73917,8 @@
       "sourceRevision": 640957,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=640957",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -73771,13 +73946,14 @@
       "sourceRevision": 611793,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=611793",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Foraging Skill",
-      "translation": "伐木技能",
+      "translation": "采集技能",
       "styleMappings": {},
       "sampleRaw": "Foraging Skill",
       "sourceId": "d549f370cda28027907c8e73",
@@ -73785,7 +73961,8 @@
       "sourceRevision": 831807,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=831807",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -73799,13 +73976,14 @@
       "sourceRevision": 475036,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=475036",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Rusty The Janitor",
-      "translation": "清洁工 Rusty",
+      "translation": "清洁工Rusty",
       "styleMappings": {},
       "sampleRaw": "Rusty The Janitor",
       "sourceId": "94270e28068947fffc5f2553",
@@ -73813,7 +73991,8 @@
       "sourceRevision": 795723,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=795723",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -73869,7 +74048,8 @@
       "sourceRevision": 831721,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=831721",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -73917,7 +74097,7 @@
       "scope": "gui",
       "npc": "",
       "source": "Alchemy Skill",
-      "translation": "炼药技能",
+      "translation": "炼金技能",
       "styleMappings": {},
       "sampleRaw": "Alchemy Skill",
       "sourceId": "38cb77beb9f84645c30231dd",
@@ -73925,7 +74105,8 @@
       "sourceRevision": 396909,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=396909",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -74121,7 +74302,8 @@
       "sourceRevision": 651751,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=651751",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -77915,7 +78097,8 @@
       "sourceRevision": 642238,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=642238",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -77929,7 +78112,8 @@
       "sourceRevision": 844634,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=844634",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -77943,7 +78127,8 @@
       "sourceRevision": 586550,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=586550",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -77957,7 +78142,8 @@
       "sourceRevision": 641219,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=641219",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -77971,7 +78157,8 @@
       "sourceRevision": 677180,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=677180",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -77985,7 +78172,8 @@
       "sourceRevision": 722065,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=722065",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -78013,23 +78201,23 @@
       "sourceRevision": 427555,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=427555",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Collections",
       "translation": "收藏",
-      "styleMappings": {
-        "Collections": "收藏"
-      },
+      "styleMappings": {},
       "sampleRaw": "Collections",
       "sourceId": "ba05ad1df7442e3c282ad257",
       "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Collections/UI",
       "sourceRevision": 686867,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=686867",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -78049,7 +78237,7 @@
       "scope": "gui",
       "npc": "",
       "source": "Farming Collections",
-      "translation": "农业收藏品",
+      "translation": "农业收藏",
       "styleMappings": {},
       "sampleRaw": "Farming Collections",
       "sourceId": "8fd2341ea31905333a04084c",
@@ -78057,13 +78245,14 @@
       "sourceRevision": 686870,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=686870",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Mining Collections",
-      "translation": "挖矿收藏品",
+      "translation": "采矿收藏",
       "styleMappings": {},
       "sampleRaw": "Mining Collections",
       "sourceId": "f37761cd139ecd02fa1a8262",
@@ -78071,7 +78260,8 @@
       "sourceRevision": 654283,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=654283",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -78099,7 +78289,8 @@
       "sourceRevision": 391713,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=391713",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -78175,7 +78366,7 @@
       "scope": "gui",
       "npc": "",
       "source": "Sea Creature Guide",
-      "translation": "海洋生物指南",
+      "translation": "海怪指南",
       "styleMappings": {},
       "sampleRaw": "Sea Creature Guide",
       "sourceId": "2428589f96c6bdf7876f1051",
@@ -78183,13 +78374,14 @@
       "sourceRevision": 837492,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=837492",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Basic Sea Creatures",
-      "translation": "基础海洋生物",
+      "translation": "基础海怪",
       "styleMappings": {},
       "sampleRaw": "Basic Sea Creatures",
       "sourceId": "45994ffeae9474fc403fcc84",
@@ -78197,13 +78389,14 @@
       "sourceRevision": 837492,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=837492",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Lotus Sea Creatures",
-      "translation": "莲花海洋生物",
+      "translation": "莲花海怪",
       "styleMappings": {},
       "sampleRaw": "Lotus Sea Creatures",
       "sourceId": "4bc39b4ca435745759fc2e99",
@@ -78211,13 +78404,14 @@
       "sourceRevision": 837492,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=837492",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Moonglade Marsh Sea Creatures",
-      "translation": "月光沼泽海洋生物",
+      "translation": "月林沼泽海怪",
       "styleMappings": {},
       "sampleRaw": "Moonglade Marsh Sea Creatures",
       "sourceId": "96026f7bf0b3561017822afb",
@@ -78225,13 +78419,14 @@
       "sourceRevision": 837492,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=837492",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Crimson Isle Sea Creatures",
-      "translation": "绯红岛海洋生物",
+      "translation": "绯红之岛海怪",
       "styleMappings": {},
       "sampleRaw": "Crimson Isle Sea Creatures",
       "sourceId": "2479e9d7ec375dc7c9030cf0",
@@ -78239,13 +78434,14 @@
       "sourceRevision": 837492,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=837492",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Winter Sea Creatures",
-      "translation": "寒冬海洋生物",
+      "translation": "冬季海怪",
       "styleMappings": {},
       "sampleRaw": "Winter Sea Creatures",
       "sourceId": "6a997579d78302cce516263b",
@@ -78253,13 +78449,14 @@
       "sourceRevision": 837492,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=837492",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Spooky Sea Creatures",
-      "translation": "惊魂海洋生物",
+      "translation": "阴森海怪",
       "styleMappings": {},
       "sampleRaw": "Spooky Sea Creatures",
       "sourceId": "8a1da239e1fa0820a2f583b2",
@@ -78267,13 +78464,14 @@
       "sourceRevision": 837492,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=837492",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Shark Sea Creatures",
-      "translation": "鲨鱼海洋生物",
+      "translation": "鲨鱼海怪",
       "styleMappings": {},
       "sampleRaw": "Shark Sea Creatures",
       "sourceId": "d53a58fabe6920260d7247da",
@@ -78281,13 +78479,14 @@
       "sourceRevision": 837492,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=837492",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Hotspot Sea Creatures",
-      "translation": "热点海洋生物",
+      "translation": "热点海怪",
       "styleMappings": {},
       "sampleRaw": "Hotspot Sea Creatures",
       "sourceId": "6c8d18b1c243a49a14c50b1d",
@@ -78295,13 +78494,14 @@
       "sourceRevision": 837492,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=837492",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Special Sea Creatures",
-      "translation": "特殊海洋生物",
+      "translation": "特殊海怪",
       "styleMappings": {},
       "sampleRaw": "Special Sea Creatures",
       "sourceId": "9ea5bb2cd8cf3f9b77ed10f6",
@@ -78309,7 +78509,8 @@
       "sourceRevision": 837492,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=837492",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -78323,7 +78524,8 @@
       "sourceRevision": 860146,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860146",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -78539,7 +78741,7 @@
       "scope": "gui",
       "npc": "",
       "source": "Runic Pedestal",
-      "translation": "符文台",
+      "translation": "符文基座",
       "styleMappings": {},
       "sampleRaw": "Runic Pedestal",
       "sourceId": "1fda3385c6d04262d398a880",
@@ -78547,7 +78749,8 @@
       "sourceRevision": 631144,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=631144",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -78561,7 +78764,8 @@
       "sourceRevision": 631144,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=631144",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -78589,7 +78793,8 @@
       "sourceRevision": 507473,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=507473",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -78617,7 +78822,8 @@
       "sourceRevision": 507473,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=507473",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -78799,7 +79005,8 @@
       "sourceRevision": 796119,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=796119",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -78813,7 +79020,8 @@
       "sourceRevision": 796119,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=796119",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -78827,7 +79035,8 @@
       "sourceRevision": 796119,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=796119",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -78945,7 +79154,7 @@
       "scope": "gui",
       "npc": "",
       "source": "Jerry The Assistant",
-      "translation": "助手 Jerry",
+      "translation": "杰瑞助手",
       "styleMappings": {},
       "sampleRaw": "Jerry The Assistant",
       "sourceId": "dea4654282560dd228997e6b",
@@ -78953,13 +79162,14 @@
       "sourceRevision": 391609,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=391609",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Patch Notes",
-      "translation": "更新说明",
+      "translation": "更新日志",
       "styleMappings": {},
       "sampleRaw": "Patch Notes",
       "sourceId": "b38cb0410271321d57ff5e43",
@@ -78967,7 +79177,8 @@
       "sourceRevision": 391609,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=391609",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -79001,7 +79212,7 @@
       "scope": "gui",
       "npc": "",
       "source": "Jerry's Guide to Guesting",
-      "translation": "Jerry 的岛屿拜访指南",
+      "translation": "杰瑞的访客指南",
       "styleMappings": {},
       "sampleRaw": "Jerry's Guide to Guesting",
       "sourceId": "c7489f1a8428afe7373a0f4d",
@@ -79009,7 +79220,8 @@
       "sourceRevision": 391609,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=391609",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -79023,13 +79235,14 @@
       "sourceRevision": 391609,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=391609",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Island Ranks",
-      "translation": "岛屿权限组",
+      "translation": "岛屿等级",
       "styleMappings": {},
       "sampleRaw": "Island Ranks",
       "sourceId": "da97d9865ebd64f5211afe1c",
@@ -79037,7 +79250,8 @@
       "sourceRevision": 391609,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=391609",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -79057,7 +79271,7 @@
       "scope": "gui",
       "npc": "",
       "source": "SkyBlock Achievements",
-      "translation": "空岛 成就",
+      "translation": "空岛成就",
       "styleMappings": {},
       "sampleRaw": "SkyBlock Achievements",
       "sourceId": "5fb691e9fb6157a53d7b6d39",
@@ -79065,7 +79279,8 @@
       "sourceRevision": 391609,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=391609",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -79281,7 +79496,7 @@
       "scope": "gui",
       "npc": "",
       "source": "SkyBlock Hub Selector",
-      "translation": "空岛 大厅选择",
+      "translation": "空岛中心岛选择器",
       "styleMappings": {},
       "sampleRaw": "SkyBlock Hub Selector",
       "sourceId": "2f36104423c2216678dc3c89",
@@ -79289,7 +79504,8 @@
       "sourceRevision": 391593,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=391593",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -79387,7 +79603,8 @@
       "sourceRevision": 391686,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=391686",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -79401,7 +79618,8 @@
       "sourceRevision": 591190,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=591190",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -79429,7 +79647,8 @@
       "sourceRevision": 591537,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=591537",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -79443,13 +79662,14 @@
       "sourceRevision": 591537,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=591537",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "(1/9) Mining Recipes",
-      "translation": "挖矿配方(1/9)",
+      "translation": "(1/9) 采矿配方",
       "styleMappings": {},
       "sampleRaw": "(1/9) Mining Recipes",
       "sourceId": "464f88d0fe6823943a4e0379",
@@ -79459,13 +79679,14 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "({{N0}}/{{N1}}) Mining Recipes",
-      "numericTranslation": "挖矿配方({{N0}}/{{N1}})"
+      "numericTranslation": "({{N0}}/{{N1}}) 采矿配方",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "({{N0}}/{{N1}}) Mining Recipes",
-      "translation": "挖矿配方({{N0}}/{{N1}})",
+      "translation": "({{N0}}/{{N1}}) 采矿配方",
       "styleMappings": {},
       "sampleRaw": "({{N0}}/{{N1}}) Mining Recipes",
       "sourceId": "464f88d0fe6823943a4e0379",
@@ -79475,17 +79696,18 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "({{N0}}/{{N1}}) Mining Recipes",
-      "numericTranslation": "挖矿配方({{N0}}/{{N1}})",
+      "numericTranslation": "({{N0}}/{{N1}}) 采矿配方",
       "templateExamples": {
         "{{N0}}": "1",
         "{{N1}}": "9"
-      }
+      },
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "(2/9) Mining Recipes",
-      "translation": "挖矿配方(2/9)",
+      "translation": "(2/9) 采矿配方",
       "styleMappings": {},
       "sampleRaw": "(2/9) Mining Recipes",
       "sourceId": "5673ccd80ccd79e2e7db813c",
@@ -79495,13 +79717,14 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "({{N0}}/{{N1}}) Mining Recipes",
-      "numericTranslation": "挖矿配方({{N0}}/{{N1}})"
+      "numericTranslation": "({{N0}}/{{N1}}) 采矿配方",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "(3/9) Mining Recipes",
-      "translation": "挖矿配方(3/9)",
+      "translation": "(3/9) 采矿配方",
       "styleMappings": {},
       "sampleRaw": "(3/9) Mining Recipes",
       "sourceId": "2627fd80cc6e9ee5514420dd",
@@ -79511,13 +79734,14 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "({{N0}}/{{N1}}) Mining Recipes",
-      "numericTranslation": "挖矿配方({{N0}}/{{N1}})"
+      "numericTranslation": "({{N0}}/{{N1}}) 采矿配方",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "(4/9) Mining Recipes",
-      "translation": "挖矿配方(4/9)",
+      "translation": "(4/9) 采矿配方",
       "styleMappings": {},
       "sampleRaw": "(4/9) Mining Recipes",
       "sourceId": "e2687fe402679e3ef9a1b236",
@@ -79527,13 +79751,14 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "({{N0}}/{{N1}}) Mining Recipes",
-      "numericTranslation": "挖矿配方({{N0}}/{{N1}})"
+      "numericTranslation": "({{N0}}/{{N1}}) 采矿配方",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "(5/9) Mining Recipes",
-      "translation": "挖矿配方(5/9)",
+      "translation": "(5/9) 采矿配方",
       "styleMappings": {},
       "sampleRaw": "(5/9) Mining Recipes",
       "sourceId": "092ee0945ca42c6c0133c4f5",
@@ -79543,13 +79768,14 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "({{N0}}/{{N1}}) Mining Recipes",
-      "numericTranslation": "挖矿配方({{N0}}/{{N1}})"
+      "numericTranslation": "({{N0}}/{{N1}}) 采矿配方",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "(6/9) Mining Recipes",
-      "translation": "挖矿配方(6/9)",
+      "translation": "(6/9) 采矿配方",
       "styleMappings": {},
       "sampleRaw": "(6/9) Mining Recipes",
       "sourceId": "f37d00608ce0d91019b3940e",
@@ -79559,13 +79785,14 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "({{N0}}/{{N1}}) Mining Recipes",
-      "numericTranslation": "挖矿配方({{N0}}/{{N1}})"
+      "numericTranslation": "({{N0}}/{{N1}}) 采矿配方",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "(7/9) Mining Recipes",
-      "translation": "挖矿配方(7/9)",
+      "translation": "(7/9) 采矿配方",
       "styleMappings": {},
       "sampleRaw": "(7/9) Mining Recipes",
       "sourceId": "4398351a5d227d33a4a2dc9f",
@@ -79575,13 +79802,14 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "({{N0}}/{{N1}}) Mining Recipes",
-      "numericTranslation": "挖矿配方({{N0}}/{{N1}})"
+      "numericTranslation": "({{N0}}/{{N1}}) 采矿配方",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "(8/9) Mining Recipes",
-      "translation": "挖矿配方(8/9)",
+      "translation": "(8/9) 采矿配方",
       "styleMappings": {},
       "sampleRaw": "(8/9) Mining Recipes",
       "sourceId": "e5e04768b24a494023cb0543",
@@ -79591,13 +79819,14 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "({{N0}}/{{N1}}) Mining Recipes",
-      "numericTranslation": "挖矿配方({{N0}}/{{N1}})"
+      "numericTranslation": "({{N0}}/{{N1}}) 采矿配方",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "(9/9) Mining Recipes",
-      "translation": "挖矿配方(9/9)",
+      "translation": "(9/9) 采矿配方",
       "styleMappings": {},
       "sampleRaw": "(9/9) Mining Recipes",
       "sourceId": "ff00dc4a8f477142a7f32b06",
@@ -79607,13 +79836,14 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "({{N0}}/{{N1}}) Mining Recipes",
-      "numericTranslation": "挖矿配方({{N0}}/{{N1}})"
+      "numericTranslation": "({{N0}}/{{N1}}) 采矿配方",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "(1/3) Combat Recipes",
-      "translation": "战斗配方(1/3)",
+      "translation": "(1/3) 战斗配方",
       "styleMappings": {},
       "sampleRaw": "(1/3) Combat Recipes",
       "sourceId": "ca9d1707c7f7619a7e235783",
@@ -79623,13 +79853,14 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "({{N0}}/{{N1}}) Combat Recipes",
-      "numericTranslation": "战斗配方({{N0}}/{{N1}})"
+      "numericTranslation": "({{N0}}/{{N1}}) 战斗配方",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "({{N0}}/{{N1}}) Combat Recipes",
-      "translation": "战斗配方({{N0}}/{{N1}})",
+      "translation": "({{N0}}/{{N1}}) 战斗配方",
       "styleMappings": {},
       "sampleRaw": "({{N0}}/{{N1}}) Combat Recipes",
       "sourceId": "ca9d1707c7f7619a7e235783",
@@ -79639,17 +79870,18 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "({{N0}}/{{N1}}) Combat Recipes",
-      "numericTranslation": "战斗配方({{N0}}/{{N1}})",
+      "numericTranslation": "({{N0}}/{{N1}}) 战斗配方",
       "templateExamples": {
         "{{N0}}": "1",
         "{{N1}}": "3"
-      }
+      },
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "(2/3) Combat Recipes",
-      "translation": "战斗配方(2/3)",
+      "translation": "(2/3) 战斗配方",
       "styleMappings": {},
       "sampleRaw": "(2/3) Combat Recipes",
       "sourceId": "89e97d49618cd2b57bfd759d",
@@ -79659,13 +79891,14 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "({{N0}}/{{N1}}) Combat Recipes",
-      "numericTranslation": "战斗配方({{N0}}/{{N1}})"
+      "numericTranslation": "({{N0}}/{{N1}}) 战斗配方",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "(3/3) Combat Recipes",
-      "translation": "战斗配方(3/3)",
+      "translation": "(3/3) 战斗配方",
       "styleMappings": {},
       "sampleRaw": "(3/3) Combat Recipes",
       "sourceId": "385ea48eeebd51a268f3d8ec",
@@ -79675,7 +79908,8 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "({{N0}}/{{N1}}) Combat Recipes",
-      "numericTranslation": "战斗配方({{N0}}/{{N1}})"
+      "numericTranslation": "({{N0}}/{{N1}}) 战斗配方",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -80065,7 +80299,8 @@
       "sourceRevision": 591530,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=591530",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -80149,7 +80384,8 @@
       "sourceRevision": 426770,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=426770",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -80191,7 +80427,8 @@
       "sourceRevision": 391675,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=391675",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -80225,7 +80462,7 @@
       "scope": "gui",
       "npc": "",
       "source": "How many do you want?",
-      "translation": "你想要多少?",
+      "translation": "你想要多少？",
       "styleMappings": {},
       "sampleRaw": "How many do you want?",
       "sourceId": "807b56690d8fed4114c5ec87",
@@ -80233,13 +80470,14 @@
       "sourceRevision": 493172,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=493172",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "How much do you want to pay?",
-      "translation": "你想出价多少?",
+      "translation": "你愿意支付多少？",
       "styleMappings": {},
       "sampleRaw": "How much do you want to pay?",
       "sourceId": "5d835b7b4d86432e6b67425b",
@@ -80247,13 +80485,14 @@
       "sourceRevision": 493172,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=493172",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Confirm Buy Order",
-      "translation": "确认买单",
+      "translation": "确认购买订单",
       "styleMappings": {},
       "sampleRaw": "Confirm Buy Order",
       "sourceId": "059443d7c15d4c11e52cc916",
@@ -80261,13 +80500,14 @@
       "sourceRevision": 493172,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=493172",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "At what price are you selling?",
-      "translation": "你打算卖多少钱?",
+      "translation": "你以什么价格出售？",
       "styleMappings": {},
       "sampleRaw": "At what price are you selling?",
       "sourceId": "952fe338e939bdf2294410de",
@@ -80275,13 +80515,14 @@
       "sourceRevision": 493172,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=493172",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Confirm Sell Offer",
-      "translation": "确认卖单",
+      "translation": "确认出售报价",
       "styleMappings": {},
       "sampleRaw": "Confirm Sell Offer",
       "sourceId": "500ef6e7473cd24ccfad196d",
@@ -80289,7 +80530,8 @@
       "sourceRevision": 493172,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=493172",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -80309,7 +80551,7 @@
       "scope": "gui",
       "npc": "",
       "source": "Are you sure?",
-      "translation": "确定吗?",
+      "translation": "你确定吗？",
       "styleMappings": {},
       "sampleRaw": "Are you sure?",
       "sourceId": "cbff5cc3f22db920abfbafc9",
@@ -80317,7 +80559,8 @@
       "sourceRevision": 493172,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=493172",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -81065,7 +81308,7 @@
       "scope": "gui",
       "npc": "",
       "source": "Mining ➜ Hard Stone",
-      "translation": "挖矿 ➜ 硬石",
+      "translation": "挖矿 ➜ 硬化石头",
       "styleMappings": {},
       "sampleRaw": "Mining ➜ Hard Stone",
       "sourceId": "30bdc3ee468eab1b9e7b9f4b",
@@ -81073,7 +81316,8 @@
       "sourceRevision": 642074,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=642074",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -82379,7 +82623,7 @@
       "scope": "gui",
       "npc": "",
       "source": "Events ➜ Spooky",
-      "translation": "活动 ➜ 惊悚",
+      "translation": "活动 ➜ 幽灵",
       "styleMappings": {},
       "sampleRaw": "Events ➜ Spooky",
       "sourceId": "367b717960d65a32296d4115",
@@ -82387,7 +82631,8 @@
       "sourceRevision": 642843,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=642843",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -82561,7 +82806,7 @@
       "scope": "gui",
       "npc": "",
       "source": "SkyBlock Guides",
-      "translation": "空岛 指南",
+      "translation": "空岛指南",
       "styleMappings": {},
       "sampleRaw": "SkyBlock Guides",
       "sourceId": "9ed92446e85f7402e57e45c6",
@@ -82569,7 +82814,8 @@
       "sourceRevision": 847250,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=847250",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -82682,7 +82928,7 @@
       "scope": "gui",
       "npc": "",
       "source": "Accessory Bag Thaumaturgy",
-      "translation": "饰品袋秘术",
+      "translation": "饰品袋奇术",
       "styleMappings": {},
       "sampleRaw": "Accessory Bag Thaumaturgy",
       "sourceId": "c977992dcd25a1b99ce8c3da",
@@ -82690,13 +82936,14 @@
       "sourceRevision": 856119,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=856119",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Learn Power From Stones",
-      "translation": "学习能力石之力",
+      "translation": "从石头学习力量",
       "styleMappings": {},
       "sampleRaw": "Learn Power From Stones",
       "sourceId": "37fdc2cb7910bc3efad4a76c",
@@ -82704,13 +82951,14 @@
       "sourceRevision": 856119,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=856119",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Power Stones Guide",
-      "translation": "能力石指南",
+      "translation": "力量之石指南",
       "styleMappings": {},
       "sampleRaw": "Power Stones Guide",
       "sourceId": "46a285259960560bddfd047d",
@@ -82718,13 +82966,14 @@
       "sourceRevision": 856119,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=856119",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Stats Tuning",
-      "translation": "属性调优",
+      "translation": "属性调校",
       "styleMappings": {},
       "sampleRaw": "Stats Tuning",
       "sourceId": "970b00e28da870c6e92848b4",
@@ -82732,7 +82981,8 @@
       "sourceRevision": 856119,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=856119",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -82788,7 +83038,8 @@
       "sourceRevision": 618968,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=618968",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -82934,7 +83185,7 @@
       "scope": "gui",
       "npc": "",
       "source": "Fast Travel",
-      "translation": "快速传送",
+      "translation": "快速旅行",
       "styleMappings": {},
       "sampleRaw": "Fast Travel",
       "sourceId": "da2751ecea67fb32e4de1ee7",
@@ -82942,7 +83193,8 @@
       "sourceRevision": 837756,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=837756",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -83096,7 +83348,8 @@
       "sourceRevision": 391525,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=391525",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -83110,7 +83363,8 @@
       "sourceRevision": 391607,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=391607",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -83154,7 +83408,8 @@
       "sourceRevision": 646457,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=646457",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -83202,7 +83457,7 @@
       "scope": "gui",
       "npc": "",
       "source": "Select Tier",
-      "translation": "选择阶级",
+      "translation": "选择层级",
       "styleMappings": {},
       "sampleRaw": "Select Tier",
       "sourceId": "40faca809102c0911272f70c",
@@ -83210,7 +83465,8 @@
       "sourceRevision": 607359,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=607359",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -83238,7 +83494,8 @@
       "sourceRevision": 819514,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819514",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -83350,7 +83607,7 @@
       "scope": "gui",
       "npc": "",
       "source": "The Hex",
-      "translation": "海克斯",
+      "translation": "咒术台",
       "styleMappings": {},
       "sampleRaw": "The Hex",
       "sourceId": "92e4567fd65a906a54727104",
@@ -83358,7 +83615,8 @@
       "sourceRevision": 706596,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=706596",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -83442,7 +83700,8 @@
       "sourceRevision": 642002,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=642002",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -83708,7 +83967,8 @@
       "sourceRevision": 642002,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=642002",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -83868,24 +84128,22 @@
       "scope": "gui",
       "npc": "",
       "source": "SkyBlock Leveling",
-      "translation": "SkyBlock 等级",
-      "styleMappings": {
-        "SkyBlock Level": "SkyBlock 等级",
-        "SkyBlock": "SkyBlock"
-      },
+      "translation": "空岛等级",
+      "styleMappings": {},
       "sampleRaw": "SkyBlock Leveling",
       "sourceId": "b85410479455d9353fd7eb77",
       "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/SkyBlock_Levels/UI",
       "sourceRevision": 586243,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=586243",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Leveling Rewards",
-      "translation": "等级奖励",
+      "translation": "升级奖励",
       "styleMappings": {},
       "sampleRaw": "Leveling Rewards",
       "sourceId": "81b22864c31d33394ed1a3f7",
@@ -83893,7 +84151,8 @@
       "sourceRevision": 586243,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=586243",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -83907,7 +84166,8 @@
       "sourceRevision": 586243,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=586243",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -84081,7 +84341,7 @@
       "scope": "gui",
       "npc": "",
       "source": "Dragon Ritualist",
-      "translation": "巨龙仪式师",
+      "translation": "龙仪式师",
       "styleMappings": {},
       "sampleRaw": "Dragon Ritualist",
       "sourceId": "52dedda2afe1244e2a1f9ffa",
@@ -84089,7 +84349,8 @@
       "sourceRevision": 807001,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=807001",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -84103,7 +84364,8 @@
       "sourceRevision": 807001,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=807001",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -84225,7 +84487,8 @@
       "sourceRevision": 823127,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=823127",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -84344,7 +84607,8 @@
       "sourceRevision": 702037,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=702037",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -84392,7 +84656,7 @@
       "scope": "gui",
       "npc": "",
       "source": "Ice Essence Shop",
-      "translation": "冰霜精华商店",
+      "translation": "冰精华商店",
       "styleMappings": {},
       "sampleRaw": "Ice Essence Shop",
       "sourceId": "d4ee638b892bd94434a92574",
@@ -84400,7 +84664,8 @@
       "sourceRevision": 607240,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=607240",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -84441,7 +84706,7 @@
       "scope": "gui",
       "npc": "",
       "source": "Crimson Essence Shop",
-      "translation": "绯红精华商店",
+      "translation": "猩红精华商店",
       "styleMappings": {},
       "sampleRaw": "Crimson Essence Shop",
       "sourceId": "bb2649a2ad9ca83329655154",
@@ -84449,23 +84714,23 @@
       "sourceRevision": 780634,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=780634",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Tic Tac Toe",
       "translation": "井字棋",
-      "styleMappings": {
-        "Tic Tac Toe": "井字棋"
-      },
+      "styleMappings": {},
       "sampleRaw": "Tic Tac Toe",
       "sourceId": "8ec802e491cda2145f8f24ba",
       "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Abiphones/UI/Tic_Tac_Toe",
       "sourceRevision": 597990,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=597990",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -84479,7 +84744,8 @@
       "sourceRevision": 603585,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=603585",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -84653,7 +84919,7 @@
       "scope": "gui",
       "npc": "",
       "source": "Composter",
-      "translation": "堆肥器",
+      "translation": "堆肥桶",
       "styleMappings": {},
       "sampleRaw": "Composter",
       "sourceId": "43ebf7c586b61ad76cff82a2",
@@ -84661,13 +84927,14 @@
       "sourceRevision": 860265,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860265",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Sam the Garden Assistant",
-      "translation": "花园助手 Sam",
+      "translation": "花园助手山姆",
       "styleMappings": {},
       "sampleRaw": "Sam the Garden Assistant",
       "sourceId": "235ed50a661f7873fc65916b",
@@ -84675,7 +84942,8 @@
       "sourceRevision": 408042,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=408042",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -84689,7 +84957,8 @@
       "sourceRevision": 443148,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=443148",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -84723,7 +84992,7 @@
       "scope": "gui",
       "npc": "",
       "source": "Composter Upgrades",
-      "translation": "堆肥器升级",
+      "translation": "堆肥桶升级",
       "styleMappings": {},
       "sampleRaw": "Composter Upgrades",
       "sourceId": "4b2c4797ccad50a3dfad4b4c",
@@ -84731,7 +85000,8 @@
       "sourceRevision": 412063,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=412063",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -84745,7 +85015,8 @@
       "sourceRevision": 819635,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819635",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -84759,7 +85030,8 @@
       "sourceRevision": 819635,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819635",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -84773,7 +85045,8 @@
       "sourceRevision": 819635,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819635",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -84843,7 +85116,8 @@
       "sourceRevision": 819635,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819635",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -84857,7 +85131,8 @@
       "sourceRevision": 819635,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819635",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -85053,13 +85328,14 @@
       "sourceRevision": 819635,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819635",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Configure Plots",
-      "translation": "配置地皮",
+      "translation": "配置地块",
       "styleMappings": {},
       "sampleRaw": "Configure Plots",
       "sourceId": "dfe41923a6a203bacb2ab84b",
@@ -85067,7 +85343,8 @@
       "sourceRevision": 819635,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819635",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -85095,7 +85372,8 @@
       "sourceRevision": 819635,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=819635",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -85335,7 +85613,8 @@
       "sourceRevision": 720418,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=720418",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -85399,7 +85678,7 @@
       "scope": "gui",
       "npc": "",
       "source": "Active Effects",
-      "translation": "生效中的效果",
+      "translation": "生效效果",
       "styleMappings": {},
       "sampleRaw": "Active Effects",
       "sourceId": "76cfacad26027b72d93a5a60",
@@ -85407,7 +85686,8 @@
       "sourceRevision": 591447,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=591447",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -85421,7 +85701,8 @@
       "sourceRevision": 767735,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=767735",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -85455,7 +85736,7 @@
       "scope": "gui",
       "npc": "",
       "source": "Superpairs ➜ Stakes",
-      "translation": "超级配对 ➜ 难度选择",
+      "translation": "超级配对 ➜ 押注",
       "styleMappings": {},
       "sampleRaw": "Superpairs ➜ Stakes",
       "sourceId": "ac2a2297bc6b2d92c28a9768",
@@ -85463,13 +85744,14 @@
       "sourceRevision": 767735,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=767735",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Superpairs (Metaphysical)",
-      "translation": "超级配对（玄奥）",
+      "translation": "超级配对（形而上学）",
       "styleMappings": {},
       "sampleRaw": "Superpairs (Metaphysical)",
       "sourceId": "db08912b49e48d1a1b97dd7b",
@@ -85477,7 +85759,8 @@
       "sourceRevision": 767735,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=767735",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -85491,7 +85774,8 @@
       "sourceRevision": 767735,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=767735",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -85519,7 +85803,8 @@
       "sourceRevision": 767735,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=767735",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -85596,17 +85881,15 @@
       "npc": "",
       "source": "Crystal Hollows Sack",
       "translation": "水晶洞穴收纳袋",
-      "styleMappings": {
-        "Crystal Hollows": "水晶洞穴",
-        "Crystal": "水晶"
-      },
+      "styleMappings": {},
       "sampleRaw": "Crystal Hollows Sack",
       "sourceId": "cd9aa1028dafe95ad051eb83",
       "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Crystal_Hollows_Sack/UI",
       "sourceRevision": 768195,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=768195",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -85627,17 +85910,15 @@
       "npc": "",
       "source": "Dungeon Sack",
       "translation": "地牢袋",
-      "styleMappings": {
-        "Dungeon": "地牢",
-        "Dungeon Sack": "地牢袋"
-      },
+      "styleMappings": {},
       "sampleRaw": "Dungeon Sack",
       "sourceId": "8ed5c0eb11401d3c334a5cf6",
       "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Dungeon_Sack/UI",
       "sourceRevision": 826131,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=826131",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -85693,7 +85974,8 @@
       "sourceRevision": 820299,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=820299",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -85735,7 +86017,8 @@
       "sourceRevision": 772965,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=772965",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -85783,7 +86066,7 @@
       "scope": "gui",
       "npc": "",
       "source": "Mining Sack",
-      "translation": "挖矿收纳袋",
+      "translation": "采矿收纳袋",
       "styleMappings": {},
       "sampleRaw": "Mining Sack",
       "sourceId": "b9974c1703339f0f529b24b7",
@@ -85791,7 +86074,8 @@
       "sourceRevision": 826068,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=826068",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -86025,7 +86309,7 @@
       "scope": "gui",
       "npc": "",
       "source": "Consume Booster Cookie?",
-      "translation": "食用增益曲奇?",
+      "translation": "消耗增益曲奇？",
       "styleMappings": {},
       "sampleRaw": "Consume Booster Cookie?",
       "sourceId": "1337d2851d42a18a1cb7bedb",
@@ -86033,7 +86317,8 @@
       "sourceRevision": 427628,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=427628",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -86119,7 +86404,7 @@
       "scope": "gui",
       "npc": "",
       "source": "Jacob's Farming Contests",
-      "translation": "Jacob 的农业竞赛",
+      "translation": "雅各布的耕作竞赛",
       "styleMappings": {},
       "sampleRaw": "Jacob's Farming Contests",
       "sourceId": "c2191c0d8545942b41dd782f",
@@ -86127,13 +86412,14 @@
       "sourceRevision": 490828,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=490828",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
       "npc": "",
       "source": "Snake",
-      "translation": "贪吃蛇",
+      "translation": "蛇",
       "styleMappings": {},
       "sampleRaw": "Snake",
       "sourceId": "08e6eccbe8dc940ac4c84320",
@@ -86141,7 +86427,8 @@
       "sourceRevision": 699200,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=699200",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -86169,7 +86456,8 @@
       "sourceRevision": 620002,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=620002",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "gui",
@@ -86406,16 +86694,15 @@
       "npc": "",
       "source": "Orange",
       "translation": "橙子",
-      "styleMappings": {
-        "Orange": "橙子"
-      },
+      "styleMappings": {},
       "sampleRaw": "§6Orange",
       "sourceId": "6ebd41703c57a6122a242ea5",
       "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Leggings_of_the_Coven/UI",
       "sourceRevision": 699763,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=699763",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -86461,7 +86748,8 @@
       "sourceRevision": 699763,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=699763",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -86475,13 +86763,14 @@
       "sourceRevision": 699763,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=699763",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Pink",
-      "translation": "粉红色",
+      "translation": "粉色",
       "styleMappings": {},
       "sampleRaw": "§dPink",
       "sourceId": "65b2ea6af626b984bfaa8c52",
@@ -86489,7 +86778,8 @@
       "sourceRevision": 699763,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=699763",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -86535,7 +86825,8 @@
       "sourceRevision": 699763,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=699763",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -86549,7 +86840,8 @@
       "sourceRevision": 699763,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=699763",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -86563,7 +86855,8 @@
       "sourceRevision": 699763,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=699763",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -86593,7 +86886,8 @@
       "sourceRevision": 699763,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=699763",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -86607,7 +86901,8 @@
       "sourceRevision": 699763,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=699763",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -86893,7 +87188,7 @@
       "scope": "tooltip",
       "npc": "",
       "source": "Not released yet!",
-      "translation": "尚未推出!",
+      "translation": "尚未发布！",
       "styleMappings": {},
       "sampleRaw": "§cNot released yet!",
       "sourceId": "caaa57c01ab7bb3c35b0fd82",
@@ -86901,7 +87196,8 @@
       "sourceRevision": 596219,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=596219",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -86931,7 +87227,8 @@
       "sourceRevision": 596219,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=596219",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -86948,13 +87245,14 @@
       "sourceRevision": 596219,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=596219",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Slayer Bonus Rewards",
-      "translation": "杀手加成奖励",
+      "translation": "杀手额外奖励",
       "styleMappings": {},
       "sampleRaw": "§aSlayer Bonus Rewards",
       "sourceId": "b61361210ec487637f76aa29",
@@ -86962,7 +87260,8 @@
       "sourceRevision": 596219,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=596219",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -87104,7 +87403,8 @@
       "sourceRevision": 596219,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=596219",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -87134,7 +87434,8 @@
       "sourceRevision": 596219,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=596219",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -87148,7 +87449,8 @@
       "sourceRevision": 596219,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=596219",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -87291,7 +87593,8 @@
       "sourceRevision": 707922,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=707922",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -87333,7 +87636,8 @@
       "sourceRevision": 707922,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=707922",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -87375,7 +87679,8 @@
       "sourceRevision": 707922,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=707922",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -87403,7 +87708,8 @@
       "sourceRevision": 707922,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=707922",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -88903,7 +89209,8 @@
       "sourceRevision": 841856,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=841856",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -88917,13 +89224,14 @@
       "sourceRevision": 641274,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=641274",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Amateur",
-      "translation": "入门",
+      "translation": "业余",
       "styleMappings": {},
       "sampleRaw": "§bAmateur",
       "sourceId": "eb306f81e3927dbac615d718",
@@ -88931,13 +89239,14 @@
       "sourceRevision": 641274,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=641274",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Intermediate",
-      "translation": "进阶",
+      "translation": "中级",
       "styleMappings": {},
       "sampleRaw": "§3Intermediate",
       "sourceId": "9b8d80cad371a70137b19aba",
@@ -88945,13 +89254,14 @@
       "sourceRevision": 641274,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=641274",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Skilled",
-      "translation": "技艺精湛",
+      "translation": "熟练",
       "styleMappings": {},
       "sampleRaw": "§9Skilled",
       "sourceId": "7d52c67a2c48ae5877b040c2",
@@ -88959,7 +89269,8 @@
       "sourceRevision": 641274,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=641274",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -88973,13 +89284,14 @@
       "sourceRevision": 641274,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=641274",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "Professional",
-      "translation": "专业人士",
+      "translation": "专业",
       "styleMappings": {},
       "sampleRaw": "§6Professional",
       "sourceId": "536a6c35bf4e71d465b63b14",
@@ -88987,7 +89299,8 @@
       "sourceRevision": 641274,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=641274",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -89001,7 +89314,8 @@
       "sourceRevision": 641274,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=641274",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
@@ -89310,13 +89624,14 @@
       "sourceRevision": 641274,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=641274",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",
       "npc": "",
       "source": "To Guide ➜ Starter",
-      "translation": "返回指南 ➜ 新手",
+      "translation": "前往指南 ➜ 新手",
       "styleMappings": {},
       "sampleRaw": "To Guide ➜ Starter",
       "sourceId": "abda5133270cf763d8753ea8",
@@ -89324,7 +89639,8 @@
       "sourceRevision": 641274,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=641274",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "tooltip",

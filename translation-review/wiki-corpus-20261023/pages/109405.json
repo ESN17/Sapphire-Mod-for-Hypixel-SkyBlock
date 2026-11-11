@@ -1,0 +1,13 @@
+{
+  "title": "Sundial",
+  "pageid": 109405,
+  "revision": 825429,
+  "timestamp": "2026-08-27T23:59:19Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Sundial",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=825429",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Item\n|rarity=e\n|collection=Sunflower VII\n|uses=Give to {{NPCSprite|Sam}} to unlock {{Green|Crop Speed}} settings in [[The Garden]].\n|raw_materials=\n*409600 Sunflower\n*5 Chloronite\n|mat_cost_bazaar=\n*16 Compacted Sunflower\n*5 Chloronite\n|id=SUNDIAL\n|sell=1024000\n}}\nA '''Sundial''' is an {{Epic}} item.\n\n== Usage ==\nA '''Sundial''' can be given to {{NPCSprite|Sam}} to permanently unlock {{Green|Crop Speed}} settings in [[The Garden#The Desk|The Desk]], which allows the player to change their maximum {{Stat|spd}} while harvesting individual crops.\n\n== Obtaining ==\n=== Crafting ===\n{{Crafting Recipe Table\n|{{Crafting Recipe Row\n |requirement = {{Coll|Sunflower VII}}\n |A1 = Compacted Sunflower, 2 |B1 = Compacted Sunflower, 2 |C1 = Compacted Sunflower, 2\n |A2 = Compacted Sunflower, 2 |B2 = Chloronite, 5          |C2 = Compacted Sunflower, 2\n |A3 = Compacted Sunflower, 2 |B3 = Compacted Sunflower, 2 |C3 = Compacted Sunflower, 2\n |Output = Sundial\n }}\n}}\n\n== Trivia ==\n* Upon gifting a '''Sundial''' to {{NPCSprite|Sam}}, a physical Sundial appears in [[The Garden]] near the player's barn. Interacting with it displays the following message: {{Dialogue|\n&7&oThe sundial reads <nowiki><time></nowiki>.\n}}\n* Breaking tall grass in a garden plot will trigger the set speed cap for [[Sunflower]]s/[[Moonflower]]s. This likely happens because they all share the same base block id in older versions of Minecraft, that being <code>double_plant</code>.\n\n== Gallery ==\n<gallery>\nFile:Sundial Render.png|A '''Sundial''' placed in the world\n</gallery>\n\n== History ==\n{{History table\n|ahn=\n{{History|2025/Dec 5|[[File:Sundial.png|26px]] Added '''Sundial'''.}}\n{{History|2025/Dec 12|Reworked '''Sundial''' to unlock Crop Speed settings instead of Plot Speed settings.}}\n|beta=\n{{History|2025/Dec 15|[[File:Sundial.png|26px]] Added '''Sundial'''.}}\n}}\n\n== Navigation ==\n{{Nav/Collection/Sunflower}}"
+}

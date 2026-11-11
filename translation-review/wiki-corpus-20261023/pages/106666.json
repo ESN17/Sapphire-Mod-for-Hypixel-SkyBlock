@@ -1,0 +1,16 @@
+{
+  "title": "Jaeger",
+  "pageid": 106666,
+  "revision": 813816,
+  "timestamp": "2026-08-11T19:27:15Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Jaeger",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=813816",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Category:Pages with UIs",
+    "Template:Dialogue",
+    "Template:UI"
+  ],
+  "wikitext": "{{Infobox/Character\n|location = [[Murkwater Loch]]\n|location_page_description = Teaches the player how to use a [[Fishing Net]].\n|x = -651.5 \n|y = 89\n|z = -24.5\n}}\n'''Jaeger''' is an [[NPC]] found in the {{Zone|Murkwater Loch}} on [[Galatea]] that teaches the player how to use a [[Fishing Net]].\n\n== Interface ==\n{{/UI}}\n\n== Dialogue ==\n{| class=\"wikitable\"\n! colspan=\"2\" class=\"ct\" | Condition\n! Dialogue\n|-\n| colspan=\"2\" class=\"ct\" | Before unlocking [[Heart of the Forest]]\n| {{Dialogue|&e[NPC] &bJaeger&f: &7<player>&f! Have you talked to &bHina &fat the front of the island to get your hands on a &aHeart of the Forest&f?}}\n|-\n| colspan=\"2\" class=\"ct\" | First Interaction\n|{{Dialogue|\n&e[NPC] &bJaeger&f: Hey, are you &bDavid Hunterborough&f's new apprentice?\n&e[NPC] &bJaeger&f: I've been hunting fish all day long, why don't you give it a try?\n&e[NPC] &bJaeger&f: But first grab this &9fishing net&f.\n}}\n|-\n| colspan=\"2\" class=\"ct\" | After accepting the {{Item|Basic Fishing Net}}\n|{{Dialogue|\n&e[NPC] &bJaeger&f: I'm guessing you have never used a fishing net before?\n&e[NPC] &bJaeger&f: All you have to do is throw it at fish you see in the water.\n&e[NPC] &bJaeger&f: Try it on this fish right here.\n}}\n|-\n| colspan=\"2\" class=\"ct\" | Before using the {{Item|Basic Fishing Net}}\n|{{Dialogue|\n&e[NPC] &bJaeger&f: All you have to do is throw it at any fish you see in the water!\n&e[NPC] &bJaeger&f: Try it on this fish right there.\n}}\n|-\n| colspan=\"2\" class=\"ct\" | After using the {{Item|Basic Fishing Net}}\n|{{Dialogue|\n&e[NPC] &bJaeger&f: Well done!\n&e[NPC] &bJaeger&f: &fYou've successfully ended the peaceful existence of a fish!\n&e[NPC] &bJaeger&f: &fThat's what all hunters live for!\n&e[NPC] &bJaeger&f: &bDavid Hunterborough&f's going to be over the moon about this.\n&e[NPC] &bJaeger&f: &fMake sure to share every gripping detail of your epic conquest with him next.\n}}\n|-\n| colspan=\"2\" class=\"ct\" | Before talking to {{NPCSprite|David Hunterborough}}\n|{{Dialogue|&e[NPC] &bJaeger&f: You should go talk to &bDavid Hunterborough &fnext.}}\n|-\n| colspan=\"2\" class=\"ct\" | After talking to {{NPCSprite|David Hunterborough}}\n|{{Dialogue|\n&e[NPC] &bJaeger&f: Those tiny fish are super cute, that's mostly why I hunt them.\n&e[NPC] &bJaeger&f: The creatures deep down this loch are quite scary.\n}}\n|-\n|}\n\n== History ==\n{{History table\n|ahn=\n{{History|2025/Jun 5|[[File:Auryon.png|26px]] Added '''Jaeger'''.}}\n{{History|2026/Mar 23|[[File:Jaeger.png|26px]] Changed '''Jaeger''' texture.}}\n|beta=\n{{History|0.23|[[File:Auryon.png|26px]] Added '''Jaeger'''.}}\n{{History|0.24.3|[[File:Jaeger.png|26px]] Changed '''Jaeger''' texture.}}\n{{History|2026/April 15|Updated Jaeger's free fishing nets to be soulbound.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}"
+}

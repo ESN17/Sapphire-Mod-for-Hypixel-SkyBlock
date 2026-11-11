@@ -1,0 +1,13 @@
+{
+  "title": "Fire Mage",
+  "pageid": 90566,
+  "revision": 861493,
+  "timestamp": "2026-10-21T01:09:12Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Fire_Mage",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861493",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Crimson Isle"
+  ],
+  "wikitext": "{{For|the stronger version|Krondor Necromancer}}\n{{Infobox/Mob\n|stats = {{InfoboxMobStats\n|health = 2,000,000\n|damage = 3,000\n}}\n|mob_level = 207\n|spawn_location = [[Mage Outpost]]\n|mob_type = {{mt|Humanoid}}<br>{{mt|Arcane}}<br>{{mt|Infernal}}\n|id = FIRE_MAGE_75\n|bestiary = n\n}}\n\n'''Fire Mage''' is a [[Mob]] that spawns in the [[Mage Outpost]]. \n\n== Drops ==\n{{Mob Drops Table\n|level = 207\n|coins = 69\n|combat_xp = 310\n|orbs = 227\n|{{Mob Drops Row\n |drop = Cyclamen Dye\n |count = 1\n |rarity = rng\n |chance = 0.00004%\n }}\n}}\n\nKilling a '''Fire Mage''' will make the player gain {{Reputation|Barbarian|5}} and lose {{Reputation|Mage|5}}, up to a limit of {{Reputation|Barbarian|0}} and {{Reputation|Mage|0}}.\n\n== Behavior ==\n'''Fire Mages''' only attack the player when provoked, or if they have less than {{Reputation|Mage|-1000}}. They have two attacks:<br>\n*Shoot a beam of fire for 8 seconds, which deals large amounts of damage.\n*Shoot a barrage of fire for 2 seconds, which deals large amounts of damage, but has a 3 second cooldown.\nWhen neutral they hold nothing, but when provoked, they appear to hold {{Item|Enchanted Blaze Powder}}.\n\n== See Also ==\n*{{MobSprite|Barbarian}}\n\n== History ==\n{{History table\n|ahn=\n{{History|2022/March 8|[[File:Fire Mage.png|26px]] Added '''Fire Mage'''.}}\n{{History|2026/Aug 25|Changed the [[Mob Level]] from {{Level|75}} to {{Level|207}}, {{Coins}} from {{Gold|20}} to {{Gold|69}}, {{Experience}} from {{Dark Aqua|100}} to {{Dark Aqua|227}}, and {{Skill|Combat}} XP from {{Dark Aqua|120}} to {{Dark Aqua|310}}.}}\n|beta=\n{{History|0.13|[[File:Fire Mage.png|26px]] Added '''Fire Mage'''.}}\n{{History|0.20.9|Killing '''Fire Mages''' now only loses the player {{red|5}} Reputation instead of {{red|25}}.}}\n{{History|0.27.2|Changed the [[Mob Level]] from {{Level|75}} to {{Level|207}}, {{Coins}} from {{Gold|20}} to {{Gold|69}}, {{Experience}} from {{Dark Aqua|100}} to {{Dark Aqua|227}}, and {{Skill|Combat}} XP from {{Dark Aqua|120}} to {{Dark Aqua|310}}.}}\n}}\n\n== Navigation ==\n{{Nav/Mobs}}\n{{Nav/Crimson Isle}}"
+}

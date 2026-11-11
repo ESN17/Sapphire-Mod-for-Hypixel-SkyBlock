@@ -1,0 +1,11 @@
+{
+  "baseline": "exports/dictionaries/20261109_1.zip",
+  "rules": "tools/sapphire-translation-rules.json",
+  "state_directory": "translation-state/neu-auto",
+  "output_directory": "exports/dictionaries/pending-review",
+  "deepseek_config": "deepseek.local.json",
+  "max_items_per_run": 20,
+  "max_requests_per_run": 100,
+  "max_requests_per_day": 300,
+  "interval_seconds": 3600
+}

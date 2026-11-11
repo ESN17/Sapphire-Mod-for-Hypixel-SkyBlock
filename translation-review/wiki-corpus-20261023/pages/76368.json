@@ -1,0 +1,13 @@
+{
+  "title": "Repeater",
+  "pageid": 76368,
+  "revision": 821598,
+  "timestamp": "2026-08-19T21:59:26Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Repeater",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=821598",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Vanilla}}\n{{Infobox/Item\n|id = DIODE\n|rarity = common\n|sell = 3\n}}\nA '''Repeater''' is a {{Common}} [[Vanilla Objects/Redstone-Related Blocks|Redstone-related]] block that can be used on the player's {{Zone|Private Island}}.\n\n== Obtaining ==\n=== Crafting ===\n{{Crafting Recipe Table\n|{{Crafting Recipe Row\n |A2 = Redstone Torch |B2 = Redstone Dust |C2 = Redstone Torch\n |A3 = Stone          |B3 = Stone         |C3 = Stone\n |Output = Repeater\n}}\n}}\n\n=== Shop Purchase ===\nA '''Repeater''' can be purchased from the {{NPCSprite|Mad Redstone Engineer}} for {{Coins|6}}.\n\n== Usage ==\n=== Private Island ===\n'''Repeaters''' can be placed as a block on the player's {{Zone|Private Island}} or plots in {{Zone|The Garden}}. Its [[mcw:Redstone Repeater#Usage|functionality]] only work on the {{Zone|Private Island}}, but there are [[Private Island#Redstone Restrictions|restrictions]] on how often it can be used. Redstone is disabled on {{Zone|The Garden}}.\n\n== Game Messages ==\n{|class=\"wikitable\"\n! Message\n! Condition\n|-\n| {{Dialogue|&cPlease note that redstone is currently disabled on this island!}}\n| Placing a Repeater in {{Zone|The Garden}}\n|}\n\n== History ==\n{{History table\n|beta=\n{{History|0.1|[[File:Repeater.png|26px]] Added '''Repeater'''.}}\n}}"
+}

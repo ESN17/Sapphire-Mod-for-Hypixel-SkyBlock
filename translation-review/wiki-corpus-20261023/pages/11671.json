@@ -1,0 +1,16 @@
+{
+  "title": "Crafting Table",
+  "pageid": 11671,
+  "revision": 820664,
+  "timestamp": "2026-08-17T21:06:37Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Crafting_Table",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=820664",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Pages with UIs",
+    "Category:SkyBlock Menu",
+    "Template:Dialogue",
+    "Template:UI"
+  ],
+  "wikitext": "{{Vanilla|type = block}}\n\n{{Infobox/Block\n|id = WORKBENCH\n|rarity = Common\n|tool = Axe\n|normal_drop = Crafting Table (itself)\n|silk_touch_drop = Crafting Table (itself)\n|smelting_touch_drop = Crafting Table (itself)\n|sell = 1\n}}\nThe '''Crafting Table''' is a {{Common}} Vanilla block that can be used to craft. Hypixel SkyBlock uses a custom GUI for all crafting purposes. Using the Crafting Table will level up your [[Carpentry]] skill.\n\nYou can craft a Crafting Table then place it on your island — or alternatively access it in your [[SkyBlock Menu]].\n\nIf you haven't unlocked a recipe, the Crafting Table will not give you the crafted item.\n\n== Interface ==\n{{/UI}}\n\n== Obtaining ==\n=== Crafting ===\n{{Crafting Recipe Table\n|{{Crafting Recipe Row\n |ingredients = {{Plainlist|\n* {{Item|Planks|amount=4}}\n}}\n |A1 = *Planks |B1 = *Planks\n |A2 = *Planks |B2 = *Planks\n |Output = Crafting Table\n }}\n}}\n\n== Usage ==\n=== Crafting ===\n{{Crafting Usage}}\n\n== Game Message ==\n{| class=\"wikitable\"\n!Condition\n!Message\n|-\n| class=\"ct\" | Attempting to place '''Crafting Table''' on public islands\n|{{Dialogue|&cYou can't place blocks on public islands!\n&cA Crafting Table can be accessed via your &aSkyBlock Menu &cor with &b\\/craft&c!\n}}\n|}\n\n== Trivia ==\n* Because the SkyBlock Crafting Table uses the chest GUI, you can shift-click items into it, unlike older Vanilla versions.\n\n== History ==\n{{History table\n|ahn=\n{{History|2026/Jul 15|Added a message when player attempts to place '''Crafting Table''' on public islands.}}\n|beta=\n{{History|2019/June 11|[[File:Crafting Table.png|26px]] Added '''Crafting Table'''.}}\n{{History|2019/June 29|Added shapeless recipes for enchanted items to make them easier to craft.}}\n{{History|0.26.1|Added a message when player attempts to place '''Crafting Table''' on public islands.}}\n}}\n[[Category:Vanilla objects]]\n\n[[Category:SkyBlock Menu]]"
+}

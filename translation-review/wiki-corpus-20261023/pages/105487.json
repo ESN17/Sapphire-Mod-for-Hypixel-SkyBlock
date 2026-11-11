@@ -1,0 +1,13 @@
+{
+  "title": "Cod",
+  "pageid": 105487,
+  "revision": 861415,
+  "timestamp": "2026-10-21T01:07:28Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Cod",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=861415",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{For|the collection|Raw Cod}}\n{{Infobox/Critter\n|mob_level = 1\n|stats = {{InfoboxMobStats\n|health = 80\n|damage = 20\n}}\n|spawn_location = [[Murkwater Loch]]\n|mob_type = \n*{{mt|Aquatic}}\n*{{mt|Woodland}}\n|id = COD_2\n}}\nA '''Cod''' is a [[Critter]] that can be found on the [[Moonglade Marsh]].\n\n== Spawning ==\n'''Cod''' spawn in water in the {{zone|Murkwater Loch}}.\n\n== Behavior ==\n'''Cod''' swim alone or in schools. When the player throws a [[Fishing Net]], they begin to spin. Throwing a [[Fishing Net]] again increases the '''Cod's''' spin meter. Upon reaching {{Green|90%}}, the '''Cod''' faints and drops a {{Item|Cod Shard}}. Going over {{Green|100%}} causes the '''Cod''' to explode and award nothing.\n\n== Drops ==\n{{Mob Drops Table\n|level = 1\n|hunting_xp = 150\n|coins = 1\n|orbs = 1\n|{{Mob Drops Row\n|drop = Cod Shard\n|count = 1\n|rarity = common\n|chance = 100%\n}}\n}}\n{{CritterHunting|action=Knocking out|tool=[[Fishing Net]]|rarity=u}}\n\n== Game Message ==\n{| class=\"wikitable\"\n!Condition\n!Message\n|-\n|Gaining a spin meter\n|{{Dialogue|&aThe Cod started spinning!}}\n|-\n|Knocking out the '''Cod'''\n|{{Dialogue|&e##% spin! The Cod got knocked out!}}\n|-\n|Exceeding the spin meter\n|{{Dialogue|&cThe Cod was spinning too fast and exploded!}}\n|}\n\n== Bestiary ==\n{{Bestiary Entry|section=Moonglade Marsh|lore=Capable of reaching high speeds that allow it to shake off potential predators.|bracket=Hunting 1|max_tier=10|reward=Hunting}}\n\n== History ==\n{{History table\n|ahn=\n{{History|2025/Jun 5|[[File:Cod.png|26px]] Added '''Cod'''.}}\n{{History|2026/Jul 22|version=none|Added '''Cod''' [[Bestiary]].}}\n{{History|2026/Aug 25|Changed the [[Mob Level]] from {{Level|2}} to {{Level|1}} and {{Experience}} from {{Dark Aqua|2}} to {{Dark Aqua|1}}.}}\n|beta=\n{{History|0.23|[[File:Cod.png|26px]] Added '''Cod'''.}}\n{{History|0.27|Added '''Cod''' [[Bestiary]].}}\n{{History|0.27.2|Changed the [[Mob Level]] from {{Level|2}} to {{Level|1}} and {{Experience}} from {{Dark Aqua|2}} to {{Dark Aqua|1}}.}}\n}}\n\n== Navigation ==\n{{Nav/Critters}}"
+}

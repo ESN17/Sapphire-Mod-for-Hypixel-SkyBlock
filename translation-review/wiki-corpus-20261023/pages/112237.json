@@ -1,0 +1,14 @@
+{
+  "title": "Forest Temple/UI",
+  "pageid": 112237,
+  "revision": 656420,
+  "timestamp": "2026-04-27T01:21:22Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Forest_Temple/UI",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=656420",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:UI Subpages",
+    "Template:UI"
+  ],
+  "wikitext": "<div class=\"sbw-ui-tabber\">\n{{UI|Forest Temple\n|id=forest-temple\n|rows=6\n|fill=true\n|arrow=none\n|1, 5=Nether Star, none;none, &6Forest Starborn, &5&8Star Temple/&5/&5&7&7All &6Starborns &7have a &dWill&7\\, which grant/&5&7stats to all players in SkyBlock. The/&5&7more &9Benefactors&7 a &6Starborn &7has\\,/&5&7the higher the stats./&5/&5&d&lFOREST STARBORN'S WILL/&5&7&7All players on &2Galatea &7receive/&5&7&610.85☘ Foraging Fortune&7./&5&8...from 1\\,850 Benefactors\n|3, 5=Ender Chest, temple-donation, &6Donate to Forest Starborn, &5&8Become a Benefactor!/&5/&5&7&7By donating to this &6Starborn&7\\, you will/&5&7become a &9Benefactor&7./&5/&5&9&lBENEFACTOR BONUS/&5&7&8- &7Axes you throw are &a25% &7larger/&5&7and &a25% &7faster./&5&7&8- &7Grants &a2x &6☘ Foraging Fortune/&5&6&7from the &dWill &7bonus./&5/&5&7&cYou have no active donation for this/&5&ctemple!/&5/&5&eClick to donate!\n}}\n\n{{UI|Temple Donation\n|id=temple-donation\n|return_id=forest-temple\n|hide=true\n|rows=6\n|fill=true\n|goback=To Forest Temple\n|3, 3=Ender Chest, none;none, &a1 Day, &5&7Donation Cost:/&5 &670\\,000 Coins/&5 &9Enchanted Fig Log &8x2/&5/&5&eClick to donate!\n|3, 4=Ender Chest; 5, none;none, &a5 Days, &5&7Donation Cost:/&5 &6350\\,000 Coins/&5 &9Enchanted Fig Log &8x10/&5/&5&eClick to donate!\n|3, 5=Ender Chest; 10, none;none, &a10 Days, &5&7Donation Cost:/&5 &6700\\,000 Coins/&5 &9Enchanted Fig Log &8x20/&5/&5&eClick to donate!\n|3, 6=Ender Chest; 20, none;none, &a20 Days, &5&7Donation Cost:/&5 &61\\,400\\,000 Coins/&5 &9Enchanted Fig Log &8x40/&5/&5&eClick to donate!\n|3, 7=Ender Chest, none;none, &aCustom Days, &5&7Enter a custom amount of days to/&5&7donate./&5/&5&7Daily Cost:/&5 &670\\,000 Coins/&5 &9Enchanted Fig Log &8x2/&5/&5&eClick to donate!\n}}\n</div><!--\n\n--><includeonly>[[Category:Pages with UIs]]</includeonly><!--\n--><noinclude>[[Category:UI Subpages]]</noinclude>"
+}

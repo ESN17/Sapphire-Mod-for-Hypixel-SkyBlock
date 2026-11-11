@@ -37,7 +37,7 @@ class NovemberFeedbackTest {
   }
  }
  @Test void importedMagicFindUsesCanonicalTerm() throws Exception {
-  var corpus=CommunityTranslationEngine.load(Path.of("src/main/resources/defaults/translations/community-skyzh.json"));
+  var corpus=CommunityTranslationEngine.load(Path.of("src/main/resources/defaults/translations/community-sapphire.json"));
   for(String source:List.of("Magic Find","+ +20✯ Magic Find")) {
    var entry=corpus.get("tooltip","",source);
    assertNotNull(entry,source);

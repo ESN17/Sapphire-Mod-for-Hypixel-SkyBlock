@@ -1,0 +1,13 @@
+{
+  "title": "Shiny Pig/Message",
+  "pageid": 91711,
+  "revision": 667352,
+  "timestamp": "2026-05-03T12:14:53Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Shiny_Pig/Message",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=667352",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Template:Dialogue"
+  ],
+  "wikitext": "<noinclude>\nThis message table is used on [[Shiny Pig]] and [[Shiny Orb]].\n</noinclude>{| class=\"wikitable\"\n! Condition !! Message\n|-\n| On Interaction with a Shiny Pig of another player || {{Dialogue|&dOink! &eThis pig has already been clicked by someone else!}}\n|-\n| On Bringing a Shiny Pig to its Orb || {{Dialogue|&6&lSHINY! &eThe orb is charged! Click on it for loot!}}\n|-\n| On Clicking on a Shiny Orb charged by the player || {{Dialogue|&6&lSHINY! &eYou extracted &b[#]x &a[item] &efrom the pigglet's orb!}}\n|-\n| On Clicking on a Shiny Orb charged by another player || {{Dialogue|&cOnly the orb's owner may click on it!}}\n|-\n| When Shiny Pig is not brought to its Orb after 90 seconds || {{Dialogue|&cYour Shiny Orb and associated pig expired and disappeared.}}\n|-\n! Condition !! Message\n|-\n| On Interaction with Shiny Pig without holding a Shiny Orb || {{Dialogue|&dOink! &eUse a &6Shiny Orb &efrom the &dPig Shop &eto capture the shiny from this piggy!}}\n|-\n| On Interaction with Shiny Pig when holding a Shiny Orb when two other Shiny Pigs are active || {{Dialogue|&cYou may only \"own\" up to 2 shiny pigs at once.}}\n|-\n| On Interaction with Shiny Pig when holding a Shiny Orb otherwise || {{Dialogue|&dOink! &eBring the pig back to the &6Shiny Orb&e!}}\n|}"
+}

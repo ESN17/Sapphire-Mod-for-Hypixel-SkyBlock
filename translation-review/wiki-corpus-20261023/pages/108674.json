@@ -1,0 +1,14 @@
+{
+  "title": "Shen Rubedo",
+  "pageid": 108674,
+  "revision": 790604,
+  "timestamp": "2026-07-24T01:04:21Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Shen_Rubedo",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=790604",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Character\n|location = [[Cerebral Citadel]]\n|location_page_description = Talks about the goals of the different [[Shen]]s.\n|x = -260\n|y = 18\n|z = -68\n}}\n'''Shen Rubedo''' is an [[NPC]] in the {{Zone|Cerebral Citadel}} in the [[Rift Dimension]].\n\n== Purpose ==\n'''Shen Rubedo''' informs the player that every Shen across every dimension is being assembled to become the ultimate lifeform and achieve unparalleled greatness.\n\n== Dialogue ==\n{| class=\"wikitable\"\n!Condition\n!Dialogue\n|-\n| class=\"ct\" |First interaction\n|{{Dialogue|\n&e[NPC] &fShen Rubedo: It seems you've mastered the sequencing quite well...\n&e[NPC] &fShen Rubedo: Though it's unfortunate you may &cfail &flike the others.\n&eSelect an option: &a[What are you doing here?]\n}}\n|-\n| class=\"ct\" |Selecting {{Green|[What are you doing here?]}}\n|{{Dialogue|\n&e[NPC] &fShen Rubedo: Well, I suppose it doesn't hurt to tell you.\n&e[NPC] &fShen Rubedo: You're either destined to perish or become invaluable to us.\n&e[NPC] &fShen Rubedo: We're assembling as many Shens as possible to create the ultimate Shen.\n&e[NPC] &fShen Rubedo: By uniting the greatest minds across dimensions, we aim to achieve unparalleled greatness.\n&e[NPC] &fShen Rubedo: The details of our grand project, however, will remain undisclosed.\n}}\n|-\n| class=\"ct\" |Idle\n|{{Dialogue|\n&e[NPC] &fShen Rubedo: Have you confronted any of the Elites in your dimension yet?\n&eSelect an option: &a[What Elite?]\n}}\n|-\n| class=\"ct\" |Selecting {{Green|[What Elite?]}}\n|{{Dialogue|&e[NPC] &fShen Rubedo: I see. In that case, our discussion concludes here.}}\n|-\n|}\n\n== History ==\n{{History table\n|beta=\n{{History|0.21|[[File:Shen Rubedo.png|26px]] Added '''Shen Rubedo'''.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}"
+}

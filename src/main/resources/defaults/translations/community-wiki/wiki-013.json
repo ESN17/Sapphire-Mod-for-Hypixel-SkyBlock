@@ -360,9 +360,10 @@
       "scope": "system",
       "npc": "",
       "source": "for each player in the same zone as you! (Max 5 players)",
-      "translation": "(最多计 5 名玩家)",
+      "translation": "对与你处于同一区域的每位玩家生效！（最多 5 名玩家）",
       "styleMappings": {
-        "(Max {{N0}} players)": "(最多计 {{N0}} 名玩家)"
+        "for each player in the same zone as you!": "对与你处于同一区域的每位玩家生效！",
+        "(Max {{N0}} players)": "（最多 {{N0}} 名玩家）"
       },
       "sampleRaw": "§ffor each player in the same zone as you! §7(Max 5 players)",
       "sourceId": "8345bb67474e29ca2a716f2e",
@@ -372,15 +373,17 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "for each player in the same zone as you! (Max {{N0}} players)",
-      "numericTranslation": "(最多计 {{N0}} 名玩家)"
+      "numericTranslation": "对与你处于同一区域的每位玩家生效！（最多 {{N0}} 名玩家）",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
       "npc": "",
       "source": "for each player in the same zone as you! (Max {{N0}} players)",
-      "translation": "(最多计 {{N0}} 名玩家)",
+      "translation": "对与你处于同一区域的每位玩家生效！（最多 {{N0}} 名玩家）",
       "styleMappings": {
-        "(Max {{N0}} players)": "(最多计 {{N0}} 名玩家)"
+        "for each player in the same zone as you!": "对与你处于同一区域的每位玩家生效！",
+        "(Max {{N0}} players)": "（最多 {{N0}} 名玩家）"
       },
       "sampleRaw": "for each player in the same zone as you! (Max {{N0}} players)",
       "sourceId": "8345bb67474e29ca2a716f2e",
@@ -390,10 +393,11 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "for each player in the same zone as you! (Max {{N0}} players)",
-      "numericTranslation": "(最多计 {{N0}} 名玩家)",
+      "numericTranslation": "对与你处于同一区域的每位玩家生效！（最多 {{N0}} 名玩家）",
       "templateExamples": {
         "{{N0}}": "5"
-      }
+      },
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -413,7 +417,7 @@
       "scope": "system",
       "npc": "",
       "source": "The Better Together festival is active for 20 minutes!",
-      "translation": "「众志成城」庆典将持续 20 分钟!",
+      "translation": "“同心协力”庆典已激活 20 分钟！",
       "styleMappings": {},
       "sampleRaw": "§7§oThe Better Together festival is active for 20 minutes!",
       "sourceId": "d79c470e7425d1d0faf7c143",
@@ -423,13 +427,14 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "The Better Together festival is active for {{N0}} minutes!",
-      "numericTranslation": "「众志成城」庆典将持续 {{N0}} 分钟!"
+      "numericTranslation": "“同心协力”庆典已激活 {{N0}} 分钟！",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
       "npc": "",
       "source": "The Better Together festival is active for {{N0}} minutes!",
-      "translation": "「众志成城」庆典将持续 {{N0}} 分钟!",
+      "translation": "“同心协力”庆典已激活 {{N0}} 分钟！",
       "styleMappings": {},
       "sampleRaw": "The Better Together festival is active for {{N0}} minutes!",
       "sourceId": "d79c470e7425d1d0faf7c143",
@@ -439,10 +444,11 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "The Better Together festival is active for {{N0}} minutes!",
-      "numericTranslation": "「众志成城」庆典将持续 {{N0}} 分钟!",
+      "numericTranslation": "“同心协力”庆典已激活 {{N0}} 分钟！",
       "templateExamples": {
         "{{N0}}": "20"
-      }
+      },
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -464,7 +470,7 @@
       "scope": "system",
       "npc": "",
       "source": "The festival has ended, but the Dwarven cooperative spirit",
-      "translation": "庆典结束了,但矮人的协作精神",
+      "translation": "庆典已经结束，但矮人的合作精神",
       "styleMappings": {},
       "sampleRaw": "§fThe festival has ended, but the Dwarven cooperative spirit",
       "sourceId": "49a72f14f6300d03c454d301",
@@ -472,13 +478,14 @@
       "sourceRevision": 860361,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860361",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
       "npc": "",
       "source": "never dies.",
-      "translation": "永远不会消失。",
+      "translation": "永不消逝。",
       "styleMappings": {},
       "sampleRaw": "§fnever dies.",
       "sourceId": "d97d1a70a3ea8244beb4ec13",
@@ -486,7 +493,8 @@
       "sourceRevision": 860361,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=860361",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -547,7 +555,7 @@
       "scope": "system",
       "npc": "",
       "source": "Active Mining Event",
-      "translation": "主动挖矿活动",
+      "translation": "进行中的采矿活动",
       "styleMappings": {},
       "sampleRaw": "§7Active Mining Event",
       "sourceId": "d91337bff370dbec611e6b8f",
@@ -555,7 +563,8 @@
       "sourceRevision": 831442,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=831442",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -675,7 +684,7 @@
       "scope": "system",
       "npc": "",
       "source": "Don Expresso is leaving in 1 minute! Make sure to feed him everything you have before he leaves!",
-      "translation": "Don Expresso 还有 1 分钟就走了! 趁他还在,把手上的都喂给他吧!",
+      "translation": "Don Expresso 将在 1 分钟后离开！请务必在他离开前把所有东西都喂给他！",
       "styleMappings": {},
       "sampleRaw": "§e§oDon Expresso is leaving in 1 minute! Make sure to feed him everything you have before he leaves!",
       "sourceId": "a6a868e2987789f5cf2fea98",
@@ -685,13 +694,14 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "Don Expresso is leaving in {{N0}} minute! Make sure to feed him everything you have before he leaves!",
-      "numericTranslation": "Don Expresso 还有 {{N0}} 分钟就走了! 趁他还在,把手上的都喂给他吧!"
+      "numericTranslation": "Don Expresso 将在 {{N0}} 分钟后离开！请务必在他离开前把所有东西都喂给他！",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
       "npc": "",
       "source": "Don Expresso is leaving in {{N0}} minute! Make sure to feed him everything you have before he leaves!",
-      "translation": "Don Expresso 还有 {{N0}} 分钟就走了! 趁他还在,把手上的都喂给他吧!",
+      "translation": "Don Expresso 将在 {{N0}} 分钟后离开！请务必在他离开前把所有东西都喂给他！",
       "styleMappings": {},
       "sampleRaw": "Don Expresso is leaving in {{N0}} minute! Make sure to feed him everything you have before he leaves!",
       "sourceId": "a6a868e2987789f5cf2fea98",
@@ -701,20 +711,20 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "Don Expresso is leaving in {{N0}} minute! Make sure to feed him everything you have before he leaves!",
-      "numericTranslation": "Don Expresso 还有 {{N0}} 分钟就走了! 趁他还在,把手上的都喂给他吧!",
+      "numericTranslation": "Don Expresso 将在 {{N0}} 分钟后离开！请务必在他离开前把所有东西都喂给他！",
       "templateExamples": {
         "{{N0}}": "1"
-      }
+      },
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
       "npc": "",
       "source": "Don Expresso is leaving in 20 seconds! Make sure to feed him everything you have before he leaves! [Teleport to Don Expresso]",
-      "translation": "Don Expresso 还有 20 秒就走了! 趁他还在,把手上的都喂给他吧! [传送到 Don Expresso]",
+      "translation": "Don Expresso 将在 20 秒后离开！在他离开前，确保把你所有的东西都喂给他！[传送到 Don Expresso]",
       "styleMappings": {
-        "[": "[",
-        "Teleport to Don Expresso": "传送到 Don Expresso",
-        "]": "]"
+        "Don Expresso is leaving in {{N0}} seconds! Make sure to feed him everything you have before he leaves!": "Don Expresso 将在 {{N0}} 秒后离开！在他离开前，确保把你所有的东西都喂给他！",
+        "[Teleport to Don Expresso]": "[传送到 Don Expresso]"
       },
       "sampleRaw": "§eDon Expresso is leaving in 20 seconds! Make sure to feed him everything you have before he leaves! §b§l[Teleport to Don Expresso]",
       "sourceId": "3aa4e4ee4f227c7cc3958e64",
@@ -724,17 +734,17 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "Don Expresso is leaving in {{N0}} seconds! Make sure to feed him everything you have before he leaves! [Teleport to Don Expresso]",
-      "numericTranslation": "Don Expresso 还有 {{N0}} 秒就走了! 趁他还在,把手上的都喂给他吧! [传送到 Don Expresso]"
+      "numericTranslation": "Don Expresso 将在 {{N0}} 秒后离开！在他离开前，确保把你所有的东西都喂给他！[传送到 Don Expresso]",
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
       "npc": "",
       "source": "Don Expresso is leaving in {{N0}} seconds! Make sure to feed him everything you have before he leaves! [Teleport to Don Expresso]",
-      "translation": "Don Expresso 还有 {{N0}} 秒就走了! 趁他还在,把手上的都喂给他吧! [传送到 Don Expresso]",
+      "translation": "Don Expresso 将在 {{N0}} 秒后离开！在他离开前，确保把你所有的东西都喂给他！[传送到 Don Expresso]",
       "styleMappings": {
-        "[": "[",
-        "Teleport to Don Expresso": "传送到 Don Expresso",
-        "]": "]"
+        "Don Expresso is leaving in {{N0}} seconds! Make sure to feed him everything you have before he leaves!": "Don Expresso 将在 {{N0}} 秒后离开！在他离开前，确保把你所有的东西都喂给他！",
+        "[Teleport to Don Expresso]": "[传送到 Don Expresso]"
       },
       "sampleRaw": "Don Expresso is leaving in {{N0}} seconds! Make sure to feed him everything you have before he leaves! [Teleport to Don Expresso]",
       "sourceId": "3aa4e4ee4f227c7cc3958e64",
@@ -744,10 +754,11 @@
       "license": "CC BY-NC-SA 3.0",
       "verifiedIngame": false,
       "numericSource": "Don Expresso is leaving in {{N0}} seconds! Make sure to feed him everything you have before he leaves! [Teleport to Don Expresso]",
-      "numericTranslation": "Don Expresso 还有 {{N0}} 秒就走了! 趁他还在,把手上的都喂给他吧! [传送到 Don Expresso]",
+      "numericTranslation": "Don Expresso 将在 {{N0}} 秒后离开！在他离开前，确保把你所有的东西都喂给他！[传送到 Don Expresso]",
       "templateExamples": {
         "{{N0}}": "20"
-      }
+      },
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -769,7 +780,7 @@
       "scope": "system",
       "npc": "",
       "source": "You didn't participate...",
-      "translation": "你没有参与这次活动……",
+      "translation": "你没有参与……",
       "styleMappings": {},
       "sampleRaw": "§cYou didn't participate...",
       "sourceId": "5675e4ab8e9326c636c62b1c",
@@ -777,7 +788,8 @@
       "sourceRevision": 831442,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=831442",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -838,7 +850,7 @@
       "scope": "system",
       "npc": "",
       "source": "The cavern is windy today! Mining in the direction of the wind",
-      "translation": "今天洞里风很大! 顺着风向挖矿",
+      "translation": "今天洞穴里刮着风！顺着风向采矿",
       "styleMappings": {},
       "sampleRaw": "§fThe cavern is windy today! Mining in the direction of the wind",
       "sourceId": "4684ca52dc84a676bb4cb10c",
@@ -846,7 +858,8 @@
       "sourceRevision": 855275,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=855275",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -907,7 +920,7 @@
       "scope": "system",
       "npc": "",
       "source": "The wind has died down leading to normal mining speeds.",
-      "translation": "风停了,挖掘速度已恢复正常。",
+      "translation": "风已经平息，采矿速度恢复正常。",
       "styleMappings": {},
       "sampleRaw": "§fThe wind has died down leading to normal mining speeds.",
       "sourceId": "71414329dde32263da3c2051",
@@ -915,7 +928,8 @@
       "sourceRevision": 855275,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=855275",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -4073,7 +4087,8 @@
       "sourceRevision": 851139,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=851139",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -4118,7 +4133,7 @@
       "scope": "system",
       "npc": "",
       "source": "to the Wizard in the SkyBlock Hub!",
-      "translation": "空岛 大厅的巫师身边!",
+      "translation": "前往空岛中心岛的巫师那里！",
       "styleMappings": {},
       "sampleRaw": "§7to the Wizard in the SkyBlock Hub!",
       "sourceId": "2b3383f756d4d465be5908b5",
@@ -4126,7 +4141,8 @@
       "sourceRevision": 851139,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=851139",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -4237,7 +4253,7 @@
       "scope": "system",
       "npc": "",
       "source": "Looks like a floating cat skull...",
-      "translation": "看起来像一个漂浮的猫头骨...",
+      "translation": "看起来像一颗漂浮的猫骷髅……",
       "styleMappings": {},
       "sampleRaw": "§7Looks like a floating cat skull...",
       "sourceId": "c51d72bf3766cde2c582718f",
@@ -4245,13 +4261,14 @@
       "sourceRevision": 859506,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=859506",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
       "npc": "",
       "source": "Average rift find to be honest.",
-      "translation": "说实话,这在裂隙里也算正常。",
+      "translation": "说实话，这算是裂隙里很普通的发现了。",
       "styleMappings": {},
       "sampleRaw": "§7Average rift find to be honest.",
       "sourceId": "d25212b29ed995bc5719ec54",
@@ -4259,7 +4276,8 @@
       "sourceRevision": 859506,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=859506",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -6555,7 +6573,7 @@
       "scope": "system",
       "npc": "",
       "source": "Select an option:",
-      "translation": "选择一个选项:",
+      "translation": "选择一个选项：",
       "styleMappings": {},
       "sampleRaw": "§eSelect an option:",
       "sourceId": "6d3e3143a1fe549613088b90",
@@ -6563,7 +6581,8 @@
       "sourceRevision": 790759,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=790759",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -7893,13 +7912,11 @@
       "scope": "system",
       "npc": "",
       "source": "Select an option: [YES] [NO]",
-      "translation": "请选择: [接受] [拒绝]",
+      "translation": "选择一个选项：[是][否]",
       "styleMappings": {
-        "Select an option:": "请选择:",
-        "[": "[",
-        "YES": "接受",
-        "]": "]",
-        "NO": "拒绝"
+        "Select an option:": "选择一个选项：",
+        "[YES]": "[是]",
+        "[NO]": "[否]"
       },
       "sampleRaw": "§eSelect an option: §a§l[YES] §c§l[NO]",
       "sourceId": "015098a6b300c1e3051ea349",
@@ -7907,19 +7924,18 @@
       "sourceRevision": 823092,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=823092",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
       "npc": "",
       "source": "Select an option: [Give materials] [No thanks!]",
-      "translation": "请选择: [交付材料] [不用了]",
+      "translation": "选择一个选项：[给予材料][不用了，谢谢！]",
       "styleMappings": {
-        "Select an option:": "请选择:",
-        "[": "[",
-        "Give materials": "交付材料",
-        "]": "]",
-        "No thanks!": "不用了"
+        "Select an option:": "选择一个选项：",
+        "[Give materials]": "[给予材料]",
+        "[No thanks!]": "[不用了，谢谢！]"
       },
       "sampleRaw": "§eSelect an option: §a[Give materials] §c[No thanks!]",
       "sourceId": "343cb4d2ca4915d94d19d432",
@@ -7927,7 +7943,8 @@
       "sourceRevision": 823092,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=823092",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -8089,12 +8106,10 @@
       "scope": "system",
       "npc": "",
       "source": "Select an option: [What happens if I have more Cold Resistance than Cold?]",
-      "translation": "请选择: [抗寒高于寒冷值时会怎样?]",
+      "translation": "选择一个选项：[如果我的寒冷抗性高于寒冷值会怎样？]",
       "styleMappings": {
-        "Select an option:": "请选择:",
-        "[": "[",
-        "What happens if I have more Cold Resistance than Cold?": "抗寒高于寒冷值时会怎样?",
-        "]": "]"
+        "Select an option:": "选择一个选项：",
+        "[What happens if I have more Cold Resistance than Cold?]": "[如果我的寒冷抗性高于寒冷值会怎样？]"
       },
       "sampleRaw": "§eSelect an option: §a[What happens if I have more Cold Resistance than Cold?]",
       "sourceId": "61b500804310675d876608b8",
@@ -8102,7 +8117,8 @@
       "sourceRevision": 850536,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=850536",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -9085,12 +9101,10 @@
       "scope": "system",
       "npc": "",
       "source": "Select an option: [I guess.]",
-      "translation": "请选择: [算是吧。]",
+      "translation": "选择一个选项：[我想是吧。]",
       "styleMappings": {
-        "Select an option:": "请选择:",
-        "[": "[",
-        "I guess.": "算是吧。",
-        "]": "]"
+        "Select an option:": "选择一个选项：",
+        "[I guess.]": "[我想是吧。]"
       },
       "sampleRaw": "§eSelect an option: §a[I guess.]",
       "sourceId": "57f574caeb9943943ea6a39a",
@@ -9098,7 +9112,8 @@
       "sourceRevision": 844606,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=844606",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -10660,13 +10675,11 @@
       "scope": "system",
       "npc": "",
       "source": "Select an option: [BARBARIANS] [MAGES]",
-      "translation": "选择阵营: [野蛮人] [法师]",
+      "translation": "选择一个选项：[野蛮人][法师]",
       "styleMappings": {
-        "Select an option:": "选择阵营:",
-        "[": "[",
-        "BARBARIANS": "野蛮人",
-        "]": "]",
-        "MAGES": "法师"
+        "Select an option:": "选择一个选项：",
+        "[BARBARIANS]": "[野蛮人]",
+        "[MAGES]": "[法师]"
       },
       "sampleRaw": "§eSelect an option: §c§l[BARBARIANS] §d§l[MAGES]",
       "sourceId": "45662ad04c0d8717ad95d3f9",
@@ -10674,7 +10687,8 @@
       "sourceRevision": 830430,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=830430",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -11051,12 +11065,10 @@
       "scope": "system",
       "npc": "",
       "source": "Select an option: [Ok, then what?]",
-      "translation": "请选择: [好,然后呢?]",
+      "translation": "选择一个选项：[好，然后呢？]",
       "styleMappings": {
-        "Select an option:": "请选择:",
-        "[": "[",
-        "Ok, then what?": "好,然后呢?",
-        "]": "]"
+        "Select an option:": "选择一个选项：",
+        "[Ok, then what?]": "[好，然后呢？]"
       },
       "sampleRaw": "§eSelect an option: §a[Ok, then what?]",
       "sourceId": "6ec10dcb650c2bfe63e82014",
@@ -11064,18 +11076,17 @@
       "sourceRevision": 843002,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=843002",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
       "npc": "",
       "source": "Select an option: [Accessory Power?]",
-      "translation": "请选择: [饰品之力?]",
+      "translation": "选择一个选项：[饰品之力？]",
       "styleMappings": {
-        "Select an option:": "请选择:",
-        "[": "[",
-        "Accessory Power?": "饰品之力?",
-        "]": "]"
+        "Select an option:": "选择一个选项：",
+        "[Accessory Power?]": "[饰品之力？]"
       },
       "sampleRaw": "§eSelect an option: §a[Accessory Power?]",
       "sourceId": "c9f83e48c7a925b962ef7472",
@@ -11083,18 +11094,17 @@
       "sourceRevision": 843002,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=843002",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
       "npc": "",
       "source": "Select an option: [That's amazing!]",
-      "translation": "请选择: [这也太神奇了!]",
+      "translation": "选择一个选项：[太棒了！]",
       "styleMappings": {
-        "Select an option:": "请选择:",
-        "[": "[",
-        "That's amazing!": "这也太神奇了!",
-        "]": "]"
+        "Select an option:": "选择一个选项：",
+        "[That's amazing!]": "[太棒了！]"
       },
       "sampleRaw": "§eSelect an option: §a[That's amazing!]",
       "sourceId": "c073d7c1c5963d09e6638822",
@@ -11102,7 +11112,8 @@
       "sourceRevision": 843002,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=843002",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -11335,13 +11346,10 @@
       "scope": "system",
       "npc": "",
       "source": "Select an option: [I am sure] [Fine I'll buy your sword]",
-      "translation": "请选择: [我确定] [好吧,我买你的剑]",
+      "translation": "选择一个选项：[我确定] [好吧，我买你的剑]",
       "styleMappings": {
-        "Select an option:": "请选择:",
-        "[": "[",
-        "I am sure": "我确定",
-        "]": "]",
-        "Fine I'll buy your sword": "好吧,我买你的剑"
+        "Select an option:": "选择一个选项：",
+        "[I am sure] [Fine I'll buy your sword]": "[我确定] [好吧，我买你的剑]"
       },
       "sampleRaw": "§eSelect an option: §a§l[I am sure] [Fine I'll buy your sword]",
       "sourceId": "1a434c69700fe330bef49c18",
@@ -11349,22 +11357,17 @@
       "sourceRevision": 823127,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=823127",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
       "npc": "",
       "source": "Select an option: [Cloak] [Belt] [Necklace] [Gauntlet] [Armor]",
-      "translation": "请选择: [披风] [腰带] [项链] [护手] [护甲]",
+      "translation": "选择一个选项：[披风] [腰带] [项链] [护手] [护甲]",
       "styleMappings": {
-        "Select an option:": "请选择:",
-        "[": "[",
-        "Cloak": "披风",
-        "]": "]",
-        "Belt": "腰带",
-        "Necklace": "项链",
-        "Gauntlet": "护手",
-        "Armor": "护甲"
+        "Select an option:": "选择一个选项：",
+        "[Cloak] [Belt] [Necklace] [Gauntlet] [Armor]": "[披风] [腰带] [项链] [护手] [护甲]"
       },
       "sampleRaw": "§eSelect an option: §a§l[Cloak] [Belt] [Necklace] [Gauntlet] [Armor]",
       "sourceId": "418e21fe33a17989b42d2f67",
@@ -11372,7 +11375,8 @@
       "sourceRevision": 823127,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=823127",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -12993,7 +12997,7 @@
       "scope": "system",
       "npc": "",
       "source": "You cannot afford this!",
-      "translation": "你买不起这个!",
+      "translation": "你买不起这个！",
       "styleMappings": {},
       "sampleRaw": "§cYou cannot afford this!",
       "sourceId": "e583d9e1d21a8e9cba3eca6c",
@@ -13001,7 +13005,8 @@
       "sourceRevision": 787955,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=787955",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -13472,13 +13477,13 @@
       "scope": "system",
       "npc": "",
       "source": "You got an extra Accessory Bag slot from helping the Redstone Miner!",
-      "translation": "你帮助了 Redstone Miner，获得了一个额外的饰品袋栏位!",
+      "translation": "你通过帮助红石矿工获得了一个额外的饰品袋槽位！",
       "styleMappings": {
-        "You got an extra": "你帮助了",
-        "Accessory Bag": "饰品袋",
-        "slot from helping the": "，获得了一个额外的",
-        "Redstone Miner": "Redstone Miner",
-        "!": "栏位!"
+        "You got an extra": "你通过帮助",
+        "Accessory Bag": "红石矿工",
+        "slot from helping the": "获得了一个额外的",
+        "Redstone Miner": "饰品袋",
+        "!": "槽位！"
       },
       "sampleRaw": "§7You got an extra §aAccessory Bag§7 slot from helping the §eRedstone Miner§a!",
       "sourceId": "b2be5cf1060f81c874987c5d",
@@ -13486,7 +13491,8 @@
       "sourceRevision": 823092,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=823092",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -14141,55 +14147,46 @@
       "scope": "system",
       "npc": "",
       "source": "[How do I get Cold slower?]",
-      "translation": "[怎样让寒冷积累得慢一点?]",
-      "styleMappings": {
-        "[": "[",
-        "How do I get Cold slower?": "怎样让寒冷积累得慢一点?",
-        "]": "]"
-      },
+      "translation": "[怎样才能让寒冷值增长得更慢？]",
+      "styleMappings": {},
       "sampleRaw": "§b[How do I get Cold slower?]",
       "sourceId": "16334b9a7ba8b8ed78e94e20",
       "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Cold_Enjoyer",
       "sourceRevision": 850536,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=850536",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
       "npc": "",
       "source": "[How does Cold affect my Mining Speed?]",
-      "translation": "[寒冷会怎样影响挖掘速度?]",
-      "styleMappings": {
-        "[": "[",
-        "How does Cold affect my Mining Speed?": "寒冷会怎样影响挖掘速度?",
-        "]": "]"
-      },
+      "translation": "[寒冷如何影响我的采矿速度？]",
+      "styleMappings": {},
       "sampleRaw": "§6[How does Cold affect my Mining Speed?]",
       "sourceId": "830579adc6fbe5f43c862e5f",
       "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Cold_Enjoyer",
       "sourceRevision": 850536,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=850536",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
       "npc": "",
       "source": "[How does Cold affect my Walk Speed?]",
-      "translation": "[寒冷会怎样影响移动速度?]",
-      "styleMappings": {
-        "[": "[",
-        "How does Cold affect my Walk Speed?": "寒冷会怎样影响移动速度?",
-        "]": "]"
-      },
+      "translation": "[寒冷如何影响我的行走速度？]",
+      "styleMappings": {},
       "sampleRaw": "§f[How does Cold affect my Walk Speed?]",
       "sourceId": "0a401438625631b57979781a",
       "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Cold_Enjoyer",
       "sourceRevision": 850536,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=850536",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -14682,7 +14679,7 @@
       "scope": "system",
       "npc": "",
       "source": "✆ RING...",
-      "translation": "✆ 嘟……",
+      "translation": "✆ 铃……",
       "styleMappings": {},
       "sampleRaw": "§e✆ RING...",
       "sourceId": "eef83c3886a133d39466e4dd",
@@ -14690,13 +14687,14 @@
       "sourceRevision": 852301,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=852301",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
       "npc": "",
       "source": "✆ RING... RING...",
-      "translation": "✆ 嘟…… 嘟……",
+      "translation": "✆ 铃……铃……",
       "styleMappings": {},
       "sampleRaw": "§e✆ RING... RING...",
       "sourceId": "e5e9f4a7e486b8d5cc50962c",
@@ -14704,13 +14702,14 @@
       "sourceRevision": 852301,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=852301",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
       "npc": "",
       "source": "✆ RING... RING... RING...",
-      "translation": "✆ 嘟…… 嘟…… 嘟……",
+      "translation": "✆ 铃……铃……铃……",
       "styleMappings": {},
       "sampleRaw": "§e✆ RING... RING... RING...",
       "sourceId": "072be88925e021babf1cbd78",
@@ -14718,7 +14717,8 @@
       "sourceRevision": 852301,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=852301",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -16894,7 +16894,8 @@
       "sourceRevision": 851601,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=851601",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -17672,12 +17673,10 @@
       "scope": "system",
       "npc": "",
       "source": "➜ [How are perks chosen?]",
-      "translation": "➜ [市长特权如何决定?]",
+      "translation": "➜[特权是如何选择的？]",
       "styleMappings": {
         "➜": "➜",
-        "[": "[",
-        "How are perks chosen?": "市长特权如何决定?",
-        "]": "]"
+        "[How are perks chosen?]": "[特权是如何选择的？]"
       },
       "sampleRaw": "§e§l ➜ §a[How are perks chosen?]",
       "sourceId": "8a464d2e0a4c74fd14e24e44",
@@ -17685,18 +17684,17 @@
       "sourceRevision": 830411,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=830411",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
       "npc": "",
       "source": "➜ [What's the deal with Ministers?]",
-      "translation": "➜ [部长是怎么回事?]",
+      "translation": "➜[部长是怎么回事？]",
       "styleMappings": {
         "➜": "➜",
-        "[": "[",
-        "What's the deal with Ministers?": "部长是怎么回事?",
-        "]": "]"
+        "[What's the deal with Ministers?]": "[部长是怎么回事？]"
       },
       "sampleRaw": "§e§l ➜ §6[What's the deal with Ministers?]",
       "sourceId": "cfd653be31b3daa9ea0a6c2e",
@@ -17704,18 +17702,17 @@
       "sourceRevision": 830411,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=830411",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
       "npc": "",
       "source": "➜ [What are Special Mayors?]",
-      "translation": "➜ [什么是特殊市长?]",
+      "translation": "➜[什么是特殊市长？]",
       "styleMappings": {
         "➜": "➜",
-        "[": "[",
-        "What are Special Mayors?": "什么是特殊市长?",
-        "]": "]"
+        "[What are Special Mayors?]": "[什么是特殊市长？]"
       },
       "sampleRaw": "§e§l ➜ §d[What are Special Mayors?]",
       "sourceId": "fcc18dc83e8391f9297f1c84",
@@ -17723,18 +17720,17 @@
       "sourceRevision": 830411,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=830411",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
       "npc": "",
       "source": "➜ [I think I'm good.]",
-      "translation": "➜ [暂时没问题了。]",
+      "translation": "➜[我想我够了。]",
       "styleMappings": {
         "➜": "➜",
-        "[": "[",
-        "I think I'm good.": "暂时没问题了。",
-        "]": "]"
+        "[I think I'm good.]": "[我想我够了。]"
       },
       "sampleRaw": "§e§l ➜ §c[I think I'm good.]",
       "sourceId": "fe8b14fb264c4e9428c26f4a",
@@ -17742,18 +17738,17 @@
       "sourceRevision": 830411,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=830411",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
       "npc": "",
       "source": "➜ [Sure.]",
-      "translation": "➜ [好的。]",
+      "translation": "➜[当然。]",
       "styleMappings": {
         "➜": "➜",
-        "[": "[",
-        "Sure.": "好的。",
-        "]": "]"
+        "[Sure.]": "[当然。]"
       },
       "sampleRaw": "§e§l ➜ §a[Sure.]",
       "sourceId": "85bc3b8d130ecf4accfd36d8",
@@ -17761,18 +17756,17 @@
       "sourceRevision": 830411,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=830411",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
       "npc": "",
       "source": "➜ [I'd rather talk about special Mayors.]",
-      "translation": "➜ [我还是想聊聊特殊市长。]",
+      "translation": "➜[我更想谈谈特殊市长。]",
       "styleMappings": {
         "➜": "➜",
-        "[": "[",
-        "I'd rather talk about special Mayors.": "我还是想聊聊特殊市长。",
-        "]": "]"
+        "[I'd rather talk about special Mayors.]": "[我更想谈谈特殊市长。]"
       },
       "sampleRaw": "§e§l ➜ §d[I'd rather talk about special Mayors.]",
       "sourceId": "b33d39bc250d17d31a888b1b",
@@ -17780,18 +17774,17 @@
       "sourceRevision": 830411,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=830411",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
       "npc": "",
       "source": "➜ [Nah.]",
-      "translation": "➜ [不了。]",
+      "translation": "➜[不。]",
       "styleMappings": {
         "➜": "➜",
-        "[": "[",
-        "Nah.": "不了。",
-        "]": "]"
+        "[Nah.]": "[不。]"
       },
       "sampleRaw": "§e§l ➜ §c[Nah.]",
       "sourceId": "8dde73a82e5375608b3e6798",
@@ -17799,7 +17792,8 @@
       "sourceRevision": 830411,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=830411",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -17902,12 +17896,10 @@
       "scope": "system",
       "npc": "",
       "source": "• Lobbies - Ping Click Effect",
-      "translation": "• 大厅 - 延迟点击特效",
+      "translation": "•大厅 - 点击 ping 效果",
       "styleMappings": {
         "•": "•",
-        "Lobbies": "大厅",
-        "-": "-",
-        "Ping Click Effect": "延迟点击特效"
+        "Lobbies - Ping Click Effect": "大厅 - 点击 ping 效果"
       },
       "sampleRaw": "§f• §bLobbies - Ping Click Effect",
       "sourceId": "7826172cf9b68b6a4ce5de88",
@@ -17915,7 +17907,8 @@
       "sourceRevision": 843738,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=843738",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -17965,7 +17958,7 @@
       "scope": "system",
       "npc": "",
       "source": "You received:",
-      "translation": "你获得了:",
+      "translation": "你获得了：",
       "styleMappings": {},
       "sampleRaw": "§eYou received:",
       "sourceId": "382f03f1258c2b8c1cdf1686",
@@ -17973,7 +17966,8 @@
       "sourceRevision": 843738,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=843738",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -18013,7 +18007,7 @@
       "scope": "system",
       "npc": "",
       "source": "Already claimed!",
-      "translation": "已经领取过了!",
+      "translation": "已领取！",
       "styleMappings": {},
       "sampleRaw": "§cAlready claimed!",
       "sourceId": "ec748e0491e0b7e61e975bd2",
@@ -18021,7 +18015,8 @@
       "sourceRevision": 856373,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=856373",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -20716,10 +20711,10 @@
       "scope": "system",
       "npc": "",
       "source": "SkyBlock Security Support Article CLICK HERE",
-      "translation": "空岛 账号安全帮助文档 点击查看",
+      "translation": "SkyBlock 安全支持文章点击这里",
       "styleMappings": {
-        "SkyBlock Security Support Article": "空岛 账号安全帮助文档",
-        "CLICK HERE": "点击查看"
+        "SkyBlock Security Support Article": "SkyBlock 安全支持文章",
+        "CLICK HERE": "点击这里"
       },
       "sampleRaw": "§eSkyBlock Security Support Article §b§lCLICK HERE",
       "sourceId": "e837c1a00e2054f7d03b9e60",
@@ -20727,7 +20722,8 @@
       "sourceRevision": 843484,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=843484",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -20874,13 +20870,11 @@
       "scope": "system",
       "npc": "",
       "source": "Help her out? [YES] [NO]",
-      "translation": "帮助她吗? [是] [否]",
+      "translation": "要帮她吗？[是][否]",
       "styleMappings": {
-        "Help her out?": "帮助她吗?",
-        "[": "[",
-        "YES": "是",
-        "]": "]",
-        "NO": "否"
+        "Help her out?": "要帮她吗？",
+        "[YES]": "[是]",
+        "[NO]": "[否]"
       },
       "sampleRaw": "§eHelp her out? §a§l[YES] §c§l[NO]",
       "sourceId": "8d0a0da5b9515ecad1dfdd59",
@@ -20888,7 +20882,8 @@
       "sourceRevision": 859509,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=859509",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -20908,12 +20903,10 @@
       "scope": "system",
       "npc": "",
       "source": "[That's a great idea] [I'd rather not]",
-      "translation": "[好主意] [还是算了]",
+      "translation": "[好主意][还是算了]",
       "styleMappings": {
-        "[": "[",
-        "That's a great idea": "好主意",
-        "]": "]",
-        "I'd rather not": "还是算了"
+        "[That's a great idea]": "[好主意]",
+        "[I'd rather not]": "[还是算了]"
       },
       "sampleRaw": "§a§l[That's a great idea] §c§l[I'd rather not]",
       "sourceId": "33b2bbc327352828f21ece7d",
@@ -20921,18 +20914,17 @@
       "sourceRevision": 859509,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=859509",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
       "npc": "",
       "source": "Help her? [Fine]",
-      "translation": "帮她吗? [好吧]",
+      "translation": "要帮她吗？[好吧]",
       "styleMappings": {
-        "Help her?": "帮她吗?",
-        "[": "[",
-        "Fine": "好吧",
-        "]": "]"
+        "Help her?": "要帮她吗？",
+        "[Fine]": "[好吧]"
       },
       "sampleRaw": "§eHelp her? §a§l[Fine]",
       "sourceId": "e5365af4327c7d1983dd9717",
@@ -20940,13 +20932,14 @@
       "sourceRevision": 859509,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=859509",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
       "npc": "",
       "source": "Sell leftover Wheat?",
-      "translation": "卖掉多余的小麦吗?",
+      "translation": "出售剩余的小麦？",
       "styleMappings": {},
       "sampleRaw": "§eSell leftover Wheat?",
       "sourceId": "2198d38023fd2ac911c34e0a",
@@ -20954,18 +20947,17 @@
       "sourceRevision": 859509,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=859509",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
       "npc": "",
       "source": "[Good call!] [I'd rather keep it for myself]",
-      "translation": "[好主意!] [我还是自己留着]",
+      "translation": "[明智之举！][我还是自己留着吧]",
       "styleMappings": {
-        "[": "[",
-        "Good call!": "好主意!",
-        "]": "]",
-        "I'd rather keep it for myself": "我还是自己留着"
+        "[Good call!]": "[明智之举！]",
+        "[I'd rather keep it for myself]": "[我还是自己留着吧]"
       },
       "sampleRaw": "§a§l[Good call!] §c§l[I'd rather keep it for myself]",
       "sourceId": "ac6947e2874ee48c426dddb6",
@@ -20973,7 +20965,8 @@
       "sourceRevision": 859509,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=859509",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",
@@ -21170,11 +21163,11 @@
       "scope": "system",
       "npc": "",
       "source": "Trade completed with Centauri!",
-      "translation": "已完成与 Centauri 的交易!",
+      "translation": "交易完成，对象：Centauri！",
       "styleMappings": {
-        "Trade completed with": "已完成与",
+        "Trade completed with": "交易完成，对象：",
         "Centauri": "Centauri",
-        "!": "的交易!"
+        "!": "！"
       },
       "sampleRaw": "§6Trade completed with §8§lCentauri§r§6!",
       "sourceId": "67306b1236f823811991c1f1",
@@ -21182,7 +21175,8 @@
       "sourceRevision": 824135,
       "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=824135",
       "license": "CC BY-NC-SA 3.0",
-      "verifiedIngame": false
+      "verifiedIngame": false,
+      "translationOrigin": "sapphire-from-english"
     },
     {
       "scope": "system",

@@ -1,0 +1,16 @@
+{
+  "title": "Andrea",
+  "pageid": 133366,
+  "revision": 828430,
+  "timestamp": "2026-09-01T09:05:28Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Andrea",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=828430",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Category:Pages with UIs",
+    "Template:Dialogue",
+    "Template:UI"
+  ],
+  "wikitext": "{{Infobox/Character\n|location = [[Critter Safari Entrance]]\n|x = -711.5 \n|y = 108   \n|z = 178.5\n|location_page_description = Gives out the {{Item|Safari Belt}} and talks about {{Zone|Critter Safari}} Milestones.\n}}\n'''Andrea''' is an [[NPC]] located in the {{zone|Critter Safari Entrance}} on the {{Zone|Torrhus Canyon}}. They give out the {{Item|Safari Belt}} and talk about {{Zone|Critter Safari}} Milestones.\n\n== Interface ==\n{{/UI}}\n\n== Dialogue ==\n{| class=\"wikitable\"\n!Condition\n!Dialogue\n|-\n| class=\"ct\" | First Interaction\n|{{Dialogue|\n&e[NPC] &aAndrea&f: &fHave you got your very own &fSafari Belt&f yet? All of our customers get one!\n&eSelect an option: &c[No] \n}}\n|-\n| class=\"ct\" | Selecting {{Rmt|&c[No]}}\n|{{Dialogue|\n&e[NPC] &aAndrea&f: &fWell, please take this spare one!\n}}\n|-\n| class=\"ct\" | Selecting claiming the {{Item|Safari Belt}}\n|{{Dialogue|\n&e[NPC] &aAndrea&f: &fThe &fSafari Belt&f is the only item you can take with you into the &2Critter Safari&f.\n&e[NPC] &aAndrea&f: &fYou'll find it already equipped once you enter - for your convenience.\n&e[NPC] &aAndrea&f: &fWhenever you reach a new &2Safari Milestone&f, your &fSafari Belt&f will upgrade either its stats or its rarity.\n&e[NPC] &aAndrea&f: &fIt's kind of like &fDavid's Cloak&f, if you think about it.\n&e[NPC] &aAndrea&f: &fYou can progress through each biome's milestones by catching &a Critters&f while in that biome. Simple, right?\n&e[NPC] &aAndrea&f: &fAnyways, if you ever want to check your progress towards your next &2Safari Milestone&f, just come and chat with me!\n}}\n|}\n\n== History ==\n{{History table \n|ahn= \n{{History|2026/July 10|[[File:Andrea.png|26px]] Added '''Andrea'''.}}\n|beta = \n{{History|0.27|[[File:Andrea.png|26px]] Added '''Andrea'''.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}"
+}

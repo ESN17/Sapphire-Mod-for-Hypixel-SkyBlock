@@ -1,0 +1,15 @@
+{
+  "title": "Tomioka",
+  "pageid": 56858,
+  "revision": 830500,
+  "timestamp": "2026-09-03T01:32:49Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Tomioka",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=830500",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Category:Pages with UIs",
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Character\n|shop = Yes\n|abiphone = Yes\n|location = [[The Catacombs]]\n|location_page_description = Sells higher-tier [[Enchanted Book]]s.\n}}\n'''Tomioka''' is an [[NPC]] that has a chance to spawn in any floor of [[The Catacombs]]. They sell higher-tier [[Enchanted Book]]s.\n\n== Interface ==\n{{/UI}}\n\n== Dialogue ==\n{| class=\"wikitable\"\n! colspan=\"2\" | Condition\n!Dialogue\n|-\n| class=\"ct\" rowspan=\"3\" |{{zone|The Garden}}\n| class=\"ct\" | None\n|{{Dialogue|&e[NPC] &9Tomioka&f: I ordered a snack down to my room in the Catacombs. Took them &oyears &r&fto find me, and even then they forgot the toppings!}}\n|-\n| class=\"ct\" | Completing\n|{{Dialogue|&e[NPC] &9Tomioka&f: Sometimes you just have to take matters into your own hands, you know?}}\n|-\n| class=\"ct\" | Denying\n|{{Dialogue|&e[NPC] &9Tomioka&f: I didn't expect you of all people to let me down...}}\n|-\n| rowspan=\"3\" class=\"ct\" | [[Abiphones#Contacts|{{Aqua|Abiphone Contact}}]]\n| class=\"ct\" | None\n|{{Dialogue|\n&e[NPC] Tomioka&f: &b✆&f If I have an Abiphone?\n&e[NPC] Tomioka&f: &b✆&f Very funny.\n&e[NPC] Tomioka&f: &b✆&f My great-great grandfather &oinvented &rAbiphones.\n&e[NPC] Tomioka&f: &b✆&f I could really use two, no just one Titanic Experience Bottle.\n&e[NPC] Tomioka&f: &b✆&f Sorry for the odd request, but those are very hard to get around here.\n&a&l[GIVE ITEM]\n}}\n|-\n| class=\"ct\" | Meeting Requirements\n|{{Dialogue|&e[NPC] Tomioka&f: &b✆&f Ah, just what I needed!}}\n|-\n| class=\"ct\" | Not Meeting Requirements\n|{{Dialogue|&e[NPC] Tomioka&f: &b✆&f You don't have what I need! Nice try!}}\n|}\n\n== Trivia ==\n*Upon buying an item from '''Tomioka''', players will receive the {{ach|ach=true|Rough Deal}}.\n*There is a {{Item|Fairy Soul}} located under the stairs that lead up to Tomioka.\n*Tomioka requesting {{Item|Titanic Experience Bottle|amount=2}}s could reference that that is approximately what would be needed to apply all of their enchantments to items.\n*Tomioka's dialogue could suggest a link between the [[Crimson Isle]] and the [[Catacombs]] as both {{NPCSprite|Maddox the Slayer}} (who is implied to have invented over-the-air contact) and {{NPCSprite|Udel}} (Abiphone salesman) are from {{Zone|Scarleton}}.\n\n== History ==\n{{History table\n|ahn=\n{{History|2025/Dec 5|[[File:Tomioka.png|26px]] Added '''Tomioka''' as a [[The Garden#Visitor|Garden Visitor]].}}\n|beta=\n{{History|0.8|[[File:Tomioka.png|26px]] Added '''Tomioka'''.}}\n{{History|0.13|Added [[Abiphones#Contacts|{{Aqua|Abiphone Contact}}]].}}\n{{History|2025/Dec 15|Added '''Tomioka''' as a [[The Garden#Visitor|Garden Visitor]].}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}\n{{Nav/Catacombs}}\n{{Nav/Dungeons}}\n[[Category:Dungeons]]"
+}

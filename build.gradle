@@ -173,3 +173,21 @@ publishing {
 		// retrieving dependencies.
 	}
 }
+
+// Dev helper: gradlew runClient -PcaptureSmoke=<properties file>
+// launches the client, exercises the untranslated-chat capture once, verifies
+// the upload removed the local file and stops the game.
+tasks.matching { it.name == 'runClient' }.configureEach {
+    if (project.hasProperty('captureSmoke')) {
+        systemProperty 'sapphire.captureSmoke', 'true'
+        systemProperty 'sapphire.captureSmokeConfig', project.property('captureSmoke').toString()
+    }
+}
+
+// Dev helper: gradlew runClient -PconsentSmoke=accept|decline
+// answers the first-launch consent dialog automatically for verification.
+tasks.matching { it.name == 'runClient' }.configureEach {
+    if (project.hasProperty('consentSmoke')) {
+        systemProperty 'sapphire.consentSmoke', project.property('consentSmoke').toString()
+    }
+}

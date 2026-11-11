@@ -1,0 +1,14 @@
+{
+  "title": "Rescue Recruiter",
+  "pageid": 91737,
+  "revision": 790321,
+  "timestamp": "2026-07-24T00:55:32Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Rescue_Recruiter",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=790321",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Character\n|tab = Mage\n|image = Rescue Recruiter (Mage).png\n|location=[[Community Center (Scarleton)]]\n|location_page_description = Informs the player to talk to the [[Undercover Agent]] by {{Zone|The Bastion}} to complete the Rescue Mission.\n|x = -120.5\n|y = 92\n|z = -751.5\n\n|tab2 = Barbarian\n|image2 = Rescue Recruiter (Barbarian).png\n|location2 = [[Dragontail]]\n|location_page_description2 = Informs the player to talk to the [[Undercover Agent]] by the {{Zone|Cathedral}} to complete the Rescue Mission.\n|x2 = -581.5\n|y2 = 100\n|z2 = -690.5\n}}\nThe '''Rescue Recruiter''' is an '''NPC''' that appears outside either in {{zone|Community Center (Scarleton)}} or {{zone|Chief's Hut}}, depending on the player's [[Faction]], after accepting a Rescue Mission. The player must then talk to the [[Undercover Agent]] to begin the quest.\n\n== Dialogue ==\n{| class=\"wikitable\"\n! colspan=\"2\" | Condition\n!Dialogue\n|-\n| rowspan=\"2\" class=\"ct\" | Starting Rescue\n| class=\"ct\" | Barbarian\n|{{Dialogue|\n&e[NPC] Rescue Recruiter&f: You want to help us rescue a hostage from those filthy brutes over there?\n&e[NPC] Rescue Recruiter&f: Perfect! Go see our &eUndercover Agent &fat the &5Cathedral &farea in &5Mage territory to get started.\n}}\n|-\n| class=\"ct\" | Mage\n|{{Dialogue|\n&e[NPC] Rescue Recruiter&f: You want to help us rescue a hostage from those filthy brutes over there?\n&e[NPC] Rescue Recruiter&f: Perfect! Go see our &eUndercover Agent &fat the &2The Bastion &farea in &cBarbarian &fterritory to get started.\n}}\n|-\n| colspan=\"2\" class=\"ct\" | Already Started\n|{{Dialogue|&e[NPC] Rescue Recruiter&f: Thank you for your help! Go see the &eUndercover Agent &ffor details.}}\n|-\n| colspan=\"2\" class=\"ct\" | If you're on the opposite [[Faction]]\n|{{Dialogue|&e[NPC] Rescue Recruiter&f: You look suspicious. I have my eyes on you...}}\n|-\n| colspan=\"2\" class=\"ct\" | If you've on the right [[Faction]] but have started a rescue mission on the opposite [[Faction]]\n|{{Dialogue|&e[NPC] Rescue Recruiter&f: You have a rescue with the enemy? I KNEW they were spying on us!}}\n|}\n\n== History ==\n{{History table\n|ahn=\n{{History|2022/March 8|link=none|[[File:Rescue Recruiter (Barbarian).png|26px]] Added '''Rescue Recruiter'''.}}\n|beta=\n{{History|0.13|[[File:Rescue Recruiter (Barbarian).png|26px]] Added '''Rescue Recruiter'''.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}"
+}

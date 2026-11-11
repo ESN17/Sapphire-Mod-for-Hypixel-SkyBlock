@@ -1,0 +1,16 @@
+{
+  "title": "Lonely Philosopher",
+  "pageid": 36569,
+  "revision": 858604,
+  "timestamp": "2026-10-15T00:07:02Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Lonely_Philosopher",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=858604",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Category:Pages with UIs",
+    "Template:Dialogue",
+    "Template:UI"
+  ],
+  "wikitext": "{{Infobox/Character\n|shop = Yes\n|location = [[Ruins]]\n|location_page_description = Sells the {{Item|Travel Scroll to Hub Castle}} to players with {{RN|mvp+}} or above.\n|x = -250.75 \n|y = 130 \n|z = 41.1875\n}}\n'''Lonely Philosopher''' is an [[NPC]] located in the {{zone|Ruins}}. They sell a {{Item|Travel Scroll to Hub Castle}} to players with {{RN|mvp+}} or above.\n\n== Interface ==\n{{/UI}}\n\n== Dialogue ==\n{| class=\"wikitable\"\n!Condition\n!Dialogue\n|-\n| class=\"ct\" | Without {{Rank|MVP+}}\n|{{Dialogue|&e[NPC] Lonely Philosopher&f: I'm sorry, I have nothing for you.}}\n|-\n| class=\"ct\" | {{Rank|MVP+}} or Above\n|{{Dialogue|&e[NPC] Lonely Philosopher&f: To fast travel or not to fast travel?}}\n|}\n\n== Trivia ==\n* The '''Lonely Philosopher'''<nowiki>'</nowiki>s {{RN|MVP+}} quote is a reference to [[w:To be, or not to be|a quote from ''Hamlet'']].\n* The '''Lonely Phisopher''' is likely a reference to the engineer and philosopher Daedalus, from Greek mythology.\n\n== History ==\n{{History table\n|beta=\n{{History|2020/May 13|[[File:Lonely Philosopher.png|26px]] Added '''Lonely Philosopher'''.}}\n{{history|0.19.1|Fixed '''Lonely Philosopher''' incorrect voice pitch.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}\n[[Category:Pages with UIs]]"
+}

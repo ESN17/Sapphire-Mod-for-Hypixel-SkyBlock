@@ -1,0 +1,15 @@
+{
+  "title": "Hotspot Haven",
+  "pageid": 133900,
+  "revision": 828546,
+  "timestamp": "2026-09-01T09:07:33Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Hotspot_Haven",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=828546",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Locations",
+    "Template:Dialogue",
+    "Template:ZoneText"
+  ],
+  "wikitext": "{{Infobox/Location\n|type = [[Foraging]] location\n|level = {{Skill|Foraging|XII}}<br>[[Heart of the Forest]] Tier 4\n|music = \"[[Hypixel SkyBlock OST#Torrhus Canyon|Torrhus Canyon]]\"\n|location = [[Torrhus Canyon]]\n|x = -652\n|y = 103\n|z = 170\n}}\nThe '''Hotspot Haven''' is a [[Location]] found on the {{zone|Torrhus Canyon}}. It can be accessed from the {{Zone|Spring Depths}} in the {{Zone|Torrhus Springs}}.\n\n{{ZoneText|Take some time to gather your breath.|Fish in the &dFishing Hotspot &ffor &9Giant Water Bug &fshards.|}}\n\n== Features ==\nThe '''Hotspot Haven''' contains a [[Fishing Hotspot]], which replaces every {{catch|great}} with {{Item|Giant Water Bug Shard|amount=1}} and every {{catch|outstanding}} with {{Item|Giant Water Bug Shard|amount=4-8}}s<ref>{{Cite Discord|staff=y|url=https://discord.com/channels/651912910972649492/1529181650641228007/1534962052450484275|user=mrkeith|date=8/6/26, 12:31 PM (EST)|text=Yup, looks like it has a special check for hotspots, looks like an override set amount depending on tier:\n<pre>\nITEM | TIER\n---\nGiant Water Bug | Great Treasure\nGiant Water Bug 4-8x | Outstanding Treasure\n</pre>}}</ref>, both affected by {{stat|hf}}.\n\n== NPCs ==\n{{Location NPCs}}\n\n== History ==\n{{History table \n|ahn= \n{{History|2026/July 10|Added '''Hotspot Haven'''.}}\n|beta = \n{{History|0.27|Added '''Hotspot Haven'''.}}\n}}\n\n== References ==\n<references />\n\n== Navigation ==\n{{Nav/Locations}}"
+}

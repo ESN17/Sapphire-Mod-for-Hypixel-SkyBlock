@@ -1,0 +1,13 @@
+{
+  "title": "Stash/UI",
+  "pageid": 128129,
+  "revision": 738933,
+  "timestamp": "2026-06-23T03:05:31Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Stash/UI",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=738933",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Template:UI"
+  ],
+  "wikitext": "=== Item Stash===\n{{UI|View Stash\n|rows = 2\n|fill = false\n\n|row 2 = Blank; 1, 2, 3, 6, 7, 8, 9\n|2,4 = Emerald, none, &aFill Inventory, &7Click to pickup as much of your/&7stash as you can!//&eClick to pickup!\n|close = 2, 5\n}}\n\n=== Material Stash ===\n{{UI|View Stash\n|rows = 2\n|fill = false\n\n|row 2 = Blank; 1, 2, 3, 8, 9\n|2,4 = Emerald, none, &aFill Inventory, &7Click to pickup as much of your/&7stash as you can!//&eClick to pickup!\n|2,6 = Chest, none, &aInsert Into Sacks, &7Instantly put all available items in/&7this stash into your sacks!//&cYou have no item to transfer into/&cpossible sacks!\n|2,7 = Cauldron, none, &bSell Stash Now, &7Instantly sell everything in this/&7stash on the Bazaar.// &a[#]&7x &f[item] &7for &6[#] coins//&7You earn: &6[#] coins//&eClick to sell!\n|close = 2, 5\n}}"
+}

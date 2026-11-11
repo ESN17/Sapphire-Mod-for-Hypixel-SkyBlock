@@ -44,7 +44,9 @@ final class SettingsCatalog {
         new Option(3,"odinTranslation","Odin 汉化","翻译支持的 Odin 页面和提示；未安装时不生效。",c->c.odinTranslation,(c,v)->c.odinTranslation=v),
         new Option(3,"sapphireRanks","Sapphire 用户称号","启用用户称号。首次进入 Hypixel 登记用户名，之后获取称号名册。",c->c.sapphireRanks,(c,v)->c.sapphireRanks=v),
         new Option(4,"dictionaryAutoUpdate","译名库自动更新","启动时检查译名库，后台下载可用更新。",c->c.dictionaryAutoUpdate,(c,v)->c.dictionaryAutoUpdate=v),
-        new Option(5,"collectUntranslated","收集未翻译文本","确认处于 SkyBlock 后，将遇到的漏译文本记录到本地。",c->c.collectUntranslated,(c,v)->c.collectUntranslated=v),
+        new Option(5,"collectUntranslated","收集未翻译文本","确认处于 SkyBlock 后，把遇到的漏译文本（物品、菜单等）记录到本地 config/sapphire/untranslated；只存本机，不上传。",c->c.collectUntranslated,(c,v)->c.collectUntranslated=v),
+        new Option(5,"collectChatCapture","聊天漏译采集","进入 SkyBlock 后，把仍为英文的聊天行（保留颜色）写入本地文件；离开服务器或退出游戏时上传到译名库服务器，成功后删除本地文件。",c->c.collectChatCapture,(c,v)->c.collectChatCapture=v),
+        new Option(5,"uploadNotifications","上传提示","上传未翻译文本时，在聊天栏提示正在上传。",c->c.uploadNotifications,(c,v)->c.uploadNotifications=v),
         new Option(5,"debug","调试诊断","启用排查翻译问题所需的诊断信息。",c->c.debug,(c,v)->c.debug=v),
         new Option(5,"forceTranslation","忽略环境限制","未确认 SkyBlock 时也允许翻译；可能影响其他服务器的显示。",c->c.forceTranslation,(c,v)->c.forceTranslation=v));
     private SettingsCatalog() {}

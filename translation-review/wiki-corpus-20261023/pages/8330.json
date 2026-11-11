@@ -1,0 +1,18 @@
+{
+  "title": "Baker",
+  "pageid": 8330,
+  "revision": 812603,
+  "timestamp": "2026-08-11T18:55:04Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Baker",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=812603",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Category:Pages with UIs",
+    "Category:Events",
+    "Category:New Year Celebration",
+    "Template:Dialogue",
+    "Template:UI"
+  ],
+  "wikitext": "{{Infobox/Character\n|shop = Yes\n|location = Village\n|location_page_description = Appears during the [[New Year Celebration]] to give away {{Item|New Year Cake}}s and sell {{Item|New Year Cake Bag}}.\n|minimap_location = village winter area\n|x = -37.5 \n|y = 69 \n|z = 16.5\n}}\nThe '''Baker''' is an [[NPC]] located in the {{Zone|Village}}. They give away {{Item|New Year Cake}}s during the [[New Year Celebration]].\n\n== Interface ==\n{{/UI}}\n\n== Dialogue ==\n{| class=\"wikitable\"\n! colspan=\"2\" |Condition\n! Dialogue\n|-\n| class=\"centertxt\" colspan=\"2\"| First Interaction\n| {{Dialogue|\n&e[NPC] Baker: &fAt the end of each year I bake cakes for everyone in town to celebrate the year.\n&e[NPC] Baker: &fI made one especially for you, here you go.\n&e[NPC] Baker&f: Wondering where to store your cakes? You can buy a &dNew Year Cake Bag &rfrom me. Click me again to open my shop!\n}}\n|-\n| rowspan=\"3\" |{{Zone|The Garden}}\n|First Interaction\n|{{Dialogue|&e[NPC] &6Baker&f: My &9Wheat Minions&f produce the &afinest flour&f around, but they can't keep up with today's demand...}}\n|-\n|Completing\n|{{Dialogue|&e[NPC] &6Baker&f: That should do it! Thanks for your help, &7<player>&f.}}\n|-\n|Denying\n|{{Dialogue|&e[NPC] &6Baker&f: \"Use better minion fuel\"? But... what could possibly be better than Enchanted Bread?.}}\n|}\n\n== Trivia ==\n* During the first [[Jerry's Workshop]] event, the '''Baker''' stood in the same spot as Jerry did in the event area.<!--\n* There was a glitch in SkyBlock Year 72, where the cakes were turned to year \"0\".\n** While most of the glitched cakes were fixed, some still exist. These cakes, if found in your inventory, will be deleted within seconds.-->\n*If the player opens the '''Baker'''<nowiki>'</nowiki>s interface and the '''Baker''' leaves, the menu remains open and can still be interacted with.\n*The '''Baker''' awards the most {{Copper}} of any [[The Garden#Visitors|Garden Visitor]] at {{Copper|550}}, or {{Copper|625}} with the Ladybug attribute.\n*The third dialogue line of the Baker used to say \"{{Rmt|&fI've recently added a &dNew Year Cake Bag &fto my inventory. Sadly, it's not free! Click me again to open my shop!}}\"\n<!--\n\n== Gallery ==\n<gallery hideaddbutton=true>\nFile:Jerry and Baker.png|Jerry and the Baker on top of each other during the first Season of Jerry.\n</gallery>-->\n\n== History ==\n{{History table\n|ahn=\n{{History|2024/June 3|Added the '''Baker''' as a Garden Visitor.}}\n{{History|2026/Jan 30|Moved the '''Baker'''  from {{coords|-6.5|70|-47.5}} to {{Coords|-37.5|69|16.5}}, due to the redesign of the [[Hub Island]].}}\n|beta=\n{{History|2019/June 11|[[File: Baker.png|26px]] Added '''Baker'''.}}\n{{History|2019/July 2|Added '''Happy New Year''' [[Achievements|Achievement]] for obtaining cake from the '''Baker'''.}}\n{{History|2019/October 24|Added the {{Item|New Year Cake Bag}} to the Baker's shop.}}\n{{History|2022/September 8|Removed delay before '''Baker''' begins talking.}}\n{{History|2024/July 2|Added '''Baker''' as a Garden Visitor.}}\n{{History|0.24.2|Moved the '''Baker'''  from {{coords|-6.5|70|-47.5}} to {{Coords|-37.5|69|16.5}}, due to the redesign of the [[Hub Island]].}}\n}}\n\n== Navigation ==\n{{Nav/Events/New Year Celebration}}\n{{Nav/Characters}}"
+}

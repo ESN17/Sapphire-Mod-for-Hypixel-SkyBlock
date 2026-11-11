@@ -1,0 +1,13 @@
+{
+  "title": "Launch Pad (Structure)",
+  "pageid": 16194,
+  "revision": 828178,
+  "timestamp": "2026-08-31T18:22:07Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Launch_Pad_%28Structure%29",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=828178",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{For|the item obtained at {{Coll|Slimeball 7}}|Launch Pad}}\n\n{{Infobox/Generic\n|image=Launch Pad (Hub Island to The Park).png\n}}\n\n'''Launch Pads''' are structures found at the edges of public [[Islands]], launching the player between areas.\n\n== Game Messages ==\n{| class=\"wikitable\"\n! Condition\n! Message\n|-\n| class=\"ct\" | Using a Launch Pad\n| {{Dialogue|&7Sending to server <server>...}}\n|-\n| class=\"ct\" | Failing to use a Launch Pad\n| {{Dialogue|&cUnable to use this launch pad at the moment, please try again later. &7(PLAYER_TRANSFER_COOLDOWN)}}\n|}\n\n== Gallery ==\n<gallery>\nLaunch Pad (Hub Island to The Park).png|Launch Pad from [[Hub Island]] to {{Zone|The Park}}\nLaunch Pad (Hub Island to Spider's Den).png|Launch Pad from [[Hub Island]] to {{Zone|Spider's Den}}\nLaunch Pad (Hub Island to Gold Mine).png|Launch Pad from [[Hub Island]] to {{Zone|Gold Mine}}\nLaunch Pad (Hub Island to The Farming Islands).png|Launch Pad from [[Hub Island]] to [[The Farming Islands]]\n</gallery>\n\n== History ==\n{{History table\n|beta=\n{{History|2019/June 11|Added '''Launch Pad'''.}}\n{{History|2019/August 2|Now say \"Travel to\" instead of \"Warp to\".|The spawn of most '''Launch Pads''' are now a couple of blocks further away from them to prevent players from accidentally using them.}}\n}}\n[[Category:Mechanics]]\n[[Category:Portals]]"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Frosty",
+  "pageid": 13485,
+  "revision": 813463,
+  "timestamp": "2026-08-11T19:18:09Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Frosty",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=813463",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Category:Pages with UIs",
+    "Category:Events",
+    "Category:Season of Jerry",
+    "Template:Dialogue",
+    "Template:UI"
+  ],
+  "wikitext": "{{For|the [[Sea Creature]]|Frosty (Mob)}}\n{{Infobox/Character\n|shop = Yes\n|location = [[Jerry's Workshop]]\n|location_page_description = Sells and refills the {{Item|Frosty the Snow Cannon}}.\n|x = -1.5\n|y = 76\n|z = 92.5\n}}\n'''Frosty''' is an [[NPC]] located in {{zone|Jerry's Workshop}}. They sell [[Frosty the Snow Cannon]] and refill it for a cost.\n\n== Interface ==\n{{/UI}}\n\n== Dialogue ==\n{| class=\"wikitable\"\n!Condition\n!Dialogue\n|-\n| class=\"ct\" | First Interaction\n|{{Dialogue|\n&e[NPC] Frosty&f: Welcome to the &cJerry's Workshop&f.\n&e[NPC] Frosty&f: Here the Jerrys make and deliver &aGifts &fto all of SkyBlock!\n&e[NPC] Frosty&f: When its time to deliver Gifts, &cMount Jerry&f always erupts and the village is ravaged by heat-based enemies!\n&e[NPC] Frosty&f: It is up to you, &b[player]&f, to help save the day. Take this &aSnow Cannon&f to aid you in your defense against the &cMagma Grinches&f.\n&e[NPC] Frosty&f: It holds and fires &bSnowballs&f, which are the best way to extinguish the enemy!\n&e[NPC] Frosty&f: I can refill it at any time for a modest price. Also feel free to check out my shop upstairs!\n}}\n|-\n| class=\"ct\" | With [[Frosty the Snow Cannon|Snow Cannon]] or [[Frosty the Snow Blaster|Blaster]]\n|{{Dialogue|&e[NPC] Frosty&f: Click me with a Snow Cannon, Snow Blaster, or Frosty the Howitzer to refill it!}}\n|- class=\"article-row-main\"\n| class=\"ct\" | Without [[Frosty the Snow Cannon|Snow Cannon]] or [[Frosty the Snow Blaster|Blaster]]\n|{{Dialogue|&e[NPC] Frosty&f: I noticed you don't have a Snow Cannon, would you like to buy another?|text=}}\n|-\n| class=\"ct\" | Buying a [[Frosty the Snow Cannon|Snow Cannon]] or [[Frosty the Snow Blaster|Blaster]]\n| style=\"text-align: center;\" | {{Diablock\n|{{Dialine|{{Linetip\n|{{Diatxt|6|bold=true|BUY SNOW CANNON}}{{Diatxt|7| (Click)}}\n|text=&7Buy a &1Snow Cannon&7, which/&7holds and fires &fSnowballs&7./&7Great for defense against the/&4Magma Cubes&7!//&7Cost/&61,000 Coins//&eClick to purchase!\n}}}}\n}}\n|}\n\n== History ==\n{{History table\n|beta=\n{{History|2019/December 18|[[File:Frosty.png|26px]] Added '''Frosty'''.}}\n}}\n\n== Navigation ==\n{{Nav/Events/Season of Jerry}}\n{{Nav/Characters}}"
+}

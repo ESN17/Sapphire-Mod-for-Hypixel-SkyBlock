@@ -1,0 +1,19 @@
+{
+  "title": "Lapis Miner",
+  "pageid": 1438,
+  "revision": 823045,
+  "timestamp": "2026-08-24T05:11:26Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Lapis_Miner",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=823045",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Category:Pages with UIs",
+    "Category:Quests",
+    "Category:Quest giver",
+    "Category:Deep Caverns",
+    "Template:Dialogue",
+    "Template:UI"
+  ],
+  "wikitext": "{{Infobox/Character\n|quests = {{Quest|Helpful Miner}}\n|location = [[Lapis Quarry]]\n|location_page_description = Tasks the player with bringing them a {{Item|Lapis Pickaxe}}, rewarding a {{Item|Compactor}} if done.\n|x = -10.5 \n|y = 120 \n|z = 35.5\n}}\nThe '''Lapis Miner''' is an [[NPC]] located in the {{zone|Lapis Quarry}}. They request the player to bring them a {{Item|Lapis Pickaxe}}, which will be consumed upon completing of the {{Quest|Helpful Miner}} quest. The player will receive a {{Item|Compactor}} as a reward.\n\n== Interface ==\n{{/UI}}\n\n== Dialogue ==\n{| class=\"wikitable\"\n! Condition\n! Dialogue\n|-\n| class=\"ct\" | First interaction\n| {{Dialogue|\n&e[NPC] Lapis Miner&f: Hey you! I broke my &aLapis Pickaxe &f- do you think you could bring me another?\n&e[NPC] Lapis Miner&f: First you'll need to reach &aLapis Lazuli Collection III&f, and then you can craft it for me.\n}}\n|-\n| class=\"ct\" | Before reaching [[Lapis Lazuli#III|Lapis Lazuli Collection III]]\n| {{Dialogue|\n&e[NPC] Lapis Miner&f: &fSome items in SkyBlock can only be crafted when you reach a certain collection requirement.\n&e[NPC] Lapis Miner&f: &fTo craft me a &aLapis Pickaxe&f, you will need to reach &aLapis Lazuli Collection III&f.\n}}\n|-\n| class=\"ct\" | After reaching [[Lapis Lazuli#III|Lapis Lazuli Collection III]], and before bringing a {{Item|Lapis Pickaxe}}\n| {{Dialogue|\n&e[NPC] Lapis Miner&f: Oh! You reached &aLapis Lazuli Collection III&f!\n&e[NPC] Lapis Miner&f: Any chance you can craft me a new &aLapis Pickaxe &fnow?\n&e[NPC] Lapis Miner&f: Check the &aRecipe Book &fin your &aSkyBlock Menu &fto learn how to craft it!\n}}\n|-\n| class=\"ct\" | Bringing a {{Item|Lapis Pickaxe}}\n| {{Dialogue|\n&e[NPC] Lapis Miner&f: Thank you! I appreciate your support in these trying times.\n&e[NPC] Lapis Miner&f: For your trouble, here's a &aCompactor&f. Place it in a minion upgrade slot and it will automatically turn items into their block form once it's collected enough of them!\n&e[NPC] Lapis Miner&f: I use it in my Lapis Minion, those things fill terribly fast!\n}}\n|-\n| class=\"ct\" | If you've brought a {{Item|Lapis Pickaxe}}\n| {{Dialogue|\n&e[NPC] Lapis Miner&f: My &aLapis Pickaxe &fmight not mine the fastest, but it gives me a lot of experience!\n&e[NPC] Lapis Miner&f: I use that experience to enchant my &aLapis Pickaxe &fwith efficiency, which makes it mine faster!\n&e[NPC] Lapis Miner&f: How cool is that?\n}}\n|}\n\n== Trivia ==\n*The '''Lapis Miner''' and {{NPCSprite|Redstone Miner}} are siblings.\n*The '''Lapis Miner''' used to ask for an iron pickaxe instead of a {{Item|Lapis Pickaxe}}.\n**There used to be a bug where when clicked multiple times, the '''Lapis Miner''' would consume multiple iron pickaxes from player's inventory.\n\n== History ==\n{{History table\n|beta=\n{{History|0.1|[[File:Lapis Miner (Old).png|26px]] Added '''Lapis Miner'''.}}\n{{history|0.19.3|Revamped the '''Lapis Miner'''<nowiki/>'s 'Helpful Miner' quest.|Moved the '''Lapis Miner'''.}}\n{{history|0.19.4|[[File:Lapis Miner.png|26px]] Changed '''Lapis Miner''' texture.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}\n[[Category:Mining]]\n[[Category:Quests]]\n[[Category:Quest giver]]\n[[Category:Deep Caverns]]"
+}

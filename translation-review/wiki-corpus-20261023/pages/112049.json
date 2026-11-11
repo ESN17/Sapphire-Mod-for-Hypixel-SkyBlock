@@ -1,0 +1,15 @@
+{
+  "title": "Farming Toolkit",
+  "pageid": 112049,
+  "revision": 833246,
+  "timestamp": "2026-09-06T21:45:06Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Farming_Toolkit",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=833246",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Pages with UIs",
+    "Template:Dialogue",
+    "Template:UI"
+  ],
+  "wikitext": "{{Infobox/Item\n|rarity = r\n|id = FARMING_TOOLKIT\n|tradeable = y\n|auctionable = y\n}}\n\nA '''Farming Toolkit''' is a {{Rare}} item that can be consumed to unlock the '''Farming Toolkit''' menu.\n\n== Obtaining ==\nA '''Farming Toolkit''' can be purchased from [[SkyMart]] on {{zone|The Garden}} for {{Copper|500}}.\n\n== Usage ==\nA '''Farming Toolkit''' can be consumed once to permanently unlock the '''Farming Toolkit''' menu and gain {{SBXP|2}}.\n\nThe '''Farming Toolkit''' menu can be opened in the player's [[Storage]] or with the {{Code|/farmingtoolkit}} command. It can store one of each [[Specialized Farming Tool]].\n\n== Interface ==\n{{/UI}}\n\n== Game Messages ==\n{|class=\"wikitable\"\n! Condition\n! Message\n|-\n| Consuming the Farming Toolkit\n| {{Dialogue|&aYou have unlocked the Farming Toolkit! Access it with &e\\/farmingtoolkit}}\n|-\n| Trying to consume a second Farming Toolkit\n| {{Dialogue|&cYou have already unlocked this toolkit!}}\n|-\n| Running {{Code|/farmingtoolkit}} without it unlocked\n| {{Dialogue|&cYou haven't unlocked the Farming Toolkit yet!}}\n|}\n\n== History ==\n{{History table\n|ahn=\n{{History|2026/Apr 21|[[File:Farming Toolkit.png|26px]] Added '''Farming Toolkit'''.}}\n{{History|2026/Apr 27|link=none|Decreased cost from {{Copper|2,500}} to {{Copper|500}}.}}\n|beta=\n{{History|0.24.4|[[File:Farming Toolkit.png|26px]] Added '''Farming Toolkit'''.}}\n}}"
+}

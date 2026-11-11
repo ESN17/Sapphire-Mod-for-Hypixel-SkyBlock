@@ -1,0 +1,19 @@
+{
+  "title": "Charlie",
+  "pageid": 3435,
+  "revision": 823057,
+  "timestamp": "2026-08-24T05:15:53Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Charlie",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=823057",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Category:Pages with UIs",
+    "Category:Quests",
+    "Category:Quest giver",
+    "Category:Park",
+    "Template:Dialogue",
+    "Template:UI"
+  ],
+  "wikitext": "{{Infobox/Character\n|quests = {{Quest|Into the Woods}}\n|location = [[Birch Park]]\n|location_page_description = Rewards the player with {{Item|Charlie's Trousers}} and the {{Item|Travel Scroll to The Park}} after providing {{Item|Birch Log|amount=64}}s.\n|x= -277.5\n|y = 80\n|z = -17.5\n}}\n'''Charlie''' is an [[NPC]] located in the {{zone|Birch Park}}. They require the player to chop down {{Item|Birch Log|amount=64}}s in exchange for {{Item|Charlie's Trousers}} and the {{Item|Travel Scroll to The Park}}.\n\n== Interface ==\n{{/UI}}\n\n== Dialogue ==\n{| class=\"wikitable\"\n!Condition\n!Dialogue\n|-\n|First Interaction\n|{{Dialogue|\n&e[NPC] Charlie&f: Howdy! Yer a friend of &aLumber Jack&f, are ya?\n&e[NPC] Charlie&f: Well, works for me!\n&e[NPC] Charlie&f: I need &a64 Birch Logs&f. Could you grab 'em for me?\n&e[NPC] Charlie&f: Do that, and then we can talk!\n}}\n|-\n| class=\"ct\" | During Objective: {{Yellow|Collect birch logs}}\n|{{Dialogue|&e[NPC] Charlie&f: I don't see &a64 Birch Logs&f. Where are they?}}\n|-\n| class=\"ct\" | Collecting {{Item|Birch Log|amount=64}}\n|{{Dialogue|&e[NPC] Charlie&f: Cheers! Here, take these &atrousers&f for payment!}}\n|-\n| class=\"ct\" | Next interaction\n|{{Dialogue|\n&e[NPC] Charlie&f: &aThe Park &fis home to many different kinds of wood. Each kind has its own &ecollection&f.\n&e[NPC] Charlie&f: &fMe and my mates each gather a specific type of wood, and then split it all evenly so we can all increase our different collections!\n&e[NPC] Charlie&f: I wanted &eKelly&f to get some &aSpruce Logs&f for us today, but I've not seen her in a while... Can you maybe look for her in the &aSpruce Woods&f?\n}}\n|-\n!Condition\n!Random Dialogue\n|-\n| rowspan=\"3\" class=\"ct\" | None\n|{{Dialogue|&e[NPC] Charlie&f: What? &aLumber Jack&f said I have a &5Treecapitator&f? In my dreams...}}\n|-\n|{{Dialogue|&e[NPC] Charlie&f: So much wood to chop, such little time...}}\n|-\n|{{Dialogue|&e[NPC] Charlie&f: You heard about that weird &cCult &fover in the &aDark Thicket&f? I’m considerin' joining them.}}\n|}\n\n== Trivia ==\n*According to the [[Lumber Jack]], '''Charlie''' is his apprentice.\n\n== History ==\n{{History table\n|ahn=\n{{History|2025/Jun 5|Revamped Charlie's quest and dialogue, and moved him from {{Coords|-286|82|-17}} to {{Coords|-277.5|80|-17.5}}.}}\n|beta=\n{{History|2019/June 11|[[File:Charlie.png|26px]] Added '''Charlie'''.}}\n{{History|0.23|Revamped Charlie's quest and dialogue, and moved him from {{Coords|-286|82|-17}} to {{Coords|-277.5|80|-17.5}}.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}\n[[Category:Quests]]\n[[Category:Quest giver]]\n[[Category:Park]]"
+}

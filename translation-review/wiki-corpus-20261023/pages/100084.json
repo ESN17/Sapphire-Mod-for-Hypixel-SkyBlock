@@ -1,0 +1,13 @@
+{
+  "title": "Rift Race",
+  "pageid": 100084,
+  "revision": 814557,
+  "timestamp": "2026-08-11T19:45:55Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Rift_Race",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=814557",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Template:Dialogue"
+  ],
+  "wikitext": "The '''Rift Race''' is a race located in the {{zone|West Village}}. The player must run over {{Green|10}} checkpoints, marked on the ground as gold pressure plates in the time frame given.\n\n== Rewards ==\n{| class=\"wikitable\"\n!Race\n!Icon\n!Reward\n|-\n| {{DarkAqua|60s}} || {{Slot|Dark Pebble}} || [[Dark Pebble]]\n|-\n| {{DarkAqua|35s}}|| {{Slot|Gunthesizer Lichen}} || [[Gunthesizer Lichen]]\n|}\n\n== Game Messages ==\n{| class=\"wikitable\"\n!Condition\n!Message\n|-\n| class=\"ct\" | Starting the race\n|{{Dialogue|&3&lRIFT RACING &eRace started! Good luck!}}\n|-\n| class=\"ct\" | Restarting the race timer\n| {{Dialogue|&3&lRIFT RACING &eTimer reset to &30:00&e!}}\n|-\n| class=\"ct\" | Canceling the race\n| {{Dialogue|&3&lRIFT RACING &cRace cancelled! }}\n|-\n| class=\"ct\" | Reaching a checkpoint\n| {{Dialogue|&eYou crossed checkpoint &3# &eout of &310&e!}}\n|-\n| class=\"ct\" | Completing the race\n| {{Dialogue|&3&lRIFT RACING &eRace finished in ##:##.###!}}\n|}\n\n== Trivia ==\n* Canceling the '''Rift Race''' fully replenishes the player's {{Stat|Mana}}.\n\n== Tips ==\n* Try to cut corners as much as possible.\n* Use an {{Item|Aspect of the Leech}} to easily get across gaps that would be hard to jump across.\n* Getting within {{Green|1}} block of a checkpoint counts as touching it.\n\n== History ==\n{{History table\n|beta=\n{{History|0.19|Added '''Rift Race'''.}}\n}}\n\n== Navigation ==\n{{Nav/Races}}"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Old Man Garry",
+  "pageid": 76909,
+  "revision": 789925,
+  "timestamp": "2026-07-24T00:40:56Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Old_Man_Garry",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=789925",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Category:Pages with UIs",
+    "Category:Events",
+    "Template:Dialogue",
+    "Template:UI"
+  ],
+  "wikitext": "{{Infobox/Character\n|location = [[Dwarven Village]]\n|location_page_description = Introduces the player to [[Dwarven Mines#Events|Events]] in the {{Zone|Dwarven Mines}}.\n|x = 5.375 \n|y = 200 \n|z =-109.218\n}}\n\n'''Old Man Garry''' is an [[NPC]] located in the {{Zone|Dwarven Village}}. He manages [[Dwarven Mines#Events|Events]] in the {{Zone|Dwarven Mines}}.\n\n== Dialogue ==\n{| class=\"wikitable\"\n!Condition\n!Dialogue\n|-\n| class=\"ct\" | First Interaction\n|{{Dialogue|\n&e[NPC] Old Man Garry&f: &bMining Events &fon the &2Dwarven Mines &fhappen regularly!\n&e[NPC] Old Man Garry&f: &fThey are a good way to earn &5Heart of the Mountain Exp&f, complete &9Commissions&f, and more!\n&e[NPC] Old Man Garry&f: &fIf you ever need to know more about &bMining Events&f, come talk to me!\n}}\n|-\n|}\n\n== Mechanics ==\nWhen there are {{Green|20s}} before the next event starts, a message appears in chat announcing what the event is. Clicking the message will warp the player to '''Old Man Garry'''. During an active event, '''Old Man Garry''' will offer to warp the player to the location where the event is happening. \n\n{| class=\"wikitable centertext\"\n!Active Events\n|-\n|[[Goblin Raid]]\n|-\n|[[Raffle]]\n|-\n|[[Mithril Gourmand]]\n|-\n!Passive Events\n|-\n|[[Gone with the Wind]]\n|-\n|[[Better Together]]\n|-\n|[[2x Powder]]\n|}\n\n== Dialogue ==\n{| class=\"wikitable\"\n! colspan=\"2\" | Condition\n!Dialogue\n|-\n| rowspan=\"3\" class=\"ct\" | {{zone|The Garden}}\n| class=\"ct\" | None\n|{{Dialogue|&e[NPC] &9Old Man Garry&f: People have no manners these days. They come up to me, and disappear instantly! They don't even greet me! Back in my day, we were raised better than that.}}\n|-\n| class=\"ct\" | Completing\n|{{Dialogue|&e[NPC] &9Old Man Garry&f: It turns out, manners haven't all been lost yet.}}\n|-\n| class=\"ct\" | Denying\n|{{Dialogue|&e[NPC] &9Old Man Garry&f: Of course. What else did I expect from this generation.}}\n|}\n\n== Interface ==\n{{/UI}}\n\n== Trivia ==\n*Although Old Man Garry does not appear in {{Zone|Crystal Hollows}}, passive events can still occur in there.\n\n== History ==\n{{History table\n|beta=\n{{History|0.11|[[File:Old Man Garry.png|26px]] Added '''Old Man Garry'''.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}\n{{Nav/Dwarven Mines/NPCs}}\n[[Category:Events]]"
+}

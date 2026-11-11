@@ -1,0 +1,13 @@
+{
+  "title": "2x Powder",
+  "pageid": 77890,
+  "revision": 812452,
+  "timestamp": "2026-08-11T18:49:28Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/2x_Powder",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=812452",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Template:Dialogue"
+  ],
+  "wikitext": "'''2x Powder''' is a passive event that can happen in the {{zone|Dwarven Mines}} and {{zone|Crystal Hollows}}. \n\n== Mechanics ==\nDuring the '''2x Powder''' event, all {{Mithril Powder}}, {{Gemstone Powder}} and {{Glacite Powder}} drops are doubled. This includes {{Mithril Powder}} gained from {{NPCSprite|Fetchur}}, the {{NPCSprite|Puzzler}}, [[Commissions]] and the Daily Powder {{Item|Heart of the Mountain}} perk, even though the message still states the original amount of powder.\n\n== Game Message ==\n{| class=\"wikitable\"\n! colspan=\"2\" | Condition\n!Message\n|-\n| class=\"ct\" rowspan=\"2\" | Event announced\n| class=\"ct\" | {{zone|Crystal Hollows}}\n|{{Dialogue|\n&b⚑ &eThe &b2x Powder&e event starts in &a20&e seconds!\n&eThis is a passive event! &bIt's happening everywhere in the Crystal Hollows!\n}}\n|-\n| class=\"ct\" | {{zone|Dwarven Mines}}\n|{{Dialogue|\n&b⚑ &eThe &b2x Powder&e event starts in &a20&e seconds!\n&eThis is a passive event! &bIt's happening everywhere in the Dwarven Mines!\n}}\n|-\n|  colspan=\"2\" class=\"ct\" | Event starting\n|{{Dialogue|\n&a{{Dashline}}\n$[c]&b&l2X POWDER STARTED!\n$[c]&7Passive Active Event\n\n$[c]&fEverybody gets twice as much powder of all types!\n&a{{Dashline}}\n}}\n|-\n|  colspan=\"2\" class=\"ct\" | Event ending\n|{{Dialogue|\n&a{{Dashline}}\n$[c]&b&l2X POWDER ENDED!\n$[c]&7Passive Active Event\n\n$[c]&fPowder amount is back to normal, but there will be another\n$[c]event soon!\n&a{{Dashline}}\n}}\n|}\n\n== Commission ==\nThe [[Commissions#Commission Pool 2 .28.26 4.29|2x Mithril Powder Collection]] [[Commissions|Commission]] requires the player to collect {{Mithril Powder|500}}, during the 2x Powder event. If the player receives the commission ''after'' collecting {{Mithril Powder|500}}, the Commission will be immediately completed, as long as the event is still running.\n\n== Gallery ==\n<gallery>\nFile:2x Powder Commission .png|2x Powder Commission\n</gallery>\n\n== History ==\n{{History table\n|beta=\n{{History|2021/January 15|Added '''2x Powder''' Event.}}\n}}\n\n== Navigation ==\n{{Nav/Dwarven Mines/Events}}"
+}

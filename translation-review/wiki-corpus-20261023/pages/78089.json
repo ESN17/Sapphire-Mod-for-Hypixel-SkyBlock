@@ -1,0 +1,15 @@
+{
+  "title": "Rock Paper Shears",
+  "pageid": 78089,
+  "revision": 833708,
+  "timestamp": "2026-09-06T22:01:36Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Rock_Paper_Shears",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=833708",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Pages with UIs",
+    "Template:Dialogue",
+    "Template:UI"
+  ],
+  "wikitext": "{{Infobox/Item\n|rarity=u\n|id=ROCK_PAPER_SHEARS\n|other_level_requirement = {{Skl|social|8}}\n|merchant = Amelia\n|buy = 10k\n}}\n'''Rock Paper Shears''' is an {{Uncommon}} item that allows players to play a renamed game of [[w:Rock_paper_scissors|Rock Paper Scissors]] on their {{Zone|Private Island}} with their guests.\n\nIt is a {{Skl|Social}} item that can be bought from {{NPCSprite|Amelia}} in the [[Hub]] for {{c|10,000}} with the requirement of {{Skill|Social|8}}.\n\n== Interface ==\n{{/UI}}\n\n== Game Message ==\n{| class=\"wikitable\"\n!Condition!!Message\n|-\n| class=\"centertxt\" |Starting game\n| {{Dialogue|\n&a&l{{Dashline}}\n\n$[c]&f&lROCK PAPER SHEARS\n\n$[c]&a<player> has started a tournament!\n$[c]&aOutsmart your opponents by choosing the least picked\n$[c]&aoption to win the round! Final round uses classic rules.\n$[c]&aGet ready...\n\n&a&l{{Dashline}}\n}} \n|-\n| class=\"centertxt\" |Someone wins game\n| {{Dialogue|\n&a&l{{Dashline}}\n\n$[c]&f&lROCK PAPER SHEARS\n\n$[c]&a<winner> has won the tournament!\n\n&a&l{{Dashline}}\n}} \n|-\n| class=\"centertxt\" |Choosing an item\n| {{Dialogue|&eYou chose <Item>!}} \n|-\n| class=\"centertxt\" |Game is already active\n| {{Dialogue|&cA game is already in progress!}}\n|}\n\n== History ==\n{{History table\n|beta=\n{{History|0.9.12|[[File:Rock Paper Shears.png|26px]] Added '''Rock Paper Shears'''.}}\n}}\n\n== Navigation ==\n{{Nav/Social}}"
+}

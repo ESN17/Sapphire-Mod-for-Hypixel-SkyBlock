@@ -1,0 +1,13 @@
+{
+  "title": "Move Sam",
+  "pageid": 98009,
+  "revision": 833534,
+  "timestamp": "2026-09-06T21:55:23Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Move_Sam",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=833534",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Item\n|rarity=c\n|id=SAM_ASSISTANT\n|auctionable=n\n}}\n'''Move Sam''' is a {{Common}} item.\n\n== Obtaining ==\nA '''Move Sam''' can be claimed from [[Sam]] after clicking [[Sam#Purpose|Move Sam]] in their [[Sam#Interface|interface]]. If the player already has a '''Move Sam''' in their inventory, [[Sam]] will not give the player another one. This can be bypassed by storing the '''Move Sam''' in a different inventory and claiming another one.\n\n== Usage ==\nA '''Move Sam''' can be used to change [[Sam]]'s location on the player's [[Private Island]]. The new spawn location has to be on top of a solid block, and cannot be placed above the void.\n\n== Game Message ==\n{| class=\"wikitable\"\n!Condition\n!Message\n|-\n| class=\"ct\" | Claiming\n|{{Dialogue|&aUse the egg I gave you to click and point to where you want me to go!}}\n|-\n| class=\"ct\" | Placing Above Void\n|{{Dialogue|&cWhy would you try? :(}}\n|-\n| class=\"ct\" | Placing on Public Island or {{zone|The Garden}}\n|{{Dialogue|&cYou can't move Sam here! She doesn't belong here!}}\n|-\n| class=\"ct\" | Placing While Guesting\n|{{Dialogue|&cGuests can't place Jerry or Sam! But you know that, right?}}\n|}\n\n== History ==\n{{History table\n|beta=\n{{history|0.18|[[File:Move Sam.png|26px]] Added '''Move Sam'''.}}\n}}"
+}

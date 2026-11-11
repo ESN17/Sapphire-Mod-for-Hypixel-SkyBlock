@@ -1,0 +1,13 @@
+{
+  "title": "Redstone Lamp",
+  "pageid": 97703,
+  "revision": 821645,
+  "timestamp": "2026-08-19T23:03:02Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Redstone_Lamp",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=821645",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Vanilla}}\n{{Infobox/Item\n|id = REDSTONE_LAMP_OFF\n|rarity = common\n|sell = 6\n}}\nA '''Redstone Lamp''' is a {{Common}} [[Vanilla Objects/Redstone-Related Blocks|Redstone-related]] block that can be used on the player's {{Zone|Private Island}}.\n\n== Obtaining ==\n=== Crafting ===\n{{Crafting Recipe Table\n|{{Crafting Recipe Row\n |A1 =               |B1 = Redstone Dust |C1 = \n |A2 = Redstone Dust |B2 = Glowstone     |C2 = Redstone Dust\n |A3 =               |B3 = Redstone Dust |C3 = \n |Output = Redstone Lamp\n}}\n}}\n\n== Usage ==\n=== Private Island ===\n'''Redstone Lamps''' can be placed as a block on the player's {{Zone|Private Island}} or plots in {{Zone|The Garden}}. When activated from a [[Redstone]] signal, it will turn on, but there are [[Private Island#Redstone Restrictions|restrictions]] on how often this can be done. Redstone is disabled on {{Zone|The Garden}}.\n\n== Game Messages ==\n{|class=\"wikitable\"\n! Message\n! Condition\n|-\n| {{Dialogue|&cPlease note that redstone is currently disabled on this island!}}\n| Placing a Redstone Lamp in {{Zone|The Garden}}\n|}\n\n== History ==\n{{History table\n|beta=\n{{History|0.1|[[File:Redstone Lamp.png|26px]] Added '''Redstone Lamp'''.}}\n}}"
+}

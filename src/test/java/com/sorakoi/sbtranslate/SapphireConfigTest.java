@@ -10,11 +10,13 @@ import static org.junit.jupiter.api.Assertions.*;
 class SapphireConfigTest {
     @TempDir Path root;
 
-    @Test void newInstallTranslatesWithoutEnvironmentButDoesNotEnableCollection() throws Exception {
+    @Test void newInstallTranslatesWithoutEnvironmentAndCollectsLocallyByDefault() throws Exception {
         var config = SapphireConfig.load(root);
         assertTrue(config.translationAllowed(false));
         assertTrue(config.scope("item"));
-        assertFalse(config.collectUntranslated);
+        assertTrue(config.collectUntranslated);
+        assertTrue(config.collectChatCapture);
+        assertFalse(config.privacyAccepted);
         assertTrue(SapphireConfig.load(root).forceTranslation);
     }
 

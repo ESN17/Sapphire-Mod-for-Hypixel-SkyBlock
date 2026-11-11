@@ -6,7 +6,13 @@ import java.nio.file.*;
 public final class SapphireConfig {
     public boolean enabled = true, items = true, lore = true, gui = true, chat = true,
         scoreboard = true, tablist = true, actionbar = true, title = true, subtitle = true, bossbar = true, entities = true;
-    public boolean debug = false, forceTranslation = true, collectUntranslated = false, showOriginal = false;
+    public boolean debug = false, forceTranslation = true, collectUntranslated = true, showOriginal = false;
+    public boolean collectChatCapture = true;
+    public boolean privacyAccepted = false;
+    public boolean uploadNotifications = true;
+    public String chatCaptureDirectory = "D:/Sapphire-source";
+    public String chatCaptureUploadUrl = "https://sapphire.esn17cabin.club/untranslated/upload";
+    public String chatCaptureToken = "";
     public boolean englishByDefault = false;
     public boolean sapphireRanks = true;
     public boolean skyHanniTranslation = true;

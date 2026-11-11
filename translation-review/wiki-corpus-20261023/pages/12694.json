@@ -1,0 +1,16 @@
+{
+  "title": "Vanessa",
+  "pageid": 12694,
+  "revision": 791313,
+  "timestamp": "2026-07-24T01:29:02Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Vanessa",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=791313",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Category:Pages with UIs",
+    "Template:Dialogue",
+    "Template:UI"
+  ],
+  "wikitext": "{{Infobox/Character\n|shop = Yes\n|location = [[Birch Park]]\n|location_page_description = Sells rain for {{Coins|5,000}} a minute.\n|x = -304.5\n|y = 76\n|z = -79.5\n}}\n'''Vanessa''' is a shop [[NPC]] located in the {{zone|Birch Park}}. She will make it rain for {{c|5,000}} a minute. \n\n== Mechanics ==\n'''Vanessa''' can be paid {{C|5,000}} to make the it rain in the {{zone|Birch Park}} for {{Green|60s}}, with the limit of {{Green|30m}}.\n\nWhile raining, players gain {{Stat|fs|+25}}. Additionally, every {{Green|11}} seconds there's a {{Chance|66.6%|2|3|rolls}} chance to spawn {{Green|1-2}} {{MobSprite|Squid}}s in water if there's less than {{Green|5}} {{MobSprite|Squid}}s alive.\n\n== Interface ==\n{{/UI}}\n\n== Dialogue ==\n{| class=\"wikitable\"\n!Condition\n!Dialogue\n|-\n| class=\"ct\" | First Interaction\n|{{Dialogue|\n&e[NPC] Vanessa&f: I have the power to conjure &brain&f from the skies.\n&e[NPC] Vanessa&f: But it'll cost you!\n}}\n|}\n\n== Trivia ==\n*Hovering over The Rainmaker in the shop will tell you how much the SkyBlock community has spent on buying rain.\n**As of May 2026, this is about {{c|178.9b|short=y}}.\n*Rain costs {{c|83.3}} per second and {{c|300,000}} per hour.\n\n== History ==\n{{History table\n|ahn=\n{{History|2025/Jun 5|[[File:Vanessa.png|26px]] Moved Vanessa from {{Coords|-311|83|-70}} to {{Coords|-304.5|76|-79.5}}.}}\n{{History|2026/May 6/2|Removed increased [[Squid]] weight during rain.}}\n|beta=\n{{History|0.7.4|[[File:Vanessa.png|26px]] Added '''Vanessa'''.}}\n{{History|unknown|Raised the max time length of the rain from 15 minutes to 30 minutes.}}\n{{History|0.23|Moved Vanessa from {{Coords|-311|83|-70}} to {{Coords|-304.5|76|-79.5}}.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}"
+}

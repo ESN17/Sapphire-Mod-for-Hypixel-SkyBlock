@@ -1,0 +1,13 @@
+{
+  "title": "Punchcard Artifact",
+  "pageid": 99795,
+  "revision": 837827,
+  "timestamp": "2026-09-10T23:44:15Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Punchcard_Artifact",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=837827",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Accessory\n|rarity=e\n|rift_time = +30s\n|rift_transferrable = no\n|auctionable = no\n|tradeable = no\n|donatable  = no\n|id=PUNCHCARD_ARTIFACT\n}}\nThe '''Punchcard Artifact''' is an {{Epic}} [[Accessory]].\n\n== Obtaining ==\nThe '''Punchcard Artifact''' can be bid on at {{zone|Barrier Street}}. The top {{Green|25}} bidders win the item.\n\n== Usage ==\n{{ItemInfo\n|type = Accessory\n|rarity = epic\n|rift_time = 30\n|item_ability_name = Punch in!\n|item_ability_activation = Left Click\n|item_ability_description = Punch another player while this is in your inventory to both regain {{Stat|Rift Time|+25}}. <br> {{Dark Gray|Usable once per player per rift visit up to 20 players.}}\n}}\nThe '''Punchcard Artifact''' allows the player to punch other players to regain {{Statname|rift time|+25}}.\n\n=== Game Message ===\n{| class=\"wikitable\"\n!Condition\n!Dialogue\n|-\n|Punched someone\n|{{Dialogue|&5&lPUNCHCARD!&e You punched &7<player>&e and both regained &a+25ф Rift Time&e!}}\n|-\n|Punched by someone\n|{{Dialogue|&5&lPUNCHED!&e You were punched by &7<player>&e and both regained &a+25ф Rift Time&e!}}\n|-\n|Punched 20 players in a session\n|{{Dialogue|&c&lUH OH!&c You reached the limit of 20 players you can punch in one session!}}\n|-\n|Punched the same player after rejoining a session\n|{{Dialogue|&c&lAWKWARD!&c This player has already been punched by you... somehow!}}\n|}\n\n== Trivia ==\n*Punching is a feature in Hypixel Lobbies, allowing players to hit staff members, making them fly in the air.\n*It has the same texture as the 9F Operator Chip.\n*While you can only punch 20 players per rift visit, there is seemingly no limit to how many players can punch you.\n**In theory, this would allow for infinite {{Statname|Rift Time|}}.\n\n== History ==\n{{History table\n|ahn=\n{{history|2023/May 4|[[File:Punchcard Artifact.png|26px]] Added '''Punchcard Artifact'''.}}\n|beta=\n{{History|0.19|[[File:Punchcard Artifact.png|26px]] Added '''Punchcard Artifact'''.}}\n}}\n\n== Navigation ==\n{{Nav/Shen's Auction}}\n{{Nav/Accessories}}"
+}

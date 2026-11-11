@@ -1,0 +1,13 @@
+{
+  "title": "End Stone",
+  "pageid": 43990,
+  "revision": 844857,
+  "timestamp": "2026-09-21T15:38:01Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/End_Stone",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=844857",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Pages with UIs"
+  ],
+  "wikitext": "{{Vanilla}}\n{{Infobox/Block\n|type = Collection block\n|location = The End\n|id = ENDER_STONE\n|rarity = Common\n|tool = Pickaxe\n|skill_xp_given = +3 [[Mining]] XP\n|normal_drop = End Stone (itself)\n|silk_touch_drop = End Stone (itself)\n|smelting_touch_drop = End Stone (itself)\n|merchant = Pearl Dealer\n|auctionable = no\n|bazaar = ENDER_STONE\n|buy = 10\n|sell = 2\n}}\n'''End Stone''' is a {{Common}} block that can be found in {{Zone|The End}}.\n\n== Collection ==\nCollecting end stones increases the player's '''End Stone''' [[Collections|collection]], which grants useful items and perks upon collecting certain amounts of end stones.\n{{/Collection UI}}\n{{CollectionTable|End Stone}}\n\n== Obtaining ==\n=== Mining ===\n'''End Stone''' can be obtained by mining in [[The End]]. When this block is mined in The End without {{Item|Stonk}}, it has a small chance to spawn an {{MobSprite|Endermite}}.\n\n==== Ticks Thresholds ====\n{{CSB|id=Tick Thresholds|name=Show/Hide Tick Thresholds}}\n{{CS|id=Tick Thresholds|mode=begin}}\n{{Tick Thresholds/Blocks/End Stone}}\n{{CS|id=Tick Thresholds|mode=end}}\n\n=== Mob Drops ===\n{{Drop Sources}}\n\n=== Minions ===\n'''End Stone''' can be obtained from the {{Item|End Stone Minion}}.\n\n=== Shop Purchase ===\n'''End Stone''' can be purchased from the [[Pearl Dealer]] merchant in [[The End]] for {{c|10}} each (up to 640 per day).\n{{Merchant Price|merchant={{NPCSprite|Pearl Dealer}}|10,1|50,5|100,10|320,32|640,64}}\n\n== Usage ==\n=== Crafting ===\n{{Crafting Usage}}\n\n== Tips ==\n* The fastest way to level up your '''End Stone''' collection is mining End Stone [[Ender Node]]s and killing [[Nest Endermite]]s.\n\n== History ==\n{{History table\n|beta=\n{{History|0.7|[[File:End Stone.png|26px]] Added '''End Stone'''.}}\n{{History|0.11|Reduced {{skl|mining}} XP from '''End Stone''' from {{Green|+5}} to {{Green|+3}}.}}\n}}\n\n== Navigation ==\n{{Nav/Collection/End Stone}}\n{{Nav/Collections}}\n[[Category:Vanilla objects]]\n[[Category:Mob Drops]]"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Huntress Melissa",
+  "pageid": 133466,
+  "revision": 828560,
+  "timestamp": "2026-09-01T09:07:41Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Huntress_Melissa",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=828560",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Non-player characters",
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Character\n|shop = Yes\n|location = [[Critter Safari]]\n|x = -18.5 \n|y = 66  \n|z = 13.5\n|location_page_description = Allows the player to obtain a random [[Attribute Shard]].\n\n|location2 = [[Critter Safari]]\n|x2 = -4.5 \n|y2 = 76   \n|z2 = 51.5\n|location_page_description2 = Allows the player to obtain a random [[Attribute Shard]].\n\n|location3 = [[Critter Safari]]\n|x3 = 27.5 \n|y3 = 67    \n|z3 = 49.5\n|location_page_description3 = Allows the player to obtain a random [[Attribute Shard]].\n}}\n'''Huntress Melissa''' is an [[NPC]] located in the {{Zone|Critter Safari}}. They allow the player to obtain a random [[Attribute Shard]] in exchange for a specified item.\n\n== Purpose ==\n'''Huntress Melissa''' sells a random [[Attribute Shard]] per {{Zone|Critter Safari}} instance with a random cost.\n{|class=\"wikitable\"\n! Possible Shards\n! Possible Costs\n|-\n| {{Item|Troodon Shard}}, {{Item|Chuckwalla Shard}}, {{Item|Macaw Shard}}\n| {{Item|Shining Coin}}, {{Item|Yogi Berry}}, {{Item|Soothing Incense}}\n|}\n\n== Dialogue ==\n{| class=\"wikitable\"\n!Condition\n!Dialogue\n|-\n| class=\"ct\" | First Interaction\n|{{Dialogue|\n&e[NPC] &dHuntress Melissa&f: &fHeyyy!\n&e[NPC] &dHuntress Melissa&f: &fDo you want this &7<shard>&f? I already maxed that Attribute...\n&e[NPC] &dHuntress Melissa&f: &fHow about I give you it in exchange for, say, a &7<cost>?\n&eSelect an option: &a[Trade] &c[No thanks] \n}}\n|-\n| class=\"ct\" | Selecting {{Rmt|&c[No thanks]}}\n|{{Dialogue|\n&e[NPC] &dHuntress Melissa&f: &fHmph, suit yourself.\n}}\n|-\n| class=\"ct\" | Selecting {{Rmt|&a[Trade]}} without the required item\n|{{Dialogue|\n&e[NPC] &dHuntress Melissa&f: &fErr, you don't have a &7<cost>.\n&e[NPC] &dHuntress Melissa&f: &fCome back when you find one!\n}}\n|-\n| class=\"ct\" | Selecting {{Rmt|&a[Trade]}} with the required item\n| {{Dialogue|\n&e[NPC] &dHuntress Melissa&f: &fYippee! Thanks for the trade!\n}}\n|-\n| class=\"ct\" | After trading\n| {{Dialogue|\n&e[NPC] &dHuntress Melissa&f: &fI'll let you know if I ever find another &bShard&f to trade!\n}}\n|}\n\n== History ==\n{{History table \n|ahn= \n{{History|2026/July 10|[[File:Huntress Melissa.png|26px]] Added '''Huntress Melissa'''.}}\n|beta = \n{{History|0.27|[[File:Huntress Melissa.png|26px]] Added '''Huntress Melissa'''.}}\n}}\n\n== Navigation ==\n{{Nav/Characters}}"
+}

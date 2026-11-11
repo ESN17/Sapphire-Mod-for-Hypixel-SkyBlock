@@ -1,0 +1,13 @@
+{
+  "title": "Vicious",
+  "pageid": 91608,
+  "revision": 851801,
+  "timestamp": "2026-10-05T19:17:26Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Vicious",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=851801",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Category:Dark Auction"
+  ],
+  "wikitext": "{{Infobox/Enchantment\n|image = Enchanted Book.png\n|slot = {{Slot|Enchanted Book (Vicious III)|link=none}}{{Slot|Enchanted Book (Vicious IV)|link=none}}{{Slot|Enchanted Book (Vicious V)|link=none}}\n|rarity = c\n|auctionable = n\n|id = ENCHANTMENT_VICIOUS\n}}\n'''{{Ench|Vicious}}''' is an [[Enchantment]] that grants {{Stat|Ferocity}}.\n\n== Obtaining ==\nThe {{Ench|Vicious}} [[Enchantment]] can be obtained in various ways:\n{| class=\"wikitable ct\"\n|-\n! Enchantment Tier !! Enchantment Source\n|-\n| rowspan = 2 | {{Ench|Vicious III}}\n| {{Item|Enchanted Book|enchant=Vicious III|amount=5}} from opening {{Item|Enchanted Book Bundle (Vicious)}}\n|-\n| {{Item|Enchanted Book Bundle (Vicious)}} has a {{Green|25%}} chance to appear in a [[Darker Auction]] while {{NPCSprite|Scorpius}} is [[Mayor]]\n|-\n| {{Ench|Vicious V}} || {{Green|16.67%}} chance to appear in a [[Dark Auction]]\n|}\n{{Item|Enchanted Book|enchant=Vicious}} can be combined on an {{Item|Anvil}} up to {{Ench|Vicious V}}.\n\n=== Bazaar ===\nThe {{Ench|Vicious}} [[Enchantment]] can be traded through the [[Bazaar]].\n{{EnchantmentBazaarStats|id=ENCHANTMENT_VICIOUS|name=Vicious|minimum=3|maximum=5}}\n\n== Ability ==\n{{Ench|Vicious}} grants an increase in {{Stat|Ferocity}}.\n\n{| class=\"wikitable\"\n!Tier\n!Bonus\n|-\n| class=\"ct\" | I\n| class=\"ct\" | {{Stat|ferocity|+3|icononly=yes}}\n|-\n| class=\"ct\" | II\n| class=\"ct\" | {{Stat|ferocity|+4|icononly=yes}}\n|-\n| class=\"ct\" | III\n| class=\"ct\" | {{Stat|ferocity|+5|icononly=yes}}\n|}\n\n== Applying ==\nThe {{Ench|Vicious}} [[Enchantment]] can be applied to any [[Weapon]]. It requires {{Skill|Enchanting|26}} to apply.\n\n{| class=\"wikitable\"\n!Tier\n!Cost\n|-\n| class=\"ct\" | III\n|{{Experience|55}}\n|-\n| class=\"ct\" | IV\n|{{Experience|73}}\n|-\n| class=\"ct\" | V\n|{{Experience|91}}\n|}\n\n== History ==\n{{History table\n|beta=\n{{History|0.9|Added {{Ench|Vicious}}.}}\n}}\n\n== Navigation ==\n{{Nav/Dark Auction}}\n{{Nav/Enchantments}}"
+}

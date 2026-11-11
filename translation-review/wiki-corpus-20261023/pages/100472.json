@@ -1,0 +1,13 @@
+{
+  "title": "Muted Bark",
+  "pageid": 100472,
+  "revision": 816142,
+  "timestamp": "2026-08-11T20:31:51Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Muted_Bark",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=816142",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Infobox/Item\n|rarity = u\n|rift_transferrable = no\n|auctionable = no\n|tradeable = no\n|salable = no\n|donatable = no\n|id = MUTED_BARK\n}}\n\n'''Muted Bark''' is an {{Uncommon}} item.\n\n== Obtaining ==\n=== Mob Drops ===\n{{Drop Sources}}\n\n== Usage ==\nClicking on the log in {{zone|The Bastion (Rift)}} surrounded by particles at {{Coords|-15|91|94}} with different amounts of '''Muted Bark''' will trigger different messages. Holding {{Item|Muted Bark|amount=20}} and interacting with the log will remove it and reveal an {{Item|Enigma Soul}}.\n\n=== Game Messages ===\n{| class=\"wikitable\"\n!Condition\n!Dialogue\n|-\n| class=\"ct\" |Without [[Muted Bark]]\n|{{Dialogue|\n&7&oYou knock on wood...\n&eEverything stays the same!\n}}\n|-\n| class=\"ct\" |With less than {{Item|Muted Bark|amount=20}}\n|{{Dialogue|\n&7&oYou knock on wood...\n&aTry with more bark!\n}}\n|-\n| class=\"ct\" |With {{Item|Muted Bark|amount=20}}\n|{{Dialogue|\n&7You knock on wood...\n&eIts opacity turned to 0! &7&o(It became muted...)\n}}\n|}\n== Trivia ==\n*This item and Enigma Soul associated with it are a play on words relating to the idiom \"You're barking at the wrong tree\". \n== History ==\n{{History table\n|ahn=\n{{history|2023/May 4|[[File:Muted Bark.png|26px]] Added '''Muted Bark'''.}}\n|beta=\n{{history|0.19|[[File:Muted Bark.png|26px]] Added '''Muted Bark'''.}}\n}}"
+}

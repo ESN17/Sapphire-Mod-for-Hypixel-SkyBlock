@@ -1,0 +1,13 @@
+{
+  "title": "Dispenser",
+  "pageid": 86234,
+  "revision": 821632,
+  "timestamp": "2026-08-19T22:36:13Z",
+  "url": "https://hypixelskyblock.minecraft.wiki/w/Dispenser",
+  "revisionUrl": "https://hypixelskyblock.minecraft.wiki/?oldid=821632",
+  "license": "CC BY-NC-SA 3.0",
+  "origins": [
+    "Template:Dialogue"
+  ],
+  "wikitext": "{{Vanilla}}\n{{Infobox/Item\n|id = DISPENSER\n|rarity = common\n|sell = 8\n}}\nA '''Dispenser''' is a {{Common}} [[Vanilla Objects/Redstone-Related Blocks|Redstone-related]] block that can be used on the player's {{Zone|Private Island}}. It works the same as a {{Item|Dropper}}.\n\n== Obtaining ==\n=== Crafting ===\n{{Crafting Recipe Table\n|{{Crafting Recipe Row\n |A1 = Cobblestone |B1 = Cobblestone   |C1 = Cobblestone\n |A2 = Cobblestone |B2 = Bow           |C2 = Cobblestone\n |A3 = Cobblestone |B3 = Redstone Dust |C3 = Cobblestone\n |Output = Dispenser\n}}\n}}\n\n== Usage ==\n=== Private Island ===\n'''Dispensers''' can be placed as a block on the player's {{Zone|Private Island}}. When activated from a [[Redstone]] signal, it will act like a {{Item|Dropper}} and [[mcw:Dropper#Usage|drop an item]] from its inventory, rather than [[mcw:Dispenser#Usage|dispense]] one. There are also [[Private Island#Redstone Restrictions|restrictions]] on how often this can be done. Dispensers cannot be placed in {{Zone|The Garden}}.\n\n== Game Messages ==\n{|class=\"wikitable\"\n! Message\n! Condition\n|-\n| {{Dialogue|&cYou can't use that here!}}\n| Trying to place a Dispenser in {{Zone|The Garden}}\n|}\n\n== History ==\n{{History table\n|beta=\n{{History|0.1|[[File:Dispenser.png|26px]] Added '''Dispenser'''.}}\n}}"
+}
