@@ -103,7 +103,8 @@ public final class ChatDisplay {
                 if(text==raw && message.source()!=GuiMessageSource.PLAYER) com.sorakoi.sbtranslate.collection.ChatCapture.observe(raw);
             }
         }
-        text=SapphireRanks.chat(text);
+        // Sapphire's own notices keep their text unchanged: rank decoration must not rewrite file paths or names in them.
+        if(!TranslationManager.plain(text.getString()).startsWith(SapphireNotifications.PREFIX)) text=SapphireRanks.chat(text);
         return text==raw?message:new GuiMessage(message.addedTime(),text,message.signature(),message.source(),message.tag());
     }
     public static void receive(GuiMessage message){
