@@ -62,7 +62,7 @@ class SettingsTranslationTest {
             Component.literal("§a✔ §7Fishing Status Holograms"),Component.literal("§c✖ §7Fishing Timer"),Component.literal("§a✔ §7Fishing Sound"));
         for(var line:lore("Settings",lines))assertFalse(line.getString().matches(".*[A-Za-z].*"),line.getString());
         var explanation=lore("Fishing Settings",List.of(Component.literal("Tweak settings related to"),Component.literal("fishing.")));
-        assertEquals("在这里调整钓鱼设置。",String.join("",explanation.stream().map(Component::getString).toList()));
+        assertEquals("调整与钓鱼相关的设置。",String.join("",explanation.stream().map(Component::getString).toList()));
     }
 
     @Test void relatedSubmenusWorkWithoutOpeningUnrelatedContainers() {

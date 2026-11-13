@@ -59,11 +59,6 @@ public final class Sapphire implements ClientModInitializer {
         ROOT=FabricLoader.getInstance().getConfigDir().resolve("sapphire");
         try {CONFIG=SapphireConfig.load(ROOT);}
         catch(Exception e){LOGGER.error("Sapphire configuration failed: {}",e.getMessage());CONFIG.enabled=false;}
-        if((CONFIG.chatCaptureToken==null || CONFIG.chatCaptureToken.isBlank())) {
-            try(var in=Sapphire.class.getResourceAsStream("/upload-token.txt")) {
-                if(in!=null) CONFIG.chatCaptureToken=new String(in.readAllBytes(),java.nio.charset.StandardCharsets.UTF_8).strip();
-            } catch(java.io.IOException ignored) {}
-        }
         loadApiSettings();
         COLLECTOR=new UntranslatedCollector(ROOT.resolve("untranslated"),CONFIG.maxRecords,CONFIG.maxQueue,CONFIG.maxDiskMegabytes*1024L*1024L);
         COLLECTOR.enabled(CONFIG.collectUntranslated);
@@ -79,27 +74,35 @@ public final class Sapphire implements ClientModInitializer {
         // Message events and ItemStack tooltip access remain raw for other mods.
         // Translation is applied only to HUD/container display copies.
         ClientPlayConnectionEvents.DISCONNECT.register((handler,client)->{com.sorakoi.sbtranslate.collection.ChatCapture.stop();com.sorakoi.sbtranslate.client.SapphireRanks.disconnect();com.sorakoi.sbtranslate.client.ChatDisplay.clear();UPDATE_NOTICE.disconnect();CONTEXT.reset();LLM.reset();OUTGOING.reset();ItemTranslationService.clearCaches();com.sorakoi.sbtranslate.client.EntityNameDisplay.clear();});
-        ClientPlayConnectionEvents.JOIN.register((handler,sender,client)->{CONTEXT.reset();LLM.reset();ChatDisplay.clear();OUTGOING.reset();com.sorakoi.sbtranslate.client.SapphireRanks.join(client);});
+        ClientPlayConnectionEvents.JOIN.register((handler,sender,client)->{CONTEXT.reset();LLM.reset();ChatDisplay.clear();OUTGOING.reset();com.sorakoi.sbtranslate.client.SapphireRanks.join(client);
+            if(com.sorakoi.sbtranslate.compat.SkyCoflCompat.installed())
+                client.gui.hud.getChat().addClientSystemMessage(SapphireNotifications.status(com.sorakoi.sbtranslate.compat.SkyCoflCompat.joinNotice(CONFIG.englishByDefault)));});
         ClientTickEvents.END_CLIENT_TICK.register(client->{
             com.sorakoi.sbtranslate.client.ChatDisplay.tick();
             com.sorakoi.sbtranslate.client.OnlineHudTranslation.tick();
             com.sorakoi.sbtranslate.client.SapphireRanks.tick(client);
             CONTEXT.tick(client);
-            if(CONTEXT.confirmed() && CONFIG.collectChatCapture && client.player!=null)
+            if(CONTEXT.captureAllowed() && (CONFIG.collectChatCapture || CONFIG.collectUiCapture) && client.player!=null)
                 com.sorakoi.sbtranslate.collection.ChatCapture.startSession(client.getUser().getName());
+            else com.sorakoi.sbtranslate.collection.ChatCapture.stop();
             var connection=client.getConnection();
             if(client.player!=null && connection!=null && connection.getServerData()!=null) {
                 String notice=UPDATE_NOTICE.poll(connection.getConnection(),connection.getServerData().ip);
                 if(notice!=null)client.gui.hud.getChat().addClientSystemMessage(SapphireNotifications.status(notice));
             }
-            if(++ticks%20==0 && canCollect() && client.player!=null && CONFIG.items) {
+            ticks++;
+            com.sorakoi.sbtranslate.sync.ModUpdates.configure(CONFIG.modAutoUpdate);
+            if(ticks % 20 == 0) com.sorakoi.sbtranslate.sync.ModUpdates.tick();
+            if(canCollect() && client.player!=null && CONFIG.items) {
                 var slots=client.player.containerMenu.slots;
-                for(int i=0;i<Math.min(slots.size(),180);i++) ItemTranslationService.collectStack(slots.get(i).getItem());
+                int count=Math.min(slots.size(),180);
+                int slice=Math.floorMod(ticks,20);
+                for(int i=count*slice/20;i<count*(slice+1)/20;i++)
+                    ItemTranslationService.collectSlot(i,slots.get(i).getItem());
             }
-            // Flush the chat capture every five minutes so a hard exit loses almost nothing.
-            if(CONFIG.collectChatCapture && ticks%6000==0) com.sorakoi.sbtranslate.collection.ChatCapture.rotate();
+            if(CONFIG.collectChatCapture || CONFIG.collectUiCapture) com.sorakoi.sbtranslate.collection.ChatCapture.tick();
         });
-        ClientLifecycleEvents.CLIENT_STOPPING.register(client->{com.sorakoi.sbtranslate.collection.ChatCapture.shutdown();if(com.sorakoi.sbtranslate.collection.DungeonCapture.INSTANCE!=null)com.sorakoi.sbtranslate.collection.DungeonCapture.INSTANCE.close();com.sorakoi.sbtranslate.client.SapphireRanks.close();RELOAD_WORKER.shutdownNow();OUTGOING.close();LLM.close();COLLECTOR.close(); if(!COLLECTOR.error().isEmpty()) LOGGER.warn("{}",COLLECTOR.error());});
+        ClientLifecycleEvents.CLIENT_STOPPING.register(client->{com.sorakoi.sbtranslate.sync.ModUpdates.configure(CONFIG.modAutoUpdate);com.sorakoi.sbtranslate.sync.ModUpdates.stopping();com.sorakoi.sbtranslate.collection.ChatCapture.shutdown();if(com.sorakoi.sbtranslate.collection.DungeonCapture.INSTANCE!=null)com.sorakoi.sbtranslate.collection.DungeonCapture.INSTANCE.close();com.sorakoi.sbtranslate.client.SapphireRanks.close();RELOAD_WORKER.shutdownNow();OUTGOING.close();LLM.close();COLLECTOR.close(); if(!COLLECTOR.error().isEmpty()) LOGGER.warn("{}",COLLECTOR.error());});
         ClientCommandRegistrationCallback.EVENT.register((dispatcher,access)->registerCommands(dispatcher));
         ClientLifecycleEvents.CLIENT_STARTED.register(client->startup.thenAccept(result->client.execute(()->{
             if(com.sorakoi.sbtranslate.client.CaptureSmokeTest.enabled()){com.sorakoi.sbtranslate.client.CaptureSmokeTest.start(client);return;}
@@ -145,7 +148,7 @@ public final class Sapphire implements ClientModInitializer {
                 com.sorakoi.sbtranslate.compat.OdinCompat.load(ROOT);
             }
             Minecraft.getInstance().execute(()->{
-                if(result.translations()!=null){TRANSLATIONS=result.translations();ItemTranslationService.clearCaches();com.sorakoi.sbtranslate.client.EntityNameDisplay.clear();ChatDisplay.invalidateLayouts();}
+                if(result.translations()!=null){TRANSLATIONS=result.translations();ItemTranslationService.clearCaches();com.sorakoi.sbtranslate.client.EntityNameDisplay.clear();refreshTranslatedChat();}
                 dictionaryStatus=(result.version().isEmpty()?"内置词典":result.version())+"；"+result.message();
                 UPDATE_NOTICE.result(result);
                 if(!result.detail().isEmpty())LOGGER.warn("Dictionary update {}: {}",result.status(),result.detail());
@@ -159,6 +162,11 @@ public final class Sapphire implements ClientModInitializer {
         var client=Minecraft.getInstance();if(client!=null && client.gui!=null)client.gui.hud.getChat().rescaleChat();
         if(!CONFIG.enabled || !CONFIG.chat || !CONFIG.translationAllowed(CONTEXT.confirmed()))LLM.reset();
         try{CONFIG.save(ROOT);COLLECTOR.enabled(CONFIG.collectUntranslated);com.sorakoi.sbtranslate.collection.ChatCapture.configure(CONFIG);}catch(IOException e){lastStatus="配置保存失败";LOGGER.warn("{}",lastStatus);}
+    }
+    private static void refreshTranslatedChat(){
+        ChatDisplay.invalidateLayouts();
+        var client=Minecraft.getInstance();
+        if(client.level!=null && client.gui!=null)client.gui.hud.getChat().rescaleChat();
     }
     private static void loadApiSettings() {
         try {
@@ -201,6 +209,7 @@ public final class Sapphire implements ClientModInitializer {
                     if(prepareDefaults)dictionaryStatus=installedVersion;
                     com.sorakoi.sbtranslate.collection.ChatCapture.retryPending();
                     initialized=true;
+                    refreshTranslatedChat();
                     lastStatus="词典已加载："+translations.itemCount()+" 个物品";
                     LOGGER.info("Sapphire dictionary load: install={} ms, translations={} ms, metadata={} ms, total={} ms, items={}",
                         (installed-begin)/1_000_000,(translated-installed)/1_000_000,(indexed-translated)/1_000_000,
@@ -225,6 +234,7 @@ public final class Sapphire implements ClientModInitializer {
         }
         for(String name:List.of("gui-menus","name-modifiers","tooltip-labels","tooltip-paragraphs","runes","dyes","locations","skyblock-months","sidebar-formats","bazaar-events","tablist","mining-events","system-messages","death-messages","creature-messages","entity-names","entity-labels","entity-menus","community-wiki"))installDefault("translations/"+name+".json");
         installDefault("third-party/skyzh-LICENSE.txt");
+        installDefault("translations/wiki-ui-labels.json");
         installDefault("third-party/wiki-NOTICE.txt");
         try(var in=Sapphire.class.getResourceAsStream("/defaults/translations/community-wiki.json")) {
             var manifest=com.google.gson.JsonParser.parseReader(new InputStreamReader(in,java.nio.charset.StandardCharsets.UTF_8)).getAsJsonObject();

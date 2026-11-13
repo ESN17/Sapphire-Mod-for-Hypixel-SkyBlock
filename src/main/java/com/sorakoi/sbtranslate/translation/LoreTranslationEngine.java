@@ -97,12 +97,13 @@ public final class LoreTranslationEngine {
             // tooltip wording for the same source paragraph.
             candidates.sort(Comparator.comparing(TranslationManager.Paragraph::userEdited).reversed());
             String firstLine=plain.strip();
+            var window=new ParagraphWindow(source,index);
             for (var paragraph : candidates) {
                 // Product-name identity templates are single structured GUI rows.
                 // contextLine handles them; joining can swallow category rows.
-                if(contextRules.contains(paragraph) && paragraph.template().variables.contains("name")
-                        && paragraph.template().source.equals(paragraph.template().target))continue;
-                var found=paragraph(source,index,paragraph,item==null?Map.of():item.styleMappings(),firstLine);
+                if(paragraph.template().variables.contains("name") && paragraph.template().source.equals(paragraph.template().target)
+                        && contextRules.contains(paragraph))continue;
+                var found=paragraph(window,paragraph,item==null?Map.of():item.styleMappings(),firstLine);
                 if(found==null)continue;
                 int count=found.count();
                 var originals=source.subList(index,index+count);
@@ -128,29 +129,51 @@ public final class LoreTranslationEngine {
         return new Result(List.copyOf(result),List.copyOf(missing),changed);
     }
     private record ParagraphResult(Component text,int count) {}
-    private static ParagraphResult paragraph(List<Component> lines,int index,TranslationManager.Paragraph paragraph,Map<String,String> fallback,String first) {
+    // All candidates for this row inspect the same wrapped text. Build each length once;
+    // retain the original styled components until a candidate actually matches.
+    private static final class ParagraphWindow {
+        final List<Component> lines;
+        final int index;
+        final List<String> joined=new ArrayList<>();
+        boolean exhausted;
+        ParagraphWindow(List<Component> lines,int index){this.lines=lines;this.index=index;}
+        String text(int count) {
+            if(count<=joined.size())return joined.get(count-1);
+            if(exhausted || index+count>lines.size())return null;
+            String line=TranslationManager.plain(lines.get(index+count-1).getString());
+            String previous=count==1?"":joined.get(count-2);
+            if(line.isBlank() || previous.length()+line.length()+(count==1?0:1)>2048){exhausted=true;return null;}
+            String text=count==1?line:previous+" "+line;
+            joined.add(text);return text;
+        }
+        Component styled(int count) {
+            var result=Component.empty();
+            for(int i=0;i<count;i++){if(i>0)result.append(" ");result.append(lines.get(index+i));}
+            return result;
+        }
+    }
+    private static ParagraphResult paragraph(ParagraphWindow window,TranslationManager.Paragraph paragraph,Map<String,String> fallback,String first) {
         String prefix=paragraph.leadingLiteral(),word=paragraph.requiredWord();
         if(!word.isEmpty() && !first.contains(word))return null;
         if(first.isEmpty() || !first.startsWith(prefix) && !prefix.startsWith(first))return null;
-        MutableComponent combined=Component.empty();
-        for(int count=1;count<=16 && index+count<=lines.size();count++) {
-            var line=lines.get(index+count-1);
-            if(TranslationManager.plain(line.getString()).isBlank())break;
-            if(count>1)combined.append(" ");
-            combined.append(line.copy());
-            String plain=TranslationManager.plain(combined.getString());
-            if(plain.length()>2048)break;
+        for(int count=1;count<=16;count++) {
+            String plain=window.text(count);
+            if(plain==null)break;
+            // An exact paragraph cannot recover after the joined text diverges from it.
+            if(paragraph.template().variables.isEmpty() && !paragraph.template().source.startsWith(plain)
+                    && !paragraph.template().source.startsWith(plain.strip()))break;
             var match=paragraph.template().apply(plain);
             if(match==null) {
-                if(!plain.equals(plain.strip())) {
-                    var padded=TextTranslationEngine.padded(combined,inner->{
-                        var trimmed=paragraph.template().apply(TranslationManager.plain(inner.getString()));
-                        return trimmed==null?inner:TextTranslationEngine.apply(inner,new TranslationManager.Match(trimmed.rule(),trimmed.pieces(),paragraph.styleMappings()==null?fallback:paragraph.styleMappings()));
-                    });
+                String stripped=plain.strip();
+                var trimmed=stripped.equals(plain)?null:paragraph.template().apply(stripped);
+                if(trimmed!=null) {
+                    var combined=window.styled(count);
+                    var padded=TextTranslationEngine.padded(combined,inner->TextTranslationEngine.apply(inner,new TranslationManager.Match(trimmed.rule(),trimmed.pieces(),paragraph.styleMappings()==null?fallback:paragraph.styleMappings())));
                     if(padded!=combined)return new ParagraphResult(padded,count);
                 }
                 continue;
             }
+            var combined=window.styled(count);
             var translated=TextTranslationEngine.apply(combined,new TranslationManager.Match(match.rule(),match.pieces(),paragraph.styleMappings()==null?fallback:paragraph.styleMappings()));
             if(translated!=combined)return new ParagraphResult(translated,count);
         }

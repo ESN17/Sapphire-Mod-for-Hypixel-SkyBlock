@@ -37,6 +37,7 @@ public final class CaptureSmokeTest {
             }
             var config = new SapphireConfig();
             config.collectChatCapture = true;
+            config.privacyAccepted = true;
             config.chatCaptureDirectory = directory.toString();
             config.chatCaptureUploadUrl = settings.getProperty("url", "https://sapphire.esn17cabin.club/untranslated/upload");
             config.chatCaptureToken = settings.getProperty("token", "");

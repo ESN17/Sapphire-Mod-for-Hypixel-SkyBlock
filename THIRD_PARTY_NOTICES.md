@@ -55,3 +55,21 @@ Wiki documentation is not a complete export of Hypixel's server text. Missing re
 `source-review-exclusions.json` retains incomplete NPC examples and fixed-width chart examples (their prose captions are imported separately). `display-review-pending.json` retains translated samples that still fail the style-preserving renderer; these rules are not enabled. The status screen shows the pending count. Runtime installation requires a passing audit whose SHA-256 matches the exact staged files, and existing translations are never replaced by these supplemental entries.
 
 The 2026-10-30 creature supplement (`translations/creature-messages.json`) adapts fishing and combat notices from these cached Wiki pages under the same CC BY-NC-SA 3.0 terms. Each extracted notice retains its source and revision URLs. The entity-name reference catalog, including page attribution, is in `translation-review/entities-20261030/catalog.json`; `tools/extract_entity_catalog.py` describes its extraction. Chinese wording was revised and names normalized for display. Existing name translations reused from Sapphire's dictionaries retain their original data notices. The catalog and the known death-message patterns are not a complete server-side export.
+
+## JEI, REI and Skyblock Overhaul
+
+Sapphire provides supplementary Simplified Chinese language entries for
+[Just Enough Items](https://github.com/mezz/JustEnoughItems) (MIT, 31.17.0.109)
+and [Roughly Enough Items](https://github.com/shedaniel/RoughlyEnoughItems)
+(MIT, 26.3.824+fabric). Their existing translations are provided by the respective mods.
+The SBO language entries are Chinese adaptations of keybindings and settings
+from [SBO-Kotlin](https://github.com/SkyblockOverhaul/SBO-Kotlin)
+(Apache-2.0, 0.7.2-beta.3-26.3).
+The language files are under `assets/{jei,roughlyenoughitems,sbo}/lang/zh_cn.json`.
+The upstream license texts are included under `META-INF/sapphire-licenses/`.
+
+The Wiki UI supplement under `defaults/translations/community-wiki/` and the
+menu-specific button labels in `defaults/translations/wiki-ui-labels.json` adapt
+in-game text documented by the Hypixel SkyBlock Wiki contributors (CC BY-NC-SA
+3.0). The supplementary rules retain the source page links. The scraper and
+importer are `tools/wiki_ui_corpus.py` and `tools/install_wiki_ui.py`.

@@ -36,12 +36,12 @@ class DeathAndCreatureTranslationTest {
     @Test void coinsPiggyBankAndRevival() {
         var out=chat("§cYou died and lost §61,234,567.8§c coins!");
         assertEquals("你死亡了，损失了 1,234,567.8 硬币！",out.getString());StyledLoreTest.color(out,"1,234,567.8",ChatFormatting.GOLD);
-        assertEquals("你死亡了，存钱罐出现了裂痕！",chat("You died and your piggy bank cracked!").getString());
+        assertEquals("你死亡了，小猪存钱罐出现了裂痕！",chat("You died and your piggy bank cracked!").getString());
         assertEquals("❣ SamplePlayer 被 OtherPlayer 复活了！",chat("❣ SamplePlayer was revived by OtherPlayer!").getString());
         assertEquals("你将在 12 秒后复活！",chat("You will be revived in 12 seconds!").getString());
         assertEquals("你死亡了！",SystemTranslationEngine.translate(Component.literal("YOU DIED!"),"title",manager).getString());
         var broken=chat("§cYou died, lost §650,000 §ccoins and your piggy bank broke!");
-        assertEquals("你死亡了，损失了 50,000 硬币，存钱罐也碎了！",broken.getString());StyledLoreTest.color(broken,"50,000",ChatFormatting.GOLD);
+        assertEquals("你死亡了，损失了 50,000 硬币，小猪存钱罐也碎了！",broken.getString());StyledLoreTest.color(broken,"50,000",ChatFormatting.GOLD);
         var mask=chat("§aYour §9Bonzo's Mask §asaved your life!");
         assertEquals("你的邦佐面具救了你一命！",mask.getString());StyledLoreTest.color(mask,"邦佐面具",ChatFormatting.BLUE);
         var spirit=chat("§6Second Wind Activated§a! Your Spirit Mask saved your life!");

@@ -29,6 +29,16 @@ class RiftUbikTest {
                     assertTrue(StyledLoreTest.styleAt(out,label).isBold());StyledLoreTest.color(out,amount,ChatFormatting.DARK_PURPLE);
                 }
     }
+    @Test void capturedFinalMarkerHasPlainParenthesesAndBoldWordAndColon(){
+        for(String choice:List.of("STEAL","SPLIT")){
+            var line="§6§lROUND 7 §6(§6§lFINAL§6)§6§l: §eYou chose "+(choice.equals("STEAL")?"§c":"§a")+"§l"+choice+" §eand gained §55,000 Motes§e!";
+            var out=translated(line);
+            String label=choice.equals("STEAL")?"独吞":"平分";
+            assertEquals("第 7 回合（最终回合）：你选择了"+label+"，获得 5,000 裂隙尘埃！",out.getString());
+            assertTrue(StyledLoreTest.styleAt(out,"最终回合").isBold());
+            assertFalse(StyledLoreTest.styleAt(out,"（").isBold());
+        }
+    }
     @Test void bothPlayersTotalsAreDynamic() {
         for(String subject:List.of("You","Your opponent"))for(String n:List.of("0","25,000","45,000","1,234,567")) {
             var out=translated("§e"+subject+" earned §5"+n+" Motes §ein this match!");

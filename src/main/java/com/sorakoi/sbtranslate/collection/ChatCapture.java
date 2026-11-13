@@ -27,9 +27,9 @@ import java.util.regex.Pattern;
 /**
  * Opt-in capture of chat lines that Sapphire could not translate.
  *
- * One file per SkyBlock session: untranslated-&lt;player&gt;-&lt;yyyyMMdd&gt;-&lt;n&gt;.txt,
+ * One file per capture window: untranslated-&lt;player&gt;-&lt;yyyyMMdd&gt;-&lt;n&gt;.txt,
  * one styled line per entry (§ colour codes kept, numbers preserved as seen).
- * The file is uploaded when the session ends or the game exits; after a
+ * A window closes after ten minutes, on disconnect, or when full. After a
  * successful upload the local copy is removed.
  */
 public final class ChatCapture {
@@ -44,6 +44,7 @@ public final class ChatCapture {
                     + "|(?:\\[[^\\]]{0,32}\\]\\s*|[^\\p{L}\\p{N}\\s]{1,3}\\s*)*[A-Za-z0-9_]{1,16}\\s*:\\s.*"
                     + ")$");
     private static final Pattern LEVEL_PREFIX = Pattern.compile("^(?:[^\\p{L}\\p{N}\\s]{0,3}\\s*)?\\[\\s*[0-9]{1,4}\\s*\\].*");
+    private static final Pattern TIMESTAMP = Pattern.compile("^\\[\\d{1,2}:\\d{2}(?::\\d{2})?\\]\\s*");
     private static final Pattern UPLOAD_NAME = Pattern.compile(
             "^(?:untranslated-anon-[0-9]{1,9}"
                     + "|untranslated-[A-Za-z0-9_]{1,16}-[0-9]{8}-[0-9]{1,7}"
@@ -62,14 +63,24 @@ public final class ChatCapture {
         return thread;
     });
     private static final Set<String> seen = new HashSet<>();
-    private static boolean enabled;
+    private static volatile boolean enabled;
+    private static volatile boolean chatEnabled, uiEnabled;
+    private static final java.util.ArrayDeque<String> pendingUi = new java.util.ArrayDeque<>();
+    private static boolean drainScheduled;
+    private static Component lastUiTitle;
+    private static long titleRetry;
+    private static final Set<Path> queued = new HashSet<>();
+    private static long nextRotation;
+    private static long retryStartAfter;
+    private static String sequenceStem="";
+    private static int sequence;
     private static boolean notifyUploads = true;
     private static Path directory;
     private static String uploadUrl = "";
     private static String token = "";
-    private static String lastError = "";
-    private static String lastResult = "尚未记录";
-    private static boolean session;
+    private static volatile String lastError = "";
+    private static volatile String lastResult = "尚未记录";
+    private static volatile boolean session;
     private static String player = "";
     private static boolean stopping;
     private static Path file;
@@ -83,21 +94,37 @@ public final class ChatCapture {
     public static void configure(SapphireConfig config) {
         synchronized (LOCK) {
             boolean wasEnabled = enabled;
-            enabled = config.collectChatCapture;
+            chatEnabled = config.collectChatCapture && config.privacyAccepted;
+            uiEnabled = config.collectUiCapture && config.privacyAccepted;
+            enabled = chatEnabled || uiEnabled;
             notifyUploads = config.uploadNotifications;
-            directory = Path.of(config.chatCaptureDirectory == null || config.chatCaptureDirectory.isBlank()
-                    ? "D:/Sapphire-source" : config.chatCaptureDirectory);
+            Path dest = Path.of(config.chatCaptureDirectory == null || config.chatCaptureDirectory.isBlank()
+                    ? "D:/Sapphire-source" : config.chatCaptureDirectory).toAbsolutePath().normalize();
+            if(!dest.equals(directory)){
+                stop();
+                sequenceStem="";
+                sequence=0;
+                retryStartAfter=0;
+            }
+            directory=dest;
             uploadUrl = config.chatCaptureUploadUrl == null ? "" : config.chatCaptureUploadUrl.strip();
             token = config.chatCaptureToken == null ? "" : config.chatCaptureToken.strip();
+            if(token.isEmpty() && uploadUrl.equals("https://sapphire.esn17cabin.club/untranslated/upload")){
+                try(var in=ChatCapture.class.getResourceAsStream("/upload-token.txt")){
+                    if(in!=null) token=new String(in.readAllBytes(),StandardCharsets.UTF_8).strip();
+                }catch(IOException e){lastError="无法读取上传配置";}
+            }
             if (wasEnabled && !enabled) stop();
         }
     }
 
-    public static boolean enabled() { return enabled; }
+    public static boolean enabled() { return chatEnabled; }
+    public static boolean uiActive() { return uiEnabled && session; }
 
     public static void startSession(String playerName) {
         synchronized (LOCK) {
-            if (!enabled || session || stopping) return;
+            if (!enabled || session || stopping || System.nanoTime() < retryStartAfter) return;
+            retryStartAfter = System.nanoTime() + TimeUnit.SECONDS.toNanos(30);
             String safe = playerName == null ? "" : playerName.replaceAll("[^A-Za-z0-9_]", "");
             if (safe.isEmpty()) safe = "player";
             player = safe.substring(0, Math.min(safe.length(), 16));
@@ -105,35 +132,64 @@ public final class ChatCapture {
             if (created == null) return;
             try {
                 Files.createDirectories(created.getParent());
-                writer = Files.newBufferedWriter(created, StandardCharsets.UTF_8);
+                writer = Files.newBufferedWriter(created, StandardCharsets.UTF_8, java.nio.file.StandardOpenOption.CREATE_NEW);
             } catch (IOException e) {
                 lastError = "无法创建记录文件：" + e.getMessage();
                 return;
             }
             file = created;
             session = true;
+            retryStartAfter = 0;
+            nextRotation = System.nanoTime() + TimeUnit.MINUTES.toNanos(10);
             lineCount = 0;
             bytes = 0;
             seen.clear();
+            lastUiTitle = null;
             lastResult = "记录中";
             com.sorakoi.sbtranslate.Sapphire.LOGGER.info("Sapphire chat capture started: {}", created);
-            notifyChat("已开始记录未翻译聊天，退出游戏后自动上传。");
+            notifyChat("已开始记录所选类型的漏译文本，每十分钟或退出时自动上传。");
         }
     }
 
-    /** Lines already seen this session are dropped; only untranslated English lines are kept. */
-    public static void observe(Component message) {
-        if (!enabled || !session) return;
+    public static void tick() {
+        synchronized (LOCK) {
+            if (!session || System.nanoTime() < nextRotation) return;
+            nextRotation = System.nanoTime() + TimeUnit.MINUTES.toNanos(10);
+            retryPending();
+            rotate();
+        }
+    }
+
+    public static void observe(Component message) { observe(message, false); }
+
+    public static void observeDisplayed(Component raw,Component display,boolean publicLocation) {
+        if(!chatEnabled || !session) return;
+        if(raw==display){observe(raw,publicLocation);return;}
+        // Prefix decoration can change every line even when its English body survives.
+        var source=styledLines(raw);
+        var visible=styledLines(display);
+        if(!publicLocation && source.stream().anyMatch(line->TranslationManager.plain(line).contains("[NPC]")))return;
+        if(source.size()!=visible.size())return;
+        for(int i=0;i<source.size();i++){
+            String line=TranslationManager.plain(visible.get(i));
+            if(!CJK.matcher(line).find() && ENGLISH.matcher(line).find())
+                observe(Component.literal(source.get(i)),publicLocation);
+        }
+    }
+
+    public static void observe(Component message, boolean publicLocation) {
+        if (!chatEnabled || !session) return;
         List<String> lines = styledLines(message);
         if (lines.isEmpty()) return;
+        if (!publicLocation && lines.stream().anyMatch(line -> TranslationManager.plain(line).contains("[NPC]"))) return;
         synchronized (LOCK) {
             if (!session) return;
             for (String line : lines) {
-                if (!keep(line)) continue;
+                if (!keep(line) || line.indexOf(0) >= 0 || line.getBytes(StandardCharsets.UTF_8).length > 2048) continue;
                 String plain = TranslationManager.plain(line).strip();
                 String key = plain.replaceAll("[0-9]+", "#").toLowerCase(Locale.ROOT);
                 if (!seen.add(key)) continue;
-                append(line);
+                append(line,true);
             }
         }
     }
@@ -141,8 +197,48 @@ public final class ChatCapture {
     public static void stop() {
         synchronized (LOCK) {
             if (!session) return;
+            drainUi();
             session = false;
             rotate();
+        }
+    }
+
+    public static void observeTitle(Component original) {
+        if (!uiActive() || (original == lastUiTitle && System.nanoTime() < titleRetry)) return;
+        lastUiTitle = original;
+        titleRetry = System.nanoTime() + TimeUnit.SECONDS.toNanos(1);
+        String title = TranslationManager.plain(original.getString());
+        if (UiCapture.publicMenu(title)) {
+            observeUi("gui", original);
+            titleRetry = Long.MAX_VALUE;
+        }
+    }
+
+    public static void observeUi(String scope, Component original) {
+        if (!uiActive()) return;
+        String plain = TranslationManager.plain(original.getString()).strip();
+        if (!UiCapture.eligible(plain)) return;
+        synchronized (LOCK) {
+            if (!uiActive() || !seen.add("ui/" + scope + "/" + UiCapture.dedupKey(plain))) return;
+            String prefix = "[Sapphire:UI:" + scope + "] ";
+            for (String styled : styledLines(original)) {
+                String record = prefix + styled;
+                if (record.getBytes(StandardCharsets.UTF_8).length <= 2048) pendingUi.add(record);
+            }
+            if (!drainScheduled && !pendingUi.isEmpty()) {
+                drainScheduled = true;
+                WORKER.execute(ChatCapture::drainUi);
+            }
+        }
+    }
+
+    private static void drainUi() {
+        synchronized (LOCK) {
+            boolean wrote=!pendingUi.isEmpty();
+            while (!pendingUi.isEmpty()) append(pendingUi.removeFirst(),false);
+            if(wrote && writer!=null)try { writer.flush(); }
+            catch(IOException e){lastError="写入失败："+e.getMessage();closeWriter();}
+            drainScheduled = false;
         }
     }
 
@@ -195,14 +291,21 @@ public final class ChatCapture {
     /** Uploads files left by an earlier crash or by a failed upload. */
     public static void retryPending() {
         synchronized (LOCK) {
-            if (!enabled || directory == null) return;
+            if (!enabled || directory == null || stopping) return;
+            Path folder = directory;
+            WORKER.execute(() -> scanPending(folder));
         }
-        if (!Files.isDirectory(directory)) return;
-        try (var files = Files.list(directory)) {
+    }
+
+    private static void scanPending(Path folder) {
+        if (!Files.isDirectory(folder)) return;
+        try (var files = Files.list(folder)) {
             for (Path path : files.filter(Files::isRegularFile)
-                    .filter(p -> UPLOAD_NAME.matcher(p.getFileName().toString()).matches())
+                    .filter(p -> p.getFileName().toString().startsWith("untranslated-") && UPLOAD_NAME.matcher(p.getFileName().toString()).matches())
                     .sorted().toList()) {
-                enqueue(path);
+                synchronized(LOCK){
+                    if(enabled && !stopping && folder.equals(directory) && !path.equals(file) && Files.isRegularFile(path) && Files.size(path)>0)enqueue(path);
+                }
             }
         } catch (IOException e) {
             lastError = "无法读取记录目录";
@@ -217,13 +320,13 @@ public final class ChatCapture {
         }
     }
 
-    private static void append(String line) {
+    private static void append(String line,boolean flush) {
         try {
             if (writer == null) {
                 Path created = nextFile();
                 if (created == null) return;
                 Files.createDirectories(created.getParent());
-                writer = Files.newBufferedWriter(created, StandardCharsets.UTF_8);
+                writer = Files.newBufferedWriter(created, StandardCharsets.UTF_8, java.nio.file.StandardOpenOption.CREATE_NEW);
                 file = created;
             }
             if (lineCount >= 5000 || bytes >= 1024 * 1024) {
@@ -232,10 +335,10 @@ public final class ChatCapture {
             }
             writer.write(line);
             writer.write('\n');
-            writer.flush();
+            if(flush)writer.flush();
             lineCount++;
             bytes += line.getBytes(StandardCharsets.UTF_8).length + 1;
-            if (lineCount >= 200 || bytes >= 512 * 1024) rotate();
+            if (lineCount >= 5000 || bytes >= 1024 * 1024 - 2049) rotate();
         } catch (IOException e) {
             lastError = "写入失败：" + e.getMessage();
             closeWriter();
@@ -248,7 +351,7 @@ public final class ChatCapture {
         String day = java.time.LocalDate.now().format(java.time.format.DateTimeFormatter.BASIC_ISO_DATE);
         String stem = "untranslated-" + player + "-" + day + "-";
         var pattern = java.util.regex.Pattern.compile("^" + java.util.regex.Pattern.quote(stem) + "([0-9]{1,9})\\.txt$");
-        int highest = 0;
+        int highest = stem.equals(sequenceStem) ? sequence : 0;
         try (var files = Files.list(directory)) {
             for (Path existing : files.toList()) {
                 var matcher = pattern.matcher(existing.getFileName().toString());
@@ -258,7 +361,11 @@ public final class ChatCapture {
         }
         for (int index = highest + 1; index <= highest + 999; index++) {
             Path candidate = directory.resolve(stem + index + ".txt");
-            if (!Files.exists(candidate)) return candidate;
+            if (!Files.exists(candidate)) {
+                sequenceStem=stem;
+                sequence=index;
+                return candidate;
+            }
         }
         lastError = "当天文件数量过多";
         return null;
@@ -275,13 +382,23 @@ public final class ChatCapture {
 
     private static void enqueue(Path path) {
         try {
-            WORKER.execute(() -> upload(path));
+            String endpoint, uploadToken;
+            synchronized (LOCK) {
+                if (!queued.add(path)) return;
+                endpoint = uploadUrl;
+                uploadToken = token;
+            }
+            WORKER.execute(() -> {
+                try { upload(path, endpoint, uploadToken); }
+                finally { synchronized (LOCK) { queued.remove(path); } }
+            });
         } catch (java.util.concurrent.RejectedExecutionException e) {
+            synchronized (LOCK) { queued.remove(path); }
             lastError = "上传队列已关闭";
         }
     }
 
-    private static void upload(Path path) {
+    private static void upload(Path path, String endpoint, String uploadToken) {
         byte[] body;
         try {
             body = Files.readAllBytes(path);
@@ -292,19 +409,15 @@ public final class ChatCapture {
         }
         String name = path.getFileName().toString();
         notifyUploading();
-        UploadResult result = uploadText(name, body);
-        // Another client may already have used this number on the server; take the next one.
-        for (int attempt = 1; attempt <= 5 && !result.ok() && result.code() == 409; attempt++) {
-            String next = bumpNumber(name, attempt);
+        UploadResult result = uploadText(name, body, endpoint, uploadToken);
+        // Never move or overwrite another queued (or currently open) local file.
+        // A high alternate number also escapes long runs of old server-side names.
+        for (int attempt = 0; attempt < 5 && result.code() == 409; attempt++) {
+            int step = java.util.concurrent.ThreadLocalRandom.current().nextInt(1000, 100000);
+            String next = bumpNumber(name, step);
             if (next.equals(name)) break;
-            try {
-                Path renamed = path.resolveSibling(next);
-                Files.move(path, renamed, java.nio.file.StandardCopyOption.REPLACE_EXISTING);
-                path = renamed;
-            } catch (IOException ignored) {
-            }
             name = next;
-            result = uploadText(name, body);
+            result = uploadText(name, body, endpoint, uploadToken);
         }
         if (result.ok()) {
             try {
@@ -324,7 +437,7 @@ public final class ChatCapture {
         var matcher = java.util.regex.Pattern.compile("^(.*-)([0-9]{1,7})(\\.txt)$").matcher(fileName);
         if (!matcher.matches()) return fileName;
         long number = Long.parseLong(matcher.group(2)) + step;
-        return matcher.group(1) + number + matcher.group(3);
+        return matcher.group(1) + (1 + (number - 1) % 9999999) + matcher.group(3);
     }
 
     /** Chat notice, switchable in the advanced settings. */
@@ -350,10 +463,19 @@ public final class ChatCapture {
      * Shared by the chat capture and the in-game feedback screen.
      */
     public static UploadResult uploadText(String fileName, byte[] body) {
-        if (uploadUrl.isEmpty() || token.isEmpty()) return new UploadResult(false, 0, "未配置上传地址或令牌");
+        String endpoint, uploadToken;
+        synchronized (LOCK) {
+            endpoint = uploadUrl;
+            uploadToken = token;
+        }
+        return uploadText(fileName, body, endpoint, uploadToken);
+    }
+
+    private static UploadResult uploadText(String fileName, byte[] body, String endpoint, String uploadToken) {
+        if (endpoint.isEmpty() || uploadToken.isEmpty()) return new UploadResult(false, 0, "未配置上传地址或令牌");
         URI uri;
         try {
-            uri = URI.create(uploadUrl);
+            uri = URI.create(endpoint);
         } catch (IllegalArgumentException e) {
             return new UploadResult(false, 0, "上传地址无效");
         }
@@ -361,6 +483,7 @@ public final class ChatCapture {
         HttpURLConnection connection = null;
         try {
             connection = (HttpURLConnection) uri.toURL().openConnection();
+            connection.setInstanceFollowRedirects(false);
             connection.setRequestMethod("POST");
             connection.setDoOutput(true);
             connection.setConnectTimeout(8000);
@@ -368,17 +491,29 @@ public final class ChatCapture {
             connection.setRequestProperty("Content-Type", "text/plain; charset=utf-8");
             connection.setRequestProperty("Accept-Encoding", "identity");
             connection.setRequestProperty("User-Agent", "Sapphire-Capture/1");
-            connection.setRequestProperty("X-Sapphire-Token", token);
+            connection.setRequestProperty("X-Sapphire-Token", uploadToken);
             connection.setRequestProperty("X-Sapphire-File", fileName);
             connection.setFixedLengthStreamingMode(body.length);
             try (var out = connection.getOutputStream()) {
                 out.write(body);
             }
             int code = connection.getResponseCode();
-            if (code == 201 || code == 200) return new UploadResult(true, code, "已上传 " + fileName);
+            if (code == 201 || code == 200) {
+                try (var in = connection.getInputStream()) {
+                    var ack = com.google.gson.JsonParser.parseString(new String(in.readNBytes(4096), StandardCharsets.UTF_8)).getAsJsonObject();
+                    if (ack.get("ok").getAsBoolean() && fileName.equals(ack.get("name").getAsString()) && ack.get("size").getAsLong() == body.length)
+                        return new UploadResult(true, code, "已上传 " + fileName);
+                } catch (RuntimeException malformed) { /* Login pages are not upload acknowledgements. */ }
+                return new UploadResult(false, code, "服务器未确认接收完整文件");
+            }
             String detail = "";
             try (var error = connection.getErrorStream()) {
-                if (error != null) detail = new String(error.readNBytes(200), StandardCharsets.UTF_8);
+                if (error != null) {
+                    var response = com.google.gson.JsonParser.parseString(new String(error.readNBytes(2048), StandardCharsets.UTF_8)).getAsJsonObject();
+                    if (response.has("error")) detail = response.get("error").getAsString();
+                }
+            } catch (RuntimeException ignored) {
+                // Proxies sometimes send an HTML error page.
             }
             return new UploadResult(false, code, "上传失败 HTTP " + code + (detail.isBlank() ? "" : "：" + detail));
         } catch (IOException e) {
@@ -393,9 +528,13 @@ public final class ChatCapture {
     private static boolean keep(String styled) {
         String plain = TranslationManager.plain(styled).strip();
         if (plain.isEmpty() || plain.length() > 1024) return false;
+        // Chat-timestamp mods prepend [HH:MM:SS]; strip it before the chat checks.
+        plain = TIMESTAMP.matcher(plain).replaceFirst("");
+        if (plain.isEmpty()) return false;
         if (CJK.matcher(plain).find()) return false;
         if (plain.startsWith("[Sapphire]")) return false;
         if (plain.contains("http") || plain.contains("www.")) return false;
+        if (plain.contains("joined the lobby")) return false;
         // Hypixel prefixes player and lobby lines with a level like [135]; never capture those.
         if (LEVEL_PREFIX.matcher(plain).matches()) return false;
         boolean dialogue = plain.startsWith("[NPC]") || plain.startsWith("[BOSS]");

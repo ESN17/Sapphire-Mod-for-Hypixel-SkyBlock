@@ -54,6 +54,7 @@ public final class SapphireScreen extends Screen {
         if(rows.contains(getFocused()))setFocused(search);
         rows.forEach(this::removeWidget);rows.clear();
         var result=new ArrayList<Entry>();
+        addAction(result,0,"模组公告","查看维护者发布的最新公告。",()->minecraft.gui.setScreen(new AnnouncementScreen(this)));
         for(var option:SettingsCatalog.OPTIONS)if(query.isBlank()?option.category()==category:option.matches(query))
             result.add(new Entry(option.title(),option.description(),option,()->{
                 option.write().accept(Sapphire.CONFIG,!option.read().test(Sapphire.CONFIG));Sapphire.saveConfig();feedback="设置已应用";

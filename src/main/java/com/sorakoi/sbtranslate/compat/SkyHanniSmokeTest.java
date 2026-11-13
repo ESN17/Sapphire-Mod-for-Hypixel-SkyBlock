@@ -9,9 +9,9 @@ import net.minecraft.network.chat.Component;
 public final class SkyHanniSmokeTest {
     public static void run() {
         if(!FabricLoader.getInstance().isModLoaded("skyhanni"))return;
-        boolean enabled=Sapphire.CONFIG.skyHanniTranslation,original=Sapphire.CONFIG.showOriginal;
+        boolean enabled=Sapphire.CONFIG.skyHanniTranslation,original=Sapphire.CONFIG.showOriginal,gui=Sapphire.CONFIG.gui;
         try {
-            Sapphire.CONFIG.skyHanniTranslation=true;Sapphire.CONFIG.showOriginal=false;
+            Sapphire.CONFIG.gui=false;Sapphire.CONFIG.skyHanniTranslation=true;Sapphire.CONFIG.showOriginal=false;
             String base="at.hannibal2.skyhanni.deps.moulconfig.";
             Class<?> textType=Class.forName(base+"common.text.StructuredText");
             Object text=textType.getMethod("of",String.class).invoke(null,"Visitor Timer");
@@ -49,6 +49,6 @@ public final class SkyHanniSmokeTest {
             Sapphire.LOGGER.info("SAPPHIRE_SKYHANNI_SMOKE_OK: actual MoulConfig width, dictionary, disable, immutable source and optional target loading");
             Sapphire.LOGGER.info("SAPPHIRE_SKYHANNI_HANDOFF_SMOKE_OK: compact Tab display/width hooks preserve original parser inputs");
         }catch(ReflectiveOperationException e){throw new IllegalStateException("SkyHanni integration smoke failed",e);}
-        finally{Sapphire.CONFIG.skyHanniTranslation=enabled;Sapphire.CONFIG.showOriginal=original;}
+        finally{Sapphire.CONFIG.skyHanniTranslation=enabled;Sapphire.CONFIG.showOriginal=original;Sapphire.CONFIG.gui=gui;}
     }
 }

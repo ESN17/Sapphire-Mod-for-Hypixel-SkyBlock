@@ -7,8 +7,13 @@ import java.util.List;
 public final class DisplayTranslationHooks {
     /** Called by container rendering only. Parser-facing ItemStack APIs remain untouched. */
     public static List<Component> tooltip(net.minecraft.world.item.ItemStack stack,List<Component> source) {
-        var display=new java.util.ArrayList<>(source);
+        int end=source.size();
+        if(end>0 && net.fabricmc.loader.api.FabricLoader.getInstance().isModLoaded("skycofl") &&
+                com.sorakoi.sbtranslate.compat.SkyCoflCompat.sellButton(source.getFirst().getString()))
+            end=com.sorakoi.sbtranslate.compat.SkyCoflCompat.warningStart(source);
+        var display=new java.util.ArrayList<>(source.subList(0,end));
         com.sorakoi.sbtranslate.item.ItemTranslationService.tooltip(stack,display);
+        display.addAll(source.subList(end,source.size()));
         return display;
     }
     public static Component text(Component source,String scope) {
@@ -42,6 +47,7 @@ public final class DisplayTranslationHooks {
             if(translated==source && Sapphire.TRANSLATIONS.exact("gui",plain))
                 translated=TextTranslationEngine.translate(source,s->Sapphire.TRANSLATIONS.match("gui",null,s));
             if(translated==source)collect(scope,plain);
+            if(translated==source)com.sorakoi.sbtranslate.collection.ChatCapture.observeTitle(source);
             return Sapphire.originalMode(translated,source);
         }
         if(scope.equals("chat") && !Sapphire.TRANSLATIONS.exact("chat",plain)) {
@@ -60,6 +66,8 @@ public final class DisplayTranslationHooks {
         return Sapphire.originalMode(translated,source);
     }
     private static void collect(String scope,String text) {
+        // NPC dialogue needs the location at receipt. Rendering can replay old messages in a different area.
+        if ("chat".equals(scope) && text.contains("[NPC]")) return;
         if(Sapphire.canCollect() && Sapphire.POLICY.allows(scope,text))
             Sapphire.COLLECTOR.observe(new Observation(scope,scope,null,null,"",List.of(text),false),true,true);
     }

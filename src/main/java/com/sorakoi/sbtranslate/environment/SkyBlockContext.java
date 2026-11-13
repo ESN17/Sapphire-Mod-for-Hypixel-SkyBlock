@@ -9,6 +9,21 @@ public final class SkyBlockContext {
     private int stableTicks;
     private boolean confirmed;
     private boolean dungeon;
+    private boolean captureAllowed;
+    private boolean publicLocation;
+    public boolean captureAllowed(){return captureAllowed;}
+    public boolean captureAllowed(Minecraft client){return captureAllowed && client.level == level;}
+    public boolean publicLocation(){return publicLocation;}
+    public static boolean publicLocation(List<String> lines){
+        boolean located=false;
+        for(String line:lines){
+            String label=line.toLowerCase(Locale.ROOT);
+            if(label.contains("your island") || label.contains("private island") || label.contains("你的岛屿") || label.contains("私人岛屿"))return false;
+            String trimmed=label.stripLeading();
+            if(label.indexOf('⏣')>=0 || label.indexOf('ф')>=0 || !trimmed.isEmpty() && "⧖⌛⏳\uE020".indexOf(trimmed.charAt(0))>=0)located=true;
+        }
+        return located;
+    }
     public boolean dungeon(){return dungeon;}
     public static boolean evidence(String host, String brand, String title, List<String> lines) {
         host = host.toLowerCase(Locale.ROOT).replaceFirst(":\\d+$", "");
@@ -48,7 +63,9 @@ public final class SkyBlockContext {
             TranslationManager.plain(objective.getDisplayName().getString()).startsWith("SKYBLOCK") &&
             com.sorakoi.sbtranslate.collection.DungeonCapture.dungeonEvidence(lines);
         stableTicks = valid ? Math.min(stableTicks + 1, 20) : 0; confirmed = stableTicks >= 10;
+        captureAllowed=confirmed && objective!=null && TranslationManager.plain(objective.getDisplayName().getString()).toUpperCase(Locale.ROOT).contains("SKYBLOCK");
+        publicLocation=captureAllowed && publicLocation(lines);
     }
     public boolean confirmed() { return confirmed; }
-    public void reset() { level = null; stableTicks = 0; confirmed = false; dungeon=false; }
+    public void reset() { level = null; stableTicks = 0; confirmed = false; dungeon=false; captureAllowed=false; publicLocation=false; }
 }

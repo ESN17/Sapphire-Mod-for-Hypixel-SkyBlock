@@ -8,6 +8,7 @@ public final class SapphireConfig {
         scoreboard = true, tablist = true, actionbar = true, title = true, subtitle = true, bossbar = true, entities = true;
     public boolean debug = false, forceTranslation = true, collectUntranslated = true, showOriginal = false;
     public boolean collectChatCapture = true;
+    public boolean collectUiCapture = false;
     public boolean privacyAccepted = false;
     public boolean uploadNotifications = true;
     public String chatCaptureDirectory = "D:/Sapphire-source";
@@ -19,6 +20,7 @@ public final class SapphireConfig {
     public boolean odinTranslation = true;
     public boolean apiChatReplace = true, chatOriginalHover = true, chatCopyOriginal = true;
     public boolean dictionaryAutoUpdate = true;
+    public boolean modAutoUpdate = false;
     public String dictionaryUpdateUrl = com.sorakoi.sbtranslate.sync.DictionaryUpdater.DEFAULT_URL;
     public boolean translateTooltip(boolean controlDown){return englishByDefault == controlDown;}
     public int maxRecords = 2000, maxQueue = 512, maxDiskMegabytes = 16;

@@ -23,8 +23,9 @@ final class SettingsCatalog {
         new Category("词典与工具","维护译名库，预览和修改本地译文。"),
         new Category("高级设置","收集和诊断选项，排查问题时使用。"));
     static final List<Option> OPTIONS=List.of(
+        new Option(0,"modAutoUpdate","Sapphire 模组自动更新","从官网下载匹配当前 Minecraft 的正式版，正常退出后安装，下次启动生效。",c->c.modAutoUpdate,(c,v)->c.modAutoUpdate=v),
         new Option(0,"enabled","翻译总开关","控制 Sapphire 的游戏文本翻译。",c->c.enabled,(c,v)->c.enabled=v),
-        new Option(0,"englishByDefault","按住 Ctrl 显示中文","物品提示默认显示英文，按住 Ctrl 切换中文。",c->c.englishByDefault,(c,v)->c.englishByDefault=v),
+        new Option(0,"englishByDefault","按键预览中文","物品提示默认显示英文，按住 Ctrl 切换中文。装有 SkyCofl 时，所有物品用 Alt 预览，Ctrl 仍用于放行交易。",c->c.englishByDefault,(c,v)->c.englishByDefault=v),
         new Option(0,"showOriginal","译文附带原文","在支持的位置同时显示中文译文与英文原文。",c->c.showOriginal,(c,v)->c.showOriginal=v),
         new Option(1,"items","物品名称","使用物品库中的中文名称。",c->c.items,(c,v)->c.items=v),
         new Option(1,"lore","物品描述","翻译属性、附魔、技能与物品说明。",c->c.lore,(c,v)->c.lore=v),
@@ -45,7 +46,8 @@ final class SettingsCatalog {
         new Option(3,"sapphireRanks","Sapphire 用户称号","启用用户称号。首次进入 Hypixel 登记用户名，之后获取称号名册。",c->c.sapphireRanks,(c,v)->c.sapphireRanks=v),
         new Option(4,"dictionaryAutoUpdate","译名库自动更新","启动时检查译名库，后台下载可用更新。",c->c.dictionaryAutoUpdate,(c,v)->c.dictionaryAutoUpdate=v),
         new Option(5,"collectUntranslated","收集未翻译文本","确认处于 SkyBlock 后，把遇到的漏译文本（物品、菜单等）记录到本地 config/sapphire/untranslated；只存本机，不上传。",c->c.collectUntranslated,(c,v)->c.collectUntranslated=v),
-        new Option(5,"collectChatCapture","聊天漏译采集","进入 SkyBlock 后，把仍为英文的聊天行（保留颜色）写入本地文件；离开服务器或退出游戏时上传到译名库服务器，成功后删除本地文件。",c->c.collectChatCapture,(c,v)->c.collectChatCapture=v),
+        new Option(5,"collectChatCapture","聊天漏译采集","进入 SkyBlock 后，把仍为英文的聊天行（保留颜色）写入本地文件；每十分钟及离开时上传，自己的岛屿不收集 NPC 对话，成功后删除本地文件。",c->c.collectChatCapture,(c,v)->c.collectChatCapture=v),
+        new Option(5,"collectUiCapture","菜单漏译采集","将已识别的 SkyBlock 公共菜单中漏译的标题、按钮和悬浮说明保留颜色，随漏译记录上传。",c->c.collectUiCapture,(c,v)->c.collectUiCapture=v),
         new Option(5,"uploadNotifications","上传提示","上传未翻译文本时，在聊天栏提示正在上传。",c->c.uploadNotifications,(c,v)->c.uploadNotifications=v),
         new Option(5,"debug","调试诊断","启用排查翻译问题所需的诊断信息。",c->c.debug,(c,v)->c.debug=v),
         new Option(5,"forceTranslation","忽略环境限制","未确认 SkyBlock 时也允许翻译；可能影响其他服务器的显示。",c->c.forceTranslation,(c,v)->c.forceTranslation=v));

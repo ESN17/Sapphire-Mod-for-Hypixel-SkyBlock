@@ -2,7 +2,7 @@
   "required": true,
   "package": "com.sorakoi.sbtranslate.mixin",
   "compatibilityLevel": "JAVA_25",
-  "client": ["GuiMixin", "ContainerScreenMixin", "BossHealthOverlayMixin", "PlayerTabOverlayMixin", "ChatComponentMixin", "ChatScreenMixin", "EntityRendererMixin", "TextDisplayRendererMixin"],
+  "client": ["GuiMixin", "ContainerScreenMixin", "ContainerHoveredSlot", "compat.IcebergTooltipMixin", "compat.SboConfigGuiMixin", "compat.ReiTooltipContextAccessor", "compat.ReiItemTooltipMixin", "BossHealthOverlayMixin", "PlayerTabOverlayMixin", "ChatComponentMixin", "ChatScreenMixin", "EntityRendererMixin", "TextDisplayRendererMixin"],
   "injectors": {
     "defaultRequire": 1
   }

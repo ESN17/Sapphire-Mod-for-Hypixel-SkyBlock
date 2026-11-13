@@ -98,9 +98,6 @@ public final class ChatDisplay {
                 if(message.source()!=GuiMessageSource.PLAYER)text=DisplayTranslationHooks.text(raw,"chat");
                 if(text==raw && raw.getString().contains("[SkyHanni]"))text=com.sorakoi.sbtranslate.compat.SkyHanniCompat.chat(raw);
                 if(text==raw)text=com.sorakoi.sbtranslate.compat.OdinCompat.chat(raw);
-                // Still English after every dictionary/API attempt: offer it to the opt-in capture.
-                // Signed player chat is never recorded; party/guild lines are filtered by ChatCapture.
-                if(text==raw && message.source()!=GuiMessageSource.PLAYER) com.sorakoi.sbtranslate.collection.ChatCapture.observe(raw);
             }
         }
         // Sapphire's own notices keep their text unchanged: rank decoration must not rewrite file paths or names in them.
@@ -108,6 +105,14 @@ public final class ChatDisplay {
         return text==raw?message:new GuiMessage(message.addedTime(),text,message.signature(),message.source(),message.tag());
     }
     public static void receive(GuiMessage message){
+        if(Sapphire.CONTEXT.captureAllowed(Minecraft.getInstance()) && com.sorakoi.sbtranslate.collection.ChatCapture.enabled()
+                && message.source()!=GuiMessageSource.PLAYER && Sapphire.CONFIG.enabled && Sapphire.CONFIG.chat){
+            DisplayTranslationSafety.preserveOriginal("chat capture",message,()->{
+                var displayed=display(message).content();
+                com.sorakoi.sbtranslate.collection.ChatCapture.observeDisplayed(message.content(),displayed,Sapphire.CONTEXT.publicLocation());
+                return message;
+            });
+        }
         if (!Sapphire.LLM_CONFIG.enabled || !Sapphire.active("chat") || Minecraft.getInstance().getConnection() == null) return;
         DisplayTranslationSafety.preserveOriginal("chat receive",message,()->{enqueue(message);return message;});
     }

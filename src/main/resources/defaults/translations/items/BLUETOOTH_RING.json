@@ -108,6 +108,33 @@
       "styleMappings": {
         "RARE": "稀有"
       }
+    },
+    {
+      "source": [
+        "Monster melee attacks reduce {value} less {icon1} Rift Time if there is another player within {distance} blocks."
+      ],
+      "translation": "若 {distance} 格内有其他玩家，怪物近战攻击使你少损失 {value} {icon1} 裂隙时间。",
+      "styleMappings": {
+        "Rift Time": "裂隙时间"
+      }
+    },
+    {
+      "source": [
+        "Monster melee attacks reduce {value} less ф Rift Time if there is another player within {distance} blocks."
+      ],
+      "translation": "若 {distance} 格内有其他玩家，怪物近战攻击使你少损失 {value} ф 裂隙时间。",
+      "styleMappings": {
+        "Rift Time": "裂隙时间"
+      }
+    },
+    {
+      "source": [
+        "Monster melee attacks reduce {value} less Rift Time if there is another player within {distance} blocks."
+      ],
+      "translation": "若 {distance} 格内有其他玩家，怪物近战攻击使你少损失 {value} 裂隙时间。",
+      "styleMappings": {
+        "Rift Time": "裂隙时间"
+      }
     }
   ],
   "styleMappings": {

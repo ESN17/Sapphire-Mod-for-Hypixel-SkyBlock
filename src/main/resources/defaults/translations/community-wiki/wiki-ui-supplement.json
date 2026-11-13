@@ -1,0 +1,3128 @@
+{
+ "schemaVersion": 1,
+ "entries": [
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "In the Greenhouse, every crop has unique effects that affect adjacent crops with buffs or debuffs. A crop can have multiple different effects; however, the same effect can't be active twice!",
+   "translation": "在温室中，每种作物都有独特效果，会对相邻作物施加增益或减益。一种作物可以拥有多个不同效果；但同一效果不能同时激活两次！",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Carpenter/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Decay is a mechanic in which a crop or mutation can die after mutating a certain number of times.",
+   "translation": "衰败是一种机制，作物或突变在突变一定次数后可能会死亡。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Carpenter/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "If you only have {{N0}} of the same crop or mutation, it can mutate X times before being able to decay.",
+   "translation": "如果你只有 {{N0}} 个相同的作物或突变，它最多可以突变 X 次，之后才会开始衰败。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Carpenter/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "If you have {{N0}}+ of the same crops or mutations, their total number of mutates are combined. Once the combined mutates reaches zero, they can decay. Must be fully grown and contribute to spreading a mutation to count towards the combined total.",
+   "translation": "如果你拥有 {{N0}}+ 个相同的作物或突变，它们的突变总次数会合并计算。一旦合并后的突变次数归零，它们就会开始衰败。必须完全成熟并参与传播突变，才能计入合并总数。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Carpenter/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Effects ➤ Immunity Provides Immunity to negative effects.",
+   "translation": "效果 ➤ 免疫 提供对负面效果的免疫。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Carpenter/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Ability: Splash  SNEAK Crouch to splash some water around. Mana Cost: {{N0}} Cooldown: {{N1}}s",
+   "translation": "技能：水花 潜行蹲下以在周围溅起水花。法力消耗：{{N0}} 冷却时间：{{N1}}秒",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Recipe_Book/UI/Fishing",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Ability: Ink Bomb  RIGHT CLICK Shoot an ink bomb in front of you dealing {{N0}} damage and giving blindness! Mana Cost: {{N1}} Cooldown: {{N2}}s",
+   "translation": "技能：墨弹  右键 向前方发射一枚墨弹，造成 {{N0}} 伤害并施加失明效果！ 法力消耗：{{N1}} 冷却时间：{{N2}}秒",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Recipe_Book/UI/Fishing",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Ability: Splash  SNEAK Crouch to splash some magma around. Mana Cost: {{N0}} Cooldown: {{N1}}s",
+   "translation": "技能：飞溅  潜行 蹲下以向周围溅射岩浆。 法力消耗：{{N0}} 冷却时间：{{N1}}秒",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Recipe_Book/UI/Fishing",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Level I Rewards: +Access to Spider's Den Warrior I Deal {{N0}} more damage to mobs. {{N1}} ☣ Crit Chance {{N2}} Coins {{N3}} SkyBlock XP",
+   "translation": "I 级奖励：+解锁蜘蛛巢穴 战士 I 对怪物造成 {{N0}} 点额外伤害。 {{N1}} ☣ 暴击几率 {{N2}} 硬币 {{N3}} 空岛经验",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Skills/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "&#{{N0}} RARE Chips max at Level {{N1}} &#{{N2}} EPIC Chips max at Level {{N3}} &#{{N4}} LEGENDARY Chips max at Level {{N5}}",
+   "translation": "&#{{N0}} 稀有芯片最高等级 {{N1}} &#{{N2}} 史诗芯片最高等级 {{N3}} &#{{N4}} 传奇芯片最高等级 {{N5}}",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Garden_Chips/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Mineshaft Info! Glacite Mineshafts are rare areas that you can find while mining in the Glacite Tunnels.",
+   "translation": "矿井信息！冰晶矿井是你在冰晶隧道中采矿时可能发现的稀有区域。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Glacite_Mineshafts/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Apply Reforges to your item with Reforge Stones or by rolling a random reforge.",
+   "translation": "使用重铸石或随机重铸为你的物品施加重铸。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/The_Hex/UI/Armor",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Ability: Parley  RIGHT CLICK Channel your inner Jerry. Cooldown: {{N0}}s",
+   "translation": "技能：谈判 右键 释放你内心的杰瑞。冷却时间：{{N0}}秒",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Gift_Bag_of_the_Century/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Ability: Water Burst  SNEAK When wearing the full set, grants the wearer with the ability to burst forward when sneaking in water. Mana Cost: {{N0}}✎",
+   "translation": "技能：水爆 潜行 穿戴全套时，使穿戴者能够在水中潜行时向前爆发冲刺。 法力消耗：{{N0}}✎",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Gift_Bag_of_the_Century/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Ability: Pickobulus  RIGHT CLICK Throw your pickaxe to create an explosion mining all ores in a {{N0}} block radius. Cooldown: {{N1}}s",
+   "translation": "技能: Pickobulus  右键单击 投掷你的镐子，产生爆炸，开采 {{N0}} 格半径内的所有矿石。冷却时间: {{N1}}秒",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Rusty/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Ability: Seek the King  RIGHT CLICK Reach out to the King and open the Commissions menu. Cooldown: {{N0}}s",
+   "translation": "技能：寻找国王  右键 联系国王并打开委托菜单。冷却时间：{{N0}}秒",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Rusty/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Ability: True Dwarth  RIGHT CLICK Shows the way towards the nearest Emissary while in the Dwarven Mines. Cooldown: {{N0}}s",
+   "translation": "技能：真·矮人  右键 在矮人矿井中显示通往最近使者的路径。冷却时间：{{N0}}秒",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Rusty/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Ability: Jingle Bells  RIGHT CLICK Angers all monsters in a {{N0}} block range, consuming {{N1}} of your max mana and causing them to run towards you. Cooldown: {{N2}}s",
+   "translation": "技能：铃儿响叮当  右键 激怒 {{N0}} 格范围内的所有怪物，消耗你最大法力的 {{N1}}，并使它们朝你跑来。冷却时间：{{N2}}秒",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Rusty/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Perks: Better Together If you are on a public island with a party member, you gain {{N0}} skill experience.",
+   "translation": "增益：同心协力 如果你和一名队伍成员在同一个公共岛屿上，你将获得 {{N0}} 技能经验。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Resistance_General/FurryEBoy",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Ability: Extreme Focus  RIGHT CLICK Consumes all your remaining mana to grant Damage Resistance for {{N0}} seconds and extra damage on your next hit (within {{N1}} seconds) depending on how much mana was consumed! Mana Cost: {{N2}}",
+   "translation": "技能: 极限专注 右键点击 消耗你所有剩余法力，在 {{N0}} 秒内获得伤害抗性，并根据消耗的法力值在下次攻击（{{N1}} 秒内）造成额外伤害！法力消耗: {{N2}}",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Recipe_Book/UI/Mining",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Ability: Ice Bolt  RIGHT CLICK Shoots {{N0}} Ice Bolt that deals {{N1}} damage and slows enemies hit for {{N2}} seconds! Mana Cost: {{N3}}",
+   "translation": "技能: 冰锥  右键 射出 {{N0}} 个冰锥，造成 {{N1}} 伤害并使命中的敌人减速 {{N2}} 秒! 法力消耗: {{N3}}",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Recipe_Book/UI/Mining",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Harness the true power of the Gemstones! Each gemstone placed in here will boost its associated stat.",
+   "translation": "驾驭宝石的真正力量! 每颗镶嵌在此的宝石都会提升其对应的属性。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Recipe_Book/UI/Mining",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Ability: Mining Speed Boost  RIGHT CLICK Grants {{N0}} ⸕ Mining Speed for {{N1}}s. Cooldown: {{N2}}s",
+   "translation": "技能: 采矿速度提升  右键 获得 {{N0}} ⸕ 采矿速度，持续 {{N1}} 秒。冷却时间: {{N2}} 秒",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Recipe_Book/UI/Mining",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Ability: Ice Bolt  RIGHT CLICK Shoots {{N0}} Ice Bolt that deals {{N1}} damage and slows enemies hit for {{N2}} seconds! When hitting the ground, also creates an explosion of {{N3}} blocks, dealing the same damage. Mana Cost: {{N4}}",
+   "translation": "技能: 冰锥  右键 射出 {{N0}} 个冰锥，造成 {{N1}} 点伤害并使命中的敌人减速 {{N2}} 秒！击中地面时还会产生 {{N3}} 格的爆炸，造成相同伤害。 法力消耗: {{N4}}",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Recipe_Book/UI/Mining",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Ability: Iron Punch  RIGHT CLICK Punch the ground, damaging enemies in a hexagon around you for {{N0}} base Magic Damage. Mana Cost: {{N1}} Cooldown: {{N2}}s",
+   "translation": "技能: 铁拳  右键 猛击地面，对你周围六边形范围内的敌人造成 {{N0}} 点基础魔法伤害。 法力消耗: {{N1}} 冷却时间: {{N2}}秒",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Recipe_Book/UI/Mining",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "This menu is only for the Alpha server! You can buy all of Shen's Special items on the Alpha but on the main server, this menu will rotate every SkyBlock year!",
+   "translation": "此菜单仅适用于 Alpha 服务器！你可以在 Alpha 上购买 Shen 的所有特殊物品，但在主服务器上，此菜单每个空岛年都会轮换！",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Regalia_Room/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Hunt critters in a biome to progress through its Milestones. Each biome has its own set of milestones that upgrade your Safari Belt in a unique way.",
+   "translation": "在生物群系中狩猎生物以推进其里程碑。每个群系都有自己的一套里程碑，能以独特方式升级你的狩猎腰带。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Andrea/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "gui",
+   "npc": "",
+   "source": "({{N0}}/{{N1}}) Featured Update Items",
+   "translation": "({{N0}}/{{N1}}) 精选更新物品",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Centauri/UI/0.27.1_RC_%2B_Ministers_%28Alpha%29",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Ability: Leapfrog  DOUBLE TAP JUMP Grants you the abilities of a Frog while on Foraging Islands, allowing you to Double Jump. Mana Cost: {{N0}}",
+   "translation": "能力：跳蛙 双击跳跃 在采伐岛屿上时赋予你青蛙的能力，允许你二段跳。法力消耗：{{N0}}",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Centauri/UI/0.27.1_RC_%2B_Ministers_%28Alpha%29",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Ability: Double Jump  DOUBLE TAP JUMP Allows you to double jump mid air! Mana Cost: {{N0}}",
+   "translation": "能力：二段跳  双击跳跃 允许你在空中二段跳！法力消耗：{{N0}}",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Centauri/UI/0.27.1_RC_%2B_Ministers_%28Alpha%29",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Ability: Puzzle  RIGHT CLICK Lets you solve a puzzle.",
+   "translation": "技能：谜题  右键点击 让你解开一个谜题。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Centauri/UI/0.27.1_RC_%2B_Ministers_%28Alpha%29",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "On coming back, burn enemies within {{N0}} blocks and set your Health ❤ to HALF of what it was.",
+   "translation": "返回时，灼烧 {{N0}} 格内的敌人，并将你的生命 ❤ 设为原值的一半。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Recipe_Book/UI/Blaze",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "The burn deals {{N0}} of ALL damage you dealt within the {{N1}}s, spreading over {{N2}}s. Mana Cost: {{N3}} Cooldown: {{N4}}s",
+   "translation": "灼烧造成你在 {{N1}} 秒内造成的全部伤害的 {{N0}}，并在 {{N2}} 秒内分摊。法力消耗：{{N3}} 冷却时间：{{N4}} 秒",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Recipe_Book/UI/Blaze",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Right-click to consume a really nice, really good pill.",
+   "translation": "右键消耗一颗非常不错、非常好的药丸。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Recipe_Book/UI/Blaze",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Consuming it allows you to use teleport pads on your private island from anywhere.",
+   "translation": "消耗后，你可以在任意位置使用私人岛屿上的传送垫。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Recipe_Book/UI/Blaze",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rewards: Ability to purchase Rock Paper Shears from Amelia {{N0}} Coins",
+   "translation": "奖励：可从 Amelia 处以 {{N0}} 硬币购买石头剪刀布",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Social/Skill_UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rewards: Ability to purchase Showcase Block from Amelia {{N0}} Coins",
+   "translation": "奖励：可从 Amelia 处以 {{N0}} 硬币购买展示方块",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Social/Skill_UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Some Baits, like Fish Bait, increase your ☂ Fishing Speed, which makes it quicker to catch fish.",
+   "translation": "某些鱼饵，如鱼饵，会提高你的 ☂ 钓鱼速度，让你更快钓到鱼。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bait_Guide/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Lapis Progress: {{N0}} ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  {{N1}}/{{N2}}",
+   "translation": "青金石进度：{{N0}} ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  {{N1}}/{{N2}}",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Grandpa_Wolf/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Umber Progress: {{N0}} ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎   {{N1}}/{{N2}}",
+   "translation": "赭石进度：{{N0}} ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎   {{N1}}/{{N2}}",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Grandpa_Wolf/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Tungsten Progress: {{N0}} ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎   {{N1}}/{{N2}}",
+   "translation": "钨进度：{{N0}} ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎   {{N1}}/{{N2}}",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Grandpa_Wolf/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Vanguard Progress: {{N0}} ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎   {{N1}}/{{N2}}",
+   "translation": "先锋进度：{{N0}} ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎   {{N1}}/{{N2}}",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Grandpa_Wolf/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Lapis Progress: {{N0}} ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ {{N1}}/{{N2}}",
+   "translation": "青金石进度：{{N0}} ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ {{N1}}/{{N2}}",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Grandpa_Wolf/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Automatically compacts various Farming items that are in your Sacks. Does not grant Carpentry XP!",
+   "translation": "自动压缩你背包中各种农业物品。不提供木工经验！",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Centauri/UI/Accessory_Bag_Revamp_%2B_Economy_Changes",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Automatically compacts various Mining items that are in your Sacks. Does not grant Carpentry XP!",
+   "translation": "自动压缩你背包中各种采矿物品。不提供木工经验！",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Centauri/UI/Accessory_Bag_Revamp_%2B_Economy_Changes",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Automatically compacts various Combat items that are in your Sacks. Does not grant Carpentry XP!",
+   "translation": "自动压缩你背包中各种战斗物品。不提供木工经验！",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Centauri/UI/Accessory_Bag_Revamp_%2B_Economy_Changes",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Automatically compacts various Foraging items that are in your Sacks. Does not grant Carpentry XP!",
+   "translation": "自动压缩你 sacks 中的各种采伐物品。不提供木工经验！",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Centauri/UI/Accessory_Bag_Revamp_%2B_Economy_Changes",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Automatically compacts various Fishing items that are in your Sacks. Does not grant Carpentry XP!",
+   "translation": "自动压缩你 sacks 中的各种钓鱼物品。不提供木工经验！",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Centauri/UI/Accessory_Bag_Revamp_%2B_Economy_Changes",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Automatically compacts various Husbandry items that are in your Sacks. Does not grant Carpentry XP!",
+   "translation": "自动压缩你 sacks 中的各种畜牧物品。不提供木工经验！",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Centauri/UI/Accessory_Bag_Revamp_%2B_Economy_Changes",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Grants {{N0}} Accessory Power when applied to a LEGENDARY or MYTHIC accessory. Can be applied once.",
+   "translation": "应用于传说或神话饰品时提供 {{N0}} 饰品之力。只能应用一次。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Centauri/UI/Accessory_Bag_Revamp_%2B_Economy_Changes",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Accessory Power: {{N0}} Strength: {{N1}}",
+   "translation": "饰品之力：{{N0}} 力量：{{N1}}",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Centauri/UI/Accessory_Bag_Revamp_%2B_Economy_Changes",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Applicable on: Melee Weapon, Mining Tools, Weapons Apply Cost: {{N0}} Exp Levels",
+   "translation": "适用于：近战武器、采矿工具、武器 应用花费：{{N0}} 经验等级",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Centauri/UI/Accessory_Bag_Revamp_%2B_Economy_Changes",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Tiered Bonus: Lord's Blessing ({{N0}}/{{N1}}) Grants {{N2}} Sea Creature Chance. Grants {{N3}} Magic Find on Lava Sea Creatures.",
+   "translation": "分级加成：领主祝福（{{N0}}/{{N1}}）提供 {{N2}} 海怪概率。对熔岩海怪提供 {{N3}} 稀有物品概率加成。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Centauri/UI/Accessory_Bag_Revamp_%2B_Economy_Changes",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Damage taken from Lava Sea Creatures is reduced by {{N0}} and damage dealt is increased by {{N1}}x.",
+   "translation": "受到熔岩海怪的伤害降低 {{N0}}，造成的伤害提高 {{N1}}x。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Centauri/UI/Accessory_Bag_Revamp_%2B_Economy_Changes",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Progress:  {{N0}} -------------------- {{N1}}/{{N2}}",
+   "translation": "进度：{{N0}} -------------------- {{N1}}/{{N2}}",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Hunting/Skill_UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rewards: Conjurer XIII Gain {{N0}}➜{{N1}} more experience orbs from any source. {{N2}} ๑ Ability Damage {{N3}} ✎ Intelligence Magnet Enchantment {{N4}} Coins {{N5}} SkyBlock XP",
+   "translation": "奖励：咒术师 XIII 从任何来源获得的经验球增加 {{N0}}➜{{N1}}。 {{N2}} ๑ 技能伤害 {{N3}} ✎ 智力 磁力附魔 {{N4}} 硬币 {{N5}} 空岛经验",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Enchanting/Skill_UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rewards: Conjurer XIV Gain {{N0}}➜{{N1}} more experience orbs from any source. {{N2}} ๑ Ability Damage {{N3}} ✎ Intelligence Lethality Enchantment Frail Enchantment Execute Enchantment Thunderlord Enchantment {{N4}} Coins {{N5}} SkyBlock XP",
+   "translation": "奖励：咒术师 XIV 从任何来源获得的经验球增加 {{N0}}➜{{N1}}。 {{N2}} ๑ 技能伤害 {{N3}} ✎ 智力 致命附魔 脆弱附魔 处决附魔 雷神附魔 {{N4}} 硬币 {{N5}} 空岛经验",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Enchanting/Skill_UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rewards: Conjurer XV Gain {{N0}}➜{{N1}} more experience orbs from any source. {{N2}} ๑ Ability Damage {{N3}} ✎ Intelligence Drain Enchantment Caster Enchantment Flowstate Enchantment True Protection Enchantment Vampirism Enchantment {{N4}} Coins {{N5}} SkyBlock XP",
+   "translation": "奖励：咒术师 XV 从任何来源获得的经验球增加 {{N0}}➜{{N1}}。 {{N2}} ๑ 技能伤害 {{N3}} ✎ 智力 汲取附魔 施法者附魔 流态附魔 真实防护附魔 吸血鬼附魔 {{N4}} 硬币 {{N5}} 空岛经验",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Enchanting/Skill_UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rewards: Conjurer XVII Gain {{N0}}➜{{N1}} more experience orbs from any source. {{N2}} ๑ Ability Damage {{N3}} ✎ Intelligence Piercing Enchantment Venomous Enchantment {{N4}} Coins {{N5}} SkyBlock XP",
+   "translation": "奖励：咒术师 XVII 从任何来源获得的经验球增加 {{N0}}➜{{N1}}。 {{N2}} ๑ 技能伤害 {{N3}} ✎ 智力 穿透附魔 剧毒附魔 {{N4}} 硬币 {{N5}} 空岛经验",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Enchanting/Skill_UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rewards: Conjurer XVIII Gain {{N0}}➜{{N1}} more experience orbs from any source. {{N2}} ๑ Ability Damage {{N3}} ✎ Intelligence Spiked Hook Enchantment Ultimate Jerry Enchantment {{N4}} Coins {{N5}} SkyBlock XP",
+   "translation": "奖励：咒术师 XVIII 从任意来源获得的经验球增加 {{N0}}➜{{N1}}。{{N2}} ๑ 技能伤害 {{N3}} ✎ 智力 尖刺钩附魔 终极杰瑞附魔 {{N4}} 硬币 {{N5}} 空岛经验",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Enchanting/Skill_UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Clicks used: # Pairs found: #",
+   "translation": "已用点击次数：# 已找到配对数：#",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Experimentation_Table/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Use the Fusion Machine, The Fusion Machine will be extremely useful in your Hunting journey.",
+   "translation": "使用融合机，融合机在你的狩猎之旅中会非常有用。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Hina/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Kill {{N0}} ,{{N1}} mobs.",
+   "translation": "击杀 {{N0}} ,{{N1}} 只怪物。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bingo/Events/2023",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Reach {{N0}} ,{{N1}} Cocoa Beans Collection.",
+   "translation": "达到 {{N0}} ,{{N1}} 可可豆收集。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bingo/Events/2023",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Wear {{N0}} pieces of Equipment, all from different Equipment Sets.",
+   "translation": "穿戴 {{N0}} 件装备，且全部来自不同的装备套装。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bingo/Events/2023",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Progress to Pet  III: {{N0}} {{N1}}/{{N2}}B",
+   "translation": "宠物 III 进度：{{N0}} {{N1}}/{{N2}}B",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bingo/Events/2023",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Progress to Pet  I: {{N0}} {{N1}}/{{N2}}M",
+   "translation": "宠物 I 进度：{{N0}} {{N1}}/{{N2}}M",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bingo/Events/2023",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Complete tasks within a Chapter to earn small rewards, or complete entire Chapters to earn big ones!",
+   "translation": "完成章节内的任务可获得小奖励，完成整个章节可获得大奖励！",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Quests_%26_Chapters/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Some islands also have Quests for you to complete! Some items can only be obtained through Quests.",
+   "translation": "有些岛屿还有任务等你完成！有些物品只能通过任务获得。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Quests_%26_Chapters/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Plays vinyls at a frequency only Pests can hear. Certain Pests are more likely to appear when certain vinyls are playing.",
+   "translation": "以只有害虫能听到的频率播放黑胶唱片。播放特定唱片时，某些害虫更可能出现。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/InfiniVacuum%E2%84%A2_Hooverius/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Ability: Lucky(?) Charm While worn, Mob Drops, Dyes, and items claimed from Dungeon Chests have a {{N0}} chance to be DOUBLED, and a {{N1}} chance to be DELETED.",
+   "translation": "技能：幸运(?)护符 佩戴时，生物掉落物、染料以及从地牢宝箱中领取的物品有 {{N0}} 几率被翻倍，并有 {{N1}} 几率被删除。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Centauri/UI/Magic_Find_Rework_Testing_%2B_Accessory_Bag_Revamp_%2B_Economy_Changes_Testing",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Most valuable drop doubled: None Most valuable drop deleted: None",
+   "translation": "最有价值的掉落物翻倍：无 最有价值的掉落物删除：无",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Centauri/UI/Magic_Find_Rework_Testing_%2B_Accessory_Bag_Revamp_%2B_Economy_Changes_Testing",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Luck is a quantifiable metric that everyone possesses in varying amounts.",
+   "translation": "幸运是每个人都拥有的可量化指标，数量各不相同。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Centauri/UI/Magic_Find_Rework_Testing_%2B_Accessory_Bag_Revamp_%2B_Economy_Changes_Testing",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Grants {{N0}} Tuning Point when applied to a LEGENDARY or MYTHIC Accessory. Can be applied once.",
+   "translation": "应用于传说或神话饰品时，获得 {{N0}} 调谐点数。只能应用一次。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Centauri/UI/Magic_Find_Rework_Testing_%2B_Accessory_Bag_Revamp_%2B_Economy_Changes_Testing",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "gui",
+   "npc": "",
+   "source": "Current Cannon Upgrades",
+   "translation": "当前火炮升级",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Kuudra/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Primary Perks:",
+   "translation": "主要增益：",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Kuudra/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rapid Fire - Tier: {{N0}} Bonus Damage - Tier: {{N1}} Accelerated - Tier: {{N2}} Blast Radius - Tier: {{N3}} Multi Shot - Tier: {{N4}}",
+   "translation": "快速射击 - 等级：{{N0}} 额外伤害 - 等级：{{N1}} 加速 - 等级：{{N2}} 爆炸半径 - 等级：{{N3}} 多重射击 - 等级：{{N4}}",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Kuudra/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Decreased reload time to {{N0}} seconds.",
+   "translation": "装填时间缩短至 {{N0}} 秒。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Kuudra/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Current Tier: {{N0}}",
+   "translation": "当前等级：{{N0}}",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Kuudra/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Every {{N0}} cannonballs deal {{N1}} damage.",
+   "translation": "每 {{N0}} 发炮弹造成 {{N1}} 点伤害。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Kuudra/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Next Tier: {{N0}} damage every {{N1}} cannonballs",
+   "translation": "下一等级：每 {{N1}} 发炮弹造成 {{N0}} 点伤害",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Kuudra/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Your cannonballs fly {{N0}}x faster.",
+   "translation": "你的炮弹飞行速度提升 {{N0}} 倍。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Kuudra/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Next Tier: {{N0}} faster",
+   "translation": "下一等级：速度提升 {{N0}} 倍",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Kuudra/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Increased range of explosion by {{N0}}",
+   "translation": "爆炸范围增加 {{N0}}",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Kuudra/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Next Tier: {{N0}} larger range",
+   "translation": "下一等级：范围增加 {{N0}}",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Kuudra/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Every time you shoot the cannon fire {{N0}} extra cannonballs.",
+   "translation": "每次开炮时额外发射 {{N0}} 发炮弹。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Kuudra/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Next Tier: {{N0}} extra cannonballs",
+   "translation": "下一等级：额外 {{N0}} 发炮弹",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Kuudra/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Secondary Perks:",
+   "translation": "次要增益：",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Kuudra/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Nothing - Tier: {{N0}}",
+   "translation": "无 - 等级：{{N0}}",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Kuudra/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Cannonballs that hit the kraken reduce the amount of entities being thrown around by {{N0}} for {{N1}} seconds.",
+   "translation": "命中海妖的炮弹会使被抛出的实体数量减少 {{N0}}，持续 {{N1}} 秒。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Kuudra/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Next Tier: {{N0}} seconds",
+   "translation": "下一等级：{{N0}} 秒",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Kuudra/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Hitting a tentacle with a cannonball reduces its healing by {{N0}} for the next {{N1}} seconds.",
+   "translation": "用炮弹命中触手会使其在接下来 {{N1}} 秒内的治疗量降低 {{N0}}。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Kuudra/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Next Tier: {{N0}} healing reduction",
+   "translation": "下一等级：治疗量降低 {{N0}}",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Kuudra/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Every hit on the same target delas {{N0}} extra damage, up to {{N1}}",
+   "translation": "对同一目标的每次命中造成额外 {{N0}} 点伤害，最多 {{N1}}",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Kuudra/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Next Tier: {{N0}} damage",
+   "translation": "下一等级：{{N0}} 点伤害",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Kuudra/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Your cannonballs slow the target by {{N0}} and increase all incoming damage by {{N1}}",
+   "translation": "你的炮弹使目标减速 {{N0}}，并使所有受到的伤害提高 {{N1}}",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Kuudra/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Next Tier: {{N0}} slow and {{N1}} damage increase",
+   "translation": "下一阶：减速 {{N0}}，伤害提高 {{N1}}",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Kuudra/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Killing enemies creates an explosion dealing {{N0}} of their health to surrounding enemies within {{N1}} blocks.",
+   "translation": "击杀敌人会引发爆炸，对 {{N1}} 格范围内的周围敌人造成其生命值 {{N0}} 的伤害。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Kuudra/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Current Tier {{N0}}",
+   "translation": "当前阶数 {{N0}}",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Kuudra/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Players who have this perk:",
+   "translation": "拥有此增益的玩家：",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Kuudra/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Reduces damage taken by your teammates within {{N0}} blocks by {{N1}}",
+   "translation": "使 {{N0}} 格范围内的队友受到的伤害降低 {{N1}}",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Kuudra/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Next Tier: {{N0}} damage reduction",
+   "translation": "下一阶：伤害减免 {{N0}}",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Kuudra/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "One Time Perks:",
+   "translation": "一次性增益：",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Kuudra/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "These perks can be purchased exactly once!",
+   "translation": "这些增益只能购买一次！",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Kuudra/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Launches a nuke which kills all regular mobs and heavily damages minibosses.",
+   "translation": "发射一枚核弹，击杀所有普通怪物并重创小首领。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Kuudra/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "gui",
+   "npc": "",
+   "source": "Sven Packmaster RNG Meter",
+   "translation": "Sven 群狼首领 RNG 计量表",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Wolf_Slayer",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Your RNG Meter fills with Wolf Slayer XP every time you defeat Sven Packmaster III or higher!",
+   "translation": "每次击败斯文·帕克马斯特 III 或更高等级时，你的 RNG 计量表都会填充狼杀手经验！",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Wolf_Slayer",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Tier I amount: {{N0}}",
+   "translation": "I 级数量：{{N0}}",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Wolf_Slayer",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Minimum: Tier I Odds: RNGesus Incarnate ({{N0}})",
+   "translation": "最低：I 阶 概率：RNGesus 化身 ({{N0}})",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Wolf_Slayer",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Slayer XP: {{N0}}/{{N1}}",
+   "translation": "史莱姆 XP：{{N0}}/{{N1}}",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Wolf_Slayer",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Tier II amount: {{N0}} Tier III amount: {{N1}} to {{N2}} Tier IV amount: {{N3}} to {{N4}}",
+   "translation": "II级数量：{{N0}} III级数量：{{N1}} 至 {{N2}} IV级数量：{{N3}} 至 {{N4}}",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Wolf_Slayer",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Tier II amount: {{N0}}",
+   "translation": "II 级数量：{{N0}}",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Wolf_Slayer",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Minimum: Tier II Odds: Rare ({{N0}})",
+   "translation": "最低：II级 概率：稀有 ({{N0}})",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Wolf_Slayer",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Tier III amount: {{N0}}",
+   "translation": "III 级数量：{{N0}}",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Wolf_Slayer",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Minimum: Tier III Odds: Extraordinary ({{N0}})",
+   "translation": "最低: III阶 概率: 非凡 ({{N0}})",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Wolf_Slayer",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Minimum: Tier III Odds: Pray RNGesus ({{N0}})",
+   "translation": "最低：III 阶 概率：祈求 RNGesus ({{N0}})",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Wolf_Slayer",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Tier IV amount: {{N0}}",
+   "translation": "IV 阶数量：{{N0}}",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Wolf_Slayer",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Minimum: Tier IV Odds: Pray RNGesus ({{N0}})",
+   "translation": "最低: IV阶 概率: 祈求RNGesus ({{N0}})",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Wolf_Slayer",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Want to view more information about the item you are currently holding? Then this is the command for you!",
+   "translation": "想查看当前手持物品的更多信息？那么这个命令正适合你！",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Biblio/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "gui",
+   "npc": "",
+   "source": "Reforge Fishing Rod",
+   "translation": "重铸钓鱼竿",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Terry/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Place a Fishing Rod above to apply the Salty reforge to it!",
+   "translation": "在上方放置一根钓鱼竿以对其应用咸味重铸！",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Terry/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Applies a α Sea Creature Chance bonus to the fishing rod.",
+   "translation": "为钓鱼竿提供α海怪几率加成。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Terry/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Place a Fishing Rod above to apply the Treacherous reforge to it!",
+   "translation": "在上方放置一根钓鱼竿以对其应用背叛重铸！",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Terry/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Applies α Sea Creature Chance and ❁ Strength bonuses to the fishing rod.",
+   "translation": "为钓鱼竿提供α海怪几率和❁力量加成。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Terry/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "gui",
+   "npc": "",
+   "source": "Catacombs RNG Meter",
+   "translation": "地下墓穴 RNG 计量表",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Catacombs",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Your Catacombs RNG Meters fill with Dungeon Score each time you complete an S or S+ run.",
+   "translation": "每次完成 S 或 S+ 评价的地牢挑战时，你的地牢 RNG 计量条会按地牢分数填充。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Catacombs",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Your selected RNG drop will be guaranteed to appear in a chest once your RNG Meter for a floor is full!",
+   "translation": "一旦某一层的地牢 RNG 计量条填满，你选定的 RNG 掉落物必定会出现在宝箱中！",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Catacombs",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Catacombs (F{{N0}})",
+   "translation": "地下墓穴 (F{{N0}})",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Catacombs",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Your RNG Meter fills each time you complete an S+ run on Catacombs (F{{N0}}) by your score for that run. Completing S runs fills your meter with {{N1}} of your score.",
+   "translation": "每次以 S+ 评价完成地下墓穴 (F{{N0}}) 时，你的 RNG 计量表会按该次评分填充。以 S 评价完成时，计量表会按评分的 {{N1}} 填充。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Catacombs",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Stored Dungeon Score: {{N0}}",
+   "translation": "已存储的地牢分数：{{N0}}",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Catacombs",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Your RNG Meter fills each time you complete an S+ run on Catacombs (M{{N0}}) by your score for that run. Completing S runs fills your meter with {{N1}} of your score.",
+   "translation": "每次以 S+ 评价完成地下墓穴 (M{{N0}}) 时，你的 RNG 计量表会按该次评分填充。以 S 评价完成时，计量表会按评分的 {{N1}} 填充。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Catacombs",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "gui",
+   "npc": "",
+   "source": "Catacombs (F{{N0}}) RNG Meter",
+   "translation": "地下墓穴 (F{{N0}}) RNG 计量表",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Catacombs",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Appears In: Wood Chest Odds: Occasional ({{N0}})",
+   "translation": "出现于: 木头宝箱 概率: 偶尔 ({{N0}})",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Catacombs",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Dungeon Score: {{N0}}/{{N1}}",
+   "translation": "地牢得分：{{N0}}/{{N1}}",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Catacombs",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Appears In: Gold Chest Odds: Occasional ({{N0}})",
+   "translation": "出现于: 金宝箱 概率: 偶尔 ({{N0}})",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Catacombs",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Appears In: Wood Chest Odds: Rare ({{N0}})",
+   "translation": "出现于: 木箱 概率: 稀有 ({{N0}})",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Catacombs",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Appears In: Gold Chest Odds: Rare ({{N0}})",
+   "translation": "出现于：金宝箱 概率：稀有 ({{N0}})",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Catacombs",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Appears In: Diamond Chest Odds: Rare ({{N0}})",
+   "translation": "出现于：钻石宝箱 概率：稀有 ({{N0}})",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Catacombs",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Appears In: Diamond Chest Odds: Extraordinary ({{N0}})",
+   "translation": "出现于：钻石宝箱 概率：非凡 ({{N0}})",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Catacombs",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Appears In: Emerald Chest Odds: Extraordinary ({{N0}})",
+   "translation": "出现于: 绿宝石宝箱概率: 非凡 ({{N0}})",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Catacombs",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Appears In: Wood Chest Odds: Extraordinary ({{N0}})",
+   "translation": "出现于: 木头宝箱 概率: 非凡 ({{N0}})",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Catacombs",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Appears In: Obsidian Chest Odds: Rare ({{N0}})",
+   "translation": "出现于: 黑曜石宝箱概率: 稀有 ({{N0}})",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Catacombs",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Appears In: Emerald Chest Odds: Rare ({{N0}})",
+   "translation": "出现于: 绿宝石宝箱概率: 稀有 ({{N0}})",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Catacombs",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Appears In: Emerald Chest Odds: Occasional ({{N0}})",
+   "translation": "出现于：绿宝石宝箱 概率：偶尔 ({{N0}})",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Catacombs",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Appears In: Gold Chest Odds: Extraordinary ({{N0}})",
+   "translation": "出现于: 金宝箱概率: 非凡 ({{N0}})",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Catacombs",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Appears In: Obsidian Chest Odds: Extraordinary ({{N0}})",
+   "translation": "出现于：黑曜石宝箱 概率：非凡 ({{N0}})",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Catacombs",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Appears In: Bedrock Chest Odds: Occasional ({{N0}})",
+   "translation": "出现于：基岩宝箱 概率：偶尔 ({{N0}})",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Catacombs",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Appears In: Bedrock Chest Odds: Rare ({{N0}})",
+   "translation": "出现于：基岩宝箱 概率：稀有 ({{N0}})",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Catacombs",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Appears In: Bedrock Chest Odds: Extraordinary ({{N0}})",
+   "translation": "出现于: 基岩宝箱概率: 非凡 ({{N0}})",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Catacombs",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Appears In: Bedrock Chest Odds: Pray RNGesus ({{N0}})",
+   "translation": "出现于: 基岩宝箱 概率: 祈求RNGesus ({{N0}})",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Catacombs",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Appears In: Emerald Chest Odds: Pray RNGesus ({{N0}})",
+   "translation": "出现于：绿宝石宝箱 概率：祈求RNGesus ({{N0}})",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Catacombs",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Appears In: Obsidian Chest Odds: Pray RNGesus ({{N0}})",
+   "translation": "出现于: 黑曜石宝箱 概率: 祈求RNGesus ({{N0}})",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Catacombs",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "gui",
+   "npc": "",
+   "source": "({{N0}}/{{N1}}) Catacombs (F{{N2}}) RNG Meter",
+   "translation": "({{N0}}/{{N1}}) 地下墓穴 (F{{N2}}) RNG 计量表",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Catacombs",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "gui",
+   "npc": "",
+   "source": "Catacombs (M{{N0}}) RNG Meter",
+   "translation": "地下墓穴 (M{{N0}}) RNG 计量表",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Catacombs",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Appears In: Bedrock Chest Odds: RNGesus Incarnate ({{N0}})",
+   "translation": "出现于: 基岩宝箱概率: RNGesus化身 ({{N0}})",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Catacombs",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "gui",
+   "npc": "",
+   "source": "({{N0}}/{{N1}}) Catacombs (M{{N2}}) RNG Meter",
+   "translation": "({{N0}}/{{N1}}) 地下墓穴 (M{{N2}}) RNG 计量表",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Catacombs",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "gui",
+   "npc": "",
+   "source": "({{N0}}/{{N1}}) Island NPCs",
+   "translation": "({{N0}}/{{N1}}) 岛屿 NPC",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Stranded_NPCs/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Bait can be stored in your inventory or Fishing Bag, which is unlocked at Raw Cod Collection III.",
+   "translation": "鱼饵可以存放在你的物品栏或钓鱼袋中，钓鱼袋在生鳕鱼收集 III 时解锁。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bait/UI/Guide",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "gui",
+   "npc": "",
+   "source": "Slayer RNG Meter",
+   "translation": "杀手 RNG 计量表",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Slayer",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Your Slayer RNG Meters fill with Slayer XP every time you defeat a Tier III Boss or higher!",
+   "translation": "每次击败 III 阶或更高阶的Boss时，你的史莱姆RNG计量条都会填充史莱姆经验！",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Slayer",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Your RNG Meter fills with Zombie Slayer XP every time you defeat Revenant Horror III or higher!",
+   "translation": "每次击败 Revenant Horror III 或更高阶时，你的RNG计量条都会填充僵尸史莱姆经验！",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Slayer",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Your RNG Meter fills with Spider Slayer XP every time you defeat Tarantula Broodfather III or higher!",
+   "translation": "每次击败狼蛛育母 III 或更高等级时，你的 RNG 计量表都会填充蜘蛛杀手经验！",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Slayer",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Your RNG Meter fills with Enderman Slayer XP every time you defeat Voidgloom Seraph III or higher!",
+   "translation": "每次击败虚空幽暗炽天使 III 或更高等级时，你的 RNG 计量表都会填充末影人杀手经验！",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Slayer",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Your RNG Meter fills with Vampire Slayer XP every time you defeat Riftstalker Bloodfiend III or higher!",
+   "translation": "每次击败裂隙潜行者·血魔 III 或更高等级时，你的 RNG 计量表都会填充吸血鬼杀手经验！",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Slayer",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Your RNG Meter fills with Blaze Slayer XP every time you defeat Inferno Demonlord III or higher!",
+   "translation": "每次击败炼狱恶魔领主 III 或更高等级时，你的 RNG 计量表都会填充烈焰人杀手经验！",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Slayer",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "gui",
+   "npc": "",
+   "source": "Revenant Horror RNG Meter",
+   "translation": "亡魂恐魔 RNG 计量表",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Slayer",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Minimum: Tier II Odds: Extraordinary ({{N0}})",
+   "translation": "最低：II级 概率：非凡 ({{N0}})",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Slayer",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Tier V amount: {{N0}} to {{N1}}",
+   "translation": "V 阶数量：{{N0}} 至 {{N1}}",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Slayer",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Minimum: Tier V Odds: Occasional ({{N0}})",
+   "translation": "最低：V 阶概率：偶尔 ({{N0}})",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Slayer",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Tier V amount: {{N0}}",
+   "translation": "V 阶数量：{{N0}}",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Slayer",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Minimum: Tier V Odds: Pray RNGesus ({{N0}})",
+   "translation": "最低：V 阶概率：祈求 RNGesus ({{N0}})",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Slayer",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Minimum: Tier V Odds: RNGesus Incarnate ({{N0}})",
+   "translation": "最低：V 阶概率：RNGesus 化身 ({{N0}})",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Slayer",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "gui",
+   "npc": "",
+   "source": "Tarantula Broodfather RNG Meter",
+   "translation": "狼蛛育母 RNG 计量表",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Slayer",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Tier I amount: {{N0}} to {{N1}} Tier II amount: {{N2}} to {{N3}} Tier III amount: {{N4}} to {{N5}} Tier IV amount: {{N6}} to {{N7}} Tier V amount: {{N8}}",
+   "translation": "I级数量：{{N0}} 至 {{N1}} II级数量：{{N2}} 至 {{N3}} III级数量：{{N4}} 至 {{N5}} IV级数量：{{N6}} 至 {{N7}} V级数量：{{N8}}",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Slayer",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Minimum: Tier I Odds: Occasional ({{N0}})",
+   "translation": "最低：I级 概率：偶尔 ({{N0}})",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Slayer",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Minimum: Tier IV Odds: Extraordinary ({{N0}})",
+   "translation": "最低: IV阶 概率: 非凡 ({{N0}})",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Slayer",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "gui",
+   "npc": "",
+   "source": "Riftstalker Bloodfiend RNG Meter",
+   "translation": "裂隙追猎者血魔 RNG 计量表",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Slayer",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Minimum: Tier III Odds: Rare ({{N0}})",
+   "translation": "最低：III级 概率：稀有 ({{N0}})",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Slayer",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Minimum: Tier V Odds: Extraordinary ({{N0}})",
+   "translation": "最低：V级 概率：非凡 ({{N0}})",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Slayer",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "\"That horribly rigid, overfrozen water in nearby lake almost kills everything.\"",
+   "translation": "\"附近湖里那僵硬得可怕、过度冻结的水几乎杀死了一切。\"",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Dead_Man%27s_Journal/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "You can spot if a Tree has an active Tree Protection Order if there is a hologram saying “TREE PROTECTION ORDER” next to it. How nifty!",
+   "translation": "如果树木旁边有显示“TREE PROTECTION ORDER”的全息投影，就说明这棵树有生效中的树木保护令。真巧妙！",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Honey/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Enchanted Farmer (Farming) Grants a {{N0}}→{{N1}} chance to find an Enchanted Crop while Farming. Your Attribute: Level {{N2}} ({{N3}} more stacks to Level {{N4}})",
+   "translation": "附魔农夫 (农业) 使你在农业时有 {{N0}}→{{N1}} 的几率找到附魔作物。你的属性: 等级 {{N2}} (还需 {{N3}} 层叠加至等级 {{N4}})",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/David_Hunterborough/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Ghastly Distraction (Global) Pacifies enemies for {{N0}}s→{{N1}}s after mining Opal Gemstones in the Smoldering Tomb. Does not work on Slayer Bosses, Slayer Minibosses. Attacking an enemy ends effect early. Your Attribute: Level {{N2}} ({{N3}} more stacks to Level {{N4}})",
+   "translation": "幽灵干扰 (全局) 在闷烧陵墓中开采蛋白石宝石后，使敌人平静 {{N0}}秒→{{N1}}秒。对史莱姆首领、史莱姆小首领无效。攻击敌人会提前结束效果。你的属性：等级 {{N2}} (还需 {{N3}} 层叠加升至等级 {{N4}})",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/David_Hunterborough/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Unlock new Milestones by syphoning",
+   "translation": "通过吸取解锁新的里程碑",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/David_Hunterborough/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Left-click to scroll!",
+   "translation": "左键点击以滚动!",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/David_Hunterborough/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Centers the menu around your",
+   "translation": "将菜单居中于你的",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/David_Hunterborough/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Reach new Milestones by gaining",
+   "translation": "通过获得来达成新的里程碑",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/David_Hunterborough/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Reach new Milestones by hunting",
+   "translation": "通过狩猎来达成新的里程碑",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/David_Hunterborough/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Reach new Milestones by increasing",
+   "translation": "通过提升来达成新的里程碑",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/David_Hunterborough/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Location: Tangleburg Toughness: {{N0}} ⧉ Style: Trunk →  Branches ({{N1}} ⧉)",
+   "translation": "地点：缠结堡 坚韧度：{{N0}} ⧉ 风格：树干 → 树枝 ({{N1}} ⧉)",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Swoop/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rewards ({{N0}}): - Coconut Spray - Beach Ball Minion Skin - Ice Lolly Minion Skin - Hypixel Sandcastle - Beach Chair - Beach Ball - Relaxation Spray - Sunbathing Spray - Sunbather Spray - Greenhouse Planter",
+   "translation": "奖励 ({{N0}})：- 椰子喷漆 - 沙滩球雪人皮肤 - 冰棍雪人皮肤 - Hypixel 沙堡 - 沙滩椅 - 沙滩球 - 放松喷漆 - 日光浴喷漆 - 日光浴者喷漆 - 温室花盆",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Reward_Bundles/UI/2023",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rewards ({{N0}}): - Kite Spray - Sandcastle Spray - Ice Cream Minion Skin - Sandcastle Minion Skin - Melon Minion Skin - Picnic Set - Beach Chair+ - Beach Ball - Ice Cream Spray - Sweet Treat Spray - Afternoon Snack Spray - Flamingo Float",
+   "translation": "奖励 ({{N0}})：- 风筝喷漆 - 沙堡喷漆 - 冰淇淋雪人皮肤 - 沙堡雪人皮肤 - 西瓜雪人皮肤 - 野餐套装 - 沙滩椅+ - 沙滩球 - 冰淇淋喷漆 - 甜点喷漆 - 下午茶喷漆 - 火烈鸟浮圈",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Reward_Bundles/UI/2023",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rewards ({{N0}}): - Vacation Spray - Surfing Spray - Volleyball Spray - Beach Ball Minion Skin - Ice Cream Minion Skin - Sun Minion Skin - Melon Minion Skin - Red Tent - Cola Cooler - Beach Ball - On Fire Spray - Life Preserver - This is Fine Spray - {{N1}}x Deck Chair - Beach Volleyball Spray - Volleyball Court - Fancy Beach Chair",
+   "translation": "奖励 ({{N0}})：- 度假喷漆 - 冲浪喷漆 - 排球喷漆 - 沙滩球雪人皮肤 - 冰淇淋雪人皮肤 - 太阳雪人皮肤 - 西瓜雪人皮肤 - 红色帐篷 - 可乐冷藏箱 - 沙滩球 - 着火喷漆 - 救生圈 - 没事喷漆 - {{N1}}x 躺椅 - 沙滩排球喷漆 - 排球场 - 精致沙滩椅",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Reward_Bundles/UI/2023",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rewards ({{N0}}): - Lifebelt Spray - Ice Lolly Minion Skin - Sandcastle Minion Skin - Sun Minion Skin - Red Tent - Picnic Set - Hypixel Sandcastle - Beach Chair - Beach Chair+ - Cola Cooler - Beach Ball - Hypixel Sand Castle Spray - BBQ Grill - Hermit Crab Minion Skin - Big Catch Spray - Beach Umbrella - {{N1}}x Basketball Minion Skin - Hammock Spray - {{N2}}x Hammock - Small Pool - Fish Minion Skin - Fisherman's Cooler",
+   "translation": "奖励 ({{N0}})：- 救生带喷漆 - 冰棍雪人皮肤 - 沙堡雪人皮肤 - 太阳雪人皮肤 - 红色帐篷 - 野餐套装 - Hypixel 沙堡 - 沙滩椅 - 沙滩椅+ - 可乐冷藏箱 - 沙滩球 - Hypixel 沙堡喷漆 - 烧烤架 - 寄居蟹雪人皮肤 - 大丰收喷漆 - 沙滩伞 - {{N1}}x 篮球雪人皮肤 - 吊床喷漆 - {{N2}}x 吊床 - 小泳池 - 鱼雪人皮肤 - 渔夫冷藏箱",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Reward_Bundles/UI/2023",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rewards ({{N0}}): - Beach Ball Minion Skin - Ice Cream Minion Skin - Ice Lolly Minion Skin - Sandcastle Minion Skin - Sun Minion Skin - Melon Minion Skin - Red Tent - Picnic Set - Hypixel Sandcastle - Beach Chair - Beach Chair+ - Cola Cooler - Beach Ball - Puffer Spray - Dingy - Clownfish Minion Skin - Relaxing Sloth Spray - Surfboard - {{N1}}x Mini Sandcastle - {{N2}}x Shark Minion Skin - Snorkeling Spray - Ice Cream Cart - {{N3}}x Crab - Pufferfish Minion Skin - Lifeguard Chair",
+   "translation": "奖励 ({{N0}})：- 沙滩球雪人皮肤 - 冰淇淋雪人皮肤 - 冰棍雪人皮肤 - 沙堡雪人皮肤 - 太阳雪人皮肤 - 西瓜雪人皮肤 - 红色帐篷 - 野餐套装 - Hypixel 沙堡 - 沙滩椅 - 沙滩椅+ - 可乐冷藏箱 - 沙滩球 - 河豚喷漆 - 小艇 - 小丑鱼雪人皮肤 - 悠闲树懒喷漆 - 冲浪板 - {{N1}}x 迷你沙堡 - {{N2}}x 鲨鱼雪人皮肤 - 浮潜喷漆 - 冰淇淋车 - {{N3}}x 螃蟹 - 河豚雪人皮肤 - 救生员椅",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Reward_Bundles/UI/2023",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rewards ({{N0}}): - Creeper Spray - Found U!! Spray - Illusion Glass - Pumpkinz Spray - Scary Jerry Spray - Pumpkin Candy Handout",
+   "translation": "奖励 ({{N0}})：- 苦力怕喷漆 - 找到你啦！！喷漆 - 幻象玻璃 - 南瓜喷漆 - 恐怖杰瑞喷漆 - 南瓜糖果发放",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Reward_Bundles/UI/2023",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rewards ({{N0}}): - Undead Jerry Spray - Whoosh Spray - Garlic Spray - Skull Minion Skin - Halloween Candles - Flying Bats - Black Cat Plush - Sweets Spray - Witch Hat - Halloween Scarecrow - Black Cat Plush - Spooky Game Over Spray - Mimic Chest",
+   "translation": "奖励 ({{N0}})：- 亡灵杰瑞喷雾 - 嗖嗖喷雾 - 大蒜喷雾 - 骷髅仆从皮肤 - 万圣节蜡烛 - 飞蝠 - 黑猫毛绒玩具 - 糖果喷雾 - 女巫帽 - 万圣节稻草人 - 黑猫毛绒玩具 - 恐怖游戏结束喷雾 - 拟态宝箱",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Reward_Bundles/UI/2023",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rewards ({{N0}}): - Let Us In Spray - Trick Or Treat Spray - FaBOOlous Spray - Stacked Pumpkins - Candy Bowl - Coffin - Ghost Minion Skin - Witch's Broomstick - Halloween Costumes Spray - Potion Brewer Spray - Hanging Reaper - Monster Under the Bed Spray - Reanimated Painting",
+   "translation": "奖励 ({{N0}})：- 让我们进去喷雾 - 不给糖就捣蛋喷雾 - 太棒了喷雾 - 堆叠南瓜 - 糖果碗 - 棺材 - 幽灵仆从皮肤 - 女巫扫帚 - 万圣节服装喷雾 - 药水酿造师喷雾 - 悬挂死神 - 床下怪物喷雾 - 复活画作",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Reward_Bundles/UI/2023",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rewards ({{N0}}): - Eek! Spray - Porkchop Spray - Witch Please Spray - Undead Minion Skin - Ghost Book - X PEDESTAL - Mummy Candle - Pumpkin Minion Skin - Candle Table - Scarecrow Minion Skin - Distinguished Ghost Spray - Family Photo Spray - Skeleton Statue - Party Crasher Spray - Skeleton Chair",
+   "translation": "奖励 ({{N0}})：- 呀！喷雾 - 猪排喷雾 - 拜托女巫喷雾 - 亡灵仆从皮肤 - 幽灵书 - X 底座 - 木乃伊蜡烛 - 南瓜仆从皮肤 - 蜡烛桌 - 稻草人仆从皮肤 - 尊贵幽灵喷雾 - 全家福喷雾 - 骷髅雕像 - 派对破坏者喷雾 - 骷髅椅",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Reward_Bundles/UI/2023",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rewards ({{N0}}): - Another Dimension Spray - Bonzo the Clown Spray - Watcher Spray - Killer Minion Skin - Zombie Grave - Cauldron - Crystal Ball - Mummy Minion Skin - Skull Vase - Cyclops Minion Skin - Spooky Skelington Spray - Full Moon Spray - {{N1}}x Pumpkin Crafting Table - Pumpkin Farm Spray - Pirate Cutout",
+   "translation": "奖励 ({{N0}})：- 另一个维度喷雾 - 小丑邦佐喷雾 - 观察者喷雾 - 杀手仆从皮肤 - 僵尸坟墓 - 坩埚 - 水晶球 - 木乃伊仆从皮肤 - 骷髅花瓶 - 独眼巨人仆从皮肤 - 恐怖骷髅喷雾 - 满月喷雾 - {{N1}}x 南瓜工作台 - 南瓜农场喷雾 - 海盗立牌",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Reward_Bundles/UI/2023",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rewards ({{N0}}): - Present Stack - Stocking - Trap Spray - Angry Turkey Spray - Happy Snowman - Menorah Spray - Bear Side Table",
+   "translation": "奖励 ({{N0}})：- 礼物堆 - 圣诞袜 - 陷阱喷雾 - 愤怒火鸡喷雾 - 快乐雪人 - 烛台喷雾 - 熊边桌",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Reward_Bundles/UI/2023",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rewards ({{N0}}): - Nutcracker - Wreath Spray - Chimney Spray - Santa Minion Skin - Sniper Snowball Spray - {{N1}}x Star Decorations - {{N2}}x Ice Sofa - Mistletoe Spray - Bear Chair - Silent Night Spray",
+   "translation": "奖励 ({{N0}})：- 胡桃夹子 - 花环喷雾 - 烟囱喷雾 - 圣诞老人仆从皮肤 - 狙击雪球喷雾 - {{N1}}x 星星装饰 - {{N2}}x 冰沙发 - 槲寄生喷雾 - 熊椅 - 平安夜喷雾",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Reward_Bundles/UI/2023",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rewards ({{N0}}): - Small Holiday Tree - Garland - Snowball Spray - Santa Slips Spray - Reindeer Plush - Reindeer Minion Skin - Ice Fireplace - Festive Skeleton Minion Skin - Snow Angel Spray - Bear Bench - Gingerbread Jerry Spray",
+   "translation": "奖励 ({{N0}})：- 小型节日树 - 花环 - 雪球喷雾 - 圣诞老人滑倒喷雾 - 驯鹿毛绒玩具 - 驯鹿仆从皮肤 - 冰壁炉 - 节日骷髅仆从皮肤 - 雪天使喷雾 - 熊长椅 - 姜饼杰瑞喷雾",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Reward_Bundles/UI/2023",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rewards ({{N0}}): - Tall Holiday Tree - Candle Arch - Santa Jerry Spray - Christmas Tree Spray - Grinch Minion Skin - Puppy Surprise Spray - Present Minion Skin - Sled - {{N1}}x Ice Chair - Ice Dinner Table - Festive Zombie Minion Skin - Candy Cane Sniper Spray - Bear Bookshelf - Ugly Bed Wars Sweater Spray",
+   "translation": "奖励 ({{N0}})：- 高大节日树 - 蜡烛拱门 - 圣诞老人杰瑞喷雾 - 圣诞树喷雾 - 绿毛怪仆从皮肤 - 小狗惊喜喷雾 - 礼物仆从皮肤 - 雪橇 - {{N1}}x 冰椅 - 冰餐桌 - 节日僵尸仆从皮肤 - 拐杖糖狙击喷雾 - 熊书架 - 丑陋床战毛衣喷雾",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Reward_Bundles/UI/2023",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rewards ({{N0}}): - Derpy Snowman - Boom Spray - Presents Spray - Gingerbread Man Minion Skin - SkyBlock Christmas Spray - Penguin Minion Skin - {{N1}}x Wreath - {{N2}}x Gingerbread House - {{N3}}x Ice Knight Statue - Festive Jerry Minion Skin - Snow Jerry Spray - Bear Bed - Season's Greetings Spray",
+   "translation": "奖励 ({{N0}})：- 呆萌雪人 - 轰隆喷雾 - 礼物喷雾 - 姜饼人仆从皮肤 - 空岛圣诞喷雾 - 企鹅仆从皮肤 - {{N1}}x 花环 - {{N2}}x 姜饼屋 - {{N3}}x 冰骑士雕像 - 节日杰瑞仆从皮肤 - 雪杰瑞喷雾 - 熊床 - 节日问候喷雾",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Reward_Bundles/UI/2023",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Sun Gecko now revives once when reaching {{N0}} Health.",
+   "translation": "太阳守宫现在会在生命值降至 {{N0}} 时复活一次。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Oruo_The_Almighty/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Reach {{N0}}  Crit Damage.",
+   "translation": "达到 {{N0}}  暴击伤害。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bingo/Events/2026",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Reach {{N0}}  Health.",
+   "translation": "达到 {{N0}}  生命值。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bingo/Events/2026",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "ס Hint {{N0}} D̶N̶D̶",
+   "translation": "ס 提示 {{N0}} D̶N̶D̶",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bingo/Events/2026",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Catch {{N0}}k Pests in Pest Traps, Mouse Traps, or Vermin Traps.",
+   "translation": "在害虫陷阱、老鼠陷阱或害兽陷阱中捕获 {{N0}}k 只害虫。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bingo/Events/2026",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "ס Hint {{N0}} Some mobs are more bonkable than others.",
+   "translation": "ס 提示 {{N0}} 有些怪物比其他怪物更容易敲。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bingo/Events/2026",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "ס Hint {{N0}} Some folks who recently moved into the Spider's Den might be able to give some guidance.",
+   "translation": "ס 提示 {{N0}} 最近搬进蜘蛛巢穴的一些人也许能提供些指引。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bingo/Events/2026",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "ס Hint {{N0}} You'll need to pick fights with enemies not registered in the Bestiary...",
+   "translation": "ס 提示 {{N0}} 你需要与未登记在 Bestiary 中的敌人交战……",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bingo/Events/2026",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rewards: {{N0}} Coins {{N1}} Alchemy Experience +Gain {{N2}} Magic Find on   Skeletal mobs. {{N3}} SkyBlock XP",
+   "translation": "奖励：{{N0}} 硬币 {{N1}} 炼金术经验 +对   骷髅怪物获得 {{N2}} 魔法寻找。{{N3}} 空岛经验",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Alcina/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Place in the top {{N0}} during Jacob's Farming Contest.",
+   "translation": "在 Jacob 的农业竞赛中进入前 {{N0}} 名。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Pandora%27s_Box/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Found a dye on your travels? Vincent will exchange it for an accessory, the color of which depends upon the dye donated.",
+   "translation": "旅途中发现了染料？Vincent 会用饰品与你交换，饰品的颜色取决于你捐赠的染料。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Vincent/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Vincent knows all. Click to see a list of all dyes currently in the game, how they are obtained, and their chances of dropping.",
+   "translation": "Vincent 无所不知。点击查看当前游戏中所有染料的列表、获取方式及其掉落概率。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Vincent/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "There are several qualities of Gemstones, ranging from Rough to Perfect. The higher the quality, the better the stat!",
+   "translation": "宝石有多个品质，从粗糙到完美。品质越高，属性越好！",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Geo/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rewards ({{N0}}): - Coconut Spray - Beach Ball Minion Skin - Ice Lolly Minion Skin - Hypixel Sandcastle - Beach Chair - Beach Ball - Relaxation Spray - Sunbathing Spray - Sunbather Spray - {{N1}}x Greenhouse Planter - Jungle Table - {{N2}}x Jungle Chair",
+   "translation": "奖励 ({{N0}})：- 椰子喷雾 - 沙滩球仆从皮肤 - 冰棍仆从皮肤 - Hypixel 沙堡 - 沙滩椅 - 沙滩球 - 放松喷雾 - 日光浴喷雾 - 日光浴者喷雾 - {{N1}}x 温室花盆 - 丛林桌 - {{N2}}x 丛林椅",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Reward_Bundles/UI/2024",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rewards ({{N0}}): - Kite Spray - Sandcastle Spray - Ice Cream Minion Skin - Sandcastle Minion Skin - Melon Minion Skin - Picnic Set - Beach Chair+ - Beach Ball - I Heart Ice Cream Spray - Sweet Treat Spray - Afternoon Snack Spray - Flamingo Float - Cooler Climates Spray - Jungle Dresser",
+   "translation": "奖励 ({{N0}})：- 风筝喷雾 - 沙堡喷雾 - 冰淇淋仆从皮肤 - 沙堡仆从皮肤 - 西瓜仆从皮肤 - 野餐套装 - 沙滩椅+ - 沙滩球 - 我爱冰淇淋喷雾 - 甜蜜款待喷雾 - 午后点心喷雾 - 火烈鸟浮圈 - 凉爽气候喷雾 - 丛林梳妆台",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Reward_Bundles/UI/2024",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rewards ({{N0}}): - Vacation Spray - Surfing Spray - Volleyball Spray - Beach Ball Minion Skin - Ice Cream Minion Skin - Sun Minion Skin - Melon Minion Skin - Red Tent - Cola Cooler - Beach Ball - On Fire Spray - Life Preserver - This is Fine Spray - {{N1}}x Deck Chair - Beach Volleyball Spray - Volleyball Court - {{N2}}x Fancy Beach Chair - Ice Scream Cart Spray - Jungle Bed",
+   "translation": "奖励 ({{N0}})：- 度假喷雾 - 冲浪喷雾 - 排球喷雾 - 沙滩球仆从皮肤 - 冰淇淋仆从皮肤 - 太阳仆从皮肤 - 西瓜仆从皮肤 - 红色帐篷 - 可乐冷藏箱 - 沙滩球 - 着火喷雾 - 救生圈 - 这没事喷雾 - {{N1}}x 躺椅 - 沙滩排球喷雾 - 排球场 - {{N2}}x 精致沙滩椅 - 冰淇淋尖叫车喷雾 - 丛林床",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Reward_Bundles/UI/2024",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rewards ({{N0}}): - Lifebelt Spray - Ice Lolly Minion Skin - Sandcastle Minion Skin - Sun Minion Skin - Red Tent - Picnic Set - Hypixel Sandcastle - Beach Chair - Beach Chair+ - Cola Cooler - Beach Ball - Hypixel Sand Castle Spray - BBQ Grill - Hermit Crab Minion Skin - Big Catch Spray - Beach Umbrella - {{N1}}x Basketball Minion Skin - Hammock Spray - {{N2}}x Hammock - Small Pool - Fish Minion Skin - {{N3}}x Fisherman's Cooler - Undead Lifesaving Association Spray - Jungle Cabin",
+   "translation": "奖励 ({{N0}})：- 救生带喷雾 - 冰棍仆从皮肤 - 沙堡仆从皮肤 - 太阳仆从皮肤 - 红色帐篷 - 野餐套装 - Hypixel 沙堡 - 沙滩椅 - 沙滩椅+ - 可乐冷藏箱 - 沙滩球 - Hypixel 沙堡喷雾 - 烧烤架 - 寄居蟹仆从皮肤 - 大丰收喷雾 - 沙滩伞 - {{N1}}x 篮球仆从皮肤 - 吊床喷雾 - {{N2}}x 吊床 - 小泳池 - 鱼仆从皮肤 - {{N3}}x 渔夫冷藏箱 - 亡灵救生协会喷雾 - 丛林小屋",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Reward_Bundles/UI/2024",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rewards ({{N0}}): - Beach Ball Minion Skin - Ice Cream Minion Skin - Ice Lolly Minion Skin - Sandcastle Minion Skin - Sun Minion Skin - Melon Minion Skin - Red Tent - Picnic Set - Hypixel Sandcastle - Beach Chair - Beach Chair+ - Cola Cooler - Beach Ball - Puffer Spray - Dingy - Clownfish Minion Skin - Relaxing Sloth Spray - Surfboard - {{N1}}x Mini Sandcastle - {{N2}}x Shark Minion Skin - Snorkeling Spray - Ice Cream Cart - {{N3}}x Crab - Pufferfish Minion Skin - {{N4}}x Lifeguard Chair - Jerry Island Poster Spray - {{N5}}x Totem - {{N6}}x Coconut Drink",
+   "translation": "奖励 ({{N0}})：- 沙滩球仆从皮肤 - 冰淇淋仆从皮肤 - 冰棍仆从皮肤 - 沙堡仆从皮肤 - 太阳仆从皮肤 - 西瓜仆从皮肤 - 红色帐篷 - 野餐套装 - Hypixel 沙堡 - 沙滩椅 - 沙滩椅+ - 可乐冷藏箱 - 沙滩球 - 河豚喷雾 - 小艇 - 小丑鱼仆从皮肤 - 放松树懒喷雾 - 冲浪板 - {{N1}}x 迷你沙堡 - {{N2}}x 鲨鱼仆从皮肤 - 浮潜喷雾 - 冰淇淋车 - {{N3}}x 螃蟹 - 河豚仆从皮肤 - {{N4}}x 救生员椅 - 杰瑞岛海报喷雾 - {{N5}}x 图腾 - {{N6}}x 椰子饮料",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Reward_Bundles/UI/2024",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rewards ({{N0}}): - Creeper Spray - Found U!! Spray - Illusion Glass - Pumpkinz Spray - Scary Jerry Spray - Pumpkin Candy Handout - Pumpkin TV",
+   "translation": "奖励 ({{N0}})：- 苦力怕喷雾 - 找到你了！！喷雾 - 幻象玻璃 - 南瓜兹喷雾 - 恐怖杰瑞喷雾 - 南瓜糖果发放 - 南瓜电视",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Reward_Bundles/UI/2024",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rewards ({{N0}}): - Undead Jerry Spray - Whoosh Spray - Garlic Spray - Skull Minion Skin - Halloween Candles - Flying Bats - Black Cat Plush - Sweets Spray - Witch Hat - Halloween Scarecrow - Spooky Game Over Spray - Mimic Chest - Pumpkin Armchair - Comfy Web Spray",
+   "translation": "奖励 ({{N0}})：- 亡灵杰瑞喷漆 - 嗖嗖喷漆 - 大蒜喷漆 - 骷髅仆从皮肤 - 万圣节蜡烛 - 飞蝠 - 黑猫毛绒玩具 - 糖果喷漆 - 女巫帽 - 万圣节稻草人 - 恐怖游戏结束喷漆 - 拟态宝箱 - 南瓜扶手椅 - 舒适蛛网喷漆",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Reward_Bundles/UI/2024",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rewards ({{N0}}): - Let Us In Spray - Trick Or Treat Spray - FaBOOlous Spray - Stacked Pumpkins - Candy Bowl - Coffin - Ghost Minion Skin - Witch's Broomstick - Halloween Costumes Spray - Potion Brewer Spray - Hanging Reaper - Monster Under the Bed Spray - Reanimated Painting - Pumpkin Couch - Gothic Jerry Spray",
+   "translation": "奖励 ({{N0}})：- 让我们进去喷漆 - 不给糖就捣蛋喷漆 - 惊悚喷漆 - 堆叠南瓜 - 糖果碗 - 棺材 - 幽灵仆从皮肤 - 女巫扫帚 - 万圣节服装喷漆 - 药水酿造师喷漆 - 悬挂死神 - 床下怪物喷漆 - 复活画作 - 南瓜沙发 - 哥特杰瑞喷漆",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Reward_Bundles/UI/2024",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rewards ({{N0}}): - Eek! Spray - Porkchop Spray - Witch Please Spray - Undead Minion Skin - Ghost Book - X PEDESTAL - Mummy Candle - Pumpkin Minion Skin - Candle Table - Scarecrow Minion Skin - Distinguished Ghost Spray - Family Photo Spray - Skeleton Statue - Party Crasher Spray - {{N1}}x Skeleton Chair - Pumpkin Bed - Haunted Conscience Spray",
+   "translation": "奖励 ({{N0}})：- 呀！喷漆 - 猪排喷漆 - 女巫请喷漆 - 亡灵仆从皮肤 - 幽灵书 - X 基座 - 木乃伊蜡烛 - 南瓜仆从皮肤 - 蜡烛桌 - 稻草人仆从皮肤 - 尊贵幽灵喷漆 - 全家福喷漆 - 骷髅雕像 - 派对闯入者喷漆 - {{N1}}x 骷髅椅 - 南瓜床 - 闹鬼良知喷漆",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Reward_Bundles/UI/2024",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rewards ({{N0}}): - Another Dimension Spray - Bonzo the Clown Spray - Watcher Spray - Killer Minion Skin - Zombie Grave - Cauldron - Crystal Ball - Mummy Minion Skin - Skull Vase - Cyclops Minion Skin - Spooky Skelington Spray - Full Moon Spray - {{N1}}x Pumpkin Crafting Table - Pumpkin Farm Spray - Pirate Cutout - Pumpkin Dresser - Pumpkin Pals Spray",
+   "translation": "奖励 ({{N0}})：- 另一个维度喷漆 - 小丑邦佐喷漆 - 观察者喷漆 - 杀手仆从皮肤 - 僵尸坟墓 - 大锅 - 水晶球 - 木乃伊仆从皮肤 - 骷髅花瓶 - 独眼巨人仆从皮肤 - 恐怖骷髅喷漆 - 满月喷漆 - {{N1}}x 南瓜工作台 - 南瓜农场喷漆 - 海盗立牌 - 南瓜梳妆台 - 南瓜伙伴喷漆",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Reward_Bundles/UI/2024",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rewards ({{N0}}): - Present Stack - Stocking - Trap Spray - Angry Turkey Spray - Happy Snowman - Menorah Spray - {{N1}}x Bear Side Table - Family Photo (Christmas Edition) Spray",
+   "translation": "奖励 ({{N0}})：- 礼物堆 - 圣诞袜 - 陷阱喷漆 - 愤怒火鸡喷漆 - 快乐雪人 - 烛台喷漆 - {{N1}}x 熊边桌 - 全家福（圣诞版）喷漆",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Reward_Bundles/UI/2024",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rewards ({{N0}}): - Nutcracker - Wreath Spray - Chimney Spray - Santa Minion Skin - Sniper Snowball Spray - {{N1}}x Star Decorations - {{N2}}x Ice Sofa - Mistletoe Spray - {{N3}}x Bear Chair - Silent Night Spray - Casual Christmas Spray - {{N4}}x Candy Cane Bench",
+   "translation": "奖励 ({{N0}})：- 胡桃夹子 - 花环喷漆 - 烟囱喷漆 - 圣诞老人仆从皮肤 - 狙击雪球喷漆 - {{N1}}x 星星装饰 - {{N2}}x 冰沙发 - 槲寄生喷漆 - {{N3}}x 熊椅 - 平安夜喷漆 - 休闲圣诞喷漆 - {{N4}}x 拐杖糖长椅",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Reward_Bundles/UI/2024",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rewards ({{N0}}): - Small Holiday Tree - Garland - Snowball Spray - Santa Slips Spray - Reindeer Plush - Reindeer Minion Skin - Ice Fireplace - Festive Skeleton Minion Skin - Snow Angel Spray - {{N1}}x Bear Bench - Gingerbread Jerry Spray - Angelic Jerry Spray - Candy Cane Table",
+   "translation": "奖励 ({{N0}})：- 小型节日树 - 花环 - 雪球喷漆 - 圣诞老人滑倒喷漆 - 驯鹿毛绒玩具 - 驯鹿仆从皮肤 - 冰壁炉 - 节日骷髅仆从皮肤 - 雪天使喷漆 - {{N1}}x 熊长椅 - 姜饼杰瑞喷漆 - 天使杰瑞喷漆 - 拐杖糖桌",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Reward_Bundles/UI/2024",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rewards ({{N0}}): - Tall Holiday Tree - Candle Arch - Santa Jerry Spray - Christmas Tree Spray - Grinch Minion Skin - Puppy Surprise Spray - Present Minion Skin - Sled - {{N1}}x Ice Chair - Ice Dinner Table - Festive Zombie Minion Skin - Candy Cane Sniper Spray - {{N2}}x Bear Bookshelf - Ugly Bed Wars Sweater Spray - Turkey Day Spray - Gingerbread Bed",
+   "translation": "奖励 ({{N0}})：- 高大节日树 - 烛光拱门 - 圣诞老人杰瑞喷漆 - 圣诞树喷漆 - 绿毛怪仆从皮肤 - 小狗惊喜喷漆 - 礼物仆从皮肤 - 雪橇 - {{N1}}x 冰椅 - 冰餐桌 - 节日僵尸仆从皮肤 - 拐杖糖狙击喷漆 - {{N2}}x 熊书架 - 丑陋床战毛衣喷漆 - 火鸡日喷漆 - 姜饼床",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Reward_Bundles/UI/2024",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rewards ({{N0}}): - Derpy Snowman - Boom Spray - Presents Spray - Gingerbread Man Minion Skin - SkyBlock Christmas Spray - Penguin Minion Skin - {{N1}}x Wreath - {{N2}}x Gingerbread House - {{N3}}x Ice Knight Statue - Festive Jerry Minion Skin - Snow Jerry Spray - {{N4}}x Bear Bed - Season's Greetings Spray - {{N5}}x Extra Large Nutcracker - {{N6}}x Yule Log",
+   "translation": "奖励 ({{N0}})：- 呆萌雪人 - 轰隆喷漆 - 礼物喷漆 - 姜饼人仆从皮肤 - 空岛圣诞喷漆 - 企鹅仆从皮肤 - {{N1}}x 花环 - {{N2}}x 姜饼屋 - {{N3}}x 冰骑士雕像 - 节日杰瑞仆从皮肤 - 雪杰瑞喷漆 - {{N4}}x 熊床 - 节日问候喷漆 - {{N5}}x 超大胡桃夹子 - {{N6}}x 圣诞柴",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Reward_Bundles/UI/2024",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "When your meter is full, your selected drop will be guaranteed to drop the next time you defeat the You don't have an RNG drop selected. Choose one to start progressing towards it!",
+   "translation": "当你的进度条满时，你选定的掉落物将在下次击败时必定掉落。你尚未选择RNG掉落物。选择一个开始向其推进！",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3ARNG_Meter/UI/Vampire_Slayer",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "[VIP] : {{N0}}x XP [VIP+] : {{N1}}x XP [MVP] : {{N2}}x XP [MVP+] : {{N3}}x XP [MVP++] : {{N4}}x XP Other: {{N5}}x XP, Max level {{N6}} ◀",
+   "translation": "[VIP] : {{N0}}x 经验 [VIP+] : {{N1}}x 经验 [MVP] : {{N2}}x 经验 [MVP+] : {{N3}}x 经验 [MVP++] : {{N4}}x 经验 其他: {{N5}}x 经验，最高等级 {{N6}} ◀",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Runecrafting/Skill_UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Click to trade! , none",
+   "translation": "点击交易！ , none",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Argofay_Bugshopper/UI2",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Progress to Pet  I: {{N0}} -------------------- {{N1}}/{{N2}}M",
+   "translation": "宠物 I 进度：{{N0}} -------------------- {{N1}}/{{N2}}M",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bingo/Events/2022",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Progress to Goblin's Treasure I: {{N0}} -------------------- {{N1}}/{{N2}}k",
+   "translation": "哥布林宝藏 I 进度：{{N0}} -------------------- {{N1}}/{{N2}}k",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bingo/Events/2022",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Fish up {{N0}}k Sea Creatures of Rare or higher rarity.",
+   "translation": "钓起 {{N0}}k 只稀有或更高稀有度的海洋生物。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bingo/Events/2025",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Loot {{N0}}k drops with a chance of  {{N1}} or lower.",
+   "translation": "拾取 {{N0}}k 个掉落物，掉落概率为 {{N1}} 或更低。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bingo/Events/2025",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "View all of the mobs that you've found and killed on Your Island.",
+   "translation": "查看你在自己的岛屿上发现并击杀的所有怪物。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "View all of the mobs that you've found and killed in the Hub.",
+   "translation": "查看你在主城发现并击杀的所有怪物。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "View all of the mobs that you've found and killed in the The Farming Islands.",
+   "translation": "查看你在农业群岛发现并击杀的所有怪物。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "View all of the Pests that you've killed on The Garden.",
+   "translation": "查看你在花园击杀的所有害虫。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "View all of the mobs that you've found and killed in the Spider's Den.",
+   "translation": "查看你在蜘蛛巢穴发现并击杀的所有怪物。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "View all of the mobs that you've found and killed in The End.",
+   "translation": "查看你在末地发现并击杀的所有怪物。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "View all of the mobs that you've found and killed in the Crimson Isle.",
+   "translation": "查看你在绯红岛发现并击杀的所有怪物。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "View all of the mobs that you've found and killed in Deep Caverns.",
+   "translation": "查看你在深层洞穴发现并击杀的所有怪物。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "View all of the mobs that you've found and killed in the Dwarven Mines.",
+   "translation": "查看你在矮人矿坑发现并击杀的所有怪物。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "View all of the mobs that you've found and killed in the Crystal Hollows.",
+   "translation": "查看你在水晶洞窟发现并击杀的所有怪物。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "View all of the mobs that you've found and killed in The Park.",
+   "translation": "查看你在公园发现并击杀的所有怪物。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "View all of the mobs that you've found and killed in Galatea.",
+   "translation": "查看你在 Galatea 发现并击杀的所有怪物。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "View all of the mobs that you've found and killed in Torrhus Canyon.",
+   "translation": "查看你在 Torrhus Canyon 发现并击杀的所有怪物。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "View all of the mobs that you've found and killed in Critter Safari.",
+   "translation": "查看你在 Critter Safari 发现并击杀的所有怪物。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "View all of the mobs that you've found and killed during the Spooky Festival.",
+   "translation": "查看你在幽灵节期间发现并击杀的所有怪物。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "View all of the mobs that you've found and killed in The Catacombs.",
+   "translation": "查看你在地牢发现并击杀的所有怪物。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "View all of the Sea Creatures that you've killed while fishing.",
+   "translation": "查看你在钓鱼时击杀的所有海洋生物。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "View all of the Mythological Creatures that you've killed.",
+   "translation": "查看你击杀过的所有神话生物。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "View all of the mobs that you've found and killed while fighting Jerry.",
+   "translation": "查看你在与Jerry战斗时发现并击杀的所有怪物。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "View all of the mobs that you've found and killed while fighting Kuudra.",
+   "translation": "查看你在与Kuudra战斗时发现并击杀的所有怪物。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "View all of the mobs that you've found and killed on the Lotus Atoll.",
+   "translation": "查看你在莲花环礁发现并击杀的所有怪物。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "View all of the mobs that you've found and killed in the Hubd.",
+   "translation": "查看你在Hubd发现并击杀的所有怪物。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bestiary/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Progress: {{N0}} ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  {{N1}}/{{N2}} Donations",
+   "translation": "进度：{{N0}} ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  {{N1}}/{{N2}} 捐赠",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Feast_Chef_Ted/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Fill your composter with crops, like Wheat or Enchanted Potato, to turn them into Organic Matter. Organic Matter is used to make Compost.",
+   "translation": "用小麦或附魔马铃薯等作物填满你的堆肥器，将它们转化为有机物。有机物用于制作堆肥。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Composter/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Fill your composter with machine fuel, like Biofuel to power the composter to turn Organic Matter into Compost.",
+   "translation": "用生物燃料等机器燃料填满你的堆肥器，为堆肥器提供动力，将有机物转化为堆肥。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Composter/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Apply a random reforge to all of the accessories in your Accessory Bag at a discount!",
+   "translation": "以折扣价为你饰品袋中的所有饰品应用随机重铸！",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Blacksmith/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rewards {{N0}} Token of the Mountain +New Forgeable Items +Diamond Mining Helix Emblem ᛝ {{N1}} SkyBlock XP",
+   "translation": "奖励 {{N0}} 山脉之证 +新的可锻造物品 +钻石采矿螺旋徽章 ᛝ {{N1}} 空岛经验",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Pickaxe Ability: Gemstone Infusion Increases the effectiveness of every Gemstone in your drill's Gemstone Slots by {{N0}} for {{N1}}s. Cooldown: {{N2}}s",
+   "translation": "镐技能：宝石注入 在 {{N1}} 秒内，使你钻头宝石槽中每颗宝石的效果提高 {{N0}}。冷却时间：{{N2}}秒",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Cost {{N0}} Token of the Mountain",
+   "translation": "花费 {{N0}} 山脉之证",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Requires Crystalline",
+   "translation": "需要水晶",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Increases your chances of finding a Glacite Mineshaft containing a Gemstone Crystal by {{N0}}.",
+   "translation": "使你找到含有宝石水晶的冰川矿井的几率提高 {{N0}}。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Requires Gifts from the Departed",
+   "translation": "需要逝者之礼",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Gain a {{N0}} chance to get {{N1}} item when looting a Frozen Corpse.",
+   "translation": "拾取冰冻尸体时，有 {{N0}} 的几率获得 {{N1}} 个物品。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "You don't have enough Token of the Mountain!",
+   "translation": "你的山脉之证不足！",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Grants {{N0}} Pristine.",
+   "translation": "提供 {{N0}} 纯净。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "ENABLED",
+   "translation": "已启用",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Gain a {{N0}} chance to spawn {{N1}} Frozen Corpse when entering a Glacite Mineshaft you summoned.",
+   "translation": "进入你召唤的冰川矿井时，有 {{N0}} 的几率生成 {{N1}} 个冰冻尸体。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Increases your chances of finding a Glacite Mineshaft containing a Vanguard Corpse by {{N0}}.",
+   "translation": "增加你在冰川矿井中找到含有先锋尸体的矿井的几率 {{N0}}。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Requires Dead Man's Chest",
+   "translation": "需要亡者之箱",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Pickaxe Ability: Sheer Force Grants {{N0}} Mining Spread for {{N1}}s. Cooldown: {{N2}}s",
+   "translation": "镐技能：纯粹之力 提供 {{N0}} 采矿扩散，持续 {{N1}}秒。冷却时间：{{N2}}秒",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Requires Vanguard Seeker",
+   "translation": "需要先锋探寻者",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rewards {{N0}} Token of the Mountain +New Forgeable Items {{N1}} SkyBlock XP",
+   "translation": "奖励 {{N0}} 山岳之证 +新可锻造物品 {{N1}} 空岛经验",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Grants {{N0}} Dwarven Metal Fortune.",
+   "translation": "提供 {{N0}} 矮人金属时运。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Grants {{N0}} Mining Fortune while in a Glacite Mineshaft.",
+   "translation": "在冰川矿井中提供 {{N0}} 采矿时运。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Grants {{N0}} Mining Speed while in a Glacite Mineshaft.",
+   "translation": "在冰川矿井中提供 {{N0}} 采矿速度。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Grants {{N0}} Magic Find on all Mining Islands.",
+   "translation": "在所有采矿岛屿上提供 {{N0}} 魔法寻宝。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Increases your chances of finding a Suspicious Scrap when mining in a Glacite Mineshaft by {{N0}}.",
+   "translation": "增加你在冰川矿井中采矿时找到可疑碎片的几率 {{N0}}。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Gain {{N0}} Mining Speed when mining Dwarven Metals.",
+   "translation": "开采矮人金属时获得 {{N0}} 采矿速度。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Grants {{N0}} Gemstone Spread while in the Glacite Mineshafts.",
+   "translation": "在冰川矿井中提供 {{N0}} 宝石扩散。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Cost {{N0}} Glacite Powder",
+   "translation": "花费 {{N0}} 冰川粉末",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Grants {{N0}} Cold Resistance.",
+   "translation": "提供 {{N0}} 寒冷抗性。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Increases your chances of finding a Glacite Mineshaft when mining in the Glacite Tunnels by {{N0}}.",
+   "translation": "在冰川隧道中采矿时，你找到冰川矿井的概率提高 {{N0}}。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rewards {{N0}} Token of the Mountain {{N1}} Forge Slot +New Forgeable Items +Golden Mining Helix Emblem ᛝ {{N2}} SkyBlock XP",
+   "translation": "奖励 {{N0}} 山之心证 {{N1}} 锻造槽位 +新的可锻造物品 +金色采矿螺旋徽章 ᛝ {{N2}} 空岛经验",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Grants {{N0}} Mining Speed.",
+   "translation": "提供 {{N0}} 挖掘速度。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Gain {{N0}} more Powder from any source.",
+   "translation": "从任何来源获得的粉末增加 {{N0}}。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Grants {{N0}} Mining Fortune.",
+   "translation": "提供 {{N0}} 挖掘幸运。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rewards {{N0}} Token of the Mountain {{N1}} Forge Slot +New Forgeable Items {{N2}} SkyBlock XP",
+   "translation": "奖励 {{N0}} 山之心证 {{N1}} 锻造槽位 +新可锻造物品 {{N2}} 空岛经验",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Pickaxe Ability: Tunnel Vision Increases the chances of triggering rare occurrences by {{N0}} for {{N1}}s.",
+   "translation": "镐技能：隧道视野 在 {{N1}} 秒内使触发稀有事件的概率提高 {{N0}}。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rare occurrences include: ■ Golden Goblins ■ Fallen Stars ■ Powder Ghasts ■ Worms ■ Glacite Mineshafts Cooldown: {{N0}}s",
+   "translation": "稀有事件包括： ■ 金色哥布林 ■ 坠落之星 ■ 粉末恶魂 ■ 蠕虫 ■ 冰川矿井 冷却时间：{{N0}} 秒",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Requires Blockhead",
+   "translation": "需要 Blockhead",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Grants {{N0}} Block Fortune.",
+   "translation": "提供 {{N0}} 方块幸运。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Grants {{N0}} Fishing Speed and {{N1}} Sea Creature Chance while on Mining Islands.",
+   "translation": "在采矿岛屿上时，提供 {{N0}} 钓鱼速度和 {{N1}} 海怪几率。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Grants {{N0}} Heat Resistance.",
+   "translation": "提供 {{N0}} 抗热性。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Increases  Strength,  Crit Chance,  Crit Damage,  Defense, and  Health statistics gain by {{N0}} while on Mining Islands.",
+   "translation": "在采矿岛屿上时，使  力量、 暴击几率、 暴击伤害、 防御和  生命属性增益提高 {{N0}}。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Boosts the chance to find treasure chests while mining in the Crystal Hollows by {{N0}} and reduces the amount of locks on the chests by {{N1}}.",
+   "translation": "在水晶洞窟中采矿时，找到宝箱的概率提高 {{N0}}，并减少宝箱上的锁数量 {{N1}}。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rewards {{N0}} Token of the Mountain {{N1}} Forge Slot +New Forgeable Items +Mining Helix Emblem ᛝ {{N2}} SkyBlock XP",
+   "translation": "奖励 {{N0}} 山之心证 {{N1}} 锻造槽位 +新的可锻造物品 +采矿螺旋徽章 ᛝ {{N2}} 空岛经验",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Dwarven Mines: {{N0}} Mithril Powder Crystal Hollows: {{N1}} Gemstone Powder Glacite Tunnels: {{N2}} Glacite Powder",
+   "translation": "矮人矿井：{{N0}} 秘银粉末 水晶洞窟：{{N1}} 宝石粉末 冰川隧道：{{N2}} 冰川粉末",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Resets in: {{N0}}h {{N1}}m",
+   "translation": "重置倒计时：{{N0}}小时 {{N1}}分钟",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "{{N0}} Pickaxe Ability Level {{N1}} Commission Slot {{N2}} Base Mithril Powder when mining Mithril {{N3}} Base Gemstone Powder when mining Gemstones {{N4}} Base Glacite Powder when mining Glacite {{N5}} chance for Glacite Mineshafts to spawn. {{N6}} Token of the Mountain {{N7}} SkyBlock XP",
+   "translation": "{{N0}} 镐技能等级 {{N1}} 委托槽位 {{N2}} 挖掘秘银时的基础秘银粉末 {{N3}} 挖掘宝石时的基础宝石粉末 {{N4}} 挖掘冰川时的基础冰川粉末 {{N5}} 冰川矿井生成几率。 {{N6}} 山之心证 {{N7}} 空岛经验",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Mithril: {{N0}} Mithril Powder Gemstone: {{N1}} Gemstone Powder Glacite: {{N2}} Glacite Powder",
+   "translation": "秘银：{{N0}} 秘银粉末 宝石：{{N1}} 宝石粉末 冰川：{{N2}} 冰川粉末",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rewards {{N0}} Token of the Mountain {{N1}} Forge Slot +New Forgeable Items Access to the Crystal Hollows {{N2}} SkyBlock XP",
+   "translation": "奖励 {{N0}} 山之心证 {{N1}} 锻造槽位 +新可锻造物品 进入水晶洞窟 {{N2}} 空岛经验",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Your Current Effect ■ {{N0}}x chance to find Golden and Diamond Goblins.",
+   "translation": "你当前的效果 ■ {{N0}}x 几率找到黄金和钻石哥布林。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Grants {{N0}} Ore Fortune.",
+   "translation": "提供 {{N0}} 矿石幸运。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Gain {{N0}} Mining Speed when mining Gemstones.",
+   "translation": "挖掘宝石时获得 {{N0}} 挖掘速度。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Cost {{N0}} Gemstone Powder",
+   "translation": "花费 {{N0}} 宝石粉末",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "DISABLED",
+   "translation": "已禁用",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Right-click to enable! Left-click to upgrade! Shift Left-click to upgrade {{N0}} levels!",
+   "translation": "右键点击以启用！左键点击以升级！Shift 左键点击以升级 {{N0}} 级！",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Grants {{N0}} Mining Spread when mining Hard Stone.",
+   "translation": "挖掘硬石时提供 {{N0}} 挖掘扩散。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Grants {{N0}} Gemstone Fortune.",
+   "translation": "提供 {{N0}} 宝石幸运。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Grants {{N0}}☯ Mining Wisdom.",
+   "translation": "给予 {{N0}}☯ 采矿智慧。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "■ {{N0}}x Gemstone Powder ■ {{N1}} Gemstone Fortune ■ {{N2}} Mining Speed",
+   "translation": "■ {{N0}}x 宝石粉 ■ {{N1}} 宝石幸运 ■ {{N2}} 挖掘速度",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Blocks remaining: {{N0}} Resets in: {{N1}}h {{N2}}m",
+   "translation": "剩余方块：{{N0}} 重置时间：{{N1}}小时 {{N2}}分钟",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Requires Seasoned Mineman",
+   "translation": "需要资深矿工",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rare occurrences include: • Golden Goblins • Fallen Stars • Powder Ghasts",
+   "translation": "稀有事件包括：• 黄金哥布林 • 坠落之星 • 粉末恶魂",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Grants {{N0}} Mining Spread.",
+   "translation": "提供 {{N0}} 挖掘扩散。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Decreases the time it takes to forge by {{N0}}.",
+   "translation": "锻造所需时间减少 {{N0}}。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rewards {{N0}} Token of the Mountain Access to the Forge +New Forgeable Items {{N1}} SkyBlock XP",
+   "translation": "奖励 {{N0}} 山之心证 锻造台使用权 +新可锻造物品 {{N1}} 空岛经验",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "When Mining Ores or Dwarven Metals, a particle target appears on the block that increases your  Mining Speed by {{N0}} when aiming at it.",
+   "translation": "挖掘矿石或矮人金属时，方块上会出现粒子目标，瞄准它可增加 {{N0}}  挖掘速度。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "When mining Mithril Ore, you have a {{N0}} chance to convert the block into Titanium Ore.",
+   "translation": "开采秘银矿石时，有 {{N0}} 几率将该方块转化为钛矿石。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Cost {{N0}} Mithril Powder",
+   "translation": "花费 {{N0}} 秘银粉末",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Pickaxe Ability: Pickobulus Throw your pickaxe to create an explosion mining all ores in a {{N0}} block radius. Cooldown: {{N1}}s",
+   "translation": "镐技能：镐爆球 投掷你的镐，产生爆炸，开采 {{N0}} 格半径内的所有矿石。冷却时间：{{N1}}秒",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rewards {{N0}} Token of the Mountain {{N1}} SkyBlock XP",
+   "translation": "奖励 {{N0}} 山之心证 {{N1}} 空岛经验",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Token of the Mountain: {{N0}}",
+   "translation": "山之证：{{N0}}",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Unlock more Token of the Mountain by leveling up your Heart of the Mountain tiers.",
+   "translation": "提升山之心层级以解锁更多山之证。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Mithril Powder: {{N0}} ({{N1}} extra base powder) ({{N2}} more powder) Gemstone Powder: {{N3}} ({{N4}} extra base powder) ({{N5}} more powder) Glacite Powder: {{N6}} ({{N7}} extra base powder) ({{N8}} more powder)",
+   "translation": "秘银粉：{{N0}}（{{N1}} 额外基础粉）（{{N2}} 更多粉）宝石粉：{{N3}}（{{N4}} 额外基础粉）（{{N5}} 更多粉）冰晶粉：{{N6}}（{{N7}} 额外基础粉）（{{N8}} 更多粉）",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Obtain Mithril Powder by mining and taking part in events in the Dwarven Mines. Obtain Gemstone Powder by mining Gemstones and opening Treasure Chests in the Crystal Hollows. Obtain Glacite Powder by mining Glacite and looting Frozen Corpses in the Glacite Tunnels.",
+   "translation": "在矮人矿井中挖矿和参与活动可获得秘银粉。在晶洞中开采宝石和开启宝箱可获得宝石粉。在冰晶隧道中开采冰晶和搜刮冰冻尸体可获得冰晶粉。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Find and place the full set of {{N0}} Crystals in the Crystal Nucleus to unlock rare loot chests!",
+   "translation": "找到并将全套 {{N0}} 水晶放入水晶核心，以解锁稀有战利品宝箱！",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Your Crystal Nucleus Jade ✖ Not Found Amber ✖ Not Found Amethyst ✖ Not Found Sapphire ✖ Not Placed Topaz ✖ Not Found",
+   "translation": "你的水晶核心 翡翠 ✖ 未找到 琥珀 ✖ 未找到 紫水晶 ✖ 未找到 蓝宝石 ✖ 未放置 黄玉 ✖ 未找到",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Your Other Crystals Jasper ✖ Not Found Ruby ✖ Not Found Opal ✔ Found Aquamarine ✔ Found Peridot ✖ Not Found Onyx ✔ Found Citrine ✔ Found",
+   "translation": "你的其他水晶 碧玉 ✖ 未找到 红宝石 ✖ 未找到 蛋白石 ✔ 已找到 海蓝宝石 ✔ 已找到 橄榄石 ✖ 未找到 缟玛瑙 ✔ 已找到 黄水晶 ✔ 已找到",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Resets the Perks and Abilities of your Heart of the Mountain, locking them and resetting their levels.",
+   "translation": "重置山之心的技能与能力，将其锁定并重置等级。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "You will be reimbursed with: - {{N0}} Token of the Mountain - {{N1}} Mithril Powder - {{N2}} Gemstone Powder - {{N3}} Glacite Powder",
+   "translation": "你将获得返还：- {{N0}} 山之证 - {{N1}} 秘银粉 - {{N2}} 宝石粉 - {{N3}} 冰晶粉",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "WARNING: This is permanent. You can not go back after resetting your Heart of the Mountain!",
+   "translation": "警告：此操作永久生效。重置山之心后无法撤销！",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Template%3AHeart_of_the_Mountain/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "∙ Ability: Seismic Wave RIGHT CLICK A Seismic Wave emerges from underneath you and travels in a straight line. Deals {{N0}} {{N1}} every {{N2}}❈ Defense in damage to any enemy in it's path. Acts as Superboom TNT! Cooldown: {{N3}}s",
+   "translation": "∙ 技能：地震波 右键点击 一道地震波从你脚下涌出并沿直线前进。每 {{N2}}❈ 防御对路径上的任何敌人造成 {{N0}} {{N1}} 伤害。可作为超级炸弹TNT使用！冷却时间：{{N3}}秒",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Tank/Skill_UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Syphon Shards to unlock and level up your Attributes! Each Attribute grant its own unique power, active at all times, no matter where you are. Attributes can reach up to level {{N0}}, with shard costs scaling based on their rarity.",
+   "translation": "虹吸碎片来解锁并升级你的属性！每个属性都会赋予其独特的能量，无论你身在何处都会始终生效。属性最高可达 {{N0}} 级，碎片消耗会根据其稀有度而变化。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Attributes/UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Rewards: ??? Sea Creature ??? Sea Creature ??? Sea Creature ??? Sea Creature ??? Sea Creature ??? Sea Creature ??? Sea Creature ??? Sea Creature ??? Sea Creature ??? Sea Creature ??? Sea Creature Treasure Hunter X Grants {{N0}}➜{{N1}} ⛃ Treasure Chance. {{N2}} ❤ Health {{N3}} Coins {{N4}} SkyBlock XP",
+   "translation": "奖励：??? 海怪 ??? 海怪 ??? 海怪 ??? 海怪 ??? 海怪 ??? 海怪 ??? 海怪 ??? 海怪 ??? 海怪 ??? 海怪 ??? 海怪 寻宝者 X 给予 {{N0}}➜{{N1}} ⛃ 宝藏概率。 {{N2}} ❤ 生命 {{N3}} 硬币 {{N4}} 空岛经验",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Fishing/Skill_UI",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Complete all of the goals in the row to the right  earn a bonus reward!",
+   "translation": "完成右侧一行的所有目标以获得额外奖励！",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bingo/Events/2024",
+   "verifiedIngame": false
+  },
+  {
+   "scope": "tooltip",
+   "npc": "",
+   "source": "Wear {{N0}} pieces of the  Angler Armor Set.",
+   "translation": "穿戴 {{N0}} 件钓鱼者盔甲套装。",
+   "styleMappings": {},
+   "sourceFile": "https://hypixelskyblock.minecraft.wiki/w/Bingo/Events/2024",
+   "verifiedIngame": false
+  }
+ ]
+}

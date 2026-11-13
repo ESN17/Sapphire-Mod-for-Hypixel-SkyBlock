@@ -9,7 +9,10 @@ import java.util.List;
 
 /** Runs only in the explicitly requested development smoke launch, never in normal gameplay. */
 public final class ClientSmokeTest {
+    private static int previewL() { return com.sorakoi.sbtranslate.compat.SkyCoflCompat.installed() ? com.mojang.blaze3d.platform.InputConstants.KEY_LALT : com.mojang.blaze3d.platform.InputConstants.KEY_LCONTROL; }
+    private static int previewR() { return com.sorakoi.sbtranslate.compat.SkyCoflCompat.installed() ? com.mojang.blaze3d.platform.InputConstants.KEY_RALT : com.mojang.blaze3d.platform.InputConstants.KEY_RCONTROL; }
     public static void run() {
+        checkModLanguages();
         com.sorakoi.sbtranslate.compat.SkyHanniSmokeTest.run();
         com.sorakoi.sbtranslate.compat.OdinSmokeTest.run();
         require(Sapphire.TRANSLATIONS.itemCount()==Sapphire.NEU.size() && Sapphire.TRANSLATIONS.itemCount()>8000,"full bundled dictionary installation");
@@ -26,6 +29,7 @@ public final class ClientSmokeTest {
         require(tooltip.stream().anyMatch(c->c.getString().equals("Untranslated sentinel")),"fallback");
         require(ItemStack.isSameItemSameComponents(original,stack),"server-owned components unchanged");
         require(stack.getHoverName().getString().contains("Aspect of the End"),"raw item name unchanged");
+        com.sorakoi.sbtranslate.compat.TooltipCompatSmoke.run(stack);
         checkControlPreview(stack);
         checkTooltipCache(stack);
         checkNameplates();
@@ -45,6 +49,11 @@ public final class ClientSmokeTest {
         checkUpgradedTooltips();
         checkStandaloneRunes();
         checkGuiTooltips();
+        var wikiButton = new java.util.ArrayList<Component>(List.of(Component.literal("Crop Guide")));
+        com.sorakoi.sbtranslate.item.ItemTranslationService.tooltip(new ItemStack(net.minecraft.core.Holder.direct(Items.WHEAT_SEEDS)),wikiButton,key->false,"Carpenter");
+        require(wikiButton.getFirst().getString().equals("作物指南"),"Wiki menu-scoped button");
+        Sapphire.LOGGER.info("SAPPHIRE_WIKI_UI_BUTTON_OK");
+        checkMenuCapture();
         checkLiveFeedback();
         for (int distance=8;distance<=12;distance++) {
             stack.set(DataComponents.LORE,new ItemLore(List.of(
@@ -99,6 +108,56 @@ public final class ClientSmokeTest {
         Sapphire.CONFIG.enabled=false;
         require(displayTooltip(stack).getFirst().getString().contains("Aspect of the End"),"disabled fallback");
         Sapphire.CONFIG.enabled=true;Sapphire.CONFIG.forceTranslation=false;
+    }
+    private static void checkMenuCapture() {
+        var capture=new com.sorakoi.sbtranslate.config.SapphireConfig();
+        capture.collectChatCapture=false; capture.collectUiCapture=true; capture.privacyAccepted=true;
+        capture.chatCaptureUploadUrl=""; capture.uploadNotifications=false;
+        var previous=Sapphire.CONFIG.showOriginal;
+        try {
+            var directory=java.nio.file.Files.createTempDirectory("sapphire-ui-smoke");
+            capture.chatCaptureDirectory=directory.toString();
+            com.sorakoi.sbtranslate.collection.ChatCapture.configure(capture);
+            com.sorakoi.sbtranslate.collection.ChatCapture.startSession("UiSmoke");
+            Sapphire.CONFIG.showOriginal=true;
+            var stack=new ItemStack(net.minecraft.core.Holder.direct(Items.PAPER));
+            for(int i=0;i<2;i++) {
+                var lines=new java.util.ArrayList<Component>(List.of(Component.literal("Crop Guide"),Component.literal("§aSample missing menu line"),Component.literal("已经汉化")));
+                com.sorakoi.sbtranslate.item.ItemTranslationService.tooltip(stack,lines,key->false,"Carpenter");
+                require(lines.getFirst().getString().contains("作物指南"),"capture preserves the rendered translation");
+            }
+            Sapphire.CONFIG.showOriginal=false;
+            var unknown=new java.util.ArrayList<Component>(List.of(Component.literal("Luverne"),Component.literal("§aUnseen merchant instruction"),Component.literal("Playstyle: 100% SPLIT")));
+            com.sorakoi.sbtranslate.item.ItemTranslationService.tooltip(stack,unknown,key->false,"",true);
+            require(unknown.getFirst().getString().contains("卢韦恩"),"unknown public menu button");
+            com.sorakoi.sbtranslate.collection.ChatCapture.stop();
+            try(var files=java.nio.file.Files.list(directory)) {
+                var file=files.findFirst().orElseThrow();
+                require(java.nio.file.Files.readAllLines(file).equals(List.of("[Sapphire:UI:gui-tooltip] §aSample missing menu line","[Sapphire:UI:gui-tooltip] §aUnseen merchant instruction")),"only the untranslated styled lore is queued once");
+                java.nio.file.Files.delete(file);
+            }
+            java.nio.file.Files.delete(directory);
+            Sapphire.LOGGER.info("SAPPHIRE_UI_CAPTURE_OK");
+        } catch(java.io.IOException e){throw new IllegalStateException(e);}
+        finally {
+            com.sorakoi.sbtranslate.collection.ChatCapture.stop();
+            com.sorakoi.sbtranslate.collection.ChatCapture.configure(Sapphire.CONFIG);
+            Sapphire.CONFIG.showOriginal=previous;
+        }
+    }
+    private static void checkModLanguages() {
+        if (!net.fabricmc.loader.api.FabricLoader.getInstance().isModLoaded("sbo")) return;
+        try {
+            Class<?> screen = Class.forName("net.sbo.mod.config.ConfigGuiKt");
+            if (!net.minecraft.client.Minecraft.getInstance().getLanguageManager().getSelected().equals("zh_cn")) return;
+            var label = java.util.Arrays.stream(screen.getDeclaredMethods())
+                    .filter(m -> m.getName().endsWith("sapphire$label")).findFirst().orElseThrow();
+            label.setAccessible(true);
+            require("清除搜索".equals(label.invoke(null,"Clear the search")), "SBO transformed Chinese UI label");
+            require("任意 X".equals(Component.translatable("jei.tooltip.recipe.any","X").getString()), "JEI Chinese argument");
+            require(Component.translatable("text.rei.recipes.not.full.desc", "X").getString().contains("运行 X"), "REI Chinese argument");
+            Sapphire.LOGGER.info("SAPPHIRE_MOD_LANGUAGES_OK");
+        } catch (ReflectiveOperationException e) { throw new IllegalStateException(e); }
     }
     private static void checkTabRows() {
         var client=net.minecraft.client.Minecraft.getInstance();
@@ -317,7 +376,7 @@ public final class ClientSmokeTest {
                 com.sorakoi.sbtranslate.item.ItemTranslationService.tooltip(button,outside,key->false,"Large Chest");
                 require(outside.equals(raw),"unrecognized container remains unchanged");
                 var control=new java.util.ArrayList<>(raw);
-                com.sorakoi.sbtranslate.item.ItemTranslationService.tooltip(button,control,key->key==com.mojang.blaze3d.platform.InputConstants.KEY_LCONTROL,row.title());
+                com.sorakoi.sbtranslate.item.ItemTranslationService.tooltip(button,control,key->key==previewL(),row.title());
                 require(control.equals(raw),"GUI Ctrl shows complete raw English");
                 Sapphire.CONFIG.gui=false;var disabled=new java.util.ArrayList<>(raw);
                 com.sorakoi.sbtranslate.item.ItemTranslationService.tooltip(button,disabled,key->false,row.title());
@@ -357,7 +416,7 @@ public final class ClientSmokeTest {
                     com.sorakoi.sbtranslate.item.ItemTranslationService.tooltip(stack,shifted,key->key==held);
                     require(shifted.equals(normal),"Shift alone keeps Chinese and is available to other mods");
                 }
-                for(int held:List.of(com.mojang.blaze3d.platform.InputConstants.KEY_LCONTROL,com.mojang.blaze3d.platform.InputConstants.KEY_RCONTROL)) {
+                for(int held:List.of(previewL(),previewR())) {
                     var pressed=new java.util.ArrayList<>(english);
                     com.sorakoi.sbtranslate.item.ItemTranslationService.tooltip(stack,pressed,key->key==held);
                     require(pressed.equals(english),"Ctrl preserves complete English tooltip and styles");
@@ -374,7 +433,7 @@ public final class ClientSmokeTest {
             var defaultEnglish=new java.util.ArrayList<>(english);
             com.sorakoi.sbtranslate.item.ItemTranslationService.tooltip(stack,defaultEnglish,key->false);
             require(defaultEnglish.equals(english),"English default preserves original tooltip");
-            for(int held:List.of(com.mojang.blaze3d.platform.InputConstants.KEY_LCONTROL,com.mojang.blaze3d.platform.InputConstants.KEY_RCONTROL)) {
+            for(int held:List.of(previewL(),previewR())) {
                 var chinese=new java.util.ArrayList<>(english);
                 com.sorakoi.sbtranslate.item.ItemTranslationService.tooltip(stack,chinese,key->key==held);
                 require(!chinese.getFirst().getString().equals(english.getFirst().getString()),"English default Ctrl shows Chinese");

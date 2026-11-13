@@ -3,6 +3,6 @@
   "package": "com.sorakoi.sbtranslate.mixin.compat",
   "plugin": "com.sorakoi.sbtranslate.compat.OdinMixinPlugin",
   "compatibilityLevel": "JAVA_25",
-  "client": ["OdinUiHostMixin", "OdinGraphicsMixin", "OdinFontMixin", "OdinDrawContextMixin"],
+  "client": ["OdinUiHostMixin", "OdinGraphicsMixin", "OdinFontMixin", "OdinDrawContextMixin", "OdinLegacyTextMixin", "OdinComposeTextMixin"],
   "injectors": {"defaultRequire": 1}
 }

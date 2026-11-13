@@ -1,4 +1,4 @@
-# Sapphire 1.0.1 源码
+# Sapphire 1.2.0 源码
 
 Sapphire 是面向 Hypixel SkyBlock 的客户端中文汉化模组。主工程使用 Minecraft 26.3 和 Java 25。源码包包含 Java 源码、测试、内置译名库、Gradle Wrapper、第三方许可和三个发行版本的适配规则。
 
@@ -22,6 +22,6 @@ cd build/mc26.1.2
 .\gradlew.bat build
 ```
 
-`release/source-sha256.json` 记录发布时的主工程源码和资源校验值。`release/JAR-SHA256.txt` 记录 GitHub 上三个安装包的校验值。需要外部参考模组、私人开发语料或在线凭据的可选测试按环境跳过。
+需要外部参考模组、私人开发语料或在线凭据的可选测试按环境跳过。
 
 许可证和数据来源见 [LICENSE](LICENSE) 与 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。

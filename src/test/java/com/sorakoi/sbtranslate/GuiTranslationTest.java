@@ -14,6 +14,48 @@ class GuiTranslationTest {
     @TempDir Path root;
     @BeforeAll static void load() throws Exception {manager=new TranslationManager();manager.load(Path.of("src/main/resources/defaults"));}
     @AfterAll static void release() {manager=null;}
+    @Test void bestiaryLootUsesCatalogAndKeepsCounts(){
+        var menu=new GuiTranslationEngine.Menu("server-navigation",List.of(),List.of(),Map.of());
+        for(String row:List.of("▪ Enchanted Glacite x16-32","▪ Glacite Powder x10,000","▪ Glacite Amalgamation (2%)","▪ Littlefoot Fluff (0.2%)","Mob Types: ❄ Glacial, ✦ Humanoid, ⚲ Elusive","Health: 25,000,000❤","Your [Lv508] Littlefoot Stats:")){
+            String zh=GuiTranslationEngine.detailLine(Component.literal(row),menu,manager).getString();
+            assertFalse(zh.matches(".*[A-Za-z]{2}.*"),row+" -> "+zh);
+            assertEquals(row.replaceAll("[^0-9.%]",""),zh.replaceAll("[^0-9.%]",""));
+        }
+    }
+    @Test void splitHistoryLoadoutsAndWatchdog() {
+        for(var row:List.of(new String[]{"R7     STEAL | SPLIT","独吞 | 平分"},
+                new String[]{"5,000 Motes if they SPLIT too","5,000 裂隙尘埃"},
+                new String[]{"Helmet: Jaded Helmet of Divan","头盔"},
+                new String[]{"Gloves/Bracelet: Blazing Dwarven Handwarmers","手套/手镯"},
+                new String[]{"Pet: [Lvl 100] Scatha","等级 100"},
+                new String[]{"HOTF: None","森林之心：无"})){
+            String out=SystemTranslationEngine.translate(Component.literal(row[0]),"gui-tooltip",manager).getString();
+            assertTrue(out.contains(row[1]),out);assertFalse(out.contains("Jaded") || out.contains("Blazing"),out);
+        }
+        String out=SystemTranslationEngine.translate(Component.literal("Watchdog has banned §c2,848§r players in the last 7 days.\nStaff have banned an additional §c10,954§r in the last 7 days."),"chat",manager).getString();
+        assertTrue(out.contains("2,848") && out.contains("10,954") && !out.contains("banned"),out);
+    }
+    @Test void riftMenuAndFramedSystemMessagesUseLiveValues() {
+        var vendor=new GuiTranslationEngine.Menu("server-navigation",List.of(),List.of(),Map.of());
+        for(var pair:List.of(new String[]{"Average Motes per round: 1,252","1,252"},
+                new String[]{"Playstyle: 100% SPLIT","平分"},new String[]{"Rounds played: 4,987,053","轮"},
+                new String[]{"Permanent: +70 ⌛ Rift Time","裂隙时间"},new String[]{"Use cost: 21m41s ⌛ Rift Time","21分41秒"},
+                new String[]{"Created at: 周四 12.11.2026 21:56:33","周四"},new String[]{"Obtained: November 12, 2026","2026年11月12日"},
+                new String[]{"Puff Crux x64","x64"},new String[]{"Disinfestor Gloves","手套"})) {
+            var source=Component.literal(pair[0]);var out=GuiTranslationEngine.detailLine(source,vendor,manager);
+            assertNotSame(source,out,pair[0]);assertTrue(out.getString().contains(pair[1]),out.getString());
+        }
+        var ring=List.<Component>of(Component.literal("Monster melee attacks reduce 1 less"),
+            Component.literal("⌛ Rift Time if there is another"),Component.literal("player within 50 blocks."));
+        var result=LoreTranslationEngine.translate(ring,manager,"BLUETOOTH_RING",(s,l)->List.of(s),false);
+        assertTrue(result.missing().isEmpty(),result.missing().toString());
+        assertTrue(result.lines().getFirst().getString().contains("50 格"));
+        var sky=SystemTranslationEngine.translate(Component.literal("[SkyHanni] Gained 50 motes this Rift session! (831/h)"),"skyhanni",manager);
+        assertTrue(sky.getString().contains("每小时 831"),sky.getString());
+        var notice=Component.literal("---------\n§c[MVP+] ESN17_OwO created a BIN auction for Combat Exp Boost at 1,000,000 coins!\n---------");
+        var zh=SystemTranslationEngine.translate(notice,"chat",manager).getString();
+        assertTrue(zh.contains("1,000,000") && zh.contains("ESN17_OwO") && !zh.contains("created a BIN"),zh);
+    }
     static LoreTranslationEngine.Result lore(String title,String... lines) {
         var menu=GuiTranslationEngine.menu(title,manager);assertNotNull(menu,title);
         return LoreTranslationEngine.translate(Arrays.stream(lines).<Component>map(Component::literal).toList(),manager,null,(s,original)->List.of(s),false,false,false,menu.paragraphs());

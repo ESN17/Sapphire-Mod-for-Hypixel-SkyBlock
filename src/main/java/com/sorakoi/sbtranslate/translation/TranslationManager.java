@@ -15,12 +15,24 @@ public final class TranslationManager {
     private volatile Map<String,String> nameIndex=Map.of();
     private volatile Map<String,ItemEntry> petItems=Map.of();
     private volatile List<SystemTranslationEngine.Rule> systemRules=List.of();
+    private Map<String,List<SystemTranslationEngine.Rule>> systemByScope=Map.of();
+    List<SystemTranslationEngine.Rule> systemRules(String scope){return systemByScope.getOrDefault(scope,List.of());}
+    private final Map<String,Optional<GuiTranslationEngine.Menu>> menuCache=new LinkedHashMap<>(32,.75f,true) {
+        protected boolean removeEldestEntry(Map.Entry<String,Optional<GuiTranslationEngine.Menu>> e){return size()>128;}
+    };
+    synchronized GuiTranslationEngine.Menu menu(String title) {
+        return menuCache.computeIfAbsent(title,t->Optional.ofNullable(GuiTranslationEngine.findMenu(t,this))).orElse(null);
+    }
     private volatile CommunityTranslationEngine.Index community=CommunityTranslationEngine.empty();
     private volatile int wikiRuleCount;
     public int wikiRuleCount(){return wikiRuleCount;}
     private volatile int wikiPendingReviewCount;
     public int wikiPendingReviewCount(){return wikiPendingReviewCount;}
     public CommunityTranslationEngine.Index community(){return community;}
+    private volatile Map<String,Map<String,String>> wikiButtons=Map.of();
+    public Map<String,String> wikiButtons(String menuTitle){
+        return menuTitle==null?Map.of():wikiButtons.getOrDefault(plain(menuTitle),Map.of());
+    }
     /** Exact imported item names only; new sale products must never use fuzzy fallbacks. */
     public String knownItemName(String english){return nameIndex.get(english);}
     public List<SystemTranslationEngine.Rule> systemRules(){return systemRules;}
@@ -74,6 +86,7 @@ public final class TranslationManager {
     public static final class Template {
         final String source, target;
         final Pattern pattern;
+        final String leading, trailing;
         final List<String> variables = new ArrayList<>();
         final int specificity;
         public Template(String source, String target) {
@@ -82,10 +95,12 @@ public final class TranslationManager {
         Template(String source,String target,boolean styleAnchor) {
             this.source = source; this.target = target;
             Matcher m = VARIABLE.matcher(source); List<String> sourceTokens=new ArrayList<>();
+            leading=m.find()?source.substring(0,m.start()):source;
+            m.reset();
             StringBuilder regex = new StringBuilder("\\A"); int end = 0, literals = 0;
             while (m.find()) {
                 String literal = source.substring(end, m.start());
-                if (literal.isEmpty() && end != 0) throw new IllegalArgumentException("Adjacent variables: " + source);
+                if (literal.isEmpty() && end != 0 && !(variable(m).equals("gap") && variables.getLast().equals("round"))) throw new IllegalArgumentException("Adjacent variables: " + source);
                 regex.append(Pattern.quote(literal)); literals += literal.length();
                 String name = variable(m);
                 if (variables.contains(name)) throw new IllegalArgumentException("Duplicate variable: " + name);
@@ -98,7 +113,8 @@ public final class TranslationManager {
                     case "roman", "romanFrom", "romanTo" -> "([IVXLCDM]{1,8}|[0-9]{1,3})";
                     case "rankedPlayer" -> "((?:\\[[A-Z][A-Z0-9_+]{0,24}\\] )?[A-Za-z0-9_]{1,16})";
                     case "version" -> "([0-9][A-Za-z0-9._+\\-]{0,47})";
-                    case "name", "text", "prefix", "suffix", "player", "location", "event", "mob", "fireSaleItem", "catalogItem" -> "([^\\r\\n]{1,128})";
+                    case "name", "text", "prefix", "suffix", "player", "location", "event", "mob", "fireSaleItem", "catalogItem","loadoutItem","shardReward" -> "([^\\r\\n]{1,128})";
+                    case "gap","gapLeft","gapRight" -> "([ \\t]{1,48})";
                     case "deathVictim", "reviver" -> "([A-Za-z0-9_]{1,16})";
                     case "time" -> "([0-9][0-9:., hmsd]{0,31})";
                     case "market", "marketBuy", "marketSell", "marketCount" -> "([0-9]+(?:,[0-9]{3})*(?:\\.[0-9]+)?[kKmMbBtT]?)";
@@ -106,6 +122,7 @@ public final class TranslationManager {
                 });
                 end = m.end();
             }
+            trailing=end==0?"":source.substring(end);
             literals += source.length() - end;
             if (literals < (styleAnchor?1:2) && !variables.isEmpty()) throw new IllegalArgumentException("Template needs literal context: " + source);
             List<String> targetTokens = new ArrayList<>(); m = VARIABLE.matcher(target);
@@ -116,6 +133,8 @@ public final class TranslationManager {
             pattern = Pattern.compile(regex.toString()); specificity = literals;
         }
         public Match apply(String input) {
+            if(!input.startsWith(leading) || !input.endsWith(trailing))return null;
+            if(variables.isEmpty())return input.equals(source)?new Match("template:"+source,target.isEmpty()?List.of():List.of(new Piece(target,0,input.length(),false))):null;
             Matcher m = pattern.matcher(input); if (!m.matches()) return null;
             List<Piece> pieces = new ArrayList<>(); Matcher out = VARIABLE.matcher(target); int end = 0;
             while (out.find()) {
@@ -254,12 +273,21 @@ public final class TranslationManager {
         var newSystemRules=new ArrayList<>(SystemTranslationEngine.load(root.resolve("system-messages.json")));
         newSystemRules.addAll(SystemTranslationEngine.load(root.resolve("death-messages.json")));
         newSystemRules.addAll(SystemTranslationEngine.load(root.resolve("creature-messages.json")));
+        String extra="loadout-and-rounds.json";
+        Path supplemental=root.resolve(extra);
+        newSystemRules.addAll(Files.exists(supplemental)?SystemTranslationEngine.load(supplemental):SystemTranslationEngine.bundled(extra));
         // Stable ordering leaves existing translations ahead of equal-specificity additions.
         newSystemRules.sort(Comparator.comparingInt((SystemTranslationEngine.Rule r)->r.template().specificity).reversed());
         var newWiki=CommunityTranslationEngine.load(root.resolve("community-wiki.json"));
         var wikiPath=root.resolve("community-wiki.json");int newWikiPending=0;
         if(Files.exists(wikiPath)) {
             var manifest=readObject(wikiPath);
+            // Older downloaded dictionaries predate the bundled UI supplement.
+            var parts=manifest.getAsJsonArray("parts");
+            if(parts!=null && !parts.contains(new com.google.gson.JsonPrimitive("wiki-ui-supplement.json"))) {
+                var part=bundledTranslation("community-wiki/wiki-ui-supplement.json");
+                if(part.isPresent())newWiki=CommunityTranslationEngine.merge(newWiki,CommunityTranslationEngine.load(part.get()));
+            }
             try {if(manifest.has("heldReviewRows"))newWikiPending=manifest.get("heldReviewRows").getAsInt();}
             catch(RuntimeException invalid){throw new IOException("Invalid Wiki review count",invalid);}
             if(newWikiPending<0 || newWikiPending>1000000)throw new IOException("Invalid Wiki review count");
@@ -289,11 +317,27 @@ public final class TranslationManager {
                     names.putIfAbsent(en.substring(0,en.length()-quality.length()-1),zh.substring(0,zh.length()-translated.length()-1));
             }
         }
+        var buttons=new HashMap<String,Map<String,String>>();
+        var buttonFile=root.resolve("wiki-ui-labels.json");
+        if(!Files.exists(buttonFile) && Files.exists(wikiPath))
+            buttonFile=bundledTranslation("wiki-ui-labels.json").orElse(buttonFile);
+        if(Files.exists(buttonFile))
+            for(var entry:readObject(buttonFile).entrySet())
+                buttons.put(entry.getKey(),Map.copyOf(strings(entry.getValue().getAsJsonObject())));
+        wikiButtons=Map.copyOf(buttons);
         snapshot = new Snapshot(Map.copyOf(items), Map.copyOf(scopes), List.copyOf(templates), shared, menus, commonGui);
         entityNames=new EntityNameTranslationEngine(scopes.get("entity-names"),scopes.get("entity-labels"));
+        var byScope=new HashMap<String,List<SystemTranslationEngine.Rule>>();
+        for(var rule:newSystemRules)for(String scope:rule.scopes())byScope.computeIfAbsent(scope,k->new ArrayList<>()).add(rule);
+        byScope.replaceAll((k,v)->List.copyOf(v));
+        systemByScope=Map.copyOf(byScope);menuCache.clear();
         nameIndex=Map.copyOf(names);petItems=Map.copyOf(newPetItems);systemRules=newSystemRules;community=newCommunity;wikiRuleCount=newWiki.entries().size();wikiPendingReviewCount=newWikiPending;cache.clear();systemCache.clear();revision++;
     }
     public int itemCount() { return snapshot.items.size(); }
+    private static Optional<Path> bundledTranslation(String name) {
+        return net.fabricmc.loader.api.FabricLoader.getInstance().getModContainer("sapphire")
+            .flatMap(mod -> mod.findPath("defaults/translations/"+name));
+    }
     public java.util.Collection<ItemEntry> itemEntries(){return snapshot.items.values();}
     public ItemEntry item(String id) { return id == null ? null : snapshot.items.get(id); }
     public ItemEntry petItem(String english) {

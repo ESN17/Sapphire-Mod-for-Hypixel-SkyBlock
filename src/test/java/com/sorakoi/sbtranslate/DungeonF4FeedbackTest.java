@@ -23,6 +23,10 @@ class DungeonF4FeedbackTest {
                 var row=value.getAsJsonObject();var original=Component.literal(row.get("source").getAsString());var copy=original.copy();
                 var result=DungeonFeedbackTest.translate(original,row.get("scope").getAsString());
                 assertEquals(row.get("translation").getAsString(),result.getString(),original.getString());assertEquals(copy,original);
+                if(original.getString().contains("Prancin' Pumpkin Rune")) {
+                    StyledLoreTest.color(result,"Prancin' Pumpkin Rune",ChatFormatting.GOLD);
+                    StyledLoreTest.color(result,"FIRE SALE",ChatFormatting.RED);
+                }
             }
         } finally {DungeonFeedbackTest.manager=previous;com.sorakoi.sbtranslate.client.EntityNameDisplay.clear();}
     }

@@ -13,6 +13,19 @@ class DungeonFeedbackTest {
     static TranslationManager manager;
     @BeforeAll static void load() throws Exception {manager=new TranslationManager();manager.load(Path.of("src/main/resources/defaults"));}
     @AfterAll static void release(){manager=null;EntityNameDisplay.clear();}
+    @Test void everyCatalogShardUsesItsItemNameInCharmRewards(){
+        var names=new HashSet<String>();
+        for(var item:manager.itemEntries()){
+            String english=item.originalName();
+            if(!english.endsWith(" Shard") || !names.add(english))continue;
+            String mob=english.substring(0,english.length()-6);
+            String notice="CHARM! You charmed the "+mob+" and received 3 "+english+"s!";
+            var match=SystemTranslationEngine.match(notice,"chat",manager);
+            assertNotNull(match,english);
+            assertTrue(match.text().endsWith("3 个"+item.name()+"！"),notice+" -> "+match.text());
+        }
+        assertTrue(names.size()>300);
+    }
     static Component translate(Component source,String scope) {
         if(scope.equals("scoreboard") || scope.equals("tablist"))return HudTranslationEngine.translate(source,scope,manager);
         if(scope.equals("entity"))return EntityNameDisplay.translate(source,manager);
@@ -115,7 +128,7 @@ class DungeonFeedbackTest {
             assertTrue(out.contains(manager.enchantment(name)),out);assertTrue(out.contains("IX"));
         }
         for(String name:List.of("Adaptive Belt","Recombobulator 3000"))assertEquals(manager.knownItemName(name),translate(Component.literal(name),"chat").getString());
-        for(String name:List.of("Tank Zombie","Zombie Soldier","Skeletor"))for(String suffix:List.of("Shard","Shards")) {
+        for(String name:List.of("Tank Zombie","Zombie Soldier","Skeletor","Lord Jawbus"))for(String suffix:List.of("Shard","Shards")) {
             var raw=Component.literal("§b§lCHARM! §7You charmed the §c"+name+" §7and received §a37 §f"+name+" "+suffix+"§7!");
             var out=translate(raw,"chat");assertTrue(out.getString().contains(manager.knownItemName(name+" Shard")),out.getString());
             StyledLoreTest.color(out,"37",net.minecraft.ChatFormatting.GREEN);

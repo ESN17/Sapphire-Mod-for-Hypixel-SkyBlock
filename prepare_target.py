@@ -1,4 +1,4 @@
-"""Create an isolated build tree for one of the three Sapphire 1.1.0 binaries. Python 3.8+."""
+"""Create an isolated build tree for one of the three Sapphire 1.2.0 binaries. Python 3.8+."""
 import argparse
 import json
 from pathlib import Path
@@ -33,19 +33,12 @@ def main():
     data = json.loads(meta.read_text(encoding="utf8"))
     data["depends"]["minecraft"] = "=" + mc
     meta.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf8")
-    actual = []
-    for path in (dest / "src").rglob("*.java"):
-        before = path.read_text(encoding="utf8")
-        after = before
-        for old, new in rules[mc]["replacements"]:
-            after = after.replace(old, new)
-        if before != after:
-            path.write_text(after, encoding="utf8")
-            actual.append(path.relative_to(dest).as_posix())
+    overlay = root / "release" / mc / "src"
+    if overlay.is_dir():
+        shutil.copytree(overlay, dest / "src", dirs_exist_ok=True)
     with (dest / "build.gradle").open("a", encoding="utf8") as file:
-        file.write('\ntasks.withType(Jar).configureEach { archiveBaseName = "sapphire"; archiveVersion = "1.1.0-mc' + mc + '" }\n')
+        file.write('\ntasks.withType(Jar).configureEach { archiveBaseName = "sapphire"; archiveVersion = "1.2.0-mc' + mc + '" }\n')
     print(dest)
-    print("adapted files:", len(actual))
 
 
 if __name__ == "__main__":

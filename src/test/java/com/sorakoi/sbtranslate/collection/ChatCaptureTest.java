@@ -18,10 +18,12 @@ class ChatCaptureTest {
     private SapphireConfig config(String token) {
         var config = new SapphireConfig();
         config.collectChatCapture = true;
+        config.privacyAccepted = true;
         config.chatCaptureDirectory = root.toString();
         config.chatCaptureUploadUrl = System.getenv().getOrDefault("SAPPHIRE_CAPTURE_URL",
                 "https://sapphire.esn17cabin.club/untranslated/upload");
         config.chatCaptureToken = token;
+        if(token.isEmpty())config.chatCaptureUploadUrl="https://localhost.invalid/upload";
         return config;
     }
 
@@ -33,6 +35,63 @@ class ChatCaptureTest {
         assertTrue(lines.get(0).startsWith("§7"), lines.get(0));
         assertTrue(lines.get(1).contains("§c"), lines.get(1));
         assertTrue(lines.get(0).contains("teleporting"));
+    }
+
+    @Test void rankDecorationDoesNotHideAnEnglishSystemNotice() throws Exception {
+        ChatCapture.configure(config(""));ChatCapture.startSession("AuctionSmoke");
+        var raw=Component.literal("§a[MVP+] Example created a BIN auction for Combat Exp Boost at 1,000,000 coins!");
+        ChatCapture.observeDisplayed(raw,Component.literal("§c[SAPPDEV] Example 创建了一口价拍卖"),true);
+        ChatCapture.observeDisplayed(raw,Component.literal(raw.getString().replace("[MVP+]","[SAPPDEV]")),true);
+        ChatCapture.stop();
+        try(var files=Files.list(root)){
+            assertEquals(List.of(raw.getString()),Files.readAllLines(files.findFirst().orElseThrow()));
+        }
+    }
+
+    @Test void uiOnlySessionKeepsOriginalColourAndDeduplicatesNumbers() throws Exception {
+        assertTrue(UiCapture.allowMenuLine("Auctions Browser","§aBuy price: 5,000 coins"));
+        assertTrue(UiCapture.allowMenuLine("Pets","Click to summon!"));
+        assertFalse(UiCapture.allowMenuLine("Auctions Browser","Seller: PrivateName"));
+        assertFalse(UiCapture.allowMenuLine("Pets","My Custom Pet Name"));
+        var cfg=config("");
+        cfg.collectChatCapture=false;
+        ChatCapture.configure(cfg);
+        assertFalse(ChatCapture.uiActive());
+        cfg.collectUiCapture=true;
+        ChatCapture.configure(cfg);
+        ChatCapture.startSession("UiSmoke");
+        ChatCapture.observe(Component.literal("An English chat message!"));
+        ChatCapture.observeUi("gui-tooltip",Component.literal("§aBuy 15 tickets!"));
+        ChatCapture.observeUi("gui-tooltip",Component.literal("§aBuy 30 tickets!"));
+        ChatCapture.observeUi("gui-button",Component.literal("§aBuy 15 tickets!"));
+        ChatCapture.observeUi("gui-tooltip",Component.literal("Seller: PrivateName"));
+        ChatCapture.observeUi("gui-tooltip",Component.literal("已翻译"));
+        ChatCapture.stop();
+        try(var files=Files.list(root)) {
+            assertEquals(List.of("[Sapphire:UI:gui-tooltip] §aBuy 15 tickets!",
+                                 "[Sapphire:UI:gui-button] §aBuy 15 tickets!"),Files.readAllLines(files.findFirst().orElseThrow()));
+        }
+    }
+
+    @Test void islandAndUnknownAreasExcludeNpcDialogueButRetainEnglishSystemMessages() throws Exception {
+        ChatCapture.configure(config(""));
+        ChatCapture.startSession("IslandSmoke");
+        for(String place:List.of("⏣ Your Island","⏣ 你的岛屿","")){
+            boolean publicArea=com.sorakoi.sbtranslate.environment.SkyBlockContext.publicLocation(List.of(place));
+            assertFalse(publicArea);
+            ChatCapture.observe(Component.literal("§e[NPC] Jerry: Private text\nPrivate continuation"),publicArea);
+        }
+        ChatCapture.observe(Component.literal("§aThe event has started!"),false);
+        boolean hub=com.sorakoi.sbtranslate.environment.SkyBlockContext.publicLocation(List.of("⏣ Village"));
+        assertTrue(hub);
+        ChatCapture.observe(Component.literal("§e[NPC] Jerry: Public text"),hub);
+        ChatCapture.retryPending();
+        ChatCapture.stop();
+        try(var files=Files.list(root)){
+            var text=Files.readString(files.findFirst().orElseThrow());
+            assertFalse(text.contains("Private"));assertTrue(text.contains("Public text"));
+            assertTrue(text.contains("§aThe event has started!"));
+        }
     }
 
     @Test void chinesePlayerChatAndUrlsAreNotRecorded() throws Exception {
@@ -58,7 +117,7 @@ class ChatCaptureTest {
     @Test void npcDialogueIsStillRecorded() throws Exception {
         ChatCapture.configure(config(""));
         ChatCapture.startSession("ESN17_OwO");
-        ChatCapture.observe(Component.literal("§e[NPC] Jerry§f: In theory, you are constantly teleporting to yourself."));
+        ChatCapture.observe(Component.literal("§e[NPC] Jerry§f: In theory, you are constantly teleporting to yourself."), true);
         ChatCapture.stop();
         Path file;
         try (var files = Files.list(root)) { file = files.findFirst().orElseThrow(); }
@@ -114,12 +173,14 @@ class ChatCaptureTest {
     }
 
     @Test void uploadDeletesLocalFileWhenConfigured() throws Exception {
-        String token = System.getenv("SAPPHIRE_CAPTURE_TOKEN");
-        Assumptions.assumeTrue(System.getenv("SAPPHIRE_CAPTURE_LIVE") != null && token != null && !token.isBlank(),
+        Assumptions.assumeTrue("1".equals(System.getenv("SAPPHIRE_CAPTURE_LIVE")),
                 "live capture upload test is opt-in");
-        ChatCapture.configure(config(token));
-        ChatCapture.startSession("ESN17_OwO");
+        var settings = config("");
+        settings.chatCaptureUploadUrl = "https://sapphire.esn17cabin.club/untranslated/upload";
+        ChatCapture.configure(settings);
+        ChatCapture.startSession("SapphireSmoke");
         ChatCapture.observe(Component.literal("§7Live capture smoke test " + System.currentTimeMillis()));
+        assertEquals(1, ChatCapture.lineCount());
         ChatCapture.stop();
         assertTimeoutPreemptively(Duration.ofSeconds(30), () -> {
             while (true) {

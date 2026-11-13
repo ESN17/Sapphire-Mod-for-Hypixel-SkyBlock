@@ -7,6 +7,17 @@ import java.util.*;
 import java.util.concurrent.atomic.AtomicLong;
 import static org.junit.jupiter.api.Assertions.*;
 class TooltipDisplayCacheTest {
+    @Test void repeatedHoverReusesRunsButDetectsInPlaceStyleAndTextChanges(){
+        var cache=new TooltipDisplayCache();
+        var line=Component.literal("Price").withColor(0xffffff);
+        var first=cache.displaySnapshot(List.of(line));
+        assertSame(first,cache.displaySnapshot(List.of(line.copy())));
+        line.withColor(0xff5555);
+        var recolored=cache.displaySnapshot(List.of(line));
+        assertNotSame(first,recolored);
+        line.append(" 10");
+        assertNotSame(recolored,cache.displaySnapshot(List.of(line)));
+    }
     private TooltipDisplayCache.Key key(Object dictionary,long revision,int width,Component source){return new TooltipDisplayCache.Key(dictionary,revision,"ID","Menu",7,width,null,TooltipDisplayCache.snapshot(List.of(source)));}
     @Test void cachesStyledDisplayCopiesWithoutSharingMutableComponents(){
         var cache=new TooltipDisplayCache();Object dictionary=new Object();

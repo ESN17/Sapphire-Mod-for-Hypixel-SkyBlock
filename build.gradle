@@ -192,15 +192,3 @@ tasks.matching { it.name == 'runClient' }.configureEach {
     }
 }
 
-// Optional build-time upload token for the untranslated-chat collector.
-// Set SAPPHIRE_UPLOAD_TOKEN_FILE to a local file to embed it in the JAR; the
-// token is never committed to the source repository.
-def uploadTokenFile = System.getenv('SAPPHIRE_UPLOAD_TOKEN_FILE')
-if (uploadTokenFile && file(uploadTokenFile).exists()) {
-    tasks.named('processResources') {
-        from(file(uploadTokenFile)) {
-            rename { 'upload-token.txt' }
-            into ''
-        }
-    }
-}

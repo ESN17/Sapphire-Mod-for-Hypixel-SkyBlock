@@ -10,6 +10,9 @@ import java.util.*;
 public final class GuiTranslationEngine {
     public record Menu(String id,List<TranslationManager.Template> titles,List<TranslationManager.Paragraph> paragraphs,Map<String,String> labels,
                        Map<String,Set<String>> navigationGroups) {
+        public boolean hasFixedTitle(String title) {
+            return titles.stream().anyMatch(rule -> rule.variables.isEmpty() && rule.source.equals(title));
+        }
         public Menu(String id,List<TranslationManager.Template> titles,List<TranslationManager.Paragraph> paragraphs,Map<String,String> labels) {
             this(id,titles,paragraphs,labels,Map.of());
         }
@@ -79,6 +82,9 @@ public final class GuiTranslationEngine {
         if(title==null)return null;
         String plain=TranslationManager.plain(title);
         if(plain.length()>256)return null;
+        return manager.menu(plain);
+    }
+    static Menu findMenu(String plain,TranslationManager manager) {
         if(manager.scope("entity-names").containsKey(plain))
             for(var menu:manager.guiMenus())if(menu.id().equals("creatures"))return menu;
         // Events category names have user-defined meanings only within this directory.
@@ -93,6 +99,8 @@ public final class GuiTranslationEngine {
         if(community!=null)return new Menu("community",List.of(new TranslationManager.Template(plain,community.translation())),manager.commonGuiParagraphs(),Map.of());
         for(var paragraph:manager.community().candidates("gui",plain))if(paragraph.template().apply(plain)!=null)
             return new Menu("community",List.of(paragraph.template()),manager.commonGuiParagraphs(),Map.of());
+        if(!manager.wikiButtons(plain).isEmpty())
+            return new Menu("community",List.of(),manager.commonGuiParagraphs(),Map.of());
         return null;
     }
     public static Component title(Component source,TranslationManager manager) {
@@ -130,10 +138,34 @@ public final class GuiTranslationEngine {
         return TextTranslationEngine.padded(source,inner->unpaddedButton(inner,menu));
     }
     public static Component detailLine(Component source,Menu menu,TranslationManager manager) {
+        String raw=TranslationManager.plain(source.getString());
+        if(menu!=null && raw.startsWith("Mob Types: ")){
+            var parts=new ArrayList<TranslationManager.Piece>();
+            int end=0;
+            var words=TYPE_WORD.matcher(raw);
+            while(words.find()){
+                var label=SystemTranslationEngine.match(words.group(),"bestiary-type",manager);
+                if(label==null)continue;
+                if(words.start()>end)parts.add(new TranslationManager.Piece(raw.substring(end,words.start()),end,words.start(),true));
+                parts.add(new TranslationManager.Piece(label.text(),words.start(),words.end(),false));end=words.end();
+            }
+            if(end>0){
+                if(end<raw.length())parts.add(new TranslationManager.Piece(raw.substring(end),end,raw.length(),true));
+                return TextTranslationEngine.structured(source,parts);
+            }
+        }
         var creature=creatureName(source,menu,manager);if(creature!=source)return creature;
         Component local=button(source,menu);
-        return local!=source || menu==null?local:SystemTranslationEngine.translate(source,"gui-tooltip",manager);
+        if(local!=source || menu==null)return local;
+        Component system=SystemTranslationEngine.translate(source,"gui-tooltip",manager);
+        if(system!=source)return system;
+        String text=TranslationManager.plain(source.getString());
+        int quantity=text.lastIndexOf(" x");
+        int end=quantity>0 && text.substring(quantity+2).matches("[0-9][0-9,]*") ? quantity : text.length();
+        String name=manager.knownItemName(text.substring(0,end));
+        return name==null?source:TextTranslationEngine.rangeReplacement(source,0,end,name);
     }
+    private static final java.util.regex.Pattern TYPE_WORD=java.util.regex.Pattern.compile("^Mob Types|[A-Za-z]+");
     public static Component creatureName(Component source,Menu menu,TranslationManager manager) {
         if(menu==null || !menu.id().equals("creatures"))return source;
         return com.sorakoi.sbtranslate.client.EntityNameDisplay.translate(source,manager);
@@ -142,14 +174,15 @@ public final class GuiTranslationEngine {
         if(menu==null)return source;
         Component product=BazaarTranslationEngine.line(source,menu);
         if(product!=source)return product;
+        String plain=TranslationManager.plain(source.getString());
         for(var rule:menu.paragraphs()) {
-            var match=rule.template().apply(TranslationManager.plain(source.getString()));
+            var match=rule.template().apply(plain);
             if(match!=null) {
                 var translated=TextTranslationEngine.apply(source,new TranslationManager.Match(match.rule(),match.pieces(),rule.styleMappings()==null?Map.of():rule.styleMappings()));
                 if(translated!=source)return translated;
             }
         }
-        return BazaarTranslationEngine.line(source,menu);
+        return source;
     }
     public static List<TranslationManager.Paragraph> tooltipRules(Menu menu,Component heading,TranslationManager manager) {
         if(menu==null)return List.of();

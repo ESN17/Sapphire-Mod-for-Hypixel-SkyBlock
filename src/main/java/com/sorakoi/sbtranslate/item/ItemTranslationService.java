@@ -2,6 +2,7 @@ package com.sorakoi.sbtranslate.item;
 import com.sorakoi.sbtranslate.Sapphire;
 import com.sorakoi.sbtranslate.DisplayTranslationHooks;
 import com.sorakoi.sbtranslate.collection.UntranslatedCollector.Observation;
+import com.sorakoi.sbtranslate.collection.UiCapture;
 import com.sorakoi.sbtranslate.translation.*;
 import com.mojang.blaze3d.platform.InputConstants;
 import net.minecraft.client.Minecraft;
@@ -15,18 +16,37 @@ import java.util.function.IntPredicate;
 
 public final class ItemTranslationService {
     public static final TooltipDisplayCache DISPLAY_CACHE=new TooltipDisplayCache();
+    private static final GuiTranslationEngine.Menu SERVER_NAVIGATION = new GuiTranslationEngine.Menu("server-navigation",List.of(),List.of(),Map.of());
     private static final Set<CollectionKey> COLLECTED=new LinkedHashSet<>();
     private record CollectionKey(Object dictionary,long revision,String id,List<List<TooltipDisplayCache.Run>> lines) {}
-    public static void clearCaches(){DISPLAY_CACHE.clear();COLLECTED.clear();}
+    private static final ItemStack[] scannedSlots=new ItemStack[180];
+    private static Object scannedDictionary;
+    private static long scannedRevision;
+    public static void clearCaches(){DISPLAY_CACHE.clear();COLLECTED.clear();Arrays.fill(scannedSlots,null);}
+    public static void collectSlot(int slot,ItemStack stack) {
+        var dictionary=Sapphire.TRANSLATIONS;
+        if(dictionary!=scannedDictionary || dictionary.revision()!=scannedRevision){
+            Arrays.fill(scannedSlots,null);
+            scannedDictionary=dictionary;
+            scannedRevision=dictionary.revision();
+        }
+        var previous=scannedSlots[slot];
+        if(previous!=null && ItemStack.isSameItemSameComponents(previous,stack))return;
+        collectStack(stack);
+        scannedSlots[slot]=stack.copy();
+    }
     public static String id(ItemStack stack) { return Sapphire.NEU.resolve(ItemIdResolver.resolve(stack).variantId()); }
     public static Component name(ItemStack stack, Component original) {
         return name(stack,original,currentMenuTitle(stack));
     }
     private static Component name(ItemStack stack, Component original,String menuTitle) {
-        String id=id(stack);
+        var identity=ItemIdResolver.resolve(stack);
+        return name(stack,original,menuTitle,identity,Sapphire.NEU.resolve(identity.variantId()));
+    }
+    private static Component name(ItemStack stack,Component original,String menuTitle,ItemIdResolver.Identity identity,String id) {
         // Fresh sale cosmetics have no safe name mapping until NEU and the
         // reviewed item dictionary contain them. Do not use menu fallbacks.
-        String rawId=ItemIdResolver.resolve(stack).skyblockId();
+        String rawId=identity.skyblockId();
         if(preserveNewCosmetic(rawId,id,Sapphire.NEU.get(id)!=null,Sapphire.TRANSLATIONS.item(id)!=null))return original;
         if(Sapphire.active("gui")) {
             var menu=GuiTranslationEngine.menu(menuTitle,Sapphire.TRANSLATIONS);
@@ -63,22 +83,53 @@ public final class ItemTranslationService {
         tooltip(stack,lines,keyDown,currentMenuTitle(stack));
     }
     public static void tooltip(ItemStack stack,List<Component> lines,IntPredicate keyDown,String menuTitle) {
+        tooltip(stack,lines,keyDown,menuTitle,Sapphire.CONTEXT.publicLocation());
+    }
+    public static void tooltip(ItemStack stack,List<Component> lines,IntPredicate keyDown,String menuTitle,boolean publicLocation) {
         boolean itemRules=Sapphire.active("item");
-        var menu=Sapphire.active("gui") ? GuiTranslationEngine.menu(menuTitle,Sapphire.TRANSLATIONS) : null;
+        boolean gui=Sapphire.active("gui");
+        var knownMenu=gui ? GuiTranslationEngine.menu(menuTitle,Sapphire.TRANSLATIONS) : null;
+        var menu=knownMenu==null && gui && UiCapture.publicMenu(menuTitle,publicLocation)
+                ? SERVER_NAVIGATION : knownMenu;
         if((!itemRules && menu==null) || lines.isEmpty()) return;
-        boolean control=keyDown.test(InputConstants.KEY_LCONTROL) || keyDown.test(InputConstants.KEY_RCONTROL);
+        boolean control=com.sorakoi.sbtranslate.compat.SkyCoflCompat.previewKey(com.sorakoi.sbtranslate.compat.SkyCoflCompat.installed(),keyDown);
         if(!Sapphire.CONFIG.translateTooltip(control))return;
         var client=Minecraft.getInstance();
         int options=(itemRules?1:0)|(menu!=null?2:0)|(Sapphire.CONFIG.lore?4:0)|(Sapphire.CONFIG.showOriginal?8:0)|(Sapphire.canCollect()?16:0);
-        var key=new TooltipDisplayCache.Key(Sapphire.TRANSLATIONS,Sapphire.TRANSLATIONS.revision(),id(stack),menuTitle,options,
-            client.getWindow().getGuiScaledWidth(),client.font,TooltipDisplayCache.snapshot(lines));
+        boolean captureUi=menu!=null && com.sorakoi.sbtranslate.collection.ChatCapture.uiActive() && UiCapture.publicMenu(menuTitle,publicLocation);
+        if(captureUi) options |= 32;
+        var identity=ItemIdResolver.resolve(stack);
+        String id=Sapphire.NEU.resolve(identity.variantId());
+        var key=new TooltipDisplayCache.Key(Sapphire.TRANSLATIONS,Sapphire.TRANSLATIONS.revision(),id,menuTitle,options,
+            client.getWindow().getGuiScaledWidth(),client.font,DISPLAY_CACHE.displaySnapshot(lines));
         var cached=DISPLAY_CACHE.get(key);
         if(cached!=null){lines.clear();lines.addAll(cached);return;}
-        String id=id(stack); Component before=lines.getFirst(), after=name(stack,before,menuTitle); lines.set(0,after);
+        Component before=lines.getFirst(), after=name(stack,before,menuTitle,identity,id);
+        if(after==before && menu!=null) {
+            String label=Sapphire.TRANSLATIONS.wikiButtons(menuTitle).get(TranslationManager.plain(before.getString()));
+            if(label!=null)after=Sapphire.originalMode(TextTranslationEngine.rangeReplacement(before,0,TranslationManager.plain(before.getString()).length(),label),before);
+            else after=Sapphire.originalMode(SystemTranslationEngine.translate(before,"gui-button",Sapphire.TRANSLATIONS),before);
+        }
+        lines.set(0,after);
         var tooltipMenu=GuiTranslationEngine.tooltipContext(menu,before,Sapphire.TRANSLATIONS);
         List<String> missing=new ArrayList<>(); boolean changed=after!=before;
+        if(captureUi && !changed && com.sorakoi.sbtranslate.collection.UiCapture.allowMenuLine(menuTitle,before.getString()))
+            com.sorakoi.sbtranslate.collection.ChatCapture.observeUi("gui-button",before);
         if (itemRules && Sapphire.CONFIG.lore || menu!=null) {
-            var result=LoreTranslationEngine.translate(List.copyOf(lines.subList(1,lines.size())),Sapphire.TRANSLATIONS,id,ItemTranslationService::wrap,Sapphire.CONFIG.showOriginal,isEnchantedBook(stack),itemRules && Sapphire.CONFIG.lore,GuiTranslationEngine.tooltipRules(tooltipMenu,before,Sapphire.TRANSLATIONS),line->GuiTranslationEngine.detailLine(line,tooltipMenu,Sapphire.TRANSLATIONS),line->menu==null?line:CommunityTranslationEngine.translate(line,"tooltip",Sapphire.TRANSLATIONS),line->menu==null?List.of():Sapphire.TRANSLATIONS.community().candidates("tooltip",TranslationManager.plain(line.getString())));
+            var neu=Sapphire.NEU.get(id);
+            boolean wikiLore=menu!=null || neu!=null && neu.lore().stream().anyMatch(line->line.contains("Rift-Transferable") || line.contains("Rift-Exportable") || line.contains("Rift-Importable"));
+            var result=LoreTranslationEngine.translate(List.copyOf(lines.subList(1,lines.size())),Sapphire.TRANSLATIONS,id,ItemTranslationService::wrap,Sapphire.CONFIG.showOriginal,isEnchantedBook(stack),itemRules && Sapphire.CONFIG.lore,GuiTranslationEngine.tooltipRules(tooltipMenu,before,Sapphire.TRANSLATIONS),line->GuiTranslationEngine.detailLine(line,tooltipMenu,Sapphire.TRANSLATIONS),line->wikiLore?CommunityTranslationEngine.translate(line,"tooltip",Sapphire.TRANSLATIONS):line,line->wikiLore?Sapphire.TRANSLATIONS.community().candidates("tooltip",TranslationManager.plain(line.getString())):List.of());
+            if(captureUi && Sapphire.CONFIG.showOriginal && !result.missing().isEmpty()) {
+                var untranslated=new HashSet<>(result.missing());
+                for(var line:lines.subList(1,lines.size()))
+                    if(untranslated.contains(TranslationManager.plain(line.getString())) && com.sorakoi.sbtranslate.collection.UiCapture.allowMenuLine(menuTitle,line.getString()))
+                        com.sorakoi.sbtranslate.collection.ChatCapture.observeUi("gui-tooltip",line);
+            }
+            if(captureUi && !Sapphire.CONFIG.showOriginal)for(var line:result.lines()) {
+                String remainder=TranslationManager.plain(line.getString());
+                if(UiCapture.allowMenuLine(menuTitle,remainder))
+                    com.sorakoi.sbtranslate.collection.ChatCapture.observeUi("gui-tooltip",line);
+            }
             lines.subList(1,lines.size()).clear(); lines.addAll(result.lines());
             changed |= result.changed(); missing.addAll(result.missing());
         } else {
@@ -96,6 +147,9 @@ public final class ItemTranslationService {
     private static String currentMenuTitle(ItemStack stack) {
         var client=Minecraft.getInstance();var screen=client.gui.screen();
         if(!(screen instanceof net.minecraft.client.gui.screens.inventory.AbstractContainerScreen<?> container) || client.player==null)return null;
+        var hovered=((com.sorakoi.sbtranslate.mixin.ContainerHoveredSlot)container).sapphire$hoveredSlot();
+        if(hovered!=null && ItemStack.isSameItemSameComponents(hovered.getItem(),stack))
+            return hovered.container==client.player.getInventory()?null:screen.getTitle().getString();
         // A player's own inventory remains an inventory even while an auction
         // screen is open. Only server-container slots receive menu rules.
         for(var slot:container.getMenu().slots)

@@ -20,12 +20,12 @@ public final class SkyHanniCompat {
         }catch(Exception e){Sapphire.LOGGER.warn("SkyHanni translation unavailable; keeping original display",e);}
     }
     public static Component display(Component source) {
-        if(!Sapphire.CONFIG.enabled || !Sapphire.CONFIG.gui || !Sapphire.CONFIG.skyHanniTranslation)return source;
+        if(!Sapphire.CONFIG.enabled || !Sapphire.CONFIG.skyHanniTranslation)return source;
         if(source==null || onlinePlayer(source.getString()))return source;
         return Sapphire.originalMode(hud.translate(source,Sapphire.TRANSLATIONS,dictionary,hudScopes()),source);
     }
     public static String display(String source) {
-        if(!Sapphire.CONFIG.enabled || !Sapphire.CONFIG.gui || !Sapphire.CONFIG.skyHanniTranslation)return source;
+        if(!Sapphire.CONFIG.enabled || !Sapphire.CONFIG.skyHanniTranslation)return source;
         if(source==null || onlinePlayer(source))return source;
         String translated=hud.translate(source,Sapphire.TRANSLATIONS,dictionary,hudScopes());
         return Sapphire.CONFIG.showOriginal && !translated.equals(source)?translated+" ["+source+"]":translated;

@@ -1,0 +1,400 @@
+{
+  "rules": [
+    {"source":"CHARM! You charmed the {mob} and received {count} {shardReward}!","translation":"魅惑成功！你魅惑了 {mob}，获得 {count} 个{shardReward}！","scopes":["charm-drop"],"styleMappings":{"CHARM!":"魅惑成功！"}},
+    {"source":"▪ {catalogItem}","translation":"▪ {catalogItem}","scopes":["gui-tooltip","item-tooltip"]},
+    {"source":"Bazaar Buy Order: {market} coins","translation":"集市买单：{market} 硬币","scopes":["gui-tooltip","item-tooltip","skyhanni"],"styleMappings":{"coins":"硬币"}},
+    {"source":"Bazaar Sell Order: {market} coins","translation":"集市卖单：{market} 硬币","scopes":["gui-tooltip","item-tooltip","skyhanni"],"styleMappings":{"coins":"硬币"}},
+    {"source":"Bazaar Buy Price: {market} coins","translation":"集市买入价：{market} 硬币","scopes":["gui-tooltip","item-tooltip","skyhanni"],"styleMappings":{"coins":"硬币"}},
+    {"source":"Bazaar Sell Price: {market} coins","translation":"集市卖出价：{market} 硬币","scopes":["gui-tooltip","item-tooltip","skyhanni"],"styleMappings":{"coins":"硬币"}},
+    {"source":"Times fished: {marketCount}","translation":"钓鱼次数：{marketCount}","scopes":["skyhanni"]},
+    {"source":"[Lv{level}] {mob}","translation":"[等级 {level}] {mob}","scopes":["gui-button","item-name"],"styleMappings":{}},
+    {"source":"Your [Lv{level}] {mob} Stats:","translation":"你的[等级 {level}] {mob}统计：","scopes":["gui-tooltip","item-tooltip"],"styleMappings":{}},
+    {"source":"Mob Types","translation":"生物类型","scopes":["bestiary-type"],"styleMappings":{}},
+    {"source":"Glacial","translation":"冰川","scopes":["bestiary-type"],"styleMappings":{}},
+    {"source":"Humanoid","translation":"人形","scopes":["bestiary-type"],"styleMappings":{}},
+    {"source":"Elusive","translation":"隐踪","scopes":["bestiary-type"],"styleMappings":{}},
+    {"source":"Undead","translation":"亡灵","scopes":["bestiary-type"],"styleMappings":{}},
+    {"source":"Arthropod","translation":"节肢","scopes":["bestiary-type"],"styleMappings":{}},
+    {"source":"Aquatic","translation":"水生","scopes":["bestiary-type"],"styleMappings":{}},
+    {"source":"Animal","translation":"动物","scopes":["bestiary-type"],"styleMappings":{}},
+    {"source":"Common Loot","translation":"普通掉落","scopes":["gui-tooltip","item-tooltip"],"styleMappings":{"Common":"普通"}},
+    {"source":"Uncommon Loot","translation":"少见掉落","scopes":["gui-tooltip","item-tooltip"],"styleMappings":{"Uncommon":"少见"}},
+    {"source":"Rare Loot","translation":"稀有掉落","scopes":["gui-tooltip","item-tooltip"],"styleMappings":{"Rare":"稀有"}},
+    {"source":"Epic Loot","translation":"史诗掉落","scopes":["gui-tooltip","item-tooltip"],"styleMappings":{"Epic":"史诗"}},
+    {"source":"Legendary Loot","translation":"传说掉落","scopes":["gui-tooltip","item-tooltip"],"styleMappings":{"Legendary":"传说"}},
+    {"source":"Extraordinary Loot","translation":"非凡掉落","scopes":["gui-tooltip","item-tooltip"],"styleMappings":{"Extraordinary":"非凡"}},
+    {"source":"PraytorRNGesus Loot","translation":"极罕见掉落","scopes":["gui-tooltip","item-tooltip"],"styleMappings":{"PraytorRNGesus":"极罕见"}},
+    {"source":"Health: {statIcon1}","translation":"生命值：{statIcon1}","scopes":["gui-tooltip","item-tooltip"],"styleMappings":{}},
+    {"source":"Defense: {statIcon1}","translation":"防御：{statIcon1}","scopes":["gui-tooltip","item-tooltip"],"styleMappings":{}},
+    {"source":"Damage: {statIcon1}","translation":"伤害：{statIcon1}","scopes":["gui-tooltip","item-tooltip"],"styleMappings":{}},
+    {"source":"{icon1} {catalogItem} x{min}-{max}","translation":"{icon1} {catalogItem} x{min}-{max}","scopes":["gui-tooltip","item-tooltip"],"styleMappings":{}},
+    {"source":"{icon1} {catalogItem} x{count}","translation":"{icon1} {catalogItem} x{count}","scopes":["gui-tooltip","item-tooltip"],"styleMappings":{}},
+    {"source":"{icon1} {catalogItem} ({chance}%)","translation":"{icon1} {catalogItem} ({chance}%)","scopes":["gui-tooltip","item-tooltip"],"styleMappings":{}},
+    {"source":"{icon1} {catalogItem} x{count} ({chance}%)","translation":"{icon1} {catalogItem} x{count} ({chance}%)","scopes":["gui-tooltip","item-tooltip"],"styleMappings":{}},
+    {
+      "source": "Helmet: {loadoutItem}",
+      "translation": "头盔：{loadoutItem}",
+      "scopes": [
+        "gui-tooltip",
+        "item-tooltip"
+      ],
+      "styleMappings": {
+        "Helmet": "头盔"
+      }
+    },
+    {
+      "source": "Chestplate: {loadoutItem}",
+      "translation": "胸甲：{loadoutItem}",
+      "scopes": [
+        "gui-tooltip",
+        "item-tooltip"
+      ],
+      "styleMappings": {
+        "Chestplate": "胸甲"
+      }
+    },
+    {
+      "source": "Leggings: {loadoutItem}",
+      "translation": "护腿：{loadoutItem}",
+      "scopes": [
+        "gui-tooltip",
+        "item-tooltip"
+      ],
+      "styleMappings": {
+        "Leggings": "护腿"
+      }
+    },
+    {
+      "source": "Boots: {loadoutItem}",
+      "translation": "靴子：{loadoutItem}",
+      "scopes": [
+        "gui-tooltip",
+        "item-tooltip"
+      ],
+      "styleMappings": {
+        "Boots": "靴子"
+      }
+    },
+    {
+      "source": "Necklace: {loadoutItem}",
+      "translation": "项链：{loadoutItem}",
+      "scopes": [
+        "gui-tooltip",
+        "item-tooltip"
+      ],
+      "styleMappings": {
+        "Necklace": "项链"
+      }
+    },
+    {
+      "source": "Cloak: {loadoutItem}",
+      "translation": "披风：{loadoutItem}",
+      "scopes": [
+        "gui-tooltip",
+        "item-tooltip"
+      ],
+      "styleMappings": {
+        "Cloak": "披风"
+      }
+    },
+    {
+      "source": "Belt: {loadoutItem}",
+      "translation": "腰带：{loadoutItem}",
+      "scopes": [
+        "gui-tooltip",
+        "item-tooltip"
+      ],
+      "styleMappings": {
+        "Belt": "腰带"
+      }
+    },
+    {
+      "source": "Gloves/Bracelet: {loadoutItem}",
+      "translation": "手套/手镯：{loadoutItem}",
+      "scopes": [
+        "gui-tooltip",
+        "item-tooltip"
+      ],
+      "styleMappings": {
+        "Gloves/Bracelet": "手套/手镯"
+      }
+    },
+    {
+      "source": "Favored Bait: {loadoutItem}",
+      "translation": "偏好鱼饵：{loadoutItem}",
+      "scopes": [
+        "gui-tooltip",
+        "item-tooltip"
+      ],
+      "styleMappings": {
+        "Favored Bait": "偏好鱼饵"
+      }
+    },
+    {
+      "source": "HOTM: {loadoutItem}",
+      "translation": "山峦之心：{loadoutItem}",
+      "scopes": [
+        "gui-tooltip",
+        "item-tooltip"
+      ],
+      "styleMappings": {
+        "HOTM": "山峦之心"
+      }
+    },
+    {
+      "source": "HOTF: {loadoutItem}",
+      "translation": "森林之心：{loadoutItem}",
+      "scopes": [
+        "gui-tooltip",
+        "item-tooltip"
+      ],
+      "styleMappings": {
+        "HOTF": "森林之心"
+      }
+    },
+    {
+      "source": "Pet: {loadoutItem}",
+      "translation": "宠物：{loadoutItem}",
+      "scopes": [
+        "gui-tooltip",
+        "item-tooltip"
+      ],
+      "styleMappings": {
+        "Pet": "宠物"
+      }
+    },
+    {
+      "source": "Pet: [Lvl {level}] {name}",
+      "translation": "宠物：[等级 {level}] {name}",
+      "scopes": [
+        "gui-tooltip",
+        "item-tooltip"
+      ],
+      "styleMappings": {
+        "Pet": "宠物",
+        "Lvl": "等级"
+      }
+    },
+    {
+      "source": "HOTM: Heart of the Mountain {preset}",
+      "translation": "山峦之心：山峦之心 {preset}",
+      "scopes": [
+        "gui-tooltip",
+        "item-tooltip"
+      ],
+      "styleMappings": {
+        "Heart of the Mountain": "山峦之心"
+      }
+    },
+    {
+      "source": "HOTF: Heart of the Forest {preset}",
+      "translation": "森林之心：森林之心 {preset}",
+      "scopes": [
+        "gui-tooltip",
+        "item-tooltip"
+      ],
+      "styleMappings": {
+        "Heart of the Forest": "森林之心"
+      }
+    },
+    {
+      "source": "MATCH HISTORY!",
+      "translation": "对局记录！",
+      "scopes": [
+        "gui-button",
+        "gui-tooltip",
+        "item-name",
+        "item-tooltip"
+      ],
+      "styleMappings": {}
+    },
+    {
+      "source": "Depending on the opponents choice",
+      "translation": "根据对手的选择，",
+      "scopes": [
+        "gui-tooltip",
+        "item-tooltip"
+      ],
+      "styleMappings": {}
+    },
+    {
+      "source": "Depending on the opponents choice you will gain:",
+      "translation": "根据对手的选择，你将获得：",
+      "scopes": [
+        "gui-tooltip",
+        "item-tooltip"
+      ],
+      "styleMappings": {}
+    },
+    {
+      "source": "Depending on the opponent's choice",
+      "translation": "根据对手的选择，",
+      "scopes": [
+        "gui-tooltip",
+        "item-tooltip"
+      ],
+      "styleMappings": {}
+    },
+    {
+      "source": "Depending on the opponent's choice you will gain:",
+      "translation": "根据对手的选择，你将获得：",
+      "scopes": [
+        "gui-tooltip",
+        "item-tooltip"
+      ],
+      "styleMappings": {}
+    },
+    {
+      "source": "you will gain:",
+      "translation": "你将获得：",
+      "scopes": [
+        "gui-tooltip",
+        "item-tooltip"
+      ],
+      "styleMappings": {}
+    },
+    {
+      "source": "You | {text}",
+      "translation": "你 | {text}",
+      "scopes": [
+        "gui-tooltip",
+        "item-tooltip"
+      ],
+      "styleMappings": {}
+    },
+    {
+      "source": "Round: {round}/{total} (Max {limit} rounds)",
+      "translation": "回合：{round}/{total}（最多 {limit} 回合）",
+      "scopes": [
+        "gui-tooltip",
+        "item-tooltip"
+      ],
+      "styleMappings": {}
+    },
+    {
+      "source": "Motes gained: {market}",
+      "translation": "已获得裂隙尘埃：{market}",
+      "scopes": [
+        "gui-tooltip",
+        "item-tooltip"
+      ],
+      "styleMappings": {}
+    },
+    {
+      "source": "{market} Motes if they STEAL",
+      "translation": "对手选择独吞时获得 {market} 裂隙尘埃",
+      "scopes": [
+        "gui-tooltip",
+        "item-tooltip"
+      ],
+      "styleMappings": {
+        "STEAL": "独吞",
+        "Motes": "裂隙尘埃"
+      }
+    },
+    {
+      "source": "{market} Motes if they STEAL too",
+      "translation": "对手也选择独吞时获得 {market} 裂隙尘埃",
+      "scopes": [
+        "gui-tooltip",
+        "item-tooltip"
+      ],
+      "styleMappings": {
+        "STEAL": "独吞",
+        "Motes": "裂隙尘埃"
+      }
+    },
+    {
+      "source": "Click if you decide to STEAL!",
+      "translation": "点击选择独吞！",
+      "scopes": [
+        "gui-tooltip",
+        "item-tooltip"
+      ],
+      "styleMappings": {
+        "STEAL": "独吞"
+      }
+    },
+    {
+      "source": "R{round}{gap}STEAL{gapLeft}|{gapRight}STEAL",
+      "translation": "第{round}轮{gap}独吞{gapLeft}|{gapRight}独吞",
+      "scopes": [
+        "gui-tooltip",
+        "item-tooltip"
+      ],
+      "styleMappings": {
+        "STEAL": "独吞"
+      }
+    },
+    {
+      "source": "R{round}{gap}STEAL{gapLeft}|{gapRight}SPLIT",
+      "translation": "第{round}轮{gap}独吞{gapLeft}|{gapRight}平分",
+      "scopes": [
+        "gui-tooltip",
+        "item-tooltip"
+      ],
+      "styleMappings": {
+        "STEAL": "独吞",
+        "SPLIT": "平分"
+      }
+    },
+    {
+      "source": "{market} Motes if they SPLIT",
+      "translation": "对手选择平分时获得 {market} 裂隙尘埃",
+      "scopes": [
+        "gui-tooltip",
+        "item-tooltip"
+      ],
+      "styleMappings": {
+        "SPLIT": "平分",
+        "Motes": "裂隙尘埃"
+      }
+    },
+    {
+      "source": "{market} Motes if they SPLIT too",
+      "translation": "对手也选择平分时获得 {market} 裂隙尘埃",
+      "scopes": [
+        "gui-tooltip",
+        "item-tooltip"
+      ],
+      "styleMappings": {
+        "SPLIT": "平分",
+        "Motes": "裂隙尘埃"
+      }
+    },
+    {
+      "source": "Click if you decide to SPLIT!",
+      "translation": "点击选择平分！",
+      "scopes": [
+        "gui-tooltip",
+        "item-tooltip"
+      ],
+      "styleMappings": {
+        "SPLIT": "平分"
+      }
+    },
+    {
+      "source": "R{round}{gap}SPLIT{gapLeft}|{gapRight}STEAL",
+      "translation": "第{round}轮{gap}平分{gapLeft}|{gapRight}独吞",
+      "scopes": [
+        "gui-tooltip",
+        "item-tooltip"
+      ],
+      "styleMappings": {
+        "SPLIT": "平分",
+        "STEAL": "独吞"
+      }
+    },
+    {
+      "source": "R{round}{gap}SPLIT{gapLeft}|{gapRight}SPLIT",
+      "translation": "第{round}轮{gap}平分{gapLeft}|{gapRight}平分",
+      "scopes": [
+        "gui-tooltip",
+        "item-tooltip"
+      ],
+      "styleMappings": {
+        "SPLIT": "平分"
+      }
+    }
+  ]
+}

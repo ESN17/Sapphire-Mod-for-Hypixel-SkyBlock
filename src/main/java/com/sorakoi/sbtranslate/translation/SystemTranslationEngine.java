@@ -10,8 +10,17 @@ import net.minecraft.network.chat.Component;
 public final class SystemTranslationEngine {
     public record Rule(Set<String> scopes,TranslationManager.Template template,Map<String,String> styles,boolean wholeMessageOnly) {}
     public static List<Rule> load(Path path) throws IOException {
-        if(!Files.exists(path))return List.of();var out=new ArrayList<Rule>();
-        var document=TranslationManager.readObject(path);
+        if(!Files.exists(path))return List.of();
+        return rules(TranslationManager.readObject(path));
+    }
+    static List<Rule> bundled(String name) throws IOException {
+        try(var stream=SystemTranslationEngine.class.getResourceAsStream("/defaults/translations/"+name)){
+            if(stream==null)return List.of();
+            return rules(JsonParser.parseReader(new java.io.InputStreamReader(stream,java.nio.charset.StandardCharsets.UTF_8)).getAsJsonObject());
+        }
+    }
+    private static List<Rule> rules(JsonObject document){
+        var out=new ArrayList<Rule>();
         boolean wholeMessageOnly=document.has("wholeMessageOnly") && document.get("wholeMessageOnly").getAsBoolean();
         for(var element:document.getAsJsonArray("rules")) {
             var row=element.getAsJsonObject();var scopes=new HashSet<String>();
@@ -30,8 +39,12 @@ public final class SystemTranslationEngine {
         return manager.systemMatch(scope+(wholeMessage?"":"/fragment"),text,()->uncachedMatch(text,scope,manager,wholeMessage));
     }
     private static TranslationManager.Match uncachedMatch(String text,String scope,TranslationManager manager,boolean wholeMessage) {
-        for(var rule:manager.systemRules()) {
-            if(!rule.scopes().contains(scope) || (!wholeMessage && rule.wholeMessageOnly()))continue;
+        if(scope.equals("chat") && text.startsWith("CHARM! You charmed the ")){
+            var drop=uncachedMatch(text,"charm-drop",manager,wholeMessage);
+            if(drop!=null)return drop;
+        }
+        for(var rule:manager.systemRules(scope)) {
+            if(!wholeMessage && rule.wholeMessageOnly())continue;
             var match=rule.template().apply(text);if(match==null)continue;
             var matcher=rule.template().pattern.matcher(text);if(!matcher.matches())continue;
             var pieces=new ArrayList<TranslationManager.Piece>();
@@ -44,6 +57,21 @@ public final class SystemTranslationEngine {
                     mob=variable.equals("mob");
                     if(variable.equals("name"))translated=manager.translatedName(piece.text());
                     if(variable.equals("fireSaleItem") || variable.equals("catalogItem"))translated=manager.knownItemName(piece.text());
+                    if(variable.equals("shardReward")){
+                        String reward=piece.text();
+                        if(reward.endsWith(" Shards"))reward=reward.substring(0,reward.length()-1);
+                        if(!reward.endsWith(" Shard") || (translated=manager.knownItemName(reward))==null)return null;
+                    }
+                    if(variable.equals("loadoutItem")){
+                        String value=piece.text();
+                        translated=value.equals("None")?"无":manager.knownItemName(value);
+                        int space=value.indexOf(' ');
+                        if(translated==null && space>0){
+                            String reforge=manager.reforge(value.substring(0,space));
+                            String item=manager.knownItemName(value.substring(space+1));
+                            if(reforge!=null && item!=null)translated=reforge+item;
+                        }
+                    }
                     if(variable.equals("name") && translated==null && scope.equals("tablist"))translated=manager.scope("tablist").get(piece.text());
                     if(variable.equals("location"))translated=lookup(manager.scope("locations"),piece.text());
                     if(variable.equals("event"))translated=lookup(manager.scope("mining-events"),piece.text());
@@ -118,7 +146,7 @@ public final class SystemTranslationEngine {
         // Keep explicit multi-line rules first (e.g. sea-creature announcements).
         // Otherwise round history and payouts can cross color siblings within
         // one packet: match complete visual lines rather than each sibling.
-        if(scope.equals("chat") && !source.getSiblings().isEmpty() && plain.indexOf('\n')>=0 && plain.length()<=32768) {
+        if(scope.equals("chat") && plain.indexOf('\n')>=0 && plain.length()<=32768) {
             Component display=TextTranslationEngine.resolvedDisplay(source);
             Component translated=TextTranslationEngine.lines(display,line->translate(line,scope,manager));
             return translated==display?source:translated;
