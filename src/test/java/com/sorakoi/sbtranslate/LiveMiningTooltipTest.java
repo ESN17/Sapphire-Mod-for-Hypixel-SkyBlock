@@ -14,6 +14,15 @@ class LiveMiningTooltipTest {
     static List<Component> lore(String... text) {
         return LoreTranslationEngine.translate(Arrays.stream(text).<Component>map(Component::literal).toList(),manager,"DIVAN_DRILL",(s,lines)->List.of(s),false).lines();
     }
+    @Test void inventoryBookAndFiestaTooltipsUseLiveLore() {
+        var rows=List.of("Combinable in Anvil","Applicable on: Melee Weapon","Apply Cost: 100 Exp Levels");
+        var book=LoreTranslationEngine.translate(rows.stream().map(Component::literal).map(Component.class::cast).toList(),manager,"TITAN_KILLER;6",(s,lines)->List.of(s),false,true);
+        assertEquals(List.of("可在铁砧中合并","适用于：近战武器","应用花费：100 经验等级"),book.lines().stream().map(Component::getString).map(String::strip).map(s->s.replace("： ","：")).toList());
+        var source=List.of("Consume while Mayor Cole's Mining","Fiesta perk is active to gain the","following effects:","• +25% ☘ Mining Fortune","• +100% chance of finding Refined","Minerals.","• +100% chance of finding Glossy","Gemstones.");
+        var flask=LoreTranslationEngine.translate(source.stream().map(Component::literal).map(Component.class::cast).toList(),manager,"FIESTA_FLASK",(s,lines)->List.of(s),false);
+        assertTrue(flask.missing().isEmpty(),flask.missing().toString());
+        assertEquals(4,flask.lines().size());
+    }
     @Test void livePartAliasesAndExtraStatsTranslate() {
         var lines=lore("§aSunny Side Goblin Egg Part","§aTitanium Drill Engine","§7Pristine: §a+2 §b(+2)","§7Block Fortune: §6+65 §b(+65)");
         assertEquals(List.of("单面煎哥布林煎蛋卷 配件","镀钛钻头引擎","提纯: +2 (+2)","方块时运: +65 (+65)"),lines.stream().map(Component::getString).toList());

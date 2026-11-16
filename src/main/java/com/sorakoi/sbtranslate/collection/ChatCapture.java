@@ -94,8 +94,8 @@ public final class ChatCapture {
     public static void configure(SapphireConfig config) {
         synchronized (LOCK) {
             boolean wasEnabled = enabled;
-            chatEnabled = config.collectChatCapture && config.privacyAccepted;
-            uiEnabled = config.collectUiCapture && config.privacyAccepted;
+            chatEnabled = config.captureChannel("chat");
+            uiEnabled = config.captureChannel("gui");
             enabled = chatEnabled || uiEnabled;
             notifyUploads = config.uploadNotifications;
             Path dest = Path.of(config.chatCaptureDirectory == null || config.chatCaptureDirectory.isBlank()
@@ -532,7 +532,7 @@ public final class ChatCapture {
         plain = TIMESTAMP.matcher(plain).replaceFirst("");
         if (plain.isEmpty()) return false;
         if (CJK.matcher(plain).find()) return false;
-        if (plain.startsWith("[Sapphire]")) return false;
+        if (plain.startsWith("Aether >> ") || plain.startsWith("[Sapphire]")) return false;
         if (plain.contains("http") || plain.contains("www.")) return false;
         if (plain.contains("joined the lobby")) return false;
         // Hypixel prefixes player and lobby lines with a level like [135]; never capture those.

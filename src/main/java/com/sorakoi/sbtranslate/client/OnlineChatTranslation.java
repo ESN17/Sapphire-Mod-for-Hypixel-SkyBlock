@@ -43,7 +43,15 @@ public final class OnlineChatTranslation {
     /** In particular, do not ask an API to invent names for unlisted Fire Sale items. */
     public static boolean usesLocalDictionary(Component original,TranslationManager manager) {
         String plain=TranslationManager.plain(original.getString());
-        return manager.exact("chat",plain) || SystemTranslationEngine.match(plain,"chat",manager)!=null ||
-            BazaarTranslationEngine.systemMessage(original,manager)!=original || CommunityTranslationEngine.translate(original,"chat",manager)!=original;
+        Component local=SystemTranslationEngine.translate(original,"chat",manager);
+        if(!plain.equals(TranslationManager.plain(local.getString())))return true;
+        if(manager.exact("chat",plain)) {
+            local=TextTranslationEngine.translate(original,text->manager.match("chat",null,text));
+            return !plain.equals(TranslationManager.plain(local.getString()));
+        }
+        local=BazaarTranslationEngine.systemMessage(original,manager);
+        if(!plain.equals(TranslationManager.plain(local.getString())))return true;
+        local=CommunityTranslationEngine.translate(original,"chat",manager);
+        return !plain.equals(TranslationManager.plain(local.getString()));
     }
 }

@@ -11,6 +11,13 @@ class CapturedChatRulesTest {
     @Test void capturedNumbersAndItemNamesRenderThroughChatEngine() throws Exception {
         var dictionary=new TranslationManager();
         dictionary.load(Path.of("src/main/resources/defaults"));
+        var samples=java.util.Map.of(
+            "HOPPITY'S HUNT You found a Chocolate Supper Egg within the Ruins!", "霍皮蒂寻蛋！你在废墟内找到了巧克力夜宵蛋！",
+            "Wither Gourd I ➡ II", "凋灵葫芦 I ➡ II",
+            "You don't have enough Forest Essence!", "你的森林精华不足！",
+            "SHINING! [MVP+] Tester caught their first DIAMOND Skeleton Fish!", "闪耀！[MVP+] Tester 首次钓到了钻石品质的骷髅鱼！"
+        );
+        samples.forEach((en,zh)->assertEquals(zh,SystemTranslationEngine.translate(Component.literal(en),"chat",dictionary).getString()));
         for(int count:new int[]{2,137}){
             var source=Component.literal("HIVE! You found Honeycomb x"+count+" and Honeybuzz Shard!");
             var rendered=SystemTranslationEngine.translate(source,"chat",dictionary);

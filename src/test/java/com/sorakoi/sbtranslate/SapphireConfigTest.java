@@ -40,6 +40,18 @@ class SapphireConfigTest {
         assertTrue(reloaded.translationAllowed(true));
     }
 
+    @Test void captureRequiresConsentAndActiveTranslationChannel() {
+        var config=new SapphireConfig();
+        config.collectUiCapture=true;
+        assertFalse(config.captureChannel("chat"));
+        config.privacyAccepted=true;
+        config.chat=false;
+        assertFalse(config.captureChannel("chat"));
+        assertTrue(config.captureChannel("gui"));
+        config.enabled=false;
+        assertFalse(config.captureChannel("gui"));
+    }
+
     @Test void existingExplicitPreferencesArePreserved() throws Exception {
         Files.writeString(root.resolve("config.json"), "{\"enabled\":false,\"forceTranslation\":false}");
         var config = SapphireConfig.load(root);

@@ -22,7 +22,7 @@ public final class DisplayTranslationHooks {
     private static Component displayText(Component source,String scope) {
         Component translated=translate(source,scope);
         var capture=com.sorakoi.sbtranslate.collection.DungeonCapture.INSTANCE;
-        if(capture!=null && source!=null && translated!=null)capture.observe(Sapphire.CONTEXT.dungeon(),scope,"",source.getString(),translated.getString());
+        if(capture!=null && Sapphire.active(scope) && source!=null && translated!=null)capture.observe(Sapphire.CONTEXT.dungeon(),scope,"",source.getString(),translated.getString());
         if("chat".equals(scope))translated=com.sorakoi.sbtranslate.client.ChatOriginalHover.attach(translated,source);
         // Match complete display text after translation, including guild/member lists.
         return com.sorakoi.sbtranslate.client.SapphireRanks.text(translated);

@@ -105,8 +105,9 @@ public final class ChatDisplay {
         return text==raw?message:new GuiMessage(message.addedTime(),text,message.signature(),message.source(),message.tag());
     }
     public static void receive(GuiMessage message){
+        if (TranslationManager.plain(message.content().getString()).stripLeading().startsWith("Aether >> ")) return;
         if(Sapphire.CONTEXT.captureAllowed(Minecraft.getInstance()) && com.sorakoi.sbtranslate.collection.ChatCapture.enabled()
-                && message.source()!=GuiMessageSource.PLAYER && Sapphire.CONFIG.enabled && Sapphire.CONFIG.chat){
+                && message.source()!=GuiMessageSource.PLAYER && Sapphire.active("chat")){
             DisplayTranslationSafety.preserveOriginal("chat capture",message,()->{
                 var displayed=display(message).content();
                 com.sorakoi.sbtranslate.collection.ChatCapture.observeDisplayed(message.content(),displayed,Sapphire.CONTEXT.publicLocation());

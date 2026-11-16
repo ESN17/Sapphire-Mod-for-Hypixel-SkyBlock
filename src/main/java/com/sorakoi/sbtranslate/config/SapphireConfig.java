@@ -39,6 +39,13 @@ public final class SapphireConfig {
     public boolean translationAllowed(boolean skyBlockConfirmed) {
         return enabled && (forceTranslation || skyBlockConfirmed);
     }
+    public boolean captureChannel(String scope) {
+        return privacyAccepted && scope(scope) && switch (scope) {
+            case "chat" -> collectChatCapture;
+            case "gui" -> collectUiCapture;
+            default -> false;
+        };
+    }
     public boolean scope(String s) {
         return enabled && switch(s) {
             case "entity" -> entities; case "item" -> items; case "gui" -> gui; case "chat" -> chat; case "scoreboard" -> scoreboard; case "tablist" -> tablist;

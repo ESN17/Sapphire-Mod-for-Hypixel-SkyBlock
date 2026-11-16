@@ -54,7 +54,14 @@ public final class LoreTranslationEngine {
                     if(showOriginal)result.add(enchantLine);index++;changed=true;continue;
                 }
             } else if(plain.isBlank())heldItem=null;
-            Component contextual=contextLine.apply(enchantLine);
+            Component contextual=enchantLine;
+            if (itemRules && book) {
+                if (plain.startsWith("Combinable in Anvil"))
+                    contextual=SystemTranslationEngine.translate(enchantLine,"item-tooltip",manager);
+                else if (plain.startsWith("Applicable on:") || plain.startsWith("Apply Cost:"))
+                    contextual=CommunityTranslationEngine.translate(enchantLine,"tooltip",manager);
+            }
+            if (contextual==enchantLine) contextual=contextLine.apply(enchantLine);
             if(contextual!=enchantLine) {
                 result.addAll(wrap.apply(contextual,List.of(enchantLine)));
                 if(showOriginal)result.add(enchantLine);

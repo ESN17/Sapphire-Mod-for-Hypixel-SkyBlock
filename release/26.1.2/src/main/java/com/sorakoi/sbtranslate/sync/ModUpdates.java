@@ -22,6 +22,7 @@ public final class ModUpdates {
     private static long generation;
     private static boolean enabled, running;
     private static Pending ready;
+    private static String availableVersion, announcedVersion;
     private record Pending(Path stage, Path target, String digest, String previous) {}
 
     public static synchronized void configure(boolean value) {
@@ -33,7 +34,13 @@ public final class ModUpdates {
     }
 
     public static synchronized void tick() {
-        if (!enabled || running || ready != null || System.nanoTime() < nextCheck) return;
+        var client = Minecraft.getInstance();
+        if (client.player == null || client.gui == null) return;
+        if (availableVersion != null && !availableVersion.equals(announcedVersion)) {
+            client.gui.getChat().addClientSystemMessage(SapphireNotifications.status("Sapphire有新更新，请及时下载新版本mod。"));
+            announcedVersion = availableVersion;
+        }
+        if (running || ready != null || System.nanoTime() < nextCheck) return;
         long request = generation;
         running = true;
         Thread.ofPlatform().daemon().name("Sapphire mod update").start(() -> {
@@ -87,10 +94,6 @@ public final class ModUpdates {
         String installed = mod.getMetadata().getVersion().getFriendlyString();
         String game = loader.getModContainer("minecraft").orElseThrow().getMetadata().getVersion().getFriendlyString();
         if (!game.matches("[0-9.]+") || loader.isDevelopmentEnvironment()) return;
-        var paths = mod.getOrigin().getPaths();
-        if (paths.size() != 1) return;
-        Path target = paths.getFirst().toAbsolutePath().normalize();
-        if (!Files.isRegularFile(target, LinkOption.NOFOLLOW_LINKS) || !target.getParent().equals(loader.getGameDir().resolve("mods").toAbsolutePath().normalize())) return;
         String json;
         try (var in = open("latest.json")) {
             byte[] bytes = in.readNBytes(32769);
@@ -108,6 +111,15 @@ public final class ModUpdates {
         long size = entry.get("size").getAsLong();
         if (!name.equals(entry.get("name").getAsString()) || !sha.matches("[a-f0-9]{64}") || size <= 0 || size > LIMIT)
             throw new IOException("Invalid mod release metadata");
+        synchronized (ModUpdates.class) {
+            if (request != generation) return;
+            availableVersion = version;
+            if (!enabled) return;
+        }
+        var paths = mod.getOrigin().getPaths();
+        if (paths.size() != 1) return;
+        Path target = paths.getFirst().toAbsolutePath().normalize();
+        if (!Files.isRegularFile(target, LinkOption.NOFOLLOW_LINKS) || !target.getParent().equals(loader.getGameDir().resolve("mods").toAbsolutePath().normalize())) return;
         if (!current(request)) return;
         notice(request, "检测到 Sapphire " + version + "，正在下载更新……");
         Path folder = Sapphire.ROOT.resolve("mod-update");

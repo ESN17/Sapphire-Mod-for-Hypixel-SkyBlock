@@ -111,6 +111,717 @@
       "styleMappings": {
         "LEGENDARY": "传说"
       }
+    },
+    {
+      "source": [
+        "࿉ Festive Sinker"
+      ],
+      "translation": "࿉ 节日沉子",
+      "styleMappings": {
+        "Festive Sinker": "节日沉子"
+      }
+    },
+    {
+      "source": [
+        "Festive Sinker"
+      ],
+      "translation": "节日沉子",
+      "styleMappings": {
+        "Festive Sinker": "节日沉子"
+      }
+    },
+    {
+      "source": [
+        "Grants a small chance to catch Gifts",
+        "during the Season of Jerry."
+      ],
+      "translation": "在杰瑞季期间有几率钓到礼物.",
+      "styleMappings": {
+        "Season of Jerry": "杰瑞季",
+        "chance": "几率",
+        "Gifts": "礼物",
+        "Jerry": "杰瑞",
+        "chance to": "几率"
+      }
+    },
+    {
+      "source": [
+        "࿉ Icy Sinker"
+      ],
+      "translation": "࿉ 寒冰坠子",
+      "styleMappings": {
+        "Icy Sinker": "寒冰坠子"
+      }
+    },
+    {
+      "source": [
+        "Icy Sinker"
+      ],
+      "translation": "寒冰坠子",
+      "styleMappings": {
+        "Icy Sinker": "寒冰坠子"
+      }
+    },
+    {
+      "source": [
+        "Materializes Ice in your inventory",
+        "whenever you catch something."
+      ],
+      "translation": "每次钓到东西时,都会在你的物品栏中生成冰.",
+      "styleMappings": {
+        "Ice": "冰"
+      }
+    },
+    {
+      "source": [
+        "࿉ Hotspot Sinker"
+      ],
+      "translation": "࿉ 热点沉子",
+      "styleMappings": {
+        "Hotspot Sinker": "热点沉子"
+      }
+    },
+    {
+      "source": [
+        "Hotspot Sinker"
+      ],
+      "translation": "热点沉子",
+      "styleMappings": {
+        "Hotspot Sinker": "热点沉子"
+      }
+    },
+    {
+      "source": [
+        "Increases the bonuses of Fishing",
+        "Hotspots by {{N0}}."
+      ],
+      "translation": "将钓鱼热点的加成提高 {{N0}}.",
+      "styleMappings": {
+        "Fishing Hotspots": "钓鱼热点",
+        "Fishing": "钓鱼",
+        "Hotspots": "热点"
+      }
+    },
+    {
+      "source": [
+        "࿉ Junk Sinker"
+      ],
+      "translation": "࿉ 垃圾沉子",
+      "styleMappings": {
+        "Junk Sinker": "垃圾沉子"
+      }
+    },
+    {
+      "source": [
+        "Junk Sinker"
+      ],
+      "translation": "垃圾沉子",
+      "styleMappings": {
+        "Junk Sinker": "垃圾沉子"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Treasure Chance while",
+        "in the Backwater Bayou but replaces",
+        "all Treasure catches with Junk!"
+      ],
+      "translation": "在静水河湾中提供 {{N0}} 宝藏概率,但会将所有宝藏渔获替换为垃圾!",
+      "styleMappings": {
+        "Backwater Bayou": "静水河湾",
+        "Treasure Chance": "宝藏概率",
+        "Treasure": "宝藏",
+        "Grants": "提供",
+        "Junk": "垃圾"
+      }
+    },
+    {
+      "source": [
+        "࿉ Prismarine Sinker"
+      ],
+      "translation": "࿉ 海晶石沉子",
+      "styleMappings": {
+        "Prismarine Sinker": "海晶石沉子"
+      }
+    },
+    {
+      "source": [
+        "Prismarine Sinker"
+      ],
+      "translation": "海晶石沉子",
+      "styleMappings": {
+        "Prismarine Sinker": "海晶石沉子"
+      }
+    },
+    {
+      "source": [
+        "Materializes Prismarine Shard or",
+        "Prismarine Crystals in your",
+        "inventory whenever you catch",
+        "something."
+      ],
+      "translation": "每次钓到东西时,都会在你的物品栏中生成海晶碎片或海晶砂粒.",
+      "styleMappings": {
+        "Prismarine Crystals": "海晶砂粒",
+        "Prismarine Shard": "海晶碎片",
+        "Shard": "碎片",
+        "Prismarine": "海晶石"
+      }
+    },
+    {
+      "source": [
+        "࿉ Chum Sinker"
+      ],
+      "translation": "࿉ 诱饵沉子",
+      "styleMappings": {
+        "Chum Sinker": "诱饵沉子"
+      }
+    },
+    {
+      "source": [
+        "Chum Sinker"
+      ],
+      "translation": "诱饵沉子",
+      "styleMappings": {
+        "Chum Sinker": "诱饵沉子"
+      }
+    },
+    {
+      "source": [
+        "Materializes Chum in your inventory",
+        "whenever you catch something."
+      ],
+      "translation": "每次钓到东西时,都会在你的物品栏中生成诱鱼料.",
+      "styleMappings": {
+        "Chum": "诱鱼料"
+      }
+    },
+    {
+      "source": [
+        "࿉ Stingy Sinker"
+      ],
+      "translation": "࿉ 吝啬沉子",
+      "styleMappings": {
+        "Stingy Sinker": "吝啬沉子"
+      }
+    },
+    {
+      "source": [
+        "Stingy Sinker"
+      ],
+      "translation": "吝啬沉子",
+      "styleMappings": {
+        "Stingy Sinker": "吝啬沉子"
+      }
+    },
+    {
+      "source": [
+        "Grants a {{N0}} chance to not consume",
+        "Bait."
+      ],
+      "translation": "有 {{N0}} 概率不消耗鱼饵.",
+      "styleMappings": {
+        "chance to not consume": "概率不消耗",
+        "Bait": "鱼饵",
+        "chance": "概率",
+        "chance to": "概率"
+      }
+    },
+    {
+      "source": [
+        "࿉ Sponge Sinker"
+      ],
+      "translation": "࿉ 海绵沉子",
+      "styleMappings": {
+        "Sponge Sinker": "海绵沉子"
+      }
+    },
+    {
+      "source": [
+        "Sponge Sinker"
+      ],
+      "translation": "海绵沉子",
+      "styleMappings": {
+        "Sponge Sinker": "海绵沉子"
+      }
+    },
+    {
+      "source": [
+        "Materializes Sponge in your",
+        "inventory whenever you catch",
+        "something."
+      ],
+      "translation": "每次钓到东西时,都会在你的物品栏中生成海绵.",
+      "styleMappings": {
+        "Sponge": "海绵"
+      }
+    },
+    {
+      "source": [
+        "࿉ Lotus Sinker"
+      ],
+      "translation": "࿉ 莲花沉子",
+      "styleMappings": {
+        "Lotus Sinker": "莲花沉子"
+      }
+    },
+    {
+      "source": [
+        "Lotus Sinker"
+      ],
+      "translation": "莲花沉子",
+      "styleMappings": {
+        "Lotus Sinker": "莲花沉子"
+      }
+    },
+    {
+      "source": [
+        "Materializes Lotus in your inventory",
+        "whenever you catch something."
+      ],
+      "translation": "每次钓到东西时,都会在你的物品栏中生成莲花.",
+      "styleMappings": {
+        "Lotus": "莲花"
+      }
+    },
+    {
+      "source": [
+        "ථ Common Hook"
+      ],
+      "translation": "ථ 普通鱼钩",
+      "styleMappings": {
+        "Common Hook": "普通鱼钩"
+      }
+    },
+    {
+      "source": [
+        "Common Hook"
+      ],
+      "translation": "普通鱼钩",
+      "styleMappings": {
+        "Common Hook": "普通鱼钩"
+      }
+    },
+    {
+      "source": [
+        "Increases the chance to catch",
+        "COMMON Sea Creatures by {{N0}}."
+      ],
+      "translation": "钓到普通海怪的概率提高 {{N0}}。",
+      "styleMappings": {
+        "COMMON": "普通",
+        "Sea Creatures": "海怪"
+      }
+    },
+    {
+      "source": [
+        "ථ Treasure Hook"
+      ],
+      "translation": "ථ 宝藏鱼钩",
+      "styleMappings": {
+        "Treasure Hook": "宝藏鱼钩"
+      }
+    },
+    {
+      "source": [
+        "Treasure Hook"
+      ],
+      "translation": "宝藏鱼钩",
+      "styleMappings": {
+        "Treasure Hook": "宝藏鱼钩"
+      }
+    },
+    {
+      "source": [
+        "Only allows you to catch items and",
+        "Treasure."
+      ],
+      "translation": "只能让你钓到物品和宝藏.",
+      "styleMappings": {
+        "items": "物品",
+        "Treasure": "宝藏"
+      }
+    },
+    {
+      "source": [
+        "ථ Puddle Jumper Hook"
+      ],
+      "translation": "ථ 水坑跳跃者钩",
+      "styleMappings": {
+        "Puddle Jumper Hook": "水坑跳跃者钩"
+      }
+    },
+    {
+      "source": [
+        "Puddle Jumper Hook"
+      ],
+      "translation": "水坑跳跃者钩",
+      "styleMappings": {
+        "Puddle Jumper Hook": "水坑跳跃者钩"
+      }
+    },
+    {
+      "source": [
+        "Increases the chance to catch a",
+        "Puddle Jumper by {{N0}}."
+      ],
+      "translation": "增加 {{N0}} 捕获水坑跳跃者的概率.",
+      "styleMappings": {
+        "Puddle Jumper": "水坑跳跃者",
+        "Increases": "增加",
+        "chance to": "概率",
+        "chance": "概率"
+      }
+    },
+    {
+      "source": [
+        "ථ Spooky Hook"
+      ],
+      "translation": "ථ 幽灵鱼钩",
+      "styleMappings": {
+        "Spooky Hook": "幽灵鱼钩"
+      }
+    },
+    {
+      "source": [
+        "Spooky Hook"
+      ],
+      "translation": "幽灵鱼钩",
+      "styleMappings": {
+        "Spooky Hook": "幽灵鱼钩"
+      }
+    },
+    {
+      "source": [
+        "Grants a {{N0}} chance to catch",
+        "Spooky Sea Creatures during the",
+        "Spooky Festival."
+      ],
+      "translation": "在幽灵节期间获得 {{N0}} 概率钓到幽灵海洋生物.",
+      "styleMappings": {
+        "Spooky Sea Creatures": "幽灵海洋生物",
+        "Spooky Festival": "幽灵节",
+        "chance to": "概率",
+        "Grants": "获得",
+        "Sea Creatures": "海洋生物",
+        "chance": "概率",
+        "Spooky": "幽灵"
+      }
+    },
+    {
+      "source": [
+        "ථ Hotspot Hook"
+      ],
+      "translation": "ථ 热点鱼钩",
+      "styleMappings": {
+        "Hotspot Hook": "热点鱼钩"
+      }
+    },
+    {
+      "source": [
+        "Hotspot Hook"
+      ],
+      "translation": "热点鱼钩",
+      "styleMappings": {
+        "Hotspot Hook": "热点鱼钩"
+      }
+    },
+    {
+      "source": [
+        "Grants a {{N0}} chance to catch",
+        "Hotspot Sea Creatures while fishing",
+        "in a Hotspot."
+      ],
+      "translation": "在热点钓鱼时,有 {{N0}} 概率钓到热点海怪.",
+      "styleMappings": {
+        "Hotspot Sea Creatures": "热点海怪",
+        "chance to": "概率",
+        "Hotspot": "热点",
+        "fishing": "钓鱼",
+        "Sea Creatures": "海怪",
+        "chance": "概率"
+      }
+    },
+    {
+      "source": [
+        "ꨃ Shredded Line"
+      ],
+      "translation": "ꨃ 碎裂钓线",
+      "styleMappings": {
+        "Shredded Line": "碎裂钓线"
+      }
+    },
+    {
+      "source": [
+        "Shredded Line"
+      ],
+      "translation": "碎裂钓线",
+      "styleMappings": {
+        "Shredded Line": "碎裂钓线"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Damage and {{N1}}",
+        "Ferocity."
+      ],
+      "translation": "提供 {{N0}} 伤害和 {{N1}} 残暴值.",
+      "styleMappings": {
+        "Ferocity": "残暴值",
+        " Damage": " 伤害",
+        "Grants": "提供",
+        "Damage": "伤害"
+      }
+    },
+    {
+      "source": [
+        "ꨃ Trophy Line"
+      ],
+      "translation": "ꨃ 奖杯钓线",
+      "styleMappings": {
+        "Trophy Line": "奖杯钓线"
+      }
+    },
+    {
+      "source": [
+        "Trophy Line"
+      ],
+      "translation": "奖杯钓线",
+      "styleMappings": {
+        "Trophy Line": "奖杯钓线"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Trophy Chance."
+      ],
+      "translation": "提供 {{N0}} 奖杯概率.",
+      "styleMappings": {
+        "Trophy Chance": "奖杯概率",
+        "Grants": "提供",
+        "Trophy": "奖杯"
+      }
+    },
+    {
+      "source": [
+        "ꨃ Titan Line"
+      ],
+      "translation": "ꨃ 泰坦钓线",
+      "styleMappings": {
+        "Titan Line": "泰坦钓线"
+      }
+    },
+    {
+      "source": [
+        "Titan Line"
+      ],
+      "translation": "泰坦钓线",
+      "styleMappings": {
+        "Titan Line": "泰坦钓线"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Double Hook Chance."
+      ],
+      "translation": "提供 {{N0}} 双钩概率.",
+      "styleMappings": {
+        "Double Hook Chance": "双钩概率",
+        "Grants": "提供"
+      }
+    },
+    {
+      "source": [
+        "ꨃ Speedy Line"
+      ],
+      "translation": "ꨃ 迅捷钓线",
+      "styleMappings": {
+        "Speedy Line": "迅捷钓线"
+      }
+    },
+    {
+      "source": [
+        "Speedy Line"
+      ],
+      "translation": "迅捷钓线",
+      "styleMappings": {
+        "Speedy Line": "迅捷钓线"
+      }
+    },
+    {
+      "source": [
+        "Grants {{N0}} Fishing Speed."
+      ],
+      "translation": "提供 {{N0}} 钓鱼速度.",
+      "styleMappings": {
+        "Fishing Speed": "钓鱼速度",
+        "Grants": "提供",
+        "Fishing": "钓鱼",
+        "Speed": "速度",
+        " Fishing Speed": " 钓鱼速度"
+      }
+    },
+    {
+      "source": [
+        "{icon1} Festive Sinker"
+      ],
+      "translation": "{icon1} 节日沉子",
+      "styleMappings": {
+        "Festive Sinker": "节日沉子"
+      }
+    },
+    {
+      "source": [
+        "{icon1} Icy Sinker"
+      ],
+      "translation": "{icon1} 寒冰坠子",
+      "styleMappings": {
+        "Icy Sinker": "寒冰坠子"
+      }
+    },
+    {
+      "source": [
+        "{icon1} Hotspot Sinker"
+      ],
+      "translation": "{icon1} 热点沉子",
+      "styleMappings": {
+        "Hotspot Sinker": "热点沉子"
+      }
+    },
+    {
+      "source": [
+        "{icon1} Junk Sinker"
+      ],
+      "translation": "{icon1} 垃圾沉子",
+      "styleMappings": {
+        "Junk Sinker": "垃圾沉子"
+      }
+    },
+    {
+      "source": [
+        "{icon1} Prismarine Sinker"
+      ],
+      "translation": "{icon1} 海晶石沉子",
+      "styleMappings": {
+        "Prismarine Sinker": "海晶石沉子"
+      }
+    },
+    {
+      "source": [
+        "{icon1} Chum Sinker"
+      ],
+      "translation": "{icon1} 诱饵沉子",
+      "styleMappings": {
+        "Chum Sinker": "诱饵沉子"
+      }
+    },
+    {
+      "source": [
+        "{icon1} Stingy Sinker"
+      ],
+      "translation": "{icon1} 吝啬沉子",
+      "styleMappings": {
+        "Stingy Sinker": "吝啬沉子"
+      }
+    },
+    {
+      "source": [
+        "{icon1} Sponge Sinker"
+      ],
+      "translation": "{icon1} 海绵沉子",
+      "styleMappings": {
+        "Sponge Sinker": "海绵沉子"
+      }
+    },
+    {
+      "source": [
+        "{icon1} Lotus Sinker"
+      ],
+      "translation": "{icon1} 莲花沉子",
+      "styleMappings": {
+        "Lotus Sinker": "莲花沉子"
+      }
+    },
+    {
+      "source": [
+        "{icon1} Common Hook"
+      ],
+      "translation": "{icon1} 普通鱼钩",
+      "styleMappings": {
+        "Common Hook": "普通鱼钩"
+      }
+    },
+    {
+      "source": [
+        "{icon1} Treasure Hook"
+      ],
+      "translation": "{icon1} 宝藏鱼钩",
+      "styleMappings": {
+        "Treasure Hook": "宝藏鱼钩"
+      }
+    },
+    {
+      "source": [
+        "{icon1} Puddle Jumper Hook"
+      ],
+      "translation": "{icon1} 水坑跳跃者钩",
+      "styleMappings": {
+        "Puddle Jumper Hook": "水坑跳跃者钩"
+      }
+    },
+    {
+      "source": [
+        "{icon1} Spooky Hook"
+      ],
+      "translation": "{icon1} 幽灵鱼钩",
+      "styleMappings": {
+        "Spooky Hook": "幽灵鱼钩"
+      }
+    },
+    {
+      "source": [
+        "{icon1} Hotspot Hook"
+      ],
+      "translation": "{icon1} 热点鱼钩",
+      "styleMappings": {
+        "Hotspot Hook": "热点鱼钩"
+      }
+    },
+    {
+      "source": [
+        "{icon1} Shredded Line"
+      ],
+      "translation": "{icon1} 碎裂钓线",
+      "styleMappings": {
+        "Shredded Line": "碎裂钓线"
+      }
+    },
+    {
+      "source": [
+        "{icon1} Trophy Line"
+      ],
+      "translation": "{icon1} 奖杯钓线",
+      "styleMappings": {
+        "Trophy Line": "奖杯钓线"
+      }
+    },
+    {
+      "source": [
+        "{icon1} Titan Line"
+      ],
+      "translation": "{icon1} 泰坦钓线",
+      "styleMappings": {
+        "Titan Line": "泰坦钓线"
+      }
+    },
+    {
+      "source": [
+        "{icon1} Speedy Line"
+      ],
+      "translation": "{icon1} 迅捷钓线",
+      "styleMappings": {
+        "Speedy Line": "迅捷钓线"
+      }
     }
   ],
   "styleMappings": {

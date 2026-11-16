@@ -98,6 +98,8 @@ public final class ItemTranslationService {
         int options=(itemRules?1:0)|(menu!=null?2:0)|(Sapphire.CONFIG.lore?4:0)|(Sapphire.CONFIG.showOriginal?8:0)|(Sapphire.canCollect()?16:0);
         boolean captureUi=menu!=null && com.sorakoi.sbtranslate.collection.ChatCapture.uiActive() && UiCapture.publicMenu(menuTitle,publicLocation);
         if(captureUi) options |= 32;
+        boolean book=isEnchantedBook(stack);
+        if(book) options |= 64;
         var identity=ItemIdResolver.resolve(stack);
         String id=Sapphire.NEU.resolve(identity.variantId());
         var key=new TooltipDisplayCache.Key(Sapphire.TRANSLATIONS,Sapphire.TRANSLATIONS.revision(),id,menuTitle,options,
@@ -118,7 +120,7 @@ public final class ItemTranslationService {
         if (itemRules && Sapphire.CONFIG.lore || menu!=null) {
             var neu=Sapphire.NEU.get(id);
             boolean wikiLore=menu!=null || neu!=null && neu.lore().stream().anyMatch(line->line.contains("Rift-Transferable") || line.contains("Rift-Exportable") || line.contains("Rift-Importable"));
-            var result=LoreTranslationEngine.translate(List.copyOf(lines.subList(1,lines.size())),Sapphire.TRANSLATIONS,id,ItemTranslationService::wrap,Sapphire.CONFIG.showOriginal,isEnchantedBook(stack),itemRules && Sapphire.CONFIG.lore,GuiTranslationEngine.tooltipRules(tooltipMenu,before,Sapphire.TRANSLATIONS),line->GuiTranslationEngine.detailLine(line,tooltipMenu,Sapphire.TRANSLATIONS),line->wikiLore?CommunityTranslationEngine.translate(line,"tooltip",Sapphire.TRANSLATIONS):line,line->wikiLore?Sapphire.TRANSLATIONS.community().candidates("tooltip",TranslationManager.plain(line.getString())):List.of());
+            var result=LoreTranslationEngine.translate(List.copyOf(lines.subList(1,lines.size())),Sapphire.TRANSLATIONS,id,ItemTranslationService::wrap,Sapphire.CONFIG.showOriginal,book,itemRules && Sapphire.CONFIG.lore,GuiTranslationEngine.tooltipRules(tooltipMenu,before,Sapphire.TRANSLATIONS),line->GuiTranslationEngine.detailLine(line,tooltipMenu,Sapphire.TRANSLATIONS),line->wikiLore?CommunityTranslationEngine.translate(line,"tooltip",Sapphire.TRANSLATIONS):line,line->wikiLore?Sapphire.TRANSLATIONS.community().candidates("tooltip",TranslationManager.plain(line.getString())):List.of());
             if(captureUi && Sapphire.CONFIG.showOriginal && !result.missing().isEmpty()) {
                 var untranslated=new HashSet<>(result.missing());
                 for(var line:lines.subList(1,lines.size()))
@@ -157,7 +159,7 @@ public final class ItemTranslationService {
         return null;
     }
     private static boolean isEnchantedBook(ItemStack stack) {
-        return "ENCHANTED_BOOK".equals(ItemIdResolver.resolve(stack).skyblockId());
+        return stack.is(net.minecraft.world.item.Items.ENCHANTED_BOOK) || "ENCHANTED_BOOK".equals(ItemIdResolver.resolve(stack).skyblockId());
     }
     private static List<Component> wrap(Component translated,List<Component> originals) {
         var client=net.minecraft.client.Minecraft.getInstance(); var font=client.font;
@@ -182,10 +184,10 @@ public final class ItemTranslationService {
         boolean named=name(stack,name)!=name; collect(stack,name,named,result.missing(),result.changed()||named);
     }
     private static void collect(ItemStack stack,Component name,boolean named,List<String> missing,boolean changed) {
-        if(!Sapphire.canCollect()) return;
+        if(!Sapphire.canCollect() || !Sapphire.active("item")) return;
         var identity=ItemIdResolver.resolve(stack); String id=Sapphire.NEU.resolve(identity.variantId()); var neu=Sapphire.NEU.get(id);
         // Never persist arbitrary custom item text. NEU reference text and reviewed numeric rules are safe sources.
-        List<String> safe=missing.stream().filter(s -> (neu!=null && neu.lore().contains(s)) || Sapphire.POLICY.allows("item",s)).limit(64).toList();
+        List<String> safe=!Sapphire.CONFIG.lore ? List.of() : missing.stream().filter(s -> (neu!=null && neu.lore().contains(s)) || Sapphire.POLICY.allows("item",s)).limit(64).toList();
         String original=neu!=null ? neu.name() : "";
         List<String> toSave=new ArrayList<>(safe); if(!named && !original.isBlank()) toSave.addFirst(original);
         if(toSave.isEmpty()) return;

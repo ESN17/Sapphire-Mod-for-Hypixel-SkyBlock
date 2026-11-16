@@ -14,6 +14,118 @@ class GuiTranslationTest {
     @TempDir Path root;
     @BeforeAll static void load() throws Exception {manager=new TranslationManager();manager.load(Path.of("src/main/resources/defaults"));}
     @AfterAll static void release() {manager=null;}
+    @Test void winterChatWithStyledEllipsesAndGiftProgress() {
+        var click = new ClickEvent.OpenUrl(java.net.URI.create("https://example.org/"));
+        for (boolean twice : List.of(false,true)) {
+            for (var phrase : List.of(
+                    List.of("Frozen Steve fell into the pond long ago, never to ","resurface...until"," now!","浮出水面……直到"),
+                    List.of("The Grinch stole Jerry's ","Gifts...get"," them back!","礼物……把"))) {
+                var original = Component.empty().withStyle(ChatFormatting.GREEN);
+                if (twice) original.append(Component.literal("DOUBLE HOOK! ").withStyle(ChatFormatting.YELLOW,ChatFormatting.BOLD));
+                original.append(phrase.get(0)).append(Component.literal(phrase.get(1)).withStyle(s -> s.withClickEvent(click))).append(phrase.get(2));
+                var result = SystemTranslationEngine.translate(original,"chat",manager);
+                assertFalse(result.getString().matches(".*[A-Za-z].*"),result.getString());
+                assertEquals(twice,result.getString().startsWith("一竿双钓！"));
+                var linked = new StringBuilder();
+                result.visit((style,text)->{if(click.equals(style.getClickEvent())) linked.append(text);return Optional.empty();},Style.EMPTY);
+                assertEquals(phrase.get(3),linked.toString());
+            }
+        }
+        for (var color : List.of("White","Green","Red")) {
+            var gift = Component.empty().withStyle(ChatFormatting.GREEN)
+                .append(Component.literal("GIFT!").withStyle(ChatFormatting.BOLD))
+                .append(" You found a ").append(Component.literal(color+" Gift").withStyle(ChatFormatting.WHITE))
+                .append("! ").append(Component.literal("(").withStyle(ChatFormatting.GRAY))
+                .append(Component.literal("3").withStyle(ChatFormatting.WHITE)).append(Component.literal("/").withStyle(ChatFormatting.GRAY))
+                .append("20").append(Component.literal(")").withStyle(ChatFormatting.GRAY));
+            assertEquals("发现礼物！你找到了"+manager.knownItemName(color+" Gift")+"！ (3/20)",
+                SystemTranslationEngine.translate(gift,"chat",manager).getString());
+        }
+    }
+    @Test void apiFallbackRemainsAvailableWhenAnOfflineMatchCannotRender() {
+        // This split has no equivalent literal style mapping in the Chinese sentence.
+        var original = Component.literal("Frozen Steve fell into the ").withStyle(ChatFormatting.GREEN)
+            .append(Component.literal("pond").withStyle(ChatFormatting.RED))
+            .append(" long ago, never to resurface...until now!");
+        assertNotNull(SystemTranslationEngine.match(original.getString(),"chat",manager));
+        assertSame(original,SystemTranslationEngine.translate(original,"chat",manager));
+        assertFalse(com.sorakoi.sbtranslate.client.OnlineChatTranslation.usesLocalDictionary(original,manager));
+    }
+    @Test void installedFishingPartsUseTheRodTooltip() throws Exception {
+        var ids = List.of("COMMON_HOOK","TREASURE_HOOK","PUDDLE_JUMPER_HOOK","PHANTOM_HOOK","HOTSPOT_HOOK",
+                "SHREDDED_LINE","TROPHY_LINE","TITAN_LINE","SPEEDY_LINE","FESTIVE_SINKER","ICY_SINKER",
+                "HOTSPOT_SINKER","JUNK_SINKER","PRISMARINE_SINKER","CHUM_SINKER","STINGY_SINKER","SPONGE_SINKER","LOTUS_SINKER");
+        for (var id : ids) {
+            var data = com.google.gson.JsonParser.parseString(Files.readString(Path.of(
+                    "src/main/resources/defaults/translations/items",id+".json"))).getAsJsonObject();
+            var en = data.get("_original_name").getAsString();
+            var glyph = en.endsWith("Hook") ? "ථ" : en.endsWith("Line") ? "ꨃ" : "࿉";
+            List<Component> lines = new ArrayList<>();
+            lines.add(Component.literal(glyph+" "+en));
+            for (var line : data.getAsJsonArray("_original_lore")) {
+                if (line.getAsString().isBlank()) break;
+                lines.add(Component.literal(line.getAsString()));
+            }
+            var out = LoreTranslationEngine.translate(lines,manager,"ROD_OF_THE_SEA",(s,l)->List.of(s),false);
+            assertEquals(glyph+" "+data.get("name").getAsString(),out.lines().getFirst().getString(),id);
+            assertTrue(out.missing().isEmpty(),id+" "+out.missing());
+            assertTrue(out.lines().size()>=2,id);
+        }
+    }
+    @Test void bestiaryAndStatDetailsFromReleaseScreenshots() {
+        var menu = new GuiTranslationEngine.Menu("server-navigation", List.of(), List.of(), Map.of());
+        var examples = Map.ofEntries(
+            Map.entry("✎ Category: Basic", "✎ 类别：基础"),
+            Map.entry("Value: +397✎", "数值：+397✎"),
+            Map.entry("+350✎ Base Value", "+350✎ 基础数值"),
+            Map.entry("+35✎ Stars", "+35✎ 星级"),
+            Map.entry("+5✎ Beastslayer's Codex Passive", "+5✎ 屠兽者法典被动加成"),
+            Map.entry("Stats which are built into each item.", "这些属性由物品本身提供。"),
+            Map.entry("Mob Type: ✰ Humanoid", "生物类型：✰ 人形"),
+            Map.entry("Your [Lv62] Executive Wendy Stats:", "你的[等级 62] 主管温蒂统计："),
+            Map.entry("Mob Types: ⛏ Subterranean, ⛨ Shielded", "生物类型: ⛏ 地下, ⛨ 护盾"),
+            Map.entry("Stoneworm Bonuses", "石虫加成"),
+            Map.entry("Tier XII Rewards", "XII 级奖励"),
+            Map.entry("+4 Stoneworm ✯ Magic Find", "+4 石虫 ✯ 稀有物品概率加成"),
+            Map.entry("Families Completed: 17.1%", "已完成的生物家族：17.1%"));
+        examples.forEach((english, chinese) -> assertEquals(chinese,
+            GuiTranslationEngine.detailLine(Component.literal(english), menu, manager).getString(), english));
+        var rendered = lore("Bestiary", "View all of the mobs that you've", "found and killed in The Catacombs.");
+        assertTrue(rendered.lines().stream().anyMatch(line -> line.getString().contains("地牢")));
+        var styled = Component.literal("+350✎").withStyle(ChatFormatting.AQUA)
+            .append(Component.literal(" Base Value").withStyle(ChatFormatting.WHITE));
+        var translated = GuiTranslationEngine.detailLine(styled, menu, manager);
+        var spans = new LinkedHashMap<String, Integer>();
+        translated.visit((style, value) -> {
+            if (!value.isBlank() && style.getColor() != null) spans.put(value.trim(), style.getColor().getValue());
+            return Optional.empty();
+        }, Style.EMPTY);
+        assertEquals(0x55FFFF, spans.get("+350✎"));
+        assertEquals(0xFFFFFF, spans.get("基础数值"));
+    }
+    @Test void huntingBoxMenuAndSkyHanniUseCatalogNames() {
+        var menu = GuiTranslationEngine.menu("(4/12) Hunting Box", manager);
+        assertNotNull(menu);
+        assertEquals("狩猎箱", GuiTranslationEngine.title(Component.literal("Hunting Box"), manager).getString());
+        assertEquals("莲鱼", GuiTranslationEngine.button(Component.literal("Lotusfish"), menu).getString());
+        for (var example : Map.of("Tropical Fish Family", "热带鱼家族", "Owned: 2,170 Shards", "持有：2,170 个碎片",
+                "Attribute Maxed!", "属性已满级！", "COMMON WATER SHARD (ID C26)", "普通水生碎片 (ID C26)",
+                "Lotus Trophy X (Fishing)", "莲花奖杯 X（钓鱼）", "Shards Sell Price: 429,301.0 Coins","碎片卖价：429,301.0 硬币").entrySet())
+            assertEquals(example.getValue(), GuiTranslationEngine.detailLine(Component.literal(example.getKey()),menu,manager).getString());
+        var description = lore("Hunting Box","Lotusfish follow a strict diet","consisting only of the various","lotuses found around the Atoll.",
+                "Grants +10 ♔ Trophy Chance while","in the Lotus Atoll.");
+        assertEquals(List.of("莲鱼只以环礁周围的各类莲花为食。","在莲花环礁，♔ 奖杯概率提高 +10。"),
+                description.lines().stream().map(Component::getString).toList());
+        var live = new com.sorakoi.sbtranslate.compat.SkyHanniLiveTranslation();
+        var dictionary = new com.sorakoi.sbtranslate.compat.SkyHanniDictionary(Map.of());
+        for (String shard : List.of("Bogged Shard","Haggard Shard","Lotusfish Shard","Tank Zombie Shard")) {
+            String name = manager.knownItemName(shard);
+            assertNotNull(name,shard);
+            var line = Component.literal(shard).append(Component.literal(" x5530").withStyle(ChatFormatting.GRAY));
+            assertEquals(name+" x5530",live.translate(line,manager,dictionary).getString());
+        }
+        assertEquals("立即卖出总价：13,842,412",live.translate(Component.literal("Total Instant Sell Value: 13,842,412"),manager,dictionary).getString());
+    }
     @Test void bestiaryLootUsesCatalogAndKeepsCounts(){
         var menu=new GuiTranslationEngine.Menu("server-navigation",List.of(),List.of(),Map.of());
         for(String row:List.of("▪ Enchanted Glacite x16-32","▪ Glacite Powder x10,000","▪ Glacite Amalgamation (2%)","▪ Littlefoot Fluff (0.2%)","Mob Types: ❄ Glacial, ✦ Humanoid, ⚲ Elusive","Health: 25,000,000❤","Your [Lv508] Littlefoot Stats:")){

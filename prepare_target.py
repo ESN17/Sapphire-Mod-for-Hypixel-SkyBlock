@@ -1,4 +1,4 @@
-"""Create an isolated build tree for one of the three Sapphire 1.2.0 binaries. Python 3.8+."""
+"""Create an isolated build tree for one of the three Sapphire 1.2.1 binaries. Python 3.8+."""
 import argparse
 import json
 from pathlib import Path
@@ -37,7 +37,7 @@ def main():
     if overlay.is_dir():
         shutil.copytree(overlay, dest / "src", dirs_exist_ok=True)
     with (dest / "build.gradle").open("a", encoding="utf8") as file:
-        file.write('\ntasks.withType(Jar).configureEach { archiveBaseName = "sapphire"; archiveVersion = "1.2.0-mc' + mc + '" }\n')
+        file.write('\ntasks.withType(Jar).configureEach { archiveBaseName = "sapphire"; archiveVersion = "1.2.1-mc' + mc + '" }\n')
     print(dest)
 
 

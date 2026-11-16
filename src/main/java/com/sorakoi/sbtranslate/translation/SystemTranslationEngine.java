@@ -73,7 +73,13 @@ public final class SystemTranslationEngine {
                         }
                     }
                     if(variable.equals("name") && translated==null && scope.equals("tablist"))translated=manager.scope("tablist").get(piece.text());
-                    if(variable.equals("location"))translated=lookup(manager.scope("locations"),piece.text());
+                    if(variable.equals("location")) {
+                        if(text.startsWith("HOPPITY'S HUNT You found a Chocolate ")) {
+                            var hint=manager.community().get("system","",piece.text());
+                            if(hint!=null)translated=hint.translation();
+                        }
+                        if(translated==null)translated=lookup(manager.scope("locations"),piece.text());
+                    }
                     if(variable.equals("event"))translated=lookup(manager.scope("mining-events"),piece.text());
                 }
                 if(mob && appendMob(piece,manager.scope("entity-names"),pieces,styles))continue;

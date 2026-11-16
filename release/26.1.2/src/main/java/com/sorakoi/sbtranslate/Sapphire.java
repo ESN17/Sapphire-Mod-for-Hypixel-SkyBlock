@@ -82,7 +82,7 @@ public final class Sapphire implements ClientModInitializer {
             com.sorakoi.sbtranslate.client.OnlineHudTranslation.tick();
             com.sorakoi.sbtranslate.client.SapphireRanks.tick(client);
             CONTEXT.tick(client);
-            if(CONTEXT.captureAllowed() && (CONFIG.collectChatCapture || CONFIG.collectUiCapture) && client.player!=null)
+            if(dictionariesReady() && CONTEXT.captureAllowed() && (CONFIG.captureChannel("chat") || CONFIG.captureChannel("gui")) && client.player!=null)
                 com.sorakoi.sbtranslate.collection.ChatCapture.startSession(client.getUser().getName());
             else com.sorakoi.sbtranslate.collection.ChatCapture.stop();
             var connection=client.getConnection();
@@ -93,7 +93,7 @@ public final class Sapphire implements ClientModInitializer {
             ticks++;
             com.sorakoi.sbtranslate.sync.ModUpdates.configure(CONFIG.modAutoUpdate);
             if(ticks % 20 == 0) com.sorakoi.sbtranslate.sync.ModUpdates.tick();
-            if(canCollect() && client.player!=null && CONFIG.items) {
+            if(canCollect() && client.player!=null && CONFIG.items && !CONFIG.englishByDefault) {
                 var slots=client.player.containerMenu.slots;
                 int count=Math.min(slots.size(),180);
                 int slice=Math.floorMod(ticks,20);
@@ -158,6 +158,7 @@ public final class Sapphire implements ClientModInitializer {
     }
     public static void saveConfig(){
         configRevision++;
+        ItemTranslationService.clearCaches();
         ChatDisplay.invalidateLayouts();
         var client=Minecraft.getInstance();if(client!=null && client.gui!=null)client.gui.getChat().rescaleChat();
         if(!CONFIG.enabled || !CONFIG.chat || !CONFIG.translationAllowed(CONTEXT.confirmed()))LLM.reset();
@@ -205,7 +206,7 @@ public final class Sapphire implements ClientModInitializer {
                 Minecraft.getInstance().execute(()->{
                     TRANSLATIONS=translations;NEU=neu;POLICY=policy;ItemTranslationService.clearCaches();com.sorakoi.sbtranslate.client.EntityNameDisplay.clear();ChatDisplay.invalidateLayouts();
                     // Do not undo settings changed in the UI while loading.
-                    if(configRevision==requestedConfig){CONFIG=config;if(COLLECTOR!=null)COLLECTOR.enabled(config.collectUntranslated);}
+                    if(configRevision==requestedConfig){CONFIG=config;if(COLLECTOR!=null)COLLECTOR.enabled(config.collectUntranslated);com.sorakoi.sbtranslate.collection.ChatCapture.configure(config);}
                     if(prepareDefaults)dictionaryStatus=installedVersion;
                     com.sorakoi.sbtranslate.collection.ChatCapture.retryPending();
                     initialized=true;
